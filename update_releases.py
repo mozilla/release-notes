@@ -24,13 +24,11 @@ def setup():
 
 
 def write_files(release_data):
-    count = 0
     for release in release_data:
         with OUTPUT_DIR.joinpath('%s.json' % release['slug']).open('w') as fp:
-            count += 1
-            json.dump(release, fp)
+            json.dump(release, fp, indent=2)
 
-    print('Wrote {} files'.format(count))
+    print('Wrote {} files'.format(len(release_data)))
 
 
 def main():
@@ -43,6 +41,4 @@ def main():
 
 
 if __name__ == '__main__':
-    print(RELEASES_URL)
-    print(OUTPUT_DIR)
     sys.exit(main())
