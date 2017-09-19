@@ -1,1 +1,39 @@
-{"product": "Firefox for iOS", "bug_list": "", "title": "Firefox for iOS 1.3 Release", "notes": [{"note": "Support third-party password managers", "tag": "New", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1162174}, {"note": "Request Desktop Site", "tag": "New", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": null}, {"note": "Various bug fixes and performance improvements\r\n", "tag": "Fixed", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": null}], "text": "", "release_date": "2015-12-18", "slug": "firefox-for-ios-1.3-release", "version": "1.3", "bug_search_url": "", "is_public": true, "system_requirements": "## Operating systems\r\n - iOS 8.2+\r\n - iOS 9\r\n", "channel": "Release"}
+{
+  "product": "Firefox for iOS",
+  "bug_list": "",
+  "title": "Firefox for iOS 1.3 Release",
+  "notes": [
+    {
+      "note": "Support third-party password managers",
+      "tag": "New",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1162174
+    },
+    {
+      "note": "Request Desktop Site",
+      "tag": "New",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": null
+    },
+    {
+      "note": "Various bug fixes and performance improvements\r\n",
+      "tag": "Fixed",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": null
+    }
+  ],
+  "text": "",
+  "release_date": "2015-12-18",
+  "slug": "firefox-for-ios-1.3-release",
+  "version": "1.3",
+  "bug_search_url": "",
+  "is_public": true,
+  "system_requirements": "## Operating systems\r\n - iOS 8.2+\r\n - iOS 9\r\n",
+  "channel": "Release"
+}

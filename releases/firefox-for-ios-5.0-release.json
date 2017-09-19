@@ -1,1 +1,87 @@
-{"product": "Firefox for iOS", "bug_list": "", "title": "Firefox for iOS 5.0 Release", "notes": [{"note": "Wish you hadn't tapped \"Close all Tabs?\" \"Undo\" to the rescue!", "tag": "New", "sort_num": 95, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1265819}, {"note": "Long-pressing on the Back/Forward buttons lets you leap through your history", "tag": "New", "sort_num": 90, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1186979}, {"note": "Sync Tabs and History...together at last!", "tag": "New", "sort_num": 85, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1250749}, {"note": "We've packaged the most useful tools in a new, easy-to-access menu. Try it out!", "tag": "New", "sort_num": 84, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1210109}, {"note": "Get to your favorite page fast by [setting it as your home page][1]\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/set-homepage-firefox-ios", "tag": "New", "sort_num": 83, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": null}, {"note": "Want to install the [Qwant search plug-in][1]? If you're in the UK, Germany or France, now you can. Enjoy!\r\n\r\n\r\n  [1]: https://www.qwant.com/", "tag": "New", "sort_num": 80, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1264707}, {"note": "Want more search engines? [Now you can add them from your favorite websites][1]\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/add-search-engines-firefox-ios", "tag": "New", "sort_num": 65, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": null}, {"note": "Untangle and go wireless! [Get things done quickly with these keyboard shortcuts][1]\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/keyboard-shortcuts-firefox-ios", "tag": "New", "sort_num": 60, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": null}, {"note": "If you\u2019re in China, you can now do cool things such as:\r\n\r\n - Set new tabs to open your home page. Yesss!\r\n - Customize your home screen, including top sites and panels.\r\n", "tag": "New", "sort_num": 50, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1277572}], "text": "", "release_date": "2016-07-26", "slug": "firefox-for-ios-5.0-release", "version": "5.0", "bug_search_url": "https://mzl.la/29n8GMK", "is_public": true, "system_requirements": "## Operating systems\r\n - iOS 8.2+\r\n - iOS 9\r\n", "channel": "Release"}
+{
+  "product": "Firefox for iOS",
+  "bug_list": "",
+  "title": "Firefox for iOS 5.0 Release",
+  "notes": [
+    {
+      "note": "Wish you hadn't tapped \"Close all Tabs?\" \"Undo\" to the rescue!",
+      "tag": "New",
+      "sort_num": 95,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1265819
+    },
+    {
+      "note": "Long-pressing on the Back/Forward buttons lets you leap through your history",
+      "tag": "New",
+      "sort_num": 90,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1186979
+    },
+    {
+      "note": "Sync Tabs and History...together at last!",
+      "tag": "New",
+      "sort_num": 85,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1250749
+    },
+    {
+      "note": "We've packaged the most useful tools in a new, easy-to-access menu. Try it out!",
+      "tag": "New",
+      "sort_num": 84,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1210109
+    },
+    {
+      "note": "Get to your favorite page fast by [setting it as your home page][1]\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/set-homepage-firefox-ios",
+      "tag": "New",
+      "sort_num": 83,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": null
+    },
+    {
+      "note": "Want to install the [Qwant search plug-in][1]? If you're in the UK, Germany or France, now you can. Enjoy!\r\n\r\n\r\n  [1]: https://www.qwant.com/",
+      "tag": "New",
+      "sort_num": 80,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1264707
+    },
+    {
+      "note": "Want more search engines? [Now you can add them from your favorite websites][1]\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/add-search-engines-firefox-ios",
+      "tag": "New",
+      "sort_num": 65,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": null
+    },
+    {
+      "note": "Untangle and go wireless! [Get things done quickly with these keyboard shortcuts][1]\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/keyboard-shortcuts-firefox-ios",
+      "tag": "New",
+      "sort_num": 60,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": null
+    },
+    {
+      "note": "If you\u2019re in China, you can now do cool things such as:\r\n\r\n - Set new tabs to open your home page. Yesss!\r\n - Customize your home screen, including top sites and panels.\r\n",
+      "tag": "New",
+      "sort_num": 50,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1277572
+    }
+  ],
+  "text": "",
+  "release_date": "2016-07-26",
+  "slug": "firefox-for-ios-5.0-release",
+  "version": "5.0",
+  "bug_search_url": "https://mzl.la/29n8GMK",
+  "is_public": true,
+  "system_requirements": "## Operating systems\r\n - iOS 8.2+\r\n - iOS 9\r\n",
+  "channel": "Release"
+}

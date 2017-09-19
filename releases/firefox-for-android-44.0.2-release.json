@@ -1,1 +1,39 @@
-{"product": "Firefox for Android", "bug_list": "", "title": "Firefox for Android 44.0.2 Release", "notes": [{"note": "Launch from homescreen bookmark always opens new tab and sometimes does nothing ([1245516][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1245516", "tag": "Fixed", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1245516}, {"note": "Adjust SDK is not configured to include play-services-analytics ([1233238][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1233238", "tag": "Fixed", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1233238}, {"note": "Various [security fixes][1] \r\n\r\n\r\n  [1]: https://www.mozilla.org/security/known-vulnerabilities/firefox/#firefox44.0.2", "tag": "Fixed", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": null}], "text": "<p>We'd also like to extend a special thank you to all of the <a href=\"http://blog.mozilla.org/community/2016/01/25/firefox-44-new-contributors//\">new Mozillians</a> who contributed to this release of Firefox!</p>\r\n", "release_date": "2016-02-11", "slug": "firefox-for-android-44.0.2-release", "version": "44.0.2", "bug_search_url": "", "is_public": true, "system_requirements": "", "channel": "Release"}
+{
+  "product": "Firefox for Android",
+  "bug_list": "",
+  "title": "Firefox for Android 44.0.2 Release",
+  "notes": [
+    {
+      "note": "Launch from homescreen bookmark always opens new tab and sometimes does nothing ([1245516][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1245516",
+      "tag": "Fixed",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1245516
+    },
+    {
+      "note": "Adjust SDK is not configured to include play-services-analytics ([1233238][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1233238",
+      "tag": "Fixed",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1233238
+    },
+    {
+      "note": "Various [security fixes][1] \r\n\r\n\r\n  [1]: https://www.mozilla.org/security/known-vulnerabilities/firefox/#firefox44.0.2",
+      "tag": "Fixed",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": null
+    }
+  ],
+  "text": "<p>We'd also like to extend a special thank you to all of the <a href=\"http://blog.mozilla.org/community/2016/01/25/firefox-44-new-contributors//\">new Mozillians</a> who contributed to this release of Firefox!</p>\r\n",
+  "release_date": "2016-02-11",
+  "slug": "firefox-for-android-44.0.2-release",
+  "version": "44.0.2",
+  "bug_search_url": "",
+  "is_public": true,
+  "system_requirements": "",
+  "channel": "Release"
+}

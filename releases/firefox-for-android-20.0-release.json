@@ -1,1 +1,151 @@
-{"product": "Firefox for Android", "bug_list": "", "title": "Firefox for Android 20.0 Release", "notes": [{"note": "20.0.1 - Windows-only update to handle issues around handling UNC paths (see <a href=\"http://bugzil.la/846848\">bug 846848</a>)", "tag": "Fixed", "sort_num": 1000, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": null}, {"note": "Per-window Private Browsing. <a href=\"https://support.mozilla.org/en-US/kb/private-browsing-browse-web-without-saving-info\">Learn more</a>.", "tag": "New", "sort_num": 1000, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": null}, {"note": "New download experience. <a href=\"https://support.mozilla.org/en-US/kb/find-and-manage-downloaded-files?esab=a&s=download+manager&r=0&as=s#os=mac&browser=fx20\">Learn more</a>.", "tag": "New", "sort_num": 900, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": null}, {"note": "Ability to close hanging plugins, without the browser hanging", "tag": "New", "sort_num": 500, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": null}, {"note": "Some function keys may not work when pressed", "tag": "", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 833719}, {"note": "Browsing and Download history clearing needs unification to avoid confusion on clearing download history", "tag": "", "sort_num": 0, "fixed_in_release": {"product": "Firefox", "title": "Firefox 21.0a2 Aurora", "version": "21.0a2", "is_public": true, "slug": "firefox-21.0a2-aurora", "channel": "Aurora"}, "is_public": true, "is_known_issue": false, "bug": 847627}, {"note": "Continued performance improvements around common browser tasks (<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=792438\">page loads</a>, <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=789932\">downloads</a>, <a href=\"https://bugzilla.mozilla.org/buglist.cgi?quicksearch=818296%2C818739\">shutdown</a>, etc.)", "tag": "Changed", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": null}, {"note": "getUserMedia implemented for web access to the user's camera and microphone (with user permission)", "tag": "HTML5", "sort_num": 500, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": null}, {"note": "&lt;canvas&gt; now supports <a href=\"https://hacks.mozilla.org/2012/12/firefox-development-highlights-per-window-private-browsing-canvas-globalcompositeoperation-new-values/\">blend modes</a>", "tag": "HTML5", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": null}, {"note": "Various &lt;audio&gt; and &lt;video&gt; <a href=\"http://blog.pearce.org.nz/2012/12/html5-video-playbackrate-and-ogg.html\">improvements</a>", "tag": "HTML5", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": null}, {"note": "New JavaScript Profiler tool", "tag": "Developer", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": null}, {"note": "Continued implementation of draft ECMAScript 6 - <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=814562\">clear()</a> and <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=808148\">Math.imul</a>", "tag": "Developer", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": null}, {"note": "Various <a href=\"https://www.mozilla.org/security/known-vulnerabilities/firefox.html\">security fixes</a>", "tag": "Fixed", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": null}, {"note": "Details button on Crash Reporter", "tag": "Fixed", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 793972}, {"note": "Unity plugin doesn't display in HiDPI mode", "tag": "Fixed", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 829284}, {"note": "If you try to start Firefox using a locked profile, it will crash (see [573369][1])\r\n\r\n\r\n  [1]: http://bugzilla.mozilla.org/573369", "tag": "Known", "sort_num": -100, "fixed_in_release": null, "is_public": true, "is_known_issue": true, "bug": 573369}], "text": "", "release_date": "2013-04-02", "slug": "firefox-for-android-20.0-release", "version": "20.0", "bug_search_url": "", "is_public": true, "system_requirements": "", "channel": "Release"}
+{
+  "product": "Firefox for Android",
+  "bug_list": "",
+  "title": "Firefox for Android 20.0 Release",
+  "notes": [
+    {
+      "note": "20.0.1 - Windows-only update to handle issues around handling UNC paths (see <a href=\"http://bugzil.la/846848\">bug 846848</a>)",
+      "tag": "Fixed",
+      "sort_num": 1000,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": null
+    },
+    {
+      "note": "Per-window Private Browsing. <a href=\"https://support.mozilla.org/en-US/kb/private-browsing-browse-web-without-saving-info\">Learn more</a>.",
+      "tag": "New",
+      "sort_num": 1000,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": null
+    },
+    {
+      "note": "New download experience. <a href=\"https://support.mozilla.org/en-US/kb/find-and-manage-downloaded-files?esab=a&s=download+manager&r=0&as=s#os=mac&browser=fx20\">Learn more</a>.",
+      "tag": "New",
+      "sort_num": 900,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": null
+    },
+    {
+      "note": "Ability to close hanging plugins, without the browser hanging",
+      "tag": "New",
+      "sort_num": 500,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": null
+    },
+    {
+      "note": "Some function keys may not work when pressed",
+      "tag": "",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 833719
+    },
+    {
+      "note": "Browsing and Download history clearing needs unification to avoid confusion on clearing download history",
+      "tag": "",
+      "sort_num": 0,
+      "fixed_in_release": {
+        "product": "Firefox",
+        "title": "Firefox 21.0a2 Aurora",
+        "version": "21.0a2",
+        "is_public": true,
+        "slug": "firefox-21.0a2-aurora",
+        "channel": "Aurora"
+      },
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 847627
+    },
+    {
+      "note": "Continued performance improvements around common browser tasks (<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=792438\">page loads</a>, <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=789932\">downloads</a>, <a href=\"https://bugzilla.mozilla.org/buglist.cgi?quicksearch=818296%2C818739\">shutdown</a>, etc.)",
+      "tag": "Changed",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": null
+    },
+    {
+      "note": "getUserMedia implemented for web access to the user's camera and microphone (with user permission)",
+      "tag": "HTML5",
+      "sort_num": 500,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": null
+    },
+    {
+      "note": "&lt;canvas&gt; now supports <a href=\"https://hacks.mozilla.org/2012/12/firefox-development-highlights-per-window-private-browsing-canvas-globalcompositeoperation-new-values/\">blend modes</a>",
+      "tag": "HTML5",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": null
+    },
+    {
+      "note": "Various &lt;audio&gt; and &lt;video&gt; <a href=\"http://blog.pearce.org.nz/2012/12/html5-video-playbackrate-and-ogg.html\">improvements</a>",
+      "tag": "HTML5",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": null
+    },
+    {
+      "note": "New JavaScript Profiler tool",
+      "tag": "Developer",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": null
+    },
+    {
+      "note": "Continued implementation of draft ECMAScript 6 - <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=814562\">clear()</a> and <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=808148\">Math.imul</a>",
+      "tag": "Developer",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": null
+    },
+    {
+      "note": "Various <a href=\"https://www.mozilla.org/security/known-vulnerabilities/firefox.html\">security fixes</a>",
+      "tag": "Fixed",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": null
+    },
+    {
+      "note": "Details button on Crash Reporter",
+      "tag": "Fixed",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 793972
+    },
+    {
+      "note": "Unity plugin doesn't display in HiDPI mode",
+      "tag": "Fixed",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 829284
+    },
+    {
+      "note": "If you try to start Firefox using a locked profile, it will crash (see [573369][1])\r\n\r\n\r\n  [1]: http://bugzilla.mozilla.org/573369",
+      "tag": "Known",
+      "sort_num": -100,
+      "is_public": true,
+      "is_known_issue": true,
+      "bug": 573369
+    }
+  ],
+  "text": "",
+  "release_date": "2013-04-02",
+  "slug": "firefox-for-android-20.0-release",
+  "version": "20.0",
+  "bug_search_url": "",
+  "is_public": true,
+  "system_requirements": "",
+  "channel": "Release"
+}

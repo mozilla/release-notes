@@ -1,1 +1,63 @@
-{"product": "Firefox for iOS", "bug_list": "", "title": "Firefox for iOS 2.0 Release", "notes": [{"note": "\u2018Find in Page\u2019 accessible by either long-pressing on a text item or by explicitly launching the feature from the \u2018Share\u2019 menu", "tag": "New", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": null}, {"note": "Firefox Password Manager\r\n\r\n - Logins saved locally or from a signed in FxA account can now be searched, filtered, viewed and edited from the \u2018Logins\u2019 setting option", "tag": "New", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": null}, {"note": "Support for 3D Touch on iPhone 6S and 6S Plus added pressing the Firefox app icon to open the Quick Access menu provides shortcuts to Open Last Bookmark, open a New Private Tab or a New Tab", "tag": "New", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": null}, {"note": "Open tabs now display Spotlight Search results on the home screen\r\n", "tag": "New", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": null}, {"note": "A new tab describing the new features and changes available in the latest release is shown upon first launch after an update", "tag": "New", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": null}, {"note": "Various bug fixes and performance improvements\r\n", "tag": "Fixed", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": null}], "text": "", "release_date": "2016-02-15", "slug": "firefox-for-ios-2.0-release", "version": "2.0", "bug_search_url": "", "is_public": true, "system_requirements": "## Operating systems\r\n - iOS 8.2+\r\n - iOS 9\r\n", "channel": "Release"}
+{
+  "product": "Firefox for iOS",
+  "bug_list": "",
+  "title": "Firefox for iOS 2.0 Release",
+  "notes": [
+    {
+      "note": "\u2018Find in Page\u2019 accessible by either long-pressing on a text item or by explicitly launching the feature from the \u2018Share\u2019 menu",
+      "tag": "New",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": null
+    },
+    {
+      "note": "Firefox Password Manager\r\n\r\n - Logins saved locally or from a signed in FxA account can now be searched, filtered, viewed and edited from the \u2018Logins\u2019 setting option",
+      "tag": "New",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": null
+    },
+    {
+      "note": "Support for 3D Touch on iPhone 6S and 6S Plus added pressing the Firefox app icon to open the Quick Access menu provides shortcuts to Open Last Bookmark, open a New Private Tab or a New Tab",
+      "tag": "New",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": null
+    },
+    {
+      "note": "Open tabs now display Spotlight Search results on the home screen\r\n",
+      "tag": "New",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": null
+    },
+    {
+      "note": "A new tab describing the new features and changes available in the latest release is shown upon first launch after an update",
+      "tag": "New",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": null
+    },
+    {
+      "note": "Various bug fixes and performance improvements\r\n",
+      "tag": "Fixed",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": null
+    }
+  ],
+  "text": "",
+  "release_date": "2016-02-15",
+  "slug": "firefox-for-ios-2.0-release",
+  "version": "2.0",
+  "bug_search_url": "",
+  "is_public": true,
+  "system_requirements": "## Operating systems\r\n - iOS 8.2+\r\n - iOS 9\r\n",
+  "channel": "Release"
+}

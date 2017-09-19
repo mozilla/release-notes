@@ -1,1 +1,23 @@
-{"product": "Firefox for Android", "bug_list": "", "title": "Firefox for Android 41.0.2 Release", "notes": [{"note": "Various [security fixes][1] \r\n[1]:https://www.mozilla.org/security/known-vulnerabilities/firefox/#firefox41.0.2", "tag": "Fixed", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": null}], "text": "<p>We'd also like to extend a special thank you to all of the <a href=\"https://blog.mozilla.org/community/2015/09/21/firefox-41-new-contributors/\">new Mozillians</a> who contributed to this release of Firefox!</p>", "release_date": "2015-10-15", "slug": "firefox-for-android-41.0.2-release", "version": "41.0.2", "bug_search_url": "", "is_public": true, "system_requirements": "", "channel": "Release"}
+{
+  "product": "Firefox for Android",
+  "bug_list": "",
+  "title": "Firefox for Android 41.0.2 Release",
+  "notes": [
+    {
+      "note": "Various [security fixes][1] \r\n[1]:https://www.mozilla.org/security/known-vulnerabilities/firefox/#firefox41.0.2",
+      "tag": "Fixed",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": null
+    }
+  ],
+  "text": "<p>We'd also like to extend a special thank you to all of the <a href=\"https://blog.mozilla.org/community/2015/09/21/firefox-41-new-contributors/\">new Mozillians</a> who contributed to this release of Firefox!</p>",
+  "release_date": "2015-10-15",
+  "slug": "firefox-for-android-41.0.2-release",
+  "version": "41.0.2",
+  "bug_search_url": "",
+  "is_public": true,
+  "system_requirements": "",
+  "channel": "Release"
+}

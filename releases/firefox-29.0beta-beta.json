@@ -1,1 +1,191 @@
-{"product": "Firefox", "bug_list": "", "title": "Firefox 29.0beta Beta", "notes": [{"note": "A set of new improvements to the Firefox user interface (<a href=\"http://blog.mozilla.org/futurereleases/2014/02/07/test-the-new-firefox-sync-and-customize-the-new-ui-in-firefox-aurora\">learn more</a>).", "tag": "New", "sort_num": 3000, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": null}, {"note": "An interactive onboarding tour to guide users through new interface changes", "tag": "New", "sort_num": 2000, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": null}, {"note": "A redesigned and improved customization mode", "tag": "New", "sort_num": 1950, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": null}, {"note": "The ability to set up Firefox Sync by creating a Firefox account ([learn more][1])\r\n\r\n\r\n  [1]: https://blog.mozilla.org/blog/2014/02/07/introducing-mozilla-firefox-accounts/", "tag": "New", "sort_num": 1900, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": null}, {"note": "[Gamepad API][1] finalized and enabled\r\n\r\n[1]: https://hacks.mozilla.org/2013/12/the-gamepad-api/", "tag": "New", "sort_num": 1800, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": null}, {"note": "Malay [ma] locale added", "tag": "New", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": null}, {"note": "navigator.plugins is no longer enumerable, for user privacy", "tag": "Changed", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": null}, {"note": "Clicking on a W3C Web Notification will switch to the originating tab", "tag": "Changed", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": null}, {"note": "'box-sizing' (dropping the -moz- prefix) implemented (<a href=\"https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing\">learn more</a>)", "tag": "Developer", "sort_num": 3, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": null}, {"note": "Console object available in Web Workers (<a href=\"https://developer.mozilla.org/fr/docs/Web/API/console\">learn more</a>)", "tag": "Developer", "sort_num": 2, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": null}, {"note": "Promises enabled by default (<a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise\">learn more</a>)", "tag": "Developer", "sort_num": 1, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 924089}, {"note": "SharedWorker enabled by default", "tag": "Developer", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": null}, {"note": "&lt;input type=\"number\"&gt; implemented and enabled", "tag": "Developer", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": null}, {"note": "&lt;input type=\"color\"&gt; implemented and enabled", "tag": "Developer", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": null}, {"note": "Enabled ECMAScript Internationalization API", "tag": "Developer", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": null}, {"note": "Add-on bar has been removed, content moved to navigation bar", "tag": "Developer", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": null}, {"note": "Mac OS X: cmd-L no longer opens a new window when no window is available ([1008793][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1008793", "tag": "Known", "sort_num": 0, "fixed_in_release": {"product": "Firefox", "title": "Firefox 32.0a2 Aurora", "version": "32.0a2", "is_public": true, "slug": "firefox-32.0a2-aurora", "channel": "Aurora"}, "is_public": true, "is_known_issue": true, "bug": 1008793}, {"note": "Text Rendering Issues on Windows 7 with Platform Update KB2670838 (MSIE 10 Prerequisite) or on Windows 8.1 has a <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=812695#c414\">workaround</a> (see <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=812695\">812695</a>)", "tag": "Known", "sort_num": 0, "fixed_in_release": {"product": "Firefox", "title": "Firefox 31.0 Release", "version": "31.0", "is_public": true, "slug": "firefox-31.0-release", "channel": "Release"}, "is_public": true, "is_known_issue": true, "bug": null}, {"note": "Echo cancellation on apprtc.appspot.com fails ([974537][1]) \r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=974537", "tag": "Known", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": true, "bug": 974537}, {"note": "Exit is not always completed when \"clear history when Firefox closes\" is enabled ([1005487][1])\r\n\r\n\r\n  [1]: http://bugzilla.mozilla.org/1005487", "tag": "Known", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": true, "bug": 1005487}], "text": " ", "release_date": "2014-03-20", "slug": "firefox-29.0beta-beta", "version": "29.0beta", "bug_search_url": "", "is_public": true, "system_requirements": "## Windows\r\n\r\n### Operating Systems\r\n - Windows XP SP2\r\n - Windows Server 2003 SP1\r\n - Windows Vista\r\n - Windows 7\r\n - Windows 8\r\n\r\n*Please note that while the 32-bit and 64-bit versions of Windows Vista and Windows 7 can be used to run Firefox 26, only 32-bit builds of Firefox 26 are supported at this time.*\r\n\r\n### Recommended Hardware\r\n-  Pentium 4 or newer processor that supports SSE2\r\n-  512MB of RAM\r\n-  200MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- Mac OS X 10.6\r\n- Mac OS X 10.7\r\n- Mac OS X 10.8\r\n- Mac OS X 10.9\r\n\r\n### Recommended Hardware\r\n- Macintosh computer with an Intel x86 processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - GTK+ 2.18 or higher\r\n    - GLib 2.22 or higher\r\n    - Pango 1.14 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n    - libstdc++ 4.3 or higher\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - NetworkManager 0.7 or higher\r\n    - DBus 1.0 or higher\r\n    - HAL 0.5.8 or higher\r\n    - GNOME 2.16 or higher", "channel": "Beta"}
+{
+  "product": "Firefox",
+  "bug_list": "",
+  "title": "Firefox 29.0beta Beta",
+  "notes": [
+    {
+      "note": "A set of new improvements to the Firefox user interface (<a href=\"http://blog.mozilla.org/futurereleases/2014/02/07/test-the-new-firefox-sync-and-customize-the-new-ui-in-firefox-aurora\">learn more</a>).",
+      "tag": "New",
+      "sort_num": 3000,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": null
+    },
+    {
+      "note": "An interactive onboarding tour to guide users through new interface changes",
+      "tag": "New",
+      "sort_num": 2000,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": null
+    },
+    {
+      "note": "A redesigned and improved customization mode",
+      "tag": "New",
+      "sort_num": 1950,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": null
+    },
+    {
+      "note": "The ability to set up Firefox Sync by creating a Firefox account ([learn more][1])\r\n\r\n\r\n  [1]: https://blog.mozilla.org/blog/2014/02/07/introducing-mozilla-firefox-accounts/",
+      "tag": "New",
+      "sort_num": 1900,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": null
+    },
+    {
+      "note": "[Gamepad API][1] finalized and enabled\r\n\r\n[1]: https://hacks.mozilla.org/2013/12/the-gamepad-api/",
+      "tag": "New",
+      "sort_num": 1800,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": null
+    },
+    {
+      "note": "Malay [ma] locale added",
+      "tag": "New",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": null
+    },
+    {
+      "note": "navigator.plugins is no longer enumerable, for user privacy",
+      "tag": "Changed",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": null
+    },
+    {
+      "note": "Clicking on a W3C Web Notification will switch to the originating tab",
+      "tag": "Changed",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": null
+    },
+    {
+      "note": "'box-sizing' (dropping the -moz- prefix) implemented (<a href=\"https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing\">learn more</a>)",
+      "tag": "Developer",
+      "sort_num": 3,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": null
+    },
+    {
+      "note": "Console object available in Web Workers (<a href=\"https://developer.mozilla.org/fr/docs/Web/API/console\">learn more</a>)",
+      "tag": "Developer",
+      "sort_num": 2,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": null
+    },
+    {
+      "note": "Promises enabled by default (<a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise\">learn more</a>)",
+      "tag": "Developer",
+      "sort_num": 1,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 924089
+    },
+    {
+      "note": "SharedWorker enabled by default",
+      "tag": "Developer",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": null
+    },
+    {
+      "note": "&lt;input type=\"number\"&gt; implemented and enabled",
+      "tag": "Developer",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": null
+    },
+    {
+      "note": "&lt;input type=\"color\"&gt; implemented and enabled",
+      "tag": "Developer",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": null
+    },
+    {
+      "note": "Enabled ECMAScript Internationalization API",
+      "tag": "Developer",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": null
+    },
+    {
+      "note": "Add-on bar has been removed, content moved to navigation bar",
+      "tag": "Developer",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": null
+    },
+    {
+      "note": "Mac OS X: cmd-L no longer opens a new window when no window is available ([1008793][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1008793",
+      "tag": "Known",
+      "sort_num": 0,
+      "fixed_in_release": {
+        "product": "Firefox",
+        "title": "Firefox 32.0a2 Aurora",
+        "version": "32.0a2",
+        "is_public": true,
+        "slug": "firefox-32.0a2-aurora",
+        "channel": "Aurora"
+      },
+      "is_public": true,
+      "is_known_issue": true,
+      "bug": 1008793
+    },
+    {
+      "note": "Text Rendering Issues on Windows 7 with Platform Update KB2670838 (MSIE 10 Prerequisite) or on Windows 8.1 has a <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=812695#c414\">workaround</a> (see <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=812695\">812695</a>)",
+      "tag": "Known",
+      "sort_num": 0,
+      "fixed_in_release": {
+        "product": "Firefox",
+        "title": "Firefox 31.0 Release",
+        "version": "31.0",
+        "is_public": true,
+        "slug": "firefox-31.0-release",
+        "channel": "Release"
+      },
+      "is_public": true,
+      "is_known_issue": true,
+      "bug": null
+    },
+    {
+      "note": "Echo cancellation on apprtc.appspot.com fails ([974537][1]) \r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=974537",
+      "tag": "Known",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": true,
+      "bug": 974537
+    },
+    {
+      "note": "Exit is not always completed when \"clear history when Firefox closes\" is enabled ([1005487][1])\r\n\r\n\r\n  [1]: http://bugzilla.mozilla.org/1005487",
+      "tag": "Known",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": true,
+      "bug": 1005487
+    }
+  ],
+  "text": " ",
+  "release_date": "2014-03-20",
+  "slug": "firefox-29.0beta-beta",
+  "version": "29.0beta",
+  "bug_search_url": "",
+  "is_public": true,
+  "system_requirements": "## Windows\r\n\r\n### Operating Systems\r\n - Windows XP SP2\r\n - Windows Server 2003 SP1\r\n - Windows Vista\r\n - Windows 7\r\n - Windows 8\r\n\r\n*Please note that while the 32-bit and 64-bit versions of Windows Vista and Windows 7 can be used to run Firefox 26, only 32-bit builds of Firefox 26 are supported at this time.*\r\n\r\n### Recommended Hardware\r\n-  Pentium 4 or newer processor that supports SSE2\r\n-  512MB of RAM\r\n-  200MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- Mac OS X 10.6\r\n- Mac OS X 10.7\r\n- Mac OS X 10.8\r\n- Mac OS X 10.9\r\n\r\n### Recommended Hardware\r\n- Macintosh computer with an Intel x86 processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - GTK+ 2.18 or higher\r\n    - GLib 2.22 or higher\r\n    - Pango 1.14 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n    - libstdc++ 4.3 or higher\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - NetworkManager 0.7 or higher\r\n    - DBus 1.0 or higher\r\n    - HAL 0.5.8 or higher\r\n    - GNOME 2.16 or higher",
+  "channel": "Beta"
+}

@@ -1,1 +1,159 @@
-{"product": "Firefox for Android", "bug_list": "", "title": "Firefox for Android 28.0beta Beta", "notes": [{"note": "More native text selection, cut, and copy", "tag": "New", "sort_num": 5000, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": null}, {"note": "Awesomebar entries now trigger predictive lookup", "tag": "New", "sort_num": 4000, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": null}, {"note": "VP9 video decoding implemented", "tag": "New", "sort_num": 500, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": null}, {"note": "Horizontal HTML5 audio/video volume control", "tag": "New", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": null}, {"note": "Support for Opus in WebM", "tag": "New", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": null}, {"note": "Added multiple quick share buttons", "tag": "New", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": null}, {"note": "Estonian [et] locale added", "tag": "New", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": null}, {"note": "Added support for OpenSearch", "tag": "New", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": null}, {"note": "Added settings switch to toggle dynamic toolbar mode", "tag": "New", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": null}, {"note": "Removed support for spdy/2", "tag": "Changed", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 715396}, {"note": "Support for MathML 2.0 'mathvariant' attribute", "tag": "Developer", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": null}, {"note": "Background thread hang reporting", "tag": "Developer", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": null}, {"note": "Support for multi-line flexbox in layout", "tag": "Developer", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": null}, {"note": "Color picker widget implemented, access by using &lt;input type=\"color\"&gt;", "tag": "Developer", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": null}, {"note": "Explore By Touch automatically loading web pages ([963000][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=963000", "tag": "Fixed", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 963000}, {"note": "Firefox Sync will not behave as expected if multiple Firefox channels are installed on a single device ([761206][1])\r\n\r\n\r\n  [1]: http://bugzilla.mozilla.org/761206", "tag": "Known", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": true, "bug": 761206}, {"note": "Moving Firefox to background while playing a flash video in full screen mode and bring it back to view will freeze the app (see <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=809055\">809055</a>)", "tag": "Known", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": true, "bug": null}, {"note": "Some recent changes in the Google layout and CSS may cause issues in non-webkit browsers like Firefox (see <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=668288\">668288</a>)</h5>\r\n", "tag": "Known", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": true, "bug": null}], "text": " ", "release_date": "2014-02-06", "slug": "firefox-for-android-28.0beta-beta", "version": "28.0beta", "bug_search_url": "", "is_public": true, "system_requirements": " ", "channel": "Beta"}
+{
+  "product": "Firefox for Android",
+  "bug_list": "",
+  "title": "Firefox for Android 28.0beta Beta",
+  "notes": [
+    {
+      "note": "More native text selection, cut, and copy",
+      "tag": "New",
+      "sort_num": 5000,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": null
+    },
+    {
+      "note": "Awesomebar entries now trigger predictive lookup",
+      "tag": "New",
+      "sort_num": 4000,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": null
+    },
+    {
+      "note": "VP9 video decoding implemented",
+      "tag": "New",
+      "sort_num": 500,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": null
+    },
+    {
+      "note": "Horizontal HTML5 audio/video volume control",
+      "tag": "New",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": null
+    },
+    {
+      "note": "Support for Opus in WebM",
+      "tag": "New",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": null
+    },
+    {
+      "note": "Added multiple quick share buttons",
+      "tag": "New",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": null
+    },
+    {
+      "note": "Estonian [et] locale added",
+      "tag": "New",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": null
+    },
+    {
+      "note": "Added support for OpenSearch",
+      "tag": "New",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": null
+    },
+    {
+      "note": "Added settings switch to toggle dynamic toolbar mode",
+      "tag": "New",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": null
+    },
+    {
+      "note": "Removed support for spdy/2",
+      "tag": "Changed",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 715396
+    },
+    {
+      "note": "Support for MathML 2.0 'mathvariant' attribute",
+      "tag": "Developer",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": null
+    },
+    {
+      "note": "Background thread hang reporting",
+      "tag": "Developer",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": null
+    },
+    {
+      "note": "Support for multi-line flexbox in layout",
+      "tag": "Developer",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": null
+    },
+    {
+      "note": "Color picker widget implemented, access by using &lt;input type=\"color\"&gt;",
+      "tag": "Developer",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": null
+    },
+    {
+      "note": "Explore By Touch automatically loading web pages ([963000][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=963000",
+      "tag": "Fixed",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 963000
+    },
+    {
+      "note": "Firefox Sync will not behave as expected if multiple Firefox channels are installed on a single device ([761206][1])\r\n\r\n\r\n  [1]: http://bugzilla.mozilla.org/761206",
+      "tag": "Known",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": true,
+      "bug": 761206
+    },
+    {
+      "note": "Moving Firefox to background while playing a flash video in full screen mode and bring it back to view will freeze the app (see <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=809055\">809055</a>)",
+      "tag": "Known",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": true,
+      "bug": null
+    },
+    {
+      "note": "Some recent changes in the Google layout and CSS may cause issues in non-webkit browsers like Firefox (see <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=668288\">668288</a>)</h5>\r\n",
+      "tag": "Known",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": true,
+      "bug": null
+    }
+  ],
+  "text": " ",
+  "release_date": "2014-02-06",
+  "slug": "firefox-for-android-28.0beta-beta",
+  "version": "28.0beta",
+  "bug_search_url": "",
+  "is_public": true,
+  "system_requirements": " ",
+  "channel": "Beta"
+}

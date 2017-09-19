@@ -1,1 +1,255 @@
-{"product": "Thunderbird", "bug_list": "", "title": "Thunderbird 54.0beta Beta", "notes": [{"note": "Better support for Charter/Spectrum IMAP: Thunderbird will now detect Charter's IMAP service and send an additional IMAP select command to the server. Check the various preferences ending in \"force_select\" to see whether auto-detection has discovered this case.", "tag": "New", "sort_num": 0, "fixed_in_release": {"product": "Thunderbird", "title": "Thunderbird 54.0beta Beta", "version": "54.0beta", "is_public": true, "slug": "thunderbird-54.0beta-beta", "channel": "Beta"}, "is_public": true, "is_known_issue": false, "bug": 1231592}, {"note": "Individual feed update interval", "tag": "New", "sort_num": 0, "fixed_in_release": {"product": "Thunderbird", "title": "Thunderbird 54.0beta Beta", "version": "54.0beta", "is_public": true, "slug": "thunderbird-54.0beta-beta", "channel": "Beta"}, "is_public": true, "is_known_issue": false, "bug": 1312813}, {"note": "Thunderbird now uses Mozilla's latest proxy technology (add-on FoxyProxy now supported)", "tag": "Changed", "sort_num": 0, "fixed_in_release": {"product": "Thunderbird", "title": "Thunderbird 54.0beta Beta", "version": "54.0beta", "is_public": true, "slug": "thunderbird-54.0beta-beta", "channel": "Beta"}, "is_public": true, "is_known_issue": false, "bug": 791645}, {"note": "Embedded images not shown in email received from Hotmail/Outlook webmailer", "tag": "Fixed", "sort_num": 0, "fixed_in_release": {"product": "Thunderbird", "title": "Thunderbird 54.0beta Beta", "version": "54.0beta", "is_public": true, "slug": "thunderbird-54.0beta-beta", "channel": "Beta"}, "is_public": true, "is_known_issue": false, "bug": 1347598}, {"note": "Detection of non-ASCII font names in font selector", "tag": "Fixed", "sort_num": 0, "fixed_in_release": {"product": "Thunderbird", "title": "Thunderbird 54.0beta Beta", "version": "54.0beta", "is_public": true, "slug": "thunderbird-54.0beta-beta", "channel": "Beta"}, "is_public": true, "is_known_issue": false, "bug": 1358049}, {"note": "Attachment not forwarded correctly under certain circumstances", "tag": "Fixed", "sort_num": 0, "fixed_in_release": {"product": "Thunderbird", "title": "Thunderbird 54.0beta Beta", "version": "54.0beta", "is_public": true, "slug": "thunderbird-54.0beta-beta", "channel": "Beta"}, "is_public": true, "is_known_issue": false, "bug": 570914}, {"note": "Attached message sometimes not saved or forwarded correctly", "tag": "Fixed", "sort_num": 0, "fixed_in_release": {"product": "Thunderbird", "title": "Thunderbird 54.0beta Beta", "version": "54.0beta", "is_public": true, "slug": "thunderbird-54.0beta-beta", "channel": "Beta"}, "is_public": true, "is_known_issue": false, "bug": 1350080}, {"note": "Mailing list (group) not accessible from macOS or Outlook address book (not working in Thunderbird version 52)", "tag": "Fixed", "sort_num": 0, "fixed_in_release": {"product": "Thunderbird", "title": "Thunderbird 54.0beta Beta", "version": "54.0beta", "is_public": true, "slug": "thunderbird-54.0beta-beta", "channel": "Beta"}, "is_public": true, "is_known_issue": false, "bug": 1356881}, {"note": "Multiple requests for master password when GMail OAuth2 is enabled", "tag": "Fixed", "sort_num": 0, "fixed_in_release": {"product": "Thunderbird", "title": "Thunderbird 54.0beta Beta", "version": "54.0beta", "is_public": true, "slug": "thunderbird-54.0beta-beta", "channel": "Beta"}, "is_public": true, "is_known_issue": false, "bug": 1176399}, {"note": "Chat working again (fixed in Thunderbird version 54 beta 2, wasn't working in beta 1)", "tag": "Fixed", "sort_num": 0, "fixed_in_release": {"product": "Thunderbird", "title": "Thunderbird 54.0beta Beta", "version": "54.0beta", "is_public": true, "slug": "thunderbird-54.0beta-beta", "channel": "Beta"}, "is_public": true, "is_known_issue": false, "bug": 1366255}, {"note": "Clicking on links with references/anchors not working, clicking on links with references/anchors where target doesn't exist in the message not opening in external browser (fixed in Thunderbird version 54 beta 3, wasn't working in beta 1 and 2)", "tag": "Fixed", "sort_num": 0, "fixed_in_release": {"product": "Thunderbird", "title": "Thunderbird 54.0beta Beta", "version": "54.0beta", "is_public": true, "slug": "thunderbird-54.0beta-beta", "channel": "Beta"}, "is_public": true, "is_known_issue": false, "bug": 1366273}, {"note": "Large number of blank pages being printed under certain circumstances when invalid preferences were present (fixed in Thunderbird version 54 beta 3)", "tag": "Fixed", "sort_num": 0, "fixed_in_release": {"product": "Thunderbird", "title": "Thunderbird 54.0beta Beta", "version": "54.0beta", "is_public": true, "slug": "thunderbird-54.0beta-beta", "channel": "Beta"}, "is_public": true, "is_known_issue": false, "bug": 1353625}, {"note": "Messages sent via the Simple MAPI interface are forced to HTML", "tag": "Fixed", "sort_num": 0, "fixed_in_release": {"product": "Thunderbird", "title": "Thunderbird 52.2.0 Release", "version": "52.2.0", "is_public": true, "slug": "thunderbird-52.2.0-release", "channel": "Release"}, "is_public": true, "is_known_issue": false, "bug": 1366196}, {"note": "Calendar: Invitations can't be printed", "tag": "Fixed", "sort_num": 0, "fixed_in_release": {"product": "Thunderbird", "title": "Thunderbird 52.2.0 Release", "version": "52.2.0", "is_public": true, "slug": "thunderbird-52.2.0-release", "channel": "Release"}, "is_public": true, "is_known_issue": false, "bug": 1365980}, {"note": "Crash due to incompatibility with McAfee Anti-SPAM add-on. **Workaround:** Start in safe mode and disable McAfee Anti-Spam Extension", "tag": "Known", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": true, "bug": 1281610}, {"note": "Date/time display cannot be adjusted in the operating system settings, so the date/time display will follow the application locale. That means that the English-US version will display English-US date/time formats and, for example, the German version will display German date/time formats. Improved behavior scheduled for version 55 beta.", "tag": "Known", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": true, "bug": null}], "text": "**These release notes apply to Thunderbird version 54 beta 3 released June 2nd, 2017.**", "release_date": "2017-06-02", "slug": "thunderbird-54.0beta-beta", "version": "54.0beta", "bug_search_url": "", "is_public": true, "system_requirements": "## Windows\r\n\r\n### Operating Systems\r\n - Windows 7\r\n - Windows 8\r\n - Windows 10\r\n - Windows Server 2008 R2\r\n\r\n*Please note that while the 32-bit and 64-bit versions of Windows can be used to run Thunderbird, only 32-bit builds of Thunderbird are supported at this time.*\r\n\r\n**Note that Thunderbird 54 only supports Windows 7, 8 and 10 and Windows Server 2008 R2.**\r\n  \r\n### Windows Recommended Hardware\r\n   - Pentium 4 or newer processor that supports SSE2\r\n   - 1GB RAM\r\n   - 200 MB hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n  \r\n### Operating Systems\r\n  \r\n- Mac OS X 10.9\r\n- Mac OS X 10.10\r\n- Mac OS X 10.11\r\n- Mac OS X 10.12\r\n  \r\n###  Recommended Hardware\r\n  \r\n -  Macintosh computer with an Intel x86 processor\r\n -  512 MB RAM\r\n -  200 MB hard drive space\r\n\r\n---\r\n  \r\n## GNU/Linux\r\n### Software Requirements\r\n  \r\n  *Please note that Linux distributors may provide packages for your distribution which have different requirements.*\r\n  \r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Thunderbird will not run at all without the following libraries or packages:\r\n    - GTK+ 3.4 or higher\r\n    - GLib 2.22 or higher\r\n    - Pango 1.14 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n    - libstdc++ 4.6.1 or higher\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - NetworkManager 0.7 or higher\r\n    - DBus 1.0 or higher\r\n    - GNOME 2.16 or higher\r\n    ", "channel": "Beta"}
+{
+  "product": "Thunderbird",
+  "bug_list": "",
+  "title": "Thunderbird 54.0beta Beta",
+  "notes": [
+    {
+      "note": "Better support for Charter/Spectrum IMAP: Thunderbird will now detect Charter's IMAP service and send an additional IMAP select command to the server. Check the various preferences ending in \"force_select\" to see whether auto-detection has discovered this case.",
+      "tag": "New",
+      "sort_num": 0,
+      "fixed_in_release": {
+        "product": "Thunderbird",
+        "title": "Thunderbird 54.0beta Beta",
+        "version": "54.0beta",
+        "is_public": true,
+        "slug": "thunderbird-54.0beta-beta",
+        "channel": "Beta"
+      },
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1231592
+    },
+    {
+      "note": "Individual feed update interval",
+      "tag": "New",
+      "sort_num": 0,
+      "fixed_in_release": {
+        "product": "Thunderbird",
+        "title": "Thunderbird 54.0beta Beta",
+        "version": "54.0beta",
+        "is_public": true,
+        "slug": "thunderbird-54.0beta-beta",
+        "channel": "Beta"
+      },
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1312813
+    },
+    {
+      "note": "Thunderbird now uses Mozilla's latest proxy technology (add-on FoxyProxy now supported)",
+      "tag": "Changed",
+      "sort_num": 0,
+      "fixed_in_release": {
+        "product": "Thunderbird",
+        "title": "Thunderbird 54.0beta Beta",
+        "version": "54.0beta",
+        "is_public": true,
+        "slug": "thunderbird-54.0beta-beta",
+        "channel": "Beta"
+      },
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 791645
+    },
+    {
+      "note": "Embedded images not shown in email received from Hotmail/Outlook webmailer",
+      "tag": "Fixed",
+      "sort_num": 0,
+      "fixed_in_release": {
+        "product": "Thunderbird",
+        "title": "Thunderbird 54.0beta Beta",
+        "version": "54.0beta",
+        "is_public": true,
+        "slug": "thunderbird-54.0beta-beta",
+        "channel": "Beta"
+      },
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1347598
+    },
+    {
+      "note": "Detection of non-ASCII font names in font selector",
+      "tag": "Fixed",
+      "sort_num": 0,
+      "fixed_in_release": {
+        "product": "Thunderbird",
+        "title": "Thunderbird 54.0beta Beta",
+        "version": "54.0beta",
+        "is_public": true,
+        "slug": "thunderbird-54.0beta-beta",
+        "channel": "Beta"
+      },
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1358049
+    },
+    {
+      "note": "Attachment not forwarded correctly under certain circumstances",
+      "tag": "Fixed",
+      "sort_num": 0,
+      "fixed_in_release": {
+        "product": "Thunderbird",
+        "title": "Thunderbird 54.0beta Beta",
+        "version": "54.0beta",
+        "is_public": true,
+        "slug": "thunderbird-54.0beta-beta",
+        "channel": "Beta"
+      },
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 570914
+    },
+    {
+      "note": "Attached message sometimes not saved or forwarded correctly",
+      "tag": "Fixed",
+      "sort_num": 0,
+      "fixed_in_release": {
+        "product": "Thunderbird",
+        "title": "Thunderbird 54.0beta Beta",
+        "version": "54.0beta",
+        "is_public": true,
+        "slug": "thunderbird-54.0beta-beta",
+        "channel": "Beta"
+      },
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1350080
+    },
+    {
+      "note": "Mailing list (group) not accessible from macOS or Outlook address book (not working in Thunderbird version 52)",
+      "tag": "Fixed",
+      "sort_num": 0,
+      "fixed_in_release": {
+        "product": "Thunderbird",
+        "title": "Thunderbird 54.0beta Beta",
+        "version": "54.0beta",
+        "is_public": true,
+        "slug": "thunderbird-54.0beta-beta",
+        "channel": "Beta"
+      },
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1356881
+    },
+    {
+      "note": "Multiple requests for master password when GMail OAuth2 is enabled",
+      "tag": "Fixed",
+      "sort_num": 0,
+      "fixed_in_release": {
+        "product": "Thunderbird",
+        "title": "Thunderbird 54.0beta Beta",
+        "version": "54.0beta",
+        "is_public": true,
+        "slug": "thunderbird-54.0beta-beta",
+        "channel": "Beta"
+      },
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1176399
+    },
+    {
+      "note": "Chat working again (fixed in Thunderbird version 54 beta 2, wasn't working in beta 1)",
+      "tag": "Fixed",
+      "sort_num": 0,
+      "fixed_in_release": {
+        "product": "Thunderbird",
+        "title": "Thunderbird 54.0beta Beta",
+        "version": "54.0beta",
+        "is_public": true,
+        "slug": "thunderbird-54.0beta-beta",
+        "channel": "Beta"
+      },
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1366255
+    },
+    {
+      "note": "Clicking on links with references/anchors not working, clicking on links with references/anchors where target doesn't exist in the message not opening in external browser (fixed in Thunderbird version 54 beta 3, wasn't working in beta 1 and 2)",
+      "tag": "Fixed",
+      "sort_num": 0,
+      "fixed_in_release": {
+        "product": "Thunderbird",
+        "title": "Thunderbird 54.0beta Beta",
+        "version": "54.0beta",
+        "is_public": true,
+        "slug": "thunderbird-54.0beta-beta",
+        "channel": "Beta"
+      },
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1366273
+    },
+    {
+      "note": "Large number of blank pages being printed under certain circumstances when invalid preferences were present (fixed in Thunderbird version 54 beta 3)",
+      "tag": "Fixed",
+      "sort_num": 0,
+      "fixed_in_release": {
+        "product": "Thunderbird",
+        "title": "Thunderbird 54.0beta Beta",
+        "version": "54.0beta",
+        "is_public": true,
+        "slug": "thunderbird-54.0beta-beta",
+        "channel": "Beta"
+      },
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1353625
+    },
+    {
+      "note": "Messages sent via the Simple MAPI interface are forced to HTML",
+      "tag": "Fixed",
+      "sort_num": 0,
+      "fixed_in_release": {
+        "product": "Thunderbird",
+        "title": "Thunderbird 52.2.0 Release",
+        "version": "52.2.0",
+        "is_public": true,
+        "slug": "thunderbird-52.2.0-release",
+        "channel": "Release"
+      },
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1366196
+    },
+    {
+      "note": "Calendar: Invitations can't be printed",
+      "tag": "Fixed",
+      "sort_num": 0,
+      "fixed_in_release": {
+        "product": "Thunderbird",
+        "title": "Thunderbird 52.2.0 Release",
+        "version": "52.2.0",
+        "is_public": true,
+        "slug": "thunderbird-52.2.0-release",
+        "channel": "Release"
+      },
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1365980
+    },
+    {
+      "note": "Crash due to incompatibility with McAfee Anti-SPAM add-on. **Workaround:** Start in safe mode and disable McAfee Anti-Spam Extension",
+      "tag": "Known",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": true,
+      "bug": 1281610
+    },
+    {
+      "note": "Date/time display cannot be adjusted in the operating system settings, so the date/time display will follow the application locale. That means that the English-US version will display English-US date/time formats and, for example, the German version will display German date/time formats. Improved behavior scheduled for version 55 beta.",
+      "tag": "Known",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": true,
+      "bug": null
+    }
+  ],
+  "text": "**These release notes apply to Thunderbird version 54 beta 3 released June 2nd, 2017.**",
+  "release_date": "2017-06-02",
+  "slug": "thunderbird-54.0beta-beta",
+  "version": "54.0beta",
+  "bug_search_url": "",
+  "is_public": true,
+  "system_requirements": "## Windows\r\n\r\n### Operating Systems\r\n - Windows 7\r\n - Windows 8\r\n - Windows 10\r\n - Windows Server 2008 R2\r\n\r\n*Please note that while the 32-bit and 64-bit versions of Windows can be used to run Thunderbird, only 32-bit builds of Thunderbird are supported at this time.*\r\n\r\n**Note that Thunderbird 54 only supports Windows 7, 8 and 10 and Windows Server 2008 R2.**\r\n  \r\n### Windows Recommended Hardware\r\n   - Pentium 4 or newer processor that supports SSE2\r\n   - 1GB RAM\r\n   - 200 MB hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n  \r\n### Operating Systems\r\n  \r\n- Mac OS X 10.9\r\n- Mac OS X 10.10\r\n- Mac OS X 10.11\r\n- Mac OS X 10.12\r\n  \r\n###  Recommended Hardware\r\n  \r\n -  Macintosh computer with an Intel x86 processor\r\n -  512 MB RAM\r\n -  200 MB hard drive space\r\n\r\n---\r\n  \r\n## GNU/Linux\r\n### Software Requirements\r\n  \r\n  *Please note that Linux distributors may provide packages for your distribution which have different requirements.*\r\n  \r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Thunderbird will not run at all without the following libraries or packages:\r\n    - GTK+ 3.4 or higher\r\n    - GLib 2.22 or higher\r\n    - Pango 1.14 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n    - libstdc++ 4.6.1 or higher\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - NetworkManager 0.7 or higher\r\n    - DBus 1.0 or higher\r\n    - GNOME 2.16 or higher\r\n    ",
+  "channel": "Beta"
+}

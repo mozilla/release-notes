@@ -1,1 +1,199 @@
-{"product": "Firefox", "bug_list": "", "title": "Firefox 41.0 Release", "notes": [{"note": "SVG images can be used as favicons", "tag": "New", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 366324}, {"note": "Enhance IME support on Windows (Vista +) using TSF (Text Services Framework)", "tag": "New", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 478029}, {"note": "Ability to set a profile picture for your Firefox Account", "tag": "New", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1139698}, {"note": "Firefox Hello now includes instant messaging", "tag": "New", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1108893}, {"note": "Improved box-shadow rendering performance", "tag": "New", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1155828}, {"note": "WebRTC now requires [perfect forward secrecy][1]\r\n\r\n[1]: https://hacks.mozilla.org/2015/02/webrtc-requires-perfect-forward-secrecy-pfs-starting-in-firefox-38/ ", "tag": "Changed", "sort_num": 10, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1167066}, {"note": "Updates to image decoding process", "tag": "Changed", "sort_num": 10, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1152147}, {"note": "WARP is disabled on Windows 7", "tag": "Changed", "sort_num": 10, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1179504}, {"note": "Support for running [animations][1] of 'transform' and 'opacity' on the compositor thread\r\n\r\n\r\n  [1]: https://wiki.mozilla.org/Platform/GFX/OffMainThreadCompositing#CSS_Animations", "tag": "Changed", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 980770}, {"note": "[MessageChannel][1] and [MessagePort][2] API enabled by default\r\n\r\n[1]: https://developer.mozilla.org/en-US/docs/Web/API/MessageChannel\r\n[2]: https://developer.mozilla.org/docs/Web/API/MessagePort", "tag": "HTML5", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 911972}, {"note": "Added support for the [transform-origin][1] property on SVG elements\r\n\r\n[1]:https://developer.mozilla.org/docs/Web/CSS/transform-origin", "tag": "HTML5", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 923193}, {"note": "Copy/Cut Web content from JavaScript to the OS clipboard with [document.execCommand(\"cut\"/\"copy\")][1]\r\n\r\n[1]: https://developer.mozilla.org/docs/Web/API/Document/execCommand", "tag": "HTML5", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1012662}, {"note": "Implemented [Cache API][1] for querying named caches that are accessible Window, Worker, and ServiceWorker\r\n\r\n[1]:https://developer.mozilla.org/docs/Web/API/CacheStorage", "tag": "HTML5", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1110144}, {"note": "[CSS Font Loading API][1] enabled by default\r\n\r\n[1]: http://dev.w3.org/csswg/css-font-loading/", "tag": "HTML5", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1149381}, {"note": "[Navigator.onLine][1] now varies with actual internet connectivity (Windows and Mac OS X only)\r\n\r\n[1]: https://developer.mozilla.org/docs/Web/API/NavigatorOnLine/onLine", "tag": "HTML5", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 654579}, {"note": "Removed support for binary XPCOM components in extensions, use addon SDK \"system/child_process\" pipe mechanism for native binaries instead", "tag": "Developer", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1159737}, {"note": "Network requests can be exported in [HAR][1] format\r\n\r\n[1]: http://www.softwareishard.com/blog/har-12-spec/", "tag": "Developer", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 859058}, {"note": "Quickly [add new CSS rule][1] with New Rule button in the Inspector\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector/How_to/Examine_and_edit_CSS#Add_rules", "tag": "Developer", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1165122}, {"note": "Screenshot a node or element from markup view with the Screenshot Node context menu item", "tag": "Developer", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1163332}, {"note": "Copy element CSS rule declarations with the Copy Rule Declaration context menu item in the Inspector", "tag": "Developer", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1024693}, {"note": "[Pseudo-Class panel][1] in the Inspector\r\n\r\n[1]:https://developer.mozilla.org/docs/Tools/Page_Inspector/How_to/Examine_and_edit_CSS#Setting_hover_active_focus", "tag": "Developer", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 987365}, {"note": "Picture element does not react to resize/viewport changes", "tag": "Fixed", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1135812}, {"note": "Various [security fixes][1]\r\n\r\n [1]:https://www.mozilla.org/security/known-vulnerabilities/firefox/#firefox41", "tag": "Fixed", "sort_num": -1, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": null}], "text": "<p>We'd also like to extend a special thank you to all of the <a href=\"https://blog.mozilla.org/community/2015/09/21/firefox-41-new-contributors/ \">new Mozillians</a> who contributed to this release of Firefox!</p>", "release_date": "2015-09-22", "slug": "firefox-41.0-release", "version": "41.0", "bug_search_url": "", "is_public": true, "system_requirements": "## Windows\r\n\r\n### Operating Systems\r\n - Windows XP SP2\r\n - Windows Server 2003 SP1\r\n - Windows Vista\r\n - Windows 7\r\n - Windows 8\r\n - Windows 10\r\n\r\n*Please note that while the 32-bit and 64-bit versions of Windows Vista and Windows 7 can be used to run Firefox, only 32-bit builds of Firefox are supported at this time.*\r\n\r\n### Recommended Hardware\r\n-  Pentium 4 or newer processor that supports SSE2\r\n-  512MB of RAM\r\n-  200MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- Mac OS X 10.6\r\n- Mac OS X 10.7\r\n- Mac OS X 10.8\r\n- Mac OS X 10.9\r\n- Mac OS X 10.10\r\n\r\n### Recommended Hardware\r\n- Macintosh computer with an Intel x86 processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - GTK+ 2.18 or higher\r\n    - GLib 2.22 or higher\r\n    - Pango 1.14 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n    - libstdc++ 4.3 or higher\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - NetworkManager 0.7 or higher\r\n    - DBus 1.0 or higher\r\n    - HAL 0.5.8 or higher\r\n    - GNOME 2.16 or higher", "channel": "Release"}
+{
+  "product": "Firefox",
+  "bug_list": "",
+  "title": "Firefox 41.0 Release",
+  "notes": [
+    {
+      "note": "SVG images can be used as favicons",
+      "tag": "New",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 366324
+    },
+    {
+      "note": "Enhance IME support on Windows (Vista +) using TSF (Text Services Framework)",
+      "tag": "New",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 478029
+    },
+    {
+      "note": "Ability to set a profile picture for your Firefox Account",
+      "tag": "New",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1139698
+    },
+    {
+      "note": "Firefox Hello now includes instant messaging",
+      "tag": "New",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1108893
+    },
+    {
+      "note": "Improved box-shadow rendering performance",
+      "tag": "New",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1155828
+    },
+    {
+      "note": "WebRTC now requires [perfect forward secrecy][1]\r\n\r\n[1]: https://hacks.mozilla.org/2015/02/webrtc-requires-perfect-forward-secrecy-pfs-starting-in-firefox-38/ ",
+      "tag": "Changed",
+      "sort_num": 10,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1167066
+    },
+    {
+      "note": "Updates to image decoding process",
+      "tag": "Changed",
+      "sort_num": 10,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1152147
+    },
+    {
+      "note": "WARP is disabled on Windows 7",
+      "tag": "Changed",
+      "sort_num": 10,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1179504
+    },
+    {
+      "note": "Support for running [animations][1] of 'transform' and 'opacity' on the compositor thread\r\n\r\n\r\n  [1]: https://wiki.mozilla.org/Platform/GFX/OffMainThreadCompositing#CSS_Animations",
+      "tag": "Changed",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 980770
+    },
+    {
+      "note": "[MessageChannel][1] and [MessagePort][2] API enabled by default\r\n\r\n[1]: https://developer.mozilla.org/en-US/docs/Web/API/MessageChannel\r\n[2]: https://developer.mozilla.org/docs/Web/API/MessagePort",
+      "tag": "HTML5",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 911972
+    },
+    {
+      "note": "Added support for the [transform-origin][1] property on SVG elements\r\n\r\n[1]:https://developer.mozilla.org/docs/Web/CSS/transform-origin",
+      "tag": "HTML5",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 923193
+    },
+    {
+      "note": "Copy/Cut Web content from JavaScript to the OS clipboard with [document.execCommand(\"cut\"/\"copy\")][1]\r\n\r\n[1]: https://developer.mozilla.org/docs/Web/API/Document/execCommand",
+      "tag": "HTML5",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1012662
+    },
+    {
+      "note": "Implemented [Cache API][1] for querying named caches that are accessible Window, Worker, and ServiceWorker\r\n\r\n[1]:https://developer.mozilla.org/docs/Web/API/CacheStorage",
+      "tag": "HTML5",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1110144
+    },
+    {
+      "note": "[CSS Font Loading API][1] enabled by default\r\n\r\n[1]: http://dev.w3.org/csswg/css-font-loading/",
+      "tag": "HTML5",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1149381
+    },
+    {
+      "note": "[Navigator.onLine][1] now varies with actual internet connectivity (Windows and Mac OS X only)\r\n\r\n[1]: https://developer.mozilla.org/docs/Web/API/NavigatorOnLine/onLine",
+      "tag": "HTML5",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 654579
+    },
+    {
+      "note": "Removed support for binary XPCOM components in extensions, use addon SDK \"system/child_process\" pipe mechanism for native binaries instead",
+      "tag": "Developer",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1159737
+    },
+    {
+      "note": "Network requests can be exported in [HAR][1] format\r\n\r\n[1]: http://www.softwareishard.com/blog/har-12-spec/",
+      "tag": "Developer",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 859058
+    },
+    {
+      "note": "Quickly [add new CSS rule][1] with New Rule button in the Inspector\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector/How_to/Examine_and_edit_CSS#Add_rules",
+      "tag": "Developer",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1165122
+    },
+    {
+      "note": "Screenshot a node or element from markup view with the Screenshot Node context menu item",
+      "tag": "Developer",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1163332
+    },
+    {
+      "note": "Copy element CSS rule declarations with the Copy Rule Declaration context menu item in the Inspector",
+      "tag": "Developer",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1024693
+    },
+    {
+      "note": "[Pseudo-Class panel][1] in the Inspector\r\n\r\n[1]:https://developer.mozilla.org/docs/Tools/Page_Inspector/How_to/Examine_and_edit_CSS#Setting_hover_active_focus",
+      "tag": "Developer",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 987365
+    },
+    {
+      "note": "Picture element does not react to resize/viewport changes",
+      "tag": "Fixed",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1135812
+    },
+    {
+      "note": "Various [security fixes][1]\r\n\r\n [1]:https://www.mozilla.org/security/known-vulnerabilities/firefox/#firefox41",
+      "tag": "Fixed",
+      "sort_num": -1,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": null
+    }
+  ],
+  "text": "<p>We'd also like to extend a special thank you to all of the <a href=\"https://blog.mozilla.org/community/2015/09/21/firefox-41-new-contributors/ \">new Mozillians</a> who contributed to this release of Firefox!</p>",
+  "release_date": "2015-09-22",
+  "slug": "firefox-41.0-release",
+  "version": "41.0",
+  "bug_search_url": "",
+  "is_public": true,
+  "system_requirements": "## Windows\r\n\r\n### Operating Systems\r\n - Windows XP SP2\r\n - Windows Server 2003 SP1\r\n - Windows Vista\r\n - Windows 7\r\n - Windows 8\r\n - Windows 10\r\n\r\n*Please note that while the 32-bit and 64-bit versions of Windows Vista and Windows 7 can be used to run Firefox, only 32-bit builds of Firefox are supported at this time.*\r\n\r\n### Recommended Hardware\r\n-  Pentium 4 or newer processor that supports SSE2\r\n-  512MB of RAM\r\n-  200MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- Mac OS X 10.6\r\n- Mac OS X 10.7\r\n- Mac OS X 10.8\r\n- Mac OS X 10.9\r\n- Mac OS X 10.10\r\n\r\n### Recommended Hardware\r\n- Macintosh computer with an Intel x86 processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - GTK+ 2.18 or higher\r\n    - GLib 2.22 or higher\r\n    - Pango 1.14 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n    - libstdc++ 4.3 or higher\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - NetworkManager 0.7 or higher\r\n    - DBus 1.0 or higher\r\n    - HAL 0.5.8 or higher\r\n    - GNOME 2.16 or higher",
+  "channel": "Release"
+}

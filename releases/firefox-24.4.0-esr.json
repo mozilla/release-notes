@@ -1,1 +1,23 @@
-{"product": "Firefox Extended Support Release", "bug_list": "https://bugzilla.mozilla.org/buglist.cgi?f1=cf_status_firefox_esr24&o1=anywordssubstr&o2=equals&query_format=advanced&f2=cf_tracking_firefox_esr24&v1=fixed%20verified&v2=28%2B", "title": "Firefox Extended Support Release 24.4.0 ESR", "notes": [{"note": "Security fixes can be found <a href=\"https://www.mozilla.org/security/known-vulnerabilities/firefoxESR.html\">here</a>", "tag": "Fixed", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": null}], "text": " ", "release_date": "2014-03-18", "slug": "firefox-24.4.0-esr", "version": "24.4.0", "bug_search_url": "", "is_public": true, "system_requirements": " ", "channel": "ESR"}
+{
+  "product": "Firefox Extended Support Release",
+  "bug_list": "https://bugzilla.mozilla.org/buglist.cgi?f1=cf_status_firefox_esr24&o1=anywordssubstr&o2=equals&query_format=advanced&f2=cf_tracking_firefox_esr24&v1=fixed%20verified&v2=28%2B",
+  "title": "Firefox Extended Support Release 24.4.0 ESR",
+  "notes": [
+    {
+      "note": "Security fixes can be found <a href=\"https://www.mozilla.org/security/known-vulnerabilities/firefoxESR.html\">here</a>",
+      "tag": "Fixed",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": null
+    }
+  ],
+  "text": " ",
+  "release_date": "2014-03-18",
+  "slug": "firefox-24.4.0-esr",
+  "version": "24.4.0",
+  "bug_search_url": "",
+  "is_public": true,
+  "system_requirements": " ",
+  "channel": "ESR"
+}

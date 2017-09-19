@@ -1,1 +1,55 @@
-{"product": "Firefox for Android", "bug_list": "", "title": "Firefox for Android 53.0 Release", "notes": [{"note": "[Right to Left][1] Language Support - Arabic (ar), Urdu (ur), Hebrew (he) and Persian (fa)\r\n\r\n\r\n  [1]: https://wiki.mozilla.org/Mobile/Firefox_for_Android/RTL", "tag": "New", "sort_num": 95, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1319302}, {"note": "Users can enable two columns tabs setting in portrait mode ", "tag": "New", "sort_num": 85, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1202861}, {"note": "Long press on a search suggestion removes it from browser history", "tag": "New", "sort_num": 50, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1278840}, {"note": "Reader Mode now displays estimated reading time for the page", "tag": "New", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1265304}, {"note": "Various [security fixes][1]\r\n\r\n[1]: https://www.mozilla.org/security/known-vulnerabilities/firefox/#firefox53", "tag": "Fixed", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": null}], "text": "Today's Firefox release makes Firefox faster and more stable with a separate process for graphics compositing (the Quantum Compositor). Compact themes and tabs save screen real estate, and the redesigned permissions notification improves usability. [Learn more on the Mozilla Blog][1].\r\n\r\n<p>We'd also like to extend a special thank you to all of the <a href=\"http://blog.mozilla.org/community/2017/04/18/firefox-53-new-contributors/\">new Mozillians</a> who contributed to this release of Firefox!</p>\r\n\r\n\r\n  [1]: https://blog.mozilla.org/?p=10454", "release_date": "2017-04-19", "slug": "firefox-for-android-53.0-release", "version": "53.0", "bug_search_url": "", "is_public": true, "system_requirements": "## Operating systems\r\n - Android 4.0\r\n - Above versions\r\n\r\n## Requirements\r\n - 50 MB internal storage\r\n - 384 MB of RAM\r\n - display at least 320 pixels high and 240 pixels wide", "channel": "Release"}
+{
+  "product": "Firefox for Android",
+  "bug_list": "",
+  "title": "Firefox for Android 53.0 Release",
+  "notes": [
+    {
+      "note": "[Right to Left][1] Language Support - Arabic (ar), Urdu (ur), Hebrew (he) and Persian (fa)\r\n\r\n\r\n  [1]: https://wiki.mozilla.org/Mobile/Firefox_for_Android/RTL",
+      "tag": "New",
+      "sort_num": 95,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1319302
+    },
+    {
+      "note": "Users can enable two columns tabs setting in portrait mode ",
+      "tag": "New",
+      "sort_num": 85,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1202861
+    },
+    {
+      "note": "Long press on a search suggestion removes it from browser history",
+      "tag": "New",
+      "sort_num": 50,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1278840
+    },
+    {
+      "note": "Reader Mode now displays estimated reading time for the page",
+      "tag": "New",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1265304
+    },
+    {
+      "note": "Various [security fixes][1]\r\n\r\n[1]: https://www.mozilla.org/security/known-vulnerabilities/firefox/#firefox53",
+      "tag": "Fixed",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": null
+    }
+  ],
+  "text": "Today's Firefox release makes Firefox faster and more stable with a separate process for graphics compositing (the Quantum Compositor). Compact themes and tabs save screen real estate, and the redesigned permissions notification improves usability. [Learn more on the Mozilla Blog][1].\r\n\r\n<p>We'd also like to extend a special thank you to all of the <a href=\"http://blog.mozilla.org/community/2017/04/18/firefox-53-new-contributors/\">new Mozillians</a> who contributed to this release of Firefox!</p>\r\n\r\n\r\n  [1]: https://blog.mozilla.org/?p=10454",
+  "release_date": "2017-04-19",
+  "slug": "firefox-for-android-53.0-release",
+  "version": "53.0",
+  "bug_search_url": "",
+  "is_public": true,
+  "system_requirements": "## Operating systems\r\n - Android 4.0\r\n - Above versions\r\n\r\n## Requirements\r\n - 50 MB internal storage\r\n - 384 MB of RAM\r\n - display at least 320 pixels high and 240 pixels wide",
+  "channel": "Release"
+}

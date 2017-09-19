@@ -1,1 +1,47 @@
-{"product": "Firefox for Android", "bug_list": "", "title": "Firefox for Android 55.0beta Beta", "notes": [{"note": " Zoom with one hand with double tap and drag gestures", "tag": "New", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1111333}, {"note": "Added Greek (el) and Lao (lo) locales\r\n", "tag": "New", "sort_num": -1, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1369244}, {"note": "Added option to accessibility settings to respect the system's set font size when displaying web pages\r\n", "tag": "Changed", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1328868}, {"note": "Sites that don\u2019t use SSL can no longer access Geolocation APIs to determine a user\u2019s physical location\r\n", "tag": "Developer", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1072859}], "text": "", "release_date": "2017-06-14", "slug": "firefox-for-android-55.0beta-beta", "version": "55.0beta", "bug_search_url": "", "is_public": true, "system_requirements": "## Operating systems\r\n - Android 4.0\r\n - Above versions\r\n\r\n## Requirements\r\n - 50 MB internal storage\r\n - 384 MB of RAM\r\n - display at least 320 pixels high and 240 pixels wide\r\n\r\n*Firefox for Android 55 is the last version to run on Android 4.0.*", "channel": "Beta"}
+{
+  "product": "Firefox for Android",
+  "bug_list": "",
+  "title": "Firefox for Android 55.0beta Beta",
+  "notes": [
+    {
+      "note": " Zoom with one hand with double tap and drag gestures",
+      "tag": "New",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1111333
+    },
+    {
+      "note": "Added Greek (el) and Lao (lo) locales\r\n",
+      "tag": "New",
+      "sort_num": -1,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1369244
+    },
+    {
+      "note": "Added option to accessibility settings to respect the system's set font size when displaying web pages\r\n",
+      "tag": "Changed",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1328868
+    },
+    {
+      "note": "Sites that don\u2019t use SSL can no longer access Geolocation APIs to determine a user\u2019s physical location\r\n",
+      "tag": "Developer",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1072859
+    }
+  ],
+  "text": "",
+  "release_date": "2017-06-14",
+  "slug": "firefox-for-android-55.0beta-beta",
+  "version": "55.0beta",
+  "bug_search_url": "",
+  "is_public": true,
+  "system_requirements": "## Operating systems\r\n - Android 4.0\r\n - Above versions\r\n\r\n## Requirements\r\n - 50 MB internal storage\r\n - 384 MB of RAM\r\n - display at least 320 pixels high and 240 pixels wide\r\n\r\n*Firefox for Android 55 is the last version to run on Android 4.0.*",
+  "channel": "Beta"
+}

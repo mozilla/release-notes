@@ -1,1 +1,39 @@
-{"product": "Firefox for Android", "bug_list": "", "title": "Firefox for Android 52.0beta Beta", "notes": [{"note": "Implemented the Strict Secure Cookies specification which forbids insecure HTTP sites from setting cookies with the \"secure\" attribute.  In some cases, this will prevent an insecure site from setting a cookie with the same name as an existing \"secure\" cookie from the same base domain.", "tag": "New", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 976073}, {"note": "Reduced APK file size by more than 5 MB for faster download and installation", "tag": "New", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1294736}, {"note": "Display media controls to pause or resume playback on the Android notification bar. This gives users easy access to controls and allows them to see when audio or video is playing (and consuming mobile data) on Firefox. ", "tag": "New", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1268368}], "text": "", "release_date": "2017-01-25", "slug": "firefox-for-android-52.0beta-beta", "version": "52.0beta", "bug_search_url": "", "is_public": true, "system_requirements": "## Operating systems\r\n - Android 4.0\r\n - Above versions\r\n\r\n## Requirements\r\n - 50 MB internal storage\r\n - 384 MB of RAM\r\n - display at least 320 pixels high and 240 pixels wide", "channel": "Beta"}
+{
+  "product": "Firefox for Android",
+  "bug_list": "",
+  "title": "Firefox for Android 52.0beta Beta",
+  "notes": [
+    {
+      "note": "Implemented the Strict Secure Cookies specification which forbids insecure HTTP sites from setting cookies with the \"secure\" attribute.  In some cases, this will prevent an insecure site from setting a cookie with the same name as an existing \"secure\" cookie from the same base domain.",
+      "tag": "New",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 976073
+    },
+    {
+      "note": "Reduced APK file size by more than 5 MB for faster download and installation",
+      "tag": "New",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1294736
+    },
+    {
+      "note": "Display media controls to pause or resume playback on the Android notification bar. This gives users easy access to controls and allows them to see when audio or video is playing (and consuming mobile data) on Firefox. ",
+      "tag": "New",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1268368
+    }
+  ],
+  "text": "",
+  "release_date": "2017-01-25",
+  "slug": "firefox-for-android-52.0beta-beta",
+  "version": "52.0beta",
+  "bug_search_url": "",
+  "is_public": true,
+  "system_requirements": "## Operating systems\r\n - Android 4.0\r\n - Above versions\r\n\r\n## Requirements\r\n - 50 MB internal storage\r\n - 384 MB of RAM\r\n - display at least 320 pixels high and 240 pixels wide",
+  "channel": "Beta"
+}

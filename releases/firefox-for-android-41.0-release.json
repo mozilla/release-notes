@@ -1,1 +1,175 @@
-{"product": "Firefox for Android", "bug_list": "", "title": "Firefox for Android 41.0 Release", "notes": [{"note": "Quickly search with different search providers from the search panel", "tag": "New", "sort_num": 100, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1137483}, {"note": "Swipe-to-close tabs on tablets", "tag": "New", "sort_num": 90, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1017338}, {"note": "Overlay to manually search and copy/paste login credentials from login manager when they're not auto-filled", "tag": "New", "sort_num": 70, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1126608}, {"note": "Improved bookmark management with duplicate bookmark detection", "tag": "New", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 822979}, {"note": "Improved box-shadow rendering performance", "tag": "New", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1155828}, {"note": "Open Android applications from a web page via [Intent URIs](https://developer.chrome.com/multidevice/android/intents)", "tag": "New", "sort_num": -1, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 851693}, {"note": "Locale added: Croatian (hr)", "tag": "New", "sort_num": -1, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1158072}, {"note": "Updates to image decoding process", "tag": "Changed", "sort_num": 10, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1152147}, {"note": "Support for running [animations][1] of 'transform' and 'opacity' on the compositor thread\r\n\r\n\r\n  [1]: https://wiki.mozilla.org/Platform/GFX/OffMainThreadCompositing#CSS_Animations", "tag": "Changed", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 980770}, {"note": "[User Agent][1] now includes Android version\r\n\r\n[1]: https://developer.mozilla.org/docs/Web/HTTP/Gecko_user_agent_string_reference#Android_%28version_41_and_above%29", "tag": "Changed", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": null}, {"note": "[MessageChannel][1] and [MessagePort][2] API enabled by default\r\n\r\n[1]: https://developer.mozilla.org/en-US/docs/Web/API/MessageChannel\r\n[2]: https://developer.mozilla.org/docs/Web/API/MessagePort", "tag": "HTML5", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 911972}, {"note": "Added support for the [transform-origin][1] property on SVG elements\r\n\r\n[1]:https://developer.mozilla.org/docs/Web/CSS/transform-origin", "tag": "HTML5", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 923193}, {"note": "Copy/Cut Web content from JavaScript to the OS clipboard with [document.execCommand(\"cut\"/\"copy\")][1]\r\n\r\n[1]: https://developer.mozilla.org/docs/Web/API/Document/execCommand", "tag": "HTML5", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1012662}, {"note": "[CSS Font Loading API][1] enabled by default\r\n\r\n[1]: http://dev.w3.org/csswg/css-font-loading/", "tag": "HTML5", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1149381}, {"note": "Removed support for binary XPCOM components in extensions, use addon SDK \"system/child_process\" pipe mechanism for native binaries instead", "tag": "Developer", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1159737}, {"note": "[JavaAddonManager][1] can now send, receive and respond to messages from Gecko\r\n\r\n[1]: https://developer.mozilla.org/Add-ons/Firefox_for_Android/API/JavaAddonManager.jsm", "tag": "Developer", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1168407}, {"note": "Experimental new \"speed dial\" home panel add-on API ([example add-on][1])\r\n\r\n[1]: https://github.com/pocmo/speed-dial", "tag": "Developer", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": null}, {"note": "Generic API let's developers create a [grid of icons][1] and then optionally allow for a large header image\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/Add-ons/Firefox_for_Android/Firefox_Hub_Walkthrough#View_types", "tag": "Developer", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1157539}, {"note": "Support for playing MP3 files on Android 5.0 (Lollipop) and above", "tag": "Fixed", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1093815}, {"note": "Various [security fixes][1]\r\n\r\n [1]:https://www.mozilla.org/security/known-vulnerabilities/firefox/#firefox41", "tag": "Fixed", "sort_num": -1, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": null}], "text": "<p>We'd also like to extend a special thank you to all of the <a href=\"https://blog.mozilla.org/community/2015/09/21/firefox-41-new-contributors/ \">new Mozillians</a> who contributed to this release of Firefox!</p>", "release_date": "2015-09-22", "slug": "firefox-for-android-41.0-release", "version": "41.0", "bug_search_url": "", "is_public": true, "system_requirements": "", "channel": "Release"}
+{
+  "product": "Firefox for Android",
+  "bug_list": "",
+  "title": "Firefox for Android 41.0 Release",
+  "notes": [
+    {
+      "note": "Quickly search with different search providers from the search panel",
+      "tag": "New",
+      "sort_num": 100,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1137483
+    },
+    {
+      "note": "Swipe-to-close tabs on tablets",
+      "tag": "New",
+      "sort_num": 90,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1017338
+    },
+    {
+      "note": "Overlay to manually search and copy/paste login credentials from login manager when they're not auto-filled",
+      "tag": "New",
+      "sort_num": 70,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1126608
+    },
+    {
+      "note": "Improved bookmark management with duplicate bookmark detection",
+      "tag": "New",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 822979
+    },
+    {
+      "note": "Improved box-shadow rendering performance",
+      "tag": "New",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1155828
+    },
+    {
+      "note": "Open Android applications from a web page via [Intent URIs](https://developer.chrome.com/multidevice/android/intents)",
+      "tag": "New",
+      "sort_num": -1,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 851693
+    },
+    {
+      "note": "Locale added: Croatian (hr)",
+      "tag": "New",
+      "sort_num": -1,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1158072
+    },
+    {
+      "note": "Updates to image decoding process",
+      "tag": "Changed",
+      "sort_num": 10,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1152147
+    },
+    {
+      "note": "Support for running [animations][1] of 'transform' and 'opacity' on the compositor thread\r\n\r\n\r\n  [1]: https://wiki.mozilla.org/Platform/GFX/OffMainThreadCompositing#CSS_Animations",
+      "tag": "Changed",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 980770
+    },
+    {
+      "note": "[User Agent][1] now includes Android version\r\n\r\n[1]: https://developer.mozilla.org/docs/Web/HTTP/Gecko_user_agent_string_reference#Android_%28version_41_and_above%29",
+      "tag": "Changed",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": null
+    },
+    {
+      "note": "[MessageChannel][1] and [MessagePort][2] API enabled by default\r\n\r\n[1]: https://developer.mozilla.org/en-US/docs/Web/API/MessageChannel\r\n[2]: https://developer.mozilla.org/docs/Web/API/MessagePort",
+      "tag": "HTML5",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 911972
+    },
+    {
+      "note": "Added support for the [transform-origin][1] property on SVG elements\r\n\r\n[1]:https://developer.mozilla.org/docs/Web/CSS/transform-origin",
+      "tag": "HTML5",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 923193
+    },
+    {
+      "note": "Copy/Cut Web content from JavaScript to the OS clipboard with [document.execCommand(\"cut\"/\"copy\")][1]\r\n\r\n[1]: https://developer.mozilla.org/docs/Web/API/Document/execCommand",
+      "tag": "HTML5",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1012662
+    },
+    {
+      "note": "[CSS Font Loading API][1] enabled by default\r\n\r\n[1]: http://dev.w3.org/csswg/css-font-loading/",
+      "tag": "HTML5",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1149381
+    },
+    {
+      "note": "Removed support for binary XPCOM components in extensions, use addon SDK \"system/child_process\" pipe mechanism for native binaries instead",
+      "tag": "Developer",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1159737
+    },
+    {
+      "note": "[JavaAddonManager][1] can now send, receive and respond to messages from Gecko\r\n\r\n[1]: https://developer.mozilla.org/Add-ons/Firefox_for_Android/API/JavaAddonManager.jsm",
+      "tag": "Developer",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1168407
+    },
+    {
+      "note": "Experimental new \"speed dial\" home panel add-on API ([example add-on][1])\r\n\r\n[1]: https://github.com/pocmo/speed-dial",
+      "tag": "Developer",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": null
+    },
+    {
+      "note": "Generic API let's developers create a [grid of icons][1] and then optionally allow for a large header image\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/Add-ons/Firefox_for_Android/Firefox_Hub_Walkthrough#View_types",
+      "tag": "Developer",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1157539
+    },
+    {
+      "note": "Support for playing MP3 files on Android 5.0 (Lollipop) and above",
+      "tag": "Fixed",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1093815
+    },
+    {
+      "note": "Various [security fixes][1]\r\n\r\n [1]:https://www.mozilla.org/security/known-vulnerabilities/firefox/#firefox41",
+      "tag": "Fixed",
+      "sort_num": -1,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": null
+    }
+  ],
+  "text": "<p>We'd also like to extend a special thank you to all of the <a href=\"https://blog.mozilla.org/community/2015/09/21/firefox-41-new-contributors/ \">new Mozillians</a> who contributed to this release of Firefox!</p>",
+  "release_date": "2015-09-22",
+  "slug": "firefox-for-android-41.0-release",
+  "version": "41.0",
+  "bug_search_url": "",
+  "is_public": true,
+  "system_requirements": "",
+  "channel": "Release"
+}

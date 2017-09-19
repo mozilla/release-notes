@@ -1,1 +1,87 @@
-{"product": "Firefox", "bug_list": "", "title": "Firefox 46.0a2 Aurora", "notes": [{"note": "Smoother [scrolling][1] for Web content\r\n\r\n\r\n  [1]: https://hacks.mozilla.org/2016/02/smoother-scrolling-in-firefox-46-with-apz/", "tag": "New", "sort_num": 90, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1178298}, {"note": "[HTTP sites containing login forms][1] will be marked insecure\r\n\r\n\r\n  [1]: https://hacks.mozilla.org/2016/01/login-forms-over-https-please/", "tag": "New", "sort_num": 80, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1221206}, {"note": "[Improved security][1] of the JavaScript Just In Time (JIT) Compiler\r\n\r\n\r\n  [1]: http://jandemooij.nl/blog/2015/12/29/wx-jit-code-enabled-in-firefox/", "tag": "New", "sort_num": 50, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1215479}, {"note": "GTK3 integration (GNU/Linux only)\r\n", "tag": "New", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1186003}, {"note": "Added support for [WebKitCSSMatrix][1] to improve mobile Web compatibility \r\n\r\n\r\n  [1]: https://compat.spec.whatwg.org/#webkitcssmatrix-interface", "tag": "New", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 717722}, {"note": "[WebRTC][1] fixes to improve performance and stability\r\n\r\n\r\n  [1]: https://wiki.mozilla.org/Media/WebRTC/ReleaseNotes/46", "tag": "Changed", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": null}, {"note": "Display dominator trees in [Memory tool][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Memory", "tag": "Developer", "sort_num": 90, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1229229}, {"note": "Launch responsive mode from the [Style Editor @media sidebar][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Style_Editor#The_media_sidebar", "tag": "Developer", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1029371}, {"note": "Allocation and garbage collection pause profiling in the [performance panel][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Performance/Allocations", "tag": "Developer", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1233551}], "text": "For more information about Developer Edition please see this <a href=\"https://developer.mozilla.org/en-US/Firefox/Developer_Edition\">MDN article</a>. ", "release_date": "2016-01-26", "slug": "firefox-46.0a2-aurora", "version": "46.0a2", "bug_search_url": "", "is_public": true, "system_requirements": "## Windows\r\n\r\n### Operating Systems (32-bit and 64-bit)\r\n - Windows XP SP2\r\n - Windows Server 2003 SP1\r\n - Windows Vista\r\n - Windows 7\r\n - Windows 8\r\n - Windows 10\r\n\r\n*Please note that 64-bit builds of Firefox are only supported on Windows 7 and higher.*\r\n\r\n### Recommended Hardware\r\n-  Pentium 4 or newer processor that supports SSE2\r\n-  512MB of RAM\r\n-  200MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- Mac OS X 10.6\r\n- Mac OS X 10.7\r\n- Mac OS X 10.8\r\n- Mac OS X 10.9\r\n- Mac OS X 10.10\r\n- Mac OS X 10.11\r\n\r\n### Recommended Hardware\r\n- Macintosh computer with an Intel x86 processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - GTK+ 3.4 or higher\r\n    - GLib 2.22 or higher\r\n    - Pango 1.14 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n    - libstdc++ 4.3 or higher\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - NetworkManager 0.7 or higher\r\n    - DBus 1.0 or higher\r\n    - HAL 0.5.8 or higher\r\n    - GNOME 2.16 or higher", "channel": "Aurora"}
+{
+  "product": "Firefox",
+  "bug_list": "",
+  "title": "Firefox 46.0a2 Aurora",
+  "notes": [
+    {
+      "note": "Smoother [scrolling][1] for Web content\r\n\r\n\r\n  [1]: https://hacks.mozilla.org/2016/02/smoother-scrolling-in-firefox-46-with-apz/",
+      "tag": "New",
+      "sort_num": 90,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1178298
+    },
+    {
+      "note": "[HTTP sites containing login forms][1] will be marked insecure\r\n\r\n\r\n  [1]: https://hacks.mozilla.org/2016/01/login-forms-over-https-please/",
+      "tag": "New",
+      "sort_num": 80,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1221206
+    },
+    {
+      "note": "[Improved security][1] of the JavaScript Just In Time (JIT) Compiler\r\n\r\n\r\n  [1]: http://jandemooij.nl/blog/2015/12/29/wx-jit-code-enabled-in-firefox/",
+      "tag": "New",
+      "sort_num": 50,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1215479
+    },
+    {
+      "note": "GTK3 integration (GNU/Linux only)\r\n",
+      "tag": "New",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1186003
+    },
+    {
+      "note": "Added support for [WebKitCSSMatrix][1] to improve mobile Web compatibility \r\n\r\n\r\n  [1]: https://compat.spec.whatwg.org/#webkitcssmatrix-interface",
+      "tag": "New",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 717722
+    },
+    {
+      "note": "[WebRTC][1] fixes to improve performance and stability\r\n\r\n\r\n  [1]: https://wiki.mozilla.org/Media/WebRTC/ReleaseNotes/46",
+      "tag": "Changed",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": null
+    },
+    {
+      "note": "Display dominator trees in [Memory tool][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Memory",
+      "tag": "Developer",
+      "sort_num": 90,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1229229
+    },
+    {
+      "note": "Launch responsive mode from the [Style Editor @media sidebar][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Style_Editor#The_media_sidebar",
+      "tag": "Developer",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1029371
+    },
+    {
+      "note": "Allocation and garbage collection pause profiling in the [performance panel][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Performance/Allocations",
+      "tag": "Developer",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1233551
+    }
+  ],
+  "text": "For more information about Developer Edition please see this <a href=\"https://developer.mozilla.org/en-US/Firefox/Developer_Edition\">MDN article</a>. ",
+  "release_date": "2016-01-26",
+  "slug": "firefox-46.0a2-aurora",
+  "version": "46.0a2",
+  "bug_search_url": "",
+  "is_public": true,
+  "system_requirements": "## Windows\r\n\r\n### Operating Systems (32-bit and 64-bit)\r\n - Windows XP SP2\r\n - Windows Server 2003 SP1\r\n - Windows Vista\r\n - Windows 7\r\n - Windows 8\r\n - Windows 10\r\n\r\n*Please note that 64-bit builds of Firefox are only supported on Windows 7 and higher.*\r\n\r\n### Recommended Hardware\r\n-  Pentium 4 or newer processor that supports SSE2\r\n-  512MB of RAM\r\n-  200MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- Mac OS X 10.6\r\n- Mac OS X 10.7\r\n- Mac OS X 10.8\r\n- Mac OS X 10.9\r\n- Mac OS X 10.10\r\n- Mac OS X 10.11\r\n\r\n### Recommended Hardware\r\n- Macintosh computer with an Intel x86 processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - GTK+ 3.4 or higher\r\n    - GLib 2.22 or higher\r\n    - Pango 1.14 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n    - libstdc++ 4.3 or higher\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - NetworkManager 0.7 or higher\r\n    - DBus 1.0 or higher\r\n    - HAL 0.5.8 or higher\r\n    - GNOME 2.16 or higher",
+  "channel": "Aurora"
+}

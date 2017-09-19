@@ -1,1 +1,111 @@
-{"product": "Firefox", "bug_list": "", "title": "Firefox 32.0a2 Aurora", "notes": [{"note": "View historical use information for logins stored in password manager", "tag": "New", "sort_num": 0, "fixed_in_release": {"product": "Firefox", "title": "Firefox 30.0a2 Aurora", "version": "30.0a2", "is_public": true, "slug": "firefox-30.0a2-aurora", "channel": "Aurora"}, "is_public": true, "is_known_issue": false, "bug": 998081}, {"note": "Display the number of found items in the find toolbar ", "tag": "New", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 257061}, {"note": "drawFocusIfNeeded enabled by default", "tag": "HTML5", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1004579}, {"note": "ECMAScript 6 built-in method [Array#copyWithin implemented][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/Firefox/Releases/32#JavaScript", "tag": "HTML5", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 934423}, {"note": "CSS [position:sticky][1] enabled by default\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/position", "tag": "HTML5", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 916315}, {"note": "mix-blend-mode enabled by default ", "tag": "HTML5", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 952643}, {"note": "HiDPI support in Developer Tools UI", "tag": "Developer", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 837188}, {"note": "Inspector button moved to the top left", "tag": "Developer", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 991810}, {"note": "Hidden nodes displayed differently in the markup-view", "tag": "Developer", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 911209}, {"note": "Exit is not always completed when \"clear history when Firefox closes\" is enabled ([1005487][1])\r\n\r\n\r\n  [1]: http://bugzilla.mozilla.org/1005487", "tag": "Known", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": true, "bug": 1005487}, {"note": " Repeating background image causes weird text layout issue with HWA off ([1011166][1])\r\n\r\n\r\n  [1]: http://bugzilla.mozilla.org/1011166", "tag": "Known", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": true, "bug": 1011166}], "text": " ", "release_date": "2014-06-13", "slug": "firefox-32.0a2-aurora", "version": "32.0a2", "bug_search_url": "", "is_public": true, "system_requirements": "## Windows\r\n\r\n### Operating Systems\r\n - Windows XP SP2\r\n - Windows Server 2003 SP1\r\n - Windows Vista\r\n - Windows 7\r\n - Windows 8\r\n\r\n*Please note that while the 32-bit and 64-bit versions of Windows Vista and Windows 7 can be used to run Firefox 26, only 32-bit builds of Firefox 26 are supported at this time.*\r\n\r\n### Recommended Hardware\r\n-  Pentium 4 or newer processor that supports SSE2\r\n-  512MB of RAM\r\n-  200MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- Mac OS X 10.6\r\n- Mac OS X 10.7\r\n- Mac OS X 10.8\r\n- Mac OS X 10.9\r\n\r\n### Recommended Hardware\r\n- Macintosh computer with an Intel x86 processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - GTK+ 2.18 or higher\r\n    - GLib 2.22 or higher\r\n    - Pango 1.14 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n    - libstdc++ 4.3 or higher\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - NetworkManager 0.7 or higher\r\n    - DBus 1.0 or higher\r\n    - HAL 0.5.8 or higher\r\n    - GNOME 2.16 or higher", "channel": "Aurora"}
+{
+  "product": "Firefox",
+  "bug_list": "",
+  "title": "Firefox 32.0a2 Aurora",
+  "notes": [
+    {
+      "note": "View historical use information for logins stored in password manager",
+      "tag": "New",
+      "sort_num": 0,
+      "fixed_in_release": {
+        "product": "Firefox",
+        "title": "Firefox 30.0a2 Aurora",
+        "version": "30.0a2",
+        "is_public": true,
+        "slug": "firefox-30.0a2-aurora",
+        "channel": "Aurora"
+      },
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 998081
+    },
+    {
+      "note": "Display the number of found items in the find toolbar ",
+      "tag": "New",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 257061
+    },
+    {
+      "note": "drawFocusIfNeeded enabled by default",
+      "tag": "HTML5",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1004579
+    },
+    {
+      "note": "ECMAScript 6 built-in method [Array#copyWithin implemented][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/Firefox/Releases/32#JavaScript",
+      "tag": "HTML5",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 934423
+    },
+    {
+      "note": "CSS [position:sticky][1] enabled by default\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/position",
+      "tag": "HTML5",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 916315
+    },
+    {
+      "note": "mix-blend-mode enabled by default ",
+      "tag": "HTML5",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 952643
+    },
+    {
+      "note": "HiDPI support in Developer Tools UI",
+      "tag": "Developer",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 837188
+    },
+    {
+      "note": "Inspector button moved to the top left",
+      "tag": "Developer",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 991810
+    },
+    {
+      "note": "Hidden nodes displayed differently in the markup-view",
+      "tag": "Developer",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 911209
+    },
+    {
+      "note": "Exit is not always completed when \"clear history when Firefox closes\" is enabled ([1005487][1])\r\n\r\n\r\n  [1]: http://bugzilla.mozilla.org/1005487",
+      "tag": "Known",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": true,
+      "bug": 1005487
+    },
+    {
+      "note": " Repeating background image causes weird text layout issue with HWA off ([1011166][1])\r\n\r\n\r\n  [1]: http://bugzilla.mozilla.org/1011166",
+      "tag": "Known",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": true,
+      "bug": 1011166
+    }
+  ],
+  "text": " ",
+  "release_date": "2014-06-13",
+  "slug": "firefox-32.0a2-aurora",
+  "version": "32.0a2",
+  "bug_search_url": "",
+  "is_public": true,
+  "system_requirements": "## Windows\r\n\r\n### Operating Systems\r\n - Windows XP SP2\r\n - Windows Server 2003 SP1\r\n - Windows Vista\r\n - Windows 7\r\n - Windows 8\r\n\r\n*Please note that while the 32-bit and 64-bit versions of Windows Vista and Windows 7 can be used to run Firefox 26, only 32-bit builds of Firefox 26 are supported at this time.*\r\n\r\n### Recommended Hardware\r\n-  Pentium 4 or newer processor that supports SSE2\r\n-  512MB of RAM\r\n-  200MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- Mac OS X 10.6\r\n- Mac OS X 10.7\r\n- Mac OS X 10.8\r\n- Mac OS X 10.9\r\n\r\n### Recommended Hardware\r\n- Macintosh computer with an Intel x86 processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - GTK+ 2.18 or higher\r\n    - GLib 2.22 or higher\r\n    - Pango 1.14 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n    - libstdc++ 4.3 or higher\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - NetworkManager 0.7 or higher\r\n    - DBus 1.0 or higher\r\n    - HAL 0.5.8 or higher\r\n    - GNOME 2.16 or higher",
+  "channel": "Aurora"
+}

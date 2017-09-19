@@ -1,1 +1,23 @@
-{"product": "Firefox for Android", "bug_list": "", "title": "Firefox for Android 50.0.2 Release", "notes": [{"note": "Various [security fixes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/en-US/security/known-vulnerabilities/firefox/#firefox50.0.2", "tag": "Fixed", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": null}], "text": "<p>We'd also like to extend a special thank you to all of the <a href=\"https://blog.mozilla.org/community/2016/11/11/firefox-50-new-contributors/\">new Mozillians</a> who contributed to this release of Firefox!</p>", "release_date": "2016-11-30", "slug": "firefox-for-android-50.0.2-release", "version": "50.0.2", "bug_search_url": "", "is_public": true, "system_requirements": "## Operating systems\r\n - Android 4.0\r\n - Above versions\r\n\r\n## Requirements\r\n - 50 MB internal storage\r\n - 384 MB of RAM\r\n - display at least 320 pixels high and 240 pixels wide", "channel": "Release"}
+{
+  "product": "Firefox for Android",
+  "bug_list": "",
+  "title": "Firefox for Android 50.0.2 Release",
+  "notes": [
+    {
+      "note": "Various [security fixes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/en-US/security/known-vulnerabilities/firefox/#firefox50.0.2",
+      "tag": "Fixed",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": null
+    }
+  ],
+  "text": "<p>We'd also like to extend a special thank you to all of the <a href=\"https://blog.mozilla.org/community/2016/11/11/firefox-50-new-contributors/\">new Mozillians</a> who contributed to this release of Firefox!</p>",
+  "release_date": "2016-11-30",
+  "slug": "firefox-for-android-50.0.2-release",
+  "version": "50.0.2",
+  "bug_search_url": "",
+  "is_public": true,
+  "system_requirements": "## Operating systems\r\n - Android 4.0\r\n - Above versions\r\n\r\n## Requirements\r\n - 50 MB internal storage\r\n - 384 MB of RAM\r\n - display at least 320 pixels high and 240 pixels wide",
+  "channel": "Release"
+}

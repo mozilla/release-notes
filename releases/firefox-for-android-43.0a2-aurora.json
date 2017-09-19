@@ -1,1 +1,71 @@
-{"product": "Firefox for Android", "bug_list": "", "title": "Firefox for Android 43.0a2 Aurora", "notes": [{"note": "Users can now mark read/unread state of items in [reading list panel][1]\r\n\r\n\r\n  [1]: https://support.mozilla.org/en-US/kb/save-web-pages-your-reading-list-firefox-android#w_access-your-reading-list", "tag": "New", "sort_num": 100, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1084062}, {"note": "[Tab audio indicator][1] displays in tab list \r\n\r\n\r\n  [1]: https://support.mozilla.org/en-US/kb/identify-noisy-tabs-firefox-android", "tag": "New", "sort_num": 95, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1018504}, {"note": "[Include URL when sharing selected text][1] from web page\r\n\r\n\r\n  [1]: https://support.mozilla.org/en-US/kb/how-do-i-share-things-firefox-android#w_how-do-i-share-from-a-web-page", "tag": "New", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1171929}, {"note": "Users can set a custom home page", "tag": "New", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1195721}, {"note": "[Accessibility improvements][1] for scrolling, zooming, braille, and context menus in Talkback screen reader\r\n\r\n\r\n  [1]: http://blog.monotonous.org/2015/09/15/firefox-for-android-accessibility-refresh/", "tag": "New", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1182162}, {"note": "New split pane styling for History panel on tablets in landscape mode", "tag": "New", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1142171}, {"note": "Updated toolbar menu to match latest Android UI designs", "tag": "New", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1148550}], "text": "", "release_date": "2015-09-22", "slug": "firefox-for-android-43.0a2-aurora", "version": "43.0a2", "bug_search_url": "", "is_public": true, "system_requirements": "", "channel": "Aurora"}
+{
+  "product": "Firefox for Android",
+  "bug_list": "",
+  "title": "Firefox for Android 43.0a2 Aurora",
+  "notes": [
+    {
+      "note": "Users can now mark read/unread state of items in [reading list panel][1]\r\n\r\n\r\n  [1]: https://support.mozilla.org/en-US/kb/save-web-pages-your-reading-list-firefox-android#w_access-your-reading-list",
+      "tag": "New",
+      "sort_num": 100,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1084062
+    },
+    {
+      "note": "[Tab audio indicator][1] displays in tab list \r\n\r\n\r\n  [1]: https://support.mozilla.org/en-US/kb/identify-noisy-tabs-firefox-android",
+      "tag": "New",
+      "sort_num": 95,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1018504
+    },
+    {
+      "note": "[Include URL when sharing selected text][1] from web page\r\n\r\n\r\n  [1]: https://support.mozilla.org/en-US/kb/how-do-i-share-things-firefox-android#w_how-do-i-share-from-a-web-page",
+      "tag": "New",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1171929
+    },
+    {
+      "note": "Users can set a custom home page",
+      "tag": "New",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1195721
+    },
+    {
+      "note": "[Accessibility improvements][1] for scrolling, zooming, braille, and context menus in Talkback screen reader\r\n\r\n\r\n  [1]: http://blog.monotonous.org/2015/09/15/firefox-for-android-accessibility-refresh/",
+      "tag": "New",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1182162
+    },
+    {
+      "note": "New split pane styling for History panel on tablets in landscape mode",
+      "tag": "New",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1142171
+    },
+    {
+      "note": "Updated toolbar menu to match latest Android UI designs",
+      "tag": "New",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1148550
+    }
+  ],
+  "text": "",
+  "release_date": "2015-09-22",
+  "slug": "firefox-for-android-43.0a2-aurora",
+  "version": "43.0a2",
+  "bug_search_url": "",
+  "is_public": true,
+  "system_requirements": "",
+  "channel": "Aurora"
+}

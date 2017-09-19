@@ -1,1 +1,143 @@
-{"product": "Firefox for Android", "bug_list": "", "title": "Firefox for Android 19.0 Release", "notes": [{"note": "Starting Firefox with -private flag incorrectly claims you are not in Private Browsing mode", "tag": "", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 802274}, {"note": "Built-in PDF viewer", "tag": "New", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": null}, {"note": "Plugins stop rendering when the top half of the plugin is scrolled off the top of the page, in HiDPI mode", "tag": "", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 825734}, {"note": "Certain valid WebGL drawing operations are incorrectly rejected,\nleaving incomplete rendering in affected pages", "tag": "", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 825205}, {"note": "Some function keys may not work when pressed", "tag": "", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 833719}, {"note": "Startup performance improvements (<a href=\"https://bugzilla.mozilla.org/buglist.cgi?quicksearch=715402%2C756313\">bugs 715402 and 756313</a>)", "tag": "Changed", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": null}, {"note": "Canvas elements can export their content as an image blob using <a href=\"https://hacks.mozilla.org/2012/10/firefox-development-highlights-viewport-percentage-canvas-toblob-and-webrtc/\">canvas.toBlob()</a>", "tag": "Changed", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": null}, {"note": "CSS <a href=\"https://developer.mozilla.org/en-US/docs/CSS/length#Viewport-percentage_lengths\">viewport-percentage length units</a> implemented (vh, vw, vmin and vmax)", "tag": "HTML5", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": null}, {"note": "CSS text-transform now supports <a href=\"https://developer.mozilla.org/en-US/docs/CSS/text-transform\">full-width</a>", "tag": "HTML5", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": null}, {"note": "CSS <a href=\"https://developer.mozilla.org/en-US/docs/CSS/@page\">@page</a> is now supported", "tag": "HTML5", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": null}, {"note": "Remote Web Console is available for connecting to Firefox on Android or Firefox OS (experimental, set devtools.debugger.remote-enabled to true)", "tag": "Developer", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": null}, {"note": "Web Console CSS links now open in the Style Editor", "tag": "Developer", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": null}, {"note": "Debugger now supports pausing on exceptions and hiding non-enumerable properties", "tag": "Developer", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": null}, {"note": "There is now a Browser Debugger available for add-on and browser developers (experimental, set devtools.chrome.enabled to true)", "tag": "Developer", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": null}, {"note": "Various <a href=\"https://www.mozilla.org/security/known-vulnerabilities/firefox.html\">security fixes</a>", "tag": "Fixed", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": null}, {"note": "If you try to start Firefox using a locked profile, it will crash (see [573369][1])\r\n\r\n\r\n  [1]: http://bugzilla.mozilla.org/573369", "tag": "Known", "sort_num": -100, "fixed_in_release": null, "is_public": true, "is_known_issue": true, "bug": 573369}], "text": "", "release_date": "2013-02-19", "slug": "firefox-for-android-19.0-release", "version": "19.0", "bug_search_url": "", "is_public": true, "system_requirements": "", "channel": "Release"}
+{
+  "product": "Firefox for Android",
+  "bug_list": "",
+  "title": "Firefox for Android 19.0 Release",
+  "notes": [
+    {
+      "note": "Starting Firefox with -private flag incorrectly claims you are not in Private Browsing mode",
+      "tag": "",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 802274
+    },
+    {
+      "note": "Built-in PDF viewer",
+      "tag": "New",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": null
+    },
+    {
+      "note": "Plugins stop rendering when the top half of the plugin is scrolled off the top of the page, in HiDPI mode",
+      "tag": "",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 825734
+    },
+    {
+      "note": "Certain valid WebGL drawing operations are incorrectly rejected,\nleaving incomplete rendering in affected pages",
+      "tag": "",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 825205
+    },
+    {
+      "note": "Some function keys may not work when pressed",
+      "tag": "",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 833719
+    },
+    {
+      "note": "Startup performance improvements (<a href=\"https://bugzilla.mozilla.org/buglist.cgi?quicksearch=715402%2C756313\">bugs 715402 and 756313</a>)",
+      "tag": "Changed",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": null
+    },
+    {
+      "note": "Canvas elements can export their content as an image blob using <a href=\"https://hacks.mozilla.org/2012/10/firefox-development-highlights-viewport-percentage-canvas-toblob-and-webrtc/\">canvas.toBlob()</a>",
+      "tag": "Changed",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": null
+    },
+    {
+      "note": "CSS <a href=\"https://developer.mozilla.org/en-US/docs/CSS/length#Viewport-percentage_lengths\">viewport-percentage length units</a> implemented (vh, vw, vmin and vmax)",
+      "tag": "HTML5",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": null
+    },
+    {
+      "note": "CSS text-transform now supports <a href=\"https://developer.mozilla.org/en-US/docs/CSS/text-transform\">full-width</a>",
+      "tag": "HTML5",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": null
+    },
+    {
+      "note": "CSS <a href=\"https://developer.mozilla.org/en-US/docs/CSS/@page\">@page</a> is now supported",
+      "tag": "HTML5",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": null
+    },
+    {
+      "note": "Remote Web Console is available for connecting to Firefox on Android or Firefox OS (experimental, set devtools.debugger.remote-enabled to true)",
+      "tag": "Developer",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": null
+    },
+    {
+      "note": "Web Console CSS links now open in the Style Editor",
+      "tag": "Developer",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": null
+    },
+    {
+      "note": "Debugger now supports pausing on exceptions and hiding non-enumerable properties",
+      "tag": "Developer",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": null
+    },
+    {
+      "note": "There is now a Browser Debugger available for add-on and browser developers (experimental, set devtools.chrome.enabled to true)",
+      "tag": "Developer",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": null
+    },
+    {
+      "note": "Various <a href=\"https://www.mozilla.org/security/known-vulnerabilities/firefox.html\">security fixes</a>",
+      "tag": "Fixed",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": null
+    },
+    {
+      "note": "If you try to start Firefox using a locked profile, it will crash (see [573369][1])\r\n\r\n\r\n  [1]: http://bugzilla.mozilla.org/573369",
+      "tag": "Known",
+      "sort_num": -100,
+      "is_public": true,
+      "is_known_issue": true,
+      "bug": 573369
+    }
+  ],
+  "text": "",
+  "release_date": "2013-02-19",
+  "slug": "firefox-for-android-19.0-release",
+  "version": "19.0",
+  "bug_search_url": "",
+  "is_public": true,
+  "system_requirements": "",
+  "channel": "Release"
+}

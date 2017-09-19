@@ -1,1 +1,151 @@
-{"product": "Firefox", "bug_list": "", "title": "Firefox 43.0a2 Aurora", "notes": [{"note": "Improved [API support for m4v][1] video playback\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/HTMLMediaElement/canPlayType", "tag": "New", "sort_num": 99, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 875573}, {"note": "WebRTC streaming on multiple monitors", "tag": "New", "sort_num": 95, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1037997}, {"note": "Improved Big5 support for [Hong Kong supplementary characters on Windows XP][1]\r\n\r\n  [1]: https://www.microsoft.com/en-us/download/details.aspx?id=10109", "tag": "New", "sort_num": 1, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 912470}, {"note": "GTK3 integration (GNU/Linux only)\r\n", "tag": "New", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1186003}, {"note": "Ship [Push messaging][1] with disabled web notifications from ServiceWorkers\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/API/Push_API", "tag": "HTML5", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1153499}, {"note": "Markup view shows [indicators for pseudo-classes locked for elements][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector/How_to/Examine_and_edit_CSS#Setting_hover_active_focus", "tag": "Developer", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1120406}, {"note": " Bind F1 key to open the settings when the toolbox is focused", "tag": "Developer", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1198339}, {"note": "[New 'Use in Console' context menu item][1] in Inspector to store selected element in a temporary variable\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Tools/Page_Inspector/How_to/Examine_and_edit_HTML#Element_popup_menu", "tag": "Developer", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1154363}, {"note": "[Search button next to overridden CSS properties][1] to find similar properties in the rules view\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Tools/Page_Inspector/How_to/Examine_and_edit_CSS#Overridden_declarations", "tag": "Developer", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1151943}, {"note": "Ability to filter styles from their property names in the rules view", "tag": "Developer", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1197048}, {"note": "Stack traces are now shown for exceptions inside the console\r\n", "tag": "Developer", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1184172}, {"note": "Added ability to [display server-side logs in the console][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Tools/Web_Console/Console_messages#Server", "tag": "Developer", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1168872}, {"note": "Ability to choose resolution for the GCLI screenshot command", "tag": "Developer", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 970625}, {"note": "Service worker network interception via [FetchEvent][1] enabled\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/FetchEvent", "tag": "Developer", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1059784}, {"note": "[Subresource integrity][1] allows developers to make their sites more secure\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/Security/Subresource_Integrity", "tag": "Developer", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1205448}, {"note": "Eyedropper tool does not work as expected when page is zoomed", "tag": "Fixed", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1176595}, {"note": "The CTRL+K shortcut does not give focus to the search field when used from the URL bar on GNU/Linux with GTK+ 3.14 and 3.16 ([1176929][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1176929", "tag": "Known", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": true, "bug": 1176929}], "text": "", "release_date": "2015-09-22", "slug": "firefox-43.0a2-aurora", "version": "43.0a2", "bug_search_url": "", "is_public": true, "system_requirements": "## Windows\r\n\r\n### Operating Systems\r\n - Windows XP SP2\r\n - Windows Server 2003 SP1\r\n - Windows Vista\r\n - Windows 7\r\n - Windows 8\r\n - Windows 10\r\n\r\n*Please note that while the 32-bit and 64-bit versions of Windows Vista and Windows 7 can be used to run Firefox, only 32-bit builds of Firefox are supported at this time.*\r\n\r\n### Recommended Hardware\r\n-  Pentium 4 or newer processor that supports SSE2\r\n-  512MB of RAM\r\n-  200MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- Mac OS X 10.6\r\n- Mac OS X 10.7\r\n- Mac OS X 10.8\r\n- Mac OS X 10.9\r\n- Mac OS X 10.10\r\n\r\n### Recommended Hardware\r\n- Macintosh computer with an Intel x86 processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - GTK+ 3.4 or higher\r\n    - GLib 2.22 or higher\r\n    - Pango 1.14 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n    - libstdc++ 4.3 or higher\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - NetworkManager 0.7 or higher\r\n    - DBus 1.0 or higher\r\n    - HAL 0.5.8 or higher\r\n    - GNOME 2.16 or higher", "channel": "Aurora"}
+{
+  "product": "Firefox",
+  "bug_list": "",
+  "title": "Firefox 43.0a2 Aurora",
+  "notes": [
+    {
+      "note": "Improved [API support for m4v][1] video playback\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/HTMLMediaElement/canPlayType",
+      "tag": "New",
+      "sort_num": 99,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 875573
+    },
+    {
+      "note": "WebRTC streaming on multiple monitors",
+      "tag": "New",
+      "sort_num": 95,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1037997
+    },
+    {
+      "note": "Improved Big5 support for [Hong Kong supplementary characters on Windows XP][1]\r\n\r\n  [1]: https://www.microsoft.com/en-us/download/details.aspx?id=10109",
+      "tag": "New",
+      "sort_num": 1,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 912470
+    },
+    {
+      "note": "GTK3 integration (GNU/Linux only)\r\n",
+      "tag": "New",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1186003
+    },
+    {
+      "note": "Ship [Push messaging][1] with disabled web notifications from ServiceWorkers\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/API/Push_API",
+      "tag": "HTML5",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1153499
+    },
+    {
+      "note": "Markup view shows [indicators for pseudo-classes locked for elements][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector/How_to/Examine_and_edit_CSS#Setting_hover_active_focus",
+      "tag": "Developer",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1120406
+    },
+    {
+      "note": " Bind F1 key to open the settings when the toolbox is focused",
+      "tag": "Developer",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1198339
+    },
+    {
+      "note": "[New 'Use in Console' context menu item][1] in Inspector to store selected element in a temporary variable\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Tools/Page_Inspector/How_to/Examine_and_edit_HTML#Element_popup_menu",
+      "tag": "Developer",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1154363
+    },
+    {
+      "note": "[Search button next to overridden CSS properties][1] to find similar properties in the rules view\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Tools/Page_Inspector/How_to/Examine_and_edit_CSS#Overridden_declarations",
+      "tag": "Developer",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1151943
+    },
+    {
+      "note": "Ability to filter styles from their property names in the rules view",
+      "tag": "Developer",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1197048
+    },
+    {
+      "note": "Stack traces are now shown for exceptions inside the console\r\n",
+      "tag": "Developer",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1184172
+    },
+    {
+      "note": "Added ability to [display server-side logs in the console][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Tools/Web_Console/Console_messages#Server",
+      "tag": "Developer",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1168872
+    },
+    {
+      "note": "Ability to choose resolution for the GCLI screenshot command",
+      "tag": "Developer",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 970625
+    },
+    {
+      "note": "Service worker network interception via [FetchEvent][1] enabled\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/FetchEvent",
+      "tag": "Developer",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1059784
+    },
+    {
+      "note": "[Subresource integrity][1] allows developers to make their sites more secure\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/Security/Subresource_Integrity",
+      "tag": "Developer",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1205448
+    },
+    {
+      "note": "Eyedropper tool does not work as expected when page is zoomed",
+      "tag": "Fixed",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1176595
+    },
+    {
+      "note": "The CTRL+K shortcut does not give focus to the search field when used from the URL bar on GNU/Linux with GTK+ 3.14 and 3.16 ([1176929][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1176929",
+      "tag": "Known",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": true,
+      "bug": 1176929
+    }
+  ],
+  "text": "",
+  "release_date": "2015-09-22",
+  "slug": "firefox-43.0a2-aurora",
+  "version": "43.0a2",
+  "bug_search_url": "",
+  "is_public": true,
+  "system_requirements": "## Windows\r\n\r\n### Operating Systems\r\n - Windows XP SP2\r\n - Windows Server 2003 SP1\r\n - Windows Vista\r\n - Windows 7\r\n - Windows 8\r\n - Windows 10\r\n\r\n*Please note that while the 32-bit and 64-bit versions of Windows Vista and Windows 7 can be used to run Firefox, only 32-bit builds of Firefox are supported at this time.*\r\n\r\n### Recommended Hardware\r\n-  Pentium 4 or newer processor that supports SSE2\r\n-  512MB of RAM\r\n-  200MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- Mac OS X 10.6\r\n- Mac OS X 10.7\r\n- Mac OS X 10.8\r\n- Mac OS X 10.9\r\n- Mac OS X 10.10\r\n\r\n### Recommended Hardware\r\n- Macintosh computer with an Intel x86 processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - GTK+ 3.4 or higher\r\n    - GLib 2.22 or higher\r\n    - Pango 1.14 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n    - libstdc++ 4.3 or higher\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - NetworkManager 0.7 or higher\r\n    - DBus 1.0 or higher\r\n    - HAL 0.5.8 or higher\r\n    - GNOME 2.16 or higher",
+  "channel": "Aurora"
+}

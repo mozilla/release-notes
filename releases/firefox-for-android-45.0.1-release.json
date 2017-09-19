@@ -1,1 +1,39 @@
-{"product": "Firefox for Android", "bug_list": "", "title": "Firefox for Android 45.0.1 Release", "notes": [{"note": "Reference: Release notes for [Firefox 45.0][1]\r\n\r\n\r\n  [1]: https://www.mozilla.com/en-US/firefox/android/45.0/releasenotes/", "tag": "", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": null}, {"note": "Disabled Graphite font shaping library", "tag": "Changed", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1255731}, {"note": "Bring back WebGL support on some devices ([1256371][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1256371", "tag": "Fixed", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1256371}], "text": "<p>We'd also like to extend a special thank you to all of the <a href=\"http://blog.mozilla.org/community/2016/03/02/firefox-45-new-contributors/\">new Mozillians</a> who contributed to this release of Firefox!</p> ", "release_date": "2016-03-16", "slug": "firefox-for-android-45.0.1-release", "version": "45.0.1", "bug_search_url": "", "is_public": true, "system_requirements": "## Operating systems\r\n - Android 2.3\r\n - Android 3.0\r\n - Android 4.0\r\n - Above versions\r\n\r\n## Requirements\r\n - 50 MB internal storage\r\n - 384 MB of RAM\r\n - display at least 320 pixels high and 240 pixels wide", "channel": "Release"}
+{
+  "product": "Firefox for Android",
+  "bug_list": "",
+  "title": "Firefox for Android 45.0.1 Release",
+  "notes": [
+    {
+      "note": "Reference: Release notes for [Firefox 45.0][1]\r\n\r\n\r\n  [1]: https://www.mozilla.com/en-US/firefox/android/45.0/releasenotes/",
+      "tag": "",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": null
+    },
+    {
+      "note": "Disabled Graphite font shaping library",
+      "tag": "Changed",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1255731
+    },
+    {
+      "note": "Bring back WebGL support on some devices ([1256371][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1256371",
+      "tag": "Fixed",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1256371
+    }
+  ],
+  "text": "<p>We'd also like to extend a special thank you to all of the <a href=\"http://blog.mozilla.org/community/2016/03/02/firefox-45-new-contributors/\">new Mozillians</a> who contributed to this release of Firefox!</p> ",
+  "release_date": "2016-03-16",
+  "slug": "firefox-for-android-45.0.1-release",
+  "version": "45.0.1",
+  "bug_search_url": "",
+  "is_public": true,
+  "system_requirements": "## Operating systems\r\n - Android 2.3\r\n - Android 3.0\r\n - Android 4.0\r\n - Above versions\r\n\r\n## Requirements\r\n - 50 MB internal storage\r\n - 384 MB of RAM\r\n - display at least 320 pixels high and 240 pixels wide",
+  "channel": "Release"
+}

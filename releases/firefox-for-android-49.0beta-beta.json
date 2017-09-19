@@ -1,1 +1,87 @@
-{"product": "Firefox for Android", "bug_list": "", "title": "Firefox for Android 49.0beta Beta", "notes": [{"note": "Updated Firefox Login Manager to allow HTTPS pages to use saved HTTP logins. It\u2019s one more way Firefox is supporting [Let\u2019s Encrypt][1] and [helping users transition to a more secure web][2].\r\n\r\n\r\n  [1]: https://letsencrypt.org/\r\n  [2]: https://matthew.noorenberghe.com/blog/2016/08/filling-saved-http-logins-over-https-same-domain", "tag": "New", "sort_num": 98, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1127579}, {"note": "Updated tab appearance and behavior\r\n\r\n - Outdated tabs are now hidden when restore tabs setting is set to \"Always restore\" \r\n - Remember scroll position and zoom level for open tabs \r\n - Updated media controls to avoid playing sounds from multiple tabs at once\r\n - Visual improvements in favicon display\r\n\r\n", "tag": "New", "sort_num": 94, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1266339}, {"note": "Added tour of indispensable features like Reader View and Sync to First Run page", "tag": "New", "sort_num": 70, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1268647}, {"note": "Visual improvements in favicon display", "tag": "New", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1265497}, {"note": "Updated media controls to avoid playing sounds from multiple tabs at once ", "tag": "New", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1257738}, {"note": "Remember scroll position and zoom level for open tabs", "tag": "New", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 810981}, {"note": "Locales added: Spanish from Chile (es-CL) and Norwegian (Nynorsk) (nn-NO)", "tag": "New", "sort_num": -1, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1289224}, {"note": "Deliver asynchronous notifications via [Push API][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/API/Push_API", "tag": "Developer", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1206207}, {"note": "Introduced [web speech synthesis API][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API#Speech_synthesis", "tag": "Developer", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": null}], "text": "", "release_date": "2016-08-03", "slug": "firefox-for-android-49.0beta-beta", "version": "49.0beta", "bug_search_url": "", "is_public": true, "system_requirements": "## Operating systems\r\n - Android 4.0\r\n - Above versions\r\n\r\n## Requirements\r\n - 50 MB internal storage\r\n - 384 MB of RAM\r\n - display at least 320 pixels high and 240 pixels wide", "channel": "Beta"}
+{
+  "product": "Firefox for Android",
+  "bug_list": "",
+  "title": "Firefox for Android 49.0beta Beta",
+  "notes": [
+    {
+      "note": "Updated Firefox Login Manager to allow HTTPS pages to use saved HTTP logins. It\u2019s one more way Firefox is supporting [Let\u2019s Encrypt][1] and [helping users transition to a more secure web][2].\r\n\r\n\r\n  [1]: https://letsencrypt.org/\r\n  [2]: https://matthew.noorenberghe.com/blog/2016/08/filling-saved-http-logins-over-https-same-domain",
+      "tag": "New",
+      "sort_num": 98,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1127579
+    },
+    {
+      "note": "Updated tab appearance and behavior\r\n\r\n - Outdated tabs are now hidden when restore tabs setting is set to \"Always restore\" \r\n - Remember scroll position and zoom level for open tabs \r\n - Updated media controls to avoid playing sounds from multiple tabs at once\r\n - Visual improvements in favicon display\r\n\r\n",
+      "tag": "New",
+      "sort_num": 94,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1266339
+    },
+    {
+      "note": "Added tour of indispensable features like Reader View and Sync to First Run page",
+      "tag": "New",
+      "sort_num": 70,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1268647
+    },
+    {
+      "note": "Visual improvements in favicon display",
+      "tag": "New",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1265497
+    },
+    {
+      "note": "Updated media controls to avoid playing sounds from multiple tabs at once ",
+      "tag": "New",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1257738
+    },
+    {
+      "note": "Remember scroll position and zoom level for open tabs",
+      "tag": "New",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 810981
+    },
+    {
+      "note": "Locales added: Spanish from Chile (es-CL) and Norwegian (Nynorsk) (nn-NO)",
+      "tag": "New",
+      "sort_num": -1,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1289224
+    },
+    {
+      "note": "Deliver asynchronous notifications via [Push API][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/API/Push_API",
+      "tag": "Developer",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1206207
+    },
+    {
+      "note": "Introduced [web speech synthesis API][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API#Speech_synthesis",
+      "tag": "Developer",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": null
+    }
+  ],
+  "text": "",
+  "release_date": "2016-08-03",
+  "slug": "firefox-for-android-49.0beta-beta",
+  "version": "49.0beta",
+  "bug_search_url": "",
+  "is_public": true,
+  "system_requirements": "## Operating systems\r\n - Android 4.0\r\n - Above versions\r\n\r\n## Requirements\r\n - 50 MB internal storage\r\n - 384 MB of RAM\r\n - display at least 320 pixels high and 240 pixels wide",
+  "channel": "Beta"
+}

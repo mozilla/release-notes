@@ -1,1 +1,31 @@
-{"product": "Firefox", "bug_list": "", "title": "Firefox 38.1.1 ESR", "notes": [{"note": "Reference: [Firefox 38.1.0][1]\r\n\r\n\r\n  [1]: https://www.mozilla.com/en-US/firefox/38.1.0/releasenotes/", "tag": "", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": null}, {"note": "Various [security fixes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/en-US/security/advisories/mfsa2015-78/", "tag": "Fixed", "sort_num": 1, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": null}], "text": "", "release_date": "2015-08-06", "slug": "firefox-38.1.1-esr", "version": "38.1.1", "bug_search_url": "", "is_public": true, "system_requirements": "", "channel": "ESR"}
+{
+  "product": "Firefox",
+  "bug_list": "",
+  "title": "Firefox 38.1.1 ESR",
+  "notes": [
+    {
+      "note": "Reference: [Firefox 38.1.0][1]\r\n\r\n\r\n  [1]: https://www.mozilla.com/en-US/firefox/38.1.0/releasenotes/",
+      "tag": "",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": null
+    },
+    {
+      "note": "Various [security fixes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/en-US/security/advisories/mfsa2015-78/",
+      "tag": "Fixed",
+      "sort_num": 1,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": null
+    }
+  ],
+  "text": "",
+  "release_date": "2015-08-06",
+  "slug": "firefox-38.1.1-esr",
+  "version": "38.1.1",
+  "bug_search_url": "",
+  "is_public": true,
+  "system_requirements": "",
+  "channel": "ESR"
+}

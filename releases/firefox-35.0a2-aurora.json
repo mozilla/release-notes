@@ -1,1 +1,135 @@
-{"product": "Firefox", "bug_list": "", "title": "Firefox 35.0a2 Aurora", "notes": [{"note": "Developer Edition application launcher icon", "tag": "New", "sort_num": 1000, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": null}, {"note": "Developer Edition theme", "tag": "New", "sort_num": 900, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": null}, {"note": "Toolbox launcher", "tag": "New", "sort_num": 800, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": null}, {"note": "Valence - an automatically installed add-on provides debugger support for Safari on iOS", "tag": "New", "sort_num": 700, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": null}, {"note": "Developer Edition uses its own profile, can be disabled (see <a href=\"http://bugzil.la/1086936\">bug 1086936</a>)", "tag": "New", "sort_num": 600, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": null}, {"note": "Ambient update notification", "tag": "New", "sort_num": 500, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": null}, {"note": "Built-in support for H264 (MP4) on Mac OS X Snow Leopard (10.6) and newer through native APIs", "tag": "New", "sort_num": 80, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1043696}, {"note": "Improved handling of dynamic styling changes to increase responsiveness", "tag": "New", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 977991}, {"note": "Changed JavaScript ['let' semantics][1] to conform better to the ES6 specification\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let#Temporal_dead_zone_and_errors_with_let", "tag": "HTML5", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1001090}, {"note": "Resource Timing API implemented", "tag": "HTML5", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1002855}, {"note": "[CSS filters][1] enabled by default\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/filter", "tag": "HTML5", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1057180}, {"note": "WebSocket now available in Web Workers", "tag": "HTML5", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 504553}, {"note": "Support for inspecting ::before and ::after pseudo elements", "tag": "Developer", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 920141}, {"note": "WOFF2 fonts are now supported (on Aurora and Nightly)", "tag": "Developer", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1064737}, {"note": "Firebug theme is not compatible with Developer Edition theme (see <a href=\"https://github.com/firebug/firebug.next/issues/177\">Issue 177</a>)", "tag": "Known", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": true, "bug": null}], "text": "For more information about Developer Edition please see this <a href=\"https://developer.mozilla.org/en-US/Firefox/Developer_Edition\">MDN article</a> and also this <a href=\"https://hacks.mozilla.org/2014/11\">hacks.mozilla.org</a> post.", "release_date": "2014-11-10", "slug": "firefox-35.0a2-aurora", "version": "35.0a2", "bug_search_url": "", "is_public": true, "system_requirements": "## Windows\r\n\r\n### Operating Systems\r\n - Windows XP SP2\r\n - Windows Server 2003 SP1\r\n - Windows Vista\r\n - Windows 7\r\n - Windows 8\r\n\r\n*Please note that while the 32-bit and 64-bit versions of Windows Vista and Windows 7 can be used to run Firefox 26, only 32-bit builds of Firefox 26 are supported at this time.*\r\n\r\n### Recommended Hardware\r\n-  Pentium 4 or newer processor that supports SSE2\r\n-  512MB of RAM\r\n-  200MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- Mac OS X 10.6\r\n- Mac OS X 10.7\r\n- Mac OS X 10.8\r\n- Mac OS X 10.9\r\n\r\n### Recommended Hardware\r\n- Macintosh computer with an Intel x86 processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - GTK+ 2.18 or higher\r\n    - GLib 2.22 or higher\r\n    - Pango 1.14 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n    - libstdc++ 4.3 or higher\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - NetworkManager 0.7 or higher\r\n    - DBus 1.0 or higher\r\n    - HAL 0.5.8 or higher\r\n    - GNOME 2.16 or higher", "channel": "Aurora"}
+{
+  "product": "Firefox",
+  "bug_list": "",
+  "title": "Firefox 35.0a2 Aurora",
+  "notes": [
+    {
+      "note": "Developer Edition application launcher icon",
+      "tag": "New",
+      "sort_num": 1000,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": null
+    },
+    {
+      "note": "Developer Edition theme",
+      "tag": "New",
+      "sort_num": 900,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": null
+    },
+    {
+      "note": "Toolbox launcher",
+      "tag": "New",
+      "sort_num": 800,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": null
+    },
+    {
+      "note": "Valence - an automatically installed add-on provides debugger support for Safari on iOS",
+      "tag": "New",
+      "sort_num": 700,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": null
+    },
+    {
+      "note": "Developer Edition uses its own profile, can be disabled (see <a href=\"http://bugzil.la/1086936\">bug 1086936</a>)",
+      "tag": "New",
+      "sort_num": 600,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": null
+    },
+    {
+      "note": "Ambient update notification",
+      "tag": "New",
+      "sort_num": 500,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": null
+    },
+    {
+      "note": "Built-in support for H264 (MP4) on Mac OS X Snow Leopard (10.6) and newer through native APIs",
+      "tag": "New",
+      "sort_num": 80,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1043696
+    },
+    {
+      "note": "Improved handling of dynamic styling changes to increase responsiveness",
+      "tag": "New",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 977991
+    },
+    {
+      "note": "Changed JavaScript ['let' semantics][1] to conform better to the ES6 specification\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let#Temporal_dead_zone_and_errors_with_let",
+      "tag": "HTML5",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1001090
+    },
+    {
+      "note": "Resource Timing API implemented",
+      "tag": "HTML5",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1002855
+    },
+    {
+      "note": "[CSS filters][1] enabled by default\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/filter",
+      "tag": "HTML5",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1057180
+    },
+    {
+      "note": "WebSocket now available in Web Workers",
+      "tag": "HTML5",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 504553
+    },
+    {
+      "note": "Support for inspecting ::before and ::after pseudo elements",
+      "tag": "Developer",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 920141
+    },
+    {
+      "note": "WOFF2 fonts are now supported (on Aurora and Nightly)",
+      "tag": "Developer",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1064737
+    },
+    {
+      "note": "Firebug theme is not compatible with Developer Edition theme (see <a href=\"https://github.com/firebug/firebug.next/issues/177\">Issue 177</a>)",
+      "tag": "Known",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": true,
+      "bug": null
+    }
+  ],
+  "text": "For more information about Developer Edition please see this <a href=\"https://developer.mozilla.org/en-US/Firefox/Developer_Edition\">MDN article</a> and also this <a href=\"https://hacks.mozilla.org/2014/11\">hacks.mozilla.org</a> post.",
+  "release_date": "2014-11-10",
+  "slug": "firefox-35.0a2-aurora",
+  "version": "35.0a2",
+  "bug_search_url": "",
+  "is_public": true,
+  "system_requirements": "## Windows\r\n\r\n### Operating Systems\r\n - Windows XP SP2\r\n - Windows Server 2003 SP1\r\n - Windows Vista\r\n - Windows 7\r\n - Windows 8\r\n\r\n*Please note that while the 32-bit and 64-bit versions of Windows Vista and Windows 7 can be used to run Firefox 26, only 32-bit builds of Firefox 26 are supported at this time.*\r\n\r\n### Recommended Hardware\r\n-  Pentium 4 or newer processor that supports SSE2\r\n-  512MB of RAM\r\n-  200MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- Mac OS X 10.6\r\n- Mac OS X 10.7\r\n- Mac OS X 10.8\r\n- Mac OS X 10.9\r\n\r\n### Recommended Hardware\r\n- Macintosh computer with an Intel x86 processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - GTK+ 2.18 or higher\r\n    - GLib 2.22 or higher\r\n    - Pango 1.14 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n    - libstdc++ 4.3 or higher\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - NetworkManager 0.7 or higher\r\n    - DBus 1.0 or higher\r\n    - HAL 0.5.8 or higher\r\n    - GNOME 2.16 or higher",
+  "channel": "Aurora"
+}

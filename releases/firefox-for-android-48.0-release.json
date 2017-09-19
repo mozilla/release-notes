@@ -1,1 +1,127 @@
-{"product": "Firefox for Android", "bug_list": "", "title": "Firefox for Android 48.0 Release", "notes": [{"note": "New users will now have an entry point to sync from the History panel", "tag": "New", "sort_num": 109, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1261527}, {"note": "Stay in the loop! Get and control notifications for websites of your choice.", "tag": "New", "sort_num": 107, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1247788}, {"note": "Android Marshmallow/6+ peeps: We added a sweet action bar that floats near your selected text. No more traveling to the top of the screen!", "tag": "New", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1171110}, {"note": "Video controls get a new look! Snazzy", "tag": "New", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 704229}, {"note": "[Want Firefox as your default?][1] Of course you do. So we made it easier.\r\n\r\n  [1]: https://support.mozilla.org/en-US/kb/make-firefox-default-browser-android", "tag": "New", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1210386}, {"note": "Android media improvements:\r\n\r\n - Record all the things! MediaRecorder on Android is now supported via software codecs\r\n - Better Audible playback FTW! Now with Android Audio Service.", "tag": "New", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1215115}, {"note": "Amazon product search suggestions added to Awesomescreen Search", "tag": "New", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 851969}, {"note": "Adding Qwant as a search option for French, United Kingdom English and German locales\r\n\r\n", "tag": "New", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1264705}, {"note": "Support for Android 2.3 (Gingerbread) has ended. Farewell!", "tag": "Changed", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1220184}, {"note": "We restore your tabs by default. Don't want that? You can change it in Advanced Settings. You're in control", "tag": "Changed", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1219343}, {"note": "\"The following have new homes. Less swiping for you!\r\n\r\n * Reading List is now in your Bookmarks panel\r\n * Sync Tabs is now in the History panel\r\n", "tag": "Changed", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1234314}, {"note": "Mobile history comes before synced desktop history on your phone or tablet. Of course!", "tag": "Changed", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1046709}, {"note": "[WebExtensions support][1] is now considered as stable\r\n\r\n\r\n  [1]: https://blog.mozilla.org/addons/2016/04/29/webextensions-in-firefox-48/", "tag": "Developer", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": null}, {"note": "On some websites using an important number of cookies, under certain conditions, this can cause the user to be logged out ([1264192][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1264192", "tag": "Known", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": true, "bug": 1264192}], "text": "<p>We'd also like to extend a special thank you to all of the <a href=\"https://blog.mozilla.org/community/2016/08/01/firefox-48-new-contributors/\">new Mozillians</a> who contributed to this release of Firefox!</p>", "release_date": "2016-08-02", "slug": "firefox-for-android-48.0-release", "version": "48.0", "bug_search_url": "", "is_public": true, "system_requirements": "## Operating systems\r\n - Android 4.0\r\n - Above versions\r\n\r\n## Requirements\r\n - 50 MB internal storage\r\n - 384 MB of RAM\r\n - display at least 320 pixels high and 240 pixels wide", "channel": "Release"}
+{
+  "product": "Firefox for Android",
+  "bug_list": "",
+  "title": "Firefox for Android 48.0 Release",
+  "notes": [
+    {
+      "note": "New users will now have an entry point to sync from the History panel",
+      "tag": "New",
+      "sort_num": 109,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1261527
+    },
+    {
+      "note": "Stay in the loop! Get and control notifications for websites of your choice.",
+      "tag": "New",
+      "sort_num": 107,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1247788
+    },
+    {
+      "note": "Android Marshmallow/6+ peeps: We added a sweet action bar that floats near your selected text. No more traveling to the top of the screen!",
+      "tag": "New",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1171110
+    },
+    {
+      "note": "Video controls get a new look! Snazzy",
+      "tag": "New",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 704229
+    },
+    {
+      "note": "[Want Firefox as your default?][1] Of course you do. So we made it easier.\r\n\r\n  [1]: https://support.mozilla.org/en-US/kb/make-firefox-default-browser-android",
+      "tag": "New",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1210386
+    },
+    {
+      "note": "Android media improvements:\r\n\r\n - Record all the things! MediaRecorder on Android is now supported via software codecs\r\n - Better Audible playback FTW! Now with Android Audio Service.",
+      "tag": "New",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1215115
+    },
+    {
+      "note": "Amazon product search suggestions added to Awesomescreen Search",
+      "tag": "New",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 851969
+    },
+    {
+      "note": "Adding Qwant as a search option for French, United Kingdom English and German locales\r\n\r\n",
+      "tag": "New",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1264705
+    },
+    {
+      "note": "Support for Android 2.3 (Gingerbread) has ended. Farewell!",
+      "tag": "Changed",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1220184
+    },
+    {
+      "note": "We restore your tabs by default. Don't want that? You can change it in Advanced Settings. You're in control",
+      "tag": "Changed",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1219343
+    },
+    {
+      "note": "\"The following have new homes. Less swiping for you!\r\n\r\n * Reading List is now in your Bookmarks panel\r\n * Sync Tabs is now in the History panel\r\n",
+      "tag": "Changed",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1234314
+    },
+    {
+      "note": "Mobile history comes before synced desktop history on your phone or tablet. Of course!",
+      "tag": "Changed",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1046709
+    },
+    {
+      "note": "[WebExtensions support][1] is now considered as stable\r\n\r\n\r\n  [1]: https://blog.mozilla.org/addons/2016/04/29/webextensions-in-firefox-48/",
+      "tag": "Developer",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": null
+    },
+    {
+      "note": "On some websites using an important number of cookies, under certain conditions, this can cause the user to be logged out ([1264192][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1264192",
+      "tag": "Known",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": true,
+      "bug": 1264192
+    }
+  ],
+  "text": "<p>We'd also like to extend a special thank you to all of the <a href=\"https://blog.mozilla.org/community/2016/08/01/firefox-48-new-contributors/\">new Mozillians</a> who contributed to this release of Firefox!</p>",
+  "release_date": "2016-08-02",
+  "slug": "firefox-for-android-48.0-release",
+  "version": "48.0",
+  "bug_search_url": "",
+  "is_public": true,
+  "system_requirements": "## Operating systems\r\n - Android 4.0\r\n - Above versions\r\n\r\n## Requirements\r\n - 50 MB internal storage\r\n - 384 MB of RAM\r\n - display at least 320 pixels high and 240 pixels wide",
+  "channel": "Release"
+}

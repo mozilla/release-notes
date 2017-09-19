@@ -1,1 +1,31 @@
-{"product": "Firefox for Android", "bug_list": "", "title": "Firefox for Android 50.0 Release", "notes": [{"note": "Added support for HLS videos via player overlay", "tag": "New", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1286133}, {"note": "Simplified the user interface by combining the Recent Tabs and History panels", "tag": "Changed", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1251362}], "text": "<p>We'd also like to extend a special thank you to all of the <a href=\"https://blog.mozilla.org/community/2016/11/11/firefox-50-new-contributors/\">new Mozillians</a> who contributed to this release of Firefox!</p>", "release_date": "2016-11-15", "slug": "firefox-for-android-50.0-release", "version": "50.0", "bug_search_url": "", "is_public": true, "system_requirements": "## Operating systems\r\n - Android 4.0\r\n - Above versions\r\n\r\n## Requirements\r\n - 50 MB internal storage\r\n - 384 MB of RAM\r\n - display at least 320 pixels high and 240 pixels wide", "channel": "Release"}
+{
+  "product": "Firefox for Android",
+  "bug_list": "",
+  "title": "Firefox for Android 50.0 Release",
+  "notes": [
+    {
+      "note": "Added support for HLS videos via player overlay",
+      "tag": "New",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1286133
+    },
+    {
+      "note": "Simplified the user interface by combining the Recent Tabs and History panels",
+      "tag": "Changed",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1251362
+    }
+  ],
+  "text": "<p>We'd also like to extend a special thank you to all of the <a href=\"https://blog.mozilla.org/community/2016/11/11/firefox-50-new-contributors/\">new Mozillians</a> who contributed to this release of Firefox!</p>",
+  "release_date": "2016-11-15",
+  "slug": "firefox-for-android-50.0-release",
+  "version": "50.0",
+  "bug_search_url": "",
+  "is_public": true,
+  "system_requirements": "## Operating systems\r\n - Android 4.0\r\n - Above versions\r\n\r\n## Requirements\r\n - 50 MB internal storage\r\n - 384 MB of RAM\r\n - display at least 320 pixels high and 240 pixels wide",
+  "channel": "Release"
+}

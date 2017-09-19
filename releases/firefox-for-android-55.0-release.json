@@ -1,1 +1,71 @@
-{"product": "Firefox for Android", "bug_list": "", "title": "Firefox for Android 55.0 Release", "notes": [{"note": "Added actions to manage tabs\r\n\r\n - You can now set your homepage as your new tab\r\n - You can now reorder tabs by tapping and holding a tab in the tabs tray (or in the tab strip on tablets)", "tag": "New", "sort_num": 2, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1331154}, {"note": "Added Greek (el) and Lao (lo) locales\r\n", "tag": "New", "sort_num": -1, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1369244}, {"note": "Added option to accessibility settings to respect the system's set font size when displaying web pages\r\n", "tag": "Changed", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1328868}, {"note": "Video that is not visible will stop rendering to conserve power (audio will still continue)\r\n", "tag": "Changed", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1352007}, {"note": "Note: Firefox 55 is the last version that supports devices running Android 4.0\r\n", "tag": "Changed", "sort_num": -2, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1382081}, {"note": "Sites that don\u2019t use SSL can no longer access Geolocation APIs to determine a user\u2019s physical location\r\n", "tag": "Developer", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1072859}, {"note": "Various [security fixes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/en-US/security/known-vulnerabilities/firefox/#firefox55", "tag": "Fixed", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": null}], "text": "We'd also like to extend a special thank you to all of the [new Mozillians][1] who contributed to this release of Firefox!\r\n\r\n[1]: https://blog.mozilla.org/community/2017/08/02/firefox-55-new-contributors/", "release_date": "2017-08-08", "slug": "firefox-for-android-55.0-release", "version": "55.0", "bug_search_url": "", "is_public": true, "system_requirements": "## Operating systems\r\n - Android 4.0\r\n - Above versions\r\n\r\n## Requirements\r\n - 50 MB internal storage\r\n - 384 MB of RAM\r\n - display at least 320 pixels high and 240 pixels wide\r\n\r\n*Note: Firefox for Android 55 is the last version that supports devices running Android 4.0.*", "channel": "Release"}
+{
+  "product": "Firefox for Android",
+  "bug_list": "",
+  "title": "Firefox for Android 55.0 Release",
+  "notes": [
+    {
+      "note": "Added actions to manage tabs\r\n\r\n - You can now set your homepage as your new tab\r\n - You can now reorder tabs by tapping and holding a tab in the tabs tray (or in the tab strip on tablets)",
+      "tag": "New",
+      "sort_num": 2,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1331154
+    },
+    {
+      "note": "Added Greek (el) and Lao (lo) locales\r\n",
+      "tag": "New",
+      "sort_num": -1,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1369244
+    },
+    {
+      "note": "Added option to accessibility settings to respect the system's set font size when displaying web pages\r\n",
+      "tag": "Changed",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1328868
+    },
+    {
+      "note": "Video that is not visible will stop rendering to conserve power (audio will still continue)\r\n",
+      "tag": "Changed",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1352007
+    },
+    {
+      "note": "Note: Firefox 55 is the last version that supports devices running Android 4.0\r\n",
+      "tag": "Changed",
+      "sort_num": -2,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1382081
+    },
+    {
+      "note": "Sites that don\u2019t use SSL can no longer access Geolocation APIs to determine a user\u2019s physical location\r\n",
+      "tag": "Developer",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1072859
+    },
+    {
+      "note": "Various [security fixes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/en-US/security/known-vulnerabilities/firefox/#firefox55",
+      "tag": "Fixed",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": null
+    }
+  ],
+  "text": "We'd also like to extend a special thank you to all of the [new Mozillians][1] who contributed to this release of Firefox!\r\n\r\n[1]: https://blog.mozilla.org/community/2017/08/02/firefox-55-new-contributors/",
+  "release_date": "2017-08-08",
+  "slug": "firefox-for-android-55.0-release",
+  "version": "55.0",
+  "bug_search_url": "",
+  "is_public": true,
+  "system_requirements": "## Operating systems\r\n - Android 4.0\r\n - Above versions\r\n\r\n## Requirements\r\n - 50 MB internal storage\r\n - 384 MB of RAM\r\n - display at least 320 pixels high and 240 pixels wide\r\n\r\n*Note: Firefox for Android 55 is the last version that supports devices running Android 4.0.*",
+  "channel": "Release"
+}

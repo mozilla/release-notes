@@ -1,1 +1,71 @@
-{"product": "Firefox for Android", "bug_list": "", "title": "Firefox for Android 56.0beta Beta", "notes": [{"note": "Added Zapoteco (zam) and Belarusian (be) locales\r\n", "tag": "New", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1383345}, {"note": "Improved power consumption and performance for WebRTC with the use of hardware encoders", "tag": "New", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1265755}, {"note": "Improved support for HLS (HTTP Live Streaming) playback ", "tag": "New", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1345752}, {"note": "Get feature recommendations and hints to improve your Firefox experience", "tag": "New", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1351571}, {"note": "Web Extensions support on Android ", "tag": "New", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1185785}, {"note": "Support of Flash ended", "tag": "New", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1381916}, {"note": "Support of Android 4.0 (API 15) ended", "tag": "Changed", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1316462}], "text": "", "release_date": "2017-08-08", "slug": "firefox-for-android-56.0beta-beta", "version": "56.0beta", "bug_search_url": "", "is_public": true, "system_requirements": "## Operating systems\r\n - Android 4.1\r\n - Above versions\r\n\r\n## Requirements\r\n - 50 MB internal storage\r\n - 384 MB of RAM\r\n - display at least 320 pixels high and 240 pixels wide\r\n", "channel": "Beta"}
+{
+  "product": "Firefox for Android",
+  "bug_list": "",
+  "title": "Firefox for Android 56.0beta Beta",
+  "notes": [
+    {
+      "note": "Added Zapoteco (zam) and Belarusian (be) locales\r\n",
+      "tag": "New",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1383345
+    },
+    {
+      "note": "Improved power consumption and performance for WebRTC with the use of hardware encoders",
+      "tag": "New",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1265755
+    },
+    {
+      "note": "Improved support for HLS (HTTP Live Streaming) playback ",
+      "tag": "New",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1345752
+    },
+    {
+      "note": "Get feature recommendations and hints to improve your Firefox experience",
+      "tag": "New",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1351571
+    },
+    {
+      "note": "Web Extensions support on Android ",
+      "tag": "New",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1185785
+    },
+    {
+      "note": "Support of Flash ended",
+      "tag": "New",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1381916
+    },
+    {
+      "note": "Support of Android 4.0 (API 15) ended",
+      "tag": "Changed",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1316462
+    }
+  ],
+  "text": "",
+  "release_date": "2017-08-08",
+  "slug": "firefox-for-android-56.0beta-beta",
+  "version": "56.0beta",
+  "bug_search_url": "",
+  "is_public": true,
+  "system_requirements": "## Operating systems\r\n - Android 4.1\r\n - Above versions\r\n\r\n## Requirements\r\n - 50 MB internal storage\r\n - 384 MB of RAM\r\n - display at least 320 pixels high and 240 pixels wide\r\n",
+  "channel": "Beta"
+}

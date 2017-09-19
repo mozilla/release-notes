@@ -1,1 +1,87 @@
-{"product": "Firefox", "bug_list": "", "title": "Firefox 38.0.5 Release", "notes": [{"note": "Reference: [Release notes for Firefox 38.0.1][1]\r\n\r\n[1]: https://www.mozilla.org/firefox/38.0.1/releasenotes/", "tag": "", "sort_num": 1000, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": null}, {"note": "Keep track of articles and videos with Pocket", "tag": "New", "sort_num": 100, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1155467}, {"note": "Clean formatting for articles and blog posts with Reader View", "tag": "New", "sort_num": 90, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 558882}, {"note": "Share the active tab or window in a Hello conversation", "tag": "New", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1099241}, {"note": "A race condition that would cause Firefox to stop painting when switching tabs ([bug 1067470][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1067470", "tag": "Fixed", "sort_num": 0, "fixed_in_release": {"product": "Firefox", "title": "Firefox 38.0.5 Release", "version": "38.0.5", "is_public": true, "slug": "firefox-38.0.5-release", "channel": "Release"}, "is_public": true, "is_known_issue": false, "bug": 1067470}, {"note": " Fixed graphics performance when using the built-in VGA driver on Windows 7 ([Bug 1165732][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1165732", "tag": "Fixed", "sort_num": 0, "fixed_in_release": {"product": "Firefox", "title": "Firefox 38.0.5 Release", "version": "38.0.5", "is_public": true, "slug": "firefox-38.0.5-release", "channel": "Release"}, "is_public": true, "is_known_issue": true, "bug": 1165732}, {"note": "Responsive images do not update when the enclosing viewport changes", "tag": "Known", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": true, "bug": 1135812}], "text": "", "release_date": "2015-06-02", "slug": "firefox-38.0.5-release", "version": "38.0.5", "bug_search_url": "", "is_public": true, "system_requirements": "## Windows\r\n\r\n### Operating Systems\r\n - Windows XP SP2\r\n - Windows Server 2003 SP1\r\n - Windows Vista\r\n - Windows 7\r\n - Windows 8\r\n\r\n*Please note that while the 32-bit and 64-bit versions of Windows Vista and Windows 7 can be used to run Firefox, only 32-bit builds of Firefox are supported at this time.*\r\n\r\n### Recommended Hardware\r\n-  Pentium 4 or newer processor that supports SSE2\r\n-  512MB of RAM\r\n-  200MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- Mac OS X 10.6\r\n- Mac OS X 10.7\r\n- Mac OS X 10.8\r\n- Mac OS X 10.9\r\n- Mac OS X 10.10\r\n\r\n### Recommended Hardware\r\n- Macintosh computer with an Intel x86 processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - GTK+ 2.18 or higher\r\n    - GLib 2.22 or higher\r\n    - Pango 1.14 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n    - libstdc++ 4.3 or higher\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - NetworkManager 0.7 or higher\r\n    - DBus 1.0 or higher\r\n    - HAL 0.5.8 or higher\r\n    - GNOME 2.16 or higher", "channel": "Release"}
+{
+  "product": "Firefox",
+  "bug_list": "",
+  "title": "Firefox 38.0.5 Release",
+  "notes": [
+    {
+      "note": "Reference: [Release notes for Firefox 38.0.1][1]\r\n\r\n[1]: https://www.mozilla.org/firefox/38.0.1/releasenotes/",
+      "tag": "",
+      "sort_num": 1000,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": null
+    },
+    {
+      "note": "Keep track of articles and videos with Pocket",
+      "tag": "New",
+      "sort_num": 100,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1155467
+    },
+    {
+      "note": "Clean formatting for articles and blog posts with Reader View",
+      "tag": "New",
+      "sort_num": 90,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 558882
+    },
+    {
+      "note": "Share the active tab or window in a Hello conversation",
+      "tag": "New",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1099241
+    },
+    {
+      "note": "A race condition that would cause Firefox to stop painting when switching tabs ([bug 1067470][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1067470",
+      "tag": "Fixed",
+      "sort_num": 0,
+      "fixed_in_release": {
+        "product": "Firefox",
+        "title": "Firefox 38.0.5 Release",
+        "version": "38.0.5",
+        "is_public": true,
+        "slug": "firefox-38.0.5-release",
+        "channel": "Release"
+      },
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1067470
+    },
+    {
+      "note": " Fixed graphics performance when using the built-in VGA driver on Windows 7 ([Bug 1165732][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1165732",
+      "tag": "Fixed",
+      "sort_num": 0,
+      "fixed_in_release": {
+        "product": "Firefox",
+        "title": "Firefox 38.0.5 Release",
+        "version": "38.0.5",
+        "is_public": true,
+        "slug": "firefox-38.0.5-release",
+        "channel": "Release"
+      },
+      "is_public": true,
+      "is_known_issue": true,
+      "bug": 1165732
+    },
+    {
+      "note": "Responsive images do not update when the enclosing viewport changes",
+      "tag": "Known",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": true,
+      "bug": 1135812
+    }
+  ],
+  "text": "",
+  "release_date": "2015-06-02",
+  "slug": "firefox-38.0.5-release",
+  "version": "38.0.5",
+  "bug_search_url": "",
+  "is_public": true,
+  "system_requirements": "## Windows\r\n\r\n### Operating Systems\r\n - Windows XP SP2\r\n - Windows Server 2003 SP1\r\n - Windows Vista\r\n - Windows 7\r\n - Windows 8\r\n\r\n*Please note that while the 32-bit and 64-bit versions of Windows Vista and Windows 7 can be used to run Firefox, only 32-bit builds of Firefox are supported at this time.*\r\n\r\n### Recommended Hardware\r\n-  Pentium 4 or newer processor that supports SSE2\r\n-  512MB of RAM\r\n-  200MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- Mac OS X 10.6\r\n- Mac OS X 10.7\r\n- Mac OS X 10.8\r\n- Mac OS X 10.9\r\n- Mac OS X 10.10\r\n\r\n### Recommended Hardware\r\n- Macintosh computer with an Intel x86 processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - GTK+ 2.18 or higher\r\n    - GLib 2.22 or higher\r\n    - Pango 1.14 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n    - libstdc++ 4.3 or higher\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - NetworkManager 0.7 or higher\r\n    - DBus 1.0 or higher\r\n    - HAL 0.5.8 or higher\r\n    - GNOME 2.16 or higher",
+  "channel": "Release"
+}

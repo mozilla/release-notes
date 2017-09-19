@@ -1,1 +1,55 @@
-{"product": "Firefox for Android", "bug_list": "", "title": "Firefox for Android 45.0.2 Release", "notes": [{"note": "Reference link to [Firefox 45.0.1][1] release notes \r\n[1]: https://www.mozilla.org/en-US/firefox/android/45.0.1/releasenotes/", "tag": "", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": null}, {"note": "Fix a regression impacting some specific uploads ([1255735][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1255735", "tag": "Fixed", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1255735}, {"note": "Fix a crash impacting the video playback with Media Source Extension ([1258562][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1258562", "tag": "Fixed", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1258562}, {"note": "Fix a web compatibility regression impacting the *srcset* attribute of the *image* tag ([1259482][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1259482", "tag": "Fixed", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1259482}, {"note": "Fix an issue impacting the cookie header when third-party cookies are blocked ([1257861][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1257861", "tag": "Fixed", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1257861}], "text": "", "release_date": "2016-04-11", "slug": "firefox-for-android-45.0.2-release", "version": "45.0.2", "bug_search_url": "", "is_public": true, "system_requirements": "## Operating systems\r\n - Android 2.3\r\n - Android 3.0\r\n - Android 4.0\r\n - Above versions\r\n\r\n## Requirements\r\n - 50 MB internal storage\r\n - 384 MB of RAM\r\n - display at least 320 pixels high and 240 pixels wide", "channel": "Release"}
+{
+  "product": "Firefox for Android",
+  "bug_list": "",
+  "title": "Firefox for Android 45.0.2 Release",
+  "notes": [
+    {
+      "note": "Reference link to [Firefox 45.0.1][1] release notes \r\n[1]: https://www.mozilla.org/en-US/firefox/android/45.0.1/releasenotes/",
+      "tag": "",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": null
+    },
+    {
+      "note": "Fix a regression impacting some specific uploads ([1255735][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1255735",
+      "tag": "Fixed",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1255735
+    },
+    {
+      "note": "Fix a crash impacting the video playback with Media Source Extension ([1258562][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1258562",
+      "tag": "Fixed",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1258562
+    },
+    {
+      "note": "Fix a web compatibility regression impacting the *srcset* attribute of the *image* tag ([1259482][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1259482",
+      "tag": "Fixed",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1259482
+    },
+    {
+      "note": "Fix an issue impacting the cookie header when third-party cookies are blocked ([1257861][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1257861",
+      "tag": "Fixed",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1257861
+    }
+  ],
+  "text": "",
+  "release_date": "2016-04-11",
+  "slug": "firefox-for-android-45.0.2-release",
+  "version": "45.0.2",
+  "bug_search_url": "",
+  "is_public": true,
+  "system_requirements": "## Operating systems\r\n - Android 2.3\r\n - Android 3.0\r\n - Android 4.0\r\n - Above versions\r\n\r\n## Requirements\r\n - 50 MB internal storage\r\n - 384 MB of RAM\r\n - display at least 320 pixels high and 240 pixels wide",
+  "channel": "Release"
+}

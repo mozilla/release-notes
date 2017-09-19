@@ -1,1 +1,71 @@
-{"product": "Firefox for Android", "bug_list": "", "title": "Firefox for Android 54.0beta Beta", "notes": [{"note": "Add Bulgarian (bg) and Kabyle (kab) locales", "tag": "New", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1355190}, {"note": "More reliable audio and video playback in the browser", "tag": "Changed", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1257777}, {"note": "Improved bookmarks sync performance", "tag": "Changed", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1291821}, {"note": "Fixed formatting for right-to-left languages, including formatting of preference names in about:config", "tag": "Fixed", "sort_num": 0, "fixed_in_release": {"product": "Firefox for Android", "title": "Firefox for Android 54.0a2 Aurora", "version": "54.0a2", "is_public": true, "slug": "firefox-for-android-54.0a2-aurora", "channel": "Aurora"}, "is_public": true, "is_known_issue": false, "bug": null}, {"note": "File names correctly preserved on upload", "tag": "Fixed", "sort_num": 0, "fixed_in_release": {"product": "Firefox for Android", "title": "Firefox for Android 54.0a2 Aurora", "version": "54.0a2", "is_public": true, "slug": "firefox-for-android-54.0a2-aurora", "channel": "Aurora"}, "is_public": true, "is_known_issue": false, "bug": 1237956}], "text": "", "release_date": "2017-04-21", "slug": "firefox-for-android-54.0beta-beta", "version": "54.0beta", "bug_search_url": "", "is_public": true, "system_requirements": "## Operating systems\r\n - Android 4.0\r\n - Above versions\r\n\r\n## Requirements\r\n - 50 MB internal storage\r\n - 384 MB of RAM\r\n - display at least 320 pixels high and 240 pixels wide", "channel": "Beta"}
+{
+  "product": "Firefox for Android",
+  "bug_list": "",
+  "title": "Firefox for Android 54.0beta Beta",
+  "notes": [
+    {
+      "note": "Add Bulgarian (bg) and Kabyle (kab) locales",
+      "tag": "New",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1355190
+    },
+    {
+      "note": "More reliable audio and video playback in the browser",
+      "tag": "Changed",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1257777
+    },
+    {
+      "note": "Improved bookmarks sync performance",
+      "tag": "Changed",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1291821
+    },
+    {
+      "note": "Fixed formatting for right-to-left languages, including formatting of preference names in about:config",
+      "tag": "Fixed",
+      "sort_num": 0,
+      "fixed_in_release": {
+        "product": "Firefox for Android",
+        "title": "Firefox for Android 54.0a2 Aurora",
+        "version": "54.0a2",
+        "is_public": true,
+        "slug": "firefox-for-android-54.0a2-aurora",
+        "channel": "Aurora"
+      },
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": null
+    },
+    {
+      "note": "File names correctly preserved on upload",
+      "tag": "Fixed",
+      "sort_num": 0,
+      "fixed_in_release": {
+        "product": "Firefox for Android",
+        "title": "Firefox for Android 54.0a2 Aurora",
+        "version": "54.0a2",
+        "is_public": true,
+        "slug": "firefox-for-android-54.0a2-aurora",
+        "channel": "Aurora"
+      },
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1237956
+    }
+  ],
+  "text": "",
+  "release_date": "2017-04-21",
+  "slug": "firefox-for-android-54.0beta-beta",
+  "version": "54.0beta",
+  "bug_search_url": "",
+  "is_public": true,
+  "system_requirements": "## Operating systems\r\n - Android 4.0\r\n - Above versions\r\n\r\n## Requirements\r\n - 50 MB internal storage\r\n - 384 MB of RAM\r\n - display at least 320 pixels high and 240 pixels wide",
+  "channel": "Beta"
+}

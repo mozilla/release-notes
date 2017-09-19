@@ -1,1 +1,191 @@
-{"product": "Firefox", "bug_list": "", "title": "Firefox 43.0 Release", "notes": [{"note": "Private Browsing with Tracking Protection offers choice of blocking additional trackers", "tag": "New", "sort_num": 100, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1177085}, {"note": "Improved [API support for m4v][1] video playback\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/HTMLMediaElement/canPlayType", "tag": "New", "sort_num": 99, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 875573}, {"note": "Firefox 64-bit for Windows is now available via the [Firefox download page][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/en-US/firefox/all/", "tag": "New", "sort_num": 99, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1229852}, {"note": "Users can choose [search suggestions] [1] from the Awesome Bar\r\n\r\n  [1]: https://support.mozilla.org/en-US/kb/awesome-bar-search-firefox-bookmarks-history-tabs", "tag": "New", "sort_num": 98, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 958204}, {"note": "On-screen keyboard displayed on selecting input field on devices running Windows 8 or greater", "tag": "New", "sort_num": 97, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1007063}, {"note": "Firefox Health Report has switched to use the same data collection mechanism as telemetry", "tag": "New", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1227579}, {"note": "Markup view shows [indicators for pseudo-classes locked for elements][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector/How_to/Examine_and_edit_CSS#Setting_hover_active_focus", "tag": "Developer", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1120406}, {"note": " Bind F1 key to open the settings when the toolbox is focused", "tag": "Developer", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1198339}, {"note": "[New 'Use in Console' context menu item][1] in Inspector to store selected element in a temporary variable\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Tools/Page_Inspector/How_to/Examine_and_edit_HTML#Element_popup_menu", "tag": "Developer", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1154363}, {"note": "[Search button next to overridden CSS properties][1] to find similar properties in the rules view\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Tools/Page_Inspector/How_to/Examine_and_edit_CSS#Overridden_declarations", "tag": "Developer", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1151943}, {"note": "Ability to filter styles from their property names in the rules view", "tag": "Developer", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1197048}, {"note": "Stack traces are now shown for exceptions inside the console\r\n", "tag": "Developer", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1184172}, {"note": "Added ability to [display server-side logs in the console][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Tools/Web_Console/Console_messages#Server", "tag": "Developer", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1168872}, {"note": "[Subresource integrity][1] allows developers to make their sites more secure\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/Security/Subresource_Integrity", "tag": "Developer", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1205448}, {"note": "Network requests in Console [now link to Network panel][1] instead of opening in a popup\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Web_Console#HTTP_requests", "tag": "Developer", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 861335}, {"note": "[Unprefixed 'hyphens' property][1] is now supported\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/hyphens", "tag": "Developer", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 953408}, {"note": "WebIDE now has a sidebar-based UI", "tag": "Developer", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1203648}, {"note": "The 'transform-origin' property is now [supported on SVG elements][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/transform-origin#Browser_compatibility", "tag": "Developer", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1175492}, {"note": "Animation inspector now [displays animations in a timeline][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector/How_to/Work_with_animations#Firefox_43", "tag": "Developer", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1156757}, {"note": "Single-process mode is no longer supported for NPAPI plugins", "tag": "Developer", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1194780}, {"note": "Eyedropper tool does not work as expected when page is zoomed", "tag": "Fixed", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1176595}, {"note": "Various [security fixes][1] \r\n\r\n\r\n  [1]: https://www.mozilla.org/en-US/security/known-vulnerabilities/firefox/#firefox43", "tag": "Fixed", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": null}], "text": "<p>We'd also like to extend a special thank you to all of the <a href=\"https://blog.mozilla.org/community/2015/12/13/firefox-43-new-contributors/\">new Mozillians</a> who contributed to this release of Firefox!</p>\r\n", "release_date": "2015-12-15", "slug": "firefox-43.0-release", "version": "43.0", "bug_search_url": "", "is_public": true, "system_requirements": "## Windows\r\n\r\n### Operating Systems (32-bit and 64-bit)\r\n - Windows XP SP2\r\n - Windows Server 2003 SP1\r\n - Windows Vista\r\n - Windows 7\r\n - Windows 8\r\n - Windows 10\r\n\r\n*Please note that 64-bit builds of Firefox are only supported on Windows 7 and higher.*\r\n\r\n### Recommended Hardware\r\n-  Pentium 4 or newer processor that supports SSE2\r\n-  512MB of RAM\r\n-  200MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- Mac OS X 10.6\r\n- Mac OS X 10.7\r\n- Mac OS X 10.8\r\n- Mac OS X 10.9\r\n- Mac OS X 10.10\r\n\r\n### Recommended Hardware\r\n- Macintosh computer with an Intel x86 processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - GTK+ 2.18 or higher\r\n    - GLib 2.22 or higher\r\n    - Pango 1.14 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n    - libstdc++ 4.3 or higher\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - NetworkManager 0.7 or higher\r\n    - DBus 1.0 or higher\r\n    - HAL 0.5.8 or higher\r\n    - GNOME 2.16 or higher", "channel": "Release"}
+{
+  "product": "Firefox",
+  "bug_list": "",
+  "title": "Firefox 43.0 Release",
+  "notes": [
+    {
+      "note": "Private Browsing with Tracking Protection offers choice of blocking additional trackers",
+      "tag": "New",
+      "sort_num": 100,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1177085
+    },
+    {
+      "note": "Improved [API support for m4v][1] video playback\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/HTMLMediaElement/canPlayType",
+      "tag": "New",
+      "sort_num": 99,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 875573
+    },
+    {
+      "note": "Firefox 64-bit for Windows is now available via the [Firefox download page][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/en-US/firefox/all/",
+      "tag": "New",
+      "sort_num": 99,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1229852
+    },
+    {
+      "note": "Users can choose [search suggestions] [1] from the Awesome Bar\r\n\r\n  [1]: https://support.mozilla.org/en-US/kb/awesome-bar-search-firefox-bookmarks-history-tabs",
+      "tag": "New",
+      "sort_num": 98,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 958204
+    },
+    {
+      "note": "On-screen keyboard displayed on selecting input field on devices running Windows 8 or greater",
+      "tag": "New",
+      "sort_num": 97,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1007063
+    },
+    {
+      "note": "Firefox Health Report has switched to use the same data collection mechanism as telemetry",
+      "tag": "New",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1227579
+    },
+    {
+      "note": "Markup view shows [indicators for pseudo-classes locked for elements][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector/How_to/Examine_and_edit_CSS#Setting_hover_active_focus",
+      "tag": "Developer",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1120406
+    },
+    {
+      "note": " Bind F1 key to open the settings when the toolbox is focused",
+      "tag": "Developer",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1198339
+    },
+    {
+      "note": "[New 'Use in Console' context menu item][1] in Inspector to store selected element in a temporary variable\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Tools/Page_Inspector/How_to/Examine_and_edit_HTML#Element_popup_menu",
+      "tag": "Developer",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1154363
+    },
+    {
+      "note": "[Search button next to overridden CSS properties][1] to find similar properties in the rules view\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Tools/Page_Inspector/How_to/Examine_and_edit_CSS#Overridden_declarations",
+      "tag": "Developer",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1151943
+    },
+    {
+      "note": "Ability to filter styles from their property names in the rules view",
+      "tag": "Developer",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1197048
+    },
+    {
+      "note": "Stack traces are now shown for exceptions inside the console\r\n",
+      "tag": "Developer",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1184172
+    },
+    {
+      "note": "Added ability to [display server-side logs in the console][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Tools/Web_Console/Console_messages#Server",
+      "tag": "Developer",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1168872
+    },
+    {
+      "note": "[Subresource integrity][1] allows developers to make their sites more secure\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/Security/Subresource_Integrity",
+      "tag": "Developer",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1205448
+    },
+    {
+      "note": "Network requests in Console [now link to Network panel][1] instead of opening in a popup\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Web_Console#HTTP_requests",
+      "tag": "Developer",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 861335
+    },
+    {
+      "note": "[Unprefixed 'hyphens' property][1] is now supported\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/hyphens",
+      "tag": "Developer",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 953408
+    },
+    {
+      "note": "WebIDE now has a sidebar-based UI",
+      "tag": "Developer",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1203648
+    },
+    {
+      "note": "The 'transform-origin' property is now [supported on SVG elements][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/transform-origin#Browser_compatibility",
+      "tag": "Developer",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1175492
+    },
+    {
+      "note": "Animation inspector now [displays animations in a timeline][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector/How_to/Work_with_animations#Firefox_43",
+      "tag": "Developer",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1156757
+    },
+    {
+      "note": "Single-process mode is no longer supported for NPAPI plugins",
+      "tag": "Developer",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1194780
+    },
+    {
+      "note": "Eyedropper tool does not work as expected when page is zoomed",
+      "tag": "Fixed",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1176595
+    },
+    {
+      "note": "Various [security fixes][1] \r\n\r\n\r\n  [1]: https://www.mozilla.org/en-US/security/known-vulnerabilities/firefox/#firefox43",
+      "tag": "Fixed",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": null
+    }
+  ],
+  "text": "<p>We'd also like to extend a special thank you to all of the <a href=\"https://blog.mozilla.org/community/2015/12/13/firefox-43-new-contributors/\">new Mozillians</a> who contributed to this release of Firefox!</p>\r\n",
+  "release_date": "2015-12-15",
+  "slug": "firefox-43.0-release",
+  "version": "43.0",
+  "bug_search_url": "",
+  "is_public": true,
+  "system_requirements": "## Windows\r\n\r\n### Operating Systems (32-bit and 64-bit)\r\n - Windows XP SP2\r\n - Windows Server 2003 SP1\r\n - Windows Vista\r\n - Windows 7\r\n - Windows 8\r\n - Windows 10\r\n\r\n*Please note that 64-bit builds of Firefox are only supported on Windows 7 and higher.*\r\n\r\n### Recommended Hardware\r\n-  Pentium 4 or newer processor that supports SSE2\r\n-  512MB of RAM\r\n-  200MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- Mac OS X 10.6\r\n- Mac OS X 10.7\r\n- Mac OS X 10.8\r\n- Mac OS X 10.9\r\n- Mac OS X 10.10\r\n\r\n### Recommended Hardware\r\n- Macintosh computer with an Intel x86 processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - GTK+ 2.18 or higher\r\n    - GLib 2.22 or higher\r\n    - Pango 1.14 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n    - libstdc++ 4.3 or higher\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - NetworkManager 0.7 or higher\r\n    - DBus 1.0 or higher\r\n    - HAL 0.5.8 or higher\r\n    - GNOME 2.16 or higher",
+  "channel": "Release"
+}

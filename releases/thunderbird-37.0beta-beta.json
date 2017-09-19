@@ -1,1 +1,71 @@
-{"product": "Thunderbird", "bug_list": "", "title": "Thunderbird 37.0beta Beta", "notes": [{"note": "Filter sent messages (<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=11039 \">bug 11039</a>)", "tag": "New", "sort_num": 8, "fixed_in_release": {"product": "Thunderbird", "title": "Thunderbird 37.0beta Beta", "version": "37.0beta", "is_public": true, "slug": "thunderbird-37.0beta-beta", "channel": "Beta"}, "is_public": true, "is_known_issue": false, "bug": 11039}, {"note": "Removed rarely used character sets: T.61-8bit, non-encoding Mac encoders, VISCII, x-viet-tcvn5712, x-viet-vps x-johab, ARMSCII8 , map us-ascii to windows-1252, ISO-8859-6-I and -E and ISO-8859-8-E, (<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1068505\">bug 1068505 and others.</a>)", "tag": "Changed", "sort_num": 0, "fixed_in_release": {"product": "Thunderbird", "title": "Thunderbird 37.0beta Beta", "version": "37.0beta", "is_public": true, "slug": "thunderbird-37.0beta-beta", "channel": "Beta"}, "is_public": true, "is_known_issue": false, "bug": 1068505}, {"note": "Disable CONDSTORE support for IMAP to prevent discrepancies in IMAP message status (deleted, unread) on some servers (<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=912216\">bug 912216</a>)", "tag": "Changed", "sort_num": 0, "fixed_in_release": {"product": "Thunderbird", "title": "Thunderbird 37.0beta Beta", "version": "37.0beta", "is_public": true, "slug": "thunderbird-37.0beta-beta", "channel": "Beta"}, "is_public": true, "is_known_issue": false, "bug": 912216}, {"note": "Error message while sending messages if Sent Items folder is not enabled for offline use (<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1119529\">bug 1119529</a>)", "tag": "Known", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": true, "bug": 1119529}], "text": "", "release_date": "2015-03-13", "slug": "thunderbird-37.0beta-beta", "version": "37.0beta", "bug_search_url": "", "is_public": true, "system_requirements": "## Windows\r\n\r\n### Operating Systems\r\n - Windows XP SP2\r\n - Windows Server 2003 SP1\r\n - Windows Vista\r\n - Windows 7\r\n - Windows 8\r\n\r\n*Please note that while the 32-bit and 64-bit versions of Windows Vista and Windows 7 can be used to run Thunderbird, only 32-bit builds of Thunderbird are supported at this time.*\r\n\r\n  \r\n### Windows Recommended Hardware\r\n   - Pentium 4 or newer processor that supports SSE2\r\n   - 1GB RAM\r\n   - 200 MB hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n  \r\n### Operating Systems\r\n  \r\n- Mac OS X 10.6\r\n- Mac OS X 10.7\r\n- Mac OS X 10.8\r\n- Mac OS X 10.9\r\n- Mac OS X 10.10\r\n  \r\n###  Recommended Hardware\r\n  \r\n -  Macintosh computer with an Intel x86 processor\r\n -  512 MB RAM\r\n -  200 MB hard drive space\r\n\r\n---\r\n  \r\n## GNU/Linux\r\n### Software Requirements\r\n  \r\n  *Please note that Linux distributors may provide packages for your distribution which have different requirements.*\r\n  \r\n- Thunderbird will not run at all without the following libraries or packages:\r\n - GTK+ 2.18 or higher\r\n - GLib 2.22 or higher\r\n - Pango 1.14 or higher\r\n - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n - libstdc++ 4.3 or higher\r\n - For optimal functionality, we recommend the following libraries or packages:\r\n - NetworkManager 0.7 or higher\r\n - DBus 1.0 or higher\r\n - HAL 0.5.8 or higher\r\n - GNOME 2.16 or higher\r\n\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n - NetworkManager 0.7 or higher\r\n - DBus 1.0 or higher\r\n - HAL 0.5.8 or higher\r\n - GNOME 2.16 or higher\r\n  \r\n    ", "channel": "Beta"}
+{
+  "product": "Thunderbird",
+  "bug_list": "",
+  "title": "Thunderbird 37.0beta Beta",
+  "notes": [
+    {
+      "note": "Filter sent messages (<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=11039 \">bug 11039</a>)",
+      "tag": "New",
+      "sort_num": 8,
+      "fixed_in_release": {
+        "product": "Thunderbird",
+        "title": "Thunderbird 37.0beta Beta",
+        "version": "37.0beta",
+        "is_public": true,
+        "slug": "thunderbird-37.0beta-beta",
+        "channel": "Beta"
+      },
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 11039
+    },
+    {
+      "note": "Removed rarely used character sets: T.61-8bit, non-encoding Mac encoders, VISCII, x-viet-tcvn5712, x-viet-vps x-johab, ARMSCII8 , map us-ascii to windows-1252, ISO-8859-6-I and -E and ISO-8859-8-E, (<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1068505\">bug 1068505 and others.</a>)",
+      "tag": "Changed",
+      "sort_num": 0,
+      "fixed_in_release": {
+        "product": "Thunderbird",
+        "title": "Thunderbird 37.0beta Beta",
+        "version": "37.0beta",
+        "is_public": true,
+        "slug": "thunderbird-37.0beta-beta",
+        "channel": "Beta"
+      },
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1068505
+    },
+    {
+      "note": "Disable CONDSTORE support for IMAP to prevent discrepancies in IMAP message status (deleted, unread) on some servers (<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=912216\">bug 912216</a>)",
+      "tag": "Changed",
+      "sort_num": 0,
+      "fixed_in_release": {
+        "product": "Thunderbird",
+        "title": "Thunderbird 37.0beta Beta",
+        "version": "37.0beta",
+        "is_public": true,
+        "slug": "thunderbird-37.0beta-beta",
+        "channel": "Beta"
+      },
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 912216
+    },
+    {
+      "note": "Error message while sending messages if Sent Items folder is not enabled for offline use (<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1119529\">bug 1119529</a>)",
+      "tag": "Known",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": true,
+      "bug": 1119529
+    }
+  ],
+  "text": "",
+  "release_date": "2015-03-13",
+  "slug": "thunderbird-37.0beta-beta",
+  "version": "37.0beta",
+  "bug_search_url": "",
+  "is_public": true,
+  "system_requirements": "## Windows\r\n\r\n### Operating Systems\r\n - Windows XP SP2\r\n - Windows Server 2003 SP1\r\n - Windows Vista\r\n - Windows 7\r\n - Windows 8\r\n\r\n*Please note that while the 32-bit and 64-bit versions of Windows Vista and Windows 7 can be used to run Thunderbird, only 32-bit builds of Thunderbird are supported at this time.*\r\n\r\n  \r\n### Windows Recommended Hardware\r\n   - Pentium 4 or newer processor that supports SSE2\r\n   - 1GB RAM\r\n   - 200 MB hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n  \r\n### Operating Systems\r\n  \r\n- Mac OS X 10.6\r\n- Mac OS X 10.7\r\n- Mac OS X 10.8\r\n- Mac OS X 10.9\r\n- Mac OS X 10.10\r\n  \r\n###  Recommended Hardware\r\n  \r\n -  Macintosh computer with an Intel x86 processor\r\n -  512 MB RAM\r\n -  200 MB hard drive space\r\n\r\n---\r\n  \r\n## GNU/Linux\r\n### Software Requirements\r\n  \r\n  *Please note that Linux distributors may provide packages for your distribution which have different requirements.*\r\n  \r\n- Thunderbird will not run at all without the following libraries or packages:\r\n - GTK+ 2.18 or higher\r\n - GLib 2.22 or higher\r\n - Pango 1.14 or higher\r\n - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n - libstdc++ 4.3 or higher\r\n - For optimal functionality, we recommend the following libraries or packages:\r\n - NetworkManager 0.7 or higher\r\n - DBus 1.0 or higher\r\n - HAL 0.5.8 or higher\r\n - GNOME 2.16 or higher\r\n\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n - NetworkManager 0.7 or higher\r\n - DBus 1.0 or higher\r\n - HAL 0.5.8 or higher\r\n - GNOME 2.16 or higher\r\n  \r\n    ",
+  "channel": "Beta"
+}

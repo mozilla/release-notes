@@ -1,1 +1,71 @@
-{"product": "Firefox for Android", "bug_list": "", "title": "Firefox for Android 46.0a2 Aurora", "notes": [{"note": "Notifications about [tabs opened in the background][1] now list the URLs\r\n\r\n\r\n  [1]: https://support.mozilla.org/en-US/kb/open-links-background-later-viewing-firefox-android", "tag": "New", "sort_num": 90, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1241596}, {"note": "[Firefox will request permissions][1] at runtime instead of installation time (Android 6.0+)\r\n\r\n\r\n  [1]: https://support.mozilla.org/en-US/kb/how-firefox-android-use-permissions-it-requests", "tag": "New", "sort_num": 85, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1212830}, {"note": "Previously cached pages will be displayed when offline", "tag": "New", "sort_num": 80, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 935190}, {"note": "Clearer homescreen shortcut icons", "tag": "New", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 826400}, {"note": "Include [default domains for inline autocompletion][1]\r\n\r\n\r\n  [1]: https://gecko.readthedocs.org/en/latest/mobile/android/fennec/defaultdomains.html#domain-auto-completion", "tag": "New", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1229862}, {"note": "Dropped support for Android Honeycomb (version 3)", "tag": "Changed", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1155801}, {"note": "Top Sites panel now lists popular sites by default", "tag": "Changed", "sort_num": 0, "fixed_in_release": null, "is_public": true, "is_known_issue": false, "bug": 1216987}], "text": "", "release_date": "2016-01-26", "slug": "firefox-for-android-46.0a2-aurora", "version": "46.0a2", "bug_search_url": "", "is_public": true, "system_requirements": "Android Honeycomb (version 3) will no longer be supported. ", "channel": "Aurora"}
+{
+  "product": "Firefox for Android",
+  "bug_list": "",
+  "title": "Firefox for Android 46.0a2 Aurora",
+  "notes": [
+    {
+      "note": "Notifications about [tabs opened in the background][1] now list the URLs\r\n\r\n\r\n  [1]: https://support.mozilla.org/en-US/kb/open-links-background-later-viewing-firefox-android",
+      "tag": "New",
+      "sort_num": 90,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1241596
+    },
+    {
+      "note": "[Firefox will request permissions][1] at runtime instead of installation time (Android 6.0+)\r\n\r\n\r\n  [1]: https://support.mozilla.org/en-US/kb/how-firefox-android-use-permissions-it-requests",
+      "tag": "New",
+      "sort_num": 85,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1212830
+    },
+    {
+      "note": "Previously cached pages will be displayed when offline",
+      "tag": "New",
+      "sort_num": 80,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 935190
+    },
+    {
+      "note": "Clearer homescreen shortcut icons",
+      "tag": "New",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 826400
+    },
+    {
+      "note": "Include [default domains for inline autocompletion][1]\r\n\r\n\r\n  [1]: https://gecko.readthedocs.org/en/latest/mobile/android/fennec/defaultdomains.html#domain-auto-completion",
+      "tag": "New",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1229862
+    },
+    {
+      "note": "Dropped support for Android Honeycomb (version 3)",
+      "tag": "Changed",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1155801
+    },
+    {
+      "note": "Top Sites panel now lists popular sites by default",
+      "tag": "Changed",
+      "sort_num": 0,
+      "is_public": true,
+      "is_known_issue": false,
+      "bug": 1216987
+    }
+  ],
+  "text": "",
+  "release_date": "2016-01-26",
+  "slug": "firefox-for-android-46.0a2-aurora",
+  "version": "46.0a2",
+  "bug_search_url": "",
+  "is_public": true,
+  "system_requirements": "Android Honeycomb (version 3) will no longer be supported. ",
+  "channel": "Aurora"
+}
