@@ -5,51 +5,44 @@
   "notes": [
     {
       "note": "Added Burmese (my) locale",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 1355070
     },
     {
       "note": "Added support for [multiple content processes][1] (e10s-multi)\r\n\r\n\r\n  [1]: https://blog.mozilla.org/futurereleases/2016/08/02/whats-next-for-multi-process-firefox/ ",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 1304546
     },
     {
       "note": "Simplified the download button and download status panel",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 1282622
     },
     {
       "note": "Moved the mobile bookmarks folder to the main bookmarks menu for easier access",
-      "tag": "Changed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Changed",
       "bug": 1295237
     },
     {
       "note": "Additional changes for [web developers][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/Firefox/Releases/54",
-      "tag": "Developer",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Developer",
       "bug": null
     },
     {
       "note": "Added ability to create and save [custom devices][1] in Responsive Design Mode\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Responsive_Design_Mode#Saving_custom_devices",
-      "tag": "Developer",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Developer",
       "bug": 1321675
     },
     {
       "note": "Various [security fixes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/en-US/security/known-vulnerabilities/firefox/#firefox54",
-      "tag": "Fixed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Fixed",
       "bug": null
     }
   ],

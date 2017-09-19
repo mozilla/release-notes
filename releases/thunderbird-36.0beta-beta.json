@@ -5,23 +5,20 @@
   "notes": [
     {
       "note": "Thunderbird will no longer use SHA-1 to sign messages (<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1018259\">bug 1018259</a>)",
-      "tag": "Changed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Changed",
       "bug": 1018259
     },
     {
       "note": "Various older charsets have been removed",
-      "tag": "Changed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Changed",
       "bug": null
     },
     {
       "note": "CONDSTORE support has been disabled due to causing various issues (<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=912216\">bug 912216</a>)",
-      "tag": "Fixed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Fixed",
       "bug": 912216
     }
   ],

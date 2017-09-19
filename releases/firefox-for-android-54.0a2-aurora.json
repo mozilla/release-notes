@@ -5,7 +5,9 @@
   "notes": [
     {
       "note": "Fixed formatting for right-to-left languages, including formatting of preference names in about:config",
+      "is_public": true,
       "tag": "Fixed",
+      "bug": null,
       "fixed_in_release": {
         "product": "Firefox for Android",
         "title": "Firefox for Android 54.0a2 Aurora",
@@ -13,14 +15,13 @@
         "is_public": true,
         "slug": "firefox-for-android-54.0a2-aurora",
         "channel": "Aurora"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": null
+      }
     },
     {
       "note": "File names correctly preserved on upload",
+      "is_public": true,
       "tag": "Fixed",
+      "bug": 1237956,
       "fixed_in_release": {
         "product": "Firefox for Android",
         "title": "Firefox for Android 54.0a2 Aurora",
@@ -28,10 +29,7 @@
         "is_public": true,
         "slug": "firefox-for-android-54.0a2-aurora",
         "channel": "Aurora"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 1237956
+      }
     }
   ],
   "text": "",

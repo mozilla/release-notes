@@ -5,16 +5,14 @@
   "notes": [
     {
       "note": "Reference link to [Firefox 49.0.1 release notes][1]\r\n\r\n[1]: https://www.mozilla.org/firefox/49.0.1/releasenotes/",
-      "tag": "",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "",
       "bug": null
     },
     {
       "note": "Mitigate a startup crash issue caused by [Websense][1] (Windows only) ([Bug 1304783][2])\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/websense-startup-crashes-firefox\r\n  [2]: https://bugzilla.mozilla.org/show_bug.cgi?id=1304783",
-      "tag": "Fixed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Fixed",
       "bug": 1304783
     }
   ],

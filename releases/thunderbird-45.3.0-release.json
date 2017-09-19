@@ -5,30 +5,26 @@
   "notes": [
     {
       "note": "Certain messages caused corruption of the drafts summary database.",
-      "tag": "Fixed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Fixed",
       "bug": 1276419
     },
     {
       "note": " \"edit as new message\" on a received message pre-filled the sender as the composing identity.",
-      "tag": "Fixed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Fixed",
       "bug": 1254666
     },
     {
       "note": "Disposition-Notification-To could not be used in mail.compose.other.header",
-      "tag": "Fixed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Fixed",
       "bug": 1250376
     },
     {
       "note": "Various [security fixes][1] \r\n\r\n[1]: https://www.mozilla.org/security/known-vulnerabilities/thunderbird/#thunderbird45.3",
-      "tag": "Fixed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Fixed",
       "bug": null
     }
   ],

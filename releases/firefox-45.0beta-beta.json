@@ -5,126 +5,111 @@
   "notes": [
     {
       "note": "Instant browser tab sharing through Hello",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 1209713
     },
     {
       "note": "[Tabs synced][1] via Firefox Accounts from other devices are now shown in dropdown area of Awesome Bar when searching\r\n\r\n\r\n  [1]: https://support.mozilla.org/en-US/kb/awesome-bar-search-firefox-bookmarks-history-tabs#w_how-to-use-the-autocomplete-list",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 1210616
     },
     {
       "note": "[Synced Tabs button][1] in button bar\r\n\r\n\r\n  [1]: https://support.mozilla.org/en-US/kb/view-synced-tabs-other-devices",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 1201331
     },
     {
       "note": "GTK3 integration (GNU/Linux only). Disabled after beta 4",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 1186003
     },
     {
       "note": "Introduce a new preference (*network.dns.blockDotOnion*) to allow blocking .onion at the DNS level",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": null
     },
     {
       "note": "Guarani [gn] locale added\r\n",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 1226664
     },
     {
       "note": "[Tab Groups][1] (Panorama) feature removed\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/tab-groups-removal",
-      "tag": "Changed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Changed",
       "bug": 1221050
     },
     {
       "note": "[Push API][1] support, part of [Progressive Web Applications][2]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/Push_API\r\n  [2]: https://blog.mozilla.org/futurereleases/2015/11/17/extending-the-webs-capabilities-in-firefox-and-beyond/",
-      "tag": "HTML5",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "HTML5",
       "bug": 1201571
     },
     {
       "note": "[ES6 Classes][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/JavaScript/Reference/Classes",
-      "tag": "HTML5",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "HTML5",
       "bug": 1197932
     },
     {
       "note": "Support delivery of a Content Security Policy (CSP) via a meta tag\r\n",
-      "tag": "HTML5",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "HTML5",
       "bug": 663570
     },
     {
       "note": "[List of animated properties and keyframes][1] is now displayed when clicking on an animation in the animation-inspector\u2019s timeline\r\n\r\n\r\n  [1]: https://www.youtube.com/watch?v=Un3u4wuGT8Q",
-      "tag": "Developer",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Developer",
       "bug": 1228005
     },
     {
       "note": "Inspector search now matches results from all content in the page, including subframes",
-      "tag": "Developer",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Developer",
       "bug": 835896
     },
     {
       "note": "Support for [diffing heap snapshots][1] added to the memory tool\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Memory#Diffing_heap_snapshots",
-      "tag": "Developer",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Developer",
       "bug": 960780
     },
     {
       "note": "Added [Negative url filtering][1] for the network monitor\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Network_Monitor#Filtering_by_URL",
-      "tag": "Developer",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Developer",
       "bug": 1222583
     },
     {
       "note": "DOMContentLoaded and load events shown in the [network monitor timeline][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Network_Monitor#Timeline",
-      "tag": "Developer",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Developer",
       "bug": 1218078
     },
     {
       "note": "Fine tune animations by changing the playback rate of animations in the animation-inspector's timeline\r\n",
-      "tag": "Developer",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Developer",
       "bug": null
     },
     {
       "note": "Ability to [filter snapshot output][1] in memory tool\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Memory#Analyzing_a_snapshot",
-      "tag": "Developer",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Developer",
       "bug": 1221673
     },
     {
       "note": "URLs containing a Unicode-format Internationalized Domain Name (IDN) are now properly redirected",
+      "is_public": true,
       "tag": "Fixed",
+      "bug": 1142083,
       "fixed_in_release": {
         "product": "Firefox",
         "title": "Firefox 45.0a2 Aurora",
@@ -132,10 +117,7 @@
         "is_public": true,
         "slug": "firefox-45.0a2-aurora",
         "channel": "Aurora"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 1142083
+      }
     }
   ],
   "text": "",

@@ -5,58 +5,50 @@
   "notes": [
     {
       "note": "[Added support for FLAC (Free Lossless Audio Codec) playback][1]\r\n\r\n\r\n  [1]: https://xiph.org/flac/",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 1195723
     },
     {
       "note": "Users can view passwords in the save password prompt before saving them",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 1270321
     },
     {
       "note": "Added a zoom button in the URL bar: \r\n\r\n- Displays percent above or below 100 percent when a user has changed the page zoom setting from the default\r\n- Lets users return to the default setting by clicking on the button\r\n",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 565718
     },
     {
       "note": "Improved video performance for users without GPU acceleration for less CPU usage and a better full screen experience",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 1275441
     },
     {
       "note": "Firefox will save passwords even in forms that do not have \u201csubmit\u201d events ",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 1166947
     },
     {
       "note": "Added Georgian (ka) and Kabyle (kab) locales",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 1309232
     },
     {
       "note": "[Process separation][1] (e10s) now supported on Windows 10 touch screen devices and systems with accessibility tools installed\r\n\r\n\r\n  [1]: https://blog.mozilla.org/futurereleases/2016/08/02/whats-next-for-multi-process-firefox/",
-      "tag": "Changed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Changed",
       "bug": 1258839
     },
     {
       "note": "Use 2D graphics library (Skia) for content rendering on Linux",
-      "tag": "Changed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Changed",
       "bug": 1186552
     }
   ],

@@ -5,168 +5,147 @@
   "notes": [
     {
       "note": "Pinned tiles on the new tab page can be synced",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 739820
     },
     {
       "note": "Support for the full HTTP/2 protocol. HTTP/2 enables a faster, more scalable, and more responsive web.",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 1097320
     },
     {
       "note": "New preferences implementation enabled for the first half of the beta cycle",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": null
     },
     {
       "note": "Locale added: Uzbek (uz)",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 1126794
     },
     {
       "note": "The [Flash protected-mode sandbox is disabled][1] on Windows, to evaluate the stability impact of protected mode\r\n\r\n\r\n  [1]: https://quality.mozilla.org/2015/01/disabling-protected-mode-in-firefox-36-beta/",
-      "tag": "Changed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Changed",
       "bug": 1119941
     },
     {
       "note": "[`-remote` option][1] removed\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Mozilla/Command_Line_Options#-remote_remote_command",
-      "tag": "Changed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Changed",
       "bug": 1080319
     },
     {
       "note": "No longer accept insecure RC4 ciphers whenever possible",
-      "tag": "Changed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Changed",
       "bug": 1088915
     },
     {
       "note": "[Phasing out Certificates][1] with 1024-bit RSA Keys\r\n\r\n\r\n  [1]: https://blog.mozilla.org/security/2015/01/28/phase-2-phasing-out-certificates-with-1024-bit-rsa-keys/",
-      "tag": "Changed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Changed",
       "bug": null
     },
     {
       "note": "Shut down hangs will now show the crash reporter before exiting the program",
-      "tag": "Changed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Changed",
       "bug": 1124880
     },
     {
       "note": "[Add-on Compatibility][1]\r\n\r\n\r\n  [1]: https://blog.mozilla.org/addons/2015/01/13/compatibility-for-firefox-36/",
-      "tag": "Changed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Changed",
       "bug": null
     },
     {
       "note": "Implemented a subset of the Media Source Extensions (MSE) API to allow native HTML5 playback on YouTube (Windows Vista or later only)",
-      "tag": "HTML5",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "HTML5",
       "bug": 778617
     },
     {
       "note": "Support for the [ECMAScript 6 Symbol][1] data type added\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol\r\n",
-      "tag": "HTML5",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "HTML5",
       "bug": 645416
     },
     {
       "note": "[unicode-range CSS descriptor][1] implemented\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/unicode-range",
-      "tag": "HTML5",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "HTML5",
       "bug": 475891
     },
     {
       "note": "CSSOM-View scroll behavior implemented allowing smooth scrolling of content without custom libraries",
-      "tag": "HTML5",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "HTML5",
       "bug": 1087562
     },
     {
       "note": "[object-fit][1] and [object-position][2] implemented.<br />Defines how and where the content of a replaced element is displayed\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/object-fit\r\n  [2]: https://developer.mozilla.org/en-US/docs/Web/CSS/object-position\r\n",
-      "tag": "HTML5",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "HTML5",
       "bug": 624647
     },
     {
       "note": "[isolation CSS][1] property implemented.<br />Create a new stacking context to isolate groups of boxes to control which blend together\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/isolation",
-      "tag": "HTML5",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "HTML5",
       "bug": 1091885
     },
     {
       "note": "CSS3 [will-change property][1] implemented.<br />Hints the browser of elements that will be modified. The browser will\r\nperform some performance optimization for these\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/will-change",
-      "tag": "HTML5",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "HTML5",
       "bug": 961871
     },
     {
       "note": "[Improved ES6 generators][1] for better performance\r\n\r\n\r\n  [1]: https://wingolog.org/archives/2014/11/14/generators-in-firefox-now-twenty-two-times-faster",
-      "tag": "HTML5",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "HTML5",
       "bug": 903457
     },
     {
       "note": "Changed JavaScript ['const' semantics][1] to conform better to the ES6 specification.<br />The const declaration is now block-scoped and requires an initializer. It also can not be redeclared anymore.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/const",
-      "tag": "HTML5",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "HTML5",
       "bug": 611388
     },
     {
       "note": "[&lt;meta name=\"referrer\"&gt;][1] implemented for more privacy. Allows to control the content of the HTTP referer header.\r\n\r\n\r\n  [1]: https://blog.mozilla.org/security/2015/01/21/meta-referrer/",
-      "tag": "HTML5",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "HTML5",
       "bug": 704320
     },
     {
       "note": "[Eval sources][1] now appear in the Debugger<br />Debug JavaScript code that is evaluated dynamically, either as a string passed to eval() or as a string passed to the Function constructor\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Debugger/How_to/Debug_eval_sources",
-      "tag": "Developer",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Developer",
       "bug": 583083
     },
     {
       "note": "DOM [Promises inspection][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Web_Console#Type-specific_rich_output",
-      "tag": "Developer",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Developer",
       "bug": 1033153
     },
     {
       "note": "Inspector: More [paste options][1] in markup view\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector/How_to/Examine_and_edit_HTML#Element_popup_menu",
-      "tag": "Developer",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Developer",
       "bug": 1095521
     },
     {
       "note": "[CSS gradients][1] work on premultiplied colors\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/gradient",
+      "is_public": true,
       "tag": "Fixed",
+      "bug": 591600,
       "fixed_in_release": {
         "product": "Firefox",
         "title": "Firefox 36.0beta Beta",
@@ -174,14 +153,13 @@
         "is_public": true,
         "slug": "firefox-36.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 591600
+      }
     },
     {
       "note": " Fix some unexpected logout from Facebook or Google after restart",
+      "is_public": true,
       "tag": "Fixed",
+      "bug": 950399,
       "fixed_in_release": {
         "product": "Firefox",
         "title": "Firefox 36.0beta Beta",
@@ -189,10 +167,7 @@
         "is_public": true,
         "slug": "firefox-36.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 950399
+      }
     }
   ],
   "text": "",

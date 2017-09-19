@@ -5,93 +5,80 @@
   "notes": [
     {
       "note": "Firefox Hello with new rooms-based conversations model",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": null
     },
     {
       "note": "Built-in support for H264 (MP4) on Mac OS X Snow Leopard (10.6) and newer through native APIs",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 1043696
     },
     {
       "note": "Improved handling of dynamic styling changes to increase responsiveness",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 977991
     },
     {
       "note": "Changed JavaScript ['let' semantics][1] to conform better to the ES6 specification\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let#Temporal_dead_zone_and_errors_with_let",
-      "tag": "HTML5",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "HTML5",
       "bug": 1001090
     },
     {
       "note": "Resource Timing API implemented",
-      "tag": "HTML5",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "HTML5",
       "bug": 1002855
     },
     {
       "note": "[CSS filters][1] enabled by default\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/filter",
-      "tag": "HTML5",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "HTML5",
       "bug": 1057180
     },
     {
       "note": "WebSocket now available in Web Workers",
-      "tag": "HTML5",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "HTML5",
       "bug": 504553
     },
     {
       "note": "Added support for the CSS Font Loading API",
-      "tag": "HTML5",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "HTML5",
       "bug": 1088437
     },
     {
       "note": "Support for inspecting ::before and ::after pseudo elements",
-      "tag": "Developer",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Developer",
       "bug": 920141
     },
     {
       "note": "Computed view: Nodes matching the hovered selector are now highlighted",
-      "tag": "Developer",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Developer",
       "bug": 1059360
     },
     {
       "note": "Show DOM Properties context menu item in inspector",
-      "tag": "Fixed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Fixed",
       "bug": 992679
     },
     {
       "note": "Reduced resource usage for scaled images",
-      "tag": "Fixed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Fixed",
       "bug": 1060200
     },
     {
       "note": "PDF.js updated to version 1.0.907",
-      "tag": "Fixed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Fixed",
       "bug": 1084158
     }
   ],

@@ -5,65 +5,56 @@
   "notes": [
     {
       "note": "[Gamepad API][1] finalized and enabled\r\n\r\n[1]: https://hacks.mozilla.org/2013/12/the-gamepad-api/",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": null
     },
     {
       "note": "VP9 video decoding implemented",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": null
     },
     {
       "note": "Mac OS X: Notification Center support for web notifications",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": null
     },
     {
       "note": "Horizontal HTML5 audio/video volume control",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": null
     },
     {
       "note": "Support for Opus in WebM",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": null
     },
     {
       "note": "navigator.plugins is no longer enumerable, for user privacy",
-      "tag": "Changed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Changed",
       "bug": null
     },
     {
       "note": "Support for MathML 2.0 'mathvariant' attribute",
-      "tag": "Developer",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Developer",
       "bug": null
     },
     {
       "note": "&lt;input type=\"color\"&gt; implemented and enabled",
-      "tag": "Developer",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Developer",
       "bug": null
     },
     {
       "note": "Support for multi-line flexbox in layout",
-      "tag": "Developer",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Developer",
       "bug": null
     }
   ],

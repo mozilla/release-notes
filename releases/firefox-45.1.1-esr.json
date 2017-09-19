@@ -5,30 +5,26 @@
   "notes": [
     {
       "note": "Reference link to [Firefox 45.1.1][1] release notes \r\n\r\n\r\n  [1]: https://www.mozilla.org/en-US/firefox/45.1.1/releasenotes/",
-      "tag": "Fixed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Fixed",
       "bug": null
     },
     {
       "note": "Build issue when jit is disabled (Bug [1266366][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1266366",
-      "tag": "Fixed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Fixed",
       "bug": 1266366
     },
     {
       "note": "Graphics-related shutdown crash (Bug [1261321][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1261321",
-      "tag": "Fixed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Fixed",
       "bug": 1261321
     },
     {
       "note": "Add-on signing certificate expiration (Bug [1267318][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1267318",
-      "tag": "Fixed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Fixed",
       "bug": 1267318
     }
   ],

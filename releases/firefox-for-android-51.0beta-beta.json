@@ -5,23 +5,20 @@
   "notes": [
     {
       "note": "Added Nepali (ne-NP), Bulgarian (bg) and Kabyle (kab) locales\r\n",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 1307995
     },
     {
       "note": "Remove Belarusian (be) locale",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 1307995
     },
     {
       "note": "Use 2D graphics library (Skia) for content rendering",
-      "tag": "Changed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Changed",
       "bug": 1186552
     }
   ],

@@ -5,7 +5,9 @@
   "notes": [
     {
       "note": "[Security fixes][1] for issues disclosed at HP Zero Day Initiative's Pwn2Own contest\r\n[1]: https://www.mozilla.org/security/known-vulnerabilities/firefox-esr/#firefoxesr31.5.3",
+      "is_public": true,
       "tag": "Fixed",
+      "bug": null,
       "fixed_in_release": {
         "product": "Firefox Extended Support Release",
         "title": "Firefox Extended Support Release 31.5.3 ESR",
@@ -13,10 +15,7 @@
         "is_public": true,
         "slug": "firefox-31.5.3-esr",
         "channel": "ESR"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": null
+      }
     }
   ],
   "text": "",

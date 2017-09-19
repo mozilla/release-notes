@@ -5,7 +5,9 @@
   "notes": [
     {
       "note": "Copy/Paste into plain text editor deletes newlines from quoted text  (<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1143570\">bug 1143570</a>)",
+      "is_public": true,
       "tag": "Fixed",
+      "bug": 1143570,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 38.1.0 Release",
@@ -13,14 +15,13 @@
         "is_public": true,
         "slug": "thunderbird-38.1.0-release",
         "channel": "Release"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 1143570
+      }
     },
     {
       "note": "Cross-posts won't send because Newsgroups: groups are separated with comma+space, not just comma  (<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1151448\">bug 1151448</a>)",
+      "is_public": true,
       "tag": "Fixed",
+      "bug": 1151448,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 38.1.0 Release",
@@ -28,14 +29,13 @@
         "is_public": true,
         "slug": "thunderbird-38.1.0-release",
         "channel": "Release"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 1151448
+      }
     },
     {
       "note": "Cannot send email through exchange server (NTLM)  (<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1174159\">bug 1174159</a>)",
+      "is_public": true,
       "tag": "Fixed",
+      "bug": 1174159,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 38.1.0 Release",
@@ -43,14 +43,13 @@
         "is_public": true,
         "slug": "thunderbird-38.1.0-release",
         "channel": "Release"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 1174159
+      }
     },
     {
       "note": "Doesn't display GB2312 encoded texts correctly for Chinese Characters  (<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1174580\">bug 1174580</a>)",
+      "is_public": true,
       "tag": "Fixed",
+      "bug": 1174580,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 38.1.0 Release",
@@ -58,14 +57,13 @@
         "is_public": true,
         "slug": "thunderbird-38.1.0-release",
         "channel": "Release"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 1174580
+      }
     },
     {
       "note": "OAuth2 authentication for GMail does not work when specified server is imap.gmail.com or smtp.gmail.com.  (<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1176773\">bug 1176773</a>)",
+      "is_public": true,
       "tag": "Fixed",
+      "bug": 1176773,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 38.1.0 Release",
@@ -73,16 +71,12 @@
         "is_public": true,
         "slug": "thunderbird-38.1.0-release",
         "channel": "Release"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 1176773
+      }
     },
     {
       "note": "Import from Outlook and Eudora disabled, code currently not working  (<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1175055\">bug 1175055</a>)",
-      "tag": "Known",
       "is_public": true,
-      "is_known_issue": true,
+      "tag": "Known",
       "bug": 1175055
     }
   ],

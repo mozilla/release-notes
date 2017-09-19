@@ -5,86 +5,74 @@
   "notes": [
     {
       "note": "Google searches <a href=\"https://blog.mozilla.org/futurereleases/2012/05/09/rolling-out-https-google-search/\">now utilize HTTPS</a>",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": null
     },
     {
       "note": " <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=639705\">Full screen support</a> for Mac OS X Lion implemented",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": null
     },
     {
       "note": "The Awesome Bar now <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=566489\">auto-completes typed URLs</a>",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": null
     },
     {
       "note": "Focus rings keep growing when repeatedly tabbing through elements",
-      "tag": "",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "",
       "bug": 720987
     },
     {
       "note": "GIF animation can gets stuck when src and image size are changed",
-      "tag": "",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "",
       "bug": 743598
     },
     {
       "note": "CSS :hover regression when an element's class name is set by Javascript",
-      "tag": "",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "",
       "bug": 758885
     },
     {
       "note": "OS X: nsCocoaWindow::ConstrainPosition uses wrong screen in multi-display setup",
-      "tag": "",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "",
       "bug": 752149
     },
     {
       "note": "Improved site identity manager, to <a href=\"http://blog.mozilla.org/ux/2012/06/site-identity-ui-updates/\">prevent spoofing</a> of an SSL connection with favicons",
-      "tag": "Changed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Changed",
       "bug": null
     },
     {
       "note": "<a href=\"https://developer.mozilla.org/en/API/Pointer_Lock_API \">Pointer Lock API</a> implemented",
-      "tag": "Developer",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Developer",
       "bug": null
     },
     {
       "note": "New API to <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=697132\">prevent your display from sleeping</a>",
-      "tag": "Developer",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Developer",
       "bug": null
     },
     {
       "note": "New text-transform and font-variant <a href=\"https://developer.mozilla.org/en/Firefox_14_for_developers#CSS\">CSS improvements</a> for Turkic languages and Greek",
-      "tag": "Developer",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Developer",
       "bug": null
     },
     {
       "note": "If you try to start Firefox using a locked profile, it will crash (see [573369][1])\r\n\r\n\r\n  [1]: http://bugzilla.mozilla.org/573369",
-      "tag": "Known",
       "is_public": true,
-      "is_known_issue": true,
+      "tag": "Known",
       "bug": 573369
     }
   ],

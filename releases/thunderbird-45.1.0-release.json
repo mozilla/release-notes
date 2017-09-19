@@ -5,65 +5,56 @@
   "notes": [
     {
       "note": "Drag & Drop a contact name from Thunderbird address book (list view) to address box in a new message \u201ccompose\u201d window failed.",
-      "tag": "Fixed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Fixed",
       "bug": 1267804
     },
     {
       "note": "UI elements became larger when moused over on retina displays/monitor on Mac OS X",
-      "tag": "Fixed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Fixed",
       "bug": 1266354
     },
     {
       "note": "Various improvements in handling of message compose in paragraph mode.",
-      "tag": "Fixed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Fixed",
       "bug": 1257363
     },
     {
       "note": "Printing failed in composition window.",
-      "tag": "Fixed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Fixed",
       "bug": 1265126
     },
     {
       "note": "Font indicator in compose falsely claimed certain fonts were not installed.",
-      "tag": "Fixed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Fixed",
       "bug": 1265326
     },
     {
       "note": "DIGEST-MD5 authentication in JS-XMPP failed for some users (now disabled).",
-      "tag": "Fixed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Fixed",
       "bug": 1268081
     },
     {
       "note": "Automatic correspondents column upgrade disabled",
-      "tag": "Fixed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Fixed",
       "bug": 1268325
     },
     {
       "note": "Various [security fixes][1] \r\n\r\n[1]: https://www.mozilla.org/security/known-vulnerabilities/thunderbird/#thunderbird45.1",
-      "tag": "Fixed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Fixed",
       "bug": null
     },
     {
       "note": " Email with signature and safe HTML elements is sent as HTML, despite \"Delivery Format: Auto-detect\" option",
-      "tag": "Known",
       "is_public": true,
-      "is_known_issue": true,
+      "tag": "Known",
       "bug": 1268014
     }
   ],

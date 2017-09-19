@@ -5,7 +5,9 @@
   "notes": [
     {
       "note": "Folder pane toolbar and folder view selector (replacement for folder view arrows)",
+      "is_public": true,
       "tag": "New",
+      "bug": 700796,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 49.0beta Beta",
@@ -13,14 +15,13 @@
         "is_public": true,
         "slug": "thunderbird-49.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 700796
+      }
     },
     {
       "note": "Optionally remove corresponding data files when removing an account from Thunderbird",
+      "is_public": true,
       "tag": "New",
+      "bug": 274452,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 52.0beta Beta",
@@ -28,14 +29,13 @@
         "is_public": true,
         "slug": "thunderbird-52.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 274452
+      }
     },
     {
       "note": "Import settings from Becky! Internet Mail",
+      "is_public": true,
       "tag": "New",
+      "bug": 684455,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 49.0beta Beta",
@@ -43,14 +43,13 @@
         "is_public": true,
         "slug": "thunderbird-49.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 684455
+      }
     },
     {
       "note": "Possibility to copy message filter",
+      "is_public": true,
       "tag": "New",
+      "bug": 214548,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 52.0beta Beta",
@@ -58,14 +57,13 @@
         "is_public": true,
         "slug": "thunderbird-52.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 214548
+      }
     },
     {
       "note": "Dictionary setting is restored when editing a draft. Content-Language header (RFC 3282) transmitted with message",
+      "is_public": true,
       "tag": "New",
+      "bug": 1169184,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 50.0beta Beta",
@@ -73,14 +71,13 @@
         "is_public": true,
         "slug": "thunderbird-50.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 1169184
+      }
     },
     {
       "note": "Calendar: Event can now be created and edited in a tab",
+      "is_public": true,
       "tag": "New",
+      "bug": 1277972,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 52.0beta Beta",
@@ -88,14 +85,13 @@
         "is_public": true,
         "slug": "thunderbird-52.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 1277972
+      }
     },
     {
       "note": "Calendar: Processing of received invitation counter proposals",
+      "is_public": true,
       "tag": "New",
+      "bug": 1225784,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 52.0beta Beta",
@@ -103,14 +99,13 @@
         "is_public": true,
         "slug": "thunderbird-52.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 1225784
+      }
     },
     {
       "note": "Chat: Support Twitter Direct Messages",
+      "is_public": true,
       "tag": "New",
+      "bug": 955642,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 52.0beta Beta",
@@ -118,14 +113,13 @@
         "is_public": true,
         "slug": "thunderbird-52.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 955642
+      }
     },
     {
       "note": "Chat: Liking and favoriting in Twitter",
+      "is_public": true,
       "tag": "New",
+      "bug": 1314435,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 52.0beta Beta",
@@ -133,14 +127,13 @@
         "is_public": true,
         "slug": "thunderbird-52.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 1314435
+      }
     },
     {
       "note": "Chat: XMPP: Support SASL SCRAM authentication mechanism",
+      "is_public": true,
       "tag": "New",
+      "bug": 1267649,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 50.0beta Beta",
@@ -148,14 +141,13 @@
         "is_public": true,
         "slug": "thunderbird-50.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 1267649
+      }
     },
     {
       "note": "Chat: Support Jabber/XMPP Message Carbons (XEP-280)",
+      "is_public": true,
       "tag": "New",
+      "bug": 964070,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 51.0beta Beta",
@@ -163,14 +155,13 @@
         "is_public": true,
         "slug": "thunderbird-51.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 964070
+      }
     },
     {
       "note": "**IMPORTANT:** The way images are included in a compose window has changed. Images are now included as [data URIs][1] and not as references to parts of other messages or operating system files. This allows better interoperability with office packages such as MS Office or LibreOffice. Images linked from locations on the internet will **no longer** be downloaded and attached to the message automatically. This can be changed for each image individually via the Image Properties dialog or globally by setting the preference mail.compose.attach_http_images.\r\n\r\n[1]: https://en.wikipedia.org/wiki/Data_URI_scheme",
+      "is_public": true,
       "tag": "Changed",
+      "bug": 1322155,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 52.0beta Beta",
@@ -178,14 +169,13 @@
         "is_public": true,
         "slug": "thunderbird-52.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 1322155
+      }
     },
     {
       "note": "Correspondents column now default for all new folders, can be switched off with preference mail.threadpane.use_correspondents",
+      "is_public": true,
       "tag": "Changed",
+      "bug": 1268325,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 52.0 Release",
@@ -193,14 +183,13 @@
         "is_public": true,
         "slug": "thunderbird-52.0-release",
         "channel": "Release"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 1268325
+      }
     },
     {
       "note": "When replying to a mailing list, reply will be sent to address in From header ignoring Reply-to header",
+      "is_public": true,
       "tag": "Changed",
+      "bug": 77304,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 50.0beta Beta",
@@ -208,14 +197,13 @@
         "is_public": true,
         "slug": "thunderbird-50.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 77304
+      }
     },
     {
       "note": "On Linux PulseAudio is now required to play sound",
+      "is_public": true,
       "tag": "Changed",
+      "bug": 1247056,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 52.0 Release",
@@ -223,14 +211,13 @@
         "is_public": true,
         "slug": "thunderbird-52.0-release",
         "channel": "Release"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 1247056
+      }
     },
     {
       "note": "Notifications on Mac: Some manual adjustments might be necessary in the Mac Notification Center (System Preferences - Notifications - Thunderbird) after an upgrade to Thunderbird 52.",
+      "is_public": true,
       "tag": "Changed",
+      "bug": 1106815,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 52.0 Release",
@@ -238,14 +225,13 @@
         "is_public": true,
         "slug": "thunderbird-52.0-release",
         "channel": "Release"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 1106815
+      }
     },
     {
       "note": "Formatting toolbar is now left in place when delivery format is switched to plain text only",
+      "is_public": true,
       "tag": "Changed",
+      "bug": 1288914,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 50.0beta Beta",
@@ -253,14 +239,13 @@
         "is_public": true,
         "slug": "thunderbird-50.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 1288914
+      }
     },
     {
       "note": "Messages in IMAP folders read on external device are now filtered by default",
+      "is_public": true,
       "tag": "Changed",
+      "bug": 1320832,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 52.0beta Beta",
@@ -268,14 +253,13 @@
         "is_public": true,
         "slug": "thunderbird-52.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 1320832
+      }
     },
     {
       "note": "Folders backed by mbox storage larger than 4GB are supported without warning (unless preference mailnews.allowMboxOver4GB is set to false)",
+      "is_public": true,
       "tag": "Changed",
+      "bug": 789679,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 51.0beta Beta",
@@ -283,14 +267,13 @@
         "is_public": true,
         "slug": "thunderbird-51.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 789679
+      }
     },
     {
       "note": "IMAP caching now uses Mozilla's latest caching technology",
+      "is_public": true,
       "tag": "Changed",
+      "bug": 1021843,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 51.0beta Beta",
@@ -298,14 +281,13 @@
         "is_public": true,
         "slug": "thunderbird-51.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 1021843
+      }
     },
     {
       "note": "The keyboard shortcut to insert hyperlinks into a compose window was changed from CTRL+L to CTRL+K to align with Office applications",
+      "is_public": true,
       "tag": "Changed",
+      "bug": 1293048,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 52.0 Release",
@@ -313,14 +295,13 @@
         "is_public": true,
         "slug": "thunderbird-52.0-release",
         "channel": "Release"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 1293048
+      }
     },
     {
       "note": "Chat: Removed Yahoo! Messenger support (since [Yahoo removed support][1])\r\n\r\n\r\n  [1]: https://web.archive.org/web/20160730080614/https://help.yahoo.com/kb/yahoo-messenger-for-web/SLN26860.html",
+      "is_public": true,
       "tag": "Changed",
+      "bug": 1316000,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 52.0beta Beta",
@@ -328,14 +309,13 @@
         "is_public": true,
         "slug": "thunderbird-52.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 1316000
+      }
     },
     {
       "note": "Message preview pane non-functional after IMAP folder was renamed or moved",
+      "is_public": true,
       "tag": "Fixed",
+      "bug": 1328814,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 51.0beta Beta",
@@ -343,14 +323,13 @@
         "is_public": true,
         "slug": "thunderbird-51.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 1328814
+      }
     },
     {
       "note": "Editing in paragraph format: Pressing Shift+Enter sometimes doesn't move the cursor to the next line",
+      "is_public": true,
       "tag": "Fixed",
+      "bug": 1263357,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 52.0beta Beta",
@@ -358,14 +337,13 @@
         "is_public": true,
         "slug": "thunderbird-52.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 1263357
+      }
     },
     {
       "note": "Various corrections when composing messages in paragraph format",
+      "is_public": true,
       "tag": "Fixed",
+      "bug": 1265800,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 51.0beta Beta",
@@ -373,14 +351,13 @@
         "is_public": true,
         "slug": "thunderbird-51.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 1265800
+      }
     },
     {
       "note": "Paste as quotation doesn't always work",
+      "is_public": true,
       "tag": "Fixed",
+      "bug": 795418,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 52.0beta Beta",
@@ -388,14 +365,13 @@
         "is_public": true,
         "slug": "thunderbird-52.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 795418
+      }
     },
     {
       "note": "Long lines in plain text replies not properly wrapped",
+      "is_public": true,
       "tag": "Fixed",
+      "bug": 1288911,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 52.0beta Beta",
@@ -403,14 +379,13 @@
         "is_public": true,
         "slug": "thunderbird-52.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 1288911
+      }
     },
     {
       "note": "Undesired white-space before signature in paragraph mode",
+      "is_public": true,
       "tag": "Fixed",
+      "bug": 1336531,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 52.0beta Beta",
@@ -418,14 +393,13 @@
         "is_public": true,
         "slug": "thunderbird-52.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 1336531
+      }
     },
     {
       "note": "When attachment unavailable, compose shows endless \"Attaching...\" message instead of error",
+      "is_public": true,
       "tag": "Fixed",
+      "bug": 453196,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 49.0beta Beta",
@@ -433,14 +407,13 @@
         "is_public": true,
         "slug": "thunderbird-49.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 453196
+      }
     },
     {
       "note": "Text encoding of reply sometimes incorrect (uses encoding of last viewed message)",
+      "is_public": true,
       "tag": "Fixed",
+      "bug": 1323377,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 51.0beta Beta",
@@ -448,14 +421,13 @@
         "is_public": true,
         "slug": "thunderbird-51.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 1323377
+      }
     },
     {
       "note": "Text encoding of message display, reply or forwarded message sometimes incorrect (uses encoding of attachment)",
+      "is_public": true,
       "tag": "Fixed",
+      "bug": 1026989,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 51.0beta Beta",
@@ -463,21 +435,19 @@
         "is_public": true,
         "slug": "thunderbird-51.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 1026989
+      }
     },
     {
       "note": " Delivery Format not preserved for saved drafts (Auto-Detect|Plaintext|HTML|Both) ",
-      "tag": "Fixed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Fixed",
       "bug": 1202165
     },
     {
       "note": "Reply to own e-mail does not reply with the correct identity",
+      "is_public": true,
       "tag": "Fixed",
+      "bug": 903390,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 50.0beta Beta",
@@ -485,14 +455,13 @@
         "is_public": true,
         "slug": "thunderbird-50.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 903390
+      }
     },
     {
       "note": "IMAP message part caching",
+      "is_public": true,
       "tag": "Fixed",
+      "bug": 629738,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 52.0beta Beta",
@@ -500,14 +469,13 @@
         "is_public": true,
         "slug": "thunderbird-52.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 629738
+      }
     },
     {
       "note": "Links with escaped non-ASCII (international) characters can't be clicked",
+      "is_public": true,
       "tag": "Fixed",
+      "bug": 770022,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 52.0beta Beta",
@@ -515,14 +483,13 @@
         "is_public": true,
         "slug": "thunderbird-52.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 770022
+      }
     },
     {
       "note": "Calendar: Events specified in timezone \"local time\" generate alerts in UTC time",
+      "is_public": true,
       "tag": "Fixed",
+      "bug": 1300493,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 52.0beta Beta",
@@ -530,14 +497,13 @@
         "is_public": true,
         "slug": "thunderbird-52.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 1300493
+      }
     },
     {
       "note": "Chat: XMPP Resource collisions",
+      "is_public": true,
       "tag": "Fixed",
+      "bug": 955307,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 50.0beta Beta",
@@ -545,14 +511,13 @@
         "is_public": true,
         "slug": "thunderbird-50.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 955307
+      }
     },
     {
       "note": "Various [security fixes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/known-vulnerabilities/thunderbird/#thunderbird52",
+      "is_public": true,
       "tag": "Fixed",
+      "bug": null,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 52.0 Release",
@@ -560,51 +525,42 @@
         "is_public": true,
         "slug": "thunderbird-52.0-release",
         "channel": "Release"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": null
+      }
     },
     {
       "note": "Clicking on a link in an email may not open this link in the external browser. Fix provided in 52.0.1 (upcoming)",
-      "tag": "Known",
       "is_public": true,
-      "is_known_issue": true,
+      "tag": "Known",
       "bug": 1354991
     },
     {
       "note": "Large number of blank pages being printed under certain circumstances. **To fix this problem,** remove all printer specific preferences in the configuration editor.",
-      "tag": "Known",
       "is_public": true,
-      "is_known_issue": true,
+      "tag": "Known",
       "bug": 1353625
     },
     {
       "note": "Large attachments may not be shown or saved correctly if the message is stored in an IMAP folder which is not synchronized for offline use. **Workaround:** Set preference browser.cache.memory.max_entry_size to the value of -1 (unlimited) and create integer preference browser.cache.memory.capacity with the value of 200000 (200 MB, 25 MB per message).",
-      "tag": "Known",
       "is_public": true,
-      "is_known_issue": true,
+      "tag": "Known",
       "bug": 1355350
     },
     {
       "note": "Crash due to incompatibility with McAfee Anti-SPAM add-on. **Workaround:** Start in safe mode and disable McAfee Anti-Spam Extension",
-      "tag": "Known",
       "is_public": true,
-      "is_known_issue": true,
+      "tag": "Known",
       "bug": 1281610
     },
     {
       "note": "Background images not working and other issues related to embedded images when composing email",
-      "tag": "Known",
       "is_public": true,
-      "is_known_issue": true,
+      "tag": "Known",
       "bug": 1356600
     },
     {
       "note": "Crash when compacting IMAP folder",
-      "tag": "Known",
       "is_public": true,
-      "is_known_issue": true,
+      "tag": "Known",
       "bug": 1158578
     }
   ],

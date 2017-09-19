@@ -5,14 +5,15 @@
   "notes": [
     {
       "note": "\"Apply columns to...\" did not honor special folders",
-      "tag": "Fixed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Fixed",
       "bug": 562266
     },
     {
       "note": "Threading broken when editing message draft, due to loss of Message-ID",
+      "is_public": true,
       "tag": "Fixed",
+      "bug": 1279869,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 49.0beta Beta",
@@ -20,14 +21,13 @@
         "is_public": true,
         "slug": "thunderbird-49.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 1279869
+      }
     },
     {
       "note": "Mail saved as template copied In-Reply-To and References from original email.",
+      "is_public": true,
       "tag": "Fixed",
+      "bug": 726281,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 49.0beta Beta",
@@ -35,14 +35,13 @@
         "is_public": true,
         "slug": "thunderbird-49.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 726281
+      }
     },
     {
       "note": "Additional spaces were inserted when drafts were edited.",
+      "is_public": true,
       "tag": "Fixed",
+      "bug": 1287126,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 49.0beta Beta",
@@ -50,14 +49,13 @@
         "is_public": true,
         "slug": "thunderbird-49.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 1287126
+      }
     },
     {
       "note": "Recipient addresses were shown in red despite being inserted from the address book in some circumstances. ",
+      "is_public": true,
       "tag": "Fixed",
+      "bug": 1290839,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 49.0beta Beta",
@@ -65,14 +63,13 @@
         "is_public": true,
         "slug": "thunderbird-49.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 1290839
+      }
     },
     {
       "note": "Display name was truncated if no separating space before email address.",
+      "is_public": true,
       "tag": "Fixed",
+      "bug": 1289939,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 49.0beta Beta",
@@ -80,10 +77,7 @@
         "is_public": true,
         "slug": "thunderbird-49.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 1289939
+      }
     }
   ],
   "text": "",

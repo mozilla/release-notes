@@ -5,142 +5,122 @@
   "notes": [
     {
       "note": "[Improved private browsing][1] windows block some web page elements that could track your web behavior across sites\r\n\r\n\r\n  [1]: https://blog.mozilla.org/futurereleases/2015/08/14/new-experimental-private-browsing-and-add-ons-features-ready-for-pre-beta-testing-in-firefox/",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 1029886
     },
     {
       "note": "Control Center that contains site security and privacy controls",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": null
     },
     {
       "note": "Indicator added to tabs that play audio with one-click muting",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 1188860
     },
     {
       "note": "GTK3 integration (GNU/Linux only)\r\n",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 1186003
     },
     {
       "note": "Hardware acceleration for 2D canvas content (Mac OS X only) ",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 1150944
     },
     {
       "note": "[Process separation][1] enabled by default in Developer Edition\r\n\r\n  [1]: https://developer.mozilla.org/Firefox/Multiprocess_Firefox",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 516752
     },
     {
       "note": "Login Manager improvements:\r\n\r\n- Improved heuristics to save usernames and passwords\r\n- Edit and show all logins in line, Copy/Paste usernames/passwords from the Context menu \r\n- Migration imports your passwords to Firefox from Google Chrome for Windows and Internet Explorer; import anytime from the Login Manager\r\n",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 1193404
     },
     {
       "note": "WebRTC improvements:\r\n\r\n - IPV6 support\r\n - Preferences for controlling ICE candidate generation and IP exposure\r\n - [Hooks for extensions][1] to allow/deny createOffer/Answer\r\n- Improved ability for applications to monitor and control which devices are used in getUserMedia\r\n\r\n\r\n  [1]: https://hacks.mozilla.org/2015/09/controlling-webrtc-peerconnections-with-an-extension/",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": null
     },
     {
       "note": "Improved performance on interactive websites that trigger a lot of restyles",
-      "tag": "Changed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Changed",
       "bug": 1180118
     },
     {
       "note": "Implemented [ES6 Reflect][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Reflect",
-      "tag": "HTML5",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "HTML5",
       "bug": 987514
     },
     {
       "note": "Ship [Push messaging][1] with disabled web notifications from ServiceWorkers\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/API/Push_API",
-      "tag": "HTML5",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "HTML5",
       "bug": 1153499
     },
     {
       "note": "Support [ImageBitmap][1] and [createImageBitmap()][2]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/ImageBitmap\r\n  [2]: https://developer.mozilla.org/en-US/docs/Web/API/CreateImageBitmap",
-      "tag": "HTML5",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "HTML5",
       "bug": 1044102
     },
     {
       "note": "Media Source Extension for HTML5 video available for all sites",
-      "tag": "HTML5",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "HTML5",
       "bug": 1185611
     },
     {
       "note": "[Remote website debugging][1] over WiFi (no USB cable or ADB needed)\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Tools/Remote_Debugging/Debugging_Firefox_for_Android_over_Wifi\r\n",
-      "tag": "Developer",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Developer",
       "bug": 1180996
     },
     {
       "note": "Asynchronous call stacks now allow web developers to follow the code flow through setTimeout, DOM event handlers, and Promise handlers.\r\n",
-      "tag": "Developer",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Developer",
       "bug": 1148593
     },
     {
       "note": "Configurable [Firefox OS Simulator][1] in WebIDE, to simulate reference devices like phones, tablets, even TVs\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/WebIDE/Setting_up_runtimes#Configuring_Simulators",
-      "tag": "Developer",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Developer",
       "bug": 1156834
     },
     {
       "note": "[CSS filter presets][1] in the Inspector\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector/How_to/Edit_CSS_filters#Saving_filter_presets",
-      "tag": "Developer",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Developer",
       "bug": null
     },
     {
       "note": "Ability to [save filter presets][1] inside CSS Filter Tooltip\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector/How_to/Edit_CSS_filters#Saving_filter_presets",
-      "tag": "Developer",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Developer",
       "bug": 1153184
     },
     {
       "note": "[Add-on signing][1] enforcement\r\n\r\n\r\n  [1]: https://wiki.mozilla.org/Addons/Extension_Signing",
-      "tag": "Developer",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Developer",
       "bug": null
     },
     {
       "note": "The CTRL+K shortcut does not give focus to the search field when used from the URL bar on GNU/Linux with GTK+ 3.14 and 3.16 ([1176929][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1176929",
-      "tag": "Known",
       "is_public": true,
-      "is_known_issue": true,
+      "tag": "Known",
       "bug": 1176929
     }
   ],

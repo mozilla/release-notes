@@ -5,107 +5,92 @@
   "notes": [
     {
       "note": "Developer Edition application launcher icon",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": null
     },
     {
       "note": "Developer Edition theme",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": null
     },
     {
       "note": "Toolbox launcher",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": null
     },
     {
       "note": "Valence - an automatically installed add-on provides debugger support for Safari on iOS",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": null
     },
     {
       "note": "Developer Edition uses its own profile, can be disabled (see <a href=\"http://bugzil.la/1086936\">bug 1086936</a>)",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": null
     },
     {
       "note": "Ambient update notification",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": null
     },
     {
       "note": "Built-in support for H264 (MP4) on Mac OS X Snow Leopard (10.6) and newer through native APIs",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 1043696
     },
     {
       "note": "Improved handling of dynamic styling changes to increase responsiveness",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 977991
     },
     {
       "note": "Changed JavaScript ['let' semantics][1] to conform better to the ES6 specification\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let#Temporal_dead_zone_and_errors_with_let",
-      "tag": "HTML5",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "HTML5",
       "bug": 1001090
     },
     {
       "note": "Resource Timing API implemented",
-      "tag": "HTML5",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "HTML5",
       "bug": 1002855
     },
     {
       "note": "[CSS filters][1] enabled by default\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/filter",
-      "tag": "HTML5",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "HTML5",
       "bug": 1057180
     },
     {
       "note": "WebSocket now available in Web Workers",
-      "tag": "HTML5",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "HTML5",
       "bug": 504553
     },
     {
       "note": "Support for inspecting ::before and ::after pseudo elements",
-      "tag": "Developer",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Developer",
       "bug": 920141
     },
     {
       "note": "WOFF2 fonts are now supported (on Aurora and Nightly)",
-      "tag": "Developer",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Developer",
       "bug": 1064737
     },
     {
       "note": "Firebug theme is not compatible with Developer Edition theme (see <a href=\"https://github.com/firebug/firebug.next/issues/177\">Issue 177</a>)",
-      "tag": "Known",
       "is_public": true,
-      "is_known_issue": true,
+      "tag": "Known",
       "bug": null
     }
   ],

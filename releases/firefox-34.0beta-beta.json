@@ -5,140 +5,123 @@
   "notes": [
     {
       "note": "[Firefox Hello][1] real-time communication client\r\n [1]: http://blog.mozilla.org/futurereleases/2014/10/16/test-the-new-firefox-hello-webrtc-feature-in-firefox-beta",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 972014
     },
     {
       "note": "Easily [switch themes/personas][1] directly in the Customizing mode\r\n\r\n[1]: http://msujaws.wordpress.com/2014/08/27/new-in-firefox-nightly-recommended-and-easy-theme-switching-through-customize-mode/",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 1007336
     },
     {
       "note": "Wikipedia search now uses HTTPS for secure searching (en-US only)",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 758857
     },
     {
       "note": "Implementation of HTTP/2 (draft14) and ALPN",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 1047594
     },
     {
       "note": "Recover from a locked Firefox process in the \"Firefox is already running\" dialog on Windows",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 286355
     },
     {
       "note": "Support for the [ECMAScript 6 Symbol][1] data type added\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol\r\n",
-      "tag": "HTML5",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "HTML5",
       "bug": 645416
     },
     {
       "note": "[ECMAScript 6 WeakSet][1] Implemented\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakSet",
-      "tag": "HTML5",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "HTML5",
       "bug": 792439
     },
     {
       "note": "[JavaScript Template Strings][1] Implemented\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/template_strings",
-      "tag": "HTML5",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "HTML5",
       "bug": 1038259
     },
     {
       "note": "CSS3 Font variants and features control (e.g. kerning) implemented",
-      "tag": "HTML5",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "HTML5",
       "bug": 975744
     },
     {
       "note": "WebCrypto: RSA-OAEP, PBKDF2 and AES-KW support",
-      "tag": "HTML5",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "HTML5",
       "bug": 1026398
     },
     {
       "note": "WebCrypto: wrapKey and unwrapKey implemented",
-      "tag": "HTML5",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "HTML5",
       "bug": 1034851
     },
     {
       "note": "WebCrypto: Import/export of JWK-formatted keys",
-      "tag": "HTML5",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "HTML5",
       "bug": 1025230
     },
     {
       "note": "[matches()][1] DOM API implemented (formerly *mozMatchesSelector()*)\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/Element.matches",
-      "tag": "HTML5",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "HTML5",
       "bug": 886308
     },
     {
       "note": "Performance.now() for workers implemented",
-      "tag": "HTML5",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "HTML5",
       "bug": 908390
     },
     {
       "note": "WebCrypto: ECDH support",
-      "tag": "HTML5",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "HTML5",
       "bug": 1034855
     },
     {
       "note": "[WebIDE][1]: Create, edit, and test a new Web application from your browser\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Tools/WebIDE\r\n",
-      "tag": "Developer",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Developer",
       "bug": 1007059
     },
     {
       "note": "Highlight all nodes that match a given selector in the Style Editor and the Inspector's Rules panel",
-      "tag": "Developer",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Developer",
       "bug": 971662
     },
     {
       "note": "Improved User Interface of the Profiler",
-      "tag": "Developer",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Developer",
       "bug": 879008
     },
     {
       "note": "[console.table][1] function added to web console\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/Console.table",
-      "tag": "Developer",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Developer",
       "bug": 899753
     },
     {
       "note": "CSS transitions start correctly when started at the same time as changes to display, position, overflow, and similar properties",
+      "is_public": true,
       "tag": "Fixed",
+      "bug": 625289,
       "fixed_in_release": {
         "product": "Firefox",
         "title": "Firefox 34.0a2 Aurora",
@@ -146,14 +129,13 @@
         "is_public": true,
         "slug": "firefox-34.0a2-aurora",
         "channel": "Aurora"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 625289
+      }
     },
     {
       "note": "Windows: On some combination of hardware and drivers, the main window could be black. In this case, update your graphics drivers ([1083071][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1083071",
+      "is_public": true,
       "tag": "Known",
+      "bug": 1083071,
       "fixed_in_release": {
         "product": "Firefox",
         "title": "Firefox 33.0.1 Release",
@@ -161,10 +143,7 @@
         "is_public": true,
         "slug": "firefox-33.0.1-release",
         "channel": "Release"
-      },
-      "is_public": true,
-      "is_known_issue": true,
-      "bug": 1083071
+      }
     }
   ],
   "text": "",

@@ -5,58 +5,50 @@
   "notes": [
     {
       "note": "Add ability to show system notification to highlight features on browser update",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 1004734
     },
     {
       "note": "Add \"Show/Hide web fonts\" in advanced settings to reduce bandwidth and data",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 1249434
     },
     {
       "note": "Remove Favicons in Awesomebar to prevent HTTPS spoofing",
-      "tag": "Changed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Changed",
       "bug": 1018994
     },
     {
       "note": "Remove support for Android web runtime (WebRT)",
-      "tag": "Changed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Changed",
       "bug": 1235869
     },
     {
       "note": "Last release to support Android 2.3.x (Gingerbread)",
-      "tag": "Changed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Changed",
       "bug": 1244701
     },
     {
       "note": "\"Open multiple links\"  setting under \u201cCustomize\u201d has been renamed to \u201cTab Queue\u201d",
-      "tag": "Changed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Changed",
       "bug": 1220932
     },
     {
       "note": "WebCrypto: RSA-PSS signature support",
-      "tag": "HTML5",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "HTML5",
       "bug": 1191936
     },
     {
       "note": "WebCrypto: PBKDF2 supports SHA-2 hash algorithms",
-      "tag": "HTML5",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "HTML5",
       "bug": 1216109
     }
   ],

@@ -5,100 +5,86 @@
   "notes": [
     {
       "note": "Embedded YouTube videos now play with HTML5 video if Flash is not installed.",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 769117
     },
     {
       "note": "Allow no-cache on back/forward navigations for https resources",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 567365
     },
     {
       "note": "FUEL (Firefox User Extension Library) has been removed. Add-ons relying on it will stop working.",
-      "tag": "Changed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Changed",
       "bug": 1090880
     },
     {
       "note": "WebCrypto: RSA-PSS signature support",
-      "tag": "HTML5",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "HTML5",
       "bug": 1191936
     },
     {
       "note": "WebCrypto: PBKDF2 supports SHA-2 hash algorithms",
-      "tag": "HTML5",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "HTML5",
       "bug": 1216109
     },
     {
       "note": "[cuechange events][1] are now available on TextTrack objects\r\n\r\n\r\n  [1]: https://html.spec.whatwg.org/multipage/embedded-content.html#event-media-cuechange",
-      "tag": "HTML5",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "HTML5",
       "bug": 1033144
     },
     {
       "note": "[Implemented Document.scrollingElement][1] to tell which element's scroll attributes reflect the viewport scroll state\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/Document/scrollingElement",
-      "tag": "Developer",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Developer",
       "bug": 1153322
     },
     {
       "note": "See Firefox run! Review Firefox performance data in about:performance.",
-      "tag": "Developer",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Developer",
       "bug": 1243706
     },
     {
       "note": "Smart multi-line input in the Web Console",
-      "tag": "Developer",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Developer",
       "bug": 1243851
     },
     {
       "note": "Custom user agents supported in Responsive Design Mode",
-      "tag": "Developer",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Developer",
       "bug": 828008
     },
     {
       "note": "Simulate Push messages in the  Service Workers developer tool",
-      "tag": "Developer",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Developer",
       "bug": 1209699
     },
     {
       "note": "View, start,and debug registered Service Workers in the Service Workers developer tool",
-      "tag": "Developer",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Developer",
       "bug": 1212797
     },
     {
       "note": "'Start' button for service workers in about:debugging to start registered Service Workers",
-      "tag": "Developer",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Developer",
       "bug": 1239705
     },
     {
       "note": "Tilt is available as extension on [AMO][1]\r\n\r\n\r\n  [1]: https://addons.mozilla.org/firefox/addon/tilt/",
-      "tag": "Developer",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Developer",
       "bug": 1245875
     }
   ],

@@ -5,37 +5,32 @@
   "notes": [
     {
       "note": "Various [security fixes][1] \r\n\r\n[1]: https://www.mozilla.org/security/known-vulnerabilities/thunderbird/#thunderbird45.2",
-      "tag": "",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "",
       "bug": null
     },
     {
       "note": "Dragging and dropping of contacts from the contact list onto an addressbook while All Addressbooks is selected moved only one contact",
-      "tag": "Fixed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Fixed",
       "bug": 1249153
     },
     {
       "note": "Falsely reported not enough disk space during compacting",
-      "tag": "Fixed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Fixed",
       "bug": 1174485
     },
     {
       "note": "Invitations to events could not be printed.",
-      "tag": "Fixed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Fixed",
       "bug": 1268856
     },
     {
       "note": "Links were not always detected properly in the message body (terminated early on \"|\", some long links not detected at all)",
-      "tag": "Fixed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Fixed",
       "bug": 1274242
     }
   ],

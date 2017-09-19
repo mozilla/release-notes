@@ -5,121 +5,104 @@
   "notes": [
     {
       "note": "Improved user interfaces:\r\n\r\n - New \"Welcome Screen\"\r\n - Reader View controls (on Tablets and Phones)\r\n - \"Synced Tabs\" panel new layout (on Tablets)\r\n - \"[Add to Firefox][1]\" feature (from outside Firefox)\r\n\r\n[1]: https://medium.com/@antlam/share-to-firefox-245984b2da33",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": null
     },
     {
       "note": "[Ruby annotation][1] support\r\n\r\n\r\n  [1]: https://hacks.mozilla.org/2015/03/ruby-support-in-firefox-developer-edition-38/",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 33339
     },
     {
       "note": "Support for the Android L theme",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": null
     },
     {
       "note": "Send a tab to another connected device with the 'Send to device' option in the \"share\" menu",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": null
     },
     {
       "note": "Add a website to your Reading List with the \"Add to Reading List\" button in the overflow menu",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": null
     },
     {
       "note": "Locale added: Azerbaijani (az)",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 1144119
     },
     {
       "note": "autocomplete=off is no longer supported for username/password fields",
-      "tag": "Changed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Changed",
       "bug": 1025703
     },
     {
       "note": "URL parser avoids doing percent encoding when setting the Fragment part of the URL, and percent decoding when getting the Fragment in line with the URL spec",
-      "tag": "Changed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Changed",
       "bug": 1093611
     },
     {
       "note": "RegExp.prototype.source now returns \"(?:)\" instead of the empty string for empty regular expressions",
-      "tag": "Changed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Changed",
       "bug": 1130798
     },
     {
       "note": "Improved page load times via speculative connection warmup",
-      "tag": "Changed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Changed",
       "bug": 1009122
     },
     {
       "note": "WebSocket now available in Web Workers",
-      "tag": "HTML5",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "HTML5",
       "bug": 504553
     },
     {
       "note": "[BroadcastChannel API implemented][1]\r\n\r\n[1]: https://hacks.mozilla.org/2015/02/broadcastchannel-api-in-firefox-38/",
-      "tag": "HTML5",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "HTML5",
       "bug": 966439
     },
     {
       "note": "Implemented srcset attribute and &lt;picture&gt; element for responsive images",
-      "tag": "HTML5",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "HTML5",
       "bug": 1017875
     },
     {
       "note": "Implemented DOM3 Events KeyboardEvent.code",
-      "tag": "HTML5",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "HTML5",
       "bug": 1126673
     },
     {
       "note": "WebRTC now has multistream and renegotiation support",
-      "tag": "Developer",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Developer",
       "bug": 1095218
     },
     {
       "note": "Various [security fixes][1]\r\n\r\n[1]:https://www.mozilla.org/security/known-vulnerabilities/firefox/#firefox38",
-      "tag": "Fixed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Fixed",
       "bug": null
     },
     {
       "note": "Responsive images do not update when the enclosing viewport changes",
-      "tag": "Known",
       "is_public": true,
-      "is_known_issue": true,
+      "tag": "Known",
       "bug": 1135812
     }
   ],

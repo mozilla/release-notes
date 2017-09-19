@@ -5,37 +5,32 @@
   "notes": [
     {
       "note": "Graphics-related crashes (Bugs [1261320][1], [1224199][2])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1261320\r\n  [2]: https://bugzilla.mozilla.org/show_bug.cgi?id=1224199\r\n",
-      "tag": "Fixed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Fixed",
       "bug": 1261320
     },
     {
       "note": "Reference link to [Firefox 45.1.1][1] release notes \r\n\r\n\r\n  [1]: https://www.mozilla.org/en-US/firefox/45.1.1/releasenotes/",
-      "tag": "Fixed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Fixed",
       "bug": null
     },
     {
       "note": "Web compatibility fix for addEventListener API (Bug [1266194][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1266194",
-      "tag": "Fixed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Fixed",
       "bug": 1266194
     },
     {
       "note": "Unicode support for AutoConfig API (Bug [1271032][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1271032",
-      "tag": "Fixed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Fixed",
       "bug": 1271032
     },
     {
       "note": "Various [security fixes][1] \r\n\r\n\r\n  [1]: https://www.mozilla.org/en-US/security/known-vulnerabilities/firefox-esr/#firefoxesr45.2",
-      "tag": "Fixed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Fixed",
       "bug": null
     }
   ],

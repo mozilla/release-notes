@@ -5,23 +5,20 @@
   "notes": [
     {
       "note": "[Right to Left][1] Language Support - Arabic (ar), Urdu (ur), Hebrew (he) and Persian (fa)\r\n\r\n\r\n  [1]: https://wiki.mozilla.org/Mobile/Firefox_for_Android/RTL",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 1319302
     },
     {
       "note": "EME (Encrypted Media Extensions) DRM video enabled on Firefox for Android",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 1332981
     },
     {
       "note": "Move Android audio/video decoder out of application process for better stability during media playback",
-      "tag": "Changed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Changed",
       "bug": 1257777
     }
   ],

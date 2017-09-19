@@ -5,142 +5,122 @@
   "notes": [
     {
       "note": "18.0.1 Problems involving HTTP Proxy Transactions (<a href=\"http://bugzil.la/828632\">bug 828632,</a><a href=\"http://bugzil.la/828202\">bug 828202,</a></a><a href=\"http://bugzil.la/828202\">bug 828202,</a></a><a href=\"http://bugzil.la/829646\">bug 829646,</a>)",
-      "tag": "Fixed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Fixed",
       "bug": null
     },
     {
       "note": "18.0.2: Fix JavaScript related stability issues",
-      "tag": "Fixed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Fixed",
       "bug": null
     },
     {
       "note": "18.0.1 Unity player crashes on Mac OS X (<a href=\"http://bugzil.la/828954\">bug 828954</a>)",
-      "tag": "Fixed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Fixed",
       "bug": null
     },
     {
       "note": "18.0.1 Disabled HIDPI support only on external monitors to avoid rendering glitches (<a href=\"http://bugzil.la/ 814434\">bug  814434</a>)",
-      "tag": "Fixed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Fixed",
       "bug": null
     },
     {
       "note": "Faster JavaScript performance via IonMonkey compiler",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": null
     },
     {
       "note": "Support for Retina Display on OS X 10.7 and up",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": null
     },
     {
       "note": "Disable insecure content loading on HTTPS pages through an about:config pref",
-      "tag": "",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "",
       "bug": 62178
     },
     {
       "note": "Preliminary support for WebRTC",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": null
     },
     {
       "note": "Starting Firefox with -private flag incorrectly claims you are not in Private Browsing mode",
-      "tag": "",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "",
       "bug": 802274
     },
     {
       "note": "Plugins stop rendering when the top half of the plugin is scrolled off the top of the page, in HiDPI mode",
-      "tag": "",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "",
       "bug": 825734
     },
     {
       "note": "Certain valid WebGL drawing operations are incorrectly rejected,\nleaving incomplete rendering in affected pages",
-      "tag": "",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "",
       "bug": 825205
     },
     {
       "note": "Experience better image quality with our new HTML scaling algorithm ",
-      "tag": "Changed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Changed",
       "bug": null
     },
     {
       "note": "Performance improvements around tab switching",
-      "tag": "Changed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Changed",
       "bug": null
     },
     {
       "note": "Support for W3C touch events implemented, taking the place of MozTouch events",
-      "tag": "HTML5",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "HTML5",
       "bug": null
     },
     {
       "note": "Support for new DOM property window.devicePixelRatio",
-      "tag": "Developer",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Developer",
       "bug": null
     },
     {
       "note": "Improvement in startup time through smart handling of signed extension certificates",
-      "tag": "Developer",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Developer",
       "bug": null
     },
     {
       "note": "Support for <a href=\"http://143th.net/post/32874476488/transferable-objects-for-ff\">Transferable objects</a> ",
-      "tag": "Fixed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Fixed",
       "bug": null
     },
     {
       "note": "Various <a href=\"https://www.mozilla.org/security/known-vulnerabilities/firefox.html\">security fixes</a>",
-      "tag": "Fixed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Fixed",
       "bug": null
     },
     {
       "note": "Improved responsiveness for users on proxies",
-      "tag": "Fixed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Fixed",
       "bug": 769764
     },
     {
       "note": "If you try to start Firefox using a locked profile, it will crash (see [573369][1])\r\n\r\n\r\n  [1]: http://bugzilla.mozilla.org/573369",
-      "tag": "Known",
       "is_public": true,
-      "is_known_issue": true,
+      "tag": "Known",
       "bug": 573369
     }
   ],

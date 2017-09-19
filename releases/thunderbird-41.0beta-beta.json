@@ -5,14 +5,15 @@
   "notes": [
     {
       "note": "Visual appearance improved on Windows 10",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 1172240
     },
     {
       "note": "Spellchecker no longer jumps between languages",
+      "is_public": true,
       "tag": "Fixed",
+      "bug": 1168945,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 41.0beta Beta",
@@ -20,14 +21,13 @@
         "is_public": true,
         "slug": "thunderbird-41.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 1168945
+      }
     },
     {
       "note": "Proxy is taken into account for pop3s protocol",
+      "is_public": true,
       "tag": "Fixed",
+      "bug": 1159448,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 41.0beta Beta",
@@ -35,58 +35,48 @@
         "is_public": true,
         "slug": "thunderbird-41.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 1159448
+      }
     },
     {
       "note": "(Right-)Clicking on a newsgroup now allows directly composing a message again",
-      "tag": "Fixed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Fixed",
       "bug": 1180360
     },
     {
       "note": "Importing to the address book from CSV now works with international characters",
-      "tag": "Fixed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Fixed",
       "bug": 1188306
     },
     {
       "note": "Thunderbird no longer crashes when executing filter rules when using maildir",
-      "tag": "Fixed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Fixed",
       "bug": 797710
     },
     {
       "note": "When using the maildir storage format, the INBOX folder is no longer deleted",
-      "tag": "Fixed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Fixed",
       "bug": 1175242
     },
     {
       "note": "Emails with long References headers are now decoded correctly",
-      "tag": "Fixed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Fixed",
       "bug": 1197686
     },
     {
       "note": "Checking for new messages correctly works after hibernation again",
-      "tag": "Fixed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Fixed",
       "bug": 1196662
     },
     {
       "note": "In contrast to Thunderbird 38, hardware acceleration is still enabled by default. If you are experiencing crashes, please disable it in the preferences.",
-      "tag": "Known",
       "is_public": true,
-      "is_known_issue": true,
+      "tag": "Known",
       "bug": 1131879
     }
   ],

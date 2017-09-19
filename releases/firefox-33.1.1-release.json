@@ -5,58 +5,50 @@
   "notes": [
     {
       "note": "33.1.1 - Fixed startup crash (<a href=\"http://bugzil.la/1021265\">1021265</a>)",
-      "tag": "Fixed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Fixed",
       "bug": 1021265
     },
     {
       "note": "[Forget Button][1] added\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/forget-button-quickly-delete-your-browsing-history",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 1069300
     },
     {
       "note": "[Enhanced Tiles][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/en-US/firefox/tiles/",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 1030832
     },
     {
       "note": "Privacy tour introduced",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 1071187
     },
     {
       "note": "Adding DuckDuckGo as a search option",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 1061736
     },
     {
       "note": "PDF.js: With some images, wrong colors could show up. Affects a very small number of PDF",
-      "tag": "Known",
       "is_public": true,
-      "is_known_issue": true,
+      "tag": "Known",
       "bug": 1072164
     },
     {
       "note": "Windows: Interface may be slow when typing or selecting text ([1089183][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1089183",
-      "tag": "Known",
       "is_public": true,
-      "is_known_issue": true,
+      "tag": "Known",
       "bug": 1087674
     },
     {
       "note": "Windows: On some combination of hardware and drivers, some flickering can happen\r\n",
-      "tag": "Known",
       "is_public": true,
-      "is_known_issue": true,
+      "tag": "Known",
       "bug": null
     }
   ],

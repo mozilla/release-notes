@@ -5,7 +5,9 @@
   "notes": [
     {
       "note": "Google Oauth setup can sometimes not progress to the next step",
+      "is_public": true,
       "tag": "Fixed",
+      "bug": 1359297,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 54.0beta Beta",
@@ -13,14 +15,13 @@
         "is_public": true,
         "slug": "thunderbird-54.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 1359297
+      }
     },
     {
       "note": "Background images not working and other issues related to embedded images when composing email ",
+      "is_public": true,
       "tag": "Fixed",
+      "bug": 1356600,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 53.0beta Beta",
@@ -28,14 +29,13 @@
         "is_public": true,
         "slug": "thunderbird-53.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 1356600
+      }
     },
     {
       "note": "Various [security fixes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/en-US/security/known-vulnerabilities/thunderbird/#thunderbird52.1",
+      "is_public": true,
       "tag": "Fixed",
+      "bug": null,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 52.1.0 Release",
@@ -43,51 +43,42 @@
         "is_public": true,
         "slug": "thunderbird-52.1.0-release",
         "channel": "Release"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": null
+      }
     },
     {
       "note": "Large number of blank pages being printed under certain circumstances. **To fix this problem,** remove all printer specific preferences in the configuration editor.",
-      "tag": "Known",
       "is_public": true,
-      "is_known_issue": true,
+      "tag": "Known",
       "bug": 1353625
     },
     {
       "note": "Large attachments may not be shown or saved correctly if the message is stored in an IMAP folder which is not synchronized for offline use. **Workaround:** Set preference browser.cache.memory.max_entry_size to the value of -1 (unlimited) and create integer preference browser.cache.memory.capacity with the value of 200000 (200 MB, 25 MB per message).",
-      "tag": "Known",
       "is_public": true,
-      "is_known_issue": true,
+      "tag": "Known",
       "bug": 1355350
     },
     {
       "note": "Crash due to incompatibility with McAfee Anti-SPAM add-on. **Workaround:** Start in safe mode and disable McAfee Anti-Spam Extension",
-      "tag": "Known",
       "is_public": true,
-      "is_known_issue": true,
+      "tag": "Known",
       "bug": 1281610
     },
     {
       "note": "Crash when compacting IMAP folder",
-      "tag": "Known",
       "is_public": true,
-      "is_known_issue": true,
+      "tag": "Known",
       "bug": 1158578
     },
     {
       "note": "Some attachments can't be opened or saved if the message body is empty",
-      "tag": "Known",
       "is_public": true,
-      "is_known_issue": true,
+      "tag": "Known",
       "bug": 1361422
     },
     {
       "note": "Unable to load full message via POP if message was downloaded partially (or only headers) before",
-      "tag": "Known",
       "is_public": true,
-      "is_known_issue": true,
+      "tag": "Known",
       "bug": 1361020
     }
   ],

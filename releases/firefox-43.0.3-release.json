@@ -5,23 +5,20 @@
   "notes": [
     {
       "note": "Reference: Release notes for [Firefox 43.0.2][1]\r\n\r\n  [1]: /firefox/43.0.2/releasenotes/",
-      "tag": "",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "",
       "bug": null
     },
     {
       "note": "On some Windows configurations, improve the decoding of some videos on YouTube ([1233970][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1233970",
-      "tag": "Fixed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Fixed",
       "bug": 1233970
     },
     {
       "note": "Fix  network issue when using Nvidia's Network Access Manager ([1233237][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1233237",
-      "tag": "Fixed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Fixed",
       "bug": 1233237
     }
   ],

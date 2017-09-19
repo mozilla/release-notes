@@ -5,121 +5,104 @@
   "notes": [
     {
       "note": "Improve Mozilla's <a href=\"https://location.services.mozilla.com/\">geolocation service</a> by sharing your wi-fi and cellular signals. Enable this feature by opening the Settings menu and in the \"Mozilla\" section check the \"Mozilla Location Services\" option under Data Choices.",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 1054520
     },
     {
       "note": "Bing search now uses HTTPS for secure searching ",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 1104841
     },
     {
       "note": "Search dialog added to network error pages",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 1042199
     },
     {
       "note": "Use Android Download manager to keep track of downloaded files",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 816318
     },
     {
       "note": "Improved handling of dynamic styling changes to increase responsiveness",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 977991
     },
     {
       "note": "Some devices now have the ability to view search activity by swiping up or from the search widget",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 1017135
     },
     {
       "note": "Moved synced tabs from the tabs tray to a home panel",
-      "tag": "Changed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Changed",
       "bug": 1014994
     },
     {
       "note": "Changed JavaScript ['let' semantics][1] to conform better to the ES6 specification\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let#Temporal_dead_zone_and_errors_with_let",
-      "tag": "HTML5",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "HTML5",
       "bug": 1001090
     },
     {
       "note": "Resource Timing API implemented",
-      "tag": "HTML5",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "HTML5",
       "bug": 1002855
     },
     {
       "note": "[CSS filters][1] enabled by default\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/filter",
-      "tag": "HTML5",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "HTML5",
       "bug": 1057180
     },
     {
       "note": "Added support for the CSS Font Loading API",
-      "tag": "HTML5",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "HTML5",
       "bug": 1088437
     },
     {
       "note": "Breton (br) and Esperanto (eo) locales added",
-      "tag": "Language",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Language",
       "bug": 1104277
     },
     {
       "note": "Computed view: Nodes matching the hovered selector are now highlighted",
-      "tag": "Developer",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Developer",
       "bug": 1059360
     },
     {
       "note": "Various <a href=\"https://www.mozilla.org/security/known-vulnerabilities/firefox.html\">security fixes</a>",
-      "tag": "Fixed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Fixed",
       "bug": null
     },
     {
       "note": "Reduced resource usage for scaled images",
-      "tag": "Fixed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Fixed",
       "bug": 1060200
     },
     {
       "note": "Files downloaded in private browsing mode are now viewable in the download manager",
-      "tag": "Fixed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Fixed",
       "bug": 1070488
     },
     {
       "note": "MP3 audio will not play on Android L",
-      "tag": "Known",
       "is_public": true,
-      "is_known_issue": true,
+      "tag": "Known",
       "bug": 1050832
     }
   ],

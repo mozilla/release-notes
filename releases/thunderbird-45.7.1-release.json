@@ -5,7 +5,9 @@
   "notes": [
     {
       "note": "Crash when viewing certain IMAP messages (introduced in 45.7.0)",
+      "is_public": true,
       "tag": "Fixed",
+      "bug": 1328814,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 45.7.1 Release",
@@ -13,16 +15,12 @@
         "is_public": true,
         "slug": "thunderbird-45.7.1-release",
         "channel": "Release"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 1328814
+      }
     },
     {
       "note": "Message preview pane non-functional after IMAP folder was renamed or moved",
-      "tag": "Known",
       "is_public": true,
-      "is_known_issue": true,
+      "tag": "Known",
       "bug": 1328814
     }
   ],

@@ -5,86 +5,74 @@
   "notes": [
     {
       "note": "New browsing mode: A night mode to reduce webpage brightness while browsing. Perfect for those late night wikipedia sessions",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": null
     },
     {
       "note": "See a QR code? Firefox now lets you scan QR codes you find, opening the url in the current tab",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": null
     },
     {
       "note": "If you\u2019ve copied a link firefox will now prompt you to open it saving you from having to paste it in manually.",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": null
     },
     {
       "note": "Added yMail as one of the supported email clients. Set a default email client to open mailto links directly in your favourite mail client.",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": null
     },
     {
       "note": "A fancy new menu when you long press a website in History/Bookmarks. Its pretty neat! And look at that blur!. Hopefully you like it. Thanks to Maurya Talisetti (mauryat) for his contribution!",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": null
     },
     {
       "note": "You can now control the address bar from an external keyboard. Press left and right on your keyboard to move the url bar carot. ",
-      "tag": "Changed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Changed",
       "bug": 1335138
     },
     {
       "note": "Do you use Firefox Logins to sync passwords? Good News! The password manager now has improved login page detection. ",
-      "tag": "Changed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Changed",
       "bug": 1366832
     },
     {
       "note": "The History Panel is much snappier. You might not notice it. But we surely did. ",
-      "tag": "Changed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Changed",
       "bug": 1317543
     },
     {
       "note": "Lots of you mentioned that Youtube or other video sites would play audio but the video would be frozen. We\u2019ve fixed that!",
-      "tag": "Fixed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Fixed",
       "bug": null
     },
     {
       "note": "We hope all of you are enjoying the new Tab bar on iPad. We\u2019ve patched a few crashes which occurred for a few users.",
-      "tag": "Fixed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Fixed",
       "bug": 1335689
     },
     {
       "note": "Fixed a bug where private tabs were not closed on exiting private mode if you had the respective preference turned on ",
-      "tag": "Fixed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Fixed",
       "bug": 1368953
     },
     {
       "note": "Youtube page history is now correctly reflected in the history panel ",
-      "tag": "Fixed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Fixed",
       "bug": 1360121
     }
   ],

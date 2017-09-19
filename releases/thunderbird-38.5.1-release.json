@@ -5,16 +5,14 @@
   "notes": [
     {
       "note": "Use a SHA-256 signing certificate for Windows builds, to meet new signing requirements",
-      "tag": "Changed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Changed",
       "bug": 1205843
     },
     {
       "note": "Windows XP SP2 will not longer install Thunderbird (workaround: Install Thunderbird 38.5.0 then update)",
-      "tag": "Known",
       "is_public": true,
-      "is_known_issue": true,
+      "tag": "Known",
       "bug": null
     }
   ],

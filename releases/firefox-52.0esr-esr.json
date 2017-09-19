@@ -5,30 +5,26 @@
   "notes": [
     {
       "note": "[Complete 52.0 release notes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/firefox/52.0/releasenotes/",
-      "tag": "",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "",
       "bug": null
     },
     {
       "note": "Service workers and push notifications disabled",
-      "tag": "Changed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Changed",
       "bug": 1338144
     },
     {
       "note": "WebAssembly disabled",
-      "tag": "Changed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Changed",
       "bug": 1342440
     },
     {
       "note": "Non-flash plugins re-enabled (disabled in the regular 52.0 release)",
-      "tag": "Changed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Changed",
       "bug": 1308761
     }
   ],

@@ -5,7 +5,9 @@
   "notes": [
     {
       "note": "Embedded images not shown in email received from Hotmail/Outlook webmailer",
+      "is_public": true,
       "tag": "Fixed",
+      "bug": 1347598,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 54.0beta Beta",
@@ -13,14 +15,13 @@
         "is_public": true,
         "slug": "thunderbird-54.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 1347598
+      }
     },
     {
       "note": "Detection of non-ASCII font names in font selector",
+      "is_public": true,
       "tag": "Fixed",
+      "bug": 1358049,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 54.0beta Beta",
@@ -28,14 +29,13 @@
         "is_public": true,
         "slug": "thunderbird-54.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 1358049
+      }
     },
     {
       "note": "Attachment not forwarded correctly under certain circumstances",
+      "is_public": true,
       "tag": "Fixed",
+      "bug": 570914,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 54.0beta Beta",
@@ -43,14 +43,13 @@
         "is_public": true,
         "slug": "thunderbird-54.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 570914
+      }
     },
     {
       "note": "Multiple requests for master password when GMail OAuth2 is enabled",
+      "is_public": true,
       "tag": "Fixed",
+      "bug": 1176399,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 54.0beta Beta",
@@ -58,14 +57,13 @@
         "is_public": true,
         "slug": "thunderbird-54.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 1176399
+      }
     },
     {
       "note": "Large number of blank pages being printed under certain circumstances when invalid preferences were present",
+      "is_public": true,
       "tag": "Fixed",
+      "bug": 1353625,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 52.2.0 Release",
@@ -73,14 +71,13 @@
         "is_public": true,
         "slug": "thunderbird-52.2.0-release",
         "channel": "Release"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 1353625
+      }
     },
     {
       "note": "Messages sent via the Simple MAPI interface are forced to HTML",
+      "is_public": true,
       "tag": "Fixed",
+      "bug": 1366196,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 52.2.0 Release",
@@ -88,14 +85,13 @@
         "is_public": true,
         "slug": "thunderbird-52.2.0-release",
         "channel": "Release"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 1366196
+      }
     },
     {
       "note": "Calendar: Invitations can't be printed",
+      "is_public": true,
       "tag": "Fixed",
+      "bug": 1365980,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 52.2.0 Release",
@@ -103,14 +99,13 @@
         "is_public": true,
         "slug": "thunderbird-52.2.0-release",
         "channel": "Release"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 1365980
+      }
     },
     {
       "note": "Mailing list (group) not accessible from macOS or Outlook address book",
+      "is_public": true,
       "tag": "Fixed",
+      "bug": 1356881,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 52.2.0 Release",
@@ -118,14 +113,13 @@
         "is_public": true,
         "slug": "thunderbird-52.2.0-release",
         "channel": "Release"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 1356881
+      }
     },
     {
       "note": "Clicking on links with references/anchors where target doesn't exist in the message not opening in external browser",
+      "is_public": true,
       "tag": "Fixed",
+      "bug": 1366273,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 52.2.0 Release",
@@ -133,14 +127,13 @@
         "is_public": true,
         "slug": "thunderbird-52.2.0-release",
         "channel": "Release"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 1366273
+      }
     },
     {
       "note": "Various [security fixes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/en-US/security/known-vulnerabilities/thunderbird/#thunderbird52.2",
+      "is_public": true,
       "tag": "Fixed",
+      "bug": null,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 52.2.0 Release",
@@ -148,23 +141,18 @@
         "is_public": true,
         "slug": "thunderbird-52.2.0-release",
         "channel": "Release"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": null
+      }
     },
     {
       "note": "Links in news messages including \"remove all expired articles\" not working",
-      "tag": "Known",
       "is_public": true,
-      "is_known_issue": true,
+      "tag": "Known",
       "bug": 1364723
     },
     {
       "note": "On Windows, \"Send to > Mail recipient\" does not work. Workaround: Install the [Microsoft Visual Studio 2015 redistributable runtime library][1] or the [Universal C Runtime for Windows Server][2].\r\n\r\n\r\n  [1]: https://www.microsoft.com/en-us/download/details.aspx?id=53587\r\n  [2]: https://support.microsoft.com/en-us/help/2999226/update-for-universal-c-runtime-in-windows",
-      "tag": "Known",
       "is_public": true,
-      "is_known_issue": true,
+      "tag": "Known",
       "bug": 1356902
     }
   ],

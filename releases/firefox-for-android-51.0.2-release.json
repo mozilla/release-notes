@@ -5,16 +5,14 @@
   "notes": [
     {
       "note": "Reference link for [51.0 release notes for Firefox for Android][1]\r\n\r\n\r\n  [1]: https://www.mozilla.com/firefox/android/51.0/releasenotes/",
-      "tag": "",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "",
       "bug": null
     },
     {
       "note": "Fix a crash caused by an Android library (Palette) on some x86 devices (Bug [1318667][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1318667",
-      "tag": "Fixed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Fixed",
       "bug": 1318667
     }
   ],

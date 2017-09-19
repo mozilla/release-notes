@@ -5,7 +5,9 @@
   "notes": [
     {
       "note": "In general, date/time display will follow the application locale. That means that for example the English-US version will display English-US date/time formats and the German version will display German date/time formats.\r\n\r\nDate/time display **can be adjusted in the operating system settings** as long as the language used in by the OS matches the language of the application.\r\n\r\nFor example an English-US version will respect settings for any English locale, like English-United Kingdom, English-Australia or English-India. A French version will respect settings for any French locale, like France or Canada.\r\n\r\nFurther improvements are scheduled for version 56 beta.",
+      "is_public": true,
       "tag": "Changed",
+      "bug": null,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 55.0beta Beta",
@@ -13,10 +15,7 @@
         "is_public": true,
         "slug": "thunderbird-55.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": null
+      }
     }
   ],
   "text": "**These release notes apply to Thunderbird version 55 beta 2 released July 15th, 2017.**",

@@ -5,7 +5,9 @@
   "notes": [
     {
       "note": "**IMPORTANT:** Changed recipient address entry: Arrow-keys now copy the pop-up value to the input field. Mouse-hovered pop-up value can no longer be confirmed with tab or enter key. This restores the behavior of Thunderbird 24.",
+      "is_public": true,
       "tag": "Changed",
+      "bug": 1192739,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 50.0beta Beta",
@@ -13,21 +15,19 @@
         "is_public": true,
         "slug": "thunderbird-50.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 1192739
+      }
     },
     {
       "note": "Support changes to character limit in Twitter",
-      "tag": "Changed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Changed",
       "bug": 1275284
     },
     {
       "note": "Reply with selected text containing quote resulted in wrong quoting level indication",
+      "is_public": true,
       "tag": "Fixed",
+      "bug": 669073,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 50.0beta Beta",
@@ -35,14 +35,13 @@
         "is_public": true,
         "slug": "thunderbird-50.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 669073
+      }
     },
     {
       "note": "Mail address display at header pane displayed incorrectly if the address contains UTF-8 according to RFC 6532",
+      "is_public": true,
       "tag": "Fixed",
+      "bug": 1023285,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 49.0beta Beta",
@@ -50,23 +49,18 @@
         "is_public": true,
         "slug": "thunderbird-49.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 1023285
+      }
     },
     {
       "note": " Attempting to sort messages on the Date field whilst a quick filter is applied got stuck on sort descending",
-      "tag": "Fixed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Fixed",
       "bug": 1266698
     },
     {
       "note": "Email invitation might not be displayed when description contains non-ASCII characters",
-      "tag": "Fixed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Fixed",
       "bug": 1301186
     }
   ],

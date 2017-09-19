@@ -5,23 +5,20 @@
   "notes": [
     {
       "note": "Add UI for disabling and clearing Visited Link/Browsing History (<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1020339\">Bug 1020339</a>)",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": null
     },
     {
       "note": "Support Internationalized domain name URLs for RSS feeds (<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1018589\">Bug 1018589</a>)",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 1018589
     },
     {
       "note": "<a href=\"https://bugzilla.mozilla.org/buglist.cgi?classification=Client%20Software&query_format=advanced&bug_status=RESOLVED&bug_status=VERIFIED&bug_status=CLOSED&target_milestone=Thunderbird%2033.0&product=Thunderbird&resolution=FIXED\">Various fixes and performance improvements</a>",
-      "tag": "Fixed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Fixed",
       "bug": null
     }
   ],

@@ -5,21 +5,21 @@
   "notes": [
     {
       "note": "Reference link to [53.0.1 release notes][1]\r\n\r\n[1]: https://www.mozilla.org/firefox/android/53.0.1/releasenotes",
-      "tag": "",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "",
       "bug": null
     },
     {
       "note": "Prevent video corruption on affected devices ([Bug 1360626][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1360626",
-      "tag": "Fixed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Fixed",
       "bug": 1360626
     },
     {
       "note": "Right-to-left locales will now display the search bar correctly ([Bug 1358089][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1358089",
+      "is_public": true,
       "tag": "Fixed",
+      "bug": 1358089,
       "fixed_in_release": {
         "product": "Firefox",
         "title": "Firefox 53.0.2 Release",
@@ -27,16 +27,12 @@
         "is_public": true,
         "slug": "firefox-53.0.2-release",
         "channel": "Release"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 1358089
+      }
     },
     {
       "note": "Fix for issues with Android integration ([Bug 1320072][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1320072",
-      "tag": "Fixed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Fixed",
       "bug": 1320072
     }
   ],

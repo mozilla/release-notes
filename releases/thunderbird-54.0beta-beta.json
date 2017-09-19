@@ -5,7 +5,9 @@
   "notes": [
     {
       "note": "Better support for Charter/Spectrum IMAP: Thunderbird will now detect Charter's IMAP service and send an additional IMAP select command to the server. Check the various preferences ending in \"force_select\" to see whether auto-detection has discovered this case.",
+      "is_public": true,
       "tag": "New",
+      "bug": 1231592,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 54.0beta Beta",
@@ -13,14 +15,13 @@
         "is_public": true,
         "slug": "thunderbird-54.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 1231592
+      }
     },
     {
       "note": "Individual feed update interval",
+      "is_public": true,
       "tag": "New",
+      "bug": 1312813,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 54.0beta Beta",
@@ -28,14 +29,13 @@
         "is_public": true,
         "slug": "thunderbird-54.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 1312813
+      }
     },
     {
       "note": "Thunderbird now uses Mozilla's latest proxy technology (add-on FoxyProxy now supported)",
+      "is_public": true,
       "tag": "Changed",
+      "bug": 791645,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 54.0beta Beta",
@@ -43,14 +43,13 @@
         "is_public": true,
         "slug": "thunderbird-54.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 791645
+      }
     },
     {
       "note": "Embedded images not shown in email received from Hotmail/Outlook webmailer",
+      "is_public": true,
       "tag": "Fixed",
+      "bug": 1347598,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 54.0beta Beta",
@@ -58,14 +57,13 @@
         "is_public": true,
         "slug": "thunderbird-54.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 1347598
+      }
     },
     {
       "note": "Detection of non-ASCII font names in font selector",
+      "is_public": true,
       "tag": "Fixed",
+      "bug": 1358049,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 54.0beta Beta",
@@ -73,14 +71,13 @@
         "is_public": true,
         "slug": "thunderbird-54.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 1358049
+      }
     },
     {
       "note": "Attachment not forwarded correctly under certain circumstances",
+      "is_public": true,
       "tag": "Fixed",
+      "bug": 570914,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 54.0beta Beta",
@@ -88,14 +85,13 @@
         "is_public": true,
         "slug": "thunderbird-54.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 570914
+      }
     },
     {
       "note": "Attached message sometimes not saved or forwarded correctly",
+      "is_public": true,
       "tag": "Fixed",
+      "bug": 1350080,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 54.0beta Beta",
@@ -103,14 +99,13 @@
         "is_public": true,
         "slug": "thunderbird-54.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 1350080
+      }
     },
     {
       "note": "Mailing list (group) not accessible from macOS or Outlook address book (not working in Thunderbird version 52)",
+      "is_public": true,
       "tag": "Fixed",
+      "bug": 1356881,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 54.0beta Beta",
@@ -118,14 +113,13 @@
         "is_public": true,
         "slug": "thunderbird-54.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 1356881
+      }
     },
     {
       "note": "Multiple requests for master password when GMail OAuth2 is enabled",
+      "is_public": true,
       "tag": "Fixed",
+      "bug": 1176399,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 54.0beta Beta",
@@ -133,14 +127,13 @@
         "is_public": true,
         "slug": "thunderbird-54.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 1176399
+      }
     },
     {
       "note": "Chat working again (fixed in Thunderbird version 54 beta 2, wasn't working in beta 1)",
+      "is_public": true,
       "tag": "Fixed",
+      "bug": 1366255,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 54.0beta Beta",
@@ -148,14 +141,13 @@
         "is_public": true,
         "slug": "thunderbird-54.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 1366255
+      }
     },
     {
       "note": "Clicking on links with references/anchors not working, clicking on links with references/anchors where target doesn't exist in the message not opening in external browser (fixed in Thunderbird version 54 beta 3, wasn't working in beta 1 and 2)",
+      "is_public": true,
       "tag": "Fixed",
+      "bug": 1366273,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 54.0beta Beta",
@@ -163,14 +155,13 @@
         "is_public": true,
         "slug": "thunderbird-54.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 1366273
+      }
     },
     {
       "note": "Large number of blank pages being printed under certain circumstances when invalid preferences were present (fixed in Thunderbird version 54 beta 3)",
+      "is_public": true,
       "tag": "Fixed",
+      "bug": 1353625,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 54.0beta Beta",
@@ -178,14 +169,13 @@
         "is_public": true,
         "slug": "thunderbird-54.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 1353625
+      }
     },
     {
       "note": "Messages sent via the Simple MAPI interface are forced to HTML",
+      "is_public": true,
       "tag": "Fixed",
+      "bug": 1366196,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 52.2.0 Release",
@@ -193,14 +183,13 @@
         "is_public": true,
         "slug": "thunderbird-52.2.0-release",
         "channel": "Release"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 1366196
+      }
     },
     {
       "note": "Calendar: Invitations can't be printed",
+      "is_public": true,
       "tag": "Fixed",
+      "bug": 1365980,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 52.2.0 Release",
@@ -208,23 +197,18 @@
         "is_public": true,
         "slug": "thunderbird-52.2.0-release",
         "channel": "Release"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 1365980
+      }
     },
     {
       "note": "Crash due to incompatibility with McAfee Anti-SPAM add-on. **Workaround:** Start in safe mode and disable McAfee Anti-Spam Extension",
-      "tag": "Known",
       "is_public": true,
-      "is_known_issue": true,
+      "tag": "Known",
       "bug": 1281610
     },
     {
       "note": "Date/time display cannot be adjusted in the operating system settings, so the date/time display will follow the application locale. That means that the English-US version will display English-US date/time formats and, for example, the German version will display German date/time formats. Improved behavior scheduled for version 55 beta.",
-      "tag": "Known",
       "is_public": true,
-      "is_known_issue": true,
+      "tag": "Known",
       "bug": null
     }
   ],

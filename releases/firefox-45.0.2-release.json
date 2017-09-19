@@ -5,44 +5,38 @@
   "notes": [
     {
       "note": "Reference link to [Firefox 45.0.1][1] release notes\r\n\r\n\r\n  [1]: https://www.mozilla.org/en-US/firefox/45.0.1/releasenotes/",
-      "tag": "",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "",
       "bug": null
     },
     {
       "note": "Fix a regression impacting some specific uploads ([1255735][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1255735",
-      "tag": "Fixed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Fixed",
       "bug": 1255735
     },
     {
       "note": "Fix a crash impacting the video playback with Media Source Extension ([1258562][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1258562",
-      "tag": "Fixed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Fixed",
       "bug": 1258562
     },
     {
       "note": "Fix a regression with the copy and paste with some old versions of some Gecko applications like Thunderbird ([1254980][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1254980",
-      "tag": "Fixed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Fixed",
       "bug": 1254980
     },
     {
       "note": "Fix a web compatibility regression impacting the *srcset* attribute of the *image* tag ([1259482][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1259482",
-      "tag": "Fixed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Fixed",
       "bug": 1259482
     },
     {
       "note": "Fix an issue impacting the cookie header when third-party cookies are blocked ([1257861][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1257861",
-      "tag": "Fixed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Fixed",
       "bug": 1257861
     }
   ],

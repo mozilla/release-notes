@@ -5,65 +5,56 @@
   "notes": [
     {
       "note": "Improved warning pages for certificate errors and untrusted connections",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": null
     },
     {
       "note": "Firefox has removed support for the RC4 cipher",
-      "tag": "Changed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Changed",
       "bug": null
     },
     {
       "note": "Right click on a logged object in the console to store it as a global variable on the page",
-      "tag": "Developer",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Developer",
       "bug": 1025778
     },
     {
       "note": "Visual tools for Animation:\r\n\r\n -  View/Edit CSS animation keyframe rules directly in the inspector\r\n -  Visually modify the cubic-bezier curve that drives the way animations progress through time\r\n -  [Discover and scrub through all CSS animations][1] and transitions playing on the page\r\n - Learn more: http://devtoolschallenger.com/\r\n\r\n\r\n  [1]: https://www.youtube.com/watch?v=T2jykykN3yc",
-      "tag": "Developer",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Developer",
       "bug": 1194146
     },
     {
       "note": "Visual tools for Layout and Styles:\r\n\r\n - Display rulers along the viewport to verify size and position and use the measurement tool to easily detect spacing and alignment problems\r\n - [Use CSS filters to preview and create][1] real-time effects like drop-shadows, sepia, etc\r\n - Learn more: http://devtoolschallenger.com/\r\n\r\n\r\n  [1]: https://www.youtube.com/watch?v=t3NKmmWfklU",
-      "tag": "Developer",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Developer",
       "bug": 1194146
     },
     {
       "note": "New memory tool for inspecting the memory heap",
-      "tag": "Developer",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Developer",
       "bug": 1195323
     },
     {
       "note": "[Service Workers API][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/API/Service_Worker_API/Using_Service_Workers",
-      "tag": "Developer",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Developer",
       "bug": null
     },
     {
       "note": "Built-in JSON reader to intuitively view, search, copy and save data without extensions",
-      "tag": "Developer",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Developer",
       "bug": 1132203
     },
     {
       "note": "[Add-on signing][1] enforcement\r\n\r\n\r\n  [1]: https://wiki.mozilla.org/Addons/Extension_Signing",
-      "tag": "Developer",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Developer",
       "bug": null
     }
   ],

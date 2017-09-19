@@ -5,7 +5,9 @@
   "notes": [
     {
       "note": "Message preview pane non-functional after IMAP folder was renamed or moved",
+      "is_public": true,
       "tag": "Fixed",
+      "bug": 1328814,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 51.0beta Beta",
@@ -13,14 +15,13 @@
         "is_public": true,
         "slug": "thunderbird-51.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 1328814
+      }
     },
     {
       "note": "\"Move To\" button on \"Search Messages\" panel not working",
+      "is_public": true,
       "tag": "Fixed",
+      "bug": 1319299,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 51.0beta Beta",
@@ -28,14 +29,13 @@
         "is_public": true,
         "slug": "thunderbird-51.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 1319299
+      }
     },
     {
       "note": "Message sent to \"undisclosed recipients\" shows no recipient (non-functional since Thunderbird version 38)",
+      "is_public": true,
       "tag": "Fixed",
+      "bug": 1318964,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 51.0beta Beta",
@@ -43,14 +43,13 @@
         "is_public": true,
         "slug": "thunderbird-51.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 1318964
+      }
     },
     {
       "note": "Calendar: No way to accept/decline email invitations when sent and received messages are stored in the same folder",
+      "is_public": true,
       "tag": "Fixed",
+      "bug": 1326271,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 45.7.0 Release",
@@ -58,14 +57,13 @@
         "is_public": true,
         "slug": "thunderbird-45.7.0-release",
         "channel": "Release"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 1326271
+      }
     },
     {
       "note": "Various [security fixes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/known-vulnerabilities/thunderbird/#thunderbird45.7",
+      "is_public": true,
       "tag": "Fixed",
+      "bug": null,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 45.6.0 Release",
@@ -73,10 +71,7 @@
         "is_public": true,
         "slug": "thunderbird-45.6.0-release",
         "channel": "Release"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": null
+      }
     }
   ],
   "text": "",

@@ -5,23 +5,20 @@
   "notes": [
     {
       "note": "27.0.1 - JS math correctness issue (bug <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=941381\">941381</a>)",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": null
     },
     {
       "note": "27.0.1 - Fixed stability issues with Greasemonkey and other JS that used ClearTimeoutOrInterval",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": null
     },
     {
       "note": "Various <a href=\"https://www.mozilla.org/security/known-vulnerabilities/firefox.html\">security fixes</a>",
-      "tag": "Fixed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Fixed",
       "bug": null
     }
   ],

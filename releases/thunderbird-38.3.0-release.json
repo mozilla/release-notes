@@ -5,58 +5,50 @@
   "notes": [
     {
       "note": "Saved files tab now implements Search field and Clear button.",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 1152743
     },
     {
       "note": "(Right-)Clicking on a newsgroup now allows directly composing a message again",
-      "tag": "Fixed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Fixed",
       "bug": 1180360
     },
     {
       "note": "Importing to the address book from CSV now works with international characters",
-      "tag": "Fixed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Fixed",
       "bug": 1188306
     },
     {
       "note": "Thunderbird no longer crashes when executing filter rules when using maildir",
-      "tag": "Fixed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Fixed",
       "bug": 797710
     },
     {
       "note": "When using the maildir storage format, the INBOX folder is no longer deleted",
-      "tag": "Fixed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Fixed",
       "bug": 1175242
     },
     {
       "note": "Emails with long References headers are now decoded correctly",
-      "tag": "Fixed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Fixed",
       "bug": 1197686
     },
     {
       "note": "Checking for new messages correctly works after hibernation again",
-      "tag": "Fixed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Fixed",
       "bug": 1196662
     },
     {
       "note": "Chat entries are no longer sometimes lost in global database at shutdown.",
-      "tag": "Fixed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Fixed",
       "bug": 1146698
     }
   ],

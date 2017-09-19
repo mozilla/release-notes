@@ -5,7 +5,9 @@
   "notes": [
     {
       "note": "Sync on exit",
+      "is_public": true,
       "tag": "New",
+      "bug": 1168504,
       "fixed_in_release": {
         "product": "Firefox for iOS",
         "title": "Firefox for iOS 4.0 Release",
@@ -13,14 +15,13 @@
         "is_public": true,
         "slug": "firefox-for-ios-4.0-release",
         "channel": "Release"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 1168504
+      }
     },
     {
       "note": "Today widget to Open Tab (currently supported on iOS 9 only)",
+      "is_public": true,
       "tag": "New",
+      "bug": 1186573,
       "fixed_in_release": {
         "product": "Firefox for iOS",
         "title": "Firefox for iOS 4.0 Release",
@@ -28,14 +29,13 @@
         "is_public": true,
         "slug": "firefox-for-ios-4.0-release",
         "channel": "Release"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 1186573
+      }
     },
     {
       "note": "Overwrite certificate errors",
+      "is_public": true,
       "tag": "New",
+      "bug": 1177078,
       "fixed_in_release": {
         "product": "Firefox for iOS",
         "title": "Firefox for iOS 4.0 Release",
@@ -43,14 +43,13 @@
         "is_public": true,
         "slug": "firefox-for-ios-4.0-release",
         "channel": "Release"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 1177078
+      }
     },
     {
       "note": "Support printing in Firefox for iOS ",
+      "is_public": true,
       "tag": "New",
+      "bug": 1247848,
       "fixed_in_release": {
         "product": "Firefox for iOS",
         "title": "Firefox for iOS 4.0 Release",
@@ -58,14 +57,13 @@
         "is_public": true,
         "slug": "firefox-for-ios-4.0-release",
         "channel": "Release"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 1247848
+      }
     },
     {
       "note": "Include bookmarks in Awesomebar results and domain autocompletion",
+      "is_public": true,
       "tag": "New",
+      "bug": 1185038,
       "fixed_in_release": {
         "product": "Firefox for iOS",
         "title": "Firefox for iOS 4.0 Release",
@@ -73,14 +71,13 @@
         "is_public": true,
         "slug": "firefox-for-ios-4.0-release",
         "channel": "Release"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 1185038
+      }
     },
     {
       "note": "Implement Telemetry Core Ping",
+      "is_public": true,
       "tag": "New",
+      "bug": 1243592,
       "fixed_in_release": {
         "product": "Firefox for iOS",
         "title": "Firefox for iOS 4.0 Release",
@@ -88,14 +85,13 @@
         "is_public": true,
         "slug": "firefox-for-ios-4.0-release",
         "channel": "Release"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 1243592
+      }
     },
     {
       "note": "Songhay (locale code: ses) added",
+      "is_public": true,
       "tag": "New",
+      "bug": null,
       "fixed_in_release": {
         "product": "Firefox for iOS",
         "title": "Firefox for iOS 4.0 Release",
@@ -103,10 +99,7 @@
         "is_public": true,
         "slug": "firefox-for-ios-4.0-release",
         "channel": "Release"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": null
+      }
     }
   ],
   "text": "",

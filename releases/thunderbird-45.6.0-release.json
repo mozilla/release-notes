@@ -5,7 +5,9 @@
   "notes": [
     {
       "note": " The system integration dialog was shown every time when starting Thunderbird",
+      "is_public": true,
       "tag": "Fixed",
+      "bug": 1314236,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 45.6.0 Release",
@@ -13,14 +15,13 @@
         "is_public": true,
         "slug": "thunderbird-45.6.0-release",
         "channel": "Release"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 1314236
+      }
     },
     {
       "note": "Various [security fixes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/known-vulnerabilities/thunderbird/#thunderbird45.6\r\n",
+      "is_public": true,
       "tag": "Fixed",
+      "bug": null,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 45.6.0 Release",
@@ -28,10 +29,7 @@
         "is_public": true,
         "slug": "thunderbird-45.6.0-release",
         "channel": "Release"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": null
+      }
     }
   ],
   "text": "",

@@ -5,58 +5,50 @@
   "notes": [
     {
       "note": "Reference: Release notes for [Firefox 40.0.2][1]\r\n\r\n  [1]: https://www.mozilla.com/en-US/firefox/40.0.2/releasenotes/",
-      "tag": "",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "",
       "bug": null
     },
     {
       "note": "Disable the asynchronous plugin initialization ([1198590][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1198590",
-      "tag": "Changed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Changed",
       "bug": 1198590
     },
     {
       "note": "Fix a segmentation fault in the GStreamer support (GNU/Linux) ([1145230][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1145230",
-      "tag": "Fixed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Fixed",
       "bug": 1145230
     },
     {
       "note": "Fix a startup crash when using DisplayLink (Windows Only) ([1195844][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1195844",
-      "tag": "Fixed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Fixed",
       "bug": 1195844
     },
     {
       "note": "Fix a regression with some Japanese fonts used in the &lt;input&gt; field ([1194055][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1194055",
-      "tag": "Fixed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Fixed",
       "bug": 1194055
     },
     {
       "note": "On some sites, the selection in a select combox box using the mouse could be broken ([1194733][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1194733",
-      "tag": "Fixed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Fixed",
       "bug": 1194733
     },
     {
       "note": "Some search partner codes were missing ([1195683][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1195683",
-      "tag": "Fixed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Fixed",
       "bug": 1195683
     },
     {
       "note": "Various [security fixes][1] \r\n[1]:https://www.mozilla.org/security/known-vulnerabilities/firefox/#firefox40.0.3",
-      "tag": "Fixed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Fixed",
       "bug": null
     }
   ],

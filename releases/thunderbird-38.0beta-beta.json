@@ -5,14 +5,15 @@
   "notes": [
     {
       "note": "GMail supports OAuth2 authentication, removing the need to manually select \"allow less secure applications\" in Google options for the account.  (<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=849540\">bug 849540</a>)",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 849540
     },
     {
       "note": "Filter sent messages (<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=11039 \">bug 11039</a>)",
+      "is_public": true,
       "tag": "New",
+      "bug": 11039,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 37.0beta Beta",
@@ -20,14 +21,13 @@
         "is_public": true,
         "slug": "thunderbird-37.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 11039
+      }
     },
     {
       "note": "Filter messages when archived  (<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=479823 \">bug 479823</a>)",
+      "is_public": true,
       "tag": "New",
+      "bug": 479823,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 37.0beta Beta",
@@ -35,14 +35,13 @@
         "is_public": true,
         "slug": "thunderbird-37.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 479823
+      }
     },
     {
       "note": "Enable search in multiple/all address books (<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=170270 \">bug 170270</a>)",
+      "is_public": true,
       "tag": "New",
+      "bug": 170270,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 38.0beta Beta",
@@ -50,21 +49,19 @@
         "is_public": true,
         "slug": "thunderbird-38.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 170270
+      }
     },
     {
       "note": "Support Internationalized domain name URLs for RSS feeds (<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1018589\">Bug 1018589</a>)",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 1018589
     },
     {
       "note": "Show expanded columns in folder pane  (<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=464973 \">bug 464973</a>)",
+      "is_public": true,
       "tag": "New",
+      "bug": 464973,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 38.0beta Beta",
@@ -72,14 +69,13 @@
         "is_public": true,
         "slug": "thunderbird-38.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 464973
+      }
     },
     {
       "note": "Allow file-per-message (maildir) local message storage (<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=845952 \">bug 845952</a>)",
+      "is_public": true,
       "tag": "New",
+      "bug": 845952,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 38.0beta Beta",
@@ -87,14 +83,13 @@
         "is_public": true,
         "slug": "thunderbird-38.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 845952
+      }
     },
     {
       "note": " Add a Learn more link to the support page in feeds subscribe dialog (<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1053782\">bug 1053782</a>)",
+      "is_public": true,
       "tag": "New",
+      "bug": 1053782,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 36.0beta Beta",
@@ -102,14 +97,13 @@
         "is_public": true,
         "slug": "thunderbird-36.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 1053782
+      }
     },
     {
       "note": "Add reading position marker line to conversations (<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=760762\">bug 760762</a>)",
+      "is_public": true,
       "tag": "New",
+      "bug": 760762,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 38.0beta Beta",
@@ -117,14 +111,13 @@
         "is_public": true,
         "slug": "thunderbird-38.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 760762
+      }
     },
     {
       "note": "The editor for twitter should show inputtable character\r\ncount (<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=736002\">bug 736002</a>)",
+      "is_public": true,
       "tag": "New",
+      "bug": 736002,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 38.0beta Beta",
@@ -132,21 +125,19 @@
         "is_public": true,
         "slug": "thunderbird-38.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 736002
+      }
     },
     {
       "note": "Thunderbird will no longer use SHA-1 to sign messages (<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1018259\">bug 1018259</a>)",
-      "tag": "Changed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Changed",
       "bug": 1018259
     },
     {
       "note": "Removed rarely used character sets: T.61-8bit, non-encoding Mac encoders, VISCII, x-viet-tcvn5712, x-viet-vps x-johab, ARMSCII8 , map us-ascii to windows-1252, ISO-8859-6-I and -E and ISO-8859-8-E, (<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1068505\">bug 1068505 and others.</a>)",
+      "is_public": true,
       "tag": "Changed",
+      "bug": 1068505,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 37.0beta Beta",
@@ -154,14 +145,13 @@
         "is_public": true,
         "slug": "thunderbird-37.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 1068505
+      }
     },
     {
       "note": "Disable CONDSTORE support for IMAP to prevent discrepancies in IMAP message status (deleted, unread) on some servers (<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=912216\">bug 912216</a>)",
+      "is_public": true,
       "tag": "Changed",
+      "bug": 912216,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 37.0beta Beta",
@@ -169,14 +159,13 @@
         "is_public": true,
         "slug": "thunderbird-37.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 912216
+      }
     },
     {
       "note": "Make OpenSearch queries open in the user's default browser (<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1120777\">bug 1120777</a>)",
+      "is_public": true,
       "tag": "Changed",
+      "bug": 1120777,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 38.0beta Beta",
@@ -184,14 +173,13 @@
         "is_public": true,
         "slug": "thunderbird-38.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 1120777
+      }
     },
     {
       "note": "Default to using SSL for XMPP and IRC. This might cause issues for self-signed certificates  (<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1122567\">bug 1122567, </a><a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1122666\">bug 1122666</a>)",
+      "is_public": true,
       "tag": "Changed",
+      "bug": 1122567,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 38.0beta Beta",
@@ -199,14 +187,13 @@
         "is_public": true,
         "slug": "thunderbird-38.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 1122567
+      }
     },
     {
       "note": "Replied/forwarded icons disappear after folder repair, detach/delete (<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=840418 \">bug 840418</a>)",
+      "is_public": true,
       "tag": "Fixed",
+      "bug": 840418,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 36.0beta Beta",
@@ -214,14 +201,13 @@
         "is_public": true,
         "slug": "thunderbird-36.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 840418
+      }
     },
     {
       "note": "Attachment \"Save As\" files are displayed in Tools/Saved Files (<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=914517 \">bug 914517</a>)",
+      "is_public": true,
       "tag": "Fixed",
+      "bug": 914517,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 38.0beta Beta",
@@ -229,14 +215,13 @@
         "is_public": true,
         "slug": "thunderbird-38.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 914517
+      }
     },
     {
       "note": "Adding unknown email addresses to Mailing list, then deleting ghost duplicate entries from contacts pane, caused dataloss in mailing list (<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=628035\">bug 628035</a>)",
+      "is_public": true,
       "tag": "Fixed",
+      "bug": 628035,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 36.0beta Beta",
@@ -244,14 +229,13 @@
         "is_public": true,
         "slug": "thunderbird-36.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 628035
+      }
     },
     {
       "note": "Web site from RSS feed was not rendered correctly (<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=662907\">bug 662907</a>)",
+      "is_public": true,
       "tag": "Fixed",
+      "bug": 662907,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 33.0beta Beta",
@@ -259,14 +243,13 @@
         "is_public": true,
         "slug": "thunderbird-33.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 662907
+      }
     },
     {
       "note": "Email address with leading/trailing whitespace displayed wrongly with added quotes when composing [\"foo\"@bar.com] (<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=286760\">bug 286760</a>)",
+      "is_public": true,
       "tag": "Fixed",
+      "bug": 286760,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 37.0beta Beta",
@@ -274,14 +257,13 @@
         "is_public": true,
         "slug": "thunderbird-37.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 286760
+      }
     },
     {
       "note": "Force display of Sender header if S/MIME sender is the signer (<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=332639\">bug 332639</a>)",
+      "is_public": true,
       "tag": "Fixed",
+      "bug": 332639,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 36.0beta Beta",
@@ -289,14 +271,13 @@
         "is_public": true,
         "slug": "thunderbird-36.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 332639
+      }
     },
     {
       "note": "Addressing autocomplete widget: Typed text in red despite results/matches found if suggestions change by last input  (<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1042561\">bug 1042561</a>)",
+      "is_public": true,
       "tag": "Fixed",
+      "bug": 1042561,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 38.0beta Beta",
@@ -304,14 +285,13 @@
         "is_public": true,
         "slug": "thunderbird-38.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 1042561
+      }
     },
     {
       "note": "Status bar not accessible (<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=934875\">bug 934875</a>)",
+      "is_public": true,
       "tag": "Fixed",
+      "bug": 934875,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 34.0beta Beta",
@@ -319,14 +299,13 @@
         "is_public": true,
         "slug": "thunderbird-34.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 934875
+      }
     },
     {
       "note": "Wrong folder may be deleted when requesting junk delete (<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1018960\">bug 1018960</a>)",
+      "is_public": true,
       "tag": "Fixed",
+      "bug": 1018960,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 33.0beta Beta",
@@ -334,14 +313,13 @@
         "is_public": true,
         "slug": "thunderbird-33.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 1018960
+      }
     },
     {
       "note": "Severe UI stutter or freezes getting new mail for very large folders (<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=870556\">bug 870556</a>)",
+      "is_public": true,
       "tag": "Fixed",
+      "bug": 870556,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 37.0beta Beta",
@@ -349,14 +327,13 @@
         "is_public": true,
         "slug": "thunderbird-37.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 870556
+      }
     },
     {
       "note": "Automatically rejoin multi-user conversations on reconnect for XMPP  (<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1014472\">bug 1014472</a>)",
+      "is_public": true,
       "tag": "Fixed",
+      "bug": 1014472,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 33.0beta Beta",
@@ -364,14 +341,13 @@
         "is_public": true,
         "slug": "thunderbird-33.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 1014472
+      }
     },
     {
       "note": "Various improvements when using IRC on moznet  (<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1083768\">bug 1083768</a> and others)",
+      "is_public": true,
       "tag": "Fixed",
+      "bug": 1083768,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 36.0beta Beta",
@@ -379,14 +355,13 @@
         "is_public": true,
         "slug": "thunderbird-36.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 1083768
+      }
     },
     {
       "note": "Significantly improve XMPP support  (<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1085022\">bug 1085022</a> and others)",
+      "is_public": true,
       "tag": "Fixed",
+      "bug": 1085022,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 38.0beta Beta",
@@ -394,14 +369,13 @@
         "is_public": true,
         "slug": "thunderbird-38.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 1085022
+      }
     },
     {
       "note": "Fixes for connecting to non-standard IRC networks  (<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=870556\">bug 870556</a> and others)",
+      "is_public": true,
       "tag": "Fixed",
+      "bug": 955389,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 34.0beta Beta",
@@ -409,14 +383,13 @@
         "is_public": true,
         "slug": "thunderbird-34.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 955389
+      }
     },
     {
       "note": "Automatically reclaim IRC nicks during a reconnect  (<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1087566\">bug 1087566</a>)",
+      "is_public": true,
       "tag": "Fixed",
+      "bug": 1087566,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 36.0beta Beta",
@@ -424,16 +397,12 @@
         "is_public": true,
         "slug": "thunderbird-36.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 1087566
+      }
     },
     {
       "note": "Automatic addon compatibility update checks were not completed, so existing addon compatibilities may not be accurate.",
-      "tag": "Known",
       "is_public": true,
-      "is_known_issue": true,
+      "tag": "Known",
       "bug": null
     }
   ],

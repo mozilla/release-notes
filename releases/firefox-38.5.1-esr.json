@@ -5,9 +5,8 @@
   "notes": [
     {
       "note": " Prepare to use SHA-256 signing certificate for Windows builds, to meet new signing requirement ([1079858][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1079858",
-      "tag": "Fixed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Fixed",
       "bug": 1079858
     }
   ],

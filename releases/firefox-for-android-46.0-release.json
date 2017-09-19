@@ -5,93 +5,80 @@
   "notes": [
     {
       "note": "Notifications about [tabs opened in the background][1] now list the URLs\r\n\r\n\r\n  [1]: https://support.mozilla.org/en-US/kb/open-links-background-later-viewing-firefox-android",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 1241596
     },
     {
       "note": "[Firefox will request permissions][1] at runtime instead of installation time (Android 6.0+)\r\n\r\n\r\n  [1]: https://support.mozilla.org/en-US/kb/how-firefox-android-use-permissions-it-requests",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 1212830
     },
     {
       "note": "Clearer homescreen shortcut icons",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 826400
     },
     {
       "note": "Include [default domains for inline autocompletion][1]\r\n\r\n\r\n  [1]: https://gecko.readthedocs.org/en/latest/mobile/android/fennec/defaultdomains.html#domain-auto-completion",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 1229862
     },
     {
       "note": " History and Bookmarks items added to menu",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 1231792
     },
     {
       "note": "[Add-ons that have not been verified and signed][1] by Mozilla will not load\r\n\r\n  \r\n  [1]: https://blog.mozilla.org/addons/2016/03/17/add-on-signing-enforcement-in-firefox-46-for-android/",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 1244329
     },
     {
       "note": "Various [security fixes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/en-US/security/known-vulnerabilities/firefox/#firefox46",
-      "tag": "",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "",
       "bug": null
     },
     {
       "note": "Dropped support for Android Honeycomb (version 3)",
-      "tag": "Changed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Changed",
       "bug": 1155801
     },
     {
       "note": "Top Sites panel now lists popular sites by default",
-      "tag": "Changed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Changed",
       "bug": 1216987
     },
     {
       "note": "[Removed support][1] for Firefox Sync 1.1 in favor of Firefox Accounts \r\n\r\n\r\n  [1]: https://blog.mozilla.org/services/2015/07/31/shutting-down-the-legacy-sync-service/",
-      "tag": "Changed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Changed",
       "bug": 1220906
     },
     {
       "note": "Added Kaqchikel locale",
-      "tag": "Language",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Language",
       "bug": 1178925
     },
     {
       "note": "Keep track of tab history under memory pressure",
-      "tag": "Fixed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Fixed",
       "bug": 1044556
     },
     {
       "note": "Text to speech function in TalkBack now works while users swipe right",
-      "tag": "Fixed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Fixed",
       "bug": 1248408
     }
   ],

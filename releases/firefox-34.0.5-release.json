@@ -5,175 +5,153 @@
   "notes": [
     {
       "note": "Default search engine changed to Yahoo! for North America",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 1102416
     },
     {
       "note": "Default search engine changed to Yandex for Belarusian, Kazakh, and Russian locales",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 1102322
     },
     {
       "note": "Improved search bar (en-US only)",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 1088660
     },
     {
       "note": "[Firefox Hello][1] real-time communication client\r\n [1]: http://blog.mozilla.org/futurereleases/2014/10/16/test-the-new-firefox-hello-webrtc-feature-in-firefox-beta",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 972014
     },
     {
       "note": "Easily [switch themes/personas][1] directly in the Customizing mode\r\n\r\n[1]: http://msujaws.wordpress.com/2014/08/27/new-in-firefox-nightly-recommended-and-easy-theme-switching-through-customize-mode/",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 1007336
     },
     {
       "note": "Wikipedia search now uses HTTPS for secure searching (en-US only)",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 758857
     },
     {
       "note": "Recover from a locked Firefox process in the \"Firefox is already running\" dialog on Windows",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 286355
     },
     {
       "note": "Disabled SSLv3",
-      "tag": "Changed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Changed",
       "bug": 1076983
     },
     {
       "note": "Proprietary window.crypto properties/functions re-enabled (to be removed in Firefox 35)",
-      "tag": "Changed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Changed",
       "bug": 1083118
     },
     {
       "note": "Firefox signed by Apple OS X version 2 signature",
-      "tag": "Changed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Changed",
       "bug": 1047584
     },
     {
       "note": "[ECMAScript 6 WeakSet][1] Implemented\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakSet",
-      "tag": "HTML5",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "HTML5",
       "bug": 792439
     },
     {
       "note": "[JavaScript Template Strings][1] Implemented\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/template_strings",
-      "tag": "HTML5",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "HTML5",
       "bug": 1038259
     },
     {
       "note": "CSS3 Font variants and features control (e.g. kerning) implemented",
-      "tag": "HTML5",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "HTML5",
       "bug": 975744
     },
     {
       "note": "WebCrypto: RSA-OAEP, PBKDF2 and AES-KW support",
-      "tag": "HTML5",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "HTML5",
       "bug": 1026398
     },
     {
       "note": "WebCrypto: wrapKey and unwrapKey implemented",
-      "tag": "HTML5",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "HTML5",
       "bug": 1034851
     },
     {
       "note": "WebCrypto: Import/export of JWK-formatted keys",
-      "tag": "HTML5",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "HTML5",
       "bug": 1025230
     },
     {
       "note": "[matches()][1] DOM API implemented (formerly *mozMatchesSelector()*)\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/Element.matches",
-      "tag": "HTML5",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "HTML5",
       "bug": 886308
     },
     {
       "note": "Performance.now() for workers implemented",
-      "tag": "HTML5",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "HTML5",
       "bug": 908390
     },
     {
       "note": "WebCrypto: ECDH support",
-      "tag": "HTML5",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "HTML5",
       "bug": 1034855
     },
     {
       "note": "[WebIDE][1]: Create, edit, and test a new Web application from your browser\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Tools/WebIDE\r\n",
-      "tag": "Developer",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Developer",
       "bug": 1007059
     },
     {
       "note": "Highlight all nodes that match a given selector in the Style Editor and the Inspector's Rules panel",
-      "tag": "Developer",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Developer",
       "bug": 971662
     },
     {
       "note": "Improved User Interface of the Profiler",
-      "tag": "Developer",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Developer",
       "bug": 879008
     },
     {
       "note": "[console.table][1] function added to web console\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/Console.table",
-      "tag": "Developer",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Developer",
       "bug": 899753
     },
     {
       "note": "Various <a href=\"https://www.mozilla.org/security/known-vulnerabilities/firefox.html\">security fixes</a>",
-      "tag": "Fixed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Fixed",
       "bug": null
     },
     {
       "note": "CSS transitions start correctly when started at the same time as changes to display, position, overflow, and similar properties",
+      "is_public": true,
       "tag": "Fixed",
+      "bug": 625289,
       "fixed_in_release": {
         "product": "Firefox",
         "title": "Firefox 34.0a2 Aurora",
@@ -181,23 +159,18 @@
         "is_public": true,
         "slug": "firefox-34.0a2-aurora",
         "channel": "Aurora"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 625289
+      }
     },
     {
       "note": "Fullscreen video on Mac disables display sleep, and dimming, during playback",
-      "tag": "Fixed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Fixed",
       "bug": 772347
     },
     {
       "note": "Various Yosemite visual fixes (see <a href=\"http://bugzil.la/1040250\">bug 1040250</a>)",
-      "tag": "Fixed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Fixed",
       "bug": 1040250
     }
   ],

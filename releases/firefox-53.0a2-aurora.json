@@ -5,100 +5,86 @@
   "notes": [
     {
       "note": "[Improved graphics stability][1] for Windows users with the addition of compositor process separation (Quantum Compositor)\r\n\r\n\r\n  [1]: https://ashughes.com/?p=426",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 1264543
     },
     {
       "note": "Two new 'compact' themes available in Firefox, dark and light, based on the Firefox Developer Edition theme",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 1314091
     },
     {
       "note": "Lightweight themes are now applied in private browsing windows",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 854126
     },
     {
       "note": "Reader Mode now displays estimated reading time for the page",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 1265304
     },
     {
       "note": "New installs on Win7+ 64 bit OS now default to 64 bit Firefox",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 797208
     },
     {
       "note": "Windows XP and Vista are no longer supported. [XP and Vista users running Firefox 52][1] will continue to receive security updates on Firefox ESR 52.\r\n\r\n\r\n  [1]: https://support.mozilla.org/en-US/kb/end-support-windows-xp-and-vista",
-      "tag": "Changed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Changed",
       "bug": 1130266
     },
     {
       "note": "32-bit Mac OS X is no longer supported.  32-bit Mac OS X users can [switch to Firefox ESR 52][1] to continue receiving security updates. \r\n\r\n\r\n  [1]: https://www.mozilla.org/firefox/organizations/faq/",
-      "tag": "Changed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Changed",
       "bug": 1295375
     },
     {
       "note": "[Process separation][1] (e10s) now supported on Windows 10 touch screen devices and systems with accessibility tools installed\r\n\r\n\r\n  [1]: https://blog.mozilla.org/futurereleases/2016/08/02/whats-next-for-multi-process-firefox/",
-      "tag": "Changed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Changed",
       "bug": 1258839
     },
     {
       "note": "Media playback on new tabs is blocked until the tab is visible",
-      "tag": "Changed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Changed",
       "bug": 1262053
     },
     {
       "note": "The last few characters of shortened tab titles fade out instead of being replaced by ellipses to keep more of the title visible",
-      "tag": "Changed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Changed",
       "bug": 658467
     },
     {
       "note": "New visual design for audio and video controls",
-      "tag": "Changed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Changed",
       "bug": 1271765
     },
     {
       "note": "Ended Firefox Linux support for processors older than Pentium 4 and AMD Opteron",
-      "tag": "Changed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Changed",
       "bug": 1274196
     },
     {
       "note": "Select menus offer an inline search when the menus are over 40 items",
-      "tag": "Changed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Changed",
       "bug": 1309935
     },
     {
       "note": "Changes for [web developers][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/Firefox/Releases/53#Changes_for_Web_developers",
-      "tag": "Developer",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Developer",
       "bug": null
     }
   ],

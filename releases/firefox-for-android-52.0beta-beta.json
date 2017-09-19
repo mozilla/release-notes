@@ -5,23 +5,20 @@
   "notes": [
     {
       "note": "Implemented the Strict Secure Cookies specification which forbids insecure HTTP sites from setting cookies with the \"secure\" attribute.  In some cases, this will prevent an insecure site from setting a cookie with the same name as an existing \"secure\" cookie from the same base domain.",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 976073
     },
     {
       "note": "Reduced APK file size by more than 5 MB for faster download and installation",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 1294736
     },
     {
       "note": "Display media controls to pause or resume playback on the Android notification bar. This gives users easy access to controls and allows them to see when audio or video is playing (and consuming mobile data) on Firefox. ",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 1268368
     }
   ],

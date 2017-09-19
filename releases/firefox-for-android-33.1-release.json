@@ -5,14 +5,15 @@
   "notes": [
     {
       "note": "Adding DuckDuckGo as a search option",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 1061736
     },
     {
       "note": "MP4 videos will not play on Android L",
+      "is_public": true,
       "tag": "Known",
+      "bug": 1050832,
       "fixed_in_release": {
         "product": "Firefox",
         "title": "Firefox 34.0beta Beta",
@@ -20,23 +21,18 @@
         "is_public": true,
         "slug": "firefox-34.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": true,
-      "bug": 1050832
+      }
     },
     {
       "note": "Flash does not work on Android L",
-      "tag": "Known",
       "is_public": true,
-      "is_known_issue": true,
+      "tag": "Known",
       "bug": 1055166
     },
     {
       "note": "On Gingerbread, VP9/WEBM video artifacts: only plays on half screen",
-      "tag": "Known",
       "is_public": true,
-      "is_known_issue": true,
+      "tag": "Known",
       "bug": 1068055
     }
   ],

@@ -5,9 +5,8 @@
   "notes": [
     {
       "note": "Detect SSE hardware version ([Bug 1271761][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1271761",
-      "tag": "Fixed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Fixed",
       "bug": 1271761
     }
   ],

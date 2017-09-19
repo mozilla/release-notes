@@ -5,30 +5,26 @@
   "notes": [
     {
       "note": "Media in a new opened background tab won\u2019t be autoplayed",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 1308154
     },
     {
       "note": "Bookmarks created on mobile devices are now shown in \"Mobile Bookmarks\u201d folder in the drop down list from the toolbar and Bookmarks option in the menu bar in Desktop Firefox",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 1295237
     },
     {
       "note": "Create your own custom devices in Responsive Device Mode",
-      "tag": "Developer",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Developer",
       "bug": 1321675
     },
     {
       "note": "Additional changes for [web developers][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/Firefox/Releases/54",
-      "tag": "Developer",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Developer",
       "bug": null
     }
   ],

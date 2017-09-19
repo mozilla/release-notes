@@ -5,119 +5,105 @@
   "notes": [
     {
       "note": "Added support for Prefer:Safe HTTP header",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 1042715
     },
     {
       "note": "Wikipedia search now uses HTTPS for secure searching (en-US only)",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 758857
     },
     {
       "note": "[Public key pinning support][1] enabled\r\n\r\n\r\n  [1]: https://wiki.mozilla.org/SecurityEngineering/Public_Key_Pinning",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 1004350
     },
     {
       "note": "Added URL bar autocomplete preference",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 1052595
     },
     {
       "note": "Implementation of HTTP/2 (draft14) and ALPN",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 1047594
     },
     {
       "note": "Support for the [ECMAScript 6 Symbol][1] data type added\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol\r\n",
-      "tag": "HTML5",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "HTML5",
       "bug": 645416
     },
     {
       "note": "[ECMAScript 6 WeakSet][1] Implemented\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakSet",
-      "tag": "HTML5",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "HTML5",
       "bug": 792439
     },
     {
       "note": "[JavaScript Template Strings][1] Implemented\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/template_strings",
-      "tag": "HTML5",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "HTML5",
       "bug": 1038259
     },
     {
       "note": "CSS3 Font variants and features control (e.g. kerning) implemented",
-      "tag": "HTML5",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "HTML5",
       "bug": 975744
     },
     {
       "note": "[Device Storage API][1] for privileged apps enabled\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/Device_Storage_API",
-      "tag": "HTML5",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "HTML5",
       "bug": 886627
     },
     {
       "note": "WebCrypto: RSA-OAEP, PBKDF2 and AES-KW support",
-      "tag": "HTML5",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "HTML5",
       "bug": 1026398
     },
     {
       "note": "WebCrypto: wrapKey and unwrapKey implemented",
-      "tag": "HTML5",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "HTML5",
       "bug": 1034851
     },
     {
       "note": "WebCrypto: Import/export of JWK-formatted keys",
-      "tag": "HTML5",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "HTML5",
       "bug": 1025230
     },
     {
       "note": "[matches()][1] DOM API implemented (formerly *mozMatchesSelector()*)\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/Element.matches",
-      "tag": "HTML5",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "HTML5",
       "bug": 886308
     },
     {
       "note": "Performance.now() for workers implemented",
-      "tag": "HTML5",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "HTML5",
       "bug": 908390
     },
     {
       "note": "WebCrypto: ECDH support",
-      "tag": "HTML5",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "HTML5",
       "bug": 1034855
     },
     {
       "note": "CSS transitions start correctly when started at the same time as changes to display, position, overflow, and similar properties",
+      "is_public": true,
       "tag": "Fixed",
+      "bug": 625289,
       "fixed_in_release": {
         "product": "Firefox",
         "title": "Firefox 34.0a2 Aurora",
@@ -125,14 +111,13 @@
         "is_public": true,
         "slug": "firefox-34.0a2-aurora",
         "channel": "Aurora"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 625289
+      }
     },
     {
       "note": "MP4 videos will not play on Android L",
+      "is_public": true,
       "tag": "Known",
+      "bug": 1050832,
       "fixed_in_release": {
         "product": "Firefox",
         "title": "Firefox 34.0beta Beta",
@@ -140,16 +125,12 @@
         "is_public": true,
         "slug": "firefox-34.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": true,
-      "bug": 1050832
+      }
     },
     {
       "note": "Flash does not work on Android L",
-      "tag": "Known",
       "is_public": true,
-      "is_known_issue": true,
+      "tag": "Known",
       "bug": 1055166
     }
   ],

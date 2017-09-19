@@ -5,30 +5,26 @@
   "notes": [
     {
       "note": "Reference link to [54.0 release notes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/en-US/firefox/android/54.0/releasenotes/",
-      "tag": "",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "",
       "bug": null
     },
     {
       "note": "Fix an inconsistent locale display issue ([bug 1369281][1])\r\n\r\n[1]: https://bugzilla.mozilla.org/1369281",
-      "tag": "Fixed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Fixed",
       "bug": 1369281
     },
     {
       "note": "Fix a crash in tabs tray menu ([bug 1366352][1])\r\n\r\n[1]: https://bugzilla.mozilla.org/1366352",
-      "tag": "Fixed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Fixed",
       "bug": 1366352
     },
     {
       "note": "Fix for issues with navigation ([bug 1374200][1])\r\n\r\n[1]: https://bugzilla.mozilla.org/1374200",
-      "tag": "Fixed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Fixed",
       "bug": 1374200
     }
   ],

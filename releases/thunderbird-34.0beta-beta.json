@@ -5,7 +5,9 @@
   "notes": [
     {
       "note": "Fixes a regression where Thunderbird wasn't respecting the skip integration option on the default client dialog.",
+      "is_public": true,
       "tag": "Fixed",
+      "bug": 1036592,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 34.0beta Beta",
@@ -13,14 +15,13 @@
         "is_public": true,
         "slug": "thunderbird-34.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 1036592
+      }
     },
     {
       "note": "Fixes an issue where using LDAP autocomplete could end up with blank entries in the compose addressing list (<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1045753\">Bug 1045753</a>)",
+      "is_public": true,
       "tag": "Fixed",
+      "bug": 1045753,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 34.0beta Beta",
@@ -28,14 +29,13 @@
         "is_public": true,
         "slug": "thunderbird-34.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 1045753
+      }
     },
     {
       "note": "Fixes an issue where IRC participants were not removed from the display on leaving a channel.",
+      "is_public": true,
       "tag": "Fixed",
+      "bug": 1080838,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 34.0beta Beta",
@@ -43,10 +43,7 @@
         "is_public": true,
         "slug": "thunderbird-34.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 1080838
+      }
     }
   ],
   "text": "",

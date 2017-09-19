@@ -5,30 +5,26 @@
   "notes": [
     {
       "note": "Use OpenStreetmap for maps (even allow the user to choose from list of map services)",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 531825
     },
     {
       "note": "Use a SHA-256 signing certificate for Windows builds, to meet new signing requirements",
-      "tag": "Changed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Changed",
       "bug": 1205843
     },
     {
       "note": "Windows XP SP2 will no longer install Thunderbird (workaround: Install Thunderbird 43.0beta and update)",
-      "tag": "Changed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Changed",
       "bug": null
     },
     {
       "note": "In the address book manager, make the contacts sidebar remember the last selected address book ([1142705][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1142705",
-      "tag": "Fixed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Fixed",
       "bug": 1142705
     }
   ],

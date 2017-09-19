@@ -5,30 +5,26 @@
   "notes": [
     {
       "note": "Reference link to [53.0.2 release notes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/firefox/53.0.2/releasenotes/",
-      "tag": "",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "",
       "bug": null
     },
     {
       "note": "Bump preloaded security information expiration times ([bug 1364240][1])\r\n\r\n[1]: https://bugzilla.mozilla.org/1364240",
-      "tag": "Changed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Changed",
       "bug": 1364240
     },
     {
       "note": "Fix hangs when using a proxy with NTLM authentication ([bug 1360574][1])\r\n\r\n[1]: https://bugzilla.mozilla.org/1360574",
-      "tag": "Fixed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Fixed",
       "bug": 1360574
     },
     {
       "note": "Fix excessive resource usage from the captive portal detection service ([bug 1359697][1])\r\n\r\n[1]: https://bugzilla.mozilla.org/1359697",
-      "tag": "Fixed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Fixed",
       "bug": 1359697
     }
   ],

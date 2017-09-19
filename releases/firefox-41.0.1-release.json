@@ -5,51 +5,44 @@
   "notes": [
     {
       "note": "Reference: Release notes for [Firefox 41.0][1]\r\n\r\n  [1]: https://www.mozilla.com/en-US/firefox/41.0/releasenotes/",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": null
     },
     {
       "note": "Fix a startup crash with some Intel Media Accelerator 3150 graphic cards ([1207665][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1207665",
-      "tag": "Fixed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Fixed",
       "bug": 1207665
     },
     {
       "note": "Fix a graphic crash, occurring occasionally  on Facebook ([1178601][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/1178601",
-      "tag": "Fixed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Fixed",
       "bug": 1178601
     },
     {
       "note": "Fix a regression in the bookmark creation ([1206376][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/1206376",
-      "tag": "Fixed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Fixed",
       "bug": 1206376
     },
     {
       "note": "Fix potential hangs with Flash plugins ([1185639][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/1185639",
-      "tag": "Fixed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Fixed",
       "bug": 1185639
     },
     {
       "note": "Fix a startup crash related to Yandex toolbar and Adblock Plus ([1209124][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/1209124",
-      "tag": "Fixed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Fixed",
       "bug": 1209124
     },
     {
       "note": "Crash when serializing a principal with unknown app id ([1205456][1]) \r\n[1]: https://bugzilla.mozilla.org/1205456",
-      "tag": "Fixed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Fixed",
       "bug": 1205456
     }
   ],

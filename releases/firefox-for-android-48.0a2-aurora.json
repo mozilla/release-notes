@@ -5,100 +5,86 @@
   "notes": [
     {
       "note": "New users will now have an entry point to sync from the History panel",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 1261527
     },
     {
       "note": "Come here often? We let you add frequently-visited sites to your home screen",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 1232706
     },
     {
       "note": "Stay in the loop! Get and control notifications for websites of your choice.",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 1247788
     },
     {
       "note": "Android Marshmallow/6+ peeps: We added a sweet action bar that floats near your selected text. No more traveling to the top of the screen!",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 1171110
     },
     {
       "note": "Video controls get a new look! Snazzy",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 704229
     },
     {
       "note": "[Want Firefox as your default?][1] Of course you do. So we made it easier.\r\n\r\n  [1]: https://support.mozilla.org/en-US/kb/make-firefox-default-browser-android",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 1210386
     },
     {
       "note": "Content Notifications for infrequent websites",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 1238087
     },
     {
       "note": "Android media improvements:\r\n\r\n - Record all the things! MediaRecorder on Android is now supported via software codecs\r\n - Better Audible playback FTW! Now with Android Audio Service.",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 1215115
     },
     {
       "note": "Amazon product search suggestions added to Awesomescreen Search",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 851969
     },
     {
       "note": "Support for Android 2.3 (Gingerbread) has ended. Farewell!",
-      "tag": "Changed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Changed",
       "bug": 1220184
     },
     {
       "note": "We restore your tabs by default. Don't want that? You can change it in Advanced Settings. You're in control",
-      "tag": "Changed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Changed",
       "bug": 1219343
     },
     {
       "note": "\"The following have new homes. Less swiping for you!\r\n\r\n * Reading List is now in your Bookmarks panel\r\n * Sync Tabs is now in the History panel\r\n",
-      "tag": "Changed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Changed",
       "bug": 1234314
     },
     {
       "note": "Mobile history comes before synced desktop history on your phone or tablet. Of course!",
-      "tag": "Changed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Changed",
       "bug": 1046709
     },
     {
       "note": "Deliver asynchronous notifications via [Push API][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/API/Push_API",
-      "tag": "Developer",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Developer",
       "bug": 1206207
     }
   ],

@@ -5,135 +5,116 @@
   "notes": [
     {
       "note": "64bit Windows builds (<a href=\"https://www.mozilla.org/en-US/firefox/developer/all/\">download here</a>)",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": null
     },
     {
       "note": "New tab-based preferences",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 1014208
     },
     {
       "note": "Share the active tab or window in a Hello conversation - enabled for first half of the beta cycle",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 1099241
     },
     {
       "note": "Keep track of articles and blog posts with the Reading List - enabled for the first half of the beta cycle",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 558882
     },
     {
       "note": "[Ruby annotation][1] support\r\n\r\n\r\n  [1]: https://hacks.mozilla.org/2015/03/ruby-support-in-firefox-developer-edition-38/",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 33339
     },
     {
       "note": "autocomplete=off is no longer supported for username/password fields",
-      "tag": "Changed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Changed",
       "bug": 1025703
     },
     {
       "note": "URL parser avoids doing percent encoding when setting the Fragment part of the URL, and percent decoding when getting the Fragment in line with the URL spec",
-      "tag": "Changed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Changed",
       "bug": 1093611
     },
     {
       "note": "RegExp.prototype.source now returns \"(?:)\" instead of the empty string for empty regular expressions",
-      "tag": "Changed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Changed",
       "bug": 1130798
     },
     {
       "note": "Improved page load times via speculative connection warmup",
-      "tag": "Changed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Changed",
       "bug": 1009122
     },
     {
       "note": "[BroadcastChannel API implemented][1]\r\n\r\n[1]: https://hacks.mozilla.org/2015/02/broadcastchannel-api-in-firefox-38/",
-      "tag": "HTML5",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "HTML5",
       "bug": 966439
     },
     {
       "note": "Implemented srcset attribute and &lt;picture&gt; element for responsive images",
-      "tag": "HTML5",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "HTML5",
       "bug": 1017875
     },
     {
       "note": "Implemented DOM3 Events KeyboardEvent.code",
-      "tag": "HTML5",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "HTML5",
       "bug": 1126673
     },
     {
       "note": "Mac OS X: Implemented a subset of the Media Source Extensions (MSE) API to allow native HTML5 playback on YouTube",
-      "tag": "HTML5",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "HTML5",
       "bug": 778617
     },
     {
       "note": "Implemented [Encrypted Media Extensions (EME)][1] API to support encrypted HTML5 video/audio playback (Windows Vista or later only)\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/enable-drm",
-      "tag": "HTML5",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "HTML5",
       "bug": 1015800
     },
     {
       "note": "Automatically download [Adobe Primetime Content Decryption Module (CDM)][1] for DRM playback through EME (Windows Vista or later only)\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/enable-drm",
-      "tag": "HTML5",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "HTML5",
       "bug": 1015800
     },
     {
       "note": "Optimized-out variables are now visible in Debugger UI",
-      "tag": "Developer",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Developer",
       "bug": 941287
     },
     {
       "note": "XMLHttpRequest logs in the web console are now visually labelled and can be filtered separately from regular network requests",
-      "tag": "Developer",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Developer",
       "bug": 972655
     },
     {
       "note": "WebRTC now has multistream and renegotiation support",
-      "tag": "Developer",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Developer",
       "bug": 1095218
     },
     {
       "note": "`copy` command added to console",
-      "tag": "Developer",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Developer",
       "bug": 1005870
     }
   ],

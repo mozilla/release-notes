@@ -5,16 +5,14 @@
   "notes": [
     {
       "note": "Added support for HLS videos via player overlay",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 1286133
     },
     {
       "note": "Simplified the user interface by combining the Recent Tabs and History panels",
-      "tag": "Changed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Changed",
       "bug": 1251362
     }
   ],

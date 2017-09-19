@@ -5,7 +5,9 @@
   "notes": [
     {
       "note": "Large attachments may not be shown or saved correctly if the message is stored in an IMAP folder which is not synchronized for offline use",
+      "is_public": true,
       "tag": "Fixed",
+      "bug": 1355350,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 52.1.1 Release",
@@ -13,14 +15,13 @@
         "is_public": true,
         "slug": "thunderbird-52.1.1-release",
         "channel": "Release"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 1355350
+      }
     },
     {
       "note": "Unable to load full message via POP if message was downloaded partially (or only headers) before",
+      "is_public": true,
       "tag": "Fixed",
+      "bug": 1361020,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 52.1.1 Release",
@@ -28,14 +29,13 @@
         "is_public": true,
         "slug": "thunderbird-52.1.1-release",
         "channel": "Release"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 1361020
+      }
     },
     {
       "note": "Some attachments can't be opened or saved if the message body is empty",
+      "is_public": true,
       "tag": "Fixed",
+      "bug": 1361422,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 52.1.1 Release",
@@ -43,14 +43,13 @@
         "is_public": true,
         "slug": "thunderbird-52.1.1-release",
         "channel": "Release"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 1361422
+      }
     },
     {
       "note": "Crash when compacting IMAP folder",
+      "is_public": true,
       "tag": "Fixed",
+      "bug": 1158578,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 52.1.1 Release",
@@ -58,30 +57,24 @@
         "is_public": true,
         "slug": "thunderbird-52.1.1-release",
         "channel": "Release"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 1158578
+      }
     },
     {
       "note": "Large number of blank pages being printed under certain circumstances. **To fix this problem,** remove all printer specific preferences in the configuration editor.",
-      "tag": "Known",
       "is_public": true,
-      "is_known_issue": true,
+      "tag": "Known",
       "bug": 1353625
     },
     {
       "note": "Crash due to incompatibility with McAfee Anti-SPAM add-on. **Workaround:** Start in safe mode and disable McAfee Anti-Spam Extension",
-      "tag": "Known",
       "is_public": true,
-      "is_known_issue": true,
+      "tag": "Known",
       "bug": 1281610
     },
     {
       "note": "Messages sent via the Simple MAPI interface are forced to HTML. Will be fixed in next release.",
-      "tag": "Known",
       "is_public": true,
-      "is_known_issue": true,
+      "tag": "Known",
       "bug": 1366196
     }
   ],

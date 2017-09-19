@@ -5,23 +5,20 @@
   "notes": [
     {
       "note": "Reference: [Release notes for Firefox 38.0.1][1]\r\n [1]: https://www.mozilla.org/en-US/firefox/android/38.0.1/releasenotes/",
-      "tag": "",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "",
       "bug": null
     },
     {
       "note": "Integrated [Adjust SDK][1] to measure aggregate installs\r\n\r\n\r\n  [1]: https://groups.google.com/forum/#!msg/mozilla.governance/xs7Sfyxc4As/vIsztD7jha8J",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 1143888
     },
     {
       "note": "Various stability fixes",
-      "tag": "Fixed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Fixed",
       "bug": null
     }
   ],

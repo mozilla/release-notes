@@ -5,161 +5,141 @@
   "notes": [
     {
       "note": "Support for Windows 10",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 1077146
     },
     {
       "note": "Added [protection against unwanted software][1] downloads\r\n\r\n\r\n  [1]: https://blog.mozilla.org/security/2015/08/11/expanded-malware-protection-in-firefox/",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 1147212
     },
     {
       "note": "User can receive [suggested tiles][1] in the new tab page based on categories Firefox matches to browsing history (en-US only).\r\n\r\n[1]: https://www.mozilla.org/en-US/firefox/tiles/",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 1140185
     },
     {
       "note": "Hello allows [adding a link to conversations][1] to provide context on what the conversation will be about\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/add-context-firefox-hello-conversations\r\n",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 1115340
     },
     {
       "note": " New style for add-on manager based on the in-content preferences style",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 989469
     },
     {
       "note": "Improved scrolling, graphics, and video playback performance with off main thread compositing (GNU/Linux only)",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 994541
     },
     {
       "note": "Graphic blocklist mechanism improved: Firefox version ranges can be specified, limiting the number of devices blocked",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 1162530
     },
     {
       "note": "Add-on extensions that are not signed by Mozilla will [display a warning][1]\r\n\r\n[1]:https://support.mozilla.org/kb/add-ons-signing-firefox",
-      "tag": "Changed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Changed",
       "bug": null
     },
     {
       "note": "NPAPI Plug-in performance improved via [asynchronous initialization][1]\r\n\r\n  [1]: http://dblohm7.ca/blog/2014/06/17/asynchronous-plugin-initialization-an-introduction/",
-      "tag": "Changed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Changed",
       "bug": 1116806
     },
     {
       "note": "Smoother animation and scrolling with [hardware vsync][1] (Windows only)\r\n\r\n  [1]: https://hacks.mozilla.org/2015/01/project-silk/",
-      "tag": "Changed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Changed",
       "bug": 1144317
     },
     {
       "note": "JPEG images use less memory when scaled and can be painted faster",
-      "tag": "Changed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Changed",
       "bug": 1124084
     },
     {
       "note": "Sub-resources [can no longer request HTTP authentication][1], thus protecting users from inadvertently disclosing login data\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/Firefox/Releases/40/Site_Compatibility#Security",
-      "tag": "Changed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Changed",
       "bug": 647010
     },
     {
       "note": "[IndexedDB transactions][1] are now non-durable by default\r\n\r\n[1]:https://developer.mozilla.org/docs/Web/API/IndexedDB_API/Basic_Concepts_Behind_IndexedDB#durable",
-      "tag": "HTML5",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "HTML5",
       "bug": 1112702
     },
     {
       "note": "Implemented [AudioBufferSourceNode.detune][1] to modulate playback rate in cents, a logarithmic unit of measure used for\r\nmusical intervals\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/API/AudioBufferSourceNode/detune",
-      "tag": "HTML5",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "HTML5",
       "bug": 1153783
     },
     {
       "note": "Improved [Performance tools][1] in the developer tools: [Waterfall][2] view, [Call Tree][3] view and a [Flame Chart][4] view\r\n\r\n\r\n  [1]: https://hacks.mozilla.org/?p=28808\r\n  [2]: https://developer.mozilla.org/en-US/docs/Tools/Performance/Waterfall\r\n  [3]: https://developer.mozilla.org/en-US/docs/Tools/Performance/Call_Tree\r\n  [4]: https://developer.mozilla.org/en-US/docs/Tools/Performance/Flame_Chart",
-      "tag": "Developer",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Developer",
       "bug": 1167252
     },
     {
       "note": "New [rules view tooltip][1] in the Inspector to tweak CSS Filter values\r\n\r\n\r\n  [1]: http://youtu.be/t3NKmmWfklU",
-      "tag": "Developer",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Developer",
       "bug": 1055181
     },
     {
       "note": "New page ruler highlighting tool that displays [lightweight horizontal and vertical rules][1] on a page \r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Rulers",
-      "tag": "Developer",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Developer",
       "bug": 1144163
     },
     {
       "note": "Console API messages from SharedWorker and ServiceWorker are now displayed in web console",
-      "tag": "Developer",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Developer",
       "bug": 1125205
     },
     {
       "note": "Inspector now searches across all content frames in a page",
-      "tag": "Developer",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Developer",
       "bug": 873443
     },
     {
       "note": "Kannada text does not display properly in built-in pdf viewer",
-      "tag": "Fixed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Fixed",
       "bug": 911034
     },
     {
       "note": "Various [security fixes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/en-US/security/known-vulnerabilities/firefox/#firefox40",
-      "tag": "Fixed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Fixed",
       "bug": null
     },
     {
       "note": "If Firefox is restarted from an add-on install notification, on-going private browsing downloads might be canceled without warning  ([1185294][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1185294",
-      "tag": "Known",
       "is_public": true,
-      "is_known_issue": true,
+      "tag": "Known",
       "bug": 1185294
     },
     {
       "note": "Starting in offline mode does not work ([1179779][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1179779",
+      "is_public": true,
       "tag": "Known",
+      "bug": 1179779,
       "fixed_in_release": {
         "product": "Firefox",
         "title": "Firefox 41.0beta Beta",
@@ -167,10 +147,7 @@
         "is_public": true,
         "slug": "firefox-41.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": true,
-      "bug": 1179779
+      }
     }
   ],
   "text": "<p>We'd also like to extend a special thank you to all of the <a href=\"https://blog.mozilla.org/community/2015/08/10/firefox-40-new-contributors/ \">new Mozillians</a> who contributed to this release of Firefox!</p>",

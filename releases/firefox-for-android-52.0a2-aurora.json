@@ -5,21 +5,21 @@
   "notes": [
     {
       "note": "Implemented the Strict Secure Cookies specification which forbids insecure HTTP sites from setting cookies with the \"secure\" attribute.  In some cases, this will prevent an insecure site from setting a cookie with the same name as an existing \"secure\" cookie from the same base domain.",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 976073
     },
     {
       "note": "Reduced APK file size by more than 5 MB for faster download and installation",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 1294736
     },
     {
       "note": "Introduced the [requestIdleCallback API][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/Window/requestIdleCallback",
+      "is_public": true,
       "tag": "Developer",
+      "bug": 1198381,
       "fixed_in_release": {
         "product": "Firefox",
         "title": "Firefox 52.0a2 Aurora",
@@ -27,23 +27,18 @@
         "is_public": true,
         "slug": "firefox-52.0a2-aurora",
         "channel": "Aurora"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 1198381
+      }
     },
     {
       "note": "Introduced ECMAScript 7 [async functions][1] that makes it easier to write asynchronous code without chaining Promises\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function",
-      "tag": "Developer",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Developer",
       "bug": 1185106
     },
     {
       "note": "Added the [Intersection Observer API][1] to help developers improve site performance by deferring content loading and significantly lower the cost of content visibility checks\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API",
-      "tag": "Developer",
       "is_public": false,
-      "is_known_issue": false,
+      "tag": "Developer",
       "bug": 1243846
     }
   ],

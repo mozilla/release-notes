@@ -5,23 +5,20 @@
   "notes": [
     {
       "note": " Prepare to use SHA-256 signing certificate for Windows builds, to meet new signing requirement ([1079858][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1079858",
-      "tag": "Fixed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Fixed",
       "bug": 1079858
     },
     {
       "note": "Fixed issue where, upon compact, in rare cases message disappeared due to duplicate message keys.",
-      "tag": "Fixed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Fixed",
       "bug": 1202105
     },
     {
       "note": "Fix broken Grouped By view sort direction change, enable custom column grouping",
-      "tag": "Fixed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Fixed",
       "bug": 1192838
     }
   ],

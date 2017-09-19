@@ -5,7 +5,9 @@
   "notes": [
     {
       "note": "Calendar: Event can now be created and edited in a tab. (Preview feature: Set preference calendar.item.editInTab to enable)",
+      "is_public": true,
       "tag": "New",
+      "bug": 1277972,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 51.0beta Beta",
@@ -13,14 +15,13 @@
         "is_public": true,
         "slug": "thunderbird-51.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 1277972
+      }
     },
     {
       "note": "Chat: Support Jabber/XMPP Message Carbons (XEP-280)",
+      "is_public": true,
       "tag": "New",
+      "bug": 964070,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 51.0beta Beta",
@@ -28,14 +29,13 @@
         "is_public": true,
         "slug": "thunderbird-51.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 964070
+      }
     },
     {
       "note": "Folders backed by mbox storage larger than 4GB are supported without warning (unless preference mailnews.allowMboxOver4GB is set to false)",
+      "is_public": true,
       "tag": "Changed",
+      "bug": 789679,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 51.0beta Beta",
@@ -43,14 +43,13 @@
         "is_public": true,
         "slug": "thunderbird-51.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 789679
+      }
     },
     {
       "note": "IMAP caching now uses Mozilla's latest caching technology",
+      "is_public": true,
       "tag": "Changed",
+      "bug": 1021843,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 51.0beta Beta",
@@ -58,14 +57,13 @@
         "is_public": true,
         "slug": "thunderbird-51.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 1021843
+      }
     },
     {
       "note": "Message preview pane non-functional after IMAP folder was renamed or moved",
+      "is_public": true,
       "tag": "Fixed",
+      "bug": 1328814,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 51.0beta Beta",
@@ -73,14 +71,13 @@
         "is_public": true,
         "slug": "thunderbird-51.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 1328814
+      }
     },
     {
       "note": "Various corrections when composing messages in paragraph format",
+      "is_public": true,
       "tag": "Fixed",
+      "bug": 1265800,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 51.0beta Beta",
@@ -88,14 +85,13 @@
         "is_public": true,
         "slug": "thunderbird-51.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 1265800
+      }
     },
     {
       "note": "Text encoding of reply sometimes incorrect (uses encoding of last viewed message)",
+      "is_public": true,
       "tag": "Fixed",
+      "bug": 1323377,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 51.0beta Beta",
@@ -103,14 +99,13 @@
         "is_public": true,
         "slug": "thunderbird-51.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 1323377
+      }
     },
     {
       "note": "Text encoding of message display, reply or forwarded message sometimes incorrect (uses encoding of attachment)",
+      "is_public": true,
       "tag": "Fixed",
+      "bug": 1026989,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 51.0beta Beta",
@@ -118,14 +113,13 @@
         "is_public": true,
         "slug": "thunderbird-51.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 1026989
+      }
     },
     {
       "note": "\"Move To\" button on \"Search Messages\" panel not working",
+      "is_public": true,
       "tag": "Fixed",
+      "bug": 1319299,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 51.0beta Beta",
@@ -133,14 +127,13 @@
         "is_public": true,
         "slug": "thunderbird-51.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 1319299
+      }
     },
     {
       "note": "Message sent to \"undisclosed recipients\" shows no recipient (non-functional since Thunderbird version 38)",
+      "is_public": true,
       "tag": "Fixed",
+      "bug": 1318964,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 51.0beta Beta",
@@ -148,14 +141,13 @@
         "is_public": true,
         "slug": "thunderbird-51.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 1318964
+      }
     },
     {
       "note": "Calendar: Events are not always printed in the correct timezone (in month and week grid)",
+      "is_public": true,
       "tag": "Fixed",
+      "bug": 1298390,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 51.0beta Beta",
@@ -163,16 +155,12 @@
         "is_public": true,
         "slug": "thunderbird-51.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 1298390
+      }
     },
     {
       "note": "Due to an Apple touch bar bug, Thunderbird on recent MacBook Pro may crash when open for long periods or crash after resuming from sleep. Apple reports to have a fix for this in the currently unreleased OS X 10.12.3",
-      "tag": "Known",
       "is_public": true,
-      "is_known_issue": true,
+      "tag": "Known",
       "bug": 1320048
     }
   ],

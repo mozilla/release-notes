@@ -5,51 +5,44 @@
   "notes": [
     {
       "note": "Added Zapoteco (zam) and Belarusian (be) locales\r\n",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 1383345
     },
     {
       "note": "Improved power consumption and performance for WebRTC with the use of hardware encoders",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 1265755
     },
     {
       "note": "Improved support for HLS (HTTP Live Streaming) playback ",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 1345752
     },
     {
       "note": "Get feature recommendations and hints to improve your Firefox experience",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 1351571
     },
     {
       "note": "Web Extensions support on Android ",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 1185785
     },
     {
       "note": "Support of Flash ended",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 1381916
     },
     {
       "note": "Support of Android 4.0 (API 15) ended",
-      "tag": "Changed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Changed",
       "bug": 1316462
     }
   ],

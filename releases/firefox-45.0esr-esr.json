@@ -5,23 +5,20 @@
   "notes": [
     {
       "note": "[Complete 45.0 release notes][1]\r\n\r\n\r\n  [1]: /en-US/firefox/45.0/releasenotes/",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": null
     },
     {
       "note": "[Service workers disabled][1]\r\n\r\n\r\n  [1]: https://www.fxsitecompat.com/en-CA/docs/2016/service-workers-have-been-disabled-in-firefox-45-esr/",
-      "tag": "Changed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Changed",
       "bug": 1232029
     },
     {
       "note": "Firefox Hello disabled\r\n",
-      "tag": "Changed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Changed",
       "bug": 1241501
     }
   ],

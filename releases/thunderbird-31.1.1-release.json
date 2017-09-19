@@ -5,21 +5,21 @@
   "notes": [
     {
       "note": "Fixed an issue where mailing lists with spaces in their names couldn't be autocompleted (<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1060901\">Bug 1060901</a>)",
-      "tag": "Fixed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Fixed",
       "bug": null
     },
     {
       "note": "Fixed an occasional startup crash (<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1005336\">Bug 1005336</a>)",
-      "tag": "Fixed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Fixed",
       "bug": null
     },
     {
       "note": "Installing extensions within Thunderbird requires download and installing as a file (<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1081190\">bug 1081190</a>)",
+      "is_public": true,
       "tag": "Known",
+      "bug": 1081190,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 31.4.0 Release",
@@ -27,14 +27,13 @@
         "is_public": true,
         "slug": "thunderbird-31.4.0-release",
         "channel": "Release"
-      },
-      "is_public": true,
-      "is_known_issue": true,
-      "bug": 1081190
+      }
     },
     {
       "note": "Users of jp mac builds may have issues with no mail folders being displayed in the main window. Running Thunderbird in 32-bit mode temporarily will workaround this issue.",
+      "is_public": true,
       "tag": "Known",
+      "bug": null,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 31.4.0 Release",
@@ -42,10 +41,7 @@
         "is_public": true,
         "slug": "thunderbird-31.4.0-release",
         "channel": "Release"
-      },
-      "is_public": true,
-      "is_known_issue": true,
-      "bug": null
+      }
     }
   ],
   "text": "",

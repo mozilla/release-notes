@@ -5,23 +5,20 @@
   "notes": [
     {
       "note": "Reference link to [Firefox 48.0.1][1] release notes\r\n\r\n\r\n  [1]: https://www.mozilla.org/en-US/firefox/48.0.1/releasenotes/",
-      "tag": "",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "",
       "bug": null
     },
     {
       "note": "Removed [Firefox Hello][1]\r\n\r\n\r\n  [1]: https://support.mozilla.org/en-US/kb/hello-status",
-      "tag": "Changed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Changed",
       "bug": 1287827
     },
     {
       "note": "Mitigate a startup crash issue caused by Websense (Windows only) (Bug [1291738][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1291738",
-      "tag": "Fixed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Fixed",
       "bug": 1291738
     }
   ],

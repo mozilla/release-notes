@@ -5,7 +5,9 @@
   "notes": [
     {
       "note": "Folder pane toolbar and folder view selector (replacement for folder view arrows)",
+      "is_public": true,
       "tag": "New",
+      "bug": 700796,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 49.0beta Beta",
@@ -13,14 +15,13 @@
         "is_public": true,
         "slug": "thunderbird-49.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 700796
+      }
     },
     {
       "note": "Import settings from Becky! Internet Mail",
+      "is_public": true,
       "tag": "New",
+      "bug": 684455,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 49.0beta Beta",
@@ -28,14 +29,13 @@
         "is_public": true,
         "slug": "thunderbird-49.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 684455
+      }
     },
     {
       "note": "In compose, allow separate options for initial mode (Paragraph or Body Text) and behavior of Enter key.",
+      "is_public": true,
       "tag": "New",
+      "bug": 1273841,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 49.0beta Beta",
@@ -43,14 +43,13 @@
         "is_public": true,
         "slug": "thunderbird-49.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 1273841
+      }
     },
     {
       "note": "Permanently remove Eudora import.",
+      "is_public": true,
       "tag": "Changed",
+      "bug": 1243498,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 49.0beta Beta",
@@ -58,14 +57,13 @@
         "is_public": true,
         "slug": "thunderbird-49.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 1243498
+      }
     },
     {
       "note": "Removed compose window recycling.",
+      "is_public": true,
       "tag": "Changed",
+      "bug": 1276381,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 49.0beta Beta",
@@ -73,21 +71,19 @@
         "is_public": true,
         "slug": "thunderbird-49.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 1276381
+      }
     },
     {
       "note": "Mac OX X 10.6, 10.7, and 10.8 are no longer supported.",
-      "tag": "Changed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Changed",
       "bug": null
     },
     {
       "note": "When attachment unavailable, compose shows endless \"Attaching...\" message instead of error",
+      "is_public": true,
       "tag": "Fixed",
+      "bug": 453196,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 49.0beta Beta",
@@ -95,14 +91,13 @@
         "is_public": true,
         "slug": "thunderbird-49.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 453196
+      }
     },
     {
       "note": "Menu items for \"Edit draft\" functionality were missing",
+      "is_public": true,
       "tag": "Fixed",
+      "bug": 1106412,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 49.0beta Beta",
@@ -110,14 +105,13 @@
         "is_public": true,
         "slug": "thunderbird-49.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 1106412
+      }
     },
     {
       "note": "Plain text composition had wrapping issues.",
+      "is_public": true,
       "tag": "Fixed",
+      "bug": 233705,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 49.0beta Beta",
@@ -125,14 +119,13 @@
         "is_public": true,
         "slug": "thunderbird-49.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 233705
+      }
     },
     {
       "note": "Attachment reminder not showing in various cases.",
+      "is_public": true,
       "tag": "Fixed",
+      "bug": 833909,
       "fixed_in_release": {
         "product": "Firefox",
         "title": "Firefox 49.0beta Beta",
@@ -140,14 +133,13 @@
         "is_public": true,
         "slug": "firefox-49.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 833909
+      }
     },
     {
       "note": "Table properties stopped showing with double-click of table cell in compose.",
+      "is_public": true,
       "tag": "Fixed",
+      "bug": 1143744,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 49.0beta Beta",
@@ -155,14 +147,13 @@
         "is_public": true,
         "slug": "thunderbird-49.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 1143744
+      }
     },
     {
       "note": "Threading broken when editing message draft, due to loss of Message-ID",
+      "is_public": true,
       "tag": "Fixed",
+      "bug": 1279869,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 49.0beta Beta",
@@ -170,14 +161,13 @@
         "is_public": true,
         "slug": "thunderbird-49.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 1279869
+      }
     },
     {
       "note": "\"View as plain text\" displayed converted HTML part even when plain text part exists.",
+      "is_public": true,
       "tag": "Fixed",
+      "bug": 253830,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 49.0beta Beta",
@@ -185,14 +175,13 @@
         "is_public": true,
         "slug": "thunderbird-49.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 253830
+      }
     },
     {
       "note": "Mail address display at header pane displayed incorrectly if the address contains UTF-8 according to RFC 6532",
+      "is_public": true,
       "tag": "Fixed",
+      "bug": 1023285,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 49.0beta Beta",
@@ -200,14 +189,13 @@
         "is_public": true,
         "slug": "thunderbird-49.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 1023285
+      }
     },
     {
       "note": "Mail saved as template copied In-Reply-To and References from original email.",
+      "is_public": true,
       "tag": "Fixed",
+      "bug": 726281,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 49.0beta Beta",
@@ -215,14 +203,13 @@
         "is_public": true,
         "slug": "thunderbird-49.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 726281
+      }
     },
     {
       "note": "Additional spaces were inserted when drafts were edited.",
+      "is_public": true,
       "tag": "Fixed",
+      "bug": 1287126,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 49.0beta Beta",
@@ -230,14 +217,13 @@
         "is_public": true,
         "slug": "thunderbird-49.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 1287126
+      }
     },
     {
       "note": "\"Edit as New Message\" on a received message pre-filled the Sender as the author rather than the current user.",
+      "is_public": true,
       "tag": "Fixed",
+      "bug": 1254666,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 49.0beta Beta",
@@ -245,14 +231,13 @@
         "is_public": true,
         "slug": "thunderbird-49.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 1254666
+      }
     },
     {
       "note": "Custom headers (like Disposition-Notification-To) were not set correctly.",
+      "is_public": true,
       "tag": "Fixed",
+      "bug": 1250376,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 49.0beta Beta",
@@ -260,14 +245,13 @@
         "is_public": true,
         "slug": "thunderbird-49.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 1250376
+      }
     },
     {
       "note": "Recipient addresses were shown in red despite being inserted from the address book in some circumstances. ",
+      "is_public": true,
       "tag": "Fixed",
+      "bug": 1290839,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 49.0beta Beta",
@@ -275,14 +259,13 @@
         "is_public": true,
         "slug": "thunderbird-49.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 1290839
+      }
     },
     {
       "note": "Display name was truncated if no separating space before email address.",
+      "is_public": true,
       "tag": "Fixed",
+      "bug": 1289939,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 49.0beta Beta",
@@ -290,14 +273,13 @@
         "is_public": true,
         "slug": "thunderbird-49.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 1289939
+      }
     },
     {
       "note": "Embedded image with source URL with ? led to incorrect image reference",
+      "is_public": true,
       "tag": "Fixed",
+      "bug": 1276419,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 49.0beta Beta",
@@ -305,10 +287,7 @@
         "is_public": true,
         "slug": "thunderbird-49.0beta-beta",
         "channel": "Beta"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 1276419
+      }
     }
   ],
   "text": "",

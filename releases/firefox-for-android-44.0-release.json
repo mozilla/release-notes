@@ -5,65 +5,56 @@
   "notes": [
     {
       "note": "Use Android print service to enable cloud printing",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 1078432
     },
     {
       "note": "Prompt user before opening [Intent URIs][1] in a Private Browsing tab\r\n\r\n[1]: https://developer.chrome.com/multidevice/android/intents",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 1173147
     },
     {
       "note": "Show search history suggestions",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": null
     },
     {
       "note": "Web-based Firefox Accounts page",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": null
     },
     {
       "note": "Added support for launching URIs with mms: protocol",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 1209133
     },
     {
       "note": "Users can now choose a homepage to display on startup instead of the Top Sites panel",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 1227322
     },
     {
       "note": "Firefox has removed support for the RC4 cipher",
-      "tag": "Changed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Changed",
       "bug": null
     },
     {
       "note": "Firefox will no longer trust the Equifax Secure Certificate Authority 1024-bit root certificate or the UTN - DATACorp SGC to validate secure [website certificates][1]\r\n\r\n\r\n  [1]: https://support.mozilla.org/ta/kb/secure-website-certificate",
-      "tag": "Changed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Changed",
       "bug": 1223466
     },
     {
       "note": "[Improved tabs tray][1] on phones\r\n\r\n\r\n  [1]: https://medium.com/@antlam/a-new-mobile-tabs-tray-327ac262eacb",
-      "tag": "Changed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Changed",
       "bug": 1161638
     }
   ],

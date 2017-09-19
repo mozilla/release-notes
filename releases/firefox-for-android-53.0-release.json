@@ -5,37 +5,32 @@
   "notes": [
     {
       "note": "[Right to Left][1] Language Support - Arabic (ar), Urdu (ur), Hebrew (he) and Persian (fa)\r\n\r\n\r\n  [1]: https://wiki.mozilla.org/Mobile/Firefox_for_Android/RTL",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 1319302
     },
     {
       "note": "Users can enable two columns tabs setting in portrait mode ",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 1202861
     },
     {
       "note": "Long press on a search suggestion removes it from browser history",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 1278840
     },
     {
       "note": "Reader Mode now displays estimated reading time for the page",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 1265304
     },
     {
       "note": "Various [security fixes][1]\r\n\r\n[1]: https://www.mozilla.org/security/known-vulnerabilities/firefox/#firefox53",
-      "tag": "Fixed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Fixed",
       "bug": null
     }
   ],

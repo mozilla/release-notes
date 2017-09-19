@@ -5,77 +5,69 @@
   "notes": [
     {
       "note": "[Click-to-view Images option][1] in the menu\u2019s advanced settings lets users choose which images on the Web they download to conserve data usage\r\n\r\n\r\n  [1]: https://support.mozilla.org/en-US/kb/block-or-load-images-over-wifi-firefox-android",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 1170725
     },
     {
       "note": "Introduce a new preference (*network.dns.blockDotOnion*) to allow blocking .onion at the DNS level",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": null
     },
     {
       "note": "Add [toggle to disable sharing of camera][1] and microphone in admin UI for family friendly browsing\r\n\r\n\r\n  [1]: https://support.mozilla.org/en-US/kb/controlledaccess#mobile::m45",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 1191741
     },
     {
       "note": "Provide system notification to give an End Of Life message to Android Honeycomb users\r\n",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": null
     },
     {
       "note": "Disable the inclusion of the URL when sharing selected text from web page\r\n",
-      "tag": "Changed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Changed",
       "bug": 1239503
     },
     {
       "note": "Optimized & re-organized app Settings",
-      "tag": "Changed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Changed",
       "bug": null
     },
     {
       "note": "Replace super toasts with [snackbar][1]\r\n\r\n\r\n  [1]: http://www.google.com/design/spec/components/snackbars-toasts.html",
-      "tag": "Changed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Changed",
       "bug": null
     },
     {
       "note": "Simplified admin UI for family-friendly browsing on tablet in restricted profile ",
-      "tag": "Changed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Changed",
       "bug": 1222390
     },
     {
       "note": "[ES6 Classes][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/JavaScript/Reference/Classes",
-      "tag": "HTML5",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "HTML5",
       "bug": 1197932
     },
     {
       "note": "Support delivery of a Content Security Policy (CSP) via a meta tag\r\n",
-      "tag": "HTML5",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "HTML5",
       "bug": 663570
     },
     {
       "note": "URLs containing a Unicode-format Internationalized Domain Name (IDN) are now properly redirected",
+      "is_public": true,
       "tag": "Fixed",
+      "bug": 1142083,
       "fixed_in_release": {
         "product": "Firefox",
         "title": "Firefox 45.0a2 Aurora",
@@ -83,16 +75,12 @@
         "is_public": true,
         "slug": "firefox-45.0a2-aurora",
         "channel": "Aurora"
-      },
-      "is_public": true,
-      "is_known_issue": false,
-      "bug": 1142083
+      }
     },
     {
       "note": "Various [security fixes][1]\r\n [1]: https://www.mozilla.org/en-US/security/known-vulnerabilities/firefox/#firefox45",
-      "tag": "Fixed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Fixed",
       "bug": null
     }
   ],

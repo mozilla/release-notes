@@ -5,191 +5,164 @@
   "notes": [
     {
       "note": "[Process separation][1] (e10s) is enabled for some of you. Like it? Let us know and we'll roll it out to more\r\n\r\n  [1]: https://blog.mozilla.org/futurereleases/2016/08/02/whats-next-for-multi-process-firefox/\r\n",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": null
     },
     {
       "note": "Roar for moar [protection against harmful downloads][1]! We've got your back\r\n\r\n\r\n  [1]: https://blog.mozilla.org/security/2016/08/01/enhancing-download-protection-in-firefox/",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 874408
     },
     {
       "note": "Add-ons that have [not been verified and signed][1] by Mozilla will not load\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/add-on-signing-in-firefox",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": null
     },
     {
       "note": "GNU/Linux fans: Get better Canvas performance with speedy Skia support. Try saying that three times fast",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 1244754
     },
     {
       "note": "Windows folks: Tab (move buttons) and Shift+F10 (pop-up menus) now behave as they should in Firefox customization mode",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 1116578
     },
     {
       "note": "Searching for something already in your bookmarks or open tabs? We added super smart icons to let you know",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 1181078
     },
     {
       "note": "WebRTC embetterments:\r\n\r\n - Delay-agnostic AEC enabled\r\n - Full duplex for GNU/Linux enabled\r\n - [ICE Restart][1] & Update is supported\r\n - Cloning of MediaStream and MediaStreamTrack is now supported\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API/Session_lifetime#ICE_restart",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 1265641
     },
     {
       "note": "Windows 7 systems without Platform Update can now use D3D11 WARP",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 1271784
     },
     {
       "note": "The media parser has been redeveloped using the [Rust programming language][1]\r\n\r\n\r\n  [1]: https://hacks.mozilla.org/2016/07/shipping-rust-in-firefox/",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": null
     },
     {
       "note": "Removed [Firefox Hello][1]\r\n\r\n\r\n  [1]: https://support.mozilla.org/en-US/kb/hello-status",
-      "tag": "Changed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Changed",
       "bug": 1287827
     },
     {
       "note": "Au revoir to Windows Remote Access Service modem Autodial",
-      "tag": "Changed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Changed",
       "bug": 1260491
     },
     {
       "note": "After version 48, SSE2 CPU extensions are going to be required on Windows",
-      "tag": "Changed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Changed",
       "bug": 1271759
     },
     {
       "note": "Starting with the Firefox version 49 release, [so long to support for 10.6, 10.7 and 10.8][1]. Now we can focus on where most Mac users are: 10.9. Don't forget to upgrade!\r\n\r\n\r\n  [1]: https://blog.mozilla.org/futurereleases/2016/04/29/update-on-firefox-support-for-os-x/",
-      "tag": "Changed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Changed",
       "bug": null
     },
     {
       "note": "Workers can now use the [Web Crypto API][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/SubtleCrypto",
-      "tag": "Developer",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Developer",
       "bug": 842818
     },
     {
       "note": "[Expand network requests from the console panel][1] to view request details in line,  so you can see things in context\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Web_Console/Console_messages#Viewing_network_request_details",
-      "tag": "Developer",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Developer",
       "bug": 1211525
     },
     {
       "note": "This theme is hot, hot, hot! Say hi to the [Firebug theme][1] for Developer Tools\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Tools_Toolbox#Choose_DevTools_theme",
-      "tag": "Developer",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Developer",
       "bug": 1244054
     },
     {
       "note": "Add-on development just got easier because you can reload them from about:debugging \u2014 because we're all about debugging",
-      "tag": "Developer",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Developer",
       "bug": 1246030
     },
     {
       "note": "Old and busted: Error Console. New hotness: [Browser Console][1] for your debugging pleasure\r\n\r\n [1]: https://developer.mozilla.org/en-US/docs/Tools/Browser_Console",
-      "tag": "Developer",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Developer",
       "bug": 1258985
     },
     {
       "note": "Content Security Policy (CSP) is now enforced for WebExtensions. (Who's down with CSP?)",
-      "tag": "Developer",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Developer",
       "bug": 1254194
     },
     {
       "note": "We're putting the spotlight on the background. Now you can debug WebExtensions background content scripts and background pages",
-      "tag": "Developer",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Developer",
       "bug": 1005193
     },
     {
       "note": "The memory tool now has a [tree map view][1] for your debugging pleasure. It's a little bit of \"boo\" and a whole lot of \"ya\"\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Memory/Tree_map_view",
-      "tag": "Developer",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Developer",
       "bug": 1238695
     },
     {
       "note": "Want to [move absolute & fixed positioned elements?][1] (Who doesn't, right?) Now you can with our geometry editor.\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector/How_to/Reposition_elements_in_the_page",
-      "tag": "Developer",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Developer",
       "bug": 1139187
     },
     {
       "note": "[WebExtensions support][1] is now considered as stable\r\n\r\n\r\n  [1]: https://blog.mozilla.org/addons/2016/04/29/webextensions-in-firefox-48/",
-      "tag": "Developer",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Developer",
       "bug": null
     },
     {
       "note": "Improved step debugging on last line of functions",
-      "tag": "Fixed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Fixed",
       "bug": 1013219
     },
     {
       "note": "Heyo, Jabra & Logitech C920 webcam users. We fixed those pesky WebRTC bugs causing frequency distortions. Buh-bye, squeaky voice! ",
-      "tag": "Fixed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Fixed",
       "bug": 1247574
     },
     {
       "note": "Various [security fixes][1] \r\n\r\n[1]: https://www.mozilla.org/en-US/security/known-vulnerabilities/firefox/#firefox48",
-      "tag": "Fixed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Fixed",
       "bug": null
     },
     {
       "note": "On some websites using an important number of cookies, under certain conditions, this can cause the user to be logged out ([1264192][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1264192",
-      "tag": "Known",
       "is_public": true,
-      "is_known_issue": true,
+      "tag": "Known",
       "bug": 1264192
     }
   ],

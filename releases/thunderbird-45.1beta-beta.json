@@ -5,51 +5,44 @@
   "notes": [
     {
       "note": "Various improvements in handling of message compose in paragraph mode.",
-      "tag": "Fixed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Fixed",
       "bug": 1257363
     },
     {
       "note": "Printing failed in composition window.",
-      "tag": "Fixed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Fixed",
       "bug": 1265126
     },
     {
       "note": "Font indicator in compose falsely claimed certain fonts were not installed.",
-      "tag": "Fixed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Fixed",
       "bug": 1265326
     },
     {
       "note": "DIGEST-MD5 authentication in JS-XMPP failed for some users (now disabled).",
-      "tag": "Fixed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Fixed",
       "bug": 1268081
     },
     {
       "note": "Correspondents column upgrade too aggressive, causing loss of thread pane column setup (may be fixed/disabled in version 45.1 non-beta release)",
-      "tag": "Known",
       "is_public": true,
-      "is_known_issue": true,
+      "tag": "Known",
       "bug": 1268325
     },
     {
       "note": "Drag and drop of contact name from address book to compose window broken.",
-      "tag": "Known",
       "is_public": true,
-      "is_known_issue": true,
+      "tag": "Known",
       "bug": 1267804
     },
     {
       "note": "UI elements become larger when moused over on retina displays/monitor on Mac OS X or windows moved between lowdpi/hidp.",
-      "tag": "Known",
       "is_public": true,
-      "is_known_issue": true,
+      "tag": "Known",
       "bug": 1266354
     }
   ],

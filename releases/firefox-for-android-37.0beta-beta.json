@@ -5,107 +5,92 @@
   "notes": [
     {
       "note": "[Updated Tablet UI][1]\r\n\r\n[1]:https://medium.com/@antlam/firefox-for-android-on-tablets-f67edc83dd46",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 1014156
     },
     {
       "note": "Locales added: Albanian [sq], Burmese [my], Lower Sorbian [dsb], Songhai [son], Upper Sorbian [hsb], Uzbek [uz]",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 1134717
     },
     {
       "note": "Added support for sending videos to Matchstick devices",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 1078796
     },
     {
       "note": "Improved download performance with new download manager back-end",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 901360
     },
     {
       "note": "Improved protection against site impersonation via OneCRL centralized certificate revocation",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 1024809
     },
     {
       "note": "[Opportunistically encrypt HTTP traffic][1] where the server supports HTTP/2 AltSvc\r\n\r\n[1]: https://bitsup.blogspot.com/2015/03/opportunistic-encryption-for-firefox.html ",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 1113790
     },
     {
       "note": "URL bar now displays page address instead of page title by default",
-      "tag": "Changed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Changed",
       "bug": 1111729
     },
     {
       "note": "Disabled insecure TLS version fallback for site security",
-      "tag": "Changed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Changed",
       "bug": 1084025
     },
     {
       "note": "Improved certificate and TLS communication security by removing support for DSA",
-      "tag": "Changed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Changed",
       "bug": 1073867
     },
     {
       "note": "Added support for e-mail name constraints in certificates",
-      "tag": "Changed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Changed",
       "bug": 1111399
     },
     {
       "note": "Extended SSL error reporting for reporting non-certificate errors",
-      "tag": "Changed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Changed",
       "bug": 1096197
     },
     {
       "note": "TLS False Start optimization now requires a cipher suite using AEAD construction",
-      "tag": "Changed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Changed",
       "bug": 1109766
     },
     {
       "note": "WebSocket now available in Web Workers",
-      "tag": "HTML5",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "HTML5",
       "bug": 504553
     },
     {
       "note": "Added support for CSS [display:contents][1]\r\n\r\n[1]: https://developer.mozilla.org/en-US/docs/Web/CSS/display",
-      "tag": "HTML5",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "HTML5",
       "bug": 1102374
     },
     {
       "note": "IndexedDB now accessible from worker threads",
-      "tag": "HTML5",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "HTML5",
       "bug": 701634
     }
   ],

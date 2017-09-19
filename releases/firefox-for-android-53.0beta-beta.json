@@ -5,37 +5,32 @@
   "notes": [
     {
       "note": "[Right to Left][1] Language Support - Arabic (ar), Urdu (ur), Hebrew (he) and Persian (fa)\r\n\r\n\r\n  [1]: https://wiki.mozilla.org/Mobile/Firefox_for_Android/RTL",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 1319302
     },
     {
       "note": "Users can enable two columns tabs setting in portrait mode ",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 1202861
     },
     {
       "note": "Long press on a search suggestion removes it from browser history",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 1278840
     },
     {
       "note": "Move Android audio/video decoder out of application process for better stability during media playback",
-      "tag": "Changed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Changed",
       "bug": 1257777
     },
     {
       "note": "Users can add websites to Android home screen with predefined icons",
-      "tag": "Developer",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Developer",
       "bug": 1234558
     }
   ],

@@ -5,23 +5,20 @@
   "notes": [
     {
       "note": "Find Options/Preferences more quickly with new search function\r\n",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 1353954
     },
     {
       "note": "Media is no longer auto-played when opened in a background tab",
-      "tag": "Changed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Changed",
       "bug": 1308154
     },
     {
       "note": "Enable CSS Grid Layout View\r\n",
-      "tag": "Developer",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Developer",
       "bug": 1181227
     }
   ],

@@ -5,30 +5,26 @@
   "notes": [
     {
       "note": " Zoom with one hand with double tap and drag gestures",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 1111333
     },
     {
       "note": "Added Greek (el) and Lao (lo) locales\r\n",
-      "tag": "New",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "New",
       "bug": 1369244
     },
     {
       "note": "Added option to accessibility settings to respect the system's set font size when displaying web pages\r\n",
-      "tag": "Changed",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Changed",
       "bug": 1328868
     },
     {
       "note": "Sites that don\u2019t use SSL can no longer access Geolocation APIs to determine a user\u2019s physical location\r\n",
-      "tag": "Developer",
       "is_public": true,
-      "is_known_issue": false,
+      "tag": "Developer",
       "bug": 1072859
     }
   ],
