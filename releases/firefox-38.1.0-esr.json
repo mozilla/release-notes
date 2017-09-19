@@ -6,7 +6,6 @@
     {
       "note": "Firefox crashes when measuring the memory in about:memory with Yandex Elements extension installed",
       "tag": "Fixed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1103375
@@ -14,7 +13,6 @@
     {
       "note": "\"Save Link As...\" option does not function with 302 redirect",
       "tag": "Fixed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1136055
@@ -22,7 +20,6 @@
     {
       "note": "Java plugin not being able to access Firefox\u2019s proxy settings",
       "tag": "Fixed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1165286
@@ -30,7 +27,6 @@
     {
       "note": "Graphics performance when using the built-in VGA driver on Windows 7",
       "tag": "Fixed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1165732
@@ -38,7 +34,6 @@
     {
       "note": "Links with '_blank' target do not open a new window when in private browsing mode",
       "tag": "Fixed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1166066
@@ -46,7 +41,6 @@
     {
       "note": "Various stability fixes",
       "tag": "Fixed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -54,7 +48,6 @@
     {
       "note": "Various [security fixes][1] \r\n\r\n[1]: https://www.mozilla.org/security/known-vulnerabilities/firefox-esr/#firefoxesr38.1",
       "tag": "Fixed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -62,7 +55,6 @@
     {
       "note": "getUserMedia activating camera light, but not receiving video",
       "tag": "Fixed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1150539

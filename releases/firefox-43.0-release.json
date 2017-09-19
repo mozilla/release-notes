@@ -6,7 +6,6 @@
     {
       "note": "Private Browsing with Tracking Protection offers choice of blocking additional trackers",
       "tag": "New",
-      "sort_num": 100,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1177085
@@ -14,7 +13,6 @@
     {
       "note": "Improved [API support for m4v][1] video playback\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/HTMLMediaElement/canPlayType",
       "tag": "New",
-      "sort_num": 99,
       "is_public": true,
       "is_known_issue": false,
       "bug": 875573
@@ -22,7 +20,6 @@
     {
       "note": "Firefox 64-bit for Windows is now available via the [Firefox download page][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/en-US/firefox/all/",
       "tag": "New",
-      "sort_num": 99,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1229852
@@ -30,7 +27,6 @@
     {
       "note": "Users can choose [search suggestions] [1] from the Awesome Bar\r\n\r\n  [1]: https://support.mozilla.org/en-US/kb/awesome-bar-search-firefox-bookmarks-history-tabs",
       "tag": "New",
-      "sort_num": 98,
       "is_public": true,
       "is_known_issue": false,
       "bug": 958204
@@ -38,7 +34,6 @@
     {
       "note": "On-screen keyboard displayed on selecting input field on devices running Windows 8 or greater",
       "tag": "New",
-      "sort_num": 97,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1007063
@@ -46,7 +41,6 @@
     {
       "note": "Firefox Health Report has switched to use the same data collection mechanism as telemetry",
       "tag": "New",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1227579
@@ -54,7 +48,6 @@
     {
       "note": "Markup view shows [indicators for pseudo-classes locked for elements][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector/How_to/Examine_and_edit_CSS#Setting_hover_active_focus",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1120406
@@ -62,7 +55,6 @@
     {
       "note": " Bind F1 key to open the settings when the toolbox is focused",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1198339
@@ -70,7 +62,6 @@
     {
       "note": "[New 'Use in Console' context menu item][1] in Inspector to store selected element in a temporary variable\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Tools/Page_Inspector/How_to/Examine_and_edit_HTML#Element_popup_menu",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1154363
@@ -78,7 +69,6 @@
     {
       "note": "[Search button next to overridden CSS properties][1] to find similar properties in the rules view\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Tools/Page_Inspector/How_to/Examine_and_edit_CSS#Overridden_declarations",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1151943
@@ -86,7 +76,6 @@
     {
       "note": "Ability to filter styles from their property names in the rules view",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1197048
@@ -94,7 +83,6 @@
     {
       "note": "Stack traces are now shown for exceptions inside the console\r\n",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1184172
@@ -102,7 +90,6 @@
     {
       "note": "Added ability to [display server-side logs in the console][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Tools/Web_Console/Console_messages#Server",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1168872
@@ -110,7 +97,6 @@
     {
       "note": "[Subresource integrity][1] allows developers to make their sites more secure\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/Security/Subresource_Integrity",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1205448
@@ -118,7 +104,6 @@
     {
       "note": "Network requests in Console [now link to Network panel][1] instead of opening in a popup\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Web_Console#HTTP_requests",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 861335
@@ -126,7 +111,6 @@
     {
       "note": "[Unprefixed 'hyphens' property][1] is now supported\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/hyphens",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 953408
@@ -134,7 +118,6 @@
     {
       "note": "WebIDE now has a sidebar-based UI",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1203648
@@ -142,7 +125,6 @@
     {
       "note": "The 'transform-origin' property is now [supported on SVG elements][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/transform-origin#Browser_compatibility",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1175492
@@ -150,7 +132,6 @@
     {
       "note": "Animation inspector now [displays animations in a timeline][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector/How_to/Work_with_animations#Firefox_43",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1156757
@@ -158,7 +139,6 @@
     {
       "note": "Single-process mode is no longer supported for NPAPI plugins",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1194780
@@ -166,7 +146,6 @@
     {
       "note": "Eyedropper tool does not work as expected when page is zoomed",
       "tag": "Fixed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1176595
@@ -174,7 +153,6 @@
     {
       "note": "Various [security fixes][1] \r\n\r\n\r\n  [1]: https://www.mozilla.org/en-US/security/known-vulnerabilities/firefox/#firefox43",
       "tag": "Fixed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": null

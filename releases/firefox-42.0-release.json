@@ -6,7 +6,6 @@
     {
       "note": "Private Browsing with [Tracking Protection][1] blocks certain Web elements that could be used to record your behavior across sites\r\n\r\n\r\n  [1]: https://blog.mozilla.org/futurereleases/2015/09/23/help-test-private-browsing-with-tracking-protection-in-firefox-beta/",
       "tag": "New",
-      "sort_num": 10000,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1029886
@@ -14,7 +13,6 @@
     {
       "note": "Control Center that contains site security and privacy controls",
       "tag": "New",
-      "sort_num": 2,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -22,7 +20,6 @@
     {
       "note": "Indicator added to tabs that play audio with one-click muting",
       "tag": "New",
-      "sort_num": 1,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1188860
@@ -30,7 +27,6 @@
     {
       "note": "Login Manager improvements:\r\n\r\n- Improved heuristics to save usernames and passwords\r\n- Edit and show all logins in line, Copy/Paste usernames/passwords from the Context menu \r\n- Migration imports your passwords to Firefox from Google Chrome for Windows and Internet Explorer; import anytime from the Login Manager\r\n",
       "tag": "New",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1193404
@@ -38,7 +34,6 @@
     {
       "note": "WebRTC improvements:\r\n\r\n - IPV6 support\r\n - Preferences for controlling ICE candidate generation and IP exposure\r\n - [Hooks for extensions][1] to allow/deny createOffer/Answer\r\n- Improved ability for applications to monitor and control which devices are used in getUserMedia\r\n\r\n\r\n  [1]: https://hacks.mozilla.org/2015/09/controlling-webrtc-peerconnections-with-an-extension/",
       "tag": "New",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -46,7 +41,6 @@
     {
       "note": "Improved performance on interactive websites that trigger a lot of restyles",
       "tag": "Changed",
-      "sort_num": -1,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1180118
@@ -54,7 +48,6 @@
     {
       "note": "Implemented [ES6 Reflect][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Reflect",
       "tag": "HTML5",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 987514
@@ -62,7 +55,6 @@
     {
       "note": "Support [ImageBitmap][1] and [createImageBitmap()][2]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/ImageBitmap\r\n  [2]: https://developer.mozilla.org/en-US/docs/Web/API/CreateImageBitmap",
       "tag": "HTML5",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1044102
@@ -70,7 +62,6 @@
     {
       "note": "Media Source Extension for HTML5 video available for all sites",
       "tag": "HTML5",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1185611
@@ -78,7 +69,6 @@
     {
       "note": "View [HTML source in a tab][1]\r\n\r\n[1]:https://hacks.mozilla.org/2015/07/developer-edition-41-view-source-in-a-tab-screenshot-elements-har-files-and-more/",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1067325
@@ -86,7 +76,6 @@
     {
       "note": "[Remote website debugging][1] over WiFi (no USB cable or ADB needed)\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Tools/Remote_Debugging/Debugging_Firefox_for_Android_over_Wifi\r\n",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1180996
@@ -94,7 +83,6 @@
     {
       "note": "Asynchronous call stacks now allow web developers to follow the code flow through setTimeout, DOM event handlers, and Promise handlers.\r\n",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1148593
@@ -102,7 +90,6 @@
     {
       "note": "Configurable [Firefox OS Simulator][1] in WebIDE, to simulate reference devices like phones, tablets, even TVs\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/WebIDE/Setting_up_runtimes#Configuring_Simulators",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1156834
@@ -110,7 +97,6 @@
     {
       "note": "[CSS filter presets][1] in the Inspector\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector/How_to/Edit_CSS_filters#Saving_filter_presets",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -118,7 +104,6 @@
     {
       "note": "Ability to [save filter presets][1] inside CSS Filter Tooltip\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector/How_to/Edit_CSS_filters#Saving_filter_presets",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1153184
@@ -126,7 +111,6 @@
     {
       "note": "Various [security fixes][1] \r\n\r\n[1]: https://www.mozilla.org/en-US/security/known-vulnerabilities/firefox/#firefox42",
       "tag": "Fixed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -134,7 +118,6 @@
     {
       "note": "URLs containing a Unicode-format Internationalized Domain Name (IDN) are not redirected properly, leading to a *Server Not Found* error.",
       "tag": "Known",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": true,
       "bug": 1142083

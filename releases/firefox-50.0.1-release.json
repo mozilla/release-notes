@@ -6,7 +6,6 @@
     {
       "note": "Reference link to [Firefox 50.0 release notes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.com/firefox/50.0/releasenotes/",
       "tag": "",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -14,7 +13,6 @@
     {
       "note": "Various [security fixes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/en-US/security/advisories/mfsa2016-91/",
       "tag": "Fixed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -22,7 +20,6 @@
     {
       "note": "Firefox crashes with 3rd party Chinese IME when using IME text",
       "tag": "Fixed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1300140
@@ -30,7 +27,6 @@
     {
       "note": "Due to an Apple touch bar bug, Firefox on recent MacBook Pro may crash when open for long periods or crash after resuming from sleep. Apple reports to have a fix for this in the currently unreleased OS X 10.12.3",
       "tag": "Known",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": true,
       "bug": 1320048

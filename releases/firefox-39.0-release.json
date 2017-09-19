@@ -6,7 +6,6 @@
     {
       "note": "[Share Hello URLs][1] with social networks\r\n\r\n\r\n  \r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/share-firefox-hello-social",
       "tag": "New",
-      "sort_num": 100,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1132301
@@ -14,7 +13,6 @@
     {
       "note": "Project Silk: [Smoother animation and scrolling][1] (Mac OS X)\r\n\r\n\r\n  [1]: https://hacks.mozilla.org/2015/01/project-silk/",
       "tag": "New",
-      "sort_num": 80,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1144317
@@ -22,7 +20,6 @@
     {
       "note": "[WOFF2][1] (Web Open Font Format 2.0) fonts are now supported by default\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/Guide/WOFF",
       "tag": "New",
-      "sort_num": 0,
       "is_public": false,
       "is_known_issue": false,
       "bug": 1084026
@@ -30,7 +27,6 @@
     {
       "note": "Support for 'switch' role in [ARIA 1.1][1] (web accessibility)\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/Accessibility/ARIA",
       "tag": "New",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1136563
@@ -38,7 +34,6 @@
     {
       "note": "SafeBrowsing [malware detection lookups][1] enabled for downloads (Mac OS X and Linux)\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/how-does-phishing-and-malware-protection-work",
       "tag": "New",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1111741
@@ -46,7 +41,6 @@
     {
       "note": "Support for new Unicode 8.0 skin tone emoji ",
       "tag": "New",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1153460
@@ -54,7 +48,6 @@
     {
       "note": "Removed support for insecure SSLv3 for network communications",
       "tag": "Changed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1106470
@@ -62,7 +55,6 @@
     {
       "note": "Performance of displaying dashed lines is improved (Mac OS X)",
       "tag": "Changed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1123019
@@ -70,7 +62,6 @@
     {
       "note": "Malware detection service for downloads now covers common Mac file types",
       "tag": "Changed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1138721
@@ -78,7 +69,6 @@
     {
       "note": "Added support for [CSS Scroll Snap Points][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/tag/CSS%20Scroll%20Snap%20Points",
       "tag": "HTML5",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1138658
@@ -86,7 +76,6 @@
     {
       "note": " [List-style-type][1] now accepts a string value\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/CSS/list-style-type",
       "tag": "HTML5",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1144607
@@ -94,7 +83,6 @@
     {
       "note": "Cascading of [CSS transitions and animations][1] now matches the current spec\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/Guide/CSS/Using_CSS_animations",
       "tag": "HTML5",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1125455
@@ -102,7 +90,6 @@
     {
       "note": "Enable the [Fetch API][1] for network requests from dedicated, shared and service workers\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/API/Fetch_API",
       "tag": "HTML5",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1133861
@@ -110,7 +97,6 @@
     {
       "note": "Implemented [`<link rel=\"preconnect\">`][1] allowing anticipation of a future connection without revealing any information\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/HTML/Link_types",
       "tag": "HTML5",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1135160
@@ -118,7 +104,6 @@
     {
       "note": "Drag and drop enabled for nodes in Inspector markup view ",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 858038
@@ -126,7 +111,6 @@
     {
       "note": "Web Console input history persists even after closing the toolbox",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 943306
@@ -134,7 +118,6 @@
     {
       "note": "Cubic bezier tooltip now shows a gallery of [timing-function presets for use with CSS animations][1]\r\n\r\n\r\n  [1]: http://jtgi.me/adding-presets-to-firefox-dev-tools/",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1134568
@@ -142,7 +125,6 @@
     {
       "note": "localhost is now available offline for WebSocket connections",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 967792
@@ -150,7 +132,6 @@
     {
       "note": "Improve performance of IPv6 fallback to IPv4 ",
       "tag": "Fixed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1136484
@@ -158,7 +139,6 @@
     {
       "note": "Fix incomplete downloads being marked as complete by detecting broken HTTP1.1 transfers",
       "tag": "Fixed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 237623
@@ -166,7 +146,6 @@
     {
       "note": " A regression that could lead to Flash not displaying has been fixed \r\n\r\n  ",
       "tag": "Fixed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1132432
@@ -174,7 +153,6 @@
     {
       "note": "Security state indicator on a page now correctly ignores loads caused by previous pages",
       "tag": "Fixed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 947079
@@ -182,7 +160,6 @@
     {
       "note": "Fixed an issue where a Hello conversation window would sometimes fail to\r\nopen",
       "tag": "Fixed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1150052
@@ -190,7 +167,6 @@
     {
       "note": "Various [security fixes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/known-vulnerabilities/firefox/#firefox39",
       "tag": "Fixed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": null

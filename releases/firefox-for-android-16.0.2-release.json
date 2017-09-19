@@ -6,7 +6,6 @@
     {
       "note": "Debugger breakpoints do not catch on page reload",
       "tag": "",
-      "sort_num": 500,
       "fixed_in_release": {
         "product": "Firefox",
         "title": "Firefox 16.0beta Beta",
@@ -22,7 +21,6 @@
     {
       "note": "Firefox on Mac OS X now has preliminary VoiceOver support turned on by default",
       "tag": "New",
-      "sort_num": 200,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -30,7 +28,6 @@
     {
       "note": "Initial <a href=\"https://developer.mozilla.org/en-US/docs/Apps/Getting_Started\">web app support</a> (Windows/Mac/Linux)",
       "tag": "New",
-      "sort_num": 100,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -38,7 +35,6 @@
     {
       "note": "No longer supporting MD5 as a hash algorithm in digital signatures ",
       "tag": "New",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 650355
@@ -46,7 +42,6 @@
     {
       "note": "Pointer lock doesn't work in web apps",
       "tag": "",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Firefox",
         "title": "Firefox 17.0beta Beta",
@@ -62,7 +57,6 @@
     {
       "note": "Acholi and Kazakh localizations added",
       "tag": "New",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -70,7 +64,6 @@
     {
       "note": "Opus support by default",
       "tag": "Changed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 772341
@@ -78,7 +71,6 @@
     {
       "note": "Per tab reporting in about:memory",
       "tag": "Changed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 687724
@@ -86,7 +78,6 @@
     {
       "note": "Improvements around JavaScript responsiveness through <a href=\"https://blog.mozilla.org/javascript/2012/08/28/incremental-gc-in-firefox-16/\">incremental garbage collection</a>",
       "tag": "Changed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -94,7 +85,6 @@
     {
       "note": "New Developer Toolbar with buttons for quick access to tools, error count for the Web Console, and a new command line for quick keyboard access",
       "tag": "Developer",
-      "sort_num": 600,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -102,7 +92,6 @@
     {
       "note": "CSS3 Animations, Transitions, Transforms and Gradients <a href=\"https://hacks.mozilla.org/2012/07/aurora-16-is-out/\">unprefixed in Firefox 16</a>",
       "tag": "Developer",
-      "sort_num": 400,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -110,7 +99,6 @@
     {
       "note": "Reverse animation direction has been implemented",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 655920
@@ -118,7 +106,6 @@
     {
       "note": "Recently opened files list in Scratchpad implemented",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -126,7 +113,6 @@
     {
       "note": "User Agent strings for pre-release Firefox versions now show only major version",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 728831
@@ -134,7 +120,6 @@
     {
       "note": "Various <a href=\"https://www.mozilla.org/security/known-vulnerabilities/firefox.html\">security fixes</a>",
       "tag": "Fixed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -142,7 +127,6 @@
     {
       "note": "16.0.1: Vulnerability outlined <a href=\"https://blog.mozilla.org/security/2012/10/10/security-vulnerability-in-firefox-16/\">here</a>",
       "tag": "Fixed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -150,7 +134,6 @@
     {
       "note": "If you try to start Firefox using a locked profile, it will crash (see [573369][1])\r\n\r\n\r\n  [1]: http://bugzilla.mozilla.org/573369",
       "tag": "Known",
-      "sort_num": -100,
       "is_public": true,
       "is_known_issue": true,
       "bug": 573369

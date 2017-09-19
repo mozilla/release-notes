@@ -6,7 +6,6 @@
     {
       "note": "Private Browsing with [Tracking Protection][1] blocks certain Web elements that could be used to record your behavior across sites\r\n\r\n\r\n  [1]: https://blog.mozilla.org/futurereleases/2015/09/23/help-test-private-browsing-with-tracking-protection-in-firefox-beta/",
       "tag": "New",
-      "sort_num": 10000,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1029886
@@ -14,7 +13,6 @@
     {
       "note": "Open external URLs from Android apps [in the background][1]\r\n\r\n[1]: https://medium.com/@antlam/open-multiple-links-1ce475c47de3",
       "tag": "New",
-      "sort_num": 80,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1112185
@@ -22,7 +20,6 @@
     {
       "note": "Scan an URL from a QR code from the search panel",
       "tag": "New",
-      "sort_num": 60,
       "is_public": false,
       "is_known_issue": false,
       "bug": 602818
@@ -30,7 +27,6 @@
     {
       "note": "Family-friendly browsing for Android when users create a restricted profile on tablets",
       "tag": "New",
-      "sort_num": 2,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1125984
@@ -38,7 +34,6 @@
     {
       "note": "Mobile login manager (about:logins) lists all saved logins and allows users to view/edit or delete logins",
       "tag": "New",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1170786
@@ -46,7 +41,6 @@
     {
       "note": "Support direct voice input for searching from the URL bar",
       "tag": "New",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 778588
@@ -54,7 +48,6 @@
     {
       "note": "Use scrollable tabs for panels navigation",
       "tag": "New",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1073053
@@ -62,7 +55,6 @@
     {
       "note": "Improved performance on interactive websites that trigger a lot of restyles",
       "tag": "Changed",
-      "sort_num": -1,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1180118
@@ -70,7 +62,6 @@
     {
       "note": "Implemented [ES6 Reflect][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Reflect",
       "tag": "HTML5",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 987514
@@ -78,7 +69,6 @@
     {
       "note": "Support [ImageBitmap][1] and [createImageBitmap()][2]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/ImageBitmap\r\n  [2]: https://developer.mozilla.org/en-US/docs/Web/API/CreateImageBitmap",
       "tag": "HTML5",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1044102
@@ -86,7 +76,6 @@
     {
       "note": "Media Source Extension for HTML5 video available for all sites",
       "tag": "HTML5",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1185611
@@ -94,7 +83,6 @@
     {
       "note": "[Remote website debugging][1] over WiFi (no USB cable or ADB needed)\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Tools/Remote_Debugging/Debugging_Firefox_for_Android_over_Wifi\r\n",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1180996
@@ -102,7 +90,6 @@
     {
       "note": "Various [security fixes][1] \r\n\r\n[1]: https://www.mozilla.org/en-US/security/known-vulnerabilities/firefox/#firefox42",
       "tag": "Fixed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -110,7 +97,6 @@
     {
       "note": "URLs containing a Unicode-format Internationalized Domain Name (IDN) are not redirected properly, leading to a *Server Not Found* error.",
       "tag": "Known",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": true,
       "bug": 1142083

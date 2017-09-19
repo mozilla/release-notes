@@ -6,7 +6,6 @@
     {
       "note": "Visual appearance improved on Windows 10",
       "tag": "New",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1172240
@@ -14,7 +13,6 @@
     {
       "note": "Spellchecker no longer jumps between languages",
       "tag": "Fixed",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 41.0beta Beta",
@@ -30,7 +28,6 @@
     {
       "note": "Proxy is taken into account for pop3s protocol",
       "tag": "Fixed",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 41.0beta Beta",
@@ -46,7 +43,6 @@
     {
       "note": "(Right-)Clicking on a newsgroup now allows directly composing a message again",
       "tag": "Fixed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1180360
@@ -54,7 +50,6 @@
     {
       "note": "Importing to the address book from CSV now works with international characters",
       "tag": "Fixed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1188306
@@ -62,7 +57,6 @@
     {
       "note": "Thunderbird no longer crashes when executing filter rules when using maildir",
       "tag": "Fixed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 797710
@@ -70,7 +64,6 @@
     {
       "note": "When using the maildir storage format, the INBOX folder is no longer deleted",
       "tag": "Fixed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1175242
@@ -78,7 +71,6 @@
     {
       "note": "Emails with long References headers are now decoded correctly",
       "tag": "Fixed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1197686
@@ -86,7 +78,6 @@
     {
       "note": "Checking for new messages correctly works after hibernation again",
       "tag": "Fixed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1196662
@@ -94,7 +85,6 @@
     {
       "note": "In contrast to Thunderbird 38, hardware acceleration is still enabled by default. If you are experiencing crashes, please disable it in the preferences.",
       "tag": "Known",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": true,
       "bug": 1131879

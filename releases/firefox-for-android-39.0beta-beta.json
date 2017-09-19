@@ -6,7 +6,6 @@
     {
       "note": "[Paste Android clipboard content][1] into editable web content\r\n\r\n\r\n  [1]: https://miketaylr.com/posts/2015/03/contenteditable-paste.html",
       "tag": "New",
-      "sort_num": 90,
       "is_public": true,
       "is_known_issue": false,
       "bug": 783846
@@ -14,7 +13,6 @@
     {
       "note": "[WOFF2][1] (Web Open Font Format 2.0) fonts are now supported by default\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/Guide/WOFF",
       "tag": "New",
-      "sort_num": 0,
       "is_public": false,
       "is_known_issue": false,
       "bug": 1084026
@@ -22,7 +20,6 @@
     {
       "note": "Support for 'switch' role in [ARIA 1.1][1] (web accessibility)\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/Accessibility/ARIA",
       "tag": "New",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1136563
@@ -30,7 +27,6 @@
     {
       "note": "Removed support for insecure SSLv3 for network communications",
       "tag": "Changed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1106470
@@ -38,7 +34,6 @@
     {
       "note": "Added support for [CSS Scroll Snap Points][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/tag/CSS%20Scroll%20Snap%20Points",
       "tag": "HTML5",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1138658
@@ -46,7 +41,6 @@
     {
       "note": "Enable the [Fetch API][1] by default \r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API",
       "tag": "HTML5",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1133861
@@ -54,7 +48,6 @@
     {
       "note": "[Vertical text mode][1] enabled by default on Developer Edition\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/writing-mode",
       "tag": "HTML5",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1099032
@@ -62,7 +55,6 @@
     {
       "note": " [List-style-type][1] now accepts a string value\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/list-style-type",
       "tag": "HTML5",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1144607
@@ -70,7 +62,6 @@
     {
       "note": " Implement `<link rel=\"preconnect\">`",
       "tag": "HTML5",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1135160
@@ -78,7 +69,6 @@
     {
       "note": "Cascading of CSS transitions and animations now matches the current spec",
       "tag": "HTML5",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1125455
@@ -86,7 +76,6 @@
     {
       "note": "Implement [Cache][1] API\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/Cache\r\n",
       "tag": "HTML5",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 940273
@@ -94,7 +83,6 @@
     {
       "note": "Improve performance for IPv6 fallback to IPv4 ",
       "tag": "Fixed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1136484
@@ -102,7 +90,6 @@
     {
       "note": "Fix incomplete downloads being marked as complete by detecting broken HTTP1.1 transfers",
       "tag": "Fixed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 237623

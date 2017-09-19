@@ -6,7 +6,6 @@
     {
       "note": "Reference link to [55.0 release notes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/firefox/55.0/releasenotes/",
       "tag": "",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -14,7 +13,6 @@
     {
       "note": "Fix a potential issue when the username had some specific characters in the path ([Bug 1388584][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1388584",
       "tag": "Fixed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1388584
@@ -22,7 +20,6 @@
     {
       "note": "Fix an issue with new installation notification for sideload add-ons ([Bug 1372448](https://bugzilla.mozilla.org/show_bug.cgi?id=1372448))",
       "tag": "Fixed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1372448
@@ -30,7 +27,6 @@
     {
       "note": "Fix performance regressions with WebExtension (Bugs [1386937][1] & [1389381][2])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1386937\r\n  [2]: https://bugzilla.mozilla.org/show_bug.cgi?id=1389381",
       "tag": "Fixed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -38,7 +34,6 @@
     {
       "note": "Fix a regression with the popup menu ([Bug 1388682][1]) \r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1388682",
       "tag": "Fixed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1388682

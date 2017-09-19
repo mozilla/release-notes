@@ -6,7 +6,6 @@
     {
       "note": "Windows: Firefox now follows display scaling options to render text larger on high-res displays",
       "tag": "New",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -14,7 +13,6 @@
     {
       "note": "Mac OS X: Download progress in Dock application icon",
       "tag": "New",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -22,7 +20,6 @@
     {
       "note": "HTML5 audio/video playback rate can now be changed",
       "tag": "New",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -30,7 +27,6 @@
     {
       "note": "Scrolling using some high-resolution-scroll aware touchpads feels slow",
       "tag": "",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 829952
@@ -38,7 +34,6 @@
     {
       "note": "asm.js optimizations (<a href=\"https://blog.mozilla.org/luke/2013/03/21/asm-js-in-firefox-nightly/\">OdinMonkey</a>) enabled for major performance improvements",
       "tag": "New",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -46,7 +41,6 @@
     {
       "note": "Social services management implemented in Add-ons Manager",
       "tag": "New",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -54,7 +48,6 @@
     {
       "note": "Pointer Lock API can now be used outside of fullscreen",
       "tag": "Changed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -62,7 +55,6 @@
     {
       "note": "Improved memory usage and display time <a href=\"https://bugzilla.mozilla.org/buglist.cgi?quicksearch=716140%2C689623%2C661304\">when rendering images</a>",
       "tag": "Changed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -70,7 +62,6 @@
     {
       "note": "Improved WebGL rendering performance through <a href=\"https://bugzilla.mozilla.org/buglist.cgi?quicksearch=829747\">asynchronous canvas updates</a>",
       "tag": "Changed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -78,7 +69,6 @@
     {
       "note": "Plain text files displayed within Firefox will now word-wrap",
       "tag": "Changed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -86,7 +76,6 @@
     {
       "note": "For user security, the |Components| object is no longer accessible from web content",
       "tag": "Changed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -94,7 +83,6 @@
     {
       "note": "WebRTC is now <a href=\"http://blog.mozilla.org/futurereleases/2013/05/16/firefox-beta-now-includes-webrtc-on-by-default\">enabled by default</a>!",
       "tag": "Changed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -102,7 +90,6 @@
     {
       "note": "Replace fixed-ratio audio resampler in webrtc.org capture code with Speex resampler and eliminate pseudo-44000Hz rate",
       "tag": "Changed",
-      "sort_num": -50,
       "fixed_in_release": {
         "product": "Firefox",
         "title": "Firefox 24.0beta Beta",
@@ -118,7 +105,6 @@
     {
       "note": "New HTML5 <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=839371\">&lt;data&gt;</a> and <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=629801\">&lt;time&gt;</a> elements",
       "tag": "HTML5",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -126,7 +112,6 @@
     {
       "note": "<a href=\"https://developer.mozilla.org/en-US/docs/CSS/Using_CSS_flexible_boxes?redirectlocale=en-US&redirectslug=CSS%2FFlexbox\">CSS3 Flexbox</a> implemented and enabled by default",
       "tag": "Developer",
-      "sort_num": 1000,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -134,7 +119,6 @@
     {
       "note": "New built-in font inspector",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -142,7 +126,6 @@
     {
       "note": "Added clipboardData API for JavaScript access to a user's clipboard",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -150,7 +133,6 @@
     {
       "note": "New Web Notifications API implemented",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -158,7 +140,6 @@
     {
       "note": "If you try to start Firefox using a locked profile, it will crash (see [573369][1])\r\n\r\n\r\n  [1]: http://bugzilla.mozilla.org/573369",
       "tag": "Known",
-      "sort_num": -100,
       "is_public": true,
       "is_known_issue": true,
       "bug": 573369

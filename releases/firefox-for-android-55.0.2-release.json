@@ -6,7 +6,6 @@
     {
       "note": "Reference link to [55.0 release notes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/firefox/android/55.0/releasenotes/",
       "tag": "",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -14,7 +13,6 @@
     {
       "note": "Fix an issue with tab restoration ([Bug 1379374][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1379374",
       "tag": "Fixed",
-      "sort_num": 1000,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1379374
@@ -22,7 +20,6 @@
     {
       "note": "Fix a crash with Telemetry ([Bug 1386027][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1386027",
       "tag": "Fixed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1386027
@@ -30,7 +27,6 @@
     {
       "note": "Blacklisting of Galaxy S4 SPH-L720 model for the adaptive playback feature ([Bug 1390022][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1390022",
       "tag": "Fixed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1390022
@@ -38,7 +34,6 @@
     {
       "note": "Disable the predictor prefetch ([bug 1388160][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1388160",
       "tag": "Fixed",
-      "sort_num": -1,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1388160

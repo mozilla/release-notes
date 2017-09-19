@@ -6,7 +6,6 @@
     {
       "note": "Reference: [Release notes for Firefox 37.0.1][1]\r\n\r\n[1]: https://www.mozilla.org/firefox/37.0.1/releasenotes/",
       "tag": "",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -14,7 +13,6 @@
     {
       "note": "Google Maps may render incorrectly in some cases",
       "tag": "Fixed",
-      "sort_num": 100,
       "fixed_in_release": {
         "product": "Firefox",
         "title": "Firefox 37.0.2 Release",
@@ -30,7 +28,6 @@
     {
       "note": "Stability fixes for select graphics hardware and feature sets",
       "tag": "Fixed",
-      "sort_num": 10,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1151361
@@ -38,7 +35,6 @@
     {
       "note": "Various [security fixes][1]\r\n\r\n[1]:https://www.mozilla.org/security/known-vulnerabilities/firefox/#firefox37.0.2",
       "tag": "Fixed",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Firefox",
         "title": "Firefox 37.0.2 Release",

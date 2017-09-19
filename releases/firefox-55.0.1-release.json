@@ -6,7 +6,6 @@
     {
       "note": "Reference link to [55.0 release notes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/firefox/55.0/releasenotes/",
       "tag": "",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -14,7 +13,6 @@
     {
       "note": "Fix a regression the tab restoration process ([bug 1388160][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1388628",
       "tag": "Fixed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1388628
@@ -22,7 +20,6 @@
     {
       "note": "Fix a problem causing *What's new pages* not to be displayed ([bug 1386224][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1386224",
       "tag": "Fixed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1386224
@@ -30,7 +27,6 @@
     {
       "note": "Fix a rendering issue with some PKCS#11 libraries ([bug 1388370][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1388370",
       "tag": "Fixed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1388370
@@ -38,7 +34,6 @@
     {
       "note": "Disable the predictor prefetch ([bug 1388160][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1388160",
       "tag": "Fixed",
-      "sort_num": -1,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1388160
@@ -46,7 +41,6 @@
     {
       "note": "Bookmarks may be lost for users who have a single quote in their profile name ([Bug 1388584][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1388584",
       "tag": "Known",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": true,
       "bug": 1388584

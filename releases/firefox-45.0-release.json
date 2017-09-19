@@ -6,7 +6,6 @@
     {
       "note": "Instant browser tab sharing through Hello",
       "tag": "New",
-      "sort_num": 1000,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1209713
@@ -14,7 +13,6 @@
     {
       "note": "[Tabs synced][1] via Firefox Accounts from other devices are now shown in dropdown area of Awesome Bar when searching\r\n\r\n\r\n  [1]: https://support.mozilla.org/en-US/kb/awesome-bar-search-firefox-bookmarks-history-tabs#w_how-to-use-the-autocomplete-list",
       "tag": "New",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1210616
@@ -22,7 +20,6 @@
     {
       "note": "[Synced Tabs button][1] in button bar\r\n\r\n\r\n  [1]: https://support.mozilla.org/en-US/kb/view-synced-tabs-other-devices",
       "tag": "New",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1201331
@@ -30,7 +27,6 @@
     {
       "note": "Introduce a new preference (*network.dns.blockDotOnion*) to allow blocking .onion at the DNS level",
       "tag": "New",
-      "sort_num": -1,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -38,7 +34,6 @@
     {
       "note": "Guarani [gn] locale added\r\n",
       "tag": "New",
-      "sort_num": -1,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1226664
@@ -46,7 +41,6 @@
     {
       "note": "[Tab Groups][1] (Panorama) feature removed\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/tab-groups-removal",
       "tag": "Changed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1221050
@@ -54,7 +48,6 @@
     {
       "note": "[UPDATE: 3/23/2016] Firefox Hello v1.1 improvements:\r\n\r\n - We\u2019ve made it easier to connect with others in FIrefox Hello by sharing a link to your Hello room using email or Facebook direct messaging\r\n - You can also easily stop and restart tab sharing whenever you want\r\n - Once you connect, you\u2019ll see your room participants\u2019 mouse cursor and they\u2019ll see yours",
       "tag": "Changed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1256442
@@ -62,7 +55,6 @@
     {
       "note": "[Push API][1] support, part of [Progressive Web Applications][2]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/Push_API\r\n  [2]: https://blog.mozilla.org/futurereleases/2015/11/17/extending-the-webs-capabilities-in-firefox-and-beyond/",
       "tag": "HTML5",
-      "sort_num": 100,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1201571
@@ -70,7 +62,6 @@
     {
       "note": "[ES6 Classes][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/JavaScript/Reference/Classes",
       "tag": "HTML5",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1197932
@@ -78,7 +69,6 @@
     {
       "note": "Support delivery of a Content Security Policy (CSP) via a meta tag\r\n",
       "tag": "HTML5",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 663570
@@ -86,7 +76,6 @@
     {
       "note": "[List of animated properties and keyframes][1] is now displayed when clicking on an animation in the animation-inspector\u2019s timeline\r\n\r\n\r\n  [1]: https://www.youtube.com/watch?v=Un3u4wuGT8Q",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1228005
@@ -94,7 +83,6 @@
     {
       "note": "Inspector search now matches results from all content in the page, including subframes",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 835896
@@ -102,7 +90,6 @@
     {
       "note": "Support for [diffing heap snapshots][1] added to the memory tool\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Memory#Diffing_heap_snapshots",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 960780
@@ -110,7 +97,6 @@
     {
       "note": "Added [Negative url filtering][1] for the network monitor\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Network_Monitor#Filtering_by_URL",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1222583
@@ -118,7 +104,6 @@
     {
       "note": "DOMContentLoaded and load events shown in the [network monitor timeline][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Network_Monitor#Timeline",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1218078
@@ -126,7 +111,6 @@
     {
       "note": "Fine tune animations by changing the playback rate of animations in the animation-inspector's timeline\r\n",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -134,7 +118,6 @@
     {
       "note": "Ability to [filter snapshot output][1] in memory tool\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Memory#Analyzing_a_snapshot",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1221673
@@ -142,7 +125,6 @@
     {
       "note": "URLs containing a Unicode-format Internationalized Domain Name (IDN) are now properly redirected",
       "tag": "Fixed",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Firefox",
         "title": "Firefox 45.0a2 Aurora",
@@ -158,7 +140,6 @@
     {
       "note": "Various [security fixes][1]\r\n [1]: https://www.mozilla.org/en-US/security/known-vulnerabilities/firefox/#firefox45",
       "tag": "Fixed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -166,7 +147,6 @@
     {
       "note": "On-screen keyboard support was temporarily turned off for Windows 8 and Windows 8.1",
       "tag": "Known",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": true,
       "bug": 1250661
@@ -174,7 +154,6 @@
     {
       "note": "Trusteer Rapport is severely impacting the stability of Firefox",
       "tag": "Known",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": true,
       "bug": 1255026

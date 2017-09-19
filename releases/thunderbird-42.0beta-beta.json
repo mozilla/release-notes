@@ -6,7 +6,6 @@
     {
       "note": "Login credentials in the password manager are now editable",
       "tag": "Feature",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1001765
@@ -14,7 +13,6 @@
     {
       "note": "Message copies from a maildir folder to an mbox folder now work.",
       "tag": "Fixed",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 42.0beta Beta",
@@ -30,7 +28,6 @@
     {
       "note": "Thunderbird on Mac no longer hangs when loading content from the Web",
       "tag": "Fixed",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 42.0beta Beta",

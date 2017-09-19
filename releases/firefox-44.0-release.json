@@ -6,7 +6,6 @@
     {
       "note": "Improved warning pages for certificate errors and untrusted connections",
       "tag": "New",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -14,7 +13,6 @@
     {
       "note": "Enable H.264 if system decoder is available",
       "tag": "New",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1213499
@@ -22,7 +20,6 @@
     {
       "note": "Enable WebM/VP9 video support on systems that don't support MP4/H.264",
       "tag": "New",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1217170
@@ -30,7 +27,6 @@
     {
       "note": "In the animation-inspector timeline, lightning bolt icon next to animations running on the compositor thread",
       "tag": "New",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1205704
@@ -38,7 +34,6 @@
     {
       "note": "Support the brotli compression format via HTTPS content-encoding",
       "tag": "New",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 366559
@@ -46,7 +41,6 @@
     {
       "note": "Screenshot commands allow user choice of pixel ratio in Developer Tools",
       "tag": "New",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 970625
@@ -54,7 +48,6 @@
     {
       "note": "Firefox can now get [Push Notifications][1] from your favorite sites\r\n\r\n\r\n  [1]: https://support.mozilla.org/en-US/kb/push-notifications-firefox?as=u&utm_source=inproduct#w_upgraded-notifications",
       "tag": "New",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1234054
@@ -62,7 +55,6 @@
     {
       "note": "Firefox has removed support for the RC4 cipher",
       "tag": "Changed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -70,7 +62,6 @@
     {
       "note": "To support unicode-range descriptor for webfonts, font matching under Linux now uses the same font matching code as other platforms",
       "tag": "Changed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1180560
@@ -78,7 +69,6 @@
     {
       "note": "Firefox will no longer trust the Equifax Secure Certificate Authority 1024-bit root certificate or the UTN - DATACorp SGC to validate secure [website certificates][1]\r\n\r\n\r\n  [1]: https://support.mozilla.org/ta/kb/secure-website-certificate",
       "tag": "Changed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1223466
@@ -86,7 +76,6 @@
     {
       "note": "Use a SHA-256 signing certificate for Windows builds, to meet new signing requirements",
       "tag": "Changed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1205843
@@ -94,7 +83,6 @@
     {
       "note": "Stricter validation of web fonts",
       "tag": "Changed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1193050
@@ -102,7 +90,6 @@
     {
       "note": "On-screen keyboard support temporarily turned off for Windows 8 and Windows 8.1",
       "tag": "Changed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1238892
@@ -110,7 +97,6 @@
     {
       "note": "Support for Direct2D 1.0 has been dropped. Windows 7 users can install the [Platform Update][1]  to re-enable Direct2D support (to fix font rendering issues)\r\n\r\n\r\n  [1]: https://www.microsoft.com/en-ca/download/details.aspx?id=36805",
       "tag": "Changed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1208465
@@ -118,7 +104,6 @@
     {
       "note": "Right click on a logged object in the console to store it as a global variable on the page",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1025778
@@ -126,7 +111,6 @@
     {
       "note": "Visual tools for Animation:\r\n\r\n -  View/Edit CSS animation keyframe rules directly in the inspector\r\n -  Visually modify the cubic-bezier curve that drives the way animations progress through time\r\n -  [Discover and scrub through all CSS animations][1] and transitions playing on the page\r\n - Learn more: http://devtoolschallenger.com/\r\n\r\n\r\n  [1]: https://www.youtube.com/watch?v=T2jykykN3yc",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1194146
@@ -134,7 +118,6 @@
     {
       "note": "Visual tools for Layout and Styles:\r\n\r\n - Display rulers along the viewport to verify size and position and use the measurement tool to easily detect spacing and alignment problems\r\n - [Use CSS filters to preview and create][1] real-time effects like drop-shadows, sepia, etc\r\n - Learn more: http://devtoolschallenger.com/\r\n\r\n\r\n  [1]: https://www.youtube.com/watch?v=t3NKmmWfklU",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1194146
@@ -142,7 +125,6 @@
     {
       "note": "New memory tool for inspecting the memory heap",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1195323
@@ -150,7 +132,6 @@
     {
       "note": "[Service Workers API][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/API/Service_Worker_API/Using_Service_Workers",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -158,7 +139,6 @@
     {
       "note": "Built-in JSON reader to intuitively view, search, copy and save data without extensions",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1132203
@@ -166,7 +146,6 @@
     {
       "note": "Jump to [function definitions in the debugger][1] with Cmd-Click\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Keyboard_shortcuts#Debugger",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 852931
@@ -174,7 +153,6 @@
     {
       "note": "[WebSocket Debugging API][1] and add-on\r\n\r\n\r\n  [1]: https://hacks.mozilla.org/2015/11/developer-edition-44-creative-tools-and-more/",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1203802
@@ -182,7 +160,6 @@
     {
       "note": "The rule view now displays styles using their authored text,\r\nand edits in the rule view are now linked to the style editor",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 984880
@@ -190,7 +167,6 @@
     {
       "note": "Windows XP and Vista screensaver doesn't disable when watching videos ([Bug 1193610][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1193610",
       "tag": "Fixed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1193610
@@ -198,7 +174,6 @@
     {
       "note": "Various [security fixes][1] \r\n\r\n\r\n  [1]: https://www.mozilla.org/en-US/security/known-vulnerabilities/firefox/#firefox44",
       "tag": "Fixed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -206,7 +181,6 @@
     {
       "note": "Trusteer Rapport is severely impacting the stability of Firefox",
       "tag": "Known",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": true,
       "bug": 1255026

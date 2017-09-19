@@ -6,7 +6,6 @@
     {
       "note": "Keep track of articles and videos with Pocket",
       "tag": "New",
-      "sort_num": 100,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1155467
@@ -14,7 +13,6 @@
     {
       "note": "Clean formatting for articles and blog posts with Reader View",
       "tag": "New",
-      "sort_num": 90,
       "is_public": true,
       "is_known_issue": false,
       "bug": 558882
@@ -22,7 +20,6 @@
     {
       "note": "Share the active tab or window in a Hello conversation",
       "tag": "New",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1099241
@@ -30,7 +27,6 @@
     {
       "note": "A race condition that would cause Firefox to stop painting when switching tabs ([bug 1067470][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1067470",
       "tag": "Fixed",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Firefox",
         "title": "Firefox 38.0.5 Release",
@@ -46,7 +42,6 @@
     {
       "note": "Responsive images do not update when the enclosing viewport changes",
       "tag": "Known",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": true,
       "bug": 1135812

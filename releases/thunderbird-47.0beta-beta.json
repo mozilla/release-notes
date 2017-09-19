@@ -6,7 +6,6 @@
     {
       "note": " Delivery Format not preserved for saved drafts (Auto-Detect|Plaintext|HTML|Both) ",
       "tag": "Fixed",
-      "sort_num": 6,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1202165
@@ -14,7 +13,6 @@
     {
       "note": "Dragging and dropping of contacts from the contact list onto an addressbook while All Addressbooks is selected moved only one contact",
       "tag": "Fixed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1249153
@@ -22,7 +20,6 @@
     {
       "note": "Falsely reported not enough disk space during compacting",
       "tag": "Fixed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1174485
@@ -30,7 +27,6 @@
     {
       "note": "Draft folder database (and possibly others) was deleted when certain messages were viewed, resulting in loss of locally stored message metadata",
       "tag": "Fixed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1216914
@@ -38,7 +34,6 @@
     {
       "note": "Invitations to events could not be printed.",
       "tag": "Fixed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1268856
@@ -46,7 +41,6 @@
     {
       "note": "\"Apply columns to...\" did not honor special folders",
       "tag": "Fixed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 562266
@@ -54,7 +48,6 @@
     {
       "note": "Erroneous spaces were inserted when copying CJK text",
       "tag": "Fixed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 333064
@@ -62,7 +55,6 @@
     {
       "note": "Links were not always detected properly in the message body (terminated early on \"|\", some long links not detected at all)",
       "tag": "Fixed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1274242

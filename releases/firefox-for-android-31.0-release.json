@@ -6,7 +6,6 @@
     {
       "note": "Ability to re-order existing panels in browser homescreen ",
       "tag": "New",
-      "sort_num": 150,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -14,7 +13,6 @@
     {
       "note": "Added ability to refresh synced tabs on demand",
       "tag": "New",
-      "sort_num": 149,
       "is_public": true,
       "is_known_issue": false,
       "bug": 850600
@@ -22,7 +20,6 @@
     {
       "note": "Firefox Hub APIs ([learn more][1], [examples][2])\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/Add-ons/Firefox_for_Android/Firefox_Hub_Walkthrough\r\n  [2]: https://addons.mozilla.org/en-US/android/collections/leibovic/home-panels/",
       "tag": "New",
-      "sort_num": 10,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -30,7 +27,6 @@
     {
       "note": "mozilla::pkix as default certificate verifier ([learn more][1])\r\n\r\n\r\n  [1]: https://blog.mozilla.org/security/2014/04/24/exciting-updates-to-certificate-verification-in-gecko/",
       "tag": "New",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 915930
@@ -38,7 +34,6 @@
     {
       "note": "Locales added: Assamese [as], Bengali [bn-IN], Gujarati [gu-IN], Hindi [hi-IN], Kannada [kn], Malayalam [ml], Marathi [mr], Oriya [or], Panjabi [pa-IN], Tamil [ta], Telugu [te]\r\n",
       "tag": "New",
-      "sort_num": -1,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1013226
@@ -46,7 +41,6 @@
     {
       "note": "Removal of the CAPS infrastructure for specifying site-specific permissions (via capability.policy.* preferences). Most notably, attempts to use this functionality to grant access to the clipboard will no longer work. The sole exception is the checkloaduri permission, which may still be used as before to allow sites to load file:// URIs.",
       "tag": "Changed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 913734
@@ -54,7 +48,6 @@
     {
       "note": "Last release supporting Android 2.2 and ARMv6 chipset - security updates available through January 2015",
       "tag": "Changed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1040319
@@ -62,7 +55,6 @@
     {
       "note": "WebVTT implemented and enabled (<a href=\"https://developer.mozilla.org/en-US/docs/HTML/WebVTT\">learn more</a>)",
       "tag": "HTML5",
-      "sort_num": 200,
       "is_public": true,
       "is_known_issue": false,
       "bug": 629350
@@ -70,7 +62,6 @@
     {
       "note": "CSS3 variables implemented ([learn more][1])\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_variables",
       "tag": "HTML5",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -78,7 +69,6 @@
     {
       "note": "navigator.sendBeacon enabled by default ([learn more][1])\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/navigator.sendBeacon",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 990220
@@ -86,7 +76,6 @@
     {
       "note": "New Array built-in: Array.prototype.fill() (<a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/fill\">learn more</a>)",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 911147
@@ -94,7 +83,6 @@
     {
       "note": "New Object built-in: Object.setPrototypeOf() ([learn more][1])\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/setPrototypeOf",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 911147
@@ -102,7 +90,6 @@
     {
       "note": "CSP 1.1 nonce-source and hash-source enabled by default",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 979580
@@ -110,7 +97,6 @@
     {
       "note": "Various <a href=\"https://www.mozilla.org/security/known-vulnerabilities/firefox.html\">security fixes</a>",
       "tag": "Fixed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -118,7 +104,6 @@
     {
       "note": "Does not start on Android L preview (see [1030897][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1030897",
       "tag": "Known",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": true,
       "bug": 1030897

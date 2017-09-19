@@ -6,7 +6,6 @@
     {
       "note": "Security fixes can be found <a href=\"https://www.mozilla.org/security/known-vulnerabilities/firefoxESR.html\">here</a>",
       "tag": "Fixed",
-      "sort_num": 1,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -14,7 +13,6 @@
     {
       "note": "@ JS::Handle<JSObject*>::operator JSObject* const&() startup crash (see  <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1055766\"> bug 1055766 </a>)",
       "tag": "Fixed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1055766
@@ -22,7 +20,6 @@
     {
       "note": "Intermittent failures in add-ons manager mochitest-browser tests (see  <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1095128\"> bug 1095128 </a>)",
       "tag": "Fixed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1095128
@@ -30,7 +27,6 @@
     {
       "note": "Bad CPU type in executable running mochitests on yosemite  (see  <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1054043\"> bug 1054043 </a>)",
       "tag": "Fixed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1054043
@@ -38,7 +34,6 @@
     {
       "note": "Error building nsChildView.mm on OS X 10.10 (see  <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1005458\"> bug 1005458 </a>)",
       "tag": "Fixed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1005458
@@ -46,7 +41,6 @@
     {
       "note": "Build error on Yosemite (see  <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1045231\"> bug 1045231 </a>)",
       "tag": "Fixed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1045231
@@ -54,7 +48,6 @@
     {
       "note": "Wrong CPU features detection on some x86 CPUs (see  <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1096651\"> bug 1096651 </a>)",
       "tag": "Fixed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1096651
@@ -62,7 +55,6 @@
     {
       "note": "XMLHttpRequest.send({}) should not throw (see  <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1096263\"> bug 1096263 </a>)",
       "tag": "Fixed",
-      "sort_num": -10,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1096263

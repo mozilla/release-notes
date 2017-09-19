@@ -6,7 +6,6 @@
     {
       "note": "Reference: Release notes for [Firefox 43.0.3][1]\r\n\r\n\r\n  [1]: /firefox/43.0.3/releasenotes/",
       "tag": "",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -14,7 +13,6 @@
     {
       "note": "Re-enable [SHA-1 certificates][1] ([Bug 1236975][2]) \r\n\r\n\r\n  [1]: https://blog.mozilla.org/security/2016/01/06/man-in-the-middle-interfering-with-increased-security/\r\n  [2]: https://bugzilla.mozilla.org/show_bug.cgi?id=1236975",
       "tag": "Changed",
-      "sort_num": 95,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1236975
@@ -22,7 +20,6 @@
     {
       "note": "Fix for startup crash for users of a third party antivirus tool ([Bug 1235537][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1235537",
       "tag": "Fixed",
-      "sort_num": 90,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1235537
@@ -30,7 +27,6 @@
     {
       "note": "Multi-user GNU/Linux download folders can be created ([Bug 1233434][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1233434",
       "tag": "Fixed",
-      "sort_num": 50,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1233434

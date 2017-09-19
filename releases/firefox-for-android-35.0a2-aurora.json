@@ -6,7 +6,6 @@
     {
       "note": "Search dialog added to network error pages",
       "tag": "New",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1042199
@@ -14,7 +13,6 @@
     {
       "note": "Use Android Download manager to keep track of downloaded files",
       "tag": "New",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 816318
@@ -22,7 +20,6 @@
     {
       "note": "Improved handling of dynamic styling changes to increase responsiveness",
       "tag": "New",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 977991
@@ -30,7 +27,6 @@
     {
       "note": "Locales added: Breton [br], Esperanto [eo]",
       "tag": "New",
-      "sort_num": -100,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1082181
@@ -38,7 +34,6 @@
     {
       "note": "Changed JavaScript ['let' semantics][1] to conform better to the ES6 specification\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let#Temporal_dead_zone_and_errors_with_let",
       "tag": "HTML5",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1001090
@@ -46,7 +41,6 @@
     {
       "note": "Resource Timing API implemented",
       "tag": "HTML5",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1002855
@@ -54,7 +48,6 @@
     {
       "note": "[CSS filters][1] enabled by default\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/filter",
       "tag": "HTML5",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1057180
@@ -62,7 +55,6 @@
     {
       "note": "WebSocket now available in Web Workers",
       "tag": "HTML5",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 504553
@@ -70,7 +62,6 @@
     {
       "note": "WOFF2 fonts are now supported (on Aurora and Nightly)",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1064737

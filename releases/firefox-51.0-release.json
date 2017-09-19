@@ -6,7 +6,6 @@
     {
       "note": "[Added support for FLAC (Free Lossless Audio Codec) playback][1]\r\n\r\n\r\n  [1]: https://xiph.org/flac/",
       "tag": "New",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1195723
@@ -14,7 +13,6 @@
     {
       "note": "Users can view passwords in the save password prompt before saving them",
       "tag": "New",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1270321
@@ -22,7 +20,6 @@
     {
       "note": "Added a zoom button in the URL bar: \r\n\r\n- Displays percent above or below 100 percent when a user has changed the page zoom setting from the default\r\n- Lets users return to the default setting by clicking on the button\r\n",
       "tag": "New",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 565718
@@ -30,7 +27,6 @@
     {
       "note": "Improved video performance for users without GPU acceleration for less CPU usage and a better full screen experience",
       "tag": "New",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1275441
@@ -38,7 +34,6 @@
     {
       "note": "Firefox will save passwords even in forms that do not have \u201csubmit\u201d events ",
       "tag": "New",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1166947
@@ -46,7 +41,6 @@
     {
       "note": "Added support for [WebGL 2][1], with advanced graphics rendering features like transform feedback, improved texturing capabilities, and a new sophisticated shading language\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/WebGL2RenderingContext",
       "tag": "New",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1232864
@@ -54,7 +48,6 @@
     {
       "note": "A [warning is displayed][1] when a login page does not have a secure connection\r\n\r\n\r\n  [1]: https://support.mozilla.org/en-US/kb/insecure-password-warning-firefox",
       "tag": "New",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1319119
@@ -62,7 +55,6 @@
     {
       "note": "Added Georgian (ka) and Kabyle (kab) locales",
       "tag": "New",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1309232
@@ -70,7 +62,6 @@
     {
       "note": "An even faster E10s! Tab Switching is better!",
       "tag": "New",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1279086
@@ -78,7 +69,6 @@
     {
       "note": "Improved reliability of browser data sync",
       "tag": "New",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1253051
@@ -86,7 +76,6 @@
     {
       "note": "Remove Belarusian (be) locale",
       "tag": "New",
-      "sort_num": -1,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1304749
@@ -94,7 +83,6 @@
     {
       "note": "Use 2D graphics library (Skia) for content rendering on Linux",
       "tag": "Changed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1186552
@@ -102,7 +90,6 @@
     {
       "note": "Re-enabled E10s support for Russian (ru) locale",
       "tag": "Changed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1304874
@@ -110,7 +97,6 @@
     {
       "note": " Updated to [NSS 3.28.1][1] \r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/NSS_3.28.1_release_notes",
       "tag": "Changed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1304919
@@ -118,7 +104,6 @@
     {
       "note": "Various [security fixes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/en-US/security/known-vulnerabilities/firefox/#firefox51",
       "tag": "Fixed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -126,7 +111,6 @@
     {
       "note": "Crash with some older versions of [Forcepoint/Websense][1]\r\n\r\n\r\n  [1]: https://support.mozilla.org/en-US/kb/old-versions-websense-cause-startup-crashes-firefo",
       "tag": "Known",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": true,
       "bug": 1325872

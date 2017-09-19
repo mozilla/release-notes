@@ -6,7 +6,6 @@
     {
       "note": "[Gamepad API][1] finalized and enabled\r\n\r\n[1]: https://hacks.mozilla.org/2013/12/the-gamepad-api/",
       "tag": "New",
-      "sort_num": 1800,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -14,7 +13,6 @@
     {
       "note": "VP9 video decoding implemented",
       "tag": "New",
-      "sort_num": 500,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -22,7 +20,6 @@
     {
       "note": "Firefox for Windows 8 touch preview available (see <a href=\"http://blog.mozilla.org/futurereleases/2014/02/07/firefox-for-windows-8-touch-beta-is-ready-for-testing/\">blog post</a>)",
       "tag": "New",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -30,7 +27,6 @@
     {
       "note": "Mac OS X: Notification Center support for web notifications",
       "tag": "New",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -38,7 +34,6 @@
     {
       "note": "Horizontal HTML5 audio/video volume control",
       "tag": "New",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -46,7 +41,6 @@
     {
       "note": "Support for Opus in WebM",
       "tag": "New",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -54,7 +48,6 @@
     {
       "note": "Removed support for spdy/2",
       "tag": "Changed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 715396
@@ -62,7 +55,6 @@
     {
       "note": "Support for MathML 2.0 'mathvariant' attribute",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -70,7 +62,6 @@
     {
       "note": "Background thread hang reporting",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -78,7 +69,6 @@
     {
       "note": "&lt;input type=\"color\"&gt; implemented and enabled",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -86,7 +76,6 @@
     {
       "note": "Support for multi-line flexbox in layout",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -94,7 +83,6 @@
     {
       "note": "Text Rendering Issues on Windows 7 with Platform Update KB2670838 (MSIE 10 Prerequisite) or on Windows 8.1 has a <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=812695#c414\">workaround</a> (see <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=812695\">812695</a>)",
       "tag": "Known",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Firefox",
         "title": "Firefox 31.0 Release",

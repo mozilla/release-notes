@@ -6,7 +6,6 @@
     {
       "note": "33.0.1: Firefox displays a black screen at start-up with certain graphics drivers",
       "tag": "Fixed",
-      "sort_num": 1000,
       "fixed_in_release": {
         "product": "Firefox",
         "title": "Firefox 33.0.1 Release",
@@ -22,7 +21,6 @@
     {
       "note": "[OpenH264 support][1] (sandboxed)\r\n\r\n\r\n  [1]: http://andreasgal.com/2014/10/14/openh264-now-in-firefox/",
       "tag": "New",
-      "sort_num": 100,
       "is_public": true,
       "is_known_issue": false,
       "bug": 948160
@@ -30,7 +28,6 @@
     {
       "note": "[Improved search experience][1] through the location bar\r\n\r\n\r\n  [1]: http://msujaws.wordpress.com/2014/08/01/faster-and-snappier-searches-now-in-firefox-aurora/",
       "tag": "New",
-      "sort_num": 99,
       "is_public": true,
       "is_known_issue": false,
       "bug": 982428
@@ -38,7 +35,6 @@
     {
       "note": "Windows: [OMTC][1] enabled by default\r\n\r\n\r\n  [1]: https://wiki.mozilla.org/Platform/GFX/OffMainThreadCompositing\r\n",
       "tag": "New",
-      "sort_num": 98,
       "is_public": true,
       "is_known_issue": false,
       "bug": 899785
@@ -46,7 +42,6 @@
     {
       "note": "Slimmer and faster [JavaScript strings][1]\r\n\r\n  [1]: https://blog.mozilla.org/javascript/2014/07/21/slimmer-and-faster-javascript-strings-in-firefox/",
       "tag": "New",
-      "sort_num": 98,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1037871
@@ -54,7 +49,6 @@
     {
       "note": "Search suggestions on the Firefox Start (about:home) and new tab (about:newtab) pages",
       "tag": "New",
-      "sort_num": 98,
       "is_public": true,
       "is_known_issue": false,
       "bug": 612453
@@ -62,7 +56,6 @@
     {
       "note": "Support for connecting to HTTP proxy over HTTPS",
       "tag": "New",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 378637
@@ -70,7 +63,6 @@
     {
       "note": "New CSP (Content Security Policy) backend",
       "tag": "New",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 925004
@@ -78,7 +70,6 @@
     {
       "note": "Windows: On some combination of hardware and drivers, the main window could be black. In this case, update your graphics drivers ([1083071][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1083071",
       "tag": "",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Firefox",
         "title": "Firefox 33.0.1 Release",
@@ -94,7 +85,6 @@
     {
       "note": "Improved reliability of the [session restoration][1]\r\n\r\n  [1]: https://dutherenverseauborddelatable.wordpress.com/2014/06/26/firefox-the-browser-that-has-your-backup/",
       "tag": "New",
-      "sort_num": -1,
       "is_public": true,
       "is_known_issue": false,
       "bug": 883609
@@ -102,7 +92,6 @@
     {
       "note": "Azerbaijani [az] locale added",
       "tag": "New",
-      "sort_num": -100,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1054497
@@ -110,7 +99,6 @@
     {
       "note": "[JSD (JavaScript Debugger Service) removed][1] in favor of the Debugger interface\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Debugger-API",
       "tag": "Changed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 800200
@@ -118,7 +106,6 @@
     {
       "note": "Proprietary window.crypto properties/functions removed",
       "tag": "Changed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1036546
@@ -126,7 +113,6 @@
     {
       "note": "[DOMMatrix][1] interface implemented\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/DOMMatrix",
       "tag": "HTML5",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1018497
@@ -134,7 +120,6 @@
     {
       "note": "[@counter-style rule][1] from CSS3 Counter Styles specification implemented\r\n\r\n\r\n  [1]: http://dev.w3.org/csswg/css-counter-styles/#the-counter-style-rule",
       "tag": "HTML5",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 966166
@@ -142,7 +127,6 @@
     {
       "note": "[Cubic-bezier curves][1] editor\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector#Editing_cubic_B.C3.A9zier_curves",
       "tag": "Developer",
-      "sort_num": 10,
       "is_public": true,
       "is_known_issue": false,
       "bug": 711941
@@ -150,7 +134,6 @@
     {
       "note": "[Paint flashing][1] for browser content repaints\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Paint_Flashing_Tool",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 900692
@@ -158,7 +141,6 @@
     {
       "note": "Display which elements have [listeners attached][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector#Examining_event_listeners",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 736078
@@ -166,7 +148,6 @@
     {
       "note": "[New sidebar][1] which displays a list of shortcuts to every @media rule in the current stylesheet\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Style_Editor#The_media_sidebar",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1012806
@@ -174,7 +155,6 @@
     {
       "note": "[Editable @keyframes][1] rules in the Rules section of the Inspector\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector#Editing_keyframes",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1030889
@@ -182,7 +162,6 @@
     {
       "note": "[CSS transform highlighter][1] in the style-inspector\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector#transform_visualisation",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1014547
@@ -190,7 +169,6 @@
     {
       "note": "Various <a href=\"https://www.mozilla.org/security/known-vulnerabilities/firefox.html\">security fixes</a>",
       "tag": "Fixed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -198,7 +176,6 @@
     {
       "note": "Fix incomplete downloads being marked as complete by detecting broken HTTP1.1 transfers ([237623][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=237623",
       "tag": "Known",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Firefox",
         "title": "Firefox 33.0 Release",
@@ -214,7 +191,6 @@
     {
       "note": "PDF.js: With some images, wrong colors could show up. Affects a very small number of PDF",
       "tag": "Known",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": true,
       "bug": 1072164
@@ -222,7 +198,6 @@
     {
       "note": "Some certificate errors cannot be overridden ([1042889][1])\r\n\r\n\r\n  [1]: http://bugzilla.mozilla.org/1042889",
       "tag": "Known",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Firefox",
         "title": "Firefox 33.1 Release",
@@ -238,7 +213,6 @@
     {
       "note": "Windows: With Avast HTTPS scanning enabled, Firefox will not close correctly ([1087674][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1087674",
       "tag": "Known",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Firefox",
         "title": "Firefox 33.1 Release",
@@ -254,7 +228,6 @@
     {
       "note": "Windows: Interface may be slow when typing or selecting text ([1089183][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1089183",
       "tag": "Known",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": true,
       "bug": 1087674

@@ -6,7 +6,6 @@
     {
       "note": "Dynamic toolbar hides navigation bar when scrolling down page content",
       "tag": "New",
-      "sort_num": 500,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -14,7 +13,6 @@
     {
       "note": "Basic support for subscribing to feeds (RSS/Atom) with long-tap in address bar",
       "tag": "New",
-      "sort_num": 500,
       "fixed_in_release": {
         "product": "Firefox for Android",
         "title": "Firefox for Android 23.0a2 Aurora",
@@ -30,7 +28,6 @@
     {
       "note": "Add pages to reading list on devices incapable of accessing Reader Mode",
       "tag": "New",
-      "sort_num": 400,
       "fixed_in_release": {
         "product": "Firefox for Android",
         "title": "Firefox for Android 23.0beta Beta",
@@ -46,7 +43,6 @@
     {
       "note": "Preliminary implementation of Firefox Health Report for Android <a href=\"https://blog.mozilla.org/metrics/fhr-faq/\">(see FAQ)</a>",
       "tag": "New",
-      "sort_num": 300,
       "fixed_in_release": {
         "product": "Firefox for Android",
         "title": "Firefox for Android 23.0beta Beta",
@@ -62,7 +58,6 @@
     {
       "note": "<a href=\"https://blog.mozilla.org/ux/2013/05/polish-all-the-things1/\">Added a setting</a> to let users display URLs in the title bar instead of page titles",
       "tag": "New",
-      "sort_num": 200,
       "fixed_in_release": {
         "product": "Firefox for Android",
         "title": "Firefox for Android 23.0a2 Aurora",
@@ -78,7 +73,6 @@
     {
       "note": "Users can now specify a default search engine",
       "tag": "New",
-      "sort_num": 100,
       "fixed_in_release": {
         "product": "Firefox for Android",
         "title": "Firefox for Android 23.0a2 Aurora",
@@ -94,7 +88,6 @@
     {
       "note": "Implemented switch-to-tab",
       "tag": "New",
-      "sort_num": 20,
       "fixed_in_release": {
         "product": "Firefox for Android",
         "title": "Firefox for Android 23.0a2 Aurora",
@@ -110,7 +103,6 @@
     {
       "note": "Long press Reader Mode icon to add article to Reading List (try it!)",
       "tag": "New",
-      "sort_num": -1,
       "fixed_in_release": {
         "product": "Firefox for Android",
         "title": "Firefox for Android 23.0a2 Aurora",
@@ -126,7 +118,6 @@
     {
       "note": "Added Serif/Sans Serif font toggle to Reader Mode",
       "tag": "New",
-      "sort_num": -1,
       "fixed_in_release": {
         "product": "Firefox for Android",
         "title": "Firefox for Android 23.0a2 Aurora",
@@ -142,7 +133,6 @@
     {
       "note": "Added hu and tr to Android multi-locale builds",
       "tag": "New",
-      "sort_num": -1,
       "fixed_in_release": {
         "product": "Firefox for Android",
         "title": "Firefox for Android 23.0beta Beta",
@@ -158,7 +148,6 @@
     {
       "note": "\"Enable JavaScript\" preference checkbox has been removed and user-set values will be reset to the default",
       "tag": "Changed",
-      "sort_num": 1000,
       "fixed_in_release": {
         "product": "Firefox",
         "title": "Firefox 23.0beta Beta",
@@ -174,7 +163,6 @@
     {
       "note": "Updated Firefox Logo",
       "tag": "Changed",
-      "sort_num": 900,
       "fixed_in_release": {
         "product": "Firefox",
         "title": "Firefox 23.0beta Beta",
@@ -190,7 +178,6 @@
     {
       "note": "Improved about:memory's functional UI",
       "tag": "Changed",
-      "sort_num": 700,
       "fixed_in_release": {
         "product": "Firefox",
         "title": "Firefox 23.0a2 Aurora",
@@ -206,7 +193,6 @@
     {
       "note": "Simplified interface for notifications of plugin installation",
       "tag": "Changed",
-      "sort_num": 650,
       "fixed_in_release": {
         "product": "Firefox",
         "title": "Firefox 23.0a2 Aurora",
@@ -222,7 +208,6 @@
     {
       "note": "Users can now switch to a new search provider across the entire browser",
       "tag": "Changed",
-      "sort_num": 600,
       "fixed_in_release": {
         "product": "Firefox",
         "title": "Firefox 23.0a2 Aurora",
@@ -238,7 +223,6 @@
     {
       "note": "Enabled DXVA2 on Windows Vista+ to accelerate H.264 video decoding",
       "tag": "Changed",
-      "sort_num": 600,
       "fixed_in_release": {
         "product": "Firefox",
         "title": "Firefox 23.0a2 Aurora",
@@ -254,7 +238,6 @@
     {
       "note": "CSP policies using the standard syntax and semantics will now be enforced",
       "tag": "Changed",
-      "sort_num": -1,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -262,7 +245,6 @@
     {
       "note": "Awesomescreen remembers user entered search terms",
       "tag": "Changed",
-      "sort_num": -1,
       "fixed_in_release": {
         "product": "Firefox for Android",
         "title": "Firefox for Android 23.0beta Beta",
@@ -278,7 +260,6 @@
     {
       "note": "Replace fixed-ratio audio resampler in webrtc.org capture code with Speex resampler and eliminate pseudo-44000Hz rate",
       "tag": "Changed",
-      "sort_num": -50,
       "fixed_in_release": {
         "product": "Firefox",
         "title": "Firefox 24.0beta Beta",
@@ -294,7 +275,6 @@
     {
       "note": "&lt;input type='file'&gt; rendering improvements (see <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=838675\">bug 838675</a>)",
       "tag": "Changed",
-      "sort_num": -50,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -302,7 +282,6 @@
     {
       "note": "\"Load images automatically\" and Always show the tab bar\" checkboxes removed from preferences and reset to defaults. Want to hide one tab? Try <a href=\"https://addons.mozilla.org/en-us/firefox/addon/hide-tab-bar-with-one-tab/\">this add-on</a>.",
       "tag": "Changed",
-      "sort_num": -50,
       "fixed_in_release": {
         "product": "Firefox",
         "title": "Firefox 23.0a2 Aurora",
@@ -318,7 +297,6 @@
     {
       "note": "<blink>Dropped blink effect from text-decoration: blink; and completely removed &lt;blink&gt; element </blink>",
       "tag": "Developer",
-      "sort_num": 1000,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -326,7 +304,6 @@
     {
       "note": "New feature in toolbox: <a href=\"https://hacks.mozilla.org/2013/05/firefox-developer-tool-features-for-firefox-23/\">Network Monitor</a>",
       "tag": "Developer",
-      "sort_num": 800,
       "fixed_in_release": {
         "product": "Firefox",
         "title": "Firefox 23.0beta Beta",
@@ -342,7 +319,6 @@
     {
       "note": "Implemented a global browser console",
       "tag": "Developer",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Firefox",
         "title": "Firefox 23.0a2 Aurora",
@@ -358,7 +334,6 @@
     {
       "note": "Write more accessible pages on touch interfaces with new ARIA role for key buttons",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -366,7 +341,6 @@
     {
       "note": "Social share functionality",
       "tag": "Developer",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Firefox",
         "title": "Firefox 23.0a2 Aurora",
@@ -382,7 +356,6 @@
     {
       "note": "HTML5 &lt;input type=\"range\"&gt; form control implemented ",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -390,7 +363,6 @@
     {
       "note": "Added unprefixed requestAnimationFrame",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -398,7 +370,6 @@
     {
       "note": "Browser is unusable on the Nexus 10 tablet with Android 4.3",
       "tag": "Known",
-      "sort_num": 1000,
       "is_public": true,
       "is_known_issue": true,
       "bug": 900020
@@ -406,7 +377,6 @@
     {
       "note": "Some recent changes in the Google layout and CSS may cause issues in non-webkit browsers like Firefox",
       "tag": "Known",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": true,
       "bug": 668288
@@ -414,7 +384,6 @@
     {
       "note": "Font inflation may sometimes render inconsistent font sizes on certain pages",
       "tag": "Known",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": true,
       "bug": 707195
@@ -422,7 +391,6 @@
     {
       "note": "Firefox Sync will not behave as expected if multiple Firefox channels are installed on a single device ([761206][1])\r\n\r\n\r\n  [1]: http://bugzilla.mozilla.org/761206",
       "tag": "Known",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": true,
       "bug": 761206
@@ -430,7 +398,6 @@
     {
       "note": "'Video can't be played because the file is corrupt' on some HTC Gingerbread (Android 2.3) devices",
       "tag": "Known",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": true,
       "bug": 829454
@@ -438,7 +405,6 @@
     {
       "note": "Private Browsing - can't see URL bar text on variant of HTC Sense UI (Froyo)",
       "tag": "Known",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": true,
       "bug": 833351
@@ -446,7 +412,6 @@
     {
       "note": "Moving Firefox to background while playing a flash video in full screen mode and bring it back to view will freeze the app",
       "tag": "Known",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": true,
       "bug": 809055
@@ -454,7 +419,6 @@
     {
       "note": "Users on Android 4.3 will not be able to copy, cut, or select within the address bar",
       "tag": "Known",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": true,
       "bug": 889562
@@ -462,7 +426,6 @@
     {
       "note": "Startup crash on LG Optimus Black (LG P970) running GB",
       "tag": "Known",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": true,
       "bug": 891262
@@ -470,7 +433,6 @@
     {
       "note": "If you try to start Firefox using a locked profile, it will crash (see [573369][1])\r\n\r\n\r\n  [1]: http://bugzilla.mozilla.org/573369",
       "tag": "Known",
-      "sort_num": -100,
       "is_public": true,
       "is_known_issue": true,
       "bug": 573369

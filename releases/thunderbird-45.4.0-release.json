@@ -6,7 +6,6 @@
     {
       "note": "\"Apply columns to...\" did not honor special folders",
       "tag": "Fixed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 562266
@@ -14,7 +13,6 @@
     {
       "note": "Threading broken when editing message draft, due to loss of Message-ID",
       "tag": "Fixed",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 49.0beta Beta",
@@ -30,7 +28,6 @@
     {
       "note": "Mail saved as template copied In-Reply-To and References from original email.",
       "tag": "Fixed",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 49.0beta Beta",
@@ -46,7 +43,6 @@
     {
       "note": "Additional spaces were inserted when drafts were edited.",
       "tag": "Fixed",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 49.0beta Beta",
@@ -62,7 +58,6 @@
     {
       "note": "Recipient addresses were shown in red despite being inserted from the address book in some circumstances. ",
       "tag": "Fixed",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 49.0beta Beta",
@@ -78,7 +73,6 @@
     {
       "note": "Display name was truncated if no separating space before email address.",
       "tag": "Fixed",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 49.0beta Beta",

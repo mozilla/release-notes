@@ -6,7 +6,6 @@
     {
       "note": "Copy/Paste into plain text editor deletes newlines from quoted text  (<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1143570\">bug 1143570</a>)",
       "tag": "Fixed",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 38.1.0 Release",
@@ -22,7 +21,6 @@
     {
       "note": "Cross-posts won't send because Newsgroups: groups are separated with comma+space, not just comma  (<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1151448\">bug 1151448</a>)",
       "tag": "Fixed",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 38.1.0 Release",
@@ -38,7 +36,6 @@
     {
       "note": "Cannot send email through exchange server (NTLM)  (<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1174159\">bug 1174159</a>)",
       "tag": "Fixed",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 38.1.0 Release",
@@ -54,7 +51,6 @@
     {
       "note": "Doesn't display GB2312 encoded texts correctly for Chinese Characters  (<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1174580\">bug 1174580</a>)",
       "tag": "Fixed",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 38.1.0 Release",
@@ -70,7 +66,6 @@
     {
       "note": "OAuth2 authentication for GMail does not work when specified server is imap.gmail.com or smtp.gmail.com.  (<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1176773\">bug 1176773</a>)",
       "tag": "Fixed",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 38.1.0 Release",
@@ -86,7 +81,6 @@
     {
       "note": "Import from Outlook and Eudora disabled, code currently not working  (<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1175055\">bug 1175055</a>)",
       "tag": "Known",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": true,
       "bug": 1175055

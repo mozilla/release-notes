@@ -6,7 +6,6 @@
     {
       "note": "Sidebars button in browser chrome enables faster access to social, bookmark, & history sidebars",
       "tag": "New",
-      "sort_num": 900,
       "is_public": true,
       "is_known_issue": false,
       "bug": 960198
@@ -14,7 +13,6 @@
     {
       "note": "Mac OS X command-E sets find term to selected text",
       "tag": "New",
-      "sort_num": 700,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -22,7 +20,6 @@
     {
       "note": "Disallow calling WebIDL constructors as functions on the web",
       "tag": "Changed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -30,7 +27,6 @@
     {
       "note": "With the exception of those bundled inside an extension or ones that are [whitelisted][1], plugins will no longer be activated by default (see [blog post][2])\r\n\r\n\r\n  [1]: https://wiki.mozilla.org/Plugins/Firefox_Whitelist\r\n  [2]: https://blog.mozilla.org/security/2014/02/28/update-on-plugin-activation/",
       "tag": "Changed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 982101
@@ -38,7 +34,6 @@
     {
       "note": "Support for GStreamer 1.0  (see [806917][1] for build configuration)\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=806917",
       "tag": "Developer",
-      "sort_num": 100,
       "is_public": true,
       "is_known_issue": false,
       "bug": 806917
@@ -46,7 +41,6 @@
     {
       "note": "Fixes to box-shadow and other visual overflow (see <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=480888\">bug 480888</a>)",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 480888
@@ -54,7 +48,6 @@
     {
       "note": "Mute and volume available per window when using WebAudio",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -62,7 +55,6 @@
     {
       "note": "background-blend-mode enabled by default",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -70,7 +62,6 @@
     {
       "note": "Use of line-height allowed for &lt;input type=\"reset|button|submit\"&gt;",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -78,7 +69,6 @@
     {
       "note": "ES6 array and generator comprehensions implemented (read [docs][1] for more details)\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/Firefox/Releases/30",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -86,7 +76,6 @@
     {
       "note": "Error stack now contains column number",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -94,7 +83,6 @@
     {
       "note": "Support for alpha option in canvas context options (feature [description][1])\r\n\r\n\r\n  [1]: http://blogs.adobe.com/webplatform/2014/04/01/new-canvas-features/",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 982480
@@ -102,7 +90,6 @@
     {
       "note": "Insecure NTLM (pre-NTLMv2) authentication disabled (see [828183][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=828183",
       "tag": "Fixed",
-      "sort_num": 500,
       "is_public": true,
       "is_known_issue": false,
       "bug": 828183
@@ -110,7 +97,6 @@
     {
       "note": "Various <a href=\"https://www.mozilla.org/security/known-vulnerabilities/firefox.html\">security fixes</a>",
       "tag": "Fixed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -118,7 +104,6 @@
     {
       "note": "Ignore autocomplete=\"off\" when offering to save passwords via the password manager (see [956906][1]) \r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=956906",
       "tag": "Fixed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 956906
@@ -126,7 +111,6 @@
     {
       "note": "TypedArrays don't support new named properties (see [695438][1]) \r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=695438",
       "tag": "Fixed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 695438
@@ -134,7 +118,6 @@
     {
       "note": "Mac OS X: cmd-L no longer opens a new window when no window is available ([1008793][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1008793",
       "tag": "Known",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Firefox",
         "title": "Firefox 32.0a2 Aurora",
@@ -150,7 +133,6 @@
     {
       "note": "Errors loading scripts inside eval scripts with Developer Tools open ([998908][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=998908",
       "tag": "Known",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Firefox",
         "title": "Firefox 31.0beta Beta",
@@ -166,7 +148,6 @@
     {
       "note": "Without affecting security, after restoring your session, Extended Validation Certificates might not display (See <a href=\"http://bugzilla.mozilla.org/show_bug.cgi?id=995801\">995801</a>)",
       "tag": "Known",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Firefox",
         "title": "Firefox 31.0a2 Aurora",
@@ -182,7 +163,6 @@
     {
       "note": "Slow shut downs lead to 'Firefox is already running' warning (see [966469][1] and [985655][2])\r\n\r\n\r\n  [1]: http://bugzilla.mozilla.org/966469\r\n  [2]: http://bugzilla.mozilla.org/985655",
       "tag": "Known",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": true,
       "bug": 966469
@@ -190,7 +170,6 @@
     {
       "note": "Mac OS X and Windows: Citrix Receiver no longer works. As a workaround, mark the plugin as *Always Enable* in the addon manager ([1025627][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1025627",
       "tag": "Known",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": true,
       "bug": 1025627

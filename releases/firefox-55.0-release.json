@@ -6,7 +6,6 @@
     {
       "note": "Launched Windows support for [WebVR][1], bringing immersive experiences to the web. See examples and try working demos at [Mozilla VR][2].\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/WebVR_API\r\n  [2]: https://mozvr.com/",
       "tag": "New",
-      "sort_num": 10000,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1218482
@@ -14,7 +13,6 @@
     {
       "note": "Added options that let users optimize recent performance improvements\r\n\r\n - Setting to enable Hardware VP9 acceleration on Windows 10 Anniversary Edition for better battery life and lower CPU usage while watching videos \r\n - Setting to [modify the number of concurrent content processes][1] for faster page loading and more responsive tab switching\r\n\r\n\r\n  [1]: https://support.mozilla.org/en-US/kb/performance-settings",
       "tag": "New",
-      "sort_num": 1000,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1378508
@@ -22,7 +20,6 @@
     {
       "note": "Simplified installation process with a streamlined Windows stub installer\r\n\r\n  - Firefox for Windows 64-bit is now installed by default on 64-bit systems with at least 2GB of RAM\r\n  - [Full installers][1] with advanced installation options are still available \r\n\r\n[1]: https://www.mozilla.org/firefox/all/",
       "tag": "New",
-      "sort_num": 999,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1365998
@@ -30,7 +27,6 @@
     {
       "note": "Improved address bar functionality\r\n\r\n - Search with any installed one-click search engine directly from the address bar\r\n - Search suggestions appear by default \r\n - When entering a hostname (like pinterest.com) in the URL bar, Firefox resolves to the secure version of the site ([https://www.pinterest.com][1]) instead of the insecure version ([http://www.pinterest.com][2]) when possible\r\n\r\n\r\n<!-- 1344928,1344929,1341350 -->\r\n\r\n\r\n  [1]: https://www.pinterest.com\r\n  [2]: http://www.pinterest.com",
       "tag": "New",
-      "sort_num": 998,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1344928
@@ -38,7 +34,6 @@
     {
       "note": "Updated [Sidebar for bookmarks, history, and synced tabs][1] so it can appear at the right edge of the window as well as the left\r\n\r\n[1]: https://support.mozilla.org/kb/firefox-sidebar-access-bookmarks-history-social\r\n",
       "tag": "New",
-      "sort_num": 900,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1355331
@@ -46,7 +41,6 @@
     {
       "note": "Added support for stereo microphones with WebRTC",
       "tag": "New",
-      "sort_num": 700,
       "is_public": true,
       "is_known_issue": false,
       "bug": 971528
@@ -54,7 +48,6 @@
     {
       "note": "Pages can be simplified before printing from within Print Preview",
       "tag": "New",
-      "sort_num": 400,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1362526
@@ -62,7 +55,6 @@
     {
       "note": "Updated Firefox for OSX and macOS to allow users to assign [custom keyboard shortcuts][1] to Firefox menu items via System Preferences \r\n\r\n\r\n  [1]: https://support.mozilla.org/en-US/kb/keyboard-shortcuts-perform-firefox-tasks-quickly",
       "tag": "New",
-      "sort_num": 300,
       "is_public": true,
       "is_known_issue": false,
       "bug": 429824
@@ -70,7 +62,6 @@
     {
       "note": "Browsing sessions with a high number of tabs are now restored in an instant",
       "tag": "New",
-      "sort_num": 2,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1345090
@@ -78,7 +69,6 @@
     {
       "note": "Make [screenshots][1] of webpages, and save them locally or upload them to the cloud. This feature will undergo A/B testing and will not be visible for some users.\r\n\r\n[1]: https://screenshots.firefox.com/",
       "tag": "New",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1356243
@@ -86,7 +76,6 @@
     {
       "note": "Added Belarusian (be) locale",
       "tag": "New",
-      "sort_num": -1,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1359321
@@ -94,7 +83,6 @@
     {
       "note": "Modernized application update UI to be less intrusive and more aligned with the rest of the browser.  Only users who have not restarted their browser 8 days after downloading an update or users who opted out of automatic updates will see this change.",
       "tag": "Changed",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Firefox",
         "title": "Firefox 55.0a1 Nightly",
@@ -110,7 +98,6 @@
     {
       "note": "Firefox does not support downgrades, even though this may have worked in past versions. Users who install Firefox 55+ and later downgrade to an earlier version may experience issues with Firefox. \r\n",
       "tag": "Changed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 977177
@@ -118,7 +105,6 @@
     {
       "note": "Made the Adobe Flash plugin click-to-activate by default and allowed only on http:// and https:// URL schemes. (This change will not be visible to all users immediately. For more information see the [Firefox plugin roadmap][1])\r\n\r\n\r\n[1]:https://developer.mozilla.org/docs/Plugins/Roadmap\r\n\r\n",
       "tag": "Changed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1317856
@@ -126,7 +112,6 @@
     {
       "note": "Sites that don\u2019t use SSL can no longer access Geolocation APIs to determine a user\u2019s physical location\r\n",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1072859
@@ -134,7 +119,6 @@
     {
       "note": "Various [security fixes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/en-US/security/known-vulnerabilities/firefox/#firefox55",
       "tag": "Fixed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": null

@@ -6,7 +6,6 @@
     {
       "note": "Mixed content blocking enabled to protects users from man-in-the-middle attacks and eavesdroppers on HTTPS pages (<a href=\"https://blog.mozilla.org/security/2013/05/16/mixed-content-blocking-in-firefox-aurora/\">learn more</a>)",
       "tag": "New",
-      "sort_num": 1000,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -14,7 +13,6 @@
     {
       "note": "Options panel created for Web Developer Toolbox",
       "tag": "New",
-      "sort_num": -50,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -22,7 +20,6 @@
     {
       "note": "\"Enable JavaScript\" preference checkbox has been removed and user-set values will be reset to the default",
       "tag": "Changed",
-      "sort_num": 1000,
       "fixed_in_release": {
         "product": "Firefox",
         "title": "Firefox 23.0beta Beta",
@@ -38,7 +35,6 @@
     {
       "note": "Updated Firefox Logo",
       "tag": "Changed",
-      "sort_num": 900,
       "fixed_in_release": {
         "product": "Firefox",
         "title": "Firefox 23.0beta Beta",
@@ -54,7 +50,6 @@
     {
       "note": "Improved about:memory's functional UI",
       "tag": "Changed",
-      "sort_num": 700,
       "fixed_in_release": {
         "product": "Firefox",
         "title": "Firefox 23.0a2 Aurora",
@@ -70,7 +65,6 @@
     {
       "note": "Simplified interface for notifications of plugin installation",
       "tag": "Changed",
-      "sort_num": 650,
       "fixed_in_release": {
         "product": "Firefox",
         "title": "Firefox 23.0a2 Aurora",
@@ -86,7 +80,6 @@
     {
       "note": "Users can now switch to a new search provider across the entire browser",
       "tag": "Changed",
-      "sort_num": 600,
       "fixed_in_release": {
         "product": "Firefox",
         "title": "Firefox 23.0a2 Aurora",
@@ -102,7 +95,6 @@
     {
       "note": "Enabled DXVA2 on Windows Vista+ to accelerate H.264 video decoding",
       "tag": "Changed",
-      "sort_num": 600,
       "fixed_in_release": {
         "product": "Firefox",
         "title": "Firefox 23.0a2 Aurora",
@@ -118,7 +110,6 @@
     {
       "note": "CSP policies using the standard syntax and semantics will now be enforced",
       "tag": "Changed",
-      "sort_num": -1,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -126,7 +117,6 @@
     {
       "note": "Replace fixed-ratio audio resampler in webrtc.org capture code with Speex resampler and eliminate pseudo-44000Hz rate",
       "tag": "Changed",
-      "sort_num": -50,
       "fixed_in_release": {
         "product": "Firefox",
         "title": "Firefox 24.0beta Beta",
@@ -142,7 +132,6 @@
     {
       "note": "&lt;input type='file'&gt; rendering improvements (see <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=838675\">bug 838675</a>)",
       "tag": "Changed",
-      "sort_num": -50,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -150,7 +139,6 @@
     {
       "note": "\"Load images automatically\" and Always show the tab bar\" checkboxes removed from preferences and reset to defaults. Want to hide one tab? Try <a href=\"https://addons.mozilla.org/en-us/firefox/addon/hide-tab-bar-with-one-tab/\">this add-on</a>.",
       "tag": "Changed",
-      "sort_num": -50,
       "fixed_in_release": {
         "product": "Firefox",
         "title": "Firefox 23.0a2 Aurora",
@@ -166,7 +154,6 @@
     {
       "note": "<blink>Dropped blink effect from text-decoration: blink; and completely removed &lt;blink&gt; element </blink>",
       "tag": "Developer",
-      "sort_num": 1000,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -174,7 +161,6 @@
     {
       "note": "New feature in toolbox: <a href=\"https://hacks.mozilla.org/2013/05/firefox-developer-tool-features-for-firefox-23/\">Network Monitor</a>",
       "tag": "Developer",
-      "sort_num": 800,
       "fixed_in_release": {
         "product": "Firefox",
         "title": "Firefox 23.0beta Beta",
@@ -190,7 +176,6 @@
     {
       "note": "Implemented a global browser console",
       "tag": "Developer",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Firefox",
         "title": "Firefox 23.0a2 Aurora",
@@ -206,7 +191,6 @@
     {
       "note": "Write more accessible pages on touch interfaces with new ARIA role for key buttons",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -214,7 +198,6 @@
     {
       "note": "Social share functionality",
       "tag": "Developer",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Firefox",
         "title": "Firefox 23.0a2 Aurora",
@@ -230,7 +213,6 @@
     {
       "note": "HTML5 &lt;input type=\"range\"&gt; form control implemented ",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -238,7 +220,6 @@
     {
       "note": "Added unprefixed requestAnimationFrame",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -246,7 +227,6 @@
     {
       "note": "Various <a href=\"https://www.mozilla.org/security/known-vulnerabilities/firefox.html\">security fixes</a>",
       "tag": "Fixed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -254,7 +234,6 @@
     {
       "note": "If you try to start Firefox using a locked profile, it will crash (see [573369][1])\r\n\r\n\r\n  [1]: http://bugzilla.mozilla.org/573369",
       "tag": "Known",
-      "sort_num": -100,
       "is_public": true,
       "is_known_issue": true,
       "bug": 573369

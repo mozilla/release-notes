@@ -6,7 +6,6 @@
     {
       "note": "Google Oauth setup can sometimes not progress to the next step",
       "tag": "Fixed",
-      "sort_num": 10,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 54.0beta Beta",
@@ -22,7 +21,6 @@
     {
       "note": "Background images not working and other issues related to embedded images when composing email ",
       "tag": "Fixed",
-      "sort_num": 5,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 53.0beta Beta",
@@ -38,7 +36,6 @@
     {
       "note": "Various [security fixes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/en-US/security/known-vulnerabilities/thunderbird/#thunderbird52.1",
       "tag": "Fixed",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 52.1.0 Release",
@@ -54,7 +51,6 @@
     {
       "note": "Large number of blank pages being printed under certain circumstances. **To fix this problem,** remove all printer specific preferences in the configuration editor.",
       "tag": "Known",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": true,
       "bug": 1353625
@@ -62,7 +58,6 @@
     {
       "note": "Large attachments may not be shown or saved correctly if the message is stored in an IMAP folder which is not synchronized for offline use. **Workaround:** Set preference browser.cache.memory.max_entry_size to the value of -1 (unlimited) and create integer preference browser.cache.memory.capacity with the value of 200000 (200 MB, 25 MB per message).",
       "tag": "Known",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": true,
       "bug": 1355350
@@ -70,7 +65,6 @@
     {
       "note": "Crash due to incompatibility with McAfee Anti-SPAM add-on. **Workaround:** Start in safe mode and disable McAfee Anti-Spam Extension",
       "tag": "Known",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": true,
       "bug": 1281610
@@ -78,7 +72,6 @@
     {
       "note": "Crash when compacting IMAP folder",
       "tag": "Known",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": true,
       "bug": 1158578
@@ -86,7 +79,6 @@
     {
       "note": "Some attachments can't be opened or saved if the message body is empty",
       "tag": "Known",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": true,
       "bug": 1361422
@@ -94,7 +86,6 @@
     {
       "note": "Unable to load full message via POP if message was downloaded partially (or only headers) before",
       "tag": "Known",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": true,
       "bug": 1361020

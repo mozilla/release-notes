@@ -6,7 +6,6 @@
     {
       "note": "New tab-based preferences",
       "tag": "New",
-      "sort_num": 100,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1014208
@@ -14,7 +13,6 @@
     {
       "note": "[Ruby annotation][1] support\r\n\r\n\r\n  [1]: https://hacks.mozilla.org/2015/03/ruby-support-in-firefox-developer-edition-38/",
       "tag": "New",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 33339
@@ -22,7 +20,6 @@
     {
       "note": "Base for the next ESR release.\r\n",
       "tag": "New",
-      "sort_num": -1,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -30,7 +27,6 @@
     {
       "note": "autocomplete=off is no longer supported for username/password fields",
       "tag": "Changed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1025703
@@ -38,7 +34,6 @@
     {
       "note": "URL parser avoids doing percent encoding when setting the Fragment part of the URL, and percent decoding when getting the Fragment in line with the URL spec",
       "tag": "Changed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1093611
@@ -46,7 +41,6 @@
     {
       "note": "RegExp.prototype.source now returns \"(?:)\" instead of the empty string for empty regular expressions",
       "tag": "Changed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1130798
@@ -54,7 +48,6 @@
     {
       "note": "Improved page load times via speculative connection warmup",
       "tag": "Changed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1009122
@@ -62,7 +55,6 @@
     {
       "note": "WebSocket now available in Web Workers",
       "tag": "HTML5",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 504553
@@ -70,7 +62,6 @@
     {
       "note": "[BroadcastChannel API implemented][1]\r\n\r\n[1]: https://hacks.mozilla.org/2015/02/broadcastchannel-api-in-firefox-38/",
       "tag": "HTML5",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 966439
@@ -78,7 +69,6 @@
     {
       "note": "Implemented srcset attribute and &lt;picture&gt; element for responsive images",
       "tag": "HTML5",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1017875
@@ -86,7 +76,6 @@
     {
       "note": "Implemented DOM3 Events KeyboardEvent.code",
       "tag": "HTML5",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1126673
@@ -94,7 +83,6 @@
     {
       "note": "Mac OS X: Implemented a subset of the Media Source Extensions (MSE) API to allow native HTML5 playback on YouTube",
       "tag": "HTML5",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 778617
@@ -102,7 +90,6 @@
     {
       "note": "Implemented [Encrypted Media Extensions (EME)][1] API to support encrypted HTML5 video/audio playback (Windows Vista or later only)\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/enable-drm",
       "tag": "HTML5",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1015800
@@ -110,7 +97,6 @@
     {
       "note": "Automatically download [Adobe Primetime Content Decryption Module (CDM)][1] for DRM playback through EME (Windows Vista or later only)\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/enable-drm",
       "tag": "HTML5",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1015800
@@ -118,7 +104,6 @@
     {
       "note": "Optimized-out variables are now visible in Debugger UI",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 941287
@@ -126,7 +111,6 @@
     {
       "note": "XMLHttpRequest logs in the web console are now visually labelled and can be filtered separately from regular network requests",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 972655
@@ -134,7 +118,6 @@
     {
       "note": "WebRTC now has multistream and renegotiation support",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1095218
@@ -142,7 +125,6 @@
     {
       "note": "`copy` command added to console",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1005870
@@ -150,7 +132,6 @@
     {
       "note": "Various [security fixes][1]\r\n\r\n[1]:https://www.mozilla.org/security/known-vulnerabilities/firefox/#firefox38",
       "tag": "Fixed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -158,7 +139,6 @@
     {
       "note": "Responsive images do not update when the enclosing viewport changes",
       "tag": "Known",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": true,
       "bug": 1135812

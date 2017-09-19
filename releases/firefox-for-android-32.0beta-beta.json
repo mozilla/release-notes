@@ -6,7 +6,6 @@
     {
       "note": "Switch between any of Firefox for Android's 55 supported languages without leaving the browser",
       "tag": "New",
-      "sort_num": 2200,
       "is_public": true,
       "is_known_issue": false,
       "bug": 917480
@@ -14,7 +13,6 @@
     {
       "note": "Clear History control added to the history panel",
       "tag": "New",
-      "sort_num": 2000,
       "is_public": true,
       "is_known_issue": false,
       "bug": 998009
@@ -22,7 +20,6 @@
     {
       "note": "[Gamepad API][1] finalized and enabled\r\n\r\n[1]: https://hacks.mozilla.org/2013/12/the-gamepad-api/",
       "tag": "New",
-      "sort_num": 1800,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -30,7 +27,6 @@
     {
       "note": "[New HTTP cache][1] provides improved performance including crash recovery\r\n\r\n  [1]: http://www.janbambas.cz/new-firefox-http-cache-enabled/",
       "tag": "New",
-      "sort_num": 100,
       "is_public": true,
       "is_known_issue": false,
       "bug": 913806
@@ -38,7 +34,6 @@
     {
       "note": "Integration of generational garbage collection",
       "tag": "New",
-      "sort_num": 80,
       "is_public": true,
       "is_known_issue": false,
       "bug": 619558
@@ -46,7 +41,6 @@
     {
       "note": " Support URI autocomplete on Swype (and other composition focused) keyboards",
       "tag": "New",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 994472
@@ -54,7 +48,6 @@
     {
       "note": "Android 2.2 and ARMv6 processor chipset no longer supported",
       "tag": "Changed",
-      "sort_num": 1900,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1040319
@@ -62,7 +55,6 @@
     {
       "note": "Removed and turned off trust bit for [some 1024-bit root certificates][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/NSS_3.16.3_release_notes#Notable_Changes_in_NSS_3.16.3",
       "tag": "Changed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1029561
@@ -70,7 +62,6 @@
     {
       "note": "CSS [position:sticky][1] enabled by default\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/position",
       "tag": "HTML5",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 916315
@@ -78,7 +69,6 @@
     {
       "note": "mix-blend-mode enabled by default ",
       "tag": "HTML5",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 952643
@@ -86,7 +76,6 @@
     {
       "note": "New Array built-in: [Array.from()][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/from",
       "tag": "HTML5",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 904723
@@ -94,7 +83,6 @@
     {
       "note": "[navigator.languages property][1] and [languagechange event][1] implemented\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/NavigatorLanguage.languages",
       "tag": "HTML5",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 889335
@@ -102,7 +90,6 @@
     {
       "note": "Vibration API updated to latest W3C spec",
       "tag": "HTML5",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1014581
@@ -110,7 +97,6 @@
     {
       "note": "[CSS box-decoration-break replaces -moz-background-inline-policy][1]\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/-moz-background-inline-policy",
       "tag": "HTML5",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1006326
@@ -118,7 +104,6 @@
     {
       "note": "Video controls are displayed in the middle of the video ([1005031][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1005031",
       "tag": "Known",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": true,
       "bug": 1005031
@@ -126,7 +111,6 @@
     {
       "note": "Does not start on Android L preview (see [1030897][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1030897",
       "tag": "Known",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": true,
       "bug": 1030897

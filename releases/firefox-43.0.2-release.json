@@ -6,7 +6,6 @@
     {
       "note": "Reference: Release notes for [Firefox 43.0.1][1]\r\n\r\n  [1]: /firefox/43.0.1/releasenotes/",
       "tag": "",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -14,7 +13,6 @@
     {
       "note": "Use a SHA-256 signing certificate for Windows builds, to meet new signing requirements",
       "tag": "Changed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1205843
@@ -22,7 +20,6 @@
     {
       "note": "Various stability and [security fixes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/en-US/security/known-vulnerabilities/firefox/#firefox43.0.2",
       "tag": "Fixed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1158489

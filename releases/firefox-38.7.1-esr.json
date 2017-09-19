@@ -6,7 +6,6 @@
     {
       "note": "Disabled Graphite font shaping library",
       "tag": "Changed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1255731
@@ -14,7 +13,6 @@
     {
       "note": "Loading from history can show the wrong url in the location bar ([Bug 1256194][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1256194",
       "tag": "Fixed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1256194

@@ -6,7 +6,6 @@
     {
       "note": "Fix issue which could lead to the removal of stored passwords under certain circumstances ([1242176][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1242176",
       "tag": "Fixed",
-      "sort_num": 100,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1242176
@@ -14,7 +13,6 @@
     {
       "note": "Allows spaces in cookie names ([1244505][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1244505",
       "tag": "Fixed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1244505
@@ -22,7 +20,6 @@
     {
       "note": "Require NSS 3.21 ([1244069][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1244069",
       "tag": "Fixed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1244069
@@ -30,7 +27,6 @@
     {
       "note": "Fix a crash in cache networking ([1244076][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1244076",
       "tag": "Fixed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1244076
@@ -38,7 +34,6 @@
     {
       "note": "Fix using WebSockets in service worker controlled pages ([1243942][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1243942",
       "tag": "Fixed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1243942
@@ -46,7 +41,6 @@
     {
       "note": "Disable opus/vorbis audio with H.264 ([1245696][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1245696",
       "tag": "Fixed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1245696
@@ -54,7 +48,6 @@
     {
       "note": "Ship the Gecko SDK ([1243740][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1243740",
       "tag": "Fixed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1243740
@@ -62,7 +55,6 @@
     {
       "note": "Fix for graphics startup crash (GNU/Linux) ([1222171][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1222171",
       "tag": "Fixed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1222171

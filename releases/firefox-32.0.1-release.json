@@ -6,7 +6,6 @@
     {
       "note": "32.0.1 - Stability issues for computers with multiple graphics cards",
       "tag": "Fixed",
-      "sort_num": 11000,
       "fixed_in_release": {
         "product": "Firefox",
         "title": "Firefox 32.0.1 Release",
@@ -22,7 +21,6 @@
     {
       "note": "32.0.1 - Mixed content icon may be incorrectly displayed instead of lock icon for SSL sites",
       "tag": "Fixed",
-      "sort_num": 10500,
       "fixed_in_release": {
         "product": "Firefox",
         "title": "Firefox 32.0.1 Release",
@@ -38,7 +36,6 @@
     {
       "note": "32.0.1 - WebRTC: setRemoteDescription() silently fails if no success callback is specified",
       "tag": "Fixed",
-      "sort_num": 10000,
       "fixed_in_release": {
         "product": "Firefox",
         "title": "Firefox 32.0.1 Release",
@@ -54,7 +51,6 @@
     {
       "note": "[New HTTP cache][1] provides improved performance including crash recovery\r\n\r\n  [1]: http://www.janbambas.cz/new-firefox-http-cache-enabled/",
       "tag": "New",
-      "sort_num": 100,
       "is_public": true,
       "is_known_issue": false,
       "bug": 913806
@@ -62,7 +58,6 @@
     {
       "note": "Integration of generational garbage collection",
       "tag": "New",
-      "sort_num": 80,
       "is_public": true,
       "is_known_issue": false,
       "bug": 619558
@@ -70,7 +65,6 @@
     {
       "note": "[Public key pinning support][1] enabled\r\n\r\n\r\n  [1]: https://wiki.mozilla.org/SecurityEngineering/Public_Key_Pinning",
       "tag": "New",
-      "sort_num": 10,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1004350
@@ -78,7 +72,6 @@
     {
       "note": "View historical use information for logins stored in password manager",
       "tag": "New",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Firefox",
         "title": "Firefox 30.0a2 Aurora",
@@ -94,7 +87,6 @@
     {
       "note": "Display the number of found items in the find toolbar ",
       "tag": "New",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 257061
@@ -102,7 +94,6 @@
     {
       "note": "Easier back, forward, reload, and bookmarking through the [context menu][1]\r\n\r\n[1]: http://msujaws.wordpress.com/2014/05/27/experimenting-with-context-menus/",
       "tag": "New",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1000513
@@ -110,7 +101,6 @@
     {
       "note": "Lower Sorbian [dsb] locale added",
       "tag": "New",
-      "sort_num": -1,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -118,7 +108,6 @@
     {
       "note": "Removed and turned off trust bit for [some 1024-bit root certificates][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/NSS_3.16.3_release_notes#Notable_Changes_in_NSS_3.16.3",
       "tag": "Changed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1029561
@@ -126,7 +115,6 @@
     {
       "note": "Performance improvements to Password Manager and Add-on Manager",
       "tag": "Changed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -134,7 +122,6 @@
     {
       "note": "drawFocusIfNeeded enabled by default",
       "tag": "HTML5",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1004579
@@ -142,7 +129,6 @@
     {
       "note": "ECMAScript 6 built-in method [Array#copyWithin implemented][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/Firefox/Releases/32#JavaScript",
       "tag": "HTML5",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 934423
@@ -150,7 +136,6 @@
     {
       "note": "CSS [position:sticky][1] enabled by default\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/position",
       "tag": "HTML5",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 916315
@@ -158,7 +143,6 @@
     {
       "note": "mix-blend-mode enabled by default ",
       "tag": "HTML5",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 952643
@@ -166,7 +150,6 @@
     {
       "note": "New Array built-in: [Array.from()][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/from",
       "tag": "HTML5",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 904723
@@ -174,7 +157,6 @@
     {
       "note": "[navigator.languages property][1] and [languagechange event][1] implemented\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/NavigatorLanguage.languages",
       "tag": "HTML5",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 889335
@@ -182,7 +164,6 @@
     {
       "note": "Vibration API updated to latest W3C spec",
       "tag": "HTML5",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1014581
@@ -190,7 +171,6 @@
     {
       "note": "[CSS box-decoration-break replaces -moz-background-inline-policy][1]\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/-moz-background-inline-policy",
       "tag": "HTML5",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1006326
@@ -198,7 +178,6 @@
     {
       "note": "[box-decoration-break][1] enabled by default\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/box-decoration-break",
       "tag": "HTML5",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1006326
@@ -206,7 +185,6 @@
     {
       "note": "HiDPI support in Developer Tools UI",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 837188
@@ -214,7 +192,6 @@
     {
       "note": "Inspector button moved to the top left",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 991810
@@ -222,7 +199,6 @@
     {
       "note": "Hidden nodes displayed differently in the markup-view",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 911209
@@ -230,7 +206,6 @@
     {
       "note": "New [Web Audio Editor][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Web_Audio_Editor",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 980501
@@ -238,7 +213,6 @@
     {
       "note": "[Code completion][1] and [inline documentation][1] added to Scratchpad\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Scratchpad#Code_completion_and_inline_documentation",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -246,7 +220,6 @@
     {
       "note": "Various <a href=\"https://www.mozilla.org/security/known-vulnerabilities/firefox.html\">security fixes</a>",
       "tag": "Fixed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -254,7 +227,6 @@
     {
       "note": "Mac OS X: cmd-L does not open a new window when no window is available",
       "tag": "Fixed",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Firefox",
         "title": "Firefox 32.0beta Beta",
@@ -270,7 +242,6 @@
     {
       "note": "Text Rendering Issues on Windows 7 with Platform Update KB2670838 (MSIE 10 Prerequisite) or on Windows 8.1",
       "tag": "Fixed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 812695
@@ -278,7 +249,6 @@
     {
       "note": "Assistive technologies may cause performance issues on Windows XP",
       "tag": "Known",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": true,
       "bug": 1045518

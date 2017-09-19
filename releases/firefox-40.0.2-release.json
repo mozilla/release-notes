@@ -6,7 +6,6 @@
     {
       "note": "Reference: Release notes for [Firefox 40.0][1] \r\n\r\n[1]: https://www.mozilla.com/en-US/firefox/40.0/releasenotes/",
       "tag": "",
-      "sort_num": 10000,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -14,7 +13,6 @@
     {
       "note": "Enabled API allowing Windows 10 users to open settings dialog ([1193196][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1193196",
       "tag": "New",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1193196
@@ -22,7 +20,6 @@
     {
       "note": "mozalloc.lib was missing from the xulrunner package ([1168291][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1168291",
       "tag": "Fixed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1168291
@@ -30,7 +27,6 @@
     {
       "note": "Fix a startup crash with some combination of hardware and drivers ([1160295][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1160295",
       "tag": "Fixed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1160295

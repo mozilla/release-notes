@@ -6,7 +6,6 @@
     {
       "note": "Hardware acceleration is now disabled by default to avoid crashing Thunderbird",
       "tag": "Changed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1131879
@@ -14,7 +13,6 @@
     {
       "note": "A few bugs have been fixed to avoid crashing Thunderbird",
       "tag": "Fixed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -22,7 +20,6 @@
     {
       "note": "The \"maildir\" storage type can no longer be set through the UI due to various issues. Power users can still set the storage type using the config editor.",
       "tag": "Known",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": true,
       "bug": 1193958

@@ -6,7 +6,6 @@
     {
       "note": "Reference link to [Firefox 45.0.1][1] release notes \r\n[1]: https://www.mozilla.org/en-US/firefox/android/45.0.1/releasenotes/",
       "tag": "",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -14,7 +13,6 @@
     {
       "note": "Fix a regression impacting some specific uploads ([1255735][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1255735",
       "tag": "Fixed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1255735
@@ -22,7 +20,6 @@
     {
       "note": "Fix a crash impacting the video playback with Media Source Extension ([1258562][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1258562",
       "tag": "Fixed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1258562
@@ -30,7 +27,6 @@
     {
       "note": "Fix a web compatibility regression impacting the *srcset* attribute of the *image* tag ([1259482][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1259482",
       "tag": "Fixed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1259482
@@ -38,7 +34,6 @@
     {
       "note": "Fix an issue impacting the cookie header when third-party cookies are blocked ([1257861][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1257861",
       "tag": "Fixed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1257861

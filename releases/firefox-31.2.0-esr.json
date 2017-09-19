@@ -6,7 +6,6 @@
     {
       "note": "Security fixes can be found <a href=\"https://www.mozilla.org/security/known-vulnerabilities/firefoxESR.html\">here</a>",
       "tag": "Fixed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -14,7 +13,6 @@
     {
       "note": "Importing an RSA private key fails if p < q (see  <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1049435\"> bug 1049435</a>)",
       "tag": "Fixed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1049435
@@ -22,7 +20,6 @@
     {
       "note": "Invalid certificate issue with mozilla::pkix (see  <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1042889\"> bug 1042889 </a>)",
       "tag": "Fixed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1042889

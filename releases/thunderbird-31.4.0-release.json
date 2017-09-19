@@ -6,7 +6,6 @@
     {
       "note": "The previous issues with jp mac builds have now been fixed, and Thunderbird will no longer need to be run in 32-bit mode.",
       "tag": "Fixed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1045958
@@ -14,7 +13,6 @@
     {
       "note": "Installing extensions within Thunderbird no longer requires download and installing as a file (<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1081190\">Bug 1081190</a>)",
       "tag": "Fixed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1081190
@@ -22,7 +20,6 @@
     {
       "note": "Security fixes can be found <a href=\"http://www.mozilla.org/security/known-vulnerabilities/thunderbird.html#thunderbird31.4.0\">here</a>",
       "tag": "Fixed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -30,7 +27,6 @@
     {
       "note": "Autocomplete suggestion sort order was adjusted to prioritize entries where the search string matches the beginning of a word (<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=970456\">Bug 970456</a>)",
       "tag": "Fixed",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 31.4.0 Release",

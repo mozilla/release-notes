@@ -6,7 +6,6 @@
     {
       "note": "Updated Firefox Login Manager to allow HTTPS pages to use saved HTTP logins. It\u2019s one more way Firefox is supporting [Let\u2019s Encrypt][1] and [helping users transition to a more secure web][2].\r\n\r\n\r\n  [1]: https://letsencrypt.org/\r\n  [2]: https://matthew.noorenberghe.com/blog/2016/08/filling-saved-http-logins-over-https-same-domain",
       "tag": "New",
-      "sort_num": 98,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1127579
@@ -14,7 +13,6 @@
     {
       "note": "Added features to Reader Mode that make it easier on the eyes and the ears\r\n\r\n - Controls that allow users to adjust the width and line spacing of\r\n   text \r\n - Narrate, which reads the content of a page out loud\r\n\r\n",
       "tag": "New",
-      "sort_num": 95,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1151200
@@ -22,7 +20,6 @@
     {
       "note": "Improved video performance for users on systems that support SSSE3 without hardware acceleration",
       "tag": "New",
-      "sort_num": 92,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1266491
@@ -30,7 +27,6 @@
     {
       "note": "HTML5 audio and video improvements\r\n\r\n - Files can now be looped through the built-in controls in the context menu\r\n - Play audio and video at 1.25\u00d7 speed through the context menu",
       "tag": "New",
-      "sort_num": 90,
       "is_public": true,
       "is_known_issue": false,
       "bug": 862399
@@ -38,7 +34,6 @@
     {
       "note": "Enhancements for Mac users \r\n\r\n - Improved performance on OS X systems without hardware acceleration\r\n - Improved appearance of anti-aliased OS X fonts\r\n\r\n",
       "tag": "New",
-      "sort_num": 89,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1263053
@@ -46,7 +41,6 @@
     {
       "note": "Reader Mode can now read articles out loud",
       "tag": "New",
-      "sort_num": 85,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1166365
@@ -54,7 +48,6 @@
     {
       "note": "Improved appearance of anti-aliased OS X fonts",
       "tag": "New",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1267363
@@ -62,7 +55,6 @@
     {
       "note": "Support of Widevine CDM through the EME API under GNU/Linux",
       "tag": "New",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1265235
@@ -70,7 +62,6 @@
     {
       "note": "Ended Firefox for Mac support for [OS X 10.6, 10.7, and 10.8][1]. \r\n\r\n\r\n  [1]: https://blog.mozilla.org/futurereleases/2016/04/29/update-on-firefox-support-for-os-x/",
       "tag": "Changed",
-      "sort_num": 50,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1269811
@@ -78,7 +69,6 @@
     {
       "note": "Ended Firefox for Windows support for SSE processors ",
       "tag": "Changed",
-      "sort_num": 48,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1271755
@@ -86,7 +76,6 @@
     {
       "note": "Removed [Firefox Hello][1]\r\n\r\n\r\n  [1]: https://support.mozilla.org/en-US/kb/hello-status",
       "tag": "Changed",
-      "sort_num": 45,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1287827
@@ -94,7 +83,6 @@
     {
       "note": "Re-enabled the default for [Graphite2 font shaping][1] \r\n\r\n\r\n  [1]: http://graphite.sil.org/",
       "tag": "Changed",
-      "sort_num": 40,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1271262
@@ -102,7 +90,6 @@
     {
       "note": "[Block some nonessential Flash][1] plugin content\r\n\r\n\r\n  [1]: https://blog.mozilla.org/futurereleases/2016/07/20/reducing-adobe-flash-usage-in-firefox/",
       "tag": "Changed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1275591
@@ -110,7 +97,6 @@
     {
       "note": "Added a [Cause column][1] to the Network Monitor to show what caused each network request\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Network_Monitor#Cause_column",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1134073
@@ -118,7 +104,6 @@
     {
       "note": "Introduced [web speech synthesis API][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API#Speech_synthesis",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -126,7 +111,6 @@
     {
       "note": "Fixed an issue that prevented users from updating Firefox for Mac unless they originally installed Firefox. Now, those users as well as any user with administrative credentials can update Firefox.",
       "tag": "Fixed",
-      "sort_num": 85,
       "is_public": true,
       "is_known_issue": false,
       "bug": 394984

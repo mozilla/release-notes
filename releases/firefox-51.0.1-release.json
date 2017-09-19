@@ -6,7 +6,6 @@
     {
       "note": "Reference link to [51.0 release notes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/en-US/firefox/51.0/releasenotes/",
       "tag": "Fixed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -14,7 +13,6 @@
     {
       "note": "Geolocation not working on Windows (Bug [1333516][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1333516",
       "tag": "Fixed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1333516
@@ -22,7 +20,6 @@
     {
       "note": "Multiprocess incompatibility did not correctly register with some add-ons (Bug [1333423][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1333423",
       "tag": "Fixed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1333423
@@ -30,7 +27,6 @@
     {
       "note": "Crash with some older versions of [Forcepoint/Websense][1]\r\n\r\n\r\n  [1]: https://support.mozilla.org/en-US/kb/old-versions-websense-cause-startup-crashes-firefo",
       "tag": "Known",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": true,
       "bug": 1325872

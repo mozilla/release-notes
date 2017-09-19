@@ -6,7 +6,6 @@
     {
       "note": "[Updated Tablet UI][1]\r\n\r\n[1]:https://medium.com/@antlam/firefox-for-android-on-tablets-f67edc83dd46",
       "tag": "New",
-      "sort_num": 100,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1014156
@@ -14,7 +13,6 @@
     {
       "note": "Added support for sending videos to Matchstick devices",
       "tag": "New",
-      "sort_num": 90,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1078796
@@ -22,7 +20,6 @@
     {
       "note": "Improved download performance with new download manager back-end",
       "tag": "New",
-      "sort_num": 80,
       "is_public": true,
       "is_known_issue": false,
       "bug": 901360
@@ -30,7 +27,6 @@
     {
       "note": "Improved protection against site impersonation via OneCRL centralized certificate revocation",
       "tag": "New",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1024809
@@ -38,7 +34,6 @@
     {
       "note": "URL bar now displays page address instead of page title by default",
       "tag": "Changed",
-      "sort_num": 110,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1111729
@@ -46,7 +41,6 @@
     {
       "note": "Improved certificate and TLS communication security by removing support for DSA",
       "tag": "Changed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1073867
@@ -54,7 +48,6 @@
     {
       "note": "Added support for e-mail name constraints in certificates",
       "tag": "Changed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1111399
@@ -62,7 +55,6 @@
     {
       "note": "Extended SSL error reporting for reporting non-certificate errors",
       "tag": "Changed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1096197
@@ -70,7 +62,6 @@
     {
       "note": "TLS False Start optimization now requires a cipher suite using AEAD construction",
       "tag": "Changed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1109766
@@ -78,7 +69,6 @@
     {
       "note": "WebSocket now available in Web Workers",
       "tag": "HTML5",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 504553
@@ -86,7 +76,6 @@
     {
       "note": "Added support for CSS [display:contents][1]\r\n\r\n[1]: https://developer.mozilla.org/en-US/docs/Web/CSS/display",
       "tag": "HTML5",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1102374
@@ -94,7 +83,6 @@
     {
       "note": "IndexedDB now accessible from worker threads",
       "tag": "HTML5",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 701634
@@ -102,7 +90,6 @@
     {
       "note": "[&lt;meta name=\"referrer\"&gt;][1] implemented for more privacy. Allows to control the content of the HTTP referer header.\r\n\r\n\r\n  [1]: https://blog.mozilla.org/security/2015/01/21/meta-referrer/",
       "tag": "HTML5",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 704320

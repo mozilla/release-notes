@@ -6,7 +6,6 @@
     {
       "note": "32.0.1 - Link tap selection is offset on some Android devices",
       "tag": "Fixed",
-      "sort_num": 11000,
       "fixed_in_release": {
         "product": "Firefox for Android",
         "title": "Firefox for Android 32.0.1 Release",
@@ -22,7 +21,6 @@
     {
       "note": "32.0.1 - WebRTC: setRemoteDescription() silently fails if no success callback is specified",
       "tag": "Fixed",
-      "sort_num": 10000,
       "fixed_in_release": {
         "product": "Firefox",
         "title": "Firefox 32.0.1 Release",
@@ -38,7 +36,6 @@
     {
       "note": "Switch between any of Firefox for Android's 55 supported languages without leaving the browser",
       "tag": "New",
-      "sort_num": 2200,
       "is_public": true,
       "is_known_issue": false,
       "bug": 917480
@@ -46,7 +43,6 @@
     {
       "note": "Clear History control added to the history panel",
       "tag": "New",
-      "sort_num": 2000,
       "is_public": true,
       "is_known_issue": false,
       "bug": 998009
@@ -54,7 +50,6 @@
     {
       "note": "[Gamepad API][1] finalized and enabled\r\n\r\n[1]: https://hacks.mozilla.org/2013/12/the-gamepad-api/",
       "tag": "New",
-      "sort_num": 1800,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -62,7 +57,6 @@
     {
       "note": "[New HTTP cache][1] provides improved performance including crash recovery\r\n\r\n  [1]: http://www.janbambas.cz/new-firefox-http-cache-enabled/",
       "tag": "New",
-      "sort_num": 100,
       "is_public": true,
       "is_known_issue": false,
       "bug": 913806
@@ -70,7 +64,6 @@
     {
       "note": "Integration of generational garbage collection",
       "tag": "New",
-      "sort_num": 80,
       "is_public": true,
       "is_known_issue": false,
       "bug": 619558
@@ -78,7 +71,6 @@
     {
       "note": " Support URI autocomplete on Swype (and other composition focused) keyboards",
       "tag": "New",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 994472
@@ -86,7 +78,6 @@
     {
       "note": "Locales added: Armenian [hy-AM], Basque [eu], Fulah [ff], Icelandic [is], Scottish Gaelic [gd], Welsh [cy]\r\n    \r\n",
       "tag": "New",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -94,7 +85,6 @@
     {
       "note": "Android 2.2 and ARMv6 processor chipset no longer supported",
       "tag": "Changed",
-      "sort_num": 1900,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1040319
@@ -102,7 +92,6 @@
     {
       "note": "Removed and turned off trust bit for [some 1024-bit root certificates][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/NSS_3.16.3_release_notes#Notable_Changes_in_NSS_3.16.3",
       "tag": "Changed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1029561
@@ -110,7 +99,6 @@
     {
       "note": "Set up Sync from the tabs tray",
       "tag": "Changed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 958889
@@ -118,7 +106,6 @@
     {
       "note": "Top Sites has a cleaner, fresher looking first-run appearance",
       "tag": "Changed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 988366
@@ -126,7 +113,6 @@
     {
       "note": "CSS [position:sticky][1] enabled by default\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/position",
       "tag": "HTML5",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 916315
@@ -134,7 +120,6 @@
     {
       "note": "mix-blend-mode enabled by default ",
       "tag": "HTML5",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 952643
@@ -142,7 +127,6 @@
     {
       "note": "New Array built-in: [Array.from()][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/from",
       "tag": "HTML5",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 904723
@@ -150,7 +134,6 @@
     {
       "note": "[navigator.languages property][1] and [languagechange event][1] implemented\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/NavigatorLanguage.languages",
       "tag": "HTML5",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 889335
@@ -158,7 +141,6 @@
     {
       "note": "Vibration API updated to latest W3C spec",
       "tag": "HTML5",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1014581
@@ -166,7 +148,6 @@
     {
       "note": "[CSS box-decoration-break replaces -moz-background-inline-policy][1]\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/-moz-background-inline-policy",
       "tag": "HTML5",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1006326
@@ -174,7 +155,6 @@
     {
       "note": "[box-decoration-break][1] enabled by default\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/box-decoration-break",
       "tag": "HTML5",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1006326
@@ -182,7 +162,6 @@
     {
       "note": "Improvements to [home panel add-on API][1]\r\n\r\n  [1]: https://hacks.mozilla.org/2014/07/building-firefox-hub-add-ons-for-firefox-for-android/",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1010986
@@ -190,7 +169,6 @@
     {
       "note": "Various <a href=\"https://www.mozilla.org/security/known-vulnerabilities/firefox.html\">security fixes</a>",
       "tag": "Fixed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -198,7 +176,6 @@
     {
       "note": "32.0.1 - Graphic buffer garbage visible in some instances",
       "tag": "Known",
-      "sort_num": 20000,
       "is_public": true,
       "is_known_issue": true,
       "bug": 1006797
@@ -206,7 +183,6 @@
     {
       "note": "MP4 videos will not play on Android L",
       "tag": "Known",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Firefox",
         "title": "Firefox 34.0beta Beta",
@@ -222,7 +198,6 @@
     {
       "note": "Flash does not work on Android L",
       "tag": "Known",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": true,
       "bug": 1055166

@@ -6,7 +6,6 @@
     {
       "note": "Reference: Release notes for [Firefox 45.0][1]\r\n\r\n\r\n  [1]: https://www.mozilla.com/en-US/firefox/android/45.0/releasenotes/",
       "tag": "",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -14,7 +13,6 @@
     {
       "note": "Disabled Graphite font shaping library",
       "tag": "Changed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1255731
@@ -22,7 +20,6 @@
     {
       "note": "Bring back WebGL support on some devices ([1256371][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1256371",
       "tag": "Fixed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1256371

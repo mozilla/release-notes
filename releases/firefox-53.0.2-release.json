@@ -6,7 +6,6 @@
     {
       "note": "Reference link to [53.0 release notes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/firefox/53.0/releasenotes/",
       "tag": "",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -14,7 +13,6 @@
     {
       "note": "The non-standard showDialog argument to window.find is now ignored (Bug [1348409][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1348409",
       "tag": "Changed",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Firefox",
         "title": "Firefox 53.0.2 Release",
@@ -30,7 +28,6 @@
     {
       "note": "Various [security fixes][1]\r\n\r\n[1]: https://www.mozilla.org/security/known-vulnerabilities/firefox/#firefox53.0.2",
       "tag": "Fixed",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Firefox",
         "title": "Firefox 53.0.2 Release",
@@ -46,7 +43,6 @@
     {
       "note": "Make form validation errors and date picker panel visible to the user ([Bug 1341190][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1341190",
       "tag": "Fixed",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Firefox",
         "title": "Firefox 53.0.2 Release",

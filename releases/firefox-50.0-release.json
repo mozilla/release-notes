@@ -6,7 +6,6 @@
     {
       "note": "Updates to keyboard shortcuts\r\n\r\n - Set a preference to have Ctrl+Tab cycle through tabs in recently used order \r\n - View a page in Reader Mode by using Ctrl+Alt+R (command+alt+r on Mac)\r\n",
       "tag": "New",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1144749
@@ -14,7 +13,6 @@
     {
       "note": "Added option to Find in page that allows users to limit search to whole words only",
       "tag": "New",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 269442
@@ -22,7 +20,6 @@
     {
       "note": "Added Guarani (gn) locale",
       "tag": "New",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1299346
@@ -30,7 +27,6 @@
     {
       "note": "Increased availability of WebGL to more than 98 percent of users on Windows 7 and newer",
       "tag": "New",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1271770
@@ -38,7 +34,6 @@
     {
       "note": "Added download protection for a large number of [executable file][1] types on Windows, Mac and Linux\r\n\r\n\r\n  [1]: https://hg.mozilla.org/mozilla-central/file/054d4856cea6/toolkit/components/downloads/ApplicationReputation.cpp#l399",
       "tag": "New",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1291472
@@ -46,7 +41,6 @@
     {
       "note": "Improved performance for SDK extensions or extensions using the SDK module loader",
       "tag": "New",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1308332
@@ -54,7 +48,6 @@
     {
       "note": "Playback video on more sites without plugins with WebM EME Support for Widevine on Windows and Mac",
       "tag": "New",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -62,7 +55,6 @@
     {
       "note": "Added a built-in Emoji set for operating systems without native Emoji fonts (Windows 8.0 and lower and Linux)",
       "tag": "Changed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1231701
@@ -70,7 +62,6 @@
     {
       "note": "Blocked versions of libavcodec older than 54.35.1",
       "tag": "Changed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1263665
@@ -78,7 +69,6 @@
     {
       "note": "The link to check for plugin security updates has been removed from the addon manager as Firefox automatically checks for plugin updates",
       "tag": "Changed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1277905
@@ -86,7 +76,6 @@
     {
       "note": "[Changes for web developers][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/Firefox/Releases/50#Changes_for_Web_developers",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -94,7 +83,6 @@
     {
       "note": "Fixed rendering of dashed and dotted borders with rounded corners ([border-radius][1])\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/border-radius",
       "tag": "Fixed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 382721
@@ -102,7 +90,6 @@
     {
       "note": "Various [security fixes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/en-US/security/advisories/mfsa2016-91/",
       "tag": "Fixed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -110,7 +97,6 @@
     {
       "note": "Login cookies are now saved for sites with a high number of cookies ([Bug 1264192][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1264192",
       "tag": "Fixed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1264192
@@ -118,7 +104,6 @@
     {
       "note": "Firefox fails to log into Firefox Accounts or Sync if browser is set to \"Never Remember History\"",
       "tag": "Known",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": true,
       "bug": 1319904
@@ -126,7 +111,6 @@
     {
       "note": "Due to an Apple touch bar bug, Firefox on recent MacBook Pro may crash when open for long periods or crash after resuming from sleep. Apple reports to have a fix for this in the currently unreleased OS X 10.12.3",
       "tag": "Known",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": true,
       "bug": 1320048

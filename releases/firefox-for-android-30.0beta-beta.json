@@ -6,7 +6,6 @@
     {
       "note": "Add web content to home page panels using Home Feeds Add-On",
       "tag": "New",
-      "sort_num": 500,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -14,7 +13,6 @@
     {
       "note": "Add Quickshare buttons to Context menu",
       "tag": "New",
-      "sort_num": 200,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -22,7 +20,6 @@
     {
       "note": "Locales added: Belarusian [be], Argentine Spanish [es-AR], Mexican Spanish [es-MX], Indonesian [id], Latvian [lv], Malay [ms]",
       "tag": "New",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -30,7 +27,6 @@
     {
       "note": "Disallow calling WebIDL constructors as functions on the web",
       "tag": "Changed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -38,7 +34,6 @@
     {
       "note": "Fixes to box-shadow and other visual overflow (see <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=480888\">bug 480888</a>)",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 480888
@@ -46,7 +41,6 @@
     {
       "note": "Mute and volume available per window when using WebAudio",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -54,7 +48,6 @@
     {
       "note": "background-blend-mode enabled by default",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -62,7 +55,6 @@
     {
       "note": "Use of line-height allowed for &lt;input type=\"reset|button|submit\"&gt;",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -70,7 +62,6 @@
     {
       "note": "ES6 array and generator comprehensions implemented (read [docs][1] for more details)\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/Firefox/Releases/30",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -78,7 +69,6 @@
     {
       "note": "Error stack now contains column number",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -86,7 +76,6 @@
     {
       "note": "Support for alpha option in canvas context options (feature [description][1])\r\n\r\n\r\n  [1]: http://blogs.adobe.com/webplatform/2014/04/01/new-canvas-features/",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 982480
@@ -94,7 +83,6 @@
     {
       "note": "Ignore autocomplete=\"off\" when offering to save passwords via the password manager (see [956906][1]) \r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=956906",
       "tag": "Fixed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 956906
@@ -102,7 +90,6 @@
     {
       "note": "TypedArrays don't support new named properties (see [695438][1]) \r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=695438",
       "tag": "Fixed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 695438
@@ -110,7 +97,6 @@
     {
       "note": "After MP4 video playback, video can not be played again ([1005622][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1005622",
       "tag": "Known",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Firefox for Android",
         "title": "Firefox for Android 30.0 Release",
@@ -126,7 +112,6 @@
     {
       "note": "Thick lines on some pages (see [1014333][1])\r\n\r\n\r\n  [1]: http://bugzilla.mozilla.org/1014333",
       "tag": "Known",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": true,
       "bug": 1014333

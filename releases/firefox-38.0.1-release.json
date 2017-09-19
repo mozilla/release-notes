@@ -6,7 +6,6 @@
     {
       "note": "Reference: [Release notes for Firefox 38.0][1]\r\n\r\n[1]: https://www.mozilla.org/firefox/38.0/releasenotes/",
       "tag": "",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -14,7 +13,6 @@
     {
       "note": "Systems with first generation NVidia Optimus graphics cards may crash on start-up ([1154703][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1154703",
       "tag": "Fixed",
-      "sort_num": 100,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1154703
@@ -22,7 +20,6 @@
     {
       "note": "Users who import cookies from Google Chrome can end up with broken websites ([1162205][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1162205",
       "tag": "Fixed",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Firefox",
         "title": "Firefox 38.0.1 Release",
@@ -38,7 +35,6 @@
     {
       "note": "Large animated images may fail to play and may stop other images from loading ([1161859][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1161859",
       "tag": "Fixed",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Firefox",
         "title": "Firefox 38.0.1 Release",
@@ -54,7 +50,6 @@
     {
       "note": "WebRTC H264 video streams from CiscoSpark native clients are not decoded correctly. (Fixed in Firefox ESR 38.0.1; was already fixed in Firefox 38.0) ([1162251][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1162251",
       "tag": "Fixed",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Firefox Extended Support Release",
         "title": "Firefox Extended Support Release 38.0.1.1 Release",
@@ -70,7 +65,6 @@
     {
       "note": "Responsive images do not update when the enclosing viewport changes",
       "tag": "Known",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": true,
       "bug": 1135812

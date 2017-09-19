@@ -6,7 +6,6 @@
     {
       "note": "Optionally remove corresponding data files when removing an account from Thunderbird",
       "tag": "New",
-      "sort_num": 9,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 52.0beta Beta",
@@ -22,7 +21,6 @@
     {
       "note": "Possibility to copy message filter",
       "tag": "New",
-      "sort_num": 6,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 52.0beta Beta",
@@ -38,7 +36,6 @@
     {
       "note": "Calendar: Event can now be created and edited in a tab",
       "tag": "New",
-      "sort_num": 4,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 52.0beta Beta",
@@ -54,7 +51,6 @@
     {
       "note": "Calendar: Processing of received invitation counter proposals",
       "tag": "New",
-      "sort_num": 3,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 52.0beta Beta",
@@ -70,7 +66,6 @@
     {
       "note": "Chat: Support Twitter Direct Messages",
       "tag": "New",
-      "sort_num": 2,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 52.0beta Beta",
@@ -86,7 +81,6 @@
     {
       "note": "Chat: Liking and favoriting in Twitter",
       "tag": "New",
-      "sort_num": 1,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 52.0beta Beta",
@@ -102,7 +96,6 @@
     {
       "note": "**IMPORTANT:** The way images are included in a compose window has changed. Images are now included as [data URIs][1] and not as references to parts of other messages or operating system files. This allows better interoperability with office packages such as MS Office or LibreOffice. Images linked from locations on the internet will **no longer** be downloaded and attached to the message automatically. This can be changed for each image individually via the Image Properties dialog or globally by setting the preference mail.compose.attach_http_images.\r\n\r\n[1]: https://en.wikipedia.org/wiki/Data_URI_scheme",
       "tag": "Changed",
-      "sort_num": 15,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 52.0beta Beta",
@@ -118,7 +111,6 @@
     {
       "note": "On Linux PulseAudio is now required to play sound",
       "tag": "Changed",
-      "sort_num": 11,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 52.0 Release",
@@ -134,7 +126,6 @@
     {
       "note": "Messages in IMAP folders read on external device are now filtered by default",
       "tag": "Changed",
-      "sort_num": 6,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 52.0beta Beta",
@@ -150,7 +141,6 @@
     {
       "note": "Chat: Removed Yahoo! Messenger support (since [Yahoo removed support][1])\r\n\r\n\r\n  [1]: https://web.archive.org/web/20160730080614/https://help.yahoo.com/kb/yahoo-messenger-for-web/SLN26860.html",
       "tag": "Changed",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 52.0beta Beta",
@@ -166,7 +156,6 @@
     {
       "note": "Crash when viewing certain IMAP messages and various crashes on Mac",
       "tag": "Fixed",
-      "sort_num": 999,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 52.0beta Beta",
@@ -182,7 +171,6 @@
     {
       "note": "Message preview pane non-functional after IMAP folder was renamed or moved",
       "tag": "Fixed",
-      "sort_num": 20,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 51.0beta Beta",
@@ -198,7 +186,6 @@
     {
       "note": "Editing in paragraph format: Pressing Shift+Enter sometimes doesn't move the cursor to the next line",
       "tag": "Fixed",
-      "sort_num": 18,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 52.0beta Beta",
@@ -214,7 +201,6 @@
     {
       "note": "Paste as quotation doesn't always work",
       "tag": "Fixed",
-      "sort_num": 14,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 52.0beta Beta",
@@ -230,7 +216,6 @@
     {
       "note": "Long lines in plain text replies not properly wrapped",
       "tag": "Fixed",
-      "sort_num": 12,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 52.0beta Beta",
@@ -246,7 +231,6 @@
     {
       "note": "Undesired white-space before signature in paragraph mode",
       "tag": "Fixed",
-      "sort_num": 10,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 52.0beta Beta",
@@ -262,7 +246,6 @@
     {
       "note": "IMAP message part caching",
       "tag": "Fixed",
-      "sort_num": 4,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 52.0beta Beta",
@@ -278,7 +261,6 @@
     {
       "note": "Links with escaped non-ASCII (international) characters can't be clicked",
       "tag": "Fixed",
-      "sort_num": 3,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 52.0beta Beta",
@@ -294,7 +276,6 @@
     {
       "note": "Calendar: Events specified in timezone \"local time\" generate alerts in UTC time",
       "tag": "Fixed",
-      "sort_num": 2,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 52.0beta Beta",

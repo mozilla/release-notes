@@ -6,7 +6,6 @@
     {
       "note": "Added [protection against unwanted software][1] downloads\r\n\r\n\r\n  [1]: https://blog.mozilla.org/security/2015/08/11/expanded-malware-protection-in-firefox/",
       "tag": "New",
-      "sort_num": 90,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1147212
@@ -14,7 +13,6 @@
     {
       "note": " New style for add-on manager based on the in-content preferences style",
       "tag": "New",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 989469
@@ -22,7 +20,6 @@
     {
       "note": "Improved scrolling, graphics, and video playback performance with off main thread compositing (GNU/Linux only)",
       "tag": "New",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 994541
@@ -30,7 +27,6 @@
     {
       "note": "[Process separation][1] enabled for opt-in testing\r\n\r\n  [1]: https://developer.mozilla.org/Firefox/Multiprocess_Firefox",
       "tag": "New",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 516752
@@ -38,7 +34,6 @@
     {
       "note": "Graphic blocklist mechanism improved: Firefox version ranges can be specified, limiting the number of devices blocked",
       "tag": "New",
-      "sort_num": -1,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1162530
@@ -46,7 +41,6 @@
     {
       "note": "NPAPI Plug-in performance improved via [asynchronous initialization][1]\r\n\r\n  [1]: http://dblohm7.ca/blog/2014/06/17/asynchronous-plugin-initialization-an-introduction/",
       "tag": "Changed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1116806
@@ -54,7 +48,6 @@
     {
       "note": "Smoother animation and scrolling with [hardware vsync][1] (Windows only)\r\n\r\n  [1]: https://hacks.mozilla.org/2015/01/project-silk/",
       "tag": "Changed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1144317
@@ -62,7 +55,6 @@
     {
       "note": "JPEG images use less memory when scaled and can be painted faster",
       "tag": "Changed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1124084
@@ -70,7 +62,6 @@
     {
       "note": "Support for running [animations][1] of 'transform' and 'opacity' on the compositor thread\r\n\r\n\r\n  [1]: https://wiki.mozilla.org/Platform/GFX/OffMainThreadCompositing#CSS_Animations",
       "tag": "Changed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 980770
@@ -78,7 +69,6 @@
     {
       "note": "Sub-resources [can no longer request HTTP authentication][1], thus protecting users from inadvertently disclosing login data\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/Firefox/Releases/40/Site_Compatibility#Security",
       "tag": "Changed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 647010
@@ -86,7 +76,6 @@
     {
       "note": "[IndexedDB transactions][1] are now non-durable by default\r\n\r\n[1]:https://developer.mozilla.org/docs/Web/API/IndexedDB_API/Basic_Concepts_Behind_IndexedDB#durable",
       "tag": "HTML5",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1112702
@@ -94,7 +83,6 @@
     {
       "note": "Implemented [AudioBufferSourceNode.detune][1] to modulate playback rate in cents, a logarithmic unit of measure used for\r\nmusical intervals\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/API/AudioBufferSourceNode/detune",
       "tag": "HTML5",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1153783
@@ -102,7 +90,6 @@
     {
       "note": "Improved [Performance tools][1] in the developer tools: [Waterfall][2] view, [Call Tree][3] view and a [Flame Chart][4] view\r\n\r\n\r\n  [1]: https://hacks.mozilla.org/?p=28808\r\n  [2]: https://developer.mozilla.org/en-US/docs/Tools/Performance/Waterfall\r\n  [3]: https://developer.mozilla.org/en-US/docs/Tools/Performance/Call_Tree\r\n  [4]: https://developer.mozilla.org/en-US/docs/Tools/Performance/Flame_Chart",
       "tag": "Developer",
-      "sort_num": 1000,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1167252
@@ -110,7 +97,6 @@
     {
       "note": "New [rules view tooltip][1] in the Inspector to tweak CSS Filter values\r\n\r\n\r\n  [1]: http://youtu.be/t3NKmmWfklU",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1055181
@@ -118,7 +104,6 @@
     {
       "note": "New page ruler highlighting tool that displays [lightweight horizontal and vertical rules][1] on a page \r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Rulers",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1144163
@@ -126,7 +111,6 @@
     {
       "note": "Console API messages from SharedWorker and ServiceWorker are now displayed in web console",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1125205
@@ -134,7 +118,6 @@
     {
       "note": "Inspector now searches across all content frames in a page",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 873443
@@ -142,7 +125,6 @@
     {
       "note": "Removed support for binary XPCOM components in extensions, use addon SDK \"system/child_process\" pipe mechanism for native binaries instead",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1159737
@@ -150,7 +132,6 @@
     {
       "note": "Kannada text does not display properly in built-in pdf viewer",
       "tag": "Fixed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 911034
@@ -158,7 +139,6 @@
     {
       "note": "If Firefox is restarted from an add-on install notification, on-going private browsing downloads might be canceled without warning  ([1185294][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1185294",
       "tag": "Known",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": true,
       "bug": 1185294

@@ -6,7 +6,6 @@
     {
       "note": "Lock icon strikethrough for [pages containing insecure password fields][1]\r\n\r\n\r\n  [1]: https://blog.mozilla.org/tanvi/2016/01/28/no-more-passwords-over-http-please/",
       "tag": "New",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1179961
@@ -14,7 +13,6 @@
     {
       "note": "Improved printing by using the Reader Mode",
       "tag": "New",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 962433
@@ -22,7 +20,6 @@
     {
       "note": "New preference for allowing Ctrl+Tab to cycle through tabs in recently used order",
       "tag": "New",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1116787
@@ -30,7 +27,6 @@
     {
       "note": "Updates to keyboard shortcuts\r\n\r\n - Set a preference to have Ctrl+Tab cycle through tabs in recently used order \r\n - View a page in Reader Mode by using Ctrl+Alt+R (command+alt+r on Mac)\r\n",
       "tag": "New",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1144749
@@ -38,7 +34,6 @@
     {
       "note": "Added option to Find in page that allows users to limit search to whole words only",
       "tag": "New",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 269442
@@ -46,7 +41,6 @@
     {
       "note": "Added Guarani (gn) locale",
       "tag": "New",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1299346
@@ -54,7 +48,6 @@
     {
       "note": "Added a built-in Emoji set for operating systems without native Emoji fonts (Windows 8.0 and lower and Linux)",
       "tag": "Changed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1231701
@@ -62,7 +55,6 @@
     {
       "note": "[Changes for web developers][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/Firefox/Releases/50#Changes_for_Web_developers",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -70,7 +62,6 @@
     {
       "note": "Fixed rendering of dashed and dotted borders with rounded corners ([border-radius][1])\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/border-radius",
       "tag": "Fixed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 382721

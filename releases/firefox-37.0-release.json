@@ -6,7 +6,6 @@
     {
       "note": "[Heartbeat user rating system][1] - your feedback about Firefox\r\n\r\n[1]: https://wiki.mozilla.org/Advocacy/heartbeat",
       "tag": "New",
-      "sort_num": 100,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1111027
@@ -14,7 +13,6 @@
     {
       "note": "Yandex set as default search provider for the Turkish locale",
       "tag": "New",
-      "sort_num": 95,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1146351
@@ -22,7 +20,6 @@
     {
       "note": "Bing search now uses HTTPS for secure searching ",
       "tag": "New",
-      "sort_num": 90,
       "is_public": true,
       "is_known_issue": false,
       "bug": 958874
@@ -30,7 +27,6 @@
     {
       "note": "Hello: Improved notification about user availability",
       "tag": "New",
-      "sort_num": 0,
       "is_public": false,
       "is_known_issue": false,
       "bug": 1118061
@@ -38,7 +34,6 @@
     {
       "note": "Improved protection against site impersonation via OneCRL centralized certificate revocation",
       "tag": "New",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1024809
@@ -46,7 +41,6 @@
     {
       "note": "[Opportunistically encrypt HTTP traffic][1] where the server supports HTTP/2 AltSvc\r\n\r\n[1]: https://bitsup.blogspot.com/2015/03/opportunistic-encryption-for-firefox.html ",
       "tag": "New",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1113790
@@ -54,7 +48,6 @@
     {
       "note": "Disabled insecure TLS version fallback for site security",
       "tag": "Changed",
-      "sort_num": 100,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1084025
@@ -62,7 +55,6 @@
     {
       "note": "Improved certificate and TLS communication security by removing support for DSA",
       "tag": "Changed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1073867
@@ -70,7 +62,6 @@
     {
       "note": "Extended SSL error reporting for reporting non-certificate errors",
       "tag": "Changed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1096197
@@ -78,7 +69,6 @@
     {
       "note": "TLS False Start optimization now requires a cipher suite using AEAD construction",
       "tag": "Changed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1109766
@@ -86,7 +76,6 @@
     {
       "note": "Improved performance of [WebGL rendering on Windows][1]\r\n\r\n[1]: http://muizelaar.blogspot.ca/2015/03/performance-and-feature-improvements-in.html",
       "tag": "Changed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1079398
@@ -94,7 +83,6 @@
     {
       "note": "Implemented a subset of the Media Source Extensions (MSE) API to allow native HTML5 playback on YouTube (Windows Vista or later only)",
       "tag": "HTML5",
-      "sort_num": 100,
       "is_public": true,
       "is_known_issue": false,
       "bug": 778617
@@ -102,7 +90,6 @@
     {
       "note": "Added support for CSS [display:contents][1]\r\n\r\n[1]: https://developer.mozilla.org/en-US/docs/Web/CSS/display",
       "tag": "HTML5",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1102374
@@ -110,7 +97,6 @@
     {
       "note": "IndexedDB now accessible from worker threads",
       "tag": "HTML5",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 701634
@@ -118,7 +104,6 @@
     {
       "note": "New SDP/JSEP implementation in WebRTC",
       "tag": "HTML5",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1091242
@@ -126,7 +111,6 @@
     {
       "note": "[Debug tabs opened in Chrome Desktop, Chrome for Android, and Safari for iOS][1]\r\n\r\n[1]: https://developer.mozilla.org/en-US/docs/Tools/Valence",
       "tag": "Developer",
-      "sort_num": 100,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1082632
@@ -134,7 +118,6 @@
     {
       "note": "New [Inspector animations panel][1] to control element animations\r\n\r\n[1]: https://hacks.mozilla.org/2015/01/web-animation-tools-network-security-insights-font-inspector-improvements-and-more-firefox-developer-tools-episode-37/",
       "tag": "Developer",
-      "sort_num": 90,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1105825
@@ -142,7 +125,6 @@
     {
       "note": "New [Security Panel][1] included in Network Panel\r\n\r\n[1]:https://hacks.mozilla.org/2015/01/web-animation-tools-network-security-insights-font-inspector-improvements-and-more-firefox-developer-tools-episode-37/",
       "tag": "Developer",
-      "sort_num": 80,
       "is_public": true,
       "is_known_issue": false,
       "bug": 932179
@@ -150,7 +132,6 @@
     {
       "note": "Debugger panel support for chrome:// and about:// URIs",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1085446
@@ -158,7 +139,6 @@
     {
       "note": "Added logging of weak ciphers to the web console",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1092835
@@ -166,7 +146,6 @@
     {
       "note": "Various [security fixes][1]\r\n\r\n[1]:https://www.mozilla.org/security/known-vulnerabilities/firefox/#firefox37",
       "tag": "Fixed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": null

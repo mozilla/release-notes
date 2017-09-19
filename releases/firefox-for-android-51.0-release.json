@@ -6,7 +6,6 @@
     {
       "note": "Added Nepali (ne-NP), Bulgarian (bg) and Kabyle (kab) locales\r\n",
       "tag": "New",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1307995
@@ -14,7 +13,6 @@
     {
       "note": "Improved reliability of browser data sync",
       "tag": "New",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1253111
@@ -22,7 +20,6 @@
     {
       "note": "Remove Belarusian (be) locale",
       "tag": "New",
-      "sort_num": -1,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1307995
@@ -30,7 +27,6 @@
     {
       "note": "Use 2D graphics library (Skia) for content rendering",
       "tag": "Changed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1186552

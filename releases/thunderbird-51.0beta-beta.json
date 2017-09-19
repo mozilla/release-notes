@@ -6,7 +6,6 @@
     {
       "note": "Calendar: Event can now be created and edited in a tab. (Preview feature: Set preference calendar.item.editInTab to enable)",
       "tag": "New",
-      "sort_num": 4,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 51.0beta Beta",
@@ -22,7 +21,6 @@
     {
       "note": "Chat: Support Jabber/XMPP Message Carbons (XEP-280)",
       "tag": "New",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 51.0beta Beta",
@@ -38,7 +36,6 @@
     {
       "note": "Folders backed by mbox storage larger than 4GB are supported without warning (unless preference mailnews.allowMboxOver4GB is set to false)",
       "tag": "Changed",
-      "sort_num": 4,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 51.0beta Beta",
@@ -54,7 +51,6 @@
     {
       "note": "IMAP caching now uses Mozilla's latest caching technology",
       "tag": "Changed",
-      "sort_num": 2,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 51.0beta Beta",
@@ -70,7 +66,6 @@
     {
       "note": "Message preview pane non-functional after IMAP folder was renamed or moved",
       "tag": "Fixed",
-      "sort_num": 20,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 51.0beta Beta",
@@ -86,7 +81,6 @@
     {
       "note": "Various corrections when composing messages in paragraph format",
       "tag": "Fixed",
-      "sort_num": 16,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 51.0beta Beta",
@@ -102,7 +96,6 @@
     {
       "note": "Text encoding of reply sometimes incorrect (uses encoding of last viewed message)",
       "tag": "Fixed",
-      "sort_num": 8,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 51.0beta Beta",
@@ -118,7 +111,6 @@
     {
       "note": "Text encoding of message display, reply or forwarded message sometimes incorrect (uses encoding of attachment)",
       "tag": "Fixed",
-      "sort_num": 7,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 51.0beta Beta",
@@ -134,7 +126,6 @@
     {
       "note": "\"Move To\" button on \"Search Messages\" panel not working",
       "tag": "Fixed",
-      "sort_num": 6,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 51.0beta Beta",
@@ -150,7 +141,6 @@
     {
       "note": "Message sent to \"undisclosed recipients\" shows no recipient (non-functional since Thunderbird version 38)",
       "tag": "Fixed",
-      "sort_num": 5,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 51.0beta Beta",
@@ -166,7 +156,6 @@
     {
       "note": "Calendar: Events are not always printed in the correct timezone (in month and week grid)",
       "tag": "Fixed",
-      "sort_num": 3,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 51.0beta Beta",
@@ -182,7 +171,6 @@
     {
       "note": "Due to an Apple touch bar bug, Thunderbird on recent MacBook Pro may crash when open for long periods or crash after resuming from sleep. Apple reports to have a fix for this in the currently unreleased OS X 10.12.3",
       "tag": "Known",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": true,
       "bug": 1320048

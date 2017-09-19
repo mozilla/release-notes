@@ -6,7 +6,6 @@
     {
       "note": "Asynchronous rendering of the Flash plugins is now enabled by default. This should improve performance and reduce crashes for sites that use the Flash plugin. ([Bug 1307108][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1307108",
       "tag": "New",
-      "sort_num": 98,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1307108
@@ -14,7 +13,6 @@
     {
       "note": "Reference link to [Firefox 49.0.1 release notes][1]\r\n\r\n[1]: https://www.mozilla.org/firefox/49.0.1/releasenotes/",
       "tag": "",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -22,7 +20,6 @@
     {
       "note": " Fix a Canvas filters graphics issue affecting HTML5 apps ([Bug 1304539][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1304539",
       "tag": "",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1304539
@@ -30,7 +27,6 @@
     {
       "note": "Diagnostic information on timing for tab switching ([Bug 1304113][1])\r\n[1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1304113",
       "tag": "Changed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1304113
@@ -38,7 +34,6 @@
     {
       "note": "Support mapping family 255 when playing an Opus file, for use with the Web Audio API ([Bug 1301518][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1301518",
       "tag": "Feature",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1301518
@@ -46,7 +41,6 @@
     {
       "note": "Change D3D9 default fallback preference to prevent graphical artifacts ([Bug 1306465][1]) \r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1306465",
       "tag": "Fixed",
-      "sort_num": 95,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1306465
@@ -54,7 +48,6 @@
     {
       "note": " Network issue prevents some users from seeing the Firefox UI on startup ([Bug 1305436][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1305436",
       "tag": "Fixed",
-      "sort_num": 90,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1305436
@@ -62,7 +55,6 @@
     {
       "note": "Web compatibility issue with file uploads ([Bug 1306472][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1306472",
       "tag": "Fixed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1306472
@@ -70,7 +62,6 @@
     {
       "note": "Web compatibility issue with Array.prototype.values ([Bug 1299593][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1299593",
       "tag": "Fixed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1299593
@@ -78,7 +69,6 @@
     {
       "note": "Various [security fixes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/en-US/security/known-vulnerabilities/firefox/#firefox49.0.2",
       "tag": "Fixed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": null

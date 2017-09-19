@@ -6,7 +6,6 @@
     {
       "note": "Reference: Release notes for [Firefox 44.0.1][1]\r\n\r\n\r\n  [1]: https://www.mozilla.com/en-US/firefox/44.0.1/releasenotes/",
       "tag": "",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -14,7 +13,6 @@
     {
       "note": "Firefox hangs or crashes on startup ([1243098][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1243098",
       "tag": "Fixed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1243098
@@ -22,7 +20,6 @@
     {
       "note": "Various [security fixes][1] \r\n\r\n\r\n  [1]: https://www.mozilla.org/security/known-vulnerabilities/firefox/#firefox44.0.2",
       "tag": "Fixed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": null

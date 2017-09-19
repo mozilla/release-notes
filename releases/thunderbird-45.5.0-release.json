@@ -6,7 +6,6 @@
     {
       "note": "**IMPORTANT:** Changed recipient address entry: Arrow-keys now copy the pop-up value to the input field. Mouse-hovered pop-up value can no longer be confirmed with tab or enter key. This restores the behavior of Thunderbird 24.",
       "tag": "Changed",
-      "sort_num": 1,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 50.0beta Beta",
@@ -22,7 +21,6 @@
     {
       "note": "Support changes to character limit in Twitter",
       "tag": "Changed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1275284
@@ -30,7 +28,6 @@
     {
       "note": "Reply with selected text containing quote resulted in wrong quoting level indication",
       "tag": "Fixed",
-      "sort_num": 5,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 50.0beta Beta",
@@ -46,7 +43,6 @@
     {
       "note": "Mail address display at header pane displayed incorrectly if the address contains UTF-8 according to RFC 6532",
       "tag": "Fixed",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 49.0beta Beta",
@@ -62,7 +58,6 @@
     {
       "note": " Attempting to sort messages on the Date field whilst a quick filter is applied got stuck on sort descending",
       "tag": "Fixed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1266698
@@ -70,7 +65,6 @@
     {
       "note": "Email invitation might not be displayed when description contains non-ASCII characters",
       "tag": "Fixed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1301186

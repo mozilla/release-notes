@@ -6,7 +6,6 @@
     {
       "note": "The ability to set up Firefox Sync by creating a Firefox account ([learn more][1])\r\n\r\n  [1]: https://support.mozilla.org/en-US/kb/how-do-i-set-up-firefox-sync?esab=a&s=sync&r=3&as=s",
       "tag": "New",
-      "sort_num": 1900,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -14,7 +13,6 @@
     {
       "note": "Search suggestions available via Bing search plugin when set as default search engine",
       "tag": "New",
-      "sort_num": 1800,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -22,7 +20,6 @@
     {
       "note": "HTTPS used for Yahoo Searches performed in en-US locale",
       "tag": "New",
-      "sort_num": 50,
       "is_public": true,
       "is_known_issue": false,
       "bug": 958883
@@ -30,7 +27,6 @@
     {
       "note": "Added multiple quick share buttons",
       "tag": "New",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -38,7 +34,6 @@
     {
       "note": "Better integration for [Open Web Apps][1]\r\n\r\n\r\n  [1]: https://hacks.mozilla.org/2014/03/better-integration-for-open-web-apps-on-android/",
       "tag": "New",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -46,7 +41,6 @@
     {
       "note": "Set default home panel",
       "tag": "New",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -54,7 +48,6 @@
     {
       "note": "Hide/Show home panels",
       "tag": "New",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -62,7 +55,6 @@
     {
       "note": "Removed ability to 'send tab' to remote device",
       "tag": "Changed",
-      "sort_num": 600,
       "is_public": true,
       "is_known_issue": false,
       "bug": 941744
@@ -70,7 +62,6 @@
     {
       "note": "Performance improved by replacing throbber with a progress bar",
       "tag": "Changed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -78,7 +69,6 @@
     {
       "note": "Clicking on a W3C Web Notification will switch to the originating tab",
       "tag": "Changed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -86,7 +76,6 @@
     {
       "note": "'box-sizing' (dropping the -moz- prefix) implemented (<a href=\"https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing\">learn more</a>)",
       "tag": "Developer",
-      "sort_num": 3,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -94,7 +83,6 @@
     {
       "note": "Console object available in Web Workers (<a href=\"https://developer.mozilla.org/fr/docs/Web/API/console\">learn more</a>)",
       "tag": "Developer",
-      "sort_num": 2,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -102,7 +90,6 @@
     {
       "note": "Promises enabled by default (<a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise\">learn more</a>)",
       "tag": "Developer",
-      "sort_num": 1,
       "is_public": true,
       "is_known_issue": false,
       "bug": 924089
@@ -110,7 +97,6 @@
     {
       "note": "SharedWorker enabled by default",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -118,7 +104,6 @@
     {
       "note": "&lt;input type=\"number\"&gt; implemented and enabled",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -126,7 +111,6 @@
     {
       "note": "Synthetic APKs enabled by default",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -134,7 +118,6 @@
     {
       "note": "Color picker widget implemented, access by using &lt;input type=\"color\"&gt;",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -142,7 +125,6 @@
     {
       "note": "Implemented URLSearchParams from the URL specification (see [MDN][1] for details )\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/URLUtils",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 887836
@@ -150,7 +132,6 @@
     {
       "note": "Various <a href=\"https://www.mozilla.org/security/known-vulnerabilities/firefox.html\">security fixes</a>",
       "tag": "Fixed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -158,7 +139,6 @@
     {
       "note": "Improved favicon.ico decoding ([748100][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=748100",
       "tag": "Fixed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 748100
@@ -166,7 +146,6 @@
     {
       "note": "Moving Firefox to background while playing a flash video in full screen mode and bring it back to view will freeze the app (see <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=809055\">809055</a>)",
       "tag": "Known",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": true,
       "bug": null
@@ -174,7 +153,6 @@
     {
       "note": "Character Encoding selection via menu is broken (see [bug 1003897][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1003897",
       "tag": "Known",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Firefox for Android",
         "title": "Firefox for Android 30.0beta Beta",

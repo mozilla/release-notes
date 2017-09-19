@@ -6,7 +6,6 @@
     {
       "note": "**RTSP**: Support RTP/RTCP via UDP/IP and RTSP via TCP/IP \r\n",
       "tag": "",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Firefox OS",
         "title": "Firefox OS 1.3 Release",
@@ -22,7 +21,6 @@
     {
       "note": "**RTSP**: support for absolute and relative control URLs ",
       "tag": "",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Firefox OS",
         "title": "Firefox OS 1.3 Release",
@@ -38,7 +36,6 @@
     {
       "note": "Removal of 'About' page in Browser",
       "tag": "Feature",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Firefox OS",
         "title": "Firefox OS 1.3 Release",
@@ -54,7 +51,6 @@
     {
       "note": "**Communications**:\r\n Support the creation of MMS message with Subject",
       "tag": "Feature",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Firefox OS",
         "title": "Firefox OS 1.3 Release",
@@ -70,7 +66,6 @@
     {
       "note": "**Communications**:\r\n Addressing and Sending of  MMS message to Email address",
       "tag": "Feature",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Firefox OS",
         "title": "Firefox OS 1.3 Release",
@@ -86,7 +81,6 @@
     {
       "note": "**Communications**:\r\nCall Ended message",
       "tag": "Feature",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Firefox OS",
         "title": "Firefox OS 1.3 Release",
@@ -102,7 +96,6 @@
     {
       "note": "**Communications**:\r\nDSDS Import contacts from both SIMs (one at a time)",
       "tag": "Feature",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Firefox OS",
         "title": "Firefox OS 1.3 Release",
@@ -118,7 +111,6 @@
     {
       "note": "**Communications**:\r\nDatastore API Support ",
       "tag": "Feature",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Firefox OS",
         "title": "Firefox OS 1.3 Release",
@@ -134,7 +126,6 @@
     {
       "note": "**Communications**:\r\n Improved Emergency Call User Interface",
       "tag": "Feature",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Firefox OS",
         "title": "Firefox OS 1.3 Release",
@@ -150,7 +141,6 @@
     {
       "note": "**Communications**:\r\nSave draft MMS & SMS messages",
       "tag": "Feature",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Firefox OS",
         "title": "Firefox OS 1.3 Release",
@@ -166,7 +156,6 @@
     {
       "note": "**Communications**:\r\nAutomatic switching from SMS to MMS when media is added to the message",
       "tag": "Feature",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Firefox OS",
         "title": "Firefox OS 1.3 Release",
@@ -182,7 +171,6 @@
     {
       "note": "**Communications**:\r\nSMS & MMS Forwarding",
       "tag": "Feature",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Firefox OS",
         "title": "Firefox OS 1.3 Release",
@@ -198,7 +186,6 @@
     {
       "note": "**Communications**:\r\nConfirmation message when changing the PIN code or PIN Unlock Code   ",
       "tag": "Feature",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Firefox OS",
         "title": "Firefox OS 1.3 Release",
@@ -214,7 +201,6 @@
     {
       "note": "**Device**:\r\n Support for sending multiple files over Bluetooth ",
       "tag": "Feature",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Firefox OS",
         "title": "Firefox OS 1.3 Release",
@@ -230,7 +216,6 @@
     {
       "note": "**Device**:\r\nBlueDroid Support",
       "tag": "Feature",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Firefox OS",
         "title": "Firefox OS 1.3 Release",
@@ -246,7 +231,6 @@
     {
       "note": "**Media**: \r\nAccess to music controls in notifications tray ",
       "tag": "Feature",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Firefox OS",
         "title": "Firefox OS 1.3 Release",
@@ -262,7 +246,6 @@
     {
       "note": "**Media**:\r\n Access to music controls from the lock screen when the phone is locked",
       "tag": "Feature",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Firefox OS",
         "title": "Firefox OS 1.3 Release",
@@ -278,7 +261,6 @@
     {
       "note": "**Media**:\r\nEnable continuous autofocus in camera",
       "tag": "Feature",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Firefox OS",
         "title": "Firefox OS 1.3 Release",
@@ -294,7 +276,6 @@
     {
       "note": "**Media**:\r\nImproved arraignment of content in the gallery app",
       "tag": "Feature",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Firefox OS",
         "title": "Firefox OS 1.3 Release",
@@ -310,7 +291,6 @@
     {
       "note": "**Media**:\r\nFile information shown for the content shown in the gallery app ",
       "tag": "Feature",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Firefox OS",
         "title": "Firefox OS 1.3 Release",
@@ -326,7 +306,6 @@
     {
       "note": "**Media**:\r\nAbility to use device speakers with the FM radio app\r\n    ",
       "tag": "Feature",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Firefox OS",
         "title": "Firefox OS 1.3 Release",
@@ -342,7 +321,6 @@
     {
       "note": "**Email**: Support for POP3 email servers",
       "tag": "Feature",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Firefox OS",
         "title": "Firefox OS 1.3 Release",
@@ -358,7 +336,6 @@
     {
       "note": "**Graphics Support**:\r\nAsynchronous Panning/Zooming in Apps and Web Content for improved performance\r\n",
       "tag": "Feature",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Firefox OS",
         "title": "Firefox OS 1.3 Release",
@@ -374,7 +351,6 @@
     {
       "note": "**Graphics Support**:\r\nWebGL performance improvements \r\n",
       "tag": "Feature",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Firefox OS",
         "title": "Firefox OS 1.3 Release",
@@ -390,7 +366,6 @@
     {
       "note": "**Graphics**: Enable Azure content for b2g ",
       "tag": "Feature",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Firefox OS",
         "title": "Firefox OS 1.3 Release",
@@ -406,7 +381,6 @@
     {
       "note": "**NFC**: Ability to pair with a blutooth device using NFC tags.   \r\n",
       "tag": "Feature",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Firefox OS",
         "title": "Firefox OS 1.3 Release",
@@ -422,7 +396,6 @@
     {
       "note": "**NFC**: Ability to read content from NFC tags\r\n",
       "tag": "Feature",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Firefox OS",
         "title": "Firefox OS 1.3 Release",
@@ -438,7 +411,6 @@
     {
       "note": "**NFC**: NFC API ",
       "tag": "Feature",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Firefox OS",
         "title": "Firefox OS 1.3 Release",
@@ -454,7 +426,6 @@
     {
       "note": "**Performance**: Improvements to Scrolling FPS (Frames Per Second)",
       "tag": "Feature",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -462,7 +433,6 @@
     {
       "note": "**RIL**:\r\n Support for 802.1x EAP-SIM authentication for supported hotspots  \r\n",
       "tag": "Feature",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Firefox OS",
         "title": "Firefox OS 1.3 Release",
@@ -478,7 +448,6 @@
     {
       "note": "**RIL**: DSDS (Dual Sim Dual Standby) Settings added",
       "tag": "Feature",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Firefox OS",
         "title": "Firefox OS 1.3 Release",
@@ -494,7 +463,6 @@
     {
       "note": "**RTSP**:\r\nRTSP (Real Time Streaming Protocol) framework support to enable the streaming of content using the RTSP protocol.\r\n\r\n\r\n",
       "tag": "Feature",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Firefox OS",
         "title": "Firefox OS 1.3 Release",
@@ -510,7 +478,6 @@
     {
       "note": "**UX**: UX Visual Refresh of application headers and the notification bar.",
       "tag": "Feature",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -518,7 +485,6 @@
     {
       "note": "**Performance**: Improvements to application start times ",
       "tag": "Feature",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Firefox OS",
         "title": "Firefox OS 1.3 Release",
@@ -534,7 +500,6 @@
     {
       "note": "**Homescreen:**\r\nEasily access your existing apps and discover new apps according to your interests using Smart Collections",
       "tag": "Feature",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Firefox OS",
         "title": "Firefox OS 1.3 Release",
@@ -550,7 +515,6 @@
     {
       "note": "### Supported Languages in 1.3\r\n* Bulgarian\r\n* Bengali\r\n* Catalan\r\n* Czech\r\n* German\r\n* Greek\r\n* Spanish\r\n* Croatian\r\n* Hungarian\r\n* Italian\r\n* Dutch\r\n* Polish\r\n* Portuguese (Brazil)\r\n* Romanian\r\n* Russian\r\n* Slovak\r\n* Serbian\r\n* Turkish\r\n* Chinese (Traditional)",
       "tag": "Language",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Firefox OS",
         "title": "Firefox OS 1.3 Release",
@@ -566,7 +530,6 @@
     {
       "note": "**DOM API**:\r\nContacts API now uses WebIDL [bug 850430](https://bugzilla.mozilla.org/show_bug.cgi?id=850430), with associated changes:\r\n\r\n* Date properties now handled consistently across the Contacts code.\r\n* mozContacts.remove now accepts a contact ID for removal.\r\n*  The DataStore API has been enabled by default in B2G for certified apps only [bug 967414](https://bugzilla.mozilla.org/show_bug.cgi?id=967414),and its permissions have been tweaked [bug 871445](https://bugzilla.mozilla.org/show_bug.cgi?id=871445).",
       "tag": "Developer",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Firefox OS",
         "title": "Firefox OS 1.3 Release",
@@ -582,7 +545,6 @@
     {
       "note": "**DOM/API**:\r\nMulti-SIM support landed in Firefox OS (Dual-SIM-Dual-Standby or DSDS). navigator.mozMobileConnection becomes an array of MozMobileConnection instances, i.e. navigator.mozMobileConnections.  The privileged subset of this API can be used to detect MCC (country) and MNC (carrier).",
       "tag": "Developer",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Firefox OS",
         "title": "Firefox OS 1.3 Release",
@@ -598,7 +560,6 @@
     {
       "note": "**DOM/API**:\r\nThe WebIccManager API, which allows support for multiple sim cards, has had updates: iccChangeEvent has been added using using event generator [bug 814637](https://bugzilla.mozilla.org/show_bug.cgi?id=814637)",
       "tag": "Developer",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Firefox OS",
         "title": "Firefox OS 1.3 Release",
@@ -614,7 +575,6 @@
     {
       "note": "**DOM/API**:\r\nNFC has had updates:onpeerready and onpeerlost callbacks added [bug 933136](https://bugzilla.mozilla.org/show_bug.cgi?id=933136).",
       "tag": "Developer",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Firefox OS",
         "title": "Firefox OS 1.3 Release",
@@ -630,7 +590,6 @@
     {
       "note": "**DOM/API**:\r\nNew interface added \u2014 checkP2PRegistration \u2014 plus the 'ChromeOnly' interfaces eventListenerWasAdded and eventListenerWasRemoved, to support basic PeerToPeer use cases.",
       "tag": "Developer",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Firefox OS",
         "title": "Firefox OS 1.3 Release",
@@ -646,7 +605,6 @@
     {
       "note": "**DOM/API**:\r\nNew interface added \u2014 checkP2PRegistration \u2014 plus the 'ChromeOnly' interfaces eventListenerWasAdded and eventListenerWasRemoved, to support basic PeerToPeer use cases.",
       "tag": "Developer",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Firefox OS",
         "title": "Firefox OS 1.3 Release",
@@ -662,7 +620,6 @@
     {
       "note": "**DOM/API**:\r\nNew interfaces added to MozNfcManager DOM notifyUserAcceptedP2P and notifySendFileStatus [bug 959437](https://bugzilla.mozilla.org/show_bug.cgi?id=959437)",
       "tag": "Developer",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Firefox OS",
         "title": "Firefox OS 1.3 Release",
@@ -678,7 +635,6 @@
     {
       "note": "**DOM/API**:\r\nsendFile interface added to MozNFCPeer [bug 933093](https://bugzilla.mozilla.org/show_bug.cgi?id=933093).",
       "tag": "Developer",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Firefox OS",
         "title": "Firefox OS 1.3 Release",
@@ -694,7 +650,6 @@
     {
       "note": "**DOM/API**:\r\nThe SpeakerManager API has been implemented, to allow usage such as FM Radio outputting to phone speakers [bug 854753](https://bugzilla.mozilla.org/show_bug.cgi?id=854753).",
       "tag": "Developer",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Firefox OS",
         "title": "Firefox OS 1.3 Release",
@@ -710,7 +665,6 @@
     {
       "note": "**DOM/ API**:\r\nNotification.get() added to Notification API to provide a way to get current notification objects [bug 899574](https://bugzilla.mozilla.org/show_bug.cgi?id=899574).",
       "tag": "Developer",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Firefox OS",
         "title": "Firefox OS 1.3 Release",
@@ -726,7 +680,6 @@
     {
       "note": "**General Gecko**:\r\nThe navigator.onLine and console objects have been implemented in Web Workers [bug 925437](https://bugzilla.mozilla.org/show_bug.cgi?id=925437) and [bug 620935](https://bugzilla.mozilla.org/show_bug.cgi?id=620935)",
       "tag": "Developer",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Firefox OS",
         "title": "Firefox OS 1.3 Release",
@@ -742,7 +695,6 @@
     {
       "note": "**General Gecko**: The web components ShadowRoot stylesheet behaviour has been implemented [bug 929885](https://bugzilla.mozilla.org/show_bug.cgi?id=929885).",
       "tag": "Developer",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Firefox OS",
         "title": "Firefox OS 1.3 Release",
@@ -758,7 +710,6 @@
     {
       "note": "**General Gecko**: JavaScript Pointer Events have been implemented [bug 822898](https://bugzilla.mozilla.org/show_bug.cgi?id=822898).",
       "tag": "Developer",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Firefox OS",
         "title": "Firefox OS 1.3 Release",
@@ -774,7 +725,6 @@
     {
       "note": "**General Gecko**: The vtt.js WebVTT JavaScript parser has been added into Gecko [bug 895091] (https://bugzilla.mozilla.org/show_*bug.cgi?id=895091). On a related note, TextTrack now dispatches TrackEvents [bug 893309] (https://bugzilla.mozilla.org/show_bug.cgi?id=893309)",
       "tag": "Developer",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Firefox OS",
         "title": "Firefox OS 1.3 Release",
@@ -790,7 +740,6 @@
     {
       "note": "**General Gecko**:  The vtt.js WebVTT JavaScript parser has been added into Gecko [bug 895091] (https://bugzilla.mozilla.org/show_*bug.cgi?id=895091). On a related note, TextTrack now dispatches TrackEvents [bug 893309] (https://bugzilla.mozilla.org/show_bug.cgi?id=893309)",
       "tag": "Developer",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Firefox OS",
         "title": "Firefox OS 1.3 Release",
@@ -806,7 +755,6 @@
     {
       "note": "**General Gecko**: Shared workers are implemented but disabled by default in Gecko 28 (set the dom.workers.sharedWorkers.enabled to true to enable.) They are enabled by default in Gecko 29 ",
       "tag": "Developer",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Firefox OS",
         "title": "Firefox OS 1.3 Release",
@@ -822,7 +770,6 @@
     {
       "note": "###General Gecko:\r\n* WebIDL enum added for for AudioChannel in HTMLMediaElement (see [bug 925594](https://bugzilla.mozilla.org/show_bug.cgi?id=925594)\r\n* HTMLVideoElement.canPlayType('video/webm') now reports maybe. [bug 884275](https://bugzilla.mozilla.org/show_bug.cgi?id=884275)\r\n* The DocumentFragment.getElementById() method has been implemented. E.g. document.createDocumentFragment().getElementById() [bug 933193](https://bugzilla.mozilla.org/show_bug.cgi?id=933193).\r\n* The KeyboardEvent.repeat attribute has been implemented [bug 600117](https://bugzilla.mozilla.org/show_bug.cgi?id=600117)\r\n* The File constructor, e.g. new File([\"foo\"], \"foo.txt\") has been implemented. [bug 819900](https://bugzilla.mozilla.org/show_bug.cgi?id=819900)\r\n* The navigator.plugins is no more enumerable, for privacy reasons [bug 757726](https://bugzilla.mozilla.org/show_bug.cgi?id=757726)\r\n* The two attributes Window.screenX and Window.screenY now return CSS pixels (and no more device pixels) [bug 943668](https://bugzilla.mozilla.org/show_bug.cgi?id=943668)\r\n* The two methods CanvasRenderingContext2D.drawSystemFocusRing() and CanvasRenderingContext2D.drawCustomFocusRing() have been implemented. The preference canvas.focusring.enabled must be set to true to activate both [bug 540456](https://bugzilla.mozilla.org/show_bug.cgi?id=540456)\r\n* The following attributes have been added to NavigatorID: appCodeName and product [bug 925847](https://bugzilla.mozilla.org/show_bug.cgi?id=925847)\r\n* Support for the two setRange() methods on the HTMLInputElement interface has been added [bug 850364](https://bugzilla.mozilla.org/show_bug.cgi?id=850364).\r\n* Support for the two setRange() methods on the HTMLTextAreaElement interface has been added [bug 918940](https://bugzilla.mozilla.org/show_bug.cgi?id=918940)\r\n* The method getAllKeys() and openKeyCursor() have been added to IDBObjectStore [bug 920633](https://bugzilla.mozilla.org/show_bug.cgi?id=920633) and [bug 920800](https://bugzilla.mozilla.org/show_bug.cgi?id=920800)\r\n* The HTMLFormControlsCollection interface has been implemented [bug 913920](https://bugzilla.mozilla.org/show_bug.cgi?id=913920)\r\n* The CanvasRenderingContext2D interface supports now the two methods getLineDash() and setLineDash() [bug 768067](https://bugzilla.mozilla.org/show_bug.cgi?id=768067)\r\n* The typeMustMatch attribute has been implemented on the HTMLObjectElement interface [bug 827160](https://bugzilla.mozilla.org/show_bug.cgi?id=827160)\r\n* The copyFromChannel() and copyToChannel() methods have been added to AudioBuffer [bug 915524](https://bugzilla.mozilla.org/show_bug.cgi?id=915524)\r\n* Event.isTrusted() is now unforgeable [bug 637248](https://bugzilla.mozilla.org/show_bug.cgi?id=637248)\r\n* The Navigator.vibrate() method has been adapted to match the final specification: It now returns false when the list is too long or has too large entries, instead of throwing [bug 884935](https://bugzilla.mozilla.org/show_bug.cgi?id=884935)\r\n* As part of the ongoing effort to standardize global objects, the non-standard stylesheet change event interfaces, including StyleRuleChangeEvent, StyleSheetApplicableStateChangeEvent and StyleSheetChangeEvent, are no longer available from Web content. The CSSGroupRuleRuleList interface, the implementation detail of CSSRuleList, has also been removed [bug 872934](https://bugzilla.mozilla.org/show_bug.cgi?id=872934) and [bug 916871](https://bugzilla.mozilla.org/show_bug.cgi?id=916871)\r\n* atob now ignores whitespaces [bug 711180](https://bugzilla.mozilla.org/show_bug.cgi?id=711180)\r\n* WebGL: MOZ_ prefixed extension strings are deprecated. Support for them will be removed in the future. Use unprefixed extension string only. To get draft extensions, set the webgl.enable-draft-extensions preferences [bug 924176](https://bugzilla.mozilla.org/show_bug.cgi?id=924176)",
       "tag": "Developer",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Firefox OS",
         "title": "Firefox OS 1.3 Release",

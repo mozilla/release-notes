@@ -6,7 +6,6 @@
     {
       "note": "Pull-to-refresh on synced tabs page",
       "tag": "New",
-      "sort_num": 180,
       "is_public": true,
       "is_known_issue": false,
       "bug": 850600
@@ -14,7 +13,6 @@
     {
       "note": "Ability to re-order existing panels in about:home",
       "tag": "New",
-      "sort_num": 150,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -22,7 +20,6 @@
     {
       "note": "Hindi [hi-IN] locale added",
       "tag": "New",
-      "sort_num": 100,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -30,7 +27,6 @@
     {
       "note": "Integration of generational garbage collection",
       "tag": "New",
-      "sort_num": 80,
       "is_public": true,
       "is_known_issue": false,
       "bug": 619558
@@ -38,7 +34,6 @@
     {
       "note": "OdinMonkey: Use backtracking allocator for asm.js style code",
       "tag": "New",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -46,7 +41,6 @@
     {
       "note": "mozilla::pkix as default certificate verifier ([learn more][1])\r\n\r\n\r\n  [1]: https://blog.mozilla.org/security/2014/04/24/exciting-updates-to-certificate-verification-in-gecko/",
       "tag": "New",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 915930
@@ -54,7 +48,6 @@
     {
       "note": "Partial implementation of the <a href=\"http://mpeg.chiariglione.org/standards/mpeg-4/open-font-format/text-isoiec-cd-14496-22-3rd-edition\">OpenType MATH table</a> (section 6.3.6) see <a href=\"https://developer.mozilla.org/en-US/docs/Mozilla/MathML_Project/Fonts\">documentation about mathematical fonts</a> and the <a href=\"https://developer.mozilla.org/en-US/docs/Mozilla/MathML_Project/MathML_Torture_Test\">MathML Torture Test</a> for details",
       "tag": "New",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 407059
@@ -62,7 +55,6 @@
     {
       "note": "WebVTT implemented and enabled (<a href=\"https://developer.mozilla.org/en-US/docs/HTML/WebVTT\">learn more</a>)",
       "tag": "HTML5",
-      "sort_num": 200,
       "is_public": true,
       "is_known_issue": false,
       "bug": 629350
@@ -70,7 +62,6 @@
     {
       "note": "CSS3 variables implemented ([learn more][1])\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_variables",
       "tag": "HTML5",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -78,7 +69,6 @@
     {
       "note": "navigator.sendBeacon enabled by default ([learn more][1])\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/navigator.sendBeacon",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 990220
@@ -86,7 +76,6 @@
     {
       "note": "New Array built-in: Array.prototype.fill() (<a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/fill\">learn more</a>)",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 911147
@@ -94,7 +83,6 @@
     {
       "note": "New Object built-in: Object.setPrototypeOf() ([learn more][1])\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/setPrototypeOf",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 911147
@@ -102,7 +90,6 @@
     {
       "note": "CSP 1.1 nonce-source and hash-source enabled by default",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 979580
@@ -110,7 +97,6 @@
     {
       "note": "After MP4 video playback, video can not be played again ([1005622][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1005622",
       "tag": "Known",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Firefox for Android",
         "title": "Firefox for Android 30.0 Release",

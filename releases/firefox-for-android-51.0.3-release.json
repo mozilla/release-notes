@@ -6,7 +6,6 @@
     {
       "note": "Reference link for [51.0.2 release notes for Firefox for Android][1]\r\n\r\n\r\n  [1]: https://www.mozilla.com/firefox/android/51.0.2/releasenotes/",
       "tag": "",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -14,7 +13,6 @@
     {
       "note": "Fix a build issue which was causing some crashes on some x86 architectures  ([bug 1337290][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1337290",
       "tag": "Fixed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1337290
@@ -22,7 +20,6 @@
     {
       "note": "Various [security fixes][1] \r\n[1]: https://www.mozilla.org/en-US/security/known-vulnerabilities/firefox/#firefox51.0.3",
       "tag": "Fixed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": null

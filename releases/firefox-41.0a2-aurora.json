@@ -6,7 +6,6 @@
     {
       "note": "SVG images can be used as favicons",
       "tag": "New",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 366324
@@ -14,7 +13,6 @@
     {
       "note": "[Memory overhead of AdBlock Plus][1] has been greatly reduced\r\n\r\n[1]:https://blog.mozilla.org/nnethercote/2015/07/01/firefox-41-will-use-less-memory-when-running-adblock-plus",
       "tag": "Changed",
-      "sort_num": 10,
       "is_public": true,
       "is_known_issue": false,
       "bug": 77999
@@ -22,7 +20,6 @@
     {
       "note": "WebRTC now requires [perfect forward secrecy][1]\r\n\r\n[1]: https://hacks.mozilla.org/2015/02/webrtc-requires-perfect-forward-secrecy-pfs-starting-in-firefox-38/ ",
       "tag": "Changed",
-      "sort_num": 10,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1167066
@@ -30,7 +27,6 @@
     {
       "note": "Updates to image decoding process",
       "tag": "Changed",
-      "sort_num": 10,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1152147
@@ -38,7 +34,6 @@
     {
       "note": "Support for running [animations][1] of 'transform' and 'opacity' on the compositor thread\r\n\r\n\r\n  [1]: https://wiki.mozilla.org/Platform/GFX/OffMainThreadCompositing#CSS_Animations",
       "tag": "Changed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 980770
@@ -46,7 +41,6 @@
     {
       "note": "[MessageChannel][1] and [MessagePort][2] API enabled by default\r\n\r\n[1]: https://developer.mozilla.org/en-US/docs/Web/API/MessageChannel\r\n[2]: https://developer.mozilla.org/docs/Web/API/MessagePort",
       "tag": "HTML5",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 911972
@@ -54,7 +48,6 @@
     {
       "note": "Added support for the [transform-origin][1] property on SVG elements\r\n\r\n[1]:https://developer.mozilla.org/docs/Web/CSS/transform-origin",
       "tag": "HTML5",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 923193
@@ -62,7 +55,6 @@
     {
       "note": "Copy/Cut Web content from JavaScript to the OS clipboard with [document.execCommand(\"cut\"/\"copy\")][1]\r\n\r\n[1]: https://developer.mozilla.org/docs/Web/API/Document/execCommand",
       "tag": "HTML5",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1012662
@@ -70,7 +62,6 @@
     {
       "note": "Implemented [Cache API][1] for querying named caches that are accessible Window, Worker, and ServiceWorker\r\n\r\n[1]:https://developer.mozilla.org/docs/Web/API/CacheStorage",
       "tag": "HTML5",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1110144
@@ -78,7 +69,6 @@
     {
       "note": "[CSS Font Loading API][1] enabled by default\r\n\r\n[1]: http://dev.w3.org/csswg/css-font-loading/",
       "tag": "HTML5",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1149381
@@ -86,7 +76,6 @@
     {
       "note": "[Navigator.onLine][1] now varies with actual internet connectivity (Windows and Mac OS X only)\r\n\r\n[1]: https://developer.mozilla.org/docs/Web/API/NavigatorOnLine/onLine",
       "tag": "HTML5",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 654579
@@ -94,7 +83,6 @@
     {
       "note": "Removed support for binary XPCOM components in extensions, use addon SDK \"system/child_process\" pipe mechanism for native binaries instead",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1159737
@@ -102,7 +90,6 @@
     {
       "note": "Network requests can be exported in [HAR][1] format\r\n\r\n[1]: http://www.softwareishard.com/blog/har-12-spec/",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 859058
@@ -110,7 +97,6 @@
     {
       "note": "View [HTML source in a tab][1]\r\n\r\n[1]:https://hacks.mozilla.org/2015/07/developer-edition-41-view-source-in-a-tab-screenshot-elements-har-files-and-more/",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1067325
@@ -118,7 +104,6 @@
     {
       "note": "Quickly [add new CSS rule][1] with New Rule button in the Inspector\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector/How_to/Examine_and_edit_CSS#Add_rules",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1165122
@@ -126,7 +111,6 @@
     {
       "note": "Screenshot a node or element from markup view with the Screenshot Node context menu item",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1163332
@@ -134,7 +118,6 @@
     {
       "note": "Copy element CSS rule declarations with the Copy Rule Declaration context menu item in the Inspector",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1024693

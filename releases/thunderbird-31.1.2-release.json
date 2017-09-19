@@ -6,7 +6,6 @@
     {
       "note": "Fixed an issue where anchor links would not work in HTML emails (<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=974857\">Bug 974857</a>)",
       "tag": "Fixed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -14,7 +13,6 @@
     {
       "note": "Security fixes can be found <a href=\"http://www.mozilla.org/security/known-vulnerabilities/thunderbird.html#thunderbird31.1.2\">here</a>",
       "tag": "Fixed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -22,7 +20,6 @@
     {
       "note": "Installing extensions within Thunderbird requires download and installing as a file (<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1081190\">bug 1081190</a>)",
       "tag": "Known",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 31.4.0 Release",
@@ -38,7 +35,6 @@
     {
       "note": "Users of jp mac builds may have issues with no mail folders being displayed in the main window. Running Thunderbird in 32-bit mode temporarily will workaround this issue.",
       "tag": "Known",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 31.4.0 Release",

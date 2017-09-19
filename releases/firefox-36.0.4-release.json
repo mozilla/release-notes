@@ -6,7 +6,6 @@
     {
       "note": "36.0.4: [Security fixes][1] for issues disclosed at HP Zero Day Initiative's Pwn2Own contest\r\n\r\n[1]: https://www.mozilla.org/security/known-vulnerabilities/firefox/#firefox36.0.4",
       "tag": "Fixed",
-      "sort_num": 15000,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -14,7 +13,6 @@
     {
       "note": "Pinned tiles on the new tab page can be synced",
       "tag": "New",
-      "sort_num": 1000,
       "is_public": true,
       "is_known_issue": false,
       "bug": 739820
@@ -22,7 +20,6 @@
     {
       "note": "Support for the full HTTP/2 protocol. HTTP/2 enables a faster, more scalable, and more responsive web.",
       "tag": "New",
-      "sort_num": 100,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1097320
@@ -30,7 +27,6 @@
     {
       "note": "Locale added: Uzbek (uz)",
       "tag": "New",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1126794
@@ -38,7 +34,6 @@
     {
       "note": "No longer accept insecure RC4 ciphers whenever possible",
       "tag": "Changed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1088915
@@ -46,7 +41,6 @@
     {
       "note": "[Phasing out Certificates][1] with 1024-bit RSA Keys\r\n\r\n\r\n  [1]: https://blog.mozilla.org/security/2015/01/28/phase-2-phasing-out-certificates-with-1024-bit-rsa-keys/",
       "tag": "Changed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -54,7 +48,6 @@
     {
       "note": "Shut down hangs will now show the crash reporter before exiting the program",
       "tag": "Changed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1124880
@@ -62,7 +55,6 @@
     {
       "note": "[Add-on Compatibility][1]\r\n\r\n\r\n  [1]: https://blog.mozilla.org/addons/2015/01/13/compatibility-for-firefox-36/",
       "tag": "Changed",
-      "sort_num": -1,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -70,7 +62,6 @@
     {
       "note": "Support for the [ECMAScript 6 Symbol][1] data type added\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol\r\n",
       "tag": "HTML5",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 645416
@@ -78,7 +69,6 @@
     {
       "note": "[unicode-range CSS descriptor][1] implemented\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/unicode-range",
       "tag": "HTML5",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 475891
@@ -86,7 +76,6 @@
     {
       "note": "CSSOM-View scroll behavior implemented allowing smooth scrolling of content without custom libraries",
       "tag": "HTML5",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1087562
@@ -94,7 +83,6 @@
     {
       "note": "[object-fit][1] and [object-position][2] implemented.<br />Defines how and where the content of a replaced element is displayed\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/object-fit\r\n  [2]: https://developer.mozilla.org/en-US/docs/Web/CSS/object-position\r\n",
       "tag": "HTML5",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 624647
@@ -102,7 +90,6 @@
     {
       "note": "[isolation CSS][1] property implemented.<br />Create a new stacking context to isolate groups of boxes to control which blend together\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/isolation",
       "tag": "HTML5",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1091885
@@ -110,7 +97,6 @@
     {
       "note": "CSS3 [will-change property][1] implemented.<br />Hints the browser of elements that will be modified. The browser will\r\nperform some performance optimization for these\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/will-change",
       "tag": "HTML5",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 961871
@@ -118,7 +104,6 @@
     {
       "note": "[Improved ES6 generators][1] for better performance\r\n\r\n\r\n  [1]: https://wingolog.org/archives/2014/11/14/generators-in-firefox-now-twenty-two-times-faster",
       "tag": "HTML5",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 903457
@@ -126,7 +111,6 @@
     {
       "note": "Changed JavaScript ['const' semantics][1] to conform better to the ES6 specification.<br />The const declaration is now block-scoped and requires an initializer. It also can not be redeclared anymore.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/const",
       "tag": "HTML5",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 611388
@@ -134,7 +118,6 @@
     {
       "note": "[Eval sources][1] now appear in the Debugger<br />Debug JavaScript code that is evaluated dynamically, either as a string passed to eval() or as a string passed to the Function constructor\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Debugger/How_to/Debug_eval_sources",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 583083
@@ -142,7 +125,6 @@
     {
       "note": "DOM [Promises inspection][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Web_Console#Type-specific_rich_output",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1033153
@@ -150,7 +132,6 @@
     {
       "note": "Inspector: More [paste options][1] in markup view\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector/How_to/Examine_and_edit_HTML#Element_popup_menu",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1095521
@@ -158,7 +139,6 @@
     {
       "note": "36.0.3: [Security fixes][1] for issues disclosed at HP Zero Day Initiative's Pwn2Own contest\r\n\r\n[1]: https://www.mozilla.org/security/known-vulnerabilities/firefox/#firefox36.0.3",
       "tag": "Fixed",
-      "sort_num": 13000,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -166,7 +146,6 @@
     {
       "note": "36.0.1 - Hello may become inactive until restart ([1137469][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1137469",
       "tag": "Fixed",
-      "sort_num": 10000,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1137469
@@ -174,7 +153,6 @@
     {
       "note": "36.0.1 - Print preferences may not be preserved ([1136855][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1136855",
       "tag": "Fixed",
-      "sort_num": 10000,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1136855
@@ -182,7 +160,6 @@
     {
       "note": "36.0.1 - Hello contact tabs may not be visible ([1137141][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1137141",
       "tag": "Fixed",
-      "sort_num": 10000,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1137141
@@ -190,7 +167,6 @@
     {
       "note": "36.0.1 - Disable the usage of the ANY DNS query type ([1093983][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1093983",
       "tag": "Fixed",
-      "sort_num": 10000,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1093983
@@ -198,7 +174,6 @@
     {
       "note": "36.0.1 - Fixed a startup crash with EMET ([1137050][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1137050",
       "tag": "Fixed",
-      "sort_num": 10000,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1137050
@@ -206,7 +181,6 @@
     {
       "note": "36.0.1 - WebGL may use significant memory with Canvas2d ([1137251][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1137251",
       "tag": "Fixed",
-      "sort_num": 10000,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1137251
@@ -214,7 +188,6 @@
     {
       "note": "36.0.1 - Accept hostnames that include an underscore character (\"_\") ([1136616][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1136616",
       "tag": "Fixed",
-      "sort_num": 10000,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1136616
@@ -222,7 +195,6 @@
     {
       "note": "36.0.1 - Option -remote has been restored ([1080319][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1080319",
       "tag": "Fixed",
-      "sort_num": 10000,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1080319
@@ -230,7 +202,6 @@
     {
       "note": "36.0.1 - Fix a top crash",
       "tag": "Fixed",
-      "sort_num": 9999,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1132358
@@ -238,7 +209,6 @@
     {
       "note": "Various <a href=\"https://www.mozilla.org/security/known-vulnerabilities/firefox.html\">security fixes</a>",
       "tag": "Fixed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -246,7 +216,6 @@
     {
       "note": "[CSS gradients][1] work on premultiplied colors\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/gradient",
       "tag": "Fixed",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Firefox",
         "title": "Firefox 36.0beta Beta",
@@ -262,7 +231,6 @@
     {
       "note": " Fix some unexpected logout from Facebook or Google after restart",
       "tag": "Fixed",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Firefox",
         "title": "Firefox 36.0beta Beta",
@@ -278,7 +246,6 @@
     {
       "note": "Style Editor: Extra white space appearing above the editor for a sourcemapped scss file ([1128747][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1128747",
       "tag": "Known",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Firefox",
         "title": "Firefox 37.0 Release",
@@ -294,7 +261,6 @@
     {
       "note": "For users who removed the Share & Hello buttons, this new version brings them back unexpectedly ([1136300][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1136300",
       "tag": "Known",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": true,
       "bug": 1136300
@@ -302,7 +268,6 @@
     {
       "note": "Firefox Hello does not work for link generators if there is no camera installed ([1106941][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1106941",
       "tag": "Known",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": true,
       "bug": 1106941

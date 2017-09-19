@@ -6,7 +6,6 @@
     {
       "note": "[Forget Button][1] added\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/forget-button-quickly-delete-your-browsing-history",
       "tag": "New",
-      "sort_num": 1000,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1069300
@@ -14,7 +13,6 @@
     {
       "note": "[Enhanced Tiles][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/en-US/firefox/tiles/",
       "tag": "New",
-      "sort_num": 100,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1030832
@@ -22,7 +20,6 @@
     {
       "note": "Privacy tour introduced",
       "tag": "New",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1071187
@@ -30,7 +27,6 @@
     {
       "note": "Adding DuckDuckGo as a search option",
       "tag": "New",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1061736
@@ -38,7 +34,6 @@
     {
       "note": "PDF.js: With some images, wrong colors could show up. Affects a very small number of PDF",
       "tag": "Known",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": true,
       "bug": 1072164
@@ -46,7 +41,6 @@
     {
       "note": "Windows: Interface may be slow when typing or selecting text ([1089183][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1089183",
       "tag": "Known",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": true,
       "bug": 1087674
@@ -54,7 +48,6 @@
     {
       "note": "Windows: On some combination of hardware and drivers, some flickering can happen\r\n",
       "tag": "Known",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": true,
       "bug": null

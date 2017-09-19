@@ -6,7 +6,6 @@
     {
       "note": "Large attachments may not be shown or saved correctly if the message is stored in an IMAP folder which is not synchronized for offline use",
       "tag": "Fixed",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 52.1.1 Release",
@@ -22,7 +21,6 @@
     {
       "note": "Unable to load full message via POP if message was downloaded partially (or only headers) before",
       "tag": "Fixed",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 52.1.1 Release",
@@ -38,7 +36,6 @@
     {
       "note": "Some attachments can't be opened or saved if the message body is empty",
       "tag": "Fixed",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 52.1.1 Release",
@@ -54,7 +51,6 @@
     {
       "note": "Crash when compacting IMAP folder",
       "tag": "Fixed",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 52.1.1 Release",
@@ -70,7 +66,6 @@
     {
       "note": "Large number of blank pages being printed under certain circumstances. **To fix this problem,** remove all printer specific preferences in the configuration editor.",
       "tag": "Known",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": true,
       "bug": 1353625
@@ -78,7 +73,6 @@
     {
       "note": "Crash due to incompatibility with McAfee Anti-SPAM add-on. **Workaround:** Start in safe mode and disable McAfee Anti-Spam Extension",
       "tag": "Known",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": true,
       "bug": 1281610
@@ -86,7 +80,6 @@
     {
       "note": "Messages sent via the Simple MAPI interface are forced to HTML. Will be fixed in next release.",
       "tag": "Known",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": true,
       "bug": 1366196

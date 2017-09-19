@@ -6,7 +6,6 @@
     {
       "note": "Option added to clear data when quitting",
       "tag": "New",
-      "sort_num": 109,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1001309
@@ -14,7 +13,6 @@
     {
       "note": "Enhanced tab management:\r\n\r\n - Undo a closed tab\r\n -  List recently closed tabs\r\n - Close all tabs at once\r\n - Quick switch-to-tab option when opening a new or private tab",
       "tag": "New",
-      "sort_num": 108,
       "is_public": true,
       "is_known_issue": false,
       "bug": 701725
@@ -22,7 +20,6 @@
     {
       "note": "Slimmer and faster [JavaScript strings][1]\r\n\r\n  [1]: https://blog.mozilla.org/javascript/2014/07/21/slimmer-and-faster-javascript-strings-in-firefox/",
       "tag": "New",
-      "sort_num": 98,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1037871
@@ -30,7 +27,6 @@
     {
       "note": "New CSP (Content Security Policy) backend",
       "tag": "New",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 925004
@@ -38,7 +34,6 @@
     {
       "note": "Support for the [ECMAScript 6 Symbol][1] data type added\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol\r\n",
       "tag": "HTML5",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 645416
@@ -46,7 +41,6 @@
     {
       "note": "[DOMMatrix][1] interface implemented\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/DOMMatrix",
       "tag": "HTML5",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1018497
@@ -54,7 +48,6 @@
     {
       "note": "[Paint flashing][1] for browser content repaints\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Paint_Flashing_Tool",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 900692
@@ -62,7 +55,6 @@
     {
       "note": "Fix incomplete downloads being marked as complete by detecting broken HTTP1.1 transfers ([237623][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=237623",
       "tag": "Known",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Firefox",
         "title": "Firefox 33.0 Release",

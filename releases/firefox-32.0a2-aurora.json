@@ -6,7 +6,6 @@
     {
       "note": "View historical use information for logins stored in password manager",
       "tag": "New",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Firefox",
         "title": "Firefox 30.0a2 Aurora",
@@ -22,7 +21,6 @@
     {
       "note": "Display the number of found items in the find toolbar ",
       "tag": "New",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 257061
@@ -30,7 +28,6 @@
     {
       "note": "drawFocusIfNeeded enabled by default",
       "tag": "HTML5",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 1004579
@@ -38,7 +35,6 @@
     {
       "note": "ECMAScript 6 built-in method [Array#copyWithin implemented][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/Firefox/Releases/32#JavaScript",
       "tag": "HTML5",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 934423
@@ -46,7 +42,6 @@
     {
       "note": "CSS [position:sticky][1] enabled by default\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/position",
       "tag": "HTML5",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 916315
@@ -54,7 +49,6 @@
     {
       "note": "mix-blend-mode enabled by default ",
       "tag": "HTML5",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 952643
@@ -62,7 +56,6 @@
     {
       "note": "HiDPI support in Developer Tools UI",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 837188
@@ -70,7 +63,6 @@
     {
       "note": "Inspector button moved to the top left",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 991810
@@ -78,7 +70,6 @@
     {
       "note": "Hidden nodes displayed differently in the markup-view",
       "tag": "Developer",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": 911209
@@ -86,7 +77,6 @@
     {
       "note": "Exit is not always completed when \"clear history when Firefox closes\" is enabled ([1005487][1])\r\n\r\n\r\n  [1]: http://bugzilla.mozilla.org/1005487",
       "tag": "Known",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": true,
       "bug": 1005487
@@ -94,7 +84,6 @@
     {
       "note": " Repeating background image causes weird text layout issue with HWA off ([1011166][1])\r\n\r\n\r\n  [1]: http://bugzilla.mozilla.org/1011166",
       "tag": "Known",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": true,
       "bug": 1011166

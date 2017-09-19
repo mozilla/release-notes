@@ -6,7 +6,6 @@
     {
       "note": "Folder pane toolbar and folder view selector (replacement for folder view arrows)",
       "tag": "New",
-      "sort_num": 10,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 49.0beta Beta",
@@ -22,7 +21,6 @@
     {
       "note": "Import settings from Becky! Internet Mail",
       "tag": "New",
-      "sort_num": 7,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 49.0beta Beta",
@@ -38,7 +36,6 @@
     {
       "note": "In compose, allow separate options for initial mode (Paragraph or Body Text) and behavior of Enter key.",
       "tag": "New",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 49.0beta Beta",
@@ -54,7 +51,6 @@
     {
       "note": "Permanently remove Eudora import.",
       "tag": "Changed",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 49.0beta Beta",
@@ -70,7 +66,6 @@
     {
       "note": "Removed compose window recycling.",
       "tag": "Changed",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 49.0beta Beta",
@@ -86,7 +81,6 @@
     {
       "note": "Mac OX X 10.6, 10.7, and 10.8 are no longer supported.",
       "tag": "Changed",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": false,
       "bug": null
@@ -94,7 +88,6 @@
     {
       "note": "When attachment unavailable, compose shows endless \"Attaching...\" message instead of error",
       "tag": "Fixed",
-      "sort_num": 9,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 49.0beta Beta",
@@ -110,7 +103,6 @@
     {
       "note": "Menu items for \"Edit draft\" functionality were missing",
       "tag": "Fixed",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 49.0beta Beta",
@@ -126,7 +118,6 @@
     {
       "note": "Plain text composition had wrapping issues.",
       "tag": "Fixed",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 49.0beta Beta",
@@ -142,7 +133,6 @@
     {
       "note": "Attachment reminder not showing in various cases.",
       "tag": "Fixed",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Firefox",
         "title": "Firefox 49.0beta Beta",
@@ -158,7 +148,6 @@
     {
       "note": "Table properties stopped showing with double-click of table cell in compose.",
       "tag": "Fixed",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 49.0beta Beta",
@@ -174,7 +163,6 @@
     {
       "note": "Threading broken when editing message draft, due to loss of Message-ID",
       "tag": "Fixed",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 49.0beta Beta",
@@ -190,7 +178,6 @@
     {
       "note": "\"View as plain text\" displayed converted HTML part even when plain text part exists.",
       "tag": "Fixed",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 49.0beta Beta",
@@ -206,7 +193,6 @@
     {
       "note": "Mail address display at header pane displayed incorrectly if the address contains UTF-8 according to RFC 6532",
       "tag": "Fixed",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 49.0beta Beta",
@@ -222,7 +208,6 @@
     {
       "note": "Mail saved as template copied In-Reply-To and References from original email.",
       "tag": "Fixed",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 49.0beta Beta",
@@ -238,7 +223,6 @@
     {
       "note": "Additional spaces were inserted when drafts were edited.",
       "tag": "Fixed",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 49.0beta Beta",
@@ -254,7 +238,6 @@
     {
       "note": "\"Edit as New Message\" on a received message pre-filled the Sender as the author rather than the current user.",
       "tag": "Fixed",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 49.0beta Beta",
@@ -270,7 +253,6 @@
     {
       "note": "Custom headers (like Disposition-Notification-To) were not set correctly.",
       "tag": "Fixed",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 49.0beta Beta",
@@ -286,7 +268,6 @@
     {
       "note": "Recipient addresses were shown in red despite being inserted from the address book in some circumstances. ",
       "tag": "Fixed",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 49.0beta Beta",
@@ -302,7 +283,6 @@
     {
       "note": "Display name was truncated if no separating space before email address.",
       "tag": "Fixed",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 49.0beta Beta",
@@ -318,7 +298,6 @@
     {
       "note": "Embedded image with source URL with ? led to incorrect image reference",
       "tag": "Fixed",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 49.0beta Beta",

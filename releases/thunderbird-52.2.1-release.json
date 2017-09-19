@@ -6,7 +6,6 @@
     {
       "note": "Problems with Gmail (folders not showing, repeated email download, etc.) introduced in version 52.2.0.",
       "tag": "Fixed",
-      "sort_num": 0,
       "fixed_in_release": {
         "product": "Thunderbird",
         "title": "Thunderbird 52.2.1 Release",
@@ -22,7 +21,6 @@
     {
       "note": "On Windows, \"Send to > Mail recipient\" does not work. Workaround: Install the [Microsoft Visual Studio 2015 redistributable runtime library][1] or the [Universal C Runtime for Windows Server][2].\r\n\r\n\r\n  [1]: https://www.microsoft.com/en-us/download/details.aspx?id=53587\r\n  [2]: https://support.microsoft.com/en-us/help/2999226/update-for-universal-c-runtime-in-windows",
       "tag": "Known",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": true,
       "bug": 1356902
@@ -30,7 +28,6 @@
     {
       "note": "Multiple requests for master password when GMail OAuth2 is enabled",
       "tag": "Known",
-      "sort_num": 0,
       "is_public": true,
       "is_known_issue": true,
       "bug": 1176399
