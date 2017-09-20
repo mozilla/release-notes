@@ -9,6 +9,7 @@
     {
       "bug": null,
       "created": "2015-04-03T04:22:04+00:00",
+      "id": 786045,
       "is_public": true,
       "modified": "2015-04-14T15:21:51+00:00",
       "note": "Reference: [Release notes for Firefox 37.0][1]\r\n\r\n[1]: https://www.mozilla.org/mobile/37.0/releasenotes/",
@@ -18,6 +19,7 @@
     {
       "bug": 1148328,
       "created": "2015-04-03T04:04:11+00:00",
+      "id": 786041,
       "is_public": true,
       "modified": "2015-04-20T18:17:55+00:00",
       "note": "Disabled HTTP/2 AltSvc",
@@ -35,6 +37,7 @@
         "title": "Firefox for Android 37.0.1 Release",
         "version": "37.0.1"
       },
+      "id": 786044,
       "is_public": true,
       "modified": "2015-04-14T15:20:37+00:00",
       "note": "Crash due to WebRTC usage on certain web sites",
@@ -44,6 +47,7 @@
     {
       "bug": null,
       "created": "2015-04-03T04:02:58+00:00",
+      "id": 786040,
       "is_public": true,
       "modified": "2015-04-20T18:31:44+00:00",
       "note": "Various [security fixes][1]\r\n\r\n[1]:https://www.mozilla.org/security/known-vulnerabilities/firefox/#firefox37.0.1",
@@ -53,6 +57,7 @@
     {
       "bug": 1131084,
       "created": "2015-02-16T12:51:52+00:00",
+      "id": 785927,
       "is_public": true,
       "modified": "2015-04-14T15:21:21+00:00",
       "note": "January Chromecast firmware update broke tab mirroring ([1131084][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/1131084",
@@ -70,6 +75,7 @@
         "title": "Firefox for Android 38.0a2 Aurora",
         "version": "38.0a2"
       },
+      "id": 785928,
       "is_public": true,
       "modified": "2015-04-14T15:20:10+00:00",
       "note": "On Android 2.3, 3.0 and 4.0, some WebM videos cannot be read properly ([1131563][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1131563",

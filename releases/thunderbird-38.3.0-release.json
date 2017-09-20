@@ -9,6 +9,7 @@
     {
       "bug": 1152743,
       "created": "2015-09-29T22:03:28+00:00",
+      "id": 786307,
       "is_public": true,
       "modified": "2015-09-29T22:03:28+00:00",
       "note": "Saved files tab now implements Search field and Clear button.",
@@ -18,6 +19,7 @@
     {
       "bug": 1180360,
       "created": "2015-09-17T18:00:21+00:00",
+      "id": 786278,
       "is_public": true,
       "modified": "2015-09-29T21:43:48+00:00",
       "note": "(Right-)Clicking on a newsgroup now allows directly composing a message again",
@@ -27,6 +29,7 @@
     {
       "bug": 1188306,
       "created": "2015-09-17T18:03:15+00:00",
+      "id": 786279,
       "is_public": true,
       "modified": "2015-09-29T21:43:48+00:00",
       "note": "Importing to the address book from CSV now works with international characters",
@@ -36,6 +39,7 @@
     {
       "bug": 797710,
       "created": "2015-09-17T18:09:29+00:00",
+      "id": 786283,
       "is_public": true,
       "modified": "2015-09-29T21:43:48+00:00",
       "note": "Thunderbird no longer crashes when executing filter rules when using maildir",
@@ -45,6 +49,7 @@
     {
       "bug": 1175242,
       "created": "2015-09-17T18:13:25+00:00",
+      "id": 786285,
       "is_public": true,
       "modified": "2015-09-29T21:43:48+00:00",
       "note": "When using the maildir storage format, the INBOX folder is no longer deleted",
@@ -54,6 +59,7 @@
     {
       "bug": 1197686,
       "created": "2015-09-17T18:17:15+00:00",
+      "id": 786286,
       "is_public": true,
       "modified": "2015-09-29T21:43:48+00:00",
       "note": "Emails with long References headers are now decoded correctly",
@@ -63,6 +69,7 @@
     {
       "bug": 1196662,
       "created": "2015-09-17T18:19:35+00:00",
+      "id": 786287,
       "is_public": true,
       "modified": "2015-09-29T21:43:48+00:00",
       "note": "Checking for new messages correctly works after hibernation again",
@@ -72,6 +79,7 @@
     {
       "bug": 1146698,
       "created": "2015-09-29T21:58:58+00:00",
+      "id": 786306,
       "is_public": true,
       "modified": "2015-09-29T22:00:41+00:00",
       "note": "Chat entries are no longer sometimes lost in global database at shutdown.",

@@ -9,6 +9,7 @@
     {
       "bug": null,
       "created": "2014-07-22T00:58:30+00:00",
+      "id": 785670,
       "is_public": true,
       "modified": "2014-07-22T00:58:30+00:00",
       "note": "Ability to re-order existing panels in browser homescreen ",
@@ -18,6 +19,7 @@
     {
       "bug": 850600,
       "created": "2014-07-16T08:35:46+00:00",
+      "id": 785647,
       "is_public": true,
       "modified": "2014-07-22T00:59:10+00:00",
       "note": "Added ability to refresh synced tabs on demand",
@@ -27,6 +29,7 @@
     {
       "bug": null,
       "created": "2014-06-12T04:30:53+00:00",
+      "id": 785610,
       "is_public": true,
       "modified": "2014-07-21T02:14:14+00:00",
       "note": "Firefox Hub APIs ([learn more][1], [examples][2])\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/Add-ons/Firefox_for_Android/Firefox_Hub_Walkthrough\r\n  [2]: https://addons.mozilla.org/en-US/android/collections/leibovic/home-panels/",
@@ -36,6 +39,7 @@
     {
       "bug": 915930,
       "created": "2014-04-29T10:46:12+00:00",
+      "id": 785563,
       "is_public": true,
       "modified": "2014-07-11T07:24:35+00:00",
       "note": "mozilla::pkix as default certificate verifier ([learn more][1])\r\n\r\n\r\n  [1]: https://blog.mozilla.org/security/2014/04/24/exciting-updates-to-certificate-verification-in-gecko/",
@@ -45,6 +49,7 @@
     {
       "bug": 1013226,
       "created": "2014-06-08T09:02:40+00:00",
+      "id": 785603,
       "is_public": true,
       "modified": "2014-07-22T00:59:32+00:00",
       "note": "Locales added: Assamese [as], Bengali [bn-IN], Gujarati [gu-IN], Hindi [hi-IN], Kannada [kn], Malayalam [ml], Marathi [mr], Oriya [or], Panjabi [pa-IN], Tamil [ta], Telugu [te]\r\n",
@@ -54,6 +59,7 @@
     {
       "bug": 913734,
       "created": "2014-06-12T10:37:13+00:00",
+      "id": 785619,
       "is_public": true,
       "modified": "2014-07-11T07:24:35+00:00",
       "note": "Removal of the CAPS infrastructure for specifying site-specific permissions (via capability.policy.* preferences). Most notably, attempts to use this functionality to grant access to the clipboard will no longer work. The sole exception is the checkloaduri permission, which may still be used as before to allow sites to load file:// URIs.",
@@ -63,6 +69,7 @@
     {
       "bug": 1040319,
       "created": "2014-07-31T01:25:51+00:00",
+      "id": 785689,
       "is_public": true,
       "modified": "2014-07-31T01:25:51+00:00",
       "note": "Last release supporting Android 2.2 and ARMv6 chipset - security updates available through January 2015",
@@ -72,6 +79,7 @@
     {
       "bug": 629350,
       "created": "2014-03-05T02:28:46+00:00",
+      "id": 785455,
       "is_public": true,
       "modified": "2014-07-11T07:24:35+00:00",
       "note": "WebVTT implemented and enabled (<a href=\"https://developer.mozilla.org/en-US/docs/HTML/WebVTT\">learn more</a>)",
@@ -81,6 +89,7 @@
     {
       "bug": null,
       "created": "2014-03-04T08:35:25+00:00",
+      "id": 785417,
       "is_public": true,
       "modified": "2014-07-21T04:06:13+00:00",
       "note": "CSS3 variables implemented ([learn more][1])\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_variables",
@@ -90,6 +99,7 @@
     {
       "bug": 990220,
       "created": "2014-04-30T05:22:23+00:00",
+      "id": 785570,
       "is_public": true,
       "modified": "2014-07-16T07:24:17+00:00",
       "note": "navigator.sendBeacon enabled by default ([learn more][1])\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/navigator.sendBeacon",
@@ -99,6 +109,7 @@
     {
       "bug": 911147,
       "created": "2014-04-30T10:47:28+00:00",
+      "id": 785572,
       "is_public": true,
       "modified": "2014-07-11T07:24:35+00:00",
       "note": "New Array built-in: Array.prototype.fill() (<a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/fill\">learn more</a>)",
@@ -108,6 +119,7 @@
     {
       "bug": 911147,
       "created": "2014-04-30T10:48:24+00:00",
+      "id": 785573,
       "is_public": true,
       "modified": "2014-07-11T07:24:35+00:00",
       "note": "New Object built-in: Object.setPrototypeOf() ([learn more][1])\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/setPrototypeOf",
@@ -117,6 +129,7 @@
     {
       "bug": 979580,
       "created": "2014-05-04T06:45:37+00:00",
+      "id": 785578,
       "is_public": true,
       "modified": "2014-07-11T07:24:35+00:00",
       "note": "CSP 1.1 nonce-source and hash-source enabled by default",
@@ -126,6 +139,7 @@
     {
       "bug": null,
       "created": "2013-11-25T00:24:50+00:00",
+      "id": 161,
       "is_public": true,
       "modified": "2015-03-26T15:55:42+00:00",
       "note": "Various <a href=\"https://www.mozilla.org/security/known-vulnerabilities/firefox.html\">security fixes</a>",
@@ -135,6 +149,7 @@
     {
       "bug": 1030897,
       "created": "2014-07-02T02:30:44+00:00",
+      "id": 785639,
       "is_public": true,
       "modified": "2014-08-28T10:25:41+00:00",
       "note": "Does not start on Android L preview (see [1030897][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1030897",

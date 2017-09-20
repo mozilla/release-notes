@@ -9,6 +9,7 @@
     {
       "bug": 1218482,
       "created": "2017-06-06T13:07:52.986000+00:00",
+      "id": 787117,
       "is_public": true,
       "modified": "2017-08-08T06:49:53.641000+00:00",
       "note": "Launched Windows support for [WebVR][1], bringing immersive experiences to the web. See examples and try working demos at [Mozilla VR][2].\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/WebVR_API\r\n  [2]: https://mozvr.com/",
@@ -18,6 +19,7 @@
     {
       "bug": 1365998,
       "created": "2017-06-02T13:07:35.562000+00:00",
+      "id": 787108,
       "is_public": true,
       "modified": "2017-08-08T13:08:09.659000+00:00",
       "note": "Simplified installation process with a streamlined Windows stub installer\r\n\r\n  - Firefox for Windows 64-bit is now installed by default on 64-bit systems with at least 2GB of RAM\r\n  - [Full installers][1] with advanced installation options are still available \r\n\r\n[1]: https://www.mozilla.org/firefox/all/",
@@ -27,6 +29,7 @@
     {
       "bug": 1355331,
       "created": "2017-04-24T07:57:30.608000+00:00",
+      "id": 787058,
       "is_public": true,
       "modified": "2017-08-08T06:51:01.191000+00:00",
       "note": "Updated [Sidebar for bookmarks, history, and synced tabs][1] so it can appear at the right edge of the window as well as the left\r\n\r\n[1]: https://support.mozilla.org/kb/firefox-sidebar-access-bookmarks-history-social\r\n",
@@ -36,6 +39,7 @@
     {
       "bug": 1362526,
       "created": "2017-06-05T21:40:21.983000+00:00",
+      "id": 787115,
       "is_public": true,
       "modified": "2017-08-08T19:02:36.800000+00:00",
       "note": "Pages can be simplified before printing from within Print Preview",
@@ -45,6 +49,7 @@
     {
       "bug": 429824,
       "created": "2017-06-05T21:31:14.641000+00:00",
+      "id": 787114,
       "is_public": true,
       "modified": "2017-08-08T06:51:49.291000+00:00",
       "note": "Updated Firefox for OSX and macOS to allow users to assign [custom keyboard shortcuts][1] to Firefox menu items via System Preferences \r\n\r\n\r\n  [1]: https://support.mozilla.org/en-US/kb/keyboard-shortcuts-perform-firefox-tasks-quickly",
@@ -54,6 +59,7 @@
     {
       "bug": 1355082,
       "created": "2017-04-19T16:11:03.099000+00:00",
+      "id": 787056,
       "is_public": true,
       "modified": "2017-06-05T14:46:22.654000+00:00",
       "note": "All locales are now available for Nightly",
@@ -63,6 +69,7 @@
     {
       "bug": 1345090,
       "created": "2017-05-17T14:47:50.171000+00:00",
+      "id": 787091,
       "is_public": true,
       "modified": "2017-08-01T13:51:16.107000+00:00",
       "note": "Browsing sessions with a high number of tabs are now restored in an instant",
@@ -72,6 +79,7 @@
     {
       "bug": 1346488,
       "created": "2017-05-24T13:14:31.757000+00:00",
+      "id": 787105,
       "is_public": true,
       "modified": "2017-06-05T14:44:47.117000+00:00",
       "note": "The Photon project aiming at refreshing the user interface started being implemented in Nightly. These changes are only visible on the nightly channel and will not land in the beta and release channels before at least version 57.",
@@ -81,6 +89,7 @@
     {
       "bug": 1364070,
       "created": "2017-05-29T14:18:06.077000+00:00",
+      "id": 787106,
       "is_public": true,
       "modified": "2017-08-08T06:25:05.078000+00:00",
       "note": "[Fine-tune your browser performance][1] from the Preferences/Options page.\r\n\r\n[1]: https://support.mozilla.org/kb/performance-settings",
@@ -90,6 +99,7 @@
     {
       "bug": 1356243,
       "created": "2017-05-30T18:50:40.058000+00:00",
+      "id": 787107,
       "is_public": true,
       "modified": "2017-08-01T13:51:16.107000+00:00",
       "note": "Make [screenshots][1] of webpages, and save them locally or upload them to the cloud. This feature will undergo A/B testing and will not be visible for some users.\r\n\r\n[1]: https://screenshots.firefox.com/",
@@ -99,6 +109,7 @@
     {
       "bug": 1344928,
       "created": "2017-06-06T13:49:34.896000+00:00",
+      "id": 787119,
       "is_public": true,
       "modified": "2017-08-01T15:08:42.498000+00:00",
       "note": " Search suggestions are now enabled by default for users who haven't explicitly opted-out",
@@ -116,6 +127,7 @@
         "title": "Firefox 55.0a1 Nightly",
         "version": "55.0a1"
       },
+      "id": 787048,
       "is_public": true,
       "modified": "2017-08-01T13:51:16.107000+00:00",
       "note": "Modernized application update UI to be less intrusive and more aligned with the rest of the browser.  Only users who have not restarted their browser 8 days after downloading an update or users who opted out of automatic updates will see this change.",
@@ -125,6 +137,7 @@
     {
       "bug": 548311,
       "created": "2017-04-19T13:12:28.496000+00:00",
+      "id": 787051,
       "is_public": true,
       "modified": "2017-06-06T15:04:57.628000+00:00",
       "note": "The default font for Japanese text is now Meiryo",
@@ -134,6 +147,7 @@
     {
       "bug": 977177,
       "created": "2017-04-19T13:16:55.825000+00:00",
+      "id": 787052,
       "is_public": true,
       "modified": "2017-08-08T06:40:10.406000+00:00",
       "note": "Firefox does not support downgrades, even though this may have worked in past versions. Users who install Firefox 55+ and later downgrade to an earlier version may experience issues with Firefox. \r\n",
@@ -143,6 +157,7 @@
     {
       "bug": 1341897,
       "created": "2017-04-19T16:07:16.327000+00:00",
+      "id": 787055,
       "is_public": true,
       "modified": "2017-06-05T14:47:28.870000+00:00",
       "note": "Firefox uses Mozilla Location Service for geolocation",
@@ -152,6 +167,7 @@
     {
       "bug": 1335907,
       "created": "2017-04-19T16:17:08.859000+00:00",
+      "id": 787057,
       "is_public": true,
       "modified": "2017-06-05T14:44:14.166000+00:00",
       "note": "about:preferences has been cleaned up and reorganized to make it easier for you to find what you need",
@@ -161,6 +177,7 @@
     {
       "bug": 1317856,
       "created": "2017-06-06T13:26:48.862000+00:00",
+      "id": 787118,
       "is_public": true,
       "modified": "2017-08-08T06:39:42.278000+00:00",
       "note": "Made the Adobe Flash plugin click-to-activate by default and allowed only on http:// and https:// URL schemes. (This change will not be visible to all users immediately. For more information see the [Firefox plugin roadmap][1])\r\n\r\n\r\n[1]:https://developer.mozilla.org/docs/Plugins/Roadmap\r\n\r\n",
@@ -170,6 +187,7 @@
     {
       "bug": 1072859,
       "created": "2017-04-19T13:19:25.800000+00:00",
+      "id": 787053,
       "is_public": true,
       "modified": "2017-08-08T06:48:39.244000+00:00",
       "note": "Sites that don\u2019t use SSL can no longer access Geolocation APIs to determine a user\u2019s physical location\r\n",

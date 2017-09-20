@@ -9,6 +9,7 @@
     {
       "bug": 1014208,
       "created": "2015-03-24T13:30:01+00:00",
+      "id": 785974,
       "is_public": true,
       "modified": "2015-05-14T13:11:55+00:00",
       "note": "New tab-based preferences",
@@ -18,6 +19,7 @@
     {
       "bug": 1099241,
       "created": "2015-03-26T11:10:31+00:00",
+      "id": 785977,
       "is_public": true,
       "modified": "2015-05-12T00:45:59+00:00",
       "note": "Share the active tab or window in a Hello conversation - enabled for first half of the beta cycle",
@@ -27,6 +29,7 @@
     {
       "bug": 558882,
       "created": "2015-03-26T17:25:16+00:00",
+      "id": 785978,
       "is_public": true,
       "modified": "2015-05-12T00:46:02+00:00",
       "note": "Keep track of articles and blog posts with the Reading List - enabled for the first half of the beta cycle",
@@ -36,6 +39,7 @@
     {
       "bug": 33339,
       "created": "2015-04-02T17:42:17+00:00",
+      "id": 786035,
       "is_public": true,
       "modified": "2015-05-14T23:51:56+00:00",
       "note": "[Ruby annotation][1] support\r\n\r\n\r\n  [1]: https://hacks.mozilla.org/2015/03/ruby-support-in-firefox-developer-edition-38/",
@@ -45,6 +49,7 @@
     {
       "bug": null,
       "created": "2015-03-30T13:33:14+00:00",
+      "id": 785998,
       "is_public": true,
       "modified": "2015-05-14T13:11:57+00:00",
       "note": "Base for the next ESR release.\r\n",
@@ -54,6 +59,7 @@
     {
       "bug": 1025703,
       "created": "2015-02-20T00:31:57+00:00",
+      "id": 785941,
       "is_public": true,
       "modified": "2015-05-14T23:51:44+00:00",
       "note": "autocomplete=off is no longer supported for username/password fields",
@@ -63,6 +69,7 @@
     {
       "bug": 1130798,
       "created": "2015-02-20T00:40:28+00:00",
+      "id": 785944,
       "is_public": true,
       "modified": "2015-05-14T23:51:47+00:00",
       "note": "RegExp.prototype.source now returns \"(?:)\" instead of the empty string for empty regular expressions",
@@ -72,6 +79,7 @@
     {
       "bug": 1009122,
       "created": "2015-02-20T01:17:13+00:00",
+      "id": 785945,
       "is_public": true,
       "modified": "2015-05-14T23:51:46+00:00",
       "note": "Improved page load times via speculative connection warmup",
@@ -81,6 +89,7 @@
     {
       "bug": 504553,
       "created": "2014-10-17T12:27:04+00:00",
+      "id": 785761,
       "is_public": true,
       "modified": "2015-05-14T23:51:43+00:00",
       "note": "WebSocket now available in Web Workers",
@@ -90,6 +99,7 @@
     {
       "bug": 966439,
       "created": "2015-02-20T00:16:54+00:00",
+      "id": 785938,
       "is_public": true,
       "modified": "2015-05-14T23:51:41+00:00",
       "note": "[BroadcastChannel API implemented][1]\r\n\r\n[1]: https://hacks.mozilla.org/2015/02/broadcastchannel-api-in-firefox-38/",
@@ -99,6 +109,7 @@
     {
       "bug": 1017875,
       "created": "2015-02-20T00:27:07+00:00",
+      "id": 785940,
       "is_public": true,
       "modified": "2015-05-14T23:51:40+00:00",
       "note": "Implemented srcset attribute and &lt;picture&gt; element for responsive images",
@@ -108,6 +119,7 @@
     {
       "bug": 1126673,
       "created": "2015-02-20T00:38:52+00:00",
+      "id": 785943,
       "is_public": true,
       "modified": "2015-05-14T23:51:38+00:00",
       "note": "Implemented DOM3 Events KeyboardEvent.code",
@@ -117,6 +129,7 @@
     {
       "bug": 778617,
       "created": "2015-03-30T12:51:39+00:00",
+      "id": 785996,
       "is_public": true,
       "modified": "2015-05-14T13:12:23+00:00",
       "note": "Mac OS X: Implemented a subset of the Media Source Extensions (MSE) API to allow native HTML5 playback on YouTube",
@@ -126,6 +139,7 @@
     {
       "bug": 1015800,
       "created": "2015-03-31T08:54:30+00:00",
+      "id": 786004,
       "is_public": true,
       "modified": "2015-05-14T13:12:19+00:00",
       "note": "Implemented [Encrypted Media Extensions (EME)][1] API to support encrypted HTML5 video/audio playback (Windows Vista or later only)\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/enable-drm",
@@ -135,6 +149,7 @@
     {
       "bug": 1015800,
       "created": "2015-04-01T07:14:55+00:00",
+      "id": 786028,
       "is_public": true,
       "modified": "2015-05-14T13:12:20+00:00",
       "note": "Automatically download [Adobe Primetime Content Decryption Module (CDM)][1] for DRM playback through EME (Windows Vista or later only)\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/enable-drm",
@@ -144,6 +159,7 @@
     {
       "bug": 941287,
       "created": "2015-02-20T00:15:06+00:00",
+      "id": 785937,
       "is_public": true,
       "modified": "2015-05-14T13:12:15+00:00",
       "note": "Optimized-out variables are now visible in Debugger UI",
@@ -153,6 +169,7 @@
     {
       "bug": 972655,
       "created": "2015-02-20T00:21:47+00:00",
+      "id": 785939,
       "is_public": true,
       "modified": "2015-05-14T13:12:14+00:00",
       "note": "XMLHttpRequest logs in the web console are now visually labelled and can be filtered separately from regular network requests",
@@ -162,6 +179,7 @@
     {
       "bug": 1095218,
       "created": "2015-02-20T15:57:03+00:00",
+      "id": 785946,
       "is_public": true,
       "modified": "2015-05-14T23:51:35+00:00",
       "note": "WebRTC now has multistream and renegotiation support",
@@ -171,6 +189,7 @@
     {
       "bug": 1005870,
       "created": "2015-02-23T22:07:47+00:00",
+      "id": 785950,
       "is_public": true,
       "modified": "2015-05-14T13:12:12+00:00",
       "note": "`copy` command added to console",

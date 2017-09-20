@@ -9,6 +9,7 @@
     {
       "bug": null,
       "created": "2015-12-22T15:43:57.866000+00:00",
+      "id": 786406,
       "is_public": true,
       "modified": "2015-12-22T15:43:57.868000+00:00",
       "note": "Reference: Release notes for [Firefox 43.0.1][1]\r\n\r\n  [1]: /firefox/43.0.1/releasenotes/",
@@ -18,6 +19,7 @@
     {
       "bug": 1205843,
       "created": "2015-12-18T17:59:58.789000+00:00",
+      "id": 786400,
       "is_public": true,
       "modified": "2016-01-21T20:51:49.831000+00:00",
       "note": "Use a SHA-256 signing certificate for Windows builds, to meet new signing requirements",
@@ -27,6 +29,7 @@
     {
       "bug": 1158489,
       "created": "2015-12-22T17:29:12.338000+00:00",
+      "id": 786407,
       "is_public": true,
       "modified": "2016-01-08T18:08:17.982000+00:00",
       "note": "Various stability and [security fixes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/en-US/security/known-vulnerabilities/firefox/#firefox43.0.2",

@@ -9,6 +9,7 @@
     {
       "bug": 913806,
       "created": "2014-07-17T09:19:54+00:00",
+      "id": 785659,
       "is_public": true,
       "modified": "2014-09-23T08:43:43+00:00",
       "note": "[New HTTP cache][1] provides improved performance including crash recovery\r\n\r\n  [1]: http://www.janbambas.cz/new-firefox-http-cache-enabled/",
@@ -18,6 +19,7 @@
     {
       "bug": 619558,
       "created": "2014-04-09T06:54:25+00:00",
+      "id": 785545,
       "is_public": true,
       "modified": "2014-09-23T08:43:43+00:00",
       "note": "Integration of generational garbage collection",
@@ -27,6 +29,7 @@
     {
       "bug": 1004350,
       "created": "2014-07-24T05:30:24+00:00",
+      "id": 785681,
       "is_public": true,
       "modified": "2014-11-24T22:35:46+00:00",
       "note": "[Public key pinning support][1] enabled\r\n\r\n\r\n  [1]: https://wiki.mozilla.org/SecurityEngineering/Public_Key_Pinning",
@@ -44,6 +47,7 @@
         "title": "Firefox 30.0a2 Aurora",
         "version": "30.0a2"
       },
+      "id": 785457,
       "is_public": true,
       "modified": "2014-09-23T08:43:43+00:00",
       "note": "View historical use information for logins stored in password manager",
@@ -53,6 +57,7 @@
     {
       "bug": 257061,
       "created": "2014-05-07T02:09:59+00:00",
+      "id": 785582,
       "is_public": true,
       "modified": "2014-09-23T08:43:43+00:00",
       "note": "Display the number of found items in the find toolbar ",
@@ -62,6 +67,7 @@
     {
       "bug": 378637,
       "created": "2014-07-17T15:03:34+00:00",
+      "id": 785661,
       "is_public": true,
       "modified": "2014-11-06T23:39:16+00:00",
       "note": "Support for connecting to HTTP proxy over HTTPS",
@@ -71,6 +77,7 @@
     {
       "bug": 1029561,
       "created": "2014-07-17T15:06:47+00:00",
+      "id": 785662,
       "is_public": true,
       "modified": "2014-09-23T08:43:43+00:00",
       "note": "Removed and turned off trust bit for [some 1024-bit root certificates][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/NSS_3.16.3_release_notes#Notable_Changes_in_NSS_3.16.3",
@@ -80,6 +87,7 @@
     {
       "bug": null,
       "created": "2014-07-17T15:14:14+00:00",
+      "id": 785664,
       "is_public": true,
       "modified": "2014-09-23T08:43:43+00:00",
       "note": "Performance improvements to Password Manager and Add-on Manager",
@@ -89,6 +97,7 @@
     {
       "bug": 1004579,
       "created": "2013-11-25T00:24:42+00:00",
+      "id": 93,
       "is_public": true,
       "modified": "2014-09-23T08:43:43+00:00",
       "note": "drawFocusIfNeeded enabled by default",
@@ -98,6 +107,7 @@
     {
       "bug": 934423,
       "created": "2014-03-04T10:07:48+00:00",
+      "id": 785453,
       "is_public": true,
       "modified": "2014-09-23T08:43:43+00:00",
       "note": "ECMAScript 6 built-in method [Array#copyWithin implemented][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/Firefox/Releases/32#JavaScript",
@@ -107,6 +117,7 @@
     {
       "bug": 916315,
       "created": "2014-03-26T16:24:31+00:00",
+      "id": 785519,
       "is_public": true,
       "modified": "2014-09-23T08:43:43+00:00",
       "note": "CSS [position:sticky][1] enabled by default\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/position",
@@ -116,6 +127,7 @@
     {
       "bug": 952643,
       "created": "2014-05-07T02:13:02+00:00",
+      "id": 785583,
       "is_public": true,
       "modified": "2014-09-23T08:43:43+00:00",
       "note": "mix-blend-mode enabled by default ",
@@ -125,6 +137,7 @@
     {
       "bug": 904723,
       "created": "2014-07-17T06:39:57+00:00",
+      "id": 785649,
       "is_public": true,
       "modified": "2014-09-23T08:43:43+00:00",
       "note": "New Array built-in: [Array.from()][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/from",
@@ -134,6 +147,7 @@
     {
       "bug": 889335,
       "created": "2014-07-17T08:00:27+00:00",
+      "id": 785653,
       "is_public": true,
       "modified": "2014-09-23T08:43:43+00:00",
       "note": "[navigator.languages property][1] and [languagechange event][1] implemented\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/NavigatorLanguage.languages",
@@ -143,6 +157,7 @@
     {
       "bug": 1014581,
       "created": "2014-07-17T14:59:00+00:00",
+      "id": 785660,
       "is_public": true,
       "modified": "2014-09-23T08:43:43+00:00",
       "note": "Vibration API updated to latest W3C spec",
@@ -152,6 +167,7 @@
     {
       "bug": 1006326,
       "created": "2014-07-17T15:20:38+00:00",
+      "id": 785665,
       "is_public": true,
       "modified": "2014-09-23T08:43:43+00:00",
       "note": "[CSS box-decoration-break replaces -moz-background-inline-policy][1]\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/-moz-background-inline-policy",
@@ -161,6 +177,7 @@
     {
       "bug": 837188,
       "created": "2014-03-26T16:36:33+00:00",
+      "id": 785536,
       "is_public": true,
       "modified": "2014-09-23T08:43:43+00:00",
       "note": "HiDPI support in Developer Tools UI",
@@ -170,6 +187,7 @@
     {
       "bug": 991810,
       "created": "2014-06-11T06:56:00+00:00",
+      "id": 785605,
       "is_public": true,
       "modified": "2014-09-23T08:43:43+00:00",
       "note": "Inspector button moved to the top left",
@@ -179,6 +197,7 @@
     {
       "bug": 911209,
       "created": "2014-06-11T07:02:21+00:00",
+      "id": 785606,
       "is_public": true,
       "modified": "2014-09-23T08:43:43+00:00",
       "note": "Hidden nodes displayed differently in the markup-view",
@@ -188,6 +207,7 @@
     {
       "bug": 980501,
       "created": "2014-07-17T07:50:16+00:00",
+      "id": 785652,
       "is_public": true,
       "modified": "2014-09-23T08:43:43+00:00",
       "note": "New [Web Audio Editor][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Web_Audio_Editor",
@@ -197,6 +217,7 @@
     {
       "bug": null,
       "created": "2014-07-17T15:10:48+00:00",
+      "id": 785663,
       "is_public": true,
       "modified": "2014-09-23T08:43:43+00:00",
       "note": "[Code completion][1] and [inline documentation][1] added to Scratchpad\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Scratchpad#Code_completion_and_inline_documentation",
@@ -214,6 +235,7 @@
         "title": "Firefox 32.0beta Beta",
         "version": "32.0beta"
       },
+      "id": 785666,
       "is_public": true,
       "modified": "2014-09-23T08:43:43+00:00",
       "note": "Mac OS X: cmd-L does not open a new window when no window is available",
@@ -223,6 +245,7 @@
     {
       "bug": 812695,
       "created": "2014-07-17T15:30:40+00:00",
+      "id": 785667,
       "is_public": true,
       "modified": "2014-09-23T08:43:43+00:00",
       "note": "Text Rendering Issues on Windows 7 with Platform Update KB2670838 (MSIE 10 Prerequisite) or on Windows 8.1",
@@ -232,6 +255,7 @@
     {
       "bug": 1011166,
       "created": "2014-06-05T17:27:28+00:00",
+      "id": 785602,
       "is_public": true,
       "modified": "2014-08-27T09:47:30+00:00",
       "note": " Repeating background image causes weird text layout issue with HWA off ([1011166][1])\r\n\r\n\r\n  [1]: http://bugzilla.mozilla.org/1011166",

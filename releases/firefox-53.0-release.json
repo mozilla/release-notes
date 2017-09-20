@@ -9,6 +9,7 @@
     {
       "bug": 1264543,
       "created": "2017-01-28T00:26:38.290000+00:00",
+      "id": 786968,
       "is_public": true,
       "modified": "2017-06-05T20:55:46.440000+00:00",
       "note": "[Improved graphics stability][1] for Windows users with the addition of compositor process separation (Quantum Compositor)\r\n\r\n\r\n  [1]: https://ashughes.com/?p=426",
@@ -18,6 +19,7 @@
     {
       "bug": 1314091,
       "created": "2017-01-27T22:04:21.162000+00:00",
+      "id": 786961,
       "is_public": true,
       "modified": "2017-06-05T20:54:25.131000+00:00",
       "note": "Two new 'compact' themes available in Firefox, dark and light, based on the Firefox Developer Edition theme",
@@ -27,6 +29,7 @@
     {
       "bug": 854126,
       "created": "2017-01-27T21:59:16.851000+00:00",
+      "id": 786956,
       "is_public": true,
       "modified": "2017-06-05T20:24:37.031000+00:00",
       "note": "Lightweight themes are now applied in private browsing windows",
@@ -36,6 +39,7 @@
     {
       "bug": 1265304,
       "created": "2017-01-27T22:00:43.801000+00:00",
+      "id": 786957,
       "is_public": true,
       "modified": "2017-06-05T20:24:48.382000+00:00",
       "note": "Reader Mode now displays estimated reading time for the page",
@@ -45,6 +49,7 @@
     {
       "bug": 797208,
       "created": "2017-03-06T19:02:15.364000+00:00",
+      "id": 786999,
       "is_public": true,
       "modified": "2017-06-05T20:56:16.954000+00:00",
       "note": "Windows 7+ users on 64-bit OS can select 32-bit or 64-bit versions in the stub installer",
@@ -54,6 +59,7 @@
     {
       "bug": 1188147,
       "created": "2017-03-03T02:34:03.176000+00:00",
+      "id": 786992,
       "is_public": true,
       "modified": "2017-06-05T20:56:07.346000+00:00",
       "note": "Updated the design of [site permission requests][1] to make them harder to miss and easier to understand\r\n  \r\n\r\n\r\n  [1]: https://medium.com/@pastith/feeling-safer-online-with-firefox-b9fe13af6600",
@@ -63,6 +69,7 @@
     {
       "bug": 1130266,
       "created": "2017-01-28T00:06:16.770000+00:00",
+      "id": 786966,
       "is_public": true,
       "modified": "2017-06-05T20:54:50.155000+00:00",
       "note": "Windows XP and Vista are no longer supported. [XP and Vista users running Firefox 52][1] will continue to receive security updates on Firefox ESR 52.\r\n\r\n\r\n  [1]: https://support.mozilla.org/en-US/kb/end-support-windows-xp-and-vista",
@@ -72,6 +79,7 @@
     {
       "bug": 1295375,
       "created": "2017-01-28T00:15:39.695000+00:00",
+      "id": 786967,
       "is_public": true,
       "modified": "2017-06-05T20:55:24.400000+00:00",
       "note": "32-bit Mac OS X is no longer supported.  32-bit Mac OS X users can [switch to Firefox ESR 52][1] to continue receiving security updates. \r\n\r\n\r\n  [1]: https://www.mozilla.org/firefox/organizations/faq/",
@@ -81,6 +89,7 @@
     {
       "bug": null,
       "created": "2017-03-06T20:58:38.012000+00:00",
+      "id": 787000,
       "is_public": true,
       "modified": "2017-06-05T20:56:31.467000+00:00",
       "note": "Updates for Mac OS X are smaller in size compared to updates for Firefox 52 \r\n",
@@ -90,6 +99,7 @@
     {
       "bug": 658467,
       "created": "2017-01-27T21:53:47.221000+00:00",
+      "id": 786954,
       "is_public": true,
       "modified": "2017-06-05T20:24:25.427000+00:00",
       "note": "The last few characters of shortened tab titles fade out instead of being replaced by ellipses to keep more of the title visible",
@@ -99,6 +109,7 @@
     {
       "bug": 1271765,
       "created": "2017-01-27T22:01:19.677000+00:00",
+      "id": 786958,
       "is_public": true,
       "modified": "2017-06-05T20:24:58.617000+00:00",
       "note": "New visual design for audio and video controls",
@@ -108,6 +119,7 @@
     {
       "bug": 1274196,
       "created": "2017-01-27T22:01:59.408000+00:00",
+      "id": 786959,
       "is_public": true,
       "modified": "2017-06-05T20:25:08.467000+00:00",
       "note": "Ended Firefox Linux support for processors older than Pentium 4 and AMD Opteron",
@@ -117,6 +129,7 @@
     {
       "bug": null,
       "created": "2017-01-27T22:04:55.934000+00:00",
+      "id": 786962,
       "is_public": true,
       "modified": "2017-06-05T20:54:36.029000+00:00",
       "note": "Changes for [web developers][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/Firefox/Releases/53#Changes_for_Web_developers",
@@ -126,6 +139,7 @@
     {
       "bug": 944117,
       "created": "2017-02-28T20:23:14.048000+00:00",
+      "id": 786983,
       "is_public": true,
       "modified": "2017-06-05T20:55:55.123000+00:00",
       "note": "Support for WebM video with alpha, which allows playing videos with transparent backgrounds",
@@ -135,6 +149,7 @@
     {
       "bug": null,
       "created": "2017-04-19T15:29:12.678000+00:00",
+      "id": 787054,
       "is_public": true,
       "modified": "2017-06-05T20:56:42.190000+00:00",
       "note": "Various [security fixes][1]\r\n\r\n[1]: https://www.mozilla.org/security/known-vulnerabilities/firefox/#firefox53",

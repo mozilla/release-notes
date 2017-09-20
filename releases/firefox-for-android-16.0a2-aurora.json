@@ -17,6 +17,7 @@
         "title": "Firefox 16.0beta Beta",
         "version": "16.0beta"
       },
+      "id": 193,
       "is_public": true,
       "modified": "2014-04-23T10:53:36+00:00",
       "note": "Debugger breakpoints do not catch on page reload",
@@ -26,6 +27,7 @@
     {
       "bug": null,
       "created": "2013-11-25T00:24:44+00:00",
+      "id": 170,
       "is_public": true,
       "modified": "2014-04-23T10:53:36+00:00",
       "note": "Firefox on Mac OS X now has preliminary VoiceOver support turned on by default",
@@ -35,6 +37,7 @@
     {
       "bug": null,
       "created": "2013-11-25T00:24:44+00:00",
+      "id": 169,
       "is_public": true,
       "modified": "2014-04-23T10:53:36+00:00",
       "note": "Initial <a href=\"https://developer.mozilla.org/en-US/docs/Apps/Getting_Started\">web app support</a> (Windows/Mac/Linux)",
@@ -44,6 +47,7 @@
     {
       "bug": 650355,
       "created": "2013-11-25T00:24:50+00:00",
+      "id": 171,
       "is_public": true,
       "modified": "2014-04-23T10:53:36+00:00",
       "note": "No longer supporting MD5 as a hash algorithm in digital signatures ",
@@ -61,6 +65,7 @@
         "title": "Firefox 17.0beta Beta",
         "version": "17.0beta"
       },
+      "id": 181,
       "is_public": true,
       "modified": "2014-04-23T10:53:36+00:00",
       "note": "Pointer lock doesn't work in web apps",
@@ -70,6 +75,7 @@
     {
       "bug": null,
       "created": "2013-11-25T00:24:50+00:00",
+      "id": 204,
       "is_public": true,
       "modified": "2014-04-23T10:53:36+00:00",
       "note": "Acholi and Kazakh localizations added",
@@ -79,6 +85,7 @@
     {
       "bug": 772341,
       "created": "2013-11-25T00:24:50+00:00",
+      "id": 173,
       "is_public": true,
       "modified": "2014-04-23T10:53:36+00:00",
       "note": "Opus support by default",
@@ -88,6 +95,7 @@
     {
       "bug": 687724,
       "created": "2013-11-25T00:24:50+00:00",
+      "id": 174,
       "is_public": true,
       "modified": "2014-04-23T10:53:36+00:00",
       "note": "Per tab reporting in about:memory",
@@ -97,6 +105,7 @@
     {
       "bug": null,
       "created": "2013-11-25T00:24:50+00:00",
+      "id": 203,
       "is_public": true,
       "modified": "2014-04-23T10:53:36+00:00",
       "note": "Improvements around JavaScript responsiveness through <a href=\"https://blog.mozilla.org/javascript/2012/08/28/incremental-gc-in-firefox-16/\">incremental garbage collection</a>",
@@ -106,6 +115,7 @@
     {
       "bug": null,
       "created": "2013-11-25T00:24:49+00:00",
+      "id": 177,
       "is_public": true,
       "modified": "2014-04-23T10:53:36+00:00",
       "note": "New Developer Toolbar with buttons for quick access to tools, error count for the Web Console, and a new command line for quick keyboard access",
@@ -115,6 +125,7 @@
     {
       "bug": null,
       "created": "2013-11-25T00:24:44+00:00",
+      "id": 175,
       "is_public": true,
       "modified": "2014-04-23T10:53:36+00:00",
       "note": "CSS3 Animations, Transitions, Transforms and Gradients <a href=\"https://hacks.mozilla.org/2012/07/aurora-16-is-out/\">unprefixed in Firefox 16</a>",
@@ -124,6 +135,7 @@
     {
       "bug": 655920,
       "created": "2013-11-25T00:24:50+00:00",
+      "id": 176,
       "is_public": true,
       "modified": "2014-04-23T10:53:36+00:00",
       "note": "Reverse animation direction has been implemented",
@@ -133,6 +145,7 @@
     {
       "bug": null,
       "created": "2013-11-25T00:24:50+00:00",
+      "id": 178,
       "is_public": true,
       "modified": "2014-04-23T10:53:36+00:00",
       "note": "Recently opened files list in Scratchpad implemented",
@@ -142,6 +155,7 @@
     {
       "bug": 728831,
       "created": "2013-11-25T00:24:50+00:00",
+      "id": 179,
       "is_public": true,
       "modified": "2014-04-23T10:53:36+00:00",
       "note": "User Agent strings for pre-release Firefox versions now show only major version",
@@ -151,6 +165,7 @@
     {
       "bug": null,
       "created": "2013-11-25T00:24:50+00:00",
+      "id": 241,
       "is_public": true,
       "modified": "2014-04-23T10:53:36+00:00",
       "note": "16.0.1: Vulnerability outlined <a href=\"https://blog.mozilla.org/security/2012/10/10/security-vulnerability-in-firefox-16/\">here</a>",
@@ -160,6 +175,7 @@
     {
       "bug": 573369,
       "created": "2013-11-25T00:24:27+00:00",
+      "id": 30,
       "is_public": true,
       "modified": "2014-07-02T07:04:43+00:00",
       "note": "If you try to start Firefox using a locked profile, it will crash (see [573369][1])\r\n\r\n\r\n  [1]: http://bugzilla.mozilla.org/573369",

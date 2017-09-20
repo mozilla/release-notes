@@ -9,6 +9,7 @@
     {
       "bug": null,
       "created": "2014-03-04T08:36:39+00:00",
+      "id": 785420,
       "is_public": true,
       "modified": "2014-07-21T03:53:32+00:00",
       "note": "A set of new improvements to the Firefox user interface (<a href=\"http://blog.mozilla.org/futurereleases/2014/02/07/test-the-new-firefox-sync-and-customize-the-new-ui-in-firefox-aurora\">learn more</a>).",
@@ -18,6 +19,7 @@
     {
       "bug": null,
       "created": "2014-03-04T08:38:57+00:00",
+      "id": 785422,
       "is_public": true,
       "modified": "2014-04-25T10:37:37+00:00",
       "note": "An interactive onboarding tour to guide users through new interface changes",
@@ -27,6 +29,7 @@
     {
       "bug": null,
       "created": "2014-03-04T08:39:20+00:00",
+      "id": 785423,
       "is_public": true,
       "modified": "2014-04-25T10:37:50+00:00",
       "note": "A redesigned and improved customization mode",
@@ -36,6 +39,7 @@
     {
       "bug": null,
       "created": "2014-03-04T09:24:32+00:00",
+      "id": 785429,
       "is_public": true,
       "modified": "2014-04-25T13:00:30+00:00",
       "note": "The ability to set up Firefox Sync by creating a Firefox account ([learn more][1])\r\n\r\n\r\n  [1]: https://blog.mozilla.org/blog/2014/02/07/introducing-mozilla-firefox-accounts/",
@@ -45,6 +49,7 @@
     {
       "bug": null,
       "created": "2014-03-04T09:50:26+00:00",
+      "id": 785431,
       "is_public": true,
       "modified": "2014-09-23T08:43:43+00:00",
       "note": "[Gamepad API][1] finalized and enabled\r\n\r\n[1]: https://hacks.mozilla.org/2013/12/the-gamepad-api/",
@@ -54,6 +59,7 @@
     {
       "bug": null,
       "created": "2014-04-09T06:49:09+00:00",
+      "id": 785544,
       "is_public": true,
       "modified": "2014-05-09T10:26:53+00:00",
       "note": "Malay [ma] locale added",
@@ -63,6 +69,7 @@
     {
       "bug": null,
       "created": "2014-03-26T16:57:08+00:00",
+      "id": 785537,
       "is_public": true,
       "modified": "2014-07-21T04:03:41+00:00",
       "note": "navigator.plugins is no longer enumerable, for user privacy",
@@ -72,6 +79,7 @@
     {
       "bug": null,
       "created": "2014-04-09T08:09:00+00:00",
+      "id": 785547,
       "is_public": true,
       "modified": "2014-05-09T10:26:53+00:00",
       "note": "Clicking on a W3C Web Notification will switch to the originating tab",
@@ -81,6 +89,7 @@
     {
       "bug": null,
       "created": "2014-03-04T08:34:42+00:00",
+      "id": 785415,
       "is_public": true,
       "modified": "2014-05-09T10:26:53+00:00",
       "note": "'box-sizing' (dropping the -moz- prefix) implemented (<a href=\"https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing\">learn more</a>)",
@@ -90,6 +99,7 @@
     {
       "bug": null,
       "created": "2014-03-04T08:35:59+00:00",
+      "id": 785418,
       "is_public": true,
       "modified": "2014-05-09T10:26:53+00:00",
       "note": "Console object available in Web Workers (<a href=\"https://developer.mozilla.org/fr/docs/Web/API/console\">learn more</a>)",
@@ -99,6 +109,7 @@
     {
       "bug": 924089,
       "created": "2014-03-04T08:36:16+00:00",
+      "id": 785419,
       "is_public": true,
       "modified": "2014-05-09T10:26:53+00:00",
       "note": "Promises enabled by default (<a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise\">learn more</a>)",
@@ -108,6 +119,7 @@
     {
       "bug": null,
       "created": "2014-03-04T08:35:01+00:00",
+      "id": 785416,
       "is_public": true,
       "modified": "2014-05-09T10:26:53+00:00",
       "note": "SharedWorker enabled by default",
@@ -117,6 +129,7 @@
     {
       "bug": null,
       "created": "2014-03-04T08:52:33+00:00",
+      "id": 785424,
       "is_public": true,
       "modified": "2014-05-09T10:26:53+00:00",
       "note": "&lt;input type=\"number\"&gt; implemented and enabled",
@@ -126,6 +139,7 @@
     {
       "bug": null,
       "created": "2014-03-04T09:52:37+00:00",
+      "id": 785439,
       "is_public": true,
       "modified": "2014-05-09T10:26:53+00:00",
       "note": "&lt;input type=\"color\"&gt; implemented and enabled",
@@ -135,6 +149,7 @@
     {
       "bug": null,
       "created": "2014-03-13T13:02:28+00:00",
+      "id": 785462,
       "is_public": true,
       "modified": "2014-05-09T10:26:53+00:00",
       "note": "Enabled ECMAScript Internationalization API",
@@ -144,6 +159,7 @@
     {
       "bug": null,
       "created": "2014-03-28T08:12:04+00:00",
+      "id": 785539,
       "is_public": true,
       "modified": "2014-05-09T10:26:53+00:00",
       "note": "Add-on bar has been removed, content moved to navigation bar",
@@ -161,6 +177,7 @@
         "title": "Firefox 32.0a2 Aurora",
         "version": "32.0a2"
       },
+      "id": 95,
       "is_public": true,
       "modified": "2014-07-21T03:56:45+00:00",
       "note": "Mac OS X: cmd-L no longer opens a new window when no window is available ([1008793][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1008793",
@@ -178,6 +195,7 @@
         "title": "Firefox 31.0 Release",
         "version": "31.0"
       },
+      "id": 785442,
       "is_public": true,
       "modified": "2014-07-21T04:19:48+00:00",
       "note": "Text Rendering Issues on Windows 7 with Platform Update KB2670838 (MSIE 10 Prerequisite) or on Windows 8.1 has a <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=812695#c414\">workaround</a> (see <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=812695\">812695</a>)",
@@ -187,6 +205,7 @@
     {
       "bug": 974537,
       "created": "2014-03-26T16:57:53+00:00",
+      "id": 785538,
       "is_public": true,
       "modified": "2014-07-21T03:56:20+00:00",
       "note": "Echo cancellation on apprtc.appspot.com fails ([974537][1]) \r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=974537",
@@ -196,6 +215,7 @@
     {
       "bug": 1005487,
       "created": "2014-06-05T17:20:25+00:00",
+      "id": 785601,
       "is_public": true,
       "modified": "2014-07-21T03:57:04+00:00",
       "note": "Exit is not always completed when \"clear history when Firefox closes\" is enabled ([1005487][1])\r\n\r\n\r\n  [1]: http://bugzilla.mozilla.org/1005487",

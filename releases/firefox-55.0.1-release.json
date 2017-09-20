@@ -9,6 +9,7 @@
     {
       "bug": null,
       "created": "2017-08-10T14:08:59.685000+00:00",
+      "id": 787221,
       "is_public": true,
       "modified": "2017-08-24T12:54:00.847000+00:00",
       "note": "Reference link to [55.0 release notes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/firefox/55.0/releasenotes/",
@@ -18,6 +19,7 @@
     {
       "bug": 1388628,
       "created": "2017-08-10T14:12:30.767000+00:00",
+      "id": 787222,
       "is_public": true,
       "modified": "2017-08-10T14:12:54.198000+00:00",
       "note": "Fix a regression the tab restoration process ([bug 1388160][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1388628",
@@ -27,6 +29,7 @@
     {
       "bug": 1386224,
       "created": "2017-08-10T14:16:27.586000+00:00",
+      "id": 787223,
       "is_public": true,
       "modified": "2017-08-10T14:16:27.586000+00:00",
       "note": "Fix a problem causing *What's new pages* not to be displayed ([bug 1386224][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1386224",
@@ -36,6 +39,7 @@
     {
       "bug": 1388370,
       "created": "2017-08-10T14:17:47.605000+00:00",
+      "id": 787224,
       "is_public": true,
       "modified": "2017-08-10T14:19:55.796000+00:00",
       "note": "Fix a rendering issue with some PKCS#11 libraries ([bug 1388370][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1388370",
@@ -45,6 +49,7 @@
     {
       "bug": 1388160,
       "created": "2017-08-10T14:21:04.723000+00:00",
+      "id": 787225,
       "is_public": true,
       "modified": "2017-08-16T14:28:04.493000+00:00",
       "note": "Disable the predictor prefetch ([bug 1388160][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1388160",
@@ -54,6 +59,7 @@
     {
       "bug": 1388584,
       "created": "2017-08-14T18:20:14.497000+00:00",
+      "id": 787227,
       "is_public": true,
       "modified": "2017-08-14T18:20:14.497000+00:00",
       "note": "Bookmarks may be lost for users who have a single quote in their profile name ([Bug 1388584][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1388584",

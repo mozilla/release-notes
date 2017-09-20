@@ -9,6 +9,7 @@
     {
       "bug": 1147212,
       "created": "2015-05-15T03:39:12+00:00",
+      "id": 786107,
       "is_public": true,
       "modified": "2015-08-11T15:34:58+00:00",
       "note": "Added [protection against unwanted software][1] downloads\r\n\r\n\r\n  [1]: https://blog.mozilla.org/security/2015/08/11/expanded-malware-protection-in-firefox/",
@@ -18,6 +19,7 @@
     {
       "bug": 989469,
       "created": "2015-05-14T22:30:23+00:00",
+      "id": 786091,
       "is_public": true,
       "modified": "2015-08-11T13:09:55+00:00",
       "note": " New style for add-on manager based on the in-content preferences style",
@@ -27,6 +29,7 @@
     {
       "bug": 994541,
       "created": "2015-05-14T22:46:37+00:00",
+      "id": 786092,
       "is_public": true,
       "modified": "2015-08-11T13:09:51+00:00",
       "note": "Improved scrolling, graphics, and video playback performance with off main thread compositing (GNU/Linux only)",
@@ -36,6 +39,7 @@
     {
       "bug": 516752,
       "created": "2015-05-15T15:40:29+00:00",
+      "id": 786113,
       "is_public": true,
       "modified": "2015-06-27T17:13:33+00:00",
       "note": "[Process separation][1] enabled for opt-in testing\r\n\r\n  [1]: https://developer.mozilla.org/Firefox/Multiprocess_Firefox",
@@ -45,6 +49,7 @@
     {
       "bug": 1162530,
       "created": "2015-08-06T09:38:40+00:00",
+      "id": 786213,
       "is_public": true,
       "modified": "2015-08-11T13:10:00+00:00",
       "note": "Graphic blocklist mechanism improved: Firefox version ranges can be specified, limiting the number of devices blocked",
@@ -54,6 +59,7 @@
     {
       "bug": 1116806,
       "created": "2015-03-29T18:52:05+00:00",
+      "id": 785994,
       "is_public": true,
       "modified": "2015-08-11T13:10:21+00:00",
       "note": "NPAPI Plug-in performance improved via [asynchronous initialization][1]\r\n\r\n  [1]: http://dblohm7.ca/blog/2014/06/17/asynchronous-plugin-initialization-an-introduction/",
@@ -63,6 +69,7 @@
     {
       "bug": 1144317,
       "created": "2015-05-15T16:21:23+00:00",
+      "id": 786115,
       "is_public": true,
       "modified": "2015-08-11T13:10:20+00:00",
       "note": "Smoother animation and scrolling with [hardware vsync][1] (Windows only)\r\n\r\n  [1]: https://hacks.mozilla.org/2015/01/project-silk/",
@@ -72,6 +79,7 @@
     {
       "bug": 1124084,
       "created": "2015-06-01T08:15:49+00:00",
+      "id": 786127,
       "is_public": true,
       "modified": "2015-08-11T13:10:30+00:00",
       "note": "JPEG images use less memory when scaled and can be painted faster",
@@ -81,6 +89,7 @@
     {
       "bug": 980770,
       "created": "2015-06-01T08:25:37+00:00",
+      "id": 786129,
       "is_public": true,
       "modified": "2015-09-22T03:38:00+00:00",
       "note": "Support for running [animations][1] of 'transform' and 'opacity' on the compositor thread\r\n\r\n\r\n  [1]: https://wiki.mozilla.org/Platform/GFX/OffMainThreadCompositing#CSS_Animations",
@@ -90,6 +99,7 @@
     {
       "bug": 647010,
       "created": "2015-08-03T13:05:18+00:00",
+      "id": 786202,
       "is_public": true,
       "modified": "2015-08-11T13:10:32+00:00",
       "note": "Sub-resources [can no longer request HTTP authentication][1], thus protecting users from inadvertently disclosing login data\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/Firefox/Releases/40/Site_Compatibility#Security",
@@ -99,6 +109,7 @@
     {
       "bug": 1112702,
       "created": "2015-05-15T00:12:20+00:00",
+      "id": 786098,
       "is_public": true,
       "modified": "2015-08-11T13:10:24+00:00",
       "note": "[IndexedDB transactions][1] are now non-durable by default\r\n\r\n[1]:https://developer.mozilla.org/docs/Web/API/IndexedDB_API/Basic_Concepts_Behind_IndexedDB#durable",
@@ -108,6 +119,7 @@
     {
       "bug": 1153783,
       "created": "2015-05-15T04:14:27+00:00",
+      "id": 786112,
       "is_public": true,
       "modified": "2015-08-11T13:10:29+00:00",
       "note": "Implemented [AudioBufferSourceNode.detune][1] to modulate playback rate in cents, a logarithmic unit of measure used for\r\nmusical intervals\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/API/AudioBufferSourceNode/detune",
@@ -117,6 +129,7 @@
     {
       "bug": 1167252,
       "created": "2015-06-01T08:24:42+00:00",
+      "id": 786128,
       "is_public": true,
       "modified": "2015-08-11T13:10:29+00:00",
       "note": "Improved [Performance tools][1] in the developer tools: [Waterfall][2] view, [Call Tree][3] view and a [Flame Chart][4] view\r\n\r\n\r\n  [1]: https://hacks.mozilla.org/?p=28808\r\n  [2]: https://developer.mozilla.org/en-US/docs/Tools/Performance/Waterfall\r\n  [3]: https://developer.mozilla.org/en-US/docs/Tools/Performance/Call_Tree\r\n  [4]: https://developer.mozilla.org/en-US/docs/Tools/Performance/Flame_Chart",
@@ -126,6 +139,7 @@
     {
       "bug": 1055181,
       "created": "2015-05-14T22:54:13+00:00",
+      "id": 786093,
       "is_public": true,
       "modified": "2015-08-11T13:10:17+00:00",
       "note": "New [rules view tooltip][1] in the Inspector to tweak CSS Filter values\r\n\r\n\r\n  [1]: http://youtu.be/t3NKmmWfklU",
@@ -135,6 +149,7 @@
     {
       "bug": 1144163,
       "created": "2015-05-15T01:34:14+00:00",
+      "id": 786101,
       "is_public": true,
       "modified": "2015-08-11T13:10:26+00:00",
       "note": "New page ruler highlighting tool that displays [lightweight horizontal and vertical rules][1] on a page \r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Rulers",
@@ -144,6 +159,7 @@
     {
       "bug": 1125205,
       "created": "2015-05-15T03:02:49+00:00",
+      "id": 786102,
       "is_public": true,
       "modified": "2015-08-11T13:10:16+00:00",
       "note": "Console API messages from SharedWorker and ServiceWorker are now displayed in web console",
@@ -153,6 +169,7 @@
     {
       "bug": 873443,
       "created": "2015-05-15T04:01:35+00:00",
+      "id": 786111,
       "is_public": true,
       "modified": "2015-08-11T13:10:27+00:00",
       "note": "Inspector now searches across all content frames in a page",
@@ -162,6 +179,7 @@
     {
       "bug": 1159737,
       "created": "2015-06-01T08:15:11+00:00",
+      "id": 786126,
       "is_public": true,
       "modified": "2015-09-16T16:36:27+00:00",
       "note": "Removed support for binary XPCOM components in extensions, use addon SDK \"system/child_process\" pipe mechanism for native binaries instead",
@@ -171,6 +189,7 @@
     {
       "bug": 911034,
       "created": "2015-05-15T03:57:54+00:00",
+      "id": 786110,
       "is_public": true,
       "modified": "2015-08-11T13:10:16+00:00",
       "note": "Kannada text does not display properly in built-in pdf viewer",
@@ -180,6 +199,7 @@
     {
       "bug": 1185294,
       "created": "2015-08-05T13:55:44+00:00",
+      "id": 786207,
       "is_public": true,
       "modified": "2015-08-11T13:10:15+00:00",
       "note": "If Firefox is restarted from an add-on install notification, on-going private browsing downloads might be canceled without warning  ([1185294][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1185294",

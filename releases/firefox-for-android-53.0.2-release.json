@@ -9,6 +9,7 @@
     {
       "bug": null,
       "created": "2017-05-04T17:24:20.126000+00:00",
+      "id": 787072,
       "is_public": true,
       "modified": "2017-05-04T17:49:21.605000+00:00",
       "note": "Reference link to [53.0.1 release notes][1]\r\n\r\n[1]: https://www.mozilla.org/firefox/android/53.0.1/releasenotes",
@@ -18,6 +19,7 @@
     {
       "bug": 1360626,
       "created": "2017-05-04T19:10:45.136000+00:00",
+      "id": 787079,
       "is_public": true,
       "modified": "2017-05-05T15:47:40.524000+00:00",
       "note": "Prevent video corruption on affected devices ([Bug 1360626][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1360626",
@@ -35,6 +37,7 @@
         "title": "Firefox 53.0.2 Release",
         "version": "53.0.2"
       },
+      "id": 787080,
       "is_public": true,
       "modified": "2017-05-04T19:28:11.182000+00:00",
       "note": "Right-to-left locales will now display the search bar correctly ([Bug 1358089][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1358089",
@@ -44,6 +47,7 @@
     {
       "bug": 1320072,
       "created": "2017-05-04T19:27:00.457000+00:00",
+      "id": 787081,
       "is_public": true,
       "modified": "2017-05-04T19:27:00.456000+00:00",
       "note": "Fix for issues with Android integration ([Bug 1320072][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1320072",

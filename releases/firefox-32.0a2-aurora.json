@@ -17,6 +17,7 @@
         "title": "Firefox 30.0a2 Aurora",
         "version": "30.0a2"
       },
+      "id": 785457,
       "is_public": true,
       "modified": "2014-09-23T08:43:43+00:00",
       "note": "View historical use information for logins stored in password manager",
@@ -26,6 +27,7 @@
     {
       "bug": 257061,
       "created": "2014-05-07T02:09:59+00:00",
+      "id": 785582,
       "is_public": true,
       "modified": "2014-09-23T08:43:43+00:00",
       "note": "Display the number of found items in the find toolbar ",
@@ -35,6 +37,7 @@
     {
       "bug": 1004579,
       "created": "2013-11-25T00:24:42+00:00",
+      "id": 93,
       "is_public": true,
       "modified": "2014-09-23T08:43:43+00:00",
       "note": "drawFocusIfNeeded enabled by default",
@@ -44,6 +47,7 @@
     {
       "bug": 934423,
       "created": "2014-03-04T10:07:48+00:00",
+      "id": 785453,
       "is_public": true,
       "modified": "2014-09-23T08:43:43+00:00",
       "note": "ECMAScript 6 built-in method [Array#copyWithin implemented][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/Firefox/Releases/32#JavaScript",
@@ -53,6 +57,7 @@
     {
       "bug": 916315,
       "created": "2014-03-26T16:24:31+00:00",
+      "id": 785519,
       "is_public": true,
       "modified": "2014-09-23T08:43:43+00:00",
       "note": "CSS [position:sticky][1] enabled by default\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/position",
@@ -62,6 +67,7 @@
     {
       "bug": 952643,
       "created": "2014-05-07T02:13:02+00:00",
+      "id": 785583,
       "is_public": true,
       "modified": "2014-09-23T08:43:43+00:00",
       "note": "mix-blend-mode enabled by default ",
@@ -71,6 +77,7 @@
     {
       "bug": 837188,
       "created": "2014-03-26T16:36:33+00:00",
+      "id": 785536,
       "is_public": true,
       "modified": "2014-09-23T08:43:43+00:00",
       "note": "HiDPI support in Developer Tools UI",
@@ -80,6 +87,7 @@
     {
       "bug": 991810,
       "created": "2014-06-11T06:56:00+00:00",
+      "id": 785605,
       "is_public": true,
       "modified": "2014-09-23T08:43:43+00:00",
       "note": "Inspector button moved to the top left",
@@ -89,6 +97,7 @@
     {
       "bug": 911209,
       "created": "2014-06-11T07:02:21+00:00",
+      "id": 785606,
       "is_public": true,
       "modified": "2014-09-23T08:43:43+00:00",
       "note": "Hidden nodes displayed differently in the markup-view",
@@ -98,6 +107,7 @@
     {
       "bug": 1005487,
       "created": "2014-06-05T17:20:25+00:00",
+      "id": 785601,
       "is_public": true,
       "modified": "2014-07-21T03:57:04+00:00",
       "note": "Exit is not always completed when \"clear history when Firefox closes\" is enabled ([1005487][1])\r\n\r\n\r\n  [1]: http://bugzilla.mozilla.org/1005487",
@@ -107,6 +117,7 @@
     {
       "bug": 1011166,
       "created": "2014-06-05T17:27:28+00:00",
+      "id": 785602,
       "is_public": true,
       "modified": "2014-08-27T09:47:30+00:00",
       "note": " Repeating background image causes weird text layout issue with HWA off ([1011166][1])\r\n\r\n\r\n  [1]: http://bugzilla.mozilla.org/1011166",

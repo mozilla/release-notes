@@ -9,6 +9,7 @@
     {
       "bug": 1387254,
       "created": "2017-08-07T08:00:48.092000+00:00",
+      "id": 787203,
       "is_public": true,
       "modified": "2017-08-07T08:00:48.092000+00:00",
       "note": "Firefox Nightly has a new logo",
@@ -18,6 +19,7 @@
     {
       "bug": 1373650,
       "created": "2017-08-17T08:23:04.304000+00:00",
+      "id": 787237,
       "is_public": true,
       "modified": "2017-09-11T07:02:27.350000+00:00",
       "note": "Added an option to the Page Action menu to report a website issue in Firefox Nightly and Firefox Dev Edition",
@@ -27,6 +29,7 @@
     {
       "bug": 1349227,
       "created": "2017-08-31T07:52:29.636000+00:00",
+      "id": 787243,
       "is_public": true,
       "modified": "2017-08-31T07:55:06.229000+00:00",
       "note": "Firefox Nightly now gets updated twice a day so as to help our communities in EMEA and Asia regions to catch regressions and report them during the Americas night.",
@@ -36,6 +39,7 @@
     {
       "bug": 1388902,
       "created": "2017-09-04T11:13:42.634000+00:00",
+      "id": 787244,
       "is_public": true,
       "modified": "2017-09-04T11:13:42.634000+00:00",
       "note": " The \"Share\" button was removed. If you relied on this feature, you can install the [Share Backported][1] extension instead.\r\n\r\n[1]: https://addons.mozilla.org/firefox/addon/share-backported/",
@@ -45,6 +49,7 @@
     {
       "bug": 1346488,
       "created": "2017-09-07T13:00:41.753000+00:00",
+      "id": 787245,
       "is_public": true,
       "modified": "2017-09-07T13:00:41.753000+00:00",
       "note": "Firefox is getting a major Visual Redesign ([Photon project][1]) activated on the Nightly channel and which will ship with Firefox 57 on the release channel.\r\n\r\n[1]: https://wiki.mozilla.org/Firefox/Photon/Updates",
@@ -54,6 +59,7 @@
     {
       "bug": 1385463,
       "created": "2017-09-07T13:21:44.911000+00:00",
+      "id": 787246,
       "is_public": true,
       "modified": "2017-09-07T13:21:44.911000+00:00",
       "note": "The browser's \"autoscrolling\" feature now uses asynchronous scrolling, similar to other input methods like mousewheel, providing a smoother scrolling experience.",

@@ -17,6 +17,7 @@
         "title": "Thunderbird 52.0.1 Release",
         "version": "52.0.1"
       },
+      "id": 787034,
       "is_public": true,
       "modified": "2017-04-29T18:14:37.080000+00:00",
       "note": "Clicking on a link in an email may not open this link in the external browser.",
@@ -26,6 +27,7 @@
     {
       "bug": 1353625,
       "created": "2017-04-11T19:13:13.903000+00:00",
+      "id": 787030,
       "is_public": true,
       "modified": "2017-06-12T19:19:15.553000+00:00",
       "note": "Large number of blank pages being printed under certain circumstances. **To fix this problem,** remove all printer specific preferences in the configuration editor.",
@@ -35,6 +37,7 @@
     {
       "bug": 1355350,
       "created": "2017-04-11T19:14:26.454000+00:00",
+      "id": 787031,
       "is_public": true,
       "modified": "2017-05-09T21:53:46.106000+00:00",
       "note": "Large attachments may not be shown or saved correctly if the message is stored in an IMAP folder which is not synchronized for offline use. **Workaround:** Set preference browser.cache.memory.max_entry_size to the value of -1 (unlimited) and create integer preference browser.cache.memory.capacity with the value of 200000 (200 MB, 25 MB per message).",
@@ -44,6 +47,7 @@
     {
       "bug": 1281610,
       "created": "2017-04-11T19:15:44.518000+00:00",
+      "id": 787032,
       "is_public": true,
       "modified": "2017-07-14T20:12:38.844000+00:00",
       "note": "Crash due to incompatibility with McAfee Anti-SPAM add-on. **Workaround:** Start in safe mode and disable McAfee Anti-Spam Extension",
@@ -53,6 +57,7 @@
     {
       "bug": 1356600,
       "created": "2017-04-14T22:41:25.441000+00:00",
+      "id": 787045,
       "is_public": true,
       "modified": "2017-04-29T18:14:48.592000+00:00",
       "note": "Background images not working and other issues related to embedded images when composing email",
@@ -62,6 +67,7 @@
     {
       "bug": 1158578,
       "created": "2017-04-26T19:41:50.762000+00:00",
+      "id": 787061,
       "is_public": true,
       "modified": "2017-05-09T21:53:55.416000+00:00",
       "note": "Crash when compacting IMAP folder",

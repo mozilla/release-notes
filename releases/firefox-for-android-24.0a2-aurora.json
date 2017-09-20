@@ -17,6 +17,7 @@
         "title": "Firefox 24.0beta Beta",
         "version": "24.0beta"
       },
+      "id": 785412,
       "is_public": true,
       "modified": "2014-04-23T10:53:38+00:00",
       "note": "Support for new scrollbar style in Mac OS X 10.7 and newer",
@@ -34,6 +35,7 @@
         "title": "Firefox 24.0a2 Aurora",
         "version": "24.0a2"
       },
+      "id": 785398,
       "is_public": true,
       "modified": "2014-04-23T10:53:38+00:00",
       "note": "Implemented <a href=\"http://msujaws.wordpress.com/2013/06/17/picking-up-the-crumbs/\">Close tabs to the right</a>",
@@ -51,6 +53,7 @@
         "title": "Firefox 24.0a2 Aurora",
         "version": "24.0a2"
       },
+      "id": 785405,
       "is_public": true,
       "modified": "2014-04-23T10:53:38+00:00",
       "note": "Social: Ability to tear-off chat windows to view separately by simply dragging them out  ",
@@ -68,6 +71,7 @@
         "title": "Firefox 24.0a2 Aurora",
         "version": "24.0a2"
       },
+      "id": 785361,
       "is_public": true,
       "modified": "2014-04-23T10:53:37+00:00",
       "note": "Support for new scrollbar style in Mac OS X 10.7 and newer",
@@ -85,6 +89,7 @@
         "title": "Firefox 24.0a2 Aurora",
         "version": "24.0a2"
       },
+      "id": 785399,
       "is_public": true,
       "modified": "2014-04-23T10:53:38+00:00",
       "note": "Accessibility related improvements on using pinned tabs (see <a href = \"https://bugzilla.mozilla.org/show_bug.cgi?id=577727\">577727</a>)",
@@ -102,6 +107,7 @@
         "title": "Firefox 24.0beta Beta",
         "version": "24.0beta"
       },
+      "id": 328,
       "is_public": true,
       "modified": "2014-04-23T10:53:37+00:00",
       "note": "Replace fixed-ratio audio resampler in webrtc.org capture code with Speex resampler and eliminate pseudo-44000Hz rate",
@@ -119,6 +125,7 @@
         "title": "Firefox 24.0a2 Aurora",
         "version": "24.0a2"
       },
+      "id": 785397,
       "is_public": true,
       "modified": "2014-04-23T10:53:38+00:00",
       "note": "Major SVG rendering improvements around Image tiling and scaling (see <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=600207\">600207 </a>)",
@@ -136,6 +143,7 @@
         "title": "Firefox 24.0a2 Aurora",
         "version": "24.0a2"
       },
+      "id": 785396,
       "is_public": true,
       "modified": "2014-04-23T10:53:38+00:00",
       "note": "Improved and unified <a href = \"http://www.robodesign.ro/mihai/blog/the-browser-console-is-replacing-the-error-console\">Browser console</a> for enhanced debugging experience, replacing existing Error console    ",
@@ -145,6 +153,7 @@
     {
       "bug": null,
       "created": "2013-11-25T00:24:44+00:00",
+      "id": 785408,
       "is_public": true,
       "modified": "2014-04-23T10:53:38+00:00",
       "note": "Removed support for sherlock files that are loaded from application or profile directory",
@@ -154,6 +163,7 @@
     {
       "bug": 573369,
       "created": "2013-11-25T00:24:27+00:00",
+      "id": 30,
       "is_public": true,
       "modified": "2014-07-02T07:04:43+00:00",
       "note": "If you try to start Firefox using a locked profile, it will crash (see [573369][1])\r\n\r\n\r\n  [1]: http://bugzilla.mozilla.org/573369",

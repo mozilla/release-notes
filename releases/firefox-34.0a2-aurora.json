@@ -9,6 +9,7 @@
     {
       "bug": 1007336,
       "created": "2014-08-28T05:50:06+00:00",
+      "id": 785698,
       "is_public": true,
       "modified": "2014-11-25T04:07:39+00:00",
       "note": "Easily [switch themes/personas][1] directly in the Customizing mode\r\n\r\n[1]: http://msujaws.wordpress.com/2014/08/27/new-in-firefox-nightly-recommended-and-easy-theme-switching-through-customize-mode/",
@@ -18,6 +19,7 @@
     {
       "bug": 1043696,
       "created": "2014-10-03T05:38:41+00:00",
+      "id": 785740,
       "is_public": true,
       "modified": "2015-01-26T14:34:57+00:00",
       "note": "Built-in support for H264 (MP4) on Mac OS X Snow Leopard (10.6) and newer through native APIs",
@@ -27,6 +29,7 @@
     {
       "bug": 758857,
       "created": "2014-10-03T03:14:28+00:00",
+      "id": 785736,
       "is_public": true,
       "modified": "2014-11-26T22:13:19+00:00",
       "note": "Wikipedia search now uses HTTPS for secure searching (en-US only)",
@@ -36,6 +39,7 @@
     {
       "bug": 951627,
       "created": "2014-10-03T03:04:54+00:00",
+      "id": 785734,
       "is_public": true,
       "modified": "2014-11-05T15:00:48+00:00",
       "note": "Non-intrusive way to set Firefox as default browser",
@@ -45,6 +49,7 @@
     {
       "bug": 1047594,
       "created": "2014-10-09T04:17:22+00:00",
+      "id": 785748,
       "is_public": true,
       "modified": "2015-02-20T08:34:34+00:00",
       "note": "Implementation of HTTP/2 (draft14) and ALPN",
@@ -54,6 +59,7 @@
     {
       "bug": 286355,
       "created": "2014-08-28T04:59:24+00:00",
+      "id": 785694,
       "is_public": true,
       "modified": "2014-11-25T03:04:05+00:00",
       "note": "Recover from a locked Firefox process in the \"Firefox is already running\" dialog on Windows",
@@ -63,6 +69,7 @@
     {
       "bug": 645416,
       "created": "2014-07-17T07:38:48+00:00",
+      "id": 785650,
       "is_public": true,
       "modified": "2015-03-26T15:55:21+00:00",
       "note": "Support for the [ECMAScript 6 Symbol][1] data type added\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol\r\n",
@@ -72,6 +79,7 @@
     {
       "bug": 792439,
       "created": "2014-08-28T05:14:19+00:00",
+      "id": 785696,
       "is_public": true,
       "modified": "2014-11-25T03:04:05+00:00",
       "note": "[ECMAScript 6 WeakSet][1] Implemented\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakSet",
@@ -81,6 +89,7 @@
     {
       "bug": 1038259,
       "created": "2014-08-28T05:15:09+00:00",
+      "id": 785697,
       "is_public": true,
       "modified": "2014-11-25T03:04:05+00:00",
       "note": "[JavaScript Template Strings][1] Implemented\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/template_strings",
@@ -90,6 +99,7 @@
     {
       "bug": 975744,
       "created": "2014-08-28T05:51:56+00:00",
+      "id": 785699,
       "is_public": true,
       "modified": "2014-11-25T03:04:05+00:00",
       "note": "CSS3 Font variants and features control (e.g. kerning) implemented",
@@ -99,6 +109,7 @@
     {
       "bug": 1026398,
       "created": "2014-09-02T02:07:22+00:00",
+      "id": 785712,
       "is_public": true,
       "modified": "2014-11-25T03:04:05+00:00",
       "note": "WebCrypto: RSA-OAEP, PBKDF2 and AES-KW support",
@@ -108,6 +119,7 @@
     {
       "bug": 1034851,
       "created": "2014-09-02T02:09:34+00:00",
+      "id": 785713,
       "is_public": true,
       "modified": "2014-11-25T03:04:05+00:00",
       "note": "WebCrypto: wrapKey and unwrapKey implemented",
@@ -117,6 +129,7 @@
     {
       "bug": 1025230,
       "created": "2014-09-02T02:11:37+00:00",
+      "id": 785714,
       "is_public": true,
       "modified": "2014-11-25T03:04:05+00:00",
       "note": "WebCrypto: Import/export of JWK-formatted keys",
@@ -126,6 +139,7 @@
     {
       "bug": 886308,
       "created": "2014-09-02T02:21:53+00:00",
+      "id": 785715,
       "is_public": true,
       "modified": "2014-11-25T03:04:05+00:00",
       "note": "[matches()][1] DOM API implemented (formerly *mozMatchesSelector()*)\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/Element.matches",
@@ -135,6 +149,7 @@
     {
       "bug": 908390,
       "created": "2014-09-02T02:28:29+00:00",
+      "id": 785716,
       "is_public": true,
       "modified": "2014-11-25T03:04:05+00:00",
       "note": "Performance.now() for workers implemented",
@@ -144,6 +159,7 @@
     {
       "bug": 1034855,
       "created": "2014-09-04T09:18:20+00:00",
+      "id": 785722,
       "is_public": true,
       "modified": "2014-11-25T03:04:05+00:00",
       "note": "WebCrypto: ECDH support",
@@ -153,6 +169,7 @@
     {
       "bug": 1007059,
       "created": "2014-07-23T08:11:05+00:00",
+      "id": 785677,
       "is_public": true,
       "modified": "2014-11-25T03:04:05+00:00",
       "note": "[WebIDE][1]: Create, edit, and test a new Web application from your browser\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Tools/WebIDE\r\n",
@@ -162,6 +179,7 @@
     {
       "bug": 971662,
       "created": "2014-08-28T06:15:24+00:00",
+      "id": 785702,
       "is_public": true,
       "modified": "2014-11-25T03:04:05+00:00",
       "note": "Highlight all nodes that match a given selector in the Style Editor and the Inspector's Rules panel",
@@ -171,6 +189,7 @@
     {
       "bug": 879008,
       "created": "2014-08-28T06:39:37+00:00",
+      "id": 785705,
       "is_public": true,
       "modified": "2014-11-25T03:04:05+00:00",
       "note": "Improved User Interface of the Profiler",
@@ -180,6 +199,7 @@
     {
       "bug": 899753,
       "created": "2014-10-03T03:39:04+00:00",
+      "id": 785737,
       "is_public": true,
       "modified": "2014-11-25T03:04:05+00:00",
       "note": "[console.table][1] function added to web console\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/Console.table",
@@ -197,6 +217,7 @@
         "title": "Firefox 34.0a2 Aurora",
         "version": "34.0a2"
       },
+      "id": 785735,
       "is_public": true,
       "modified": "2014-11-25T03:04:05+00:00",
       "note": "CSS transitions start correctly when started at the same time as changes to display, position, overflow, and similar properties",

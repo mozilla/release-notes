@@ -17,6 +17,7 @@
         "title": "Thunderbird 52.1.1 Release",
         "version": "52.1.1"
       },
+      "id": 787087,
       "is_public": true,
       "modified": "2017-06-12T19:20:00.318000+00:00",
       "note": "Large attachments may not be shown or saved correctly if the message is stored in an IMAP folder which is not synchronized for offline use",
@@ -34,6 +35,7 @@
         "title": "Thunderbird 52.1.1 Release",
         "version": "52.1.1"
       },
+      "id": 787088,
       "is_public": true,
       "modified": "2017-06-12T19:20:45.135000+00:00",
       "note": "Unable to load full message via POP if message was downloaded partially (or only headers) before",
@@ -51,6 +53,7 @@
         "title": "Thunderbird 52.1.1 Release",
         "version": "52.1.1"
       },
+      "id": 787089,
       "is_public": true,
       "modified": "2017-06-12T19:21:06.203000+00:00",
       "note": "Some attachments can't be opened or saved if the message body is empty",
@@ -68,6 +71,7 @@
         "title": "Thunderbird 52.1.1 Release",
         "version": "52.1.1"
       },
+      "id": 787090,
       "is_public": true,
       "modified": "2017-06-12T19:21:29.288000+00:00",
       "note": "Crash when compacting IMAP folder",
@@ -77,6 +81,7 @@
     {
       "bug": 1353625,
       "created": "2017-04-11T19:13:13.903000+00:00",
+      "id": 787030,
       "is_public": true,
       "modified": "2017-06-12T19:19:15.553000+00:00",
       "note": "Large number of blank pages being printed under certain circumstances. **To fix this problem,** remove all printer specific preferences in the configuration editor.",
@@ -86,6 +91,7 @@
     {
       "bug": 1281610,
       "created": "2017-04-11T19:15:44.518000+00:00",
+      "id": 787032,
       "is_public": true,
       "modified": "2017-07-14T20:12:38.844000+00:00",
       "note": "Crash due to incompatibility with McAfee Anti-SPAM add-on. **Workaround:** Start in safe mode and disable McAfee Anti-Spam Extension",
@@ -95,6 +101,7 @@
     {
       "bug": 1366196,
       "created": "2017-05-20T07:10:51.070000+00:00",
+      "id": 787104,
       "is_public": true,
       "modified": "2017-06-12T19:21:59.290000+00:00",
       "note": "Messages sent via the Simple MAPI interface are forced to HTML. Will be fixed in next release.",

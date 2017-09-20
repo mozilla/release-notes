@@ -9,6 +9,7 @@
     {
       "bug": 1249434,
       "created": "2016-03-08T19:15:52.143000+00:00",
+      "id": 786536,
       "is_public": true,
       "modified": "2016-06-03T22:22:09.431000+00:00",
       "note": "Add \"Show/Hide web fonts\" in advanced settings to reduce bandwidth and data",
@@ -18,6 +19,7 @@
     {
       "bug": 1018994,
       "created": "2016-03-04T18:48:32.873000+00:00",
+      "id": 786520,
       "is_public": true,
       "modified": "2016-06-03T22:22:09.431000+00:00",
       "note": "Remove Favicons in Awesomebar to prevent HTTPS spoofing",
@@ -27,6 +29,7 @@
     {
       "bug": 1235869,
       "created": "2016-03-08T19:14:30.793000+00:00",
+      "id": 786533,
       "is_public": true,
       "modified": "2016-06-03T22:22:09.431000+00:00",
       "note": "Remove support for Android web runtime (WebRT)",
@@ -36,6 +39,7 @@
     {
       "bug": 1244701,
       "created": "2016-03-08T19:15:02.329000+00:00",
+      "id": 786534,
       "is_public": true,
       "modified": "2016-06-07T04:28:18.318000+00:00",
       "note": "Last release to support Android 2.3.x (Gingerbread)",
@@ -45,6 +49,7 @@
     {
       "bug": 1220932,
       "created": "2016-03-08T19:15:24.314000+00:00",
+      "id": 786535,
       "is_public": true,
       "modified": "2016-06-03T22:22:09.431000+00:00",
       "note": "\"Open multiple links\"  setting under \u201cCustomize\u201d has been renamed to \u201cTab Queue\u201d",
@@ -54,6 +59,7 @@
     {
       "bug": 518805,
       "created": "2016-04-25T22:34:25.200000+00:00",
+      "id": 786598,
       "is_public": true,
       "modified": "2016-06-03T22:22:09.431000+00:00",
       "note": "Stopped data usage when Firefox is in the background and a page uses meta refresh",
@@ -63,6 +69,7 @@
     {
       "bug": 1191936,
       "created": "2016-03-04T18:34:24.501000+00:00",
+      "id": 786515,
       "is_public": true,
       "modified": "2016-06-03T22:22:09.453000+00:00",
       "note": "WebCrypto: RSA-PSS signature support",
@@ -72,6 +79,7 @@
     {
       "bug": 1216109,
       "created": "2016-03-04T18:34:53.505000+00:00",
+      "id": 786516,
       "is_public": true,
       "modified": "2016-06-03T22:22:09.453000+00:00",
       "note": "WebCrypto: PBKDF2 supports SHA-2 hash algorithms",
@@ -81,6 +89,7 @@
     {
       "bug": null,
       "created": "2016-06-06T22:37:02.581000+00:00",
+      "id": 786717,
       "is_public": true,
       "modified": "2016-06-07T04:25:17.327000+00:00",
       "note": "[Web platform changes][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/Firefox/Releases/47#Changes_for_Web_developers",

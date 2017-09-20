@@ -9,6 +9,7 @@
     {
       "bug": 1257363,
       "created": "2016-04-29T17:56:42.258000+00:00",
+      "id": 786624,
       "is_public": true,
       "modified": "2016-05-05T20:21:18.499000+00:00",
       "note": "Various improvements in handling of message compose in paragraph mode.",
@@ -18,6 +19,7 @@
     {
       "bug": 1265126,
       "created": "2016-04-29T17:58:28.885000+00:00",
+      "id": 786625,
       "is_public": true,
       "modified": "2016-05-05T20:21:18.499000+00:00",
       "note": "Printing failed in composition window.",
@@ -27,6 +29,7 @@
     {
       "bug": 1265326,
       "created": "2016-04-29T18:01:25.529000+00:00",
+      "id": 786626,
       "is_public": true,
       "modified": "2016-05-05T20:21:18.499000+00:00",
       "note": "Font indicator in compose falsely claimed certain fonts were not installed.",
@@ -36,6 +39,7 @@
     {
       "bug": 1268081,
       "created": "2016-04-29T18:04:28.600000+00:00",
+      "id": 786627,
       "is_public": true,
       "modified": "2016-05-05T20:21:18.499000+00:00",
       "note": "DIGEST-MD5 authentication in JS-XMPP failed for some users (now disabled).",
@@ -45,6 +49,7 @@
     {
       "bug": 1268325,
       "created": "2016-04-29T18:10:03.370000+00:00",
+      "id": 786628,
       "is_public": true,
       "modified": "2016-05-05T20:22:18.491000+00:00",
       "note": "Correspondents column upgrade too aggressive, causing loss of thread pane column setup (may be fixed/disabled in version 45.1 non-beta release)",
@@ -54,6 +59,7 @@
     {
       "bug": 1267804,
       "created": "2016-04-29T18:16:24.717000+00:00",
+      "id": 786629,
       "is_public": true,
       "modified": "2016-05-05T20:22:23.073000+00:00",
       "note": "Drag and drop of contact name from address book to compose window broken.",
@@ -63,6 +69,7 @@
     {
       "bug": 1266354,
       "created": "2016-05-02T17:56:58.191000+00:00",
+      "id": 786630,
       "is_public": true,
       "modified": "2016-05-10T18:34:23.951000+00:00",
       "note": "UI elements become larger when moused over on retina displays/monitor on Mac OS X or windows moved between lowdpi/hidp.",

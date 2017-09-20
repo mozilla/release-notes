@@ -9,6 +9,7 @@
     {
       "bug": 1144749,
       "created": "2016-08-03T21:07:39.435000+00:00",
+      "id": 786763,
       "is_public": true,
       "modified": "2016-11-14T22:48:34.365000+00:00",
       "note": "Updates to keyboard shortcuts\r\n\r\n - Set a preference to have Ctrl+Tab cycle through tabs in recently used order \r\n - View a page in Reader Mode by using Ctrl+Alt+R (command+alt+r on Mac)\r\n",
@@ -18,6 +19,7 @@
     {
       "bug": 269442,
       "created": "2016-08-03T21:10:15.077000+00:00",
+      "id": 786765,
       "is_public": true,
       "modified": "2016-11-14T01:28:41.075000+00:00",
       "note": "Added option to Find in page that allows users to limit search to whole words only",
@@ -27,6 +29,7 @@
     {
       "bug": 1299346,
       "created": "2016-09-19T16:58:51.988000+00:00",
+      "id": 786814,
       "is_public": true,
       "modified": "2016-11-14T01:29:06.046000+00:00",
       "note": "Added Guarani (gn) locale",
@@ -36,6 +39,7 @@
     {
       "bug": 1271770,
       "created": "2016-11-10T19:25:24.428000+00:00",
+      "id": 786858,
       "is_public": true,
       "modified": "2016-11-14T01:29:35.260000+00:00",
       "note": "Increased availability of WebGL to more than 98 percent of users on Windows 7 and newer",
@@ -45,6 +49,7 @@
     {
       "bug": 1291472,
       "created": "2016-11-10T19:30:13.440000+00:00",
+      "id": 786859,
       "is_public": true,
       "modified": "2016-11-14T01:30:12.861000+00:00",
       "note": "Added download protection for a large number of [executable file][1] types on Windows, Mac and Linux\r\n\r\n\r\n  [1]: https://hg.mozilla.org/mozilla-central/file/054d4856cea6/toolkit/components/downloads/ApplicationReputation.cpp#l399",
@@ -54,6 +59,7 @@
     {
       "bug": 1308332,
       "created": "2016-11-10T21:54:51.491000+00:00",
+      "id": 786861,
       "is_public": true,
       "modified": "2016-11-14T21:12:02.462000+00:00",
       "note": "Improved performance for SDK extensions or extensions using the SDK module loader",
@@ -63,6 +69,7 @@
     {
       "bug": null,
       "created": "2016-11-14T01:30:49.217000+00:00",
+      "id": 786862,
       "is_public": true,
       "modified": "2016-11-14T19:59:48.268000+00:00",
       "note": "Playback video on more sites without plugins with WebM EME Support for Widevine on Windows and Mac",
@@ -72,6 +79,7 @@
     {
       "bug": 1231701,
       "created": "2016-08-03T21:08:46.672000+00:00",
+      "id": 786764,
       "is_public": true,
       "modified": "2016-11-14T01:28:15.341000+00:00",
       "note": "Added a built-in Emoji set for operating systems without native Emoji fonts (Windows 8.0 and lower and Linux)",
@@ -81,6 +89,7 @@
     {
       "bug": 1263665,
       "created": "2016-11-10T19:30:46.060000+00:00",
+      "id": 786860,
       "is_public": true,
       "modified": "2016-11-10T19:30:46.060000+00:00",
       "note": "Blocked versions of libavcodec older than 54.35.1",
@@ -90,6 +99,7 @@
     {
       "bug": 1277905,
       "created": "2016-11-22T17:06:57.567000+00:00",
+      "id": 786887,
       "is_public": true,
       "modified": "2016-11-22T17:08:39.008000+00:00",
       "note": "The link to check for plugin security updates has been removed from the addon manager as Firefox automatically checks for plugin updates",
@@ -99,6 +109,7 @@
     {
       "bug": null,
       "created": "2016-05-18T19:35:47.201000+00:00",
+      "id": 786679,
       "is_public": true,
       "modified": "2016-11-10T19:23:22.975000+00:00",
       "note": "[Changes for web developers][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/Firefox/Releases/50#Changes_for_Web_developers",
@@ -108,6 +119,7 @@
     {
       "bug": 382721,
       "created": "2016-09-19T16:58:16.479000+00:00",
+      "id": 786813,
       "is_public": true,
       "modified": "2016-11-10T19:23:22.975000+00:00",
       "note": "Fixed rendering of dashed and dotted borders with rounded corners ([border-radius][1])\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/border-radius",
@@ -117,6 +129,7 @@
     {
       "bug": null,
       "created": "2016-11-15T00:59:49.556000+00:00",
+      "id": 786863,
       "is_public": true,
       "modified": "2016-11-28T23:51:29.453000+00:00",
       "note": "Various [security fixes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/en-US/security/advisories/mfsa2016-91/",
@@ -126,6 +139,7 @@
     {
       "bug": 1264192,
       "created": "2016-11-16T18:40:18.223000+00:00",
+      "id": 786867,
       "is_public": true,
       "modified": "2016-11-16T18:40:18.222000+00:00",
       "note": "Login cookies are now saved for sites with a high number of cookies ([Bug 1264192][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1264192",
@@ -135,6 +149,7 @@
     {
       "bug": 1319904,
       "created": "2016-11-28T21:12:55.433000+00:00",
+      "id": 786894,
       "is_public": true,
       "modified": "2016-11-28T21:20:19.281000+00:00",
       "note": "Firefox fails to log into Firefox Accounts or Sync if browser is set to \"Never Remember History\"",
@@ -144,6 +159,7 @@
     {
       "bug": 1320048,
       "created": "2017-01-18T15:06:48.124000+00:00",
+      "id": 786919,
       "is_public": true,
       "modified": "2017-03-17T03:37:16.451000+00:00",
       "note": "Due to an Apple touch bar bug, Firefox on recent MacBook Pro may crash when open for long periods or crash after resuming from sleep. Apple reports to have a fix for this in the currently unreleased OS X 10.12.3",

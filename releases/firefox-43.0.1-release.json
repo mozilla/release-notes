@@ -9,6 +9,7 @@
     {
       "bug": null,
       "created": "2015-12-18T16:10:53.136000+00:00",
+      "id": 4,
       "is_public": true,
       "modified": "2015-12-19T20:50:41.042000+00:00",
       "note": "Reference: Release notes for [Firefox 43.0][1]\r\n\r\n  [1]: /firefox/43.0/releasenotes/",
@@ -18,6 +19,7 @@
     {
       "bug": 1079858,
       "created": "2015-12-18T15:53:18.239000+00:00",
+      "id": 2,
       "is_public": true,
       "modified": "2015-12-31T00:25:53.572000+00:00",
       "note": " Prepare to use SHA-256 signing certificate for Windows builds, to meet new signing requirement ([1079858][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1079858",

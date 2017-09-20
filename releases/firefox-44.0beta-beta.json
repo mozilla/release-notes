@@ -9,6 +9,7 @@
     {
       "bug": null,
       "created": "2015-11-03T14:24:05+00:00",
+      "id": 786355,
       "is_public": true,
       "modified": "2016-01-21T20:51:49.831000+00:00",
       "note": "Improved warning pages for certificate errors and untrusted connections",
@@ -18,6 +19,7 @@
     {
       "bug": 1213499,
       "created": "2015-12-14T21:25:34+00:00",
+      "id": 786380,
       "is_public": true,
       "modified": "2016-01-21T20:51:49.831000+00:00",
       "note": "Enable H.264 if system decoder is available",
@@ -27,6 +29,7 @@
     {
       "bug": 1217170,
       "created": "2015-12-14T23:54:47+00:00",
+      "id": 786385,
       "is_public": true,
       "modified": "2016-01-21T20:51:49.831000+00:00",
       "note": "Enable WebM/VP9 video support on systems that don't support MP4/H.264",
@@ -36,6 +39,7 @@
     {
       "bug": null,
       "created": "2015-11-03T14:24:57+00:00",
+      "id": 786356,
       "is_public": true,
       "modified": "2016-01-29T18:06:49.513000+00:00",
       "note": "Firefox has removed support for the RC4 cipher",
@@ -45,6 +49,7 @@
     {
       "bug": 1180560,
       "created": "2015-12-14T21:03:16+00:00",
+      "id": 786377,
       "is_public": true,
       "modified": "2016-01-21T20:51:49.831000+00:00",
       "note": "To support unicode-range descriptor for webfonts, font matching under Linux now uses the same font matching code as other platforms",
@@ -54,6 +59,7 @@
     {
       "bug": 1223466,
       "created": "2015-12-14T21:28:52+00:00",
+      "id": 786381,
       "is_public": true,
       "modified": "2016-01-21T21:05:46.432000+00:00",
       "note": "Firefox will no longer trust the Equifax Secure Certificate Authority 1024-bit root certificate or the UTN - DATACorp SGC to validate secure [website certificates][1]\r\n\r\n\r\n  [1]: https://support.mozilla.org/ta/kb/secure-website-certificate",
@@ -63,6 +69,7 @@
     {
       "bug": 1205843,
       "created": "2015-12-18T17:59:58.789000+00:00",
+      "id": 786400,
       "is_public": true,
       "modified": "2016-01-21T20:51:49.831000+00:00",
       "note": "Use a SHA-256 signing certificate for Windows builds, to meet new signing requirements",
@@ -72,6 +79,7 @@
     {
       "bug": 1025778,
       "created": "2015-11-02T09:28:26+00:00",
+      "id": 786345,
       "is_public": true,
       "modified": "2016-01-21T20:51:49.831000+00:00",
       "note": "Right click on a logged object in the console to store it as a global variable on the page",
@@ -81,6 +89,7 @@
     {
       "bug": 1194146,
       "created": "2015-11-02T11:15:40+00:00",
+      "id": 786349,
       "is_public": true,
       "modified": "2016-01-21T20:51:49.831000+00:00",
       "note": "Visual tools for Animation:\r\n\r\n -  View/Edit CSS animation keyframe rules directly in the inspector\r\n -  Visually modify the cubic-bezier curve that drives the way animations progress through time\r\n -  [Discover and scrub through all CSS animations][1] and transitions playing on the page\r\n - Learn more: http://devtoolschallenger.com/\r\n\r\n\r\n  [1]: https://www.youtube.com/watch?v=T2jykykN3yc",
@@ -90,6 +99,7 @@
     {
       "bug": 1194146,
       "created": "2015-11-02T15:07:35+00:00",
+      "id": 786351,
       "is_public": true,
       "modified": "2016-01-21T20:51:49.831000+00:00",
       "note": "Visual tools for Layout and Styles:\r\n\r\n - Display rulers along the viewport to verify size and position and use the measurement tool to easily detect spacing and alignment problems\r\n - [Use CSS filters to preview and create][1] real-time effects like drop-shadows, sepia, etc\r\n - Learn more: http://devtoolschallenger.com/\r\n\r\n\r\n  [1]: https://www.youtube.com/watch?v=t3NKmmWfklU",
@@ -99,6 +109,7 @@
     {
       "bug": 1195323,
       "created": "2015-11-02T17:15:06+00:00",
+      "id": 786352,
       "is_public": true,
       "modified": "2016-01-21T20:51:49.831000+00:00",
       "note": "New memory tool for inspecting the memory heap",
@@ -108,6 +119,7 @@
     {
       "bug": null,
       "created": "2015-11-03T09:44:09+00:00",
+      "id": 786353,
       "is_public": true,
       "modified": "2016-01-21T20:51:49.831000+00:00",
       "note": "[Service Workers API][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/API/Service_Worker_API/Using_Service_Workers",
@@ -117,6 +129,7 @@
     {
       "bug": 1132203,
       "created": "2015-11-03T10:30:11+00:00",
+      "id": 786354,
       "is_public": true,
       "modified": "2016-01-21T20:51:49.831000+00:00",
       "note": "Built-in JSON reader to intuitively view, search, copy and save data without extensions",
@@ -126,6 +139,7 @@
     {
       "bug": 852931,
       "created": "2015-12-14T20:59:01+00:00",
+      "id": 786376,
       "is_public": true,
       "modified": "2016-01-21T20:51:49.831000+00:00",
       "note": "Jump to [function definitions in the debugger][1] with Cmd-Click\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Keyboard_shortcuts#Debugger",
@@ -135,6 +149,7 @@
     {
       "bug": 1203802,
       "created": "2015-12-14T21:04:58+00:00",
+      "id": 786378,
       "is_public": true,
       "modified": "2016-01-21T20:51:49.831000+00:00",
       "note": "[WebSocket Debugging API][1] and add-on\r\n\r\n\r\n  [1]: https://hacks.mozilla.org/2015/11/developer-edition-44-creative-tools-and-more/",
@@ -144,6 +159,7 @@
     {
       "bug": 984880,
       "created": "2015-12-14T22:48:27+00:00",
+      "id": 786383,
       "is_public": true,
       "modified": "2016-01-21T20:51:49.831000+00:00",
       "note": "The rule view now displays styles using their authored text,\r\nand edits in the rule view are now linked to the style editor",
@@ -153,6 +169,7 @@
     {
       "bug": null,
       "created": "2015-08-13T12:35:54+00:00",
+      "id": 786235,
       "is_public": true,
       "modified": "2016-01-25T18:50:12.034000+00:00",
       "note": "[Add-on signing][1] enforcement\r\n\r\n\r\n  [1]: https://wiki.mozilla.org/Addons/Extension_Signing",
@@ -162,6 +179,7 @@
     {
       "bug": 1193610,
       "created": "2015-12-14T23:52:08+00:00",
+      "id": 786384,
       "is_public": true,
       "modified": "2016-01-21T20:51:49.831000+00:00",
       "note": "Windows XP and Vista screensaver doesn't disable when watching videos ([Bug 1193610][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1193610",

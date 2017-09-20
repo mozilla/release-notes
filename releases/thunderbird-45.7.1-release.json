@@ -17,6 +17,7 @@
         "title": "Thunderbird 45.7.1 Release",
         "version": "45.7.1"
       },
+      "id": 786972,
       "is_public": true,
       "modified": "2017-02-07T17:47:27.384000+00:00",
       "note": "Crash when viewing certain IMAP messages (introduced in 45.7.0)",
@@ -26,6 +27,7 @@
     {
       "bug": 1328814,
       "created": "2017-02-07T17:30:44.579000+00:00",
+      "id": 786971,
       "is_public": true,
       "modified": "2017-02-15T20:55:32.812000+00:00",
       "note": "Message preview pane non-functional after IMAP folder was renamed or moved",

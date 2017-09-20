@@ -17,6 +17,7 @@
         "title": "Thunderbird 56.0beta Beta",
         "version": "56.0beta"
       },
+      "id": 787207,
       "is_public": true,
       "modified": "2017-08-07T20:40:27.607000+00:00",
       "note": "An option under \"Tools > Options, Advanced, General\" now allows to select whether date/time display will follow the application locale (adjusted by operating system's format settings for that locale) or the locale selected in the operating system's regional settings. In other words, an US English Thunderbird can use, for example, German formats.",
@@ -34,6 +35,7 @@
         "title": "Thunderbird 56.0beta Beta",
         "version": "56.0beta"
       },
+      "id": 787210,
       "is_public": true,
       "modified": "2017-08-07T20:49:58.971000+00:00",
       "note": "IMAP: When after sending a message storing that sent message fails, the message can now be stored in a local folder",
@@ -51,6 +53,7 @@
         "title": "Thunderbird 56.0beta Beta",
         "version": "56.0beta"
       },
+      "id": 787213,
       "is_public": true,
       "modified": "2017-08-07T20:59:31.609000+00:00",
       "note": "When messages are composed in paragraph format, \"body text\" and split mail quotes are converted to paragraphs when pressing the enter key",
@@ -68,6 +71,7 @@
         "title": "Thunderbird 56.0beta Beta",
         "version": "56.0beta"
       },
+      "id": 787215,
       "is_public": true,
       "modified": "2017-08-07T21:04:01.448000+00:00",
       "note": "Thunderbird now uses the latest Mozilla technology based on Rust for encoding messages",
@@ -85,6 +89,7 @@
         "title": "Thunderbird 56.0beta Beta",
         "version": "56.0beta"
       },
+      "id": 787216,
       "is_public": true,
       "modified": "2017-08-07T21:13:31.513000+00:00",
       "note": "Various improvements in the Thunderbird themes on all platforms, especially for Windows 10.",
@@ -102,6 +107,7 @@
         "title": "Thunderbird 56.0beta Beta",
         "version": "56.0beta"
       },
+      "id": 787208,
       "is_public": true,
       "modified": "2017-08-16T18:25:02.267000+00:00",
       "note": "Unwanted inline images shown in rogue SPAM messages",
@@ -119,6 +125,7 @@
         "title": "Thunderbird 56.0beta Beta",
         "version": "56.0beta"
       },
+      "id": 787209,
       "is_public": true,
       "modified": "2017-08-07T20:45:06.941000+00:00",
       "note": "Contacts sidebar: Selection and context menu behavior",
@@ -136,6 +143,7 @@
         "title": "Thunderbird 56.0beta Beta",
         "version": "56.0beta"
       },
+      "id": 787211,
       "is_public": true,
       "modified": "2017-08-16T18:25:25.319000+00:00",
       "note": "Deleting message from the POP3 server not working when maildir storage was used",
@@ -153,6 +161,7 @@
         "title": "Thunderbird 56.0beta Beta",
         "version": "56.0beta"
       },
+      "id": 787212,
       "is_public": true,
       "modified": "2017-08-16T18:25:36.612000+00:00",
       "note": "Message disposition flag (replied / forwarded) lost when reply or forwarded message was stored as draft and draft was sent later",
@@ -170,6 +179,7 @@
         "title": "Thunderbird 56.0beta Beta",
         "version": "56.0beta"
       },
+      "id": 787214,
       "is_public": true,
       "modified": "2017-08-16T18:32:26.387000+00:00",
       "note": "Inline images not scaled to fit when printing",
@@ -187,6 +197,7 @@
         "title": "Thunderbird 56.0beta Beta",
         "version": "56.0beta"
       },
+      "id": 787217,
       "is_public": true,
       "modified": "2017-08-16T18:26:08.235000+00:00",
       "note": "Selected text from another message sometimes included in a reply",
@@ -204,6 +215,7 @@
         "title": "Thunderbird 56.0beta Beta",
         "version": "56.0beta"
       },
+      "id": 787218,
       "is_public": true,
       "modified": "2017-08-16T18:26:30.133000+00:00",
       "note": "No authorisation prompt displayed when inserting image into email body although image URL requires authentication",
@@ -221,6 +233,7 @@
         "title": "Thunderbird 56.0beta Beta",
         "version": "56.0beta"
       },
+      "id": 787219,
       "is_public": true,
       "modified": "2017-08-07T21:10:03.231000+00:00",
       "note": "Blank lines removed from plain text replies under some circumstances",
@@ -238,6 +251,7 @@
         "title": "Thunderbird 56.0beta Beta",
         "version": "56.0beta"
       },
+      "id": 787226,
       "is_public": true,
       "modified": "2017-08-16T18:26:40.404000+00:00",
       "note": "Large attachments taking a long time to open under some circumstances",
@@ -255,6 +269,7 @@
         "title": "Thunderbird 56.0beta Beta",
         "version": "56.0beta"
       },
+      "id": 787239,
       "is_public": true,
       "modified": "2017-08-21T07:08:19.076000+00:00",
       "note": "IMAP UIDs > 0x7FFFFFFF not handled properly",

@@ -9,6 +9,7 @@
     {
       "bug": 1188259,
       "created": "2016-11-18T22:03:17.228000+00:00",
+      "id": 786881,
       "is_public": true,
       "modified": "2017-03-06T10:29:45.598000+00:00",
       "note": "Added support for WebAssembly, an emerging standard that brings near-native performance to Web-based games, apps, and software libraries without the use of plugins.",
@@ -18,6 +19,7 @@
     {
       "bug": 1202680,
       "created": "2016-11-18T22:05:27.657000+00:00",
+      "id": 786882,
       "is_public": true,
       "modified": "2017-03-07T17:33:25.738000+00:00",
       "note": "Added automatic captive portal detection, for easier access to Wi-Fi hotspots. When accessing the Internet via a captive portal, Firefox will alert users and open the portal login page in a new tab.",
@@ -27,6 +29,7 @@
     {
       "bug": 1304534,
       "created": "2016-11-18T21:01:15.062000+00:00",
+      "id": 786876,
       "is_public": true,
       "modified": "2017-03-06T09:52:31.793000+00:00",
       "note": "Enhanced Sync to allow users to send and open tabs from one device to another.",
@@ -36,6 +39,7 @@
     {
       "bug": 1258839,
       "created": "2016-11-18T22:00:57.405000+00:00",
+      "id": 786880,
       "is_public": true,
       "modified": "2017-03-07T18:49:15.378000+00:00",
       "note": "Enabled multi-process Firefox for 32-bit Windows users with touch screens",
@@ -45,6 +49,7 @@
     {
       "bug": 1304224,
       "created": "2016-11-23T16:10:36.870000+00:00",
+      "id": 786888,
       "is_public": true,
       "modified": "2017-03-06T09:47:40.157000+00:00",
       "note": "Added user warnings for [non-secure HTTP pages with logins][1]. Firefox now displays a \u201cThis connection is not secure\u201d message when users click into the username and password fields on pages that don\u2019t use HTTPS.\r\n\r\n[1]: https://blog.mozilla.org/security/2017/01/20/communicating-the-dangers-of-non-secure-http/",
@@ -54,6 +59,7 @@
     {
       "bug": 976073,
       "created": "2017-01-18T15:59:53.893000+00:00",
+      "id": 786921,
       "is_public": true,
       "modified": "2017-03-06T10:30:57.343000+00:00",
       "note": "Implemented the Strict Secure Cookies specification which forbids insecure HTTP sites from setting cookies with the \"secure\" attribute.  In some cases, this will prevent an insecure site from setting a cookie with the same name as an existing \"secure\" cookie from the same base domain.",
@@ -63,6 +69,7 @@
     {
       "bug": 1269807,
       "created": "2016-11-18T22:24:14.696000+00:00",
+      "id": 786886,
       "is_public": true,
       "modified": "2017-03-06T10:01:47.657000+00:00",
       "note": "[Removed support][1] for Netscape Plugin API (NPAPI) plugins other than Flash. Silverlight, Java, Acrobat and the like are no longer supported. \r\n\r\n  [1]: https://blog.mozilla.org/futurereleases/2015/10/08/npapi-plugins-in-firefox/",
@@ -72,6 +79,7 @@
     {
       "bug": 1313580,
       "created": "2016-11-18T21:00:10.904000+00:00",
+      "id": 786874,
       "is_public": true,
       "modified": "2017-03-17T03:34:05.887000+00:00",
       "note": "Removed Battery Status API to reduce fingerprinting of users by trackers",
@@ -81,6 +89,7 @@
     {
       "bug": 1305769,
       "created": "2016-11-18T21:00:46.710000+00:00",
+      "id": 786875,
       "is_public": true,
       "modified": "2017-03-06T10:09:23.364000+00:00",
       "note": "Redesigned [Responsive Design Mode][1] to include device selection, network throttling, and more\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Responsive_Design_Mode",
@@ -90,6 +99,7 @@
     {
       "bug": 1127522,
       "created": "2016-11-18T21:02:20.875000+00:00",
+      "id": 786878,
       "is_public": true,
       "modified": "2017-03-06T10:24:48.259000+00:00",
       "note": "Improved [security for screen sharing][1], which now shows a preview and no longer requires a whitelisted domain\r\n\r\n[1]: https://medium.com/@pastith/feeling-safer-online-with-firefox-b9fe13af6600#0594",
@@ -107,6 +117,7 @@
         "title": "Firefox 52.0a2 Aurora",
         "version": "52.0a2"
       },
+      "id": 786879,
       "is_public": true,
       "modified": "2017-01-24T13:54:47.994000+00:00",
       "note": "Introduced the [requestIdleCallback API][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/Window/requestIdleCallback",
@@ -116,6 +127,7 @@
     {
       "bug": 1185106,
       "created": "2016-11-18T22:10:48.155000+00:00",
+      "id": 786883,
       "is_public": true,
       "modified": "2017-01-24T13:54:49.970000+00:00",
       "note": "Introduced ECMAScript 7 [async functions][1] that makes it easier to write asynchronous code without chaining Promises\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function",
@@ -125,6 +137,7 @@
     {
       "bug": 1243846,
       "created": "2016-11-18T22:12:29.899000+00:00",
+      "id": 786884,
       "is_public": false,
       "modified": "2017-01-27T22:19:55.457000+00:00",
       "note": "Added the [Intersection Observer API][1] to help developers improve site performance by deferring content loading and significantly lower the cost of content visibility checks\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API",
@@ -134,6 +147,7 @@
     {
       "bug": 1244402,
       "created": "2016-11-18T22:21:20.375000+00:00",
+      "id": 786885,
       "is_public": true,
       "modified": "2017-01-24T13:53:08.689000+00:00",
       "note": "[Touch events][1] have been re-enabled on Windows desktop, which will help developers create a better user experience for people using a touchscreen.\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/Touch_events",
@@ -143,6 +157,7 @@
     {
       "bug": 616605,
       "created": "2016-11-23T16:13:35.957000+00:00",
+      "id": 786889,
       "is_public": true,
       "modified": "2017-03-06T10:08:54.730000+00:00",
       "note": "Enabled [CSS Grid Layout][1], opening up a world of new possibilities for graphic design\r\n\r\n[1]: https://developer.mozilla.org/docs/Web/CSS/CSS_Grid_Layout",
@@ -152,6 +167,7 @@
     {
       "bug": 1309612,
       "created": "2016-11-23T16:15:02.170000+00:00",
+      "id": 786890,
       "is_public": true,
       "modified": "2017-01-24T13:39:21.372000+00:00",
       "note": "Introduced the [selection events API][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/Selection",

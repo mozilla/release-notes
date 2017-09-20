@@ -17,6 +17,7 @@
         "title": "Thunderbird 50.0beta Beta",
         "version": "50.0beta"
       },
+      "id": 786836,
       "is_public": true,
       "modified": "2017-01-12T17:19:12.039000+00:00",
       "note": "**IMPORTANT:** Changed recipient address entry: Arrow-keys now copy the pop-up value to the input field. Mouse-hovered pop-up value can no longer be confirmed with tab or enter key. This restores the behavior of Thunderbird 24.",
@@ -26,6 +27,7 @@
     {
       "bug": 1275284,
       "created": "2016-11-18T19:18:30.483000+00:00",
+      "id": 786870,
       "is_public": true,
       "modified": "2016-11-19T08:52:02.055000+00:00",
       "note": "Support changes to character limit in Twitter",
@@ -43,6 +45,7 @@
         "title": "Thunderbird 50.0beta Beta",
         "version": "50.0beta"
       },
+      "id": 786834,
       "is_public": true,
       "modified": "2017-01-12T17:19:15.679000+00:00",
       "note": "Reply with selected text containing quote resulted in wrong quoting level indication",
@@ -60,6 +63,7 @@
         "title": "Thunderbird 49.0beta Beta",
         "version": "49.0beta"
       },
+      "id": 786802,
       "is_public": true,
       "modified": "2016-11-19T10:51:58.606000+00:00",
       "note": "Mail address display at header pane displayed incorrectly if the address contains UTF-8 according to RFC 6532",
@@ -69,6 +73,7 @@
     {
       "bug": 1266698,
       "created": "2016-11-18T19:04:37.896000+00:00",
+      "id": 786868,
       "is_public": true,
       "modified": "2016-11-18T19:05:24.093000+00:00",
       "note": " Attempting to sort messages on the Date field whilst a quick filter is applied got stuck on sort descending",
@@ -78,6 +83,7 @@
     {
       "bug": 1301186,
       "created": "2016-11-18T19:25:57.911000+00:00",
+      "id": 786872,
       "is_public": true,
       "modified": "2016-11-19T08:51:16.317000+00:00",
       "note": "Email invitation might not be displayed when description contains non-ASCII characters",

@@ -17,6 +17,7 @@
         "title": "Thunderbird 56.0beta Beta",
         "version": "56.0beta"
       },
+      "id": 787208,
       "is_public": true,
       "modified": "2017-08-16T18:25:02.267000+00:00",
       "note": "Unwanted inline images shown in rogue SPAM messages",
@@ -34,6 +35,7 @@
         "title": "Thunderbird 56.0beta Beta",
         "version": "56.0beta"
       },
+      "id": 787211,
       "is_public": true,
       "modified": "2017-08-16T18:25:25.319000+00:00",
       "note": "Deleting message from the POP3 server not working when maildir storage was used",
@@ -51,6 +53,7 @@
         "title": "Thunderbird 56.0beta Beta",
         "version": "56.0beta"
       },
+      "id": 787212,
       "is_public": true,
       "modified": "2017-08-16T18:25:36.612000+00:00",
       "note": "Message disposition flag (replied / forwarded) lost when reply or forwarded message was stored as draft and draft was sent later",
@@ -68,6 +71,7 @@
         "title": "Thunderbird 56.0beta Beta",
         "version": "56.0beta"
       },
+      "id": 787214,
       "is_public": true,
       "modified": "2017-08-16T18:32:26.387000+00:00",
       "note": "Inline images not scaled to fit when printing",
@@ -85,6 +89,7 @@
         "title": "Thunderbird 56.0beta Beta",
         "version": "56.0beta"
       },
+      "id": 787217,
       "is_public": true,
       "modified": "2017-08-16T18:26:08.235000+00:00",
       "note": "Selected text from another message sometimes included in a reply",
@@ -102,6 +107,7 @@
         "title": "Thunderbird 56.0beta Beta",
         "version": "56.0beta"
       },
+      "id": 787218,
       "is_public": true,
       "modified": "2017-08-16T18:26:30.133000+00:00",
       "note": "No authorisation prompt displayed when inserting image into email body although image URL requires authentication",
@@ -119,6 +125,7 @@
         "title": "Thunderbird 56.0beta Beta",
         "version": "56.0beta"
       },
+      "id": 787226,
       "is_public": true,
       "modified": "2017-08-16T18:26:40.404000+00:00",
       "note": "Large attachments taking a long time to open under some circumstances",
@@ -136,6 +143,7 @@
         "title": "Thunderbird 52.3.0 Release",
         "version": "52.3.0"
       },
+      "id": 787238,
       "is_public": true,
       "modified": "2017-08-18T11:21:13.800000+00:00",
       "note": "Various [security fixes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/en-US/security/known-vulnerabilities/thunderbird/#thunderbird52.3",
@@ -145,6 +153,7 @@
     {
       "bug": 1356902,
       "created": "2017-06-13T08:40:01.450000+00:00",
+      "id": 787152,
       "is_public": true,
       "modified": "2017-08-16T18:21:48.345000+00:00",
       "note": "On Windows, \"Send to > Mail recipient\" does not work. Workaround: Install the [Microsoft Visual Studio 2015 redistributable runtime library][1] or the [Universal C Runtime for Windows Server][2].\r\n\r\n\r\n  [1]: https://www.microsoft.com/en-us/download/details.aspx?id=53587\r\n  [2]: https://support.microsoft.com/en-us/help/2999226/update-for-universal-c-runtime-in-windows",
@@ -154,6 +163,7 @@
     {
       "bug": 1176399,
       "created": "2017-06-21T21:47:33.369000+00:00",
+      "id": 787158,
       "is_public": true,
       "modified": "2017-08-16T18:21:48.345000+00:00",
       "note": "Multiple requests for master password when GMail OAuth2 is enabled",

@@ -9,6 +9,7 @@
     {
       "bug": 802274,
       "created": "2013-11-25T00:24:50+00:00",
+      "id": 248,
       "is_public": true,
       "modified": "2014-04-23T10:53:36+00:00",
       "note": "Starting Firefox with -private flag incorrectly claims you are not in Private Browsing mode",
@@ -18,6 +19,7 @@
     {
       "bug": null,
       "created": "2013-11-25T00:24:50+00:00",
+      "id": 251,
       "is_public": true,
       "modified": "2014-04-23T10:53:36+00:00",
       "note": "Built-in PDF viewer",
@@ -27,6 +29,7 @@
     {
       "bug": 825734,
       "created": "2013-11-25T00:24:50+00:00",
+      "id": 270,
       "is_public": true,
       "modified": "2014-04-23T10:53:37+00:00",
       "note": "Plugins stop rendering when the top half of the plugin is scrolled off the top of the page, in HiDPI mode",
@@ -36,6 +39,7 @@
     {
       "bug": 825205,
       "created": "2013-11-25T00:24:50+00:00",
+      "id": 271,
       "is_public": true,
       "modified": "2014-04-23T10:53:37+00:00",
       "note": "Certain valid WebGL drawing operations are incorrectly rejected,\nleaving incomplete rendering in affected pages",
@@ -45,6 +49,7 @@
     {
       "bug": 833719,
       "created": "2013-11-25T00:24:50+00:00",
+      "id": 292,
       "is_public": true,
       "modified": "2014-04-23T10:53:37+00:00",
       "note": "Some function keys may not work when pressed",
@@ -54,6 +59,7 @@
     {
       "bug": null,
       "created": "2013-11-25T00:24:50+00:00",
+      "id": 257,
       "is_public": true,
       "modified": "2014-04-23T10:53:36+00:00",
       "note": "Startup performance improvements (<a href=\"https://bugzilla.mozilla.org/buglist.cgi?quicksearch=715402%2C756313\">bugs 715402 and 756313</a>)",
@@ -63,6 +69,7 @@
     {
       "bug": null,
       "created": "2013-11-25T00:24:50+00:00",
+      "id": 261,
       "is_public": true,
       "modified": "2014-04-23T10:53:37+00:00",
       "note": "Canvas elements can export their content as an image blob using <a href=\"https://hacks.mozilla.org/2012/10/firefox-development-highlights-viewport-percentage-canvas-toblob-and-webrtc/\">canvas.toBlob()</a>",
@@ -72,6 +79,7 @@
     {
       "bug": null,
       "created": "2013-11-25T00:24:50+00:00",
+      "id": 258,
       "is_public": true,
       "modified": "2014-04-23T10:53:36+00:00",
       "note": "CSS <a href=\"https://developer.mozilla.org/en-US/docs/CSS/length#Viewport-percentage_lengths\">viewport-percentage length units</a> implemented (vh, vw, vmin and vmax)",
@@ -81,6 +89,7 @@
     {
       "bug": null,
       "created": "2013-11-25T00:24:50+00:00",
+      "id": 259,
       "is_public": true,
       "modified": "2014-04-23T10:53:36+00:00",
       "note": "CSS text-transform now supports <a href=\"https://developer.mozilla.org/en-US/docs/CSS/text-transform\">full-width</a>",
@@ -90,6 +99,7 @@
     {
       "bug": null,
       "created": "2013-11-25T00:24:50+00:00",
+      "id": 260,
       "is_public": true,
       "modified": "2014-04-23T10:53:36+00:00",
       "note": "CSS <a href=\"https://developer.mozilla.org/en-US/docs/CSS/@page\">@page</a> is now supported",
@@ -99,6 +109,7 @@
     {
       "bug": null,
       "created": "2013-11-25T00:24:50+00:00",
+      "id": 262,
       "is_public": true,
       "modified": "2014-04-23T10:53:37+00:00",
       "note": "Remote Web Console is available for connecting to Firefox on Android or Firefox OS (experimental, set devtools.debugger.remote-enabled to true)",
@@ -108,6 +119,7 @@
     {
       "bug": null,
       "created": "2013-11-25T00:24:50+00:00",
+      "id": 263,
       "is_public": true,
       "modified": "2014-04-23T10:53:37+00:00",
       "note": "Web Console CSS links now open in the Style Editor",
@@ -117,6 +129,7 @@
     {
       "bug": null,
       "created": "2013-11-25T00:24:50+00:00",
+      "id": 264,
       "is_public": true,
       "modified": "2014-04-23T10:53:37+00:00",
       "note": "Debugger now supports pausing on exceptions and hiding non-enumerable properties",
@@ -126,6 +139,7 @@
     {
       "bug": null,
       "created": "2013-11-25T00:24:50+00:00",
+      "id": 265,
       "is_public": true,
       "modified": "2014-04-23T10:53:37+00:00",
       "note": "There is now a Browser Debugger available for add-on and browser developers (experimental, set devtools.chrome.enabled to true)",
@@ -135,6 +149,7 @@
     {
       "bug": 573369,
       "created": "2013-11-25T00:24:27+00:00",
+      "id": 30,
       "is_public": true,
       "modified": "2014-07-02T07:04:43+00:00",
       "note": "If you try to start Firefox using a locked profile, it will crash (see [573369][1])\r\n\r\n\r\n  [1]: http://bugzilla.mozilla.org/573369",

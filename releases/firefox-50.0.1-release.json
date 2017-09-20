@@ -9,6 +9,7 @@
     {
       "bug": null,
       "created": "2016-11-28T19:47:14.186000+00:00",
+      "id": 786891,
       "is_public": true,
       "modified": "2016-11-28T19:47:14.186000+00:00",
       "note": "Reference link to [Firefox 50.0 release notes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.com/firefox/50.0/releasenotes/",
@@ -18,6 +19,7 @@
     {
       "bug": null,
       "created": "2016-11-15T00:59:49.556000+00:00",
+      "id": 786863,
       "is_public": true,
       "modified": "2016-11-28T23:51:29.453000+00:00",
       "note": "Various [security fixes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/en-US/security/advisories/mfsa2016-91/",
@@ -27,6 +29,7 @@
     {
       "bug": 1300140,
       "created": "2016-11-28T19:51:14.388000+00:00",
+      "id": 786892,
       "is_public": true,
       "modified": "2016-11-28T19:56:09.143000+00:00",
       "note": "Firefox crashes with 3rd party Chinese IME when using IME text",
@@ -36,6 +39,7 @@
     {
       "bug": 1320048,
       "created": "2017-01-18T15:06:48.124000+00:00",
+      "id": 786919,
       "is_public": true,
       "modified": "2017-03-17T03:37:16.451000+00:00",
       "note": "Due to an Apple touch bar bug, Firefox on recent MacBook Pro may crash when open for long periods or crash after resuming from sleep. Apple reports to have a fix for this in the currently unreleased OS X 10.12.3",

@@ -17,6 +17,7 @@
         "title": "Thunderbird 34.0beta Beta",
         "version": "34.0beta"
       },
+      "id": 785817,
       "is_public": true,
       "modified": "2014-12-01T23:16:01+00:00",
       "note": "Fixes a regression where Thunderbird wasn't respecting the skip integration option on the default client dialog.",
@@ -34,6 +35,7 @@
         "title": "Thunderbird 34.0beta Beta",
         "version": "34.0beta"
       },
+      "id": 785818,
       "is_public": true,
       "modified": "2014-11-25T20:57:25+00:00",
       "note": "Fixes an issue where using LDAP autocomplete could end up with blank entries in the compose addressing list (<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1045753\">Bug 1045753</a>)",
@@ -51,6 +53,7 @@
         "title": "Thunderbird 34.0beta Beta",
         "version": "34.0beta"
       },
+      "id": 785819,
       "is_public": true,
       "modified": "2014-12-01T23:15:33+00:00",
       "note": "Fixes an issue where IRC participants were not removed from the display on leaving a channel.",

@@ -9,6 +9,7 @@
     {
       "bug": null,
       "created": "2014-11-08T00:33:12+00:00",
+      "id": 785774,
       "is_public": true,
       "modified": "2014-12-02T21:51:13+00:00",
       "note": "Developer Edition application launcher icon",
@@ -18,6 +19,7 @@
     {
       "bug": null,
       "created": "2014-11-08T00:34:32+00:00",
+      "id": 785775,
       "is_public": true,
       "modified": "2014-12-02T21:51:15+00:00",
       "note": "Developer Edition theme",
@@ -27,6 +29,7 @@
     {
       "bug": null,
       "created": "2014-11-08T23:06:38+00:00",
+      "id": 785776,
       "is_public": true,
       "modified": "2014-12-02T21:51:28+00:00",
       "note": "Toolbox launcher",
@@ -36,6 +39,7 @@
     {
       "bug": null,
       "created": "2014-11-08T23:07:42+00:00",
+      "id": 785777,
       "is_public": true,
       "modified": "2014-12-02T21:51:30+00:00",
       "note": "Valence - an automatically installed add-on provides debugger support for Safari on iOS",
@@ -45,6 +49,7 @@
     {
       "bug": null,
       "created": "2014-11-08T23:09:22+00:00",
+      "id": 785778,
       "is_public": true,
       "modified": "2014-12-02T21:51:17+00:00",
       "note": "Developer Edition uses its own profile, can be disabled (see <a href=\"http://bugzil.la/1086936\">bug 1086936</a>)",
@@ -54,6 +59,7 @@
     {
       "bug": null,
       "created": "2014-11-08T23:10:34+00:00",
+      "id": 785779,
       "is_public": true,
       "modified": "2014-12-03T00:10:56+00:00",
       "note": "Ambient update notification",
@@ -63,6 +69,7 @@
     {
       "bug": 1043696,
       "created": "2014-10-03T05:38:41+00:00",
+      "id": 785740,
       "is_public": true,
       "modified": "2015-01-26T14:34:57+00:00",
       "note": "Built-in support for H264 (MP4) on Mac OS X Snow Leopard (10.6) and newer through native APIs",
@@ -72,6 +79,7 @@
     {
       "bug": 977991,
       "created": "2014-10-09T04:27:23+00:00",
+      "id": 785751,
       "is_public": true,
       "modified": "2015-02-05T22:57:54+00:00",
       "note": "Improved handling of dynamic styling changes to increase responsiveness",
@@ -81,6 +89,7 @@
     {
       "bug": 1001090,
       "created": "2014-10-03T02:55:26+00:00",
+      "id": 785733,
       "is_public": true,
       "modified": "2015-02-05T22:57:54+00:00",
       "note": "Changed JavaScript ['let' semantics][1] to conform better to the ES6 specification\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let#Temporal_dead_zone_and_errors_with_let",
@@ -90,6 +99,7 @@
     {
       "bug": 1002855,
       "created": "2014-10-03T05:44:28+00:00",
+      "id": 785743,
       "is_public": true,
       "modified": "2015-02-05T22:57:54+00:00",
       "note": "Resource Timing API implemented",
@@ -99,6 +109,7 @@
     {
       "bug": 1057180,
       "created": "2014-10-09T04:24:27+00:00",
+      "id": 785750,
       "is_public": true,
       "modified": "2015-02-05T22:57:54+00:00",
       "note": "[CSS filters][1] enabled by default\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/filter",
@@ -108,6 +119,7 @@
     {
       "bug": 504553,
       "created": "2014-10-17T12:27:04+00:00",
+      "id": 785761,
       "is_public": true,
       "modified": "2015-05-14T23:51:43+00:00",
       "note": "WebSocket now available in Web Workers",
@@ -117,6 +129,7 @@
     {
       "bug": 920141,
       "created": "2014-10-03T05:58:23+00:00",
+      "id": 785745,
       "is_public": true,
       "modified": "2015-01-26T14:34:57+00:00",
       "note": "Support for inspecting ::before and ::after pseudo elements",
@@ -126,6 +139,7 @@
     {
       "bug": 1064737,
       "created": "2014-12-02T22:20:46+00:00",
+      "id": 785844,
       "is_public": true,
       "modified": "2015-01-12T17:51:46+00:00",
       "note": "WOFF2 fonts are now supported (on Aurora and Nightly)",
@@ -135,6 +149,7 @@
     {
       "bug": null,
       "created": "2014-11-10T15:32:01+00:00",
+      "id": 785781,
       "is_public": true,
       "modified": "2014-12-02T21:51:51+00:00",
       "note": "Firebug theme is not compatible with Developer Edition theme (see <a href=\"https://github.com/firebug/firebug.next/issues/177\">Issue 177</a>)",

@@ -9,6 +9,7 @@
     {
       "bug": 849540,
       "created": "2015-04-17T19:05:33+00:00",
+      "id": 786058,
       "is_public": true,
       "modified": "2015-07-09T17:42:05+00:00",
       "note": "GMail supports OAuth2 authentication, removing the need to manually select \"allow less secure applications\" in Google options for the account.  (<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=849540\">bug 849540</a>)",
@@ -26,6 +27,7 @@
         "title": "Thunderbird 38.0.1 Release",
         "version": "38.0.1"
       },
+      "id": 786132,
       "is_public": true,
       "modified": "2015-06-10T05:40:24+00:00",
       "note": "Ship Lightning calendar addon with Thunderbird and enable with an opt-out dialog (<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1113183 \">bug 1113183</a>)",
@@ -43,6 +45,7 @@
         "title": "Thunderbird 37.0beta Beta",
         "version": "37.0beta"
       },
+      "id": 785964,
       "is_public": true,
       "modified": "2015-06-10T05:42:17+00:00",
       "note": "Filter sent messages (<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=11039 \">bug 11039</a>)",
@@ -60,6 +63,7 @@
         "title": "Thunderbird 37.0beta Beta",
         "version": "37.0beta"
       },
+      "id": 786016,
       "is_public": true,
       "modified": "2015-06-10T05:41:51+00:00",
       "note": "Filter messages when archived  (<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=479823 \">bug 479823</a>)",
@@ -77,6 +81,7 @@
         "title": "Thunderbird 38.0beta Beta",
         "version": "38.0beta"
       },
+      "id": 786017,
       "is_public": true,
       "modified": "2015-06-10T05:43:07+00:00",
       "note": "Enable search in multiple/all address books (<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=170270 \">bug 170270</a>)",
@@ -94,6 +99,7 @@
         "title": "Thunderbird 38.0beta Beta",
         "version": "38.0beta"
       },
+      "id": 786136,
       "is_public": true,
       "modified": "2015-06-10T05:56:03+00:00",
       "note": "Add support for Yahoo Messenger in Chat (<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=955574 \">bug 955574</a>)",
@@ -103,6 +109,7 @@
     {
       "bug": 1018589,
       "created": "2014-11-13T07:09:04+00:00",
+      "id": 785785,
       "is_public": true,
       "modified": "2015-06-03T00:25:41+00:00",
       "note": "Support Internationalized domain name URLs for RSS feeds (<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1018589\">Bug 1018589</a>)",
@@ -120,6 +127,7 @@
         "title": "Thunderbird 38.0beta Beta",
         "version": "38.0beta"
       },
+      "id": 786018,
       "is_public": true,
       "modified": "2015-06-03T00:25:41+00:00",
       "note": "Show expanded columns in folder pane  (<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=464973 \">bug 464973</a>)",
@@ -137,6 +145,7 @@
         "title": "Thunderbird 38.0beta Beta",
         "version": "38.0beta"
       },
+      "id": 786019,
       "is_public": true,
       "modified": "2015-06-03T00:25:41+00:00",
       "note": "Allow file-per-message (maildir) local message storage (<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=845952 \">bug 845952</a>)",
@@ -154,6 +163,7 @@
         "title": "Thunderbird 36.0beta Beta",
         "version": "36.0beta"
       },
+      "id": 786031,
       "is_public": true,
       "modified": "2015-06-03T00:25:41+00:00",
       "note": " Add a Learn more link to the support page in feeds subscribe dialog (<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1053782\">bug 1053782</a>)",
@@ -171,6 +181,7 @@
         "title": "Thunderbird 38.0beta Beta",
         "version": "38.0beta"
       },
+      "id": 786064,
       "is_public": true,
       "modified": "2015-06-03T00:25:41+00:00",
       "note": "Add reading position marker line to conversations (<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=760762\">bug 760762</a>)",
@@ -188,6 +199,7 @@
         "title": "Thunderbird 38.0beta Beta",
         "version": "38.0beta"
       },
+      "id": 786065,
       "is_public": true,
       "modified": "2015-06-03T00:25:41+00:00",
       "note": "The editor for twitter should show inputtable character\r\ncount (<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=736002\">bug 736002</a>)",
@@ -197,6 +209,7 @@
     {
       "bug": 1018259,
       "created": "2015-02-16T20:29:16+00:00",
+      "id": 785929,
       "is_public": true,
       "modified": "2015-06-03T00:25:41+00:00",
       "note": "Thunderbird will no longer use SHA-1 to sign messages (<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1018259\">bug 1018259</a>)",
@@ -214,6 +227,7 @@
         "title": "Thunderbird 37.0beta Beta",
         "version": "37.0beta"
       },
+      "id": 785965,
       "is_public": true,
       "modified": "2015-06-03T00:25:41+00:00",
       "note": "Removed rarely used character sets: T.61-8bit, non-encoding Mac encoders, VISCII, x-viet-tcvn5712, x-viet-vps x-johab, ARMSCII8 , map us-ascii to windows-1252, ISO-8859-6-I and -E and ISO-8859-8-E, (<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1068505\">bug 1068505 and others.</a>)",
@@ -231,6 +245,7 @@
         "title": "Thunderbird 37.0beta Beta",
         "version": "37.0beta"
       },
+      "id": 785967,
       "is_public": true,
       "modified": "2015-06-03T00:25:41+00:00",
       "note": "Disable CONDSTORE support for IMAP to prevent discrepancies in IMAP message status (deleted, unread) on some servers (<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=912216\">bug 912216</a>)",
@@ -248,6 +263,7 @@
         "title": "Thunderbird 38.0beta Beta",
         "version": "38.0beta"
       },
+      "id": 786029,
       "is_public": true,
       "modified": "2015-06-03T00:25:41+00:00",
       "note": "Make OpenSearch queries open in the user's default browser (<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1120777\">bug 1120777</a>)",
@@ -265,6 +281,7 @@
         "title": "Thunderbird 38.0beta Beta",
         "version": "38.0beta"
       },
+      "id": 786049,
       "is_public": true,
       "modified": "2015-06-03T00:25:41+00:00",
       "note": "Default to using SSL for XMPP and IRC. This might cause issues for self-signed certificates  (<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1122567\">bug 1122567, </a><a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1122666\">bug 1122666</a>)",
@@ -282,6 +299,7 @@
         "title": "Thunderbird 36.0beta Beta",
         "version": "36.0beta"
       },
+      "id": 786020,
       "is_public": true,
       "modified": "2015-06-03T00:25:41+00:00",
       "note": "Replied/forwarded icons disappear after folder repair, detach/delete (<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=840418 \">bug 840418</a>)",
@@ -299,6 +317,7 @@
         "title": "Thunderbird 38.0beta Beta",
         "version": "38.0beta"
       },
+      "id": 786021,
       "is_public": true,
       "modified": "2015-06-03T00:25:41+00:00",
       "note": "Attachment \"Save As\" files are displayed in Tools/Saved Files (<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=914517 \">bug 914517</a>)",
@@ -316,6 +335,7 @@
         "title": "Thunderbird 36.0beta Beta",
         "version": "36.0beta"
       },
+      "id": 786022,
       "is_public": true,
       "modified": "2015-06-03T00:25:41+00:00",
       "note": "Adding unknown email addresses to Mailing list, then deleting ghost duplicate entries from contacts pane, caused dataloss in mailing list (<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=628035\">bug 628035</a>)",
@@ -333,6 +353,7 @@
         "title": "Thunderbird 33.0beta Beta",
         "version": "33.0beta"
       },
+      "id": 786023,
       "is_public": true,
       "modified": "2015-06-03T00:25:41+00:00",
       "note": "Web site from RSS feed was not rendered correctly (<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=662907\">bug 662907</a>)",
@@ -350,6 +371,7 @@
         "title": "Thunderbird 37.0beta Beta",
         "version": "37.0beta"
       },
+      "id": 786024,
       "is_public": true,
       "modified": "2015-06-03T00:25:41+00:00",
       "note": "Email address with leading/trailing whitespace displayed wrongly with added quotes when composing [\"foo\"@bar.com] (<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=286760\">bug 286760</a>)",
@@ -367,6 +389,7 @@
         "title": "Thunderbird 36.0beta Beta",
         "version": "36.0beta"
       },
+      "id": 786025,
       "is_public": true,
       "modified": "2015-06-03T00:25:41+00:00",
       "note": "Force display of Sender header if S/MIME sender is the signer (<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=332639\">bug 332639</a>)",
@@ -384,6 +407,7 @@
         "title": "Thunderbird 38.0beta Beta",
         "version": "38.0beta"
       },
+      "id": 786026,
       "is_public": true,
       "modified": "2015-06-03T00:25:41+00:00",
       "note": "Addressing autocomplete widget: Typed text in red despite results/matches found if suggestions change by last input  (<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1042561\">bug 1042561</a>)",
@@ -401,6 +425,7 @@
         "title": "Thunderbird 34.0beta Beta",
         "version": "34.0beta"
       },
+      "id": 786030,
       "is_public": true,
       "modified": "2015-06-03T00:25:41+00:00",
       "note": "Status bar not accessible (<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=934875\">bug 934875</a>)",
@@ -418,6 +443,7 @@
         "title": "Thunderbird 33.0beta Beta",
         "version": "33.0beta"
       },
+      "id": 786032,
       "is_public": true,
       "modified": "2015-06-03T00:25:41+00:00",
       "note": "Wrong folder may be deleted when requesting junk delete (<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1018960\">bug 1018960</a>)",
@@ -435,6 +461,7 @@
         "title": "Thunderbird 37.0beta Beta",
         "version": "37.0beta"
       },
+      "id": 786033,
       "is_public": true,
       "modified": "2015-06-03T00:25:41+00:00",
       "note": "Severe UI stutter or freezes getting new mail for very large folders (<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=870556\">bug 870556</a>)",
@@ -452,6 +479,7 @@
         "title": "Thunderbird 33.0beta Beta",
         "version": "33.0beta"
       },
+      "id": 786048,
       "is_public": true,
       "modified": "2015-06-03T00:25:41+00:00",
       "note": "Automatically rejoin multi-user conversations on reconnect for XMPP  (<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1014472\">bug 1014472</a>)",
@@ -469,6 +497,7 @@
         "title": "Thunderbird 36.0beta Beta",
         "version": "36.0beta"
       },
+      "id": 786050,
       "is_public": true,
       "modified": "2015-06-03T00:25:41+00:00",
       "note": "Various improvements when using IRC on moznet  (<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1083768\">bug 1083768</a> and others)",
@@ -486,6 +515,7 @@
         "title": "Thunderbird 38.0beta Beta",
         "version": "38.0beta"
       },
+      "id": 786051,
       "is_public": true,
       "modified": "2015-06-03T00:25:41+00:00",
       "note": "Significantly improve XMPP support  (<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1085022\">bug 1085022</a> and others)",
@@ -503,6 +533,7 @@
         "title": "Thunderbird 34.0beta Beta",
         "version": "34.0beta"
       },
+      "id": 786052,
       "is_public": true,
       "modified": "2015-06-03T00:25:41+00:00",
       "note": "Fixes for connecting to non-standard IRC networks  (<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=870556\">bug 870556</a> and others)",
@@ -520,6 +551,7 @@
         "title": "Thunderbird 36.0beta Beta",
         "version": "36.0beta"
       },
+      "id": 786053,
       "is_public": true,
       "modified": "2015-06-03T00:25:41+00:00",
       "note": "Automatically reclaim IRC nicks during a reconnect  (<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1087566\">bug 1087566</a>)",
@@ -529,6 +561,7 @@
     {
       "bug": 756984,
       "created": "2015-06-09T18:06:42+00:00",
+      "id": 786133,
       "is_public": true,
       "modified": "2015-06-09T18:06:43+00:00",
       "note": " Changing location in editor doesn't preserve the font when returning to end of text/line (<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=756984 \">bug 756984</a>)",
@@ -546,6 +579,7 @@
         "title": "Thunderbird 38.0.1 Release",
         "version": "38.0.1"
       },
+      "id": 786134,
       "is_public": true,
       "modified": "2015-06-09T18:10:30+00:00",
       "note": " Inline spell checker loses red underlines after a backspace is used (<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1100966 \">bug 1100966</a>)",
@@ -555,6 +589,7 @@
     {
       "bug": null,
       "created": "2015-04-03T18:28:58+00:00",
+      "id": 786054,
       "is_public": true,
       "modified": "2015-06-03T00:25:41+00:00",
       "note": "Automatic addon compatibility update checks were not completed, so existing addon compatibilities may not be accurate.",
@@ -564,6 +599,7 @@
     {
       "bug": 1143570,
       "created": "2015-06-09T18:13:17+00:00",
+      "id": 786135,
       "is_public": true,
       "modified": "2015-06-09T18:13:18+00:00",
       "note": "Copy/Paste into plain text editor deletes newlines from quoted text (<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1143570 \">bug 1143570</a>)",
@@ -573,6 +609,7 @@
     {
       "bug": 917961,
       "created": "2015-06-12T18:10:35+00:00",
+      "id": 786138,
       "is_public": true,
       "modified": "2015-06-12T18:10:36+00:00",
       "note": "Importing data from Outlook or Eudora crashes (<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=917961 \">bug 917961</a>)",

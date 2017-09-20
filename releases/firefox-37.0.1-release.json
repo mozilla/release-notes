@@ -9,6 +9,7 @@
     {
       "bug": null,
       "created": "2015-04-03T04:09:20+00:00",
+      "id": 786043,
       "is_public": true,
       "modified": "2015-04-20T18:17:39+00:00",
       "note": "Reference: [Release notes for Firefox 37.0][1]\r\n\r\n[1]: https://www.mozilla.org/firefox/37.0/releasenotes/",
@@ -18,6 +19,7 @@
     {
       "bug": 1148328,
       "created": "2015-04-03T04:04:11+00:00",
+      "id": 786041,
       "is_public": true,
       "modified": "2015-04-20T18:17:55+00:00",
       "note": "Disabled HTTP/2 AltSvc",
@@ -35,6 +37,7 @@
         "title": "Firefox 37.0.1 Release",
         "version": "37.0.1"
       },
+      "id": 786042,
       "is_public": true,
       "modified": "2015-04-20T18:17:59+00:00",
       "note": "Start-up crash due to graphics hardware and third party software",
@@ -44,6 +47,7 @@
     {
       "bug": null,
       "created": "2015-04-03T04:02:58+00:00",
+      "id": 786040,
       "is_public": true,
       "modified": "2015-04-20T18:31:44+00:00",
       "note": "Various [security fixes][1]\r\n\r\n[1]:https://www.mozilla.org/security/known-vulnerabilities/firefox/#firefox37.0.1",

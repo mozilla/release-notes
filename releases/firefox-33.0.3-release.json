@@ -9,6 +9,7 @@
     {
       "bug": 1093863,
       "created": "2014-11-06T23:42:09+00:00",
+      "id": 785771,
       "is_public": true,
       "modified": "2014-11-07T11:27:46+00:00",
       "note": "33.0.3: Blacklisted graphics drivers that were causing black screens with OMTC enabled ([1093863][1])\r\n\r\n\r\n  [1]: http://bugzil.la/1093863",
@@ -18,6 +19,7 @@
     {
       "bug": null,
       "created": "2014-11-07T11:01:17+00:00",
+      "id": 785773,
       "is_public": true,
       "modified": "2014-11-07T11:01:17+00:00",
       "note": "33.0.3 Fix two startup crashes with some combination of hardware and drivers ([1064107][1] and [1021265][2])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1064107\r\n  [2]: https://bugzilla.mozilla.org/show_bug.cgi?id=1021265",
@@ -27,6 +29,7 @@
     {
       "bug": 948160,
       "created": "2014-07-24T04:46:48+00:00",
+      "id": 785679,
       "is_public": true,
       "modified": "2014-11-06T23:39:16+00:00",
       "note": "[OpenH264 support][1] (sandboxed)\r\n\r\n\r\n  [1]: http://andreasgal.com/2014/10/14/openh264-now-in-firefox/",
@@ -36,6 +39,7 @@
     {
       "bug": 982428,
       "created": "2014-07-24T05:21:22+00:00",
+      "id": 785680,
       "is_public": true,
       "modified": "2014-11-06T23:39:16+00:00",
       "note": "[Improved search experience][1] through the location bar\r\n\r\n\r\n  [1]: http://msujaws.wordpress.com/2014/08/01/faster-and-snappier-searches-now-in-firefox-aurora/",
@@ -45,6 +49,7 @@
     {
       "bug": 899785,
       "created": "2014-07-23T07:50:12+00:00",
+      "id": 785675,
       "is_public": true,
       "modified": "2014-11-06T23:39:16+00:00",
       "note": "Windows: [OMTC][1] enabled by default\r\n\r\n\r\n  [1]: https://wiki.mozilla.org/Platform/GFX/OffMainThreadCompositing\r\n",
@@ -54,6 +59,7 @@
     {
       "bug": 1037871,
       "created": "2014-07-23T07:56:07+00:00",
+      "id": 785676,
       "is_public": true,
       "modified": "2014-11-06T23:39:16+00:00",
       "note": "Slimmer and faster [JavaScript strings][1]\r\n\r\n  [1]: https://blog.mozilla.org/javascript/2014/07/21/slimmer-and-faster-javascript-strings-in-firefox/",
@@ -63,6 +69,7 @@
     {
       "bug": 612453,
       "created": "2014-08-28T06:41:41+00:00",
+      "id": 785706,
       "is_public": true,
       "modified": "2014-11-06T23:39:16+00:00",
       "note": "Search suggestions on the Firefox Start (about:home) and new tab (about:newtab) pages",
@@ -72,6 +79,7 @@
     {
       "bug": 378637,
       "created": "2014-07-17T15:03:34+00:00",
+      "id": 785661,
       "is_public": true,
       "modified": "2014-11-06T23:39:16+00:00",
       "note": "Support for connecting to HTTP proxy over HTTPS",
@@ -81,6 +89,7 @@
     {
       "bug": 925004,
       "created": "2014-07-23T07:37:34+00:00",
+      "id": 785673,
       "is_public": true,
       "modified": "2014-11-06T23:39:16+00:00",
       "note": "New CSP (Content Security Policy) backend",
@@ -90,6 +99,7 @@
     {
       "bug": 883609,
       "created": "2014-07-17T08:58:22+00:00",
+      "id": 785657,
       "is_public": true,
       "modified": "2014-11-06T23:39:16+00:00",
       "note": "Improved reliability of the [session restoration][1]\r\n\r\n  [1]: https://dutherenverseauborddelatable.wordpress.com/2014/06/26/firefox-the-browser-that-has-your-backup/",
@@ -99,6 +109,7 @@
     {
       "bug": 1054497,
       "created": "2014-08-18T03:13:01+00:00",
+      "id": 785690,
       "is_public": true,
       "modified": "2014-11-06T23:39:16+00:00",
       "note": "Azerbaijani [az] locale added",
@@ -108,6 +119,7 @@
     {
       "bug": 800200,
       "created": "2014-07-17T08:46:49+00:00",
+      "id": 785654,
       "is_public": true,
       "modified": "2014-11-06T23:39:16+00:00",
       "note": "[JSD (JavaScript Debugger Service) removed][1] in favor of the Debugger interface\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Debugger-API",
@@ -117,6 +129,7 @@
     {
       "bug": 1036546,
       "created": "2014-08-28T05:09:05+00:00",
+      "id": 785695,
       "is_public": true,
       "modified": "2014-11-06T23:39:16+00:00",
       "note": "Proprietary window.crypto properties/functions removed",
@@ -126,6 +139,7 @@
     {
       "bug": 1018497,
       "created": "2014-07-17T09:08:11+00:00",
+      "id": 785658,
       "is_public": true,
       "modified": "2014-11-06T23:39:16+00:00",
       "note": "[DOMMatrix][1] interface implemented\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/DOMMatrix",
@@ -135,6 +149,7 @@
     {
       "bug": 966166,
       "created": "2014-08-28T06:25:31+00:00",
+      "id": 785703,
       "is_public": true,
       "modified": "2014-11-06T23:39:16+00:00",
       "note": "[@counter-style rule][1] from CSS3 Counter Styles specification implemented\r\n\r\n\r\n  [1]: http://dev.w3.org/csswg/css-counter-styles/#the-counter-style-rule",
@@ -144,6 +159,7 @@
     {
       "bug": 711941,
       "created": "2014-07-24T06:05:27+00:00",
+      "id": 785683,
       "is_public": true,
       "modified": "2014-11-06T23:39:16+00:00",
       "note": "[Cubic-bezier curves][1] editor\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector#Editing_cubic_B.C3.A9zier_curves",
@@ -153,6 +169,7 @@
     {
       "bug": 900692,
       "created": "2014-07-23T07:43:47+00:00",
+      "id": 785674,
       "is_public": true,
       "modified": "2014-11-06T23:39:16+00:00",
       "note": "[Paint flashing][1] for browser content repaints\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Paint_Flashing_Tool",
@@ -162,6 +179,7 @@
     {
       "bug": 736078,
       "created": "2014-07-30T05:40:07+00:00",
+      "id": 785685,
       "is_public": true,
       "modified": "2014-11-06T23:39:16+00:00",
       "note": "Display which elements have [listeners attached][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector#Examining_event_listeners",
@@ -171,6 +189,7 @@
     {
       "bug": 1012806,
       "created": "2014-07-30T05:46:44+00:00",
+      "id": 785686,
       "is_public": true,
       "modified": "2014-11-06T23:39:16+00:00",
       "note": "[New sidebar][1] which displays a list of shortcuts to every @media rule in the current stylesheet\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Style_Editor#The_media_sidebar",
@@ -180,6 +199,7 @@
     {
       "bug": 1030889,
       "created": "2014-07-30T06:01:13+00:00",
+      "id": 785687,
       "is_public": true,
       "modified": "2014-11-06T23:39:16+00:00",
       "note": "[Editable @keyframes][1] rules in the Rules section of the Inspector\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector#Editing_keyframes",
@@ -189,6 +209,7 @@
     {
       "bug": 1014547,
       "created": "2014-07-30T06:02:36+00:00",
+      "id": 785688,
       "is_public": true,
       "modified": "2014-11-06T23:39:16+00:00",
       "note": "[CSS transform highlighter][1] in the style-inspector\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector#transform_visualisation",
@@ -206,6 +227,7 @@
         "title": "Firefox 33.0.1 Release",
         "version": "33.0.1"
       },
+      "id": 785764,
       "is_public": true,
       "modified": "2014-11-06T23:39:16+00:00",
       "note": "33.0.1: Firefox displays a black screen at start-up with certain graphics drivers",
@@ -215,6 +237,7 @@
     {
       "bug": null,
       "created": "2013-11-25T00:24:50+00:00",
+      "id": 161,
       "is_public": true,
       "modified": "2015-03-26T15:55:42+00:00",
       "note": "Various <a href=\"https://www.mozilla.org/security/known-vulnerabilities/firefox.html\">security fixes</a>",
@@ -232,6 +255,7 @@
         "title": "Firefox 33.0.2 Release",
         "version": "33.0.2"
       },
+      "id": 785772,
       "is_public": true,
       "modified": "2014-11-06T23:52:29+00:00",
       "note": "33.0.2: Fix a startup crash with some combination of hardware and drivers",
@@ -249,6 +273,7 @@
         "title": "Firefox 33.0 Release",
         "version": "33.0"
       },
+      "id": 785655,
       "is_public": true,
       "modified": "2014-11-06T23:39:16+00:00",
       "note": "Fix incomplete downloads being marked as complete by detecting broken HTTP1.1 transfers ([237623][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=237623",
@@ -258,6 +283,7 @@
     {
       "bug": 1072164,
       "created": "2014-10-07T02:27:18+00:00",
+      "id": 785747,
       "is_public": true,
       "modified": "2014-11-14T22:22:08+00:00",
       "note": "PDF.js: With some images, wrong colors could show up. Affects a very small number of PDF",
@@ -275,6 +301,7 @@
         "title": "Firefox 33.1 Release",
         "version": "33.1"
       },
+      "id": 785753,
       "is_public": true,
       "modified": "2014-11-10T12:56:16+00:00",
       "note": "Some certificate errors cannot be overridden ([1042889][1])\r\n\r\n\r\n  [1]: http://bugzilla.mozilla.org/1042889",
@@ -292,6 +319,7 @@
         "title": "Firefox 33.0.1 Release",
         "version": "33.0.1"
       },
+      "id": 785763,
       "is_public": true,
       "modified": "2014-11-25T04:04:11+00:00",
       "note": "Windows: On some combination of hardware and drivers, the main window could be black. In this case, update your graphics drivers ([1083071][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1083071",
@@ -309,6 +337,7 @@
         "title": "Firefox 33.1 Release",
         "version": "33.1"
       },
+      "id": 785766,
       "is_public": true,
       "modified": "2014-11-10T12:55:21+00:00",
       "note": "Windows: With Avast HTTPS scanning enabled, Firefox will not close correctly ([1087674][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1087674",
@@ -318,6 +347,7 @@
     {
       "bug": 1087674,
       "created": "2014-10-29T16:05:46+00:00",
+      "id": 785767,
       "is_public": true,
       "modified": "2014-11-14T22:22:08+00:00",
       "note": "Windows: Interface may be slow when typing or selecting text ([1089183][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1089183",
@@ -327,6 +357,7 @@
     {
       "bug": null,
       "created": "2014-11-10T13:04:52+00:00",
+      "id": 785780,
       "is_public": true,
       "modified": "2014-11-14T22:22:08+00:00",
       "note": "Windows: On some combination of hardware and drivers, some flickering can happen\r\n",

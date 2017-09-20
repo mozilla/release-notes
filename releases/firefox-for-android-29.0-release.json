@@ -9,6 +9,7 @@
     {
       "bug": null,
       "created": "2014-04-25T13:01:32+00:00",
+      "id": 785558,
       "is_public": true,
       "modified": "2014-05-09T10:26:53+00:00",
       "note": "The ability to set up Firefox Sync by creating a Firefox account ([learn more][1])\r\n\r\n  [1]: https://support.mozilla.org/en-US/kb/how-do-i-set-up-firefox-sync?esab=a&s=sync&r=3&as=s",
@@ -18,6 +19,7 @@
     {
       "bug": null,
       "created": "2014-04-28T13:42:09+00:00",
+      "id": 785562,
       "is_public": true,
       "modified": "2014-05-09T10:26:53+00:00",
       "note": "Search suggestions available via Bing search plugin when set as default search engine",
@@ -27,6 +29,7 @@
     {
       "bug": 958883,
       "created": "2014-04-29T11:57:31+00:00",
+      "id": 785566,
       "is_public": true,
       "modified": "2014-05-09T10:26:53+00:00",
       "note": "HTTPS used for Yahoo Searches performed in en-US locale",
@@ -36,6 +39,7 @@
     {
       "bug": null,
       "created": "2014-03-04T09:57:01+00:00",
+      "id": 785445,
       "is_public": true,
       "modified": "2014-07-21T04:23:34+00:00",
       "note": "Added multiple quick share buttons",
@@ -45,6 +49,7 @@
     {
       "bug": null,
       "created": "2014-03-21T08:59:31+00:00",
+      "id": 785464,
       "is_public": true,
       "modified": "2014-05-09T10:26:53+00:00",
       "note": "Better integration for [Open Web Apps][1]\r\n\r\n\r\n  [1]: https://hacks.mozilla.org/2014/03/better-integration-for-open-web-apps-on-android/",
@@ -54,6 +59,7 @@
     {
       "bug": null,
       "created": "2014-04-23T10:55:05+00:00",
+      "id": 785554,
       "is_public": true,
       "modified": "2014-05-09T10:26:53+00:00",
       "note": "Set default home panel",
@@ -63,6 +69,7 @@
     {
       "bug": null,
       "created": "2014-04-23T10:55:26+00:00",
+      "id": 785555,
       "is_public": true,
       "modified": "2014-05-09T10:26:53+00:00",
       "note": "Hide/Show home panels",
@@ -72,6 +79,7 @@
     {
       "bug": 941744,
       "created": "2014-04-29T11:29:29+00:00",
+      "id": 785565,
       "is_public": true,
       "modified": "2014-05-09T10:26:53+00:00",
       "note": "Removed ability to 'send tab' to remote device",
@@ -81,6 +89,7 @@
     {
       "bug": null,
       "created": "2014-03-04T09:21:34+00:00",
+      "id": 785425,
       "is_public": true,
       "modified": "2014-05-09T10:26:53+00:00",
       "note": "Performance improved by replacing throbber with a progress bar",
@@ -90,6 +99,7 @@
     {
       "bug": null,
       "created": "2014-04-09T08:09:00+00:00",
+      "id": 785547,
       "is_public": true,
       "modified": "2014-05-09T10:26:53+00:00",
       "note": "Clicking on a W3C Web Notification will switch to the originating tab",
@@ -99,6 +109,7 @@
     {
       "bug": null,
       "created": "2014-03-04T08:34:42+00:00",
+      "id": 785415,
       "is_public": true,
       "modified": "2014-05-09T10:26:53+00:00",
       "note": "'box-sizing' (dropping the -moz- prefix) implemented (<a href=\"https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing\">learn more</a>)",
@@ -108,6 +119,7 @@
     {
       "bug": null,
       "created": "2014-03-04T08:35:59+00:00",
+      "id": 785418,
       "is_public": true,
       "modified": "2014-05-09T10:26:53+00:00",
       "note": "Console object available in Web Workers (<a href=\"https://developer.mozilla.org/fr/docs/Web/API/console\">learn more</a>)",
@@ -117,6 +129,7 @@
     {
       "bug": 924089,
       "created": "2014-03-04T08:36:16+00:00",
+      "id": 785419,
       "is_public": true,
       "modified": "2014-05-09T10:26:53+00:00",
       "note": "Promises enabled by default (<a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise\">learn more</a>)",
@@ -126,6 +139,7 @@
     {
       "bug": null,
       "created": "2014-03-04T08:35:01+00:00",
+      "id": 785416,
       "is_public": true,
       "modified": "2014-05-09T10:26:53+00:00",
       "note": "SharedWorker enabled by default",
@@ -135,6 +149,7 @@
     {
       "bug": null,
       "created": "2014-03-04T08:52:33+00:00",
+      "id": 785424,
       "is_public": true,
       "modified": "2014-05-09T10:26:53+00:00",
       "note": "&lt;input type=\"number\"&gt; implemented and enabled",
@@ -144,6 +159,7 @@
     {
       "bug": null,
       "created": "2014-03-04T09:24:01+00:00",
+      "id": 785428,
       "is_public": true,
       "modified": "2014-05-09T10:26:53+00:00",
       "note": "Synthetic APKs enabled by default",
@@ -153,6 +169,7 @@
     {
       "bug": null,
       "created": "2014-03-04T10:03:37+00:00",
+      "id": 785449,
       "is_public": true,
       "modified": "2014-07-21T04:27:57+00:00",
       "note": "Color picker widget implemented, access by using &lt;input type=\"color\"&gt;",
@@ -162,6 +179,7 @@
     {
       "bug": 887836,
       "created": "2014-04-29T10:52:27+00:00",
+      "id": 785564,
       "is_public": true,
       "modified": "2014-05-09T10:26:53+00:00",
       "note": "Implemented URLSearchParams from the URL specification (see [MDN][1] for details )\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/URLUtils",
@@ -171,6 +189,7 @@
     {
       "bug": null,
       "created": "2013-11-25T00:24:50+00:00",
+      "id": 161,
       "is_public": true,
       "modified": "2015-03-26T15:55:42+00:00",
       "note": "Various <a href=\"https://www.mozilla.org/security/known-vulnerabilities/firefox.html\">security fixes</a>",
@@ -180,6 +199,7 @@
     {
       "bug": 748100,
       "created": "2014-03-04T09:21:59+00:00",
+      "id": 785426,
       "is_public": true,
       "modified": "2014-05-09T10:26:53+00:00",
       "note": "Improved favicon.ico decoding ([748100][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=748100",
@@ -189,6 +209,7 @@
     {
       "bug": null,
       "created": "2014-03-04T09:53:08+00:00",
+      "id": 785441,
       "is_public": true,
       "modified": "2014-07-21T04:29:47+00:00",
       "note": "Moving Firefox to background while playing a flash video in full screen mode and bring it back to view will freeze the app (see <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=809055\">809055</a>)",
@@ -206,6 +227,7 @@
         "title": "Firefox for Android 30.0beta Beta",
         "version": "30.0beta"
       },
+      "id": 785574,
       "is_public": true,
       "modified": "2014-05-09T12:08:02+00:00",
       "note": "Character Encoding selection via menu is broken (see [bug 1003897][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1003897",

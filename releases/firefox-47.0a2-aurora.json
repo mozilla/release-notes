@@ -9,6 +9,7 @@
     {
       "bug": 769117,
       "created": "2016-04-21T18:44:56.495000+00:00",
+      "id": 786587,
       "is_public": true,
       "modified": "2016-06-07T04:37:11.147000+00:00",
       "note": "Embedded YouTube videos now play with HTML5 video if Flash is not installed.",
@@ -18,6 +19,7 @@
     {
       "bug": 567365,
       "created": "2016-03-04T18:30:54.979000+00:00",
+      "id": 786511,
       "is_public": true,
       "modified": "2016-06-06T18:14:52.367000+00:00",
       "note": "Allow no-cache on back/forward navigations for https resources",
@@ -27,6 +29,7 @@
     {
       "bug": 1090880,
       "created": "2016-03-04T18:33:03.459000+00:00",
+      "id": 786513,
       "is_public": true,
       "modified": "2016-06-07T04:08:13.432000+00:00",
       "note": "FUEL (Firefox User Extension Library) has been removed. Add-ons relying on it will stop working.",
@@ -36,6 +39,7 @@
     {
       "bug": 1191936,
       "created": "2016-03-04T18:34:24.501000+00:00",
+      "id": 786515,
       "is_public": true,
       "modified": "2016-06-03T22:22:09.453000+00:00",
       "note": "WebCrypto: RSA-PSS signature support",
@@ -45,6 +49,7 @@
     {
       "bug": 1216109,
       "created": "2016-03-04T18:34:53.505000+00:00",
+      "id": 786516,
       "is_public": true,
       "modified": "2016-06-03T22:22:09.453000+00:00",
       "note": "WebCrypto: PBKDF2 supports SHA-2 hash algorithms",
@@ -54,6 +59,7 @@
     {
       "bug": 1033144,
       "created": "2016-03-11T00:06:03.961000+00:00",
+      "id": 786538,
       "is_public": true,
       "modified": "2016-06-06T23:05:42.621000+00:00",
       "note": "[cuechange events][1] are now available on TextTrack objects\r\n\r\n\r\n  [1]: https://html.spec.whatwg.org/multipage/embedded-content.html#event-media-cuechange",
@@ -63,6 +69,7 @@
     {
       "bug": 1153322,
       "created": "2016-03-04T18:33:49.874000+00:00",
+      "id": 786514,
       "is_public": true,
       "modified": "2016-06-08T20:29:41.109000+00:00",
       "note": "[Implemented Document.scrollingElement][1] to tell which element's scroll attributes reflect the viewport scroll state\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/Document/scrollingElement",
@@ -72,6 +79,7 @@
     {
       "bug": 1243706,
       "created": "2016-03-04T18:41:53.412000+00:00",
+      "id": 786517,
       "is_public": true,
       "modified": "2016-06-07T04:03:31.696000+00:00",
       "note": "See Firefox run! Review Firefox performance data in about:performance.",
@@ -81,6 +89,7 @@
     {
       "bug": 1243851,
       "created": "2016-03-04T18:42:26.735000+00:00",
+      "id": 786518,
       "is_public": true,
       "modified": "2016-06-03T22:22:09.453000+00:00",
       "note": "Smart multi-line input in the Web Console",
@@ -90,6 +99,7 @@
     {
       "bug": 828008,
       "created": "2016-03-08T19:10:25.830000+00:00",
+      "id": 786527,
       "is_public": true,
       "modified": "2016-06-03T22:22:09.453000+00:00",
       "note": "Custom user agents supported in Responsive Design Mode",
@@ -99,6 +109,7 @@
     {
       "bug": 1209699,
       "created": "2016-03-08T19:10:50.033000+00:00",
+      "id": 786528,
       "is_public": true,
       "modified": "2016-06-07T04:10:27.042000+00:00",
       "note": "Simulate Push messages in the  Service Workers developer tool",
@@ -108,6 +119,7 @@
     {
       "bug": 1212797,
       "created": "2016-03-08T19:11:23.776000+00:00",
+      "id": 786529,
       "is_public": true,
       "modified": "2016-06-07T04:11:13.137000+00:00",
       "note": "View, start,and debug registered Service Workers in the Service Workers developer tool",
@@ -117,6 +129,7 @@
     {
       "bug": 1239705,
       "created": "2016-03-08T19:11:53.806000+00:00",
+      "id": 786530,
       "is_public": true,
       "modified": "2016-06-06T23:01:50.007000+00:00",
       "note": "'Start' button for service workers in about:debugging to start registered Service Workers",
@@ -126,6 +139,7 @@
     {
       "bug": 1245875,
       "created": "2016-03-08T19:12:41.211000+00:00",
+      "id": 786531,
       "is_public": true,
       "modified": "2016-06-07T04:01:24.246000+00:00",
       "note": "Tilt is available as extension on [AMO][1]\r\n\r\n\r\n  [1]: https://addons.mozilla.org/firefox/addon/tilt/",

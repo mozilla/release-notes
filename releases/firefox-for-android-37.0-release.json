@@ -9,6 +9,7 @@
     {
       "bug": 1134717,
       "created": "2015-02-20T21:41:57+00:00",
+      "id": 785947,
       "is_public": true,
       "modified": "2015-04-03T04:11:38+00:00",
       "note": "Locales added: Albanian [sq], Burmese [my], Lower Sorbian [dsb], Songhai [son], Upper Sorbian [hsb], Uzbek [uz]",
@@ -18,6 +19,7 @@
     {
       "bug": 1146351,
       "created": "2015-03-25T21:11:50+00:00",
+      "id": 785976,
       "is_public": true,
       "modified": "2015-04-03T04:11:40+00:00",
       "note": "Yandex set as default search provider for the Turkish locale",
@@ -27,6 +29,7 @@
     {
       "bug": 901360,
       "created": "2015-01-15T15:20:39+00:00",
+      "id": 785897,
       "is_public": true,
       "modified": "2015-04-03T04:11:42+00:00",
       "note": "Improved download performance with new download manager back-end",
@@ -36,6 +39,7 @@
     {
       "bug": 1024809,
       "created": "2015-01-16T18:42:49+00:00",
+      "id": 785907,
       "is_public": true,
       "modified": "2015-04-03T04:11:44+00:00",
       "note": "Improved protection against site impersonation via OneCRL centralized certificate revocation",
@@ -45,6 +49,7 @@
     {
       "bug": 1113790,
       "created": "2015-02-19T19:55:09+00:00",
+      "id": 785936,
       "is_public": true,
       "modified": "2015-04-03T04:11:46+00:00",
       "note": "[Opportunistically encrypt HTTP traffic][1] where the server supports HTTP/2 AltSvc\r\n\r\n[1]: https://bitsup.blogspot.com/2015/03/opportunistic-encryption-for-firefox.html ",
@@ -54,6 +59,7 @@
     {
       "bug": 1111729,
       "created": "2015-01-15T15:15:38+00:00",
+      "id": 785896,
       "is_public": true,
       "modified": "2015-04-03T04:11:49+00:00",
       "note": "URL bar now displays page address instead of page title by default",
@@ -63,6 +69,7 @@
     {
       "bug": 1084025,
       "created": "2015-02-19T15:53:30+00:00",
+      "id": 785933,
       "is_public": true,
       "modified": "2015-04-03T04:11:50+00:00",
       "note": "Disabled insecure TLS version fallback for site security",
@@ -72,6 +79,7 @@
     {
       "bug": 1073867,
       "created": "2015-01-16T18:45:55+00:00",
+      "id": 785908,
       "is_public": true,
       "modified": "2015-04-03T04:11:53+00:00",
       "note": "Improved certificate and TLS communication security by removing support for DSA",
@@ -81,6 +89,7 @@
     {
       "bug": 1096197,
       "created": "2015-01-16T19:01:48+00:00",
+      "id": 785910,
       "is_public": true,
       "modified": "2015-04-03T04:11:55+00:00",
       "note": "Extended SSL error reporting for reporting non-certificate errors",
@@ -90,6 +99,7 @@
     {
       "bug": 1109766,
       "created": "2015-01-16T21:45:13+00:00",
+      "id": 785911,
       "is_public": true,
       "modified": "2015-04-03T04:11:56+00:00",
       "note": "TLS False Start optimization now requires a cipher suite using AEAD construction",
@@ -99,6 +109,7 @@
     {
       "bug": 937253,
       "created": "2015-03-27T14:13:31+00:00",
+      "id": 785980,
       "is_public": true,
       "modified": "2015-04-03T04:11:52+00:00",
       "note": "Android home screen shortcut now opens existing tab instead of new tab",
@@ -108,6 +119,7 @@
     {
       "bug": 1102374,
       "created": "2015-01-15T15:05:41+00:00",
+      "id": 785893,
       "is_public": true,
       "modified": "2015-04-03T04:12:03+00:00",
       "note": "Added support for CSS [display:contents][1]\r\n\r\n[1]: https://developer.mozilla.org/en-US/docs/Web/CSS/display",
@@ -117,6 +129,7 @@
     {
       "bug": 701634,
       "created": "2015-01-15T15:10:45+00:00",
+      "id": 785894,
       "is_public": true,
       "modified": "2015-04-03T04:12:04+00:00",
       "note": "IndexedDB now accessible from worker threads",
@@ -126,6 +139,7 @@
     {
       "bug": 1110271,
       "created": "2015-03-27T21:26:41+00:00",
+      "id": 785983,
       "is_public": true,
       "modified": "2015-04-03T04:12:00+00:00",
       "note": "OpenH264 support added to WebRTC for Android",
@@ -135,6 +149,7 @@
     {
       "bug": 1091242,
       "created": "2015-03-27T21:37:05+00:00",
+      "id": 785986,
       "is_public": true,
       "modified": "2015-04-03T04:12:02+00:00",
       "note": "New SDP/JSEP implementation in WebRTC",
@@ -144,6 +159,7 @@
     {
       "bug": null,
       "created": "2015-03-31T21:18:19+00:00",
+      "id": 786015,
       "is_public": true,
       "modified": "2015-04-03T04:12:09+00:00",
       "note": "Various [security fixes][1]\r\n\r\n[1]:https://www.mozilla.org/security/known-vulnerabilities/firefox/#firefox37",
@@ -153,6 +169,7 @@
     {
       "bug": 1131084,
       "created": "2015-02-16T12:51:52+00:00",
+      "id": 785927,
       "is_public": true,
       "modified": "2015-04-14T15:21:21+00:00",
       "note": "January Chromecast firmware update broke tab mirroring ([1131084][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/1131084",
@@ -170,6 +187,7 @@
         "title": "Firefox for Android 38.0a2 Aurora",
         "version": "38.0a2"
       },
+      "id": 785928,
       "is_public": true,
       "modified": "2015-04-14T15:20:10+00:00",
       "note": "On Android 2.3, 3.0 and 4.0, some WebM videos cannot be read properly ([1131563][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1131563",

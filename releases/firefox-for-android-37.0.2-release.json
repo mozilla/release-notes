@@ -9,6 +9,7 @@
     {
       "bug": null,
       "created": "2015-04-14T15:22:21+00:00",
+      "id": 786055,
       "is_public": true,
       "modified": "2015-04-14T15:22:22+00:00",
       "note": "Reference: [Release notes for Firefox 37.0.1][1]\r\n\r\n[1]: https://www.mozilla.org/mobile/37.0.1/releasenotes/",
@@ -26,6 +27,7 @@
         "title": "Firefox for Android 37.0.2 Release",
         "version": "37.0.2"
       },
+      "id": 786056,
       "is_public": true,
       "modified": "2015-04-14T15:24:41+00:00",
       "note": "Request Desktop Site feature does not work as expected",
@@ -35,6 +37,7 @@
     {
       "bug": 1131084,
       "created": "2015-02-16T12:51:52+00:00",
+      "id": 785927,
       "is_public": true,
       "modified": "2015-04-14T15:21:21+00:00",
       "note": "January Chromecast firmware update broke tab mirroring ([1131084][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/1131084",
@@ -52,6 +55,7 @@
         "title": "Firefox for Android 38.0a2 Aurora",
         "version": "38.0a2"
       },
+      "id": 785928,
       "is_public": true,
       "modified": "2015-04-14T15:20:10+00:00",
       "note": "On Android 2.3, 3.0 and 4.0, some WebM videos cannot be read properly ([1131563][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1131563",

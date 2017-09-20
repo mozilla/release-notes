@@ -9,6 +9,7 @@
     {
       "bug": null,
       "created": "2013-11-25T00:24:49+00:00",
+      "id": 273,
       "is_public": true,
       "modified": "2014-04-23T10:53:37+00:00",
       "note": "Per-window Private Browsing. <a href=\"https://support.mozilla.org/en-US/kb/private-browsing-browse-web-without-saving-info\">Learn more</a>.",
@@ -18,6 +19,7 @@
     {
       "bug": null,
       "created": "2013-11-25T00:24:49+00:00",
+      "id": 274,
       "is_public": true,
       "modified": "2014-04-23T10:53:37+00:00",
       "note": "New download experience. <a href=\"https://support.mozilla.org/en-US/kb/find-and-manage-downloaded-files?esab=a&s=download+manager&r=0&as=s#os=mac&browser=fx20\">Learn more</a>.",
@@ -27,6 +29,7 @@
     {
       "bug": null,
       "created": "2013-11-25T00:24:49+00:00",
+      "id": 275,
       "is_public": true,
       "modified": "2014-04-23T10:53:37+00:00",
       "note": "Ability to close hanging plugins, without the browser hanging",
@@ -36,6 +39,7 @@
     {
       "bug": 833719,
       "created": "2013-11-25T00:24:50+00:00",
+      "id": 292,
       "is_public": true,
       "modified": "2014-04-23T10:53:37+00:00",
       "note": "Some function keys may not work when pressed",
@@ -53,6 +57,7 @@
         "title": "Firefox 21.0a2 Aurora",
         "version": "21.0a2"
       },
+      "id": 319,
       "is_public": true,
       "modified": "2014-04-23T10:53:37+00:00",
       "note": "Browsing and Download history clearing needs unification to avoid confusion on clearing download history",
@@ -62,6 +67,7 @@
     {
       "bug": null,
       "created": "2013-11-25T00:24:50+00:00",
+      "id": 276,
       "is_public": true,
       "modified": "2014-04-23T10:53:37+00:00",
       "note": "Continued performance improvements around common browser tasks (<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=792438\">page loads</a>, <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=789932\">downloads</a>, <a href=\"https://bugzilla.mozilla.org/buglist.cgi?quicksearch=818296%2C818739\">shutdown</a>, etc.)",
@@ -71,6 +77,7 @@
     {
       "bug": null,
       "created": "2013-11-25T00:24:49+00:00",
+      "id": 282,
       "is_public": true,
       "modified": "2014-04-23T10:53:37+00:00",
       "note": "getUserMedia implemented for web access to the user's camera and microphone (with user permission)",
@@ -80,6 +87,7 @@
     {
       "bug": null,
       "created": "2013-11-25T00:24:50+00:00",
+      "id": 283,
       "is_public": true,
       "modified": "2014-04-23T10:53:37+00:00",
       "note": "&lt;canvas&gt; now supports <a href=\"https://hacks.mozilla.org/2012/12/firefox-development-highlights-per-window-private-browsing-canvas-globalcompositeoperation-new-values/\">blend modes</a>",
@@ -89,6 +97,7 @@
     {
       "bug": null,
       "created": "2013-11-25T00:24:50+00:00",
+      "id": 284,
       "is_public": true,
       "modified": "2014-04-23T10:53:37+00:00",
       "note": "Various &lt;audio&gt; and &lt;video&gt; <a href=\"http://blog.pearce.org.nz/2012/12/html5-video-playbackrate-and-ogg.html\">improvements</a>",
@@ -98,6 +107,7 @@
     {
       "bug": null,
       "created": "2013-11-25T00:24:50+00:00",
+      "id": 277,
       "is_public": true,
       "modified": "2014-04-23T10:53:37+00:00",
       "note": "New JavaScript Profiler tool",
@@ -107,6 +117,7 @@
     {
       "bug": null,
       "created": "2013-11-25T00:24:50+00:00",
+      "id": 281,
       "is_public": true,
       "modified": "2014-04-23T10:53:37+00:00",
       "note": "Continued implementation of draft ECMAScript 6 - <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=814562\">clear()</a> and <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=808148\">Math.imul</a>",
@@ -116,6 +127,7 @@
     {
       "bug": null,
       "created": "2013-11-25T00:24:49+00:00",
+      "id": 785358,
       "is_public": true,
       "modified": "2014-04-23T10:53:37+00:00",
       "note": "20.0.1 - Windows-only update to handle issues around handling UNC paths (see <a href=\"http://bugzil.la/846848\">bug 846848</a>)",
@@ -125,6 +137,7 @@
     {
       "bug": 793972,
       "created": "2013-11-25T00:24:50+00:00",
+      "id": 311,
       "is_public": true,
       "modified": "2014-04-23T10:53:37+00:00",
       "note": "Details button on Crash Reporter",
@@ -134,6 +147,7 @@
     {
       "bug": 829284,
       "created": "2013-11-25T00:24:50+00:00",
+      "id": 313,
       "is_public": true,
       "modified": "2014-04-23T10:53:37+00:00",
       "note": "Unity plugin doesn't display in HiDPI mode",
@@ -143,6 +157,7 @@
     {
       "bug": 573369,
       "created": "2013-11-25T00:24:27+00:00",
+      "id": 30,
       "is_public": true,
       "modified": "2014-07-02T07:04:43+00:00",
       "note": "If you try to start Firefox using a locked profile, it will crash (see [573369][1])\r\n\r\n\r\n  [1]: http://bugzilla.mozilla.org/573369",

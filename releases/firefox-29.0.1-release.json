@@ -9,6 +9,7 @@
     {
       "bug": 1003707,
       "created": "2014-05-09T07:07:24+00:00",
+      "id": 785586,
       "is_public": true,
       "modified": "2014-05-13T04:36:43+00:00",
       "note": "29.0.1 - pdf.js printing white page ([1003707][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/1003707",
@@ -18,6 +19,7 @@
     {
       "bug": 907373,
       "created": "2014-05-09T07:10:33+00:00",
+      "id": 785588,
       "is_public": true,
       "modified": "2014-05-09T10:26:53+00:00",
       "note": "29.0.1 -   Tabs not visible with dark themes under Windows 8.1 ([907373][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/907373",
@@ -27,6 +29,7 @@
     {
       "bug": 1001167,
       "created": "2014-05-09T07:11:52+00:00",
+      "id": 785589,
       "is_public": true,
       "modified": "2014-05-09T10:26:53+00:00",
       "note": "29.0.1 - Session Restore failed with a corrupted sessionstore.js file ([1001167][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/1001167",
@@ -36,6 +39,7 @@
     {
       "bug": 1005958,
       "created": "2014-05-09T07:12:54+00:00",
+      "id": 785590,
       "is_public": true,
       "modified": "2014-05-09T10:26:53+00:00",
       "note": "29.0.1 - Seer disabled by default ([1005958][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/1005958",
@@ -45,6 +49,7 @@
     {
       "bug": null,
       "created": "2014-04-25T13:19:38+00:00",
+      "id": 785561,
       "is_public": true,
       "modified": "2014-05-09T10:26:53+00:00",
       "note": "Significant new customization mode makes it easy to personalize your Web experience to access the features you use the most (<a href=\"https://support.mozilla.org/en-US/kb/learn-more-about-the-design-of-new-firefox\">learn more</a>)",
@@ -54,6 +59,7 @@
     {
       "bug": null,
       "created": "2014-04-25T13:13:45+00:00",
+      "id": 785560,
       "is_public": true,
       "modified": "2014-05-09T10:26:53+00:00",
       "note": "A new, easy to access menu sits in the right hand corner of Firefox and includes popular browser controls",
@@ -63,6 +69,7 @@
     {
       "bug": null,
       "created": "2014-04-25T13:12:46+00:00",
+      "id": 785559,
       "is_public": true,
       "modified": "2014-05-09T10:26:53+00:00",
       "note": "Sleek new tabs provide an overall smoother look and fade into the background when not active",
@@ -72,6 +79,7 @@
     {
       "bug": null,
       "created": "2014-04-25T10:37:02+00:00",
+      "id": 785557,
       "is_public": true,
       "modified": "2014-05-09T10:26:53+00:00",
       "note": "An interactive onboarding tour to guide users through the new Firefox changes",
@@ -81,6 +89,7 @@
     {
       "bug": null,
       "created": "2014-04-25T13:01:32+00:00",
+      "id": 785558,
       "is_public": true,
       "modified": "2014-05-09T10:26:53+00:00",
       "note": "The ability to set up Firefox Sync by creating a Firefox account ([learn more][1])\r\n\r\n  [1]: https://support.mozilla.org/en-US/kb/how-do-i-set-up-firefox-sync?esab=a&s=sync&r=3&as=s",
@@ -90,6 +99,7 @@
     {
       "bug": null,
       "created": "2014-03-04T09:50:26+00:00",
+      "id": 785431,
       "is_public": true,
       "modified": "2014-09-23T08:43:43+00:00",
       "note": "[Gamepad API][1] finalized and enabled\r\n\r\n[1]: https://hacks.mozilla.org/2013/12/the-gamepad-api/",
@@ -99,6 +109,7 @@
     {
       "bug": 958883,
       "created": "2014-04-29T11:57:31+00:00",
+      "id": 785566,
       "is_public": true,
       "modified": "2014-05-09T10:26:53+00:00",
       "note": "HTTPS used for Yahoo Searches performed in en-US locale",
@@ -108,6 +119,7 @@
     {
       "bug": null,
       "created": "2014-04-09T06:49:09+00:00",
+      "id": 785544,
       "is_public": true,
       "modified": "2014-05-09T10:26:53+00:00",
       "note": "Malay [ma] locale added",
@@ -117,6 +129,7 @@
     {
       "bug": null,
       "created": "2014-04-09T08:09:00+00:00",
+      "id": 785547,
       "is_public": true,
       "modified": "2014-05-09T10:26:53+00:00",
       "note": "Clicking on a W3C Web Notification will switch to the originating tab",
@@ -126,6 +139,7 @@
     {
       "bug": null,
       "created": "2014-03-04T08:34:42+00:00",
+      "id": 785415,
       "is_public": true,
       "modified": "2014-05-09T10:26:53+00:00",
       "note": "'box-sizing' (dropping the -moz- prefix) implemented (<a href=\"https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing\">learn more</a>)",
@@ -135,6 +149,7 @@
     {
       "bug": null,
       "created": "2014-03-04T08:35:59+00:00",
+      "id": 785418,
       "is_public": true,
       "modified": "2014-05-09T10:26:53+00:00",
       "note": "Console object available in Web Workers (<a href=\"https://developer.mozilla.org/fr/docs/Web/API/console\">learn more</a>)",
@@ -144,6 +159,7 @@
     {
       "bug": 924089,
       "created": "2014-03-04T08:36:16+00:00",
+      "id": 785419,
       "is_public": true,
       "modified": "2014-05-09T10:26:53+00:00",
       "note": "Promises enabled by default (<a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise\">learn more</a>)",
@@ -153,6 +169,7 @@
     {
       "bug": null,
       "created": "2014-03-04T08:35:01+00:00",
+      "id": 785416,
       "is_public": true,
       "modified": "2014-05-09T10:26:53+00:00",
       "note": "SharedWorker enabled by default",
@@ -162,6 +179,7 @@
     {
       "bug": null,
       "created": "2014-03-04T08:52:33+00:00",
+      "id": 785424,
       "is_public": true,
       "modified": "2014-05-09T10:26:53+00:00",
       "note": "&lt;input type=\"number\"&gt; implemented and enabled",
@@ -171,6 +189,7 @@
     {
       "bug": null,
       "created": "2014-03-04T09:52:37+00:00",
+      "id": 785439,
       "is_public": true,
       "modified": "2014-05-09T10:26:53+00:00",
       "note": "&lt;input type=\"color\"&gt; implemented and enabled",
@@ -180,6 +199,7 @@
     {
       "bug": null,
       "created": "2014-03-13T13:02:28+00:00",
+      "id": 785462,
       "is_public": true,
       "modified": "2014-05-09T10:26:53+00:00",
       "note": "Enabled ECMAScript Internationalization API",
@@ -189,6 +209,7 @@
     {
       "bug": null,
       "created": "2014-03-28T08:12:04+00:00",
+      "id": 785539,
       "is_public": true,
       "modified": "2014-05-09T10:26:53+00:00",
       "note": "Add-on bar has been removed, content moved to navigation bar",
@@ -198,6 +219,7 @@
     {
       "bug": 887836,
       "created": "2014-04-29T10:52:27+00:00",
+      "id": 785564,
       "is_public": true,
       "modified": "2014-05-09T10:26:53+00:00",
       "note": "Implemented URLSearchParams from the URL specification (see [MDN][1] for details )\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/URLUtils",
@@ -207,6 +229,7 @@
     {
       "bug": null,
       "created": "2013-11-25T00:24:50+00:00",
+      "id": 161,
       "is_public": true,
       "modified": "2015-03-26T15:55:42+00:00",
       "note": "Various <a href=\"https://www.mozilla.org/security/known-vulnerabilities/firefox.html\">security fixes</a>",
@@ -224,6 +247,7 @@
         "title": "Firefox 32.0a2 Aurora",
         "version": "32.0a2"
       },
+      "id": 95,
       "is_public": true,
       "modified": "2014-07-21T03:56:45+00:00",
       "note": "Mac OS X: cmd-L no longer opens a new window when no window is available ([1008793][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1008793",
@@ -241,6 +265,7 @@
         "title": "Firefox 31.0 Release",
         "version": "31.0"
       },
+      "id": 785442,
       "is_public": true,
       "modified": "2014-07-21T04:19:48+00:00",
       "note": "Text Rendering Issues on Windows 7 with Platform Update KB2670838 (MSIE 10 Prerequisite) or on Windows 8.1 has a <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=812695#c414\">workaround</a> (see <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=812695\">812695</a>)",
@@ -258,6 +283,7 @@
         "title": "Firefox 31.0a2 Aurora",
         "version": "31.0a2"
       },
+      "id": 785556,
       "is_public": true,
       "modified": "2014-07-16T07:32:09+00:00",
       "note": "Without affecting security, after restoring your session, Extended Validation Certificates might not display (See <a href=\"http://bugzilla.mozilla.org/show_bug.cgi?id=995801\">995801</a>)",
@@ -267,6 +293,7 @@
     {
       "bug": 966469,
       "created": "2014-05-09T08:10:33+00:00",
+      "id": 785593,
       "is_public": true,
       "modified": "2014-07-11T07:24:35+00:00",
       "note": "Slow shut downs lead to 'Firefox is already running' warning (see [966469][1] and [985655][2])\r\n\r\n\r\n  [1]: http://bugzilla.mozilla.org/966469\r\n  [2]: http://bugzilla.mozilla.org/985655",
@@ -276,6 +303,7 @@
     {
       "bug": 1005487,
       "created": "2014-06-05T17:20:25+00:00",
+      "id": 785601,
       "is_public": true,
       "modified": "2014-07-21T03:57:04+00:00",
       "note": "Exit is not always completed when \"clear history when Firefox closes\" is enabled ([1005487][1])\r\n\r\n\r\n  [1]: http://bugzilla.mozilla.org/1005487",

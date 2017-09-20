@@ -9,6 +9,7 @@
     {
       "bug": 1179961,
       "created": "2015-11-02T09:39:00+00:00",
+      "id": 786348,
       "is_public": true,
       "modified": "2016-11-10T19:31:27.935000+00:00",
       "note": "Lock icon strikethrough for [pages containing insecure password fields][1]\r\n\r\n\r\n  [1]: https://blog.mozilla.org/tanvi/2016/01/28/no-more-passwords-over-http-please/",
@@ -18,6 +19,7 @@
     {
       "bug": 962433,
       "created": "2016-08-03T11:43:50.918000+00:00",
+      "id": 786756,
       "is_public": true,
       "modified": "2016-11-14T22:50:42.156000+00:00",
       "note": "Improved printing by using the Reader Mode",
@@ -27,6 +29,7 @@
     {
       "bug": 1116787,
       "created": "2016-08-03T21:03:55.493000+00:00",
+      "id": 786761,
       "is_public": true,
       "modified": "2016-11-14T01:26:59.819000+00:00",
       "note": "New preference for allowing Ctrl+Tab to cycle through tabs in recently used order",
@@ -36,6 +39,7 @@
     {
       "bug": 1144749,
       "created": "2016-08-03T21:07:39.435000+00:00",
+      "id": 786763,
       "is_public": true,
       "modified": "2016-11-14T22:48:34.365000+00:00",
       "note": "Updates to keyboard shortcuts\r\n\r\n - Set a preference to have Ctrl+Tab cycle through tabs in recently used order \r\n - View a page in Reader Mode by using Ctrl+Alt+R (command+alt+r on Mac)\r\n",
@@ -45,6 +49,7 @@
     {
       "bug": 269442,
       "created": "2016-08-03T21:10:15.077000+00:00",
+      "id": 786765,
       "is_public": true,
       "modified": "2016-11-14T01:28:41.075000+00:00",
       "note": "Added option to Find in page that allows users to limit search to whole words only",
@@ -54,6 +59,7 @@
     {
       "bug": 1299346,
       "created": "2016-09-19T16:58:51.988000+00:00",
+      "id": 786814,
       "is_public": true,
       "modified": "2016-11-14T01:29:06.046000+00:00",
       "note": "Added Guarani (gn) locale",
@@ -63,6 +69,7 @@
     {
       "bug": 1231701,
       "created": "2016-08-03T21:08:46.672000+00:00",
+      "id": 786764,
       "is_public": true,
       "modified": "2016-11-14T01:28:15.341000+00:00",
       "note": "Added a built-in Emoji set for operating systems without native Emoji fonts (Windows 8.0 and lower and Linux)",
@@ -72,6 +79,7 @@
     {
       "bug": null,
       "created": "2016-05-18T19:35:47.201000+00:00",
+      "id": 786679,
       "is_public": true,
       "modified": "2016-11-10T19:23:22.975000+00:00",
       "note": "[Changes for web developers][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/Firefox/Releases/50#Changes_for_Web_developers",
@@ -81,6 +89,7 @@
     {
       "bug": 382721,
       "created": "2016-09-19T16:58:16.479000+00:00",
+      "id": 786813,
       "is_public": true,
       "modified": "2016-11-10T19:23:22.975000+00:00",
       "note": "Fixed rendering of dashed and dotted borders with rounded corners ([border-radius][1])\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/border-radius",

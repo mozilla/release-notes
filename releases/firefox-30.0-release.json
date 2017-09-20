@@ -9,6 +9,7 @@
     {
       "bug": 960198,
       "created": "2014-04-29T15:01:42+00:00",
+      "id": 785568,
       "is_public": true,
       "modified": "2014-06-10T07:10:45+00:00",
       "note": "Sidebars button in browser chrome enables faster access to social, bookmark, & history sidebars",
@@ -18,6 +19,7 @@
     {
       "bug": null,
       "created": "2014-03-26T16:26:30+00:00",
+      "id": 785522,
       "is_public": true,
       "modified": "2014-06-10T07:09:38+00:00",
       "note": "Mac OS X command-E sets find term to selected text",
@@ -27,6 +29,7 @@
     {
       "bug": null,
       "created": "2014-03-26T16:26:54+00:00",
+      "id": 785523,
       "is_public": true,
       "modified": "2014-06-09T14:33:24+00:00",
       "note": "Disallow calling WebIDL constructors as functions on the web",
@@ -36,6 +39,7 @@
     {
       "bug": 982101,
       "created": "2014-04-29T12:01:08+00:00",
+      "id": 785567,
       "is_public": true,
       "modified": "2014-06-10T23:17:24+00:00",
       "note": "With the exception of those bundled inside an extension or ones that are [whitelisted][1], plugins will no longer be activated by default (see [blog post][2])\r\n\r\n\r\n  [1]: https://wiki.mozilla.org/Plugins/Firefox_Whitelist\r\n  [2]: https://blog.mozilla.org/security/2014/02/28/update-on-plugin-activation/",
@@ -45,6 +49,7 @@
     {
       "bug": 806917,
       "created": "2014-03-26T16:26:13+00:00",
+      "id": 785521,
       "is_public": true,
       "modified": "2014-06-11T10:27:01+00:00",
       "note": "Support for GStreamer 1.0  (see [806917][1] for build configuration)\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=806917",
@@ -54,6 +59,7 @@
     {
       "bug": 480888,
       "created": "2014-03-26T16:28:02+00:00",
+      "id": 785524,
       "is_public": true,
       "modified": "2014-06-09T14:33:54+00:00",
       "note": "Fixes to box-shadow and other visual overflow (see <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=480888\">bug 480888</a>)",
@@ -63,6 +69,7 @@
     {
       "bug": null,
       "created": "2014-03-26T16:28:34+00:00",
+      "id": 785525,
       "is_public": true,
       "modified": "2014-06-09T14:34:02+00:00",
       "note": "Mute and volume available per window when using WebAudio",
@@ -72,6 +79,7 @@
     {
       "bug": null,
       "created": "2014-03-26T16:28:53+00:00",
+      "id": 785526,
       "is_public": true,
       "modified": "2014-06-09T14:34:11+00:00",
       "note": "background-blend-mode enabled by default",
@@ -81,6 +89,7 @@
     {
       "bug": null,
       "created": "2014-03-26T16:30:05+00:00",
+      "id": 785527,
       "is_public": true,
       "modified": "2014-06-09T14:34:20+00:00",
       "note": "Use of line-height allowed for &lt;input type=\"reset|button|submit\"&gt;",
@@ -90,6 +99,7 @@
     {
       "bug": null,
       "created": "2014-03-26T16:30:47+00:00",
+      "id": 785528,
       "is_public": true,
       "modified": "2014-06-09T14:34:54+00:00",
       "note": "ES6 array and generator comprehensions implemented (read [docs][1] for more details)\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/Firefox/Releases/30",
@@ -99,6 +109,7 @@
     {
       "bug": null,
       "created": "2014-03-26T16:31:05+00:00",
+      "id": 785529,
       "is_public": true,
       "modified": "2014-06-09T14:35:03+00:00",
       "note": "Error stack now contains column number",
@@ -108,6 +119,7 @@
     {
       "bug": 982480,
       "created": "2014-05-04T06:27:18+00:00",
+      "id": 785575,
       "is_public": true,
       "modified": "2014-06-09T14:35:11+00:00",
       "note": "Support for alpha option in canvas context options (feature [description][1])\r\n\r\n\r\n  [1]: http://blogs.adobe.com/webplatform/2014/04/01/new-canvas-features/",
@@ -117,6 +129,7 @@
     {
       "bug": 828183,
       "created": "2014-06-11T12:46:25+00:00",
+      "id": 785608,
       "is_public": true,
       "modified": "2014-06-11T12:54:44+00:00",
       "note": "Insecure NTLM (pre-NTLMv2) authentication disabled (see [828183][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=828183",
@@ -126,6 +139,7 @@
     {
       "bug": null,
       "created": "2013-11-25T00:24:50+00:00",
+      "id": 161,
       "is_public": true,
       "modified": "2015-03-26T15:55:42+00:00",
       "note": "Various <a href=\"https://www.mozilla.org/security/known-vulnerabilities/firefox.html\">security fixes</a>",
@@ -135,6 +149,7 @@
     {
       "bug": 956906,
       "created": "2014-03-26T16:32:14+00:00",
+      "id": 785531,
       "is_public": true,
       "modified": "2014-06-09T14:35:19+00:00",
       "note": "Ignore autocomplete=\"off\" when offering to save passwords via the password manager (see [956906][1]) \r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=956906",
@@ -144,6 +159,7 @@
     {
       "bug": 695438,
       "created": "2014-03-26T16:32:38+00:00",
+      "id": 785532,
       "is_public": true,
       "modified": "2014-06-09T14:35:27+00:00",
       "note": "TypedArrays don't support new named properties (see [695438][1]) \r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=695438",
@@ -161,6 +177,7 @@
         "title": "Firefox 32.0a2 Aurora",
         "version": "32.0a2"
       },
+      "id": 95,
       "is_public": true,
       "modified": "2014-07-21T03:56:45+00:00",
       "note": "Mac OS X: cmd-L no longer opens a new window when no window is available ([1008793][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1008793",
@@ -178,6 +195,7 @@
         "title": "Firefox 31.0beta Beta",
         "version": "31.0beta"
       },
+      "id": 785456,
       "is_public": true,
       "modified": "2014-06-05T15:36:13+00:00",
       "note": "Errors loading scripts inside eval scripts with Developer Tools open ([998908][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=998908",
@@ -195,6 +213,7 @@
         "title": "Firefox 31.0a2 Aurora",
         "version": "31.0a2"
       },
+      "id": 785556,
       "is_public": true,
       "modified": "2014-07-16T07:32:09+00:00",
       "note": "Without affecting security, after restoring your session, Extended Validation Certificates might not display (See <a href=\"http://bugzilla.mozilla.org/show_bug.cgi?id=995801\">995801</a>)",
@@ -204,6 +223,7 @@
     {
       "bug": 966469,
       "created": "2014-05-09T08:10:33+00:00",
+      "id": 785593,
       "is_public": true,
       "modified": "2014-07-11T07:24:35+00:00",
       "note": "Slow shut downs lead to 'Firefox is already running' warning (see [966469][1] and [985655][2])\r\n\r\n\r\n  [1]: http://bugzilla.mozilla.org/966469\r\n  [2]: http://bugzilla.mozilla.org/985655",
@@ -213,6 +233,7 @@
     {
       "bug": 1025627,
       "created": "2014-07-16T08:00:45+00:00",
+      "id": 785646,
       "is_public": true,
       "modified": "2014-07-17T06:59:54+00:00",
       "note": "Mac OS X and Windows: Citrix Receiver no longer works. As a workaround, mark the plugin as *Always Enable* in the addon manager ([1025627][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1025627",

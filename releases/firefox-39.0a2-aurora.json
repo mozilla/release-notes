@@ -9,6 +9,7 @@
     {
       "bug": 1132301,
       "created": "2015-06-11T09:49:29+00:00",
+      "id": 786137,
       "is_public": true,
       "modified": "2015-06-19T17:27:58+00:00",
       "note": "[Share Hello URLs][1] with social networks\r\n\r\n\r\n  \r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/share-firefox-hello-social",
@@ -18,6 +19,7 @@
     {
       "bug": 1106470,
       "created": "2015-03-27T21:30:37+00:00",
+      "id": 785984,
       "is_public": true,
       "modified": "2015-06-15T19:28:35+00:00",
       "note": "Removed support for insecure SSLv3 for network communications",
@@ -27,6 +29,7 @@
     {
       "bug": 999544,
       "created": "2015-03-27T21:32:16+00:00",
+      "id": 785985,
       "is_public": true,
       "modified": "2015-05-11T20:30:27+00:00",
       "note": "Disable use of RC4 except for temporarily whitelisted hosts",
@@ -36,6 +39,7 @@
     {
       "bug": 1116806,
       "created": "2015-03-29T18:52:05+00:00",
+      "id": 785994,
       "is_public": true,
       "modified": "2015-08-11T13:10:21+00:00",
       "note": "NPAPI Plug-in performance improved via [asynchronous initialization][1]\r\n\r\n  [1]: http://dblohm7.ca/blog/2014/06/17/asynchronous-plugin-initialization-an-introduction/",
@@ -45,6 +49,7 @@
     {
       "bug": 1138658,
       "created": "2015-03-27T22:19:45+00:00",
+      "id": 785987,
       "is_public": true,
       "modified": "2015-07-10T01:01:47+00:00",
       "note": "Added support for [CSS Scroll Snap Points][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/tag/CSS%20Scroll%20Snap%20Points",
@@ -54,6 +59,7 @@
     {
       "bug": 1144607,
       "created": "2015-03-28T02:41:14+00:00",
+      "id": 785989,
       "is_public": true,
       "modified": "2015-07-10T01:19:38+00:00",
       "note": " [List-style-type][1] now accepts a string value\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/CSS/list-style-type",
@@ -63,6 +69,7 @@
     {
       "bug": 1099032,
       "created": "2015-03-28T03:03:31+00:00",
+      "id": 785990,
       "is_public": true,
       "modified": "2015-05-22T02:35:01+00:00",
       "note": "[Vertical text mode][1] enabled by default on Developer Edition\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/writing-mode",
@@ -72,6 +79,7 @@
     {
       "bug": 1125455,
       "created": "2015-03-28T03:12:09+00:00",
+      "id": 785991,
       "is_public": true,
       "modified": "2015-07-10T01:16:30+00:00",
       "note": "Cascading of [CSS transitions and animations][1] now matches the current spec\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/Guide/CSS/Using_CSS_animations",
@@ -81,6 +89,7 @@
     {
       "bug": 940273,
       "created": "2015-03-30T18:31:08+00:00",
+      "id": 785999,
       "is_public": true,
       "modified": "2015-05-22T17:31:29+00:00",
       "note": "Implement [Cache][1] API\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/Cache\r\n",
@@ -90,6 +99,7 @@
     {
       "bug": 1133861,
       "created": "2015-03-30T18:34:24+00:00",
+      "id": 786000,
       "is_public": true,
       "modified": "2015-07-10T01:07:44+00:00",
       "note": "Enable the [Fetch API][1] for network requests from dedicated, shared and service workers\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/API/Fetch_API",
@@ -99,6 +109,7 @@
     {
       "bug": 1135160,
       "created": "2015-03-30T22:11:47+00:00",
+      "id": 786001,
       "is_public": true,
       "modified": "2015-07-10T01:06:31+00:00",
       "note": "Implemented [`<link rel=\"preconnect\">`][1] allowing anticipation of a future connection without revealing any information\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/HTML/Link_types",
@@ -108,6 +119,7 @@
     {
       "bug": 1136563,
       "created": "2015-04-02T23:12:00+00:00",
+      "id": 786037,
       "is_public": true,
       "modified": "2015-05-22T15:46:19+00:00",
       "note": "Support for 'switch' role in [ARIA 1.1][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA",
@@ -117,6 +129,7 @@
     {
       "bug": 1099032,
       "created": "2015-05-22T02:35:01+00:00",
+      "id": 786119,
       "is_public": true,
       "modified": "2015-05-22T02:35:28+00:00",
       "note": "[Vertical text mode][1] enabled by default on Developer Edition\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/writing-mode",
@@ -126,6 +139,7 @@
     {
       "bug": 858038,
       "created": "2015-03-27T17:36:59+00:00",
+      "id": 785981,
       "is_public": true,
       "modified": "2015-06-15T19:28:35+00:00",
       "note": "Drag and drop enabled for nodes in Inspector markup view ",
@@ -135,6 +149,7 @@
     {
       "bug": 943306,
       "created": "2015-03-27T17:46:32+00:00",
+      "id": 785982,
       "is_public": true,
       "modified": "2015-07-10T01:11:31+00:00",
       "note": "Web Console input history persists even after closing the toolbox",
@@ -144,6 +159,7 @@
     {
       "bug": 1134568,
       "created": "2015-03-28T03:43:15+00:00",
+      "id": 785992,
       "is_public": true,
       "modified": "2015-06-15T19:28:35+00:00",
       "note": "Cubic bezier tooltip now shows a gallery of [timing-function presets for use with CSS animations][1]\r\n\r\n\r\n  [1]: http://jtgi.me/adding-presets-to-firefox-dev-tools/",
@@ -153,6 +169,7 @@
     {
       "bug": 967792,
       "created": "2015-03-30T22:30:09+00:00",
+      "id": 786002,
       "is_public": true,
       "modified": "2015-06-15T19:28:35+00:00",
       "note": "localhost is now available offline for WebSocket connections",
@@ -162,6 +179,7 @@
     {
       "bug": 1136484,
       "created": "2015-03-30T22:43:53+00:00",
+      "id": 786003,
       "is_public": true,
       "modified": "2015-07-10T01:09:03+00:00",
       "note": "Improve performance of IPv6 fallback to IPv4 ",

@@ -17,6 +17,7 @@
         "title": "Thunderbird 52.0beta Beta",
         "version": "52.0beta"
       },
+      "id": 786938,
       "is_public": true,
       "modified": "2017-04-12T16:39:01.198000+00:00",
       "note": "Optionally remove corresponding data files when removing an account from Thunderbird",
@@ -34,6 +35,7 @@
         "title": "Thunderbird 52.0beta Beta",
         "version": "52.0beta"
       },
+      "id": 786937,
       "is_public": true,
       "modified": "2017-04-12T16:39:02.516000+00:00",
       "note": "Possibility to copy message filter",
@@ -51,6 +53,7 @@
         "title": "Thunderbird 52.0beta Beta",
         "version": "52.0beta"
       },
+      "id": 786943,
       "is_public": true,
       "modified": "2017-04-12T16:38:53.493000+00:00",
       "note": "Calendar: Event can now be created and edited in a tab",
@@ -68,6 +71,7 @@
         "title": "Thunderbird 52.0beta Beta",
         "version": "52.0beta"
       },
+      "id": 786946,
       "is_public": true,
       "modified": "2017-04-12T16:38:47.504000+00:00",
       "note": "Calendar: Processing of received invitation counter proposals",
@@ -85,6 +89,7 @@
         "title": "Thunderbird 52.0beta Beta",
         "version": "52.0beta"
       },
+      "id": 786935,
       "is_public": true,
       "modified": "2017-04-12T16:39:04.954000+00:00",
       "note": "Chat: Support Twitter Direct Messages",
@@ -102,6 +107,7 @@
         "title": "Thunderbird 52.0beta Beta",
         "version": "52.0beta"
       },
+      "id": 786945,
       "is_public": true,
       "modified": "2017-04-12T16:38:48.671000+00:00",
       "note": "Chat: Liking and favoriting in Twitter",
@@ -119,6 +125,7 @@
         "title": "Thunderbird 52.0beta Beta",
         "version": "52.0beta"
       },
+      "id": 786944,
       "is_public": true,
       "modified": "2017-04-12T16:38:50.491000+00:00",
       "note": "**IMPORTANT:** The way images are included in a compose window has changed. Images are now included as [data URIs][1] and not as references to parts of other messages or operating system files. This allows better interoperability with office packages such as MS Office or LibreOffice. Images linked from locations on the internet will **no longer** be downloaded and attached to the message automatically. This can be changed for each image individually via the Image Properties dialog or globally by setting the preference mail.compose.attach_http_images.\r\n\r\n[1]: https://en.wikipedia.org/wiki/Data_URI_scheme",
@@ -136,6 +143,7 @@
         "title": "Thunderbird 52.0 Release",
         "version": "52.0"
       },
+      "id": 787013,
       "is_public": true,
       "modified": "2017-04-12T16:38:37.361000+00:00",
       "note": "On Linux PulseAudio is now required to play sound",
@@ -153,6 +161,7 @@
         "title": "Thunderbird 52.0beta Beta",
         "version": "52.0beta"
       },
+      "id": 786939,
       "is_public": true,
       "modified": "2017-04-12T16:38:59.867000+00:00",
       "note": "Messages in IMAP folders read on external device are now filtered by default",
@@ -170,6 +179,7 @@
         "title": "Thunderbird 52.0beta Beta",
         "version": "52.0beta"
       },
+      "id": 786936,
       "is_public": true,
       "modified": "2017-04-12T16:39:03.689000+00:00",
       "note": "Chat: Removed Yahoo! Messenger support (since [Yahoo removed support][1])\r\n\r\n\r\n  [1]: https://web.archive.org/web/20160730080614/https://help.yahoo.com/kb/yahoo-messenger-for-web/SLN26860.html",
@@ -187,6 +197,7 @@
         "title": "Thunderbird 52.0beta Beta",
         "version": "52.0beta"
       },
+      "id": 786976,
       "is_public": true,
       "modified": "2017-03-22T21:14:51.098000+00:00",
       "note": "Crash when viewing certain IMAP messages and various crashes on Mac",
@@ -204,6 +215,7 @@
         "title": "Thunderbird 51.0beta Beta",
         "version": "51.0beta"
       },
+      "id": 786904,
       "is_public": true,
       "modified": "2017-04-12T16:39:13.559000+00:00",
       "note": "Message preview pane non-functional after IMAP folder was renamed or moved",
@@ -221,6 +233,7 @@
         "title": "Thunderbird 52.0beta Beta",
         "version": "52.0beta"
       },
+      "id": 786941,
       "is_public": true,
       "modified": "2017-04-12T16:38:57.099000+00:00",
       "note": "Editing in paragraph format: Pressing Shift+Enter sometimes doesn't move the cursor to the next line",
@@ -238,6 +251,7 @@
         "title": "Thunderbird 52.0beta Beta",
         "version": "52.0beta"
       },
+      "id": 786981,
       "is_public": true,
       "modified": "2017-04-12T16:38:43.762000+00:00",
       "note": "Paste as quotation doesn't always work",
@@ -255,6 +269,7 @@
         "title": "Thunderbird 52.0beta Beta",
         "version": "52.0beta"
       },
+      "id": 786942,
       "is_public": true,
       "modified": "2017-04-12T16:38:55.686000+00:00",
       "note": "Long lines in plain text replies not properly wrapped",
@@ -272,6 +287,7 @@
         "title": "Thunderbird 52.0beta Beta",
         "version": "52.0beta"
       },
+      "id": 786982,
       "is_public": true,
       "modified": "2017-04-12T16:38:42.543000+00:00",
       "note": "Undesired white-space before signature in paragraph mode",
@@ -289,6 +305,7 @@
         "title": "Thunderbird 52.0beta Beta",
         "version": "52.0beta"
       },
+      "id": 786940,
       "is_public": true,
       "modified": "2017-04-12T16:38:58.560000+00:00",
       "note": "IMAP message part caching",
@@ -306,6 +323,7 @@
         "title": "Thunderbird 52.0beta Beta",
         "version": "52.0beta"
       },
+      "id": 786980,
       "is_public": true,
       "modified": "2017-04-12T16:38:45.010000+00:00",
       "note": "Links with escaped non-ASCII (international) characters can't be clicked",
@@ -323,6 +341,7 @@
         "title": "Thunderbird 52.0beta Beta",
         "version": "52.0beta"
       },
+      "id": 786947,
       "is_public": true,
       "modified": "2017-04-12T16:38:46.313000+00:00",
       "note": "Calendar: Events specified in timezone \"local time\" generate alerts in UTC time",

@@ -9,6 +9,7 @@
     {
       "bug": 1014156,
       "created": "2014-12-05T18:37:58+00:00",
+      "id": 785863,
       "is_public": true,
       "modified": "2015-03-26T15:54:30+00:00",
       "note": "New [Tablet user interface][1]\r\n\r\n\r\n  [1]: http://lucasr.org/2014/12/03/new-tablet-ui-for-firefox-on-android/",
@@ -18,6 +19,7 @@
     {
       "bug": 1097320,
       "created": "2015-02-19T15:53:50+00:00",
+      "id": 785934,
       "is_public": true,
       "modified": "2015-03-26T15:54:32+00:00",
       "note": "Support for the full HTTP/2 protocol. HTTP/2 enables a faster, more scalable, and more responsive web.",
@@ -27,6 +29,7 @@
     {
       "bug": 1019726,
       "created": "2014-12-03T00:50:49+00:00",
+      "id": 785858,
       "is_public": true,
       "modified": "2015-03-26T15:54:36+00:00",
       "note": "Locale added: Maithili (mai) (Android Lollipop only)",
@@ -36,6 +39,7 @@
     {
       "bug": 1088915,
       "created": "2015-01-08T12:11:27+00:00",
+      "id": 785867,
       "is_public": true,
       "modified": "2015-03-26T15:54:39+00:00",
       "note": "No longer accept insecure RC4 ciphers whenever possible",
@@ -45,6 +49,7 @@
     {
       "bug": null,
       "created": "2015-02-11T13:31:57+00:00",
+      "id": 785925,
       "is_public": true,
       "modified": "2015-03-26T15:54:40+00:00",
       "note": "[Phasing out Certificates][1] with 1024-bit RSA Keys\r\n\r\n\r\n  [1]: https://blog.mozilla.org/security/2015/01/28/phase-2-phasing-out-certificates-with-1024-bit-rsa-keys/",
@@ -54,6 +59,7 @@
     {
       "bug": null,
       "created": "2015-01-14T19:10:36+00:00",
+      "id": 785890,
       "is_public": true,
       "modified": "2015-03-26T15:54:43+00:00",
       "note": "[Add-on Compatibility][1]\r\n\r\n\r\n  [1]: https://blog.mozilla.org/addons/2015/01/13/compatibility-for-firefox-36/",
@@ -63,6 +69,7 @@
     {
       "bug": 778617,
       "created": "2015-01-14T19:18:33+00:00",
+      "id": 785891,
       "is_public": true,
       "modified": "2015-04-03T04:02:06+00:00",
       "note": "Implemented a subset of the Media Source Extensions (MSE) API to allow native HTML5 playback on YouTube (Windows Vista or later only)",
@@ -72,6 +79,7 @@
     {
       "bug": 645416,
       "created": "2014-07-17T07:38:48+00:00",
+      "id": 785650,
       "is_public": true,
       "modified": "2015-03-26T15:55:21+00:00",
       "note": "Support for the [ECMAScript 6 Symbol][1] data type added\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol\r\n",
@@ -81,6 +89,7 @@
     {
       "bug": 475891,
       "created": "2014-12-03T00:13:24+00:00",
+      "id": 785850,
       "is_public": true,
       "modified": "2015-03-26T15:55:36+00:00",
       "note": "[unicode-range CSS descriptor][1] implemented\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/unicode-range",
@@ -90,6 +99,7 @@
     {
       "bug": 624647,
       "created": "2014-12-03T00:29:58+00:00",
+      "id": 785853,
       "is_public": true,
       "modified": "2015-03-26T15:55:37+00:00",
       "note": "[object-fit][1] and [object-position][2] implemented.<br />Defines how and where the content of a replaced element is displayed\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/object-fit\r\n  [2]: https://developer.mozilla.org/en-US/docs/Web/CSS/object-position\r\n",
@@ -99,6 +109,7 @@
     {
       "bug": 1091885,
       "created": "2014-12-03T00:32:09+00:00",
+      "id": 785854,
       "is_public": true,
       "modified": "2015-03-26T15:55:40+00:00",
       "note": "[isolation CSS][1] property implemented.<br />Create a new stacking context to isolate groups of boxes to control which blend together\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/isolation",
@@ -108,6 +119,7 @@
     {
       "bug": 961871,
       "created": "2014-12-03T00:37:13+00:00",
+      "id": 785856,
       "is_public": true,
       "modified": "2015-03-26T15:54:49+00:00",
       "note": "CSS3 [will-change property][1] implemented.<br />Hints the browser of elements that will be modified. The browser will\r\nperform some performance optimization for these\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/will-change",
@@ -117,6 +129,7 @@
     {
       "bug": 903457,
       "created": "2014-12-03T00:41:59+00:00",
+      "id": 785857,
       "is_public": true,
       "modified": "2015-03-26T15:55:32+00:00",
       "note": "[Improved ES6 generators][1] for better performance\r\n\r\n\r\n  [1]: https://wingolog.org/archives/2014/11/14/generators-in-firefox-now-twenty-two-times-faster",
@@ -126,6 +139,7 @@
     {
       "bug": 611388,
       "created": "2015-01-08T12:18:18+00:00",
+      "id": 785869,
       "is_public": true,
       "modified": "2015-03-26T15:55:32+00:00",
       "note": "Changed JavaScript ['const' semantics][1] to conform better to the ES6 specification.<br />The const declaration is now block-scoped and requires an initializer. It also can not be redeclared anymore.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/const",
@@ -135,6 +149,7 @@
     {
       "bug": 704320,
       "created": "2015-01-26T17:36:16+00:00",
+      "id": 785922,
       "is_public": true,
       "modified": "2015-02-19T15:51:08+00:00",
       "note": "[&lt;meta name=\"referrer\"&gt;][1] implemented for more privacy. Allows to control the content of the HTTP referer header.\r\n\r\n\r\n  [1]: https://blog.mozilla.org/security/2015/01/21/meta-referrer/",
@@ -152,6 +167,7 @@
         "title": "Firefox 36.0beta Beta",
         "version": "36.0beta"
       },
+      "id": 785855,
       "is_public": true,
       "modified": "2015-03-26T15:55:48+00:00",
       "note": "[CSS gradients][1] work on premultiplied colors\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/gradient",
@@ -169,6 +185,7 @@
         "title": "Firefox for Android 36.0beta Beta",
         "version": "36.0beta"
       },
+      "id": 785899,
       "is_public": true,
       "modified": "2015-03-26T15:55:49+00:00",
       "note": "DNS resolution when using VPNs or switching networks",
@@ -186,6 +203,7 @@
         "title": "Firefox 36.0beta Beta",
         "version": "36.0beta"
       },
+      "id": 785912,
       "is_public": true,
       "modified": "2015-03-26T15:55:46+00:00",
       "note": " Fix some unexpected logout from Facebook or Google after restart",
@@ -195,6 +213,7 @@
     {
       "bug": 1131084,
       "created": "2015-02-16T12:51:52+00:00",
+      "id": 785927,
       "is_public": true,
       "modified": "2015-04-14T15:21:21+00:00",
       "note": "January Chromecast firmware update broke tab mirroring ([1131084][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/1131084",
@@ -212,6 +231,7 @@
         "title": "Firefox for Android 38.0a2 Aurora",
         "version": "38.0a2"
       },
+      "id": 785928,
       "is_public": true,
       "modified": "2015-04-14T15:20:10+00:00",
       "note": "On Android 2.3, 3.0 and 4.0, some WebM videos cannot be read properly ([1131563][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1131563",

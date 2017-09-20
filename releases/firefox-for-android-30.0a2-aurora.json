@@ -9,6 +9,7 @@
     {
       "bug": null,
       "created": "2014-04-17T04:34:38+00:00",
+      "id": 785549,
       "is_public": true,
       "modified": "2014-06-10T07:11:56+00:00",
       "note": "Add Quickshare buttons to Context menu",
@@ -18,6 +19,7 @@
     {
       "bug": null,
       "created": "2014-03-26T16:33:45+00:00",
+      "id": 785533,
       "is_public": true,
       "modified": "2014-04-30T10:44:28+00:00",
       "note": "Support for add-ons to create new home page panels with Firefox Hub",
@@ -27,6 +29,7 @@
     {
       "bug": null,
       "created": "2014-03-26T16:34:03+00:00",
+      "id": 785534,
       "is_public": true,
       "modified": "2014-04-30T03:48:47+00:00",
       "note": "Allow for hiding home page panels",
@@ -36,6 +39,7 @@
     {
       "bug": null,
       "created": "2014-03-26T16:35:59+00:00",
+      "id": 785535,
       "is_public": true,
       "modified": "2014-06-09T14:42:36+00:00",
       "note": "Locales added: Belarusian [be], Argentine Spanish [es-AR], Mexican Spanish [es-MX], Indonesian [id], Latvian [lv], Malay [ms]",
@@ -45,6 +49,7 @@
     {
       "bug": null,
       "created": "2014-03-26T16:26:54+00:00",
+      "id": 785523,
       "is_public": true,
       "modified": "2014-06-09T14:33:24+00:00",
       "note": "Disallow calling WebIDL constructors as functions on the web",
@@ -54,6 +59,7 @@
     {
       "bug": 480888,
       "created": "2014-03-26T16:28:02+00:00",
+      "id": 785524,
       "is_public": true,
       "modified": "2014-06-09T14:33:54+00:00",
       "note": "Fixes to box-shadow and other visual overflow (see <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=480888\">bug 480888</a>)",
@@ -63,6 +69,7 @@
     {
       "bug": null,
       "created": "2014-03-26T16:28:34+00:00",
+      "id": 785525,
       "is_public": true,
       "modified": "2014-06-09T14:34:02+00:00",
       "note": "Mute and volume available per window when using WebAudio",
@@ -72,6 +79,7 @@
     {
       "bug": null,
       "created": "2014-03-26T16:28:53+00:00",
+      "id": 785526,
       "is_public": true,
       "modified": "2014-06-09T14:34:11+00:00",
       "note": "background-blend-mode enabled by default",
@@ -81,6 +89,7 @@
     {
       "bug": null,
       "created": "2014-03-26T16:30:05+00:00",
+      "id": 785527,
       "is_public": true,
       "modified": "2014-06-09T14:34:20+00:00",
       "note": "Use of line-height allowed for &lt;input type=\"reset|button|submit\"&gt;",
@@ -90,6 +99,7 @@
     {
       "bug": null,
       "created": "2014-03-26T16:30:47+00:00",
+      "id": 785528,
       "is_public": true,
       "modified": "2014-06-09T14:34:54+00:00",
       "note": "ES6 array and generator comprehensions implemented (read [docs][1] for more details)\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/Firefox/Releases/30",
@@ -99,6 +109,7 @@
     {
       "bug": null,
       "created": "2014-03-26T16:31:05+00:00",
+      "id": 785529,
       "is_public": true,
       "modified": "2014-06-09T14:35:03+00:00",
       "note": "Error stack now contains column number",
@@ -108,6 +119,7 @@
     {
       "bug": 982480,
       "created": "2014-05-04T06:27:18+00:00",
+      "id": 785575,
       "is_public": true,
       "modified": "2014-06-09T14:35:11+00:00",
       "note": "Support for alpha option in canvas context options (feature [description][1])\r\n\r\n\r\n  [1]: http://blogs.adobe.com/webplatform/2014/04/01/new-canvas-features/",
@@ -117,6 +129,7 @@
     {
       "bug": 349259,
       "created": "2014-03-26T16:31:43+00:00",
+      "id": 785530,
       "is_public": true,
       "modified": "2014-04-29T15:00:37+00:00",
       "note": "CSS Property 'line-height' has no effects on input text fields (see [349259][1]) \r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=349259",
@@ -126,6 +139,7 @@
     {
       "bug": 956906,
       "created": "2014-03-26T16:32:14+00:00",
+      "id": 785531,
       "is_public": true,
       "modified": "2014-06-09T14:35:19+00:00",
       "note": "Ignore autocomplete=\"off\" when offering to save passwords via the password manager (see [956906][1]) \r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=956906",
@@ -135,6 +149,7 @@
     {
       "bug": 695438,
       "created": "2014-03-26T16:32:38+00:00",
+      "id": 785532,
       "is_public": true,
       "modified": "2014-06-09T14:35:27+00:00",
       "note": "TypedArrays don't support new named properties (see [695438][1]) \r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=695438",
@@ -144,6 +159,7 @@
     {
       "bug": 1014333,
       "created": "2014-06-09T15:00:16+00:00",
+      "id": 785604,
       "is_public": true,
       "modified": "2014-06-09T15:00:16+00:00",
       "note": "Thick lines on some pages (see [1014333][1])\r\n\r\n\r\n  [1]: http://bugzilla.mozilla.org/1014333",

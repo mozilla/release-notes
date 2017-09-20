@@ -9,6 +9,7 @@
     {
       "bug": null,
       "created": "2015-05-15T00:00:49+00:00",
+      "id": 786097,
       "is_public": true,
       "modified": "2015-05-15T00:00:50+00:00",
       "note": "Reference: [Release notes for Firefox 38.0][1]\r\n\r\n[1]: https://www.mozilla.org/mobile/38.0/releasenotes/",
@@ -26,6 +27,7 @@
         "title": "Firefox for Android 38.0.1 Release",
         "version": "38.0.1"
       },
+      "id": 786096,
       "is_public": true,
       "modified": "2016-01-15T11:25:38.492000+00:00",
       "note": "Start-up crash on devices for which Firefox does not support Android hardware acceleration ([1163841][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1163841",
@@ -43,6 +45,7 @@
         "title": "Firefox 38.0.1 Release",
         "version": "38.0.1"
       },
+      "id": 786088,
       "is_public": true,
       "modified": "2016-01-15T11:19:37.306000+00:00",
       "note": "Large animated images may fail to play and may stop other images from loading ([1161859][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1161859",
@@ -60,6 +63,7 @@
         "title": "Firefox for Android 38.0.1 Release",
         "version": "38.0.1"
       },
+      "id": 786095,
       "is_public": true,
       "modified": "2016-01-15T11:25:05.579000+00:00",
       "note": "Mozilla Location Service (MLS) stumbler may not submit all data ([1164468][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1164468",
@@ -69,6 +73,7 @@
     {
       "bug": 1135812,
       "created": "2015-05-11T16:02:26+00:00",
+      "id": 786070,
       "is_public": true,
       "modified": "2015-05-27T08:47:54+00:00",
       "note": "Responsive images do not update when the enclosing viewport changes",

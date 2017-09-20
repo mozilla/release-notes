@@ -9,6 +9,7 @@
     {
       "bug": null,
       "created": "2015-05-07T09:07:45+00:00",
+      "id": 786066,
       "is_public": true,
       "modified": "2015-05-14T23:51:59+00:00",
       "note": "Improved user interfaces:\r\n\r\n - New \"Welcome Screen\"\r\n - Reader View controls (on Tablets and Phones)\r\n - \"Synced Tabs\" panel new layout (on Tablets)\r\n - \"[Add to Firefox][1]\" feature (from outside Firefox)\r\n\r\n[1]: https://medium.com/@antlam/share-to-firefox-245984b2da33",
@@ -18,6 +19,7 @@
     {
       "bug": 558882,
       "created": "2015-03-26T17:25:16+00:00",
+      "id": 785978,
       "is_public": true,
       "modified": "2015-05-12T00:46:02+00:00",
       "note": "Keep track of articles and blog posts with the Reading List - enabled for the first half of the beta cycle",
@@ -27,6 +29,7 @@
     {
       "bug": 33339,
       "created": "2015-04-02T17:42:17+00:00",
+      "id": 786035,
       "is_public": true,
       "modified": "2015-05-14T23:51:56+00:00",
       "note": "[Ruby annotation][1] support\r\n\r\n\r\n  [1]: https://hacks.mozilla.org/2015/03/ruby-support-in-firefox-developer-edition-38/",
@@ -36,6 +39,7 @@
     {
       "bug": null,
       "created": "2015-05-07T09:09:41+00:00",
+      "id": 786067,
       "is_public": true,
       "modified": "2015-05-14T23:51:58+00:00",
       "note": "Support for the Android L theme",
@@ -45,6 +49,7 @@
     {
       "bug": null,
       "created": "2015-05-07T09:11:39+00:00",
+      "id": 786068,
       "is_public": true,
       "modified": "2015-05-14T23:51:53+00:00",
       "note": "Send a tab to another connected device with the 'Send to device' option in the \"share\" menu",
@@ -54,6 +59,7 @@
     {
       "bug": null,
       "created": "2015-05-07T09:13:11+00:00",
+      "id": 786069,
       "is_public": true,
       "modified": "2015-05-14T23:51:55+00:00",
       "note": "Add a website to your Reading List with the \"Add to Reading List\" button in the overflow menu",
@@ -63,6 +69,7 @@
     {
       "bug": 1144119,
       "created": "2015-03-25T14:00:27+00:00",
+      "id": 785975,
       "is_public": true,
       "modified": "2015-05-14T23:51:51+00:00",
       "note": "Locale added: Azerbaijani (az)",
@@ -72,6 +79,7 @@
     {
       "bug": 1025703,
       "created": "2015-02-20T00:31:57+00:00",
+      "id": 785941,
       "is_public": true,
       "modified": "2015-05-14T23:51:44+00:00",
       "note": "autocomplete=off is no longer supported for username/password fields",
@@ -81,6 +89,7 @@
     {
       "bug": 1093611,
       "created": "2015-02-20T00:36:08+00:00",
+      "id": 785942,
       "is_public": true,
       "modified": "2015-05-14T23:51:49+00:00",
       "note": "URL parser avoids doing percent encoding when setting the Fragment part of the URL, and percent decoding when getting the Fragment in line with the URL spec",
@@ -90,6 +99,7 @@
     {
       "bug": 1130798,
       "created": "2015-02-20T00:40:28+00:00",
+      "id": 785944,
       "is_public": true,
       "modified": "2015-05-14T23:51:47+00:00",
       "note": "RegExp.prototype.source now returns \"(?:)\" instead of the empty string for empty regular expressions",
@@ -99,6 +109,7 @@
     {
       "bug": 1009122,
       "created": "2015-02-20T01:17:13+00:00",
+      "id": 785945,
       "is_public": true,
       "modified": "2015-05-14T23:51:46+00:00",
       "note": "Improved page load times via speculative connection warmup",
@@ -108,6 +119,7 @@
     {
       "bug": 966439,
       "created": "2015-02-20T00:16:54+00:00",
+      "id": 785938,
       "is_public": true,
       "modified": "2015-05-14T23:51:41+00:00",
       "note": "[BroadcastChannel API implemented][1]\r\n\r\n[1]: https://hacks.mozilla.org/2015/02/broadcastchannel-api-in-firefox-38/",
@@ -117,6 +129,7 @@
     {
       "bug": 1017875,
       "created": "2015-02-20T00:27:07+00:00",
+      "id": 785940,
       "is_public": true,
       "modified": "2015-05-14T23:51:40+00:00",
       "note": "Implemented srcset attribute and &lt;picture&gt; element for responsive images",
@@ -126,6 +139,7 @@
     {
       "bug": 1126673,
       "created": "2015-02-20T00:38:52+00:00",
+      "id": 785943,
       "is_public": true,
       "modified": "2015-05-14T23:51:38+00:00",
       "note": "Implemented DOM3 Events KeyboardEvent.code",

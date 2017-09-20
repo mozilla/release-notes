@@ -9,6 +9,7 @@
     {
       "bug": null,
       "created": "2013-11-25T00:24:49+00:00",
+      "id": 192,
       "is_public": true,
       "modified": "2014-04-23T10:53:36+00:00",
       "note": "Silent, background updates",
@@ -26,6 +27,7 @@
         "title": "Firefox 16.0beta Beta",
         "version": "16.0beta"
       },
+      "id": 193,
       "is_public": true,
       "modified": "2014-04-23T10:53:36+00:00",
       "note": "Debugger breakpoints do not catch on page reload",
@@ -35,6 +37,7 @@
     {
       "bug": null,
       "created": "2013-11-25T00:24:38+00:00",
+      "id": 148,
       "is_public": true,
       "modified": "2014-04-23T10:53:36+00:00",
       "note": "Support for SPDY networking protocol v3",
@@ -44,6 +47,7 @@
     {
       "bug": null,
       "created": "2013-11-25T00:24:38+00:00",
+      "id": 163,
       "is_public": true,
       "modified": "2014-04-23T10:53:36+00:00",
       "note": "WebGL enhancements, including compressed textures for better performance ",
@@ -53,6 +57,7 @@
     {
       "bug": null,
       "created": "2013-11-25T00:24:36+00:00",
+      "id": 199,
       "is_public": true,
       "modified": "2014-04-23T10:53:36+00:00",
       "note": "Localization in Maithili <a href=\"http://www.mozilla.org/en-US/firefox/all.html\">(see all available locales)</a>",
@@ -62,6 +67,7 @@
     {
       "bug": 720987,
       "created": "2013-11-25T00:24:50+00:00",
+      "id": 124,
       "is_public": true,
       "modified": "2014-04-23T10:53:35+00:00",
       "note": "Focus rings keep growing when repeatedly tabbing through elements",
@@ -71,6 +77,7 @@
     {
       "bug": null,
       "created": "2013-11-25T00:24:50+00:00",
+      "id": 141,
       "is_public": true,
       "modified": "2014-04-23T10:53:36+00:00",
       "note": "Optimized memory usage for add-ons",
@@ -80,6 +87,7 @@
     {
       "bug": null,
       "created": "2013-11-25T00:24:50+00:00",
+      "id": 147,
       "is_public": true,
       "modified": "2014-04-23T10:53:36+00:00",
       "note": "<a href=\"https://hacks.mozilla.org/2012/08/opus-support-for-webrtc\">Native support</a> for the Opus audio codec added",
@@ -89,6 +97,7 @@
     {
       "bug": null,
       "created": "2013-11-25T00:24:50+00:00",
+      "id": 149,
       "is_public": true,
       "modified": "2014-04-23T10:53:36+00:00",
       "note": "The <a href=\"https://developer.mozilla.org/en/HTML/Element/source\">&lt;source&gt;</a>  element now supports the media attribute",
@@ -98,6 +107,7 @@
     {
       "bug": null,
       "created": "2013-11-25T00:24:50+00:00",
+      "id": 150,
       "is_public": true,
       "modified": "2014-04-23T10:53:36+00:00",
       "note": "The <a href=\"https://developer.mozilla.org/en/HTML/Element/audio\">&lt;audio&gt;</a> and <a href=\"https://developer.mozilla.org/en/HTML/Element/video\">&lt;video&gt;</a> elements now support the played attribute",
@@ -107,6 +117,7 @@
     {
       "bug": null,
       "created": "2013-11-25T00:24:38+00:00",
+      "id": 143,
       "is_public": true,
       "modified": "2014-04-23T10:53:36+00:00",
       "note": "JavaScript debugger integrated into developer tools",
@@ -116,6 +127,7 @@
     {
       "bug": null,
       "created": "2013-11-25T00:24:38+00:00",
+      "id": 142,
       "is_public": true,
       "modified": "2014-04-23T10:53:36+00:00",
       "note": "New layout view added to Inspector",
@@ -125,6 +137,7 @@
     {
       "bug": null,
       "created": "2013-11-25T00:24:50+00:00",
+      "id": 144,
       "is_public": true,
       "modified": "2014-04-23T10:53:36+00:00",
       "note": "New responsive design tool allows web developers to switch between desktop and mobile views of sites",
@@ -134,6 +147,7 @@
     {
       "bug": null,
       "created": "2013-11-25T00:24:50+00:00",
+      "id": 151,
       "is_public": true,
       "modified": "2014-04-23T10:53:36+00:00",
       "note": "The CSS <a href=\"https://developer.mozilla.org/en/CSS/word-break\">word-break</a> property has been implemented.",
@@ -143,6 +157,7 @@
     {
       "bug": null,
       "created": "2013-11-25T00:24:50+00:00",
+      "id": 162,
       "is_public": true,
       "modified": "2014-04-23T10:53:36+00:00",
       "note": "High precision event timer implemented",
@@ -160,6 +175,7 @@
         "title": "Firefox 15.0.1 Release",
         "version": "15.0.1"
       },
+      "id": 218,
       "is_public": true,
       "modified": "2014-04-23T10:53:36+00:00",
       "note": "Sites visited while in Private Browsing mode could be found through manual browser cache inspection",
@@ -169,6 +185,7 @@
     {
       "bug": 573369,
       "created": "2013-11-25T00:24:27+00:00",
+      "id": 30,
       "is_public": true,
       "modified": "2014-07-02T07:04:43+00:00",
       "note": "If you try to start Firefox using a locked profile, it will crash (see [573369][1])\r\n\r\n\r\n  [1]: http://bugzilla.mozilla.org/573369",

@@ -17,6 +17,7 @@
         "title": "Thunderbird 49.0beta Beta",
         "version": "49.0beta"
       },
+      "id": 786787,
       "is_public": true,
       "modified": "2017-04-12T16:39:24.982000+00:00",
       "note": "Folder pane toolbar and folder view selector (replacement for folder view arrows)",
@@ -34,6 +35,7 @@
         "title": "Thunderbird 49.0beta Beta",
         "version": "49.0beta"
       },
+      "id": 786800,
       "is_public": true,
       "modified": "2017-04-12T16:39:22.492000+00:00",
       "note": "Import settings from Becky! Internet Mail",
@@ -51,6 +53,7 @@
         "title": "Thunderbird 49.0beta Beta",
         "version": "49.0beta"
       },
+      "id": 786801,
       "is_public": true,
       "modified": "2016-09-02T18:05:02.050000+00:00",
       "note": "In compose, allow separate options for initial mode (Paragraph or Body Text) and behavior of Enter key.",
@@ -68,6 +71,7 @@
         "title": "Thunderbird 49.0beta Beta",
         "version": "49.0beta"
       },
+      "id": 786795,
       "is_public": true,
       "modified": "2016-09-02T17:52:30.224000+00:00",
       "note": "Permanently remove Eudora import.",
@@ -85,6 +89,7 @@
         "title": "Thunderbird 49.0beta Beta",
         "version": "49.0beta"
       },
+      "id": 786810,
       "is_public": true,
       "modified": "2016-09-02T20:53:43.621000+00:00",
       "note": "Removed compose window recycling.",
@@ -94,6 +99,7 @@
     {
       "bug": null,
       "created": "2016-09-05T04:08:51.356000+00:00",
+      "id": 786811,
       "is_public": true,
       "modified": "2016-09-05T04:10:02.622000+00:00",
       "note": "Mac OX X 10.6, 10.7, and 10.8 are no longer supported.",
@@ -111,6 +117,7 @@
         "title": "Thunderbird 49.0beta Beta",
         "version": "49.0beta"
       },
+      "id": 786796,
       "is_public": true,
       "modified": "2017-04-12T16:39:23.522000+00:00",
       "note": "When attachment unavailable, compose shows endless \"Attaching...\" message instead of error",
@@ -128,6 +135,7 @@
         "title": "Thunderbird 49.0beta Beta",
         "version": "49.0beta"
       },
+      "id": 786788,
       "is_public": true,
       "modified": "2016-09-02T17:56:30.997000+00:00",
       "note": "Menu items for \"Edit draft\" functionality were missing",
@@ -145,6 +153,7 @@
         "title": "Thunderbird 49.0beta Beta",
         "version": "49.0beta"
       },
+      "id": 786792,
       "is_public": true,
       "modified": "2016-09-02T17:40:39.364000+00:00",
       "note": "Plain text composition had wrapping issues.",
@@ -162,6 +171,7 @@
         "title": "Firefox 49.0beta Beta",
         "version": "49.0beta"
       },
+      "id": 786794,
       "is_public": true,
       "modified": "2016-09-02T17:51:30.146000+00:00",
       "note": "Attachment reminder not showing in various cases.",
@@ -179,6 +189,7 @@
         "title": "Thunderbird 49.0beta Beta",
         "version": "49.0beta"
       },
+      "id": 786797,
       "is_public": true,
       "modified": "2016-09-02T17:56:04.952000+00:00",
       "note": "Table properties stopped showing with double-click of table cell in compose.",
@@ -196,6 +207,7 @@
         "title": "Thunderbird 49.0beta Beta",
         "version": "49.0beta"
       },
+      "id": 786798,
       "is_public": true,
       "modified": "2016-09-30T20:57:40.715000+00:00",
       "note": "Threading broken when editing message draft, due to loss of Message-ID",
@@ -213,6 +225,7 @@
         "title": "Thunderbird 49.0beta Beta",
         "version": "49.0beta"
       },
+      "id": 786799,
       "is_public": true,
       "modified": "2016-09-02T18:01:10.927000+00:00",
       "note": "\"View as plain text\" displayed converted HTML part even when plain text part exists.",
@@ -230,6 +243,7 @@
         "title": "Thunderbird 49.0beta Beta",
         "version": "49.0beta"
       },
+      "id": 786802,
       "is_public": true,
       "modified": "2016-11-19T10:51:58.606000+00:00",
       "note": "Mail address display at header pane displayed incorrectly if the address contains UTF-8 according to RFC 6532",
@@ -247,6 +261,7 @@
         "title": "Thunderbird 49.0beta Beta",
         "version": "49.0beta"
       },
+      "id": 786803,
       "is_public": true,
       "modified": "2016-09-30T21:00:23.642000+00:00",
       "note": "Mail saved as template copied In-Reply-To and References from original email.",
@@ -264,6 +279,7 @@
         "title": "Thunderbird 49.0beta Beta",
         "version": "49.0beta"
       },
+      "id": 786804,
       "is_public": true,
       "modified": "2016-09-30T20:54:26.179000+00:00",
       "note": "Additional spaces were inserted when drafts were edited.",
@@ -281,6 +297,7 @@
         "title": "Thunderbird 49.0beta Beta",
         "version": "49.0beta"
       },
+      "id": 786805,
       "is_public": true,
       "modified": "2016-09-02T18:14:54.805000+00:00",
       "note": "\"Edit as New Message\" on a received message pre-filled the Sender as the author rather than the current user.",
@@ -298,6 +315,7 @@
         "title": "Thunderbird 49.0beta Beta",
         "version": "49.0beta"
       },
+      "id": 786806,
       "is_public": true,
       "modified": "2016-09-02T18:19:09.468000+00:00",
       "note": "Custom headers (like Disposition-Notification-To) were not set correctly.",
@@ -315,6 +333,7 @@
         "title": "Thunderbird 49.0beta Beta",
         "version": "49.0beta"
       },
+      "id": 786807,
       "is_public": true,
       "modified": "2016-10-02T14:26:52.480000+00:00",
       "note": "Recipient addresses were shown in red despite being inserted from the address book in some circumstances. ",
@@ -332,6 +351,7 @@
         "title": "Thunderbird 49.0beta Beta",
         "version": "49.0beta"
       },
+      "id": 786808,
       "is_public": true,
       "modified": "2016-09-30T20:51:03.810000+00:00",
       "note": "Display name was truncated if no separating space before email address.",
@@ -349,6 +369,7 @@
         "title": "Thunderbird 49.0beta Beta",
         "version": "49.0beta"
       },
+      "id": 786809,
       "is_public": true,
       "modified": "2016-09-02T18:23:24.049000+00:00",
       "note": "Embedded image with source URL with ? led to incorrect image reference",

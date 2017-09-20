@@ -9,6 +9,7 @@
     {
       "bug": null,
       "created": "2013-11-25T00:24:49+00:00",
+      "id": 301,
       "is_public": true,
       "modified": "2014-04-23T10:53:37+00:00",
       "note": "Preliminary implementation of Firefox Health Report <a href=\"https://blog.mozilla.org/metrics/fhr-faq/\">(see FAQ)</a>",
@@ -18,6 +19,7 @@
     {
       "bug": null,
       "created": "2013-11-25T00:24:49+00:00",
+      "id": 293,
       "is_public": true,
       "modified": "2014-04-23T10:53:37+00:00",
       "note": "Enhanced <a href=\"https://blog.mozilla.org/privacy/2013/01/28/newdntui/\">three-state UI for Do Not Track (DNT) </a>\n",
@@ -27,6 +29,7 @@
     {
       "bug": null,
       "created": "2013-11-25T00:24:44+00:00",
+      "id": 302,
       "is_public": true,
       "modified": "2014-04-23T10:53:37+00:00",
       "note": "Firefox will suggest how to improve your application startup time if needed",
@@ -36,6 +39,7 @@
     {
       "bug": 833719,
       "created": "2013-11-25T00:24:50+00:00",
+      "id": 292,
       "is_public": true,
       "modified": "2014-04-23T10:53:37+00:00",
       "note": "Some function keys may not work when pressed",
@@ -53,6 +57,7 @@
         "title": "Firefox 21.0a2 Aurora",
         "version": "21.0a2"
       },
+      "id": 319,
       "is_public": true,
       "modified": "2014-04-23T10:53:37+00:00",
       "note": "Browsing and Download history clearing needs unification to avoid confusion on clearing download history",
@@ -62,6 +67,7 @@
     {
       "bug": null,
       "created": "2013-11-25T00:24:44+00:00",
+      "id": 300,
       "is_public": true,
       "modified": "2014-04-23T10:53:37+00:00",
       "note": "Ability to restore removed thumbnails on New tab Page",
@@ -71,6 +77,7 @@
     {
       "bug": null,
       "created": "2013-11-25T00:24:50+00:00",
+      "id": 295,
       "is_public": true,
       "modified": "2014-04-23T10:53:37+00:00",
       "note": "Removed <a href=\"https://developer.mozilla.org/en-US/docs/E4X\">E4X</a> support from Spidermonkey",
@@ -80,6 +87,7 @@
     {
       "bug": null,
       "created": "2013-11-25T00:24:50+00:00",
+      "id": 307,
       "is_public": true,
       "modified": "2014-04-23T10:53:37+00:00",
       "note": "Graphics related performance improvements (<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=809821\">bug 809821</a>)",
@@ -89,6 +97,7 @@
     {
       "bug": null,
       "created": "2013-11-25T00:24:50+00:00",
+      "id": 308,
       "is_public": true,
       "modified": "2014-04-23T10:53:37+00:00",
       "note": "Add-ons <ahref=\"http://blog.bonardo.net/2013/01/29/add-ons-devs-heads-up-history-api-removals-in-places\">History API removals</a> in Places",
@@ -98,6 +107,7 @@
     {
       "bug": null,
       "created": "2013-11-25T00:24:50+00:00",
+      "id": 309,
       "is_public": true,
       "modified": "2014-04-23T10:53:37+00:00",
       "note": "XBL Scopes Enabled (<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=834697\">bugs 834697</a>)",
@@ -107,6 +117,7 @@
     {
       "bug": null,
       "created": "2013-11-25T00:24:50+00:00",
+      "id": 316,
       "is_public": true,
       "modified": "2014-04-23T10:53:37+00:00",
       "note": "CSS -moz-user-select:none selection changed to improve compatibility with -webkit-user-select:none (<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=816298\">bug 816298</a>)",
@@ -116,6 +127,7 @@
     {
       "bug": null,
       "created": "2013-11-25T00:24:49+00:00",
+      "id": 298,
       "is_public": true,
       "modified": "2014-04-23T10:53:37+00:00",
       "note": "Added support for <a href=\" https://developer.mozilla.org/en-US/docs/HTML/Element/main\">&lt;main&gt;</a> element",
@@ -125,6 +137,7 @@
     {
       "bug": null,
       "created": "2013-11-25T00:24:50+00:00",
+      "id": 296,
       "is_public": true,
       "modified": "2014-04-23T10:53:37+00:00",
       "note": "Implemented <a href=\"http://updates.html5rocks.com/2012/03/A-New-Experimental-Feature-style-scoped\">scoped stylesheets</a> ",
@@ -134,6 +147,7 @@
     {
       "bug": null,
       "created": "2013-11-25T00:24:49+00:00",
+      "id": 310,
       "is_public": true,
       "modified": "2014-04-23T10:53:37+00:00",
       "note": "Implemented <a href=\"http://anton.kovalyov.net/2013/02/22/remote-profiling/\">Remote Profiling</a>",
@@ -143,6 +157,7 @@
     {
       "bug": null,
       "created": "2013-11-25T00:24:50+00:00",
+      "id": 303,
       "is_public": true,
       "modified": "2014-04-23T10:53:37+00:00",
       "note": "Integrated, Add-on SDK loader and API libraries into Firefox",
@@ -152,6 +167,7 @@
     {
       "bug": 573369,
       "created": "2013-11-25T00:24:27+00:00",
+      "id": 30,
       "is_public": true,
       "modified": "2014-07-02T07:04:43+00:00",
       "note": "If you try to start Firefox using a locked profile, it will crash (see [573369][1])\r\n\r\n\r\n  [1]: http://bugzilla.mozilla.org/573369",

@@ -9,6 +9,7 @@
     {
       "bug": 1123732,
       "created": "2015-01-26T14:40:19+00:00",
+      "id": 785914,
       "is_public": true,
       "modified": "2015-01-26T14:42:36+00:00",
       "note": "35.0.1 - With the Enhanced Steam extension, Firefox could crash ([1123732][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1123732",
@@ -18,6 +19,7 @@
     {
       "bug": 1113121,
       "created": "2015-01-26T14:43:51+00:00",
+      "id": 785915,
       "is_public": true,
       "modified": "2015-01-26T15:01:20+00:00",
       "note": "35.0.1 - On Godaddy webmail, Firefox could crash ([1113121][1])\r\n\r\n\r\n  [1]: http://bugzilla.mozilla.org/1113121",
@@ -27,6 +29,7 @@
     {
       "bug": 1121857,
       "created": "2015-01-26T14:44:38+00:00",
+      "id": 785916,
       "is_public": true,
       "modified": "2015-01-26T15:01:44+00:00",
       "note": "35.0.1 - document.baseURI did not get updated to document.location after base tag was removed from DOM for site with a CSP  ([1121857][1])\r\n\r\n\r\n  [1]: http://bugzilla.mozilla.org/1121857",
@@ -36,6 +39,7 @@
     {
       "bug": 1122445,
       "created": "2015-01-26T14:46:15+00:00",
+      "id": 785917,
       "is_public": true,
       "modified": "2015-01-26T15:02:17+00:00",
       "note": "35.0.1 - CSP had a change in behavior with regard to case sensitivity resources loading  ([1122445][1])\r\n\r\n\r\n  [1]: http://bugzilla.mozilla.org/1122445",
@@ -45,6 +49,7 @@
     {
       "bug": 1122367,
       "created": "2015-01-26T14:47:39+00:00",
+      "id": 785918,
       "is_public": true,
       "modified": "2015-01-26T14:47:39+00:00",
       "note": "35.0.1 - Fix a potential startup crash ([1122367][1])\r\n\r\n\r\n  [1]: http://bugzilla.mozilla.org/1122367",
@@ -54,6 +59,7 @@
     {
       "bug": 1108971,
       "created": "2015-01-26T14:48:06+00:00",
+      "id": 785919,
       "is_public": true,
       "modified": "2015-01-26T14:48:06+00:00",
       "note": "35.0.1 - Kerberos authentication did not work with alias ([1108971][1])\r\n\r\n\r\n  [1]: http://bugzilla.mozilla.org/1108971",
@@ -63,6 +69,7 @@
     {
       "bug": 1083079,
       "created": "2015-01-26T14:50:37+00:00",
+      "id": 785920,
       "is_public": true,
       "modified": "2015-01-26T14:50:37+00:00",
       "note": "35.0.1 - SVG  / CSS animation had a regression causing rendering issues on websites like openstreemap.org  ([1083079][1])\r\n\r\n\r\n  [1]: http://bugzilla.mozilla.org/1083079",
@@ -72,6 +79,7 @@
     {
       "bug": 1104036,
       "created": "2015-01-26T14:54:38+00:00",
+      "id": 785921,
       "is_public": true,
       "modified": "2015-01-26T14:54:38+00:00",
       "note": "35.0.1 - With a Right-to-left (RTL) version of Firefox, the text selection could be broken ([1104036][1])\r\n\r\n\r\n  [1]: http://bugzilla.mozilla.org/1104036",
@@ -81,6 +89,7 @@
     {
       "bug": null,
       "created": "2014-12-04T16:17:31+00:00",
+      "id": 785860,
       "is_public": true,
       "modified": "2015-01-26T14:34:57+00:00",
       "note": "Firefox Hello with new rooms-based conversations model",
@@ -90,6 +99,7 @@
     {
       "bug": 1106559,
       "created": "2015-01-08T23:41:27+00:00",
+      "id": 785872,
       "is_public": true,
       "modified": "2015-01-26T14:34:57+00:00",
       "note": "New search UI improved and enabled for more locales",
@@ -99,6 +109,7 @@
     {
       "bug": 1031019,
       "created": "2015-01-08T23:58:50+00:00",
+      "id": 785875,
       "is_public": true,
       "modified": "2015-01-26T14:34:57+00:00",
       "note": "Access the [Firefox Marketplace][1] from the Tools menu and optional toolbar button\r\n\r\n\r\n  [1]: https://marketplace.firefox.com/",
@@ -108,6 +119,7 @@
     {
       "bug": 1043696,
       "created": "2014-10-03T05:38:41+00:00",
+      "id": 785740,
       "is_public": true,
       "modified": "2015-01-26T14:34:57+00:00",
       "note": "Built-in support for H264 (MP4) on Mac OS X Snow Leopard (10.6) and newer through native APIs",
@@ -117,6 +129,7 @@
     {
       "bug": 977991,
       "created": "2014-10-09T04:27:23+00:00",
+      "id": 785751,
       "is_public": true,
       "modified": "2015-02-05T22:57:54+00:00",
       "note": "Improved handling of dynamic styling changes to increase responsiveness",
@@ -126,6 +139,7 @@
     {
       "bug": 982338,
       "created": "2015-01-12T20:24:41+00:00",
+      "id": 785881,
       "is_public": true,
       "modified": "2015-01-26T14:34:57+00:00",
       "note": "Use tiled rendering on OS X",
@@ -135,6 +149,7 @@
     {
       "bug": 1054510,
       "created": "2015-01-12T20:25:15+00:00",
+      "id": 785882,
       "is_public": true,
       "modified": "2015-01-26T14:34:57+00:00",
       "note": "Improved high quality image resizing performance",
@@ -144,6 +159,7 @@
     {
       "bug": 1001090,
       "created": "2014-10-03T02:55:26+00:00",
+      "id": 785733,
       "is_public": true,
       "modified": "2015-02-05T22:57:54+00:00",
       "note": "Changed JavaScript ['let' semantics][1] to conform better to the ES6 specification\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let#Temporal_dead_zone_and_errors_with_let",
@@ -153,6 +169,7 @@
     {
       "bug": 1002855,
       "created": "2014-10-03T05:44:28+00:00",
+      "id": 785743,
       "is_public": true,
       "modified": "2015-02-05T22:57:54+00:00",
       "note": "Resource Timing API implemented",
@@ -162,6 +179,7 @@
     {
       "bug": 1057180,
       "created": "2014-10-09T04:24:27+00:00",
+      "id": 785750,
       "is_public": true,
       "modified": "2015-02-05T22:57:54+00:00",
       "note": "[CSS filters][1] enabled by default\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/filter",
@@ -171,6 +189,7 @@
     {
       "bug": 1088437,
       "created": "2015-01-08T23:44:07+00:00",
+      "id": 785873,
       "is_public": true,
       "modified": "2015-02-05T22:57:54+00:00",
       "note": "Added support for the CSS Font Loading API",
@@ -180,6 +199,7 @@
     {
       "bug": 920141,
       "created": "2014-10-03T05:58:23+00:00",
+      "id": 785745,
       "is_public": true,
       "modified": "2015-01-26T14:34:57+00:00",
       "note": "Support for inspecting ::before and ::after pseudo elements",
@@ -189,6 +209,7 @@
     {
       "bug": 1059360,
       "created": "2014-12-02T22:05:54+00:00",
+      "id": 785842,
       "is_public": true,
       "modified": "2015-02-05T22:57:54+00:00",
       "note": "Computed view: Nodes matching the hovered selector are now highlighted",
@@ -198,6 +219,7 @@
     {
       "bug": 859133,
       "created": "2015-01-09T00:12:51+00:00",
+      "id": 785876,
       "is_public": true,
       "modified": "2015-01-26T14:34:57+00:00",
       "note": "Network Monitor: New request/response headers view (<a href=\"http://hacks.mozilla.org/2014/12/pseudo-elements-promise-inspection-raw-headers-and-much-more-firefox-developer-edition-36/\">more info</a>)",
@@ -207,6 +229,7 @@
     {
       "bug": 1079608,
       "created": "2015-01-12T20:24:11+00:00",
+      "id": 785880,
       "is_public": true,
       "modified": "2015-01-26T14:34:57+00:00",
       "note": "Added support for the EXT_blend_minmax WebGL extension",
@@ -216,6 +239,7 @@
     {
       "bug": null,
       "created": "2013-11-25T00:24:50+00:00",
+      "id": 161,
       "is_public": true,
       "modified": "2015-03-26T15:55:42+00:00",
       "note": "Various <a href=\"https://www.mozilla.org/security/known-vulnerabilities/firefox.html\">security fixes</a>",
@@ -225,6 +249,7 @@
     {
       "bug": 992679,
       "created": "2014-12-02T21:56:48+00:00",
+      "id": 785839,
       "is_public": true,
       "modified": "2015-01-26T14:34:57+00:00",
       "note": "Show DOM Properties context menu item in inspector",
@@ -234,6 +259,7 @@
     {
       "bug": 1060200,
       "created": "2014-12-02T22:07:26+00:00",
+      "id": 785843,
       "is_public": true,
       "modified": "2015-02-05T22:57:54+00:00",
       "note": "Reduced resource usage for scaled images",
@@ -243,6 +269,7 @@
     {
       "bug": 1084158,
       "created": "2014-12-03T00:01:03+00:00",
+      "id": 785847,
       "is_public": true,
       "modified": "2015-01-26T14:34:57+00:00",
       "note": "PDF.js updated to version 1.0.907",
@@ -252,6 +279,7 @@
     {
       "bug": 716491,
       "created": "2015-01-09T00:13:41+00:00",
+      "id": 785877,
       "is_public": true,
       "modified": "2015-01-26T14:34:57+00:00",
       "note": "Non-HTTP(S) XHR now returns correct status code",
@@ -261,6 +289,7 @@
     {
       "bug": 1113633,
       "created": "2015-01-08T23:40:10+00:00",
+      "id": 785871,
       "is_public": true,
       "modified": "2015-01-26T14:34:57+00:00",
       "note": "WebGL games might not display some textures (see <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1113633\">bug 1113633</a>)",
@@ -270,6 +299,7 @@
     {
       "bug": 1083113,
       "created": "2015-01-08T23:49:39+00:00",
+      "id": 785874,
       "is_public": true,
       "modified": "2015-01-26T14:34:57+00:00",
       "note": "Sometimes images don't display when hovered over (see <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1083113\">bug 1083113</a>)",
@@ -279,6 +309,7 @@
     {
       "bug": null,
       "created": "2015-01-12T22:35:53+00:00",
+      "id": 785883,
       "is_public": true,
       "modified": "2015-01-26T14:34:57+00:00",
       "note": "Issues affecting RTL in Hello can be found <a href=\"https://bugzilla.mozilla.org/buglist.cgi?resolution=---&status_whiteboard_type=allwordssubstr&query_format=advanced&status_whiteboard=RTL&product=Loop&list_id=11842971\">here</a>",

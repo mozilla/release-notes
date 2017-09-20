@@ -17,6 +17,7 @@
         "title": "Firefox 19.0.2 Release",
         "version": "19.0.2"
       },
+      "id": 266,
       "is_public": true,
       "modified": "2014-04-23T10:53:37+00:00",
       "note": "17.0.1: Font rendering issue in Firefox 17.0 (<a href=\"http://bugzil.la/814101\">bug 814101</a>)",
@@ -34,6 +35,7 @@
         "title": "Firefox 19.0.2 Release",
         "version": "19.0.2"
       },
+      "id": 267,
       "is_public": true,
       "modified": "2014-04-23T10:53:37+00:00",
       "note": "17.0.1: Reverted user agent change causing some website incompatibilities",
@@ -51,6 +53,7 @@
         "title": "Firefox 19.0.2 Release",
         "version": "19.0.2"
       },
+      "id": 268,
       "is_public": true,
       "modified": "2014-04-23T10:53:37+00:00",
       "note": "17.0.1: Leaving Private Browsing with Social API enabled should reset social components",
@@ -68,6 +71,7 @@
         "title": "Firefox 17.0beta Beta",
         "version": "17.0beta"
       },
+      "id": 181,
       "is_public": true,
       "modified": "2014-04-23T10:53:36+00:00",
       "note": "Pointer lock doesn't work in web apps",
@@ -77,6 +81,7 @@
     {
       "bug": null,
       "created": "2013-11-25T00:24:50+00:00",
+      "id": 221,
       "is_public": true,
       "modified": "2014-04-23T10:53:36+00:00",
       "note": "Click-to-play blocklisting implemented to prevent vulnerable plugin versions from running without the user's permission (see <a href=\"http://blog.mozilla.org/addons/2012/10/11/click-to-play-coming-firefox-17/\">blog post</a>)",
@@ -86,6 +91,7 @@
     {
       "bug": null,
       "created": "2013-11-25T00:24:49+00:00",
+      "id": 205,
       "is_public": true,
       "modified": "2014-04-23T10:53:36+00:00",
       "note": "Updated Awesome Bar experience with larger icons",
@@ -95,6 +101,7 @@
     {
       "bug": null,
       "created": "2013-11-25T00:24:50+00:00",
+      "id": 252,
       "is_public": true,
       "modified": "2014-04-23T10:53:36+00:00",
       "note": "Mac OS X 10.5 is <a href=\"https://blog.mozilla.org/futurereleases/2012/10/04/we-bid-you-adieu-spotted-cat/\">no longer supported</a>",
@@ -104,6 +111,7 @@
     {
       "bug": null,
       "created": "2013-11-25T00:24:50+00:00",
+      "id": 206,
       "is_public": true,
       "modified": "2014-04-23T10:53:36+00:00",
       "note": "<a href=\"https://developer.mozilla.org/en-US/docs/HTML/Element/iframe#attr-sandbox\">Sandbox</a> attribute for iframes implemented, enabling increased security",
@@ -113,6 +121,7 @@
     {
       "bug": null,
       "created": "2013-11-25T00:24:50+00:00",
+      "id": 207,
       "is_public": true,
       "modified": "2014-04-23T10:53:36+00:00",
       "note": "SVG FillPaint and StrokePaint implemented ",
@@ -122,6 +131,7 @@
     {
       "bug": null,
       "created": "2013-11-25T00:24:50+00:00",
+      "id": 210,
       "is_public": true,
       "modified": "2014-04-23T10:53:36+00:00",
       "note": "New Markup panel in the Page Inspector allows easy editing of the DOM",
@@ -131,6 +141,7 @@
     {
       "bug": null,
       "created": "2013-11-25T00:24:50+00:00",
+      "id": 211,
       "is_public": true,
       "modified": "2014-04-23T10:53:36+00:00",
       "note": "Improvements that make the Web Console, Debugger and Developer Toolbar faster and easier to use",
@@ -140,6 +151,7 @@
     {
       "bug": null,
       "created": "2013-11-25T00:24:50+00:00",
+      "id": 216,
       "is_public": true,
       "modified": "2014-04-23T10:53:36+00:00",
       "note": "JavaScript Maps and Sets are now iterable",
@@ -149,6 +161,7 @@
     {
       "bug": null,
       "created": "2013-11-25T00:24:50+00:00",
+      "id": 161,
       "is_public": true,
       "modified": "2015-03-26T15:55:42+00:00",
       "note": "Various <a href=\"https://www.mozilla.org/security/known-vulnerabilities/firefox.html\">security fixes</a>",
@@ -158,6 +171,7 @@
     {
       "bug": 780345,
       "created": "2013-11-25T00:24:50+00:00",
+      "id": 208,
       "is_public": true,
       "modified": "2014-04-23T10:53:36+00:00",
       "note": "Page scrolling on sites with fixed headers",
@@ -167,6 +181,7 @@
     {
       "bug": null,
       "created": "2013-11-25T00:24:50+00:00",
+      "id": 209,
       "is_public": true,
       "modified": "2014-04-23T10:53:36+00:00",
       "note": "Over twenty performance improvements, including fixes around the New Tab page",
@@ -176,6 +191,7 @@
     {
       "bug": 573369,
       "created": "2013-11-25T00:24:27+00:00",
+      "id": 30,
       "is_public": true,
       "modified": "2014-07-02T07:04:43+00:00",
       "note": "If you try to start Firefox using a locked profile, it will crash (see [573369][1])\r\n\r\n\r\n  [1]: http://bugzilla.mozilla.org/573369",

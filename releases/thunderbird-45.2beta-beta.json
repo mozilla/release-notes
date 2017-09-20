@@ -9,6 +9,7 @@
     {
       "bug": 1272505,
       "created": "2016-05-20T17:53:51.143000+00:00",
+      "id": 786681,
       "is_public": true,
       "modified": "2016-05-27T16:56:45.954000+00:00",
       "note": "When entering members into a mailing list, the enter key dismissed the panel instead of just moving onto the next line",
@@ -18,6 +19,7 @@
     {
       "bug": 1271108,
       "created": "2016-05-20T17:56:16.142000+00:00",
+      "id": 786682,
       "is_public": true,
       "modified": "2016-05-27T16:56:27.562000+00:00",
       "note": "Views from global searches did not respect \"mail.threadpane.use_correspondents\"",
@@ -27,6 +29,7 @@
     {
       "bug": 1270651,
       "created": "2016-05-20T17:57:45.929000+00:00",
+      "id": 786683,
       "is_public": true,
       "modified": "2016-05-27T16:56:16.109000+00:00",
       "note": "Contacts could not be deleted when they were found through a search",
@@ -36,6 +39,7 @@
     {
       "bug": 1270149,
       "created": "2016-05-20T17:59:43.380000+00:00",
+      "id": 786684,
       "is_public": true,
       "modified": "2016-05-27T16:56:00.217000+00:00",
       "note": "Options applied to a template were lost when the template was used. ",
@@ -45,6 +49,7 @@
     {
       "bug": 1268014,
       "created": "2016-05-20T18:00:48.984000+00:00",
+      "id": 786685,
       "is_public": true,
       "modified": "2016-05-27T16:55:27.944000+00:00",
       "note": "Email without HTML elements was sent as HTML, despite \"Delivery Format: Auto-detect\" option",

@@ -9,6 +9,7 @@
     {
       "bug": null,
       "created": "2017-07-14T21:57:30.691000+00:00",
+      "id": 787174,
       "is_public": true,
       "modified": "2017-07-18T16:44:13.850000+00:00",
       "note": "New browsing mode: A night mode to reduce webpage brightness while browsing. Perfect for those late night wikipedia sessions",
@@ -18,6 +19,7 @@
     {
       "bug": null,
       "created": "2017-07-14T21:58:13.216000+00:00",
+      "id": 787175,
       "is_public": true,
       "modified": "2017-07-14T21:58:13.215000+00:00",
       "note": "See a QR code? Firefox now lets you scan QR codes you find, opening the url in the current tab",
@@ -27,6 +29,7 @@
     {
       "bug": null,
       "created": "2017-07-14T21:59:53.007000+00:00",
+      "id": 787177,
       "is_public": true,
       "modified": "2017-07-19T16:32:46.247000+00:00",
       "note": "If you\u2019ve copied a link firefox will now prompt you to open it saving you from having to paste it in manually.",
@@ -36,6 +39,7 @@
     {
       "bug": null,
       "created": "2017-07-14T22:02:56.169000+00:00",
+      "id": 787179,
       "is_public": true,
       "modified": "2017-07-14T22:02:56.169000+00:00",
       "note": "Added yMail as one of the supported email clients. Set a default email client to open mailto links directly in your favourite mail client.",
@@ -45,6 +49,7 @@
     {
       "bug": null,
       "created": "2017-07-14T22:05:15.089000+00:00",
+      "id": 787184,
       "is_public": true,
       "modified": "2017-07-18T16:43:22.885000+00:00",
       "note": "A fancy new menu when you long press a website in History/Bookmarks. Its pretty neat! And look at that blur!. Hopefully you like it. Thanks to Maurya Talisetti (mauryat) for his contribution!",
@@ -54,6 +59,7 @@
     {
       "bug": 1335138,
       "created": "2017-07-14T22:03:25.839000+00:00",
+      "id": 787180,
       "is_public": true,
       "modified": "2017-07-14T22:03:25.839000+00:00",
       "note": "You can now control the address bar from an external keyboard. Press left and right on your keyboard to move the url bar carot. ",
@@ -63,6 +69,7 @@
     {
       "bug": 1366832,
       "created": "2017-07-14T22:03:55.254000+00:00",
+      "id": 787181,
       "is_public": true,
       "modified": "2017-07-19T16:33:12.080000+00:00",
       "note": "Do you use Firefox Logins to sync passwords? Good News! The password manager now has improved login page detection. ",
@@ -72,6 +79,7 @@
     {
       "bug": 1317543,
       "created": "2017-07-14T22:04:20.560000+00:00",
+      "id": 787182,
       "is_public": true,
       "modified": "2017-07-19T16:33:33.146000+00:00",
       "note": "The History Panel is much snappier. You might not notice it. But we surely did. ",
@@ -81,6 +89,7 @@
     {
       "bug": null,
       "created": "2017-07-14T21:59:12.763000+00:00",
+      "id": 787176,
       "is_public": true,
       "modified": "2017-07-19T16:32:26.568000+00:00",
       "note": "Lots of you mentioned that Youtube or other video sites would play audio but the video would be frozen. We\u2019ve fixed that!",
@@ -90,6 +99,7 @@
     {
       "bug": 1335689,
       "created": "2017-07-14T22:00:28.602000+00:00",
+      "id": 787178,
       "is_public": true,
       "modified": "2017-07-19T16:33:02.671000+00:00",
       "note": "We hope all of you are enjoying the new Tab bar on iPad. We\u2019ve patched a few crashes which occurred for a few users.",
@@ -99,6 +109,7 @@
     {
       "bug": 1368953,
       "created": "2017-07-14T22:04:48.436000+00:00",
+      "id": 787183,
       "is_public": true,
       "modified": "2017-07-19T16:33:43.335000+00:00",
       "note": "Fixed a bug where private tabs were not closed on exiting private mode if you had the respective preference turned on ",
@@ -108,6 +119,7 @@
     {
       "bug": 1360121,
       "created": "2017-07-14T22:05:35.225000+00:00",
+      "id": 787185,
       "is_public": true,
       "modified": "2017-07-19T16:33:51.494000+00:00",
       "note": "Youtube page history is now correctly reflected in the history panel ",

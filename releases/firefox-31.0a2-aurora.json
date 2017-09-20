@@ -9,6 +9,7 @@
     {
       "bug": 619558,
       "created": "2014-04-09T06:54:25+00:00",
+      "id": 785545,
       "is_public": true,
       "modified": "2014-09-23T08:43:43+00:00",
       "note": "Integration of generational garbage collection",
@@ -18,6 +19,7 @@
     {
       "bug": 962490,
       "created": "2014-05-07T02:02:05+00:00",
+      "id": 785581,
       "is_public": true,
       "modified": "2014-07-17T08:32:55+00:00",
       "note": "Add the search field to the new tab page",
@@ -27,6 +29,7 @@
     {
       "bug": null,
       "created": "2014-04-09T07:51:51+00:00",
+      "id": 785546,
       "is_public": true,
       "modified": "2014-07-17T02:15:23+00:00",
       "note": "OdinMonkey: Use backtracking allocator for asm.js style code",
@@ -44,6 +47,7 @@
         "title": "Firefox 31.0a2 Aurora",
         "version": "31.0a2"
       },
+      "id": 785556,
       "is_public": true,
       "modified": "2014-07-16T07:32:09+00:00",
       "note": "Without affecting security, after restoring your session, Extended Validation Certificates might not display (See <a href=\"http://bugzilla.mozilla.org/show_bug.cgi?id=995801\">995801</a>)",
@@ -53,6 +57,7 @@
     {
       "bug": 915930,
       "created": "2014-04-29T10:46:12+00:00",
+      "id": 785563,
       "is_public": true,
       "modified": "2014-07-11T07:24:35+00:00",
       "note": "mozilla::pkix as default certificate verifier ([learn more][1])\r\n\r\n\r\n  [1]: https://blog.mozilla.org/security/2014/04/24/exciting-updates-to-certificate-verification-in-gecko/",
@@ -62,6 +67,7 @@
     {
       "bug": 407059,
       "created": "2014-05-26T09:18:40+00:00",
+      "id": 785596,
       "is_public": true,
       "modified": "2014-07-21T00:01:42+00:00",
       "note": "Partial implementation of the <a href=\"http://mpeg.chiariglione.org/standards/mpeg-4/open-font-format/text-isoiec-cd-14496-22-3rd-edition\">OpenType MATH table</a> (section 6.3.6) see <a href=\"https://developer.mozilla.org/en-US/docs/Mozilla/MathML_Project/Fonts\">documentation about mathematical fonts</a> and the <a href=\"https://developer.mozilla.org/en-US/docs/Mozilla/MathML_Project/MathML_Torture_Test\">MathML Torture Test</a> for details",
@@ -71,6 +77,7 @@
     {
       "bug": 452254,
       "created": "2014-05-04T06:50:05+00:00",
+      "id": 785579,
       "is_public": true,
       "modified": "2014-07-21T02:13:32+00:00",
       "note": "audio/video .ogg and .pdf files handled by Firefox if no application specified (Windows only)",
@@ -80,6 +87,7 @@
     {
       "bug": 629350,
       "created": "2014-03-05T02:28:46+00:00",
+      "id": 785455,
       "is_public": true,
       "modified": "2014-07-11T07:24:35+00:00",
       "note": "WebVTT implemented and enabled (<a href=\"https://developer.mozilla.org/en-US/docs/HTML/WebVTT\">learn more</a>)",
@@ -89,6 +97,7 @@
     {
       "bug": null,
       "created": "2014-03-04T08:35:25+00:00",
+      "id": 785417,
       "is_public": true,
       "modified": "2014-07-21T04:06:13+00:00",
       "note": "CSS3 variables implemented ([learn more][1])\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_variables",
@@ -98,6 +107,7 @@
     {
       "bug": 990220,
       "created": "2014-04-30T05:22:23+00:00",
+      "id": 785570,
       "is_public": true,
       "modified": "2014-07-16T07:24:17+00:00",
       "note": "navigator.sendBeacon enabled by default ([learn more][1])\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/navigator.sendBeacon",
@@ -107,6 +117,7 @@
     {
       "bug": 911147,
       "created": "2014-04-30T10:47:28+00:00",
+      "id": 785572,
       "is_public": true,
       "modified": "2014-07-11T07:24:35+00:00",
       "note": "New Array built-in: Array.prototype.fill() (<a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/fill\">learn more</a>)",
@@ -116,6 +127,7 @@
     {
       "bug": 911147,
       "created": "2014-04-30T10:48:24+00:00",
+      "id": 785573,
       "is_public": true,
       "modified": "2014-07-11T07:24:35+00:00",
       "note": "New Object built-in: Object.setPrototypeOf() ([learn more][1])\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/setPrototypeOf",
@@ -125,6 +137,7 @@
     {
       "bug": 979580,
       "created": "2014-05-04T06:45:37+00:00",
+      "id": 785578,
       "is_public": true,
       "modified": "2014-07-11T07:24:35+00:00",
       "note": "CSP 1.1 nonce-source and hash-source enabled by default",
@@ -134,6 +147,7 @@
     {
       "bug": null,
       "created": "2014-06-12T04:35:23+00:00",
+      "id": 785611,
       "is_public": true,
       "modified": "2014-07-11T07:24:35+00:00",
       "note": "Developer Tools: Eyedropper tool added to the color picker ([learn more][1])\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Eyedropper",
@@ -143,6 +157,7 @@
     {
       "bug": 616853,
       "created": "2014-05-04T06:54:05+00:00",
+      "id": 785580,
       "is_public": true,
       "modified": "2014-07-21T02:12:53+00:00",
       "note": "Dialogs spawned from the onbeforeunload event no longer block access to the rest of the browser",
@@ -160,6 +175,7 @@
         "title": "Firefox 32.0a2 Aurora",
         "version": "32.0a2"
       },
+      "id": 95,
       "is_public": true,
       "modified": "2014-07-21T03:56:45+00:00",
       "note": "Mac OS X: cmd-L no longer opens a new window when no window is available ([1008793][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1008793",
@@ -169,6 +185,7 @@
     {
       "bug": 966469,
       "created": "2014-05-09T08:10:33+00:00",
+      "id": 785593,
       "is_public": true,
       "modified": "2014-07-11T07:24:35+00:00",
       "note": "Slow shut downs lead to 'Firefox is already running' warning (see [966469][1] and [985655][2])\r\n\r\n\r\n  [1]: http://bugzilla.mozilla.org/966469\r\n  [2]: http://bugzilla.mozilla.org/985655",
@@ -178,6 +195,7 @@
     {
       "bug": 1005487,
       "created": "2014-06-05T17:20:25+00:00",
+      "id": 785601,
       "is_public": true,
       "modified": "2014-07-21T03:57:04+00:00",
       "note": "Exit is not always completed when \"clear history when Firefox closes\" is enabled ([1005487][1])\r\n\r\n\r\n  [1]: http://bugzilla.mozilla.org/1005487",

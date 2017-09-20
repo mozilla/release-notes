@@ -9,6 +9,7 @@
     {
       "bug": null,
       "created": "2014-11-25T05:52:36+00:00",
+      "id": 785826,
       "is_public": true,
       "modified": "2014-12-01T21:24:30+00:00",
       "note": "Security fixes can be found <a href=\"https://www.mozilla.org/security/known-vulnerabilities/firefoxESR.html\">here</a>",
@@ -18,6 +19,7 @@
     {
       "bug": 1055766,
       "created": "2014-11-25T18:27:27+00:00",
+      "id": 785829,
       "is_public": true,
       "modified": "2014-11-25T18:28:11+00:00",
       "note": "@ JS::Handle<JSObject*>::operator JSObject* const&() startup crash (see  <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1055766\"> bug 1055766 </a>)",
@@ -27,6 +29,7 @@
     {
       "bug": 1095128,
       "created": "2014-12-01T21:16:20+00:00",
+      "id": 785830,
       "is_public": true,
       "modified": "2014-12-01T21:35:50+00:00",
       "note": "Intermittent failures in add-ons manager mochitest-browser tests (see  <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1095128\"> bug 1095128 </a>)",
@@ -36,6 +39,7 @@
     {
       "bug": 1054043,
       "created": "2014-12-01T21:17:09+00:00",
+      "id": 785831,
       "is_public": true,
       "modified": "2014-12-01T21:36:15+00:00",
       "note": "Bad CPU type in executable running mochitests on yosemite  (see  <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1054043\"> bug 1054043 </a>)",
@@ -45,6 +49,7 @@
     {
       "bug": 1005458,
       "created": "2014-12-01T21:17:46+00:00",
+      "id": 785832,
       "is_public": true,
       "modified": "2014-12-01T21:38:47+00:00",
       "note": "Error building nsChildView.mm on OS X 10.10 (see  <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1005458\"> bug 1005458 </a>)",
@@ -54,6 +59,7 @@
     {
       "bug": 1045231,
       "created": "2014-12-01T21:19:26+00:00",
+      "id": 785834,
       "is_public": true,
       "modified": "2014-12-01T21:41:11+00:00",
       "note": "Build error on Yosemite (see  <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1045231\"> bug 1045231 </a>)",
@@ -63,6 +69,7 @@
     {
       "bug": 1096651,
       "created": "2014-12-01T21:20:43+00:00",
+      "id": 785835,
       "is_public": true,
       "modified": "2014-12-01T21:40:34+00:00",
       "note": "Wrong CPU features detection on some x86 CPUs (see  <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1096651\"> bug 1096651 </a>)",
@@ -72,6 +79,7 @@
     {
       "bug": 1096263,
       "created": "2014-12-01T21:22:20+00:00",
+      "id": 785836,
       "is_public": true,
       "modified": "2014-12-01T22:18:39+00:00",
       "note": "XMLHttpRequest.send({}) should not throw (see  <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1096263\"> bug 1096263 </a>)",

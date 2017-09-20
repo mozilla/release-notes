@@ -9,6 +9,7 @@
     {
       "bug": 1133351,
       "created": "2015-07-29T19:01:54+00:00",
+      "id": 786194,
       "is_public": true,
       "modified": "2015-07-29T19:01:55+00:00",
       "note": "Firefox may become unresponsive after right-clicking Flash content on Windows 8",
@@ -18,6 +19,7 @@
     {
       "bug": null,
       "created": "2015-07-29T19:02:25+00:00",
+      "id": 786195,
       "is_public": true,
       "modified": "2015-07-29T19:02:26+00:00",
       "note": "Various [security fixes][1] \r\n\r\n[1]: https://www.mozilla.org/security/known-vulnerabilities/firefox-esr/#firefoxesr38.2",
@@ -27,6 +29,7 @@
     {
       "bug": 1145230,
       "created": "2015-07-30T20:47:26+00:00",
+      "id": 786196,
       "is_public": true,
       "modified": "2015-07-30T20:48:06+00:00",
       "note": "Firefox may crash during mp4 video playback",
@@ -36,6 +39,7 @@
     {
       "bug": 1175039,
       "created": "2015-07-30T20:51:49+00:00",
+      "id": 786197,
       "is_public": true,
       "modified": "2015-07-30T20:51:49+00:00",
       "note": "Branded Firefox application does not open URLs in system default browser",
@@ -45,6 +49,7 @@
     {
       "bug": 1174950,
       "created": "2015-07-30T20:52:53+00:00",
+      "id": 786198,
       "is_public": true,
       "modified": "2015-07-30T20:52:53+00:00",
       "note": "Significant memory leak with GreaseMonkey add-on",
@@ -54,6 +59,7 @@
     {
       "bug": 1175521,
       "created": "2015-07-30T20:54:23+00:00",
+      "id": 786199,
       "is_public": true,
       "modified": "2015-07-30T20:54:23+00:00",
       "note": "crash [@ RtlEnterCriticalSection | MessageLoop::PostTask_Helper] on browser shutdown",
@@ -63,6 +69,7 @@
     {
       "bug": 1151318,
       "created": "2015-07-31T21:13:18+00:00",
+      "id": 786200,
       "is_public": true,
       "modified": "2015-07-31T21:13:18+00:00",
       "note": "Browser UI becomes unresponsive state when using Unity Web Player Plugin",
@@ -72,6 +79,7 @@
     {
       "bug": 1189011,
       "created": "2015-07-31T21:13:53+00:00",
+      "id": 786201,
       "is_public": true,
       "modified": "2015-07-31T21:14:19+00:00",
       "note": "ESRs will not build on hppa platform",
@@ -81,6 +89,7 @@
     {
       "bug": 1143806,
       "created": "2015-08-03T20:50:45+00:00",
+      "id": 786203,
       "is_public": true,
       "modified": "2015-08-03T20:50:45+00:00",
       "note": "crash in mozilla::layers::SyncObjectD3D11::FinalizeFrame()",

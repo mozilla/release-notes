@@ -9,6 +9,7 @@
     {
       "bug": null,
       "created": "2013-11-25T00:24:44+00:00",
+      "id": 785389,
       "is_public": true,
       "modified": "2014-04-23T10:53:38+00:00",
       "note": "Dynamic toolbar hides navigation bar when scrolling down page content",
@@ -26,6 +27,7 @@
         "title": "Firefox for Android 23.0a2 Aurora",
         "version": "23.0a2"
       },
+      "id": 785391,
       "is_public": true,
       "modified": "2014-04-23T10:53:38+00:00",
       "note": "Basic support for subscribing to feeds (RSS/Atom) with long-tap in address bar",
@@ -43,6 +45,7 @@
         "title": "Firefox for Android 23.0a2 Aurora",
         "version": "23.0a2"
       },
+      "id": 785374,
       "is_public": true,
       "modified": "2014-04-23T10:53:37+00:00",
       "note": "<a href=\"https://blog.mozilla.org/ux/2013/05/polish-all-the-things1/\">Added a setting</a> to let users display URLs in the title bar instead of page titles",
@@ -60,6 +63,7 @@
         "title": "Firefox for Android 23.0a2 Aurora",
         "version": "23.0a2"
       },
+      "id": 785373,
       "is_public": true,
       "modified": "2014-04-23T10:53:37+00:00",
       "note": "Users can now specify a default search engine",
@@ -77,6 +81,7 @@
         "title": "Firefox for Android 23.0a2 Aurora",
         "version": "23.0a2"
       },
+      "id": 785372,
       "is_public": true,
       "modified": "2014-04-23T10:53:37+00:00",
       "note": "Implemented switch-to-tab",
@@ -94,6 +99,7 @@
         "title": "Firefox for Android 23.0a2 Aurora",
         "version": "23.0a2"
       },
+      "id": 785375,
       "is_public": true,
       "modified": "2014-04-23T10:53:37+00:00",
       "note": "Long press Reader Mode icon to add article to Reading List (try it!)",
@@ -111,6 +117,7 @@
         "title": "Firefox for Android 23.0a2 Aurora",
         "version": "23.0a2"
       },
+      "id": 785376,
       "is_public": true,
       "modified": "2014-04-23T10:53:37+00:00",
       "note": "Added Serif/Sans Serif font toggle to Reader Mode",
@@ -128,6 +135,7 @@
         "title": "Firefox 23.0beta Beta",
         "version": "23.0beta"
       },
+      "id": 330,
       "is_public": true,
       "modified": "2014-04-23T10:53:37+00:00",
       "note": "\"Enable JavaScript\" preference checkbox has been removed and user-set values will be reset to the default",
@@ -145,6 +153,7 @@
         "title": "Firefox 23.0beta Beta",
         "version": "23.0beta"
       },
+      "id": 785410,
       "is_public": true,
       "modified": "2014-04-23T10:53:38+00:00",
       "note": "Updated Firefox Logo",
@@ -162,6 +171,7 @@
         "title": "Firefox 23.0a2 Aurora",
         "version": "23.0a2"
       },
+      "id": 785382,
       "is_public": true,
       "modified": "2014-04-23T10:53:37+00:00",
       "note": "Improved about:memory's functional UI",
@@ -179,6 +189,7 @@
         "title": "Firefox 23.0a2 Aurora",
         "version": "23.0a2"
       },
+      "id": 785384,
       "is_public": true,
       "modified": "2014-04-23T10:53:37+00:00",
       "note": "Simplified interface for notifications of plugin installation",
@@ -196,6 +207,7 @@
         "title": "Firefox 23.0a2 Aurora",
         "version": "23.0a2"
       },
+      "id": 785367,
       "is_public": true,
       "modified": "2014-04-23T10:53:37+00:00",
       "note": "Users can now switch to a new search provider across the entire browser",
@@ -213,6 +225,7 @@
         "title": "Firefox 23.0a2 Aurora",
         "version": "23.0a2"
       },
+      "id": 785383,
       "is_public": true,
       "modified": "2014-04-23T10:53:37+00:00",
       "note": "Enabled DXVA2 on Windows Vista+ to accelerate H.264 video decoding",
@@ -222,6 +235,7 @@
     {
       "bug": null,
       "created": "2013-11-25T00:24:32+00:00",
+      "id": 785352,
       "is_public": true,
       "modified": "2014-04-23T10:53:37+00:00",
       "note": "CSP policies using the standard syntax and semantics will now be enforced",
@@ -239,6 +253,7 @@
         "title": "Firefox 24.0beta Beta",
         "version": "24.0beta"
       },
+      "id": 328,
       "is_public": true,
       "modified": "2014-04-23T10:53:37+00:00",
       "note": "Replace fixed-ratio audio resampler in webrtc.org capture code with Speex resampler and eliminate pseudo-44000Hz rate",
@@ -248,6 +263,7 @@
     {
       "bug": null,
       "created": "2013-11-25T00:24:30+00:00",
+      "id": 331,
       "is_public": true,
       "modified": "2014-04-23T10:53:37+00:00",
       "note": "&lt;input type='file'&gt; rendering improvements (see <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=838675\">bug 838675</a>)",
@@ -265,6 +281,7 @@
         "title": "Firefox 23.0a2 Aurora",
         "version": "23.0a2"
       },
+      "id": 785370,
       "is_public": true,
       "modified": "2014-04-23T10:53:37+00:00",
       "note": "\"Load images automatically\" and Always show the tab bar\" checkboxes removed from preferences and reset to defaults. Want to hide one tab? Try <a href=\"https://addons.mozilla.org/en-us/firefox/addon/hide-tab-bar-with-one-tab/\">this add-on</a>.",
@@ -274,6 +291,7 @@
     {
       "bug": null,
       "created": "2013-11-25T00:24:49+00:00",
+      "id": 785366,
       "is_public": true,
       "modified": "2014-04-23T10:53:37+00:00",
       "note": "<blink>Dropped blink effect from text-decoration: blink; and completely removed &lt;blink&gt; element </blink>",
@@ -291,6 +309,7 @@
         "title": "Firefox 23.0beta Beta",
         "version": "23.0beta"
       },
+      "id": 785409,
       "is_public": true,
       "modified": "2014-04-23T10:53:38+00:00",
       "note": "New feature in toolbox: <a href=\"https://hacks.mozilla.org/2013/05/firefox-developer-tool-features-for-firefox-23/\">Network Monitor</a>",
@@ -308,6 +327,7 @@
         "title": "Firefox 23.0a2 Aurora",
         "version": "23.0a2"
       },
+      "id": 785364,
       "is_public": true,
       "modified": "2014-04-23T10:53:37+00:00",
       "note": "Implemented a global browser console",
@@ -317,6 +337,7 @@
     {
       "bug": null,
       "created": "2013-11-25T00:24:50+00:00",
+      "id": 785365,
       "is_public": true,
       "modified": "2014-04-23T10:53:37+00:00",
       "note": "Write more accessible pages on touch interfaces with new ARIA role for key buttons",
@@ -334,6 +355,7 @@
         "title": "Firefox 23.0a2 Aurora",
         "version": "23.0a2"
       },
+      "id": 785368,
       "is_public": true,
       "modified": "2014-04-23T10:53:37+00:00",
       "note": "Social share functionality",
@@ -343,6 +365,7 @@
     {
       "bug": null,
       "created": "2013-11-25T00:24:50+00:00",
+      "id": 785390,
       "is_public": true,
       "modified": "2014-04-23T10:53:38+00:00",
       "note": "HTML5 &lt;input type=\"range\"&gt; form control implemented ",
@@ -352,6 +375,7 @@
     {
       "bug": null,
       "created": "2013-11-25T00:24:50+00:00",
+      "id": 785392,
       "is_public": true,
       "modified": "2014-04-23T10:53:38+00:00",
       "note": "Added unprefixed requestAnimationFrame",
@@ -361,6 +385,7 @@
     {
       "bug": 900020,
       "created": "2013-11-25T00:24:49+00:00",
+      "id": 332,
       "is_public": true,
       "modified": "2014-04-23T10:53:37+00:00",
       "note": "Browser is unusable on the Nexus 10 tablet with Android 4.3",
@@ -370,6 +395,7 @@
     {
       "bug": 668288,
       "created": "2013-11-25T00:24:50+00:00",
+      "id": 33,
       "is_public": true,
       "modified": "2014-04-23T10:53:35+00:00",
       "note": "Some recent changes in the Google layout and CSS may cause issues in non-webkit browsers like Firefox",
@@ -379,6 +405,7 @@
     {
       "bug": 707195,
       "created": "2013-11-25T00:24:50+00:00",
+      "id": 131,
       "is_public": true,
       "modified": "2014-04-23T10:53:35+00:00",
       "note": "Font inflation may sometimes render inconsistent font sizes on certain pages",
@@ -388,6 +415,7 @@
     {
       "bug": 761206,
       "created": "2013-11-25T00:24:50+00:00",
+      "id": 136,
       "is_public": true,
       "modified": "2014-07-21T04:29:28+00:00",
       "note": "Firefox Sync will not behave as expected if multiple Firefox channels are installed on a single device ([761206][1])\r\n\r\n\r\n  [1]: http://bugzilla.mozilla.org/761206",
@@ -397,6 +425,7 @@
     {
       "bug": 829454,
       "created": "2013-11-25T00:24:50+00:00",
+      "id": 317,
       "is_public": true,
       "modified": "2014-04-23T10:53:37+00:00",
       "note": "'Video can't be played because the file is corrupt' on some HTC Gingerbread (Android 2.3) devices",
@@ -406,6 +435,7 @@
     {
       "bug": 833351,
       "created": "2013-11-25T00:24:50+00:00",
+      "id": 322,
       "is_public": true,
       "modified": "2014-04-23T10:53:37+00:00",
       "note": "Private Browsing - can't see URL bar text on variant of HTC Sense UI (Froyo)",
@@ -415,6 +445,7 @@
     {
       "bug": 809055,
       "created": "2013-11-25T00:24:50+00:00",
+      "id": 326,
       "is_public": true,
       "modified": "2014-04-23T10:53:37+00:00",
       "note": "Moving Firefox to background while playing a flash video in full screen mode and bring it back to view will freeze the app",
@@ -424,6 +455,7 @@
     {
       "bug": 889562,
       "created": "2013-11-25T00:24:50+00:00",
+      "id": 329,
       "is_public": true,
       "modified": "2014-04-23T10:53:37+00:00",
       "note": "Users on Android 4.3 will not be able to copy, cut, or select within the address bar",
@@ -433,6 +465,7 @@
     {
       "bug": 891262,
       "created": "2013-11-25T00:24:50+00:00",
+      "id": 410,
       "is_public": true,
       "modified": "2014-04-23T10:53:37+00:00",
       "note": "Startup crash on LG Optimus Black (LG P970) running GB",
@@ -442,6 +475,7 @@
     {
       "bug": 573369,
       "created": "2013-11-25T00:24:27+00:00",
+      "id": 30,
       "is_public": true,
       "modified": "2014-07-02T07:04:43+00:00",
       "note": "If you try to start Firefox using a locked profile, it will crash (see [573369][1])\r\n\r\n\r\n  [1]: http://bugzilla.mozilla.org/573369",

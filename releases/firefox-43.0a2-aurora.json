@@ -9,6 +9,7 @@
     {
       "bug": 875573,
       "created": "2015-09-16T23:09:57+00:00",
+      "id": 786269,
       "is_public": true,
       "modified": "2015-12-03T02:58:53+00:00",
       "note": "Improved [API support for m4v][1] video playback\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/HTMLMediaElement/canPlayType",
@@ -18,6 +19,7 @@
     {
       "bug": 1037997,
       "created": "2015-09-16T23:31:30+00:00",
+      "id": 786271,
       "is_public": true,
       "modified": "2015-12-03T19:05:47+00:00",
       "note": "WebRTC streaming on multiple monitors",
@@ -27,6 +29,7 @@
     {
       "bug": 912470,
       "created": "2015-09-16T20:19:49+00:00",
+      "id": 786263,
       "is_public": true,
       "modified": "2015-12-03T19:05:05+00:00",
       "note": "Improved Big5 support for [Hong Kong supplementary characters on Windows XP][1]\r\n\r\n  [1]: https://www.microsoft.com/en-us/download/details.aspx?id=10109",
@@ -36,6 +39,7 @@
     {
       "bug": 1186003,
       "created": "2015-08-07T20:24:05+00:00",
+      "id": 786219,
       "is_public": true,
       "modified": "2016-04-15T19:09:52.357000+00:00",
       "note": "GTK3 integration (GNU/Linux only)\r\n",
@@ -45,6 +49,7 @@
     {
       "bug": 1153499,
       "created": "2015-08-12T12:17:25+00:00",
+      "id": 786224,
       "is_public": true,
       "modified": "2015-10-30T17:13:50+00:00",
       "note": "Ship [Push messaging][1] with disabled web notifications from ServiceWorkers\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/API/Push_API",
@@ -54,6 +59,7 @@
     {
       "bug": 1120406,
       "created": "2015-09-17T16:49:20+00:00",
+      "id": 786273,
       "is_public": true,
       "modified": "2015-12-03T02:57:14+00:00",
       "note": "Markup view shows [indicators for pseudo-classes locked for elements][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector/How_to/Examine_and_edit_CSS#Setting_hover_active_focus",
@@ -63,6 +69,7 @@
     {
       "bug": 1198339,
       "created": "2015-09-17T16:50:52+00:00",
+      "id": 786274,
       "is_public": true,
       "modified": "2015-12-03T02:57:14+00:00",
       "note": " Bind F1 key to open the settings when the toolbox is focused",
@@ -72,6 +79,7 @@
     {
       "bug": 1154363,
       "created": "2015-09-17T17:48:27+00:00",
+      "id": 786276,
       "is_public": true,
       "modified": "2015-12-03T02:57:14+00:00",
       "note": "[New 'Use in Console' context menu item][1] in Inspector to store selected element in a temporary variable\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Tools/Page_Inspector/How_to/Examine_and_edit_HTML#Element_popup_menu",
@@ -81,6 +89,7 @@
     {
       "bug": 1151943,
       "created": "2015-09-17T17:54:18+00:00",
+      "id": 786277,
       "is_public": true,
       "modified": "2015-12-03T02:57:14+00:00",
       "note": "[Search button next to overridden CSS properties][1] to find similar properties in the rules view\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Tools/Page_Inspector/How_to/Examine_and_edit_CSS#Overridden_declarations",
@@ -90,6 +99,7 @@
     {
       "bug": 1197048,
       "created": "2015-09-17T18:04:36+00:00",
+      "id": 786280,
       "is_public": true,
       "modified": "2015-12-03T02:57:14+00:00",
       "note": "Ability to filter styles from their property names in the rules view",
@@ -99,6 +109,7 @@
     {
       "bug": 1184172,
       "created": "2015-09-17T18:07:01+00:00",
+      "id": 786281,
       "is_public": true,
       "modified": "2015-12-03T02:57:14+00:00",
       "note": "Stack traces are now shown for exceptions inside the console\r\n",
@@ -108,6 +119,7 @@
     {
       "bug": 1168872,
       "created": "2015-09-17T18:09:13+00:00",
+      "id": 786282,
       "is_public": true,
       "modified": "2015-12-03T02:57:14+00:00",
       "note": "Added ability to [display server-side logs in the console][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Tools/Web_Console/Console_messages#Server",
@@ -117,6 +129,7 @@
     {
       "bug": 970625,
       "created": "2015-09-17T18:12:18+00:00",
+      "id": 786284,
       "is_public": true,
       "modified": "2016-01-22T18:54:17.935000+00:00",
       "note": "Ability to choose resolution for the GCLI screenshot command",
@@ -126,6 +139,7 @@
     {
       "bug": 1059784,
       "created": "2015-09-17T22:09:49+00:00",
+      "id": 786289,
       "is_public": true,
       "modified": "2015-10-30T17:22:12+00:00",
       "note": "Service worker network interception via [FetchEvent][1] enabled\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/FetchEvent",
@@ -135,6 +149,7 @@
     {
       "bug": 1205448,
       "created": "2015-09-18T17:08:50+00:00",
+      "id": 786296,
       "is_public": true,
       "modified": "2015-12-03T02:57:14+00:00",
       "note": "[Subresource integrity][1] allows developers to make their sites more secure\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/Security/Subresource_Integrity",
@@ -144,6 +159,7 @@
     {
       "bug": 1176595,
       "created": "2015-09-16T23:28:17+00:00",
+      "id": 786270,
       "is_public": true,
       "modified": "2015-12-03T02:57:14+00:00",
       "note": "Eyedropper tool does not work as expected when page is zoomed",
@@ -153,6 +169,7 @@
     {
       "bug": 1176929,
       "created": "2015-09-15T11:55:53+00:00",
+      "id": 786262,
       "is_public": true,
       "modified": "2015-10-30T16:55:50+00:00",
       "note": "The CTRL+K shortcut does not give focus to the search field when used from the URL bar on GNU/Linux with GTK+ 3.14 and 3.16 ([1176929][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1176929",

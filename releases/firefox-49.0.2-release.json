@@ -9,6 +9,7 @@
     {
       "bug": 1307108,
       "created": "2016-10-19T13:24:12.055000+00:00",
+      "id": 786851,
       "is_public": true,
       "modified": "2016-11-28T19:47:30.190000+00:00",
       "note": "Asynchronous rendering of the Flash plugins is now enabled by default. This should improve performance and reduce crashes for sites that use the Flash plugin. ([Bug 1307108][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1307108",
@@ -18,6 +19,7 @@
     {
       "bug": null,
       "created": "2016-09-23T18:57:44.214000+00:00",
+      "id": 786832,
       "is_public": true,
       "modified": "2016-11-28T19:47:18.982000+00:00",
       "note": "Reference link to [Firefox 49.0.1 release notes][1]\r\n\r\n[1]: https://www.mozilla.org/firefox/49.0.1/releasenotes/",
@@ -27,6 +29,7 @@
     {
       "bug": 1304539,
       "created": "2016-10-19T13:16:08.363000+00:00",
+      "id": 786848,
       "is_public": true,
       "modified": "2016-11-28T19:47:26.298000+00:00",
       "note": " Fix a Canvas filters graphics issue affecting HTML5 apps ([Bug 1304539][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1304539",
@@ -36,6 +39,7 @@
     {
       "bug": 1304113,
       "created": "2016-10-19T13:19:45.035000+00:00",
+      "id": 786849,
       "is_public": true,
       "modified": "2016-11-28T19:47:27.544000+00:00",
       "note": "Diagnostic information on timing for tab switching ([Bug 1304113][1])\r\n[1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1304113",
@@ -45,6 +49,7 @@
     {
       "bug": 1301518,
       "created": "2016-10-19T13:35:18.887000+00:00",
+      "id": 786854,
       "is_public": true,
       "modified": "2016-11-28T19:47:34.544000+00:00",
       "note": "Support mapping family 255 when playing an Opus file, for use with the Web Audio API ([Bug 1301518][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1301518",
@@ -54,6 +59,7 @@
     {
       "bug": 1306465,
       "created": "2016-10-19T13:29:00.023000+00:00",
+      "id": 786852,
       "is_public": true,
       "modified": "2016-11-28T19:47:31.994000+00:00",
       "note": "Change D3D9 default fallback preference to prevent graphical artifacts ([Bug 1306465][1]) \r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1306465",
@@ -63,6 +69,7 @@
     {
       "bug": 1305436,
       "created": "2016-10-19T13:33:45.332000+00:00",
+      "id": 786853,
       "is_public": true,
       "modified": "2016-11-28T19:47:32.826000+00:00",
       "note": " Network issue prevents some users from seeing the Firefox UI on startup ([Bug 1305436][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1305436",
@@ -72,6 +79,7 @@
     {
       "bug": 1306472,
       "created": "2016-10-19T13:10:14.035000+00:00",
+      "id": 786847,
       "is_public": true,
       "modified": "2016-11-28T19:53:43.194000+00:00",
       "note": "Web compatibility issue with file uploads ([Bug 1306472][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1306472",
@@ -81,6 +89,7 @@
     {
       "bug": 1299593,
       "created": "2016-10-19T13:21:23.106000+00:00",
+      "id": 786850,
       "is_public": true,
       "modified": "2016-11-28T19:47:28.314000+00:00",
       "note": "Web compatibility issue with Array.prototype.values ([Bug 1299593][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1299593",
@@ -90,6 +99,7 @@
     {
       "bug": null,
       "created": "2016-10-20T17:47:34.146000+00:00",
+      "id": 786855,
       "is_public": true,
       "modified": "2016-11-28T19:53:45.294000+00:00",
       "note": "Various [security fixes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/en-US/security/known-vulnerabilities/firefox/#firefox49.0.2",

@@ -9,6 +9,7 @@
     {
       "bug": null,
       "created": "2016-05-02T18:39:38.453000+00:00",
+      "id": 786632,
       "is_public": true,
       "modified": "2016-06-01T14:42:41.059000+00:00",
       "note": "Reference link to [Firefox 45.1.1][1] release notes \r\n\r\n\r\n  [1]: https://www.mozilla.org/en-US/firefox/45.1.1/releasenotes/",
@@ -18,6 +19,7 @@
     {
       "bug": 1266366,
       "created": "2016-05-02T18:43:39.970000+00:00",
+      "id": 786633,
       "is_public": true,
       "modified": "2016-06-01T14:42:05.128000+00:00",
       "note": "Build issue when jit is disabled (Bug [1266366][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1266366",
@@ -27,6 +29,7 @@
     {
       "bug": 1261321,
       "created": "2016-05-02T18:46:41.818000+00:00",
+      "id": 786634,
       "is_public": true,
       "modified": "2016-06-01T14:42:02.956000+00:00",
       "note": "Graphics-related shutdown crash (Bug [1261321][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1261321",
@@ -36,6 +39,7 @@
     {
       "bug": 1267318,
       "created": "2016-05-02T18:49:14.835000+00:00",
+      "id": 786635,
       "is_public": true,
       "modified": "2016-06-01T14:42:01.182000+00:00",
       "note": "Add-on signing certificate expiration (Bug [1267318][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1267318",

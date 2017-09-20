@@ -9,6 +9,7 @@
     {
       "bug": 1177085,
       "created": "2015-10-30T16:24:12+00:00",
+      "id": 786343,
       "is_public": true,
       "modified": "2015-12-15T16:25:50+00:00",
       "note": "Private Browsing with Tracking Protection offers choice of blocking additional trackers",
@@ -18,6 +19,7 @@
     {
       "bug": 875573,
       "created": "2015-09-16T23:09:57+00:00",
+      "id": 786269,
       "is_public": true,
       "modified": "2015-12-03T02:58:53+00:00",
       "note": "Improved [API support for m4v][1] video playback\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/HTMLMediaElement/canPlayType",
@@ -27,6 +29,7 @@
     {
       "bug": 1229852,
       "created": "2015-12-15T16:41:40+00:00",
+      "id": 786386,
       "is_public": true,
       "modified": "2015-12-15T16:41:41+00:00",
       "note": "Firefox 64-bit for Windows is now available via the [Firefox download page][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/en-US/firefox/all/",
@@ -36,6 +39,7 @@
     {
       "bug": 958204,
       "created": "2015-10-29T21:59:18+00:00",
+      "id": 786337,
       "is_public": true,
       "modified": "2015-12-15T16:27:10+00:00",
       "note": "Users can choose [search suggestions] [1] from the Awesome Bar\r\n\r\n  [1]: https://support.mozilla.org/en-US/kb/awesome-bar-search-firefox-bookmarks-history-tabs",
@@ -45,6 +49,7 @@
     {
       "bug": 1007063,
       "created": "2015-11-04T15:07:39+00:00",
+      "id": 786363,
       "is_public": true,
       "modified": "2015-12-07T16:58:05+00:00",
       "note": "On-screen keyboard displayed on selecting input field on devices running Windows 8 or greater",
@@ -54,6 +59,7 @@
     {
       "bug": 1227579,
       "created": "2015-12-07T17:12:12+00:00",
+      "id": 786374,
       "is_public": true,
       "modified": "2015-12-15T16:42:02+00:00",
       "note": "Firefox Health Report has switched to use the same data collection mechanism as telemetry",
@@ -63,6 +69,7 @@
     {
       "bug": 1120406,
       "created": "2015-09-17T16:49:20+00:00",
+      "id": 786273,
       "is_public": true,
       "modified": "2015-12-03T02:57:14+00:00",
       "note": "Markup view shows [indicators for pseudo-classes locked for elements][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector/How_to/Examine_and_edit_CSS#Setting_hover_active_focus",
@@ -72,6 +79,7 @@
     {
       "bug": 1198339,
       "created": "2015-09-17T16:50:52+00:00",
+      "id": 786274,
       "is_public": true,
       "modified": "2015-12-03T02:57:14+00:00",
       "note": " Bind F1 key to open the settings when the toolbox is focused",
@@ -81,6 +89,7 @@
     {
       "bug": 1154363,
       "created": "2015-09-17T17:48:27+00:00",
+      "id": 786276,
       "is_public": true,
       "modified": "2015-12-03T02:57:14+00:00",
       "note": "[New 'Use in Console' context menu item][1] in Inspector to store selected element in a temporary variable\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Tools/Page_Inspector/How_to/Examine_and_edit_HTML#Element_popup_menu",
@@ -90,6 +99,7 @@
     {
       "bug": 1151943,
       "created": "2015-09-17T17:54:18+00:00",
+      "id": 786277,
       "is_public": true,
       "modified": "2015-12-03T02:57:14+00:00",
       "note": "[Search button next to overridden CSS properties][1] to find similar properties in the rules view\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Tools/Page_Inspector/How_to/Examine_and_edit_CSS#Overridden_declarations",
@@ -99,6 +109,7 @@
     {
       "bug": 1197048,
       "created": "2015-09-17T18:04:36+00:00",
+      "id": 786280,
       "is_public": true,
       "modified": "2015-12-03T02:57:14+00:00",
       "note": "Ability to filter styles from their property names in the rules view",
@@ -108,6 +119,7 @@
     {
       "bug": 1184172,
       "created": "2015-09-17T18:07:01+00:00",
+      "id": 786281,
       "is_public": true,
       "modified": "2015-12-03T02:57:14+00:00",
       "note": "Stack traces are now shown for exceptions inside the console\r\n",
@@ -117,6 +129,7 @@
     {
       "bug": 1168872,
       "created": "2015-09-17T18:09:13+00:00",
+      "id": 786282,
       "is_public": true,
       "modified": "2015-12-03T02:57:14+00:00",
       "note": "Added ability to [display server-side logs in the console][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Tools/Web_Console/Console_messages#Server",
@@ -126,6 +139,7 @@
     {
       "bug": 1205448,
       "created": "2015-09-18T17:08:50+00:00",
+      "id": 786296,
       "is_public": true,
       "modified": "2015-12-03T02:57:14+00:00",
       "note": "[Subresource integrity][1] allows developers to make their sites more secure\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/Security/Subresource_Integrity",
@@ -135,6 +149,7 @@
     {
       "bug": 861335,
       "created": "2015-10-29T21:30:36+00:00",
+      "id": 786333,
       "is_public": true,
       "modified": "2015-12-03T02:57:14+00:00",
       "note": "Network requests in Console [now link to Network panel][1] instead of opening in a popup\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Web_Console#HTTP_requests",
@@ -144,6 +159,7 @@
     {
       "bug": 953408,
       "created": "2015-10-29T21:32:27+00:00",
+      "id": 786334,
       "is_public": true,
       "modified": "2015-12-03T02:57:14+00:00",
       "note": "[Unprefixed 'hyphens' property][1] is now supported\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/hyphens",
@@ -153,6 +169,7 @@
     {
       "bug": 1203648,
       "created": "2015-10-30T16:17:15+00:00",
+      "id": 786341,
       "is_public": true,
       "modified": "2015-12-03T02:57:14+00:00",
       "note": "WebIDE now has a sidebar-based UI",
@@ -162,6 +179,7 @@
     {
       "bug": 1175492,
       "created": "2015-10-30T16:19:45+00:00",
+      "id": 786342,
       "is_public": true,
       "modified": "2015-12-03T02:57:14+00:00",
       "note": "The 'transform-origin' property is now [supported on SVG elements][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/transform-origin#Browser_compatibility",
@@ -171,6 +189,7 @@
     {
       "bug": 1156757,
       "created": "2015-10-30T16:26:35+00:00",
+      "id": 786344,
       "is_public": true,
       "modified": "2015-12-03T02:57:14+00:00",
       "note": "Animation inspector now [displays animations in a timeline][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector/How_to/Work_with_animations#Firefox_43",
@@ -180,6 +199,7 @@
     {
       "bug": 1194780,
       "created": "2015-12-04T21:22:38+00:00",
+      "id": 786373,
       "is_public": true,
       "modified": "2015-12-04T21:23:01+00:00",
       "note": "Single-process mode is no longer supported for NPAPI plugins",
@@ -189,6 +209,7 @@
     {
       "bug": 1176595,
       "created": "2015-09-16T23:28:17+00:00",
+      "id": 786270,
       "is_public": true,
       "modified": "2015-12-03T02:57:14+00:00",
       "note": "Eyedropper tool does not work as expected when page is zoomed",
@@ -198,6 +219,7 @@
     {
       "bug": null,
       "created": "2015-12-15T17:08:33+00:00",
+      "id": 786387,
       "is_public": true,
       "modified": "2015-12-15T17:08:34+00:00",
       "note": "Various [security fixes][1] \r\n\r\n\r\n  [1]: https://www.mozilla.org/en-US/security/known-vulnerabilities/firefox/#firefox43",

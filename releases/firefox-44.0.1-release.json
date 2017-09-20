@@ -9,6 +9,7 @@
     {
       "bug": 1242176,
       "created": "2016-02-08T21:54:58.742000+00:00",
+      "id": 786477,
       "is_public": true,
       "modified": "2016-02-11T16:15:06.937000+00:00",
       "note": "Fix issue which could lead to the removal of stored passwords under certain circumstances ([1242176][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1242176",
@@ -18,6 +19,7 @@
     {
       "bug": 1244505,
       "created": "2016-02-08T21:41:16.781000+00:00",
+      "id": 786472,
       "is_public": true,
       "modified": "2016-02-11T16:17:08.869000+00:00",
       "note": "Allows spaces in cookie names ([1244505][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1244505",
@@ -27,6 +29,7 @@
     {
       "bug": 1244069,
       "created": "2016-02-08T21:44:23.013000+00:00",
+      "id": 786473,
       "is_public": true,
       "modified": "2016-02-11T16:16:43.524000+00:00",
       "note": "Require NSS 3.21 ([1244069][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1244069",
@@ -36,6 +39,7 @@
     {
       "bug": 1244076,
       "created": "2016-02-08T21:44:41.357000+00:00",
+      "id": 786474,
       "is_public": true,
       "modified": "2016-02-11T16:16:29.539000+00:00",
       "note": "Fix a crash in cache networking ([1244076][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1244076",
@@ -45,6 +49,7 @@
     {
       "bug": 1243942,
       "created": "2016-02-08T21:45:14.270000+00:00",
+      "id": 786475,
       "is_public": true,
       "modified": "2016-02-11T16:16:14.998000+00:00",
       "note": "Fix using WebSockets in service worker controlled pages ([1243942][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1243942",
@@ -54,6 +59,7 @@
     {
       "bug": 1245696,
       "created": "2016-02-08T21:47:45.300000+00:00",
+      "id": 786476,
       "is_public": true,
       "modified": "2016-02-11T16:15:58.926000+00:00",
       "note": "Disable opus/vorbis audio with H.264 ([1245696][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1245696",
@@ -63,6 +69,7 @@
     {
       "bug": 1243740,
       "created": "2016-02-08T21:57:01.536000+00:00",
+      "id": 786478,
       "is_public": true,
       "modified": "2016-02-11T16:15:41.880000+00:00",
       "note": "Ship the Gecko SDK ([1243740][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1243740",
@@ -72,6 +79,7 @@
     {
       "bug": 1222171,
       "created": "2016-02-08T21:59:42.376000+00:00",
+      "id": 786479,
       "is_public": true,
       "modified": "2016-02-11T16:16:59.634000+00:00",
       "note": "Fix for graphics startup crash (GNU/Linux) ([1222171][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1222171",

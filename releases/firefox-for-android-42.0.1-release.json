@@ -9,6 +9,7 @@
     {
       "bug": 1209612,
       "created": "2015-10-21T09:09:45+00:00",
+      "id": 786328,
       "is_public": true,
       "modified": "2015-11-19T18:01:27+00:00",
       "note": "42.0.1 - Fix a crash in the OpenGL init process ([1209612][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1209612",
@@ -18,6 +19,7 @@
     {
       "bug": 1221228,
       "created": "2015-10-30T14:59:25+00:00",
+      "id": 786339,
       "is_public": true,
       "modified": "2015-11-19T18:02:17+00:00",
       "note": "42.0.1 - Android 6.0 devices (eg Nexus 5X/6P) reboot/restart or hang when playing audio/video fixed ([1221228][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1221228",
@@ -27,6 +29,7 @@
     {
       "bug": null,
       "created": "2015-10-21T09:07:34+00:00",
+      "id": 786324,
       "is_public": true,
       "modified": "2015-11-19T18:04:40+00:00",
       "note": "Reference: Release notes for [Firefox 42.0][1]\r\n\r\n  [1]: https://www.mozilla.com/en-US/firefox/android/42.0/releasenotes/",

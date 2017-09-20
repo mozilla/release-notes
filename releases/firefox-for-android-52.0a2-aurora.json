@@ -9,6 +9,7 @@
     {
       "bug": 976073,
       "created": "2017-01-18T15:59:53.893000+00:00",
+      "id": 786921,
       "is_public": true,
       "modified": "2017-03-06T10:30:57.343000+00:00",
       "note": "Implemented the Strict Secure Cookies specification which forbids insecure HTTP sites from setting cookies with the \"secure\" attribute.  In some cases, this will prevent an insecure site from setting a cookie with the same name as an existing \"secure\" cookie from the same base domain.",
@@ -18,6 +19,7 @@
     {
       "bug": 1294736,
       "created": "2017-01-24T12:54:53.932000+00:00",
+      "id": 786930,
       "is_public": true,
       "modified": "2017-03-01T13:56:25.542000+00:00",
       "note": "Reduced APK file size by more than 5 MB for faster download and installation",
@@ -35,6 +37,7 @@
         "title": "Firefox 52.0a2 Aurora",
         "version": "52.0a2"
       },
+      "id": 786879,
       "is_public": true,
       "modified": "2017-01-24T13:54:47.994000+00:00",
       "note": "Introduced the [requestIdleCallback API][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/Window/requestIdleCallback",
@@ -44,6 +47,7 @@
     {
       "bug": 1185106,
       "created": "2016-11-18T22:10:48.155000+00:00",
+      "id": 786883,
       "is_public": true,
       "modified": "2017-01-24T13:54:49.970000+00:00",
       "note": "Introduced ECMAScript 7 [async functions][1] that makes it easier to write asynchronous code without chaining Promises\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function",
@@ -53,6 +57,7 @@
     {
       "bug": 1243846,
       "created": "2016-11-18T22:12:29.899000+00:00",
+      "id": 786884,
       "is_public": false,
       "modified": "2017-01-27T22:19:55.457000+00:00",
       "note": "Added the [Intersection Observer API][1] to help developers improve site performance by deferring content loading and significantly lower the cost of content visibility checks\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API",

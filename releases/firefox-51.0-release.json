@@ -9,6 +9,7 @@
     {
       "bug": 1195723,
       "created": "2016-09-21T07:25:08.390000+00:00",
+      "id": 786820,
       "is_public": true,
       "modified": "2017-01-18T17:35:39.280000+00:00",
       "note": "[Added support for FLAC (Free Lossless Audio Codec) playback][1]\r\n\r\n\r\n  [1]: https://xiph.org/flac/",
@@ -18,6 +19,7 @@
     {
       "bug": 1270321,
       "created": "2016-09-21T07:25:58.987000+00:00",
+      "id": 786821,
       "is_public": true,
       "modified": "2017-01-24T03:18:21.586000+00:00",
       "note": "Users can view passwords in the save password prompt before saving them",
@@ -27,6 +29,7 @@
     {
       "bug": 565718,
       "created": "2016-09-21T07:28:23.377000+00:00",
+      "id": 786822,
       "is_public": true,
       "modified": "2017-01-24T03:19:21.552000+00:00",
       "note": "Added a zoom button in the URL bar: \r\n\r\n- Displays percent above or below 100 percent when a user has changed the page zoom setting from the default\r\n- Lets users return to the default setting by clicking on the button\r\n",
@@ -36,6 +39,7 @@
     {
       "bug": 1275441,
       "created": "2016-09-21T07:41:40.144000+00:00",
+      "id": 786826,
       "is_public": true,
       "modified": "2017-01-24T02:56:07.617000+00:00",
       "note": "Improved video performance for users without GPU acceleration for less CPU usage and a better full screen experience",
@@ -45,6 +49,7 @@
     {
       "bug": 1166947,
       "created": "2016-09-22T23:21:30.202000+00:00",
+      "id": 786829,
       "is_public": true,
       "modified": "2017-01-24T03:21:11.331000+00:00",
       "note": "Firefox will save passwords even in forms that do not have \u201csubmit\u201d events ",
@@ -54,6 +59,7 @@
     {
       "bug": 1232864,
       "created": "2016-11-15T08:58:38.423000+00:00",
+      "id": 786865,
       "is_public": true,
       "modified": "2017-01-24T03:22:30.572000+00:00",
       "note": "Added support for [WebGL 2][1], with advanced graphics rendering features like transform feedback, improved texturing capabilities, and a new sophisticated shading language\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/WebGL2RenderingContext",
@@ -63,6 +69,7 @@
     {
       "bug": 1319119,
       "created": "2017-01-18T14:50:46.569000+00:00",
+      "id": 786917,
       "is_public": true,
       "modified": "2017-01-18T17:35:39.280000+00:00",
       "note": "A [warning is displayed][1] when a login page does not have a secure connection\r\n\r\n\r\n  [1]: https://support.mozilla.org/en-US/kb/insecure-password-warning-firefox",
@@ -72,6 +79,7 @@
     {
       "bug": 1309232,
       "created": "2017-01-18T14:56:36.550000+00:00",
+      "id": 786918,
       "is_public": true,
       "modified": "2017-01-20T03:16:04.253000+00:00",
       "note": "Added Georgian (ka) and Kabyle (kab) locales",
@@ -81,6 +89,7 @@
     {
       "bug": 1279086,
       "created": "2017-01-20T03:05:11.290000+00:00",
+      "id": 786924,
       "is_public": true,
       "modified": "2017-01-20T03:05:11.290000+00:00",
       "note": "An even faster E10s! Tab Switching is better!",
@@ -90,6 +99,7 @@
     {
       "bug": 1253051,
       "created": "2017-01-20T03:06:55.851000+00:00",
+      "id": 786925,
       "is_public": true,
       "modified": "2017-01-23T06:56:38.413000+00:00",
       "note": "Improved reliability of browser data sync",
@@ -99,6 +109,7 @@
     {
       "bug": 1304749,
       "created": "2016-11-15T08:58:08.535000+00:00",
+      "id": 786864,
       "is_public": true,
       "modified": "2017-01-18T17:35:39.280000+00:00",
       "note": "Remove Belarusian (be) locale",
@@ -108,6 +119,7 @@
     {
       "bug": 1186552,
       "created": "2016-09-21T07:34:55.583000+00:00",
+      "id": 786824,
       "is_public": true,
       "modified": "2017-01-24T03:20:26.311000+00:00",
       "note": "Use 2D graphics library (Skia) for content rendering on Linux",
@@ -117,6 +129,7 @@
     {
       "bug": 1304874,
       "created": "2017-01-20T03:13:36.573000+00:00",
+      "id": 786927,
       "is_public": true,
       "modified": "2017-01-20T03:23:21.619000+00:00",
       "note": "Re-enabled E10s support for Russian (ru) locale",
@@ -126,6 +139,7 @@
     {
       "bug": 1304919,
       "created": "2017-01-20T19:55:26.079000+00:00",
+      "id": 786928,
       "is_public": true,
       "modified": "2017-01-20T19:55:26.079000+00:00",
       "note": " Updated to [NSS 3.28.1][1] \r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/NSS_3.28.1_release_notes",
@@ -135,6 +149,7 @@
     {
       "bug": null,
       "created": "2017-01-24T13:30:23.814000+00:00",
+      "id": 786932,
       "is_public": true,
       "modified": "2017-01-24T13:31:54.589000+00:00",
       "note": "Various [security fixes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/en-US/security/known-vulnerabilities/firefox/#firefox51",
@@ -144,6 +159,7 @@
     {
       "bug": 1325872,
       "created": "2017-01-27T19:09:53.469000+00:00",
+      "id": 786953,
       "is_public": true,
       "modified": "2017-01-27T21:51:30.494000+00:00",
       "note": "Crash with some older versions of [Forcepoint/Websense][1]\r\n\r\n\r\n  [1]: https://support.mozilla.org/en-US/kb/old-versions-websense-cause-startup-crashes-firefo",

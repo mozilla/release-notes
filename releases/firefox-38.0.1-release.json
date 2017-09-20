@@ -9,6 +9,7 @@
     {
       "bug": null,
       "created": "2015-05-14T13:13:04+00:00",
+      "id": 786086,
       "is_public": true,
       "modified": "2015-05-27T08:44:56+00:00",
       "note": "Reference: [Release notes for Firefox 38.0][1]\r\n\r\n[1]: https://www.mozilla.org/firefox/38.0/releasenotes/",
@@ -18,6 +19,7 @@
     {
       "bug": 1154703,
       "created": "2015-05-14T13:18:18+00:00",
+      "id": 786089,
       "is_public": true,
       "modified": "2016-01-15T11:17:58.552000+00:00",
       "note": "Systems with first generation NVidia Optimus graphics cards may crash on start-up ([1154703][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1154703",
@@ -35,6 +37,7 @@
         "title": "Firefox 38.0.1 Release",
         "version": "38.0.1"
       },
+      "id": 786087,
       "is_public": true,
       "modified": "2016-01-15T11:18:49.268000+00:00",
       "note": "Users who import cookies from Google Chrome can end up with broken websites ([1162205][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1162205",
@@ -52,6 +55,7 @@
         "title": "Firefox 38.0.1 Release",
         "version": "38.0.1"
       },
+      "id": 786088,
       "is_public": true,
       "modified": "2016-01-15T11:19:37.306000+00:00",
       "note": "Large animated images may fail to play and may stop other images from loading ([1161859][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1161859",
@@ -69,6 +73,7 @@
         "title": "Firefox Extended Support Release 38.0.1.1 Release",
         "version": "38.0.1.1"
       },
+      "id": 786090,
       "is_public": true,
       "modified": "2016-01-15T11:20:02.704000+00:00",
       "note": "WebRTC H264 video streams from CiscoSpark native clients are not decoded correctly. (Fixed in Firefox ESR 38.0.1; was already fixed in Firefox 38.0) ([1162251][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1162251",
@@ -78,6 +83,7 @@
     {
       "bug": 1135812,
       "created": "2015-05-11T16:02:26+00:00",
+      "id": 786070,
       "is_public": true,
       "modified": "2015-05-27T08:47:54+00:00",
       "note": "Responsive images do not update when the enclosing viewport changes",

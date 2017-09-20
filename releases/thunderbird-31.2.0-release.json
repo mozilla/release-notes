@@ -9,6 +9,7 @@
     {
       "bug": null,
       "created": "2014-11-13T07:09:12+00:00",
+      "id": 785792,
       "is_public": true,
       "modified": "2014-11-13T07:09:12+00:00",
       "note": "Fixed a case where having a contact and card in an address book with the same name could send to the mailing list (<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1008718\">Bug 1008718</a>)",
@@ -18,6 +19,7 @@
     {
       "bug": null,
       "created": "2014-11-13T07:09:13+00:00",
+      "id": 785793,
       "is_public": true,
       "modified": "2014-11-13T07:09:13+00:00",
       "note": "Invalid certificate issue with mozilla::pkix (see <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1042889\">bug 1042889</a>)",
@@ -27,6 +29,7 @@
     {
       "bug": null,
       "created": "2014-11-13T07:09:14+00:00",
+      "id": 785794,
       "is_public": true,
       "modified": "2014-11-13T07:09:14+00:00",
       "note": "Importing an RSA private key fails if p < q (see <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1049435\">bug 1049435</a>)",
@@ -36,6 +39,7 @@
     {
       "bug": null,
       "created": "2014-11-13T07:09:14+00:00",
+      "id": 785795,
       "is_public": true,
       "modified": "2014-11-13T07:09:14+00:00",
       "note": "Security fixes can be found <a href=\"http://www.mozilla.org/security/known-vulnerabilities/thunderbird.html#thunderbird31.2.0\">here</a>",
@@ -53,6 +57,7 @@
         "title": "Thunderbird 31.4.0 Release",
         "version": "31.4.0"
       },
+      "id": 785864,
       "is_public": true,
       "modified": "2015-01-13T15:13:15+00:00",
       "note": "Installing extensions within Thunderbird requires download and installing as a file (<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1081190\">bug 1081190</a>)",
@@ -70,6 +75,7 @@
         "title": "Thunderbird 31.4.0 Release",
         "version": "31.4.0"
       },
+      "id": 785865,
       "is_public": true,
       "modified": "2015-01-13T15:14:09+00:00",
       "note": "Users of jp mac builds may have issues with no mail folders being displayed in the main window. Running Thunderbird in 32-bit mode temporarily will workaround this issue.",

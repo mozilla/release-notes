@@ -17,6 +17,7 @@
         "title": "Firefox 10.0beta Beta",
         "version": "10.0beta"
       },
+      "id": 75,
       "is_public": true,
       "modified": "2014-04-23T10:53:35+00:00",
       "note": "Most add-ons are now compatible with new versions of Firefox by default",
@@ -26,6 +27,7 @@
     {
       "bug": null,
       "created": "2013-11-25T00:24:44+00:00",
+      "id": 15,
       "is_public": true,
       "modified": "2014-04-23T10:53:34+00:00",
       "note": "The forward button is now hidden until you navigate back",
@@ -35,6 +37,7 @@
     {
       "bug": null,
       "created": "2013-11-25T00:24:50+00:00",
+      "id": 3,
       "is_public": true,
       "modified": "2014-04-23T10:53:34+00:00",
       "note": "Anti-Aliasing for WebGL is now implemented (see <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=615976\">bug 615976</a>)",
@@ -44,6 +47,7 @@
     {
       "bug": null,
       "created": "2013-11-25T00:24:50+00:00",
+      "id": 20,
       "is_public": true,
       "modified": "2014-04-23T10:53:35+00:00",
       "note": "CSS3 3D-Transforms are now supported (see <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=505115\">bug 505115</a>)",
@@ -53,6 +57,7 @@
     {
       "bug": null,
       "created": "2013-11-25T00:24:50+00:00",
+      "id": 14,
       "is_public": true,
       "modified": "2014-04-23T10:53:34+00:00",
       "note": "New &lt;bdi&gt; element for bi-directional text isolation, along with supporting CSS properties (see bugs <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=613149\">613149</a> and <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=662288\">662288</a>)",
@@ -62,6 +67,7 @@
     {
       "bug": null,
       "created": "2013-11-25T00:24:50+00:00",
+      "id": 17,
       "is_public": true,
       "modified": "2014-04-23T10:53:34+00:00",
       "note": "Inspect tool with content highlighting, includes new CSS Style Inspector",
@@ -71,6 +77,7 @@
     {
       "bug": null,
       "created": "2013-11-25T00:24:50+00:00",
+      "id": 42,
       "is_public": true,
       "modified": "2014-04-23T10:53:35+00:00",
       "note": "We've added IndexedDB APIs to more closely match the specification",
@@ -80,6 +87,7 @@
     {
       "bug": 681795,
       "created": "2013-11-25T00:24:50+00:00",
+      "id": 1,
       "is_public": true,
       "modified": "2014-07-03T02:38:59+00:00",
       "note": "Some users may experience a crash when moving bookmarks",
@@ -89,6 +97,7 @@
     {
       "bug": 690287,
       "created": "2013-11-25T00:24:44+00:00",
+      "id": 78,
       "is_public": true,
       "modified": "2014-07-02T09:51:02+00:00",
       "note": "Two-digit browser version numbers may cause a small number of <a href=\"https://hacks.mozilla.org/2012/01/firefox-goes-2-digit-time-to-check-your-ua-sniffing-scripts/\">website incompatibilities</a> (see [690287][1])\r\n\r\n\r\n  [1]: http://bugzilla.mozilla.org/690287",
@@ -98,6 +107,7 @@
     {
       "bug": 711900,
       "created": "2013-11-25T00:24:50+00:00",
+      "id": 44,
       "is_public": true,
       "modified": "2014-07-03T02:44:48+00:00",
       "note": "Under certain conditions, scrolling and text input may be jerky",
@@ -115,6 +125,7 @@
         "title": "Firefox 11.0 Release",
         "version": "11.0"
       },
+      "id": 51,
       "is_public": true,
       "modified": "2014-07-02T09:46:54+00:00",
       "note": "Firefox notifications may not work properly with Growl 1.3 or later (see [691662][1])\r\n\r\n\r\n  [1]: http://bugzilla.mozilla.org/691662",
@@ -124,6 +135,7 @@
     {
       "bug": 622410,
       "created": "2014-07-03T02:41:42+00:00",
+      "id": 785642,
       "is_public": true,
       "modified": "2014-07-03T02:52:25+00:00",
       "note": "Some synaptic touch pads are unable to vertical scroll (see [622410][1])\r\n\r\n\r\n  [1]: http://bugzilla.mozilla.org/622410",
@@ -133,6 +145,7 @@
     {
       "bug": null,
       "created": "2014-07-03T02:54:18+00:00",
+      "id": 785643,
       "is_public": true,
       "modified": "2014-07-03T02:54:18+00:00",
       "note": "This version of Firefox will not work on Macintosh hardware with Power PC CPUs",
@@ -142,6 +155,7 @@
     {
       "bug": 573369,
       "created": "2013-11-25T00:24:27+00:00",
+      "id": 30,
       "is_public": true,
       "modified": "2014-07-02T07:04:43+00:00",
       "note": "If you try to start Firefox using a locked profile, it will crash (see [573369][1])\r\n\r\n\r\n  [1]: http://bugzilla.mozilla.org/573369",
