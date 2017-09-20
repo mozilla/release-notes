@@ -1,21 +1,26 @@
 {
-  "product": "Firefox Extended Support Release",
   "bug_list": "",
-  "title": "Firefox Extended Support Release 38.7.0 ESR",
+  "bug_search_url": "",
+  "channel": "ESR",
+  "created": "2016-01-25T17:21:37.650000+00:00",
+  "is_public": true,
+  "modified": "2016-03-08T15:48:54.478000+00:00",
   "notes": [
     {
-      "note": "Various [security fixes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/known-vulnerabilities/firefox-esr/#firefoxesr38.7",
+      "bug": null,
+      "created": "2016-02-23T21:09:06.827000+00:00",
       "is_public": true,
-      "tag": "Fixed",
-      "bug": null
+      "modified": "2016-02-23T21:11:03.127000+00:00",
+      "note": "Various [security fixes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/known-vulnerabilities/firefox-esr/#firefoxesr38.7",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
-  "text": "",
+  "product": "Firefox Extended Support Release",
   "release_date": "2016-03-08",
   "slug": "firefox-38.7.0-esr",
-  "version": "38.7.0",
-  "bug_search_url": "",
-  "is_public": true,
   "system_requirements": "",
-  "channel": "ESR"
+  "text": "",
+  "title": "Firefox Extended Support Release 38.7.0 ESR",
+  "version": "38.7.0"
 }

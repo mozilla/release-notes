@@ -1,119 +1,169 @@
 {
-  "product": "Firefox",
   "bug_list": "",
-  "title": "Firefox 11.0a2 Aurora",
+  "bug_search_url": "",
+  "channel": "Aurora",
+  "created": "2013-11-25T00:25:01+00:00",
+  "is_public": true,
+  "modified": "2014-05-27T12:12:46+00:00",
   "notes": [
     {
+      "bug": null,
+      "created": "2013-11-25T00:24:49+00:00",
+      "is_public": true,
+      "modified": "2014-04-23T10:53:35+00:00",
       "note": "Firefox can now migrate your bookmarks, history, and cookies from Google Chrome",
-      "is_public": true,
-      "tag": "New",
-      "bug": null
+      "sort_num": 1000,
+      "tag": "New"
     },
     {
+      "bug": null,
+      "created": "2013-11-25T00:24:44+00:00",
+      "is_public": true,
+      "modified": "2014-04-23T10:53:35+00:00",
       "note": "With Sync enabled, add-ons can now be synchronized across your computers",
-      "is_public": true,
-      "tag": "New",
-      "bug": null
+      "sort_num": 100,
+      "tag": "New"
     },
     {
+      "bug": null,
+      "created": "2013-11-25T00:24:50+00:00",
+      "is_public": true,
+      "modified": "2014-04-23T10:53:35+00:00",
       "note": "The CSS <a href=\"https://developer.mozilla.org/en/CSS/text-size-adjust\">text-size-adjust property</a> is now supported",
-      "is_public": true,
-      "tag": "New",
-      "bug": null
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": 713305,
+      "created": "2013-11-25T00:24:50+00:00",
+      "is_public": true,
+      "modified": "2014-04-23T10:53:35+00:00",
       "note": "OS X: WebGL performance may be degraded on some hardware",
-      "is_public": true,
-      "tag": "",
-      "bug": 713305
+      "sort_num": 0,
+      "tag": ""
     },
     {
+      "bug": 739141,
+      "created": "2013-11-25T00:24:50+00:00",
+      "is_public": true,
+      "modified": "2014-04-23T10:53:35+00:00",
       "note": "Some TinyMCE-based editors failed to load",
-      "is_public": true,
-      "tag": "",
-      "bug": 739141
+      "sort_num": 0,
+      "tag": ""
     },
     {
+      "bug": null,
+      "created": "2013-11-25T00:24:50+00:00",
+      "is_public": true,
+      "modified": "2014-04-23T10:53:35+00:00",
       "note": "Redesigned media controls for HTML5 video",
-      "is_public": true,
-      "tag": "Changed",
-      "bug": null
+      "sort_num": 0,
+      "tag": "Changed"
     },
     {
+      "bug": null,
+      "created": "2013-11-25T00:24:50+00:00",
+      "is_public": true,
+      "modified": "2014-04-23T10:53:35+00:00",
       "note": "View source syntax highlighting now uses the HTML5 parser (see <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=482921\">bug 482921</a>)",
-      "is_public": true,
-      "tag": "HTML5",
-      "bug": null
+      "sort_num": 0,
+      "tag": "HTML5"
     },
     {
+      "bug": null,
+      "created": "2013-11-25T00:24:50+00:00",
+      "is_public": true,
+      "modified": "2014-04-23T10:53:35+00:00",
       "note": "The <a href=\"https://developer.mozilla.org/en/DOM/element.outerHTML\">outerHTML property</a> is now supported on HTML elements",
-      "is_public": true,
-      "tag": "HTML5",
-      "bug": null
+      "sort_num": 0,
+      "tag": "HTML5"
     },
     {
+      "bug": null,
+      "created": "2013-11-25T00:24:49+00:00",
+      "is_public": true,
+      "modified": "2014-04-23T10:53:35+00:00",
       "note": "The <a href=\"https://hacks.mozilla.org/2011/12/new-developer-tools-in-firefox-11-aurora/\">Style Editor</a> for CSS editing is now available to web developers",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": null
+      "sort_num": 1000,
+      "tag": "Developer"
     },
     {
+      "bug": null,
+      "created": "2013-11-25T00:24:49+00:00",
+      "is_public": true,
+      "modified": "2014-04-23T10:53:35+00:00",
       "note": "Web developers can now visualize a web page in 3D using the <a href=\"https://hacks.mozilla.org/2011/12/new-developer-tools-in-firefox-11-aurora/\">Page Inspector 3D View</a>",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": null
+      "sort_num": 950,
+      "tag": "Developer"
     },
     {
+      "bug": null,
+      "created": "2013-11-25T00:24:50+00:00",
+      "is_public": true,
+      "modified": "2014-04-23T10:53:35+00:00",
       "note": "SPDY protocol support for faster page loads is <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=528288#c174\">now testable</a>",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": null
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
+      "bug": null,
+      "created": "2013-11-25T00:24:50+00:00",
+      "is_public": true,
+      "modified": "2014-04-23T10:53:35+00:00",
       "note": "XMLHttpRequest now <a href=\"http://developer.mozilla.org/en/HTML_in_XMLHttpRequest\">supports HTML parsing</a>",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": null
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
+      "bug": null,
+      "created": "2013-11-25T00:24:50+00:00",
+      "is_public": true,
+      "modified": "2014-04-23T10:53:35+00:00",
       "note": "Files can now be stored in IndexedDB (see <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=661877\">bug 661877</a>)",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": null
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
+      "bug": null,
+      "created": "2013-11-25T00:24:50+00:00",
+      "is_public": true,
+      "modified": "2014-04-23T10:53:35+00:00",
       "note": "Websockets has now been unprefixed",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": null
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
-      "note": "Firefox notifications may not work properly with Growl 1.3 or later (see [691662][1])\r\n\r\n\r\n  [1]: http://bugzilla.mozilla.org/691662",
-      "is_public": true,
-      "tag": "Known",
       "bug": 691662,
+      "created": "2013-11-25T00:24:50+00:00",
       "fixed_in_release": {
-        "product": "Firefox",
-        "title": "Firefox 11.0 Release",
-        "version": "11.0",
+        "channel": "Release",
         "is_public": true,
+        "product": "Firefox",
         "slug": "firefox-11.0-release",
-        "channel": "Release"
-      }
+        "title": "Firefox 11.0 Release",
+        "version": "11.0"
+      },
+      "is_public": true,
+      "modified": "2014-07-02T09:46:54+00:00",
+      "note": "Firefox notifications may not work properly with Growl 1.3 or later (see [691662][1])\r\n\r\n\r\n  [1]: http://bugzilla.mozilla.org/691662",
+      "sort_num": 0,
+      "tag": "Known"
     },
     {
-      "note": "If you try to start Firefox using a locked profile, it will crash (see [573369][1])\r\n\r\n\r\n  [1]: http://bugzilla.mozilla.org/573369",
+      "bug": 573369,
+      "created": "2013-11-25T00:24:27+00:00",
       "is_public": true,
-      "tag": "Known",
-      "bug": 573369
+      "modified": "2014-07-02T07:04:43+00:00",
+      "note": "If you try to start Firefox using a locked profile, it will crash (see [573369][1])\r\n\r\n\r\n  [1]: http://bugzilla.mozilla.org/573369",
+      "sort_num": -100,
+      "tag": "Known"
     }
   ],
-  "text": "",
+  "product": "Firefox",
   "release_date": "2011-12-22",
   "slug": "firefox-11.0a2-aurora",
-  "version": "11.0a2",
-  "bug_search_url": "",
-  "is_public": true,
   "system_requirements": "<h2>Windows</h2>\r\n\r\n<h6>Operating Systems</h6>\r\n\r\n<ul>\r\n  <li>Windows 2000</li>\r\n  <li>Windows XP</li>\r\n  <li>Windows Server 2003</li>\r\n  <li>Windows Vista</li>\r\n  <li>Windows 7</li>\r\n</ul>\r\n\r\n<p><em><small>Please note that while the 32-bit and 64-bit versions of Windows Vista\r\nand Windows 7 can be used to run Firefox 11, only 32-bit builds of Firefox 11 are\r\nsupported at this time.</small></em></p>\r\n\r\n<h6>Recommended Hardware</h6>\r\n\r\n<ul>\r\n  <li>Pentium 4 or newer processor that supports SSE2</li>\r\n  <li>512MB of RAM</li>\r\n  <li>200MB of hard drive space</li>\r\n</ul>\r\n\r\n<h2>Mac</h2>\r\n\r\n<h6>Operating Systems</h6>\r\n\r\n<ul>\r\n  <li>Mac OS X 10.5</li>\r\n  <li>Mac OS X 10.6</li>\r\n  <li>Mac OS X 10.7</li>\r\n</ul>\r\n\r\n<h6>Recommended Hardware</h6>\r\n\r\n<ul>\r\n  <li>Macintosh computer with an Intel x86 processor</li>\r\n  <li>512 MB of RAM</li>\r\n  <li>200 MB hard drive space</li>\r\n</ul>\r\n\r\n<h2>Linux</h2>\r\n\r\n<h6>Software Requirements</h6>\r\n\r\n<p>Please note that Linux distributors may provide packages\r\nfor your distribution which have different requirements.</p>\r\n\r\n<ul>\r\n  <li>Firefox will not run at all without the following libraries or packages:\r\n    <ul>\r\n      <li>GTK+ 2.10 or higher</li>\r\n      <li>GLib 2.12 or higher</li>\r\n      <li>Pango 1.14 or higher</li>\r\n      <li>X.Org 1.0 or higher (1.7 or higher is recommended)</li>\r\n      <li>libstdc++ 4.3 or higher</li>\r\n    </ul>\r\n  </li>\r\n  <li>For optimal functionality, we recommend the following libraries or packages:\r\n    <ul>\r\n      <li>NetworkManager 0.7 or higher</li>\r\n      <li>DBus 1.0 or higher</li>\r\n      <li>HAL 0.5.8 or higher</li>\r\n      <li>GNOME 2.16 or higher</li>\r\n    </ul>\r\n  </li>\r\n</ul>",
-  "channel": "Aurora"
+  "text": "",
+  "title": "Firefox 11.0a2 Aurora",
+  "version": "11.0a2"
 }

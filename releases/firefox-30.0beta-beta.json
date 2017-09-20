@@ -1,147 +1,203 @@
 {
-  "product": "Firefox",
   "bug_list": "",
-  "title": "Firefox 30.0beta Beta",
+  "bug_search_url": "",
+  "channel": "Beta",
+  "created": "2014-04-29T10:04:38+00:00",
+  "is_public": true,
+  "modified": "2014-05-01T07:50:47+00:00",
   "notes": [
     {
-      "note": "Mac OS X command-E sets find term to selected text",
-      "is_public": true,
-      "tag": "New",
-      "bug": null
-    },
-    {
-      "note": "Disallow calling WebIDL constructors as functions on the web",
-      "is_public": true,
-      "tag": "Changed",
-      "bug": null
-    },
-    {
-      "note": "With the exception of those bundled inside an extension or ones that are [whitelisted][1], plugins will no longer be activated by default (see [blog post][2])\r\n\r\n\r\n  [1]: https://wiki.mozilla.org/Plugins/Firefox_Whitelist\r\n  [2]: https://blog.mozilla.org/security/2014/02/28/update-on-plugin-activation/",
-      "is_public": true,
-      "tag": "Changed",
-      "bug": 982101
-    },
-    {
-      "note": "Support for GStreamer 1.0  (see [806917][1] for build configuration)\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=806917",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": 806917
-    },
-    {
-      "note": "Fixes to box-shadow and other visual overflow (see <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=480888\">bug 480888</a>)",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": 480888
-    },
-    {
-      "note": "Mute and volume available per window when using WebAudio",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": null
-    },
-    {
-      "note": "background-blend-mode enabled by default",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": null
-    },
-    {
-      "note": "Use of line-height allowed for &lt;input type=\"reset|button|submit\"&gt;",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": null
-    },
-    {
-      "note": "ES6 array and generator comprehensions implemented (read [docs][1] for more details)\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/Firefox/Releases/30",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": null
-    },
-    {
-      "note": "Error stack now contains column number",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": null
-    },
-    {
-      "note": "Support for alpha option in canvas context options (feature [description][1])\r\n\r\n\r\n  [1]: http://blogs.adobe.com/webplatform/2014/04/01/new-canvas-features/",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": 982480
-    },
-    {
-      "note": "Ignore autocomplete=\"off\" when offering to save passwords via the password manager (see [956906][1]) \r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=956906",
-      "is_public": true,
-      "tag": "Fixed",
-      "bug": 956906
-    },
-    {
-      "note": "TypedArrays don't support new named properties (see [695438][1]) \r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=695438",
-      "is_public": true,
-      "tag": "Fixed",
-      "bug": 695438
-    },
-    {
-      "note": "Mac OS X: cmd-L no longer opens a new window when no window is available ([1008793][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1008793",
-      "is_public": true,
-      "tag": "Known",
-      "bug": 1008793,
-      "fixed_in_release": {
-        "product": "Firefox",
-        "title": "Firefox 32.0a2 Aurora",
-        "version": "32.0a2",
-        "is_public": true,
-        "slug": "firefox-32.0a2-aurora",
-        "channel": "Aurora"
-      }
-    },
-    {
-      "note": "Text Rendering Issues on Windows 7 with Platform Update KB2670838 (MSIE 10 Prerequisite) or on Windows 8.1 has a <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=812695#c414\">workaround</a> (see <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=812695\">812695</a>)",
-      "is_public": true,
-      "tag": "Known",
       "bug": null,
+      "created": "2014-03-26T16:26:30+00:00",
+      "is_public": true,
+      "modified": "2014-06-10T07:09:38+00:00",
+      "note": "Mac OS X command-E sets find term to selected text",
+      "sort_num": 700,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2014-03-26T16:26:54+00:00",
+      "is_public": true,
+      "modified": "2014-06-09T14:33:24+00:00",
+      "note": "Disallow calling WebIDL constructors as functions on the web",
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
+      "bug": 982101,
+      "created": "2014-04-29T12:01:08+00:00",
+      "is_public": true,
+      "modified": "2014-06-10T23:17:24+00:00",
+      "note": "With the exception of those bundled inside an extension or ones that are [whitelisted][1], plugins will no longer be activated by default (see [blog post][2])\r\n\r\n\r\n  [1]: https://wiki.mozilla.org/Plugins/Firefox_Whitelist\r\n  [2]: https://blog.mozilla.org/security/2014/02/28/update-on-plugin-activation/",
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
+      "bug": 806917,
+      "created": "2014-03-26T16:26:13+00:00",
+      "is_public": true,
+      "modified": "2014-06-11T10:27:01+00:00",
+      "note": "Support for GStreamer 1.0  (see [806917][1] for build configuration)\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=806917",
+      "sort_num": 100,
+      "tag": "Developer"
+    },
+    {
+      "bug": 480888,
+      "created": "2014-03-26T16:28:02+00:00",
+      "is_public": true,
+      "modified": "2014-06-09T14:33:54+00:00",
+      "note": "Fixes to box-shadow and other visual overflow (see <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=480888\">bug 480888</a>)",
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
+      "bug": null,
+      "created": "2014-03-26T16:28:34+00:00",
+      "is_public": true,
+      "modified": "2014-06-09T14:34:02+00:00",
+      "note": "Mute and volume available per window when using WebAudio",
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
+      "bug": null,
+      "created": "2014-03-26T16:28:53+00:00",
+      "is_public": true,
+      "modified": "2014-06-09T14:34:11+00:00",
+      "note": "background-blend-mode enabled by default",
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
+      "bug": null,
+      "created": "2014-03-26T16:30:05+00:00",
+      "is_public": true,
+      "modified": "2014-06-09T14:34:20+00:00",
+      "note": "Use of line-height allowed for &lt;input type=\"reset|button|submit\"&gt;",
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
+      "bug": null,
+      "created": "2014-03-26T16:30:47+00:00",
+      "is_public": true,
+      "modified": "2014-06-09T14:34:54+00:00",
+      "note": "ES6 array and generator comprehensions implemented (read [docs][1] for more details)\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/Firefox/Releases/30",
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
+      "bug": null,
+      "created": "2014-03-26T16:31:05+00:00",
+      "is_public": true,
+      "modified": "2014-06-09T14:35:03+00:00",
+      "note": "Error stack now contains column number",
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
+      "bug": 982480,
+      "created": "2014-05-04T06:27:18+00:00",
+      "is_public": true,
+      "modified": "2014-06-09T14:35:11+00:00",
+      "note": "Support for alpha option in canvas context options (feature [description][1])\r\n\r\n\r\n  [1]: http://blogs.adobe.com/webplatform/2014/04/01/new-canvas-features/",
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
+      "bug": 956906,
+      "created": "2014-03-26T16:32:14+00:00",
+      "is_public": true,
+      "modified": "2014-06-09T14:35:19+00:00",
+      "note": "Ignore autocomplete=\"off\" when offering to save passwords via the password manager (see [956906][1]) \r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=956906",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 695438,
+      "created": "2014-03-26T16:32:38+00:00",
+      "is_public": true,
+      "modified": "2014-06-09T14:35:27+00:00",
+      "note": "TypedArrays don't support new named properties (see [695438][1]) \r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=695438",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1008793,
+      "created": "2013-11-25T00:24:44+00:00",
       "fixed_in_release": {
-        "product": "Firefox",
-        "title": "Firefox 31.0 Release",
-        "version": "31.0",
+        "channel": "Aurora",
         "is_public": true,
+        "product": "Firefox",
+        "slug": "firefox-32.0a2-aurora",
+        "title": "Firefox 32.0a2 Aurora",
+        "version": "32.0a2"
+      },
+      "is_public": true,
+      "modified": "2014-07-21T03:56:45+00:00",
+      "note": "Mac OS X: cmd-L no longer opens a new window when no window is available ([1008793][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1008793",
+      "sort_num": 0,
+      "tag": "Known"
+    },
+    {
+      "bug": null,
+      "created": "2014-03-04T09:53:28+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": true,
+        "product": "Firefox",
         "slug": "firefox-31.0-release",
-        "channel": "Release"
-      }
+        "title": "Firefox 31.0 Release",
+        "version": "31.0"
+      },
+      "is_public": true,
+      "modified": "2014-07-21T04:19:48+00:00",
+      "note": "Text Rendering Issues on Windows 7 with Platform Update KB2670838 (MSIE 10 Prerequisite) or on Windows 8.1 has a <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=812695#c414\">workaround</a> (see <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=812695\">812695</a>)",
+      "sort_num": 0,
+      "tag": "Known"
     },
     {
-      "note": "Without affecting security, after restoring your session, Extended Validation Certificates might not display (See <a href=\"http://bugzilla.mozilla.org/show_bug.cgi?id=995801\">995801</a>)",
-      "is_public": true,
-      "tag": "Known",
       "bug": 995801,
+      "created": "2014-04-25T10:25:37+00:00",
       "fixed_in_release": {
-        "product": "Firefox",
-        "title": "Firefox 31.0a2 Aurora",
-        "version": "31.0a2",
+        "channel": "Aurora",
         "is_public": true,
+        "product": "Firefox",
         "slug": "firefox-31.0a2-aurora",
-        "channel": "Aurora"
-      }
+        "title": "Firefox 31.0a2 Aurora",
+        "version": "31.0a2"
+      },
+      "is_public": true,
+      "modified": "2014-07-16T07:32:09+00:00",
+      "note": "Without affecting security, after restoring your session, Extended Validation Certificates might not display (See <a href=\"http://bugzilla.mozilla.org/show_bug.cgi?id=995801\">995801</a>)",
+      "sort_num": 0,
+      "tag": "Known"
     },
     {
+      "bug": 966469,
+      "created": "2014-05-09T08:10:33+00:00",
+      "is_public": true,
+      "modified": "2014-07-11T07:24:35+00:00",
       "note": "Slow shut downs lead to 'Firefox is already running' warning (see [966469][1] and [985655][2])\r\n\r\n\r\n  [1]: http://bugzilla.mozilla.org/966469\r\n  [2]: http://bugzilla.mozilla.org/985655",
-      "is_public": true,
-      "tag": "Known",
-      "bug": 966469
+      "sort_num": 0,
+      "tag": "Known"
     },
     {
-      "note": "Exit is not always completed when \"clear history when Firefox closes\" is enabled ([1005487][1])\r\n\r\n\r\n  [1]: http://bugzilla.mozilla.org/1005487",
+      "bug": 1005487,
+      "created": "2014-06-05T17:20:25+00:00",
       "is_public": true,
-      "tag": "Known",
-      "bug": 1005487
+      "modified": "2014-07-21T03:57:04+00:00",
+      "note": "Exit is not always completed when \"clear history when Firefox closes\" is enabled ([1005487][1])\r\n\r\n\r\n  [1]: http://bugzilla.mozilla.org/1005487",
+      "sort_num": 0,
+      "tag": "Known"
     }
   ],
-  "text": " ",
+  "product": "Firefox",
   "release_date": "2014-05-01",
   "slug": "firefox-30.0beta-beta",
-  "version": "30.0beta",
-  "bug_search_url": "",
-  "is_public": true,
   "system_requirements": "## Windows\r\n\r\n### Operating Systems\r\n - Windows XP SP2\r\n - Windows Server 2003 SP1\r\n - Windows Vista\r\n - Windows 7\r\n - Windows 8\r\n\r\n*Please note that while the 32-bit and 64-bit versions of Windows Vista and Windows 7 can be used to run Firefox 26, only 32-bit builds of Firefox 26 are supported at this time.*\r\n\r\n### Recommended Hardware\r\n-  Pentium 4 or newer processor that supports SSE2\r\n-  512MB of RAM\r\n-  200MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- Mac OS X 10.6\r\n- Mac OS X 10.7\r\n- Mac OS X 10.8\r\n- Mac OS X 10.9\r\n\r\n### Recommended Hardware\r\n- Macintosh computer with an Intel x86 processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - GTK+ 2.18 or higher\r\n    - GLib 2.22 or higher\r\n    - Pango 1.14 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n    - libstdc++ 4.3 or higher\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - NetworkManager 0.7 or higher\r\n    - DBus 1.0 or higher\r\n    - HAL 0.5.8 or higher\r\n    - GNOME 2.16 or higher",
-  "channel": "Beta"
+  "text": " ",
+  "title": "Firefox 30.0beta Beta",
+  "version": "30.0beta"
 }

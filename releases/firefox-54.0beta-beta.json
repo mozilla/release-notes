@@ -1,45 +1,62 @@
 {
-  "product": "Firefox",
   "bug_list": "",
-  "title": "Firefox 54.0beta Beta",
+  "bug_search_url": "",
+  "channel": "Beta",
+  "created": "2017-04-14T08:02:24.106000+00:00",
+  "is_public": true,
+  "modified": "2017-04-21T14:13:56.135000+00:00",
   "notes": [
     {
+      "bug": 1295237,
+      "created": "2017-03-10T02:12:06.471000+00:00",
+      "is_public": true,
+      "modified": "2017-06-12T03:14:30.107000+00:00",
       "note": "Bookmarks created on mobile devices are now shown in \"Mobile Bookmarks\u201d folder in the drop down list from the toolbar and Bookmarks option in the menu bar in Desktop Firefox",
-      "is_public": true,
-      "tag": "New",
-      "bug": 1295237
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": 1355070,
+      "created": "2017-04-14T08:07:40.607000+00:00",
+      "is_public": true,
+      "modified": "2017-06-28T17:48:06.899000+00:00",
       "note": "Added Burmese (my) locale",
-      "is_public": true,
-      "tag": "New",
-      "bug": 1355070
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": 1282622,
+      "created": "2017-04-18T03:09:42.620000+00:00",
+      "is_public": true,
+      "modified": "2017-06-12T03:15:02.252000+00:00",
       "note": "Clearer and more detailed information for download items in the download panel",
-      "is_public": true,
-      "tag": "New",
-      "bug": 1282622
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": 1321675,
+      "created": "2017-03-10T02:10:09.562000+00:00",
+      "is_public": true,
+      "modified": "2017-06-12T03:13:50.486000+00:00",
       "note": "Create your own custom devices in Responsive Device Mode",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": 1321675
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
-      "note": "Additional changes for [web developers][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/Firefox/Releases/54",
+      "bug": null,
+      "created": "2017-03-10T20:50:23.131000+00:00",
       "is_public": true,
-      "tag": "Developer",
-      "bug": null
+      "modified": "2017-06-28T17:48:00.791000+00:00",
+      "note": "Additional changes for [web developers][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/Firefox/Releases/54",
+      "sort_num": 0,
+      "tag": "Developer"
     }
   ],
-  "text": "",
+  "product": "Firefox",
   "release_date": "2017-04-21",
   "slug": "firefox-54.0beta-beta",
-  "version": "54.0beta",
-  "bug_search_url": "",
-  "is_public": true,
   "system_requirements": "## Windows\r\n\r\n### Operating Systems (32-bit and 64-bit)\r\n - Windows 7\r\n - Windows 8\r\n - Windows 10\r\n\r\n### Recommended Hardware\r\n-  Pentium 4 or newer processor that supports SSE2\r\n-  512MB of RAM\r\n-  200MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- Mac OS X 10.9\r\n- Mac OS X 10.10\r\n- Mac OS X 10.11\r\n- Mac OS X 10.12\r\n\r\n### Recommended Hardware\r\n- Macintosh computer with an Intel x86 processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - GTK+ 3.4 or higher\r\n    - GLib 2.22 or higher\r\n    - Pango 1.14 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n    - libstdc++ 4.6.1 or higher\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - NetworkManager 0.7 or higher\r\n    - DBus 1.0 or higher\r\n    - GNOME 2.16 or higher\r\n    - PulseAudio\r\n\r\n  [1]: https://support.mozilla.org/kb/get-latest-version-firefox-windows-xp-vista",
-  "channel": "Beta"
+  "text": "",
+  "title": "Firefox 54.0beta Beta",
+  "version": "54.0beta"
 }

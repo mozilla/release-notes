@@ -1,111 +1,161 @@
 {
-  "product": "Firefox for Android",
   "bug_list": "",
-  "title": "Firefox for Android 48.0beta Beta",
+  "bug_search_url": "",
+  "channel": "Beta",
+  "created": "2016-04-28T14:48:56.687000+00:00",
+  "is_public": true,
+  "modified": "2016-06-09T19:49:56.050000+00:00",
   "notes": [
     {
+      "bug": 1261527,
+      "created": "2016-06-06T18:49:41.681000+00:00",
+      "is_public": true,
+      "modified": "2016-08-02T14:32:41.094000+00:00",
       "note": "New users will now have an entry point to sync from the History panel",
-      "is_public": true,
-      "tag": "New",
-      "bug": 1261527
+      "sort_num": 109,
+      "tag": "New"
     },
     {
+      "bug": 1232706,
+      "created": "2016-04-29T00:35:39.863000+00:00",
+      "is_public": true,
+      "modified": "2016-08-02T18:52:40.986000+00:00",
       "note": "Come here often? We let you add frequently-visited sites to your home screen",
-      "is_public": true,
-      "tag": "New",
-      "bug": 1232706
+      "sort_num": 108,
+      "tag": "New"
     },
     {
+      "bug": 1247788,
+      "created": "2016-05-02T21:21:14.253000+00:00",
+      "is_public": true,
+      "modified": "2016-08-02T19:06:46.903000+00:00",
       "note": "Stay in the loop! Get and control notifications for websites of your choice.",
-      "is_public": true,
-      "tag": "New",
-      "bug": 1247788
+      "sort_num": 107,
+      "tag": "New"
     },
     {
+      "bug": 1171110,
+      "created": "2016-04-28T21:42:41.299000+00:00",
+      "is_public": true,
+      "modified": "2016-07-29T17:10:50.486000+00:00",
       "note": "Android Marshmallow/6+ peeps: We added a sweet action bar that floats near your selected text. No more traveling to the top of the screen!",
-      "is_public": true,
-      "tag": "New",
-      "bug": 1171110
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": 704229,
+      "created": "2016-04-29T00:36:33.548000+00:00",
+      "is_public": true,
+      "modified": "2016-08-02T16:06:45.146000+00:00",
       "note": "Video controls get a new look! Snazzy",
-      "is_public": true,
-      "tag": "New",
-      "bug": 704229
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": 1210386,
+      "created": "2016-05-02T21:25:33.772000+00:00",
+      "is_public": true,
+      "modified": "2016-07-29T17:10:50.486000+00:00",
       "note": "[Want Firefox as your default?][1] Of course you do. So we made it easier.\r\n\r\n  [1]: https://support.mozilla.org/en-US/kb/make-firefox-default-browser-android",
-      "is_public": true,
-      "tag": "New",
-      "bug": 1210386
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": 1215115,
+      "created": "2016-05-02T21:43:57.417000+00:00",
+      "is_public": true,
+      "modified": "2016-07-29T17:10:50.486000+00:00",
       "note": "Android media improvements:\r\n\r\n - Record all the things! MediaRecorder on Android is now supported via software codecs\r\n - Better Audible playback FTW! Now with Android Audio Service.",
-      "is_public": true,
-      "tag": "New",
-      "bug": 1215115
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": 851969,
+      "created": "2016-06-06T18:51:14.974000+00:00",
+      "is_public": true,
+      "modified": "2016-07-29T17:10:50.486000+00:00",
       "note": "Amazon product search suggestions added to Awesomescreen Search",
-      "is_public": true,
-      "tag": "New",
-      "bug": 851969
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": 1264705,
+      "created": "2016-07-20T15:30:07.634000+00:00",
+      "is_public": true,
+      "modified": "2016-07-29T17:10:50.486000+00:00",
       "note": "Adding Qwant as a search option for French, United Kingdom English and German locales\r\n\r\n",
-      "is_public": true,
-      "tag": "New",
-      "bug": 1264705
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": 1220184,
+      "created": "2016-05-02T21:29:39.024000+00:00",
+      "is_public": true,
+      "modified": "2016-07-29T17:10:50.486000+00:00",
       "note": "Support for Android 2.3 (Gingerbread) has ended. Farewell!",
-      "is_public": true,
-      "tag": "Changed",
-      "bug": 1220184
+      "sort_num": 0,
+      "tag": "Changed"
     },
     {
+      "bug": 1219343,
+      "created": "2016-05-02T21:31:45.935000+00:00",
+      "is_public": true,
+      "modified": "2016-07-29T17:10:50.486000+00:00",
       "note": "We restore your tabs by default. Don't want that? You can change it in Advanced Settings. You're in control",
-      "is_public": true,
-      "tag": "Changed",
-      "bug": 1219343
+      "sort_num": 0,
+      "tag": "Changed"
     },
     {
+      "bug": 1234314,
+      "created": "2016-05-02T21:34:45.942000+00:00",
+      "is_public": true,
+      "modified": "2016-07-29T17:10:50.486000+00:00",
       "note": "\"The following have new homes. Less swiping for you!\r\n\r\n * Reading List is now in your Bookmarks panel\r\n * Sync Tabs is now in the History panel\r\n",
-      "is_public": true,
-      "tag": "Changed",
-      "bug": 1234314
+      "sort_num": 0,
+      "tag": "Changed"
     },
     {
+      "bug": 1046709,
+      "created": "2016-05-02T21:38:03.539000+00:00",
+      "is_public": true,
+      "modified": "2016-07-29T17:10:50.486000+00:00",
       "note": "Mobile history comes before synced desktop history on your phone or tablet. Of course!",
-      "is_public": true,
-      "tag": "Changed",
-      "bug": 1046709
+      "sort_num": 0,
+      "tag": "Changed"
     },
     {
+      "bug": 1206207,
+      "created": "2016-06-15T16:34:53.869000+00:00",
+      "is_public": true,
+      "modified": "2016-09-01T03:35:43.588000+00:00",
       "note": "Deliver asynchronous notifications via [Push API][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/API/Push_API",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": 1206207
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
+      "bug": null,
+      "created": "2016-07-29T17:10:35.059000+00:00",
+      "is_public": true,
+      "modified": "2016-08-17T09:15:18.474000+00:00",
       "note": "[WebExtensions support][1] is now considered as stable\r\n\r\n\r\n  [1]: https://blog.mozilla.org/addons/2016/04/29/webextensions-in-firefox-48/",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": null
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
-      "note": "On some websites using an important number of cookies, under certain conditions, this can cause the user to be logged out ([1264192][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1264192",
+      "bug": 1264192,
+      "created": "2016-08-01T17:09:52.677000+00:00",
       "is_public": true,
-      "tag": "Known",
-      "bug": 1264192
+      "modified": "2016-08-17T09:15:22.050000+00:00",
+      "note": "On some websites using an important number of cookies, under certain conditions, this can cause the user to be logged out ([1264192][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1264192",
+      "sort_num": 0,
+      "tag": "Known"
     }
   ],
-  "text": "",
+  "product": "Firefox for Android",
   "release_date": "2016-06-08",
   "slug": "firefox-for-android-48.0beta-beta",
-  "version": "48.0beta",
-  "bug_search_url": "",
-  "is_public": true,
   "system_requirements": "## Operating systems\r\n - Android 4.0\r\n - Above versions\r\n\r\n## Requirements\r\n - 50 MB internal storage\r\n - 384 MB of RAM\r\n - display at least 320 pixels high and 240 pixels wide",
-  "channel": "Beta"
+  "text": "",
+  "title": "Firefox for Android 48.0beta Beta",
+  "version": "48.0beta"
 }

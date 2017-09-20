@@ -1,43 +1,51 @@
 {
-  "product": "Firefox for Android",
   "bug_list": "",
-  "title": "Firefox for Android 54.0a2 Aurora",
+  "bug_search_url": "",
+  "channel": "Aurora",
+  "created": "2017-03-10T21:52:24.997000+00:00",
+  "is_public": true,
+  "modified": "2017-03-13T08:40:58.474000+00:00",
   "notes": [
     {
-      "note": "Fixed formatting for right-to-left languages, including formatting of preference names in about:config",
-      "is_public": true,
-      "tag": "Fixed",
       "bug": null,
+      "created": "2017-03-10T21:53:27.009000+00:00",
       "fixed_in_release": {
-        "product": "Firefox for Android",
-        "title": "Firefox for Android 54.0a2 Aurora",
-        "version": "54.0a2",
+        "channel": "Aurora",
         "is_public": true,
+        "product": "Firefox for Android",
         "slug": "firefox-for-android-54.0a2-aurora",
-        "channel": "Aurora"
-      }
+        "title": "Firefox for Android 54.0a2 Aurora",
+        "version": "54.0a2"
+      },
+      "is_public": true,
+      "modified": "2017-06-28T18:13:54.718000+00:00",
+      "note": "Fixed formatting for right-to-left languages, including formatting of preference names in about:config",
+      "sort_num": 0,
+      "tag": "Fixed"
     },
     {
-      "note": "File names correctly preserved on upload",
-      "is_public": true,
-      "tag": "Fixed",
       "bug": 1237956,
+      "created": "2017-03-10T21:54:19.630000+00:00",
       "fixed_in_release": {
-        "product": "Firefox for Android",
-        "title": "Firefox for Android 54.0a2 Aurora",
-        "version": "54.0a2",
+        "channel": "Aurora",
         "is_public": true,
+        "product": "Firefox for Android",
         "slug": "firefox-for-android-54.0a2-aurora",
-        "channel": "Aurora"
-      }
+        "title": "Firefox for Android 54.0a2 Aurora",
+        "version": "54.0a2"
+      },
+      "is_public": true,
+      "modified": "2017-06-12T03:31:11.770000+00:00",
+      "note": "File names correctly preserved on upload",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
-  "text": "",
+  "product": "Firefox for Android",
   "release_date": "2017-03-10",
   "slug": "firefox-for-android-54.0a2-aurora",
-  "version": "54.0a2",
-  "bug_search_url": "",
-  "is_public": true,
   "system_requirements": "## Operating systems\r\n - Android 4.0\r\n - Above versions\r\n\r\n## Requirements\r\n - 50 MB internal storage\r\n - 384 MB of RAM\r\n - display at least 320 pixels high and 240 pixels wide",
-  "channel": "Aurora"
+  "text": "",
+  "title": "Firefox for Android 54.0a2 Aurora",
+  "version": "54.0a2"
 }

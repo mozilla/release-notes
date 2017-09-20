@@ -1,63 +1,89 @@
 {
-  "product": "Firefox for Android",
   "bug_list": "",
-  "title": "Firefox for Android 28.0a2 Aurora",
+  "bug_search_url": "",
+  "channel": "Aurora",
+  "created": "2014-03-13T09:01:01+00:00",
+  "is_public": true,
+  "modified": "2014-03-15T22:42:31+00:00",
   "notes": [
     {
+      "bug": null,
+      "created": "2014-03-04T09:56:40+00:00",
+      "is_public": true,
+      "modified": "2014-07-21T04:21:02+00:00",
       "note": "More native text selection, cut, and copy",
-      "is_public": true,
-      "tag": "New",
-      "bug": null
+      "sort_num": 5000,
+      "tag": "New"
     },
     {
+      "bug": null,
+      "created": "2014-03-04T09:51:55+00:00",
+      "is_public": true,
+      "modified": "2014-07-21T04:25:45+00:00",
       "note": "VP9 video decoding implemented",
-      "is_public": true,
-      "tag": "New",
-      "bug": null
+      "sort_num": 500,
+      "tag": "New"
     },
     {
+      "bug": null,
+      "created": "2014-03-04T09:50:53+00:00",
+      "is_public": true,
+      "modified": "2014-07-21T04:25:14+00:00",
       "note": "Horizontal HTML5 audio/video volume control",
-      "is_public": true,
-      "tag": "New",
-      "bug": null
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": null,
+      "created": "2014-03-04T09:51:05+00:00",
+      "is_public": true,
+      "modified": "2014-07-21T04:26:06+00:00",
       "note": "Support for Opus in WebM",
-      "is_public": true,
-      "tag": "New",
-      "bug": null
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": null,
+      "created": "2014-03-04T10:03:58+00:00",
+      "is_public": true,
+      "modified": "2014-07-21T04:02:15+00:00",
       "note": "Option to not hide titlebar when scrolling",
-      "is_public": true,
-      "tag": "New",
-      "bug": null
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": null,
+      "created": "2014-03-26T16:57:08+00:00",
+      "is_public": true,
+      "modified": "2014-07-21T04:03:41+00:00",
       "note": "navigator.plugins is no longer enumerable, for user privacy",
-      "is_public": true,
-      "tag": "Changed",
-      "bug": null
+      "sort_num": 0,
+      "tag": "Changed"
     },
     {
+      "bug": null,
+      "created": "2014-03-04T09:52:12+00:00",
+      "is_public": true,
+      "modified": "2014-07-21T04:28:31+00:00",
       "note": "Support for MathML 2.0 'mathvariant' attribute",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": null
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
-      "note": "Support for multi-line flexbox in layout",
+      "bug": null,
+      "created": "2014-03-04T09:52:46+00:00",
       "is_public": true,
-      "tag": "Developer",
-      "bug": null
+      "modified": "2014-07-21T04:28:16+00:00",
+      "note": "Support for multi-line flexbox in layout",
+      "sort_num": 0,
+      "tag": "Developer"
     }
   ],
-  "text": " ",
+  "product": "Firefox for Android",
   "release_date": "2013-12-13",
   "slug": "firefox-for-android-28.0a2-aurora",
-  "version": "28.0a2",
-  "bug_search_url": "",
-  "is_public": true,
   "system_requirements": " ",
-  "channel": "Aurora"
+  "text": " ",
+  "title": "Firefox for Android 28.0a2 Aurora",
+  "version": "28.0a2"
 }

@@ -1,33 +1,44 @@
 {
-  "product": "Firefox for Android",
   "bug_list": "",
-  "title": "Firefox for Android 51.0beta Beta",
+  "bug_search_url": "",
+  "channel": "Beta",
+  "created": "2016-11-15T08:56:34.694000+00:00",
+  "is_public": true,
+  "modified": "2016-11-17T23:08:22.984000+00:00",
   "notes": [
     {
+      "bug": 1307995,
+      "created": "2016-11-15T09:00:10.956000+00:00",
+      "is_public": true,
+      "modified": "2017-02-06T09:44:45.778000+00:00",
       "note": "Added Nepali (ne-NP), Bulgarian (bg) and Kabyle (kab) locales\r\n",
-      "is_public": true,
-      "tag": "New",
-      "bug": 1307995
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": 1307995,
+      "created": "2017-01-18T13:55:55.312000+00:00",
+      "is_public": true,
+      "modified": "2017-02-06T09:44:47.343000+00:00",
       "note": "Remove Belarusian (be) locale",
-      "is_public": true,
-      "tag": "New",
-      "bug": 1307995
+      "sort_num": -1,
+      "tag": "New"
     },
     {
-      "note": "Use 2D graphics library (Skia) for content rendering",
+      "bug": 1186552,
+      "created": "2016-09-21T07:47:25.393000+00:00",
       "is_public": true,
-      "tag": "Changed",
-      "bug": 1186552
+      "modified": "2017-02-06T09:44:43.590000+00:00",
+      "note": "Use 2D graphics library (Skia) for content rendering",
+      "sort_num": 0,
+      "tag": "Changed"
     }
   ],
-  "text": "",
+  "product": "Firefox for Android",
   "release_date": "2016-11-16",
   "slug": "firefox-for-android-51.0beta-beta",
-  "version": "51.0beta",
-  "bug_search_url": "",
-  "is_public": true,
   "system_requirements": "## Operating systems\r\n - Android 4.0\r\n - Above versions\r\n\r\n## Requirements\r\n - 50 MB internal storage\r\n - 384 MB of RAM\r\n - display at least 320 pixels high and 240 pixels wide",
-  "channel": "Beta"
+  "text": "",
+  "title": "Firefox for Android 51.0beta Beta",
+  "version": "51.0beta"
 }

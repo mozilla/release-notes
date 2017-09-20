@@ -1,63 +1,89 @@
 {
-  "product": "Firefox Extended Support Release",
   "bug_list": "",
-  "title": "Firefox Extended Support Release 31.3.0 ESR",
+  "bug_search_url": "",
+  "channel": "ESR",
+  "created": "2014-11-25T05:48:28+00:00",
+  "is_public": true,
+  "modified": "2015-05-12T17:53:57+00:00",
   "notes": [
     {
+      "bug": null,
+      "created": "2014-11-25T05:52:36+00:00",
+      "is_public": true,
+      "modified": "2014-12-01T21:24:30+00:00",
       "note": "Security fixes can be found <a href=\"https://www.mozilla.org/security/known-vulnerabilities/firefoxESR.html\">here</a>",
-      "is_public": true,
-      "tag": "Fixed",
-      "bug": null
+      "sort_num": 1,
+      "tag": "Fixed"
     },
     {
+      "bug": 1055766,
+      "created": "2014-11-25T18:27:27+00:00",
+      "is_public": true,
+      "modified": "2014-11-25T18:28:11+00:00",
       "note": "@ JS::Handle<JSObject*>::operator JSObject* const&() startup crash (see  <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1055766\"> bug 1055766 </a>)",
-      "is_public": true,
-      "tag": "Fixed",
-      "bug": 1055766
+      "sort_num": 0,
+      "tag": "Fixed"
     },
     {
+      "bug": 1095128,
+      "created": "2014-12-01T21:16:20+00:00",
+      "is_public": true,
+      "modified": "2014-12-01T21:35:50+00:00",
       "note": "Intermittent failures in add-ons manager mochitest-browser tests (see  <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1095128\"> bug 1095128 </a>)",
-      "is_public": true,
-      "tag": "Fixed",
-      "bug": 1095128
+      "sort_num": 0,
+      "tag": "Fixed"
     },
     {
+      "bug": 1054043,
+      "created": "2014-12-01T21:17:09+00:00",
+      "is_public": true,
+      "modified": "2014-12-01T21:36:15+00:00",
       "note": "Bad CPU type in executable running mochitests on yosemite  (see  <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1054043\"> bug 1054043 </a>)",
-      "is_public": true,
-      "tag": "Fixed",
-      "bug": 1054043
+      "sort_num": 0,
+      "tag": "Fixed"
     },
     {
+      "bug": 1005458,
+      "created": "2014-12-01T21:17:46+00:00",
+      "is_public": true,
+      "modified": "2014-12-01T21:38:47+00:00",
       "note": "Error building nsChildView.mm on OS X 10.10 (see  <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1005458\"> bug 1005458 </a>)",
-      "is_public": true,
-      "tag": "Fixed",
-      "bug": 1005458
+      "sort_num": 0,
+      "tag": "Fixed"
     },
     {
+      "bug": 1045231,
+      "created": "2014-12-01T21:19:26+00:00",
+      "is_public": true,
+      "modified": "2014-12-01T21:41:11+00:00",
       "note": "Build error on Yosemite (see  <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1045231\"> bug 1045231 </a>)",
-      "is_public": true,
-      "tag": "Fixed",
-      "bug": 1045231
+      "sort_num": 0,
+      "tag": "Fixed"
     },
     {
+      "bug": 1096651,
+      "created": "2014-12-01T21:20:43+00:00",
+      "is_public": true,
+      "modified": "2014-12-01T21:40:34+00:00",
       "note": "Wrong CPU features detection on some x86 CPUs (see  <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1096651\"> bug 1096651 </a>)",
-      "is_public": true,
-      "tag": "Fixed",
-      "bug": 1096651
+      "sort_num": 0,
+      "tag": "Fixed"
     },
     {
-      "note": "XMLHttpRequest.send({}) should not throw (see  <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1096263\"> bug 1096263 </a>)",
+      "bug": 1096263,
+      "created": "2014-12-01T21:22:20+00:00",
       "is_public": true,
-      "tag": "Fixed",
-      "bug": 1096263
+      "modified": "2014-12-01T22:18:39+00:00",
+      "note": "XMLHttpRequest.send({}) should not throw (see  <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1096263\"> bug 1096263 </a>)",
+      "sort_num": -10,
+      "tag": "Fixed"
     }
   ],
-  "text": "",
+  "product": "Firefox Extended Support Release",
   "release_date": "2014-12-01",
   "slug": "firefox-31.3.0-esr",
-  "version": "31.3.0",
-  "bug_search_url": "",
-  "is_public": true,
   "system_requirements": "## Windows\r\n\r\n### Operating Systems\r\n - Windows XP SP2\r\n - Windows Server 2003 SP1\r\n - Windows Vista\r\n - Windows 7\r\n - Windows 8\r\n\r\n*Please note that while the 32-bit and 64-bit versions of Windows Vista and Windows 7 can be used to run Firefox, only 32-bit builds of Firefox are supported at this time.*\r\n\r\n### Recommended Hardware\r\n-  Pentium 4 or newer processor that supports SSE2\r\n-  512MB of RAM\r\n-  200MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- Mac OS X 10.6\r\n- Mac OS X 10.7\r\n- Mac OS X 10.8\r\n- Mac OS X 10.9\r\n\r\n### Recommended Hardware\r\n- Macintosh computer with an Intel x86 processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - GTK+ 2.18 or higher\r\n    - GLib 2.22 or higher\r\n    - Pango 1.14 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n    - libstdc++ 4.3 or higher\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - NetworkManager 0.7 or higher\r\n    - DBus 1.0 or higher\r\n    - HAL 0.5.8 or higher\r\n    - GNOME 2.16 or higher",
-  "channel": "ESR"
+  "text": "",
+  "title": "Firefox Extended Support Release 31.3.0 ESR",
+  "version": "31.3.0"
 }

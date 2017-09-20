@@ -1,69 +1,98 @@
 {
-  "product": "Firefox",
   "bug_list": "",
-  "title": "Firefox 28.0a2 Aurora",
+  "bug_search_url": "",
+  "channel": "Aurora",
+  "created": "2014-03-13T09:00:44+00:00",
+  "is_public": true,
+  "modified": "2014-05-28T10:03:16+00:00",
   "notes": [
     {
+      "bug": null,
+      "created": "2014-03-04T09:50:26+00:00",
+      "is_public": true,
+      "modified": "2014-09-23T08:43:43+00:00",
       "note": "[Gamepad API][1] finalized and enabled\r\n\r\n[1]: https://hacks.mozilla.org/2013/12/the-gamepad-api/",
-      "is_public": true,
-      "tag": "New",
-      "bug": null
+      "sort_num": 1800,
+      "tag": "New"
     },
     {
+      "bug": null,
+      "created": "2014-03-04T09:51:55+00:00",
+      "is_public": true,
+      "modified": "2014-07-21T04:25:45+00:00",
       "note": "VP9 video decoding implemented",
-      "is_public": true,
-      "tag": "New",
-      "bug": null
+      "sort_num": 500,
+      "tag": "New"
     },
     {
+      "bug": null,
+      "created": "2014-03-04T09:50:41+00:00",
+      "is_public": true,
+      "modified": "2014-07-21T04:13:54+00:00",
       "note": "Mac OS X: Notification Center support for web notifications",
-      "is_public": true,
-      "tag": "New",
-      "bug": null
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": null,
+      "created": "2014-03-04T09:50:53+00:00",
+      "is_public": true,
+      "modified": "2014-07-21T04:25:14+00:00",
       "note": "Horizontal HTML5 audio/video volume control",
-      "is_public": true,
-      "tag": "New",
-      "bug": null
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": null,
+      "created": "2014-03-04T09:51:05+00:00",
+      "is_public": true,
+      "modified": "2014-07-21T04:26:06+00:00",
       "note": "Support for Opus in WebM",
-      "is_public": true,
-      "tag": "New",
-      "bug": null
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": null,
+      "created": "2014-03-26T16:57:08+00:00",
+      "is_public": true,
+      "modified": "2014-07-21T04:03:41+00:00",
       "note": "navigator.plugins is no longer enumerable, for user privacy",
-      "is_public": true,
-      "tag": "Changed",
-      "bug": null
+      "sort_num": 0,
+      "tag": "Changed"
     },
     {
+      "bug": null,
+      "created": "2014-03-04T09:52:12+00:00",
+      "is_public": true,
+      "modified": "2014-07-21T04:28:31+00:00",
       "note": "Support for MathML 2.0 'mathvariant' attribute",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": null
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
+      "bug": null,
+      "created": "2014-03-04T09:52:37+00:00",
+      "is_public": true,
+      "modified": "2014-05-09T10:26:53+00:00",
       "note": "&lt;input type=\"color\"&gt; implemented and enabled",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": null
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
-      "note": "Support for multi-line flexbox in layout",
+      "bug": null,
+      "created": "2014-03-04T09:52:46+00:00",
       "is_public": true,
-      "tag": "Developer",
-      "bug": null
+      "modified": "2014-07-21T04:28:16+00:00",
+      "note": "Support for multi-line flexbox in layout",
+      "sort_num": 0,
+      "tag": "Developer"
     }
   ],
-  "text": " ",
+  "product": "Firefox",
   "release_date": "2013-12-13",
   "slug": "firefox-28.0a2-aurora",
-  "version": "28.0a2",
-  "bug_search_url": "",
-  "is_public": true,
   "system_requirements": " <h2>Windows</h2>\r\n\r\n<h6>Operating Systems</h6>\r\n\r\n<ul>\r\n  <li>Windows XP SP2</li>\r\n  <li>Windows Server 2003</li>\r\n  <li>Windows Vista</li>\r\n  <li>Windows 7</li>\r\n  <li>Windows 8</li>\r\n</ul>\r\n\r\n<p><em><small>Please note that while the 32-bit and 64-bit versions of Windows Vista\r\nand Windows 7 can be used to run Firefox 28, only 32-bit builds of Firefox 28 are\r\nsupported at this time.</small></em></p>\r\n\r\n<h6>Recommended Hardware</h6>\r\n\r\n<ul>\r\n  <li>Pentium 4 or newer processor that supports SSE2</li>\r\n  <li>512MB of RAM</li>\r\n  <li>200MB of hard drive space</li>\r\n</ul>\r\n\r\n<h2>Mac</h2>\r\n\r\n<h6>Operating Systems</h6>\r\n\r\n<ul>\r\n  <li>Mac OS X 10.6</li>\r\n  <li>Mac OS X 10.7</li>\r\n  <li>Mac OS X 10.8</li>\r\n  <li>Mac OS X 10.9</li>\r\n</ul>\r\n\r\n<h6>Recommended Hardware</h6>\r\n\r\n<ul>\r\n  <li>Macintosh computer with an Intel x86 processor</li>\r\n  <li>512 MB of RAM</li>\r\n  <li>200 MB hard drive space</li>\r\n</ul>\r\n\r\n<h2>Linux</h2>\r\n\r\n<h6>Software Requirements</h6>\r\n\r\n<p>Please note that Linux distributors may provide packages\r\nfor your distribution which have different requirements.</p>\r\n\r\n<ul>\r\n  <li>Firefox will not run at all without the following libraries or packages:\r\n    <ul>\r\n      <li>GTK+ 2.18 or higher</li>\r\n      <li>GLib 2.22 or higher</li>\r\n      <li>Pango 1.14 or higher</li>\r\n      <li>X.Org 1.0 or higher (1.7 or higher is recommended)</li>\r\n      <li>libstdc++ 4.3 or higher</li>\r\n    </ul>\r\n  </li>\r\n  <li>For optimal functionality, we recommend the following libraries or packages:\r\n    <ul>\r\n      <li>NetworkManager 0.7 or higher</li>\r\n      <li>DBus 1.0 or higher</li>\r\n      <li>HAL 0.5.8 or higher</li>\r\n      <li>GNOME 2.16 or higher</li>\r\n    </ul>\r\n  </li>\r\n</ul>",
-  "channel": "Aurora"
+  "text": " ",
+  "title": "Firefox 28.0a2 Aurora",
+  "version": "28.0a2"
 }

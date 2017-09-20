@@ -1,203 +1,283 @@
 {
-  "product": "Firefox",
   "bug_list": "",
-  "title": "Firefox 33.0 Release",
+  "bug_search_url": "",
+  "channel": "Release",
+  "created": "2014-07-17T07:40:19+00:00",
+  "is_public": true,
+  "modified": "2014-10-14T12:53:36+00:00",
   "notes": [
     {
+      "bug": 948160,
+      "created": "2014-07-24T04:46:48+00:00",
+      "is_public": true,
+      "modified": "2014-11-06T23:39:16+00:00",
       "note": "[OpenH264 support][1] (sandboxed)\r\n\r\n\r\n  [1]: http://andreasgal.com/2014/10/14/openh264-now-in-firefox/",
-      "is_public": true,
-      "tag": "New",
-      "bug": 948160
+      "sort_num": 100,
+      "tag": "New"
     },
     {
+      "bug": 982428,
+      "created": "2014-07-24T05:21:22+00:00",
+      "is_public": true,
+      "modified": "2014-11-06T23:39:16+00:00",
       "note": "[Improved search experience][1] through the location bar\r\n\r\n\r\n  [1]: http://msujaws.wordpress.com/2014/08/01/faster-and-snappier-searches-now-in-firefox-aurora/",
-      "is_public": true,
-      "tag": "New",
-      "bug": 982428
+      "sort_num": 99,
+      "tag": "New"
     },
     {
+      "bug": 899785,
+      "created": "2014-07-23T07:50:12+00:00",
+      "is_public": true,
+      "modified": "2014-11-06T23:39:16+00:00",
       "note": "Windows: [OMTC][1] enabled by default\r\n\r\n\r\n  [1]: https://wiki.mozilla.org/Platform/GFX/OffMainThreadCompositing\r\n",
-      "is_public": true,
-      "tag": "New",
-      "bug": 899785
+      "sort_num": 98,
+      "tag": "New"
     },
     {
+      "bug": 1037871,
+      "created": "2014-07-23T07:56:07+00:00",
+      "is_public": true,
+      "modified": "2014-11-06T23:39:16+00:00",
       "note": "Slimmer and faster [JavaScript strings][1]\r\n\r\n  [1]: https://blog.mozilla.org/javascript/2014/07/21/slimmer-and-faster-javascript-strings-in-firefox/",
-      "is_public": true,
-      "tag": "New",
-      "bug": 1037871
+      "sort_num": 98,
+      "tag": "New"
     },
     {
+      "bug": 612453,
+      "created": "2014-08-28T06:41:41+00:00",
+      "is_public": true,
+      "modified": "2014-11-06T23:39:16+00:00",
       "note": "Search suggestions on the Firefox Start (about:home) and new tab (about:newtab) pages",
-      "is_public": true,
-      "tag": "New",
-      "bug": 612453
+      "sort_num": 98,
+      "tag": "New"
     },
     {
+      "bug": 378637,
+      "created": "2014-07-17T15:03:34+00:00",
+      "is_public": true,
+      "modified": "2014-11-06T23:39:16+00:00",
       "note": "Support for connecting to HTTP proxy over HTTPS",
-      "is_public": true,
-      "tag": "New",
-      "bug": 378637
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": 925004,
+      "created": "2014-07-23T07:37:34+00:00",
+      "is_public": true,
+      "modified": "2014-11-06T23:39:16+00:00",
       "note": "New CSP (Content Security Policy) backend",
-      "is_public": true,
-      "tag": "New",
-      "bug": 925004
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": 883609,
+      "created": "2014-07-17T08:58:22+00:00",
+      "is_public": true,
+      "modified": "2014-11-06T23:39:16+00:00",
       "note": "Improved reliability of the [session restoration][1]\r\n\r\n  [1]: https://dutherenverseauborddelatable.wordpress.com/2014/06/26/firefox-the-browser-that-has-your-backup/",
-      "is_public": true,
-      "tag": "New",
-      "bug": 883609
+      "sort_num": -1,
+      "tag": "New"
     },
     {
+      "bug": 1054497,
+      "created": "2014-08-18T03:13:01+00:00",
+      "is_public": true,
+      "modified": "2014-11-06T23:39:16+00:00",
       "note": "Azerbaijani [az] locale added",
-      "is_public": true,
-      "tag": "New",
-      "bug": 1054497
+      "sort_num": -100,
+      "tag": "New"
     },
     {
+      "bug": 800200,
+      "created": "2014-07-17T08:46:49+00:00",
+      "is_public": true,
+      "modified": "2014-11-06T23:39:16+00:00",
       "note": "[JSD (JavaScript Debugger Service) removed][1] in favor of the Debugger interface\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Debugger-API",
-      "is_public": true,
-      "tag": "Changed",
-      "bug": 800200
+      "sort_num": 0,
+      "tag": "Changed"
     },
     {
+      "bug": 1036546,
+      "created": "2014-08-28T05:09:05+00:00",
+      "is_public": true,
+      "modified": "2014-11-06T23:39:16+00:00",
       "note": "Proprietary window.crypto properties/functions removed",
-      "is_public": true,
-      "tag": "Changed",
-      "bug": 1036546
+      "sort_num": 0,
+      "tag": "Changed"
     },
     {
+      "bug": 1018497,
+      "created": "2014-07-17T09:08:11+00:00",
+      "is_public": true,
+      "modified": "2014-11-06T23:39:16+00:00",
       "note": "[DOMMatrix][1] interface implemented\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/DOMMatrix",
-      "is_public": true,
-      "tag": "HTML5",
-      "bug": 1018497
+      "sort_num": 0,
+      "tag": "HTML5"
     },
     {
+      "bug": 966166,
+      "created": "2014-08-28T06:25:31+00:00",
+      "is_public": true,
+      "modified": "2014-11-06T23:39:16+00:00",
       "note": "[@counter-style rule][1] from CSS3 Counter Styles specification implemented\r\n\r\n\r\n  [1]: http://dev.w3.org/csswg/css-counter-styles/#the-counter-style-rule",
-      "is_public": true,
-      "tag": "HTML5",
-      "bug": 966166
+      "sort_num": 0,
+      "tag": "HTML5"
     },
     {
+      "bug": 711941,
+      "created": "2014-07-24T06:05:27+00:00",
+      "is_public": true,
+      "modified": "2014-11-06T23:39:16+00:00",
       "note": "[Cubic-bezier curves][1] editor\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector#Editing_cubic_B.C3.A9zier_curves",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": 711941
+      "sort_num": 10,
+      "tag": "Developer"
     },
     {
+      "bug": 900692,
+      "created": "2014-07-23T07:43:47+00:00",
+      "is_public": true,
+      "modified": "2014-11-06T23:39:16+00:00",
       "note": "[Paint flashing][1] for browser content repaints\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Paint_Flashing_Tool",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": 900692
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
+      "bug": 736078,
+      "created": "2014-07-30T05:40:07+00:00",
+      "is_public": true,
+      "modified": "2014-11-06T23:39:16+00:00",
       "note": "Display which elements have [listeners attached][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector#Examining_event_listeners",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": 736078
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
+      "bug": 1012806,
+      "created": "2014-07-30T05:46:44+00:00",
+      "is_public": true,
+      "modified": "2014-11-06T23:39:16+00:00",
       "note": "[New sidebar][1] which displays a list of shortcuts to every @media rule in the current stylesheet\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Style_Editor#The_media_sidebar",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": 1012806
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
+      "bug": 1030889,
+      "created": "2014-07-30T06:01:13+00:00",
+      "is_public": true,
+      "modified": "2014-11-06T23:39:16+00:00",
       "note": "[Editable @keyframes][1] rules in the Rules section of the Inspector\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector#Editing_keyframes",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": 1030889
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
+      "bug": 1014547,
+      "created": "2014-07-30T06:02:36+00:00",
+      "is_public": true,
+      "modified": "2014-11-06T23:39:16+00:00",
       "note": "[CSS transform highlighter][1] in the style-inspector\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector#transform_visualisation",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": 1014547
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
+      "bug": null,
+      "created": "2013-11-25T00:24:50+00:00",
+      "is_public": true,
+      "modified": "2015-03-26T15:55:42+00:00",
       "note": "Various <a href=\"https://www.mozilla.org/security/known-vulnerabilities/firefox.html\">security fixes</a>",
-      "is_public": true,
-      "tag": "Fixed",
-      "bug": null
+      "sort_num": 0,
+      "tag": "Fixed"
     },
     {
-      "note": "Fix incomplete downloads being marked as complete by detecting broken HTTP1.1 transfers ([237623][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=237623",
-      "is_public": true,
-      "tag": "Fixed",
       "bug": 237623,
+      "created": "2014-07-17T08:51:57+00:00",
       "fixed_in_release": {
-        "product": "Firefox",
-        "title": "Firefox 33.0 Release",
-        "version": "33.0",
+        "channel": "Release",
         "is_public": true,
+        "product": "Firefox",
         "slug": "firefox-33.0-release",
-        "channel": "Release"
-      }
+        "title": "Firefox 33.0 Release",
+        "version": "33.0"
+      },
+      "is_public": true,
+      "modified": "2014-11-06T23:39:16+00:00",
+      "note": "Fix incomplete downloads being marked as complete by detecting broken HTTP1.1 transfers ([237623][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=237623",
+      "sort_num": 0,
+      "tag": "Fixed"
     },
     {
+      "bug": 1072164,
+      "created": "2014-10-07T02:27:18+00:00",
+      "is_public": true,
+      "modified": "2014-11-14T22:22:08+00:00",
       "note": "PDF.js: With some images, wrong colors could show up. Affects a very small number of PDF",
-      "is_public": true,
-      "tag": "Known",
-      "bug": 1072164
+      "sort_num": 0,
+      "tag": "Known"
     },
     {
-      "note": "Some certificate errors cannot be overridden ([1042889][1])\r\n\r\n\r\n  [1]: http://bugzilla.mozilla.org/1042889",
-      "is_public": true,
-      "tag": "Known",
       "bug": 1042889,
+      "created": "2014-10-13T15:40:12+00:00",
       "fixed_in_release": {
-        "product": "Firefox",
-        "title": "Firefox 33.1 Release",
-        "version": "33.1",
+        "channel": "Release",
         "is_public": true,
+        "product": "Firefox",
         "slug": "firefox-33.1-release",
-        "channel": "Release"
-      }
+        "title": "Firefox 33.1 Release",
+        "version": "33.1"
+      },
+      "is_public": true,
+      "modified": "2014-11-10T12:56:16+00:00",
+      "note": "Some certificate errors cannot be overridden ([1042889][1])\r\n\r\n\r\n  [1]: http://bugzilla.mozilla.org/1042889",
+      "sort_num": 0,
+      "tag": "Known"
     },
     {
-      "note": "Windows: On some combination of hardware and drivers, the main window could be black. In this case, update your graphics drivers ([1083071][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1083071",
-      "is_public": true,
-      "tag": "Known",
       "bug": 1083071,
+      "created": "2014-10-22T16:35:05+00:00",
       "fixed_in_release": {
-        "product": "Firefox",
-        "title": "Firefox 33.0.1 Release",
-        "version": "33.0.1",
+        "channel": "Release",
         "is_public": true,
+        "product": "Firefox",
         "slug": "firefox-33.0.1-release",
-        "channel": "Release"
-      }
+        "title": "Firefox 33.0.1 Release",
+        "version": "33.0.1"
+      },
+      "is_public": true,
+      "modified": "2014-11-25T04:04:11+00:00",
+      "note": "Windows: On some combination of hardware and drivers, the main window could be black. In this case, update your graphics drivers ([1083071][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1083071",
+      "sort_num": 0,
+      "tag": "Known"
     },
     {
-      "note": "Windows: With Avast HTTPS scanning enabled, Firefox will not close correctly ([1087674][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1087674",
-      "is_public": true,
-      "tag": "Known",
       "bug": 1087674,
+      "created": "2014-10-29T16:04:48+00:00",
       "fixed_in_release": {
-        "product": "Firefox",
-        "title": "Firefox 33.1 Release",
-        "version": "33.1",
+        "channel": "Release",
         "is_public": true,
+        "product": "Firefox",
         "slug": "firefox-33.1-release",
-        "channel": "Release"
-      }
+        "title": "Firefox 33.1 Release",
+        "version": "33.1"
+      },
+      "is_public": true,
+      "modified": "2014-11-10T12:55:21+00:00",
+      "note": "Windows: With Avast HTTPS scanning enabled, Firefox will not close correctly ([1087674][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1087674",
+      "sort_num": 0,
+      "tag": "Known"
     },
     {
-      "note": "Windows: Interface may be slow when typing or selecting text ([1089183][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1089183",
+      "bug": 1087674,
+      "created": "2014-10-29T16:05:46+00:00",
       "is_public": true,
-      "tag": "Known",
-      "bug": 1087674
+      "modified": "2014-11-14T22:22:08+00:00",
+      "note": "Windows: Interface may be slow when typing or selecting text ([1089183][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1089183",
+      "sort_num": 0,
+      "tag": "Known"
     }
   ],
-  "text": "<p>We'd also like to extend a special thank you to all of the <a href=\"https://blog.mozilla.org/community/2014/10/09/firefox-33-new-contributors/\">new Mozillians</a> who contributed to this release of Firefox!</p>",
+  "product": "Firefox",
   "release_date": "2014-10-13",
   "slug": "firefox-33.0-release",
-  "version": "33.0",
-  "bug_search_url": "",
-  "is_public": true,
   "system_requirements": "## Windows\r\n\r\n### Operating Systems\r\n - Windows XP SP2\r\n - Windows Server 2003 SP1\r\n - Windows Vista\r\n - Windows 7\r\n - Windows 8\r\n\r\n*Please note that while the 32-bit and 64-bit versions of Windows Vista and Windows 7 can be used to run Firefox 33, only 32-bit builds of Firefox 33 are supported at this time.*\r\n\r\n### Recommended Hardware\r\n-  Pentium 4 or newer processor that supports SSE2\r\n-  512MB of RAM\r\n-  200MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- Mac OS X 10.6\r\n- Mac OS X 10.7\r\n- Mac OS X 10.8\r\n- Mac OS X 10.9\r\n\r\n### Recommended Hardware\r\n- Macintosh computer with an Intel x86 processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - GTK+ 2.18 or higher\r\n    - GLib 2.22 or higher\r\n    - Pango 1.14 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n    - libstdc++ 4.3 or higher\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - NetworkManager 0.7 or higher\r\n    - DBus 1.0 or higher\r\n    - HAL 0.5.8 or higher\r\n    - GNOME 2.16 or higher",
-  "channel": "Release"
+  "text": "<p>We'd also like to extend a special thank you to all of the <a href=\"https://blog.mozilla.org/community/2014/10/09/firefox-33-new-contributors/\">new Mozillians</a> who contributed to this release of Firefox!</p>",
+  "title": "Firefox 33.0 Release",
+  "version": "33.0"
 }

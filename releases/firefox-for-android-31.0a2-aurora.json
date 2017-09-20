@@ -1,107 +1,151 @@
 {
-  "product": "Firefox for Android",
   "bug_list": "",
-  "title": "Firefox for Android 31.0a2 Aurora",
+  "bug_search_url": "",
+  "channel": "Aurora",
+  "created": "2014-04-09T06:53:21+00:00",
+  "is_public": true,
+  "modified": "2014-05-02T16:14:15+00:00",
   "notes": [
     {
+      "bug": 850600,
+      "created": "2013-11-25T00:24:50+00:00",
+      "is_public": true,
+      "modified": "2014-07-16T08:54:31+00:00",
       "note": "Pull-to-refresh on synced tabs page",
-      "is_public": true,
-      "tag": "New",
-      "bug": 850600
+      "sort_num": 180,
+      "tag": "New"
     },
     {
+      "bug": null,
+      "created": "2014-04-30T03:48:30+00:00",
+      "is_public": true,
+      "modified": "2014-07-22T00:58:01+00:00",
       "note": "Ability to re-order existing panels in about:home",
-      "is_public": true,
-      "tag": "New",
-      "bug": null
+      "sort_num": 150,
+      "tag": "New"
     },
     {
+      "bug": null,
+      "created": "2014-03-13T13:29:12+00:00",
+      "is_public": true,
+      "modified": "2014-07-21T04:07:45+00:00",
       "note": "Hindi [hi-IN] locale added",
-      "is_public": true,
-      "tag": "New",
-      "bug": null
+      "sort_num": 100,
+      "tag": "New"
     },
     {
+      "bug": 619558,
+      "created": "2014-04-09T06:54:25+00:00",
+      "is_public": true,
+      "modified": "2014-09-23T08:43:43+00:00",
       "note": "Integration of generational garbage collection",
-      "is_public": true,
-      "tag": "New",
-      "bug": 619558
+      "sort_num": 80,
+      "tag": "New"
     },
     {
+      "bug": null,
+      "created": "2014-04-09T07:51:51+00:00",
+      "is_public": true,
+      "modified": "2014-07-17T02:15:23+00:00",
       "note": "OdinMonkey: Use backtracking allocator for asm.js style code",
-      "is_public": true,
-      "tag": "New",
-      "bug": null
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": 915930,
+      "created": "2014-04-29T10:46:12+00:00",
+      "is_public": true,
+      "modified": "2014-07-11T07:24:35+00:00",
       "note": "mozilla::pkix as default certificate verifier ([learn more][1])\r\n\r\n\r\n  [1]: https://blog.mozilla.org/security/2014/04/24/exciting-updates-to-certificate-verification-in-gecko/",
-      "is_public": true,
-      "tag": "New",
-      "bug": 915930
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": 407059,
+      "created": "2014-05-26T09:18:40+00:00",
+      "is_public": true,
+      "modified": "2014-07-21T00:01:42+00:00",
       "note": "Partial implementation of the <a href=\"http://mpeg.chiariglione.org/standards/mpeg-4/open-font-format/text-isoiec-cd-14496-22-3rd-edition\">OpenType MATH table</a> (section 6.3.6) see <a href=\"https://developer.mozilla.org/en-US/docs/Mozilla/MathML_Project/Fonts\">documentation about mathematical fonts</a> and the <a href=\"https://developer.mozilla.org/en-US/docs/Mozilla/MathML_Project/MathML_Torture_Test\">MathML Torture Test</a> for details",
-      "is_public": true,
-      "tag": "New",
-      "bug": 407059
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": 629350,
+      "created": "2014-03-05T02:28:46+00:00",
+      "is_public": true,
+      "modified": "2014-07-11T07:24:35+00:00",
       "note": "WebVTT implemented and enabled (<a href=\"https://developer.mozilla.org/en-US/docs/HTML/WebVTT\">learn more</a>)",
-      "is_public": true,
-      "tag": "HTML5",
-      "bug": 629350
+      "sort_num": 200,
+      "tag": "HTML5"
     },
     {
+      "bug": null,
+      "created": "2014-03-04T08:35:25+00:00",
+      "is_public": true,
+      "modified": "2014-07-21T04:06:13+00:00",
       "note": "CSS3 variables implemented ([learn more][1])\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_variables",
-      "is_public": true,
-      "tag": "HTML5",
-      "bug": null
+      "sort_num": 0,
+      "tag": "HTML5"
     },
     {
+      "bug": 990220,
+      "created": "2014-04-30T05:22:23+00:00",
+      "is_public": true,
+      "modified": "2014-07-16T07:24:17+00:00",
       "note": "navigator.sendBeacon enabled by default ([learn more][1])\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/navigator.sendBeacon",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": 990220
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
+      "bug": 911147,
+      "created": "2014-04-30T10:47:28+00:00",
+      "is_public": true,
+      "modified": "2014-07-11T07:24:35+00:00",
       "note": "New Array built-in: Array.prototype.fill() (<a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/fill\">learn more</a>)",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": 911147
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
+      "bug": 911147,
+      "created": "2014-04-30T10:48:24+00:00",
+      "is_public": true,
+      "modified": "2014-07-11T07:24:35+00:00",
       "note": "New Object built-in: Object.setPrototypeOf() ([learn more][1])\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/setPrototypeOf",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": 911147
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
+      "bug": 979580,
+      "created": "2014-05-04T06:45:37+00:00",
+      "is_public": true,
+      "modified": "2014-07-11T07:24:35+00:00",
       "note": "CSP 1.1 nonce-source and hash-source enabled by default",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": 979580
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
-      "note": "After MP4 video playback, video can not be played again ([1005622][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1005622",
-      "is_public": true,
-      "tag": "Known",
       "bug": 1005622,
+      "created": "2014-05-07T02:18:02+00:00",
       "fixed_in_release": {
-        "product": "Firefox for Android",
-        "title": "Firefox for Android 30.0 Release",
-        "version": "30.0",
+        "channel": "Release",
         "is_public": true,
+        "product": "Firefox for Android",
         "slug": "firefox-for-android-30.0-release",
-        "channel": "Release"
-      }
+        "title": "Firefox for Android 30.0 Release",
+        "version": "30.0"
+      },
+      "is_public": true,
+      "modified": "2014-06-09T14:56:11+00:00",
+      "note": "After MP4 video playback, video can not be played again ([1005622][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1005622",
+      "sort_num": 0,
+      "tag": "Known"
     }
   ],
-  "text": " ",
+  "product": "Firefox for Android",
   "release_date": "2014-05-02",
   "slug": "firefox-for-android-31.0a2-aurora",
-  "version": "31.0a2",
-  "bug_search_url": "",
-  "is_public": true,
   "system_requirements": " ",
-  "channel": "Aurora"
+  "text": " ",
+  "title": "Firefox for Android 31.0a2 Aurora",
+  "version": "31.0a2"
 }

@@ -1,27 +1,35 @@
 {
-  "product": "Firefox for Android",
   "bug_list": "",
-  "title": "Firefox for Android 42.0.2 Release",
+  "bug_search_url": "",
+  "channel": "Release",
+  "created": "2015-12-02T17:27:59+00:00",
+  "is_public": true,
+  "modified": "2015-12-02T17:44:14+00:00",
   "notes": [
     {
-      "note": "Reference: Release notes for [Firefox 42.0.1][1]\r\n\r\n  [1]: /firefox/android/42.0.1/releasenotes/",
+      "bug": null,
+      "created": "2015-12-02T17:29:31+00:00",
       "is_public": true,
-      "tag": "",
-      "bug": null
+      "modified": "2015-12-02T17:33:34+00:00",
+      "note": "Reference: Release notes for [Firefox 42.0.1][1]\r\n\r\n  [1]: /firefox/android/42.0.1/releasenotes/",
+      "sort_num": 0,
+      "tag": ""
     },
     {
-      "note": "Resolved MDNSD battery usage issues on some devices and some configurations ([1215012][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1215012",
+      "bug": 1215012,
+      "created": "2015-12-02T17:30:22+00:00",
       "is_public": true,
-      "tag": "Fixed",
-      "bug": 1215012
+      "modified": "2015-12-02T19:41:11+00:00",
+      "note": "Resolved MDNSD battery usage issues on some devices and some configurations ([1215012][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1215012",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
-  "text": "<p>We'd also like to extend a special thank you to all of the <a href=\"http://blog.mozilla.org/community/2015/11/03/firefox-42-new-contributors/ \">new Mozillians</a> who contributed to this release of Firefox!</p>",
+  "product": "Firefox for Android",
   "release_date": "2015-12-02",
   "slug": "firefox-for-android-42.0.2-release",
-  "version": "42.0.2",
-  "bug_search_url": "",
-  "is_public": true,
   "system_requirements": "",
-  "channel": "Release"
+  "text": "<p>We'd also like to extend a special thank you to all of the <a href=\"http://blog.mozilla.org/community/2015/11/03/firefox-42-new-contributors/ \">new Mozillians</a> who contributed to this release of Firefox!</p>",
+  "title": "Firefox for Android 42.0.2 Release",
+  "version": "42.0.2"
 }

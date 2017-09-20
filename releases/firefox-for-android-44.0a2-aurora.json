@@ -1,51 +1,71 @@
 {
-  "product": "Firefox for Android",
   "bug_list": "",
-  "title": "Firefox for Android 44.0a2 Aurora",
+  "bug_search_url": "",
+  "channel": "Aurora",
+  "created": "2015-11-02T09:17:05+00:00",
+  "is_public": true,
+  "modified": "2015-11-03T13:53:55+00:00",
   "notes": [
     {
+      "bug": 1173147,
+      "created": "2015-11-02T09:35:49+00:00",
+      "is_public": true,
+      "modified": "2016-01-21T20:51:49.850000+00:00",
       "note": "Prompt user before opening [Intent URIs][1] in a Private Browsing tab\r\n\r\n[1]: https://developer.chrome.com/multidevice/android/intents",
-      "is_public": true,
-      "tag": "New",
-      "bug": 1173147
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": null,
+      "created": "2015-11-03T15:33:15+00:00",
+      "is_public": true,
+      "modified": "2016-01-21T20:51:49.850000+00:00",
       "note": "Show search history suggestions",
-      "is_public": true,
-      "tag": "New",
-      "bug": null
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": 1078432,
+      "created": "2015-11-03T15:33:57+00:00",
+      "is_public": true,
+      "modified": "2015-12-16T20:18:38+00:00",
       "note": "Cloud printing support",
-      "is_public": true,
-      "tag": "New",
-      "bug": 1078432
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": null,
+      "created": "2015-11-03T15:34:29+00:00",
+      "is_public": true,
+      "modified": "2016-01-21T20:51:49.850000+00:00",
       "note": "Web-based Firefox Accounts page",
-      "is_public": true,
-      "tag": "New",
-      "bug": null
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": 1172083,
+      "created": "2015-11-03T15:35:07+00:00",
+      "is_public": true,
+      "modified": "2016-01-25T18:48:41.822000+00:00",
       "note": "Easier access to search settings while searching",
-      "is_public": true,
-      "tag": "New",
-      "bug": 1172083
+      "sort_num": 0,
+      "tag": "New"
     },
     {
-      "note": "[Improved tabs tray][1] on phones\r\n\r\n\r\n  [1]: https://medium.com/@antlam/a-new-mobile-tabs-tray-327ac262eacb",
+      "bug": 1161638,
+      "created": "2015-12-16T20:03:55+00:00",
       "is_public": true,
-      "tag": "Changed",
-      "bug": 1161638
+      "modified": "2016-01-25T18:41:19.065000+00:00",
+      "note": "[Improved tabs tray][1] on phones\r\n\r\n\r\n  [1]: https://medium.com/@antlam/a-new-mobile-tabs-tray-327ac262eacb",
+      "sort_num": 0,
+      "tag": "Changed"
     }
   ],
-  "text": "",
+  "product": "Firefox for Android",
   "release_date": "2015-11-03",
   "slug": "firefox-for-android-44.0a2-aurora",
-  "version": "44.0a2",
-  "bug_search_url": "",
-  "is_public": true,
   "system_requirements": "",
-  "channel": "Aurora"
+  "text": "",
+  "title": "Firefox for Android 44.0a2 Aurora",
+  "version": "44.0a2"
 }

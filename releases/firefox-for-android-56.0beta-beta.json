@@ -1,57 +1,80 @@
 {
-  "product": "Firefox for Android",
   "bug_list": "",
-  "title": "Firefox for Android 56.0beta Beta",
+  "bug_search_url": "",
+  "channel": "Beta",
+  "created": "2017-08-03T21:12:04.396000+00:00",
+  "is_public": true,
+  "modified": "2017-08-08T18:24:17.312000+00:00",
   "notes": [
     {
+      "bug": 1383345,
+      "created": "2017-08-04T22:25:55.224000+00:00",
+      "is_public": true,
+      "modified": "2017-08-04T22:29:06.186000+00:00",
       "note": "Added Zapoteco (zam) and Belarusian (be) locales\r\n",
-      "is_public": true,
-      "tag": "New",
-      "bug": 1383345
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": 1265755,
+      "created": "2017-08-04T22:31:14.929000+00:00",
+      "is_public": true,
+      "modified": "2017-08-04T22:31:14.929000+00:00",
       "note": "Improved power consumption and performance for WebRTC with the use of hardware encoders",
-      "is_public": true,
-      "tag": "New",
-      "bug": 1265755
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": 1345752,
+      "created": "2017-08-04T22:32:09.002000+00:00",
+      "is_public": true,
+      "modified": "2017-08-07T19:39:51.276000+00:00",
       "note": "Improved support for HLS (HTTP Live Streaming) playback ",
-      "is_public": true,
-      "tag": "New",
-      "bug": 1345752
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": 1351571,
+      "created": "2017-08-07T19:47:35.242000+00:00",
+      "is_public": true,
+      "modified": "2017-08-07T19:47:35.242000+00:00",
       "note": "Get feature recommendations and hints to improve your Firefox experience",
-      "is_public": true,
-      "tag": "New",
-      "bug": 1351571
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": 1185785,
+      "created": "2017-08-07T19:49:20.395000+00:00",
+      "is_public": true,
+      "modified": "2017-08-07T19:49:20.395000+00:00",
       "note": "Web Extensions support on Android ",
-      "is_public": true,
-      "tag": "New",
-      "bug": 1185785
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": 1381916,
+      "created": "2017-08-07T19:51:18.732000+00:00",
+      "is_public": true,
+      "modified": "2017-08-07T19:51:18.732000+00:00",
       "note": "Support of Flash ended",
-      "is_public": true,
-      "tag": "New",
-      "bug": 1381916
+      "sort_num": 0,
+      "tag": "New"
     },
     {
-      "note": "Support of Android 4.0 (API 15) ended",
+      "bug": 1316462,
+      "created": "2017-08-04T22:30:24.340000+00:00",
       "is_public": true,
-      "tag": "Changed",
-      "bug": 1316462
+      "modified": "2017-08-04T22:30:24.340000+00:00",
+      "note": "Support of Android 4.0 (API 15) ended",
+      "sort_num": 0,
+      "tag": "Changed"
     }
   ],
-  "text": "",
+  "product": "Firefox for Android",
   "release_date": "2017-08-08",
   "slug": "firefox-for-android-56.0beta-beta",
-  "version": "56.0beta",
-  "bug_search_url": "",
-  "is_public": true,
   "system_requirements": "## Operating systems\r\n - Android 4.1\r\n - Above versions\r\n\r\n## Requirements\r\n - 50 MB internal storage\r\n - 384 MB of RAM\r\n - display at least 320 pixels high and 240 pixels wide\r\n",
-  "channel": "Beta"
+  "text": "",
+  "title": "Firefox for Android 56.0beta Beta",
+  "version": "56.0beta"
 }

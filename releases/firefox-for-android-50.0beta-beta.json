@@ -1,27 +1,35 @@
 {
-  "product": "Firefox for Android",
   "bug_list": "",
-  "title": "Firefox for Android 50.0beta Beta",
+  "bug_search_url": "",
+  "channel": "Beta",
+  "created": "2016-09-19T16:55:31.023000+00:00",
+  "is_public": true,
+  "modified": "2016-09-21T17:34:52.847000+00:00",
   "notes": [
     {
-      "note": "Added support for HLS videos via player overlay",
+      "bug": 1286133,
+      "created": "2016-09-19T17:03:53.318000+00:00",
       "is_public": true,
-      "tag": "New",
-      "bug": 1286133
+      "modified": "2016-11-14T01:35:19.249000+00:00",
+      "note": "Added support for HLS videos via player overlay",
+      "sort_num": 0,
+      "tag": "New"
     },
     {
-      "note": "Simplified the user interface by combining the Recent Tabs and History panels",
+      "bug": 1251362,
+      "created": "2016-08-03T21:36:30.426000+00:00",
       "is_public": true,
-      "tag": "Changed",
-      "bug": 1251362
+      "modified": "2016-11-14T01:34:46.678000+00:00",
+      "note": "Simplified the user interface by combining the Recent Tabs and History panels",
+      "sort_num": 0,
+      "tag": "Changed"
     }
   ],
-  "text": "",
+  "product": "Firefox for Android",
   "release_date": "2016-09-20",
   "slug": "firefox-for-android-50.0beta-beta",
-  "version": "50.0beta",
-  "bug_search_url": "",
-  "is_public": true,
   "system_requirements": "## Operating systems\r\n - Android 4.0\r\n - Above versions\r\n\r\n## Requirements\r\n - 50 MB internal storage\r\n - 384 MB of RAM\r\n - display at least 320 pixels high and 240 pixels wide",
-  "channel": "Beta"
+  "text": "",
+  "title": "Firefox for Android 50.0beta Beta",
+  "version": "50.0beta"
 }

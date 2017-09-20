@@ -1,14 +1,16 @@
 {
-  "product": "Firefox",
   "bug_list": "",
-  "title": "Firefox 7.0beta Beta",
+  "bug_search_url": "",
+  "channel": "Beta",
+  "created": "2014-05-27T09:42:39+00:00",
+  "is_public": true,
+  "modified": "2014-05-27T09:45:06+00:00",
   "notes": [],
-  "text": " ",
+  "product": "Firefox",
   "release_date": "2011-08-18",
   "slug": "firefox-7.0beta-beta",
-  "version": "7.0beta",
-  "bug_search_url": "",
-  "is_public": true,
   "system_requirements": "<h2>Windows</h2>\r\n\r\n<h6>Operating Systems</h6>\r\n\r\n<ul>\r\n  <li>Windows 2000</li>\r\n  <li>Windows XP</li>\r\n  <li>Windows Server 2003</li>\r\n  <li>Windows Vista</li>\r\n  <li>Windows 7</li>\r\n</ul>\r\n\r\n<p><em><small>Please note that while the 32-bit and 64-bit versions of Windows Vista\r\nand Windows 7 can be used to run Firefox 7, only 32-bit builds of Firefox 7 are\r\nsupported at this time.</small></em></p>\r\n\r\n<h6>Recommended Hardware</h6>\r\n\r\n<ul>\r\n  <li>Pentium 4 or newer processor that supports SSE2</li>\r\n  <li>512MB of RAM</li>\r\n  <li>200MB of hard drive space</li>\r\n</ul>\r\n\r\n<h2>Mac</h2>\r\n\r\n<h6>Operating Systems</h6>\r\n\r\n<ul>\r\n  <li>Mac OS X 10.5</li>\r\n  <li>Mac OS X 10.6</li>\r\n  <li>Mac OS X 10.7</li>\r\n</ul>\r\n\r\n<h6>Recommended Hardware</h6>\r\n\r\n<ul>\r\n  <li>Macintosh computer with an Intel x86 processor</li>\r\n  <li>512 MB of RAM</li>\r\n  <li>200 MB hard drive space</li>\r\n</ul>\r\n\r\n<h2>Linux</h2>\r\n\r\n<h6>Software Requirements</h6>\r\n\r\n<p>Please note that Linux distributors may provide packages\r\nfor your distribution which have different requirements.</p>\r\n\r\n<ul>\r\n  <li>Firefox will not run at all without the following libraries or packages:\r\n    <ul>\r\n      <li>GTK+ 2.10 or higher</li>\r\n      <li>GLib 2.12 or higher</li>\r\n      <li>Pango 1.14 or higher</li>\r\n      <li>X.Org 1.0 or higher (1.7 or higher is recommended)</li>\r\n      <li>libstdc++ 4.3 or higher</li>\r\n    </ul>\r\n  </li>\r\n  <li>For optimal functionality, we recommend the following libraries or packages:\r\n    <ul>\r\n      <li>NetworkManager 0.7 or higher</li>\r\n      <li>DBus 1.0 or higher</li>\r\n      <li>HAL 0.5.8 or higher</li>\r\n      <li>GNOME 2.16 or higher</li>\r\n    </ul>\r\n  </li>\r\n</ul>",
-  "channel": "Beta"
+  "text": " ",
+  "title": "Firefox 7.0beta Beta",
+  "version": "7.0beta"
 }

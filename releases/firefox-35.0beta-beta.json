@@ -1,93 +1,134 @@
 {
-  "product": "Firefox",
   "bug_list": "",
-  "title": "Firefox 35.0beta Beta",
+  "bug_search_url": "",
+  "channel": "Beta",
+  "created": "2014-10-03T02:58:25+00:00",
+  "is_public": true,
+  "modified": "2014-12-04T15:59:51+00:00",
   "notes": [
     {
+      "bug": null,
+      "created": "2014-12-04T16:17:31+00:00",
+      "is_public": true,
+      "modified": "2015-01-26T14:34:57+00:00",
       "note": "Firefox Hello with new rooms-based conversations model",
-      "is_public": true,
-      "tag": "New",
-      "bug": null
+      "sort_num": 1000,
+      "tag": "New"
     },
     {
+      "bug": 1043696,
+      "created": "2014-10-03T05:38:41+00:00",
+      "is_public": true,
+      "modified": "2015-01-26T14:34:57+00:00",
       "note": "Built-in support for H264 (MP4) on Mac OS X Snow Leopard (10.6) and newer through native APIs",
-      "is_public": true,
-      "tag": "New",
-      "bug": 1043696
+      "sort_num": 80,
+      "tag": "New"
     },
     {
+      "bug": 977991,
+      "created": "2014-10-09T04:27:23+00:00",
+      "is_public": true,
+      "modified": "2015-02-05T22:57:54+00:00",
       "note": "Improved handling of dynamic styling changes to increase responsiveness",
-      "is_public": true,
-      "tag": "New",
-      "bug": 977991
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": 1001090,
+      "created": "2014-10-03T02:55:26+00:00",
+      "is_public": true,
+      "modified": "2015-02-05T22:57:54+00:00",
       "note": "Changed JavaScript ['let' semantics][1] to conform better to the ES6 specification\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let#Temporal_dead_zone_and_errors_with_let",
-      "is_public": true,
-      "tag": "HTML5",
-      "bug": 1001090
+      "sort_num": 0,
+      "tag": "HTML5"
     },
     {
+      "bug": 1002855,
+      "created": "2014-10-03T05:44:28+00:00",
+      "is_public": true,
+      "modified": "2015-02-05T22:57:54+00:00",
       "note": "Resource Timing API implemented",
-      "is_public": true,
-      "tag": "HTML5",
-      "bug": 1002855
+      "sort_num": 0,
+      "tag": "HTML5"
     },
     {
+      "bug": 1057180,
+      "created": "2014-10-09T04:24:27+00:00",
+      "is_public": true,
+      "modified": "2015-02-05T22:57:54+00:00",
       "note": "[CSS filters][1] enabled by default\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/filter",
-      "is_public": true,
-      "tag": "HTML5",
-      "bug": 1057180
+      "sort_num": 0,
+      "tag": "HTML5"
     },
     {
+      "bug": 504553,
+      "created": "2014-10-17T12:27:04+00:00",
+      "is_public": true,
+      "modified": "2015-05-14T23:51:43+00:00",
       "note": "WebSocket now available in Web Workers",
-      "is_public": true,
-      "tag": "HTML5",
-      "bug": 504553
+      "sort_num": 0,
+      "tag": "HTML5"
     },
     {
+      "bug": 1088437,
+      "created": "2015-01-08T23:44:07+00:00",
+      "is_public": true,
+      "modified": "2015-02-05T22:57:54+00:00",
       "note": "Added support for the CSS Font Loading API",
-      "is_public": true,
-      "tag": "HTML5",
-      "bug": 1088437
+      "sort_num": 0,
+      "tag": "HTML5"
     },
     {
+      "bug": 920141,
+      "created": "2014-10-03T05:58:23+00:00",
+      "is_public": true,
+      "modified": "2015-01-26T14:34:57+00:00",
       "note": "Support for inspecting ::before and ::after pseudo elements",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": 920141
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
+      "bug": 1059360,
+      "created": "2014-12-02T22:05:54+00:00",
+      "is_public": true,
+      "modified": "2015-02-05T22:57:54+00:00",
       "note": "Computed view: Nodes matching the hovered selector are now highlighted",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": 1059360
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
+      "bug": 992679,
+      "created": "2014-12-02T21:56:48+00:00",
+      "is_public": true,
+      "modified": "2015-01-26T14:34:57+00:00",
       "note": "Show DOM Properties context menu item in inspector",
-      "is_public": true,
-      "tag": "Fixed",
-      "bug": 992679
+      "sort_num": 0,
+      "tag": "Fixed"
     },
     {
+      "bug": 1060200,
+      "created": "2014-12-02T22:07:26+00:00",
+      "is_public": true,
+      "modified": "2015-02-05T22:57:54+00:00",
       "note": "Reduced resource usage for scaled images",
-      "is_public": true,
-      "tag": "Fixed",
-      "bug": 1060200
+      "sort_num": 0,
+      "tag": "Fixed"
     },
     {
-      "note": "PDF.js updated to version 1.0.907",
+      "bug": 1084158,
+      "created": "2014-12-03T00:01:03+00:00",
       "is_public": true,
-      "tag": "Fixed",
-      "bug": 1084158
+      "modified": "2015-01-26T14:34:57+00:00",
+      "note": "PDF.js updated to version 1.0.907",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
-  "text": "",
+  "product": "Firefox",
   "release_date": "2014-12-04",
   "slug": "firefox-35.0beta-beta",
-  "version": "35.0beta",
-  "bug_search_url": "",
-  "is_public": true,
   "system_requirements": "## Windows\r\n\r\n### Operating Systems\r\n - Windows XP SP2\r\n - Windows Server 2003 SP1\r\n - Windows Vista\r\n - Windows 7\r\n - Windows 8\r\n\r\n*Please note that while the 32-bit and 64-bit versions of Windows Vista and Windows 7 can be used to run Firefox 26, only 32-bit builds of Firefox 26 are supported at this time.*\r\n\r\n### Recommended Hardware\r\n-  Pentium 4 or newer processor that supports SSE2\r\n-  512MB of RAM\r\n-  200MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- Mac OS X 10.6\r\n- Mac OS X 10.7\r\n- Mac OS X 10.8\r\n- Mac OS X 10.9\r\n\r\n### Recommended Hardware\r\n- Macintosh computer with an Intel x86 processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - GTK+ 2.18 or higher\r\n    - GLib 2.22 or higher\r\n    - Pango 1.14 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n    - libstdc++ 4.3 or higher\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - NetworkManager 0.7 or higher\r\n    - DBus 1.0 or higher\r\n    - HAL 0.5.8 or higher\r\n    - GNOME 2.16 or higher",
-  "channel": "Beta"
+  "text": "",
+  "title": "Firefox 35.0beta Beta",
+  "version": "35.0beta"
 }

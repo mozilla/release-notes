@@ -1,57 +1,80 @@
 {
-  "product": "Firefox",
   "bug_list": "",
-  "title": "Firefox 46.0.1 Release",
+  "bug_search_url": "",
+  "channel": "Release",
+  "created": "2016-05-02T18:51:33.612000+00:00",
+  "is_public": true,
+  "modified": "2016-05-03T20:14:05.326000+00:00",
   "notes": [
     {
+      "bug": null,
+      "created": "2016-05-02T18:55:33.537000+00:00",
+      "is_public": true,
+      "modified": "2016-05-02T18:55:34.132000+00:00",
       "note": "Reference link to [Firefox 46.0][1] release notes\r\n\r\n\r\n  [1]: https://www.mozilla.org/en-US/firefox/46.0/releasenotes/",
-      "is_public": true,
-      "tag": "",
-      "bug": null
+      "sort_num": 0,
+      "tag": ""
     },
     {
+      "bug": 1268922,
+      "created": "2016-05-02T19:04:13.402000+00:00",
+      "is_public": true,
+      "modified": "2016-05-03T20:29:12.895000+00:00",
       "note": "Page loading issue related to antivirus software (Bug [1268922][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1268922",
-      "is_public": true,
-      "tag": "Fixed",
-      "bug": 1268922
+      "sort_num": 0,
+      "tag": "Fixed"
     },
     {
+      "bug": 1266366,
+      "created": "2016-05-02T19:17:20.802000+00:00",
+      "is_public": true,
+      "modified": "2016-05-03T20:28:52.058000+00:00",
       "note": "Build issue when jit is disabled (Bug [1266366][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1266366",
-      "is_public": true,
-      "tag": "Fixed",
-      "bug": 1266366
+      "sort_num": 0,
+      "tag": "Fixed"
     },
     {
+      "bug": 1267733,
+      "created": "2016-05-02T19:19:36.027000+00:00",
+      "is_public": true,
+      "modified": "2016-05-03T20:28:29.132000+00:00",
       "note": "Service worker update issue (Bug [1267733][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1267733",
-      "is_public": true,
-      "tag": "Fixed",
-      "bug": 1267733
+      "sort_num": 0,
+      "tag": "Fixed"
     },
     {
+      "bug": 1262312,
+      "created": "2016-05-02T19:22:57.770000+00:00",
+      "is_public": true,
+      "modified": "2016-05-02T19:22:58.485000+00:00",
       "note": "Limit Sync registration updates (Bug [1262312][1]) \r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1262312",
-      "is_public": true,
-      "tag": "Fixed",
-      "bug": 1262312
+      "sort_num": 0,
+      "tag": "Fixed"
     },
     {
+      "bug": 1267318,
+      "created": "2016-05-02T19:24:05.947000+00:00",
+      "is_public": true,
+      "modified": "2016-05-03T20:27:27.472000+00:00",
       "note": "Add-on signing certificate expiration (Bug [1267318][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1267318",
-      "is_public": true,
-      "tag": "Fixed",
-      "bug": 1267318
+      "sort_num": 0,
+      "tag": "Fixed"
     },
     {
-      "note": "Search plugin issue for various locales (Bug [1246494][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1246494",
+      "bug": 1246494,
+      "created": "2016-05-02T19:35:59.078000+00:00",
       "is_public": true,
-      "tag": "Fixed",
-      "bug": 1246494
+      "modified": "2016-05-03T20:27:10.008000+00:00",
+      "note": "Search plugin issue for various locales (Bug [1246494][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1246494",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
-  "text": "<p>We'd also like to extend a special thank you to all of the <a href=\"http://blog.mozilla.org/community/2016/04/22/firefox-46-new-contributors/\">new Mozillians</a> who contributed to this release of Firefox!</p> ",
+  "product": "Firefox",
   "release_date": "2016-05-03",
   "slug": "firefox-46.0.1-release",
-  "version": "46.0.1",
-  "bug_search_url": "",
-  "is_public": true,
   "system_requirements": "## Windows\r\n\r\n### Operating Systems (32-bit and 64-bit)\r\n - Windows XP SP2\r\n - Windows Server 2003 SP1\r\n - Windows Vista\r\n - Windows 7\r\n - Windows 8\r\n - Windows 10\r\n\r\n*Please note that 64-bit builds of Firefox are only supported on Windows 7 and higher.*\r\n\r\n### Recommended Hardware\r\n-  Pentium 4 or newer processor that supports SSE2\r\n-  512MB of RAM\r\n-  200MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- Mac OS X 10.6\r\n- Mac OS X 10.7\r\n- Mac OS X 10.8\r\n- Mac OS X 10.9\r\n- Mac OS X 10.10\r\n- Mac OS X 10.11\r\n\r\n### Recommended Hardware\r\n- Macintosh computer with an Intel x86 processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - GTK+ 3.4 or higher\r\n    - GLib 2.22 or higher\r\n    - Pango 1.14 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n    - libstdc++ 4.3 or higher\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - NetworkManager 0.7 or higher\r\n    - DBus 1.0 or higher\r\n    - HAL 0.5.8 or higher\r\n    - GNOME 2.16 or higher",
-  "channel": "Release"
+  "text": "<p>We'd also like to extend a special thank you to all of the <a href=\"http://blog.mozilla.org/community/2016/04/22/firefox-46-new-contributors/\">new Mozillians</a> who contributed to this release of Firefox!</p> ",
+  "title": "Firefox 46.0.1 Release",
+  "version": "46.0.1"
 }

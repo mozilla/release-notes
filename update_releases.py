@@ -26,7 +26,7 @@ def setup():
 def write_files(release_data):
     for release in release_data:
         with OUTPUT_DIR.joinpath('%s.json' % release['slug']).open('w') as fp:
-            json.dump(release, fp, indent=2)
+            json.dump(release, fp, indent=2, sort_keys=True)
 
     print('Wrote {} files'.format(len(release_data)))
 

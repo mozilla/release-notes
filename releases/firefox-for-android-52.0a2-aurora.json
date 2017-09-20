@@ -1,53 +1,70 @@
 {
-  "product": "Firefox for Android",
   "bug_list": "",
-  "title": "Firefox for Android 52.0a2 Aurora",
+  "bug_search_url": "",
+  "channel": "Aurora",
+  "created": "2016-11-18T19:45:22.372000+00:00",
+  "is_public": true,
+  "modified": "2016-11-21T15:36:42.849000+00:00",
   "notes": [
     {
+      "bug": 976073,
+      "created": "2017-01-18T15:59:53.893000+00:00",
+      "is_public": true,
+      "modified": "2017-03-06T10:30:57.343000+00:00",
       "note": "Implemented the Strict Secure Cookies specification which forbids insecure HTTP sites from setting cookies with the \"secure\" attribute.  In some cases, this will prevent an insecure site from setting a cookie with the same name as an existing \"secure\" cookie from the same base domain.",
-      "is_public": true,
-      "tag": "New",
-      "bug": 976073
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": 1294736,
+      "created": "2017-01-24T12:54:53.932000+00:00",
+      "is_public": true,
+      "modified": "2017-03-01T13:56:25.542000+00:00",
       "note": "Reduced APK file size by more than 5 MB for faster download and installation",
-      "is_public": true,
-      "tag": "New",
-      "bug": 1294736
+      "sort_num": 0,
+      "tag": "New"
     },
     {
-      "note": "Introduced the [requestIdleCallback API][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/Window/requestIdleCallback",
-      "is_public": true,
-      "tag": "Developer",
       "bug": 1198381,
+      "created": "2016-11-18T21:02:49.142000+00:00",
       "fixed_in_release": {
-        "product": "Firefox",
-        "title": "Firefox 52.0a2 Aurora",
-        "version": "52.0a2",
+        "channel": "Aurora",
         "is_public": true,
+        "product": "Firefox",
         "slug": "firefox-52.0a2-aurora",
-        "channel": "Aurora"
-      }
-    },
-    {
-      "note": "Introduced ECMAScript 7 [async functions][1] that makes it easier to write asynchronous code without chaining Promises\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function",
+        "title": "Firefox 52.0a2 Aurora",
+        "version": "52.0a2"
+      },
       "is_public": true,
-      "tag": "Developer",
-      "bug": 1185106
+      "modified": "2017-01-24T13:54:47.994000+00:00",
+      "note": "Introduced the [requestIdleCallback API][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/Window/requestIdleCallback",
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
-      "note": "Added the [Intersection Observer API][1] to help developers improve site performance by deferring content loading and significantly lower the cost of content visibility checks\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API",
+      "bug": 1185106,
+      "created": "2016-11-18T22:10:48.155000+00:00",
+      "is_public": true,
+      "modified": "2017-01-24T13:54:49.970000+00:00",
+      "note": "Introduced ECMAScript 7 [async functions][1] that makes it easier to write asynchronous code without chaining Promises\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function",
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
+      "bug": 1243846,
+      "created": "2016-11-18T22:12:29.899000+00:00",
       "is_public": false,
-      "tag": "Developer",
-      "bug": 1243846
+      "modified": "2017-01-27T22:19:55.457000+00:00",
+      "note": "Added the [Intersection Observer API][1] to help developers improve site performance by deferring content loading and significantly lower the cost of content visibility checks\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API",
+      "sort_num": 0,
+      "tag": "Developer"
     }
   ],
-  "text": "",
+  "product": "Firefox for Android",
   "release_date": "2016-11-18",
   "slug": "firefox-for-android-52.0a2-aurora",
-  "version": "52.0a2",
-  "bug_search_url": "",
-  "is_public": true,
   "system_requirements": "## Operating systems\r\n - Android 4.0\r\n - Above versions\r\n\r\n## Requirements\r\n - 50 MB internal storage\r\n - 384 MB of RAM\r\n - display at least 320 pixels high and 240 pixels wide",
-  "channel": "Aurora"
+  "text": "",
+  "title": "Firefox for Android 52.0a2 Aurora",
+  "version": "52.0a2"
 }

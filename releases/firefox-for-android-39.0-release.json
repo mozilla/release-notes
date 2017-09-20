@@ -1,93 +1,134 @@
 {
-  "product": "Firefox for Android",
   "bug_list": "",
-  "title": "Firefox for Android 39.0 Release",
+  "bug_search_url": "",
+  "channel": "Release",
+  "created": "2015-01-13T16:13:45+00:00",
+  "is_public": true,
+  "modified": "2015-08-11T12:19:45+00:00",
   "notes": [
     {
+      "bug": 783846,
+      "created": "2015-03-29T18:59:17+00:00",
+      "is_public": true,
+      "modified": "2015-06-19T18:40:45+00:00",
       "note": "[Paste Android clipboard content][1] into editable web content\r\n\r\n\r\n  [1]: https://miketaylr.com/posts/2015/03/contenteditable-paste.html",
-      "is_public": true,
-      "tag": "New",
-      "bug": 783846
+      "sort_num": 90,
+      "tag": "New"
     },
     {
-      "note": "[WOFF2][1] (Web Open Font Format 2.0) fonts are now supported by default\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/Guide/WOFF",
+      "bug": 1084026,
+      "created": "2015-03-28T01:15:13+00:00",
       "is_public": false,
-      "tag": "New",
-      "bug": 1084026
+      "modified": "2015-07-10T01:15:16+00:00",
+      "note": "[WOFF2][1] (Web Open Font Format 2.0) fonts are now supported by default\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/Guide/WOFF",
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": 1136563,
+      "created": "2015-04-02T23:13:01+00:00",
+      "is_public": true,
+      "modified": "2015-07-10T01:15:28+00:00",
       "note": "Support for 'switch' role in [ARIA 1.1][1] (web accessibility)\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/Accessibility/ARIA",
-      "is_public": true,
-      "tag": "New",
-      "bug": 1136563
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": 1106470,
+      "created": "2015-03-31T17:54:41+00:00",
+      "is_public": true,
+      "modified": "2015-06-15T19:28:35+00:00",
       "note": "Removed support for insecure SSLv3 for network communications",
-      "is_public": true,
-      "tag": "Changed",
-      "bug": 1106470
+      "sort_num": 0,
+      "tag": "Changed"
     },
     {
+      "bug": 1061273,
+      "created": "2015-06-30T23:37:59+00:00",
+      "is_public": true,
+      "modified": "2015-07-10T01:19:03+00:00",
       "note": "Sync now only uses the strongest TLS configuration available on your device\r\n ([self-host documentation][1])\r\n\r\n[1]:http://docs.services.mozilla.com/howtos/configure-tls.html",
-      "is_public": true,
-      "tag": "Changed",
-      "bug": 1061273
+      "sort_num": 0,
+      "tag": "Changed"
     },
     {
+      "bug": 1138658,
+      "created": "2015-03-27T22:19:45+00:00",
+      "is_public": true,
+      "modified": "2015-07-10T01:01:47+00:00",
       "note": "Added support for [CSS Scroll Snap Points][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/tag/CSS%20Scroll%20Snap%20Points",
-      "is_public": true,
-      "tag": "HTML5",
-      "bug": 1138658
+      "sort_num": 0,
+      "tag": "HTML5"
     },
     {
+      "bug": 1144607,
+      "created": "2015-03-28T02:41:14+00:00",
+      "is_public": true,
+      "modified": "2015-07-10T01:19:38+00:00",
       "note": " [List-style-type][1] now accepts a string value\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/CSS/list-style-type",
-      "is_public": true,
-      "tag": "HTML5",
-      "bug": 1144607
+      "sort_num": 0,
+      "tag": "HTML5"
     },
     {
+      "bug": 1133861,
+      "created": "2015-03-30T18:34:24+00:00",
+      "is_public": true,
+      "modified": "2015-07-10T01:07:44+00:00",
       "note": "Enable the [Fetch API][1] for network requests from dedicated, shared and service workers\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/API/Fetch_API",
-      "is_public": true,
-      "tag": "HTML5",
-      "bug": 1133861
+      "sort_num": 0,
+      "tag": "HTML5"
     },
     {
+      "bug": 1135160,
+      "created": "2015-03-30T22:11:47+00:00",
+      "is_public": true,
+      "modified": "2015-07-10T01:06:31+00:00",
       "note": "Implemented [`<link rel=\"preconnect\">`][1] allowing anticipation of a future connection without revealing any information\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/HTML/Link_types",
-      "is_public": true,
-      "tag": "HTML5",
-      "bug": 1135160
+      "sort_num": 0,
+      "tag": "HTML5"
     },
     {
+      "bug": 1125455,
+      "created": "2015-03-31T17:59:20+00:00",
+      "is_public": true,
+      "modified": "2015-06-15T19:28:35+00:00",
       "note": "Cascading of CSS transitions and animations now matches the current spec",
-      "is_public": true,
-      "tag": "HTML5",
-      "bug": 1125455
+      "sort_num": 0,
+      "tag": "HTML5"
     },
     {
+      "bug": 1136484,
+      "created": "2015-03-31T19:46:58+00:00",
+      "is_public": true,
+      "modified": "2015-06-15T19:28:35+00:00",
       "note": "Improve performance for IPv6 fallback to IPv4 ",
-      "is_public": true,
-      "tag": "Fixed",
-      "bug": 1136484
+      "sort_num": 0,
+      "tag": "Fixed"
     },
     {
+      "bug": 237623,
+      "created": "2015-05-11T20:37:55+00:00",
+      "is_public": true,
+      "modified": "2015-06-15T19:28:35+00:00",
       "note": "Fix incomplete downloads being marked as complete by detecting broken HTTP1.1 transfers",
-      "is_public": true,
-      "tag": "Fixed",
-      "bug": 237623
+      "sort_num": 0,
+      "tag": "Fixed"
     },
     {
-      "note": "Various [security fixes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/known-vulnerabilities/firefox/#firefox39",
+      "bug": null,
+      "created": "2015-07-02T21:44:40+00:00",
       "is_public": true,
-      "tag": "Fixed",
-      "bug": null
+      "modified": "2015-07-10T01:20:23+00:00",
+      "note": "Various [security fixes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/known-vulnerabilities/firefox/#firefox39",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
-  "text": "<p>We'd also like to extend a special thank you to all of the <a href=\"https://blog.mozilla.org/community/2015/06/30/firefox-39-new-contributors/\">new Mozillians</a> who contributed to this release of Firefox!</p>\r\n",
+  "product": "Firefox for Android",
   "release_date": "2015-07-02",
   "slug": "firefox-for-android-39.0-release",
-  "version": "39.0",
-  "bug_search_url": "",
-  "is_public": true,
   "system_requirements": "",
-  "channel": "Release"
+  "text": "<p>We'd also like to extend a special thank you to all of the <a href=\"https://blog.mozilla.org/community/2015/06/30/firefox-39-new-contributors/\">new Mozillians</a> who contributed to this release of Firefox!</p>\r\n",
+  "title": "Firefox for Android 39.0 Release",
+  "version": "39.0"
 }

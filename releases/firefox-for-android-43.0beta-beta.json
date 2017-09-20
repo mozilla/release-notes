@@ -1,63 +1,89 @@
 {
-  "product": "Firefox for Android",
   "bug_list": "",
-  "title": "Firefox for Android 43.0beta Beta",
+  "bug_search_url": "",
+  "channel": "Beta",
+  "created": "2015-09-14T20:03:40+00:00",
+  "is_public": true,
+  "modified": "2015-11-04T16:39:41+00:00",
   "notes": [
     {
+      "bug": 1084062,
+      "created": "2015-09-17T22:04:36+00:00",
+      "is_public": true,
+      "modified": "2015-12-14T17:44:36+00:00",
       "note": "Users can now mark read/unread state of items in [reading list panel][1]\r\n\r\n\r\n  [1]: https://support.mozilla.org/en-US/kb/save-web-pages-your-reading-list-firefox-android#w_access-your-reading-list",
-      "is_public": true,
-      "tag": "New",
-      "bug": 1084062
+      "sort_num": 100,
+      "tag": "New"
     },
     {
+      "bug": 1018504,
+      "created": "2015-09-18T17:23:04+00:00",
+      "is_public": true,
+      "modified": "2015-12-07T16:52:39+00:00",
       "note": "[Tab audio indicator][1] displays in tab list \r\n\r\n\r\n  [1]: https://support.mozilla.org/en-US/kb/identify-noisy-tabs-firefox-android",
-      "is_public": true,
-      "tag": "New",
-      "bug": 1018504
+      "sort_num": 95,
+      "tag": "New"
     },
     {
+      "bug": 1171929,
+      "created": "2015-09-16T20:53:34+00:00",
+      "is_public": true,
+      "modified": "2015-12-04T00:33:13+00:00",
       "note": "[Include URL when sharing selected text][1] from web page\r\n\r\n\r\n  [1]: https://support.mozilla.org/en-US/kb/how-do-i-share-things-firefox-android#w_how-do-i-share-from-a-web-page",
-      "is_public": true,
-      "tag": "New",
-      "bug": 1171929
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": 1182162,
+      "created": "2015-09-16T23:51:39+00:00",
+      "is_public": true,
+      "modified": "2015-12-03T02:57:14+00:00",
       "note": "[Accessibility improvements][1] for scrolling, zooming, braille, and context menus in Talkback screen reader\r\n\r\n\r\n  [1]: http://blog.monotonous.org/2015/09/15/firefox-for-android-accessibility-refresh/",
-      "is_public": true,
-      "tag": "New",
-      "bug": 1182162
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": 1142171,
+      "created": "2015-09-18T17:34:24+00:00",
+      "is_public": true,
+      "modified": "2015-12-03T02:57:14+00:00",
       "note": "New split pane styling for History panel on tablets in landscape mode",
-      "is_public": true,
-      "tag": "New",
-      "bug": 1142171
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": 1148550,
+      "created": "2015-10-02T19:00:06+00:00",
+      "is_public": true,
+      "modified": "2015-12-03T02:57:14+00:00",
       "note": "Updated toolbar menu to match latest Android UI designs",
-      "is_public": true,
-      "tag": "New",
-      "bug": 1148550
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": 1078432,
+      "created": "2015-10-29T22:02:33+00:00",
+      "is_public": true,
+      "modified": "2015-12-04T00:30:41+00:00",
       "note": "Cloud printing with the Android print service",
-      "is_public": true,
-      "tag": "New",
-      "bug": 1078432
+      "sort_num": 0,
+      "tag": "New"
     },
     {
-      "note": "Improved [API support for m4v][1] video playback\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/HTMLMediaElement/canPlayType",
+      "bug": 875573,
+      "created": "2015-11-04T15:34:53+00:00",
       "is_public": true,
-      "tag": "New",
-      "bug": 875573
+      "modified": "2015-12-03T02:57:14+00:00",
+      "note": "Improved [API support for m4v][1] video playback\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/HTMLMediaElement/canPlayType",
+      "sort_num": 0,
+      "tag": "New"
     }
   ],
-  "text": "",
+  "product": "Firefox for Android",
   "release_date": "2015-11-03",
   "slug": "firefox-for-android-43.0beta-beta",
-  "version": "43.0beta",
-  "bug_search_url": "",
-  "is_public": true,
   "system_requirements": "",
-  "channel": "Beta"
+  "text": "",
+  "title": "Firefox for Android 43.0beta Beta",
+  "version": "43.0beta"
 }

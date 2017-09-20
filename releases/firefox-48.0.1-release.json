@@ -1,83 +1,115 @@
 {
-  "product": "Firefox",
   "bug_list": "",
-  "title": "Firefox 48.0.1 Release",
+  "bug_search_url": "",
+  "channel": "Release",
+  "created": "2016-08-17T09:13:39.719000+00:00",
+  "is_public": true,
+  "modified": "2016-08-22T08:37:09.135000+00:00",
   "notes": [
     {
+      "bug": null,
+      "created": "2016-08-17T10:18:45.772000+00:00",
+      "is_public": true,
+      "modified": "2016-08-17T10:18:45.771000+00:00",
       "note": "Reference link to [Firefox 48.0][1] release notes\r\n\r\n\r\n  [1]: https://www.mozilla.org/en-US/firefox/48.0/releasenotes/",
-      "is_public": true,
-      "tag": "",
-      "bug": null
+      "sort_num": 0,
+      "tag": ""
     },
     {
+      "bug": 1287827,
+      "created": "2016-08-03T11:40:05.925000+00:00",
+      "is_public": true,
+      "modified": "2016-09-23T18:45:40.614000+00:00",
       "note": "Removed [Firefox Hello][1]\r\n\r\n\r\n  [1]: https://support.mozilla.org/en-US/kb/hello-status",
-      "is_public": true,
-      "tag": "Changed",
-      "bug": 1287827
+      "sort_num": 45,
+      "tag": "Changed"
     },
     {
+      "bug": 1276920,
+      "created": "2016-08-17T10:07:50.895000+00:00",
+      "is_public": true,
+      "modified": "2016-08-17T10:34:42.739000+00:00",
       "note": "Fix a shutdown issue (Bug [1276920][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1276920",
-      "is_public": true,
-      "tag": "Fixed",
-      "bug": 1276920
+      "sort_num": 0,
+      "tag": "Fixed"
     },
     {
+      "bug": null,
+      "created": "2016-08-17T10:11:07.110000+00:00",
+      "is_public": true,
+      "modified": "2016-08-17T10:58:19.661000+00:00",
       "note": "Fix an unsigned add-ons issue on Windows",
-      "is_public": true,
-      "tag": "Fixed",
-      "bug": null
+      "sort_num": 0,
+      "tag": "Fixed"
     },
     {
+      "bug": 1264530,
+      "created": "2016-08-17T10:12:14.997000+00:00",
+      "is_public": true,
+      "modified": "2016-08-17T10:35:34.388000+00:00",
       "note": "Fix a top crash caused by plugin issues (Bug [1264530][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1264530",
-      "is_public": true,
-      "tag": "Fixed",
-      "bug": 1264530
+      "sort_num": 0,
+      "tag": "Fixed"
     },
     {
+      "bug": 1291078,
+      "created": "2016-08-17T10:13:49.571000+00:00",
+      "is_public": true,
+      "modified": "2016-08-17T10:42:47.234000+00:00",
       "note": "Fix a different behavior with e10s / non-e10s on  &lt;select&gt;  and mouse events (Bug [1291078][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1291078",
-      "is_public": true,
-      "tag": "Fixed",
-      "bug": 1291078
+      "sort_num": 0,
+      "tag": "Fixed"
     },
     {
+      "bug": 1290469,
+      "created": "2016-08-17T10:16:38.158000+00:00",
+      "is_public": true,
+      "modified": "2016-08-17T10:51:03.745000+00:00",
       "note": "Fix a top crash in the JavaScript engine (Bug [1290469][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1290469",
-      "is_public": true,
-      "tag": "Fixed",
-      "bug": 1290469
+      "sort_num": 0,
+      "tag": "Fixed"
     },
     {
+      "bug": 1295296,
+      "created": "2016-08-17T15:07:15.443000+00:00",
+      "is_public": true,
+      "modified": "2016-08-17T15:07:15.442000+00:00",
       "note": "Fix an audio regression impacting some major websites (bug [1295296][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1295296",
-      "is_public": true,
-      "tag": "Fixed",
-      "bug": 1295296
+      "sort_num": 0,
+      "tag": "Fixed"
     },
     {
+      "bug": null,
+      "created": "2016-08-17T10:06:23.077000+00:00",
+      "is_public": true,
+      "modified": "2016-08-18T16:09:57.747000+00:00",
       "note": "Fix a crash in WebRTC",
-      "is_public": true,
-      "tag": "Fixed",
-      "bug": null
+      "sort_num": -1,
+      "tag": "Fixed"
     },
     {
-      "note": "Startup crash issue caused by Websense (Bug [1291738][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1291738",
-      "is_public": true,
-      "tag": "Known",
       "bug": 1291738,
+      "created": "2016-08-17T10:15:47.311000+00:00",
       "fixed_in_release": {
-        "product": "Firefox",
-        "title": "Firefox 48.0.2 Release",
-        "version": "48.0.2",
+        "channel": "Release",
         "is_public": true,
+        "product": "Firefox",
         "slug": "firefox-48.0.2-release",
-        "channel": "Release"
-      }
+        "title": "Firefox 48.0.2 Release",
+        "version": "48.0.2"
+      },
+      "is_public": true,
+      "modified": "2016-08-24T14:12:44.266000+00:00",
+      "note": "Startup crash issue caused by Websense (Bug [1291738][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1291738",
+      "sort_num": 0,
+      "tag": "Known"
     }
   ],
-  "text": "<p>We'd also like to extend a special thank you to all of the <a href=\"https://blog.mozilla.org/community/2016/08/01/firefox-48-new-contributors/\">new Mozillians</a> who contributed to this release of Firefox!</p>",
+  "product": "Firefox",
   "release_date": "2016-08-18",
   "slug": "firefox-48.0.1-release",
-  "version": "48.0.1",
-  "bug_search_url": "",
-  "is_public": true,
   "system_requirements": "## Windows\r\n\r\n### Operating Systems (32-bit and 64-bit)\r\n - Windows XP SP2\r\n - Windows Server 2003 SP1\r\n - Windows Vista\r\n - Windows 7\r\n - Windows 8\r\n - Windows 10\r\n\r\n*Please note that 64-bit builds of Firefox are only supported on Windows 7 and higher.*\r\n\r\n*To install [Firefox on a Windows XP system][1], because of Windows restrictions, the user will have to download Firefox 43.0.1 and then update to the current release.*\r\n\r\n### Recommended Hardware\r\n-  Pentium 4 or newer processor that supports SSE2\r\n-  512MB of RAM\r\n-  200MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- Mac OS X 10.9\r\n- Mac OS X 10.10\r\n- Mac OS X 10.11\r\n\r\n### Recommended Hardware\r\n- Macintosh computer with an Intel x86 processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - GTK+ 3.4 or higher\r\n    - GLib 2.22 or higher\r\n    - Pango 1.14 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n    - libstdc++ 4.3 or higher\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - NetworkManager 0.7 or higher\r\n    - DBus 1.0 or higher\r\n    - HAL 0.5.8 or higher\r\n    - GNOME 2.16 or higher\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/get-latest-version-firefox-windows-xp-vista",
-  "channel": "Release"
+  "text": "<p>We'd also like to extend a special thank you to all of the <a href=\"https://blog.mozilla.org/community/2016/08/01/firefox-48-new-contributors/\">new Mozillians</a> who contributed to this release of Firefox!</p>",
+  "title": "Firefox 48.0.1 Release",
+  "version": "48.0.1"
 }

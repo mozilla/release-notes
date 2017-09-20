@@ -1,63 +1,89 @@
 {
-  "product": "Firefox",
   "bug_list": "",
-  "title": "Firefox 38.1.0 ESR",
+  "bug_search_url": "",
+  "channel": "ESR",
+  "created": "2015-07-02T20:19:35+00:00",
+  "is_public": true,
+  "modified": "2015-07-02T22:40:05+00:00",
   "notes": [
     {
+      "bug": 1103375,
+      "created": "2015-07-02T20:36:59+00:00",
+      "is_public": true,
+      "modified": "2015-07-29T19:00:38+00:00",
       "note": "Firefox crashes when measuring the memory in about:memory with Yandex Elements extension installed",
-      "is_public": true,
-      "tag": "Fixed",
-      "bug": 1103375
+      "sort_num": 0,
+      "tag": "Fixed"
     },
     {
+      "bug": 1136055,
+      "created": "2015-07-02T20:39:24+00:00",
+      "is_public": true,
+      "modified": "2015-07-29T19:00:37+00:00",
       "note": "\"Save Link As...\" option does not function with 302 redirect",
-      "is_public": true,
-      "tag": "Fixed",
-      "bug": 1136055
+      "sort_num": 0,
+      "tag": "Fixed"
     },
     {
+      "bug": 1165286,
+      "created": "2015-07-02T20:41:03+00:00",
+      "is_public": true,
+      "modified": "2015-07-29T19:00:36+00:00",
       "note": "Java plugin not being able to access Firefox\u2019s proxy settings",
-      "is_public": true,
-      "tag": "Fixed",
-      "bug": 1165286
+      "sort_num": 0,
+      "tag": "Fixed"
     },
     {
+      "bug": 1165732,
+      "created": "2015-07-02T20:41:35+00:00",
+      "is_public": true,
+      "modified": "2015-07-29T19:00:35+00:00",
       "note": "Graphics performance when using the built-in VGA driver on Windows 7",
-      "is_public": true,
-      "tag": "Fixed",
-      "bug": 1165732
+      "sort_num": 0,
+      "tag": "Fixed"
     },
     {
+      "bug": 1166066,
+      "created": "2015-07-02T20:42:07+00:00",
+      "is_public": true,
+      "modified": "2015-07-29T19:00:33+00:00",
       "note": "Links with '_blank' target do not open a new window when in private browsing mode",
-      "is_public": true,
-      "tag": "Fixed",
-      "bug": 1166066
+      "sort_num": 0,
+      "tag": "Fixed"
     },
     {
+      "bug": null,
+      "created": "2015-07-02T20:53:30+00:00",
+      "is_public": true,
+      "modified": "2016-06-29T06:22:42.511000+00:00",
       "note": "Various stability fixes",
-      "is_public": true,
-      "tag": "Fixed",
-      "bug": null
+      "sort_num": 0,
+      "tag": "Fixed"
     },
     {
+      "bug": null,
+      "created": "2015-07-02T20:55:44+00:00",
+      "is_public": true,
+      "modified": "2015-07-29T19:02:06+00:00",
       "note": "Various [security fixes][1] \r\n\r\n[1]: https://www.mozilla.org/security/known-vulnerabilities/firefox-esr/#firefoxesr38.1",
-      "is_public": true,
-      "tag": "Fixed",
-      "bug": null
+      "sort_num": 0,
+      "tag": "Fixed"
     },
     {
-      "note": "getUserMedia activating camera light, but not receiving video",
+      "bug": 1150539,
+      "created": "2015-07-02T20:59:14+00:00",
       "is_public": true,
-      "tag": "Fixed",
-      "bug": 1150539
+      "modified": "2015-07-29T19:00:29+00:00",
+      "note": "getUserMedia activating camera light, but not receiving video",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
-  "text": "",
+  "product": "Firefox",
   "release_date": "2015-07-02",
   "slug": "firefox-38.1.0-esr",
-  "version": "38.1.0",
-  "bug_search_url": "",
-  "is_public": true,
   "system_requirements": "",
-  "channel": "ESR"
+  "text": "",
+  "title": "Firefox 38.1.0 ESR",
+  "version": "38.1.0"
 }

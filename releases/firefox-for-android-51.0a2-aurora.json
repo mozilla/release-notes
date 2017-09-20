@@ -1,21 +1,26 @@
 {
-  "product": "Firefox for Android",
   "bug_list": "",
-  "title": "Firefox for Android 51.0a2 Aurora",
+  "bug_search_url": "",
+  "channel": "Aurora",
+  "created": "2016-09-21T07:45:22.046000+00:00",
+  "is_public": true,
+  "modified": "2016-09-22T09:48:10.486000+00:00",
   "notes": [
     {
-      "note": "Use 2D graphics library (Skia) for content rendering",
+      "bug": 1186552,
+      "created": "2016-09-21T07:47:25.393000+00:00",
       "is_public": true,
-      "tag": "Changed",
-      "bug": 1186552
+      "modified": "2017-02-06T09:44:43.590000+00:00",
+      "note": "Use 2D graphics library (Skia) for content rendering",
+      "sort_num": 0,
+      "tag": "Changed"
     }
   ],
-  "text": "",
+  "product": "Firefox for Android",
   "release_date": "2016-09-20",
   "slug": "firefox-for-android-51.0a2-aurora",
-  "version": "51.0a2",
-  "bug_search_url": "",
-  "is_public": true,
   "system_requirements": "## Operating systems\r\n - Android 4.0\r\n - Above versions\r\n\r\n## Requirements\r\n - 50 MB internal storage\r\n - 384 MB of RAM\r\n - display at least 320 pixels high and 240 pixels wide",
-  "channel": "Aurora"
+  "text": "",
+  "title": "Firefox for Android 51.0a2 Aurora",
+  "version": "51.0a2"
 }

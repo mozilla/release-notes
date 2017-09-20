@@ -1,105 +1,152 @@
 {
-  "product": "Firefox for Android",
   "bug_list": "",
-  "title": "Firefox for Android 37.0beta Beta",
+  "bug_search_url": "",
+  "channel": "Beta",
+  "created": "2015-01-13T16:13:45+00:00",
+  "is_public": true,
+  "modified": "2015-02-28T09:39:45+00:00",
   "notes": [
     {
+      "bug": 1014156,
+      "created": "2015-01-15T15:13:28+00:00",
+      "is_public": true,
+      "modified": "2015-03-27T13:13:08+00:00",
       "note": "[Updated Tablet UI][1]\r\n\r\n[1]:https://medium.com/@antlam/firefox-for-android-on-tablets-f67edc83dd46",
-      "is_public": true,
-      "tag": "New",
-      "bug": 1014156
+      "sort_num": 100,
+      "tag": "New"
     },
     {
+      "bug": 1134717,
+      "created": "2015-02-20T21:41:57+00:00",
+      "is_public": true,
+      "modified": "2015-04-03T04:11:38+00:00",
       "note": "Locales added: Albanian [sq], Burmese [my], Lower Sorbian [dsb], Songhai [son], Upper Sorbian [hsb], Uzbek [uz]",
-      "is_public": true,
-      "tag": "New",
-      "bug": 1134717
+      "sort_num": 100,
+      "tag": "New"
     },
     {
+      "bug": 1078796,
+      "created": "2015-01-15T15:22:01+00:00",
+      "is_public": true,
+      "modified": "2015-03-31T13:38:23+00:00",
       "note": "Added support for sending videos to Matchstick devices",
-      "is_public": true,
-      "tag": "New",
-      "bug": 1078796
+      "sort_num": 90,
+      "tag": "New"
     },
     {
+      "bug": 901360,
+      "created": "2015-01-15T15:20:39+00:00",
+      "is_public": true,
+      "modified": "2015-04-03T04:11:42+00:00",
       "note": "Improved download performance with new download manager back-end",
-      "is_public": true,
-      "tag": "New",
-      "bug": 901360
+      "sort_num": 80,
+      "tag": "New"
     },
     {
+      "bug": 1024809,
+      "created": "2015-01-16T18:42:49+00:00",
+      "is_public": true,
+      "modified": "2015-04-03T04:11:44+00:00",
       "note": "Improved protection against site impersonation via OneCRL centralized certificate revocation",
-      "is_public": true,
-      "tag": "New",
-      "bug": 1024809
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": 1113790,
+      "created": "2015-02-19T19:55:09+00:00",
+      "is_public": true,
+      "modified": "2015-04-03T04:11:46+00:00",
       "note": "[Opportunistically encrypt HTTP traffic][1] where the server supports HTTP/2 AltSvc\r\n\r\n[1]: https://bitsup.blogspot.com/2015/03/opportunistic-encryption-for-firefox.html ",
-      "is_public": true,
-      "tag": "New",
-      "bug": 1113790
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": 1111729,
+      "created": "2015-01-15T15:15:38+00:00",
+      "is_public": true,
+      "modified": "2015-04-03T04:11:49+00:00",
       "note": "URL bar now displays page address instead of page title by default",
-      "is_public": true,
-      "tag": "Changed",
-      "bug": 1111729
+      "sort_num": 110,
+      "tag": "Changed"
     },
     {
+      "bug": 1084025,
+      "created": "2015-02-19T15:53:30+00:00",
+      "is_public": true,
+      "modified": "2015-04-03T04:11:50+00:00",
       "note": "Disabled insecure TLS version fallback for site security",
-      "is_public": true,
-      "tag": "Changed",
-      "bug": 1084025
+      "sort_num": 100,
+      "tag": "Changed"
     },
     {
+      "bug": 1073867,
+      "created": "2015-01-16T18:45:55+00:00",
+      "is_public": true,
+      "modified": "2015-04-03T04:11:53+00:00",
       "note": "Improved certificate and TLS communication security by removing support for DSA",
-      "is_public": true,
-      "tag": "Changed",
-      "bug": 1073867
+      "sort_num": 0,
+      "tag": "Changed"
     },
     {
+      "bug": 1111399,
+      "created": "2015-01-16T18:48:15+00:00",
+      "is_public": true,
+      "modified": "2015-03-26T21:20:36+00:00",
       "note": "Added support for e-mail name constraints in certificates",
-      "is_public": true,
-      "tag": "Changed",
-      "bug": 1111399
+      "sort_num": 0,
+      "tag": "Changed"
     },
     {
+      "bug": 1096197,
+      "created": "2015-01-16T19:01:48+00:00",
+      "is_public": true,
+      "modified": "2015-04-03T04:11:55+00:00",
       "note": "Extended SSL error reporting for reporting non-certificate errors",
-      "is_public": true,
-      "tag": "Changed",
-      "bug": 1096197
+      "sort_num": 0,
+      "tag": "Changed"
     },
     {
+      "bug": 1109766,
+      "created": "2015-01-16T21:45:13+00:00",
+      "is_public": true,
+      "modified": "2015-04-03T04:11:56+00:00",
       "note": "TLS False Start optimization now requires a cipher suite using AEAD construction",
-      "is_public": true,
-      "tag": "Changed",
-      "bug": 1109766
+      "sort_num": 0,
+      "tag": "Changed"
     },
     {
+      "bug": 504553,
+      "created": "2014-10-17T12:27:04+00:00",
+      "is_public": true,
+      "modified": "2015-05-14T23:51:43+00:00",
       "note": "WebSocket now available in Web Workers",
-      "is_public": true,
-      "tag": "HTML5",
-      "bug": 504553
+      "sort_num": 0,
+      "tag": "HTML5"
     },
     {
+      "bug": 1102374,
+      "created": "2015-01-15T15:05:41+00:00",
+      "is_public": true,
+      "modified": "2015-04-03T04:12:03+00:00",
       "note": "Added support for CSS [display:contents][1]\r\n\r\n[1]: https://developer.mozilla.org/en-US/docs/Web/CSS/display",
-      "is_public": true,
-      "tag": "HTML5",
-      "bug": 1102374
+      "sort_num": 0,
+      "tag": "HTML5"
     },
     {
-      "note": "IndexedDB now accessible from worker threads",
+      "bug": 701634,
+      "created": "2015-01-15T15:10:45+00:00",
       "is_public": true,
-      "tag": "HTML5",
-      "bug": 701634
+      "modified": "2015-04-03T04:12:04+00:00",
+      "note": "IndexedDB now accessible from worker threads",
+      "sort_num": 0,
+      "tag": "HTML5"
     }
   ],
-  "text": "",
+  "product": "Firefox for Android",
   "release_date": "2015-02-27",
   "slug": "firefox-for-android-37.0beta-beta",
-  "version": "37.0beta",
-  "bug_search_url": "",
-  "is_public": true,
   "system_requirements": "",
-  "channel": "Beta"
+  "text": "",
+  "title": "Firefox for Android 37.0beta Beta",
+  "version": "37.0beta"
 }

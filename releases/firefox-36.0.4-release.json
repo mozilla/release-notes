@@ -1,249 +1,356 @@
 {
-  "product": "Firefox",
   "bug_list": "",
-  "title": "Firefox 36.0.4 Release",
+  "bug_search_url": "",
+  "channel": "Release",
+  "created": "2014-10-03T02:58:25+00:00",
+  "is_public": true,
+  "modified": "2015-03-21T19:14:28+00:00",
   "notes": [
     {
+      "bug": null,
+      "created": "2015-03-21T03:18:48+00:00",
+      "is_public": true,
+      "modified": "2015-03-21T03:19:07+00:00",
       "note": "36.0.4: [Security fixes][1] for issues disclosed at HP Zero Day Initiative's Pwn2Own contest\r\n\r\n[1]: https://www.mozilla.org/security/known-vulnerabilities/firefox/#firefox36.0.4",
-      "is_public": true,
-      "tag": "Fixed",
-      "bug": null
+      "sort_num": 15000,
+      "tag": "Fixed"
     },
     {
+      "bug": 739820,
+      "created": "2014-12-05T18:34:04+00:00",
+      "is_public": true,
+      "modified": "2015-03-21T03:15:59+00:00",
       "note": "Pinned tiles on the new tab page can be synced",
-      "is_public": true,
-      "tag": "New",
-      "bug": 739820
+      "sort_num": 1000,
+      "tag": "New"
     },
     {
+      "bug": 1097320,
+      "created": "2015-02-19T15:53:50+00:00",
+      "is_public": true,
+      "modified": "2015-03-26T15:54:32+00:00",
       "note": "Support for the full HTTP/2 protocol. HTTP/2 enables a faster, more scalable, and more responsive web.",
-      "is_public": true,
-      "tag": "New",
-      "bug": 1097320
+      "sort_num": 100,
+      "tag": "New"
     },
     {
+      "bug": 1126794,
+      "created": "2015-01-28T15:41:24+00:00",
+      "is_public": true,
+      "modified": "2015-03-21T03:15:59+00:00",
       "note": "Locale added: Uzbek (uz)",
-      "is_public": true,
-      "tag": "New",
-      "bug": 1126794
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": 1088915,
+      "created": "2015-01-08T12:11:27+00:00",
+      "is_public": true,
+      "modified": "2015-03-26T15:54:39+00:00",
       "note": "No longer accept insecure RC4 ciphers whenever possible",
-      "is_public": true,
-      "tag": "Changed",
-      "bug": 1088915
+      "sort_num": 0,
+      "tag": "Changed"
     },
     {
+      "bug": null,
+      "created": "2015-02-11T13:31:57+00:00",
+      "is_public": true,
+      "modified": "2015-03-26T15:54:40+00:00",
       "note": "[Phasing out Certificates][1] with 1024-bit RSA Keys\r\n\r\n\r\n  [1]: https://blog.mozilla.org/security/2015/01/28/phase-2-phasing-out-certificates-with-1024-bit-rsa-keys/",
-      "is_public": true,
-      "tag": "Changed",
-      "bug": null
+      "sort_num": 0,
+      "tag": "Changed"
     },
     {
+      "bug": 1124880,
+      "created": "2015-02-13T09:43:10+00:00",
+      "is_public": true,
+      "modified": "2015-03-21T03:15:59+00:00",
       "note": "Shut down hangs will now show the crash reporter before exiting the program",
-      "is_public": true,
-      "tag": "Changed",
-      "bug": 1124880
+      "sort_num": 0,
+      "tag": "Changed"
     },
     {
+      "bug": null,
+      "created": "2015-01-14T19:10:36+00:00",
+      "is_public": true,
+      "modified": "2015-03-26T15:54:43+00:00",
       "note": "[Add-on Compatibility][1]\r\n\r\n\r\n  [1]: https://blog.mozilla.org/addons/2015/01/13/compatibility-for-firefox-36/",
-      "is_public": true,
-      "tag": "Changed",
-      "bug": null
+      "sort_num": -1,
+      "tag": "Changed"
     },
     {
+      "bug": 645416,
+      "created": "2014-07-17T07:38:48+00:00",
+      "is_public": true,
+      "modified": "2015-03-26T15:55:21+00:00",
       "note": "Support for the [ECMAScript 6 Symbol][1] data type added\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol\r\n",
-      "is_public": true,
-      "tag": "HTML5",
-      "bug": 645416
+      "sort_num": 0,
+      "tag": "HTML5"
     },
     {
+      "bug": 475891,
+      "created": "2014-12-03T00:13:24+00:00",
+      "is_public": true,
+      "modified": "2015-03-26T15:55:36+00:00",
       "note": "[unicode-range CSS descriptor][1] implemented\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/unicode-range",
-      "is_public": true,
-      "tag": "HTML5",
-      "bug": 475891
+      "sort_num": 0,
+      "tag": "HTML5"
     },
     {
+      "bug": 1087562,
+      "created": "2014-12-03T00:25:42+00:00",
+      "is_public": true,
+      "modified": "2015-03-21T03:15:59+00:00",
       "note": "CSSOM-View scroll behavior implemented allowing smooth scrolling of content without custom libraries",
-      "is_public": true,
-      "tag": "HTML5",
-      "bug": 1087562
+      "sort_num": 0,
+      "tag": "HTML5"
     },
     {
+      "bug": 624647,
+      "created": "2014-12-03T00:29:58+00:00",
+      "is_public": true,
+      "modified": "2015-03-26T15:55:37+00:00",
       "note": "[object-fit][1] and [object-position][2] implemented.<br />Defines how and where the content of a replaced element is displayed\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/object-fit\r\n  [2]: https://developer.mozilla.org/en-US/docs/Web/CSS/object-position\r\n",
-      "is_public": true,
-      "tag": "HTML5",
-      "bug": 624647
+      "sort_num": 0,
+      "tag": "HTML5"
     },
     {
+      "bug": 1091885,
+      "created": "2014-12-03T00:32:09+00:00",
+      "is_public": true,
+      "modified": "2015-03-26T15:55:40+00:00",
       "note": "[isolation CSS][1] property implemented.<br />Create a new stacking context to isolate groups of boxes to control which blend together\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/isolation",
-      "is_public": true,
-      "tag": "HTML5",
-      "bug": 1091885
+      "sort_num": 0,
+      "tag": "HTML5"
     },
     {
+      "bug": 961871,
+      "created": "2014-12-03T00:37:13+00:00",
+      "is_public": true,
+      "modified": "2015-03-26T15:54:49+00:00",
       "note": "CSS3 [will-change property][1] implemented.<br />Hints the browser of elements that will be modified. The browser will\r\nperform some performance optimization for these\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/will-change",
-      "is_public": true,
-      "tag": "HTML5",
-      "bug": 961871
+      "sort_num": 0,
+      "tag": "HTML5"
     },
     {
+      "bug": 903457,
+      "created": "2014-12-03T00:41:59+00:00",
+      "is_public": true,
+      "modified": "2015-03-26T15:55:32+00:00",
       "note": "[Improved ES6 generators][1] for better performance\r\n\r\n\r\n  [1]: https://wingolog.org/archives/2014/11/14/generators-in-firefox-now-twenty-two-times-faster",
-      "is_public": true,
-      "tag": "HTML5",
-      "bug": 903457
+      "sort_num": 0,
+      "tag": "HTML5"
     },
     {
+      "bug": 611388,
+      "created": "2015-01-08T12:18:18+00:00",
+      "is_public": true,
+      "modified": "2015-03-26T15:55:32+00:00",
       "note": "Changed JavaScript ['const' semantics][1] to conform better to the ES6 specification.<br />The const declaration is now block-scoped and requires an initializer. It also can not be redeclared anymore.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/const",
-      "is_public": true,
-      "tag": "HTML5",
-      "bug": 611388
+      "sort_num": 0,
+      "tag": "HTML5"
     },
     {
+      "bug": 583083,
+      "created": "2014-12-03T23:07:57+00:00",
+      "is_public": true,
+      "modified": "2015-03-21T03:15:59+00:00",
       "note": "[Eval sources][1] now appear in the Debugger<br />Debug JavaScript code that is evaluated dynamically, either as a string passed to eval() or as a string passed to the Function constructor\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Debugger/How_to/Debug_eval_sources",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": 583083
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
+      "bug": 1033153,
+      "created": "2014-12-05T18:21:31+00:00",
+      "is_public": true,
+      "modified": "2015-03-21T03:15:59+00:00",
       "note": "DOM [Promises inspection][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Web_Console#Type-specific_rich_output",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": 1033153
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
+      "bug": 1095521,
+      "created": "2015-01-08T12:20:22+00:00",
+      "is_public": true,
+      "modified": "2015-03-21T03:15:59+00:00",
       "note": "Inspector: More [paste options][1] in markup view\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector/How_to/Examine_and_edit_HTML#Element_popup_menu",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": 1095521
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
+      "bug": null,
+      "created": "2015-03-20T01:22:06+00:00",
+      "is_public": true,
+      "modified": "2015-03-21T03:15:59+00:00",
       "note": "36.0.3: [Security fixes][1] for issues disclosed at HP Zero Day Initiative's Pwn2Own contest\r\n\r\n[1]: https://www.mozilla.org/security/known-vulnerabilities/firefox/#firefox36.0.3",
-      "is_public": true,
-      "tag": "Fixed",
-      "bug": null
+      "sort_num": 13000,
+      "tag": "Fixed"
     },
     {
+      "bug": 1137469,
+      "created": "2015-03-05T17:33:40+00:00",
+      "is_public": true,
+      "modified": "2015-03-21T03:15:59+00:00",
       "note": "36.0.1 - Hello may become inactive until restart ([1137469][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1137469",
-      "is_public": true,
-      "tag": "Fixed",
-      "bug": 1137469
+      "sort_num": 10000,
+      "tag": "Fixed"
     },
     {
+      "bug": 1136855,
+      "created": "2015-03-05T17:36:50+00:00",
+      "is_public": true,
+      "modified": "2015-03-21T03:15:59+00:00",
       "note": "36.0.1 - Print preferences may not be preserved ([1136855][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1136855",
-      "is_public": true,
-      "tag": "Fixed",
-      "bug": 1136855
+      "sort_num": 10000,
+      "tag": "Fixed"
     },
     {
+      "bug": 1137141,
+      "created": "2015-03-05T18:11:34+00:00",
+      "is_public": true,
+      "modified": "2015-03-21T03:15:59+00:00",
       "note": "36.0.1 - Hello contact tabs may not be visible ([1137141][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1137141",
-      "is_public": true,
-      "tag": "Fixed",
-      "bug": 1137141
+      "sort_num": 10000,
+      "tag": "Fixed"
     },
     {
+      "bug": 1093983,
+      "created": "2015-03-05T18:17:15+00:00",
+      "is_public": true,
+      "modified": "2015-03-21T03:15:59+00:00",
       "note": "36.0.1 - Disable the usage of the ANY DNS query type ([1093983][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1093983",
-      "is_public": true,
-      "tag": "Fixed",
-      "bug": 1093983
+      "sort_num": 10000,
+      "tag": "Fixed"
     },
     {
+      "bug": 1137050,
+      "created": "2015-03-05T18:21:39+00:00",
+      "is_public": true,
+      "modified": "2015-03-21T03:15:59+00:00",
       "note": "36.0.1 - Fixed a startup crash with EMET ([1137050][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1137050",
-      "is_public": true,
-      "tag": "Fixed",
-      "bug": 1137050
+      "sort_num": 10000,
+      "tag": "Fixed"
     },
     {
+      "bug": 1137251,
+      "created": "2015-03-05T18:23:43+00:00",
+      "is_public": true,
+      "modified": "2015-03-21T03:15:59+00:00",
       "note": "36.0.1 - WebGL may use significant memory with Canvas2d ([1137251][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1137251",
-      "is_public": true,
-      "tag": "Fixed",
-      "bug": 1137251
+      "sort_num": 10000,
+      "tag": "Fixed"
     },
     {
+      "bug": 1136616,
+      "created": "2015-03-05T18:25:44+00:00",
+      "is_public": true,
+      "modified": "2015-03-21T03:15:59+00:00",
       "note": "36.0.1 - Accept hostnames that include an underscore character (\"_\") ([1136616][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1136616",
-      "is_public": true,
-      "tag": "Fixed",
-      "bug": 1136616
+      "sort_num": 10000,
+      "tag": "Fixed"
     },
     {
+      "bug": 1080319,
+      "created": "2015-03-05T18:45:51+00:00",
+      "is_public": true,
+      "modified": "2015-03-21T03:15:59+00:00",
       "note": "36.0.1 - Option -remote has been restored ([1080319][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1080319",
-      "is_public": true,
-      "tag": "Fixed",
-      "bug": 1080319
+      "sort_num": 10000,
+      "tag": "Fixed"
     },
     {
+      "bug": 1132358,
+      "created": "2015-03-05T18:06:39+00:00",
+      "is_public": true,
+      "modified": "2015-03-21T03:15:59+00:00",
       "note": "36.0.1 - Fix a top crash",
-      "is_public": true,
-      "tag": "Fixed",
-      "bug": 1132358
+      "sort_num": 9999,
+      "tag": "Fixed"
     },
     {
+      "bug": null,
+      "created": "2013-11-25T00:24:50+00:00",
+      "is_public": true,
+      "modified": "2015-03-26T15:55:42+00:00",
       "note": "Various <a href=\"https://www.mozilla.org/security/known-vulnerabilities/firefox.html\">security fixes</a>",
-      "is_public": true,
-      "tag": "Fixed",
-      "bug": null
+      "sort_num": 0,
+      "tag": "Fixed"
     },
     {
-      "note": "[CSS gradients][1] work on premultiplied colors\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/gradient",
-      "is_public": true,
-      "tag": "Fixed",
       "bug": 591600,
+      "created": "2014-12-03T00:35:11+00:00",
       "fixed_in_release": {
-        "product": "Firefox",
-        "title": "Firefox 36.0beta Beta",
-        "version": "36.0beta",
+        "channel": "Beta",
         "is_public": true,
+        "product": "Firefox",
         "slug": "firefox-36.0beta-beta",
-        "channel": "Beta"
-      }
+        "title": "Firefox 36.0beta Beta",
+        "version": "36.0beta"
+      },
+      "is_public": true,
+      "modified": "2015-03-26T15:55:48+00:00",
+      "note": "[CSS gradients][1] work on premultiplied colors\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/gradient",
+      "sort_num": 0,
+      "tag": "Fixed"
     },
     {
-      "note": " Fix some unexpected logout from Facebook or Google after restart",
-      "is_public": true,
-      "tag": "Fixed",
       "bug": 950399,
+      "created": "2015-01-19T14:04:07+00:00",
       "fixed_in_release": {
-        "product": "Firefox",
-        "title": "Firefox 36.0beta Beta",
-        "version": "36.0beta",
+        "channel": "Beta",
         "is_public": true,
+        "product": "Firefox",
         "slug": "firefox-36.0beta-beta",
-        "channel": "Beta"
-      }
+        "title": "Firefox 36.0beta Beta",
+        "version": "36.0beta"
+      },
+      "is_public": true,
+      "modified": "2015-03-26T15:55:46+00:00",
+      "note": " Fix some unexpected logout from Facebook or Google after restart",
+      "sort_num": 0,
+      "tag": "Fixed"
     },
     {
-      "note": "Style Editor: Extra white space appearing above the editor for a sourcemapped scss file ([1128747][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1128747",
-      "is_public": true,
-      "tag": "Known",
       "bug": 1128747,
+      "created": "2015-02-23T12:40:31+00:00",
       "fixed_in_release": {
-        "product": "Firefox",
-        "title": "Firefox 37.0 Release",
-        "version": "37.0",
+        "channel": "Release",
         "is_public": true,
+        "product": "Firefox",
         "slug": "firefox-37.0-release",
-        "channel": "Release"
-      }
+        "title": "Firefox 37.0 Release",
+        "version": "37.0"
+      },
+      "is_public": true,
+      "modified": "2015-03-31T21:19:38+00:00",
+      "note": "Style Editor: Extra white space appearing above the editor for a sourcemapped scss file ([1128747][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1128747",
+      "sort_num": 0,
+      "tag": "Known"
     },
     {
+      "bug": 1136300,
+      "created": "2015-02-25T10:19:40+00:00",
+      "is_public": true,
+      "modified": "2015-03-21T03:15:59+00:00",
       "note": "For users who removed the Share & Hello buttons, this new version brings them back unexpectedly ([1136300][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1136300",
-      "is_public": true,
-      "tag": "Known",
-      "bug": 1136300
+      "sort_num": 0,
+      "tag": "Known"
     },
     {
-      "note": "Firefox Hello does not work for link generators if there is no camera installed ([1106941][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1106941",
+      "bug": 1106941,
+      "created": "2015-03-03T12:39:00+00:00",
       "is_public": true,
-      "tag": "Known",
-      "bug": 1106941
+      "modified": "2015-03-21T03:15:59+00:00",
+      "note": "Firefox Hello does not work for link generators if there is no camera installed ([1106941][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1106941",
+      "sort_num": 0,
+      "tag": "Known"
     }
   ],
-  "text": "<p>We'd also like to extend a special thank you to all of the <a href=\"https://blog.mozilla.org/community/2015/02/23/firefox-36-new-contributors/\">new Mozillians</a> who contributed to this release of Firefox!</p>",
+  "product": "Firefox",
   "release_date": "2015-03-21",
   "slug": "firefox-36.0.4-release",
-  "version": "36.0.4",
-  "bug_search_url": "",
-  "is_public": true,
   "system_requirements": "## Windows\r\n\r\n### Operating Systems\r\n - Windows XP SP2\r\n - Windows Server 2003 SP1\r\n - Windows Vista\r\n - Windows 7\r\n - Windows 8\r\n\r\n*Please note that while the 32-bit and 64-bit versions of Windows Vista and Windows 7 can be used to run Firefox, only 32-bit builds of Firefox are supported at this time.*\r\n\r\n### Recommended Hardware\r\n-  Pentium 4 or newer processor that supports SSE2\r\n-  512MB of RAM\r\n-  200MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- Mac OS X 10.6\r\n- Mac OS X 10.7\r\n- Mac OS X 10.8\r\n- Mac OS X 10.9\r\n- Mac OS X 10.10\r\n\r\n### Recommended Hardware\r\n- Macintosh computer with an Intel x86 processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - GTK+ 2.18 or higher\r\n    - GLib 2.22 or higher\r\n    - Pango 1.14 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n    - libstdc++ 4.3 or higher\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - NetworkManager 0.7 or higher\r\n    - DBus 1.0 or higher\r\n    - HAL 0.5.8 or higher\r\n    - GNOME 2.16 or higher",
-  "channel": "Release"
+  "text": "<p>We'd also like to extend a special thank you to all of the <a href=\"https://blog.mozilla.org/community/2015/02/23/firefox-36-new-contributors/\">new Mozillians</a> who contributed to this release of Firefox!</p>",
+  "title": "Firefox 36.0.4 Release",
+  "version": "36.0.4"
 }

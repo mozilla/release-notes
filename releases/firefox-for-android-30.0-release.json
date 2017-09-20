@@ -1,125 +1,178 @@
 {
-  "product": "Firefox for Android",
   "bug_list": "",
-  "title": "Firefox for Android 30.0 Release",
+  "bug_search_url": "",
+  "channel": "Release",
+  "created": "2014-06-05T15:35:41+00:00",
+  "is_public": true,
+  "modified": "2014-07-31T14:09:16+00:00",
   "notes": [
     {
+      "bug": null,
+      "created": "2014-04-30T10:44:27+00:00",
+      "is_public": true,
+      "modified": "2014-06-10T07:11:31+00:00",
       "note": "Add web content to home page panels using Home Feeds Add-On",
-      "is_public": true,
-      "tag": "New",
-      "bug": null
+      "sort_num": 500,
+      "tag": "New"
     },
     {
+      "bug": null,
+      "created": "2014-04-17T04:34:38+00:00",
+      "is_public": true,
+      "modified": "2014-06-10T07:11:56+00:00",
       "note": "Add Quickshare buttons to Context menu",
-      "is_public": true,
-      "tag": "New",
-      "bug": null
+      "sort_num": 200,
+      "tag": "New"
     },
     {
+      "bug": null,
+      "created": "2014-03-26T16:35:59+00:00",
+      "is_public": true,
+      "modified": "2014-06-09T14:42:36+00:00",
       "note": "Locales added: Belarusian [be], Argentine Spanish [es-AR], Mexican Spanish [es-MX], Indonesian [id], Latvian [lv], Malay [ms]",
-      "is_public": true,
-      "tag": "New",
-      "bug": null
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": null,
+      "created": "2014-03-26T16:26:54+00:00",
+      "is_public": true,
+      "modified": "2014-06-09T14:33:24+00:00",
       "note": "Disallow calling WebIDL constructors as functions on the web",
-      "is_public": true,
-      "tag": "Changed",
-      "bug": null
+      "sort_num": 0,
+      "tag": "Changed"
     },
     {
+      "bug": 480888,
+      "created": "2014-03-26T16:28:02+00:00",
+      "is_public": true,
+      "modified": "2014-06-09T14:33:54+00:00",
       "note": "Fixes to box-shadow and other visual overflow (see <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=480888\">bug 480888</a>)",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": 480888
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
+      "bug": null,
+      "created": "2014-03-26T16:28:34+00:00",
+      "is_public": true,
+      "modified": "2014-06-09T14:34:02+00:00",
       "note": "Mute and volume available per window when using WebAudio",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": null
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
+      "bug": null,
+      "created": "2014-03-26T16:28:53+00:00",
+      "is_public": true,
+      "modified": "2014-06-09T14:34:11+00:00",
       "note": "background-blend-mode enabled by default",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": null
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
+      "bug": null,
+      "created": "2014-03-26T16:30:05+00:00",
+      "is_public": true,
+      "modified": "2014-06-09T14:34:20+00:00",
       "note": "Use of line-height allowed for &lt;input type=\"reset|button|submit\"&gt;",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": null
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
+      "bug": null,
+      "created": "2014-03-26T16:30:47+00:00",
+      "is_public": true,
+      "modified": "2014-06-09T14:34:54+00:00",
       "note": "ES6 array and generator comprehensions implemented (read [docs][1] for more details)\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/Firefox/Releases/30",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": null
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
+      "bug": null,
+      "created": "2014-03-26T16:31:05+00:00",
+      "is_public": true,
+      "modified": "2014-06-09T14:35:03+00:00",
       "note": "Error stack now contains column number",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": null
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
+      "bug": 982480,
+      "created": "2014-05-04T06:27:18+00:00",
+      "is_public": true,
+      "modified": "2014-06-09T14:35:11+00:00",
       "note": "Support for alpha option in canvas context options (feature [description][1])\r\n\r\n\r\n  [1]: http://blogs.adobe.com/webplatform/2014/04/01/new-canvas-features/",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": 982480
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
+      "bug": null,
+      "created": "2013-11-25T00:24:50+00:00",
+      "is_public": true,
+      "modified": "2015-03-26T15:55:42+00:00",
       "note": "Various <a href=\"https://www.mozilla.org/security/known-vulnerabilities/firefox.html\">security fixes</a>",
-      "is_public": true,
-      "tag": "Fixed",
-      "bug": null
+      "sort_num": 0,
+      "tag": "Fixed"
     },
     {
+      "bug": 956906,
+      "created": "2014-03-26T16:32:14+00:00",
+      "is_public": true,
+      "modified": "2014-06-09T14:35:19+00:00",
       "note": "Ignore autocomplete=\"off\" when offering to save passwords via the password manager (see [956906][1]) \r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=956906",
-      "is_public": true,
-      "tag": "Fixed",
-      "bug": 956906
+      "sort_num": 0,
+      "tag": "Fixed"
     },
     {
+      "bug": 695438,
+      "created": "2014-03-26T16:32:38+00:00",
+      "is_public": true,
+      "modified": "2014-06-09T14:35:27+00:00",
       "note": "TypedArrays don't support new named properties (see [695438][1]) \r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=695438",
-      "is_public": true,
-      "tag": "Fixed",
-      "bug": 695438
+      "sort_num": 0,
+      "tag": "Fixed"
     },
     {
-      "note": "After MP4 video playback, video can not be played again ([1005622][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1005622",
-      "is_public": true,
-      "tag": "Fixed",
       "bug": 1005622,
+      "created": "2014-05-07T02:18:02+00:00",
       "fixed_in_release": {
-        "product": "Firefox for Android",
-        "title": "Firefox for Android 30.0 Release",
-        "version": "30.0",
+        "channel": "Release",
         "is_public": true,
+        "product": "Firefox for Android",
         "slug": "firefox-for-android-30.0-release",
-        "channel": "Release"
-      }
+        "title": "Firefox for Android 30.0 Release",
+        "version": "30.0"
+      },
+      "is_public": true,
+      "modified": "2014-06-09T14:56:11+00:00",
+      "note": "After MP4 video playback, video can not be played again ([1005622][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1005622",
+      "sort_num": 0,
+      "tag": "Fixed"
     },
     {
+      "bug": 1014333,
+      "created": "2014-06-09T15:00:16+00:00",
+      "is_public": true,
+      "modified": "2014-06-09T15:00:16+00:00",
       "note": "Thick lines on some pages (see [1014333][1])\r\n\r\n\r\n  [1]: http://bugzilla.mozilla.org/1014333",
-      "is_public": true,
-      "tag": "Known",
-      "bug": 1014333
+      "sort_num": 0,
+      "tag": "Known"
     },
     {
-      "note": "Does not start on Android L preview (see [1030897][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1030897",
+      "bug": 1030897,
+      "created": "2014-07-02T02:30:44+00:00",
       "is_public": true,
-      "tag": "Known",
-      "bug": 1030897
+      "modified": "2014-08-28T10:25:41+00:00",
+      "note": "Does not start on Android L preview (see [1030897][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1030897",
+      "sort_num": 0,
+      "tag": "Known"
     }
   ],
-  "text": " <p>We'd also like to extend a special thank you to all of the <a href=\"http://blog.mozilla.org/community/2014/06/08/firefox-30-new-contributors/\">new Mozillians</a> who contributed to this release of Firefox!</p>",
+  "product": "Firefox for Android",
   "release_date": "2014-06-10",
   "slug": "firefox-for-android-30.0-release",
-  "version": "30.0",
-  "bug_search_url": "",
-  "is_public": true,
   "system_requirements": "",
-  "channel": "Release"
+  "text": " <p>We'd also like to extend a special thank you to all of the <a href=\"http://blog.mozilla.org/community/2014/06/08/firefox-30-new-contributors/\">new Mozillians</a> who contributed to this release of Firefox!</p>",
+  "title": "Firefox for Android 30.0 Release",
+  "version": "30.0"
 }

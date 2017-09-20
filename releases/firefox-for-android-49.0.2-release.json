@@ -1,33 +1,44 @@
 {
-  "product": "Firefox for Android",
   "bug_list": "",
-  "title": "Firefox for Android 49.0.2 Release",
+  "bug_search_url": "",
+  "channel": "Release",
+  "created": "2016-10-20T17:57:31.898000+00:00",
+  "is_public": true,
+  "modified": "2016-10-20T21:46:28.407000+00:00",
   "notes": [
     {
+      "bug": null,
+      "created": "2016-10-20T17:58:25.891000+00:00",
+      "is_public": true,
+      "modified": "2016-11-28T19:54:46.833000+00:00",
       "note": "Reference link for [49.0 release notes][1] for Firefox for Android\r\n\r\n  [1]: https://www.mozilla.com/en-US/firefox/49.0/releasenotes/",
-      "is_public": true,
-      "tag": "",
-      "bug": null
+      "sort_num": 0,
+      "tag": ""
     },
     {
+      "bug": 1306472,
+      "created": "2016-10-19T13:10:14.035000+00:00",
+      "is_public": true,
+      "modified": "2016-11-28T19:53:43.194000+00:00",
       "note": "Web compatibility issue with file uploads ([Bug 1306472][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1306472",
-      "is_public": true,
-      "tag": "Fixed",
-      "bug": 1306472
+      "sort_num": 0,
+      "tag": "Fixed"
     },
     {
-      "note": "Various [security fixes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/en-US/security/known-vulnerabilities/firefox/#firefox49.0.2",
+      "bug": null,
+      "created": "2016-10-20T17:47:34.146000+00:00",
       "is_public": true,
-      "tag": "Fixed",
-      "bug": null
+      "modified": "2016-11-28T19:53:45.294000+00:00",
+      "note": "Various [security fixes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/en-US/security/known-vulnerabilities/firefox/#firefox49.0.2",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
-  "text": "<p>We'd also like to extend a special thank you to all of the <a href=\"https://blog.mozilla.org/community/2016/09/16/firefox-49-new-contributors/\">new Mozillians</a> who contributed to this release of Firefox!</p>",
+  "product": "Firefox for Android",
   "release_date": "2016-10-20",
   "slug": "firefox-for-android-49.0.2-release",
-  "version": "49.0.2",
-  "bug_search_url": "",
-  "is_public": true,
   "system_requirements": "## Operating systems\r\n - Android 4.0\r\n - Above versions\r\n\r\n## Requirements\r\n - 50 MB internal storage\r\n - 384 MB of RAM\r\n - display at least 320 pixels high and 240 pixels wide",
-  "channel": "Release"
+  "text": "<p>We'd also like to extend a special thank you to all of the <a href=\"https://blog.mozilla.org/community/2016/09/16/firefox-49-new-contributors/\">new Mozillians</a> who contributed to this release of Firefox!</p>",
+  "title": "Firefox for Android 49.0.2 Release",
+  "version": "49.0.2"
 }

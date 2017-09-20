@@ -1,27 +1,35 @@
 {
-  "product": "Firefox for Android",
   "bug_list": "",
-  "title": "Firefox for Android 51.0.2 Release",
+  "bug_search_url": "",
+  "channel": "Release",
+  "created": "2017-02-06T09:43:52.424000+00:00",
+  "is_public": true,
+  "modified": "2017-02-06T18:04:44.822000+00:00",
   "notes": [
     {
-      "note": "Reference link for [51.0 release notes for Firefox for Android][1]\r\n\r\n\r\n  [1]: https://www.mozilla.com/firefox/android/51.0/releasenotes/",
+      "bug": null,
+      "created": "2017-02-06T09:54:36.785000+00:00",
       "is_public": true,
-      "tag": "",
-      "bug": null
+      "modified": "2017-02-09T14:54:45.633000+00:00",
+      "note": "Reference link for [51.0 release notes for Firefox for Android][1]\r\n\r\n\r\n  [1]: https://www.mozilla.com/firefox/android/51.0/releasenotes/",
+      "sort_num": 0,
+      "tag": ""
     },
     {
-      "note": "Fix a crash caused by an Android library (Palette) on some x86 devices (Bug [1318667][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1318667",
+      "bug": 1318667,
+      "created": "2017-02-06T09:52:26.398000+00:00",
       "is_public": true,
-      "tag": "Fixed",
-      "bug": 1318667
+      "modified": "2017-02-09T14:56:37.134000+00:00",
+      "note": "Fix a crash caused by an Android library (Palette) on some x86 devices (Bug [1318667][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1318667",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
-  "text": "<p>We'd also like to extend a special thank you to all of the <a href=\"http://blog.mozilla.org/community/2017/01/24/firefox-51-new-contributors/\">new Mozillians</a> who contributed to this release of Firefox!</p>",
+  "product": "Firefox for Android",
   "release_date": "2017-02-06",
   "slug": "firefox-for-android-51.0.2-release",
-  "version": "51.0.2",
-  "bug_search_url": "",
-  "is_public": true,
   "system_requirements": "## Operating systems\r\n - Android 4.0\r\n - Above versions\r\n\r\n## Requirements\r\n - 50 MB internal storage\r\n - 384 MB of RAM\r\n - display at least 320 pixels high and 240 pixels wide",
-  "channel": "Release"
+  "text": "<p>We'd also like to extend a special thank you to all of the <a href=\"http://blog.mozilla.org/community/2017/01/24/firefox-51-new-contributors/\">new Mozillians</a> who contributed to this release of Firefox!</p>",
+  "title": "Firefox for Android 51.0.2 Release",
+  "version": "51.0.2"
 }

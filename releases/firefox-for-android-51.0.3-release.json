@@ -1,33 +1,44 @@
 {
-  "product": "Firefox for Android",
   "bug_list": "",
-  "title": "Firefox for Android 51.0.3 Release",
+  "bug_search_url": "",
+  "channel": "Release",
+  "created": "2017-02-09T14:50:26.573000+00:00",
+  "is_public": true,
+  "modified": "2017-02-15T07:58:47.927000+00:00",
   "notes": [
     {
+      "bug": null,
+      "created": "2017-02-09T14:51:17.582000+00:00",
+      "is_public": true,
+      "modified": "2017-02-15T07:55:00.586000+00:00",
       "note": "Reference link for [51.0.2 release notes for Firefox for Android][1]\r\n\r\n\r\n  [1]: https://www.mozilla.com/firefox/android/51.0.2/releasenotes/",
-      "is_public": true,
-      "tag": "",
-      "bug": null
+      "sort_num": 0,
+      "tag": ""
     },
     {
+      "bug": 1337290,
+      "created": "2017-02-09T14:56:40.126000+00:00",
+      "is_public": true,
+      "modified": "2017-02-15T07:52:58.164000+00:00",
       "note": "Fix a build issue which was causing some crashes on some x86 architectures  ([bug 1337290][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1337290",
-      "is_public": true,
-      "tag": "Fixed",
-      "bug": 1337290
+      "sort_num": 0,
+      "tag": "Fixed"
     },
     {
-      "note": "Various [security fixes][1] \r\n[1]: https://www.mozilla.org/en-US/security/known-vulnerabilities/firefox/#firefox51.0.3",
+      "bug": null,
+      "created": "2017-02-09T15:00:22.039000+00:00",
       "is_public": true,
-      "tag": "Fixed",
-      "bug": null
+      "modified": "2017-02-15T02:09:22.181000+00:00",
+      "note": "Various [security fixes][1] \r\n[1]: https://www.mozilla.org/en-US/security/known-vulnerabilities/firefox/#firefox51.0.3",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
-  "text": "<p>We'd also like to extend a special thank you to all of the <a href=\"http://blog.mozilla.org/community/2017/01/24/firefox-51-new-contributors/\">new Mozillians</a> who contributed to this release of Firefox!</p>",
+  "product": "Firefox for Android",
   "release_date": "2017-02-09",
   "slug": "firefox-for-android-51.0.3-release",
-  "version": "51.0.3",
-  "bug_search_url": "",
-  "is_public": true,
   "system_requirements": "## Operating systems\r\n - Android 4.0\r\n - Above versions\r\n\r\n## Requirements\r\n - 50 MB internal storage\r\n - 384 MB of RAM\r\n - display at least 320 pixels high and 240 pixels wide",
-  "channel": "Release"
+  "text": "<p>We'd also like to extend a special thank you to all of the <a href=\"http://blog.mozilla.org/community/2017/01/24/firefox-51-new-contributors/\">new Mozillians</a> who contributed to this release of Firefox!</p>",
+  "title": "Firefox for Android 51.0.3 Release",
+  "version": "51.0.3"
 }

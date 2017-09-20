@@ -1,133 +1,186 @@
 {
-  "product": "Firefox for Android",
   "bug_list": "",
-  "title": "Firefox for Android 16.0.2 Release",
+  "bug_search_url": "",
+  "channel": "Release",
+  "created": "2013-11-25T00:25:01+00:00",
+  "is_public": true,
+  "modified": "2014-03-15T22:42:31+00:00",
   "notes": [
     {
-      "note": "Debugger breakpoints do not catch on page reload",
-      "is_public": true,
-      "tag": "",
       "bug": 783393,
+      "created": "2013-11-25T00:24:49+00:00",
       "fixed_in_release": {
-        "product": "Firefox",
-        "title": "Firefox 16.0beta Beta",
-        "version": "16.0beta",
+        "channel": "Beta",
         "is_public": true,
+        "product": "Firefox",
         "slug": "firefox-16.0beta-beta",
-        "channel": "Beta"
-      }
+        "title": "Firefox 16.0beta Beta",
+        "version": "16.0beta"
+      },
+      "is_public": true,
+      "modified": "2014-04-23T10:53:36+00:00",
+      "note": "Debugger breakpoints do not catch on page reload",
+      "sort_num": 500,
+      "tag": ""
     },
     {
+      "bug": null,
+      "created": "2013-11-25T00:24:44+00:00",
+      "is_public": true,
+      "modified": "2014-04-23T10:53:36+00:00",
       "note": "Firefox on Mac OS X now has preliminary VoiceOver support turned on by default",
-      "is_public": true,
-      "tag": "New",
-      "bug": null
+      "sort_num": 200,
+      "tag": "New"
     },
     {
+      "bug": null,
+      "created": "2013-11-25T00:24:44+00:00",
+      "is_public": true,
+      "modified": "2014-04-23T10:53:36+00:00",
       "note": "Initial <a href=\"https://developer.mozilla.org/en-US/docs/Apps/Getting_Started\">web app support</a> (Windows/Mac/Linux)",
-      "is_public": true,
-      "tag": "New",
-      "bug": null
+      "sort_num": 100,
+      "tag": "New"
     },
     {
+      "bug": 650355,
+      "created": "2013-11-25T00:24:50+00:00",
+      "is_public": true,
+      "modified": "2014-04-23T10:53:36+00:00",
       "note": "No longer supporting MD5 as a hash algorithm in digital signatures ",
-      "is_public": true,
-      "tag": "New",
-      "bug": 650355
+      "sort_num": 0,
+      "tag": "New"
     },
     {
-      "note": "Pointer lock doesn't work in web apps",
-      "is_public": true,
-      "tag": "",
       "bug": 769150,
+      "created": "2013-11-25T00:24:50+00:00",
       "fixed_in_release": {
-        "product": "Firefox",
-        "title": "Firefox 17.0beta Beta",
-        "version": "17.0beta",
+        "channel": "Beta",
         "is_public": true,
+        "product": "Firefox",
         "slug": "firefox-17.0beta-beta",
-        "channel": "Beta"
-      }
+        "title": "Firefox 17.0beta Beta",
+        "version": "17.0beta"
+      },
+      "is_public": true,
+      "modified": "2014-04-23T10:53:36+00:00",
+      "note": "Pointer lock doesn't work in web apps",
+      "sort_num": 0,
+      "tag": ""
     },
     {
+      "bug": null,
+      "created": "2013-11-25T00:24:50+00:00",
+      "is_public": true,
+      "modified": "2014-04-23T10:53:36+00:00",
       "note": "Acholi and Kazakh localizations added",
-      "is_public": true,
-      "tag": "New",
-      "bug": null
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": 772341,
+      "created": "2013-11-25T00:24:50+00:00",
+      "is_public": true,
+      "modified": "2014-04-23T10:53:36+00:00",
       "note": "Opus support by default",
-      "is_public": true,
-      "tag": "Changed",
-      "bug": 772341
+      "sort_num": 0,
+      "tag": "Changed"
     },
     {
+      "bug": 687724,
+      "created": "2013-11-25T00:24:50+00:00",
+      "is_public": true,
+      "modified": "2014-04-23T10:53:36+00:00",
       "note": "Per tab reporting in about:memory",
-      "is_public": true,
-      "tag": "Changed",
-      "bug": 687724
+      "sort_num": 0,
+      "tag": "Changed"
     },
     {
+      "bug": null,
+      "created": "2013-11-25T00:24:50+00:00",
+      "is_public": true,
+      "modified": "2014-04-23T10:53:36+00:00",
       "note": "Improvements around JavaScript responsiveness through <a href=\"https://blog.mozilla.org/javascript/2012/08/28/incremental-gc-in-firefox-16/\">incremental garbage collection</a>",
-      "is_public": true,
-      "tag": "Changed",
-      "bug": null
+      "sort_num": 0,
+      "tag": "Changed"
     },
     {
+      "bug": null,
+      "created": "2013-11-25T00:24:49+00:00",
+      "is_public": true,
+      "modified": "2014-04-23T10:53:36+00:00",
       "note": "New Developer Toolbar with buttons for quick access to tools, error count for the Web Console, and a new command line for quick keyboard access",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": null
+      "sort_num": 600,
+      "tag": "Developer"
     },
     {
+      "bug": null,
+      "created": "2013-11-25T00:24:44+00:00",
+      "is_public": true,
+      "modified": "2014-04-23T10:53:36+00:00",
       "note": "CSS3 Animations, Transitions, Transforms and Gradients <a href=\"https://hacks.mozilla.org/2012/07/aurora-16-is-out/\">unprefixed in Firefox 16</a>",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": null
+      "sort_num": 400,
+      "tag": "Developer"
     },
     {
+      "bug": 655920,
+      "created": "2013-11-25T00:24:50+00:00",
+      "is_public": true,
+      "modified": "2014-04-23T10:53:36+00:00",
       "note": "Reverse animation direction has been implemented",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": 655920
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
+      "bug": null,
+      "created": "2013-11-25T00:24:50+00:00",
+      "is_public": true,
+      "modified": "2014-04-23T10:53:36+00:00",
       "note": "Recently opened files list in Scratchpad implemented",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": null
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
+      "bug": 728831,
+      "created": "2013-11-25T00:24:50+00:00",
+      "is_public": true,
+      "modified": "2014-04-23T10:53:36+00:00",
       "note": "User Agent strings for pre-release Firefox versions now show only major version",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": 728831
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
+      "bug": null,
+      "created": "2013-11-25T00:24:50+00:00",
+      "is_public": true,
+      "modified": "2015-03-26T15:55:42+00:00",
       "note": "Various <a href=\"https://www.mozilla.org/security/known-vulnerabilities/firefox.html\">security fixes</a>",
-      "is_public": true,
-      "tag": "Fixed",
-      "bug": null
+      "sort_num": 0,
+      "tag": "Fixed"
     },
     {
+      "bug": null,
+      "created": "2013-11-25T00:24:50+00:00",
+      "is_public": true,
+      "modified": "2014-04-23T10:53:36+00:00",
       "note": "16.0.1: Vulnerability outlined <a href=\"https://blog.mozilla.org/security/2012/10/10/security-vulnerability-in-firefox-16/\">here</a>",
-      "is_public": true,
-      "tag": "Fixed",
-      "bug": null
+      "sort_num": 0,
+      "tag": "Fixed"
     },
     {
-      "note": "If you try to start Firefox using a locked profile, it will crash (see [573369][1])\r\n\r\n\r\n  [1]: http://bugzilla.mozilla.org/573369",
+      "bug": 573369,
+      "created": "2013-11-25T00:24:27+00:00",
       "is_public": true,
-      "tag": "Known",
-      "bug": 573369
+      "modified": "2014-07-02T07:04:43+00:00",
+      "note": "If you try to start Firefox using a locked profile, it will crash (see [573369][1])\r\n\r\n\r\n  [1]: http://bugzilla.mozilla.org/573369",
+      "sort_num": -100,
+      "tag": "Known"
     }
   ],
-  "text": "",
+  "product": "Firefox for Android",
   "release_date": "2012-10-26",
   "slug": "firefox-for-android-16.0.2-release",
-  "version": "16.0.2",
-  "bug_search_url": "",
-  "is_public": true,
   "system_requirements": "",
-  "channel": "Release"
+  "text": "",
+  "title": "Firefox for Android 16.0.2 Release",
+  "version": "16.0.2"
 }

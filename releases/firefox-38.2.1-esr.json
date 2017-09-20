@@ -1,21 +1,26 @@
 {
-  "product": "Firefox",
   "bug_list": "",
-  "title": "Firefox 38.2.1 ESR",
+  "bug_search_url": "",
+  "channel": "ESR",
+  "created": "2015-08-27T18:00:15+00:00",
+  "is_public": true,
+  "modified": "2015-08-27T18:06:29+00:00",
   "notes": [
     {
-      "note": "Various [security fixes][1] \r\n[1]:https://www.mozilla.org/security/known-vulnerabilities/firefox-esr/#firefoxesr38.2.1",
+      "bug": null,
+      "created": "2015-08-27T18:05:52+00:00",
       "is_public": true,
-      "tag": "Fixed",
-      "bug": null
+      "modified": "2015-08-27T18:05:52+00:00",
+      "note": "Various [security fixes][1] \r\n[1]:https://www.mozilla.org/security/known-vulnerabilities/firefox-esr/#firefoxesr38.2.1",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
-  "text": "",
+  "product": "Firefox",
   "release_date": "2015-08-27",
   "slug": "firefox-38.2.1-esr",
-  "version": "38.2.1",
-  "bug_search_url": "",
-  "is_public": true,
   "system_requirements": "",
-  "channel": "ESR"
+  "text": "",
+  "title": "Firefox 38.2.1 ESR",
+  "version": "38.2.1"
 }

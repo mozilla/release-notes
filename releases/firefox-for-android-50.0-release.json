@@ -1,27 +1,35 @@
 {
-  "product": "Firefox for Android",
   "bug_list": "",
-  "title": "Firefox for Android 50.0 Release",
+  "bug_search_url": "",
+  "channel": "Release",
+  "created": "2016-11-10T19:23:22.930000+00:00",
+  "is_public": true,
+  "modified": "2016-11-15T13:00:39.219000+00:00",
   "notes": [
     {
-      "note": "Added support for HLS videos via player overlay",
+      "bug": 1286133,
+      "created": "2016-09-19T17:03:53.318000+00:00",
       "is_public": true,
-      "tag": "New",
-      "bug": 1286133
+      "modified": "2016-11-14T01:35:19.249000+00:00",
+      "note": "Added support for HLS videos via player overlay",
+      "sort_num": 0,
+      "tag": "New"
     },
     {
-      "note": "Simplified the user interface by combining the Recent Tabs and History panels",
+      "bug": 1251362,
+      "created": "2016-08-03T21:36:30.426000+00:00",
       "is_public": true,
-      "tag": "Changed",
-      "bug": 1251362
+      "modified": "2016-11-14T01:34:46.678000+00:00",
+      "note": "Simplified the user interface by combining the Recent Tabs and History panels",
+      "sort_num": 0,
+      "tag": "Changed"
     }
   ],
-  "text": "<p>We'd also like to extend a special thank you to all of the <a href=\"https://blog.mozilla.org/community/2016/11/11/firefox-50-new-contributors/\">new Mozillians</a> who contributed to this release of Firefox!</p>",
+  "product": "Firefox for Android",
   "release_date": "2016-11-15",
   "slug": "firefox-for-android-50.0-release",
-  "version": "50.0",
-  "bug_search_url": "",
-  "is_public": true,
   "system_requirements": "## Operating systems\r\n - Android 4.0\r\n - Above versions\r\n\r\n## Requirements\r\n - 50 MB internal storage\r\n - 384 MB of RAM\r\n - display at least 320 pixels high and 240 pixels wide",
-  "channel": "Release"
+  "text": "<p>We'd also like to extend a special thank you to all of the <a href=\"https://blog.mozilla.org/community/2016/11/11/firefox-50-new-contributors/\">new Mozillians</a> who contributed to this release of Firefox!</p>",
+  "title": "Firefox for Android 50.0 Release",
+  "version": "50.0"
 }

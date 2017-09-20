@@ -1,21 +1,26 @@
 {
-  "product": "Firefox for Android",
   "bug_list": "",
-  "title": "Firefox for Android 50.0a2 Aurora",
+  "bug_search_url": "",
+  "channel": "Aurora",
+  "created": "2016-04-28T14:48:56.687000+00:00",
+  "is_public": true,
+  "modified": "2016-08-06T20:23:40.596000+00:00",
   "notes": [
     {
-      "note": "Simplified the user interface by combining the Recent Tabs and History panels",
+      "bug": 1251362,
+      "created": "2016-08-03T21:36:30.426000+00:00",
       "is_public": true,
-      "tag": "Changed",
-      "bug": 1251362
+      "modified": "2016-11-14T01:34:46.678000+00:00",
+      "note": "Simplified the user interface by combining the Recent Tabs and History panels",
+      "sort_num": 0,
+      "tag": "Changed"
     }
   ],
-  "text": "",
+  "product": "Firefox for Android",
   "release_date": "2016-08-03",
   "slug": "firefox-for-android-50.0a2-aurora",
-  "version": "50.0a2",
-  "bug_search_url": "",
-  "is_public": true,
   "system_requirements": "## Operating systems\r\n - Android 4.0\r\n - Above versions\r\n\r\n## Requirements\r\n - 50 MB internal storage\r\n - 384 MB of RAM\r\n - display at least 320 pixels high and 240 pixels wide",
-  "channel": "Aurora"
+  "text": "",
+  "title": "Firefox for Android 50.0a2 Aurora",
+  "version": "50.0a2"
 }

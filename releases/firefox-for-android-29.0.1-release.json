@@ -1,159 +1,233 @@
 {
-  "product": "Firefox for Android",
   "bug_list": "",
-  "title": "Firefox for Android 29.0.1 Release",
+  "bug_search_url": "",
+  "channel": "Release",
+  "created": "2014-05-09T06:55:20+00:00",
+  "is_public": true,
+  "modified": "2014-07-31T14:09:35+00:00",
   "notes": [
     {
+      "bug": 1005074,
+      "created": "2014-05-09T07:14:01+00:00",
+      "is_public": true,
+      "modified": "2014-05-09T10:26:53+00:00",
       "note": "29.0.1 - 'Send Tab to Devices' menu item restored (bug [1005074][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/1005074",
-      "is_public": true,
-      "tag": "Fixed",
-      "bug": 1005074
+      "sort_num": 10001,
+      "tag": "Fixed"
     },
     {
+      "bug": 1003897,
+      "created": "2014-05-09T07:08:08+00:00",
+      "is_public": true,
+      "modified": "2014-05-09T10:26:53+00:00",
       "note": "29.0.1 -  Character Encoding selection broken ([1003897][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/1003897",
-      "is_public": true,
-      "tag": "Fixed",
-      "bug": 1003897
+      "sort_num": 10000,
+      "tag": "Fixed"
     },
     {
+      "bug": 987867,
+      "created": "2014-05-09T07:16:11+00:00",
+      "is_public": true,
+      "modified": "2014-05-09T10:26:53+00:00",
       "note": "29.0.1 - Address bar input stability fix for Jelly Bean and Kit Kat ([987867][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/987867",
-      "is_public": true,
-      "tag": "Fixed",
-      "bug": 987867
+      "sort_num": 9998,
+      "tag": "Fixed"
     },
     {
+      "bug": null,
+      "created": "2014-04-25T13:01:32+00:00",
+      "is_public": true,
+      "modified": "2014-05-09T10:26:53+00:00",
       "note": "The ability to set up Firefox Sync by creating a Firefox account ([learn more][1])\r\n\r\n  [1]: https://support.mozilla.org/en-US/kb/how-do-i-set-up-firefox-sync?esab=a&s=sync&r=3&as=s",
-      "is_public": true,
-      "tag": "New",
-      "bug": null
+      "sort_num": 1900,
+      "tag": "New"
     },
     {
+      "bug": null,
+      "created": "2014-04-28T13:42:09+00:00",
+      "is_public": true,
+      "modified": "2014-05-09T10:26:53+00:00",
       "note": "Search suggestions available via Bing search plugin when set as default search engine",
-      "is_public": true,
-      "tag": "New",
-      "bug": null
+      "sort_num": 1800,
+      "tag": "New"
     },
     {
+      "bug": 958883,
+      "created": "2014-04-29T11:57:31+00:00",
+      "is_public": true,
+      "modified": "2014-05-09T10:26:53+00:00",
       "note": "HTTPS used for Yahoo Searches performed in en-US locale",
-      "is_public": true,
-      "tag": "New",
-      "bug": 958883
+      "sort_num": 50,
+      "tag": "New"
     },
     {
+      "bug": null,
+      "created": "2014-03-04T09:57:01+00:00",
+      "is_public": true,
+      "modified": "2014-07-21T04:23:34+00:00",
       "note": "Added multiple quick share buttons",
-      "is_public": true,
-      "tag": "New",
-      "bug": null
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": null,
+      "created": "2014-03-21T08:59:31+00:00",
+      "is_public": true,
+      "modified": "2014-05-09T10:26:53+00:00",
       "note": "Better integration for [Open Web Apps][1]\r\n\r\n\r\n  [1]: https://hacks.mozilla.org/2014/03/better-integration-for-open-web-apps-on-android/",
-      "is_public": true,
-      "tag": "New",
-      "bug": null
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": null,
+      "created": "2014-04-23T10:55:05+00:00",
+      "is_public": true,
+      "modified": "2014-05-09T10:26:53+00:00",
       "note": "Set default home panel",
-      "is_public": true,
-      "tag": "New",
-      "bug": null
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": null,
+      "created": "2014-04-23T10:55:26+00:00",
+      "is_public": true,
+      "modified": "2014-05-09T10:26:53+00:00",
       "note": "Hide/Show home panels",
-      "is_public": true,
-      "tag": "New",
-      "bug": null
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": 941744,
+      "created": "2014-04-29T11:29:29+00:00",
+      "is_public": true,
+      "modified": "2014-05-09T10:26:53+00:00",
       "note": "Removed ability to 'send tab' to remote device",
-      "is_public": true,
-      "tag": "Changed",
-      "bug": 941744
+      "sort_num": 600,
+      "tag": "Changed"
     },
     {
+      "bug": null,
+      "created": "2014-03-04T09:21:34+00:00",
+      "is_public": true,
+      "modified": "2014-05-09T10:26:53+00:00",
       "note": "Performance improved by replacing throbber with a progress bar",
-      "is_public": true,
-      "tag": "Changed",
-      "bug": null
+      "sort_num": 0,
+      "tag": "Changed"
     },
     {
+      "bug": null,
+      "created": "2014-04-09T08:09:00+00:00",
+      "is_public": true,
+      "modified": "2014-05-09T10:26:53+00:00",
       "note": "Clicking on a W3C Web Notification will switch to the originating tab",
-      "is_public": true,
-      "tag": "Changed",
-      "bug": null
+      "sort_num": 0,
+      "tag": "Changed"
     },
     {
+      "bug": null,
+      "created": "2014-03-04T08:34:42+00:00",
+      "is_public": true,
+      "modified": "2014-05-09T10:26:53+00:00",
       "note": "'box-sizing' (dropping the -moz- prefix) implemented (<a href=\"https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing\">learn more</a>)",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": null
+      "sort_num": 3,
+      "tag": "Developer"
     },
     {
+      "bug": null,
+      "created": "2014-03-04T08:35:59+00:00",
+      "is_public": true,
+      "modified": "2014-05-09T10:26:53+00:00",
       "note": "Console object available in Web Workers (<a href=\"https://developer.mozilla.org/fr/docs/Web/API/console\">learn more</a>)",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": null
+      "sort_num": 2,
+      "tag": "Developer"
     },
     {
+      "bug": 924089,
+      "created": "2014-03-04T08:36:16+00:00",
+      "is_public": true,
+      "modified": "2014-05-09T10:26:53+00:00",
       "note": "Promises enabled by default (<a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise\">learn more</a>)",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": 924089
+      "sort_num": 1,
+      "tag": "Developer"
     },
     {
+      "bug": null,
+      "created": "2014-03-04T08:35:01+00:00",
+      "is_public": true,
+      "modified": "2014-05-09T10:26:53+00:00",
       "note": "SharedWorker enabled by default",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": null
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
+      "bug": null,
+      "created": "2014-03-04T08:52:33+00:00",
+      "is_public": true,
+      "modified": "2014-05-09T10:26:53+00:00",
       "note": "&lt;input type=\"number\"&gt; implemented and enabled",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": null
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
+      "bug": null,
+      "created": "2014-03-04T09:24:01+00:00",
+      "is_public": true,
+      "modified": "2014-05-09T10:26:53+00:00",
       "note": "Synthetic APKs enabled by default",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": null
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
+      "bug": null,
+      "created": "2014-03-04T10:03:37+00:00",
+      "is_public": true,
+      "modified": "2014-07-21T04:27:57+00:00",
       "note": "Color picker widget implemented, access by using &lt;input type=\"color\"&gt;",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": null
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
+      "bug": 887836,
+      "created": "2014-04-29T10:52:27+00:00",
+      "is_public": true,
+      "modified": "2014-05-09T10:26:53+00:00",
       "note": "Implemented URLSearchParams from the URL specification (see [MDN][1] for details )\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/URLUtils",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": 887836
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
+      "bug": null,
+      "created": "2013-11-25T00:24:50+00:00",
+      "is_public": true,
+      "modified": "2015-03-26T15:55:42+00:00",
       "note": "Various <a href=\"https://www.mozilla.org/security/known-vulnerabilities/firefox.html\">security fixes</a>",
-      "is_public": true,
-      "tag": "Fixed",
-      "bug": null
+      "sort_num": 0,
+      "tag": "Fixed"
     },
     {
+      "bug": 748100,
+      "created": "2014-03-04T09:21:59+00:00",
+      "is_public": true,
+      "modified": "2014-05-09T10:26:53+00:00",
       "note": "Improved favicon.ico decoding ([748100][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=748100",
-      "is_public": true,
-      "tag": "Fixed",
-      "bug": 748100
+      "sort_num": 0,
+      "tag": "Fixed"
     },
     {
-      "note": "Moving Firefox to background while playing a flash video in full screen mode and bring it back to view will freeze the app (see <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=809055\">809055</a>)",
+      "bug": null,
+      "created": "2014-03-04T09:53:08+00:00",
       "is_public": true,
-      "tag": "Known",
-      "bug": null
+      "modified": "2014-07-21T04:29:47+00:00",
+      "note": "Moving Firefox to background while playing a flash video in full screen mode and bring it back to view will freeze the app (see <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=809055\">809055</a>)",
+      "sort_num": 0,
+      "tag": "Known"
     }
   ],
-  "text": " <p>We'd also like to extend a special thank you to all of the <a href=\"https://blog.mozilla.org/community/2014/04/29/firefox-29-new-contributors/\">new Mozillians</a> who contributed to this release of Firefox!</p>",
+  "product": "Firefox for Android",
   "release_date": "2014-05-09",
   "slug": "firefox-for-android-29.0.1-release",
-  "version": "29.0.1",
-  "bug_search_url": "",
-  "is_public": true,
   "system_requirements": " ",
-  "channel": "Release"
+  "text": " <p>We'd also like to extend a special thank you to all of the <a href=\"https://blog.mozilla.org/community/2014/04/29/firefox-29-new-contributors/\">new Mozillians</a> who contributed to this release of Firefox!</p>",
+  "title": "Firefox for Android 29.0.1 Release",
+  "version": "29.0.1"
 }

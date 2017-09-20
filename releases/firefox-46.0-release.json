@@ -1,81 +1,116 @@
 {
-  "product": "Firefox",
   "bug_list": "",
-  "title": "Firefox 46.0 Release",
+  "bug_search_url": "",
+  "channel": "Release",
+  "created": "2016-01-22T20:21:29.692000+00:00",
+  "is_public": true,
+  "modified": "2016-04-26T18:58:01.467000+00:00",
   "notes": [
     {
+      "bug": 1215479,
+      "created": "2016-01-25T15:10:05.156000+00:00",
+      "is_public": true,
+      "modified": "2016-04-15T19:09:52.357000+00:00",
       "note": "[Improved security][1] of the JavaScript Just In Time (JIT) Compiler\r\n\r\n\r\n  [1]: http://jandemooij.nl/blog/2015/12/29/wx-jit-code-enabled-in-firefox/",
-      "is_public": true,
-      "tag": "New",
-      "bug": 1215479
+      "sort_num": 50,
+      "tag": "New"
     },
     {
+      "bug": 1186003,
+      "created": "2015-08-07T20:24:05+00:00",
+      "is_public": true,
+      "modified": "2016-04-15T19:09:52.357000+00:00",
       "note": "GTK3 integration (GNU/Linux only)\r\n",
-      "is_public": true,
-      "tag": "New",
-      "bug": 1186003
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": null,
+      "created": "2016-01-28T22:14:43.562000+00:00",
+      "is_public": true,
+      "modified": "2016-04-15T19:09:52.357000+00:00",
       "note": "[WebRTC][1] fixes to improve performance and stability\r\n\r\n\r\n  [1]: https://wiki.mozilla.org/Media/WebRTC/ReleaseNotes/46",
-      "is_public": true,
-      "tag": "Changed",
-      "bug": null
+      "sort_num": 0,
+      "tag": "Changed"
     },
     {
+      "bug": 1200341,
+      "created": "2016-03-04T05:01:13.083000+00:00",
+      "is_public": true,
+      "modified": "2016-04-15T19:09:52.357000+00:00",
       "note": "Added HKDF support for [Web Crypto API][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/Web_Crypto_API",
-      "is_public": true,
-      "tag": "HTML5",
-      "bug": 1200341
+      "sort_num": 0,
+      "tag": "HTML5"
     },
     {
+      "bug": 1164427,
+      "created": "2016-03-04T05:03:10.536000+00:00",
+      "is_public": true,
+      "modified": "2016-04-15T19:09:52.357000+00:00",
       "note": "Added support for [document.elementsFromPoint][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/Document/elementsFromPoint",
-      "is_public": true,
-      "tag": "HTML5",
-      "bug": 1164427
+      "sort_num": 0,
+      "tag": "HTML5"
     },
     {
+      "bug": 1229229,
+      "created": "2016-01-25T04:08:15.407000+00:00",
+      "is_public": true,
+      "modified": "2016-04-15T19:09:52.357000+00:00",
       "note": "Display dominator trees in [Memory tool][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Memory",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": 1229229
+      "sort_num": 90,
+      "tag": "Developer"
     },
     {
+      "bug": 1029371,
+      "created": "2016-01-25T04:41:04.017000+00:00",
+      "is_public": true,
+      "modified": "2016-04-15T19:09:52.357000+00:00",
       "note": "Launch responsive mode from the [Style Editor @media sidebar][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Style_Editor#The_media_sidebar",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": 1029371
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
+      "bug": 1233551,
+      "created": "2016-01-25T16:48:47.572000+00:00",
+      "is_public": true,
+      "modified": "2016-04-15T19:09:52.357000+00:00",
       "note": "Allocation and garbage collection pause profiling in the [performance panel][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Performance/Allocations",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": 1233551
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
+      "bug": 1258650,
+      "created": "2016-04-15T21:16:11.823000+00:00",
+      "is_public": true,
+      "modified": "2016-04-15T21:16:12.304000+00:00",
       "note": "Correct rendering for scaled SVGs that use a clip and a mask",
-      "is_public": true,
-      "tag": "Fixed",
-      "bug": 1258650
+      "sort_num": 0,
+      "tag": "Fixed"
     },
     {
+      "bug": 1249253,
+      "created": "2016-04-21T21:46:37.828000+00:00",
+      "is_public": true,
+      "modified": "2016-04-21T21:46:38.579000+00:00",
       "note": "Screen reader behavior with blank spaces in Google Docs corrected",
-      "is_public": true,
-      "tag": "Fixed",
-      "bug": 1249253
+      "sort_num": 0,
+      "tag": "Fixed"
     },
     {
-      "note": "Various [security fixes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/en-US/security/known-vulnerabilities/firefox/#firefox46",
+      "bug": null,
+      "created": "2016-04-26T18:57:46.982000+00:00",
       "is_public": true,
-      "tag": "Fixed",
-      "bug": null
+      "modified": "2016-04-26T18:57:47.493000+00:00",
+      "note": "Various [security fixes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/en-US/security/known-vulnerabilities/firefox/#firefox46",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
-  "text": "<p>We'd also like to extend a special thank you to all of the <a href=\"http://blog.mozilla.org/community/2016/04/22/firefox-46-new-contributors/\">new Mozillians</a> who contributed to this release of Firefox!</p> ",
+  "product": "Firefox",
   "release_date": "2016-04-26",
   "slug": "firefox-46.0-release",
-  "version": "46.0",
-  "bug_search_url": "",
-  "is_public": true,
   "system_requirements": "## Windows\r\n\r\n### Operating Systems (32-bit and 64-bit)\r\n - Windows XP SP2\r\n - Windows Server 2003 SP1\r\n - Windows Vista\r\n - Windows 7\r\n - Windows 8\r\n - Windows 10\r\n\r\n*Please note that 64-bit builds of Firefox are only supported on Windows 7 and higher.*\r\n\r\n### Recommended Hardware\r\n-  Pentium 4 or newer processor that supports SSE2\r\n-  512MB of RAM\r\n-  200MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- Mac OS X 10.6\r\n- Mac OS X 10.7\r\n- Mac OS X 10.8\r\n- Mac OS X 10.9\r\n- Mac OS X 10.10\r\n- Mac OS X 10.11\r\n\r\n### Recommended Hardware\r\n- Macintosh computer with an Intel x86 processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - GTK+ 3.4 or higher\r\n    - GLib 2.22 or higher\r\n    - Pango 1.14 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n    - libstdc++ 4.3 or higher\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - NetworkManager 0.7 or higher\r\n    - DBus 1.0 or higher\r\n    - HAL 0.5.8 or higher\r\n    - GNOME 2.16 or higher",
-  "channel": "Release"
+  "text": "<p>We'd also like to extend a special thank you to all of the <a href=\"http://blog.mozilla.org/community/2016/04/22/firefox-46-new-contributors/\">new Mozillians</a> who contributed to this release of Firefox!</p> ",
+  "title": "Firefox 46.0 Release",
+  "version": "46.0"
 }

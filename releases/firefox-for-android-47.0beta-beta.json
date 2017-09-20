@@ -1,69 +1,98 @@
 {
-  "product": "Firefox for Android",
   "bug_list": "",
-  "title": "Firefox for Android 47.0beta Beta",
+  "bug_search_url": "",
+  "channel": "Beta",
+  "created": "2016-01-22T20:22:06.382000+00:00",
+  "is_public": true,
+  "modified": "2016-04-27T17:27:46.517000+00:00",
   "notes": [
     {
+      "bug": 1004734,
+      "created": "2016-03-08T19:14:11.431000+00:00",
+      "is_public": true,
+      "modified": "2016-06-06T23:09:13.743000+00:00",
       "note": "Add ability to show system notification to highlight features on browser update",
-      "is_public": true,
-      "tag": "New",
-      "bug": 1004734
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": 1249434,
+      "created": "2016-03-08T19:15:52.143000+00:00",
+      "is_public": true,
+      "modified": "2016-06-03T22:22:09.431000+00:00",
       "note": "Add \"Show/Hide web fonts\" in advanced settings to reduce bandwidth and data",
-      "is_public": true,
-      "tag": "New",
-      "bug": 1249434
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": 1018994,
+      "created": "2016-03-04T18:48:32.873000+00:00",
+      "is_public": true,
+      "modified": "2016-06-03T22:22:09.431000+00:00",
       "note": "Remove Favicons in Awesomebar to prevent HTTPS spoofing",
-      "is_public": true,
-      "tag": "Changed",
-      "bug": 1018994
+      "sort_num": 0,
+      "tag": "Changed"
     },
     {
+      "bug": 1235869,
+      "created": "2016-03-08T19:14:30.793000+00:00",
+      "is_public": true,
+      "modified": "2016-06-03T22:22:09.431000+00:00",
       "note": "Remove support for Android web runtime (WebRT)",
-      "is_public": true,
-      "tag": "Changed",
-      "bug": 1235869
+      "sort_num": 0,
+      "tag": "Changed"
     },
     {
+      "bug": 1244701,
+      "created": "2016-03-08T19:15:02.329000+00:00",
+      "is_public": true,
+      "modified": "2016-06-07T04:28:18.318000+00:00",
       "note": "Last release to support Android 2.3.x (Gingerbread)",
-      "is_public": true,
-      "tag": "Changed",
-      "bug": 1244701
+      "sort_num": 0,
+      "tag": "Changed"
     },
     {
+      "bug": 1220932,
+      "created": "2016-03-08T19:15:24.314000+00:00",
+      "is_public": true,
+      "modified": "2016-06-03T22:22:09.431000+00:00",
       "note": "\"Open multiple links\"  setting under \u201cCustomize\u201d has been renamed to \u201cTab Queue\u201d",
-      "is_public": true,
-      "tag": "Changed",
-      "bug": 1220932
+      "sort_num": 0,
+      "tag": "Changed"
     },
     {
+      "bug": 518805,
+      "created": "2016-04-25T22:34:25.200000+00:00",
+      "is_public": true,
+      "modified": "2016-06-03T22:22:09.431000+00:00",
       "note": "Stopped data usage when Firefox is in the background and a page uses meta refresh",
-      "is_public": true,
-      "tag": "Changed",
-      "bug": 518805
+      "sort_num": 0,
+      "tag": "Changed"
     },
     {
+      "bug": 1191936,
+      "created": "2016-03-04T18:34:24.501000+00:00",
+      "is_public": true,
+      "modified": "2016-06-03T22:22:09.453000+00:00",
       "note": "WebCrypto: RSA-PSS signature support",
-      "is_public": true,
-      "tag": "HTML5",
-      "bug": 1191936
+      "sort_num": 0,
+      "tag": "HTML5"
     },
     {
-      "note": "WebCrypto: PBKDF2 supports SHA-2 hash algorithms",
+      "bug": 1216109,
+      "created": "2016-03-04T18:34:53.505000+00:00",
       "is_public": true,
-      "tag": "HTML5",
-      "bug": 1216109
+      "modified": "2016-06-03T22:22:09.453000+00:00",
+      "note": "WebCrypto: PBKDF2 supports SHA-2 hash algorithms",
+      "sort_num": 0,
+      "tag": "HTML5"
     }
   ],
-  "text": "",
+  "product": "Firefox for Android",
   "release_date": "2016-04-27",
   "slug": "firefox-for-android-47.0beta-beta",
-  "version": "47.0beta",
-  "bug_search_url": "",
-  "is_public": true,
   "system_requirements": "## Operating systems\r\n - Android 2.3\r\n - Android 4.0\r\n - Above versions\r\n\r\n## Requirements\r\n - 50 MB internal storage\r\n - 384 MB of RAM\r\n - display at least 320 pixels high and 240 pixels wide",
-  "channel": "Beta"
+  "text": "",
+  "title": "Firefox for Android 47.0beta Beta",
+  "version": "47.0beta"
 }

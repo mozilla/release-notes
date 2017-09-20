@@ -1,21 +1,26 @@
 {
-  "product": "Firefox for Android",
   "bug_list": "",
-  "title": "Firefox for Android 25.0 Release",
+  "bug_search_url": "",
+  "channel": "Release",
+  "created": "2014-03-13T08:54:30+00:00",
+  "is_public": true,
+  "modified": "2014-07-31T14:11:50+00:00",
   "notes": [
     {
-      "note": "Various <a href=\"https://www.mozilla.org/security/known-vulnerabilities/firefox.html\">security fixes</a>",
+      "bug": null,
+      "created": "2013-11-25T00:24:50+00:00",
       "is_public": true,
-      "tag": "Fixed",
-      "bug": null
+      "modified": "2015-03-26T15:55:42+00:00",
+      "note": "Various <a href=\"https://www.mozilla.org/security/known-vulnerabilities/firefox.html\">security fixes</a>",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
-  "text": "<p>We'd also like to extend a special thank you to all of the <a href=\"http://blog.mozilla.org/community/2013/10/28/firefox-25-new-contributors/\">new Mozillians</a> who contributed to Firefox 25!</p>",
+  "product": "Firefox for Android",
   "release_date": "2013-10-29",
   "slug": "firefox-for-android-25.0-release",
-  "version": "25.0",
-  "bug_search_url": "",
-  "is_public": true,
   "system_requirements": " ",
-  "channel": "Release"
+  "text": "<p>We'd also like to extend a special thank you to all of the <a href=\"http://blog.mozilla.org/community/2013/10/28/firefox-25-new-contributors/\">new Mozillians</a> who contributed to Firefox 25!</p>",
+  "title": "Firefox for Android 25.0 Release",
+  "version": "25.0"
 }

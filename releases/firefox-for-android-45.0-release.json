@@ -1,95 +1,133 @@
 {
-  "product": "Firefox for Android",
   "bug_list": "",
-  "title": "Firefox for Android 45.0 Release",
+  "bug_search_url": "",
+  "channel": "Release",
+  "created": "2015-12-17T10:57:19+00:00",
+  "is_public": true,
+  "modified": "2016-04-04T12:38:04.675000+00:00",
   "notes": [
     {
+      "bug": 1170725,
+      "created": "2015-12-17T13:58:48+00:00",
+      "is_public": true,
+      "modified": "2016-03-07T13:51:01.354000+00:00",
       "note": "[Click-to-view Images option][1] in the menu\u2019s advanced settings lets users choose which images on the Web they download to conserve data usage\r\n\r\n\r\n  [1]: https://support.mozilla.org/en-US/kb/block-or-load-images-over-wifi-firefox-android",
-      "is_public": true,
-      "tag": "New",
-      "bug": 1170725
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": null,
+      "created": "2015-12-18T17:18:19.532000+00:00",
+      "is_public": true,
+      "modified": "2016-03-01T12:54:38.112000+00:00",
       "note": "Introduce a new preference (*network.dns.blockDotOnion*) to allow blocking .onion at the DNS level",
-      "is_public": true,
-      "tag": "New",
-      "bug": null
+      "sort_num": -1,
+      "tag": "New"
     },
     {
+      "bug": 1191741,
+      "created": "2016-03-02T13:31:08.473000+00:00",
+      "is_public": true,
+      "modified": "2016-03-07T13:52:22.436000+00:00",
       "note": "Add [toggle to disable sharing of camera][1] and microphone in admin UI for family friendly browsing\r\n\r\n\r\n  [1]: https://support.mozilla.org/en-US/kb/controlledaccess#mobile::m45",
-      "is_public": true,
-      "tag": "New",
-      "bug": 1191741
+      "sort_num": -1,
+      "tag": "New"
     },
     {
+      "bug": null,
+      "created": "2016-03-07T13:50:09.788000+00:00",
+      "is_public": true,
+      "modified": "2016-03-07T13:50:09.790000+00:00",
       "note": "Provide system notification to give an End Of Life message to Android Honeycomb users\r\n",
-      "is_public": true,
-      "tag": "New",
-      "bug": null
+      "sort_num": -1,
+      "tag": "New"
     },
     {
+      "bug": 1239503,
+      "created": "2016-01-25T17:10:39.940000+00:00",
+      "is_public": true,
+      "modified": "2016-03-01T12:54:38.112000+00:00",
       "note": "Disable the inclusion of the URL when sharing selected text from web page\r\n",
-      "is_public": true,
-      "tag": "Changed",
-      "bug": 1239503
+      "sort_num": 0,
+      "tag": "Changed"
     },
     {
+      "bug": null,
+      "created": "2016-01-28T12:21:42.738000+00:00",
+      "is_public": true,
+      "modified": "2016-03-07T13:50:36.209000+00:00",
       "note": "Optimized & re-organized app Settings",
-      "is_public": true,
-      "tag": "Changed",
-      "bug": null
+      "sort_num": 0,
+      "tag": "Changed"
     },
     {
+      "bug": null,
+      "created": "2016-01-28T12:24:36.843000+00:00",
+      "is_public": true,
+      "modified": "2016-03-01T12:54:38.112000+00:00",
       "note": "Replace super toasts with [snackbar][1]\r\n\r\n\r\n  [1]: http://www.google.com/design/spec/components/snackbars-toasts.html",
-      "is_public": true,
-      "tag": "Changed",
-      "bug": null
+      "sort_num": 0,
+      "tag": "Changed"
     },
     {
+      "bug": 1222390,
+      "created": "2016-03-02T13:33:33.894000+00:00",
+      "is_public": true,
+      "modified": "2016-03-02T16:39:57.189000+00:00",
       "note": "Simplified admin UI for family-friendly browsing on tablet in restricted profile ",
-      "is_public": true,
-      "tag": "Changed",
-      "bug": 1222390
+      "sort_num": -1,
+      "tag": "Changed"
     },
     {
+      "bug": 1197932,
+      "created": "2015-12-18T17:08:51.149000+00:00",
+      "is_public": true,
+      "modified": "2016-03-01T12:54:38.112000+00:00",
       "note": "[ES6 Classes][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/JavaScript/Reference/Classes",
-      "is_public": true,
-      "tag": "HTML5",
-      "bug": 1197932
+      "sort_num": 0,
+      "tag": "HTML5"
     },
     {
+      "bug": 663570,
+      "created": "2016-01-25T15:17:54.672000+00:00",
+      "is_public": true,
+      "modified": "2016-03-01T12:54:38.112000+00:00",
       "note": "Support delivery of a Content Security Policy (CSP) via a meta tag\r\n",
-      "is_public": true,
-      "tag": "HTML5",
-      "bug": 663570
+      "sort_num": 0,
+      "tag": "HTML5"
     },
     {
-      "note": "URLs containing a Unicode-format Internationalized Domain Name (IDN) are now properly redirected",
-      "is_public": true,
-      "tag": "Fixed",
       "bug": 1142083,
+      "created": "2015-12-24T14:27:41.519000+00:00",
       "fixed_in_release": {
-        "product": "Firefox",
-        "title": "Firefox 45.0a2 Aurora",
-        "version": "45.0a2",
+        "channel": "Aurora",
         "is_public": true,
+        "product": "Firefox",
         "slug": "firefox-45.0a2-aurora",
-        "channel": "Aurora"
-      }
+        "title": "Firefox 45.0a2 Aurora",
+        "version": "45.0a2"
+      },
+      "is_public": true,
+      "modified": "2016-03-01T12:54:38.112000+00:00",
+      "note": "URLs containing a Unicode-format Internationalized Domain Name (IDN) are now properly redirected",
+      "sort_num": 0,
+      "tag": "Fixed"
     },
     {
-      "note": "Various [security fixes][1]\r\n [1]: https://www.mozilla.org/en-US/security/known-vulnerabilities/firefox/#firefox45",
+      "bug": null,
+      "created": "2016-03-08T13:29:25.810000+00:00",
       "is_public": true,
-      "tag": "Fixed",
-      "bug": null
+      "modified": "2016-03-08T13:29:25.812000+00:00",
+      "note": "Various [security fixes][1]\r\n [1]: https://www.mozilla.org/en-US/security/known-vulnerabilities/firefox/#firefox45",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
-  "text": "<p>We'd also like to extend a special thank you to all of the <a href=\"http://blog.mozilla.org/community/2016/03/02/firefox-45-new-contributors/\">new Mozillians</a> who contributed to this release of Firefox!</p> ",
+  "product": "Firefox for Android",
   "release_date": "2016-03-08",
   "slug": "firefox-for-android-45.0-release",
-  "version": "45.0",
-  "bug_search_url": "",
-  "is_public": true,
   "system_requirements": "## Operating systems\r\n - Android 2.3\r\n - Android 3.0\r\n - Android 4.0\r\n - Above versions\r\n\r\n## Requirements\r\n - 50 MB internal storage\r\n - 384 MB of RAM\r\n - display at least 320 pixels high and 240 pixels wide",
-  "channel": "Release"
+  "text": "<p>We'd also like to extend a special thank you to all of the <a href=\"http://blog.mozilla.org/community/2016/03/02/firefox-45-new-contributors/\">new Mozillians</a> who contributed to this release of Firefox!</p> ",
+  "title": "Firefox for Android 45.0 Release",
+  "version": "45.0"
 }

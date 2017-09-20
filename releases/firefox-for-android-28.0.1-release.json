@@ -1,137 +1,196 @@
 {
-  "product": "Firefox for Android",
   "bug_list": "",
-  "title": "Firefox for Android 28.0.1 Release",
+  "bug_search_url": "",
+  "channel": "Release",
+  "created": "2014-03-28T10:31:24+00:00",
+  "is_public": true,
+  "modified": "2014-05-12T01:01:38+00:00",
   "notes": [
     {
+      "bug": 963612,
+      "created": "2014-03-28T10:39:35+00:00",
+      "is_public": true,
+      "modified": "2014-04-23T10:53:39+00:00",
       "note": "28.0.1 No H.264 video playback on several Galaxy devices ([963612][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=963621",
-      "is_public": true,
-      "tag": "Fixed",
-      "bug": 963612
+      "sort_num": 0,
+      "tag": "Fixed"
     },
     {
+      "bug": null,
+      "created": "2014-03-28T10:40:11+00:00",
+      "is_public": true,
+      "modified": "2014-04-23T10:53:39+00:00",
       "note": "28.0.1 mobile-only [security fix for file: paths][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/known-vulnerabilities/firefox.html",
-      "is_public": true,
-      "tag": "Fixed",
-      "bug": null
+      "sort_num": 0,
+      "tag": "Fixed"
     },
     {
+      "bug": null,
+      "created": "2014-03-04T09:56:40+00:00",
+      "is_public": true,
+      "modified": "2014-07-21T04:21:02+00:00",
       "note": "More native text selection, cut, and copy",
-      "is_public": true,
-      "tag": "New",
-      "bug": null
+      "sort_num": 5000,
+      "tag": "New"
     },
     {
+      "bug": null,
+      "created": "2014-03-04T09:56:50+00:00",
+      "is_public": true,
+      "modified": "2014-07-21T04:21:25+00:00",
       "note": "Awesomebar entries now trigger predictive lookup",
-      "is_public": true,
-      "tag": "New",
-      "bug": null
+      "sort_num": 4000,
+      "tag": "New"
     },
     {
+      "bug": null,
+      "created": "2014-03-04T09:51:55+00:00",
+      "is_public": true,
+      "modified": "2014-07-21T04:25:45+00:00",
       "note": "VP9 video decoding implemented",
-      "is_public": true,
-      "tag": "New",
-      "bug": null
+      "sort_num": 500,
+      "tag": "New"
     },
     {
+      "bug": null,
+      "created": "2014-03-04T09:50:53+00:00",
+      "is_public": true,
+      "modified": "2014-07-21T04:25:14+00:00",
       "note": "Horizontal HTML5 audio/video volume control",
-      "is_public": true,
-      "tag": "New",
-      "bug": null
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": null,
+      "created": "2014-03-04T09:51:05+00:00",
+      "is_public": true,
+      "modified": "2014-07-21T04:26:06+00:00",
       "note": "Support for Opus in WebM",
-      "is_public": true,
-      "tag": "New",
-      "bug": null
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": null,
+      "created": "2014-03-04T09:57:12+00:00",
+      "is_public": true,
+      "modified": "2014-07-21T04:23:59+00:00",
       "note": "Estonian [et] locale added",
-      "is_public": true,
-      "tag": "New",
-      "bug": null
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": null,
+      "created": "2014-03-04T09:59:44+00:00",
+      "is_public": true,
+      "modified": "2014-07-21T04:24:30+00:00",
       "note": "Added support for OpenSearch",
-      "is_public": true,
-      "tag": "New",
-      "bug": null
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": null,
+      "created": "2014-03-04T09:59:59+00:00",
+      "is_public": true,
+      "modified": "2014-07-21T04:24:44+00:00",
       "note": "Added settings switch to toggle dynamic toolbar mode",
-      "is_public": true,
-      "tag": "New",
-      "bug": null
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": null,
+      "created": "2014-03-04T09:52:03+00:00",
+      "is_public": true,
+      "modified": "2014-07-21T04:27:20+00:00",
       "note": "Now that spdy/3 is implemented support for spdy/2 has been removed and servers without spdy/3 will negotiate to http/1 without any penalty",
-      "is_public": true,
-      "tag": "Changed",
-      "bug": null
+      "sort_num": 0,
+      "tag": "Changed"
     },
     {
+      "bug": null,
+      "created": "2014-03-04T09:52:12+00:00",
+      "is_public": true,
+      "modified": "2014-07-21T04:28:31+00:00",
       "note": "Support for MathML 2.0 'mathvariant' attribute",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": null
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
+      "bug": null,
+      "created": "2014-03-04T09:52:24+00:00",
+      "is_public": true,
+      "modified": "2014-07-21T04:28:46+00:00",
       "note": "Background thread hang reporting",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": null
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
+      "bug": null,
+      "created": "2014-03-04T09:52:46+00:00",
+      "is_public": true,
+      "modified": "2014-07-21T04:28:16+00:00",
       "note": "Support for multi-line flexbox in layout",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": null
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
+      "bug": null,
+      "created": "2013-11-25T00:24:50+00:00",
+      "is_public": true,
+      "modified": "2015-03-26T15:55:42+00:00",
       "note": "Various <a href=\"https://www.mozilla.org/security/known-vulnerabilities/firefox.html\">security fixes</a>",
-      "is_public": true,
-      "tag": "Fixed",
-      "bug": null
+      "sort_num": 0,
+      "tag": "Fixed"
     },
     {
+      "bug": 963000,
+      "created": "2014-03-04T10:07:01+00:00",
+      "is_public": true,
+      "modified": "2014-07-21T04:04:51+00:00",
       "note": "Explore By Touch automatically loading web pages ([963000][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=963000",
-      "is_public": true,
-      "tag": "Fixed",
-      "bug": 963000
+      "sort_num": 0,
+      "tag": "Fixed"
     },
     {
+      "bug": 983211,
+      "created": "2014-03-26T16:25:03+00:00",
+      "is_public": true,
+      "modified": "2014-04-23T14:54:12+00:00",
       "note": "Crashes interacting with the back button on x86 tablets Galaxy Tab 3 10.1 (see [983211][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=983211",
-      "is_public": true,
-      "tag": "Known",
-      "bug": 983211
+      "sort_num": 100,
+      "tag": "Known"
     },
     {
+      "bug": null,
+      "created": "2014-03-04T09:53:08+00:00",
+      "is_public": true,
+      "modified": "2014-07-21T04:29:47+00:00",
       "note": "Moving Firefox to background while playing a flash video in full screen mode and bring it back to view will freeze the app (see <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=809055\">809055</a>)",
-      "is_public": true,
-      "tag": "Known",
-      "bug": null
+      "sort_num": 0,
+      "tag": "Known"
     },
     {
-      "note": "Some devices running Android 4.3/4.4 may experience playback problems with embedded h.264 video (see [984230][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=984230",
-      "is_public": true,
-      "tag": "Known",
       "bug": 984230,
+      "created": "2014-03-28T10:30:27+00:00",
       "fixed_in_release": {
-        "product": "Firefox",
-        "title": "Firefox 29.0a2 Aurora",
-        "version": "29.0a2",
+        "channel": "Aurora",
         "is_public": true,
+        "product": "Firefox",
         "slug": "firefox-29.0a2-aurora",
-        "channel": "Aurora"
-      }
+        "title": "Firefox 29.0a2 Aurora",
+        "version": "29.0a2"
+      },
+      "is_public": true,
+      "modified": "2014-04-23T10:53:39+00:00",
+      "note": "Some devices running Android 4.3/4.4 may experience playback problems with embedded h.264 video (see [984230][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=984230",
+      "sort_num": 0,
+      "tag": "Known"
     }
   ],
-  "text": "Check out \"What\u2019s New\" and \"Known Issues\" for this version of Firefox below. As always, you\u2019re encouraged to [tell us what you think][1], or [file a bug in Bugzilla][2].\r\n\r\nWe'd also like extend a special thank you to all of the [new Mozillians][3] who contributed to Firefox 28!!\r\n\r\n\r\n  [1]: http://input.mozilla.com/feedback\r\n  [2]: https://bugzilla.mozilla.org/\r\n  [3]: https://blog.mozilla.org/community/2014/03/13/firefox-28-new-contributors/",
+  "product": "Firefox for Android",
   "release_date": "2014-03-24",
   "slug": "firefox-for-android-28.0.1-release",
-  "version": "28.0.1",
-  "bug_search_url": "",
-  "is_public": true,
   "system_requirements": " ",
-  "channel": "Release"
+  "text": "Check out \"What\u2019s New\" and \"Known Issues\" for this version of Firefox below. As always, you\u2019re encouraged to [tell us what you think][1], or [file a bug in Bugzilla][2].\r\n\r\nWe'd also like extend a special thank you to all of the [new Mozillians][3] who contributed to Firefox 28!!\r\n\r\n\r\n  [1]: http://input.mozilla.com/feedback\r\n  [2]: https://bugzilla.mozilla.org/\r\n  [3]: https://blog.mozilla.org/community/2014/03/13/firefox-28-new-contributors/",
+  "title": "Firefox for Android 28.0.1 Release",
+  "version": "28.0.1"
 }

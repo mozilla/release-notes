@@ -1,135 +1,185 @@
 {
-  "product": "Firefox for Android",
   "bug_list": "",
-  "title": "Firefox for Android 33.0 Release",
+  "bug_search_url": "",
+  "channel": "Release",
+  "created": "2014-07-17T07:40:42+00:00",
+  "is_public": true,
+  "modified": "2014-10-14T12:53:39+00:00",
   "notes": [
     {
+      "bug": 1042238,
+      "created": "2014-08-28T06:31:44+00:00",
+      "is_public": true,
+      "modified": "2014-11-04T14:35:29+00:00",
       "note": "Sending videos to [Chromecast and Roku devices][1]\r\n\r\n\r\n  [1]: https://blog.mozilla.org/blog/2014/10/14/send-videos-from-firefox-for-android-straight-to-your-tv/",
-      "is_public": true,
-      "tag": "New",
-      "bug": 1042238
+      "sort_num": 110,
+      "tag": "New"
     },
     {
+      "bug": 1001309,
+      "created": "2014-07-21T08:05:30+00:00",
+      "is_public": true,
+      "modified": "2014-11-04T14:35:26+00:00",
       "note": "Option added to clear data when quitting",
-      "is_public": true,
-      "tag": "New",
-      "bug": 1001309
+      "sort_num": 109,
+      "tag": "New"
     },
     {
+      "bug": 701725,
+      "created": "2014-03-04T08:37:28+00:00",
+      "is_public": true,
+      "modified": "2014-11-04T14:35:30+00:00",
       "note": "Enhanced tab management:\r\n\r\n - Undo a closed tab\r\n -  List recently closed tabs\r\n - Close all tabs at once\r\n - Quick switch-to-tab option when opening a new or private tab",
-      "is_public": true,
-      "tag": "New",
-      "bug": 701725
+      "sort_num": 108,
+      "tag": "New"
     },
     {
+      "bug": 1037871,
+      "created": "2014-07-23T07:56:07+00:00",
+      "is_public": true,
+      "modified": "2014-11-06T23:39:16+00:00",
       "note": "Slimmer and faster [JavaScript strings][1]\r\n\r\n  [1]: https://blog.mozilla.org/javascript/2014/07/21/slimmer-and-faster-javascript-strings-in-firefox/",
-      "is_public": true,
-      "tag": "New",
-      "bug": 1037871
+      "sort_num": 98,
+      "tag": "New"
     },
     {
+      "bug": 925004,
+      "created": "2014-07-23T07:37:34+00:00",
+      "is_public": true,
+      "modified": "2014-11-06T23:39:16+00:00",
       "note": "New CSP (Content Security Policy) backend",
-      "is_public": true,
-      "tag": "New",
-      "bug": 925004
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": 763671,
+      "created": "2014-10-03T05:42:13+00:00",
+      "is_public": true,
+      "modified": "2014-11-04T14:35:37+00:00",
       "note": "Form elements updated to a more modern look",
-      "is_public": true,
-      "tag": "New",
-      "bug": 763671
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": 1056085,
+      "created": "2014-08-20T09:36:45+00:00",
+      "is_public": true,
+      "modified": "2014-11-04T14:35:38+00:00",
       "note": "Locales added: Aragonese [an], Frisian [fy-NL], Kazakh [kk] and Khmer [km]",
-      "is_public": true,
-      "tag": "New",
-      "bug": 1056085
+      "sort_num": -1,
+      "tag": "New"
     },
     {
+      "bug": 1018497,
+      "created": "2014-07-17T09:08:11+00:00",
+      "is_public": true,
+      "modified": "2014-11-06T23:39:16+00:00",
       "note": "[DOMMatrix][1] interface implemented\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/DOMMatrix",
-      "is_public": true,
-      "tag": "HTML5",
-      "bug": 1018497
+      "sort_num": 0,
+      "tag": "HTML5"
     },
     {
+      "bug": 966166,
+      "created": "2014-08-28T06:25:31+00:00",
+      "is_public": true,
+      "modified": "2014-11-06T23:39:16+00:00",
       "note": "[@counter-style rule][1] from CSS3 Counter Styles specification implemented\r\n\r\n\r\n  [1]: http://dev.w3.org/csswg/css-counter-styles/#the-counter-style-rule",
-      "is_public": true,
-      "tag": "HTML5",
-      "bug": 966166
+      "sort_num": 0,
+      "tag": "HTML5"
     },
     {
+      "bug": 900692,
+      "created": "2014-07-23T07:43:47+00:00",
+      "is_public": true,
+      "modified": "2014-11-06T23:39:16+00:00",
       "note": "[Paint flashing][1] for browser content repaints\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Paint_Flashing_Tool",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": 900692
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
+      "bug": null,
+      "created": "2013-11-25T00:24:50+00:00",
+      "is_public": true,
+      "modified": "2015-03-26T15:55:42+00:00",
       "note": "Various <a href=\"https://www.mozilla.org/security/known-vulnerabilities/firefox.html\">security fixes</a>",
-      "is_public": true,
-      "tag": "Fixed",
-      "bug": null
+      "sort_num": 0,
+      "tag": "Fixed"
     },
     {
-      "note": "Fix incomplete downloads being marked as complete by detecting broken HTTP1.1 transfers ([237623][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=237623",
-      "is_public": true,
-      "tag": "Known",
       "bug": 237623,
+      "created": "2014-07-17T08:51:57+00:00",
       "fixed_in_release": {
-        "product": "Firefox",
-        "title": "Firefox 33.0 Release",
-        "version": "33.0",
+        "channel": "Release",
         "is_public": true,
+        "product": "Firefox",
         "slug": "firefox-33.0-release",
-        "channel": "Release"
-      }
+        "title": "Firefox 33.0 Release",
+        "version": "33.0"
+      },
+      "is_public": true,
+      "modified": "2014-11-06T23:39:16+00:00",
+      "note": "Fix incomplete downloads being marked as complete by detecting broken HTTP1.1 transfers ([237623][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=237623",
+      "sort_num": 0,
+      "tag": "Known"
     },
     {
-      "note": "MP4 videos will not play on Android L",
-      "is_public": true,
-      "tag": "Known",
       "bug": 1050832,
+      "created": "2014-08-28T04:52:53+00:00",
       "fixed_in_release": {
-        "product": "Firefox",
-        "title": "Firefox 34.0beta Beta",
-        "version": "34.0beta",
+        "channel": "Beta",
         "is_public": true,
+        "product": "Firefox",
         "slug": "firefox-34.0beta-beta",
-        "channel": "Beta"
-      }
+        "title": "Firefox 34.0beta Beta",
+        "version": "34.0beta"
+      },
+      "is_public": true,
+      "modified": "2014-11-24T22:42:39+00:00",
+      "note": "MP4 videos will not play on Android L",
+      "sort_num": 0,
+      "tag": "Known"
     },
     {
+      "bug": 1055166,
+      "created": "2014-08-28T11:37:24+00:00",
+      "is_public": true,
+      "modified": "2014-11-24T22:35:46+00:00",
       "note": "Flash does not work on Android L",
-      "is_public": true,
-      "tag": "Known",
-      "bug": 1055166
+      "sort_num": 0,
+      "tag": "Known"
     },
     {
+      "bug": 1068055,
+      "created": "2014-10-07T02:23:30+00:00",
+      "is_public": true,
+      "modified": "2014-11-04T14:34:56+00:00",
       "note": "On Gingerbread, VP9/WEBM video artifacts: only plays on half screen",
-      "is_public": true,
-      "tag": "Known",
-      "bug": 1068055
+      "sort_num": 0,
+      "tag": "Known"
     },
     {
-      "note": "Some certificate errors cannot be overridden ([1042889][1])\r\n\r\n\r\n  [1]: http://bugzilla.mozilla.org/1042889",
-      "is_public": true,
-      "tag": "Known",
       "bug": 1042889,
+      "created": "2014-10-13T15:40:12+00:00",
       "fixed_in_release": {
-        "product": "Firefox",
-        "title": "Firefox 33.1 Release",
-        "version": "33.1",
+        "channel": "Release",
         "is_public": true,
+        "product": "Firefox",
         "slug": "firefox-33.1-release",
-        "channel": "Release"
-      }
+        "title": "Firefox 33.1 Release",
+        "version": "33.1"
+      },
+      "is_public": true,
+      "modified": "2014-11-10T12:56:16+00:00",
+      "note": "Some certificate errors cannot be overridden ([1042889][1])\r\n\r\n\r\n  [1]: http://bugzilla.mozilla.org/1042889",
+      "sort_num": 0,
+      "tag": "Known"
     }
   ],
-  "text": "<p>We'd also like to extend a special thank you to all of the <a href=\"https://blog.mozilla.org/community/2014/10/09/firefox-33-new-contributors/\">new Mozillians</a> who contributed to this release of Firefox!</p>",
+  "product": "Firefox for Android",
   "release_date": "2014-10-13",
   "slug": "firefox-for-android-33.0-release",
-  "version": "33.0",
-  "bug_search_url": "",
-  "is_public": true,
   "system_requirements": "",
-  "channel": "Release"
+  "text": "<p>We'd also like to extend a special thank you to all of the <a href=\"https://blog.mozilla.org/community/2014/10/09/firefox-33-new-contributors/\">new Mozillians</a> who contributed to this release of Firefox!</p>",
+  "title": "Firefox for Android 33.0 Release",
+  "version": "33.0"
 }

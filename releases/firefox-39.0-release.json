@@ -1,159 +1,233 @@
 {
-  "product": "Firefox",
   "bug_list": "",
-  "title": "Firefox 39.0 Release",
+  "bug_search_url": "",
+  "channel": "Release",
+  "created": "2015-02-16T20:28:32+00:00",
+  "is_public": true,
+  "modified": "2015-07-07T20:19:46+00:00",
   "notes": [
     {
+      "bug": 1132301,
+      "created": "2015-06-11T09:49:29+00:00",
+      "is_public": true,
+      "modified": "2015-06-19T17:27:58+00:00",
       "note": "[Share Hello URLs][1] with social networks\r\n\r\n\r\n  \r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/share-firefox-hello-social",
-      "is_public": true,
-      "tag": "New",
-      "bug": 1132301
+      "sort_num": 100,
+      "tag": "New"
     },
     {
+      "bug": 1144317,
+      "created": "2015-05-12T00:21:58+00:00",
+      "is_public": true,
+      "modified": "2015-06-23T17:15:58+00:00",
       "note": "Project Silk: [Smoother animation and scrolling][1] (Mac OS X)\r\n\r\n\r\n  [1]: https://hacks.mozilla.org/2015/01/project-silk/",
-      "is_public": true,
-      "tag": "New",
-      "bug": 1144317
+      "sort_num": 80,
+      "tag": "New"
     },
     {
-      "note": "[WOFF2][1] (Web Open Font Format 2.0) fonts are now supported by default\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/Guide/WOFF",
+      "bug": 1084026,
+      "created": "2015-03-28T01:15:13+00:00",
       "is_public": false,
-      "tag": "New",
-      "bug": 1084026
+      "modified": "2015-07-10T01:15:16+00:00",
+      "note": "[WOFF2][1] (Web Open Font Format 2.0) fonts are now supported by default\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/Guide/WOFF",
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": 1136563,
+      "created": "2015-04-02T23:13:01+00:00",
+      "is_public": true,
+      "modified": "2015-07-10T01:15:28+00:00",
       "note": "Support for 'switch' role in [ARIA 1.1][1] (web accessibility)\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/Accessibility/ARIA",
-      "is_public": true,
-      "tag": "New",
-      "bug": 1136563
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": 1111741,
+      "created": "2015-05-11T22:45:03+00:00",
+      "is_public": true,
+      "modified": "2015-07-10T01:03:02+00:00",
       "note": "SafeBrowsing [malware detection lookups][1] enabled for downloads (Mac OS X and Linux)\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/how-does-phishing-and-malware-protection-work",
-      "is_public": true,
-      "tag": "New",
-      "bug": 1111741
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": 1153460,
+      "created": "2015-05-12T00:35:48+00:00",
+      "is_public": true,
+      "modified": "2015-06-15T19:28:35+00:00",
       "note": "Support for new Unicode 8.0 skin tone emoji ",
-      "is_public": true,
-      "tag": "New",
-      "bug": 1153460
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": 1106470,
+      "created": "2015-03-27T21:30:37+00:00",
+      "is_public": true,
+      "modified": "2015-06-15T19:28:35+00:00",
       "note": "Removed support for insecure SSLv3 for network communications",
-      "is_public": true,
-      "tag": "Changed",
-      "bug": 1106470
+      "sort_num": 0,
+      "tag": "Changed"
     },
     {
+      "bug": 1123019,
+      "created": "2015-05-11T23:39:20+00:00",
+      "is_public": true,
+      "modified": "2015-07-10T01:15:56+00:00",
       "note": "Performance of displaying dashed lines is improved (Mac OS X)",
-      "is_public": true,
-      "tag": "Changed",
-      "bug": 1123019
+      "sort_num": 0,
+      "tag": "Changed"
     },
     {
+      "bug": 1138721,
+      "created": "2015-05-12T00:03:39+00:00",
+      "is_public": true,
+      "modified": "2015-07-10T01:16:05+00:00",
       "note": "Malware detection service for downloads now covers common Mac file types",
-      "is_public": true,
-      "tag": "Changed",
-      "bug": 1138721
+      "sort_num": 0,
+      "tag": "Changed"
     },
     {
+      "bug": 1138658,
+      "created": "2015-03-27T22:19:45+00:00",
+      "is_public": true,
+      "modified": "2015-07-10T01:01:47+00:00",
       "note": "Added support for [CSS Scroll Snap Points][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/tag/CSS%20Scroll%20Snap%20Points",
-      "is_public": true,
-      "tag": "HTML5",
-      "bug": 1138658
+      "sort_num": 0,
+      "tag": "HTML5"
     },
     {
+      "bug": 1144607,
+      "created": "2015-03-28T02:41:14+00:00",
+      "is_public": true,
+      "modified": "2015-07-10T01:19:38+00:00",
       "note": " [List-style-type][1] now accepts a string value\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/CSS/list-style-type",
-      "is_public": true,
-      "tag": "HTML5",
-      "bug": 1144607
+      "sort_num": 0,
+      "tag": "HTML5"
     },
     {
+      "bug": 1125455,
+      "created": "2015-03-28T03:12:09+00:00",
+      "is_public": true,
+      "modified": "2015-07-10T01:16:30+00:00",
       "note": "Cascading of [CSS transitions and animations][1] now matches the current spec\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/Guide/CSS/Using_CSS_animations",
-      "is_public": true,
-      "tag": "HTML5",
-      "bug": 1125455
+      "sort_num": 0,
+      "tag": "HTML5"
     },
     {
+      "bug": 1133861,
+      "created": "2015-03-30T18:34:24+00:00",
+      "is_public": true,
+      "modified": "2015-07-10T01:07:44+00:00",
       "note": "Enable the [Fetch API][1] for network requests from dedicated, shared and service workers\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/API/Fetch_API",
-      "is_public": true,
-      "tag": "HTML5",
-      "bug": 1133861
+      "sort_num": 0,
+      "tag": "HTML5"
     },
     {
+      "bug": 1135160,
+      "created": "2015-03-30T22:11:47+00:00",
+      "is_public": true,
+      "modified": "2015-07-10T01:06:31+00:00",
       "note": "Implemented [`<link rel=\"preconnect\">`][1] allowing anticipation of a future connection without revealing any information\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/HTML/Link_types",
-      "is_public": true,
-      "tag": "HTML5",
-      "bug": 1135160
+      "sort_num": 0,
+      "tag": "HTML5"
     },
     {
+      "bug": 858038,
+      "created": "2015-03-27T17:36:59+00:00",
+      "is_public": true,
+      "modified": "2015-06-15T19:28:35+00:00",
       "note": "Drag and drop enabled for nodes in Inspector markup view ",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": 858038
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
+      "bug": 943306,
+      "created": "2015-03-27T17:46:32+00:00",
+      "is_public": true,
+      "modified": "2015-07-10T01:11:31+00:00",
       "note": "Web Console input history persists even after closing the toolbox",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": 943306
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
+      "bug": 1134568,
+      "created": "2015-03-28T03:43:15+00:00",
+      "is_public": true,
+      "modified": "2015-06-15T19:28:35+00:00",
       "note": "Cubic bezier tooltip now shows a gallery of [timing-function presets for use with CSS animations][1]\r\n\r\n\r\n  [1]: http://jtgi.me/adding-presets-to-firefox-dev-tools/",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": 1134568
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
+      "bug": 967792,
+      "created": "2015-03-30T22:30:09+00:00",
+      "is_public": true,
+      "modified": "2015-06-15T19:28:35+00:00",
       "note": "localhost is now available offline for WebSocket connections",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": 967792
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
+      "bug": 1136484,
+      "created": "2015-03-30T22:43:53+00:00",
+      "is_public": true,
+      "modified": "2015-07-10T01:09:03+00:00",
       "note": "Improve performance of IPv6 fallback to IPv4 ",
-      "is_public": true,
-      "tag": "Fixed",
-      "bug": 1136484
+      "sort_num": 0,
+      "tag": "Fixed"
     },
     {
+      "bug": 237623,
+      "created": "2015-05-11T20:37:55+00:00",
+      "is_public": true,
+      "modified": "2015-06-15T19:28:35+00:00",
       "note": "Fix incomplete downloads being marked as complete by detecting broken HTTP1.1 transfers",
-      "is_public": true,
-      "tag": "Fixed",
-      "bug": 237623
+      "sort_num": 0,
+      "tag": "Fixed"
     },
     {
+      "bug": 1132432,
+      "created": "2015-05-11T23:50:08+00:00",
+      "is_public": true,
+      "modified": "2015-07-01T01:52:50+00:00",
       "note": " A regression that could lead to Flash not displaying has been fixed \r\n\r\n  ",
-      "is_public": true,
-      "tag": "Fixed",
-      "bug": 1132432
+      "sort_num": 0,
+      "tag": "Fixed"
     },
     {
+      "bug": 947079,
+      "created": "2015-05-22T01:37:02+00:00",
+      "is_public": true,
+      "modified": "2015-07-10T01:10:56+00:00",
       "note": "Security state indicator on a page now correctly ignores loads caused by previous pages",
-      "is_public": true,
-      "tag": "Fixed",
-      "bug": 947079
+      "sort_num": 0,
+      "tag": "Fixed"
     },
     {
+      "bug": 1150052,
+      "created": "2015-05-26T16:00:52+00:00",
+      "is_public": true,
+      "modified": "2015-06-15T19:28:35+00:00",
       "note": "Fixed an issue where a Hello conversation window would sometimes fail to\r\nopen",
-      "is_public": true,
-      "tag": "Fixed",
-      "bug": 1150052
+      "sort_num": 0,
+      "tag": "Fixed"
     },
     {
-      "note": "Various [security fixes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/known-vulnerabilities/firefox/#firefox39",
+      "bug": null,
+      "created": "2015-07-02T21:44:40+00:00",
       "is_public": true,
-      "tag": "Fixed",
-      "bug": null
+      "modified": "2015-07-10T01:20:23+00:00",
+      "note": "Various [security fixes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/known-vulnerabilities/firefox/#firefox39",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
-  "text": "<p>We'd also like to extend a special thank you to all of the <a href=\"https://blog.mozilla.org/community/2015/06/30/firefox-39-new-contributors/\">new Mozillians</a> who contributed to this release of Firefox!</p>\r\n\r\n",
+  "product": "Firefox",
   "release_date": "2015-07-02",
   "slug": "firefox-39.0-release",
-  "version": "39.0",
-  "bug_search_url": "",
-  "is_public": true,
   "system_requirements": "## Windows\r\n\r\n### Operating Systems\r\n - Windows XP SP2\r\n - Windows Server 2003 SP1\r\n - Windows Vista\r\n - Windows 7\r\n - Windows 8\r\n\r\n*Please note that while the 32-bit and 64-bit versions of Windows Vista and Windows 7 can be used to run Firefox, only 32-bit builds of Firefox are supported at this time.*\r\n\r\n### Recommended Hardware\r\n-  Pentium 4 or newer processor that supports SSE2\r\n-  512MB of RAM\r\n-  200MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- Mac OS X 10.6\r\n- Mac OS X 10.7\r\n- Mac OS X 10.8\r\n- Mac OS X 10.9\r\n- Mac OS X 10.10\r\n\r\n### Recommended Hardware\r\n- Macintosh computer with an Intel x86 processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - GTK+ 2.18 or higher\r\n    - GLib 2.22 or higher\r\n    - Pango 1.14 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n    - libstdc++ 4.3 or higher\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - NetworkManager 0.7 or higher\r\n    - DBus 1.0 or higher\r\n    - HAL 0.5.8 or higher\r\n    - GNOME 2.16 or higher",
-  "channel": "Release"
+  "text": "<p>We'd also like to extend a special thank you to all of the <a href=\"https://blog.mozilla.org/community/2015/06/30/firefox-39-new-contributors/\">new Mozillians</a> who contributed to this release of Firefox!</p>\r\n\r\n",
+  "title": "Firefox 39.0 Release",
+  "version": "39.0"
 }

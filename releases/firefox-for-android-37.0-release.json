@@ -1,131 +1,187 @@
 {
-  "product": "Firefox for Android",
   "bug_list": "",
-  "title": "Firefox for Android 37.0 Release",
+  "bug_search_url": "",
+  "channel": "Release",
+  "created": "2015-01-13T16:13:45+00:00",
+  "is_public": true,
+  "modified": "2015-03-31T15:31:24+00:00",
   "notes": [
     {
+      "bug": 1134717,
+      "created": "2015-02-20T21:41:57+00:00",
+      "is_public": true,
+      "modified": "2015-04-03T04:11:38+00:00",
       "note": "Locales added: Albanian [sq], Burmese [my], Lower Sorbian [dsb], Songhai [son], Upper Sorbian [hsb], Uzbek [uz]",
-      "is_public": true,
-      "tag": "New",
-      "bug": 1134717
+      "sort_num": 100,
+      "tag": "New"
     },
     {
+      "bug": 1146351,
+      "created": "2015-03-25T21:11:50+00:00",
+      "is_public": true,
+      "modified": "2015-04-03T04:11:40+00:00",
       "note": "Yandex set as default search provider for the Turkish locale",
-      "is_public": true,
-      "tag": "New",
-      "bug": 1146351
+      "sort_num": 95,
+      "tag": "New"
     },
     {
+      "bug": 901360,
+      "created": "2015-01-15T15:20:39+00:00",
+      "is_public": true,
+      "modified": "2015-04-03T04:11:42+00:00",
       "note": "Improved download performance with new download manager back-end",
-      "is_public": true,
-      "tag": "New",
-      "bug": 901360
+      "sort_num": 80,
+      "tag": "New"
     },
     {
+      "bug": 1024809,
+      "created": "2015-01-16T18:42:49+00:00",
+      "is_public": true,
+      "modified": "2015-04-03T04:11:44+00:00",
       "note": "Improved protection against site impersonation via OneCRL centralized certificate revocation",
-      "is_public": true,
-      "tag": "New",
-      "bug": 1024809
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": 1113790,
+      "created": "2015-02-19T19:55:09+00:00",
+      "is_public": true,
+      "modified": "2015-04-03T04:11:46+00:00",
       "note": "[Opportunistically encrypt HTTP traffic][1] where the server supports HTTP/2 AltSvc\r\n\r\n[1]: https://bitsup.blogspot.com/2015/03/opportunistic-encryption-for-firefox.html ",
-      "is_public": true,
-      "tag": "New",
-      "bug": 1113790
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": 1111729,
+      "created": "2015-01-15T15:15:38+00:00",
+      "is_public": true,
+      "modified": "2015-04-03T04:11:49+00:00",
       "note": "URL bar now displays page address instead of page title by default",
-      "is_public": true,
-      "tag": "Changed",
-      "bug": 1111729
+      "sort_num": 110,
+      "tag": "Changed"
     },
     {
+      "bug": 1084025,
+      "created": "2015-02-19T15:53:30+00:00",
+      "is_public": true,
+      "modified": "2015-04-03T04:11:50+00:00",
       "note": "Disabled insecure TLS version fallback for site security",
-      "is_public": true,
-      "tag": "Changed",
-      "bug": 1084025
+      "sort_num": 100,
+      "tag": "Changed"
     },
     {
+      "bug": 1073867,
+      "created": "2015-01-16T18:45:55+00:00",
+      "is_public": true,
+      "modified": "2015-04-03T04:11:53+00:00",
       "note": "Improved certificate and TLS communication security by removing support for DSA",
-      "is_public": true,
-      "tag": "Changed",
-      "bug": 1073867
+      "sort_num": 0,
+      "tag": "Changed"
     },
     {
+      "bug": 1096197,
+      "created": "2015-01-16T19:01:48+00:00",
+      "is_public": true,
+      "modified": "2015-04-03T04:11:55+00:00",
       "note": "Extended SSL error reporting for reporting non-certificate errors",
-      "is_public": true,
-      "tag": "Changed",
-      "bug": 1096197
+      "sort_num": 0,
+      "tag": "Changed"
     },
     {
+      "bug": 1109766,
+      "created": "2015-01-16T21:45:13+00:00",
+      "is_public": true,
+      "modified": "2015-04-03T04:11:56+00:00",
       "note": "TLS False Start optimization now requires a cipher suite using AEAD construction",
-      "is_public": true,
-      "tag": "Changed",
-      "bug": 1109766
+      "sort_num": 0,
+      "tag": "Changed"
     },
     {
+      "bug": 937253,
+      "created": "2015-03-27T14:13:31+00:00",
+      "is_public": true,
+      "modified": "2015-04-03T04:11:52+00:00",
       "note": "Android home screen shortcut now opens existing tab instead of new tab",
-      "is_public": true,
-      "tag": "Changed",
-      "bug": 937253
+      "sort_num": 0,
+      "tag": "Changed"
     },
     {
+      "bug": 1102374,
+      "created": "2015-01-15T15:05:41+00:00",
+      "is_public": true,
+      "modified": "2015-04-03T04:12:03+00:00",
       "note": "Added support for CSS [display:contents][1]\r\n\r\n[1]: https://developer.mozilla.org/en-US/docs/Web/CSS/display",
-      "is_public": true,
-      "tag": "HTML5",
-      "bug": 1102374
+      "sort_num": 0,
+      "tag": "HTML5"
     },
     {
+      "bug": 701634,
+      "created": "2015-01-15T15:10:45+00:00",
+      "is_public": true,
+      "modified": "2015-04-03T04:12:04+00:00",
       "note": "IndexedDB now accessible from worker threads",
-      "is_public": true,
-      "tag": "HTML5",
-      "bug": 701634
+      "sort_num": 0,
+      "tag": "HTML5"
     },
     {
+      "bug": 1110271,
+      "created": "2015-03-27T21:26:41+00:00",
+      "is_public": true,
+      "modified": "2015-04-03T04:12:00+00:00",
       "note": "OpenH264 support added to WebRTC for Android",
-      "is_public": true,
-      "tag": "HTML5",
-      "bug": 1110271
+      "sort_num": 0,
+      "tag": "HTML5"
     },
     {
+      "bug": 1091242,
+      "created": "2015-03-27T21:37:05+00:00",
+      "is_public": true,
+      "modified": "2015-04-03T04:12:02+00:00",
       "note": "New SDP/JSEP implementation in WebRTC",
-      "is_public": true,
-      "tag": "HTML5",
-      "bug": 1091242
+      "sort_num": 0,
+      "tag": "HTML5"
     },
     {
+      "bug": null,
+      "created": "2015-03-31T21:18:19+00:00",
+      "is_public": true,
+      "modified": "2015-04-03T04:12:09+00:00",
       "note": "Various [security fixes][1]\r\n\r\n[1]:https://www.mozilla.org/security/known-vulnerabilities/firefox/#firefox37",
-      "is_public": true,
-      "tag": "Fixed",
-      "bug": null
+      "sort_num": 0,
+      "tag": "Fixed"
     },
     {
+      "bug": 1131084,
+      "created": "2015-02-16T12:51:52+00:00",
+      "is_public": true,
+      "modified": "2015-04-14T15:21:21+00:00",
       "note": "January Chromecast firmware update broke tab mirroring ([1131084][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/1131084",
-      "is_public": true,
-      "tag": "Known",
-      "bug": 1131084
+      "sort_num": 0,
+      "tag": "Known"
     },
     {
-      "note": "On Android 2.3, 3.0 and 4.0, some WebM videos cannot be read properly ([1131563][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1131563",
-      "is_public": true,
-      "tag": "Known",
       "bug": 1131563,
+      "created": "2015-02-16T14:52:09+00:00",
       "fixed_in_release": {
-        "product": "Firefox for Android",
-        "title": "Firefox for Android 38.0a2 Aurora",
-        "version": "38.0a2",
+        "channel": "Aurora",
         "is_public": true,
+        "product": "Firefox for Android",
         "slug": "firefox-for-android-38.0a2-aurora",
-        "channel": "Aurora"
-      }
+        "title": "Firefox for Android 38.0a2 Aurora",
+        "version": "38.0a2"
+      },
+      "is_public": true,
+      "modified": "2015-04-14T15:20:10+00:00",
+      "note": "On Android 2.3, 3.0 and 4.0, some WebM videos cannot be read properly ([1131563][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1131563",
+      "sort_num": 0,
+      "tag": "Known"
     }
   ],
-  "text": "<p>We'd also like to extend a special thank you to all of the <a href=\"https://blog.mozilla.org/community/2015/03/30/firefox-37-new-contributors/\">new Mozillians</a> who contributed to this release of Firefox!</p>",
+  "product": "Firefox for Android",
   "release_date": "2015-03-31",
   "slug": "firefox-for-android-37.0-release",
-  "version": "37.0",
-  "bug_search_url": "",
-  "is_public": true,
   "system_requirements": "",
-  "channel": "Release"
+  "text": "<p>We'd also like to extend a special thank you to all of the <a href=\"https://blog.mozilla.org/community/2015/03/30/firefox-37-new-contributors/\">new Mozillians</a> who contributed to this release of Firefox!</p>",
+  "title": "Firefox for Android 37.0 Release",
+  "version": "37.0"
 }

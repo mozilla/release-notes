@@ -1,21 +1,26 @@
 {
-  "product": "Firefox Extended Support Release",
   "bug_list": "",
-  "title": "Firefox Extended Support Release 31.4.0 ESR",
+  "bug_search_url": "",
+  "channel": "ESR",
+  "created": "2015-01-04T04:46:15+00:00",
+  "is_public": true,
+  "modified": "2015-05-12T17:54:05+00:00",
   "notes": [
     {
-      "note": "Security fixes can be found <a href=\"https://www.mozilla.org/security/known-vulnerabilities/firefoxESR.html\">here</a>",
+      "bug": null,
+      "created": "2015-01-04T04:47:32+00:00",
       "is_public": true,
-      "tag": "",
-      "bug": null
+      "modified": "2015-03-20T01:36:36+00:00",
+      "note": "Security fixes can be found <a href=\"https://www.mozilla.org/security/known-vulnerabilities/firefoxESR.html\">here</a>",
+      "sort_num": 0,
+      "tag": ""
     }
   ],
-  "text": "",
+  "product": "Firefox Extended Support Release",
   "release_date": "2015-01-13",
   "slug": "firefox-31.4.0-esr",
-  "version": "31.4.0",
-  "bug_search_url": "",
-  "is_public": true,
   "system_requirements": "## Windows\r\n\r\n### Operating Systems\r\n - Windows XP SP2\r\n - Windows Server 2003 SP1\r\n - Windows Vista\r\n - Windows 7\r\n - Windows 8\r\n\r\n*Please note that while the 32-bit and 64-bit versions of Windows Vista and Windows 7 can be used to run Firefox, only 32-bit builds of Firefox are supported at this time.*\r\n\r\n### Recommended Hardware\r\n-  Pentium 4 or newer processor that supports SSE2\r\n-  512MB of RAM\r\n-  200MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- Mac OS X 10.6\r\n- Mac OS X 10.7\r\n- Mac OS X 10.8\r\n- Mac OS X 10.9\r\n\r\n### Recommended Hardware\r\n- Macintosh computer with an Intel x86 processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - GTK+ 2.18 or higher\r\n    - GLib 2.22 or higher\r\n    - Pango 1.14 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n    - libstdc++ 4.3 or higher\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - NetworkManager 0.7 or higher\r\n    - DBus 1.0 or higher\r\n    - HAL 0.5.8 or higher\r\n    - GNOME 2.16 or higher",
-  "channel": "ESR"
+  "text": "",
+  "title": "Firefox Extended Support Release 31.4.0 ESR",
+  "version": "31.4.0"
 }

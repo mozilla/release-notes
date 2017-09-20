@@ -1,61 +1,78 @@
 {
-  "product": "Firefox Extended Support Release",
   "bug_list": "",
-  "title": "Firefox Extended Support Release 38.0.1.1 Release",
+  "bug_search_url": "",
+  "channel": "Release",
+  "created": "2015-02-16T20:28:32+00:00",
+  "is_public": false,
+  "modified": "2015-05-14T13:24:23+00:00",
   "notes": [
     {
+      "bug": null,
+      "created": "2015-05-14T13:13:04+00:00",
+      "is_public": true,
+      "modified": "2015-05-27T08:44:56+00:00",
       "note": "Reference: [Release notes for Firefox 38.0][1]\r\n\r\n[1]: https://www.mozilla.org/firefox/38.0/releasenotes/",
-      "is_public": true,
-      "tag": "",
-      "bug": null
+      "sort_num": 0,
+      "tag": ""
     },
     {
+      "bug": 1154703,
+      "created": "2015-05-14T13:18:18+00:00",
+      "is_public": true,
+      "modified": "2016-01-15T11:17:58.552000+00:00",
       "note": "Systems with first generation NVidia Optimus graphics cards may crash on start-up ([1154703][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1154703",
-      "is_public": true,
-      "tag": "Fixed",
-      "bug": 1154703
+      "sort_num": 100,
+      "tag": "Fixed"
     },
     {
-      "note": "Users who import cookies from Google Chrome can end up with broken websites ([1162205][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1162205",
-      "is_public": true,
-      "tag": "Fixed",
       "bug": 1162205,
+      "created": "2015-05-14T13:15:07+00:00",
       "fixed_in_release": {
-        "product": "Firefox",
-        "title": "Firefox 38.0.1 Release",
-        "version": "38.0.1",
+        "channel": "Release",
         "is_public": true,
+        "product": "Firefox",
         "slug": "firefox-38.0.1-release",
-        "channel": "Release"
-      }
+        "title": "Firefox 38.0.1 Release",
+        "version": "38.0.1"
+      },
+      "is_public": true,
+      "modified": "2016-01-15T11:18:49.268000+00:00",
+      "note": "Users who import cookies from Google Chrome can end up with broken websites ([1162205][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1162205",
+      "sort_num": 0,
+      "tag": "Fixed"
     },
     {
-      "note": "Large animated images may fail to play and may stop other images from loading ([1161859][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1161859",
-      "is_public": true,
-      "tag": "Fixed",
       "bug": 1161859,
+      "created": "2015-05-14T13:17:28+00:00",
       "fixed_in_release": {
-        "product": "Firefox",
-        "title": "Firefox 38.0.1 Release",
-        "version": "38.0.1",
+        "channel": "Release",
         "is_public": true,
+        "product": "Firefox",
         "slug": "firefox-38.0.1-release",
-        "channel": "Release"
-      }
+        "title": "Firefox 38.0.1 Release",
+        "version": "38.0.1"
+      },
+      "is_public": true,
+      "modified": "2016-01-15T11:19:37.306000+00:00",
+      "note": "Large animated images may fail to play and may stop other images from loading ([1161859][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1161859",
+      "sort_num": 0,
+      "tag": "Fixed"
     },
     {
-      "note": "Responsive images do not update when the enclosing viewport changes",
+      "bug": 1135812,
+      "created": "2015-05-11T16:02:26+00:00",
       "is_public": true,
-      "tag": "Known",
-      "bug": 1135812
+      "modified": "2015-05-27T08:47:54+00:00",
+      "note": "Responsive images do not update when the enclosing viewport changes",
+      "sort_num": 0,
+      "tag": "Known"
     }
   ],
-  "text": "<p>We'd also like to extend a special thank you to all of the <a href=\"https://blog.mozilla.org/community/2015/05/11/firefox-38-new-contributors/\">new Mozillians</a> who contributed to this release of Firefox!</p>",
+  "product": "Firefox Extended Support Release",
   "release_date": "2015-05-14",
   "slug": "firefox-38.0.1.1-esr",
-  "version": "38.0.1.1",
-  "bug_search_url": "",
-  "is_public": false,
   "system_requirements": "## Windows\r\n\r\n### Operating Systems\r\n - Windows XP SP2\r\n - Windows Server 2003 SP1\r\n - Windows Vista\r\n - Windows 7\r\n - Windows 8\r\n\r\n*Please note that while the 32-bit and 64-bit versions of Windows Vista and Windows 7 can be used to run Firefox, only 32-bit builds of Firefox are supported at this time.*\r\n\r\n### Recommended Hardware\r\n-  Pentium 4 or newer processor that supports SSE2\r\n-  512MB of RAM\r\n-  200MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- Mac OS X 10.6\r\n- Mac OS X 10.7\r\n- Mac OS X 10.8\r\n- Mac OS X 10.9\r\n- Mac OS X 10.10\r\n\r\n### Recommended Hardware\r\n- Macintosh computer with an Intel x86 processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - GTK+ 2.18 or higher\r\n    - GLib 2.22 or higher\r\n    - Pango 1.14 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n    - libstdc++ 4.3 or higher\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - NetworkManager 0.7 or higher\r\n    - DBus 1.0 or higher\r\n    - HAL 0.5.8 or higher\r\n    - GNOME 2.16 or higher",
-  "channel": "Release"
+  "text": "<p>We'd also like to extend a special thank you to all of the <a href=\"https://blog.mozilla.org/community/2015/05/11/firefox-38-new-contributors/\">new Mozillians</a> who contributed to this release of Firefox!</p>",
+  "title": "Firefox Extended Support Release 38.0.1.1 Release",
+  "version": "38.0.1.1"
 }

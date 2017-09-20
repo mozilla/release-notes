@@ -1,47 +1,61 @@
 {
-  "product": "Firefox for Android",
   "bug_list": "",
-  "title": "Firefox for Android 33.1 Release",
+  "bug_search_url": "",
+  "channel": "Release",
+  "created": "2014-07-17T07:40:42+00:00",
+  "is_public": true,
+  "modified": "2014-11-10T13:54:07+00:00",
   "notes": [
     {
+      "bug": 1061736,
+      "created": "2014-11-04T14:34:41+00:00",
+      "is_public": true,
+      "modified": "2014-11-14T22:22:08+00:00",
       "note": "Adding DuckDuckGo as a search option",
-      "is_public": true,
-      "tag": "New",
-      "bug": 1061736
+      "sort_num": 0,
+      "tag": "New"
     },
     {
-      "note": "MP4 videos will not play on Android L",
-      "is_public": true,
-      "tag": "Known",
       "bug": 1050832,
+      "created": "2014-08-28T04:52:53+00:00",
       "fixed_in_release": {
-        "product": "Firefox",
-        "title": "Firefox 34.0beta Beta",
-        "version": "34.0beta",
+        "channel": "Beta",
         "is_public": true,
+        "product": "Firefox",
         "slug": "firefox-34.0beta-beta",
-        "channel": "Beta"
-      }
+        "title": "Firefox 34.0beta Beta",
+        "version": "34.0beta"
+      },
+      "is_public": true,
+      "modified": "2014-11-24T22:42:39+00:00",
+      "note": "MP4 videos will not play on Android L",
+      "sort_num": 0,
+      "tag": "Known"
     },
     {
+      "bug": 1055166,
+      "created": "2014-08-28T11:37:24+00:00",
+      "is_public": true,
+      "modified": "2014-11-24T22:35:46+00:00",
       "note": "Flash does not work on Android L",
-      "is_public": true,
-      "tag": "Known",
-      "bug": 1055166
+      "sort_num": 0,
+      "tag": "Known"
     },
     {
-      "note": "On Gingerbread, VP9/WEBM video artifacts: only plays on half screen",
+      "bug": 1068055,
+      "created": "2014-10-07T02:23:30+00:00",
       "is_public": true,
-      "tag": "Known",
-      "bug": 1068055
+      "modified": "2014-11-04T14:34:56+00:00",
+      "note": "On Gingerbread, VP9/WEBM video artifacts: only plays on half screen",
+      "sort_num": 0,
+      "tag": "Known"
     }
   ],
-  "text": "<p>We'd also like to extend a special thank you to all of the <a href=\"https://blog.mozilla.org/community/2014/10/09/firefox-33-new-contributors/\">new Mozillians</a> who contributed to this release of Firefox!</p>",
+  "product": "Firefox for Android",
   "release_date": "2014-11-10",
   "slug": "firefox-for-android-33.1-release",
-  "version": "33.1",
-  "bug_search_url": "",
-  "is_public": true,
   "system_requirements": "",
-  "channel": "Release"
+  "text": "<p>We'd also like to extend a special thank you to all of the <a href=\"https://blog.mozilla.org/community/2014/10/09/firefox-33-new-contributors/\">new Mozillians</a> who contributed to this release of Firefox!</p>",
+  "title": "Firefox for Android 33.1 Release",
+  "version": "33.1"
 }

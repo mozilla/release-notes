@@ -1,33 +1,44 @@
 {
-  "product": "Firefox for iOS",
   "bug_list": "",
-  "title": "Firefox for iOS 1.3 Release",
+  "bug_search_url": "",
+  "channel": "Release",
+  "created": "2015-12-02T13:54:06+00:00",
+  "is_public": true,
+  "modified": "2016-01-04T09:23:48.735000+00:00",
   "notes": [
     {
+      "bug": 1162174,
+      "created": "2015-12-02T13:56:10+00:00",
+      "is_public": true,
+      "modified": "2016-01-14T11:15:29.619000+00:00",
       "note": "Support third-party password managers",
-      "is_public": true,
-      "tag": "New",
-      "bug": 1162174
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": null,
+      "created": "2015-12-09T18:25:05+00:00",
+      "is_public": true,
+      "modified": "2016-01-14T11:15:23.042000+00:00",
       "note": "Request Desktop Site",
-      "is_public": true,
-      "tag": "New",
-      "bug": null
+      "sort_num": 0,
+      "tag": "New"
     },
     {
-      "note": "Various bug fixes and performance improvements\r\n",
+      "bug": null,
+      "created": "2015-12-02T14:07:28+00:00",
       "is_public": true,
-      "tag": "Fixed",
-      "bug": null
+      "modified": "2016-02-15T13:29:28.938000+00:00",
+      "note": "Various bug fixes and performance improvements\r\n",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
-  "text": "",
+  "product": "Firefox for iOS",
   "release_date": "2015-12-18",
   "slug": "firefox-for-ios-1.3-release",
-  "version": "1.3",
-  "bug_search_url": "",
-  "is_public": true,
   "system_requirements": "## Operating systems\r\n - iOS 8.2+\r\n - iOS 9\r\n",
-  "channel": "Release"
+  "text": "",
+  "title": "Firefox for iOS 1.3 Release",
+  "version": "1.3"
 }

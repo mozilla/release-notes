@@ -1,249 +1,344 @@
 {
-  "product": "Firefox",
   "bug_list": "",
-  "title": "Firefox 32.0.2 Release",
+  "bug_search_url": "",
+  "channel": "Release",
+  "created": "2014-05-07T02:08:46+00:00",
+  "is_public": true,
+  "modified": "2014-09-18T13:43:01+00:00",
   "notes": [
     {
-      "note": "32.0.2 - Corrupt installations cause Firefox to crash on update",
-      "is_public": true,
-      "tag": "Fixed",
       "bug": 1063052,
+      "created": "2014-09-18T10:45:51+00:00",
       "fixed_in_release": {
-        "product": "Firefox",
-        "title": "Firefox 32.0.2 Release",
-        "version": "32.0.2",
+        "channel": "Release",
         "is_public": true,
+        "product": "Firefox",
         "slug": "firefox-32.0.2-release",
-        "channel": "Release"
-      }
+        "title": "Firefox 32.0.2 Release",
+        "version": "32.0.2"
+      },
+      "is_public": true,
+      "modified": "2014-09-23T08:43:43+00:00",
+      "note": "32.0.2 - Corrupt installations cause Firefox to crash on update",
+      "sort_num": 12000,
+      "tag": "Fixed"
     },
     {
+      "bug": 913806,
+      "created": "2014-07-17T09:19:54+00:00",
+      "is_public": true,
+      "modified": "2014-09-23T08:43:43+00:00",
       "note": "[New HTTP cache][1] provides improved performance including crash recovery\r\n\r\n  [1]: http://www.janbambas.cz/new-firefox-http-cache-enabled/",
-      "is_public": true,
-      "tag": "New",
-      "bug": 913806
+      "sort_num": 100,
+      "tag": "New"
     },
     {
+      "bug": 619558,
+      "created": "2014-04-09T06:54:25+00:00",
+      "is_public": true,
+      "modified": "2014-09-23T08:43:43+00:00",
       "note": "Integration of generational garbage collection",
-      "is_public": true,
-      "tag": "New",
-      "bug": 619558
+      "sort_num": 80,
+      "tag": "New"
     },
     {
+      "bug": 1004350,
+      "created": "2014-07-24T05:30:24+00:00",
+      "is_public": true,
+      "modified": "2014-11-24T22:35:46+00:00",
       "note": "[Public key pinning support][1] enabled\r\n\r\n\r\n  [1]: https://wiki.mozilla.org/SecurityEngineering/Public_Key_Pinning",
-      "is_public": true,
-      "tag": "New",
-      "bug": 1004350
+      "sort_num": 10,
+      "tag": "New"
     },
     {
-      "note": "View historical use information for logins stored in password manager",
-      "is_public": true,
-      "tag": "New",
       "bug": 998081,
+      "created": "2014-03-05T02:40:36+00:00",
       "fixed_in_release": {
-        "product": "Firefox",
-        "title": "Firefox 30.0a2 Aurora",
-        "version": "30.0a2",
+        "channel": "Aurora",
         "is_public": true,
+        "product": "Firefox",
         "slug": "firefox-30.0a2-aurora",
-        "channel": "Aurora"
-      }
+        "title": "Firefox 30.0a2 Aurora",
+        "version": "30.0a2"
+      },
+      "is_public": true,
+      "modified": "2014-09-23T08:43:43+00:00",
+      "note": "View historical use information for logins stored in password manager",
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": 257061,
+      "created": "2014-05-07T02:09:59+00:00",
+      "is_public": true,
+      "modified": "2014-09-23T08:43:43+00:00",
       "note": "Display the number of found items in the find toolbar ",
-      "is_public": true,
-      "tag": "New",
-      "bug": 257061
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": 1000513,
+      "created": "2014-09-02T05:58:35+00:00",
+      "is_public": true,
+      "modified": "2014-09-23T08:43:43+00:00",
       "note": "Easier back, forward, reload, and bookmarking through the [context menu][1]\r\n\r\n[1]: http://msujaws.wordpress.com/2014/05/27/experimenting-with-context-menus/",
-      "is_public": true,
-      "tag": "New",
-      "bug": 1000513
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": null,
+      "created": "2014-08-28T11:40:25+00:00",
+      "is_public": true,
+      "modified": "2014-09-23T08:43:43+00:00",
       "note": "Lower Sorbian [dsb] locale added",
-      "is_public": true,
-      "tag": "New",
-      "bug": null
+      "sort_num": -1,
+      "tag": "New"
     },
     {
+      "bug": 1029561,
+      "created": "2014-07-17T15:06:47+00:00",
+      "is_public": true,
+      "modified": "2014-09-23T08:43:43+00:00",
       "note": "Removed and turned off trust bit for [some 1024-bit root certificates][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/NSS_3.16.3_release_notes#Notable_Changes_in_NSS_3.16.3",
-      "is_public": true,
-      "tag": "Changed",
-      "bug": 1029561
+      "sort_num": 0,
+      "tag": "Changed"
     },
     {
+      "bug": null,
+      "created": "2014-07-17T15:14:14+00:00",
+      "is_public": true,
+      "modified": "2014-09-23T08:43:43+00:00",
       "note": "Performance improvements to Password Manager and Add-on Manager",
-      "is_public": true,
-      "tag": "Changed",
-      "bug": null
+      "sort_num": 0,
+      "tag": "Changed"
     },
     {
+      "bug": 1004579,
+      "created": "2013-11-25T00:24:42+00:00",
+      "is_public": true,
+      "modified": "2014-09-23T08:43:43+00:00",
       "note": "drawFocusIfNeeded enabled by default",
-      "is_public": true,
-      "tag": "HTML5",
-      "bug": 1004579
+      "sort_num": 0,
+      "tag": "HTML5"
     },
     {
+      "bug": 934423,
+      "created": "2014-03-04T10:07:48+00:00",
+      "is_public": true,
+      "modified": "2014-09-23T08:43:43+00:00",
       "note": "ECMAScript 6 built-in method [Array#copyWithin implemented][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/Firefox/Releases/32#JavaScript",
-      "is_public": true,
-      "tag": "HTML5",
-      "bug": 934423
+      "sort_num": 0,
+      "tag": "HTML5"
     },
     {
+      "bug": 916315,
+      "created": "2014-03-26T16:24:31+00:00",
+      "is_public": true,
+      "modified": "2014-09-23T08:43:43+00:00",
       "note": "CSS [position:sticky][1] enabled by default\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/position",
-      "is_public": true,
-      "tag": "HTML5",
-      "bug": 916315
+      "sort_num": 0,
+      "tag": "HTML5"
     },
     {
+      "bug": 952643,
+      "created": "2014-05-07T02:13:02+00:00",
+      "is_public": true,
+      "modified": "2014-09-23T08:43:43+00:00",
       "note": "mix-blend-mode enabled by default ",
-      "is_public": true,
-      "tag": "HTML5",
-      "bug": 952643
+      "sort_num": 0,
+      "tag": "HTML5"
     },
     {
+      "bug": 904723,
+      "created": "2014-07-17T06:39:57+00:00",
+      "is_public": true,
+      "modified": "2014-09-23T08:43:43+00:00",
       "note": "New Array built-in: [Array.from()][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/from",
-      "is_public": true,
-      "tag": "HTML5",
-      "bug": 904723
+      "sort_num": 0,
+      "tag": "HTML5"
     },
     {
+      "bug": 889335,
+      "created": "2014-07-17T08:00:27+00:00",
+      "is_public": true,
+      "modified": "2014-09-23T08:43:43+00:00",
       "note": "[navigator.languages property][1] and [languagechange event][1] implemented\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/NavigatorLanguage.languages",
-      "is_public": true,
-      "tag": "HTML5",
-      "bug": 889335
+      "sort_num": 0,
+      "tag": "HTML5"
     },
     {
+      "bug": 1014581,
+      "created": "2014-07-17T14:59:00+00:00",
+      "is_public": true,
+      "modified": "2014-09-23T08:43:43+00:00",
       "note": "Vibration API updated to latest W3C spec",
-      "is_public": true,
-      "tag": "HTML5",
-      "bug": 1014581
+      "sort_num": 0,
+      "tag": "HTML5"
     },
     {
+      "bug": 1006326,
+      "created": "2014-07-17T15:20:38+00:00",
+      "is_public": true,
+      "modified": "2014-09-23T08:43:43+00:00",
       "note": "[CSS box-decoration-break replaces -moz-background-inline-policy][1]\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/-moz-background-inline-policy",
-      "is_public": true,
-      "tag": "HTML5",
-      "bug": 1006326
+      "sort_num": 0,
+      "tag": "HTML5"
     },
     {
+      "bug": 1006326,
+      "created": "2014-08-28T06:47:55+00:00",
+      "is_public": true,
+      "modified": "2014-09-23T08:43:43+00:00",
       "note": "[box-decoration-break][1] enabled by default\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/box-decoration-break",
-      "is_public": true,
-      "tag": "HTML5",
-      "bug": 1006326
+      "sort_num": 0,
+      "tag": "HTML5"
     },
     {
+      "bug": 837188,
+      "created": "2014-03-26T16:36:33+00:00",
+      "is_public": true,
+      "modified": "2014-09-23T08:43:43+00:00",
       "note": "HiDPI support in Developer Tools UI",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": 837188
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
+      "bug": 991810,
+      "created": "2014-06-11T06:56:00+00:00",
+      "is_public": true,
+      "modified": "2014-09-23T08:43:43+00:00",
       "note": "Inspector button moved to the top left",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": 991810
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
+      "bug": 911209,
+      "created": "2014-06-11T07:02:21+00:00",
+      "is_public": true,
+      "modified": "2014-09-23T08:43:43+00:00",
       "note": "Hidden nodes displayed differently in the markup-view",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": 911209
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
+      "bug": 980501,
+      "created": "2014-07-17T07:50:16+00:00",
+      "is_public": true,
+      "modified": "2014-09-23T08:43:43+00:00",
       "note": "New [Web Audio Editor][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Web_Audio_Editor",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": 980501
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
+      "bug": null,
+      "created": "2014-07-17T15:10:48+00:00",
+      "is_public": true,
+      "modified": "2014-09-23T08:43:43+00:00",
       "note": "[Code completion][1] and [inline documentation][1] added to Scratchpad\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Scratchpad#Code_completion_and_inline_documentation",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": null
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
-      "note": "32.0.1 - Stability issues for computers with multiple graphics cards",
-      "is_public": true,
-      "tag": "Fixed",
       "bug": 1063048,
+      "created": "2014-09-12T08:17:56+00:00",
       "fixed_in_release": {
-        "product": "Firefox",
-        "title": "Firefox 32.0.1 Release",
-        "version": "32.0.1",
+        "channel": "Release",
         "is_public": true,
+        "product": "Firefox",
         "slug": "firefox-32.0.1-release",
-        "channel": "Release"
-      }
+        "title": "Firefox 32.0.1 Release",
+        "version": "32.0.1"
+      },
+      "is_public": true,
+      "modified": "2014-09-23T08:43:43+00:00",
+      "note": "32.0.1 - Stability issues for computers with multiple graphics cards",
+      "sort_num": 11000,
+      "tag": "Fixed"
     },
     {
-      "note": "32.0.1 - Mixed content icon may be incorrectly displayed instead of lock icon for SSL sites",
-      "is_public": true,
-      "tag": "Fixed",
       "bug": 1046645,
+      "created": "2014-09-12T08:21:01+00:00",
       "fixed_in_release": {
-        "product": "Firefox",
-        "title": "Firefox 32.0.1 Release",
-        "version": "32.0.1",
+        "channel": "Release",
         "is_public": true,
+        "product": "Firefox",
         "slug": "firefox-32.0.1-release",
-        "channel": "Release"
-      }
+        "title": "Firefox 32.0.1 Release",
+        "version": "32.0.1"
+      },
+      "is_public": true,
+      "modified": "2014-09-23T08:43:43+00:00",
+      "note": "32.0.1 - Mixed content icon may be incorrectly displayed instead of lock icon for SSL sites",
+      "sort_num": 10500,
+      "tag": "Fixed"
     },
     {
-      "note": "32.0.1 - WebRTC: setRemoteDescription() silently fails if no success callback is specified",
-      "is_public": true,
-      "tag": "Fixed",
       "bug": 1063971,
+      "created": "2014-09-12T08:37:20+00:00",
       "fixed_in_release": {
-        "product": "Firefox",
-        "title": "Firefox 32.0.1 Release",
-        "version": "32.0.1",
+        "channel": "Release",
         "is_public": true,
+        "product": "Firefox",
         "slug": "firefox-32.0.1-release",
-        "channel": "Release"
-      }
+        "title": "Firefox 32.0.1 Release",
+        "version": "32.0.1"
+      },
+      "is_public": true,
+      "modified": "2014-09-23T08:43:43+00:00",
+      "note": "32.0.1 - WebRTC: setRemoteDescription() silently fails if no success callback is specified",
+      "sort_num": 10000,
+      "tag": "Fixed"
     },
     {
+      "bug": null,
+      "created": "2013-11-25T00:24:50+00:00",
+      "is_public": true,
+      "modified": "2015-03-26T15:55:42+00:00",
       "note": "Various <a href=\"https://www.mozilla.org/security/known-vulnerabilities/firefox.html\">security fixes</a>",
-      "is_public": true,
-      "tag": "Fixed",
-      "bug": null
+      "sort_num": 0,
+      "tag": "Fixed"
     },
     {
-      "note": "Mac OS X: cmd-L does not open a new window when no window is available",
-      "is_public": true,
-      "tag": "Fixed",
       "bug": 1008793,
+      "created": "2014-07-17T15:25:19+00:00",
       "fixed_in_release": {
-        "product": "Firefox",
-        "title": "Firefox 32.0beta Beta",
-        "version": "32.0beta",
+        "channel": "Beta",
         "is_public": true,
+        "product": "Firefox",
         "slug": "firefox-32.0beta-beta",
-        "channel": "Beta"
-      }
+        "title": "Firefox 32.0beta Beta",
+        "version": "32.0beta"
+      },
+      "is_public": true,
+      "modified": "2014-09-23T08:43:43+00:00",
+      "note": "Mac OS X: cmd-L does not open a new window when no window is available",
+      "sort_num": 0,
+      "tag": "Fixed"
     },
     {
+      "bug": 812695,
+      "created": "2014-07-17T15:30:40+00:00",
+      "is_public": true,
+      "modified": "2014-09-23T08:43:43+00:00",
       "note": "Text Rendering Issues on Windows 7 with Platform Update KB2670838 (MSIE 10 Prerequisite) or on Windows 8.1",
-      "is_public": true,
-      "tag": "Fixed",
-      "bug": 812695
+      "sort_num": 0,
+      "tag": "Fixed"
     },
     {
-      "note": "Assistive technologies may cause performance issues on Windows XP",
+      "bug": 1045518,
+      "created": "2014-08-28T12:20:22+00:00",
       "is_public": true,
-      "tag": "Known",
-      "bug": 1045518
+      "modified": "2014-09-23T08:43:43+00:00",
+      "note": "Assistive technologies may cause performance issues on Windows XP",
+      "sort_num": 0,
+      "tag": "Known"
     }
   ],
-  "text": "<p>We'd also like to extend a special thank you to all of the <a href=\"http://blog.mozilla.org/community/2014/08/29/firefox-32-new-contributors/\">new Mozillians</a> who contributed to this release of Firefox!</p>",
+  "product": "Firefox",
   "release_date": "2014-09-18",
   "slug": "firefox-32.0.2-release",
-  "version": "32.0.2",
-  "bug_search_url": "",
-  "is_public": true,
   "system_requirements": "## Windows\r\n\r\n### Operating Systems\r\n - Windows XP SP2\r\n - Windows Server 2003 SP1\r\n - Windows Vista\r\n - Windows 7\r\n - Windows 8\r\n\r\n*Please note that while the 32-bit and 64-bit versions of Windows Vista and Windows 7 can be used to run Firefox 32, only 32-bit builds of Firefox 32 are supported at this time.*\r\n\r\n### Recommended Hardware\r\n-  Pentium 4 or newer processor that supports SSE2\r\n-  512MB of RAM\r\n-  200MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- Mac OS X 10.6\r\n- Mac OS X 10.7\r\n- Mac OS X 10.8\r\n- Mac OS X 10.9\r\n\r\n### Recommended Hardware\r\n- Macintosh computer with an Intel x86 processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - GTK+ 2.18 or higher\r\n    - GLib 2.22 or higher\r\n    - Pango 1.14 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n    - libstdc++ 4.3 or higher\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - NetworkManager 0.7 or higher\r\n    - DBus 1.0 or higher\r\n    - HAL 0.5.8 or higher\r\n    - GNOME 2.16 or higher",
-  "channel": "Release"
+  "text": "<p>We'd also like to extend a special thank you to all of the <a href=\"http://blog.mozilla.org/community/2014/08/29/firefox-32-new-contributors/\">new Mozillians</a> who contributed to this release of Firefox!</p>",
+  "title": "Firefox 32.0.2 Release",
+  "version": "32.0.2"
 }

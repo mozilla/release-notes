@@ -1,33 +1,44 @@
 {
-  "product": "Firefox for Android",
   "bug_list": "",
-  "title": "Firefox for Android 42.0.1 Release",
+  "bug_search_url": "",
+  "channel": "Release",
+  "created": "2015-11-19T17:57:05+00:00",
+  "is_public": true,
+  "modified": "2015-11-19T18:04:50+00:00",
   "notes": [
     {
+      "bug": 1209612,
+      "created": "2015-10-21T09:09:45+00:00",
+      "is_public": true,
+      "modified": "2015-11-19T18:01:27+00:00",
       "note": "42.0.1 - Fix a crash in the OpenGL init process ([1209612][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1209612",
-      "is_public": true,
-      "tag": "Fixed",
-      "bug": 1209612
+      "sort_num": 0,
+      "tag": "Fixed"
     },
     {
+      "bug": 1221228,
+      "created": "2015-10-30T14:59:25+00:00",
+      "is_public": true,
+      "modified": "2015-11-19T18:02:17+00:00",
       "note": "42.0.1 - Android 6.0 devices (eg Nexus 5X/6P) reboot/restart or hang when playing audio/video fixed ([1221228][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1221228",
-      "is_public": true,
-      "tag": "Fixed",
-      "bug": 1221228
+      "sort_num": 0,
+      "tag": "Fixed"
     },
     {
-      "note": "Reference: Release notes for [Firefox 42.0][1]\r\n\r\n  [1]: https://www.mozilla.com/en-US/firefox/android/42.0/releasenotes/",
+      "bug": null,
+      "created": "2015-10-21T09:07:34+00:00",
       "is_public": true,
-      "tag": "",
-      "bug": null
+      "modified": "2015-11-19T18:04:40+00:00",
+      "note": "Reference: Release notes for [Firefox 42.0][1]\r\n\r\n  [1]: https://www.mozilla.com/en-US/firefox/android/42.0/releasenotes/",
+      "sort_num": 100,
+      "tag": ""
     }
   ],
-  "text": "<p>We'd also like to extend a special thank you to all of the <a href=\"https://blog.mozilla.org/community/2015/09/21/firefox-41-new-contributors/\">new Mozillians</a> who contributed to this release of Firefox!</p>",
+  "product": "Firefox for Android",
   "release_date": "2015-11-19",
   "slug": "firefox-for-android-42.0.1-release",
-  "version": "42.0.1",
-  "bug_search_url": "",
-  "is_public": true,
   "system_requirements": "",
-  "channel": "Release"
+  "text": "<p>We'd also like to extend a special thank you to all of the <a href=\"https://blog.mozilla.org/community/2015/09/21/firefox-41-new-contributors/\">new Mozillians</a> who contributed to this release of Firefox!</p>",
+  "title": "Firefox for Android 42.0.1 Release",
+  "version": "42.0.1"
 }

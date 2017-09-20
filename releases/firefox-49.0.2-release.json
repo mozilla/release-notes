@@ -1,75 +1,107 @@
 {
-  "product": "Firefox",
   "bug_list": "",
-  "title": "Firefox 49.0.2 Release",
+  "bug_search_url": "",
+  "channel": "Release",
+  "created": "2016-10-19T13:01:26.859000+00:00",
+  "is_public": true,
+  "modified": "2016-10-20T17:56:32.888000+00:00",
   "notes": [
     {
+      "bug": 1307108,
+      "created": "2016-10-19T13:24:12.055000+00:00",
+      "is_public": true,
+      "modified": "2016-11-28T19:47:30.190000+00:00",
       "note": "Asynchronous rendering of the Flash plugins is now enabled by default. This should improve performance and reduce crashes for sites that use the Flash plugin. ([Bug 1307108][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1307108",
-      "is_public": true,
-      "tag": "New",
-      "bug": 1307108
+      "sort_num": 98,
+      "tag": "New"
     },
     {
+      "bug": null,
+      "created": "2016-09-23T18:57:44.214000+00:00",
+      "is_public": true,
+      "modified": "2016-11-28T19:47:18.982000+00:00",
       "note": "Reference link to [Firefox 49.0.1 release notes][1]\r\n\r\n[1]: https://www.mozilla.org/firefox/49.0.1/releasenotes/",
-      "is_public": true,
-      "tag": "",
-      "bug": null
+      "sort_num": 0,
+      "tag": ""
     },
     {
+      "bug": 1304539,
+      "created": "2016-10-19T13:16:08.363000+00:00",
+      "is_public": true,
+      "modified": "2016-11-28T19:47:26.298000+00:00",
       "note": " Fix a Canvas filters graphics issue affecting HTML5 apps ([Bug 1304539][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1304539",
-      "is_public": true,
-      "tag": "",
-      "bug": 1304539
+      "sort_num": 0,
+      "tag": ""
     },
     {
+      "bug": 1304113,
+      "created": "2016-10-19T13:19:45.035000+00:00",
+      "is_public": true,
+      "modified": "2016-11-28T19:47:27.544000+00:00",
       "note": "Diagnostic information on timing for tab switching ([Bug 1304113][1])\r\n[1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1304113",
-      "is_public": true,
-      "tag": "Changed",
-      "bug": 1304113
+      "sort_num": 0,
+      "tag": "Changed"
     },
     {
+      "bug": 1301518,
+      "created": "2016-10-19T13:35:18.887000+00:00",
+      "is_public": true,
+      "modified": "2016-11-28T19:47:34.544000+00:00",
       "note": "Support mapping family 255 when playing an Opus file, for use with the Web Audio API ([Bug 1301518][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1301518",
-      "is_public": true,
-      "tag": "Feature",
-      "bug": 1301518
+      "sort_num": 0,
+      "tag": "Feature"
     },
     {
+      "bug": 1306465,
+      "created": "2016-10-19T13:29:00.023000+00:00",
+      "is_public": true,
+      "modified": "2016-11-28T19:47:31.994000+00:00",
       "note": "Change D3D9 default fallback preference to prevent graphical artifacts ([Bug 1306465][1]) \r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1306465",
-      "is_public": true,
-      "tag": "Fixed",
-      "bug": 1306465
+      "sort_num": 95,
+      "tag": "Fixed"
     },
     {
+      "bug": 1305436,
+      "created": "2016-10-19T13:33:45.332000+00:00",
+      "is_public": true,
+      "modified": "2016-11-28T19:47:32.826000+00:00",
       "note": " Network issue prevents some users from seeing the Firefox UI on startup ([Bug 1305436][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1305436",
-      "is_public": true,
-      "tag": "Fixed",
-      "bug": 1305436
+      "sort_num": 90,
+      "tag": "Fixed"
     },
     {
+      "bug": 1306472,
+      "created": "2016-10-19T13:10:14.035000+00:00",
+      "is_public": true,
+      "modified": "2016-11-28T19:53:43.194000+00:00",
       "note": "Web compatibility issue with file uploads ([Bug 1306472][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1306472",
-      "is_public": true,
-      "tag": "Fixed",
-      "bug": 1306472
+      "sort_num": 0,
+      "tag": "Fixed"
     },
     {
+      "bug": 1299593,
+      "created": "2016-10-19T13:21:23.106000+00:00",
+      "is_public": true,
+      "modified": "2016-11-28T19:47:28.314000+00:00",
       "note": "Web compatibility issue with Array.prototype.values ([Bug 1299593][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1299593",
-      "is_public": true,
-      "tag": "Fixed",
-      "bug": 1299593
+      "sort_num": 0,
+      "tag": "Fixed"
     },
     {
-      "note": "Various [security fixes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/en-US/security/known-vulnerabilities/firefox/#firefox49.0.2",
+      "bug": null,
+      "created": "2016-10-20T17:47:34.146000+00:00",
       "is_public": true,
-      "tag": "Fixed",
-      "bug": null
+      "modified": "2016-11-28T19:53:45.294000+00:00",
+      "note": "Various [security fixes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/en-US/security/known-vulnerabilities/firefox/#firefox49.0.2",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
-  "text": "<p>We'd also like to extend a special thank you to all of the <a href=\"https://blog.mozilla.org/community/2016/09/16/firefox-49-new-contributors/\">new Mozillians</a> who contributed to this release of Firefox!</p>",
+  "product": "Firefox",
   "release_date": "2016-10-20",
   "slug": "firefox-49.0.2-release",
-  "version": "49.0.2",
-  "bug_search_url": "",
-  "is_public": true,
   "system_requirements": "## Windows\r\n\r\n### Operating Systems (32-bit and 64-bit)\r\n - Windows XP SP2\r\n - Windows Server 2003 SP1\r\n - Windows Vista\r\n - Windows 7\r\n - Windows 8\r\n - Windows 10\r\n - Pentium 4 or newer processor that supports SSE2\r\n\r\n*Please note that 64-bit builds of Firefox are only supported on Windows 7 and higher.*\r\n\r\n### Recommended Hardware\r\n\r\n-  512MB of RAM\r\n-  200MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- Mac OS X 10.9\r\n- Mac OS X 10.10\r\n- Mac OS X 10.11\r\n\r\n### Recommended Hardware\r\n- Macintosh computer with an Intel x86 processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - GTK+ 3.4 or higher\r\n    - GLib 2.22 or higher\r\n    - Pango 1.14 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n    - libstdc++ 4.3 or higher\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - NetworkManager 0.7 or higher\r\n    - DBus 1.0 or higher\r\n    - HAL 0.5.8 or higher\r\n    - GNOME 2.16 or higher\r\n\r\n  [1]: https://support.mozilla.org/kb/get-latest-version-firefox-windows-xp-vista",
-  "channel": "Release"
+  "text": "<p>We'd also like to extend a special thank you to all of the <a href=\"https://blog.mozilla.org/community/2016/09/16/firefox-49-new-contributors/\">new Mozillians</a> who contributed to this release of Firefox!</p>",
+  "title": "Firefox 49.0.2 Release",
+  "version": "49.0.2"
 }

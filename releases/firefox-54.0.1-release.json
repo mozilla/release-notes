@@ -1,57 +1,80 @@
 {
-  "product": "Firefox",
   "bug_list": "",
-  "title": "Firefox 54.0.1 Release",
+  "bug_search_url": "",
+  "channel": "Release",
+  "created": "2017-06-28T17:46:20.267000+00:00",
+  "is_public": true,
+  "modified": "2017-06-29T18:39:23.906000+00:00",
   "notes": [
     {
+      "bug": null,
+      "created": "2017-06-28T17:50:41.809000+00:00",
+      "is_public": true,
+      "modified": "2017-08-10T14:07:24.464000+00:00",
       "note": "Reference link to [54.0 release notes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/firefox/54.0/releasenotes/",
-      "is_public": true,
-      "tag": "",
-      "bug": null
+      "sort_num": 0,
+      "tag": ""
     },
     {
+      "bug": 1357656,
+      "created": "2017-06-28T17:52:46.714000+00:00",
+      "is_public": true,
+      "modified": "2017-08-10T14:07:28.087000+00:00",
       "note": "Fix a display issue of tab title ([bug 1357656][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/1357656",
-      "is_public": true,
-      "tag": "Fixed",
-      "bug": 1357656
+      "sort_num": 0,
+      "tag": "Fixed"
     },
     {
+      "bug": 1371995,
+      "created": "2017-06-28T17:53:37.115000+00:00",
+      "is_public": true,
+      "modified": "2017-08-10T14:07:32.989000+00:00",
       "note": "Fix a display issue of opening new tab ([bug 1371995][1])\r\n\r\n[1]: https://bugzilla.mozilla.org/1371995",
-      "is_public": true,
-      "tag": "Fixed",
-      "bug": 1371995
+      "sort_num": 0,
+      "tag": "Fixed"
     },
     {
+      "bug": 1371962,
+      "created": "2017-06-28T17:54:29.610000+00:00",
+      "is_public": true,
+      "modified": "2017-08-10T14:07:48.685000+00:00",
       "note": "Fix a display issue when opening multiple tabs ([bug 1371962][1])\r\n\r\n[1]: https://bugzilla.mozilla.org/1371962",
-      "is_public": true,
-      "tag": "Fixed",
-      "bug": 1371962
+      "sort_num": 0,
+      "tag": "Fixed"
     },
     {
+      "bug": 1373109,
+      "created": "2017-06-28T17:54:55.422000+00:00",
+      "is_public": true,
+      "modified": "2017-08-10T14:07:53.642000+00:00",
       "note": "Fix a tab display issue when downloading files ([bug 1373109][1])\r\n\r\n[1]: https://bugzilla.mozilla.org/1373109",
-      "is_public": true,
-      "tag": "Fixed",
-      "bug": 1373109
+      "sort_num": 0,
+      "tag": "Fixed"
     },
     {
+      "bug": 1366744,
+      "created": "2017-06-28T17:56:03.382000+00:00",
+      "is_public": true,
+      "modified": "2017-08-10T14:07:57.989000+00:00",
       "note": "Fix a PDF printing issue ([bug 1366744][1])\r\n\r\n[1]: https://bugzilla.mozilla.org/1366744",
-      "is_public": true,
-      "tag": "Fixed",
-      "bug": 1366744
+      "sort_num": 0,
+      "tag": "Fixed"
     },
     {
-      "note": "Fix a Netflix issue on Linux ([bug 1375708][1])\r\n\r\n[1]: https://bugzilla.mozilla.org/1375708",
+      "bug": 1375708,
+      "created": "2017-06-28T17:57:10.927000+00:00",
       "is_public": true,
-      "tag": "Fixed",
-      "bug": 1375708
+      "modified": "2017-08-10T14:08:02.735000+00:00",
+      "note": "Fix a Netflix issue on Linux ([bug 1375708][1])\r\n\r\n[1]: https://bugzilla.mozilla.org/1375708",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
-  "text": "Today's release is the first to run Firefox using multiple operating system processes for web page content, making Firefox faster and more stable than ever. Learn more about how multiple processes strike a \u201cjust right\u201d balance between performance and memory use on [the Mozilla Blog][1]. Dive into the [details (including performance benchmarks) on Medium][2].\r\n\r\n<p>We'd also like to extend a special thank you to all of the <a href=\"http://blog.mozilla.org/community/2017/06/08/firefox-54-new-contributors/\">new Mozillians</a> who contributed to this release of Firefox!</p>\r\n\r\n\r\n  [1]: https://blog.mozilla.org/blog/2017/06/13/faster-better-firefox/\r\n  [2]: https://medium.com/mozilla-tech/the-search-for-the-goldilocks-browser-and-why-firefox-may-be-just-right-for-you-1f520506aa35",
+  "product": "Firefox",
   "release_date": "2017-06-29",
   "slug": "firefox-54.0.1-release",
-  "version": "54.0.1",
-  "bug_search_url": "",
-  "is_public": true,
   "system_requirements": "## Windows\r\n\r\n### Operating Systems (32-bit and 64-bit)\r\n - Windows 7\r\n - Windows 8\r\n - Windows 10\r\n\r\n### Recommended Hardware\r\n-  Pentium 4 or newer processor that supports SSE2\r\n-  512MB of RAM\r\n-  200MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- macOS 10.9\r\n- macOS 10.10\r\n- macOS 10.11\r\n- macOS 10.12\r\n\r\n### Recommended Hardware\r\n- Macintosh computer with an Intel x86 processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - GTK+ 3.4 or higher\r\n    - GLib 2.22 or higher\r\n    - Pango 1.14 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n    - libstdc++ 4.6.1 or higher\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - NetworkManager 0.7 or higher\r\n    - DBus 1.0 or higher\r\n    - GNOME 2.16 or higher\r\n    - PulseAudio\r\n\r\n  [1]: https://support.mozilla.org/kb/get-latest-version-firefox-windows-xp-vista",
-  "channel": "Release"
+  "text": "Today's release is the first to run Firefox using multiple operating system processes for web page content, making Firefox faster and more stable than ever. Learn more about how multiple processes strike a \u201cjust right\u201d balance between performance and memory use on [the Mozilla Blog][1]. Dive into the [details (including performance benchmarks) on Medium][2].\r\n\r\n<p>We'd also like to extend a special thank you to all of the <a href=\"http://blog.mozilla.org/community/2017/06/08/firefox-54-new-contributors/\">new Mozillians</a> who contributed to this release of Firefox!</p>\r\n\r\n\r\n  [1]: https://blog.mozilla.org/blog/2017/06/13/faster-better-firefox/\r\n  [2]: https://medium.com/mozilla-tech/the-search-for-the-goldilocks-browser-and-why-firefox-may-be-just-right-for-you-1f520506aa35",
+  "title": "Firefox 54.0.1 Release",
+  "version": "54.0.1"
 }

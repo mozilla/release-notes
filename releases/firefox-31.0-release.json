@@ -1,211 +1,303 @@
 {
-  "product": "Firefox",
   "bug_list": "",
-  "title": "Firefox 31.0 Release",
+  "bug_search_url": "",
+  "channel": "Release",
+  "created": "2014-06-05T14:59:29+00:00",
+  "is_public": true,
+  "modified": "2014-07-31T14:08:31+00:00",
   "notes": [
     {
+      "bug": 962490,
+      "created": "2014-05-07T02:02:05+00:00",
+      "is_public": true,
+      "modified": "2014-07-17T08:32:55+00:00",
       "note": "Add the search field to the new tab page",
-      "is_public": true,
-      "tag": "New",
-      "bug": 962490
+      "sort_num": 10,
+      "tag": "New"
     },
     {
+      "bug": 995430,
+      "created": "2014-07-22T05:17:57+00:00",
+      "is_public": true,
+      "modified": "2014-07-22T09:32:42+00:00",
       "note": "Support of Prefer:Safe http header for parental control ([learn more][1])\r\n\r\n\r\n  [1]: https://blog.mozilla.org/privacy/2014/07/22/prefersafe-making-online-safety-simpler-in-firefox/",
-      "is_public": true,
-      "tag": "New",
-      "bug": 995430
+      "sort_num": 1,
+      "tag": "New"
     },
     {
+      "bug": 915930,
+      "created": "2014-04-29T10:46:12+00:00",
+      "is_public": true,
+      "modified": "2014-07-11T07:24:35+00:00",
       "note": "mozilla::pkix as default certificate verifier ([learn more][1])\r\n\r\n\r\n  [1]: https://blog.mozilla.org/security/2014/04/24/exciting-updates-to-certificate-verification-in-gecko/",
-      "is_public": true,
-      "tag": "New",
-      "bug": 915930
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": 407059,
+      "created": "2014-05-26T09:18:40+00:00",
+      "is_public": true,
+      "modified": "2014-07-21T00:01:42+00:00",
       "note": "Partial implementation of the <a href=\"http://mpeg.chiariglione.org/standards/mpeg-4/open-font-format/text-isoiec-cd-14496-22-3rd-edition\">OpenType MATH table</a> (section 6.3.6) see <a href=\"https://developer.mozilla.org/en-US/docs/Mozilla/MathML_Project/Fonts\">documentation about mathematical fonts</a> and the <a href=\"https://developer.mozilla.org/en-US/docs/Mozilla/MathML_Project/MathML_Torture_Test\">MathML Torture Test</a> for details",
-      "is_public": true,
-      "tag": "New",
-      "bug": 407059
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": 662819,
+      "created": "2014-07-18T04:41:35+00:00",
+      "is_public": true,
+      "modified": "2014-07-18T06:19:18+00:00",
       "note": "Block malware from downloaded files ([learn more][1])\r\n\r\n\r\n  [1]: https://wiki.mozilla.org/Security/Features/Application_Reputation_Design_Doc",
-      "is_public": true,
-      "tag": "New",
-      "bug": 662819
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": 452254,
+      "created": "2014-05-04T06:50:05+00:00",
+      "is_public": true,
+      "modified": "2014-07-21T02:13:32+00:00",
       "note": "audio/video .ogg and .pdf files handled by Firefox if no application specified (Windows only)",
-      "is_public": true,
-      "tag": "New",
-      "bug": 452254
+      "sort_num": -1,
+      "tag": "New"
     },
     {
+      "bug": 1018198,
+      "created": "2014-07-22T07:58:15+00:00",
+      "is_public": true,
+      "modified": "2014-07-22T07:58:17+00:00",
       "note": "Upper Sorbian [hsb] locale added",
-      "is_public": true,
-      "tag": "New",
-      "bug": 1018198
+      "sort_num": -100,
+      "tag": "New"
     },
     {
+      "bug": 913734,
+      "created": "2014-06-12T10:37:13+00:00",
+      "is_public": true,
+      "modified": "2014-07-11T07:24:35+00:00",
       "note": "Removal of the CAPS infrastructure for specifying site-specific permissions (via capability.policy.* preferences). Most notably, attempts to use this functionality to grant access to the clipboard will no longer work. The sole exception is the checkloaduri permission, which may still be used as before to allow sites to load file:// URIs.",
-      "is_public": true,
-      "tag": "Changed",
-      "bug": 913734
+      "sort_num": 0,
+      "tag": "Changed"
     },
     {
+      "bug": 629350,
+      "created": "2014-03-05T02:28:46+00:00",
+      "is_public": true,
+      "modified": "2014-07-11T07:24:35+00:00",
       "note": "WebVTT implemented and enabled (<a href=\"https://developer.mozilla.org/en-US/docs/HTML/WebVTT\">learn more</a>)",
-      "is_public": true,
-      "tag": "HTML5",
-      "bug": 629350
+      "sort_num": 200,
+      "tag": "HTML5"
     },
     {
+      "bug": null,
+      "created": "2014-03-04T08:35:25+00:00",
+      "is_public": true,
+      "modified": "2014-07-21T04:06:13+00:00",
       "note": "CSS3 variables implemented ([learn more][1])\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_variables",
-      "is_public": true,
-      "tag": "HTML5",
-      "bug": null
+      "sort_num": 0,
+      "tag": "HTML5"
     },
     {
+      "bug": null,
+      "created": "2014-06-12T10:28:52+00:00",
+      "is_public": true,
+      "modified": "2014-07-21T02:12:18+00:00",
       "note": "Developer Tools: Add-on Debugger ([learn more][1])\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/Add-ons/Add-on_Debugger",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": null
+      "sort_num": 100,
+      "tag": "Developer"
     },
     {
+      "bug": null,
+      "created": "2014-06-12T10:28:23+00:00",
+      "is_public": true,
+      "modified": "2014-07-21T02:12:22+00:00",
       "note": "Developer Tools: Canvas Debugger ([learn more][1])\r\n\r\n\r\n  [1]: https://hacks.mozilla.org/2014/03/introducing-the-canvas-debugger-in-firefox-developer-tools/",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": null
+      "sort_num": 99,
+      "tag": "Developer"
     },
     {
+      "bug": 990220,
+      "created": "2014-04-30T05:22:23+00:00",
+      "is_public": true,
+      "modified": "2014-07-16T07:24:17+00:00",
       "note": "navigator.sendBeacon enabled by default ([learn more][1])\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/navigator.sendBeacon",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": 990220
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
+      "bug": 911147,
+      "created": "2014-04-30T10:47:28+00:00",
+      "is_public": true,
+      "modified": "2014-07-11T07:24:35+00:00",
       "note": "New Array built-in: Array.prototype.fill() (<a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/fill\">learn more</a>)",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": 911147
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
+      "bug": 911147,
+      "created": "2014-04-30T10:48:24+00:00",
+      "is_public": true,
+      "modified": "2014-07-11T07:24:35+00:00",
       "note": "New Object built-in: Object.setPrototypeOf() ([learn more][1])\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/setPrototypeOf",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": 911147
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
+      "bug": 979580,
+      "created": "2014-05-04T06:45:37+00:00",
+      "is_public": true,
+      "modified": "2014-07-11T07:24:35+00:00",
       "note": "CSP 1.1 nonce-source and hash-source enabled by default",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": 979580
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
+      "bug": null,
+      "created": "2014-06-12T04:35:23+00:00",
+      "is_public": true,
+      "modified": "2014-07-11T07:24:35+00:00",
       "note": "Developer Tools: Eyedropper tool added to the color picker ([learn more][1])\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Eyedropper",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": null
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
+      "bug": 850336,
+      "created": "2014-06-12T04:36:22+00:00",
+      "is_public": true,
+      "modified": "2014-07-11T07:24:35+00:00",
       "note": "Developer Tools: Editable Box Model ([learn more][1])\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector#Box_model_view",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": 850336
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
+      "bug": null,
+      "created": "2014-06-12T10:25:07+00:00",
+      "is_public": true,
+      "modified": "2014-07-11T07:24:35+00:00",
       "note": "Developer Tools: Code Editor improvements ([learn more][1])\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/tools/Keyboard_shortcuts#Source_editor",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": null
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
+      "bug": null,
+      "created": "2014-06-12T10:26:15+00:00",
+      "is_public": true,
+      "modified": "2014-07-11T07:24:35+00:00",
       "note": "Developer Tools: Console stack traces ([learn more][1])\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Web_Console#Error_messages",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": null
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
+      "bug": null,
+      "created": "2014-06-12T10:27:15+00:00",
+      "is_public": true,
+      "modified": "2014-07-11T07:24:35+00:00",
       "note": "Developer Tools: Copy as cURL ([learn more][1])\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Network_Monitor#Copy_as_cURL",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": null
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
+      "bug": null,
+      "created": "2014-06-12T10:27:43+00:00",
+      "is_public": true,
+      "modified": "2014-07-11T07:24:35+00:00",
       "note": "Developer Tools: Styled console logs ([learn more][1])\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Web_Console#Styling_messages",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": null
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
+      "bug": 616853,
+      "created": "2014-05-04T06:54:05+00:00",
+      "is_public": true,
+      "modified": "2014-07-21T02:12:53+00:00",
       "note": "Dialogs spawned from the onbeforeunload event no longer block access to the rest of the browser",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": 616853
+      "sort_num": -12,
+      "tag": "Developer"
     },
     {
+      "bug": null,
+      "created": "2013-11-25T00:24:50+00:00",
+      "is_public": true,
+      "modified": "2015-03-26T15:55:42+00:00",
       "note": "Various <a href=\"https://www.mozilla.org/security/known-vulnerabilities/firefox.html\">security fixes</a>",
-      "is_public": true,
-      "tag": "Fixed",
-      "bug": null
+      "sort_num": 0,
+      "tag": "Fixed"
     },
     {
+      "bug": 985824,
+      "created": "2014-03-05T02:42:22+00:00",
+      "is_public": true,
+      "modified": "2014-07-11T07:24:35+00:00",
       "note": "Search for partially selected link text from context menu ([985824][1])\r\n\r\n\r\n  [1]: http://bugzilla.mozilla.org/985824",
-      "is_public": true,
-      "tag": "Fixed",
-      "bug": 985824
+      "sort_num": 0,
+      "tag": "Fixed"
     },
     {
-      "note": "Mac OS X: cmd-L no longer opens a new window when no window is available ([1008793][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1008793",
-      "is_public": true,
-      "tag": "Known",
       "bug": 1008793,
+      "created": "2013-11-25T00:24:44+00:00",
       "fixed_in_release": {
-        "product": "Firefox",
-        "title": "Firefox 32.0a2 Aurora",
-        "version": "32.0a2",
+        "channel": "Aurora",
         "is_public": true,
+        "product": "Firefox",
         "slug": "firefox-32.0a2-aurora",
-        "channel": "Aurora"
-      }
+        "title": "Firefox 32.0a2 Aurora",
+        "version": "32.0a2"
+      },
+      "is_public": true,
+      "modified": "2014-07-21T03:56:45+00:00",
+      "note": "Mac OS X: cmd-L no longer opens a new window when no window is available ([1008793][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1008793",
+      "sort_num": 0,
+      "tag": "Known"
     },
     {
+      "bug": 966469,
+      "created": "2014-05-09T08:10:33+00:00",
+      "is_public": true,
+      "modified": "2014-07-11T07:24:35+00:00",
       "note": "Slow shut downs lead to 'Firefox is already running' warning (see [966469][1] and [985655][2])\r\n\r\n\r\n  [1]: http://bugzilla.mozilla.org/966469\r\n  [2]: http://bugzilla.mozilla.org/985655",
-      "is_public": true,
-      "tag": "Known",
-      "bug": 966469
+      "sort_num": 0,
+      "tag": "Known"
     },
     {
-      "note": "GNU/Linux and Windows XP:  Google Maps Street View displays a black screen ([1034593][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1034593",
-      "is_public": true,
-      "tag": "Known",
       "bug": 1027103,
+      "created": "2014-07-16T07:41:56+00:00",
       "fixed_in_release": {
-        "product": "Firefox",
-        "title": "Firefox 32.0a2 Aurora",
-        "version": "32.0a2",
+        "channel": "Aurora",
         "is_public": true,
+        "product": "Firefox",
         "slug": "firefox-32.0a2-aurora",
-        "channel": "Aurora"
-      }
+        "title": "Firefox 32.0a2 Aurora",
+        "version": "32.0a2"
+      },
+      "is_public": true,
+      "modified": "2014-07-21T03:51:33+00:00",
+      "note": "GNU/Linux and Windows XP:  Google Maps Street View displays a black screen ([1034593][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1034593",
+      "sort_num": 0,
+      "tag": "Known"
     },
     {
+      "bug": 1025627,
+      "created": "2014-07-16T08:00:45+00:00",
+      "is_public": true,
+      "modified": "2014-07-17T06:59:54+00:00",
       "note": "Mac OS X and Windows: Citrix Receiver no longer works. As a workaround, mark the plugin as *Always Enable* in the addon manager ([1025627][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1025627",
-      "is_public": true,
-      "tag": "Known",
-      "bug": 1025627
+      "sort_num": 0,
+      "tag": "Known"
     },
     {
-      "note": "PDF.js: With some fonts, some characters might not be displayed. Affects a very small number of PDF ([1028735][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1028735",
+      "bug": 1028735,
+      "created": "2014-07-17T02:29:12+00:00",
       "is_public": true,
-      "tag": "Known",
-      "bug": 1028735
+      "modified": "2014-07-17T02:29:13+00:00",
+      "note": "PDF.js: With some fonts, some characters might not be displayed. Affects a very small number of PDF ([1028735][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1028735",
+      "sort_num": 0,
+      "tag": "Known"
     }
   ],
-  "text": " <p>We'd also like to extend a special thank you to all of the <a href=\"https://blog.mozilla.org/community/2014/07/21/firefox-31-new-contributors/ \">new Mozillians</a> who contributed to this release of Firefox!</p>",
+  "product": "Firefox",
   "release_date": "2014-07-22",
   "slug": "firefox-31.0-release",
-  "version": "31.0",
-  "bug_search_url": "",
-  "is_public": true,
   "system_requirements": "## Windows\r\n\r\n### Operating Systems\r\n - Windows XP SP2\r\n - Windows Server 2003 SP1\r\n - Windows Vista\r\n - Windows 7\r\n - Windows 8\r\n\r\n*Please note that while the 32-bit and 64-bit versions of Windows Vista and Windows 7 can be used to run Firefox, only 32-bit builds of Firefox are supported at this time.*\r\n\r\n### Recommended Hardware\r\n-  Pentium 4 or newer processor that supports SSE2\r\n-  512MB of RAM\r\n-  200MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- Mac OS X 10.6\r\n- Mac OS X 10.7\r\n- Mac OS X 10.8\r\n- Mac OS X 10.9\r\n\r\n### Recommended Hardware\r\n- Macintosh computer with an Intel x86 processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - GTK+ 2.18 or higher\r\n    - GLib 2.22 or higher\r\n    - Pango 1.14 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n    - libstdc++ 4.3 or higher\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - NetworkManager 0.7 or higher\r\n    - DBus 1.0 or higher\r\n    - HAL 0.5.8 or higher\r\n    - GNOME 2.16 or higher",
-  "channel": "Release"
+  "text": " <p>We'd also like to extend a special thank you to all of the <a href=\"https://blog.mozilla.org/community/2014/07/21/firefox-31-new-contributors/ \">new Mozillians</a> who contributed to this release of Firefox!</p>",
+  "title": "Firefox 31.0 Release",
+  "version": "31.0"
 }

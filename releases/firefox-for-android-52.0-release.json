@@ -1,39 +1,53 @@
 {
-  "product": "Firefox for Android",
   "bug_list": "",
-  "title": "Firefox for Android 52.0 Release",
+  "bug_search_url": "",
+  "channel": "Release",
+  "created": "2017-03-01T13:56:25.524000+00:00",
+  "is_public": true,
+  "modified": "2017-03-07T13:07:15.109000+00:00",
   "notes": [
     {
+      "bug": 976073,
+      "created": "2017-01-18T15:59:53.893000+00:00",
+      "is_public": true,
+      "modified": "2017-03-06T10:30:57.343000+00:00",
       "note": "Implemented the Strict Secure Cookies specification which forbids insecure HTTP sites from setting cookies with the \"secure\" attribute.  In some cases, this will prevent an insecure site from setting a cookie with the same name as an existing \"secure\" cookie from the same base domain.",
-      "is_public": true,
-      "tag": "New",
-      "bug": 976073
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": 1294736,
+      "created": "2017-01-24T12:54:53.932000+00:00",
+      "is_public": true,
+      "modified": "2017-03-01T13:56:25.542000+00:00",
       "note": "Reduced APK file size by more than 5 MB for faster download and installation",
-      "is_public": true,
-      "tag": "New",
-      "bug": 1294736
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": 1268368,
+      "created": "2017-01-24T14:06:52.013000+00:00",
+      "is_public": true,
+      "modified": "2017-03-06T12:21:33.620000+00:00",
       "note": "Display media controls to pause or resume playback on the Android notification bar. This gives users easy access to controls and allows them to see when audio or video is playing (and consuming mobile data) on Firefox. ",
-      "is_public": true,
-      "tag": "New",
-      "bug": 1268368
+      "sort_num": 0,
+      "tag": "New"
     },
     {
-      "note": "Various [security fixes][1]\r\n\r\n[1]: https://www.mozilla.org/security/known-vulnerabilities/firefox/#firefox52",
+      "bug": null,
+      "created": "2017-03-06T12:40:15.928000+00:00",
       "is_public": true,
-      "tag": "Fixed",
-      "bug": null
+      "modified": "2017-03-06T14:03:30.591000+00:00",
+      "note": "Various [security fixes][1]\r\n\r\n[1]: https://www.mozilla.org/security/known-vulnerabilities/firefox/#firefox52",
+      "sort_num": 10,
+      "tag": "Fixed"
     }
   ],
-  "text": "<p>We'd also like to extend a special thank you to all of the <a href=\"https://blog.mozilla.org/community/2017/03/03/firefox-52-new-contributors/\">new Mozillians</a> who contributed to this release of Firefox!</p>",
+  "product": "Firefox for Android",
   "release_date": "2017-03-07",
   "slug": "firefox-for-android-52.0-release",
-  "version": "52.0",
-  "bug_search_url": "",
-  "is_public": true,
   "system_requirements": "## Operating systems\r\n - Android 4.0\r\n - Above versions\r\n\r\n## Requirements\r\n - 50 MB internal storage\r\n - 384 MB of RAM\r\n - display at least 320 pixels high and 240 pixels wide",
-  "channel": "Release"
+  "text": "<p>We'd also like to extend a special thank you to all of the <a href=\"https://blog.mozilla.org/community/2017/03/03/firefox-52-new-contributors/\">new Mozillians</a> who contributed to this release of Firefox!</p>",
+  "title": "Firefox for Android 52.0 Release",
+  "version": "52.0"
 }

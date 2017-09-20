@@ -1,99 +1,143 @@
 {
-  "product": "Firefox",
   "bug_list": "",
-  "title": "Firefox 53.0a2 Aurora",
+  "bug_search_url": "",
+  "channel": "Aurora",
+  "created": "2017-01-18T15:37:43.794000+00:00",
+  "is_public": true,
+  "modified": "2017-01-28T00:19:57.117000+00:00",
   "notes": [
     {
+      "bug": 1264543,
+      "created": "2017-01-28T00:26:38.290000+00:00",
+      "is_public": true,
+      "modified": "2017-06-05T20:55:46.440000+00:00",
       "note": "[Improved graphics stability][1] for Windows users with the addition of compositor process separation (Quantum Compositor)\r\n\r\n\r\n  [1]: https://ashughes.com/?p=426",
-      "is_public": true,
-      "tag": "New",
-      "bug": 1264543
+      "sort_num": 96,
+      "tag": "New"
     },
     {
+      "bug": 1314091,
+      "created": "2017-01-27T22:04:21.162000+00:00",
+      "is_public": true,
+      "modified": "2017-06-05T20:54:25.131000+00:00",
       "note": "Two new 'compact' themes available in Firefox, dark and light, based on the Firefox Developer Edition theme",
-      "is_public": true,
-      "tag": "New",
-      "bug": 1314091
+      "sort_num": 95,
+      "tag": "New"
     },
     {
+      "bug": 854126,
+      "created": "2017-01-27T21:59:16.851000+00:00",
+      "is_public": true,
+      "modified": "2017-06-05T20:24:37.031000+00:00",
       "note": "Lightweight themes are now applied in private browsing windows",
-      "is_public": true,
-      "tag": "New",
-      "bug": 854126
+      "sort_num": 93,
+      "tag": "New"
     },
     {
+      "bug": 1265304,
+      "created": "2017-01-27T22:00:43.801000+00:00",
+      "is_public": true,
+      "modified": "2017-06-05T20:24:48.382000+00:00",
       "note": "Reader Mode now displays estimated reading time for the page",
-      "is_public": true,
-      "tag": "New",
-      "bug": 1265304
+      "sort_num": 92,
+      "tag": "New"
     },
     {
+      "bug": 797208,
+      "created": "2017-01-27T21:54:16.613000+00:00",
+      "is_public": true,
+      "modified": "2017-02-27T23:54:06.474000+00:00",
       "note": "New installs on Win7+ 64 bit OS now default to 64 bit Firefox",
-      "is_public": true,
-      "tag": "New",
-      "bug": 797208
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": 1130266,
+      "created": "2017-01-28T00:06:16.770000+00:00",
+      "is_public": true,
+      "modified": "2017-06-05T20:54:50.155000+00:00",
       "note": "Windows XP and Vista are no longer supported. [XP and Vista users running Firefox 52][1] will continue to receive security updates on Firefox ESR 52.\r\n\r\n\r\n  [1]: https://support.mozilla.org/en-US/kb/end-support-windows-xp-and-vista",
-      "is_public": true,
-      "tag": "Changed",
-      "bug": 1130266
+      "sort_num": 98,
+      "tag": "Changed"
     },
     {
+      "bug": 1295375,
+      "created": "2017-01-28T00:15:39.695000+00:00",
+      "is_public": true,
+      "modified": "2017-06-05T20:55:24.400000+00:00",
       "note": "32-bit Mac OS X is no longer supported.  32-bit Mac OS X users can [switch to Firefox ESR 52][1] to continue receiving security updates. \r\n\r\n\r\n  [1]: https://www.mozilla.org/firefox/organizations/faq/",
-      "is_public": true,
-      "tag": "Changed",
-      "bug": 1295375
+      "sort_num": 90,
+      "tag": "Changed"
     },
     {
+      "bug": 1258839,
+      "created": "2016-12-16T18:59:30.592000+00:00",
+      "is_public": true,
+      "modified": "2017-03-07T18:46:50.182000+00:00",
       "note": "[Process separation][1] (e10s) now supported on Windows 10 touch screen devices and systems with accessibility tools installed\r\n\r\n\r\n  [1]: https://blog.mozilla.org/futurereleases/2016/08/02/whats-next-for-multi-process-firefox/",
-      "is_public": true,
-      "tag": "Changed",
-      "bug": 1258839
+      "sort_num": 0,
+      "tag": "Changed"
     },
     {
+      "bug": 1262053,
+      "created": "2017-01-18T15:51:55.484000+00:00",
+      "is_public": true,
+      "modified": "2017-04-13T14:48:55.814000+00:00",
       "note": "Media playback on new tabs is blocked until the tab is visible",
-      "is_public": true,
-      "tag": "Changed",
-      "bug": 1262053
+      "sort_num": 0,
+      "tag": "Changed"
     },
     {
+      "bug": 658467,
+      "created": "2017-01-27T21:53:47.221000+00:00",
+      "is_public": true,
+      "modified": "2017-06-05T20:24:25.427000+00:00",
       "note": "The last few characters of shortened tab titles fade out instead of being replaced by ellipses to keep more of the title visible",
-      "is_public": true,
-      "tag": "Changed",
-      "bug": 658467
+      "sort_num": 0,
+      "tag": "Changed"
     },
     {
+      "bug": 1271765,
+      "created": "2017-01-27T22:01:19.677000+00:00",
+      "is_public": true,
+      "modified": "2017-06-05T20:24:58.617000+00:00",
       "note": "New visual design for audio and video controls",
-      "is_public": true,
-      "tag": "Changed",
-      "bug": 1271765
+      "sort_num": 0,
+      "tag": "Changed"
     },
     {
+      "bug": 1274196,
+      "created": "2017-01-27T22:01:59.408000+00:00",
+      "is_public": true,
+      "modified": "2017-06-05T20:25:08.467000+00:00",
       "note": "Ended Firefox Linux support for processors older than Pentium 4 and AMD Opteron",
-      "is_public": true,
-      "tag": "Changed",
-      "bug": 1274196
+      "sort_num": 0,
+      "tag": "Changed"
     },
     {
+      "bug": 1309935,
+      "created": "2017-01-27T22:02:34.480000+00:00",
+      "is_public": true,
+      "modified": "2017-03-06T21:01:14.222000+00:00",
       "note": "Select menus offer an inline search when the menus are over 40 items",
-      "is_public": true,
-      "tag": "Changed",
-      "bug": 1309935
+      "sort_num": 0,
+      "tag": "Changed"
     },
     {
-      "note": "Changes for [web developers][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/Firefox/Releases/53#Changes_for_Web_developers",
+      "bug": null,
+      "created": "2017-01-27T22:04:55.934000+00:00",
       "is_public": true,
-      "tag": "Developer",
-      "bug": null
+      "modified": "2017-06-05T20:54:36.029000+00:00",
+      "note": "Changes for [web developers][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/Firefox/Releases/53#Changes_for_Web_developers",
+      "sort_num": 0,
+      "tag": "Developer"
     }
   ],
-  "text": "For more information about Developer Edition please see this <a href=\"https://developer.mozilla.org/en-US/Firefox/Developer_Edition\">MDN article</a>. ",
+  "product": "Firefox",
   "release_date": "2017-01-27",
   "slug": "firefox-53.0a2-aurora",
-  "version": "53.0a2",
-  "bug_search_url": "",
-  "is_public": true,
   "system_requirements": "## Windows\r\n\r\n### Operating Systems (32-bit and 64-bit)\r\n - Windows 7\r\n - Windows 8\r\n - Windows 10\r\n\r\n### Recommended Hardware\r\n-  Pentium 4 or newer processor that supports SSE2\r\n-  512MB of RAM\r\n-  200MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- Mac OS X 10.9\r\n- Mac OS X 10.10\r\n- Mac OS X 10.11\r\n\r\n### Recommended Hardware\r\n- Macintosh computer with an Intel x86 processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - GTK+ 3.4 or higher\r\n    - GLib 2.22 or higher\r\n    - Pango 1.14 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n    - libstdc++ 4.6.1 or higher\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - NetworkManager 0.7 or higher\r\n    - DBus 1.0 or higher\r\n    - GNOME 2.16 or higher\r\n\r\n  [1]: https://support.mozilla.org/kb/get-latest-version-firefox-windows-xp-vista",
-  "channel": "Aurora"
+  "text": "For more information about Developer Edition please see this <a href=\"https://developer.mozilla.org/en-US/Firefox/Developer_Edition\">MDN article</a>. ",
+  "title": "Firefox 53.0a2 Aurora",
+  "version": "53.0a2"
 }

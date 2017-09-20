@@ -1,137 +1,196 @@
 {
-  "product": "Firefox for Android",
   "bug_list": "",
-  "title": "Firefox for Android 22.0beta Beta",
+  "bug_search_url": "",
+  "channel": "Beta",
+  "created": "2013-11-25T00:25:01+00:00",
+  "is_public": true,
+  "modified": "2014-03-15T22:42:31+00:00",
   "notes": [
     {
+      "bug": null,
+      "created": "2013-11-25T00:24:50+00:00",
+      "is_public": true,
+      "modified": "2014-04-23T10:53:37+00:00",
       "note": "Windows: Firefox now follows display scaling options to render text larger on high-res displays",
-      "is_public": true,
-      "tag": "New",
-      "bug": null
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": null,
+      "created": "2013-11-25T00:24:50+00:00",
+      "is_public": true,
+      "modified": "2014-04-23T10:53:37+00:00",
       "note": "Mac OS X: Download progress in Dock application icon",
-      "is_public": true,
-      "tag": "New",
-      "bug": null
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": null,
+      "created": "2013-11-25T00:24:50+00:00",
+      "is_public": true,
+      "modified": "2014-04-23T10:53:37+00:00",
       "note": "HTML5 audio/video playback rate can now be changed",
-      "is_public": true,
-      "tag": "New",
-      "bug": null
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": 829952,
+      "created": "2013-11-25T00:24:50+00:00",
+      "is_public": true,
+      "modified": "2014-04-23T10:53:37+00:00",
       "note": "Scrolling using some high-resolution-scroll aware touchpads feels slow",
-      "is_public": true,
-      "tag": "",
-      "bug": 829952
+      "sort_num": 0,
+      "tag": ""
     },
     {
+      "bug": null,
+      "created": "2013-11-25T00:24:50+00:00",
+      "is_public": true,
+      "modified": "2014-04-23T10:53:37+00:00",
       "note": "asm.js optimizations (<a href=\"https://blog.mozilla.org/luke/2013/03/21/asm-js-in-firefox-nightly/\">OdinMonkey</a>) enabled for major performance improvements",
-      "is_public": true,
-      "tag": "New",
-      "bug": null
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": null,
+      "created": "2013-11-25T00:24:50+00:00",
+      "is_public": true,
+      "modified": "2014-04-23T10:53:37+00:00",
       "note": "Social services management implemented in Add-ons Manager",
-      "is_public": true,
-      "tag": "New",
-      "bug": null
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": null,
+      "created": "2013-11-25T00:24:50+00:00",
+      "is_public": true,
+      "modified": "2014-04-23T10:53:37+00:00",
       "note": "Pointer Lock API can now be used outside of fullscreen",
-      "is_public": true,
-      "tag": "Changed",
-      "bug": null
+      "sort_num": 0,
+      "tag": "Changed"
     },
     {
+      "bug": null,
+      "created": "2013-11-25T00:24:50+00:00",
+      "is_public": true,
+      "modified": "2014-04-23T10:53:37+00:00",
       "note": "Improved memory usage and display time <a href=\"https://bugzilla.mozilla.org/buglist.cgi?quicksearch=716140%2C689623%2C661304\">when rendering images</a>",
-      "is_public": true,
-      "tag": "Changed",
-      "bug": null
+      "sort_num": 0,
+      "tag": "Changed"
     },
     {
+      "bug": null,
+      "created": "2013-11-25T00:24:50+00:00",
+      "is_public": true,
+      "modified": "2014-04-23T10:53:37+00:00",
       "note": "Improved WebGL rendering performance through <a href=\"https://bugzilla.mozilla.org/buglist.cgi?quicksearch=829747\">asynchronous canvas updates</a>",
-      "is_public": true,
-      "tag": "Changed",
-      "bug": null
+      "sort_num": 0,
+      "tag": "Changed"
     },
     {
+      "bug": null,
+      "created": "2013-11-25T00:24:50+00:00",
+      "is_public": true,
+      "modified": "2014-04-23T10:53:37+00:00",
       "note": "Plain text files displayed within Firefox will now word-wrap",
-      "is_public": true,
-      "tag": "Changed",
-      "bug": null
+      "sort_num": 0,
+      "tag": "Changed"
     },
     {
+      "bug": null,
+      "created": "2013-11-25T00:24:50+00:00",
+      "is_public": true,
+      "modified": "2014-04-23T10:53:37+00:00",
       "note": "For user security, the |Components| object is no longer accessible from web content",
-      "is_public": true,
-      "tag": "Changed",
-      "bug": null
+      "sort_num": 0,
+      "tag": "Changed"
     },
     {
+      "bug": null,
+      "created": "2013-11-25T00:24:50+00:00",
+      "is_public": true,
+      "modified": "2014-04-23T10:53:37+00:00",
       "note": "WebRTC is now <a href=\"http://blog.mozilla.org/futurereleases/2013/05/16/firefox-beta-now-includes-webrtc-on-by-default\">enabled by default</a>!",
-      "is_public": true,
-      "tag": "Changed",
-      "bug": null
+      "sort_num": 0,
+      "tag": "Changed"
     },
     {
-      "note": "Replace fixed-ratio audio resampler in webrtc.org capture code with Speex resampler and eliminate pseudo-44000Hz rate",
-      "is_public": true,
-      "tag": "Changed",
       "bug": 886886,
+      "created": "2013-11-25T00:24:32+00:00",
       "fixed_in_release": {
-        "product": "Firefox",
-        "title": "Firefox 24.0beta Beta",
-        "version": "24.0beta",
+        "channel": "Beta",
         "is_public": true,
+        "product": "Firefox",
         "slug": "firefox-24.0beta-beta",
-        "channel": "Beta"
-      }
+        "title": "Firefox 24.0beta Beta",
+        "version": "24.0beta"
+      },
+      "is_public": true,
+      "modified": "2014-04-23T10:53:37+00:00",
+      "note": "Replace fixed-ratio audio resampler in webrtc.org capture code with Speex resampler and eliminate pseudo-44000Hz rate",
+      "sort_num": -50,
+      "tag": "Changed"
     },
     {
+      "bug": null,
+      "created": "2013-11-25T00:24:50+00:00",
+      "is_public": true,
+      "modified": "2014-04-23T10:53:37+00:00",
       "note": "New HTML5 <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=839371\">&lt;data&gt;</a> and <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=629801\">&lt;time&gt;</a> elements",
-      "is_public": true,
-      "tag": "HTML5",
-      "bug": null
+      "sort_num": 0,
+      "tag": "HTML5"
     },
     {
+      "bug": null,
+      "created": "2013-11-25T00:24:49+00:00",
+      "is_public": true,
+      "modified": "2014-04-23T10:53:36+00:00",
       "note": "<a href=\"https://developer.mozilla.org/en-US/docs/CSS/Using_CSS_flexible_boxes?redirectlocale=en-US&redirectslug=CSS%2FFlexbox\">CSS3 Flexbox</a> implemented and enabled by default",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": null
+      "sort_num": 1000,
+      "tag": "Developer"
     },
     {
+      "bug": null,
+      "created": "2013-11-25T00:24:50+00:00",
+      "is_public": true,
+      "modified": "2014-04-23T10:53:37+00:00",
       "note": "New built-in font inspector",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": null
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
+      "bug": null,
+      "created": "2013-11-25T00:24:50+00:00",
+      "is_public": true,
+      "modified": "2014-04-23T10:53:37+00:00",
       "note": "Added clipboardData API for JavaScript access to a user's clipboard",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": null
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
+      "bug": null,
+      "created": "2013-11-25T00:24:50+00:00",
+      "is_public": true,
+      "modified": "2014-04-23T10:53:37+00:00",
       "note": "New Web Notifications API implemented",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": null
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
-      "note": "If you try to start Firefox using a locked profile, it will crash (see [573369][1])\r\n\r\n\r\n  [1]: http://bugzilla.mozilla.org/573369",
+      "bug": 573369,
+      "created": "2013-11-25T00:24:27+00:00",
       "is_public": true,
-      "tag": "Known",
-      "bug": 573369
+      "modified": "2014-07-02T07:04:43+00:00",
+      "note": "If you try to start Firefox using a locked profile, it will crash (see [573369][1])\r\n\r\n\r\n  [1]: http://bugzilla.mozilla.org/573369",
+      "sort_num": -100,
+      "tag": "Known"
     }
   ],
-  "text": "",
+  "product": "Firefox for Android",
   "release_date": "2013-05-16",
   "slug": "firefox-for-android-22.0beta-beta",
-  "version": "22.0beta",
-  "bug_search_url": "",
-  "is_public": true,
   "system_requirements": "",
-  "channel": "Beta"
+  "text": "",
+  "title": "Firefox for Android 22.0beta Beta",
+  "version": "22.0beta"
 }

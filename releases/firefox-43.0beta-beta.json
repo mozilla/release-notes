@@ -1,147 +1,215 @@
 {
-  "product": "Firefox",
   "bug_list": "",
-  "title": "Firefox 43.0beta Beta",
+  "bug_search_url": "",
+  "channel": "Beta",
+  "created": "2015-09-14T20:03:18+00:00",
+  "is_public": true,
+  "modified": "2015-11-04T16:39:26+00:00",
   "notes": [
     {
+      "bug": 1177085,
+      "created": "2015-10-30T16:24:12+00:00",
+      "is_public": true,
+      "modified": "2015-12-15T16:25:50+00:00",
       "note": "Private Browsing with Tracking Protection offers choice of blocking additional trackers",
-      "is_public": true,
-      "tag": "New",
-      "bug": 1177085
+      "sort_num": 100,
+      "tag": "New"
     },
     {
+      "bug": 875573,
+      "created": "2015-09-16T23:09:57+00:00",
+      "is_public": true,
+      "modified": "2015-12-03T02:58:53+00:00",
       "note": "Improved [API support for m4v][1] video playback\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/HTMLMediaElement/canPlayType",
-      "is_public": true,
-      "tag": "New",
-      "bug": 875573
+      "sort_num": 99,
+      "tag": "New"
     },
     {
+      "bug": 958204,
+      "created": "2015-10-29T21:59:18+00:00",
+      "is_public": true,
+      "modified": "2015-12-15T16:27:10+00:00",
       "note": "Users can choose [search suggestions] [1] from the Awesome Bar\r\n\r\n  [1]: https://support.mozilla.org/en-US/kb/awesome-bar-search-firefox-bookmarks-history-tabs",
-      "is_public": true,
-      "tag": "New",
-      "bug": 958204
+      "sort_num": 98,
+      "tag": "New"
     },
     {
+      "bug": 1007063,
+      "created": "2015-11-04T15:07:39+00:00",
+      "is_public": true,
+      "modified": "2015-12-07T16:58:05+00:00",
       "note": "On-screen keyboard displayed on selecting input field on devices running Windows 8 or greater",
-      "is_public": true,
-      "tag": "New",
-      "bug": 1007063
+      "sort_num": 97,
+      "tag": "New"
     },
     {
+      "bug": 1037997,
+      "created": "2015-09-16T23:31:30+00:00",
+      "is_public": true,
+      "modified": "2015-12-03T19:05:47+00:00",
       "note": "WebRTC streaming on multiple monitors",
-      "is_public": true,
-      "tag": "New",
-      "bug": 1037997
+      "sort_num": 95,
+      "tag": "New"
     },
     {
+      "bug": 912470,
+      "created": "2015-09-16T20:19:49+00:00",
+      "is_public": true,
+      "modified": "2015-12-03T19:05:05+00:00",
       "note": "Improved Big5 support for [Hong Kong supplementary characters on Windows XP][1]\r\n\r\n  [1]: https://www.microsoft.com/en-us/download/details.aspx?id=10109",
-      "is_public": true,
-      "tag": "New",
-      "bug": 912470
+      "sort_num": 1,
+      "tag": "New"
     },
     {
+      "bug": 1186003,
+      "created": "2015-08-07T20:24:05+00:00",
+      "is_public": true,
+      "modified": "2016-04-15T19:09:52.357000+00:00",
       "note": "GTK3 integration (GNU/Linux only)\r\n",
-      "is_public": true,
-      "tag": "New",
-      "bug": 1186003
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": 1120406,
+      "created": "2015-09-17T16:49:20+00:00",
+      "is_public": true,
+      "modified": "2015-12-03T02:57:14+00:00",
       "note": "Markup view shows [indicators for pseudo-classes locked for elements][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector/How_to/Examine_and_edit_CSS#Setting_hover_active_focus",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": 1120406
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
+      "bug": 1198339,
+      "created": "2015-09-17T16:50:52+00:00",
+      "is_public": true,
+      "modified": "2015-12-03T02:57:14+00:00",
       "note": " Bind F1 key to open the settings when the toolbox is focused",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": 1198339
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
+      "bug": 1154363,
+      "created": "2015-09-17T17:48:27+00:00",
+      "is_public": true,
+      "modified": "2015-12-03T02:57:14+00:00",
       "note": "[New 'Use in Console' context menu item][1] in Inspector to store selected element in a temporary variable\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Tools/Page_Inspector/How_to/Examine_and_edit_HTML#Element_popup_menu",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": 1154363
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
+      "bug": 1151943,
+      "created": "2015-09-17T17:54:18+00:00",
+      "is_public": true,
+      "modified": "2015-12-03T02:57:14+00:00",
       "note": "[Search button next to overridden CSS properties][1] to find similar properties in the rules view\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Tools/Page_Inspector/How_to/Examine_and_edit_CSS#Overridden_declarations",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": 1151943
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
+      "bug": 1197048,
+      "created": "2015-09-17T18:04:36+00:00",
+      "is_public": true,
+      "modified": "2015-12-03T02:57:14+00:00",
       "note": "Ability to filter styles from their property names in the rules view",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": 1197048
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
+      "bug": 1184172,
+      "created": "2015-09-17T18:07:01+00:00",
+      "is_public": true,
+      "modified": "2015-12-03T02:57:14+00:00",
       "note": "Stack traces are now shown for exceptions inside the console\r\n",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": 1184172
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
+      "bug": 1168872,
+      "created": "2015-09-17T18:09:13+00:00",
+      "is_public": true,
+      "modified": "2015-12-03T02:57:14+00:00",
       "note": "Added ability to [display server-side logs in the console][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Tools/Web_Console/Console_messages#Server",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": 1168872
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
+      "bug": 970625,
+      "created": "2015-09-17T18:12:18+00:00",
+      "is_public": true,
+      "modified": "2016-01-22T18:54:17.935000+00:00",
       "note": "Ability to choose resolution for the GCLI screenshot command",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": 970625
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
+      "bug": 1205448,
+      "created": "2015-09-18T17:08:50+00:00",
+      "is_public": true,
+      "modified": "2015-12-03T02:57:14+00:00",
       "note": "[Subresource integrity][1] allows developers to make their sites more secure\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/Security/Subresource_Integrity",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": 1205448
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
+      "bug": 861335,
+      "created": "2015-10-29T21:30:36+00:00",
+      "is_public": true,
+      "modified": "2015-12-03T02:57:14+00:00",
       "note": "Network requests in Console [now link to Network panel][1] instead of opening in a popup\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Web_Console#HTTP_requests",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": 861335
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
+      "bug": 953408,
+      "created": "2015-10-29T21:32:27+00:00",
+      "is_public": true,
+      "modified": "2015-12-03T02:57:14+00:00",
       "note": "[Unprefixed 'hyphens' property][1] is now supported\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/hyphens",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": 953408
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
+      "bug": 1203648,
+      "created": "2015-10-30T16:17:15+00:00",
+      "is_public": true,
+      "modified": "2015-12-03T02:57:14+00:00",
       "note": "WebIDE now has a sidebar-based UI",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": 1203648
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
+      "bug": 1175492,
+      "created": "2015-10-30T16:19:45+00:00",
+      "is_public": true,
+      "modified": "2015-12-03T02:57:14+00:00",
       "note": "The 'transform-origin' property is now [supported on SVG elements][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/transform-origin#Browser_compatibility",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": 1175492
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
+      "bug": 1156757,
+      "created": "2015-10-30T16:26:35+00:00",
+      "is_public": true,
+      "modified": "2015-12-03T02:57:14+00:00",
       "note": "Animation inspector now [displays animations in a timeline][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector/How_to/Work_with_animations#Firefox_43",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": 1156757
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
-      "note": "Eyedropper tool does not work as expected when page is zoomed",
+      "bug": 1176595,
+      "created": "2015-09-16T23:28:17+00:00",
       "is_public": true,
-      "tag": "Fixed",
-      "bug": 1176595
+      "modified": "2015-12-03T02:57:14+00:00",
+      "note": "Eyedropper tool does not work as expected when page is zoomed",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
-  "text": "",
+  "product": "Firefox",
   "release_date": "2015-11-03",
   "slug": "firefox-43.0beta-beta",
-  "version": "43.0beta",
-  "bug_search_url": "",
-  "is_public": true,
   "system_requirements": "## Windows\r\n\r\n### Operating Systems (32-bit and 64-bit)\r\n - Windows XP SP2\r\n - Windows Server 2003 SP1\r\n - Windows Vista\r\n - Windows 7\r\n - Windows 8\r\n - Windows 10\r\n\r\n*Please note that 64-bit builds of Firefox are only supported on Windows 7 and higher.*\r\n\r\n### Recommended Hardware\r\n-  Pentium 4 or newer processor that supports SSE2\r\n-  512MB of RAM\r\n-  200MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- Mac OS X 10.6\r\n- Mac OS X 10.7\r\n- Mac OS X 10.8\r\n- Mac OS X 10.9\r\n- Mac OS X 10.10\r\n\r\n### Recommended Hardware\r\n- Macintosh computer with an Intel x86 processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - GTK+ 3.4 or higher\r\n    - GLib 2.22 or higher\r\n    - Pango 1.14 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n    - libstdc++ 4.3 or higher\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - NetworkManager 0.7 or higher\r\n    - DBus 1.0 or higher\r\n    - HAL 0.5.8 or higher\r\n    - GNOME 2.16 or higher",
-  "channel": "Beta"
+  "text": "",
+  "title": "Firefox 43.0beta Beta",
+  "version": "43.0beta"
 }

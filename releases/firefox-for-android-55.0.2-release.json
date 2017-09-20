@@ -1,45 +1,62 @@
 {
-  "product": "Firefox for Android",
   "bug_list": "",
-  "title": "Firefox for Android 55.0.2 Release",
+  "bug_search_url": "",
+  "channel": "Release",
+  "created": "2017-08-16T14:27:41.573000+00:00",
+  "is_public": true,
+  "modified": "2017-08-16T14:59:49.333000+00:00",
   "notes": [
     {
+      "bug": null,
+      "created": "2017-08-16T14:31:48.241000+00:00",
+      "is_public": true,
+      "modified": "2017-08-16T14:31:48.241000+00:00",
       "note": "Reference link to [55.0 release notes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/firefox/android/55.0/releasenotes/",
-      "is_public": true,
-      "tag": "",
-      "bug": null
+      "sort_num": 0,
+      "tag": ""
     },
     {
+      "bug": 1379374,
+      "created": "2017-08-16T14:36:32.883000+00:00",
+      "is_public": true,
+      "modified": "2017-08-16T14:48:56.335000+00:00",
       "note": "Fix an issue with tab restoration ([Bug 1379374][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1379374",
-      "is_public": true,
-      "tag": "Fixed",
-      "bug": 1379374
+      "sort_num": 1000,
+      "tag": "Fixed"
     },
     {
+      "bug": 1386027,
+      "created": "2017-08-16T14:40:51.033000+00:00",
+      "is_public": true,
+      "modified": "2017-08-16T14:40:51.032000+00:00",
       "note": "Fix a crash with Telemetry ([Bug 1386027][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1386027",
-      "is_public": true,
-      "tag": "Fixed",
-      "bug": 1386027
+      "sort_num": 0,
+      "tag": "Fixed"
     },
     {
+      "bug": 1390022,
+      "created": "2017-08-16T14:43:15.114000+00:00",
+      "is_public": true,
+      "modified": "2017-08-16T14:43:15.113000+00:00",
       "note": "Blacklisting of Galaxy S4 SPH-L720 model for the adaptive playback feature ([Bug 1390022][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1390022",
-      "is_public": true,
-      "tag": "Fixed",
-      "bug": 1390022
+      "sort_num": 0,
+      "tag": "Fixed"
     },
     {
-      "note": "Disable the predictor prefetch ([bug 1388160][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1388160",
+      "bug": 1388160,
+      "created": "2017-08-10T14:21:04.723000+00:00",
       "is_public": true,
-      "tag": "Fixed",
-      "bug": 1388160
+      "modified": "2017-08-16T14:28:04.493000+00:00",
+      "note": "Disable the predictor prefetch ([bug 1388160][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1388160",
+      "sort_num": -1,
+      "tag": "Fixed"
     }
   ],
-  "text": "We'd also like to extend a special thank you to all of the [new Mozillians][1] who contributed to this release of Firefox!\r\n\r\n[1]: https://blog.mozilla.org/community/2017/08/02/firefox-55-new-contributors/",
+  "product": "Firefox for Android",
   "release_date": "2017-08-16",
   "slug": "firefox-for-android-55.0.2-release",
-  "version": "55.0.2",
-  "bug_search_url": "",
-  "is_public": true,
   "system_requirements": "## Operating systems\r\n - Android 4.0\r\n - Above versions\r\n\r\n## Requirements\r\n - 50 MB internal storage\r\n - 384 MB of RAM\r\n - display at least 320 pixels high and 240 pixels wide\r\n\r\n*Note: Firefox for Android 55 is the last version that supports devices running Android 4.0.*",
-  "channel": "Release"
+  "text": "We'd also like to extend a special thank you to all of the [new Mozillians][1] who contributed to this release of Firefox!\r\n\r\n[1]: https://blog.mozilla.org/community/2017/08/02/firefox-55-new-contributors/",
+  "title": "Firefox for Android 55.0.2 Release",
+  "version": "55.0.2"
 }

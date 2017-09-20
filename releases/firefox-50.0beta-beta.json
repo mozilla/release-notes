@@ -1,69 +1,98 @@
 {
-  "product": "Firefox",
   "bug_list": "",
-  "title": "Firefox 50.0beta Beta",
+  "bug_search_url": "",
+  "channel": "Beta",
+  "created": "2016-09-19T16:55:30.989000+00:00",
+  "is_public": true,
+  "modified": "2017-01-18T15:55:27.933000+00:00",
   "notes": [
     {
+      "bug": 1179961,
+      "created": "2015-11-02T09:39:00+00:00",
+      "is_public": true,
+      "modified": "2016-11-10T19:31:27.935000+00:00",
       "note": "Lock icon strikethrough for [pages containing insecure password fields][1]\r\n\r\n\r\n  [1]: https://blog.mozilla.org/tanvi/2016/01/28/no-more-passwords-over-http-please/",
-      "is_public": true,
-      "tag": "New",
-      "bug": 1179961
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": 962433,
+      "created": "2016-08-03T11:43:50.918000+00:00",
+      "is_public": true,
+      "modified": "2016-11-14T22:50:42.156000+00:00",
       "note": "Improved printing by using the Reader Mode",
-      "is_public": true,
-      "tag": "New",
-      "bug": 962433
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": 1116787,
+      "created": "2016-08-03T21:03:55.493000+00:00",
+      "is_public": true,
+      "modified": "2016-11-14T01:26:59.819000+00:00",
       "note": "New preference for allowing Ctrl+Tab to cycle through tabs in recently used order",
-      "is_public": true,
-      "tag": "New",
-      "bug": 1116787
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": 1144749,
+      "created": "2016-08-03T21:07:39.435000+00:00",
+      "is_public": true,
+      "modified": "2016-11-14T22:48:34.365000+00:00",
       "note": "Updates to keyboard shortcuts\r\n\r\n - Set a preference to have Ctrl+Tab cycle through tabs in recently used order \r\n - View a page in Reader Mode by using Ctrl+Alt+R (command+alt+r on Mac)\r\n",
-      "is_public": true,
-      "tag": "New",
-      "bug": 1144749
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": 269442,
+      "created": "2016-08-03T21:10:15.077000+00:00",
+      "is_public": true,
+      "modified": "2016-11-14T01:28:41.075000+00:00",
       "note": "Added option to Find in page that allows users to limit search to whole words only",
-      "is_public": true,
-      "tag": "New",
-      "bug": 269442
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": 1299346,
+      "created": "2016-09-19T16:58:51.988000+00:00",
+      "is_public": true,
+      "modified": "2016-11-14T01:29:06.046000+00:00",
       "note": "Added Guarani (gn) locale",
-      "is_public": true,
-      "tag": "New",
-      "bug": 1299346
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": 1231701,
+      "created": "2016-08-03T21:08:46.672000+00:00",
+      "is_public": true,
+      "modified": "2016-11-14T01:28:15.341000+00:00",
       "note": "Added a built-in Emoji set for operating systems without native Emoji fonts (Windows 8.0 and lower and Linux)",
-      "is_public": true,
-      "tag": "Changed",
-      "bug": 1231701
+      "sort_num": 0,
+      "tag": "Changed"
     },
     {
+      "bug": null,
+      "created": "2016-05-18T19:35:47.201000+00:00",
+      "is_public": true,
+      "modified": "2016-11-10T19:23:22.975000+00:00",
       "note": "[Changes for web developers][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/Firefox/Releases/50#Changes_for_Web_developers",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": null
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
-      "note": "Fixed rendering of dashed and dotted borders with rounded corners ([border-radius][1])\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/border-radius",
+      "bug": 382721,
+      "created": "2016-09-19T16:58:16.479000+00:00",
       "is_public": true,
-      "tag": "Fixed",
-      "bug": 382721
+      "modified": "2016-11-10T19:23:22.975000+00:00",
+      "note": "Fixed rendering of dashed and dotted borders with rounded corners ([border-radius][1])\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/border-radius",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
-  "text": "",
+  "product": "Firefox",
   "release_date": "2016-09-20",
   "slug": "firefox-50.0beta-beta",
-  "version": "50.0beta",
-  "bug_search_url": "",
-  "is_public": true,
   "system_requirements": "## Windows\r\n\r\n### Operating Systems (32-bit and 64-bit)\r\n - Windows XP SP2\r\n - Windows Server 2003 SP1\r\n - Windows Vista\r\n - Windows 7\r\n - Windows 8\r\n - Windows 10\r\n\r\n*Please note that 64-bit builds of Firefox are only supported on Windows 7 and higher.*\r\n\r\n*To install [Firefox on a Windows XP system][1], because of Windows restrictions, the user will have to download Firefox 43.0.1 and then update to the current release.*\r\n\r\n### Recommended Hardware\r\n-  Pentium 4 or newer processor that supports SSE2\r\n-  512MB of RAM\r\n-  200MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- Mac OS X 10.9\r\n- Mac OS X 10.10\r\n- Mac OS X 10.11\r\n\r\n### Recommended Hardware\r\n- Macintosh computer with an Intel x86 processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - GTK+ 3.4 or higher\r\n    - GLib 2.22 or higher\r\n    - Pango 1.14 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n    - libstdc++ 4.6.1 or higher\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - NetworkManager 0.7 or higher\r\n    - DBus 1.0 or higher\r\n    - HAL 0.5.8 or higher\r\n    - GNOME 2.16 or higher\r\n\r\n  [1]: https://support.mozilla.org/kb/get-latest-version-firefox-windows-xp-vista",
-  "channel": "Beta"
+  "text": "",
+  "title": "Firefox 50.0beta Beta",
+  "version": "50.0beta"
 }

@@ -1,39 +1,53 @@
 {
-  "product": "Firefox for Android",
   "bug_list": "",
-  "title": "Firefox for Android 54.0.1 Release",
+  "bug_search_url": "",
+  "channel": "Release",
+  "created": "2017-06-28T18:06:19.170000+00:00",
+  "is_public": true,
+  "modified": "2017-06-29T18:18:26.905000+00:00",
   "notes": [
     {
+      "bug": null,
+      "created": "2017-06-28T18:16:58.473000+00:00",
+      "is_public": true,
+      "modified": "2017-06-28T18:16:58.473000+00:00",
       "note": "Reference link to [54.0 release notes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/en-US/firefox/android/54.0/releasenotes/",
-      "is_public": true,
-      "tag": "",
-      "bug": null
+      "sort_num": 0,
+      "tag": ""
     },
     {
+      "bug": 1369281,
+      "created": "2017-06-28T18:17:52.216000+00:00",
+      "is_public": true,
+      "modified": "2017-06-28T18:44:09.767000+00:00",
       "note": "Fix an inconsistent locale display issue ([bug 1369281][1])\r\n\r\n[1]: https://bugzilla.mozilla.org/1369281",
-      "is_public": true,
-      "tag": "Fixed",
-      "bug": 1369281
+      "sort_num": 0,
+      "tag": "Fixed"
     },
     {
+      "bug": 1366352,
+      "created": "2017-06-28T18:18:34.289000+00:00",
+      "is_public": true,
+      "modified": "2017-06-28T18:44:24.723000+00:00",
       "note": "Fix a crash in tabs tray menu ([bug 1366352][1])\r\n\r\n[1]: https://bugzilla.mozilla.org/1366352",
-      "is_public": true,
-      "tag": "Fixed",
-      "bug": 1366352
+      "sort_num": 0,
+      "tag": "Fixed"
     },
     {
-      "note": "Fix for issues with navigation ([bug 1374200][1])\r\n\r\n[1]: https://bugzilla.mozilla.org/1374200",
+      "bug": 1374200,
+      "created": "2017-06-28T18:35:05.326000+00:00",
       "is_public": true,
-      "tag": "Fixed",
-      "bug": 1374200
+      "modified": "2017-06-28T18:44:41.595000+00:00",
+      "note": "Fix for issues with navigation ([bug 1374200][1])\r\n\r\n[1]: https://bugzilla.mozilla.org/1374200",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
-  "text": "Today's release is the first to run Firefox using multiple operating system processes for web page content, making Firefox faster and more stable than ever. Learn more about how multiple processes strike a \u201cjust right\u201d balance between performance and memory use on the Mozilla Blog. Dive into the details (including performance benchmarks) on Medium.\r\n\r\n<p>We'd also like to extend a special thank you to all of the <a href=\"http://blog.mozilla.org/community/2017/06/08/firefox-54-new-contributors/\">new Mozillians</a> who contributed to this release of Firefox!</p>",
+  "product": "Firefox for Android",
   "release_date": "2017-06-29",
   "slug": "firefox-for-android-54.0.1-release",
-  "version": "54.0.1",
-  "bug_search_url": "",
-  "is_public": true,
   "system_requirements": "## Operating systems\r\n - Android 4.0\r\n - Above versions\r\n\r\n## Requirements\r\n - 50 MB internal storage\r\n - 384 MB of RAM\r\n - display at least 320 pixels high and 240 pixels wide",
-  "channel": "Release"
+  "text": "Today's release is the first to run Firefox using multiple operating system processes for web page content, making Firefox faster and more stable than ever. Learn more about how multiple processes strike a \u201cjust right\u201d balance between performance and memory use on the Mozilla Blog. Dive into the details (including performance benchmarks) on Medium.\r\n\r\n<p>We'd also like to extend a special thank you to all of the <a href=\"http://blog.mozilla.org/community/2017/06/08/firefox-54-new-contributors/\">new Mozillians</a> who contributed to this release of Firefox!</p>",
+  "title": "Firefox for Android 54.0.1 Release",
+  "version": "54.0.1"
 }

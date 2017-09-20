@@ -1,93 +1,134 @@
 {
-  "product": "Firefox for Android",
   "bug_list": "",
-  "title": "Firefox for Android 42.0beta Beta",
+  "bug_search_url": "",
+  "channel": "Beta",
+  "created": "2015-05-11T23:35:24+00:00",
+  "is_public": true,
+  "modified": "2015-09-23T14:42:55+00:00",
   "notes": [
     {
+      "bug": 1029886,
+      "created": "2015-09-18T09:16:37+00:00",
+      "is_public": true,
+      "modified": "2015-10-23T14:59:49+00:00",
       "note": "Private Browsing with [Tracking Protection][1] blocks certain Web elements that could be used to record your behavior across sites\r\n\r\n\r\n  [1]: https://blog.mozilla.org/futurereleases/2015/09/23/help-test-private-browsing-with-tracking-protection-in-firefox-beta/",
-      "is_public": true,
-      "tag": "New",
-      "bug": 1029886
+      "sort_num": 10000,
+      "tag": "New"
     },
     {
+      "bug": 1112185,
+      "created": "2015-07-03T15:56:05+00:00",
+      "is_public": true,
+      "modified": "2015-10-23T14:59:49+00:00",
       "note": "Open external URLs from Android apps [in the background][1]\r\n\r\n[1]: https://medium.com/@antlam/open-multiple-links-1ce475c47de3",
-      "is_public": true,
-      "tag": "New",
-      "bug": 1112185
+      "sort_num": 80,
+      "tag": "New"
     },
     {
-      "note": "Scan an URL from a QR code from the search panel",
+      "bug": 602818,
+      "created": "2015-07-03T16:09:00+00:00",
       "is_public": false,
-      "tag": "New",
-      "bug": 602818
+      "modified": "2015-10-23T14:59:49+00:00",
+      "note": "Scan an URL from a QR code from the search panel",
+      "sort_num": 60,
+      "tag": "New"
     },
     {
+      "bug": 1125984,
+      "created": "2015-09-23T13:20:52+00:00",
+      "is_public": true,
+      "modified": "2015-10-26T10:03:37+00:00",
       "note": "Family-friendly browsing for Android when users create a restricted profile on tablets",
-      "is_public": true,
-      "tag": "New",
-      "bug": 1125984
+      "sort_num": 2,
+      "tag": "New"
     },
     {
+      "bug": 1170786,
+      "created": "2015-08-14T12:13:41+00:00",
+      "is_public": true,
+      "modified": "2015-10-28T12:28:11+00:00",
       "note": "Mobile login manager (about:logins) lists all saved logins and allows users to view/edit or delete logins",
-      "is_public": true,
-      "tag": "New",
-      "bug": 1170786
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": 778588,
+      "created": "2015-09-18T09:33:51+00:00",
+      "is_public": true,
+      "modified": "2015-10-26T14:30:45+00:00",
       "note": "Support direct voice input for searching from the URL bar",
-      "is_public": true,
-      "tag": "New",
-      "bug": 778588
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": 1073053,
+      "created": "2015-09-23T13:40:41+00:00",
+      "is_public": true,
+      "modified": "2015-10-26T09:31:29+00:00",
       "note": "Use scrollable tabs for panels navigation",
-      "is_public": true,
-      "tag": "New",
-      "bug": 1073053
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": 1180118,
+      "created": "2015-08-12T13:58:52+00:00",
+      "is_public": true,
+      "modified": "2015-10-23T14:59:49+00:00",
       "note": "Improved performance on interactive websites that trigger a lot of restyles",
-      "is_public": true,
-      "tag": "Changed",
-      "bug": 1180118
+      "sort_num": -1,
+      "tag": "Changed"
     },
     {
+      "bug": 987514,
+      "created": "2015-08-12T12:14:41+00:00",
+      "is_public": true,
+      "modified": "2015-10-23T14:59:49+00:00",
       "note": "Implemented [ES6 Reflect][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Reflect",
-      "is_public": true,
-      "tag": "HTML5",
-      "bug": 987514
+      "sort_num": 0,
+      "tag": "HTML5"
     },
     {
+      "bug": 1044102,
+      "created": "2015-09-01T11:42:18+00:00",
+      "is_public": true,
+      "modified": "2015-10-23T14:59:49+00:00",
       "note": "Support [ImageBitmap][1] and [createImageBitmap()][2]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/ImageBitmap\r\n  [2]: https://developer.mozilla.org/en-US/docs/Web/API/CreateImageBitmap",
-      "is_public": true,
-      "tag": "HTML5",
-      "bug": 1044102
+      "sort_num": 0,
+      "tag": "HTML5"
     },
     {
+      "bug": 1185611,
+      "created": "2015-10-02T10:05:49+00:00",
+      "is_public": true,
+      "modified": "2015-10-23T14:59:49+00:00",
       "note": "Media Source Extension for HTML5 video available for all sites",
-      "is_public": true,
-      "tag": "HTML5",
-      "bug": 1185611
+      "sort_num": 0,
+      "tag": "HTML5"
     },
     {
+      "bug": 1180996,
+      "created": "2015-08-12T13:20:36+00:00",
+      "is_public": true,
+      "modified": "2015-10-23T14:59:49+00:00",
       "note": "[Remote website debugging][1] over WiFi (no USB cable or ADB needed)\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Tools/Remote_Debugging/Debugging_Firefox_for_Android_over_Wifi\r\n",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": 1180996
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
-      "note": "URLs containing a Unicode-format Internationalized Domain Name (IDN) are not redirected properly, leading to a *Server Not Found* error.",
+      "bug": 1142083,
+      "created": "2015-10-23T15:29:39+00:00",
       "is_public": true,
-      "tag": "Known",
-      "bug": 1142083
+      "modified": "2015-10-23T15:29:40+00:00",
+      "note": "URLs containing a Unicode-format Internationalized Domain Name (IDN) are not redirected properly, leading to a *Server Not Found* error.",
+      "sort_num": 0,
+      "tag": "Known"
     }
   ],
-  "text": "",
+  "product": "Firefox for Android",
   "release_date": "2015-09-23",
   "slug": "firefox-for-android-42.0beta-beta",
-  "version": "42.0beta",
-  "bug_search_url": "",
-  "is_public": true,
   "system_requirements": "",
-  "channel": "Beta"
+  "text": "",
+  "title": "Firefox for Android 42.0beta Beta",
+  "version": "42.0beta"
 }

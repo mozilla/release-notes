@@ -1,93 +1,134 @@
 {
-  "product": "Firefox for Android",
   "bug_list": "",
-  "title": "Firefox for Android 46.0 Release",
+  "bug_search_url": "",
+  "channel": "Release",
+  "created": "2016-01-22T20:22:06.382000+00:00",
+  "is_public": true,
+  "modified": "2016-04-26T19:00:18.706000+00:00",
   "notes": [
     {
+      "bug": 1241596,
+      "created": "2016-01-25T16:17:15.087000+00:00",
+      "is_public": true,
+      "modified": "2016-04-15T19:09:52.375000+00:00",
       "note": "Notifications about [tabs opened in the background][1] now list the URLs\r\n\r\n\r\n  [1]: https://support.mozilla.org/en-US/kb/open-links-background-later-viewing-firefox-android",
-      "is_public": true,
-      "tag": "New",
-      "bug": 1241596
+      "sort_num": 90,
+      "tag": "New"
     },
     {
+      "bug": 1212830,
+      "created": "2016-01-25T16:03:53.572000+00:00",
+      "is_public": true,
+      "modified": "2016-04-15T19:09:52.375000+00:00",
       "note": "[Firefox will request permissions][1] at runtime instead of installation time (Android 6.0+)\r\n\r\n\r\n  [1]: https://support.mozilla.org/en-US/kb/how-firefox-android-use-permissions-it-requests",
-      "is_public": true,
-      "tag": "New",
-      "bug": 1212830
+      "sort_num": 85,
+      "tag": "New"
     },
     {
+      "bug": 826400,
+      "created": "2016-01-27T22:12:45.793000+00:00",
+      "is_public": true,
+      "modified": "2016-04-15T19:09:52.375000+00:00",
       "note": "Clearer homescreen shortcut icons",
-      "is_public": true,
-      "tag": "New",
-      "bug": 826400
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": 1229862,
+      "created": "2016-01-27T22:40:29.849000+00:00",
+      "is_public": true,
+      "modified": "2016-04-15T19:09:52.375000+00:00",
       "note": "Include [default domains for inline autocompletion][1]\r\n\r\n\r\n  [1]: https://gecko.readthedocs.org/en/latest/mobile/android/fennec/defaultdomains.html#domain-auto-completion",
-      "is_public": true,
-      "tag": "New",
-      "bug": 1229862
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": 1231792,
+      "created": "2016-03-04T04:22:51.937000+00:00",
+      "is_public": true,
+      "modified": "2016-04-15T19:09:52.375000+00:00",
       "note": " History and Bookmarks items added to menu",
-      "is_public": true,
-      "tag": "New",
-      "bug": 1231792
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": 1244329,
+      "created": "2016-04-15T20:08:51.244000+00:00",
+      "is_public": true,
+      "modified": "2016-04-26T19:38:00.217000+00:00",
       "note": "[Add-ons that have not been verified and signed][1] by Mozilla will not load\r\n\r\n  \r\n  [1]: https://blog.mozilla.org/addons/2016/03/17/add-on-signing-enforcement-in-firefox-46-for-android/",
-      "is_public": true,
-      "tag": "New",
-      "bug": 1244329
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": null,
+      "created": "2016-04-26T19:00:13.169000+00:00",
+      "is_public": true,
+      "modified": "2016-04-26T19:00:13.537000+00:00",
       "note": "Various [security fixes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/en-US/security/known-vulnerabilities/firefox/#firefox46",
-      "is_public": true,
-      "tag": "",
-      "bug": null
+      "sort_num": 0,
+      "tag": ""
     },
     {
+      "bug": 1155801,
+      "created": "2016-01-25T15:17:31.505000+00:00",
+      "is_public": true,
+      "modified": "2016-04-15T19:09:52.375000+00:00",
       "note": "Dropped support for Android Honeycomb (version 3)",
-      "is_public": true,
-      "tag": "Changed",
-      "bug": 1155801
+      "sort_num": 0,
+      "tag": "Changed"
     },
     {
+      "bug": 1216987,
+      "created": "2016-01-27T21:56:43.404000+00:00",
+      "is_public": true,
+      "modified": "2016-04-15T19:09:52.375000+00:00",
       "note": "Top Sites panel now lists popular sites by default",
-      "is_public": true,
-      "tag": "Changed",
-      "bug": 1216987
+      "sort_num": 0,
+      "tag": "Changed"
     },
     {
+      "bug": 1220906,
+      "created": "2016-03-04T04:39:27.827000+00:00",
+      "is_public": true,
+      "modified": "2016-04-22T19:32:04.489000+00:00",
       "note": "[Removed support][1] for Firefox Sync 1.1 in favor of Firefox Accounts \r\n\r\n\r\n  [1]: https://blog.mozilla.org/services/2015/07/31/shutting-down-the-legacy-sync-service/",
-      "is_public": true,
-      "tag": "Changed",
-      "bug": 1220906
+      "sort_num": 0,
+      "tag": "Changed"
     },
     {
+      "bug": 1178925,
+      "created": "2016-04-21T21:00:38.849000+00:00",
+      "is_public": true,
+      "modified": "2016-04-21T21:07:48.198000+00:00",
       "note": "Added Kaqchikel locale",
-      "is_public": true,
-      "tag": "Language",
-      "bug": 1178925
+      "sort_num": 0,
+      "tag": "Language"
     },
     {
+      "bug": 1044556,
+      "created": "2016-04-21T18:57:37.439000+00:00",
+      "is_public": true,
+      "modified": "2016-04-26T18:51:38.953000+00:00",
       "note": "Keep track of tab history under memory pressure",
-      "is_public": true,
-      "tag": "Fixed",
-      "bug": 1044556
+      "sort_num": 0,
+      "tag": "Fixed"
     },
     {
-      "note": "Text to speech function in TalkBack now works while users swipe right",
+      "bug": 1248408,
+      "created": "2016-04-21T22:05:21.140000+00:00",
       "is_public": true,
-      "tag": "Fixed",
-      "bug": 1248408
+      "modified": "2016-04-21T22:05:21.966000+00:00",
+      "note": "Text to speech function in TalkBack now works while users swipe right",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
-  "text": "<p>We'd also like to extend a special thank you to all of the <a href=\"http://blog.mozilla.org/community/2016/04/22/firefox-46-new-contributors/\">new Mozillians</a> who contributed to this release of Firefox!</p> ",
+  "product": "Firefox for Android",
   "release_date": "2016-04-26",
   "slug": "firefox-for-android-46.0-release",
-  "version": "46.0",
-  "bug_search_url": "",
-  "is_public": true,
   "system_requirements": "## Operating systems\r\n - Android 2.3\r\n - Android 4.0\r\n - Above versions\r\n\r\n## Requirements\r\n - 50 MB internal storage\r\n - 384 MB of RAM\r\n - display at least 320 pixels high and 240 pixels wide",
-  "channel": "Release"
+  "text": "<p>We'd also like to extend a special thank you to all of the <a href=\"http://blog.mozilla.org/community/2016/04/22/firefox-46-new-contributors/\">new Mozillians</a> who contributed to this release of Firefox!</p> ",
+  "title": "Firefox for Android 46.0 Release",
+  "version": "46.0"
 }

@@ -1,155 +1,223 @@
 {
-  "product": "Firefox for Android",
   "bug_list": "",
-  "title": "Firefox for Android 32.0 Release",
+  "bug_search_url": "",
+  "channel": "Release",
+  "created": "2014-05-07T02:09:08+00:00",
+  "is_public": true,
+  "modified": "2014-09-02T06:57:49+00:00",
   "notes": [
     {
+      "bug": 917480,
+      "created": "2014-05-14T04:39:04+00:00",
+      "is_public": true,
+      "modified": "2014-09-23T08:43:43+00:00",
       "note": "Switch between any of Firefox for Android's 55 supported languages without leaving the browser",
-      "is_public": true,
-      "tag": "New",
-      "bug": 917480
+      "sort_num": 2200,
+      "tag": "New"
     },
     {
+      "bug": 998009,
+      "created": "2014-06-05T17:18:37+00:00",
+      "is_public": true,
+      "modified": "2014-09-23T08:43:43+00:00",
       "note": "Clear History control added to the history panel",
-      "is_public": true,
-      "tag": "New",
-      "bug": 998009
+      "sort_num": 2000,
+      "tag": "New"
     },
     {
+      "bug": null,
+      "created": "2014-03-04T09:50:26+00:00",
+      "is_public": true,
+      "modified": "2014-09-23T08:43:43+00:00",
       "note": "[Gamepad API][1] finalized and enabled\r\n\r\n[1]: https://hacks.mozilla.org/2013/12/the-gamepad-api/",
-      "is_public": true,
-      "tag": "New",
-      "bug": null
+      "sort_num": 1800,
+      "tag": "New"
     },
     {
+      "bug": 913806,
+      "created": "2014-07-17T09:19:54+00:00",
+      "is_public": true,
+      "modified": "2014-09-23T08:43:43+00:00",
       "note": "[New HTTP cache][1] provides improved performance including crash recovery\r\n\r\n  [1]: http://www.janbambas.cz/new-firefox-http-cache-enabled/",
-      "is_public": true,
-      "tag": "New",
-      "bug": 913806
+      "sort_num": 100,
+      "tag": "New"
     },
     {
+      "bug": 619558,
+      "created": "2014-04-09T06:54:25+00:00",
+      "is_public": true,
+      "modified": "2014-09-23T08:43:43+00:00",
       "note": "Integration of generational garbage collection",
-      "is_public": true,
-      "tag": "New",
-      "bug": 619558
+      "sort_num": 80,
+      "tag": "New"
     },
     {
+      "bug": 994472,
+      "created": "2014-05-26T09:20:40+00:00",
+      "is_public": true,
+      "modified": "2014-09-23T08:43:43+00:00",
       "note": " Support URI autocomplete on Swype (and other composition focused) keyboards",
-      "is_public": true,
-      "tag": "New",
-      "bug": 994472
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": null,
+      "created": "2014-08-28T11:45:44+00:00",
+      "is_public": true,
+      "modified": "2014-09-23T08:43:43+00:00",
       "note": "Locales added: Armenian [hy-AM], Basque [eu], Fulah [ff], Icelandic [is], Scottish Gaelic [gd], Welsh [cy]\r\n    \r\n",
-      "is_public": true,
-      "tag": "New",
-      "bug": null
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": 1040319,
+      "created": "2014-07-24T21:38:43+00:00",
+      "is_public": true,
+      "modified": "2014-09-23T08:43:43+00:00",
       "note": "Android 2.2 and ARMv6 processor chipset no longer supported",
-      "is_public": true,
-      "tag": "Changed",
-      "bug": 1040319
+      "sort_num": 1900,
+      "tag": "Changed"
     },
     {
+      "bug": 1029561,
+      "created": "2014-07-17T15:06:47+00:00",
+      "is_public": true,
+      "modified": "2014-09-23T08:43:43+00:00",
       "note": "Removed and turned off trust bit for [some 1024-bit root certificates][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/NSS_3.16.3_release_notes#Notable_Changes_in_NSS_3.16.3",
-      "is_public": true,
-      "tag": "Changed",
-      "bug": 1029561
+      "sort_num": 0,
+      "tag": "Changed"
     },
     {
+      "bug": 958889,
+      "created": "2014-09-02T05:45:05+00:00",
+      "is_public": true,
+      "modified": "2014-09-23T08:43:43+00:00",
       "note": "Set up Sync from the tabs tray",
-      "is_public": true,
-      "tag": "Changed",
-      "bug": 958889
+      "sort_num": 0,
+      "tag": "Changed"
     },
     {
+      "bug": 988366,
+      "created": "2014-09-02T05:46:18+00:00",
+      "is_public": true,
+      "modified": "2014-09-23T08:43:43+00:00",
       "note": "Top Sites has a cleaner, fresher looking first-run appearance",
-      "is_public": true,
-      "tag": "Changed",
-      "bug": 988366
+      "sort_num": 0,
+      "tag": "Changed"
     },
     {
+      "bug": 916315,
+      "created": "2014-03-26T16:24:31+00:00",
+      "is_public": true,
+      "modified": "2014-09-23T08:43:43+00:00",
       "note": "CSS [position:sticky][1] enabled by default\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/position",
-      "is_public": true,
-      "tag": "HTML5",
-      "bug": 916315
+      "sort_num": 0,
+      "tag": "HTML5"
     },
     {
+      "bug": 952643,
+      "created": "2014-05-07T02:13:02+00:00",
+      "is_public": true,
+      "modified": "2014-09-23T08:43:43+00:00",
       "note": "mix-blend-mode enabled by default ",
-      "is_public": true,
-      "tag": "HTML5",
-      "bug": 952643
+      "sort_num": 0,
+      "tag": "HTML5"
     },
     {
+      "bug": 904723,
+      "created": "2014-07-17T06:39:57+00:00",
+      "is_public": true,
+      "modified": "2014-09-23T08:43:43+00:00",
       "note": "New Array built-in: [Array.from()][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/from",
-      "is_public": true,
-      "tag": "HTML5",
-      "bug": 904723
+      "sort_num": 0,
+      "tag": "HTML5"
     },
     {
+      "bug": 889335,
+      "created": "2014-07-17T08:00:27+00:00",
+      "is_public": true,
+      "modified": "2014-09-23T08:43:43+00:00",
       "note": "[navigator.languages property][1] and [languagechange event][1] implemented\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/NavigatorLanguage.languages",
-      "is_public": true,
-      "tag": "HTML5",
-      "bug": 889335
+      "sort_num": 0,
+      "tag": "HTML5"
     },
     {
+      "bug": 1014581,
+      "created": "2014-07-17T14:59:00+00:00",
+      "is_public": true,
+      "modified": "2014-09-23T08:43:43+00:00",
       "note": "Vibration API updated to latest W3C spec",
-      "is_public": true,
-      "tag": "HTML5",
-      "bug": 1014581
+      "sort_num": 0,
+      "tag": "HTML5"
     },
     {
+      "bug": 1006326,
+      "created": "2014-07-17T15:20:38+00:00",
+      "is_public": true,
+      "modified": "2014-09-23T08:43:43+00:00",
       "note": "[CSS box-decoration-break replaces -moz-background-inline-policy][1]\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/-moz-background-inline-policy",
-      "is_public": true,
-      "tag": "HTML5",
-      "bug": 1006326
+      "sort_num": 0,
+      "tag": "HTML5"
     },
     {
+      "bug": 1006326,
+      "created": "2014-08-28T06:47:55+00:00",
+      "is_public": true,
+      "modified": "2014-09-23T08:43:43+00:00",
       "note": "[box-decoration-break][1] enabled by default\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/box-decoration-break",
-      "is_public": true,
-      "tag": "HTML5",
-      "bug": 1006326
+      "sort_num": 0,
+      "tag": "HTML5"
     },
     {
+      "bug": 1010986,
+      "created": "2014-09-02T05:43:27+00:00",
+      "is_public": true,
+      "modified": "2014-09-23T08:43:43+00:00",
       "note": "Improvements to [home panel add-on API][1]\r\n\r\n  [1]: https://hacks.mozilla.org/2014/07/building-firefox-hub-add-ons-for-firefox-for-android/",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": 1010986
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
+      "bug": null,
+      "created": "2013-11-25T00:24:50+00:00",
+      "is_public": true,
+      "modified": "2015-03-26T15:55:42+00:00",
       "note": "Various <a href=\"https://www.mozilla.org/security/known-vulnerabilities/firefox.html\">security fixes</a>",
-      "is_public": true,
-      "tag": "Fixed",
-      "bug": null
+      "sort_num": 0,
+      "tag": "Fixed"
     },
     {
-      "note": "MP4 videos will not play on Android L",
-      "is_public": true,
-      "tag": "Known",
       "bug": 1050832,
+      "created": "2014-08-28T04:52:53+00:00",
       "fixed_in_release": {
-        "product": "Firefox",
-        "title": "Firefox 34.0beta Beta",
-        "version": "34.0beta",
+        "channel": "Beta",
         "is_public": true,
+        "product": "Firefox",
         "slug": "firefox-34.0beta-beta",
-        "channel": "Beta"
-      }
+        "title": "Firefox 34.0beta Beta",
+        "version": "34.0beta"
+      },
+      "is_public": true,
+      "modified": "2014-11-24T22:42:39+00:00",
+      "note": "MP4 videos will not play on Android L",
+      "sort_num": 0,
+      "tag": "Known"
     },
     {
-      "note": "Flash does not work on Android L",
+      "bug": 1055166,
+      "created": "2014-08-28T11:37:24+00:00",
       "is_public": true,
-      "tag": "Known",
-      "bug": 1055166
+      "modified": "2014-11-24T22:35:46+00:00",
+      "note": "Flash does not work on Android L",
+      "sort_num": 0,
+      "tag": "Known"
     }
   ],
-  "text": " <p>We'd also like to extend a special thank you to all of the <a href=\"http://blog.mozilla.org/community/2014/08/29/firefox-32-new-contributors/\">new Mozillians</a> who contributed to this release of Firefox!</p>",
+  "product": "Firefox for Android",
   "release_date": "2014-09-02",
   "slug": "firefox-for-android-32.0-release",
-  "version": "32.0",
-  "bug_search_url": "",
-  "is_public": true,
   "system_requirements": " ",
-  "channel": "Release"
+  "text": " <p>We'd also like to extend a special thank you to all of the <a href=\"http://blog.mozilla.org/community/2014/08/29/firefox-32-new-contributors/\">new Mozillians</a> who contributed to this release of Firefox!</p>",
+  "title": "Firefox for Android 32.0 Release",
+  "version": "32.0"
 }

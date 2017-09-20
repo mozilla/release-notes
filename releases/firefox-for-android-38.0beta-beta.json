@@ -1,99 +1,143 @@
 {
-  "product": "Firefox for Android",
   "bug_list": "",
-  "title": "Firefox for Android 38.0beta Beta",
+  "bug_search_url": "",
+  "channel": "Beta",
+  "created": "2015-01-13T16:13:45+00:00",
+  "is_public": true,
+  "modified": "2015-04-01T19:22:58+00:00",
   "notes": [
     {
+      "bug": null,
+      "created": "2015-05-07T09:07:45+00:00",
+      "is_public": true,
+      "modified": "2015-05-14T23:51:59+00:00",
       "note": "Improved user interfaces:\r\n\r\n - New \"Welcome Screen\"\r\n - Reader View controls (on Tablets and Phones)\r\n - \"Synced Tabs\" panel new layout (on Tablets)\r\n - \"[Add to Firefox][1]\" feature (from outside Firefox)\r\n\r\n[1]: https://medium.com/@antlam/share-to-firefox-245984b2da33",
-      "is_public": true,
-      "tag": "New",
-      "bug": null
+      "sort_num": 100,
+      "tag": "New"
     },
     {
+      "bug": 33339,
+      "created": "2015-04-02T17:42:17+00:00",
+      "is_public": true,
+      "modified": "2015-05-14T23:51:56+00:00",
       "note": "[Ruby annotation][1] support\r\n\r\n\r\n  [1]: https://hacks.mozilla.org/2015/03/ruby-support-in-firefox-developer-edition-38/",
-      "is_public": true,
-      "tag": "New",
-      "bug": 33339
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": null,
+      "created": "2015-05-07T09:09:41+00:00",
+      "is_public": true,
+      "modified": "2015-05-14T23:51:58+00:00",
       "note": "Support for the Android L theme",
-      "is_public": true,
-      "tag": "New",
-      "bug": null
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": null,
+      "created": "2015-05-07T09:11:39+00:00",
+      "is_public": true,
+      "modified": "2015-05-14T23:51:53+00:00",
       "note": "Send a tab to another connected device with the 'Send to device' option in the \"share\" menu",
-      "is_public": true,
-      "tag": "New",
-      "bug": null
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": null,
+      "created": "2015-05-07T09:13:11+00:00",
+      "is_public": true,
+      "modified": "2015-05-14T23:51:55+00:00",
       "note": "Add a website to your Reading List with the \"Add to Reading List\" button in the overflow menu",
-      "is_public": true,
-      "tag": "New",
-      "bug": null
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": 1144119,
+      "created": "2015-03-25T14:00:27+00:00",
+      "is_public": true,
+      "modified": "2015-05-14T23:51:51+00:00",
       "note": "Locale added: Azerbaijani (az)",
-      "is_public": true,
-      "tag": "New",
-      "bug": 1144119
+      "sort_num": -1,
+      "tag": "New"
     },
     {
+      "bug": 1025703,
+      "created": "2015-02-20T00:31:57+00:00",
+      "is_public": true,
+      "modified": "2015-05-14T23:51:44+00:00",
       "note": "autocomplete=off is no longer supported for username/password fields",
-      "is_public": true,
-      "tag": "Changed",
-      "bug": 1025703
+      "sort_num": 0,
+      "tag": "Changed"
     },
     {
+      "bug": 1130798,
+      "created": "2015-02-20T00:40:28+00:00",
+      "is_public": true,
+      "modified": "2015-05-14T23:51:47+00:00",
       "note": "RegExp.prototype.source now returns \"(?:)\" instead of the empty string for empty regular expressions",
-      "is_public": true,
-      "tag": "Changed",
-      "bug": 1130798
+      "sort_num": 0,
+      "tag": "Changed"
     },
     {
+      "bug": 1009122,
+      "created": "2015-02-20T01:17:13+00:00",
+      "is_public": true,
+      "modified": "2015-05-14T23:51:46+00:00",
       "note": "Improved page load times via speculative connection warmup",
-      "is_public": true,
-      "tag": "Changed",
-      "bug": 1009122
+      "sort_num": 0,
+      "tag": "Changed"
     },
     {
+      "bug": 504553,
+      "created": "2014-10-17T12:27:04+00:00",
+      "is_public": true,
+      "modified": "2015-05-14T23:51:43+00:00",
       "note": "WebSocket now available in Web Workers",
-      "is_public": true,
-      "tag": "HTML5",
-      "bug": 504553
+      "sort_num": 0,
+      "tag": "HTML5"
     },
     {
+      "bug": 966439,
+      "created": "2015-02-20T00:16:54+00:00",
+      "is_public": true,
+      "modified": "2015-05-14T23:51:41+00:00",
       "note": "[BroadcastChannel API implemented][1]\r\n\r\n[1]: https://hacks.mozilla.org/2015/02/broadcastchannel-api-in-firefox-38/",
-      "is_public": true,
-      "tag": "HTML5",
-      "bug": 966439
+      "sort_num": 0,
+      "tag": "HTML5"
     },
     {
+      "bug": 1017875,
+      "created": "2015-02-20T00:27:07+00:00",
+      "is_public": true,
+      "modified": "2015-05-14T23:51:40+00:00",
       "note": "Implemented srcset attribute and &lt;picture&gt; element for responsive images",
-      "is_public": true,
-      "tag": "HTML5",
-      "bug": 1017875
+      "sort_num": 0,
+      "tag": "HTML5"
     },
     {
+      "bug": 1126673,
+      "created": "2015-02-20T00:38:52+00:00",
+      "is_public": true,
+      "modified": "2015-05-14T23:51:38+00:00",
       "note": "Implemented DOM3 Events KeyboardEvent.code",
-      "is_public": true,
-      "tag": "HTML5",
-      "bug": 1126673
+      "sort_num": 0,
+      "tag": "HTML5"
     },
     {
-      "note": "WebRTC now has multistream and renegotiation support",
+      "bug": 1095218,
+      "created": "2015-02-20T15:57:03+00:00",
       "is_public": true,
-      "tag": "Developer",
-      "bug": 1095218
+      "modified": "2015-05-14T23:51:35+00:00",
+      "note": "WebRTC now has multistream and renegotiation support",
+      "sort_num": 0,
+      "tag": "Developer"
     }
   ],
-  "text": "",
+  "product": "Firefox for Android",
   "release_date": "2015-04-01",
   "slug": "firefox-for-android-38.0beta-beta",
-  "version": "38.0beta",
-  "bug_search_url": "",
-  "is_public": true,
   "system_requirements": "",
-  "channel": "Beta"
+  "text": "",
+  "title": "Firefox for Android 38.0beta Beta",
+  "version": "38.0beta"
 }

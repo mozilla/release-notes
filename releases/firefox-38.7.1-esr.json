@@ -1,27 +1,35 @@
 {
-  "product": "Firefox",
   "bug_list": "",
-  "title": "Firefox 38.7.1 ESR",
+  "bug_search_url": "",
+  "channel": "ESR",
+  "created": "2016-03-15T23:07:24.467000+00:00",
+  "is_public": true,
+  "modified": "2016-03-17T17:00:41.139000+00:00",
   "notes": [
     {
-      "note": "Disabled Graphite font shaping library",
+      "bug": 1255731,
+      "created": "2016-03-15T23:08:19.670000+00:00",
       "is_public": true,
-      "tag": "Changed",
-      "bug": 1255731
+      "modified": "2016-04-04T21:17:45.486000+00:00",
+      "note": "Disabled Graphite font shaping library",
+      "sort_num": 0,
+      "tag": "Changed"
     },
     {
-      "note": "Loading from history can show the wrong url in the location bar ([Bug 1256194][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1256194",
+      "bug": 1256194,
+      "created": "2016-03-15T23:09:59.304000+00:00",
       "is_public": true,
-      "tag": "Fixed",
-      "bug": 1256194
+      "modified": "2016-03-16T03:20:44.514000+00:00",
+      "note": "Loading from history can show the wrong url in the location bar ([Bug 1256194][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1256194",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
-  "text": "",
+  "product": "Firefox",
   "release_date": "2016-03-16",
   "slug": "firefox-38.7.1-esr",
-  "version": "38.7.1",
-  "bug_search_url": "",
-  "is_public": true,
   "system_requirements": "",
-  "channel": "ESR"
+  "text": "",
+  "title": "Firefox 38.7.1 ESR",
+  "version": "38.7.1"
 }

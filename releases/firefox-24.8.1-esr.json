@@ -1,35 +1,43 @@
 {
-  "product": "Firefox Extended Support Release",
   "bug_list": "",
-  "title": "Firefox Extended Support Release 24.8.1 ESR",
+  "bug_search_url": "",
+  "channel": "ESR",
+  "created": "2014-07-21T14:53:26+00:00",
+  "is_public": true,
+  "modified": "2014-09-24T11:33:33+00:00",
   "notes": [
     {
-      "note": "24.8.1: New security fixes can be [found here][1]\r\n\r\n[1]: https://www.mozilla.org/security/known-vulnerabilities/firefox.html",
-      "is_public": true,
-      "tag": "Fixed",
       "bug": 1069405,
+      "created": "2014-09-23T08:49:06+00:00",
       "fixed_in_release": {
-        "product": "Firefox Extended Support Release",
-        "title": "Firefox Extended Support Release 24.8.1 ESR",
-        "version": "24.8.1",
+        "channel": "ESR",
         "is_public": true,
+        "product": "Firefox Extended Support Release",
         "slug": "firefox-24.8.1-esr",
-        "channel": "ESR"
-      }
+        "title": "Firefox Extended Support Release 24.8.1 ESR",
+        "version": "24.8.1"
+      },
+      "is_public": true,
+      "modified": "2014-09-23T08:49:07+00:00",
+      "note": "24.8.1: New security fixes can be [found here][1]\r\n\r\n[1]: https://www.mozilla.org/security/known-vulnerabilities/firefox.html",
+      "sort_num": 13000,
+      "tag": "Fixed"
     },
     {
-      "note": "Security fixes can be found <a href=\"https://www.mozilla.org/security/known-vulnerabilities/firefoxESR.html\">here</a>",
+      "bug": null,
+      "created": "2013-11-25T00:24:50+00:00",
       "is_public": true,
-      "tag": "Fixed",
-      "bug": null
+      "modified": "2015-05-12T16:59:10+00:00",
+      "note": "Security fixes can be found <a href=\"https://www.mozilla.org/security/known-vulnerabilities/firefoxESR.html\">here</a>",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
-  "text": "",
+  "product": "Firefox Extended Support Release",
   "release_date": "2014-09-24",
   "slug": "firefox-24.8.1-esr",
-  "version": "24.8.1",
-  "bug_search_url": "",
-  "is_public": true,
   "system_requirements": "",
-  "channel": "ESR"
+  "text": "",
+  "title": "Firefox Extended Support Release 24.8.1 ESR",
+  "version": "24.8.1"
 }

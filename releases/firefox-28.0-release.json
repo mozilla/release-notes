@@ -1,89 +1,124 @@
 {
-  "product": "Firefox",
   "bug_list": "",
-  "title": "Firefox 28.0 Release",
+  "bug_search_url": "",
+  "channel": "Release",
+  "created": "2014-03-04T07:33:15+00:00",
+  "is_public": true,
+  "modified": "2014-06-13T16:41:03+00:00",
   "notes": [
     {
-      "note": "VP9 video decoding implemented",
-      "is_public": true,
-      "tag": "New",
-      "bug": null
-    },
-    {
-      "note": "Mac OS X: Notification Center support for web notifications",
-      "is_public": true,
-      "tag": "New",
-      "bug": null
-    },
-    {
-      "note": "Horizontal HTML5 audio/video volume control",
-      "is_public": true,
-      "tag": "New",
-      "bug": null
-    },
-    {
-      "note": "Support for Opus in WebM",
-      "is_public": true,
-      "tag": "New",
-      "bug": null
-    },
-    {
-      "note": "Now that spdy/3 is implemented support for spdy/2 has been removed and servers without spdy/3 will negotiate to http/1 without any penalty",
-      "is_public": true,
-      "tag": "Changed",
-      "bug": null
-    },
-    {
-      "note": "Support for MathML 2.0 'mathvariant' attribute",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": null
-    },
-    {
-      "note": "Background thread hang reporting",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": null
-    },
-    {
-      "note": "Support for multi-line flexbox in layout",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": null
-    },
-    {
-      "note": "Various <a href=\"https://www.mozilla.org/security/known-vulnerabilities/firefox.html\">security fixes</a>",
-      "is_public": true,
-      "tag": "Fixed",
-      "bug": null
-    },
-    {
-      "note": "Text Rendering Issues on Windows 7 with Platform Update KB2670838 (MSIE 10 Prerequisite) or on Windows 8.1 has a <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=812695#c414\">workaround</a> (see <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=812695\">812695</a>)",
-      "is_public": true,
-      "tag": "Known",
       "bug": null,
-      "fixed_in_release": {
-        "product": "Firefox",
-        "title": "Firefox 31.0 Release",
-        "version": "31.0",
-        "is_public": true,
-        "slug": "firefox-31.0-release",
-        "channel": "Release"
-      }
+      "created": "2014-03-04T09:51:55+00:00",
+      "is_public": true,
+      "modified": "2014-07-21T04:25:45+00:00",
+      "note": "VP9 video decoding implemented",
+      "sort_num": 500,
+      "tag": "New"
     },
     {
-      "note": "Echo cancellation on apprtc.appspot.com fails ([974537][1]) \r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=974537",
+      "bug": null,
+      "created": "2014-03-04T09:50:41+00:00",
       "is_public": true,
-      "tag": "Known",
-      "bug": 974537
+      "modified": "2014-07-21T04:13:54+00:00",
+      "note": "Mac OS X: Notification Center support for web notifications",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2014-03-04T09:50:53+00:00",
+      "is_public": true,
+      "modified": "2014-07-21T04:25:14+00:00",
+      "note": "Horizontal HTML5 audio/video volume control",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2014-03-04T09:51:05+00:00",
+      "is_public": true,
+      "modified": "2014-07-21T04:26:06+00:00",
+      "note": "Support for Opus in WebM",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2014-03-04T09:52:03+00:00",
+      "is_public": true,
+      "modified": "2014-07-21T04:27:20+00:00",
+      "note": "Now that spdy/3 is implemented support for spdy/2 has been removed and servers without spdy/3 will negotiate to http/1 without any penalty",
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
+      "bug": null,
+      "created": "2014-03-04T09:52:12+00:00",
+      "is_public": true,
+      "modified": "2014-07-21T04:28:31+00:00",
+      "note": "Support for MathML 2.0 'mathvariant' attribute",
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
+      "bug": null,
+      "created": "2014-03-04T09:52:24+00:00",
+      "is_public": true,
+      "modified": "2014-07-21T04:28:46+00:00",
+      "note": "Background thread hang reporting",
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
+      "bug": null,
+      "created": "2014-03-04T09:52:46+00:00",
+      "is_public": true,
+      "modified": "2014-07-21T04:28:16+00:00",
+      "note": "Support for multi-line flexbox in layout",
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
+      "bug": null,
+      "created": "2013-11-25T00:24:50+00:00",
+      "is_public": true,
+      "modified": "2015-03-26T15:55:42+00:00",
+      "note": "Various <a href=\"https://www.mozilla.org/security/known-vulnerabilities/firefox.html\">security fixes</a>",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2014-03-04T09:53:28+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": true,
+        "product": "Firefox",
+        "slug": "firefox-31.0-release",
+        "title": "Firefox 31.0 Release",
+        "version": "31.0"
+      },
+      "is_public": true,
+      "modified": "2014-07-21T04:19:48+00:00",
+      "note": "Text Rendering Issues on Windows 7 with Platform Update KB2670838 (MSIE 10 Prerequisite) or on Windows 8.1 has a <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=812695#c414\">workaround</a> (see <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=812695\">812695</a>)",
+      "sort_num": 0,
+      "tag": "Known"
+    },
+    {
+      "bug": 974537,
+      "created": "2014-03-26T16:57:53+00:00",
+      "is_public": true,
+      "modified": "2014-07-21T03:56:20+00:00",
+      "note": "Echo cancellation on apprtc.appspot.com fails ([974537][1]) \r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=974537",
+      "sort_num": 0,
+      "tag": "Known"
     }
   ],
-  "text": "Thanks to our contributors linkCheck out \"What\u2019s New\" and \"Known Issues\" for this version of Firefox below. As always, you\u2019re encouraged to [tell us what you think][1], or [file a bug in Bugzilla][2].\r\n\r\nWe'd also like extend a special thank you to all of the [new Mozillians][3] who contributed to Firefox 28!!\r\n\r\n\r\n  [1]: http://input.mozilla.com/feedback\r\n  [2]: https://bugzilla.mozilla.org/\r\n  [3]: https://blog.mozilla.org/community/2014/03/13/firefox-28-new-contributors/",
+  "product": "Firefox",
   "release_date": "2014-03-18",
   "slug": "firefox-28.0-release",
-  "version": "28.0",
-  "bug_search_url": "",
-  "is_public": true,
   "system_requirements": "## Windows\r\n\r\n### Operating Systems\r\n - Windows XP SP2\r\n - Windows Server 2003 SP1\r\n - Windows Vista\r\n - Windows 7\r\n - Windows 8\r\n\r\n*Please note that while the 32-bit and 64-bit versions of Windows Vista and Windows 7 can be used to run Firefox, only 32-bit builds of Firefox are supported at this time.*\r\n\r\n### Recommended Hardware\r\n-  Pentium 4 or newer processor that supports SSE2\r\n-  512MB of RAM\r\n-  200MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- Mac OS X 10.6\r\n- Mac OS X 10.7\r\n- Mac OS X 10.8\r\n- Mac OS X 10.9\r\n\r\n### Recommended Hardware\r\n- Macintosh computer with an Intel x86 processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - GTK+ 2.18 or higher\r\n    - GLib 2.22 or higher\r\n    - Pango 1.14 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n    - libstdc++ 4.3 or higher\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - NetworkManager 0.7 or higher\r\n    - DBus 1.0 or higher\r\n    - HAL 0.5.8 or higher\r\n    - GNOME 2.16 or higher",
-  "channel": "Release"
+  "text": "Thanks to our contributors linkCheck out \"What\u2019s New\" and \"Known Issues\" for this version of Firefox below. As always, you\u2019re encouraged to [tell us what you think][1], or [file a bug in Bugzilla][2].\r\n\r\nWe'd also like extend a special thank you to all of the [new Mozillians][3] who contributed to Firefox 28!!\r\n\r\n\r\n  [1]: http://input.mozilla.com/feedback\r\n  [2]: https://bugzilla.mozilla.org/\r\n  [3]: https://blog.mozilla.org/community/2014/03/13/firefox-28-new-contributors/",
+  "title": "Firefox 28.0 Release",
+  "version": "28.0"
 }

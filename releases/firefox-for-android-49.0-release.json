@@ -1,57 +1,80 @@
 {
-  "product": "Firefox for Android",
   "bug_list": "",
-  "title": "Firefox for Android 49.0 Release",
+  "bug_search_url": "",
+  "channel": "Release",
+  "created": "2016-09-01T03:35:43.571000+00:00",
+  "is_public": true,
+  "modified": "2016-09-23T18:59:47.082000+00:00",
   "notes": [
     {
+      "bug": 1127579,
+      "created": "2016-08-03T16:23:49.550000+00:00",
+      "is_public": true,
+      "modified": "2016-09-23T18:45:40.614000+00:00",
       "note": "Updated Firefox Login Manager to allow HTTPS pages to use saved HTTP logins. It\u2019s one more way Firefox is supporting [Let\u2019s Encrypt][1] and [helping users transition to a more secure web][2].\r\n\r\n\r\n  [1]: https://letsencrypt.org/\r\n  [2]: https://matthew.noorenberghe.com/blog/2016/08/filling-saved-http-logins-over-https-same-domain",
-      "is_public": true,
-      "tag": "New",
-      "bug": 1127579
+      "sort_num": 98,
+      "tag": "New"
     },
     {
+      "bug": 1266339,
+      "created": "2016-06-03T19:00:36.674000+00:00",
+      "is_public": true,
+      "modified": "2016-09-19T14:46:46.910000+00:00",
       "note": "Updated tab appearance and behavior\r\n\r\n - Outdated tabs are now hidden when restore tabs setting is set to \"Always restore\" \r\n - Remember scroll position and zoom level for open tabs \r\n - Updated media controls to avoid playing sounds from multiple tabs at once\r\n - Visual improvements in favicon display\r\n\r\n",
-      "is_public": true,
-      "tag": "New",
-      "bug": 1266339
+      "sort_num": 94,
+      "tag": "New"
     },
     {
+      "bug": 1268647,
+      "created": "2016-06-03T19:09:26.616000+00:00",
+      "is_public": true,
+      "modified": "2016-09-19T14:49:08.618000+00:00",
       "note": "Added tour of indispensable features like Reader View and Sync to First Run page",
-      "is_public": true,
-      "tag": "New",
-      "bug": 1268647
+      "sort_num": 70,
+      "tag": "New"
     },
     {
+      "bug": 1289224,
+      "created": "2016-08-03T11:34:55.218000+00:00",
+      "is_public": true,
+      "modified": "2016-09-01T03:35:43.588000+00:00",
       "note": "Locales added: Spanish from Chile (es-CL) and Norwegian (Nynorsk) (nn-NO)",
-      "is_public": true,
-      "tag": "New",
-      "bug": 1289224
+      "sort_num": -1,
+      "tag": "New"
     },
     {
+      "bug": 1296718,
+      "created": "2016-10-17T20:44:07.093000+00:00",
+      "is_public": true,
+      "modified": "2016-10-17T20:44:07.092000+00:00",
       "note": "Default search engine changed to Yahoo for Chinese (Traditional) locale.",
-      "is_public": true,
-      "tag": "Changed",
-      "bug": 1296718
+      "sort_num": 0,
+      "tag": "Changed"
     },
     {
+      "bug": 1206207,
+      "created": "2016-06-15T16:34:53.869000+00:00",
+      "is_public": true,
+      "modified": "2016-09-01T03:35:43.588000+00:00",
       "note": "Deliver asynchronous notifications via [Push API][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/API/Push_API",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": 1206207
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
-      "note": "Introduced [web speech synthesis API][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API#Speech_synthesis",
+      "bug": null,
+      "created": "2016-08-03T17:00:40.566000+00:00",
       "is_public": true,
-      "tag": "Developer",
-      "bug": null
+      "modified": "2016-09-23T18:45:40.614000+00:00",
+      "note": "Introduced [web speech synthesis API][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API#Speech_synthesis",
+      "sort_num": 0,
+      "tag": "Developer"
     }
   ],
-  "text": "<p>We'd also like to extend a special thank you to all of the <a href=\"https://blog.mozilla.org/community/2016/09/16/firefox-49-new-contributors/\">new Mozillians</a> who contributed to this release of Firefox!</p>",
+  "product": "Firefox for Android",
   "release_date": "2016-09-20",
   "slug": "firefox-for-android-49.0-release",
-  "version": "49.0",
-  "bug_search_url": "",
-  "is_public": true,
   "system_requirements": "## Operating systems\r\n - Android 4.0\r\n - Above versions\r\n\r\n## Requirements\r\n - 50 MB internal storage\r\n - 384 MB of RAM\r\n - display at least 320 pixels high and 240 pixels wide",
-  "channel": "Release"
+  "text": "<p>We'd also like to extend a special thank you to all of the <a href=\"https://blog.mozilla.org/community/2016/09/16/firefox-49-new-contributors/\">new Mozillians</a> who contributed to this release of Firefox!</p>",
+  "title": "Firefox for Android 49.0 Release",
+  "version": "49.0"
 }

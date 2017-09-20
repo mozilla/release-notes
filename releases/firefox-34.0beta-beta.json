@@ -1,157 +1,222 @@
 {
-  "product": "Firefox",
   "bug_list": "",
-  "title": "Firefox 34.0beta Beta",
+  "bug_search_url": "",
+  "channel": "Beta",
+  "created": "2014-07-24T06:34:13+00:00",
+  "is_public": true,
+  "modified": "2014-10-16T14:31:26+00:00",
   "notes": [
     {
+      "bug": 972014,
+      "created": "2014-10-14T16:08:57+00:00",
+      "is_public": true,
+      "modified": "2014-11-25T03:04:05+00:00",
       "note": "[Firefox Hello][1] real-time communication client\r\n [1]: http://blog.mozilla.org/futurereleases/2014/10/16/test-the-new-firefox-hello-webrtc-feature-in-firefox-beta",
-      "is_public": true,
-      "tag": "New",
-      "bug": 972014
+      "sort_num": 100,
+      "tag": "New"
     },
     {
+      "bug": 1007336,
+      "created": "2014-08-28T05:50:06+00:00",
+      "is_public": true,
+      "modified": "2014-11-25T04:07:39+00:00",
       "note": "Easily [switch themes/personas][1] directly in the Customizing mode\r\n\r\n[1]: http://msujaws.wordpress.com/2014/08/27/new-in-firefox-nightly-recommended-and-easy-theme-switching-through-customize-mode/",
-      "is_public": true,
-      "tag": "New",
-      "bug": 1007336
+      "sort_num": 90,
+      "tag": "New"
     },
     {
+      "bug": 758857,
+      "created": "2014-10-03T03:14:28+00:00",
+      "is_public": true,
+      "modified": "2014-11-26T22:13:19+00:00",
       "note": "Wikipedia search now uses HTTPS for secure searching (en-US only)",
-      "is_public": true,
-      "tag": "New",
-      "bug": 758857
+      "sort_num": 50,
+      "tag": "New"
     },
     {
+      "bug": 1047594,
+      "created": "2014-10-09T04:17:22+00:00",
+      "is_public": true,
+      "modified": "2015-02-20T08:34:34+00:00",
       "note": "Implementation of HTTP/2 (draft14) and ALPN",
-      "is_public": true,
-      "tag": "New",
-      "bug": 1047594
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": 286355,
+      "created": "2014-08-28T04:59:24+00:00",
+      "is_public": true,
+      "modified": "2014-11-25T03:04:05+00:00",
       "note": "Recover from a locked Firefox process in the \"Firefox is already running\" dialog on Windows",
-      "is_public": true,
-      "tag": "New",
-      "bug": 286355
+      "sort_num": -1,
+      "tag": "New"
     },
     {
+      "bug": 645416,
+      "created": "2014-07-17T07:38:48+00:00",
+      "is_public": true,
+      "modified": "2015-03-26T15:55:21+00:00",
       "note": "Support for the [ECMAScript 6 Symbol][1] data type added\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol\r\n",
-      "is_public": true,
-      "tag": "HTML5",
-      "bug": 645416
+      "sort_num": 0,
+      "tag": "HTML5"
     },
     {
+      "bug": 792439,
+      "created": "2014-08-28T05:14:19+00:00",
+      "is_public": true,
+      "modified": "2014-11-25T03:04:05+00:00",
       "note": "[ECMAScript 6 WeakSet][1] Implemented\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakSet",
-      "is_public": true,
-      "tag": "HTML5",
-      "bug": 792439
+      "sort_num": 0,
+      "tag": "HTML5"
     },
     {
+      "bug": 1038259,
+      "created": "2014-08-28T05:15:09+00:00",
+      "is_public": true,
+      "modified": "2014-11-25T03:04:05+00:00",
       "note": "[JavaScript Template Strings][1] Implemented\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/template_strings",
-      "is_public": true,
-      "tag": "HTML5",
-      "bug": 1038259
+      "sort_num": 0,
+      "tag": "HTML5"
     },
     {
+      "bug": 975744,
+      "created": "2014-08-28T05:51:56+00:00",
+      "is_public": true,
+      "modified": "2014-11-25T03:04:05+00:00",
       "note": "CSS3 Font variants and features control (e.g. kerning) implemented",
-      "is_public": true,
-      "tag": "HTML5",
-      "bug": 975744
+      "sort_num": 0,
+      "tag": "HTML5"
     },
     {
+      "bug": 1026398,
+      "created": "2014-09-02T02:07:22+00:00",
+      "is_public": true,
+      "modified": "2014-11-25T03:04:05+00:00",
       "note": "WebCrypto: RSA-OAEP, PBKDF2 and AES-KW support",
-      "is_public": true,
-      "tag": "HTML5",
-      "bug": 1026398
+      "sort_num": 0,
+      "tag": "HTML5"
     },
     {
+      "bug": 1034851,
+      "created": "2014-09-02T02:09:34+00:00",
+      "is_public": true,
+      "modified": "2014-11-25T03:04:05+00:00",
       "note": "WebCrypto: wrapKey and unwrapKey implemented",
-      "is_public": true,
-      "tag": "HTML5",
-      "bug": 1034851
+      "sort_num": 0,
+      "tag": "HTML5"
     },
     {
+      "bug": 1025230,
+      "created": "2014-09-02T02:11:37+00:00",
+      "is_public": true,
+      "modified": "2014-11-25T03:04:05+00:00",
       "note": "WebCrypto: Import/export of JWK-formatted keys",
-      "is_public": true,
-      "tag": "HTML5",
-      "bug": 1025230
+      "sort_num": 0,
+      "tag": "HTML5"
     },
     {
+      "bug": 886308,
+      "created": "2014-09-02T02:21:53+00:00",
+      "is_public": true,
+      "modified": "2014-11-25T03:04:05+00:00",
       "note": "[matches()][1] DOM API implemented (formerly *mozMatchesSelector()*)\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/Element.matches",
-      "is_public": true,
-      "tag": "HTML5",
-      "bug": 886308
+      "sort_num": 0,
+      "tag": "HTML5"
     },
     {
+      "bug": 908390,
+      "created": "2014-09-02T02:28:29+00:00",
+      "is_public": true,
+      "modified": "2014-11-25T03:04:05+00:00",
       "note": "Performance.now() for workers implemented",
-      "is_public": true,
-      "tag": "HTML5",
-      "bug": 908390
+      "sort_num": 0,
+      "tag": "HTML5"
     },
     {
+      "bug": 1034855,
+      "created": "2014-09-04T09:18:20+00:00",
+      "is_public": true,
+      "modified": "2014-11-25T03:04:05+00:00",
       "note": "WebCrypto: ECDH support",
-      "is_public": true,
-      "tag": "HTML5",
-      "bug": 1034855
+      "sort_num": 0,
+      "tag": "HTML5"
     },
     {
+      "bug": 1007059,
+      "created": "2014-07-23T08:11:05+00:00",
+      "is_public": true,
+      "modified": "2014-11-25T03:04:05+00:00",
       "note": "[WebIDE][1]: Create, edit, and test a new Web application from your browser\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Tools/WebIDE\r\n",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": 1007059
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
+      "bug": 971662,
+      "created": "2014-08-28T06:15:24+00:00",
+      "is_public": true,
+      "modified": "2014-11-25T03:04:05+00:00",
       "note": "Highlight all nodes that match a given selector in the Style Editor and the Inspector's Rules panel",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": 971662
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
+      "bug": 879008,
+      "created": "2014-08-28T06:39:37+00:00",
+      "is_public": true,
+      "modified": "2014-11-25T03:04:05+00:00",
       "note": "Improved User Interface of the Profiler",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": 879008
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
+      "bug": 899753,
+      "created": "2014-10-03T03:39:04+00:00",
+      "is_public": true,
+      "modified": "2014-11-25T03:04:05+00:00",
       "note": "[console.table][1] function added to web console\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/Console.table",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": 899753
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
-      "note": "CSS transitions start correctly when started at the same time as changes to display, position, overflow, and similar properties",
-      "is_public": true,
-      "tag": "Fixed",
       "bug": 625289,
+      "created": "2014-10-03T03:10:30+00:00",
       "fixed_in_release": {
-        "product": "Firefox",
-        "title": "Firefox 34.0a2 Aurora",
-        "version": "34.0a2",
+        "channel": "Aurora",
         "is_public": true,
+        "product": "Firefox",
         "slug": "firefox-34.0a2-aurora",
-        "channel": "Aurora"
-      }
+        "title": "Firefox 34.0a2 Aurora",
+        "version": "34.0a2"
+      },
+      "is_public": true,
+      "modified": "2014-11-25T03:04:05+00:00",
+      "note": "CSS transitions start correctly when started at the same time as changes to display, position, overflow, and similar properties",
+      "sort_num": 0,
+      "tag": "Fixed"
     },
     {
-      "note": "Windows: On some combination of hardware and drivers, the main window could be black. In this case, update your graphics drivers ([1083071][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1083071",
-      "is_public": true,
-      "tag": "Known",
       "bug": 1083071,
+      "created": "2014-10-22T16:35:05+00:00",
       "fixed_in_release": {
-        "product": "Firefox",
-        "title": "Firefox 33.0.1 Release",
-        "version": "33.0.1",
+        "channel": "Release",
         "is_public": true,
+        "product": "Firefox",
         "slug": "firefox-33.0.1-release",
-        "channel": "Release"
-      }
+        "title": "Firefox 33.0.1 Release",
+        "version": "33.0.1"
+      },
+      "is_public": true,
+      "modified": "2014-11-25T04:04:11+00:00",
+      "note": "Windows: On some combination of hardware and drivers, the main window could be black. In this case, update your graphics drivers ([1083071][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1083071",
+      "sort_num": 0,
+      "tag": "Known"
     }
   ],
-  "text": "",
+  "product": "Firefox",
   "release_date": "2014-10-16",
   "slug": "firefox-34.0beta-beta",
-  "version": "34.0beta",
-  "bug_search_url": "",
-  "is_public": true,
   "system_requirements": "## Windows\r\n\r\n### Operating Systems\r\n - Windows XP SP2\r\n - Windows Server 2003 SP1\r\n - Windows Vista\r\n - Windows 7\r\n - Windows 8\r\n\r\n*Please note that while the 32-bit and 64-bit versions of Windows Vista and Windows 7 can be used to run Firefox 34, only 32-bit builds of Firefox 34 are supported at this time.*\r\n\r\n### Recommended Hardware\r\n-  Pentium 4 or newer processor that supports SSE2\r\n-  512MB of RAM\r\n-  200MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- Mac OS X 10.6\r\n- Mac OS X 10.7\r\n- Mac OS X 10.8\r\n- Mac OS X 10.9\r\n\r\n### Recommended Hardware\r\n- Macintosh computer with an Intel x86 processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - GTK+ 2.18 or higher\r\n    - GLib 2.22 or higher\r\n    - Pango 1.14 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n    - libstdc++ 4.3 or higher\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - NetworkManager 0.7 or higher\r\n    - DBus 1.0 or higher\r\n    - HAL 0.5.8 or higher\r\n    - GNOME 2.16 or higher",
-  "channel": "Beta"
+  "text": "",
+  "title": "Firefox 34.0beta Beta",
+  "version": "34.0beta"
 }

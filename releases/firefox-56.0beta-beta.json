@@ -1,33 +1,44 @@
 {
-  "product": "Firefox",
   "bug_list": "",
-  "title": "Firefox 56.0beta Beta",
+  "bug_search_url": "",
+  "channel": "Beta",
+  "created": "2017-08-03T20:47:58.209000+00:00",
+  "is_public": true,
+  "modified": "2017-09-13T09:24:28.528000+00:00",
   "notes": [
     {
+      "bug": 1353954,
+      "created": "2017-08-04T21:58:07.615000+00:00",
+      "is_public": true,
+      "modified": "2017-08-04T21:58:07.615000+00:00",
       "note": "Find Options/Preferences more quickly with new search function\r\n",
-      "is_public": true,
-      "tag": "New",
-      "bug": 1353954
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": 1308154,
+      "created": "2017-08-04T22:00:13.697000+00:00",
+      "is_public": true,
+      "modified": "2017-08-04T22:00:13.697000+00:00",
       "note": "Media is no longer auto-played when opened in a background tab",
-      "is_public": true,
-      "tag": "Changed",
-      "bug": 1308154
+      "sort_num": 85,
+      "tag": "Changed"
     },
     {
-      "note": "Enable CSS Grid Layout View\r\n",
+      "bug": 1181227,
+      "created": "2017-08-04T22:01:03.257000+00:00",
       "is_public": true,
-      "tag": "Developer",
-      "bug": 1181227
+      "modified": "2017-08-04T22:01:03.257000+00:00",
+      "note": "Enable CSS Grid Layout View\r\n",
+      "sort_num": 0,
+      "tag": "Developer"
     }
   ],
-  "text": "",
+  "product": "Firefox",
   "release_date": "2017-08-08",
   "slug": "firefox-56.0beta-beta",
-  "version": "56.0beta",
-  "bug_search_url": "",
-  "is_public": true,
   "system_requirements": "## Windows\r\n\r\n### Operating Systems (32-bit and 64-bit)\r\n - Windows 7\r\n - Windows 8\r\n - Windows 10\r\n\r\n### Recommended Hardware\r\n-  Pentium 4 or newer processor that supports SSE2\r\n-  512MB of RAM / 2G of RAM for the 64-bit version\r\n-  200MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- macOS 10.9\r\n- macOS 10.10\r\n- macOS 10.11\r\n- macOS 10.12\r\n- macOS 10.13\r\n\r\n### Recommended Hardware\r\n- Macintosh computer with an Intel x86 processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - GTK+ 3.4 or higher\r\n    - GLib 2.22 or higher\r\n    - Pango 1.14 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n    - libstdc++ 4.6.1 or higher\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - NetworkManager 0.7 or higher\r\n    - DBus 1.0 or higher\r\n    - GNOME 2.16 or higher\r\n    - PulseAudio",
-  "channel": "Beta"
+  "text": "",
+  "title": "Firefox 56.0beta Beta",
+  "version": "56.0beta"
 }

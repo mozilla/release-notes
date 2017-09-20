@@ -1,63 +1,89 @@
 {
-  "product": "Firefox",
   "bug_list": "",
-  "title": "Firefox 44.0.1 Release",
+  "bug_search_url": "",
+  "channel": "Release",
+  "created": "2016-02-08T21:37:39.646000+00:00",
+  "is_public": true,
+  "modified": "2016-03-01T14:08:17.363000+00:00",
   "notes": [
     {
+      "bug": 1242176,
+      "created": "2016-02-08T21:54:58.742000+00:00",
+      "is_public": true,
+      "modified": "2016-02-11T16:15:06.937000+00:00",
       "note": "Fix issue which could lead to the removal of stored passwords under certain circumstances ([1242176][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1242176",
-      "is_public": true,
-      "tag": "Fixed",
-      "bug": 1242176
+      "sort_num": 100,
+      "tag": "Fixed"
     },
     {
+      "bug": 1244505,
+      "created": "2016-02-08T21:41:16.781000+00:00",
+      "is_public": true,
+      "modified": "2016-02-11T16:17:08.869000+00:00",
       "note": "Allows spaces in cookie names ([1244505][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1244505",
-      "is_public": true,
-      "tag": "Fixed",
-      "bug": 1244505
+      "sort_num": 0,
+      "tag": "Fixed"
     },
     {
+      "bug": 1244069,
+      "created": "2016-02-08T21:44:23.013000+00:00",
+      "is_public": true,
+      "modified": "2016-02-11T16:16:43.524000+00:00",
       "note": "Require NSS 3.21 ([1244069][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1244069",
-      "is_public": true,
-      "tag": "Fixed",
-      "bug": 1244069
+      "sort_num": 0,
+      "tag": "Fixed"
     },
     {
+      "bug": 1244076,
+      "created": "2016-02-08T21:44:41.357000+00:00",
+      "is_public": true,
+      "modified": "2016-02-11T16:16:29.539000+00:00",
       "note": "Fix a crash in cache networking ([1244076][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1244076",
-      "is_public": true,
-      "tag": "Fixed",
-      "bug": 1244076
+      "sort_num": 0,
+      "tag": "Fixed"
     },
     {
+      "bug": 1243942,
+      "created": "2016-02-08T21:45:14.270000+00:00",
+      "is_public": true,
+      "modified": "2016-02-11T16:16:14.998000+00:00",
       "note": "Fix using WebSockets in service worker controlled pages ([1243942][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1243942",
-      "is_public": true,
-      "tag": "Fixed",
-      "bug": 1243942
+      "sort_num": 0,
+      "tag": "Fixed"
     },
     {
+      "bug": 1245696,
+      "created": "2016-02-08T21:47:45.300000+00:00",
+      "is_public": true,
+      "modified": "2016-02-11T16:15:58.926000+00:00",
       "note": "Disable opus/vorbis audio with H.264 ([1245696][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1245696",
-      "is_public": true,
-      "tag": "Fixed",
-      "bug": 1245696
+      "sort_num": 0,
+      "tag": "Fixed"
     },
     {
+      "bug": 1243740,
+      "created": "2016-02-08T21:57:01.536000+00:00",
+      "is_public": true,
+      "modified": "2016-02-11T16:15:41.880000+00:00",
       "note": "Ship the Gecko SDK ([1243740][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1243740",
-      "is_public": true,
-      "tag": "Fixed",
-      "bug": 1243740
+      "sort_num": 0,
+      "tag": "Fixed"
     },
     {
-      "note": "Fix for graphics startup crash (GNU/Linux) ([1222171][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1222171",
+      "bug": 1222171,
+      "created": "2016-02-08T21:59:42.376000+00:00",
       "is_public": true,
-      "tag": "Fixed",
-      "bug": 1222171
+      "modified": "2016-02-11T16:16:59.634000+00:00",
+      "note": "Fix for graphics startup crash (GNU/Linux) ([1222171][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1222171",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
-  "text": "<p>We'd also like to extend a special thank you to all of the <a href=\"http://blog.mozilla.org/community/2016/01/25/firefox-44-new-contributors//\">new Mozillians</a> who contributed to this release of Firefox!</p>\r\n",
+  "product": "Firefox",
   "release_date": "2016-02-08",
   "slug": "firefox-44.0.1-release",
-  "version": "44.0.1",
-  "bug_search_url": "",
-  "is_public": true,
   "system_requirements": "## Windows\r\n\r\n### Operating Systems (32-bit and 64-bit)\r\n - Windows XP SP2\r\n - Windows Server 2003 SP1\r\n - Windows Vista\r\n - Windows 7\r\n - Windows 8\r\n - Windows 10\r\n\r\n*Please note that 64-bit builds of Firefox are only supported on Windows 7 and higher.*\r\n\r\n### Recommended Hardware\r\n-  Pentium 4 or newer processor that supports SSE2\r\n-  512MB of RAM\r\n-  200MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- Mac OS X 10.6\r\n- Mac OS X 10.7\r\n- Mac OS X 10.8\r\n- Mac OS X 10.9\r\n- Mac OS X 10.10\r\n- Mac OS X 10.11\r\n\r\n### Recommended Hardware\r\n- Macintosh computer with an Intel x86 processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - GTK+ 2.18 or higher\r\n    - GLib 2.22 or higher\r\n    - Pango 1.14 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n    - libstdc++ 4.3 or higher\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - NetworkManager 0.7 or higher\r\n    - DBus 1.0 or higher\r\n    - HAL 0.5.8 or higher\r\n    - GNOME 2.16 or higher",
-  "channel": "Release"
+  "text": "<p>We'd also like to extend a special thank you to all of the <a href=\"http://blog.mozilla.org/community/2016/01/25/firefox-44-new-contributors//\">new Mozillians</a> who contributed to this release of Firefox!</p>\r\n",
+  "title": "Firefox 44.0.1 Release",
+  "version": "44.0.1"
 }

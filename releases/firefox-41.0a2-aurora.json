@@ -1,117 +1,170 @@
 {
-  "product": "Firefox",
   "bug_list": "",
-  "title": "Firefox 41.0a2 Aurora",
+  "bug_search_url": "",
+  "channel": "Aurora",
+  "created": "2015-07-01T22:05:02+00:00",
+  "is_public": true,
+  "modified": "2015-08-03T08:26:39+00:00",
   "notes": [
     {
+      "bug": 366324,
+      "created": "2015-07-01T22:10:28+00:00",
+      "is_public": true,
+      "modified": "2015-09-16T22:16:27+00:00",
       "note": "SVG images can be used as favicons",
-      "is_public": true,
-      "tag": "New",
-      "bug": 366324
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": 77999,
+      "created": "2015-07-01T22:06:32+00:00",
+      "is_public": true,
+      "modified": "2015-09-22T03:33:41+00:00",
       "note": "[Memory overhead of AdBlock Plus][1] has been greatly reduced\r\n\r\n[1]:https://blog.mozilla.org/nnethercote/2015/07/01/firefox-41-will-use-less-memory-when-running-adblock-plus",
-      "is_public": true,
-      "tag": "Changed",
-      "bug": 77999
+      "sort_num": 10,
+      "tag": "Changed"
     },
     {
+      "bug": 1167066,
+      "created": "2015-07-01T22:56:21+00:00",
+      "is_public": true,
+      "modified": "2015-09-16T16:36:27+00:00",
       "note": "WebRTC now requires [perfect forward secrecy][1]\r\n\r\n[1]: https://hacks.mozilla.org/2015/02/webrtc-requires-perfect-forward-secrecy-pfs-starting-in-firefox-38/ ",
-      "is_public": true,
-      "tag": "Changed",
-      "bug": 1167066
+      "sort_num": 10,
+      "tag": "Changed"
     },
     {
+      "bug": 1152147,
+      "created": "2015-07-03T15:31:59+00:00",
+      "is_public": true,
+      "modified": "2015-09-22T03:36:15+00:00",
       "note": "Updates to image decoding process",
-      "is_public": true,
-      "tag": "Changed",
-      "bug": 1152147
+      "sort_num": 10,
+      "tag": "Changed"
     },
     {
+      "bug": 980770,
+      "created": "2015-06-01T08:25:37+00:00",
+      "is_public": true,
+      "modified": "2015-09-22T03:38:00+00:00",
       "note": "Support for running [animations][1] of 'transform' and 'opacity' on the compositor thread\r\n\r\n\r\n  [1]: https://wiki.mozilla.org/Platform/GFX/OffMainThreadCompositing#CSS_Animations",
-      "is_public": true,
-      "tag": "Changed",
-      "bug": 980770
+      "sort_num": 0,
+      "tag": "Changed"
     },
     {
+      "bug": 911972,
+      "created": "2015-07-01T22:21:01+00:00",
+      "is_public": true,
+      "modified": "2015-09-16T16:36:27+00:00",
       "note": "[MessageChannel][1] and [MessagePort][2] API enabled by default\r\n\r\n[1]: https://developer.mozilla.org/en-US/docs/Web/API/MessageChannel\r\n[2]: https://developer.mozilla.org/docs/Web/API/MessagePort",
-      "is_public": true,
-      "tag": "HTML5",
-      "bug": 911972
+      "sort_num": 0,
+      "tag": "HTML5"
     },
     {
+      "bug": 923193,
+      "created": "2015-07-01T22:23:40+00:00",
+      "is_public": true,
+      "modified": "2015-09-16T16:36:27+00:00",
       "note": "Added support for the [transform-origin][1] property on SVG elements\r\n\r\n[1]:https://developer.mozilla.org/docs/Web/CSS/transform-origin",
-      "is_public": true,
-      "tag": "HTML5",
-      "bug": 923193
+      "sort_num": 0,
+      "tag": "HTML5"
     },
     {
+      "bug": 1012662,
+      "created": "2015-07-01T22:29:08+00:00",
+      "is_public": true,
+      "modified": "2015-09-16T17:47:05+00:00",
       "note": "Copy/Cut Web content from JavaScript to the OS clipboard with [document.execCommand(\"cut\"/\"copy\")][1]\r\n\r\n[1]: https://developer.mozilla.org/docs/Web/API/Document/execCommand",
-      "is_public": true,
-      "tag": "HTML5",
-      "bug": 1012662
+      "sort_num": 0,
+      "tag": "HTML5"
     },
     {
+      "bug": 1110144,
+      "created": "2015-07-01T22:48:59+00:00",
+      "is_public": true,
+      "modified": "2015-09-16T23:22:15+00:00",
       "note": "Implemented [Cache API][1] for querying named caches that are accessible Window, Worker, and ServiceWorker\r\n\r\n[1]:https://developer.mozilla.org/docs/Web/API/CacheStorage",
-      "is_public": true,
-      "tag": "HTML5",
-      "bug": 1110144
+      "sort_num": 0,
+      "tag": "HTML5"
     },
     {
+      "bug": 1149381,
+      "created": "2015-07-02T00:03:14+00:00",
+      "is_public": true,
+      "modified": "2015-09-16T16:36:27+00:00",
       "note": "[CSS Font Loading API][1] enabled by default\r\n\r\n[1]: http://dev.w3.org/csswg/css-font-loading/",
-      "is_public": true,
-      "tag": "HTML5",
-      "bug": 1149381
+      "sort_num": 0,
+      "tag": "HTML5"
     },
     {
+      "bug": 654579,
+      "created": "2015-07-02T00:45:08+00:00",
+      "is_public": true,
+      "modified": "2015-09-16T16:36:27+00:00",
       "note": "[Navigator.onLine][1] now varies with actual internet connectivity (Windows and Mac OS X only)\r\n\r\n[1]: https://developer.mozilla.org/docs/Web/API/NavigatorOnLine/onLine",
-      "is_public": true,
-      "tag": "HTML5",
-      "bug": 654579
+      "sort_num": 0,
+      "tag": "HTML5"
     },
     {
+      "bug": 1159737,
+      "created": "2015-06-01T08:15:11+00:00",
+      "is_public": true,
+      "modified": "2015-09-16T16:36:27+00:00",
       "note": "Removed support for binary XPCOM components in extensions, use addon SDK \"system/child_process\" pipe mechanism for native binaries instead",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": 1159737
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
+      "bug": 859058,
+      "created": "2015-07-01T22:15:49+00:00",
+      "is_public": true,
+      "modified": "2015-09-16T16:36:27+00:00",
       "note": "Network requests can be exported in [HAR][1] format\r\n\r\n[1]: http://www.softwareishard.com/blog/har-12-spec/",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": 859058
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
+      "bug": 1067325,
+      "created": "2015-07-01T22:40:19+00:00",
+      "is_public": true,
+      "modified": "2015-10-23T14:59:49+00:00",
       "note": "View [HTML source in a tab][1]\r\n\r\n[1]:https://hacks.mozilla.org/2015/07/developer-edition-41-view-source-in-a-tab-screenshot-elements-har-files-and-more/",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": 1067325
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
+      "bug": 1165122,
+      "created": "2015-07-03T15:41:32+00:00",
+      "is_public": true,
+      "modified": "2015-09-16T16:36:27+00:00",
       "note": "Quickly [add new CSS rule][1] with New Rule button in the Inspector\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector/How_to/Examine_and_edit_CSS#Add_rules",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": 1165122
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
+      "bug": 1163332,
+      "created": "2015-07-03T15:49:00+00:00",
+      "is_public": true,
+      "modified": "2015-09-16T16:36:27+00:00",
       "note": "Screenshot a node or element from markup view with the Screenshot Node context menu item",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": 1163332
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
-      "note": "Copy element CSS rule declarations with the Copy Rule Declaration context menu item in the Inspector",
+      "bug": 1024693,
+      "created": "2015-07-03T15:53:31+00:00",
       "is_public": true,
-      "tag": "Developer",
-      "bug": 1024693
+      "modified": "2015-09-16T16:36:27+00:00",
+      "note": "Copy element CSS rule declarations with the Copy Rule Declaration context menu item in the Inspector",
+      "sort_num": 0,
+      "tag": "Developer"
     }
   ],
-  "text": "",
+  "product": "Firefox",
   "release_date": "2015-07-03",
   "slug": "firefox-41.0a2-aurora",
-  "version": "41.0a2",
-  "bug_search_url": "",
-  "is_public": true,
   "system_requirements": "## Windows\r\n\r\n### Operating Systems\r\n - Windows XP SP2\r\n - Windows Server 2003 SP1\r\n - Windows Vista\r\n - Windows 7\r\n - Windows 8\r\n - Windows 10\r\n\r\n*Please note that while the 32-bit and 64-bit versions of Windows Vista and Windows 7 can be used to run Firefox, only 32-bit builds of Firefox are supported at this time.*\r\n\r\n### Recommended Hardware\r\n-  Pentium 4 or newer processor that supports SSE2\r\n-  512MB of RAM\r\n-  200MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- Mac OS X 10.6\r\n- Mac OS X 10.7\r\n- Mac OS X 10.8\r\n- Mac OS X 10.9\r\n- Mac OS X 10.10\r\n\r\n### Recommended Hardware\r\n- Macintosh computer with an Intel x86 processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - GTK+ 2.18 or higher\r\n    - GLib 2.22 or higher\r\n    - Pango 1.14 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n    - libstdc++ 4.3 or higher\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - NetworkManager 0.7 or higher\r\n    - DBus 1.0 or higher\r\n    - HAL 0.5.8 or higher\r\n    - GNOME 2.16 or higher",
-  "channel": "Aurora"
+  "text": "",
+  "title": "Firefox 41.0a2 Aurora",
+  "version": "41.0a2"
 }

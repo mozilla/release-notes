@@ -1,99 +1,143 @@
 {
-  "product": "Firefox",
   "bug_list": "",
-  "title": "Firefox 47.0a2 Aurora",
+  "bug_search_url": "",
+  "channel": "Aurora",
+  "created": "2016-01-22T20:21:29.692000+00:00",
+  "is_public": true,
+  "modified": "2016-03-11T17:03:26.954000+00:00",
   "notes": [
     {
+      "bug": 769117,
+      "created": "2016-04-21T18:44:56.495000+00:00",
+      "is_public": true,
+      "modified": "2016-06-07T04:37:11.147000+00:00",
       "note": "Embedded YouTube videos now play with HTML5 video if Flash is not installed.",
-      "is_public": true,
-      "tag": "New",
-      "bug": 769117
+      "sort_num": 90,
+      "tag": "New"
     },
     {
+      "bug": 567365,
+      "created": "2016-03-04T18:30:54.979000+00:00",
+      "is_public": true,
+      "modified": "2016-06-06T18:14:52.367000+00:00",
       "note": "Allow no-cache on back/forward navigations for https resources",
-      "is_public": true,
-      "tag": "New",
-      "bug": 567365
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": 1090880,
+      "created": "2016-03-04T18:33:03.459000+00:00",
+      "is_public": true,
+      "modified": "2016-06-07T04:08:13.432000+00:00",
       "note": "FUEL (Firefox User Extension Library) has been removed. Add-ons relying on it will stop working.",
-      "is_public": true,
-      "tag": "Changed",
-      "bug": 1090880
+      "sort_num": 0,
+      "tag": "Changed"
     },
     {
+      "bug": 1191936,
+      "created": "2016-03-04T18:34:24.501000+00:00",
+      "is_public": true,
+      "modified": "2016-06-03T22:22:09.453000+00:00",
       "note": "WebCrypto: RSA-PSS signature support",
-      "is_public": true,
-      "tag": "HTML5",
-      "bug": 1191936
+      "sort_num": 0,
+      "tag": "HTML5"
     },
     {
+      "bug": 1216109,
+      "created": "2016-03-04T18:34:53.505000+00:00",
+      "is_public": true,
+      "modified": "2016-06-03T22:22:09.453000+00:00",
       "note": "WebCrypto: PBKDF2 supports SHA-2 hash algorithms",
-      "is_public": true,
-      "tag": "HTML5",
-      "bug": 1216109
+      "sort_num": 0,
+      "tag": "HTML5"
     },
     {
+      "bug": 1033144,
+      "created": "2016-03-11T00:06:03.961000+00:00",
+      "is_public": true,
+      "modified": "2016-06-06T23:05:42.621000+00:00",
       "note": "[cuechange events][1] are now available on TextTrack objects\r\n\r\n\r\n  [1]: https://html.spec.whatwg.org/multipage/embedded-content.html#event-media-cuechange",
-      "is_public": true,
-      "tag": "HTML5",
-      "bug": 1033144
+      "sort_num": 0,
+      "tag": "HTML5"
     },
     {
+      "bug": 1153322,
+      "created": "2016-03-04T18:33:49.874000+00:00",
+      "is_public": true,
+      "modified": "2016-06-08T20:29:41.109000+00:00",
       "note": "[Implemented Document.scrollingElement][1] to tell which element's scroll attributes reflect the viewport scroll state\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/Document/scrollingElement",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": 1153322
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
+      "bug": 1243706,
+      "created": "2016-03-04T18:41:53.412000+00:00",
+      "is_public": true,
+      "modified": "2016-06-07T04:03:31.696000+00:00",
       "note": "See Firefox run! Review Firefox performance data in about:performance.",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": 1243706
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
+      "bug": 1243851,
+      "created": "2016-03-04T18:42:26.735000+00:00",
+      "is_public": true,
+      "modified": "2016-06-03T22:22:09.453000+00:00",
       "note": "Smart multi-line input in the Web Console",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": 1243851
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
+      "bug": 828008,
+      "created": "2016-03-08T19:10:25.830000+00:00",
+      "is_public": true,
+      "modified": "2016-06-03T22:22:09.453000+00:00",
       "note": "Custom user agents supported in Responsive Design Mode",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": 828008
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
+      "bug": 1209699,
+      "created": "2016-03-08T19:10:50.033000+00:00",
+      "is_public": true,
+      "modified": "2016-06-07T04:10:27.042000+00:00",
       "note": "Simulate Push messages in the  Service Workers developer tool",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": 1209699
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
+      "bug": 1212797,
+      "created": "2016-03-08T19:11:23.776000+00:00",
+      "is_public": true,
+      "modified": "2016-06-07T04:11:13.137000+00:00",
       "note": "View, start,and debug registered Service Workers in the Service Workers developer tool",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": 1212797
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
+      "bug": 1239705,
+      "created": "2016-03-08T19:11:53.806000+00:00",
+      "is_public": true,
+      "modified": "2016-06-06T23:01:50.007000+00:00",
       "note": "'Start' button for service workers in about:debugging to start registered Service Workers",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": 1239705
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
-      "note": "Tilt is available as extension on [AMO][1]\r\n\r\n\r\n  [1]: https://addons.mozilla.org/firefox/addon/tilt/",
+      "bug": 1245875,
+      "created": "2016-03-08T19:12:41.211000+00:00",
       "is_public": true,
-      "tag": "Developer",
-      "bug": 1245875
+      "modified": "2016-06-07T04:01:24.246000+00:00",
+      "note": "Tilt is available as extension on [AMO][1]\r\n\r\n\r\n  [1]: https://addons.mozilla.org/firefox/addon/tilt/",
+      "sort_num": 0,
+      "tag": "Developer"
     }
   ],
-  "text": "For more information about Developer Edition please see this <a href=\"https://developer.mozilla.org/en-US/Firefox/Developer_Edition\">MDN article</a>. ",
+  "product": "Firefox",
   "release_date": "2016-03-08",
   "slug": "firefox-47.0a2-aurora",
-  "version": "47.0a2",
-  "bug_search_url": "",
-  "is_public": true,
   "system_requirements": "## Windows\r\n\r\n### Operating Systems (32-bit and 64-bit)\r\n - Windows XP SP2\r\n - Windows Server 2003 SP1\r\n - Windows Vista\r\n - Windows 7\r\n - Windows 8\r\n - Windows 10\r\n\r\n*Please note that 64-bit builds of Firefox are only supported on Windows 7 and higher.*\r\n\r\n### Recommended Hardware\r\n-  Pentium 4 or newer processor that supports SSE2\r\n-  512MB of RAM\r\n-  200MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- Mac OS X 10.6\r\n- Mac OS X 10.7\r\n- Mac OS X 10.8\r\n- Mac OS X 10.9\r\n- Mac OS X 10.10\r\n- Mac OS X 10.11\r\n\r\n### Recommended Hardware\r\n- Macintosh computer with an Intel x86 processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - GTK+ 3.4 or higher\r\n    - GLib 2.22 or higher\r\n    - Pango 1.14 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n    - libstdc++ 4.3 or higher\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - NetworkManager 0.7 or higher\r\n    - DBus 1.0 or higher\r\n    - HAL 0.5.8 or higher\r\n    - GNOME 2.16 or higher",
-  "channel": "Aurora"
+  "text": "For more information about Developer Edition please see this <a href=\"https://developer.mozilla.org/en-US/Firefox/Developer_Edition\">MDN article</a>. ",
+  "title": "Firefox 47.0a2 Aurora",
+  "version": "47.0a2"
 }

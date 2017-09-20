@@ -1,741 +1,902 @@
 {
-  "product": "Firefox OS",
   "bug_list": "",
-  "title": "Firefox OS 1.3 Release",
+  "bug_search_url": "",
+  "channel": "Release",
+  "created": "2014-03-04T20:14:33+00:00",
+  "is_public": true,
+  "modified": "2014-06-24T14:22:36+00:00",
   "notes": [
     {
+      "bug": null,
+      "created": "2014-03-25T17:05:02+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": true,
+        "product": "Firefox OS",
+        "slug": "firefox-os-1.3-release",
+        "title": "Firefox OS 1.3 Release",
+        "version": "1.3"
+      },
+      "is_public": true,
+      "modified": "2014-06-24T14:12:50+00:00",
       "note": "**RTSP**: Support RTP/RTCP via UDP/IP and RTSP via TCP/IP \r\n",
-      "is_public": true,
-      "tag": "",
-      "bug": null,
-      "fixed_in_release": {
-        "product": "Firefox OS",
-        "title": "Firefox OS 1.3 Release",
-        "version": "1.3",
-        "is_public": true,
-        "slug": "firefox-os-1.3-release",
-        "channel": "Release"
-      }
+      "sort_num": 0,
+      "tag": ""
     },
     {
+      "bug": null,
+      "created": "2014-03-25T17:09:00+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": true,
+        "product": "Firefox OS",
+        "slug": "firefox-os-1.3-release",
+        "title": "Firefox OS 1.3 Release",
+        "version": "1.3"
+      },
+      "is_public": true,
+      "modified": "2014-06-24T14:12:55+00:00",
       "note": "**RTSP**: support for absolute and relative control URLs ",
-      "is_public": true,
-      "tag": "",
-      "bug": null,
-      "fixed_in_release": {
-        "product": "Firefox OS",
-        "title": "Firefox OS 1.3 Release",
-        "version": "1.3",
-        "is_public": true,
-        "slug": "firefox-os-1.3-release",
-        "channel": "Release"
-      }
+      "sort_num": 0,
+      "tag": ""
     },
     {
+      "bug": null,
+      "created": "2014-03-04T21:06:50+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": true,
+        "product": "Firefox OS",
+        "slug": "firefox-os-1.3-release",
+        "title": "Firefox OS 1.3 Release",
+        "version": "1.3"
+      },
+      "is_public": true,
+      "modified": "2014-04-23T10:53:38+00:00",
       "note": "Removal of 'About' page in Browser",
-      "is_public": true,
-      "tag": "Feature",
-      "bug": null,
-      "fixed_in_release": {
-        "product": "Firefox OS",
-        "title": "Firefox OS 1.3 Release",
-        "version": "1.3",
-        "is_public": true,
-        "slug": "firefox-os-1.3-release",
-        "channel": "Release"
-      }
+      "sort_num": 0,
+      "tag": "Feature"
     },
     {
+      "bug": null,
+      "created": "2014-03-25T16:11:41+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": true,
+        "product": "Firefox OS",
+        "slug": "firefox-os-1.3-release",
+        "title": "Firefox OS 1.3 Release",
+        "version": "1.3"
+      },
+      "is_public": true,
+      "modified": "2014-04-23T10:53:38+00:00",
       "note": "**Communications**:\r\n Support the creation of MMS message with Subject",
-      "is_public": true,
-      "tag": "Feature",
-      "bug": null,
-      "fixed_in_release": {
-        "product": "Firefox OS",
-        "title": "Firefox OS 1.3 Release",
-        "version": "1.3",
-        "is_public": true,
-        "slug": "firefox-os-1.3-release",
-        "channel": "Release"
-      }
+      "sort_num": 0,
+      "tag": "Feature"
     },
     {
+      "bug": null,
+      "created": "2014-03-25T16:19:44+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": true,
+        "product": "Firefox OS",
+        "slug": "firefox-os-1.3-release",
+        "title": "Firefox OS 1.3 Release",
+        "version": "1.3"
+      },
+      "is_public": true,
+      "modified": "2014-04-23T10:53:38+00:00",
       "note": "**Communications**:\r\n Addressing and Sending of  MMS message to Email address",
-      "is_public": true,
-      "tag": "Feature",
-      "bug": null,
-      "fixed_in_release": {
-        "product": "Firefox OS",
-        "title": "Firefox OS 1.3 Release",
-        "version": "1.3",
-        "is_public": true,
-        "slug": "firefox-os-1.3-release",
-        "channel": "Release"
-      }
+      "sort_num": 0,
+      "tag": "Feature"
     },
     {
+      "bug": null,
+      "created": "2014-03-25T16:21:25+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": true,
+        "product": "Firefox OS",
+        "slug": "firefox-os-1.3-release",
+        "title": "Firefox OS 1.3 Release",
+        "version": "1.3"
+      },
+      "is_public": true,
+      "modified": "2014-04-23T10:53:38+00:00",
       "note": "**Communications**:\r\nCall Ended message",
-      "is_public": true,
-      "tag": "Feature",
-      "bug": null,
-      "fixed_in_release": {
-        "product": "Firefox OS",
-        "title": "Firefox OS 1.3 Release",
-        "version": "1.3",
-        "is_public": true,
-        "slug": "firefox-os-1.3-release",
-        "channel": "Release"
-      }
+      "sort_num": 0,
+      "tag": "Feature"
     },
     {
+      "bug": null,
+      "created": "2014-03-25T16:23:56+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": true,
+        "product": "Firefox OS",
+        "slug": "firefox-os-1.3-release",
+        "title": "Firefox OS 1.3 Release",
+        "version": "1.3"
+      },
+      "is_public": true,
+      "modified": "2014-04-23T10:53:38+00:00",
       "note": "**Communications**:\r\nDSDS Import contacts from both SIMs (one at a time)",
-      "is_public": true,
-      "tag": "Feature",
-      "bug": null,
-      "fixed_in_release": {
-        "product": "Firefox OS",
-        "title": "Firefox OS 1.3 Release",
-        "version": "1.3",
-        "is_public": true,
-        "slug": "firefox-os-1.3-release",
-        "channel": "Release"
-      }
+      "sort_num": 0,
+      "tag": "Feature"
     },
     {
+      "bug": null,
+      "created": "2014-03-25T16:25:00+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": true,
+        "product": "Firefox OS",
+        "slug": "firefox-os-1.3-release",
+        "title": "Firefox OS 1.3 Release",
+        "version": "1.3"
+      },
+      "is_public": true,
+      "modified": "2014-04-23T10:53:38+00:00",
       "note": "**Communications**:\r\nDatastore API Support ",
-      "is_public": true,
-      "tag": "Feature",
-      "bug": null,
-      "fixed_in_release": {
-        "product": "Firefox OS",
-        "title": "Firefox OS 1.3 Release",
-        "version": "1.3",
-        "is_public": true,
-        "slug": "firefox-os-1.3-release",
-        "channel": "Release"
-      }
+      "sort_num": 0,
+      "tag": "Feature"
     },
     {
+      "bug": null,
+      "created": "2014-03-25T16:26:22+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": true,
+        "product": "Firefox OS",
+        "slug": "firefox-os-1.3-release",
+        "title": "Firefox OS 1.3 Release",
+        "version": "1.3"
+      },
+      "is_public": true,
+      "modified": "2014-04-23T10:53:38+00:00",
       "note": "**Communications**:\r\n Improved Emergency Call User Interface",
-      "is_public": true,
-      "tag": "Feature",
-      "bug": null,
-      "fixed_in_release": {
-        "product": "Firefox OS",
-        "title": "Firefox OS 1.3 Release",
-        "version": "1.3",
-        "is_public": true,
-        "slug": "firefox-os-1.3-release",
-        "channel": "Release"
-      }
+      "sort_num": 0,
+      "tag": "Feature"
     },
     {
+      "bug": null,
+      "created": "2014-03-25T16:27:41+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": true,
+        "product": "Firefox OS",
+        "slug": "firefox-os-1.3-release",
+        "title": "Firefox OS 1.3 Release",
+        "version": "1.3"
+      },
+      "is_public": true,
+      "modified": "2014-04-23T10:53:38+00:00",
       "note": "**Communications**:\r\nSave draft MMS & SMS messages",
-      "is_public": true,
-      "tag": "Feature",
-      "bug": null,
-      "fixed_in_release": {
-        "product": "Firefox OS",
-        "title": "Firefox OS 1.3 Release",
-        "version": "1.3",
-        "is_public": true,
-        "slug": "firefox-os-1.3-release",
-        "channel": "Release"
-      }
+      "sort_num": 0,
+      "tag": "Feature"
     },
     {
+      "bug": null,
+      "created": "2014-03-25T16:29:07+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": true,
+        "product": "Firefox OS",
+        "slug": "firefox-os-1.3-release",
+        "title": "Firefox OS 1.3 Release",
+        "version": "1.3"
+      },
+      "is_public": true,
+      "modified": "2014-04-23T10:53:38+00:00",
       "note": "**Communications**:\r\nAutomatic switching from SMS to MMS when media is added to the message",
-      "is_public": true,
-      "tag": "Feature",
-      "bug": null,
-      "fixed_in_release": {
-        "product": "Firefox OS",
-        "title": "Firefox OS 1.3 Release",
-        "version": "1.3",
-        "is_public": true,
-        "slug": "firefox-os-1.3-release",
-        "channel": "Release"
-      }
+      "sort_num": 0,
+      "tag": "Feature"
     },
     {
+      "bug": null,
+      "created": "2014-03-25T16:32:00+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": true,
+        "product": "Firefox OS",
+        "slug": "firefox-os-1.3-release",
+        "title": "Firefox OS 1.3 Release",
+        "version": "1.3"
+      },
+      "is_public": true,
+      "modified": "2014-04-23T10:53:38+00:00",
       "note": "**Communications**:\r\nSMS & MMS Forwarding",
-      "is_public": true,
-      "tag": "Feature",
-      "bug": null,
-      "fixed_in_release": {
-        "product": "Firefox OS",
-        "title": "Firefox OS 1.3 Release",
-        "version": "1.3",
-        "is_public": true,
-        "slug": "firefox-os-1.3-release",
-        "channel": "Release"
-      }
+      "sort_num": 0,
+      "tag": "Feature"
     },
     {
+      "bug": null,
+      "created": "2014-03-25T16:33:41+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": true,
+        "product": "Firefox OS",
+        "slug": "firefox-os-1.3-release",
+        "title": "Firefox OS 1.3 Release",
+        "version": "1.3"
+      },
+      "is_public": true,
+      "modified": "2014-04-23T10:53:38+00:00",
       "note": "**Communications**:\r\nConfirmation message when changing the PIN code or PIN Unlock Code   ",
-      "is_public": true,
-      "tag": "Feature",
-      "bug": null,
-      "fixed_in_release": {
-        "product": "Firefox OS",
-        "title": "Firefox OS 1.3 Release",
-        "version": "1.3",
-        "is_public": true,
-        "slug": "firefox-os-1.3-release",
-        "channel": "Release"
-      }
+      "sort_num": 0,
+      "tag": "Feature"
     },
     {
+      "bug": null,
+      "created": "2014-03-25T16:39:03+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": true,
+        "product": "Firefox OS",
+        "slug": "firefox-os-1.3-release",
+        "title": "Firefox OS 1.3 Release",
+        "version": "1.3"
+      },
+      "is_public": true,
+      "modified": "2014-04-23T10:53:38+00:00",
       "note": "**Device**:\r\n Support for sending multiple files over Bluetooth ",
-      "is_public": true,
-      "tag": "Feature",
-      "bug": null,
-      "fixed_in_release": {
-        "product": "Firefox OS",
-        "title": "Firefox OS 1.3 Release",
-        "version": "1.3",
-        "is_public": true,
-        "slug": "firefox-os-1.3-release",
-        "channel": "Release"
-      }
+      "sort_num": 0,
+      "tag": "Feature"
     },
     {
+      "bug": null,
+      "created": "2014-03-25T16:40:36+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": true,
+        "product": "Firefox OS",
+        "slug": "firefox-os-1.3-release",
+        "title": "Firefox OS 1.3 Release",
+        "version": "1.3"
+      },
+      "is_public": true,
+      "modified": "2014-04-23T10:53:38+00:00",
       "note": "**Device**:\r\nBlueDroid Support",
-      "is_public": true,
-      "tag": "Feature",
-      "bug": null,
-      "fixed_in_release": {
-        "product": "Firefox OS",
-        "title": "Firefox OS 1.3 Release",
-        "version": "1.3",
-        "is_public": true,
-        "slug": "firefox-os-1.3-release",
-        "channel": "Release"
-      }
+      "sort_num": 0,
+      "tag": "Feature"
     },
     {
+      "bug": null,
+      "created": "2014-03-25T16:41:50+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": true,
+        "product": "Firefox OS",
+        "slug": "firefox-os-1.3-release",
+        "title": "Firefox OS 1.3 Release",
+        "version": "1.3"
+      },
+      "is_public": true,
+      "modified": "2014-04-23T10:53:38+00:00",
       "note": "**Media**: \r\nAccess to music controls in notifications tray ",
-      "is_public": true,
-      "tag": "Feature",
-      "bug": null,
-      "fixed_in_release": {
-        "product": "Firefox OS",
-        "title": "Firefox OS 1.3 Release",
-        "version": "1.3",
-        "is_public": true,
-        "slug": "firefox-os-1.3-release",
-        "channel": "Release"
-      }
+      "sort_num": 0,
+      "tag": "Feature"
     },
     {
+      "bug": null,
+      "created": "2014-03-25T16:42:57+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": true,
+        "product": "Firefox OS",
+        "slug": "firefox-os-1.3-release",
+        "title": "Firefox OS 1.3 Release",
+        "version": "1.3"
+      },
+      "is_public": true,
+      "modified": "2014-04-23T10:53:38+00:00",
       "note": "**Media**:\r\n Access to music controls from the lock screen when the phone is locked",
-      "is_public": true,
-      "tag": "Feature",
-      "bug": null,
-      "fixed_in_release": {
-        "product": "Firefox OS",
-        "title": "Firefox OS 1.3 Release",
-        "version": "1.3",
-        "is_public": true,
-        "slug": "firefox-os-1.3-release",
-        "channel": "Release"
-      }
+      "sort_num": 0,
+      "tag": "Feature"
     },
     {
+      "bug": null,
+      "created": "2014-03-25T16:44:16+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": true,
+        "product": "Firefox OS",
+        "slug": "firefox-os-1.3-release",
+        "title": "Firefox OS 1.3 Release",
+        "version": "1.3"
+      },
+      "is_public": true,
+      "modified": "2014-04-23T10:53:38+00:00",
       "note": "**Media**:\r\nEnable continuous autofocus in camera",
-      "is_public": true,
-      "tag": "Feature",
-      "bug": null,
-      "fixed_in_release": {
-        "product": "Firefox OS",
-        "title": "Firefox OS 1.3 Release",
-        "version": "1.3",
-        "is_public": true,
-        "slug": "firefox-os-1.3-release",
-        "channel": "Release"
-      }
+      "sort_num": 0,
+      "tag": "Feature"
     },
     {
+      "bug": null,
+      "created": "2014-03-25T16:46:45+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": true,
+        "product": "Firefox OS",
+        "slug": "firefox-os-1.3-release",
+        "title": "Firefox OS 1.3 Release",
+        "version": "1.3"
+      },
+      "is_public": true,
+      "modified": "2014-04-23T10:53:38+00:00",
       "note": "**Media**:\r\nImproved arraignment of content in the gallery app",
-      "is_public": true,
-      "tag": "Feature",
-      "bug": null,
-      "fixed_in_release": {
-        "product": "Firefox OS",
-        "title": "Firefox OS 1.3 Release",
-        "version": "1.3",
-        "is_public": true,
-        "slug": "firefox-os-1.3-release",
-        "channel": "Release"
-      }
+      "sort_num": 0,
+      "tag": "Feature"
     },
     {
+      "bug": null,
+      "created": "2014-03-25T16:47:48+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": true,
+        "product": "Firefox OS",
+        "slug": "firefox-os-1.3-release",
+        "title": "Firefox OS 1.3 Release",
+        "version": "1.3"
+      },
+      "is_public": true,
+      "modified": "2014-04-23T10:53:38+00:00",
       "note": "**Media**:\r\nFile information shown for the content shown in the gallery app ",
-      "is_public": true,
-      "tag": "Feature",
-      "bug": null,
-      "fixed_in_release": {
-        "product": "Firefox OS",
-        "title": "Firefox OS 1.3 Release",
-        "version": "1.3",
-        "is_public": true,
-        "slug": "firefox-os-1.3-release",
-        "channel": "Release"
-      }
+      "sort_num": 0,
+      "tag": "Feature"
     },
     {
+      "bug": null,
+      "created": "2014-03-25T16:48:43+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": true,
+        "product": "Firefox OS",
+        "slug": "firefox-os-1.3-release",
+        "title": "Firefox OS 1.3 Release",
+        "version": "1.3"
+      },
+      "is_public": true,
+      "modified": "2014-04-23T10:53:38+00:00",
       "note": "**Media**:\r\nAbility to use device speakers with the FM radio app\r\n    ",
-      "is_public": true,
-      "tag": "Feature",
-      "bug": null,
-      "fixed_in_release": {
-        "product": "Firefox OS",
-        "title": "Firefox OS 1.3 Release",
-        "version": "1.3",
-        "is_public": true,
-        "slug": "firefox-os-1.3-release",
-        "channel": "Release"
-      }
+      "sort_num": 0,
+      "tag": "Feature"
     },
     {
+      "bug": null,
+      "created": "2014-03-25T16:50:03+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": true,
+        "product": "Firefox OS",
+        "slug": "firefox-os-1.3-release",
+        "title": "Firefox OS 1.3 Release",
+        "version": "1.3"
+      },
+      "is_public": true,
+      "modified": "2014-04-23T10:53:38+00:00",
       "note": "**Email**: Support for POP3 email servers",
-      "is_public": true,
-      "tag": "Feature",
-      "bug": null,
-      "fixed_in_release": {
-        "product": "Firefox OS",
-        "title": "Firefox OS 1.3 Release",
-        "version": "1.3",
-        "is_public": true,
-        "slug": "firefox-os-1.3-release",
-        "channel": "Release"
-      }
+      "sort_num": 0,
+      "tag": "Feature"
     },
     {
+      "bug": null,
+      "created": "2014-03-25T16:51:17+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": true,
+        "product": "Firefox OS",
+        "slug": "firefox-os-1.3-release",
+        "title": "Firefox OS 1.3 Release",
+        "version": "1.3"
+      },
+      "is_public": true,
+      "modified": "2014-04-23T10:53:38+00:00",
       "note": "**Graphics Support**:\r\nAsynchronous Panning/Zooming in Apps and Web Content for improved performance\r\n",
-      "is_public": true,
-      "tag": "Feature",
-      "bug": null,
-      "fixed_in_release": {
-        "product": "Firefox OS",
-        "title": "Firefox OS 1.3 Release",
-        "version": "1.3",
-        "is_public": true,
-        "slug": "firefox-os-1.3-release",
-        "channel": "Release"
-      }
+      "sort_num": 0,
+      "tag": "Feature"
     },
     {
+      "bug": null,
+      "created": "2014-03-25T16:52:22+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": true,
+        "product": "Firefox OS",
+        "slug": "firefox-os-1.3-release",
+        "title": "Firefox OS 1.3 Release",
+        "version": "1.3"
+      },
+      "is_public": true,
+      "modified": "2014-04-23T10:53:38+00:00",
       "note": "**Graphics Support**:\r\nWebGL performance improvements \r\n",
-      "is_public": true,
-      "tag": "Feature",
-      "bug": null,
-      "fixed_in_release": {
-        "product": "Firefox OS",
-        "title": "Firefox OS 1.3 Release",
-        "version": "1.3",
-        "is_public": true,
-        "slug": "firefox-os-1.3-release",
-        "channel": "Release"
-      }
+      "sort_num": 0,
+      "tag": "Feature"
     },
     {
+      "bug": null,
+      "created": "2014-03-25T16:53:36+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": true,
+        "product": "Firefox OS",
+        "slug": "firefox-os-1.3-release",
+        "title": "Firefox OS 1.3 Release",
+        "version": "1.3"
+      },
+      "is_public": true,
+      "modified": "2014-04-23T10:53:38+00:00",
       "note": "**Graphics**: Enable Azure content for b2g ",
-      "is_public": true,
-      "tag": "Feature",
-      "bug": null,
-      "fixed_in_release": {
-        "product": "Firefox OS",
-        "title": "Firefox OS 1.3 Release",
-        "version": "1.3",
-        "is_public": true,
-        "slug": "firefox-os-1.3-release",
-        "channel": "Release"
-      }
+      "sort_num": 0,
+      "tag": "Feature"
     },
     {
+      "bug": null,
+      "created": "2014-03-25T16:55:01+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": true,
+        "product": "Firefox OS",
+        "slug": "firefox-os-1.3-release",
+        "title": "Firefox OS 1.3 Release",
+        "version": "1.3"
+      },
+      "is_public": true,
+      "modified": "2014-04-23T10:53:38+00:00",
       "note": "**NFC**: Ability to pair with a blutooth device using NFC tags.   \r\n",
-      "is_public": true,
-      "tag": "Feature",
-      "bug": null,
-      "fixed_in_release": {
-        "product": "Firefox OS",
-        "title": "Firefox OS 1.3 Release",
-        "version": "1.3",
-        "is_public": true,
-        "slug": "firefox-os-1.3-release",
-        "channel": "Release"
-      }
+      "sort_num": 0,
+      "tag": "Feature"
     },
     {
+      "bug": null,
+      "created": "2014-03-25T16:56:05+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": true,
+        "product": "Firefox OS",
+        "slug": "firefox-os-1.3-release",
+        "title": "Firefox OS 1.3 Release",
+        "version": "1.3"
+      },
+      "is_public": true,
+      "modified": "2014-04-23T10:53:38+00:00",
       "note": "**NFC**: Ability to read content from NFC tags\r\n",
-      "is_public": true,
-      "tag": "Feature",
-      "bug": null,
-      "fixed_in_release": {
-        "product": "Firefox OS",
-        "title": "Firefox OS 1.3 Release",
-        "version": "1.3",
-        "is_public": true,
-        "slug": "firefox-os-1.3-release",
-        "channel": "Release"
-      }
+      "sort_num": 0,
+      "tag": "Feature"
     },
     {
+      "bug": null,
+      "created": "2014-03-25T16:56:54+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": true,
+        "product": "Firefox OS",
+        "slug": "firefox-os-1.3-release",
+        "title": "Firefox OS 1.3 Release",
+        "version": "1.3"
+      },
+      "is_public": true,
+      "modified": "2014-04-23T10:53:38+00:00",
       "note": "**NFC**: NFC API ",
-      "is_public": true,
-      "tag": "Feature",
-      "bug": null,
-      "fixed_in_release": {
-        "product": "Firefox OS",
-        "title": "Firefox OS 1.3 Release",
-        "version": "1.3",
-        "is_public": true,
-        "slug": "firefox-os-1.3-release",
-        "channel": "Release"
-      }
+      "sort_num": 0,
+      "tag": "Feature"
     },
     {
+      "bug": null,
+      "created": "2014-03-25T16:59:19+00:00",
+      "is_public": true,
+      "modified": "2014-06-24T14:25:18+00:00",
       "note": "**Performance**: Improvements to Scrolling FPS (Frames Per Second)",
-      "is_public": true,
-      "tag": "Feature",
-      "bug": null
+      "sort_num": 0,
+      "tag": "Feature"
     },
     {
+      "bug": null,
+      "created": "2014-03-25T17:00:23+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": true,
+        "product": "Firefox OS",
+        "slug": "firefox-os-1.3-release",
+        "title": "Firefox OS 1.3 Release",
+        "version": "1.3"
+      },
+      "is_public": true,
+      "modified": "2014-04-23T10:53:38+00:00",
       "note": "**RIL**:\r\n Support for 802.1x EAP-SIM authentication for supported hotspots  \r\n",
-      "is_public": true,
-      "tag": "Feature",
-      "bug": null,
-      "fixed_in_release": {
-        "product": "Firefox OS",
-        "title": "Firefox OS 1.3 Release",
-        "version": "1.3",
-        "is_public": true,
-        "slug": "firefox-os-1.3-release",
-        "channel": "Release"
-      }
+      "sort_num": 0,
+      "tag": "Feature"
     },
     {
+      "bug": null,
+      "created": "2014-03-25T17:02:26+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": true,
+        "product": "Firefox OS",
+        "slug": "firefox-os-1.3-release",
+        "title": "Firefox OS 1.3 Release",
+        "version": "1.3"
+      },
+      "is_public": true,
+      "modified": "2014-04-23T10:53:38+00:00",
       "note": "**RIL**: DSDS (Dual Sim Dual Standby) Settings added",
-      "is_public": true,
-      "tag": "Feature",
-      "bug": null,
-      "fixed_in_release": {
-        "product": "Firefox OS",
-        "title": "Firefox OS 1.3 Release",
-        "version": "1.3",
-        "is_public": true,
-        "slug": "firefox-os-1.3-release",
-        "channel": "Release"
-      }
+      "sort_num": 0,
+      "tag": "Feature"
     },
     {
+      "bug": null,
+      "created": "2014-03-25T17:03:39+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": true,
+        "product": "Firefox OS",
+        "slug": "firefox-os-1.3-release",
+        "title": "Firefox OS 1.3 Release",
+        "version": "1.3"
+      },
+      "is_public": true,
+      "modified": "2014-04-23T10:53:38+00:00",
       "note": "**RTSP**:\r\nRTSP (Real Time Streaming Protocol) framework support to enable the streaming of content using the RTSP protocol.\r\n\r\n\r\n",
-      "is_public": true,
-      "tag": "Feature",
-      "bug": null,
-      "fixed_in_release": {
-        "product": "Firefox OS",
-        "title": "Firefox OS 1.3 Release",
-        "version": "1.3",
-        "is_public": true,
-        "slug": "firefox-os-1.3-release",
-        "channel": "Release"
-      }
+      "sort_num": 0,
+      "tag": "Feature"
     },
     {
+      "bug": null,
+      "created": "2014-03-25T17:09:56+00:00",
+      "is_public": true,
+      "modified": "2014-06-24T14:26:31+00:00",
       "note": "**UX**: UX Visual Refresh of application headers and the notification bar.",
-      "is_public": true,
-      "tag": "Feature",
-      "bug": null
+      "sort_num": 0,
+      "tag": "Feature"
     },
     {
+      "bug": null,
+      "created": "2014-04-03T11:37:06+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": true,
+        "product": "Firefox OS",
+        "slug": "firefox-os-1.3-release",
+        "title": "Firefox OS 1.3 Release",
+        "version": "1.3"
+      },
+      "is_public": true,
+      "modified": "2014-04-23T10:53:39+00:00",
       "note": "**Performance**: Improvements to application start times ",
-      "is_public": true,
-      "tag": "Feature",
-      "bug": null,
-      "fixed_in_release": {
-        "product": "Firefox OS",
-        "title": "Firefox OS 1.3 Release",
-        "version": "1.3",
-        "is_public": true,
-        "slug": "firefox-os-1.3-release",
-        "channel": "Release"
-      }
+      "sort_num": 0,
+      "tag": "Feature"
     },
     {
+      "bug": null,
+      "created": "2014-04-10T21:32:01+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": true,
+        "product": "Firefox OS",
+        "slug": "firefox-os-1.3-release",
+        "title": "Firefox OS 1.3 Release",
+        "version": "1.3"
+      },
+      "is_public": true,
+      "modified": "2014-04-23T10:53:39+00:00",
       "note": "**Homescreen:**\r\nEasily access your existing apps and discover new apps according to your interests using Smart Collections",
-      "is_public": true,
-      "tag": "Feature",
-      "bug": null,
-      "fixed_in_release": {
-        "product": "Firefox OS",
-        "title": "Firefox OS 1.3 Release",
-        "version": "1.3",
-        "is_public": true,
-        "slug": "firefox-os-1.3-release",
-        "channel": "Release"
-      }
+      "sort_num": 0,
+      "tag": "Feature"
     },
     {
+      "bug": null,
+      "created": "2014-03-25T17:54:10+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": true,
+        "product": "Firefox OS",
+        "slug": "firefox-os-1.3-release",
+        "title": "Firefox OS 1.3 Release",
+        "version": "1.3"
+      },
+      "is_public": true,
+      "modified": "2014-04-23T10:53:39+00:00",
       "note": "### Supported Languages in 1.3\r\n* Bulgarian\r\n* Bengali\r\n* Catalan\r\n* Czech\r\n* German\r\n* Greek\r\n* Spanish\r\n* Croatian\r\n* Hungarian\r\n* Italian\r\n* Dutch\r\n* Polish\r\n* Portuguese (Brazil)\r\n* Romanian\r\n* Russian\r\n* Slovak\r\n* Serbian\r\n* Turkish\r\n* Chinese (Traditional)",
-      "is_public": true,
-      "tag": "Language",
-      "bug": null,
-      "fixed_in_release": {
-        "product": "Firefox OS",
-        "title": "Firefox OS 1.3 Release",
-        "version": "1.3",
-        "is_public": true,
-        "slug": "firefox-os-1.3-release",
-        "channel": "Release"
-      }
+      "sort_num": 0,
+      "tag": "Language"
     },
     {
+      "bug": null,
+      "created": "2014-03-25T16:15:26+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": true,
+        "product": "Firefox OS",
+        "slug": "firefox-os-1.3-release",
+        "title": "Firefox OS 1.3 Release",
+        "version": "1.3"
+      },
+      "is_public": true,
+      "modified": "2014-04-23T10:53:38+00:00",
       "note": "**DOM API**:\r\nContacts API now uses WebIDL [bug 850430](https://bugzilla.mozilla.org/show_bug.cgi?id=850430), with associated changes:\r\n\r\n* Date properties now handled consistently across the Contacts code.\r\n* mozContacts.remove now accepts a contact ID for removal.\r\n*  The DataStore API has been enabled by default in B2G for certified apps only [bug 967414](https://bugzilla.mozilla.org/show_bug.cgi?id=967414),and its permissions have been tweaked [bug 871445](https://bugzilla.mozilla.org/show_bug.cgi?id=871445).",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": null,
-      "fixed_in_release": {
-        "product": "Firefox OS",
-        "title": "Firefox OS 1.3 Release",
-        "version": "1.3",
-        "is_public": true,
-        "slug": "firefox-os-1.3-release",
-        "channel": "Release"
-      }
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
+      "bug": null,
+      "created": "2014-03-25T17:11:41+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": true,
+        "product": "Firefox OS",
+        "slug": "firefox-os-1.3-release",
+        "title": "Firefox OS 1.3 Release",
+        "version": "1.3"
+      },
+      "is_public": true,
+      "modified": "2014-04-23T10:53:38+00:00",
       "note": "**DOM/API**:\r\nMulti-SIM support landed in Firefox OS (Dual-SIM-Dual-Standby or DSDS). navigator.mozMobileConnection becomes an array of MozMobileConnection instances, i.e. navigator.mozMobileConnections.  The privileged subset of this API can be used to detect MCC (country) and MNC (carrier).",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": null,
-      "fixed_in_release": {
-        "product": "Firefox OS",
-        "title": "Firefox OS 1.3 Release",
-        "version": "1.3",
-        "is_public": true,
-        "slug": "firefox-os-1.3-release",
-        "channel": "Release"
-      }
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
+      "bug": null,
+      "created": "2014-03-25T17:12:52+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": true,
+        "product": "Firefox OS",
+        "slug": "firefox-os-1.3-release",
+        "title": "Firefox OS 1.3 Release",
+        "version": "1.3"
+      },
+      "is_public": true,
+      "modified": "2014-04-23T10:53:38+00:00",
       "note": "**DOM/API**:\r\nThe WebIccManager API, which allows support for multiple sim cards, has had updates: iccChangeEvent has been added using using event generator [bug 814637](https://bugzilla.mozilla.org/show_bug.cgi?id=814637)",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": null,
-      "fixed_in_release": {
-        "product": "Firefox OS",
-        "title": "Firefox OS 1.3 Release",
-        "version": "1.3",
-        "is_public": true,
-        "slug": "firefox-os-1.3-release",
-        "channel": "Release"
-      }
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
+      "bug": null,
+      "created": "2014-03-25T17:15:56+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": true,
+        "product": "Firefox OS",
+        "slug": "firefox-os-1.3-release",
+        "title": "Firefox OS 1.3 Release",
+        "version": "1.3"
+      },
+      "is_public": true,
+      "modified": "2014-04-23T10:53:38+00:00",
       "note": "**DOM/API**:\r\nNFC has had updates:onpeerready and onpeerlost callbacks added [bug 933136](https://bugzilla.mozilla.org/show_bug.cgi?id=933136).",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": null,
-      "fixed_in_release": {
-        "product": "Firefox OS",
-        "title": "Firefox OS 1.3 Release",
-        "version": "1.3",
-        "is_public": true,
-        "slug": "firefox-os-1.3-release",
-        "channel": "Release"
-      }
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
+      "bug": null,
+      "created": "2014-03-25T17:17:55+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": true,
+        "product": "Firefox OS",
+        "slug": "firefox-os-1.3-release",
+        "title": "Firefox OS 1.3 Release",
+        "version": "1.3"
+      },
+      "is_public": true,
+      "modified": "2014-04-23T10:53:38+00:00",
       "note": "**DOM/API**:\r\nNew interface added \u2014 checkP2PRegistration \u2014 plus the 'ChromeOnly' interfaces eventListenerWasAdded and eventListenerWasRemoved, to support basic PeerToPeer use cases.",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": null,
-      "fixed_in_release": {
-        "product": "Firefox OS",
-        "title": "Firefox OS 1.3 Release",
-        "version": "1.3",
-        "is_public": true,
-        "slug": "firefox-os-1.3-release",
-        "channel": "Release"
-      }
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
+      "bug": null,
+      "created": "2014-03-25T17:20:29+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": true,
+        "product": "Firefox OS",
+        "slug": "firefox-os-1.3-release",
+        "title": "Firefox OS 1.3 Release",
+        "version": "1.3"
+      },
+      "is_public": true,
+      "modified": "2014-04-23T10:53:38+00:00",
       "note": "**DOM/API**:\r\nNew interface added \u2014 checkP2PRegistration \u2014 plus the 'ChromeOnly' interfaces eventListenerWasAdded and eventListenerWasRemoved, to support basic PeerToPeer use cases.",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": null,
-      "fixed_in_release": {
-        "product": "Firefox OS",
-        "title": "Firefox OS 1.3 Release",
-        "version": "1.3",
-        "is_public": true,
-        "slug": "firefox-os-1.3-release",
-        "channel": "Release"
-      }
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
+      "bug": null,
+      "created": "2014-03-25T17:22:10+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": true,
+        "product": "Firefox OS",
+        "slug": "firefox-os-1.3-release",
+        "title": "Firefox OS 1.3 Release",
+        "version": "1.3"
+      },
+      "is_public": true,
+      "modified": "2014-04-23T10:53:38+00:00",
       "note": "**DOM/API**:\r\nNew interfaces added to MozNfcManager DOM notifyUserAcceptedP2P and notifySendFileStatus [bug 959437](https://bugzilla.mozilla.org/show_bug.cgi?id=959437)",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": null,
-      "fixed_in_release": {
-        "product": "Firefox OS",
-        "title": "Firefox OS 1.3 Release",
-        "version": "1.3",
-        "is_public": true,
-        "slug": "firefox-os-1.3-release",
-        "channel": "Release"
-      }
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
+      "bug": null,
+      "created": "2014-03-25T17:23:34+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": true,
+        "product": "Firefox OS",
+        "slug": "firefox-os-1.3-release",
+        "title": "Firefox OS 1.3 Release",
+        "version": "1.3"
+      },
+      "is_public": true,
+      "modified": "2014-04-23T10:53:38+00:00",
       "note": "**DOM/API**:\r\nsendFile interface added to MozNFCPeer [bug 933093](https://bugzilla.mozilla.org/show_bug.cgi?id=933093).",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": null,
-      "fixed_in_release": {
-        "product": "Firefox OS",
-        "title": "Firefox OS 1.3 Release",
-        "version": "1.3",
-        "is_public": true,
-        "slug": "firefox-os-1.3-release",
-        "channel": "Release"
-      }
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
+      "bug": null,
+      "created": "2014-03-25T17:25:42+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": true,
+        "product": "Firefox OS",
+        "slug": "firefox-os-1.3-release",
+        "title": "Firefox OS 1.3 Release",
+        "version": "1.3"
+      },
+      "is_public": true,
+      "modified": "2014-04-23T10:53:38+00:00",
       "note": "**DOM/API**:\r\nThe SpeakerManager API has been implemented, to allow usage such as FM Radio outputting to phone speakers [bug 854753](https://bugzilla.mozilla.org/show_bug.cgi?id=854753).",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": null,
-      "fixed_in_release": {
-        "product": "Firefox OS",
-        "title": "Firefox OS 1.3 Release",
-        "version": "1.3",
-        "is_public": true,
-        "slug": "firefox-os-1.3-release",
-        "channel": "Release"
-      }
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
+      "bug": null,
+      "created": "2014-03-25T17:27:54+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": true,
+        "product": "Firefox OS",
+        "slug": "firefox-os-1.3-release",
+        "title": "Firefox OS 1.3 Release",
+        "version": "1.3"
+      },
+      "is_public": true,
+      "modified": "2014-04-23T10:53:38+00:00",
       "note": "**DOM/ API**:\r\nNotification.get() added to Notification API to provide a way to get current notification objects [bug 899574](https://bugzilla.mozilla.org/show_bug.cgi?id=899574).",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": null,
-      "fixed_in_release": {
-        "product": "Firefox OS",
-        "title": "Firefox OS 1.3 Release",
-        "version": "1.3",
-        "is_public": true,
-        "slug": "firefox-os-1.3-release",
-        "channel": "Release"
-      }
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
+      "bug": null,
+      "created": "2014-03-25T17:30:14+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": true,
+        "product": "Firefox OS",
+        "slug": "firefox-os-1.3-release",
+        "title": "Firefox OS 1.3 Release",
+        "version": "1.3"
+      },
+      "is_public": true,
+      "modified": "2014-04-23T10:53:38+00:00",
       "note": "**General Gecko**:\r\nThe navigator.onLine and console objects have been implemented in Web Workers [bug 925437](https://bugzilla.mozilla.org/show_bug.cgi?id=925437) and [bug 620935](https://bugzilla.mozilla.org/show_bug.cgi?id=620935)",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": null,
-      "fixed_in_release": {
-        "product": "Firefox OS",
-        "title": "Firefox OS 1.3 Release",
-        "version": "1.3",
-        "is_public": true,
-        "slug": "firefox-os-1.3-release",
-        "channel": "Release"
-      }
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
+      "bug": null,
+      "created": "2014-03-25T17:31:18+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": true,
+        "product": "Firefox OS",
+        "slug": "firefox-os-1.3-release",
+        "title": "Firefox OS 1.3 Release",
+        "version": "1.3"
+      },
+      "is_public": true,
+      "modified": "2014-04-23T10:53:38+00:00",
       "note": "**General Gecko**: The web components ShadowRoot stylesheet behaviour has been implemented [bug 929885](https://bugzilla.mozilla.org/show_bug.cgi?id=929885).",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": null,
-      "fixed_in_release": {
-        "product": "Firefox OS",
-        "title": "Firefox OS 1.3 Release",
-        "version": "1.3",
-        "is_public": true,
-        "slug": "firefox-os-1.3-release",
-        "channel": "Release"
-      }
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
+      "bug": null,
+      "created": "2014-03-25T17:32:21+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": true,
+        "product": "Firefox OS",
+        "slug": "firefox-os-1.3-release",
+        "title": "Firefox OS 1.3 Release",
+        "version": "1.3"
+      },
+      "is_public": true,
+      "modified": "2014-04-23T10:53:38+00:00",
       "note": "**General Gecko**: JavaScript Pointer Events have been implemented [bug 822898](https://bugzilla.mozilla.org/show_bug.cgi?id=822898).",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": null,
-      "fixed_in_release": {
-        "product": "Firefox OS",
-        "title": "Firefox OS 1.3 Release",
-        "version": "1.3",
-        "is_public": true,
-        "slug": "firefox-os-1.3-release",
-        "channel": "Release"
-      }
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
+      "bug": null,
+      "created": "2014-03-25T17:35:05+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": true,
+        "product": "Firefox OS",
+        "slug": "firefox-os-1.3-release",
+        "title": "Firefox OS 1.3 Release",
+        "version": "1.3"
+      },
+      "is_public": true,
+      "modified": "2014-04-23T10:53:39+00:00",
       "note": "**General Gecko**: The vtt.js WebVTT JavaScript parser has been added into Gecko [bug 895091] (https://bugzilla.mozilla.org/show_*bug.cgi?id=895091). On a related note, TextTrack now dispatches TrackEvents [bug 893309] (https://bugzilla.mozilla.org/show_bug.cgi?id=893309)",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": null,
-      "fixed_in_release": {
-        "product": "Firefox OS",
-        "title": "Firefox OS 1.3 Release",
-        "version": "1.3",
-        "is_public": true,
-        "slug": "firefox-os-1.3-release",
-        "channel": "Release"
-      }
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
+      "bug": null,
+      "created": "2014-03-25T17:36:44+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": true,
+        "product": "Firefox OS",
+        "slug": "firefox-os-1.3-release",
+        "title": "Firefox OS 1.3 Release",
+        "version": "1.3"
+      },
+      "is_public": true,
+      "modified": "2014-04-23T10:53:39+00:00",
       "note": "**General Gecko**:  The vtt.js WebVTT JavaScript parser has been added into Gecko [bug 895091] (https://bugzilla.mozilla.org/show_*bug.cgi?id=895091). On a related note, TextTrack now dispatches TrackEvents [bug 893309] (https://bugzilla.mozilla.org/show_bug.cgi?id=893309)",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": null,
-      "fixed_in_release": {
-        "product": "Firefox OS",
-        "title": "Firefox OS 1.3 Release",
-        "version": "1.3",
-        "is_public": true,
-        "slug": "firefox-os-1.3-release",
-        "channel": "Release"
-      }
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
+      "bug": null,
+      "created": "2014-03-25T17:38:22+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": true,
+        "product": "Firefox OS",
+        "slug": "firefox-os-1.3-release",
+        "title": "Firefox OS 1.3 Release",
+        "version": "1.3"
+      },
+      "is_public": true,
+      "modified": "2014-04-23T10:53:39+00:00",
       "note": "**General Gecko**: Shared workers are implemented but disabled by default in Gecko 28 (set the dom.workers.sharedWorkers.enabled to true to enable.) They are enabled by default in Gecko 29 ",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": null,
-      "fixed_in_release": {
-        "product": "Firefox OS",
-        "title": "Firefox OS 1.3 Release",
-        "version": "1.3",
-        "is_public": true,
-        "slug": "firefox-os-1.3-release",
-        "channel": "Release"
-      }
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
-      "note": "###General Gecko:\r\n* WebIDL enum added for for AudioChannel in HTMLMediaElement (see [bug 925594](https://bugzilla.mozilla.org/show_bug.cgi?id=925594)\r\n* HTMLVideoElement.canPlayType('video/webm') now reports maybe. [bug 884275](https://bugzilla.mozilla.org/show_bug.cgi?id=884275)\r\n* The DocumentFragment.getElementById() method has been implemented. E.g. document.createDocumentFragment().getElementById() [bug 933193](https://bugzilla.mozilla.org/show_bug.cgi?id=933193).\r\n* The KeyboardEvent.repeat attribute has been implemented [bug 600117](https://bugzilla.mozilla.org/show_bug.cgi?id=600117)\r\n* The File constructor, e.g. new File([\"foo\"], \"foo.txt\") has been implemented. [bug 819900](https://bugzilla.mozilla.org/show_bug.cgi?id=819900)\r\n* The navigator.plugins is no more enumerable, for privacy reasons [bug 757726](https://bugzilla.mozilla.org/show_bug.cgi?id=757726)\r\n* The two attributes Window.screenX and Window.screenY now return CSS pixels (and no more device pixels) [bug 943668](https://bugzilla.mozilla.org/show_bug.cgi?id=943668)\r\n* The two methods CanvasRenderingContext2D.drawSystemFocusRing() and CanvasRenderingContext2D.drawCustomFocusRing() have been implemented. The preference canvas.focusring.enabled must be set to true to activate both [bug 540456](https://bugzilla.mozilla.org/show_bug.cgi?id=540456)\r\n* The following attributes have been added to NavigatorID: appCodeName and product [bug 925847](https://bugzilla.mozilla.org/show_bug.cgi?id=925847)\r\n* Support for the two setRange() methods on the HTMLInputElement interface has been added [bug 850364](https://bugzilla.mozilla.org/show_bug.cgi?id=850364).\r\n* Support for the two setRange() methods on the HTMLTextAreaElement interface has been added [bug 918940](https://bugzilla.mozilla.org/show_bug.cgi?id=918940)\r\n* The method getAllKeys() and openKeyCursor() have been added to IDBObjectStore [bug 920633](https://bugzilla.mozilla.org/show_bug.cgi?id=920633) and [bug 920800](https://bugzilla.mozilla.org/show_bug.cgi?id=920800)\r\n* The HTMLFormControlsCollection interface has been implemented [bug 913920](https://bugzilla.mozilla.org/show_bug.cgi?id=913920)\r\n* The CanvasRenderingContext2D interface supports now the two methods getLineDash() and setLineDash() [bug 768067](https://bugzilla.mozilla.org/show_bug.cgi?id=768067)\r\n* The typeMustMatch attribute has been implemented on the HTMLObjectElement interface [bug 827160](https://bugzilla.mozilla.org/show_bug.cgi?id=827160)\r\n* The copyFromChannel() and copyToChannel() methods have been added to AudioBuffer [bug 915524](https://bugzilla.mozilla.org/show_bug.cgi?id=915524)\r\n* Event.isTrusted() is now unforgeable [bug 637248](https://bugzilla.mozilla.org/show_bug.cgi?id=637248)\r\n* The Navigator.vibrate() method has been adapted to match the final specification: It now returns false when the list is too long or has too large entries, instead of throwing [bug 884935](https://bugzilla.mozilla.org/show_bug.cgi?id=884935)\r\n* As part of the ongoing effort to standardize global objects, the non-standard stylesheet change event interfaces, including StyleRuleChangeEvent, StyleSheetApplicableStateChangeEvent and StyleSheetChangeEvent, are no longer available from Web content. The CSSGroupRuleRuleList interface, the implementation detail of CSSRuleList, has also been removed [bug 872934](https://bugzilla.mozilla.org/show_bug.cgi?id=872934) and [bug 916871](https://bugzilla.mozilla.org/show_bug.cgi?id=916871)\r\n* atob now ignores whitespaces [bug 711180](https://bugzilla.mozilla.org/show_bug.cgi?id=711180)\r\n* WebGL: MOZ_ prefixed extension strings are deprecated. Support for them will be removed in the future. Use unprefixed extension string only. To get draft extensions, set the webgl.enable-draft-extensions preferences [bug 924176](https://bugzilla.mozilla.org/show_bug.cgi?id=924176)",
-      "is_public": true,
-      "tag": "Developer",
       "bug": null,
+      "created": "2014-03-25T17:53:11+00:00",
       "fixed_in_release": {
-        "product": "Firefox OS",
-        "title": "Firefox OS 1.3 Release",
-        "version": "1.3",
+        "channel": "Release",
         "is_public": true,
+        "product": "Firefox OS",
         "slug": "firefox-os-1.3-release",
-        "channel": "Release"
-      }
+        "title": "Firefox OS 1.3 Release",
+        "version": "1.3"
+      },
+      "is_public": true,
+      "modified": "2014-04-23T10:53:39+00:00",
+      "note": "###General Gecko:\r\n* WebIDL enum added for for AudioChannel in HTMLMediaElement (see [bug 925594](https://bugzilla.mozilla.org/show_bug.cgi?id=925594)\r\n* HTMLVideoElement.canPlayType('video/webm') now reports maybe. [bug 884275](https://bugzilla.mozilla.org/show_bug.cgi?id=884275)\r\n* The DocumentFragment.getElementById() method has been implemented. E.g. document.createDocumentFragment().getElementById() [bug 933193](https://bugzilla.mozilla.org/show_bug.cgi?id=933193).\r\n* The KeyboardEvent.repeat attribute has been implemented [bug 600117](https://bugzilla.mozilla.org/show_bug.cgi?id=600117)\r\n* The File constructor, e.g. new File([\"foo\"], \"foo.txt\") has been implemented. [bug 819900](https://bugzilla.mozilla.org/show_bug.cgi?id=819900)\r\n* The navigator.plugins is no more enumerable, for privacy reasons [bug 757726](https://bugzilla.mozilla.org/show_bug.cgi?id=757726)\r\n* The two attributes Window.screenX and Window.screenY now return CSS pixels (and no more device pixels) [bug 943668](https://bugzilla.mozilla.org/show_bug.cgi?id=943668)\r\n* The two methods CanvasRenderingContext2D.drawSystemFocusRing() and CanvasRenderingContext2D.drawCustomFocusRing() have been implemented. The preference canvas.focusring.enabled must be set to true to activate both [bug 540456](https://bugzilla.mozilla.org/show_bug.cgi?id=540456)\r\n* The following attributes have been added to NavigatorID: appCodeName and product [bug 925847](https://bugzilla.mozilla.org/show_bug.cgi?id=925847)\r\n* Support for the two setRange() methods on the HTMLInputElement interface has been added [bug 850364](https://bugzilla.mozilla.org/show_bug.cgi?id=850364).\r\n* Support for the two setRange() methods on the HTMLTextAreaElement interface has been added [bug 918940](https://bugzilla.mozilla.org/show_bug.cgi?id=918940)\r\n* The method getAllKeys() and openKeyCursor() have been added to IDBObjectStore [bug 920633](https://bugzilla.mozilla.org/show_bug.cgi?id=920633) and [bug 920800](https://bugzilla.mozilla.org/show_bug.cgi?id=920800)\r\n* The HTMLFormControlsCollection interface has been implemented [bug 913920](https://bugzilla.mozilla.org/show_bug.cgi?id=913920)\r\n* The CanvasRenderingContext2D interface supports now the two methods getLineDash() and setLineDash() [bug 768067](https://bugzilla.mozilla.org/show_bug.cgi?id=768067)\r\n* The typeMustMatch attribute has been implemented on the HTMLObjectElement interface [bug 827160](https://bugzilla.mozilla.org/show_bug.cgi?id=827160)\r\n* The copyFromChannel() and copyToChannel() methods have been added to AudioBuffer [bug 915524](https://bugzilla.mozilla.org/show_bug.cgi?id=915524)\r\n* Event.isTrusted() is now unforgeable [bug 637248](https://bugzilla.mozilla.org/show_bug.cgi?id=637248)\r\n* The Navigator.vibrate() method has been adapted to match the final specification: It now returns false when the list is too long or has too large entries, instead of throwing [bug 884935](https://bugzilla.mozilla.org/show_bug.cgi?id=884935)\r\n* As part of the ongoing effort to standardize global objects, the non-standard stylesheet change event interfaces, including StyleRuleChangeEvent, StyleSheetApplicableStateChangeEvent and StyleSheetChangeEvent, are no longer available from Web content. The CSSGroupRuleRuleList interface, the implementation detail of CSSRuleList, has also been removed [bug 872934](https://bugzilla.mozilla.org/show_bug.cgi?id=872934) and [bug 916871](https://bugzilla.mozilla.org/show_bug.cgi?id=916871)\r\n* atob now ignores whitespaces [bug 711180](https://bugzilla.mozilla.org/show_bug.cgi?id=711180)\r\n* WebGL: MOZ_ prefixed extension strings are deprecated. Support for them will be removed in the future. Use unprefixed extension string only. To get draft extensions, set the webgl.enable-draft-extensions preferences [bug 924176](https://bugzilla.mozilla.org/show_bug.cgi?id=924176)",
+      "sort_num": 0,
+      "tag": "Developer"
     }
   ],
-  "text": "1.3 Release Notes",
+  "product": "Firefox OS",
   "release_date": "2014-03-17",
   "slug": "firefox-os-1.3-release",
-  "version": "1.3",
-  "bug_search_url": "",
-  "is_public": true,
   "system_requirements": "Supported chip sets",
-  "channel": "Release"
+  "text": "1.3 Release Notes",
+  "title": "Firefox OS 1.3 Release",
+  "version": "1.3"
 }

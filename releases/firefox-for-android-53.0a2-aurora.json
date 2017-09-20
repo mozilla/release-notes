@@ -1,33 +1,44 @@
 {
-  "product": "Firefox for Android",
   "bug_list": "",
-  "title": "Firefox for Android 53.0a2 Aurora",
+  "bug_search_url": "",
+  "channel": "Aurora",
+  "created": "2017-01-18T15:37:43.777000+00:00",
+  "is_public": true,
+  "modified": "2017-03-08T08:36:49.219000+00:00",
   "notes": [
     {
+      "bug": 1319302,
+      "created": "2017-01-27T22:05:50.543000+00:00",
+      "is_public": true,
+      "modified": "2017-04-17T20:24:26.901000+00:00",
       "note": "[Right to Left][1] Language Support - Arabic (ar), Urdu (ur), Hebrew (he) and Persian (fa)\r\n\r\n\r\n  [1]: https://wiki.mozilla.org/Mobile/Firefox_for_Android/RTL",
-      "is_public": true,
-      "tag": "New",
-      "bug": 1319302
+      "sort_num": 95,
+      "tag": "New"
     },
     {
+      "bug": 1332981,
+      "created": "2017-01-27T22:06:56.276000+00:00",
+      "is_public": true,
+      "modified": "2017-03-01T20:46:29.939000+00:00",
       "note": "EME (Encrypted Media Extensions) DRM video enabled on Firefox for Android",
-      "is_public": true,
-      "tag": "New",
-      "bug": 1332981
+      "sort_num": 0,
+      "tag": "New"
     },
     {
-      "note": "Move Android audio/video decoder out of application process for better stability during media playback",
+      "bug": 1257777,
+      "created": "2017-01-27T22:06:22.998000+00:00",
       "is_public": true,
-      "tag": "Changed",
-      "bug": 1257777
+      "modified": "2017-04-17T20:18:02.627000+00:00",
+      "note": "Move Android audio/video decoder out of application process for better stability during media playback",
+      "sort_num": 0,
+      "tag": "Changed"
     }
   ],
-  "text": "",
+  "product": "Firefox for Android",
   "release_date": "2017-01-27",
   "slug": "firefox-for-android-53.0a2-aurora",
-  "version": "53.0a2",
-  "bug_search_url": "",
-  "is_public": true,
   "system_requirements": "## Operating systems\r\n - Android 4.0\r\n - Above versions\r\n\r\n## Requirements\r\n - 50 MB internal storage\r\n - 384 MB of RAM\r\n - display at least 320 pixels high and 240 pixels wide",
-  "channel": "Aurora"
+  "text": "",
+  "title": "Firefox for Android 53.0a2 Aurora",
+  "version": "53.0a2"
 }

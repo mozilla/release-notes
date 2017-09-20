@@ -1,93 +1,134 @@
 {
-  "product": "Firefox",
   "bug_list": "",
-  "title": "Firefox 52.0beta Beta",
+  "bug_search_url": "",
+  "channel": "Beta",
+  "created": "2017-01-18T15:14:28.369000+00:00",
+  "is_public": true,
+  "modified": "2017-01-25T23:00:40.012000+00:00",
   "notes": [
     {
+      "bug": 1188259,
+      "created": "2016-11-18T22:03:17.228000+00:00",
+      "is_public": true,
+      "modified": "2017-03-06T10:29:45.598000+00:00",
       "note": "Added support for WebAssembly, an emerging standard that brings near-native performance to Web-based games, apps, and software libraries without the use of plugins.",
-      "is_public": true,
-      "tag": "New",
-      "bug": 1188259
+      "sort_num": 10,
+      "tag": "New"
     },
     {
+      "bug": 1202680,
+      "created": "2016-11-18T22:05:27.657000+00:00",
+      "is_public": true,
+      "modified": "2017-03-07T17:33:25.738000+00:00",
       "note": "Added automatic captive portal detection, for easier access to Wi-Fi hotspots. When accessing the Internet via a captive portal, Firefox will alert users and open the portal login page in a new tab.",
-      "is_public": true,
-      "tag": "New",
-      "bug": 1202680
+      "sort_num": 9,
+      "tag": "New"
     },
     {
+      "bug": 1304534,
+      "created": "2016-11-18T21:01:15.062000+00:00",
+      "is_public": true,
+      "modified": "2017-03-06T09:52:31.793000+00:00",
       "note": "Enhanced Sync to allow users to send and open tabs from one device to another.",
-      "is_public": true,
-      "tag": "New",
-      "bug": 1304534
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": 1258839,
+      "created": "2016-11-18T22:00:57.405000+00:00",
+      "is_public": true,
+      "modified": "2017-03-07T18:49:15.378000+00:00",
       "note": "Enabled multi-process Firefox for 32-bit Windows users with touch screens",
-      "is_public": true,
-      "tag": "New",
-      "bug": 1258839
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": 1304224,
+      "created": "2016-11-23T16:10:36.870000+00:00",
+      "is_public": true,
+      "modified": "2017-03-06T09:47:40.157000+00:00",
       "note": "Added user warnings for [non-secure HTTP pages with logins][1]. Firefox now displays a \u201cThis connection is not secure\u201d message when users click into the username and password fields on pages that don\u2019t use HTTPS.\r\n\r\n[1]: https://blog.mozilla.org/security/2017/01/20/communicating-the-dangers-of-non-secure-http/",
-      "is_public": true,
-      "tag": "New",
-      "bug": 1304224
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": 976073,
+      "created": "2017-01-18T15:59:53.893000+00:00",
+      "is_public": true,
+      "modified": "2017-03-06T10:30:57.343000+00:00",
       "note": "Implemented the Strict Secure Cookies specification which forbids insecure HTTP sites from setting cookies with the \"secure\" attribute.  In some cases, this will prevent an insecure site from setting a cookie with the same name as an existing \"secure\" cookie from the same base domain.",
-      "is_public": true,
-      "tag": "New",
-      "bug": 976073
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": 1269807,
+      "created": "2016-11-18T22:24:14.696000+00:00",
+      "is_public": true,
+      "modified": "2017-03-06T10:01:47.657000+00:00",
       "note": "[Removed support][1] for Netscape Plugin API (NPAPI) plugins other than Flash. Silverlight, Java, Acrobat and the like are no longer supported. \r\n\r\n  [1]: https://blog.mozilla.org/futurereleases/2015/10/08/npapi-plugins-in-firefox/",
-      "is_public": true,
-      "tag": "Changed",
-      "bug": 1269807
+      "sort_num": 10000,
+      "tag": "Changed"
     },
     {
+      "bug": 1313580,
+      "created": "2016-11-18T21:00:10.904000+00:00",
+      "is_public": true,
+      "modified": "2017-03-17T03:34:05.887000+00:00",
       "note": "Removed Battery Status API to reduce fingerprinting of users by trackers",
-      "is_public": true,
-      "tag": "Changed",
-      "bug": 1313580
+      "sort_num": 0,
+      "tag": "Changed"
     },
     {
+      "bug": 1270014,
+      "created": "2017-01-24T13:25:31.155000+00:00",
+      "is_public": true,
+      "modified": "2017-03-06T10:03:08.403000+00:00",
       "note": "Improved experience for downloads:\r\n\r\n* Notification in the toolbar when a download fails\r\n* Quick access to five most recent downloads rather than three\r\n* Larger buttons for canceling and restarting downloads\r\n",
-      "is_public": true,
-      "tag": "Changed",
-      "bug": 1270014
+      "sort_num": 0,
+      "tag": "Changed"
     },
     {
+      "bug": 1305769,
+      "created": "2016-11-18T21:00:46.710000+00:00",
+      "is_public": true,
+      "modified": "2017-03-06T10:09:23.364000+00:00",
       "note": "Redesigned [Responsive Design Mode][1] to include device selection, network throttling, and more\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Responsive_Design_Mode",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": 1305769
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
+      "bug": 1127522,
+      "created": "2016-11-18T21:02:20.875000+00:00",
+      "is_public": true,
+      "modified": "2017-03-06T10:24:48.259000+00:00",
       "note": "Improved [security for screen sharing][1], which now shows a preview and no longer requires a whitelisted domain\r\n\r\n[1]: https://medium.com/@pastith/feeling-safer-online-with-firefox-b9fe13af6600#0594",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": 1127522
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
+      "bug": 616605,
+      "created": "2016-11-23T16:13:35.957000+00:00",
+      "is_public": true,
+      "modified": "2017-03-06T10:08:54.730000+00:00",
       "note": "Enabled [CSS Grid Layout][1], opening up a world of new possibilities for graphic design\r\n\r\n[1]: https://developer.mozilla.org/docs/Web/CSS/CSS_Grid_Layout",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": 616605
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
-      "note": "Improved text input for third-party keyboard layouts on Windows. This will address some keyboard layouts that \r\n\r\n* have chained dead keys \r\n* input two or more characters with a non-printable key or a dead key sequence\r\n* input a character even when a dead key sequence failed to compose a character\r\n",
+      "bug": 1302956,
+      "created": "2017-01-24T13:47:08.680000+00:00",
       "is_public": true,
-      "tag": "Fixed",
-      "bug": 1302956
+      "modified": "2017-03-06T09:53:57.461000+00:00",
+      "note": "Improved text input for third-party keyboard layouts on Windows. This will address some keyboard layouts that \r\n\r\n* have chained dead keys \r\n* input two or more characters with a non-printable key or a dead key sequence\r\n* input a character even when a dead key sequence failed to compose a character\r\n",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
-  "text": "",
+  "product": "Firefox",
   "release_date": "2017-01-25",
   "slug": "firefox-52.0beta-beta",
-  "version": "52.0beta",
-  "bug_search_url": "",
-  "is_public": true,
   "system_requirements": "## Windows\r\n\r\n### Operating Systems (32-bit and 64-bit)\r\n - Windows XP SP2\r\n - Windows Server 2003 SP1\r\n - Windows Vista\r\n - Windows 7\r\n - Windows 8\r\n - Windows 10\r\n\r\n*Please note that 64-bit builds of Firefox are only supported on Windows 7 and higher.*\r\n\r\n*To install [Firefox on a Windows XP system][1], because of Windows restrictions, the user will have to download Firefox 43.0.1 and then update to the current release.*\r\n\r\n*From Firefox 53 planned for April 2017, Windows XP/Vista/Server 2008 are no longer supported. These users should migrate to ESR 52 once available (planned for March 2017).*\r\n\r\n### Recommended Hardware\r\n-  Pentium 4 or newer processor that supports SSE2\r\n-  512MB of RAM\r\n-  200MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- Mac OS X 10.9\r\n- Mac OS X 10.10\r\n- Mac OS X 10.11\r\n- Mac OS X 10.12\r\n\r\n### Recommended Hardware\r\n- Macintosh computer with an Intel x86 processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - GTK+ 3.4 or higher\r\n    - GLib 2.22 or higher\r\n    - Pango 1.14 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n    - libstdc++ 4.6.1 or higher\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - NetworkManager 0.7 or higher\r\n    - DBus 1.0 or higher\r\n    - GNOME 2.16 or higher\r\n\r\n  [1]: https://support.mozilla.org/kb/get-latest-version-firefox-windows-xp-vista",
-  "channel": "Beta"
+  "text": "",
+  "title": "Firefox 52.0beta Beta",
+  "version": "52.0beta"
 }

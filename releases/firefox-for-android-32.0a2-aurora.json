@@ -1,63 +1,89 @@
 {
-  "product": "Firefox for Android",
   "bug_list": "",
-  "title": "Firefox for Android 32.0a2 Aurora",
+  "bug_search_url": "",
+  "channel": "Aurora",
+  "created": "2014-05-07T02:09:08+00:00",
+  "is_public": true,
+  "modified": "2014-06-13T12:37:20+00:00",
   "notes": [
     {
+      "bug": 917480,
+      "created": "2014-05-14T04:39:04+00:00",
+      "is_public": true,
+      "modified": "2014-09-23T08:43:43+00:00",
       "note": "Switch between any of Firefox for Android's 55 supported languages without leaving the browser",
-      "is_public": true,
-      "tag": "New",
-      "bug": 917480
+      "sort_num": 2200,
+      "tag": "New"
     },
     {
+      "bug": 998009,
+      "created": "2014-06-05T17:18:37+00:00",
+      "is_public": true,
+      "modified": "2014-09-23T08:43:43+00:00",
       "note": "Clear History control added to the history panel",
-      "is_public": true,
-      "tag": "New",
-      "bug": 998009
+      "sort_num": 2000,
+      "tag": "New"
     },
     {
+      "bug": 701725,
+      "created": "2014-03-04T08:37:28+00:00",
+      "is_public": true,
+      "modified": "2014-11-04T14:35:30+00:00",
       "note": "Enhanced tab management:\r\n\r\n - Undo a closed tab\r\n -  List recently closed tabs\r\n - Close all tabs at once\r\n - Quick switch-to-tab option when opening a new or private tab",
-      "is_public": true,
-      "tag": "New",
-      "bug": 701725
+      "sort_num": 108,
+      "tag": "New"
     },
     {
+      "bug": 994472,
+      "created": "2014-05-26T09:20:40+00:00",
+      "is_public": true,
+      "modified": "2014-09-23T08:43:43+00:00",
       "note": " Support URI autocomplete on Swype (and other composition focused) keyboards",
-      "is_public": true,
-      "tag": "New",
-      "bug": 994472
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": 916315,
+      "created": "2014-03-26T16:24:31+00:00",
+      "is_public": true,
+      "modified": "2014-09-23T08:43:43+00:00",
       "note": "CSS [position:sticky][1] enabled by default\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/position",
-      "is_public": true,
-      "tag": "HTML5",
-      "bug": 916315
+      "sort_num": 0,
+      "tag": "HTML5"
     },
     {
+      "bug": 952643,
+      "created": "2014-05-07T02:13:02+00:00",
+      "is_public": true,
+      "modified": "2014-09-23T08:43:43+00:00",
       "note": "mix-blend-mode enabled by default ",
-      "is_public": true,
-      "tag": "HTML5",
-      "bug": 952643
+      "sort_num": 0,
+      "tag": "HTML5"
     },
     {
+      "bug": 1005031,
+      "created": "2014-05-07T10:03:41+00:00",
+      "is_public": true,
+      "modified": "2014-08-27T09:45:59+00:00",
       "note": "Video controls are displayed in the middle of the video ([1005031][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1005031",
-      "is_public": true,
-      "tag": "Known",
-      "bug": 1005031
+      "sort_num": 0,
+      "tag": "Known"
     },
     {
-      "note": "Does not start on Android L preview (see [1030897][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1030897",
+      "bug": 1030897,
+      "created": "2014-07-02T02:30:44+00:00",
       "is_public": true,
-      "tag": "Known",
-      "bug": 1030897
+      "modified": "2014-08-28T10:25:41+00:00",
+      "note": "Does not start on Android L preview (see [1030897][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1030897",
+      "sort_num": 0,
+      "tag": "Known"
     }
   ],
-  "text": " ",
+  "product": "Firefox for Android",
   "release_date": "2014-06-13",
   "slug": "firefox-for-android-32.0a2-aurora",
-  "version": "32.0a2",
-  "bug_search_url": "",
-  "is_public": true,
   "system_requirements": " ",
-  "channel": "Aurora"
+  "text": " ",
+  "title": "Firefox for Android 32.0a2 Aurora",
+  "version": "32.0a2"
 }

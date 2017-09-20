@@ -1,21 +1,26 @@
 {
-  "product": "Firefox OS",
   "bug_list": "",
-  "title": "Firefox OS 2.0 Release",
+  "bug_search_url": "",
+  "channel": "Release",
+  "created": "2014-06-24T14:29:04+00:00",
+  "is_public": false,
+  "modified": "2014-11-03T19:32:19+00:00",
   "notes": [
     {
-      "note": "### SMS / MMS\r\n* Sending pre-defined messages during call reject and MMS to email ",
+      "bug": null,
+      "created": "2014-06-24T15:41:10+00:00",
       "is_public": true,
-      "tag": "New",
-      "bug": null
+      "modified": "2014-09-25T22:18:31+00:00",
+      "note": "### SMS / MMS\r\n* Sending pre-defined messages during call reject and MMS to email ",
+      "sort_num": 0,
+      "tag": "New"
     }
   ],
-  "text": "### NFC\r\n\r\n* Experience enhanced device-device content sharing using NFC",
+  "product": "Firefox OS",
   "release_date": "2014-08-31",
   "slug": "firefox-os-2.0-release",
-  "version": "2.0",
-  "bug_search_url": "",
-  "is_public": false,
   "system_requirements": "",
-  "channel": "Release"
+  "text": "### NFC\r\n\r\n* Experience enhanced device-device content sharing using NFC",
+  "title": "Firefox OS 2.0 Release",
+  "version": "2.0"
 }

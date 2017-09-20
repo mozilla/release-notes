@@ -1,69 +1,98 @@
 {
-  "product": "Firefox",
   "bug_list": "",
-  "title": "Firefox 38.2.0 ESR",
+  "bug_search_url": "",
+  "channel": "ESR",
+  "created": "2015-07-02T20:19:35+00:00",
+  "is_public": true,
+  "modified": "2015-08-11T15:51:18+00:00",
   "notes": [
     {
+      "bug": 1133351,
+      "created": "2015-07-29T19:01:54+00:00",
+      "is_public": true,
+      "modified": "2015-07-29T19:01:55+00:00",
       "note": "Firefox may become unresponsive after right-clicking Flash content on Windows 8",
-      "is_public": true,
-      "tag": "Fixed",
-      "bug": 1133351
+      "sort_num": 0,
+      "tag": "Fixed"
     },
     {
+      "bug": null,
+      "created": "2015-07-29T19:02:25+00:00",
+      "is_public": true,
+      "modified": "2015-07-29T19:02:26+00:00",
       "note": "Various [security fixes][1] \r\n\r\n[1]: https://www.mozilla.org/security/known-vulnerabilities/firefox-esr/#firefoxesr38.2",
-      "is_public": true,
-      "tag": "Fixed",
-      "bug": null
+      "sort_num": 0,
+      "tag": "Fixed"
     },
     {
+      "bug": 1145230,
+      "created": "2015-07-30T20:47:26+00:00",
+      "is_public": true,
+      "modified": "2015-07-30T20:48:06+00:00",
       "note": "Firefox may crash during mp4 video playback",
-      "is_public": true,
-      "tag": "Fixed",
-      "bug": 1145230
+      "sort_num": 0,
+      "tag": "Fixed"
     },
     {
+      "bug": 1175039,
+      "created": "2015-07-30T20:51:49+00:00",
+      "is_public": true,
+      "modified": "2015-07-30T20:51:49+00:00",
       "note": "Branded Firefox application does not open URLs in system default browser",
-      "is_public": true,
-      "tag": "Fixed",
-      "bug": 1175039
+      "sort_num": 0,
+      "tag": "Fixed"
     },
     {
+      "bug": 1174950,
+      "created": "2015-07-30T20:52:53+00:00",
+      "is_public": true,
+      "modified": "2015-07-30T20:52:53+00:00",
       "note": "Significant memory leak with GreaseMonkey add-on",
-      "is_public": true,
-      "tag": "Fixed",
-      "bug": 1174950
+      "sort_num": 0,
+      "tag": "Fixed"
     },
     {
+      "bug": 1175521,
+      "created": "2015-07-30T20:54:23+00:00",
+      "is_public": true,
+      "modified": "2015-07-30T20:54:23+00:00",
       "note": "crash [@ RtlEnterCriticalSection | MessageLoop::PostTask_Helper] on browser shutdown",
-      "is_public": true,
-      "tag": "Fixed",
-      "bug": 1175521
+      "sort_num": 0,
+      "tag": "Fixed"
     },
     {
+      "bug": 1151318,
+      "created": "2015-07-31T21:13:18+00:00",
+      "is_public": true,
+      "modified": "2015-07-31T21:13:18+00:00",
       "note": "Browser UI becomes unresponsive state when using Unity Web Player Plugin",
-      "is_public": true,
-      "tag": "Fixed",
-      "bug": 1151318
+      "sort_num": 0,
+      "tag": "Fixed"
     },
     {
+      "bug": 1189011,
+      "created": "2015-07-31T21:13:53+00:00",
+      "is_public": true,
+      "modified": "2015-07-31T21:14:19+00:00",
       "note": "ESRs will not build on hppa platform",
-      "is_public": true,
-      "tag": "Fixed",
-      "bug": 1189011
+      "sort_num": 0,
+      "tag": "Fixed"
     },
     {
-      "note": "crash in mozilla::layers::SyncObjectD3D11::FinalizeFrame()",
+      "bug": 1143806,
+      "created": "2015-08-03T20:50:45+00:00",
       "is_public": true,
-      "tag": "Fixed",
-      "bug": 1143806
+      "modified": "2015-08-03T20:50:45+00:00",
+      "note": "crash in mozilla::layers::SyncObjectD3D11::FinalizeFrame()",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
-  "text": "",
+  "product": "Firefox",
   "release_date": "2015-08-11",
   "slug": "firefox-38.2.0-esr",
-  "version": "38.2.0",
-  "bug_search_url": "",
-  "is_public": true,
   "system_requirements": "",
-  "channel": "ESR"
+  "text": "",
+  "title": "Firefox 38.2.0 ESR",
+  "version": "38.2.0"
 }

@@ -1,39 +1,53 @@
 {
-  "product": "Firefox for Android",
   "bug_list": "",
-  "title": "Firefox for Android 51.0 Release",
+  "bug_search_url": "",
+  "channel": "Release",
+  "created": "2017-01-18T17:35:39.247000+00:00",
+  "is_public": true,
+  "modified": "2017-01-24T15:11:29.291000+00:00",
   "notes": [
     {
+      "bug": 1307995,
+      "created": "2016-11-15T09:00:10.956000+00:00",
+      "is_public": true,
+      "modified": "2017-02-06T09:44:45.778000+00:00",
       "note": "Added Nepali (ne-NP), Bulgarian (bg) and Kabyle (kab) locales\r\n",
-      "is_public": true,
-      "tag": "New",
-      "bug": 1307995
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": 1253111,
+      "created": "2017-01-23T03:58:12.379000+00:00",
+      "is_public": true,
+      "modified": "2017-02-06T09:44:48.712000+00:00",
       "note": "Improved reliability of browser data sync",
-      "is_public": true,
-      "tag": "New",
-      "bug": 1253111
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": 1307995,
+      "created": "2017-01-18T13:55:55.312000+00:00",
+      "is_public": true,
+      "modified": "2017-02-06T09:44:47.343000+00:00",
       "note": "Remove Belarusian (be) locale",
-      "is_public": true,
-      "tag": "New",
-      "bug": 1307995
+      "sort_num": -1,
+      "tag": "New"
     },
     {
-      "note": "Use 2D graphics library (Skia) for content rendering",
+      "bug": 1186552,
+      "created": "2016-09-21T07:47:25.393000+00:00",
       "is_public": true,
-      "tag": "Changed",
-      "bug": 1186552
+      "modified": "2017-02-06T09:44:43.590000+00:00",
+      "note": "Use 2D graphics library (Skia) for content rendering",
+      "sort_num": 0,
+      "tag": "Changed"
     }
   ],
-  "text": "<p>We'd also like to extend a special thank you to all of the <a href=\"http://blog.mozilla.org/community/2017/01/24/firefox-51-new-contributors/\">new Mozillians</a> who contributed to this release of Firefox!</p>",
+  "product": "Firefox for Android",
   "release_date": "2017-01-24",
   "slug": "firefox-for-android-51.0-release",
-  "version": "51.0",
-  "bug_search_url": "",
-  "is_public": true,
   "system_requirements": "## Operating systems\r\n - Android 4.0\r\n - Above versions\r\n\r\n## Requirements\r\n - 50 MB internal storage\r\n - 384 MB of RAM\r\n - display at least 320 pixels high and 240 pixels wide",
-  "channel": "Release"
+  "text": "<p>We'd also like to extend a special thank you to all of the <a href=\"http://blog.mozilla.org/community/2017/01/24/firefox-51-new-contributors/\">new Mozillians</a> who contributed to this release of Firefox!</p>",
+  "title": "Firefox for Android 51.0 Release",
+  "version": "51.0"
 }

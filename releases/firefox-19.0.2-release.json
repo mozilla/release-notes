@@ -1,143 +1,193 @@
 {
-  "product": "Firefox",
   "bug_list": "",
-  "title": "Firefox 19.0.2 Release",
+  "bug_search_url": "",
+  "channel": "Release",
+  "created": "2013-11-25T00:25:01+00:00",
+  "is_public": true,
+  "modified": "2014-05-28T07:36:18+00:00",
   "notes": [
     {
-      "note": "Pointer lock doesn't work in web apps",
-      "is_public": true,
-      "tag": "",
       "bug": 769150,
+      "created": "2013-11-25T00:24:50+00:00",
       "fixed_in_release": {
-        "product": "Firefox",
-        "title": "Firefox 17.0beta Beta",
-        "version": "17.0beta",
+        "channel": "Beta",
         "is_public": true,
+        "product": "Firefox",
         "slug": "firefox-17.0beta-beta",
-        "channel": "Beta"
-      }
+        "title": "Firefox 17.0beta Beta",
+        "version": "17.0beta"
+      },
+      "is_public": true,
+      "modified": "2014-04-23T10:53:36+00:00",
+      "note": "Pointer lock doesn't work in web apps",
+      "sort_num": 0,
+      "tag": ""
     },
     {
+      "bug": null,
+      "created": "2013-11-25T00:24:50+00:00",
+      "is_public": true,
+      "modified": "2014-04-23T10:53:36+00:00",
       "note": "Click-to-play blocklisting implemented to prevent vulnerable plugin versions from running without the user's permission (see <a href=\"http://blog.mozilla.org/addons/2012/10/11/click-to-play-coming-firefox-17/\">blog post</a>)",
-      "is_public": true,
-      "tag": "New",
-      "bug": null
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": null,
+      "created": "2013-11-25T00:24:49+00:00",
+      "is_public": true,
+      "modified": "2014-04-23T10:53:36+00:00",
       "note": "Updated Awesome Bar experience with larger icons",
-      "is_public": true,
-      "tag": "Changed",
-      "bug": null
+      "sort_num": 500,
+      "tag": "Changed"
     },
     {
+      "bug": null,
+      "created": "2013-11-25T00:24:50+00:00",
+      "is_public": true,
+      "modified": "2014-04-23T10:53:36+00:00",
       "note": "Mac OS X 10.5 is <a href=\"https://blog.mozilla.org/futurereleases/2012/10/04/we-bid-you-adieu-spotted-cat/\">no longer supported</a>",
-      "is_public": true,
-      "tag": "Changed",
-      "bug": null
+      "sort_num": 0,
+      "tag": "Changed"
     },
     {
+      "bug": null,
+      "created": "2013-11-25T00:24:50+00:00",
+      "is_public": true,
+      "modified": "2014-04-23T10:53:36+00:00",
       "note": "<a href=\"https://developer.mozilla.org/en-US/docs/HTML/Element/iframe#attr-sandbox\">Sandbox</a> attribute for iframes implemented, enabling increased security",
-      "is_public": true,
-      "tag": "HTML5",
-      "bug": null
+      "sort_num": 0,
+      "tag": "HTML5"
     },
     {
+      "bug": null,
+      "created": "2013-11-25T00:24:50+00:00",
+      "is_public": true,
+      "modified": "2014-04-23T10:53:36+00:00",
       "note": "SVG FillPaint and StrokePaint implemented ",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": null
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
+      "bug": null,
+      "created": "2013-11-25T00:24:50+00:00",
+      "is_public": true,
+      "modified": "2014-04-23T10:53:36+00:00",
       "note": "New Markup panel in the Page Inspector allows easy editing of the DOM",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": null
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
+      "bug": null,
+      "created": "2013-11-25T00:24:50+00:00",
+      "is_public": true,
+      "modified": "2014-04-23T10:53:36+00:00",
       "note": "Improvements that make the Web Console, Debugger and Developer Toolbar faster and easier to use",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": null
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
+      "bug": null,
+      "created": "2013-11-25T00:24:50+00:00",
+      "is_public": true,
+      "modified": "2014-04-23T10:53:36+00:00",
       "note": "JavaScript Maps and Sets are now iterable",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": null
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
+      "bug": null,
+      "created": "2013-11-25T00:24:49+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": true,
+        "product": "Firefox",
+        "slug": "firefox-19.0.2-release",
+        "title": "Firefox 19.0.2 Release",
+        "version": "19.0.2"
+      },
+      "is_public": true,
+      "modified": "2014-04-23T10:53:37+00:00",
       "note": "17.0.1: Font rendering issue in Firefox 17.0 (<a href=\"http://bugzil.la/814101\">bug 814101</a>)",
-      "is_public": true,
-      "tag": "Fixed",
-      "bug": null,
-      "fixed_in_release": {
-        "product": "Firefox",
-        "title": "Firefox 19.0.2 Release",
-        "version": "19.0.2",
-        "is_public": true,
-        "slug": "firefox-19.0.2-release",
-        "channel": "Release"
-      }
+      "sort_num": 500,
+      "tag": "Fixed"
     },
     {
+      "bug": null,
+      "created": "2013-11-25T00:24:44+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": true,
+        "product": "Firefox",
+        "slug": "firefox-19.0.2-release",
+        "title": "Firefox 19.0.2 Release",
+        "version": "19.0.2"
+      },
+      "is_public": true,
+      "modified": "2014-04-23T10:53:37+00:00",
       "note": "17.0.1: Reverted user agent change causing some website incompatibilities",
-      "is_public": true,
-      "tag": "Fixed",
-      "bug": null,
-      "fixed_in_release": {
-        "product": "Firefox",
-        "title": "Firefox 19.0.2 Release",
-        "version": "19.0.2",
-        "is_public": true,
-        "slug": "firefox-19.0.2-release",
-        "channel": "Release"
-      }
+      "sort_num": 400,
+      "tag": "Fixed"
     },
     {
-      "note": "17.0.1: Leaving Private Browsing with Social API enabled should reset social components",
-      "is_public": true,
-      "tag": "Fixed",
       "bug": 815042,
+      "created": "2013-11-25T00:24:44+00:00",
       "fixed_in_release": {
-        "product": "Firefox",
-        "title": "Firefox 19.0.2 Release",
-        "version": "19.0.2",
+        "channel": "Release",
         "is_public": true,
+        "product": "Firefox",
         "slug": "firefox-19.0.2-release",
-        "channel": "Release"
-      }
+        "title": "Firefox 19.0.2 Release",
+        "version": "19.0.2"
+      },
+      "is_public": true,
+      "modified": "2014-04-23T10:53:37+00:00",
+      "note": "17.0.1: Leaving Private Browsing with Social API enabled should reset social components",
+      "sort_num": 300,
+      "tag": "Fixed"
     },
     {
+      "bug": null,
+      "created": "2013-11-25T00:24:50+00:00",
+      "is_public": true,
+      "modified": "2015-03-26T15:55:42+00:00",
       "note": "Various <a href=\"https://www.mozilla.org/security/known-vulnerabilities/firefox.html\">security fixes</a>",
-      "is_public": true,
-      "tag": "Fixed",
-      "bug": null
+      "sort_num": 0,
+      "tag": "Fixed"
     },
     {
+      "bug": 780345,
+      "created": "2013-11-25T00:24:50+00:00",
+      "is_public": true,
+      "modified": "2014-04-23T10:53:36+00:00",
       "note": "Page scrolling on sites with fixed headers",
-      "is_public": true,
-      "tag": "Fixed",
-      "bug": 780345
+      "sort_num": 0,
+      "tag": "Fixed"
     },
     {
+      "bug": null,
+      "created": "2013-11-25T00:24:50+00:00",
+      "is_public": true,
+      "modified": "2014-04-23T10:53:36+00:00",
       "note": "Over twenty performance improvements, including fixes around the New Tab page",
-      "is_public": true,
-      "tag": "Fixed",
-      "bug": null
+      "sort_num": 0,
+      "tag": "Fixed"
     },
     {
-      "note": "If you try to start Firefox using a locked profile, it will crash (see [573369][1])\r\n\r\n\r\n  [1]: http://bugzilla.mozilla.org/573369",
+      "bug": 573369,
+      "created": "2013-11-25T00:24:27+00:00",
       "is_public": true,
-      "tag": "Known",
-      "bug": 573369
+      "modified": "2014-07-02T07:04:43+00:00",
+      "note": "If you try to start Firefox using a locked profile, it will crash (see [573369][1])\r\n\r\n\r\n  [1]: http://bugzilla.mozilla.org/573369",
+      "sort_num": -100,
+      "tag": "Known"
     }
   ],
-  "text": "",
+  "product": "Firefox",
   "release_date": "2013-03-07",
   "slug": "firefox-19.0.2-release",
-  "version": "19.0.2",
-  "bug_search_url": "",
-  "is_public": true,
   "system_requirements": "<h2>Windows</h2>\r\n\r\n<h6>Operating Systems</h6>\r\n\r\n<ul>\r\n  <li>Windows XP SP2</li>\r\n  <li>Windows Server 2003 SP1</li>\r\n  <li>Windows Vista</li>\r\n  <li>Windows 7</li>\r\n  <li>Windows 8</li>\r\n</ul>\r\n\r\n<p><em><small>Please note that while the 32-bit and 64-bit versions of Windows Vista\r\nand Windows 7 can be used to run Firefox 19, only 32-bit builds of Firefox 19 are\r\nsupported at this time.</small></em></p>\r\n\r\n<h6>Recommended Hardware</h6>\r\n\r\n<ul>\r\n  <li>Pentium 4 or newer processor that supports SSE2</li>\r\n  <li>512MB of RAM</li>\r\n  <li>200MB of hard drive space</li>\r\n</ul>\r\n\r\n<h2>Mac</h2>\r\n\r\n<h6>Operating Systems</h6>\r\n\r\n<ul>\r\n  <li>Mac OS X 10.6</li>\r\n  <li>Mac OS X 10.7</li>\r\n  <li>Mac OS X 10.8</li>\r\n</ul>\r\n\r\n<h6>Recommended Hardware</h6>\r\n\r\n<ul>\r\n  <li>Macintosh computer with an Intel x86 processor</li>\r\n  <li>512 MB of RAM</li>\r\n  <li>200 MB hard drive space</li>\r\n</ul>\r\n\r\n<h2>Linux</h2>\r\n\r\n<h6>Software Requirements</h6>\r\n\r\n<p>Please note that Linux distributors may provide packages\r\nfor your distribution which have different requirements.</p>\r\n\r\n<ul>\r\n  <li>Firefox will not run at all without the following libraries or packages:\r\n    <ul>\r\n      <li>GTK+ 2.18 or higher</li>\r\n      <li>GLib 2.22 or higher</li>\r\n      <li>Pango 1.14 or higher</li>\r\n      <li>X.Org 1.0 or higher (1.7 or higher is recommended)</li>\r\n      <li>libstdc++ 4.3 or higher</li>\r\n    </ul>\r\n  </li>\r\n  <li>For optimal functionality, we recommend the following libraries or packages:\r\n    <ul>\r\n      <li>NetworkManager 0.7 or higher</li>\r\n      <li>DBus 1.0 or higher</li>\r\n      <li>HAL 0.5.8 or higher</li>\r\n      <li>GNOME 2.16 or higher</li>\r\n    </ul>\r\n  </li>\r\n</ul>",
-  "channel": "Release"
+  "text": "",
+  "title": "Firefox 19.0.2 Release",
+  "version": "19.0.2"
 }

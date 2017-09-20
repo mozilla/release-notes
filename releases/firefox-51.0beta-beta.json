@@ -1,75 +1,107 @@
 {
-  "product": "Firefox",
   "bug_list": "",
-  "title": "Firefox 51.0beta Beta",
+  "bug_search_url": "",
+  "channel": "Beta",
+  "created": "2016-11-15T08:52:49.323000+00:00",
+  "is_public": true,
+  "modified": "2017-01-18T15:56:03.651000+00:00",
   "notes": [
     {
+      "bug": 1195723,
+      "created": "2016-09-21T07:25:08.390000+00:00",
+      "is_public": true,
+      "modified": "2017-01-18T17:35:39.280000+00:00",
       "note": "[Added support for FLAC (Free Lossless Audio Codec) playback][1]\r\n\r\n\r\n  [1]: https://xiph.org/flac/",
-      "is_public": true,
-      "tag": "New",
-      "bug": 1195723
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": 1270321,
+      "created": "2016-09-21T07:25:58.987000+00:00",
+      "is_public": true,
+      "modified": "2017-01-24T03:18:21.586000+00:00",
       "note": "Users can view passwords in the save password prompt before saving them",
-      "is_public": true,
-      "tag": "New",
-      "bug": 1270321
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": 565718,
+      "created": "2016-09-21T07:28:23.377000+00:00",
+      "is_public": true,
+      "modified": "2017-01-24T03:19:21.552000+00:00",
       "note": "Added a zoom button in the URL bar: \r\n\r\n- Displays percent above or below 100 percent when a user has changed the page zoom setting from the default\r\n- Lets users return to the default setting by clicking on the button\r\n",
-      "is_public": true,
-      "tag": "New",
-      "bug": 565718
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": 1275441,
+      "created": "2016-09-21T07:41:40.144000+00:00",
+      "is_public": true,
+      "modified": "2017-01-24T02:56:07.617000+00:00",
       "note": "Improved video performance for users without GPU acceleration for less CPU usage and a better full screen experience",
-      "is_public": true,
-      "tag": "New",
-      "bug": 1275441
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": 1166947,
+      "created": "2016-09-22T23:21:30.202000+00:00",
+      "is_public": true,
+      "modified": "2017-01-24T03:21:11.331000+00:00",
       "note": "Firefox will save passwords even in forms that do not have \u201csubmit\u201d events ",
-      "is_public": true,
-      "tag": "New",
-      "bug": 1166947
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": 1232864,
+      "created": "2016-11-15T08:58:38.423000+00:00",
+      "is_public": true,
+      "modified": "2017-01-24T03:22:30.572000+00:00",
       "note": "Added support for [WebGL 2][1], with advanced graphics rendering features like transform feedback, improved texturing capabilities, and a new sophisticated shading language\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/WebGL2RenderingContext",
-      "is_public": true,
-      "tag": "New",
-      "bug": 1232864
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": 1319119,
+      "created": "2017-01-18T14:50:46.569000+00:00",
+      "is_public": true,
+      "modified": "2017-01-18T17:35:39.280000+00:00",
       "note": "A [warning is displayed][1] when a login page does not have a secure connection\r\n\r\n\r\n  [1]: https://support.mozilla.org/en-US/kb/insecure-password-warning-firefox",
-      "is_public": true,
-      "tag": "New",
-      "bug": 1319119
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": 1309232,
+      "created": "2017-01-18T14:56:36.550000+00:00",
+      "is_public": true,
+      "modified": "2017-01-20T03:16:04.253000+00:00",
       "note": "Added Georgian (ka) and Kabyle (kab) locales",
-      "is_public": true,
-      "tag": "New",
-      "bug": 1309232
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": 1304749,
+      "created": "2016-11-15T08:58:08.535000+00:00",
+      "is_public": true,
+      "modified": "2017-01-18T17:35:39.280000+00:00",
       "note": "Remove Belarusian (be) locale",
-      "is_public": true,
-      "tag": "New",
-      "bug": 1304749
+      "sort_num": -1,
+      "tag": "New"
     },
     {
-      "note": "Use 2D graphics library (Skia) for content rendering on Linux",
+      "bug": 1186552,
+      "created": "2016-09-21T07:34:55.583000+00:00",
       "is_public": true,
-      "tag": "Changed",
-      "bug": 1186552
+      "modified": "2017-01-24T03:20:26.311000+00:00",
+      "note": "Use 2D graphics library (Skia) for content rendering on Linux",
+      "sort_num": 0,
+      "tag": "Changed"
     }
   ],
-  "text": "",
+  "product": "Firefox",
   "release_date": "2016-11-16",
   "slug": "firefox-51.0beta-beta",
-  "version": "51.0beta",
-  "bug_search_url": "",
-  "is_public": true,
   "system_requirements": "## Windows\r\n\r\n### Operating Systems (32-bit and 64-bit)\r\n - Windows XP SP2\r\n - Windows Server 2003 SP1\r\n - Windows Vista\r\n - Windows 7\r\n - Windows 8\r\n - Windows 10\r\n\r\n*Please note that 64-bit builds of Firefox are only supported on Windows 7 and higher.*\r\n\r\n*To install [Firefox on a Windows XP system][1], because of Windows restrictions, the user will have to download Firefox 43.0.1 and then update to the current release.*\r\n\r\n*From Firefox 53 planned for April 2017, Windows XP/Vista/Server 2008 are no longer supported. These users should migrate to ESR 52 once available (planned for March 2017).*\r\n\r\n### Recommended Hardware\r\n-  Pentium 4 or newer processor that supports SSE2\r\n-  512MB of RAM\r\n-  200MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- Mac OS X 10.9\r\n- Mac OS X 10.10\r\n- Mac OS X 10.11\r\n\r\n### Recommended Hardware\r\n- Macintosh computer with an Intel x86 processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - GTK+ 3.4 or higher\r\n    - GLib 2.22 or higher\r\n    - Pango 1.14 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n    - libstdc++ 4.6.1 or higher\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - NetworkManager 0.7 or higher\r\n    - DBus 1.0 or higher\r\n    - GNOME 2.16 or higher\r\n\r\n  [1]: https://support.mozilla.org/kb/get-latest-version-firefox-windows-xp-vista",
-  "channel": "Beta"
+  "text": "",
+  "title": "Firefox 51.0beta Beta",
+  "version": "51.0beta"
 }

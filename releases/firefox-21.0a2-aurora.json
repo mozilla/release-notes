@@ -1,119 +1,169 @@
 {
-  "product": "Firefox",
   "bug_list": "",
-  "title": "Firefox 21.0a2 Aurora",
+  "bug_search_url": "",
+  "channel": "Aurora",
+  "created": "2013-11-25T00:25:01+00:00",
+  "is_public": true,
+  "modified": "2014-05-28T07:50:14+00:00",
   "notes": [
     {
+      "bug": null,
+      "created": "2013-11-25T00:24:49+00:00",
+      "is_public": true,
+      "modified": "2014-04-23T10:53:37+00:00",
       "note": "Preliminary implementation of Firefox Health Report <a href=\"https://blog.mozilla.org/metrics/fhr-faq/\">(see FAQ)</a>",
-      "is_public": true,
-      "tag": "New",
-      "bug": null
+      "sort_num": 1000,
+      "tag": "New"
     },
     {
+      "bug": null,
+      "created": "2013-11-25T00:24:49+00:00",
+      "is_public": true,
+      "modified": "2014-04-23T10:53:37+00:00",
       "note": "Enhanced <a href=\"https://blog.mozilla.org/privacy/2013/01/28/newdntui/\">three-state UI for Do Not Track (DNT) </a>\n",
-      "is_public": true,
-      "tag": "New",
-      "bug": null
+      "sort_num": 900,
+      "tag": "New"
     },
     {
+      "bug": null,
+      "created": "2013-11-25T00:24:44+00:00",
+      "is_public": true,
+      "modified": "2014-04-23T10:53:37+00:00",
       "note": "Firefox will suggest how to improve your application startup time if needed",
-      "is_public": true,
-      "tag": "New",
-      "bug": null
+      "sort_num": 500,
+      "tag": "New"
     },
     {
+      "bug": 833719,
+      "created": "2013-11-25T00:24:50+00:00",
+      "is_public": true,
+      "modified": "2014-04-23T10:53:37+00:00",
       "note": "Some function keys may not work when pressed",
-      "is_public": true,
-      "tag": "",
-      "bug": 833719
+      "sort_num": 0,
+      "tag": ""
     },
     {
-      "note": "Browsing and Download history clearing needs unification to avoid confusion on clearing download history",
-      "is_public": true,
-      "tag": "",
       "bug": 847627,
+      "created": "2013-11-25T00:24:50+00:00",
       "fixed_in_release": {
-        "product": "Firefox",
-        "title": "Firefox 21.0a2 Aurora",
-        "version": "21.0a2",
+        "channel": "Aurora",
         "is_public": true,
+        "product": "Firefox",
         "slug": "firefox-21.0a2-aurora",
-        "channel": "Aurora"
-      }
+        "title": "Firefox 21.0a2 Aurora",
+        "version": "21.0a2"
+      },
+      "is_public": true,
+      "modified": "2014-04-23T10:53:37+00:00",
+      "note": "Browsing and Download history clearing needs unification to avoid confusion on clearing download history",
+      "sort_num": 0,
+      "tag": ""
     },
     {
+      "bug": null,
+      "created": "2013-11-25T00:24:44+00:00",
+      "is_public": true,
+      "modified": "2014-04-23T10:53:37+00:00",
       "note": "Ability to restore removed thumbnails on New tab Page",
-      "is_public": true,
-      "tag": "Changed",
-      "bug": null
+      "sort_num": 500,
+      "tag": "Changed"
     },
     {
+      "bug": null,
+      "created": "2013-11-25T00:24:50+00:00",
+      "is_public": true,
+      "modified": "2014-04-23T10:53:37+00:00",
       "note": "Removed <a href=\"https://developer.mozilla.org/en-US/docs/E4X\">E4X</a> support from Spidermonkey",
-      "is_public": true,
-      "tag": "Changed",
-      "bug": null
+      "sort_num": 0,
+      "tag": "Changed"
     },
     {
+      "bug": null,
+      "created": "2013-11-25T00:24:50+00:00",
+      "is_public": true,
+      "modified": "2014-04-23T10:53:37+00:00",
       "note": "Graphics related performance improvements (<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=809821\">bug 809821</a>)",
-      "is_public": true,
-      "tag": "Changed",
-      "bug": null
+      "sort_num": 0,
+      "tag": "Changed"
     },
     {
+      "bug": null,
+      "created": "2013-11-25T00:24:50+00:00",
+      "is_public": true,
+      "modified": "2014-04-23T10:53:37+00:00",
       "note": "Add-ons <ahref=\"http://blog.bonardo.net/2013/01/29/add-ons-devs-heads-up-history-api-removals-in-places\">History API removals</a> in Places",
-      "is_public": true,
-      "tag": "Changed",
-      "bug": null
+      "sort_num": 0,
+      "tag": "Changed"
     },
     {
+      "bug": null,
+      "created": "2013-11-25T00:24:50+00:00",
+      "is_public": true,
+      "modified": "2014-04-23T10:53:37+00:00",
       "note": "XBL Scopes Enabled (<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=834697\">bugs 834697</a>)",
-      "is_public": true,
-      "tag": "Changed",
-      "bug": null
+      "sort_num": 0,
+      "tag": "Changed"
     },
     {
+      "bug": null,
+      "created": "2013-11-25T00:24:50+00:00",
+      "is_public": true,
+      "modified": "2014-04-23T10:53:37+00:00",
       "note": "CSS -moz-user-select:none selection changed to improve compatibility with -webkit-user-select:none (<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=816298\">bug 816298</a>)",
-      "is_public": true,
-      "tag": "Changed",
-      "bug": null
+      "sort_num": 0,
+      "tag": "Changed"
     },
     {
+      "bug": null,
+      "created": "2013-11-25T00:24:49+00:00",
+      "is_public": true,
+      "modified": "2014-04-23T10:53:37+00:00",
       "note": "Added support for <a href=\" https://developer.mozilla.org/en-US/docs/HTML/Element/main\">&lt;main&gt;</a> element",
-      "is_public": true,
-      "tag": "HTML5",
-      "bug": null
+      "sort_num": 1000,
+      "tag": "HTML5"
     },
     {
+      "bug": null,
+      "created": "2013-11-25T00:24:50+00:00",
+      "is_public": true,
+      "modified": "2014-04-23T10:53:37+00:00",
       "note": "Implemented <a href=\"http://updates.html5rocks.com/2012/03/A-New-Experimental-Feature-style-scoped\">scoped stylesheets</a> ",
-      "is_public": true,
-      "tag": "HTML5",
-      "bug": null
+      "sort_num": 0,
+      "tag": "HTML5"
     },
     {
+      "bug": null,
+      "created": "2013-11-25T00:24:49+00:00",
+      "is_public": true,
+      "modified": "2014-04-23T10:53:37+00:00",
       "note": "Implemented <a href=\"http://anton.kovalyov.net/2013/02/22/remote-profiling/\">Remote Profiling</a>",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": null
+      "sort_num": 1000,
+      "tag": "Developer"
     },
     {
+      "bug": null,
+      "created": "2013-11-25T00:24:50+00:00",
+      "is_public": true,
+      "modified": "2014-04-23T10:53:37+00:00",
       "note": "Integrated, Add-on SDK loader and API libraries into Firefox",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": null
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
-      "note": "If you try to start Firefox using a locked profile, it will crash (see [573369][1])\r\n\r\n\r\n  [1]: http://bugzilla.mozilla.org/573369",
+      "bug": 573369,
+      "created": "2013-11-25T00:24:27+00:00",
       "is_public": true,
-      "tag": "Known",
-      "bug": 573369
+      "modified": "2014-07-02T07:04:43+00:00",
+      "note": "If you try to start Firefox using a locked profile, it will crash (see [573369][1])\r\n\r\n\r\n  [1]: http://bugzilla.mozilla.org/573369",
+      "sort_num": -100,
+      "tag": "Known"
     }
   ],
-  "text": "",
+  "product": "Firefox",
   "release_date": "2013-02-22",
   "slug": "firefox-21.0a2-aurora",
-  "version": "21.0a2",
-  "bug_search_url": "",
-  "is_public": true,
   "system_requirements": "<h2>Windows</h2>\r\n\r\n<h6>Operating Systems</h6>\r\n\r\n<ul>\r\n  <li>Windows XP SP2</li>\r\n  <li>Windows Server 2003</li>\r\n  <li>Windows Vista</li>\r\n  <li>Windows 7</li>\r\n  <li>Windows 8</li>\r\n</ul>\r\n\r\n<p><em><small>Please note that while the 32-bit and 64-bit versions of Windows Vista\r\nand Windows 7 can be used to run Firefox 21, only 32-bit builds of Firefox 21 are\r\nsupported at this time.</small></em></p>\r\n\r\n<h6>Recommended Hardware</h6>\r\n\r\n<ul>\r\n  <li>Pentium 4 or newer processor that supports SSE2</li>\r\n  <li>512MB of RAM</li>\r\n  <li>200MB of hard drive space</li>\r\n</ul>\r\n\r\n<h2>Mac</h2>\r\n\r\n<h6>Operating Systems</h6>\r\n\r\n<ul>\r\n  <li>Mac OS X 10.6</li>\r\n  <li>Mac OS X 10.7</li>\r\n  <li>Mac OS X 10.8</li>\r\n</ul>\r\n\r\n<h6>Recommended Hardware</h6>\r\n\r\n<ul>\r\n  <li>Macintosh computer with an Intel x86 processor</li>\r\n  <li>512 MB of RAM</li>\r\n  <li>200 MB hard drive space</li>\r\n</ul>\r\n\r\n<h2>Linux</h2>\r\n\r\n<h6>Software Requirements</h6>\r\n\r\n<p>Please note that Linux distributors may provide packages\r\nfor your distribution which have different requirements.</p>\r\n\r\n<ul>\r\n  <li>Firefox will not run at all without the following libraries or packages:\r\n    <ul>\r\n      <li>GTK+ 2.18 or higher</li>\r\n      <li>GLib 2.22 or higher</li>\r\n      <li>Pango 1.14 or higher</li>\r\n      <li>X.Org 1.0 or higher (1.7 or higher is recommended)</li>\r\n      <li>libstdc++ 4.3 or higher</li>\r\n    </ul>\r\n  </li>\r\n  <li>For optimal functionality, we recommend the following libraries or packages:\r\n    <ul>\r\n      <li>NetworkManager 0.7 or higher</li>\r\n      <li>DBus 1.0 or higher</li>\r\n      <li>HAL 0.5.8 or higher</li>\r\n      <li>GNOME 2.16 or higher</li>\r\n    </ul>\r\n  </li>\r\n</ul>",
-  "channel": "Aurora"
+  "text": "",
+  "title": "Firefox 21.0a2 Aurora",
+  "version": "21.0a2"
 }

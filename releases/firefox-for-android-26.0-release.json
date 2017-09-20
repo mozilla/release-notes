@@ -1,21 +1,26 @@
 {
-  "product": "Firefox for Android",
   "bug_list": "",
-  "title": "Firefox for Android 26.0 Release",
+  "bug_search_url": "",
+  "channel": "Release",
+  "created": "2014-03-13T08:55:51+00:00",
+  "is_public": true,
+  "modified": "2014-03-15T22:42:31+00:00",
   "notes": [
     {
-      "note": "Various <a href=\"https://www.mozilla.org/security/known-vulnerabilities/firefox.html\">security fixes</a>",
+      "bug": null,
+      "created": "2013-11-25T00:24:50+00:00",
       "is_public": true,
-      "tag": "Fixed",
-      "bug": null
+      "modified": "2015-03-26T15:55:42+00:00",
+      "note": "Various <a href=\"https://www.mozilla.org/security/known-vulnerabilities/firefox.html\">security fixes</a>",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
-  "text": " ",
+  "product": "Firefox for Android",
   "release_date": "2013-09-20",
   "slug": "firefox-for-android-26.0-release",
-  "version": "26.0",
-  "bug_search_url": "",
-  "is_public": true,
   "system_requirements": " ",
-  "channel": "Release"
+  "text": " ",
+  "title": "Firefox for Android 26.0 Release",
+  "version": "26.0"
 }

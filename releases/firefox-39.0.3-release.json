@@ -1,27 +1,35 @@
 {
-  "product": "Firefox",
   "bug_list": "",
-  "title": "Firefox 39.0.3 Release",
+  "bug_search_url": "",
+  "channel": "Release",
+  "created": "2015-08-06T18:52:55+00:00",
+  "is_public": true,
+  "modified": "2015-08-06T20:30:39+00:00",
   "notes": [
     {
-      "note": "Reference:  [Release notes for Firefox 39.0][1]\r\n\r\n\r\n  [1]: https://www.mozilla.com/en-US/firefox/39.0/releasenotes/",
+      "bug": null,
+      "created": "2015-08-06T19:07:29+00:00",
       "is_public": true,
-      "tag": "",
-      "bug": null
+      "modified": "2015-08-06T19:07:29+00:00",
+      "note": "Reference:  [Release notes for Firefox 39.0][1]\r\n\r\n\r\n  [1]: https://www.mozilla.com/en-US/firefox/39.0/releasenotes/",
+      "sort_num": 0,
+      "tag": ""
     },
     {
-      "note": "Various [security fixes][1] \r\n\r\n\r\n  [1]: https://www.mozilla.org/en-US/security/advisories/mfsa2015-78/",
+      "bug": null,
+      "created": "2015-08-06T18:55:38+00:00",
       "is_public": true,
-      "tag": "Fixed",
-      "bug": null
+      "modified": "2015-08-06T20:22:36+00:00",
+      "note": "Various [security fixes][1] \r\n\r\n\r\n  [1]: https://www.mozilla.org/en-US/security/advisories/mfsa2015-78/",
+      "sort_num": 1,
+      "tag": "Fixed"
     }
   ],
-  "text": "<p>We'd also like to extend a special thank you to all of the <a href=\"https://blog.mozilla.org/community/2015/06/30/firefox-39-new-contributors/\">new Mozillians</a> who contributed to this release of Firefox!</p>\r\n",
+  "product": "Firefox",
   "release_date": "2015-08-06",
   "slug": "firefox-39.0.3-release",
-  "version": "39.0.3",
-  "bug_search_url": "",
-  "is_public": true,
   "system_requirements": "",
-  "channel": "Release"
+  "text": "<p>We'd also like to extend a special thank you to all of the <a href=\"https://blog.mozilla.org/community/2015/06/30/firefox-39-new-contributors/\">new Mozillians</a> who contributed to this release of Firefox!</p>\r\n",
+  "title": "Firefox 39.0.3 Release",
+  "version": "39.0.3"
 }

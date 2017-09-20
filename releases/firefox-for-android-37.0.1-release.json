@@ -1,67 +1,87 @@
 {
-  "product": "Firefox for Android",
   "bug_list": "",
-  "title": "Firefox for Android 37.0.1 Release",
+  "bug_search_url": "",
+  "channel": "Release",
+  "created": "2015-01-13T16:13:45+00:00",
+  "is_public": true,
+  "modified": "2015-04-03T17:53:10+00:00",
   "notes": [
     {
+      "bug": null,
+      "created": "2015-04-03T04:22:04+00:00",
+      "is_public": true,
+      "modified": "2015-04-14T15:21:51+00:00",
       "note": "Reference: [Release notes for Firefox 37.0][1]\r\n\r\n[1]: https://www.mozilla.org/mobile/37.0/releasenotes/",
-      "is_public": true,
-      "tag": "",
-      "bug": null
+      "sort_num": 0,
+      "tag": ""
     },
     {
+      "bug": 1148328,
+      "created": "2015-04-03T04:04:11+00:00",
+      "is_public": true,
+      "modified": "2015-04-20T18:17:55+00:00",
       "note": "Disabled HTTP/2 AltSvc",
-      "is_public": true,
-      "tag": "Changed",
-      "bug": 1148328
+      "sort_num": 0,
+      "tag": "Changed"
     },
     {
-      "note": "Crash due to WebRTC usage on certain web sites",
-      "is_public": true,
-      "tag": "Fixed",
       "bug": 1147857,
+      "created": "2015-04-03T04:16:53+00:00",
       "fixed_in_release": {
-        "product": "Firefox for Android",
-        "title": "Firefox for Android 37.0.1 Release",
-        "version": "37.0.1",
+        "channel": "Release",
         "is_public": true,
+        "product": "Firefox for Android",
         "slug": "firefox-for-android-37.0.1-release",
-        "channel": "Release"
-      }
+        "title": "Firefox for Android 37.0.1 Release",
+        "version": "37.0.1"
+      },
+      "is_public": true,
+      "modified": "2015-04-14T15:20:37+00:00",
+      "note": "Crash due to WebRTC usage on certain web sites",
+      "sort_num": 100,
+      "tag": "Fixed"
     },
     {
+      "bug": null,
+      "created": "2015-04-03T04:02:58+00:00",
+      "is_public": true,
+      "modified": "2015-04-20T18:31:44+00:00",
       "note": "Various [security fixes][1]\r\n\r\n[1]:https://www.mozilla.org/security/known-vulnerabilities/firefox/#firefox37.0.1",
-      "is_public": true,
-      "tag": "Fixed",
-      "bug": null
+      "sort_num": 0,
+      "tag": "Fixed"
     },
     {
+      "bug": 1131084,
+      "created": "2015-02-16T12:51:52+00:00",
+      "is_public": true,
+      "modified": "2015-04-14T15:21:21+00:00",
       "note": "January Chromecast firmware update broke tab mirroring ([1131084][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/1131084",
-      "is_public": true,
-      "tag": "Known",
-      "bug": 1131084
+      "sort_num": 0,
+      "tag": "Known"
     },
     {
-      "note": "On Android 2.3, 3.0 and 4.0, some WebM videos cannot be read properly ([1131563][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1131563",
-      "is_public": true,
-      "tag": "Known",
       "bug": 1131563,
+      "created": "2015-02-16T14:52:09+00:00",
       "fixed_in_release": {
-        "product": "Firefox for Android",
-        "title": "Firefox for Android 38.0a2 Aurora",
-        "version": "38.0a2",
+        "channel": "Aurora",
         "is_public": true,
+        "product": "Firefox for Android",
         "slug": "firefox-for-android-38.0a2-aurora",
-        "channel": "Aurora"
-      }
+        "title": "Firefox for Android 38.0a2 Aurora",
+        "version": "38.0a2"
+      },
+      "is_public": true,
+      "modified": "2015-04-14T15:20:10+00:00",
+      "note": "On Android 2.3, 3.0 and 4.0, some WebM videos cannot be read properly ([1131563][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1131563",
+      "sort_num": 0,
+      "tag": "Known"
     }
   ],
-  "text": "<p>We'd also like to extend a special thank you to all of the <a href=\"https://blog.mozilla.org/community/2015/03/30/firefox-37-new-contributors/\">new Mozillians</a> who contributed to this release of Firefox!</p>",
+  "product": "Firefox for Android",
   "release_date": "2015-04-03",
   "slug": "firefox-for-android-37.0.1-release",
-  "version": "37.0.1",
-  "bug_search_url": "",
-  "is_public": true,
   "system_requirements": "",
-  "channel": "Release"
+  "text": "<p>We'd also like to extend a special thank you to all of the <a href=\"https://blog.mozilla.org/community/2015/03/30/firefox-37-new-contributors/\">new Mozillians</a> who contributed to this release of Firefox!</p>",
+  "title": "Firefox for Android 37.0.1 Release",
+  "version": "37.0.1"
 }

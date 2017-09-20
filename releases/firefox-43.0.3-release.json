@@ -1,33 +1,44 @@
 {
-  "product": "Firefox",
   "bug_list": "",
-  "title": "Firefox 43.0.3 Release",
+  "bug_search_url": "",
+  "channel": "Release",
+  "created": "2015-12-24T09:52:55.479000+00:00",
+  "is_public": true,
+  "modified": "2015-12-28T17:28:49.685000+00:00",
   "notes": [
     {
+      "bug": null,
+      "created": "2015-12-24T09:53:16.147000+00:00",
+      "is_public": true,
+      "modified": "2015-12-24T09:53:16.149000+00:00",
       "note": "Reference: Release notes for [Firefox 43.0.2][1]\r\n\r\n  [1]: /firefox/43.0.2/releasenotes/",
-      "is_public": true,
-      "tag": "",
-      "bug": null
+      "sort_num": 0,
+      "tag": ""
     },
     {
+      "bug": 1233970,
+      "created": "2015-12-24T10:00:29.231000+00:00",
+      "is_public": true,
+      "modified": "2015-12-28T17:27:22.525000+00:00",
       "note": "On some Windows configurations, improve the decoding of some videos on YouTube ([1233970][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1233970",
-      "is_public": true,
-      "tag": "Fixed",
-      "bug": 1233970
+      "sort_num": 0,
+      "tag": "Fixed"
     },
     {
-      "note": "Fix  network issue when using Nvidia's Network Access Manager ([1233237][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1233237",
+      "bug": 1233237,
+      "created": "2015-12-24T10:04:43.515000+00:00",
       "is_public": true,
-      "tag": "Fixed",
-      "bug": 1233237
+      "modified": "2015-12-24T10:04:43.517000+00:00",
+      "note": "Fix  network issue when using Nvidia's Network Access Manager ([1233237][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1233237",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
-  "text": "<p>We'd also like to extend a special thank you to all of the <a href=\"https://blog.mozilla.org/community/2015/12/13/firefox-43-new-contributors/\">new Mozillians</a> who contributed to this release of Firefox!</p>\r\n",
+  "product": "Firefox",
   "release_date": "2015-12-28",
   "slug": "firefox-43.0.3-release",
-  "version": "43.0.3",
-  "bug_search_url": "",
-  "is_public": true,
   "system_requirements": "## Windows\r\n\r\n### Operating Systems (32-bit and 64-bit)\r\n - Windows XP SP2\r\n - Windows Server 2003 SP1\r\n - Windows Vista\r\n - Windows 7\r\n - Windows 8\r\n - Windows 10\r\n\r\n*Please note that 64-bit builds of Firefox are only supported on Windows 7 and higher.*\r\n\r\n### Recommended Hardware\r\n-  Pentium 4 or newer processor that supports SSE2\r\n-  512MB of RAM\r\n-  200MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- Mac OS X 10.6\r\n- Mac OS X 10.7\r\n- Mac OS X 10.8\r\n- Mac OS X 10.9\r\n- Mac OS X 10.10\r\n\r\n### Recommended Hardware\r\n- Macintosh computer with an Intel x86 processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - GTK+ 2.18 or higher\r\n    - GLib 2.22 or higher\r\n    - Pango 1.14 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n    - libstdc++ 4.3 or higher\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - NetworkManager 0.7 or higher\r\n    - DBus 1.0 or higher\r\n    - HAL 0.5.8 or higher\r\n    - GNOME 2.16 or higher",
-  "channel": "Release"
+  "text": "<p>We'd also like to extend a special thank you to all of the <a href=\"https://blog.mozilla.org/community/2015/12/13/firefox-43-new-contributors/\">new Mozillians</a> who contributed to this release of Firefox!</p>\r\n",
+  "title": "Firefox 43.0.3 Release",
+  "version": "43.0.3"
 }

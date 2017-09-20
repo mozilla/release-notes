@@ -1,99 +1,143 @@
 {
-  "product": "Firefox OS",
   "bug_list": "",
-  "title": "Firefox OS 1.4 Release",
+  "bug_search_url": "",
+  "channel": "Release",
+  "created": "2014-06-24T12:07:47+00:00",
+  "is_public": true,
+  "modified": "2014-09-25T22:36:43+00:00",
   "notes": [
     {
+      "bug": null,
+      "created": "2014-06-24T12:28:28+00:00",
+      "is_public": true,
+      "modified": "2014-07-02T06:26:26+00:00",
       "note": "###Networking Support\r\n\r\n* LTE / CDMA and IPv6 Supported \r\n",
-      "is_public": true,
-      "tag": "New",
-      "bug": null
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": null,
+      "created": "2014-06-24T12:50:42+00:00",
+      "is_public": true,
+      "modified": "2014-07-02T02:36:53+00:00",
       "note": "###Communications\r\n\r\n* Recipient suggestion list improvement for SMS/MMS \r\n\r\n",
-      "is_public": true,
-      "tag": "New",
-      "bug": null
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": 966831,
+      "created": "2014-06-24T13:20:38+00:00",
+      "is_public": true,
+      "modified": "2014-07-02T02:34:52+00:00",
       "note": "### Camera\r\n\r\n* Adding camera and video resolution to the camera settings",
-      "is_public": true,
-      "tag": "New",
-      "bug": 966831
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": 904635,
+      "created": "2014-06-24T13:28:11+00:00",
+      "is_public": true,
+      "modified": "2014-07-02T02:34:31+00:00",
       "note": "### E-MAIL\r\n\r\n* Ability to select multiple recipients for email",
-      "is_public": true,
-      "tag": "New",
-      "bug": 904635
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": null,
+      "created": "2014-06-24T13:36:32+00:00",
+      "is_public": true,
+      "modified": "2014-07-02T02:37:55+00:00",
       "note": "### Languages in 1.4\r\n\r\n* French \r\n* Serbian Latin \r\n* Simplified Chinese \r\n* Punjabi ",
-      "is_public": true,
-      "tag": "New",
-      "bug": null
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": null,
+      "created": "2014-06-24T15:27:15+00:00",
+      "is_public": true,
+      "modified": "2014-07-02T02:50:11+00:00",
       "note": "###Camera\r\n\r\n* Provisioning HDR and self-timer to camera settings \r\n\r\n\r\n",
-      "is_public": true,
-      "tag": "New",
-      "bug": null
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": 966839,
+      "created": "2014-06-24T15:28:05+00:00",
+      "is_public": true,
+      "modified": "2014-07-02T02:35:19+00:00",
       "note": "###Camera\r\n\r\n* Providing frame grid to camera settings\r\n",
-      "is_public": true,
-      "tag": "New",
-      "bug": 966839
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": null,
+      "created": "2014-06-24T15:28:48+00:00",
+      "is_public": true,
+      "modified": "2014-07-02T02:35:59+00:00",
       "note": "###Camera\r\n\r\n* Ability to view battery status while taking pictures or recording a video",
-      "is_public": true,
-      "tag": "New",
-      "bug": null
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": 883028,
+      "created": "2014-06-24T15:30:38+00:00",
+      "is_public": true,
+      "modified": "2014-07-02T02:36:37+00:00",
       "note": "###Gallery\r\n\r\n\r\n* Supporting Crop option when setting wallpaper",
-      "is_public": true,
-      "tag": "New",
-      "bug": 883028
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": null,
+      "created": "2014-06-24T15:31:36+00:00",
+      "is_public": true,
+      "modified": "2014-07-02T02:36:44+00:00",
       "note": "### Gallery\r\n* Selection of multiple images from Gallery to share via MMS ",
-      "is_public": true,
-      "tag": "New",
-      "bug": null
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": null,
+      "created": "2014-06-24T15:38:05+00:00",
+      "is_public": true,
+      "modified": "2014-07-02T06:25:36+00:00",
       "note": "### SMS / MMS\r\n* Recipient suggestion list improvement for SMS/MMS \r\n\r\n",
-      "is_public": true,
-      "tag": "New",
-      "bug": null
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": null,
+      "created": "2014-06-24T15:39:36+00:00",
+      "is_public": true,
+      "modified": "2014-07-02T06:25:31+00:00",
       "note": "###SMS / MMS\r\n\r\n* Disaster/emergency support \r\n\r\n",
-      "is_public": true,
-      "tag": "New",
-      "bug": null
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": null,
+      "created": "2014-06-24T15:40:19+00:00",
+      "is_public": true,
+      "modified": "2014-07-02T06:26:04+00:00",
       "note": "###CDMA / GSM support:\r\n* Three-way conference calling for CDMA and GSM supported \r\n\r\n",
-      "is_public": true,
-      "tag": "New",
-      "bug": null
+      "sort_num": 0,
+      "tag": "New"
     },
     {
-      "note": "###System\r\n\r\n* Improved user experience for offline error prompts ",
+      "bug": null,
+      "created": "2014-09-25T22:22:37+00:00",
       "is_public": true,
-      "tag": "New",
-      "bug": null
+      "modified": "2014-09-25T22:50:01+00:00",
+      "note": "###System\r\n\r\n* Improved user experience for offline error prompts ",
+      "sort_num": 0,
+      "tag": "New"
     }
   ],
-  "text": " ",
+  "product": "Firefox OS",
   "release_date": "2014-08-08",
   "slug": "firefox-os-1.4-release",
-  "version": "1.4",
-  "bug_search_url": "",
-  "is_public": true,
   "system_requirements": "",
-  "channel": "Release"
+  "text": " ",
+  "title": "Firefox OS 1.4 Release",
+  "version": "1.4"
 }

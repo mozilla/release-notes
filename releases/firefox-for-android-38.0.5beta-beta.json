@@ -1,21 +1,26 @@
 {
-  "product": "Firefox for Android",
   "bug_list": "",
-  "title": "Firefox for Android 38.0.5beta Beta",
+  "bug_search_url": "",
+  "channel": "Beta",
+  "created": "2015-05-27T08:50:53+00:00",
+  "is_public": true,
+  "modified": "2015-05-27T11:39:29+00:00",
   "notes": [
     {
-      "note": "Various stability fixes",
+      "bug": null,
+      "created": "2015-05-27T08:53:12+00:00",
       "is_public": true,
-      "tag": "Fixed",
-      "bug": null
+      "modified": "2015-05-27T09:11:58+00:00",
+      "note": "Various stability fixes",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
-  "text": "",
+  "product": "Firefox for Android",
   "release_date": "2015-05-27",
   "slug": "firefox-for-android-38.0.5beta-beta",
-  "version": "38.0.5beta",
-  "bug_search_url": "",
-  "is_public": true,
   "system_requirements": "",
-  "channel": "Beta"
+  "text": "",
+  "title": "Firefox for Android 38.0.5beta Beta",
+  "version": "38.0.5beta"
 }

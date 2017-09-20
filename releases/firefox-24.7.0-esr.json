@@ -1,21 +1,26 @@
 {
-  "product": "Firefox Extended Support Release",
   "bug_list": "",
-  "title": "Firefox Extended Support Release 24.7.0 ESR",
+  "bug_search_url": "",
+  "channel": "ESR",
+  "created": "2014-07-21T14:53:26+00:00",
+  "is_public": true,
+  "modified": "2014-07-22T10:34:55+00:00",
   "notes": [
     {
-      "note": "Security fixes can be found <a href=\"https://www.mozilla.org/security/known-vulnerabilities/firefoxESR.html\">here</a>",
+      "bug": null,
+      "created": "2013-11-25T00:24:50+00:00",
       "is_public": true,
-      "tag": "Fixed",
-      "bug": null
+      "modified": "2015-05-12T16:59:10+00:00",
+      "note": "Security fixes can be found <a href=\"https://www.mozilla.org/security/known-vulnerabilities/firefoxESR.html\">here</a>",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
-  "text": "",
+  "product": "Firefox Extended Support Release",
   "release_date": "2014-07-22",
   "slug": "firefox-24.7.0-esr",
-  "version": "24.7.0",
-  "bug_search_url": "",
-  "is_public": true,
   "system_requirements": "",
-  "channel": "ESR"
+  "text": "",
+  "title": "Firefox Extended Support Release 24.7.0 ESR",
+  "version": "24.7.0"
 }

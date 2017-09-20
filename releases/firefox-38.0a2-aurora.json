@@ -1,129 +1,188 @@
 {
-  "product": "Firefox",
   "bug_list": "",
-  "title": "Firefox 38.0a2 Aurora",
+  "bug_search_url": "",
+  "channel": "Aurora",
+  "created": "2015-02-16T20:28:32+00:00",
+  "is_public": true,
+  "modified": "2015-03-01T10:34:40+00:00",
   "notes": [
     {
+      "bug": null,
+      "created": "2015-02-28T05:12:34+00:00",
+      "is_public": true,
+      "modified": "2015-03-31T09:42:19+00:00",
       "note": "64bit Windows builds (<a href=\"https://www.mozilla.org/en-US/firefox/developer/all/\">download here</a>)",
-      "is_public": true,
-      "tag": "New",
-      "bug": null
+      "sort_num": 100,
+      "tag": "New"
     },
     {
+      "bug": 1014208,
+      "created": "2015-03-24T13:30:01+00:00",
+      "is_public": true,
+      "modified": "2015-05-14T13:11:55+00:00",
       "note": "New tab-based preferences",
-      "is_public": true,
-      "tag": "New",
-      "bug": 1014208
+      "sort_num": 100,
+      "tag": "New"
     },
     {
+      "bug": 1099241,
+      "created": "2015-03-26T11:10:31+00:00",
+      "is_public": true,
+      "modified": "2015-05-12T00:45:59+00:00",
       "note": "Share the active tab or window in a Hello conversation - enabled for first half of the beta cycle",
-      "is_public": true,
-      "tag": "New",
-      "bug": 1099241
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": 558882,
+      "created": "2015-03-26T17:25:16+00:00",
+      "is_public": true,
+      "modified": "2015-05-12T00:46:02+00:00",
       "note": "Keep track of articles and blog posts with the Reading List - enabled for the first half of the beta cycle",
-      "is_public": true,
-      "tag": "New",
-      "bug": 558882
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": 33339,
+      "created": "2015-04-02T17:42:17+00:00",
+      "is_public": true,
+      "modified": "2015-05-14T23:51:56+00:00",
       "note": "[Ruby annotation][1] support\r\n\r\n\r\n  [1]: https://hacks.mozilla.org/2015/03/ruby-support-in-firefox-developer-edition-38/",
-      "is_public": true,
-      "tag": "New",
-      "bug": 33339
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": 1025703,
+      "created": "2015-02-20T00:31:57+00:00",
+      "is_public": true,
+      "modified": "2015-05-14T23:51:44+00:00",
       "note": "autocomplete=off is no longer supported for username/password fields",
-      "is_public": true,
-      "tag": "Changed",
-      "bug": 1025703
+      "sort_num": 0,
+      "tag": "Changed"
     },
     {
+      "bug": 1093611,
+      "created": "2015-02-20T00:36:08+00:00",
+      "is_public": true,
+      "modified": "2015-05-14T23:51:49+00:00",
       "note": "URL parser avoids doing percent encoding when setting the Fragment part of the URL, and percent decoding when getting the Fragment in line with the URL spec",
-      "is_public": true,
-      "tag": "Changed",
-      "bug": 1093611
+      "sort_num": 0,
+      "tag": "Changed"
     },
     {
+      "bug": 1130798,
+      "created": "2015-02-20T00:40:28+00:00",
+      "is_public": true,
+      "modified": "2015-05-14T23:51:47+00:00",
       "note": "RegExp.prototype.source now returns \"(?:)\" instead of the empty string for empty regular expressions",
-      "is_public": true,
-      "tag": "Changed",
-      "bug": 1130798
+      "sort_num": 0,
+      "tag": "Changed"
     },
     {
+      "bug": 1009122,
+      "created": "2015-02-20T01:17:13+00:00",
+      "is_public": true,
+      "modified": "2015-05-14T23:51:46+00:00",
       "note": "Improved page load times via speculative connection warmup",
-      "is_public": true,
-      "tag": "Changed",
-      "bug": 1009122
+      "sort_num": 0,
+      "tag": "Changed"
     },
     {
+      "bug": 966439,
+      "created": "2015-02-20T00:16:54+00:00",
+      "is_public": true,
+      "modified": "2015-05-14T23:51:41+00:00",
       "note": "[BroadcastChannel API implemented][1]\r\n\r\n[1]: https://hacks.mozilla.org/2015/02/broadcastchannel-api-in-firefox-38/",
-      "is_public": true,
-      "tag": "HTML5",
-      "bug": 966439
+      "sort_num": 0,
+      "tag": "HTML5"
     },
     {
+      "bug": 1017875,
+      "created": "2015-02-20T00:27:07+00:00",
+      "is_public": true,
+      "modified": "2015-05-14T23:51:40+00:00",
       "note": "Implemented srcset attribute and &lt;picture&gt; element for responsive images",
-      "is_public": true,
-      "tag": "HTML5",
-      "bug": 1017875
+      "sort_num": 0,
+      "tag": "HTML5"
     },
     {
+      "bug": 1126673,
+      "created": "2015-02-20T00:38:52+00:00",
+      "is_public": true,
+      "modified": "2015-05-14T23:51:38+00:00",
       "note": "Implemented DOM3 Events KeyboardEvent.code",
-      "is_public": true,
-      "tag": "HTML5",
-      "bug": 1126673
+      "sort_num": 0,
+      "tag": "HTML5"
     },
     {
+      "bug": 778617,
+      "created": "2015-03-30T12:51:39+00:00",
+      "is_public": true,
+      "modified": "2015-05-14T13:12:23+00:00",
       "note": "Mac OS X: Implemented a subset of the Media Source Extensions (MSE) API to allow native HTML5 playback on YouTube",
-      "is_public": true,
-      "tag": "HTML5",
-      "bug": 778617
+      "sort_num": 0,
+      "tag": "HTML5"
     },
     {
+      "bug": 1015800,
+      "created": "2015-03-31T08:54:30+00:00",
+      "is_public": true,
+      "modified": "2015-05-14T13:12:19+00:00",
       "note": "Implemented [Encrypted Media Extensions (EME)][1] API to support encrypted HTML5 video/audio playback (Windows Vista or later only)\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/enable-drm",
-      "is_public": true,
-      "tag": "HTML5",
-      "bug": 1015800
+      "sort_num": 0,
+      "tag": "HTML5"
     },
     {
+      "bug": 1015800,
+      "created": "2015-04-01T07:14:55+00:00",
+      "is_public": true,
+      "modified": "2015-05-14T13:12:20+00:00",
       "note": "Automatically download [Adobe Primetime Content Decryption Module (CDM)][1] for DRM playback through EME (Windows Vista or later only)\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/enable-drm",
-      "is_public": true,
-      "tag": "HTML5",
-      "bug": 1015800
+      "sort_num": 0,
+      "tag": "HTML5"
     },
     {
+      "bug": 941287,
+      "created": "2015-02-20T00:15:06+00:00",
+      "is_public": true,
+      "modified": "2015-05-14T13:12:15+00:00",
       "note": "Optimized-out variables are now visible in Debugger UI",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": 941287
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
+      "bug": 972655,
+      "created": "2015-02-20T00:21:47+00:00",
+      "is_public": true,
+      "modified": "2015-05-14T13:12:14+00:00",
       "note": "XMLHttpRequest logs in the web console are now visually labelled and can be filtered separately from regular network requests",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": 972655
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
+      "bug": 1095218,
+      "created": "2015-02-20T15:57:03+00:00",
+      "is_public": true,
+      "modified": "2015-05-14T23:51:35+00:00",
       "note": "WebRTC now has multistream and renegotiation support",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": 1095218
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
-      "note": "`copy` command added to console",
+      "bug": 1005870,
+      "created": "2015-02-23T22:07:47+00:00",
       "is_public": true,
-      "tag": "Developer",
-      "bug": 1005870
+      "modified": "2015-05-14T13:12:12+00:00",
+      "note": "`copy` command added to console",
+      "sort_num": 0,
+      "tag": "Developer"
     }
   ],
-  "text": "For more information about Developer Edition please see this <a href=\"https://developer.mozilla.org/en-US/Firefox/Developer_Edition\">MDN article</a> and also this <a href=\"https://hacks.mozilla.org/2014/11/mozilla-introduces-the-first-browser-built-for-developers-firefox-developer-edition/\">hacks.mozilla.org</a> post.",
+  "product": "Firefox",
   "release_date": "2015-02-27",
   "slug": "firefox-38.0a2-aurora",
-  "version": "38.0a2",
-  "bug_search_url": "",
-  "is_public": true,
   "system_requirements": "## Windows\r\n\r\n### Operating Systems\r\n - Windows XP SP2\r\n - Windows Server 2003 SP1\r\n - Windows Vista\r\n - Windows 7\r\n - Windows 8\r\n\r\n*Please note that while the 32-bit and 64-bit versions of Windows Vista and Windows 7 can be used to run Firefox 26, only 32-bit builds of Firefox 26 are supported at this time.*\r\n\r\n### Recommended Hardware\r\n-  Pentium 4 or newer processor that supports SSE2\r\n-  512MB of RAM\r\n-  200MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- Mac OS X 10.6\r\n- Mac OS X 10.7\r\n- Mac OS X 10.8\r\n- Mac OS X 10.9\r\n- Mac OS X 10.10\r\n\r\n### Recommended Hardware\r\n- Macintosh computer with an Intel x86 processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - GTK+ 2.18 or higher\r\n    - GLib 2.22 or higher\r\n    - Pango 1.14 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n    - libstdc++ 4.3 or higher\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - NetworkManager 0.7 or higher\r\n    - DBus 1.0 or higher\r\n    - HAL 0.5.8 or higher\r\n    - GNOME 2.16 or higher",
-  "channel": "Aurora"
+  "text": "For more information about Developer Edition please see this <a href=\"https://developer.mozilla.org/en-US/Firefox/Developer_Edition\">MDN article</a> and also this <a href=\"https://hacks.mozilla.org/2014/11/mozilla-introduces-the-first-browser-built-for-developers-firefox-developer-edition/\">hacks.mozilla.org</a> post.",
+  "title": "Firefox 38.0a2 Aurora",
+  "version": "38.0a2"
 }

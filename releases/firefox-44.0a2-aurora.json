@@ -1,69 +1,98 @@
 {
-  "product": "Firefox",
   "bug_list": "",
-  "title": "Firefox 44.0a2 Aurora",
+  "bug_search_url": "",
+  "channel": "Aurora",
+  "created": "2015-11-02T09:16:11+00:00",
+  "is_public": true,
+  "modified": "2015-11-03T14:22:19+00:00",
   "notes": [
     {
+      "bug": null,
+      "created": "2015-11-03T14:24:05+00:00",
+      "is_public": true,
+      "modified": "2016-01-21T20:51:49.831000+00:00",
       "note": "Improved warning pages for certificate errors and untrusted connections",
-      "is_public": true,
-      "tag": "New",
-      "bug": null
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": null,
+      "created": "2015-11-03T14:24:57+00:00",
+      "is_public": true,
+      "modified": "2016-01-29T18:06:49.513000+00:00",
       "note": "Firefox has removed support for the RC4 cipher",
-      "is_public": true,
-      "tag": "Changed",
-      "bug": null
+      "sort_num": 0,
+      "tag": "Changed"
     },
     {
+      "bug": 1025778,
+      "created": "2015-11-02T09:28:26+00:00",
+      "is_public": true,
+      "modified": "2016-01-21T20:51:49.831000+00:00",
       "note": "Right click on a logged object in the console to store it as a global variable on the page",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": 1025778
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
+      "bug": 1194146,
+      "created": "2015-11-02T11:15:40+00:00",
+      "is_public": true,
+      "modified": "2016-01-21T20:51:49.831000+00:00",
       "note": "Visual tools for Animation:\r\n\r\n -  View/Edit CSS animation keyframe rules directly in the inspector\r\n -  Visually modify the cubic-bezier curve that drives the way animations progress through time\r\n -  [Discover and scrub through all CSS animations][1] and transitions playing on the page\r\n - Learn more: http://devtoolschallenger.com/\r\n\r\n\r\n  [1]: https://www.youtube.com/watch?v=T2jykykN3yc",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": 1194146
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
+      "bug": 1194146,
+      "created": "2015-11-02T15:07:35+00:00",
+      "is_public": true,
+      "modified": "2016-01-21T20:51:49.831000+00:00",
       "note": "Visual tools for Layout and Styles:\r\n\r\n - Display rulers along the viewport to verify size and position and use the measurement tool to easily detect spacing and alignment problems\r\n - [Use CSS filters to preview and create][1] real-time effects like drop-shadows, sepia, etc\r\n - Learn more: http://devtoolschallenger.com/\r\n\r\n\r\n  [1]: https://www.youtube.com/watch?v=t3NKmmWfklU",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": 1194146
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
+      "bug": 1195323,
+      "created": "2015-11-02T17:15:06+00:00",
+      "is_public": true,
+      "modified": "2016-01-21T20:51:49.831000+00:00",
       "note": "New memory tool for inspecting the memory heap",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": 1195323
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
+      "bug": null,
+      "created": "2015-11-03T09:44:09+00:00",
+      "is_public": true,
+      "modified": "2016-01-21T20:51:49.831000+00:00",
       "note": "[Service Workers API][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/API/Service_Worker_API/Using_Service_Workers",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": null
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
+      "bug": 1132203,
+      "created": "2015-11-03T10:30:11+00:00",
+      "is_public": true,
+      "modified": "2016-01-21T20:51:49.831000+00:00",
       "note": "Built-in JSON reader to intuitively view, search, copy and save data without extensions",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": 1132203
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
-      "note": "[Add-on signing][1] enforcement\r\n\r\n\r\n  [1]: https://wiki.mozilla.org/Addons/Extension_Signing",
+      "bug": null,
+      "created": "2015-08-13T12:35:54+00:00",
       "is_public": true,
-      "tag": "Developer",
-      "bug": null
+      "modified": "2016-01-25T18:50:12.034000+00:00",
+      "note": "[Add-on signing][1] enforcement\r\n\r\n\r\n  [1]: https://wiki.mozilla.org/Addons/Extension_Signing",
+      "sort_num": -1,
+      "tag": "Developer"
     }
   ],
-  "text": "",
+  "product": "Firefox",
   "release_date": "2015-11-03",
   "slug": "firefox-44.0a2-aurora",
-  "version": "44.0a2",
-  "bug_search_url": "",
-  "is_public": true,
   "system_requirements": "## Windows\r\n\r\n### Operating Systems (32-bit and 64-bit)\r\n - Windows XP SP2\r\n - Windows Server 2003 SP1\r\n - Windows Vista\r\n - Windows 7\r\n - Windows 8\r\n - Windows 10\r\n\r\n*Please note that 64-bit builds of Firefox are only supported on Windows 7 and higher.*\r\n\r\n### Recommended Hardware\r\n-  Pentium 4 or newer processor that supports SSE2\r\n-  512MB of RAM\r\n-  200MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- Mac OS X 10.6\r\n- Mac OS X 10.7\r\n- Mac OS X 10.8\r\n- Mac OS X 10.9\r\n- Mac OS X 10.10\r\n- Mac OS X 10.11\r\n\r\n### Recommended Hardware\r\n- Macintosh computer with an Intel x86 processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - GTK+ 3.4 or higher\r\n    - GLib 2.22 or higher\r\n    - Pango 1.14 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n    - libstdc++ 4.3 or higher\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - NetworkManager 0.7 or higher\r\n    - DBus 1.0 or higher\r\n    - HAL 0.5.8 or higher\r\n    - GNOME 2.16 or higher",
-  "channel": "Aurora"
+  "text": "",
+  "title": "Firefox 44.0a2 Aurora",
+  "version": "44.0a2"
 }

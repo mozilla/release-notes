@@ -1,81 +1,116 @@
 {
-  "product": "Firefox for Android",
   "bug_list": "",
-  "title": "Firefox for Android 39.0a2 Aurora",
+  "bug_search_url": "",
+  "channel": "Aurora",
+  "created": "2015-01-13T16:13:45+00:00",
+  "is_public": true,
+  "modified": "2015-04-03T20:55:47+00:00",
   "notes": [
     {
+      "bug": 783846,
+      "created": "2015-03-29T18:59:17+00:00",
+      "is_public": true,
+      "modified": "2015-06-19T18:40:45+00:00",
       "note": "[Paste Android clipboard content][1] into editable web content\r\n\r\n\r\n  [1]: https://miketaylr.com/posts/2015/03/contenteditable-paste.html",
-      "is_public": true,
-      "tag": "New",
-      "bug": 783846
+      "sort_num": 90,
+      "tag": "New"
     },
     {
+      "bug": 1136563,
+      "created": "2015-04-02T23:13:01+00:00",
+      "is_public": true,
+      "modified": "2015-07-10T01:15:28+00:00",
       "note": "Support for 'switch' role in [ARIA 1.1][1] (web accessibility)\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/Accessibility/ARIA",
-      "is_public": true,
-      "tag": "New",
-      "bug": 1136563
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": 1106470,
+      "created": "2015-03-31T17:54:41+00:00",
+      "is_public": true,
+      "modified": "2015-06-15T19:28:35+00:00",
       "note": "Removed support for insecure SSLv3 for network communications",
-      "is_public": true,
-      "tag": "Changed",
-      "bug": 1106470
+      "sort_num": 0,
+      "tag": "Changed"
     },
     {
+      "bug": 1138658,
+      "created": "2015-03-27T22:19:45+00:00",
+      "is_public": true,
+      "modified": "2015-07-10T01:01:47+00:00",
       "note": "Added support for [CSS Scroll Snap Points][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/tag/CSS%20Scroll%20Snap%20Points",
-      "is_public": true,
-      "tag": "HTML5",
-      "bug": 1138658
+      "sort_num": 0,
+      "tag": "HTML5"
     },
     {
+      "bug": 1133861,
+      "created": "2015-03-31T17:56:28+00:00",
+      "is_public": true,
+      "modified": "2015-07-10T01:07:59+00:00",
       "note": "Enable the [Fetch API][1] by default \r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API",
-      "is_public": true,
-      "tag": "HTML5",
-      "bug": 1133861
+      "sort_num": 0,
+      "tag": "HTML5"
     },
     {
+      "bug": 1099032,
+      "created": "2015-03-31T17:57:19+00:00",
+      "is_public": true,
+      "modified": "2015-06-19T18:40:21+00:00",
       "note": "[Vertical text mode][1] enabled by default on Developer Edition\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/writing-mode",
-      "is_public": true,
-      "tag": "HTML5",
-      "bug": 1099032
+      "sort_num": 0,
+      "tag": "HTML5"
     },
     {
+      "bug": 1144607,
+      "created": "2015-03-31T17:57:48+00:00",
+      "is_public": true,
+      "modified": "2015-07-10T01:19:53+00:00",
       "note": " [List-style-type][1] now accepts a string value\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/list-style-type",
-      "is_public": true,
-      "tag": "HTML5",
-      "bug": 1144607
+      "sort_num": 0,
+      "tag": "HTML5"
     },
     {
+      "bug": 1135160,
+      "created": "2015-03-31T17:58:43+00:00",
+      "is_public": true,
+      "modified": "2015-07-10T01:06:45+00:00",
       "note": " Implement `<link rel=\"preconnect\">`",
-      "is_public": true,
-      "tag": "HTML5",
-      "bug": 1135160
+      "sort_num": 0,
+      "tag": "HTML5"
     },
     {
+      "bug": 1125455,
+      "created": "2015-03-31T17:59:20+00:00",
+      "is_public": true,
+      "modified": "2015-06-15T19:28:35+00:00",
       "note": "Cascading of CSS transitions and animations now matches the current spec",
-      "is_public": true,
-      "tag": "HTML5",
-      "bug": 1125455
+      "sort_num": 0,
+      "tag": "HTML5"
     },
     {
+      "bug": 940273,
+      "created": "2015-03-31T18:09:49+00:00",
+      "is_public": true,
+      "modified": "2015-06-19T21:07:06+00:00",
       "note": "Implement [Cache][1] API\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/Cache\r\n",
-      "is_public": true,
-      "tag": "HTML5",
-      "bug": 940273
+      "sort_num": 0,
+      "tag": "HTML5"
     },
     {
-      "note": "Improve performance for IPv6 fallback to IPv4 ",
+      "bug": 1136484,
+      "created": "2015-03-31T19:46:58+00:00",
       "is_public": true,
-      "tag": "Fixed",
-      "bug": 1136484
+      "modified": "2015-06-15T19:28:35+00:00",
+      "note": "Improve performance for IPv6 fallback to IPv4 ",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
-  "text": "",
+  "product": "Firefox for Android",
   "release_date": "2015-04-03",
   "slug": "firefox-for-android-39.0a2-aurora",
-  "version": "39.0a2",
-  "bug_search_url": "",
-  "is_public": true,
   "system_requirements": "",
-  "channel": "Aurora"
+  "text": "",
+  "title": "Firefox for Android 39.0a2 Aurora",
+  "version": "39.0a2"
 }

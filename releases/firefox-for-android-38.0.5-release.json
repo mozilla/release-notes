@@ -1,33 +1,44 @@
 {
-  "product": "Firefox for Android",
   "bug_list": "",
-  "title": "Firefox for Android 38.0.5 Release",
+  "bug_search_url": "",
+  "channel": "Release",
+  "created": "2015-05-27T08:50:53+00:00",
+  "is_public": true,
+  "modified": "2015-05-27T08:50:53+00:00",
   "notes": [
     {
+      "bug": null,
+      "created": "2015-06-05T12:56:23+00:00",
+      "is_public": true,
+      "modified": "2015-06-05T12:56:23+00:00",
       "note": "Reference: [Release notes for Firefox 38.0.1][1]\r\n [1]: https://www.mozilla.org/en-US/firefox/android/38.0.1/releasenotes/",
-      "is_public": true,
-      "tag": "",
-      "bug": null
+      "sort_num": 10000,
+      "tag": ""
     },
     {
+      "bug": 1143888,
+      "created": "2015-05-27T08:51:10+00:00",
+      "is_public": true,
+      "modified": "2015-06-02T11:06:52+00:00",
       "note": "Integrated [Adjust SDK][1] to measure aggregate installs\r\n\r\n\r\n  [1]: https://groups.google.com/forum/#!msg/mozilla.governance/xs7Sfyxc4As/vIsztD7jha8J",
-      "is_public": true,
-      "tag": "New",
-      "bug": 1143888
+      "sort_num": 0,
+      "tag": "New"
     },
     {
-      "note": "Various stability fixes",
+      "bug": null,
+      "created": "2015-05-27T08:53:12+00:00",
       "is_public": true,
-      "tag": "Fixed",
-      "bug": null
+      "modified": "2015-05-27T09:11:58+00:00",
+      "note": "Various stability fixes",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
-  "text": "",
+  "product": "Firefox for Android",
   "release_date": "2015-06-02",
   "slug": "firefox-for-android-38.0.5-release",
-  "version": "38.0.5",
-  "bug_search_url": "",
-  "is_public": true,
   "system_requirements": "",
-  "channel": "Release"
+  "text": "",
+  "title": "Firefox for Android 38.0.5 Release",
+  "version": "38.0.5"
 }

@@ -1,141 +1,206 @@
 {
-  "product": "Firefox",
   "bug_list": "",
-  "title": "Firefox 40.0beta Beta",
+  "bug_search_url": "",
+  "channel": "Beta",
+  "created": "2015-05-11T23:34:53+00:00",
+  "is_public": true,
+  "modified": "2015-07-03T18:26:47+00:00",
   "notes": [
     {
+      "bug": 1077146,
+      "created": "2015-07-02T16:37:56+00:00",
+      "is_public": true,
+      "modified": "2015-08-11T13:09:47+00:00",
       "note": "Support for Windows 10",
-      "is_public": true,
-      "tag": "New",
-      "bug": 1077146
+      "sort_num": 100,
+      "tag": "New"
     },
     {
+      "bug": 1147212,
+      "created": "2015-05-15T03:39:12+00:00",
+      "is_public": true,
+      "modified": "2015-08-11T15:34:58+00:00",
       "note": "Added [protection against unwanted software][1] downloads\r\n\r\n\r\n  [1]: https://blog.mozilla.org/security/2015/08/11/expanded-malware-protection-in-firefox/",
-      "is_public": true,
-      "tag": "New",
-      "bug": 1147212
+      "sort_num": 90,
+      "tag": "New"
     },
     {
+      "bug": 1140185,
+      "created": "2015-07-01T19:02:10+00:00",
+      "is_public": true,
+      "modified": "2015-08-11T13:09:49+00:00",
       "note": "User can receive [suggested tiles][1] in the new tab page based on categories Firefox matches to browsing history (en-US only).\r\n\r\n[1]: https://www.mozilla.org/en-US/firefox/tiles/",
-      "is_public": true,
-      "tag": "New",
-      "bug": 1140185
+      "sort_num": 85,
+      "tag": "New"
     },
     {
+      "bug": 1115340,
+      "created": "2015-07-01T18:40:04+00:00",
+      "is_public": true,
+      "modified": "2015-08-11T13:09:50+00:00",
       "note": "Hello allows [adding a link to conversations][1] to provide context on what the conversation will be about\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/add-context-firefox-hello-conversations\r\n",
-      "is_public": true,
-      "tag": "New",
-      "bug": 1115340
+      "sort_num": 80,
+      "tag": "New"
     },
     {
+      "bug": 989469,
+      "created": "2015-05-14T22:30:23+00:00",
+      "is_public": true,
+      "modified": "2015-08-11T13:09:55+00:00",
       "note": " New style for add-on manager based on the in-content preferences style",
-      "is_public": true,
-      "tag": "New",
-      "bug": 989469
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": 994541,
+      "created": "2015-05-14T22:46:37+00:00",
+      "is_public": true,
+      "modified": "2015-08-11T13:09:51+00:00",
       "note": "Improved scrolling, graphics, and video playback performance with off main thread compositing (GNU/Linux only)",
-      "is_public": true,
-      "tag": "New",
-      "bug": 994541
+      "sort_num": 0,
+      "tag": "New"
     },
     {
+      "bug": 1162530,
+      "created": "2015-08-06T09:38:40+00:00",
+      "is_public": true,
+      "modified": "2015-08-11T13:10:00+00:00",
       "note": "Graphic blocklist mechanism improved: Firefox version ranges can be specified, limiting the number of devices blocked",
-      "is_public": true,
-      "tag": "New",
-      "bug": 1162530
+      "sort_num": -1,
+      "tag": "New"
     },
     {
+      "bug": null,
+      "created": "2015-07-01T21:12:29+00:00",
+      "is_public": true,
+      "modified": "2015-08-11T13:10:20+00:00",
       "note": "Add-on extensions that are not signed by Mozilla will [display a warning][1]\r\n\r\n[1]:https://support.mozilla.org/kb/add-ons-signing-firefox",
-      "is_public": true,
-      "tag": "Changed",
-      "bug": null
+      "sort_num": 100,
+      "tag": "Changed"
     },
     {
+      "bug": 1116806,
+      "created": "2015-03-29T18:52:05+00:00",
+      "is_public": true,
+      "modified": "2015-08-11T13:10:21+00:00",
       "note": "NPAPI Plug-in performance improved via [asynchronous initialization][1]\r\n\r\n  [1]: http://dblohm7.ca/blog/2014/06/17/asynchronous-plugin-initialization-an-introduction/",
-      "is_public": true,
-      "tag": "Changed",
-      "bug": 1116806
+      "sort_num": 0,
+      "tag": "Changed"
     },
     {
+      "bug": 1144317,
+      "created": "2015-05-15T16:21:23+00:00",
+      "is_public": true,
+      "modified": "2015-08-11T13:10:20+00:00",
       "note": "Smoother animation and scrolling with [hardware vsync][1] (Windows only)\r\n\r\n  [1]: https://hacks.mozilla.org/2015/01/project-silk/",
-      "is_public": true,
-      "tag": "Changed",
-      "bug": 1144317
+      "sort_num": 0,
+      "tag": "Changed"
     },
     {
+      "bug": 1124084,
+      "created": "2015-06-01T08:15:49+00:00",
+      "is_public": true,
+      "modified": "2015-08-11T13:10:30+00:00",
       "note": "JPEG images use less memory when scaled and can be painted faster",
-      "is_public": true,
-      "tag": "Changed",
-      "bug": 1124084
+      "sort_num": 0,
+      "tag": "Changed"
     },
     {
+      "bug": 647010,
+      "created": "2015-08-03T13:05:18+00:00",
+      "is_public": true,
+      "modified": "2015-08-11T13:10:32+00:00",
       "note": "Sub-resources [can no longer request HTTP authentication][1], thus protecting users from inadvertently disclosing login data\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/Firefox/Releases/40/Site_Compatibility#Security",
-      "is_public": true,
-      "tag": "Changed",
-      "bug": 647010
+      "sort_num": 0,
+      "tag": "Changed"
     },
     {
+      "bug": 1112702,
+      "created": "2015-05-15T00:12:20+00:00",
+      "is_public": true,
+      "modified": "2015-08-11T13:10:24+00:00",
       "note": "[IndexedDB transactions][1] are now non-durable by default\r\n\r\n[1]:https://developer.mozilla.org/docs/Web/API/IndexedDB_API/Basic_Concepts_Behind_IndexedDB#durable",
-      "is_public": true,
-      "tag": "HTML5",
-      "bug": 1112702
+      "sort_num": 0,
+      "tag": "HTML5"
     },
     {
+      "bug": 1153783,
+      "created": "2015-05-15T04:14:27+00:00",
+      "is_public": true,
+      "modified": "2015-08-11T13:10:29+00:00",
       "note": "Implemented [AudioBufferSourceNode.detune][1] to modulate playback rate in cents, a logarithmic unit of measure used for\r\nmusical intervals\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/API/AudioBufferSourceNode/detune",
-      "is_public": true,
-      "tag": "HTML5",
-      "bug": 1153783
+      "sort_num": 0,
+      "tag": "HTML5"
     },
     {
+      "bug": 1167252,
+      "created": "2015-06-01T08:24:42+00:00",
+      "is_public": true,
+      "modified": "2015-08-11T13:10:29+00:00",
       "note": "Improved [Performance tools][1] in the developer tools: [Waterfall][2] view, [Call Tree][3] view and a [Flame Chart][4] view\r\n\r\n\r\n  [1]: https://hacks.mozilla.org/?p=28808\r\n  [2]: https://developer.mozilla.org/en-US/docs/Tools/Performance/Waterfall\r\n  [3]: https://developer.mozilla.org/en-US/docs/Tools/Performance/Call_Tree\r\n  [4]: https://developer.mozilla.org/en-US/docs/Tools/Performance/Flame_Chart",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": 1167252
+      "sort_num": 1000,
+      "tag": "Developer"
     },
     {
+      "bug": 1055181,
+      "created": "2015-05-14T22:54:13+00:00",
+      "is_public": true,
+      "modified": "2015-08-11T13:10:17+00:00",
       "note": "New [rules view tooltip][1] in the Inspector to tweak CSS Filter values\r\n\r\n\r\n  [1]: http://youtu.be/t3NKmmWfklU",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": 1055181
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
+      "bug": 1144163,
+      "created": "2015-05-15T01:34:14+00:00",
+      "is_public": true,
+      "modified": "2015-08-11T13:10:26+00:00",
       "note": "New page ruler highlighting tool that displays [lightweight horizontal and vertical rules][1] on a page \r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Rulers",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": 1144163
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
+      "bug": 1125205,
+      "created": "2015-05-15T03:02:49+00:00",
+      "is_public": true,
+      "modified": "2015-08-11T13:10:16+00:00",
       "note": "Console API messages from SharedWorker and ServiceWorker are now displayed in web console",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": 1125205
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
+      "bug": 873443,
+      "created": "2015-05-15T04:01:35+00:00",
+      "is_public": true,
+      "modified": "2015-08-11T13:10:27+00:00",
       "note": "Inspector now searches across all content frames in a page",
-      "is_public": true,
-      "tag": "Developer",
-      "bug": 873443
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
+      "bug": 911034,
+      "created": "2015-05-15T03:57:54+00:00",
+      "is_public": true,
+      "modified": "2015-08-11T13:10:16+00:00",
       "note": "Kannada text does not display properly in built-in pdf viewer",
-      "is_public": true,
-      "tag": "Fixed",
-      "bug": 911034
+      "sort_num": 0,
+      "tag": "Fixed"
     },
     {
-      "note": "If Firefox is restarted from an add-on install notification, on-going private browsing downloads might be canceled without warning  ([1185294][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1185294",
+      "bug": 1185294,
+      "created": "2015-08-05T13:55:44+00:00",
       "is_public": true,
-      "tag": "Known",
-      "bug": 1185294
+      "modified": "2015-08-11T13:10:15+00:00",
+      "note": "If Firefox is restarted from an add-on install notification, on-going private browsing downloads might be canceled without warning  ([1185294][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1185294",
+      "sort_num": 0,
+      "tag": "Known"
     }
   ],
-  "text": "",
+  "product": "Firefox",
   "release_date": "2015-07-03",
   "slug": "firefox-40.0beta-beta",
-  "version": "40.0beta",
-  "bug_search_url": "",
-  "is_public": true,
   "system_requirements": "## Windows\r\n\r\n### Operating Systems\r\n - Windows XP SP2\r\n - Windows Server 2003 SP1\r\n - Windows Vista\r\n - Windows 7\r\n - Windows 8\r\n - Windows 10\r\n\r\n*Please note that while the 32-bit and 64-bit versions of Windows Vista and Windows 7 can be used to run Firefox, only 32-bit builds of Firefox are supported at this time.*\r\n\r\n### Recommended Hardware\r\n-  Pentium 4 or newer processor that supports SSE2\r\n-  512MB of RAM\r\n-  200MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- Mac OS X 10.6\r\n- Mac OS X 10.7\r\n- Mac OS X 10.8\r\n- Mac OS X 10.9\r\n- Mac OS X 10.10\r\n\r\n### Recommended Hardware\r\n- Macintosh computer with an Intel x86 processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - GTK+ 2.18 or higher\r\n    - GLib 2.22 or higher\r\n    - Pango 1.14 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n    - libstdc++ 4.3 or higher\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - NetworkManager 0.7 or higher\r\n    - DBus 1.0 or higher\r\n    - HAL 0.5.8 or higher\r\n    - GNOME 2.16 or higher",
-  "channel": "Beta"
+  "text": "",
+  "title": "Firefox 40.0beta Beta",
+  "version": "40.0beta"
 }
