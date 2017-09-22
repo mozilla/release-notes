@@ -17,6 +17,16 @@
       "tag": "Fixed"
     },
     {
+      "bug": 1005958,
+      "created": "2014-05-09T07:12:54+00:00",
+      "id": 785590,
+      "is_public": true,
+      "modified": "2014-05-09T10:26:53+00:00",
+      "note": "29.0.1 - Seer disabled by default ([1005958][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/1005958",
+      "sort_num": 9999,
+      "tag": "Fixed"
+    },
+    {
       "bug": 907373,
       "created": "2014-05-09T07:10:33+00:00",
       "id": 785588,
@@ -33,16 +43,6 @@
       "is_public": true,
       "modified": "2014-05-09T10:26:53+00:00",
       "note": "29.0.1 - Session Restore failed with a corrupted sessionstore.js file ([1001167][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/1001167",
-      "sort_num": 9999,
-      "tag": "Fixed"
-    },
-    {
-      "bug": 1005958,
-      "created": "2014-05-09T07:12:54+00:00",
-      "id": 785590,
-      "is_public": true,
-      "modified": "2014-05-09T10:26:53+00:00",
-      "note": "29.0.1 - Seer disabled by default ([1005958][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/1005958",
       "sort_num": 9999,
       "tag": "Fixed"
     },
@@ -237,20 +237,12 @@
       "tag": "Fixed"
     },
     {
-      "bug": 1008793,
-      "created": "2013-11-25T00:24:44+00:00",
-      "fixed_in_release": {
-        "channel": "Aurora",
-        "is_public": true,
-        "product": "Firefox",
-        "slug": "firefox-32.0a2-aurora",
-        "title": "Firefox 32.0a2 Aurora",
-        "version": "32.0a2"
-      },
-      "id": 95,
+      "bug": 1005487,
+      "created": "2014-06-05T17:20:25+00:00",
+      "id": 785601,
       "is_public": true,
-      "modified": "2014-07-21T03:56:45+00:00",
-      "note": "Mac OS X: cmd-L no longer opens a new window when no window is available ([1008793][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1008793",
+      "modified": "2014-07-21T03:57:04+00:00",
+      "note": "Exit is not always completed when \"clear history when Firefox closes\" is enabled ([1005487][1])\r\n\r\n\r\n  [1]: http://bugzilla.mozilla.org/1005487",
       "sort_num": 0,
       "tag": "Known"
     },
@@ -301,12 +293,20 @@
       "tag": "Known"
     },
     {
-      "bug": 1005487,
-      "created": "2014-06-05T17:20:25+00:00",
-      "id": 785601,
+      "bug": 1008793,
+      "created": "2013-11-25T00:24:44+00:00",
+      "fixed_in_release": {
+        "channel": "Aurora",
+        "is_public": true,
+        "product": "Firefox",
+        "slug": "firefox-32.0a2-aurora",
+        "title": "Firefox 32.0a2 Aurora",
+        "version": "32.0a2"
+      },
+      "id": 95,
       "is_public": true,
-      "modified": "2014-07-21T03:57:04+00:00",
-      "note": "Exit is not always completed when \"clear history when Firefox closes\" is enabled ([1005487][1])\r\n\r\n\r\n  [1]: http://bugzilla.mozilla.org/1005487",
+      "modified": "2014-07-21T03:56:45+00:00",
+      "note": "Mac OS X: cmd-L no longer opens a new window when no window is available ([1008793][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1008793",
       "sort_num": 0,
       "tag": "Known"
     }

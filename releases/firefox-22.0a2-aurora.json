@@ -9,6 +9,16 @@
     {
       "bug": null,
       "created": "2013-11-25T00:24:50+00:00",
+      "id": 785379,
+      "is_public": true,
+      "modified": "2014-04-23T10:53:37+00:00",
+      "note": "Social services management implemented in Add-ons Manager",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2013-11-25T00:24:50+00:00",
       "id": 785342,
       "is_public": true,
       "modified": "2014-04-23T10:53:37+00:00",
@@ -59,12 +69,22 @@
     {
       "bug": null,
       "created": "2013-11-25T00:24:50+00:00",
-      "id": 785379,
+      "id": 785381,
       "is_public": true,
       "modified": "2014-04-23T10:53:37+00:00",
-      "note": "Social services management implemented in Add-ons Manager",
+      "note": "WebRTC is now <a href=\"http://blog.mozilla.org/futurereleases/2013/05/16/firefox-beta-now-includes-webrtc-on-by-default\">enabled by default</a>!",
       "sort_num": 0,
-      "tag": "New"
+      "tag": "Changed"
+    },
+    {
+      "bug": null,
+      "created": "2013-11-25T00:24:50+00:00",
+      "id": 785378,
+      "is_public": true,
+      "modified": "2014-04-23T10:53:37+00:00",
+      "note": "For user security, the |Components| object is no longer accessible from web content",
+      "sort_num": 0,
+      "tag": "Changed"
     },
     {
       "bug": null,
@@ -103,26 +123,6 @@
       "is_public": true,
       "modified": "2014-04-23T10:53:37+00:00",
       "note": "Plain text files displayed within Firefox will now word-wrap",
-      "sort_num": 0,
-      "tag": "Changed"
-    },
-    {
-      "bug": null,
-      "created": "2013-11-25T00:24:50+00:00",
-      "id": 785378,
-      "is_public": true,
-      "modified": "2014-04-23T10:53:37+00:00",
-      "note": "For user security, the |Components| object is no longer accessible from web content",
-      "sort_num": 0,
-      "tag": "Changed"
-    },
-    {
-      "bug": null,
-      "created": "2013-11-25T00:24:50+00:00",
-      "id": 785381,
-      "is_public": true,
-      "modified": "2014-04-23T10:53:37+00:00",
-      "note": "WebRTC is now <a href=\"http://blog.mozilla.org/futurereleases/2013/05/16/firefox-beta-now-includes-webrtc-on-by-default\">enabled by default</a>!",
       "sort_num": 0,
       "tag": "Changed"
     },

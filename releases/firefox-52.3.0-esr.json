@@ -2,27 +2,27 @@
   "bug_list": "",
   "bug_search_url": "",
   "channel": "ESR",
-  "created": "2017-08-07T03:53:41.806000+00:00",
+  "created": "2017-08-07T03:53:41.806255+00:00",
   "is_public": true,
-  "modified": "2017-08-08T10:36:07.803000+00:00",
+  "modified": "2017-08-08T10:36:07.803226+00:00",
   "notes": [
     {
       "bug": null,
-      "created": "2017-08-07T03:56:37.420000+00:00",
-      "id": 787201,
+      "created": "2017-08-07T03:57:34.621545+00:00",
+      "id": 787202,
       "is_public": true,
-      "modified": "2017-08-07T03:56:37.419000+00:00",
-      "note": "Various stability and regression fixes",
+      "modified": "2017-08-07T03:57:34.621275+00:00",
+      "note": "Various [security fixes][1]\r\n\r\n[1]: https://www.mozilla.org/en-US/security/known-vulnerabilities/firefox-esr/#firefoxesr52.3",
       "sort_num": 0,
       "tag": "Fixed"
     },
     {
       "bug": null,
-      "created": "2017-08-07T03:57:34.621000+00:00",
-      "id": 787202,
+      "created": "2017-08-07T03:56:37.420091+00:00",
+      "id": 787201,
       "is_public": true,
-      "modified": "2017-08-07T03:57:34.621000+00:00",
-      "note": "Various [security fixes][1]\r\n\r\n[1]: https://www.mozilla.org/en-US/security/known-vulnerabilities/firefox-esr/#firefoxesr52.3",
+      "modified": "2017-08-07T03:56:37.419903+00:00",
+      "note": "Various stability and regression fixes",
       "sort_num": 0,
       "tag": "Fixed"
     }

@@ -27,16 +27,6 @@
       "tag": "New"
     },
     {
-      "bug": null,
-      "created": "2014-04-09T07:51:51+00:00",
-      "id": 785546,
-      "is_public": true,
-      "modified": "2014-07-17T02:15:23+00:00",
-      "note": "OdinMonkey: Use backtracking allocator for asm.js style code",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
       "bug": 915930,
       "created": "2014-04-29T10:46:12+00:00",
       "id": 785563,
@@ -53,6 +43,16 @@
       "is_public": true,
       "modified": "2014-07-21T00:01:42+00:00",
       "note": "Partial implementation of the <a href=\"http://mpeg.chiariglione.org/standards/mpeg-4/open-font-format/text-isoiec-cd-14496-22-3rd-edition\">OpenType MATH table</a> (section 6.3.6) see <a href=\"https://developer.mozilla.org/en-US/docs/Mozilla/MathML_Project/Fonts\">documentation about mathematical fonts</a> and the <a href=\"https://developer.mozilla.org/en-US/docs/Mozilla/MathML_Project/MathML_Torture_Test\">MathML Torture Test</a> for details",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2014-04-09T07:51:51+00:00",
+      "id": 785546,
+      "is_public": true,
+      "modified": "2014-07-17T02:15:23+00:00",
+      "note": "OdinMonkey: Use backtracking allocator for asm.js style code",
       "sort_num": 0,
       "tag": "New"
     },
@@ -237,20 +237,22 @@
       "tag": "Fixed"
     },
     {
-      "bug": 1008793,
-      "created": "2013-11-25T00:24:44+00:00",
-      "fixed_in_release": {
-        "channel": "Aurora",
-        "is_public": true,
-        "product": "Firefox",
-        "slug": "firefox-32.0a2-aurora",
-        "title": "Firefox 32.0a2 Aurora",
-        "version": "32.0a2"
-      },
-      "id": 95,
+      "bug": 966469,
+      "created": "2014-05-09T08:10:33+00:00",
+      "id": 785593,
       "is_public": true,
-      "modified": "2014-07-21T03:56:45+00:00",
-      "note": "Mac OS X: cmd-L no longer opens a new window when no window is available ([1008793][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1008793",
+      "modified": "2014-07-11T07:24:35+00:00",
+      "note": "Slow shut downs lead to 'Firefox is already running' warning (see [966469][1] and [985655][2])\r\n\r\n\r\n  [1]: http://bugzilla.mozilla.org/966469\r\n  [2]: http://bugzilla.mozilla.org/985655",
+      "sort_num": 0,
+      "tag": "Known"
+    },
+    {
+      "bug": 1025627,
+      "created": "2014-07-16T08:00:45+00:00",
+      "id": 785646,
+      "is_public": true,
+      "modified": "2014-07-17T06:59:54+00:00",
+      "note": "Mac OS X and Windows: Citrix Receiver no longer works. As a workaround, mark the plugin as *Always Enable* in the addon manager ([1025627][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1025627",
       "sort_num": 0,
       "tag": "Known"
     },
@@ -273,16 +275,6 @@
       "tag": "Known"
     },
     {
-      "bug": 966469,
-      "created": "2014-05-09T08:10:33+00:00",
-      "id": 785593,
-      "is_public": true,
-      "modified": "2014-07-11T07:24:35+00:00",
-      "note": "Slow shut downs lead to 'Firefox is already running' warning (see [966469][1] and [985655][2])\r\n\r\n\r\n  [1]: http://bugzilla.mozilla.org/966469\r\n  [2]: http://bugzilla.mozilla.org/985655",
-      "sort_num": 0,
-      "tag": "Known"
-    },
-    {
       "bug": 1027103,
       "created": "2014-07-16T07:41:56+00:00",
       "fixed_in_release": {
@@ -301,12 +293,20 @@
       "tag": "Known"
     },
     {
-      "bug": 1025627,
-      "created": "2014-07-16T08:00:45+00:00",
-      "id": 785646,
+      "bug": 1008793,
+      "created": "2013-11-25T00:24:44+00:00",
+      "fixed_in_release": {
+        "channel": "Aurora",
+        "is_public": true,
+        "product": "Firefox",
+        "slug": "firefox-32.0a2-aurora",
+        "title": "Firefox 32.0a2 Aurora",
+        "version": "32.0a2"
+      },
+      "id": 95,
       "is_public": true,
-      "modified": "2014-07-17T06:59:54+00:00",
-      "note": "Mac OS X and Windows: Citrix Receiver no longer works. As a workaround, mark the plugin as *Always Enable* in the addon manager ([1025627][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1025627",
+      "modified": "2014-07-21T03:56:45+00:00",
+      "note": "Mac OS X: cmd-L no longer opens a new window when no window is available ([1008793][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1008793",
       "sort_num": 0,
       "tag": "Known"
     }

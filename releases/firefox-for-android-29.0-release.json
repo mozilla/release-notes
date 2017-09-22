@@ -88,21 +88,21 @@
     },
     {
       "bug": null,
-      "created": "2014-03-04T09:21:34+00:00",
-      "id": 785425,
-      "is_public": true,
-      "modified": "2014-05-09T10:26:53+00:00",
-      "note": "Performance improved by replacing throbber with a progress bar",
-      "sort_num": 0,
-      "tag": "Changed"
-    },
-    {
-      "bug": null,
       "created": "2014-04-09T08:09:00+00:00",
       "id": 785547,
       "is_public": true,
       "modified": "2014-05-09T10:26:53+00:00",
       "note": "Clicking on a W3C Web Notification will switch to the originating tab",
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
+      "bug": null,
+      "created": "2014-03-04T09:21:34+00:00",
+      "id": 785425,
+      "is_public": true,
+      "modified": "2014-05-09T10:26:53+00:00",
+      "note": "Performance improved by replacing throbber with a progress bar",
       "sort_num": 0,
       "tag": "Changed"
     },
@@ -138,6 +138,26 @@
     },
     {
       "bug": null,
+      "created": "2014-03-04T10:03:37+00:00",
+      "id": 785449,
+      "is_public": true,
+      "modified": "2014-07-21T04:27:57+00:00",
+      "note": "Color picker widget implemented, access by using &lt;input type=\"color\"&gt;",
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
+      "bug": 887836,
+      "created": "2014-04-29T10:52:27+00:00",
+      "id": 785564,
+      "is_public": true,
+      "modified": "2014-05-09T10:26:53+00:00",
+      "note": "Implemented URLSearchParams from the URL specification (see [MDN][1] for details )\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/URLUtils",
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
+      "bug": null,
       "created": "2014-03-04T08:35:01+00:00",
       "id": 785416,
       "is_public": true,
@@ -168,26 +188,6 @@
     },
     {
       "bug": null,
-      "created": "2014-03-04T10:03:37+00:00",
-      "id": 785449,
-      "is_public": true,
-      "modified": "2014-07-21T04:27:57+00:00",
-      "note": "Color picker widget implemented, access by using &lt;input type=\"color\"&gt;",
-      "sort_num": 0,
-      "tag": "Developer"
-    },
-    {
-      "bug": 887836,
-      "created": "2014-04-29T10:52:27+00:00",
-      "id": 785564,
-      "is_public": true,
-      "modified": "2014-05-09T10:26:53+00:00",
-      "note": "Implemented URLSearchParams from the URL specification (see [MDN][1] for details )\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/URLUtils",
-      "sort_num": 0,
-      "tag": "Developer"
-    },
-    {
-      "bug": null,
       "created": "2013-11-25T00:24:50+00:00",
       "id": 161,
       "is_public": true,
@@ -207,16 +207,6 @@
       "tag": "Fixed"
     },
     {
-      "bug": null,
-      "created": "2014-03-04T09:53:08+00:00",
-      "id": 785441,
-      "is_public": true,
-      "modified": "2014-07-21T04:29:47+00:00",
-      "note": "Moving Firefox to background while playing a flash video in full screen mode and bring it back to view will freeze the app (see <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=809055\">809055</a>)",
-      "sort_num": 0,
-      "tag": "Known"
-    },
-    {
       "bug": 1003897,
       "created": "2014-05-01T12:30:34+00:00",
       "fixed_in_release": {
@@ -231,6 +221,16 @@
       "is_public": true,
       "modified": "2014-05-09T12:08:02+00:00",
       "note": "Character Encoding selection via menu is broken (see [bug 1003897][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1003897",
+      "sort_num": 0,
+      "tag": "Known"
+    },
+    {
+      "bug": null,
+      "created": "2014-03-04T09:53:08+00:00",
+      "id": 785441,
+      "is_public": true,
+      "modified": "2014-07-21T04:29:47+00:00",
+      "note": "Moving Firefox to background while playing a flash video in full screen mode and bring it back to view will freeze the app (see <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=809055\">809055</a>)",
       "sort_num": 0,
       "tag": "Known"
     }

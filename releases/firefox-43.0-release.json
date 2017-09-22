@@ -4,7 +4,7 @@
   "channel": "Release",
   "created": "2015-09-14T20:03:18+00:00",
   "is_public": true,
-  "modified": "2016-01-22T18:54:45.857000+00:00",
+  "modified": "2016-01-22T18:54:45.857273+00:00",
   "notes": [
     {
       "bug": 1177085,
@@ -17,22 +17,22 @@
       "tag": "New"
     },
     {
-      "bug": 875573,
-      "created": "2015-09-16T23:09:57+00:00",
-      "id": 786269,
-      "is_public": true,
-      "modified": "2015-12-03T02:58:53+00:00",
-      "note": "Improved [API support for m4v][1] video playback\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/HTMLMediaElement/canPlayType",
-      "sort_num": 99,
-      "tag": "New"
-    },
-    {
       "bug": 1229852,
       "created": "2015-12-15T16:41:40+00:00",
       "id": 786386,
       "is_public": true,
       "modified": "2015-12-15T16:41:41+00:00",
       "note": "Firefox 64-bit for Windows is now available via the [Firefox download page][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/en-US/firefox/all/",
+      "sort_num": 99,
+      "tag": "New"
+    },
+    {
+      "bug": 875573,
+      "created": "2015-09-16T23:09:57+00:00",
+      "id": 786269,
+      "is_public": true,
+      "modified": "2015-12-03T02:58:53+00:00",
+      "note": "Improved [API support for m4v][1] video playback\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/HTMLMediaElement/canPlayType",
       "sort_num": 99,
       "tag": "New"
     },
@@ -65,36 +65,6 @@
       "note": "Firefox Health Report has switched to use the same data collection mechanism as telemetry",
       "sort_num": 0,
       "tag": "New"
-    },
-    {
-      "bug": 1120406,
-      "created": "2015-09-17T16:49:20+00:00",
-      "id": 786273,
-      "is_public": true,
-      "modified": "2015-12-03T02:57:14+00:00",
-      "note": "Markup view shows [indicators for pseudo-classes locked for elements][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector/How_to/Examine_and_edit_CSS#Setting_hover_active_focus",
-      "sort_num": 0,
-      "tag": "Developer"
-    },
-    {
-      "bug": 1198339,
-      "created": "2015-09-17T16:50:52+00:00",
-      "id": 786274,
-      "is_public": true,
-      "modified": "2015-12-03T02:57:14+00:00",
-      "note": " Bind F1 key to open the settings when the toolbox is focused",
-      "sort_num": 0,
-      "tag": "Developer"
-    },
-    {
-      "bug": 1154363,
-      "created": "2015-09-17T17:48:27+00:00",
-      "id": 786276,
-      "is_public": true,
-      "modified": "2015-12-03T02:57:14+00:00",
-      "note": "[New 'Use in Console' context menu item][1] in Inspector to store selected element in a temporary variable\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Tools/Page_Inspector/How_to/Examine_and_edit_HTML#Element_popup_menu",
-      "sort_num": 0,
-      "tag": "Developer"
     },
     {
       "bug": 1151943,
@@ -207,14 +177,34 @@
       "tag": "Developer"
     },
     {
-      "bug": 1176595,
-      "created": "2015-09-16T23:28:17+00:00",
-      "id": 786270,
+      "bug": 1120406,
+      "created": "2015-09-17T16:49:20+00:00",
+      "id": 786273,
       "is_public": true,
       "modified": "2015-12-03T02:57:14+00:00",
-      "note": "Eyedropper tool does not work as expected when page is zoomed",
+      "note": "Markup view shows [indicators for pseudo-classes locked for elements][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector/How_to/Examine_and_edit_CSS#Setting_hover_active_focus",
       "sort_num": 0,
-      "tag": "Fixed"
+      "tag": "Developer"
+    },
+    {
+      "bug": 1198339,
+      "created": "2015-09-17T16:50:52+00:00",
+      "id": 786274,
+      "is_public": true,
+      "modified": "2015-12-03T02:57:14+00:00",
+      "note": " Bind F1 key to open the settings when the toolbox is focused",
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
+      "bug": 1154363,
+      "created": "2015-09-17T17:48:27+00:00",
+      "id": 786276,
+      "is_public": true,
+      "modified": "2015-12-03T02:57:14+00:00",
+      "note": "[New 'Use in Console' context menu item][1] in Inspector to store selected element in a temporary variable\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Tools/Page_Inspector/How_to/Examine_and_edit_HTML#Element_popup_menu",
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
       "bug": null,
@@ -223,6 +213,16 @@
       "is_public": true,
       "modified": "2015-12-15T17:08:34+00:00",
       "note": "Various [security fixes][1] \r\n\r\n\r\n  [1]: https://www.mozilla.org/en-US/security/known-vulnerabilities/firefox/#firefox43",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1176595,
+      "created": "2015-09-16T23:28:17+00:00",
+      "id": 786270,
+      "is_public": true,
+      "modified": "2015-12-03T02:57:14+00:00",
+      "note": "Eyedropper tool does not work as expected when page is zoomed",
       "sort_num": 0,
       "tag": "Fixed"
     }

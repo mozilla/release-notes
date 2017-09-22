@@ -41,7 +41,7 @@
       "created": "2015-08-07T20:24:05+00:00",
       "id": 786219,
       "is_public": true,
-      "modified": "2016-04-15T19:09:52.357000+00:00",
+      "modified": "2016-04-15T19:09:52.357078+00:00",
       "note": "GTK3 integration (GNU/Linux only)\r\n",
       "sort_num": 0,
       "tag": "New"
@@ -127,16 +127,6 @@
       "tag": "Developer"
     },
     {
-      "bug": 970625,
-      "created": "2015-09-17T18:12:18+00:00",
-      "id": 786284,
-      "is_public": true,
-      "modified": "2016-01-22T18:54:17.935000+00:00",
-      "note": "Ability to choose resolution for the GCLI screenshot command",
-      "sort_num": 0,
-      "tag": "Developer"
-    },
-    {
       "bug": 1059784,
       "created": "2015-09-17T22:09:49+00:00",
       "id": 786289,
@@ -153,6 +143,16 @@
       "is_public": true,
       "modified": "2015-12-03T02:57:14+00:00",
       "note": "[Subresource integrity][1] allows developers to make their sites more secure\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/Security/Subresource_Integrity",
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
+      "bug": 970625,
+      "created": "2015-09-17T18:12:18+00:00",
+      "id": 786284,
+      "is_public": true,
+      "modified": "2016-01-22T18:54:17.935978+00:00",
+      "note": "Ability to choose resolution for the GCLI screenshot command",
       "sort_num": 0,
       "tag": "Developer"
     },

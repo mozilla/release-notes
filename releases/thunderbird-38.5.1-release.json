@@ -2,26 +2,26 @@
   "bug_list": "",
   "bug_search_url": "",
   "channel": "Release",
-  "created": "2015-12-31T00:08:41.506000+00:00",
+  "created": "2015-12-31T00:08:41.506777+00:00",
   "is_public": true,
-  "modified": "2016-01-08T16:29:41.715000+00:00",
+  "modified": "2016-01-08T16:29:41.715731+00:00",
   "notes": [
     {
       "bug": 1205843,
-      "created": "2015-12-18T17:59:58.789000+00:00",
+      "created": "2015-12-18T17:59:58.789204+00:00",
       "id": 786400,
       "is_public": true,
-      "modified": "2016-01-21T20:51:49.831000+00:00",
+      "modified": "2016-01-21T20:51:49.831889+00:00",
       "note": "Use a SHA-256 signing certificate for Windows builds, to meet new signing requirements",
       "sort_num": 0,
       "tag": "Changed"
     },
     {
       "bug": null,
-      "created": "2016-01-08T01:39:47.500000+00:00",
+      "created": "2016-01-08T01:39:47.500333+00:00",
       "id": 786420,
       "is_public": true,
-      "modified": "2016-01-08T01:40:17.430000+00:00",
+      "modified": "2016-01-08T01:40:17.430042+00:00",
       "note": "Windows XP SP2 will not longer install Thunderbird (workaround: Install Thunderbird 38.5.0 then update)",
       "sort_num": 0,
       "tag": "Known"

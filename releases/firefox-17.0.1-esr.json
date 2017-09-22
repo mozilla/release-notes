@@ -61,6 +61,16 @@
       "tag": "Fixed"
     },
     {
+      "bug": null,
+      "created": "2013-11-25T00:24:50+00:00",
+      "id": 221,
+      "is_public": true,
+      "modified": "2014-04-23T10:53:36+00:00",
+      "note": "Click-to-play blocklisting implemented to prevent vulnerable plugin versions from running without the user's permission (see <a href=\"http://blog.mozilla.org/addons/2012/10/11/click-to-play-coming-firefox-17/\">blog post</a>)",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 769150,
       "created": "2013-11-25T00:24:50+00:00",
       "fixed_in_release": {
@@ -77,16 +87,6 @@
       "note": "Pointer lock doesn't work in web apps",
       "sort_num": 0,
       "tag": ""
-    },
-    {
-      "bug": null,
-      "created": "2013-11-25T00:24:50+00:00",
-      "id": 221,
-      "is_public": true,
-      "modified": "2014-04-23T10:53:36+00:00",
-      "note": "Click-to-play blocklisting implemented to prevent vulnerable plugin versions from running without the user's permission (see <a href=\"http://blog.mozilla.org/addons/2012/10/11/click-to-play-coming-firefox-17/\">blog post</a>)",
-      "sort_num": 0,
-      "tag": "New"
     },
     {
       "bug": null,
@@ -159,16 +159,6 @@
       "tag": "Developer"
     },
     {
-      "bug": null,
-      "created": "2013-11-25T00:24:50+00:00",
-      "id": 107,
-      "is_public": true,
-      "modified": "2015-05-12T16:59:10+00:00",
-      "note": "Security fixes can be found <a href=\"https://www.mozilla.org/security/known-vulnerabilities/firefoxESR.html\">here</a>",
-      "sort_num": 0,
-      "tag": "Fixed"
-    },
-    {
       "bug": 780345,
       "created": "2013-11-25T00:24:50+00:00",
       "id": 208,
@@ -185,6 +175,16 @@
       "is_public": true,
       "modified": "2014-04-23T10:53:36+00:00",
       "note": "Over twenty performance improvements, including fixes around the New Tab page",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2013-11-25T00:24:50+00:00",
+      "id": 107,
+      "is_public": true,
+      "modified": "2015-05-12T16:59:10+00:00",
+      "note": "Security fixes can be found <a href=\"https://www.mozilla.org/security/known-vulnerabilities/firefoxESR.html\">here</a>",
       "sort_num": 0,
       "tag": "Fixed"
     },

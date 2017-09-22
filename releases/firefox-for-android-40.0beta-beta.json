@@ -37,22 +37,22 @@
       "tag": "New"
     },
     {
-      "bug": 1124084,
-      "created": "2015-06-01T08:15:49+00:00",
-      "id": 786127,
-      "is_public": true,
-      "modified": "2015-08-11T13:10:30+00:00",
-      "note": "JPEG images use less memory when scaled and can be painted faster",
-      "sort_num": 0,
-      "tag": "Changed"
-    },
-    {
       "bug": 647010,
       "created": "2015-08-03T13:05:18+00:00",
       "id": 786202,
       "is_public": true,
       "modified": "2015-08-11T13:10:32+00:00",
       "note": "Sub-resources [can no longer request HTTP authentication][1], thus protecting users from inadvertently disclosing login data\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/Firefox/Releases/40/Site_Compatibility#Security",
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
+      "bug": 1124084,
+      "created": "2015-06-01T08:15:49+00:00",
+      "id": 786127,
+      "is_public": true,
+      "modified": "2015-08-11T13:10:30+00:00",
+      "note": "JPEG images use less memory when scaled and can be painted faster",
       "sort_num": 0,
       "tag": "Changed"
     },

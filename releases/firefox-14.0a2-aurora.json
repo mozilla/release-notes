@@ -7,6 +7,16 @@
   "modified": "2014-05-27T12:55:47+00:00",
   "notes": [
     {
+      "bug": 752149,
+      "created": "2013-11-25T00:24:50+00:00",
+      "id": 139,
+      "is_public": true,
+      "modified": "2014-04-23T10:53:35+00:00",
+      "note": "OS X: nsCocoaWindow::ConstrainPosition uses wrong screen in multi-display setup",
+      "sort_num": 0,
+      "tag": ""
+    },
+    {
       "bug": null,
       "created": "2013-11-25T00:24:50+00:00",
       "id": 113,
@@ -63,16 +73,6 @@
       "is_public": true,
       "modified": "2014-04-23T10:53:35+00:00",
       "note": "CSS :hover regression when an element's class name is set by Javascript",
-      "sort_num": 0,
-      "tag": ""
-    },
-    {
-      "bug": 752149,
-      "created": "2013-11-25T00:24:50+00:00",
-      "id": 139,
-      "is_public": true,
-      "modified": "2014-04-23T10:53:35+00:00",
-      "note": "OS X: nsCocoaWindow::ConstrainPosition uses wrong screen in multi-display setup",
       "sort_num": 0,
       "tag": ""
     },

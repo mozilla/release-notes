@@ -2,16 +2,16 @@
   "bug_list": "",
   "bug_search_url": "",
   "channel": "ESR",
-  "created": "2017-06-28T17:09:41.444000+00:00",
+  "created": "2017-06-28T17:09:41.444087+00:00",
   "is_public": true,
-  "modified": "2017-06-29T21:35:29.933000+00:00",
+  "modified": "2017-06-29T21:35:29.933955+00:00",
   "notes": [
     {
       "bug": 1318845,
-      "created": "2017-06-28T18:57:13.757000+00:00",
+      "created": "2017-06-28T18:57:13.757144+00:00",
       "id": 787172,
       "is_public": true,
-      "modified": "2017-06-28T23:34:52.444000+00:00",
+      "modified": "2017-06-28T23:34:52.444684+00:00",
       "note": "Printing text does not work on Windows when Direct2D is disabled ([Bug 1318845][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1318845",
       "sort_num": 0,
       "tag": ""

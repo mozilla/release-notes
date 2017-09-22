@@ -2,13 +2,13 @@
   "bug_list": "",
   "bug_search_url": "",
   "channel": "Release",
-  "created": "2017-02-07T17:29:55.535000+00:00",
+  "created": "2017-02-07T17:29:55.535357+00:00",
   "is_public": true,
-  "modified": "2017-02-07T20:07:30.262000+00:00",
+  "modified": "2017-02-07T20:07:30.262137+00:00",
   "notes": [
     {
       "bug": 1328814,
-      "created": "2017-02-07T17:33:56.160000+00:00",
+      "created": "2017-02-07T17:33:56.160545+00:00",
       "fixed_in_release": {
         "channel": "Release",
         "is_public": true,
@@ -19,17 +19,17 @@
       },
       "id": 786972,
       "is_public": true,
-      "modified": "2017-02-07T17:47:27.384000+00:00",
+      "modified": "2017-02-07T17:47:27.384842+00:00",
       "note": "Crash when viewing certain IMAP messages (introduced in 45.7.0)",
       "sort_num": 99,
       "tag": "Fixed"
     },
     {
       "bug": 1328814,
-      "created": "2017-02-07T17:30:44.579000+00:00",
+      "created": "2017-02-07T17:30:44.579092+00:00",
       "id": 786971,
       "is_public": true,
-      "modified": "2017-02-15T20:55:32.812000+00:00",
+      "modified": "2017-02-15T20:55:32.812975+00:00",
       "note": "Message preview pane non-functional after IMAP folder was renamed or moved",
       "sort_num": 9,
       "tag": "Known"

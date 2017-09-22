@@ -37,22 +37,22 @@
       "tag": "New"
     },
     {
-      "bug": 1024809,
-      "created": "2015-01-16T18:42:49+00:00",
-      "id": 785907,
-      "is_public": true,
-      "modified": "2015-04-03T04:11:44+00:00",
-      "note": "Improved protection against site impersonation via OneCRL centralized certificate revocation",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
       "bug": 1113790,
       "created": "2015-02-19T19:55:09+00:00",
       "id": 785936,
       "is_public": true,
       "modified": "2015-04-03T04:11:46+00:00",
       "note": "[Opportunistically encrypt HTTP traffic][1] where the server supports HTTP/2 AltSvc\r\n\r\n[1]: https://bitsup.blogspot.com/2015/03/opportunistic-encryption-for-firefox.html ",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1024809,
+      "created": "2015-01-16T18:42:49+00:00",
+      "id": 785907,
+      "is_public": true,
+      "modified": "2015-04-03T04:11:44+00:00",
+      "note": "Improved protection against site impersonation via OneCRL centralized certificate revocation",
       "sort_num": 0,
       "tag": "New"
     },
@@ -77,26 +77,6 @@
       "tag": "Changed"
     },
     {
-      "bug": 1073867,
-      "created": "2015-01-16T18:45:55+00:00",
-      "id": 785908,
-      "is_public": true,
-      "modified": "2015-04-03T04:11:53+00:00",
-      "note": "Improved certificate and TLS communication security by removing support for DSA",
-      "sort_num": 0,
-      "tag": "Changed"
-    },
-    {
-      "bug": 1096197,
-      "created": "2015-01-16T19:01:48+00:00",
-      "id": 785910,
-      "is_public": true,
-      "modified": "2015-04-03T04:11:55+00:00",
-      "note": "Extended SSL error reporting for reporting non-certificate errors",
-      "sort_num": 0,
-      "tag": "Changed"
-    },
-    {
       "bug": 1109766,
       "created": "2015-01-16T21:45:13+00:00",
       "id": 785911,
@@ -117,24 +97,24 @@
       "tag": "Changed"
     },
     {
-      "bug": 1102374,
-      "created": "2015-01-15T15:05:41+00:00",
-      "id": 785893,
+      "bug": 1073867,
+      "created": "2015-01-16T18:45:55+00:00",
+      "id": 785908,
       "is_public": true,
-      "modified": "2015-04-03T04:12:03+00:00",
-      "note": "Added support for CSS [display:contents][1]\r\n\r\n[1]: https://developer.mozilla.org/en-US/docs/Web/CSS/display",
+      "modified": "2015-04-03T04:11:53+00:00",
+      "note": "Improved certificate and TLS communication security by removing support for DSA",
       "sort_num": 0,
-      "tag": "HTML5"
+      "tag": "Changed"
     },
     {
-      "bug": 701634,
-      "created": "2015-01-15T15:10:45+00:00",
-      "id": 785894,
+      "bug": 1096197,
+      "created": "2015-01-16T19:01:48+00:00",
+      "id": 785910,
       "is_public": true,
-      "modified": "2015-04-03T04:12:04+00:00",
-      "note": "IndexedDB now accessible from worker threads",
+      "modified": "2015-04-03T04:11:55+00:00",
+      "note": "Extended SSL error reporting for reporting non-certificate errors",
       "sort_num": 0,
-      "tag": "HTML5"
+      "tag": "Changed"
     },
     {
       "bug": 1110271,
@@ -153,6 +133,26 @@
       "is_public": true,
       "modified": "2015-04-03T04:12:02+00:00",
       "note": "New SDP/JSEP implementation in WebRTC",
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 1102374,
+      "created": "2015-01-15T15:05:41+00:00",
+      "id": 785893,
+      "is_public": true,
+      "modified": "2015-04-03T04:12:03+00:00",
+      "note": "Added support for CSS [display:contents][1]\r\n\r\n[1]: https://developer.mozilla.org/en-US/docs/Web/CSS/display",
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 701634,
+      "created": "2015-01-15T15:10:45+00:00",
+      "id": 785894,
+      "is_public": true,
+      "modified": "2015-04-03T04:12:04+00:00",
+      "note": "IndexedDB now accessible from worker threads",
       "sort_num": 0,
       "tag": "HTML5"
     },

@@ -117,16 +117,6 @@
       "tag": "Developer"
     },
     {
-      "bug": null,
-      "created": "2013-11-25T00:24:50+00:00",
-      "id": 161,
-      "is_public": true,
-      "modified": "2015-03-26T15:55:42+00:00",
-      "note": "Various <a href=\"https://www.mozilla.org/security/known-vulnerabilities/firefox.html\">security fixes</a>",
-      "sort_num": 0,
-      "tag": "Fixed"
-    },
-    {
       "bug": 956906,
       "created": "2014-03-26T16:32:14+00:00",
       "id": 785531,
@@ -161,6 +151,16 @@
       "is_public": true,
       "modified": "2014-06-09T14:56:11+00:00",
       "note": "After MP4 video playback, video can not be played again ([1005622][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1005622",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2013-11-25T00:24:50+00:00",
+      "id": 161,
+      "is_public": true,
+      "modified": "2015-03-26T15:55:42+00:00",
+      "note": "Various <a href=\"https://www.mozilla.org/security/known-vulnerabilities/firefox.html\">security fixes</a>",
       "sort_num": 0,
       "tag": "Fixed"
     },

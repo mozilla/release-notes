@@ -37,16 +37,6 @@
     {
       "bug": null,
       "created": "2013-11-25T00:24:50+00:00",
-      "id": 3,
-      "is_public": true,
-      "modified": "2014-04-23T10:53:34+00:00",
-      "note": "Anti-Aliasing for WebGL is now implemented (see <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=615976\">bug 615976</a>)",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
-      "bug": null,
-      "created": "2013-11-25T00:24:50+00:00",
       "id": 20,
       "is_public": true,
       "modified": "2014-04-23T10:53:35+00:00",
@@ -57,12 +47,12 @@
     {
       "bug": null,
       "created": "2013-11-25T00:24:50+00:00",
-      "id": 14,
+      "id": 3,
       "is_public": true,
       "modified": "2014-04-23T10:53:34+00:00",
-      "note": "New &lt;bdi&gt; element for bi-directional text isolation, along with supporting CSS properties (see bugs <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=613149\">613149</a> and <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=662288\">662288</a>)",
+      "note": "Anti-Aliasing for WebGL is now implemented (see <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=615976\">bug 615976</a>)",
       "sort_num": 0,
-      "tag": "HTML5"
+      "tag": "New"
     },
     {
       "bug": null,
@@ -71,6 +61,16 @@
       "is_public": true,
       "modified": "2014-07-02T06:51:41+00:00",
       "note": "Full Screen APIs allow you to build a web application that runs full screen (see the <a href=\"https://wiki.mozilla.org/Platform/Features/Full_Screen_APIs\">feature page</a>)",
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": null,
+      "created": "2013-11-25T00:24:50+00:00",
+      "id": 14,
+      "is_public": true,
+      "modified": "2014-04-23T10:53:34+00:00",
+      "note": "New &lt;bdi&gt; element for bi-directional text isolation, along with supporting CSS properties (see bugs <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=613149\">613149</a> and <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=662288\">662288</a>)",
       "sort_num": 0,
       "tag": "HTML5"
     },
@@ -113,22 +113,22 @@
       "tag": "Fixed"
     },
     {
-      "bug": 681795,
-      "created": "2013-11-25T00:24:50+00:00",
-      "id": 1,
-      "is_public": true,
-      "modified": "2014-07-03T02:38:59+00:00",
-      "note": "Some users may experience a crash when moving bookmarks",
-      "sort_num": 0,
-      "tag": "Fixed"
-    },
-    {
       "bug": 715396,
       "created": "2013-11-25T00:24:50+00:00",
       "id": 77,
       "is_public": true,
       "modified": "2014-07-03T02:51:00+00:00",
       "note": " Silverlight video may not play on some Macintosh hardware ([715396][1]) \r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=715396",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 681795,
+      "created": "2013-11-25T00:24:50+00:00",
+      "id": 1,
+      "is_public": true,
+      "modified": "2014-07-03T02:38:59+00:00",
+      "note": "Some users may experience a crash when moving bookmarks",
       "sort_num": 0,
       "tag": "Fixed"
     },

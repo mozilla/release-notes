@@ -2,16 +2,16 @@
   "bug_list": "",
   "bug_search_url": "",
   "channel": "Release",
-  "created": "2015-12-22T12:18:39.662000+00:00",
+  "created": "2015-12-22T12:18:39.662860+00:00",
   "is_public": true,
-  "modified": "2015-12-22T17:14:41.558000+00:00",
+  "modified": "2015-12-22T17:14:41.558224+00:00",
   "notes": [
     {
       "bug": 1205843,
-      "created": "2015-12-18T17:59:58.789000+00:00",
+      "created": "2015-12-18T17:59:58.789204+00:00",
       "id": 786400,
       "is_public": true,
-      "modified": "2016-01-21T20:51:49.831000+00:00",
+      "modified": "2016-01-21T20:51:49.831889+00:00",
       "note": "Use a SHA-256 signing certificate for Windows builds, to meet new signing requirements",
       "sort_num": 0,
       "tag": "Changed"

@@ -27,6 +27,16 @@
       "tag": "New"
     },
     {
+      "bug": 612453,
+      "created": "2014-08-28T06:41:41+00:00",
+      "id": 785706,
+      "is_public": true,
+      "modified": "2014-11-06T23:39:16+00:00",
+      "note": "Search suggestions on the Firefox Start (about:home) and new tab (about:newtab) pages",
+      "sort_num": 98,
+      "tag": "New"
+    },
+    {
       "bug": 899785,
       "created": "2014-07-23T07:50:12+00:00",
       "id": 785675,
@@ -43,16 +53,6 @@
       "is_public": true,
       "modified": "2014-11-06T23:39:16+00:00",
       "note": "Slimmer and faster [JavaScript strings][1]\r\n\r\n  [1]: https://blog.mozilla.org/javascript/2014/07/21/slimmer-and-faster-javascript-strings-in-firefox/",
-      "sort_num": 98,
-      "tag": "New"
-    },
-    {
-      "bug": 612453,
-      "created": "2014-08-28T06:41:41+00:00",
-      "id": 785706,
-      "is_public": true,
-      "modified": "2014-11-06T23:39:16+00:00",
-      "note": "Search suggestions on the Firefox Start (about:home) and new tab (about:newtab) pages",
       "sort_num": 98,
       "tag": "New"
     },
@@ -197,16 +197,6 @@
       "tag": "Developer"
     },
     {
-      "bug": null,
-      "created": "2013-11-25T00:24:50+00:00",
-      "id": 161,
-      "is_public": true,
-      "modified": "2015-03-26T15:55:42+00:00",
-      "note": "Various <a href=\"https://www.mozilla.org/security/known-vulnerabilities/firefox.html\">security fixes</a>",
-      "sort_num": 0,
-      "tag": "Fixed"
-    },
-    {
       "bug": 237623,
       "created": "2014-07-17T08:51:57+00:00",
       "fixed_in_release": {
@@ -223,6 +213,44 @@
       "note": "Fix incomplete downloads being marked as complete by detecting broken HTTP1.1 transfers ([237623][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=237623",
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2013-11-25T00:24:50+00:00",
+      "id": 161,
+      "is_public": true,
+      "modified": "2015-03-26T15:55:42+00:00",
+      "note": "Various <a href=\"https://www.mozilla.org/security/known-vulnerabilities/firefox.html\">security fixes</a>",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1087674,
+      "created": "2014-10-29T16:05:46+00:00",
+      "id": 785767,
+      "is_public": true,
+      "modified": "2014-11-14T22:22:08+00:00",
+      "note": "Windows: Interface may be slow when typing or selecting text ([1089183][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1089183",
+      "sort_num": 0,
+      "tag": "Known"
+    },
+    {
+      "bug": 1087674,
+      "created": "2014-10-29T16:04:48+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": true,
+        "product": "Firefox",
+        "slug": "firefox-33.1-release",
+        "title": "Firefox 33.1 Release",
+        "version": "33.1"
+      },
+      "id": 785766,
+      "is_public": true,
+      "modified": "2014-11-10T12:55:21+00:00",
+      "note": "Windows: With Avast HTTPS scanning enabled, Firefox will not close correctly ([1087674][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1087674",
+      "sort_num": 0,
+      "tag": "Known"
     },
     {
       "bug": 1072164,
@@ -267,34 +295,6 @@
       "is_public": true,
       "modified": "2014-11-25T04:04:11+00:00",
       "note": "Windows: On some combination of hardware and drivers, the main window could be black. In this case, update your graphics drivers ([1083071][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1083071",
-      "sort_num": 0,
-      "tag": "Known"
-    },
-    {
-      "bug": 1087674,
-      "created": "2014-10-29T16:04:48+00:00",
-      "fixed_in_release": {
-        "channel": "Release",
-        "is_public": true,
-        "product": "Firefox",
-        "slug": "firefox-33.1-release",
-        "title": "Firefox 33.1 Release",
-        "version": "33.1"
-      },
-      "id": 785766,
-      "is_public": true,
-      "modified": "2014-11-10T12:55:21+00:00",
-      "note": "Windows: With Avast HTTPS scanning enabled, Firefox will not close correctly ([1087674][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1087674",
-      "sort_num": 0,
-      "tag": "Known"
-    },
-    {
-      "bug": 1087674,
-      "created": "2014-10-29T16:05:46+00:00",
-      "id": 785767,
-      "is_public": true,
-      "modified": "2014-11-14T22:22:08+00:00",
-      "note": "Windows: Interface may be slow when typing or selecting text ([1089183][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1089183",
       "sort_num": 0,
       "tag": "Known"
     }

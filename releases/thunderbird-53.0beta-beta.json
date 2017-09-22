@@ -2,13 +2,13 @@
   "bug_list": "",
   "bug_search_url": "",
   "channel": "Beta",
-  "created": "2017-03-22T21:08:51.347000+00:00",
+  "created": "2017-03-22T21:08:51.347078+00:00",
   "is_public": true,
-  "modified": "2017-05-19T15:04:49.991000+00:00",
+  "modified": "2017-05-19T15:04:49.991756+00:00",
   "notes": [
     {
       "bug": 1308776,
-      "created": "2017-03-22T21:17:22.837000+00:00",
+      "created": "2017-03-22T21:17:22.837559+00:00",
       "fixed_in_release": {
         "channel": "Beta",
         "is_public": true,
@@ -19,14 +19,14 @@
       },
       "id": 787017,
       "is_public": true,
-      "modified": "2017-04-26T19:37:23.392000+00:00",
+      "modified": "2017-04-26T19:37:23.392203+00:00",
       "note": "A default startup directory in the address book window can now be configured",
       "sort_num": 0,
       "tag": "New"
     },
     {
       "bug": 1356600,
-      "created": "2017-04-26T19:30:19.003000+00:00",
+      "created": "2017-04-26T19:30:19.003775+00:00",
       "fixed_in_release": {
         "channel": "Beta",
         "is_public": true,
@@ -37,48 +37,48 @@
       },
       "id": 787059,
       "is_public": true,
-      "modified": "2017-05-09T21:52:00.714000+00:00",
+      "modified": "2017-05-09T21:52:00.714507+00:00",
       "note": "Background images not working and other issues related to embedded images when composing email ",
       "sort_num": 5,
       "tag": "Fixed"
     },
     {
       "bug": null,
-      "created": "2017-03-22T21:19:57.795000+00:00",
+      "created": "2017-03-22T21:19:57.795921+00:00",
       "id": 787018,
       "is_public": true,
-      "modified": "2017-05-19T14:01:51.101000+00:00",
+      "modified": "2017-05-19T14:01:51.101819+00:00",
       "note": "Datetime formatting is not working properly on the Linux 32bit platform. This results in party broken calendar views and incorrect event times - for users on this platform it is strictly recommended to backup the user profile before updating and **disable Lightning after updating for the remaining lifetime of this version** to avoid damages to calendar data.",
       "sort_num": 0,
       "tag": "Known"
     },
     {
+      "bug": 1158578,
+      "created": "2017-04-26T19:41:50.762090+00:00",
+      "id": 787061,
+      "is_public": true,
+      "modified": "2017-05-09T21:53:55.416433+00:00",
+      "note": "Crash when compacting IMAP folder",
+      "sort_num": 0,
+      "tag": "Known"
+    },
+    {
       "bug": 1355350,
-      "created": "2017-04-11T19:14:26.454000+00:00",
+      "created": "2017-04-11T19:14:26.454345+00:00",
       "id": 787031,
       "is_public": true,
-      "modified": "2017-05-09T21:53:46.106000+00:00",
+      "modified": "2017-05-09T21:53:46.106420+00:00",
       "note": "Large attachments may not be shown or saved correctly if the message is stored in an IMAP folder which is not synchronized for offline use. **Workaround:** Set preference browser.cache.memory.max_entry_size to the value of -1 (unlimited) and create integer preference browser.cache.memory.capacity with the value of 200000 (200 MB, 25 MB per message).",
       "sort_num": 0,
       "tag": "Known"
     },
     {
       "bug": 1281610,
-      "created": "2017-04-11T19:15:44.518000+00:00",
+      "created": "2017-04-11T19:15:44.518791+00:00",
       "id": 787032,
       "is_public": true,
-      "modified": "2017-07-14T20:12:38.844000+00:00",
+      "modified": "2017-07-14T20:12:38.844733+00:00",
       "note": "Crash due to incompatibility with McAfee Anti-SPAM add-on. **Workaround:** Start in safe mode and disable McAfee Anti-Spam Extension",
-      "sort_num": 0,
-      "tag": "Known"
-    },
-    {
-      "bug": 1158578,
-      "created": "2017-04-26T19:41:50.762000+00:00",
-      "id": 787061,
-      "is_public": true,
-      "modified": "2017-05-09T21:53:55.416000+00:00",
-      "note": "Crash when compacting IMAP folder",
       "sort_num": 0,
       "tag": "Known"
     }

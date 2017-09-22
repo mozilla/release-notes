@@ -2,26 +2,26 @@
   "bug_list": "",
   "bug_search_url": "",
   "channel": "Release",
-  "created": "2016-12-08T19:10:15.633000+00:00",
+  "created": "2016-12-08T19:10:15.633088+00:00",
   "is_public": true,
-  "modified": "2016-12-20T13:13:51.889000+00:00",
+  "modified": "2016-12-20T13:13:51.889739+00:00",
   "notes": [
     {
       "bug": null,
-      "created": "2016-12-12T19:41:29.807000+00:00",
+      "created": "2016-12-12T19:41:29.807545+00:00",
       "id": 786898,
       "is_public": true,
-      "modified": "2016-12-13T19:21:38.790000+00:00",
+      "modified": "2016-12-13T19:21:38.790778+00:00",
       "note": "Various [security fixes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/en-US/security/known-vulnerabilities/firefox/#firefox50.1",
       "sort_num": 0,
       "tag": "Fixed"
     },
     {
       "bug": 1320048,
-      "created": "2017-01-18T15:06:48.124000+00:00",
+      "created": "2017-01-18T15:06:48.124203+00:00",
       "id": 786919,
       "is_public": true,
-      "modified": "2017-03-17T03:37:16.451000+00:00",
+      "modified": "2017-03-17T03:37:16.451502+00:00",
       "note": "Due to an Apple touch bar bug, Firefox on recent MacBook Pro may crash when open for long periods or crash after resuming from sleep. Apple reports to have a fix for this in the currently unreleased OS X 10.12.3",
       "sort_num": 0,
       "tag": "Known"

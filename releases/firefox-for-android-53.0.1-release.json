@@ -2,47 +2,47 @@
   "bug_list": "",
   "bug_search_url": "",
   "channel": "Release",
-  "created": "2017-05-01T09:13:46.065000+00:00",
+  "created": "2017-05-01T09:13:46.065091+00:00",
   "is_public": true,
-  "modified": "2017-05-01T09:33:57.736000+00:00",
+  "modified": "2017-05-01T09:33:57.736595+00:00",
   "notes": [
     {
       "bug": null,
-      "created": "2017-05-01T09:24:25.516000+00:00",
+      "created": "2017-05-01T09:24:25.516945+00:00",
       "id": 787069,
       "is_public": true,
-      "modified": "2017-05-04T17:24:20.272000+00:00",
+      "modified": "2017-05-04T17:24:20.272495+00:00",
       "note": "Reference link to [53.0 release notes][1]\r\n\r\n[1]: https://www.mozilla.org/firefox/android/53.0/releasenotes",
       "sort_num": 0,
       "tag": ""
     },
     {
+      "bug": 1356563,
+      "created": "2017-05-01T09:21:14.350287+00:00",
+      "id": 787068,
+      "is_public": true,
+      "modified": "2017-05-04T17:24:14.937266+00:00",
+      "note": "Fix a race condition that could prevent opening restored tabs (bug [1356563][1])\r\n\r\n[1]: https://bugzilla.mozilla.org/1356563",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
       "bug": 1354911,
-      "created": "2017-05-01T09:14:46.570000+00:00",
+      "created": "2017-05-01T09:14:46.570816+00:00",
       "id": 787066,
       "is_public": true,
-      "modified": "2017-05-04T17:41:52.447000+00:00",
+      "modified": "2017-05-04T17:41:52.447594+00:00",
       "note": "Fix a crash with the Bluhell Firewall add-on (bug [1354911][1])\r\n\r\n[1]: https://bugzilla.mozilla.org/1354911",
       "sort_num": 0,
       "tag": "Fixed"
     },
     {
       "bug": 1332731,
-      "created": "2017-05-01T09:20:03.097000+00:00",
+      "created": "2017-05-01T09:20:03.097231+00:00",
       "id": 787067,
       "is_public": true,
-      "modified": "2017-05-04T17:42:39.019000+00:00",
+      "modified": "2017-05-04T17:42:39.019463+00:00",
       "note": "Fix accessibility issue with TalkBack (bug [1332731][1])\r\n\r\n[1]: https://bugzilla.mozilla.org/1332731",
-      "sort_num": 0,
-      "tag": "Fixed"
-    },
-    {
-      "bug": 1356563,
-      "created": "2017-05-01T09:21:14.350000+00:00",
-      "id": 787068,
-      "is_public": true,
-      "modified": "2017-05-04T17:24:14.937000+00:00",
-      "note": "Fix a race condition that could prevent opening restored tabs (bug [1356563][1])\r\n\r\n[1]: https://bugzilla.mozilla.org/1356563",
       "sort_num": 0,
       "tag": "Fixed"
     }

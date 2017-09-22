@@ -37,16 +37,6 @@
     {
       "bug": null,
       "created": "2013-11-25T00:24:50+00:00",
-      "id": 3,
-      "is_public": true,
-      "modified": "2014-04-23T10:53:34+00:00",
-      "note": "Anti-Aliasing for WebGL is now implemented (see <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=615976\">bug 615976</a>)",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
-      "bug": null,
-      "created": "2013-11-25T00:24:50+00:00",
       "id": 20,
       "is_public": true,
       "modified": "2014-04-23T10:53:35+00:00",
@@ -75,6 +65,16 @@
     {
       "bug": null,
       "created": "2013-11-25T00:24:50+00:00",
+      "id": 3,
+      "is_public": true,
+      "modified": "2014-04-23T10:53:34+00:00",
+      "note": "Anti-Aliasing for WebGL is now implemented (see <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=615976\">bug 615976</a>)",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2013-11-25T00:24:50+00:00",
       "id": 14,
       "is_public": true,
       "modified": "2014-04-23T10:53:34+00:00",
@@ -85,20 +85,20 @@
     {
       "bug": null,
       "created": "2013-11-25T00:24:50+00:00",
-      "id": 17,
+      "id": 42,
       "is_public": true,
-      "modified": "2014-04-23T10:53:34+00:00",
-      "note": "Inspect tool with content highlighting, includes new CSS Style Inspector",
+      "modified": "2014-04-23T10:53:35+00:00",
+      "note": "We've added IndexedDB APIs to more closely match the specification",
       "sort_num": 0,
       "tag": "Developer"
     },
     {
       "bug": null,
       "created": "2013-11-25T00:24:50+00:00",
-      "id": 42,
+      "id": 17,
       "is_public": true,
-      "modified": "2014-04-23T10:53:35+00:00",
-      "note": "We've added IndexedDB APIs to more closely match the specification",
+      "modified": "2014-04-23T10:53:34+00:00",
+      "note": "Inspect tool with content highlighting, includes new CSS Style Inspector",
       "sort_num": 0,
       "tag": "Developer"
     },

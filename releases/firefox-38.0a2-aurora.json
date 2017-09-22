@@ -97,16 +97,6 @@
       "tag": "Changed"
     },
     {
-      "bug": 966439,
-      "created": "2015-02-20T00:16:54+00:00",
-      "id": 785938,
-      "is_public": true,
-      "modified": "2015-05-14T23:51:41+00:00",
-      "note": "[BroadcastChannel API implemented][1]\r\n\r\n[1]: https://hacks.mozilla.org/2015/02/broadcastchannel-api-in-firefox-38/",
-      "sort_num": 0,
-      "tag": "HTML5"
-    },
-    {
       "bug": 1017875,
       "created": "2015-02-20T00:27:07+00:00",
       "id": 785940,
@@ -157,14 +147,14 @@
       "tag": "HTML5"
     },
     {
-      "bug": 941287,
-      "created": "2015-02-20T00:15:06+00:00",
-      "id": 785937,
+      "bug": 966439,
+      "created": "2015-02-20T00:16:54+00:00",
+      "id": 785938,
       "is_public": true,
-      "modified": "2015-05-14T13:12:15+00:00",
-      "note": "Optimized-out variables are now visible in Debugger UI",
+      "modified": "2015-05-14T23:51:41+00:00",
+      "note": "[BroadcastChannel API implemented][1]\r\n\r\n[1]: https://hacks.mozilla.org/2015/02/broadcastchannel-api-in-firefox-38/",
       "sort_num": 0,
-      "tag": "Developer"
+      "tag": "HTML5"
     },
     {
       "bug": 972655,
@@ -193,6 +183,16 @@
       "is_public": true,
       "modified": "2015-05-14T13:12:12+00:00",
       "note": "`copy` command added to console",
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
+      "bug": 941287,
+      "created": "2015-02-20T00:15:06+00:00",
+      "id": 785937,
+      "is_public": true,
+      "modified": "2015-05-14T13:12:15+00:00",
+      "note": "Optimized-out variables are now visible in Debugger UI",
       "sort_num": 0,
       "tag": "Developer"
     }

@@ -67,16 +67,6 @@
       "tag": "Changed"
     },
     {
-      "bug": 980770,
-      "created": "2015-06-01T08:25:37+00:00",
-      "id": 786129,
-      "is_public": true,
-      "modified": "2015-09-22T03:38:00+00:00",
-      "note": "Support for running [animations][1] of 'transform' and 'opacity' on the compositor thread\r\n\r\n\r\n  [1]: https://wiki.mozilla.org/Platform/GFX/OffMainThreadCompositing#CSS_Animations",
-      "sort_num": 0,
-      "tag": "Changed"
-    },
-    {
       "bug": null,
       "created": "2015-07-03T16:18:47+00:00",
       "id": 786183,
@@ -87,14 +77,14 @@
       "tag": "Changed"
     },
     {
-      "bug": 911972,
-      "created": "2015-07-01T22:21:01+00:00",
-      "id": 786149,
+      "bug": 980770,
+      "created": "2015-06-01T08:25:37+00:00",
+      "id": 786129,
       "is_public": true,
-      "modified": "2015-09-16T16:36:27+00:00",
-      "note": "[MessageChannel][1] and [MessagePort][2] API enabled by default\r\n\r\n[1]: https://developer.mozilla.org/en-US/docs/Web/API/MessageChannel\r\n[2]: https://developer.mozilla.org/docs/Web/API/MessagePort",
+      "modified": "2015-09-22T03:38:00+00:00",
+      "note": "Support for running [animations][1] of 'transform' and 'opacity' on the compositor thread\r\n\r\n\r\n  [1]: https://wiki.mozilla.org/Platform/GFX/OffMainThreadCompositing#CSS_Animations",
       "sort_num": 0,
-      "tag": "HTML5"
+      "tag": "Changed"
     },
     {
       "bug": 923193,
@@ -127,14 +117,14 @@
       "tag": "HTML5"
     },
     {
-      "bug": 1159737,
-      "created": "2015-06-01T08:15:11+00:00",
-      "id": 786126,
+      "bug": 911972,
+      "created": "2015-07-01T22:21:01+00:00",
+      "id": 786149,
       "is_public": true,
       "modified": "2015-09-16T16:36:27+00:00",
-      "note": "Removed support for binary XPCOM components in extensions, use addon SDK \"system/child_process\" pipe mechanism for native binaries instead",
+      "note": "[MessageChannel][1] and [MessagePort][2] API enabled by default\r\n\r\n[1]: https://developer.mozilla.org/en-US/docs/Web/API/MessageChannel\r\n[2]: https://developer.mozilla.org/docs/Web/API/MessagePort",
       "sort_num": 0,
-      "tag": "Developer"
+      "tag": "HTML5"
     },
     {
       "bug": 1168407,
@@ -153,6 +143,16 @@
       "is_public": true,
       "modified": "2015-09-16T16:36:27+00:00",
       "note": "Experimental new \"speed dial\" home panel add-on API ([example add-on][1])\r\n\r\n[1]: https://github.com/pocmo/speed-dial",
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
+      "bug": 1159737,
+      "created": "2015-06-01T08:15:11+00:00",
+      "id": 786126,
+      "is_public": true,
+      "modified": "2015-09-16T16:36:27+00:00",
+      "note": "Removed support for binary XPCOM components in extensions, use addon SDK \"system/child_process\" pipe mechanism for native binaries instead",
       "sort_num": 0,
       "tag": "Developer"
     }

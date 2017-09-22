@@ -147,26 +147,6 @@
       "tag": "HTML5"
     },
     {
-      "bug": 858038,
-      "created": "2015-03-27T17:36:59+00:00",
-      "id": 785981,
-      "is_public": true,
-      "modified": "2015-06-15T19:28:35+00:00",
-      "note": "Drag and drop enabled for nodes in Inspector markup view ",
-      "sort_num": 0,
-      "tag": "Developer"
-    },
-    {
-      "bug": 943306,
-      "created": "2015-03-27T17:46:32+00:00",
-      "id": 785982,
-      "is_public": true,
-      "modified": "2015-07-10T01:11:31+00:00",
-      "note": "Web Console input history persists even after closing the toolbox",
-      "sort_num": 0,
-      "tag": "Developer"
-    },
-    {
       "bug": 1134568,
       "created": "2015-03-28T03:43:15+00:00",
       "id": 785992,
@@ -183,6 +163,26 @@
       "is_public": true,
       "modified": "2015-06-15T19:28:35+00:00",
       "note": "localhost is now available offline for WebSocket connections",
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
+      "bug": 858038,
+      "created": "2015-03-27T17:36:59+00:00",
+      "id": 785981,
+      "is_public": true,
+      "modified": "2015-06-15T19:28:35+00:00",
+      "note": "Drag and drop enabled for nodes in Inspector markup view ",
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
+      "bug": 943306,
+      "created": "2015-03-27T17:46:32+00:00",
+      "id": 785982,
+      "is_public": true,
+      "modified": "2015-07-10T01:11:31+00:00",
+      "note": "Web Console input history persists even after closing the toolbox",
       "sort_num": 0,
       "tag": "Developer"
     },

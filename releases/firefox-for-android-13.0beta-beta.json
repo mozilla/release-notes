@@ -79,16 +79,6 @@
     {
       "bug": null,
       "created": "2013-11-25T00:24:50+00:00",
-      "id": 83,
-      "is_public": true,
-      "modified": "2014-04-23T10:53:35+00:00",
-      "note": "Smooth scrolling is now enabled by default",
-      "sort_num": 0,
-      "tag": "Changed"
-    },
-    {
-      "bug": null,
-      "created": "2013-11-25T00:24:50+00:00",
       "id": 97,
       "is_public": true,
       "modified": "2014-04-23T10:53:35+00:00",
@@ -103,6 +93,16 @@
       "is_public": true,
       "modified": "2014-04-23T10:53:35+00:00",
       "note": "SPDY protocol now enabled by default for faster browsing on supported sites",
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
+      "bug": null,
+      "created": "2013-11-25T00:24:50+00:00",
+      "id": 83,
+      "is_public": true,
+      "modified": "2014-04-23T10:53:35+00:00",
+      "note": "Smooth scrolling is now enabled by default",
       "sort_num": 0,
       "tag": "Changed"
     },

@@ -7,16 +7,6 @@
   "modified": "2015-09-22T15:03:16+00:00",
   "notes": [
     {
-      "bug": 366324,
-      "created": "2015-07-01T22:10:28+00:00",
-      "id": 786146,
-      "is_public": true,
-      "modified": "2015-09-16T22:16:27+00:00",
-      "note": "SVG images can be used as favicons",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
       "bug": 478029,
       "created": "2015-08-05T21:37:37+00:00",
       "id": 786208,
@@ -57,12 +47,22 @@
       "tag": "New"
     },
     {
-      "bug": 1167066,
-      "created": "2015-07-01T22:56:21+00:00",
-      "id": 786155,
+      "bug": 366324,
+      "created": "2015-07-01T22:10:28+00:00",
+      "id": 786146,
       "is_public": true,
-      "modified": "2015-09-16T16:36:27+00:00",
-      "note": "WebRTC now requires [perfect forward secrecy][1]\r\n\r\n[1]: https://hacks.mozilla.org/2015/02/webrtc-requires-perfect-forward-secrecy-pfs-starting-in-firefox-38/ ",
+      "modified": "2015-09-16T22:16:27+00:00",
+      "note": "SVG images can be used as favicons",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1179504,
+      "created": "2015-08-07T20:56:33+00:00",
+      "id": 786221,
+      "is_public": true,
+      "modified": "2015-09-16T17:46:34+00:00",
+      "note": "WARP is disabled on Windows 7",
       "sort_num": 10,
       "tag": "Changed"
     },
@@ -77,12 +77,12 @@
       "tag": "Changed"
     },
     {
-      "bug": 1179504,
-      "created": "2015-08-07T20:56:33+00:00",
-      "id": 786221,
+      "bug": 1167066,
+      "created": "2015-07-01T22:56:21+00:00",
+      "id": 786155,
       "is_public": true,
-      "modified": "2015-09-16T17:46:34+00:00",
-      "note": "WARP is disabled on Windows 7",
+      "modified": "2015-09-16T16:36:27+00:00",
+      "note": "WebRTC now requires [perfect forward secrecy][1]\r\n\r\n[1]: https://hacks.mozilla.org/2015/02/webrtc-requires-perfect-forward-secrecy-pfs-starting-in-firefox-38/ ",
       "sort_num": 10,
       "tag": "Changed"
     },
@@ -157,16 +157,6 @@
       "tag": "HTML5"
     },
     {
-      "bug": 1159737,
-      "created": "2015-06-01T08:15:11+00:00",
-      "id": 786126,
-      "is_public": true,
-      "modified": "2015-09-16T16:36:27+00:00",
-      "note": "Removed support for binary XPCOM components in extensions, use addon SDK \"system/child_process\" pipe mechanism for native binaries instead",
-      "sort_num": 0,
-      "tag": "Developer"
-    },
-    {
       "bug": 859058,
       "created": "2015-07-01T22:15:49+00:00",
       "id": 786148,
@@ -213,6 +203,16 @@
       "is_public": true,
       "modified": "2015-09-16T16:36:27+00:00",
       "note": "[Pseudo-Class panel][1] in the Inspector\r\n\r\n[1]:https://developer.mozilla.org/docs/Tools/Page_Inspector/How_to/Examine_and_edit_CSS#Setting_hover_active_focus",
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
+      "bug": 1159737,
+      "created": "2015-06-01T08:15:11+00:00",
+      "id": 786126,
+      "is_public": true,
+      "modified": "2015-09-16T16:36:27+00:00",
+      "note": "Removed support for binary XPCOM components in extensions, use addon SDK \"system/child_process\" pipe mechanism for native binaries instead",
       "sort_num": 0,
       "tag": "Developer"
     },

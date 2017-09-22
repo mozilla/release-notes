@@ -7,6 +7,16 @@
   "modified": "2014-05-28T06:30:16+00:00",
   "notes": [
     {
+      "bug": null,
+      "created": "2013-11-25T00:24:50+00:00",
+      "id": 221,
+      "is_public": true,
+      "modified": "2014-04-23T10:53:36+00:00",
+      "note": "Click-to-play blocklisting implemented to prevent vulnerable plugin versions from running without the user's permission (see <a href=\"http://blog.mozilla.org/addons/2012/10/11/click-to-play-coming-firefox-17/\">blog post</a>)",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 769150,
       "created": "2013-11-25T00:24:50+00:00",
       "fixed_in_release": {
@@ -23,16 +33,6 @@
       "note": "Pointer lock doesn't work in web apps",
       "sort_num": 0,
       "tag": ""
-    },
-    {
-      "bug": null,
-      "created": "2013-11-25T00:24:50+00:00",
-      "id": 221,
-      "is_public": true,
-      "modified": "2014-04-23T10:53:36+00:00",
-      "note": "Click-to-play blocklisting implemented to prevent vulnerable plugin versions from running without the user's permission (see <a href=\"http://blog.mozilla.org/addons/2012/10/11/click-to-play-coming-firefox-17/\">blog post</a>)",
-      "sort_num": 0,
-      "tag": "New"
     },
     {
       "bug": null,
@@ -67,16 +67,6 @@
     {
       "bug": null,
       "created": "2013-11-25T00:24:50+00:00",
-      "id": 207,
-      "is_public": true,
-      "modified": "2014-04-23T10:53:36+00:00",
-      "note": "SVG FillPaint and StrokePaint implemented ",
-      "sort_num": 0,
-      "tag": "Developer"
-    },
-    {
-      "bug": null,
-      "created": "2013-11-25T00:24:50+00:00",
       "id": 210,
       "is_public": true,
       "modified": "2014-04-23T10:53:36+00:00",
@@ -101,6 +91,16 @@
       "is_public": true,
       "modified": "2014-04-23T10:53:36+00:00",
       "note": "JavaScript Maps and Sets are now iterable",
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
+      "bug": null,
+      "created": "2013-11-25T00:24:50+00:00",
+      "id": 207,
+      "is_public": true,
+      "modified": "2014-04-23T10:53:36+00:00",
+      "note": "SVG FillPaint and StrokePaint implemented ",
       "sort_num": 0,
       "tag": "Developer"
     },

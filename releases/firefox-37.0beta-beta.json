@@ -27,26 +27,6 @@
       "tag": "New"
     },
     {
-      "bug": null,
-      "created": "2015-01-13T16:19:18+00:00",
-      "id": 785888,
-      "is_public": true,
-      "modified": "2015-03-25T20:47:58+00:00",
-      "note": "New preferences implementation enabled for the first half of the beta cycle",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
-      "bug": 1118061,
-      "created": "2015-01-16T15:26:25+00:00",
-      "id": 785903,
-      "is_public": false,
-      "modified": "2015-04-03T04:01:48+00:00",
-      "note": "Hello: Improved notification about user availability",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
       "bug": 1024809,
       "created": "2015-01-16T18:42:49+00:00",
       "id": 785907,
@@ -63,6 +43,26 @@
       "is_public": true,
       "modified": "2015-04-03T04:11:46+00:00",
       "note": "[Opportunistically encrypt HTTP traffic][1] where the server supports HTTP/2 AltSvc\r\n\r\n[1]: https://bitsup.blogspot.com/2015/03/opportunistic-encryption-for-firefox.html ",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2015-01-13T16:19:18+00:00",
+      "id": 785888,
+      "is_public": true,
+      "modified": "2015-03-25T20:47:58+00:00",
+      "note": "New preferences implementation enabled for the first half of the beta cycle",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1118061,
+      "created": "2015-01-16T15:26:25+00:00",
+      "id": 785903,
+      "is_public": false,
+      "modified": "2015-04-03T04:01:48+00:00",
+      "note": "Hello: Improved notification about user availability",
       "sort_num": 0,
       "tag": "New"
     },

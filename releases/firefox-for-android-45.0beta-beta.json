@@ -4,101 +4,101 @@
   "channel": "Beta",
   "created": "2015-12-17T10:57:19+00:00",
   "is_public": true,
-  "modified": "2016-01-28T19:34:01.539000+00:00",
+  "modified": "2016-01-28T19:34:01.539273+00:00",
   "notes": [
     {
       "bug": 1170725,
       "created": "2015-12-17T13:58:48+00:00",
       "id": 786396,
       "is_public": true,
-      "modified": "2016-03-07T13:51:01.354000+00:00",
+      "modified": "2016-03-07T13:51:01.354874+00:00",
       "note": "[Click-to-view Images option][1] in the menu\u2019s advanced settings lets users choose which images on the Web they download to conserve data usage\r\n\r\n\r\n  [1]: https://support.mozilla.org/en-US/kb/block-or-load-images-over-wifi-firefox-android",
       "sort_num": 0,
       "tag": "New"
     },
     {
       "bug": null,
-      "created": "2015-12-18T17:18:19.532000+00:00",
+      "created": "2015-12-18T17:18:19.532351+00:00",
       "id": 786399,
       "is_public": true,
-      "modified": "2016-03-01T12:54:38.112000+00:00",
+      "modified": "2016-03-01T12:54:38.112516+00:00",
       "note": "Introduce a new preference (*network.dns.blockDotOnion*) to allow blocking .onion at the DNS level",
       "sort_num": -1,
       "tag": "New"
     },
     {
       "bug": 1191741,
-      "created": "2016-03-02T13:31:08.473000+00:00",
+      "created": "2016-03-02T13:31:08.473607+00:00",
       "id": 786503,
       "is_public": true,
-      "modified": "2016-03-07T13:52:22.436000+00:00",
+      "modified": "2016-03-07T13:52:22.436574+00:00",
       "note": "Add [toggle to disable sharing of camera][1] and microphone in admin UI for family friendly browsing\r\n\r\n\r\n  [1]: https://support.mozilla.org/en-US/kb/controlledaccess#mobile::m45",
       "sort_num": -1,
       "tag": "New"
     },
     {
-      "bug": 1239503,
-      "created": "2016-01-25T17:10:39.940000+00:00",
-      "id": 786447,
-      "is_public": true,
-      "modified": "2016-03-01T12:54:38.112000+00:00",
-      "note": "Disable the inclusion of the URL when sharing selected text from web page\r\n",
-      "sort_num": 0,
-      "tag": "Changed"
-    },
-    {
       "bug": null,
-      "created": "2016-01-28T12:21:42.738000+00:00",
-      "id": 786456,
-      "is_public": true,
-      "modified": "2016-03-07T13:50:36.209000+00:00",
-      "note": "Optimized & re-organized app Settings",
-      "sort_num": 0,
-      "tag": "Changed"
-    },
-    {
-      "bug": null,
-      "created": "2016-01-28T12:24:36.843000+00:00",
+      "created": "2016-01-28T12:24:36.843732+00:00",
       "id": 786457,
       "is_public": true,
-      "modified": "2016-03-01T12:54:38.112000+00:00",
+      "modified": "2016-03-01T12:54:38.112516+00:00",
       "note": "Replace super toasts with [snackbar][1]\r\n\r\n\r\n  [1]: http://www.google.com/design/spec/components/snackbars-toasts.html",
       "sort_num": 0,
       "tag": "Changed"
     },
     {
+      "bug": null,
+      "created": "2016-01-28T12:21:42.738443+00:00",
+      "id": 786456,
+      "is_public": true,
+      "modified": "2016-03-07T13:50:36.209364+00:00",
+      "note": "Optimized & re-organized app Settings",
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
+      "bug": 1239503,
+      "created": "2016-01-25T17:10:39.940809+00:00",
+      "id": 786447,
+      "is_public": true,
+      "modified": "2016-03-01T12:54:38.112516+00:00",
+      "note": "Disable the inclusion of the URL when sharing selected text from web page\r\n",
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
       "bug": 1222390,
-      "created": "2016-03-02T13:33:33.894000+00:00",
+      "created": "2016-03-02T13:33:33.894718+00:00",
       "id": 786504,
       "is_public": true,
-      "modified": "2016-03-02T16:39:57.189000+00:00",
+      "modified": "2016-03-02T16:39:57.189651+00:00",
       "note": "Simplified admin UI for family-friendly browsing on tablet in restricted profile ",
       "sort_num": -1,
       "tag": "Changed"
     },
     {
-      "bug": 1197932,
-      "created": "2015-12-18T17:08:51.149000+00:00",
-      "id": 5,
-      "is_public": true,
-      "modified": "2016-03-01T12:54:38.112000+00:00",
-      "note": "[ES6 Classes][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/JavaScript/Reference/Classes",
-      "sort_num": 0,
-      "tag": "HTML5"
-    },
-    {
       "bug": 663570,
-      "created": "2016-01-25T15:17:54.672000+00:00",
+      "created": "2016-01-25T15:17:54.672252+00:00",
       "id": 786440,
       "is_public": true,
-      "modified": "2016-03-01T12:54:38.112000+00:00",
+      "modified": "2016-03-01T12:54:38.112516+00:00",
       "note": "Support delivery of a Content Security Policy (CSP) via a meta tag\r\n",
       "sort_num": 0,
       "tag": "HTML5"
     },
     {
+      "bug": 1197932,
+      "created": "2015-12-18T17:08:51.149102+00:00",
+      "id": 5,
+      "is_public": true,
+      "modified": "2016-03-01T12:54:38.112516+00:00",
+      "note": "[ES6 Classes][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/JavaScript/Reference/Classes",
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
       "bug": 1142083,
-      "created": "2015-12-24T14:27:41.519000+00:00",
+      "created": "2015-12-24T14:27:41.519530+00:00",
       "fixed_in_release": {
         "channel": "Aurora",
         "is_public": true,
@@ -109,7 +109,7 @@
       },
       "id": 786413,
       "is_public": true,
-      "modified": "2016-03-01T12:54:38.112000+00:00",
+      "modified": "2016-03-01T12:54:38.112516+00:00",
       "note": "URLs containing a Unicode-format Internationalized Domain Name (IDN) are now properly redirected",
       "sort_num": 0,
       "tag": "Fixed"

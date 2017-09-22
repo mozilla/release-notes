@@ -2,49 +2,13 @@
   "bug_list": "",
   "bug_search_url": "https://bugzilla.mozilla.org/buglist.cgi?bug_status=RESOLVED&bug_status=VERIFIED&bug_status=CLOSED&classification=Client%20Software&f1=cf_status_fxios_v4_0&f2=cf_tracking_fxios&j_top=OR&known_name=iOS%20V3.0%20FIXED&o1=substring&o2=substring&product=Firefox%20for%20iOS&resolution=FIXED&v1=fixed&v2=4.0%2B&list_id=13000861",
   "channel": "Release",
-  "created": "2016-03-29T16:25:33.688000+00:00",
+  "created": "2016-03-29T16:25:33.688320+00:00",
   "is_public": true,
-  "modified": "2016-05-11T15:13:51.327000+00:00",
+  "modified": "2016-05-11T15:13:51.327663+00:00",
   "notes": [
     {
-      "bug": 1168504,
-      "created": "2016-05-05T13:17:24.259000+00:00",
-      "fixed_in_release": {
-        "channel": "Release",
-        "is_public": true,
-        "product": "Firefox for iOS",
-        "slug": "firefox-for-ios-4.0-release",
-        "title": "Firefox for iOS 4.0 Release",
-        "version": "4.0"
-      },
-      "id": 786666,
-      "is_public": true,
-      "modified": "2016-07-05T19:58:14.780000+00:00",
-      "note": "Sync on exit",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
-      "bug": 1186573,
-      "created": "2016-05-05T13:19:45.124000+00:00",
-      "fixed_in_release": {
-        "channel": "Release",
-        "is_public": true,
-        "product": "Firefox for iOS",
-        "slug": "firefox-for-ios-4.0-release",
-        "title": "Firefox for iOS 4.0 Release",
-        "version": "4.0"
-      },
-      "id": 786667,
-      "is_public": true,
-      "modified": "2016-07-05T19:58:12.991000+00:00",
-      "note": "Today widget to Open Tab (currently supported on iOS 9 only)",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
       "bug": 1177078,
-      "created": "2016-05-05T13:20:33.769000+00:00",
+      "created": "2016-05-05T13:20:33.769881+00:00",
       "fixed_in_release": {
         "channel": "Release",
         "is_public": true,
@@ -55,14 +19,14 @@
       },
       "id": 786668,
       "is_public": true,
-      "modified": "2016-07-05T19:58:11.761000+00:00",
+      "modified": "2016-07-05T19:58:11.761161+00:00",
       "note": "Overwrite certificate errors",
       "sort_num": 0,
       "tag": "New"
     },
     {
-      "bug": 1247848,
-      "created": "2016-05-05T13:22:02.095000+00:00",
+      "bug": 1168504,
+      "created": "2016-05-05T13:17:24.259146+00:00",
       "fixed_in_release": {
         "channel": "Release",
         "is_public": true,
@@ -71,16 +35,16 @@
         "title": "Firefox for iOS 4.0 Release",
         "version": "4.0"
       },
-      "id": 786669,
+      "id": 786666,
       "is_public": true,
-      "modified": "2016-07-05T19:58:08.122000+00:00",
-      "note": "Support printing in Firefox for iOS ",
+      "modified": "2016-07-05T19:58:14.780427+00:00",
+      "note": "Sync on exit",
       "sort_num": 0,
       "tag": "New"
     },
     {
       "bug": 1185038,
-      "created": "2016-05-05T13:22:45.580000+00:00",
+      "created": "2016-05-05T13:22:45.580422+00:00",
       "fixed_in_release": {
         "channel": "Release",
         "is_public": true,
@@ -91,14 +55,14 @@
       },
       "id": 786670,
       "is_public": true,
-      "modified": "2016-07-05T19:58:10.522000+00:00",
+      "modified": "2016-07-05T19:58:10.522207+00:00",
       "note": "Include bookmarks in Awesomebar results and domain autocompletion",
       "sort_num": 0,
       "tag": "New"
     },
     {
       "bug": 1243592,
-      "created": "2016-05-05T13:23:37.218000+00:00",
+      "created": "2016-05-05T13:23:37.218443+00:00",
       "fixed_in_release": {
         "channel": "Release",
         "is_public": true,
@@ -109,14 +73,50 @@
       },
       "id": 786671,
       "is_public": true,
-      "modified": "2016-07-05T19:58:09.101000+00:00",
+      "modified": "2016-07-05T19:58:09.101075+00:00",
       "note": "Implement Telemetry Core Ping",
       "sort_num": 0,
       "tag": "New"
     },
     {
+      "bug": 1186573,
+      "created": "2016-05-05T13:19:45.124651+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": true,
+        "product": "Firefox for iOS",
+        "slug": "firefox-for-ios-4.0-release",
+        "title": "Firefox for iOS 4.0 Release",
+        "version": "4.0"
+      },
+      "id": 786667,
+      "is_public": true,
+      "modified": "2016-07-05T19:58:12.991572+00:00",
+      "note": "Today widget to Open Tab (currently supported on iOS 9 only)",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1247848,
+      "created": "2016-05-05T13:22:02.095616+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": true,
+        "product": "Firefox for iOS",
+        "slug": "firefox-for-ios-4.0-release",
+        "title": "Firefox for iOS 4.0 Release",
+        "version": "4.0"
+      },
+      "id": 786669,
+      "is_public": true,
+      "modified": "2016-07-05T19:58:08.122291+00:00",
+      "note": "Support printing in Firefox for iOS ",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": null,
-      "created": "2016-05-05T13:27:58.594000+00:00",
+      "created": "2016-05-05T13:27:58.594140+00:00",
       "fixed_in_release": {
         "channel": "Release",
         "is_public": true,
@@ -127,7 +127,7 @@
       },
       "id": 786672,
       "is_public": true,
-      "modified": "2016-07-05T19:58:16.153000+00:00",
+      "modified": "2016-07-05T19:58:16.153273+00:00",
       "note": "Songhay (locale code: ses) added",
       "sort_num": -1,
       "tag": "New"

@@ -87,26 +87,6 @@
       "tag": "Changed"
     },
     {
-      "bug": 916315,
-      "created": "2014-03-26T16:24:31+00:00",
-      "id": 785519,
-      "is_public": true,
-      "modified": "2014-09-23T08:43:43+00:00",
-      "note": "CSS [position:sticky][1] enabled by default\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/position",
-      "sort_num": 0,
-      "tag": "HTML5"
-    },
-    {
-      "bug": 952643,
-      "created": "2014-05-07T02:13:02+00:00",
-      "id": 785583,
-      "is_public": true,
-      "modified": "2014-09-23T08:43:43+00:00",
-      "note": "mix-blend-mode enabled by default ",
-      "sort_num": 0,
-      "tag": "HTML5"
-    },
-    {
       "bug": 904723,
       "created": "2014-07-17T06:39:57+00:00",
       "id": 785649,
@@ -147,14 +127,24 @@
       "tag": "HTML5"
     },
     {
-      "bug": 1005031,
-      "created": "2014-05-07T10:03:41+00:00",
-      "id": 785585,
+      "bug": 916315,
+      "created": "2014-03-26T16:24:31+00:00",
+      "id": 785519,
       "is_public": true,
-      "modified": "2014-08-27T09:45:59+00:00",
-      "note": "Video controls are displayed in the middle of the video ([1005031][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1005031",
+      "modified": "2014-09-23T08:43:43+00:00",
+      "note": "CSS [position:sticky][1] enabled by default\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/position",
       "sort_num": 0,
-      "tag": "Known"
+      "tag": "HTML5"
+    },
+    {
+      "bug": 952643,
+      "created": "2014-05-07T02:13:02+00:00",
+      "id": 785583,
+      "is_public": true,
+      "modified": "2014-09-23T08:43:43+00:00",
+      "note": "mix-blend-mode enabled by default ",
+      "sort_num": 0,
+      "tag": "HTML5"
     },
     {
       "bug": 1030897,
@@ -163,6 +153,16 @@
       "is_public": true,
       "modified": "2014-08-28T10:25:41+00:00",
       "note": "Does not start on Android L preview (see [1030897][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1030897",
+      "sort_num": 0,
+      "tag": "Known"
+    },
+    {
+      "bug": 1005031,
+      "created": "2014-05-07T10:03:41+00:00",
+      "id": 785585,
+      "is_public": true,
+      "modified": "2014-08-27T09:45:59+00:00",
+      "note": "Video controls are displayed in the middle of the video ([1005031][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1005031",
       "sort_num": 0,
       "tag": "Known"
     }

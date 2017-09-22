@@ -2,33 +2,43 @@
   "bug_list": "",
   "bug_search_url": "",
   "channel": "Aurora",
-  "created": "2016-11-18T19:45:22.372000+00:00",
+  "created": "2016-11-18T19:45:22.372113+00:00",
   "is_public": true,
-  "modified": "2016-11-21T15:36:42.849000+00:00",
+  "modified": "2016-11-21T15:36:42.849569+00:00",
   "notes": [
     {
       "bug": 976073,
-      "created": "2017-01-18T15:59:53.893000+00:00",
+      "created": "2017-01-18T15:59:53.893407+00:00",
       "id": 786921,
       "is_public": true,
-      "modified": "2017-03-06T10:30:57.343000+00:00",
+      "modified": "2017-03-06T10:30:57.343547+00:00",
       "note": "Implemented the Strict Secure Cookies specification which forbids insecure HTTP sites from setting cookies with the \"secure\" attribute.  In some cases, this will prevent an insecure site from setting a cookie with the same name as an existing \"secure\" cookie from the same base domain.",
       "sort_num": 0,
       "tag": "New"
     },
     {
       "bug": 1294736,
-      "created": "2017-01-24T12:54:53.932000+00:00",
+      "created": "2017-01-24T12:54:53.932473+00:00",
       "id": 786930,
       "is_public": true,
-      "modified": "2017-03-01T13:56:25.542000+00:00",
+      "modified": "2017-03-01T13:56:25.542353+00:00",
       "note": "Reduced APK file size by more than 5 MB for faster download and installation",
       "sort_num": 0,
       "tag": "New"
     },
     {
+      "bug": 1185106,
+      "created": "2016-11-18T22:10:48.155146+00:00",
+      "id": 786883,
+      "is_public": true,
+      "modified": "2017-01-24T13:54:49.970080+00:00",
+      "note": "Introduced ECMAScript 7 [async functions][1] that makes it easier to write asynchronous code without chaining Promises\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function",
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
       "bug": 1198381,
-      "created": "2016-11-18T21:02:49.142000+00:00",
+      "created": "2016-11-18T21:02:49.142300+00:00",
       "fixed_in_release": {
         "channel": "Aurora",
         "is_public": true,
@@ -39,27 +49,17 @@
       },
       "id": 786879,
       "is_public": true,
-      "modified": "2017-01-24T13:54:47.994000+00:00",
+      "modified": "2017-01-24T13:54:47.994860+00:00",
       "note": "Introduced the [requestIdleCallback API][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/Window/requestIdleCallback",
       "sort_num": 0,
       "tag": "Developer"
     },
     {
-      "bug": 1185106,
-      "created": "2016-11-18T22:10:48.155000+00:00",
-      "id": 786883,
-      "is_public": true,
-      "modified": "2017-01-24T13:54:49.970000+00:00",
-      "note": "Introduced ECMAScript 7 [async functions][1] that makes it easier to write asynchronous code without chaining Promises\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function",
-      "sort_num": 0,
-      "tag": "Developer"
-    },
-    {
       "bug": 1243846,
-      "created": "2016-11-18T22:12:29.899000+00:00",
+      "created": "2016-11-18T22:12:29.899878+00:00",
       "id": 786884,
       "is_public": false,
-      "modified": "2017-01-27T22:19:55.457000+00:00",
+      "modified": "2017-01-27T22:19:55.457691+00:00",
       "note": "Added the [Intersection Observer API][1] to help developers improve site performance by deferring content loading and significantly lower the cost of content visibility checks\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API",
       "sort_num": 0,
       "tag": "Developer"

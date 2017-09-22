@@ -2,13 +2,13 @@
   "bug_list": "",
   "bug_search_url": "https://bugzilla.mozilla.org/buglist.cgi?o1=equals&v1=54%2B&f1=cf_tracking_thunderbird_esr52&query_format=advanced&list_id=13634735",
   "channel": "Release",
-  "created": "2017-06-21T21:42:57.669000+00:00",
+  "created": "2017-06-21T21:42:57.669219+00:00",
   "is_public": true,
-  "modified": "2017-06-23T16:36:22.036000+00:00",
+  "modified": "2017-06-23T16:36:22.036049+00:00",
   "notes": [
     {
       "bug": 1362881,
-      "created": "2017-06-21T21:51:05.746000+00:00",
+      "created": "2017-06-21T21:51:05.746324+00:00",
       "fixed_in_release": {
         "channel": "Release",
         "is_public": true,
@@ -19,28 +19,28 @@
       },
       "id": 787159,
       "is_public": true,
-      "modified": "2017-08-16T18:23:54.141000+00:00",
+      "modified": "2017-08-16T18:23:54.141043+00:00",
       "note": "Problems with Gmail (folders not showing, repeated email download, etc.) introduced in version 52.2.0.",
       "sort_num": 0,
       "tag": "Fixed"
     },
     {
-      "bug": 1356902,
-      "created": "2017-06-13T08:40:01.450000+00:00",
-      "id": 787152,
+      "bug": 1176399,
+      "created": "2017-06-21T21:47:33.369875+00:00",
+      "id": 787158,
       "is_public": true,
-      "modified": "2017-08-16T18:21:48.345000+00:00",
-      "note": "On Windows, \"Send to > Mail recipient\" does not work. Workaround: Install the [Microsoft Visual Studio 2015 redistributable runtime library][1] or the [Universal C Runtime for Windows Server][2].\r\n\r\n\r\n  [1]: https://www.microsoft.com/en-us/download/details.aspx?id=53587\r\n  [2]: https://support.microsoft.com/en-us/help/2999226/update-for-universal-c-runtime-in-windows",
+      "modified": "2017-08-16T18:21:48.345353+00:00",
+      "note": "Multiple requests for master password when GMail OAuth2 is enabled",
       "sort_num": 0,
       "tag": "Known"
     },
     {
-      "bug": 1176399,
-      "created": "2017-06-21T21:47:33.369000+00:00",
-      "id": 787158,
+      "bug": 1356902,
+      "created": "2017-06-13T08:40:01.450076+00:00",
+      "id": 787152,
       "is_public": true,
-      "modified": "2017-08-16T18:21:48.345000+00:00",
-      "note": "Multiple requests for master password when GMail OAuth2 is enabled",
+      "modified": "2017-08-16T18:21:48.345353+00:00",
+      "note": "On Windows, \"Send to > Mail recipient\" does not work. Workaround: Install the [Microsoft Visual Studio 2015 redistributable runtime library][1] or the [Universal C Runtime for Windows Server][2].\r\n\r\n\r\n  [1]: https://www.microsoft.com/en-us/download/details.aspx?id=53587\r\n  [2]: https://support.microsoft.com/en-us/help/2999226/update-for-universal-c-runtime-in-windows",
       "sort_num": 0,
       "tag": "Known"
     }

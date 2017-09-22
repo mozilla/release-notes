@@ -128,21 +128,21 @@
     },
     {
       "bug": null,
-      "created": "2013-11-25T00:24:50+00:00",
-      "id": 287,
-      "is_public": true,
-      "modified": "2014-04-23T10:53:37+00:00",
-      "note": "18.0.1 Problems involving HTTP Proxy Transactions (<a href=\"http://bugzil.la/828632\">bug 828632,</a><a href=\"http://bugzil.la/828202\">bug 828202,</a></a><a href=\"http://bugzil.la/828202\">bug 828202,</a></a><a href=\"http://bugzil.la/829646\">bug 829646,</a>)",
-      "sort_num": 1500,
-      "tag": "Fixed"
-    },
-    {
-      "bug": null,
       "created": "2013-11-25T00:24:49+00:00",
       "id": 290,
       "is_public": true,
       "modified": "2014-04-23T10:53:37+00:00",
       "note": "18.0.2: Fix JavaScript related stability issues",
+      "sort_num": 1500,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2013-11-25T00:24:50+00:00",
+      "id": 287,
+      "is_public": true,
+      "modified": "2014-04-23T10:53:37+00:00",
+      "note": "18.0.1 Problems involving HTTP Proxy Transactions (<a href=\"http://bugzil.la/828632\">bug 828632,</a><a href=\"http://bugzil.la/828202\">bug 828202,</a></a><a href=\"http://bugzil.la/828202\">bug 828202,</a></a><a href=\"http://bugzil.la/829646\">bug 829646,</a>)",
       "sort_num": 1500,
       "tag": "Fixed"
     },

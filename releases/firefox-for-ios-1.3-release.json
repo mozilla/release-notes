@@ -4,25 +4,25 @@
   "channel": "Release",
   "created": "2015-12-02T13:54:06+00:00",
   "is_public": true,
-  "modified": "2016-01-04T09:23:48.735000+00:00",
+  "modified": "2016-01-04T09:23:48.735994+00:00",
   "notes": [
-    {
-      "bug": 1162174,
-      "created": "2015-12-02T13:56:10+00:00",
-      "id": 786369,
-      "is_public": true,
-      "modified": "2016-01-14T11:15:29.619000+00:00",
-      "note": "Support third-party password managers",
-      "sort_num": 0,
-      "tag": "New"
-    },
     {
       "bug": null,
       "created": "2015-12-09T18:25:05+00:00",
       "id": 786375,
       "is_public": true,
-      "modified": "2016-01-14T11:15:23.042000+00:00",
+      "modified": "2016-01-14T11:15:23.042495+00:00",
       "note": "Request Desktop Site",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1162174,
+      "created": "2015-12-02T13:56:10+00:00",
+      "id": 786369,
+      "is_public": true,
+      "modified": "2016-01-14T11:15:29.619633+00:00",
+      "note": "Support third-party password managers",
       "sort_num": 0,
       "tag": "New"
     },
@@ -31,7 +31,7 @@
       "created": "2015-12-02T14:07:28+00:00",
       "id": 786370,
       "is_public": true,
-      "modified": "2016-02-15T13:29:28.938000+00:00",
+      "modified": "2016-02-15T13:29:28.938647+00:00",
       "note": "Various bug fixes and performance improvements\r\n",
       "sort_num": 0,
       "tag": "Fixed"

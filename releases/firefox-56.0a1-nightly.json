@@ -2,26 +2,26 @@
   "bug_list": "",
   "bug_search_url": "",
   "channel": "Nightly",
-  "created": "2017-06-12T13:42:25.322000+00:00",
+  "created": "2017-06-12T13:42:25.322537+00:00",
   "is_public": true,
-  "modified": "2017-08-17T08:24:32.975000+00:00",
+  "modified": "2017-08-17T08:24:32.975618+00:00",
   "notes": [
     {
       "bug": 1353954,
-      "created": "2017-06-15T09:07:15.524000+00:00",
+      "created": "2017-06-15T09:07:15.524395+00:00",
       "id": 787156,
       "is_public": true,
-      "modified": "2017-06-15T09:11:36.233000+00:00",
+      "modified": "2017-06-15T09:11:36.233511+00:00",
       "note": "Search within the Options/Preferences panel to find relevant options across categories\r\n",
       "sort_num": 0,
       "tag": "New"
     },
     {
       "bug": 1372309,
-      "created": "2017-06-16T15:35:13.038000+00:00",
+      "created": "2017-06-16T15:35:13.038159+00:00",
       "id": 787157,
       "is_public": true,
-      "modified": "2017-06-16T15:58:42.656000+00:00",
+      "modified": "2017-06-16T15:58:42.656095+00:00",
       "note": "<!-- Nightly only -->\r\nThe application menu was [restructured][1] as part of the Photon redesign for Firefox 57. Nightly users are encouraged to [flle bugs][2] for any regression they may find.\r\n\r\n\r\n[1]: https://dolske.wordpress.com/2017/06/15/photon-engineering-newsletter-6/ \r\n[2]: https://bugzilla.mozilla.org/enter_bug.cgi?product=Firefox&component=Toolbars%20and%20Customization",
       "sort_num": 0,
       "tag": "Changed"

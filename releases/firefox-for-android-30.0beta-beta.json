@@ -47,16 +47,6 @@
       "tag": "Changed"
     },
     {
-      "bug": 480888,
-      "created": "2014-03-26T16:28:02+00:00",
-      "id": 785524,
-      "is_public": true,
-      "modified": "2014-06-09T14:33:54+00:00",
-      "note": "Fixes to box-shadow and other visual overflow (see <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=480888\">bug 480888</a>)",
-      "sort_num": 0,
-      "tag": "Developer"
-    },
-    {
       "bug": null,
       "created": "2014-03-26T16:28:34+00:00",
       "id": 785525,
@@ -113,6 +103,16 @@
       "is_public": true,
       "modified": "2014-06-09T14:35:11+00:00",
       "note": "Support for alpha option in canvas context options (feature [description][1])\r\n\r\n\r\n  [1]: http://blogs.adobe.com/webplatform/2014/04/01/new-canvas-features/",
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
+      "bug": 480888,
+      "created": "2014-03-26T16:28:02+00:00",
+      "id": 785524,
+      "is_public": true,
+      "modified": "2014-06-09T14:33:54+00:00",
+      "note": "Fixes to box-shadow and other visual overflow (see <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=480888\">bug 480888</a>)",
       "sort_num": 0,
       "tag": "Developer"
     },

@@ -27,26 +27,6 @@
       "tag": "New"
     },
     {
-      "bug": 1171929,
-      "created": "2015-09-16T20:53:34+00:00",
-      "id": 786265,
-      "is_public": true,
-      "modified": "2015-12-04T00:33:13+00:00",
-      "note": "[Include URL when sharing selected text][1] from web page\r\n\r\n\r\n  [1]: https://support.mozilla.org/en-US/kb/how-do-i-share-things-firefox-android#w_how-do-i-share-from-a-web-page",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
-      "bug": 1182162,
-      "created": "2015-09-16T23:51:39+00:00",
-      "id": 786272,
-      "is_public": true,
-      "modified": "2015-12-03T02:57:14+00:00",
-      "note": "[Accessibility improvements][1] for scrolling, zooming, braille, and context menus in Talkback screen reader\r\n\r\n\r\n  [1]: http://blog.monotonous.org/2015/09/15/firefox-for-android-accessibility-refresh/",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
       "bug": 1142171,
       "created": "2015-09-18T17:34:24+00:00",
       "id": 786298,
@@ -77,12 +57,32 @@
       "tag": "New"
     },
     {
+      "bug": 1171929,
+      "created": "2015-09-16T20:53:34+00:00",
+      "id": 786265,
+      "is_public": true,
+      "modified": "2015-12-04T00:33:13+00:00",
+      "note": "[Include URL when sharing selected text][1] from web page\r\n\r\n\r\n  [1]: https://support.mozilla.org/en-US/kb/how-do-i-share-things-firefox-android#w_how-do-i-share-from-a-web-page",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 875573,
       "created": "2015-11-04T15:34:53+00:00",
       "id": 786364,
       "is_public": true,
       "modified": "2015-12-03T02:57:14+00:00",
       "note": "Improved [API support for m4v][1] video playback\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/HTMLMediaElement/canPlayType",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1182162,
+      "created": "2015-09-16T23:51:39+00:00",
+      "id": 786272,
+      "is_public": true,
+      "modified": "2015-12-03T02:57:14+00:00",
+      "note": "[Accessibility improvements][1] for scrolling, zooming, braille, and context menus in Talkback screen reader\r\n\r\n\r\n  [1]: http://blog.monotonous.org/2015/09/15/firefox-for-android-accessibility-refresh/",
       "sort_num": 0,
       "tag": "New"
     }

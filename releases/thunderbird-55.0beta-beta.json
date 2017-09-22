@@ -2,13 +2,13 @@
   "bug_list": "",
   "bug_search_url": "",
   "channel": "Beta",
-  "created": "2017-07-14T20:10:44.390000+00:00",
+  "created": "2017-07-14T20:10:44.390743+00:00",
   "is_public": true,
-  "modified": "2017-08-08T07:07:38.535000+00:00",
+  "modified": "2017-08-08T07:07:38.535204+00:00",
   "notes": [
     {
       "bug": null,
-      "created": "2017-07-14T20:12:30.903000+00:00",
+      "created": "2017-07-14T20:12:30.903688+00:00",
       "fixed_in_release": {
         "channel": "Beta",
         "is_public": true,
@@ -19,7 +19,7 @@
       },
       "id": 787173,
       "is_public": true,
-      "modified": "2017-08-07T20:35:19.251000+00:00",
+      "modified": "2017-08-07T20:35:19.251545+00:00",
       "note": "In general, date/time display will follow the application locale. That means that for example the English-US version will display English-US date/time formats and the German version will display German date/time formats.\r\n\r\nDate/time display **can be adjusted in the operating system settings** as long as the language used in by the OS matches the language of the application.\r\n\r\nFor example an English-US version will respect settings for any English locale, like English-United Kingdom, English-Australia or English-India. A French version will respect settings for any French locale, like France or Canada.\r\n\r\nFurther improvements are scheduled for version 56 beta.",
       "sort_num": 0,
       "tag": "Changed"

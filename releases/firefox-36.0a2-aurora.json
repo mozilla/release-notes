@@ -67,26 +67,6 @@
       "tag": "HTML5"
     },
     {
-      "bug": 645416,
-      "created": "2014-07-17T07:38:48+00:00",
-      "id": 785650,
-      "is_public": true,
-      "modified": "2015-03-26T15:55:21+00:00",
-      "note": "Support for the [ECMAScript 6 Symbol][1] data type added\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol\r\n",
-      "sort_num": 0,
-      "tag": "HTML5"
-    },
-    {
-      "bug": 504553,
-      "created": "2014-10-17T12:27:04+00:00",
-      "id": 785761,
-      "is_public": true,
-      "modified": "2015-05-14T23:51:43+00:00",
-      "note": "WebSocket now available in Web Workers",
-      "sort_num": 0,
-      "tag": "HTML5"
-    },
-    {
       "bug": 475891,
       "created": "2014-12-03T00:13:24+00:00",
       "id": 785850,
@@ -137,12 +117,12 @@
       "tag": "HTML5"
     },
     {
-      "bug": 903457,
-      "created": "2014-12-03T00:41:59+00:00",
-      "id": 785857,
+      "bug": 645416,
+      "created": "2014-07-17T07:38:48+00:00",
+      "id": 785650,
       "is_public": true,
-      "modified": "2015-03-26T15:55:32+00:00",
-      "note": "[Improved ES6 generators][1] for better performance\r\n\r\n\r\n  [1]: https://wingolog.org/archives/2014/11/14/generators-in-firefox-now-twenty-two-times-faster",
+      "modified": "2015-03-26T15:55:21+00:00",
+      "note": "Support for the [ECMAScript 6 Symbol][1] data type added\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol\r\n",
       "sort_num": 0,
       "tag": "HTML5"
     },
@@ -167,14 +147,24 @@
       "tag": "HTML5"
     },
     {
-      "bug": 1064737,
-      "created": "2014-12-02T22:20:46+00:00",
-      "id": 785844,
+      "bug": 903457,
+      "created": "2014-12-03T00:41:59+00:00",
+      "id": 785857,
       "is_public": true,
-      "modified": "2015-01-12T17:51:46+00:00",
-      "note": "WOFF2 fonts are now supported (on Aurora and Nightly)",
+      "modified": "2015-03-26T15:55:32+00:00",
+      "note": "[Improved ES6 generators][1] for better performance\r\n\r\n\r\n  [1]: https://wingolog.org/archives/2014/11/14/generators-in-firefox-now-twenty-two-times-faster",
       "sort_num": 0,
-      "tag": "Developer"
+      "tag": "HTML5"
+    },
+    {
+      "bug": 504553,
+      "created": "2014-10-17T12:27:04+00:00",
+      "id": 785761,
+      "is_public": true,
+      "modified": "2015-05-14T23:51:43+00:00",
+      "note": "WebSocket now available in Web Workers",
+      "sort_num": 0,
+      "tag": "HTML5"
     },
     {
       "bug": 583083,
@@ -203,6 +193,16 @@
       "is_public": true,
       "modified": "2015-03-21T03:15:59+00:00",
       "note": "Inspector: More [paste options][1] in markup view\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector/How_to/Examine_and_edit_HTML#Element_popup_menu",
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
+      "bug": 1064737,
+      "created": "2014-12-02T22:20:46+00:00",
+      "id": 785844,
+      "is_public": true,
+      "modified": "2015-01-12T17:51:46+00:00",
+      "note": "WOFF2 fonts are now supported (on Aurora and Nightly)",
       "sort_num": 0,
       "tag": "Developer"
     },

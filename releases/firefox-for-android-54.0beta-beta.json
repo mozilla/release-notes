@@ -2,61 +2,43 @@
   "bug_list": "",
   "bug_search_url": "",
   "channel": "Beta",
-  "created": "2017-04-14T08:11:54.284000+00:00",
+  "created": "2017-04-14T08:11:54.284712+00:00",
   "is_public": true,
-  "modified": "2017-04-21T14:13:33.087000+00:00",
+  "modified": "2017-04-21T14:13:33.087945+00:00",
   "notes": [
     {
       "bug": 1355190,
-      "created": "2017-04-14T08:13:25.999000+00:00",
+      "created": "2017-04-14T08:13:25.999386+00:00",
       "id": 787042,
       "is_public": true,
-      "modified": "2017-06-28T18:14:05.248000+00:00",
+      "modified": "2017-06-28T18:14:05.248401+00:00",
       "note": "Add Bulgarian (bg) and Kabyle (kab) locales",
       "sort_num": 0,
       "tag": "New"
     },
     {
       "bug": 1257777,
-      "created": "2017-04-14T08:14:15.903000+00:00",
+      "created": "2017-04-14T08:14:15.903249+00:00",
       "id": 787043,
       "is_public": true,
-      "modified": "2017-06-12T03:28:52.793000+00:00",
+      "modified": "2017-06-12T03:28:52.793692+00:00",
       "note": "More reliable audio and video playback in the browser",
       "sort_num": 0,
       "tag": "Changed"
     },
     {
       "bug": 1291821,
-      "created": "2017-04-18T03:08:28.820000+00:00",
+      "created": "2017-04-18T03:08:28.820663+00:00",
       "id": 787046,
       "is_public": true,
-      "modified": "2017-06-28T18:14:12.045000+00:00",
+      "modified": "2017-06-28T18:14:12.045570+00:00",
       "note": "Improved bookmarks sync performance",
       "sort_num": 0,
       "tag": "Changed"
     },
     {
-      "bug": null,
-      "created": "2017-03-10T21:53:27.009000+00:00",
-      "fixed_in_release": {
-        "channel": "Aurora",
-        "is_public": true,
-        "product": "Firefox for Android",
-        "slug": "firefox-for-android-54.0a2-aurora",
-        "title": "Firefox for Android 54.0a2 Aurora",
-        "version": "54.0a2"
-      },
-      "id": 787006,
-      "is_public": true,
-      "modified": "2017-06-28T18:13:54.718000+00:00",
-      "note": "Fixed formatting for right-to-left languages, including formatting of preference names in about:config",
-      "sort_num": 0,
-      "tag": "Fixed"
-    },
-    {
       "bug": 1237956,
-      "created": "2017-03-10T21:54:19.630000+00:00",
+      "created": "2017-03-10T21:54:19.630620+00:00",
       "fixed_in_release": {
         "channel": "Aurora",
         "is_public": true,
@@ -67,8 +49,26 @@
       },
       "id": 787007,
       "is_public": true,
-      "modified": "2017-06-12T03:31:11.770000+00:00",
+      "modified": "2017-06-12T03:31:11.770798+00:00",
       "note": "File names correctly preserved on upload",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2017-03-10T21:53:27.009933+00:00",
+      "fixed_in_release": {
+        "channel": "Aurora",
+        "is_public": true,
+        "product": "Firefox for Android",
+        "slug": "firefox-for-android-54.0a2-aurora",
+        "title": "Firefox for Android 54.0a2 Aurora",
+        "version": "54.0a2"
+      },
+      "id": 787006,
+      "is_public": true,
+      "modified": "2017-06-28T18:13:54.718701+00:00",
+      "note": "Fixed formatting for right-to-left languages, including formatting of preference names in about:config",
       "sort_num": 0,
       "tag": "Fixed"
     }

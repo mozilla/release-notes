@@ -47,6 +47,16 @@
       "tag": "New"
     },
     {
+      "bug": 407059,
+      "created": "2014-05-26T09:18:40+00:00",
+      "id": 785596,
+      "is_public": true,
+      "modified": "2014-07-21T00:01:42+00:00",
+      "note": "Partial implementation of the <a href=\"http://mpeg.chiariglione.org/standards/mpeg-4/open-font-format/text-isoiec-cd-14496-22-3rd-edition\">OpenType MATH table</a> (section 6.3.6) see <a href=\"https://developer.mozilla.org/en-US/docs/Mozilla/MathML_Project/Fonts\">documentation about mathematical fonts</a> and the <a href=\"https://developer.mozilla.org/en-US/docs/Mozilla/MathML_Project/MathML_Torture_Test\">MathML Torture Test</a> for details",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": null,
       "created": "2014-04-09T07:51:51+00:00",
       "id": 785546,
@@ -63,16 +73,6 @@
       "is_public": true,
       "modified": "2014-07-11T07:24:35+00:00",
       "note": "mozilla::pkix as default certificate verifier ([learn more][1])\r\n\r\n\r\n  [1]: https://blog.mozilla.org/security/2014/04/24/exciting-updates-to-certificate-verification-in-gecko/",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
-      "bug": 407059,
-      "created": "2014-05-26T09:18:40+00:00",
-      "id": 785596,
-      "is_public": true,
-      "modified": "2014-07-21T00:01:42+00:00",
-      "note": "Partial implementation of the <a href=\"http://mpeg.chiariglione.org/standards/mpeg-4/open-font-format/text-isoiec-cd-14496-22-3rd-edition\">OpenType MATH table</a> (section 6.3.6) see <a href=\"https://developer.mozilla.org/en-US/docs/Mozilla/MathML_Project/Fonts\">documentation about mathematical fonts</a> and the <a href=\"https://developer.mozilla.org/en-US/docs/Mozilla/MathML_Project/MathML_Torture_Test\">MathML Torture Test</a> for details",
       "sort_num": 0,
       "tag": "New"
     },
@@ -117,16 +117,6 @@
       "tag": "HTML5"
     },
     {
-      "bug": 990220,
-      "created": "2014-04-30T05:22:23+00:00",
-      "id": 785570,
-      "is_public": true,
-      "modified": "2014-07-16T07:24:17+00:00",
-      "note": "navigator.sendBeacon enabled by default ([learn more][1])\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/navigator.sendBeacon",
-      "sort_num": 0,
-      "tag": "Developer"
-    },
-    {
       "bug": 911147,
       "created": "2014-04-30T10:47:28+00:00",
       "id": 785572,
@@ -153,6 +143,16 @@
       "is_public": true,
       "modified": "2014-07-11T07:24:35+00:00",
       "note": "CSP 1.1 nonce-source and hash-source enabled by default",
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
+      "bug": 990220,
+      "created": "2014-04-30T05:22:23+00:00",
+      "id": 785570,
+      "is_public": true,
+      "modified": "2014-07-16T07:24:17+00:00",
+      "note": "navigator.sendBeacon enabled by default ([learn more][1])\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/navigator.sendBeacon",
       "sort_num": 0,
       "tag": "Developer"
     },

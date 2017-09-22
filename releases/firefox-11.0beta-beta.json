@@ -109,16 +109,6 @@
     {
       "bug": null,
       "created": "2013-11-25T00:24:50+00:00",
-      "id": 45,
-      "is_public": true,
-      "modified": "2014-04-23T10:53:35+00:00",
-      "note": "SPDY protocol support for faster page loads is <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=528288#c174\">now testable</a>",
-      "sort_num": 0,
-      "tag": "Developer"
-    },
-    {
-      "bug": null,
-      "created": "2013-11-25T00:24:50+00:00",
       "id": 47,
       "is_public": true,
       "modified": "2014-04-23T10:53:35+00:00",
@@ -143,6 +133,16 @@
       "is_public": true,
       "modified": "2014-04-23T10:53:35+00:00",
       "note": "Websockets has now been unprefixed",
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
+      "bug": null,
+      "created": "2013-11-25T00:24:50+00:00",
+      "id": 45,
+      "is_public": true,
+      "modified": "2014-04-23T10:53:35+00:00",
+      "note": "SPDY protocol support for faster page loads is <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=528288#c174\">now testable</a>",
       "sort_num": 0,
       "tag": "Developer"
     },

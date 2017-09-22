@@ -2,57 +2,57 @@
   "bug_list": "",
   "bug_search_url": "https://bugzilla.mozilla.org/buglist.cgi?f1=cf_status_thunderbird_esr45&list_id=13087082&o1=equals&o2=equals&query_format=advanced&f2=cf_tracking_thunderbird_esr45&v1=fixed&v2=47%2B",
   "channel": "Release",
-  "created": "2016-06-27T14:51:17.948000+00:00",
+  "created": "2016-06-27T14:51:17.948798+00:00",
   "is_public": true,
-  "modified": "2016-07-01T20:22:18.753000+00:00",
+  "modified": "2016-07-01T20:22:18.753622+00:00",
   "notes": [
     {
       "bug": null,
-      "created": "2016-07-01T20:10:08.182000+00:00",
+      "created": "2016-07-01T20:10:08.182227+00:00",
       "id": 786735,
       "is_public": true,
-      "modified": "2016-07-01T20:10:08.489000+00:00",
+      "modified": "2016-07-01T20:10:08.489773+00:00",
       "note": "Various [security fixes][1] \r\n\r\n[1]: https://www.mozilla.org/security/known-vulnerabilities/thunderbird/#thunderbird45.2",
       "sort_num": 0,
       "tag": ""
     },
     {
       "bug": 1249153,
-      "created": "2016-06-08T23:32:43.952000+00:00",
+      "created": "2016-06-08T23:32:43.952868+00:00",
       "id": 786721,
       "is_public": true,
-      "modified": "2016-06-27T15:17:09.003000+00:00",
+      "modified": "2016-06-27T15:17:09.003933+00:00",
       "note": "Dragging and dropping of contacts from the contact list onto an addressbook while All Addressbooks is selected moved only one contact",
       "sort_num": 0,
       "tag": "Fixed"
     },
     {
-      "bug": 1174485,
-      "created": "2016-06-08T23:36:52.713000+00:00",
-      "id": 786722,
-      "is_public": true,
-      "modified": "2016-06-27T15:11:56.417000+00:00",
-      "note": "Falsely reported not enough disk space during compacting",
-      "sort_num": 0,
-      "tag": "Fixed"
-    },
-    {
       "bug": 1268856,
-      "created": "2016-06-13T19:15:56.186000+00:00",
+      "created": "2016-06-13T19:15:56.186072+00:00",
       "id": 786726,
       "is_public": true,
-      "modified": "2016-06-27T15:25:43.395000+00:00",
+      "modified": "2016-06-27T15:25:43.395292+00:00",
       "note": "Invitations to events could not be printed.",
       "sort_num": 0,
       "tag": "Fixed"
     },
     {
       "bug": 1274242,
-      "created": "2016-06-13T19:30:47.526000+00:00",
+      "created": "2016-06-13T19:30:47.526530+00:00",
       "id": 786730,
       "is_public": true,
-      "modified": "2016-06-27T15:08:34.433000+00:00",
+      "modified": "2016-06-27T15:08:34.433760+00:00",
       "note": "Links were not always detected properly in the message body (terminated early on \"|\", some long links not detected at all)",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1174485,
+      "created": "2016-06-08T23:36:52.713429+00:00",
+      "id": 786722,
+      "is_public": true,
+      "modified": "2016-06-27T15:11:56.417373+00:00",
+      "note": "Falsely reported not enough disk space during compacting",
       "sort_num": 0,
       "tag": "Fixed"
     }

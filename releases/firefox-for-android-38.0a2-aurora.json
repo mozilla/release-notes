@@ -38,6 +38,16 @@
     },
     {
       "bug": null,
+      "created": "2015-05-07T09:13:11+00:00",
+      "id": 786069,
+      "is_public": true,
+      "modified": "2015-05-14T23:51:55+00:00",
+      "note": "Add a website to your Reading List with the \"Add to Reading List\" button in the overflow menu",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
       "created": "2015-05-07T09:09:41+00:00",
       "id": 786067,
       "is_public": true,
@@ -53,16 +63,6 @@
       "is_public": true,
       "modified": "2015-05-14T23:51:53+00:00",
       "note": "Send a tab to another connected device with the 'Send to device' option in the \"share\" menu",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
-      "bug": null,
-      "created": "2015-05-07T09:13:11+00:00",
-      "id": 786069,
-      "is_public": true,
-      "modified": "2015-05-14T23:51:55+00:00",
-      "note": "Add a website to your Reading List with the \"Add to Reading List\" button in the overflow menu",
       "sort_num": 0,
       "tag": "New"
     },
@@ -117,16 +117,6 @@
       "tag": "Changed"
     },
     {
-      "bug": 966439,
-      "created": "2015-02-20T00:16:54+00:00",
-      "id": 785938,
-      "is_public": true,
-      "modified": "2015-05-14T23:51:41+00:00",
-      "note": "[BroadcastChannel API implemented][1]\r\n\r\n[1]: https://hacks.mozilla.org/2015/02/broadcastchannel-api-in-firefox-38/",
-      "sort_num": 0,
-      "tag": "HTML5"
-    },
-    {
       "bug": 1017875,
       "created": "2015-02-20T00:27:07+00:00",
       "id": 785940,
@@ -143,6 +133,16 @@
       "is_public": true,
       "modified": "2015-05-14T23:51:38+00:00",
       "note": "Implemented DOM3 Events KeyboardEvent.code",
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 966439,
+      "created": "2015-02-20T00:16:54+00:00",
+      "id": 785938,
+      "is_public": true,
+      "modified": "2015-05-14T23:51:41+00:00",
+      "note": "[BroadcastChannel API implemented][1]\r\n\r\n[1]: https://hacks.mozilla.org/2015/02/broadcastchannel-api-in-firefox-38/",
       "sort_num": 0,
       "tag": "HTML5"
     }

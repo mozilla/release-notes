@@ -2,26 +2,26 @@
   "bug_list": "",
   "bug_search_url": "",
   "channel": "ESR",
-  "created": "2017-06-09T19:59:13.600000+00:00",
+  "created": "2017-06-09T19:59:13.600168+00:00",
   "is_public": true,
-  "modified": "2017-06-13T22:43:25.249000+00:00",
+  "modified": "2017-06-13T22:43:25.249654+00:00",
   "notes": [
     {
       "bug": 1352348,
-      "created": "2017-06-09T20:27:40.922000+00:00",
+      "created": "2017-06-09T20:27:40.922990+00:00",
       "id": 787124,
       "is_public": true,
-      "modified": "2017-08-07T03:55:01.562000+00:00",
+      "modified": "2017-08-07T03:55:01.562269+00:00",
       "note": "Improved file type recognition on Windows",
       "sort_num": 0,
       "tag": "Changed"
     },
     {
       "bug": null,
-      "created": "2017-06-09T20:03:32.438000+00:00",
+      "created": "2017-06-09T20:03:32.438632+00:00",
       "id": 787123,
       "is_public": true,
-      "modified": "2017-08-07T03:55:52.185000+00:00",
+      "modified": "2017-08-07T03:55:52.185964+00:00",
       "note": "Various [security fixes][1]\r\n\r\n[1]: https://www.mozilla.org/en-US/security/known-vulnerabilities/firefox-esr/#firefoxesr52.2",
       "sort_num": 0,
       "tag": "Fixed"

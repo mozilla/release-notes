@@ -77,36 +77,6 @@
       "tag": "HTML5"
     },
     {
-      "bug": 645416,
-      "created": "2014-07-17T07:38:48+00:00",
-      "id": 785650,
-      "is_public": true,
-      "modified": "2015-03-26T15:55:21+00:00",
-      "note": "Support for the [ECMAScript 6 Symbol][1] data type added\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol\r\n",
-      "sort_num": 0,
-      "tag": "HTML5"
-    },
-    {
-      "bug": 475891,
-      "created": "2014-12-03T00:13:24+00:00",
-      "id": 785850,
-      "is_public": true,
-      "modified": "2015-03-26T15:55:36+00:00",
-      "note": "[unicode-range CSS descriptor][1] implemented\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/unicode-range",
-      "sort_num": 0,
-      "tag": "HTML5"
-    },
-    {
-      "bug": 624647,
-      "created": "2014-12-03T00:29:58+00:00",
-      "id": 785853,
-      "is_public": true,
-      "modified": "2015-03-26T15:55:37+00:00",
-      "note": "[object-fit][1] and [object-position][2] implemented.<br />Defines how and where the content of a replaced element is displayed\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/object-fit\r\n  [2]: https://developer.mozilla.org/en-US/docs/Web/CSS/object-position\r\n",
-      "sort_num": 0,
-      "tag": "HTML5"
-    },
-    {
       "bug": 1091885,
       "created": "2014-12-03T00:32:09+00:00",
       "id": 785854,
@@ -137,12 +107,42 @@
       "tag": "HTML5"
     },
     {
+      "bug": 645416,
+      "created": "2014-07-17T07:38:48+00:00",
+      "id": 785650,
+      "is_public": true,
+      "modified": "2015-03-26T15:55:21+00:00",
+      "note": "Support for the [ECMAScript 6 Symbol][1] data type added\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol\r\n",
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
       "bug": 611388,
       "created": "2015-01-08T12:18:18+00:00",
       "id": 785869,
       "is_public": true,
       "modified": "2015-03-26T15:55:32+00:00",
       "note": "Changed JavaScript ['const' semantics][1] to conform better to the ES6 specification.<br />The const declaration is now block-scoped and requires an initializer. It also can not be redeclared anymore.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/const",
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 475891,
+      "created": "2014-12-03T00:13:24+00:00",
+      "id": 785850,
+      "is_public": true,
+      "modified": "2015-03-26T15:55:36+00:00",
+      "note": "[unicode-range CSS descriptor][1] implemented\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/unicode-range",
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 624647,
+      "created": "2014-12-03T00:29:58+00:00",
+      "id": 785853,
+      "is_public": true,
+      "modified": "2015-03-26T15:55:37+00:00",
+      "note": "[object-fit][1] and [object-position][2] implemented.<br />Defines how and where the content of a replaced element is displayed\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/object-fit\r\n  [2]: https://developer.mozilla.org/en-US/docs/Web/CSS/object-position\r\n",
       "sort_num": 0,
       "tag": "HTML5"
     },

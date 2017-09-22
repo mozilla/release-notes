@@ -37,16 +37,6 @@
       "tag": "New"
     },
     {
-      "bug": 833719,
-      "created": "2013-11-25T00:24:50+00:00",
-      "id": 292,
-      "is_public": true,
-      "modified": "2014-04-23T10:53:37+00:00",
-      "note": "Some function keys may not work when pressed",
-      "sort_num": 0,
-      "tag": ""
-    },
-    {
       "bug": 847627,
       "created": "2013-11-25T00:24:50+00:00",
       "fixed_in_release": {
@@ -65,6 +55,16 @@
       "tag": ""
     },
     {
+      "bug": 833719,
+      "created": "2013-11-25T00:24:50+00:00",
+      "id": 292,
+      "is_public": true,
+      "modified": "2014-04-23T10:53:37+00:00",
+      "note": "Some function keys may not work when pressed",
+      "sort_num": 0,
+      "tag": ""
+    },
+    {
       "bug": null,
       "created": "2013-11-25T00:24:44+00:00",
       "id": 300,
@@ -72,26 +72,6 @@
       "modified": "2014-04-23T10:53:37+00:00",
       "note": "Ability to restore removed thumbnails on New tab Page",
       "sort_num": 500,
-      "tag": "Changed"
-    },
-    {
-      "bug": null,
-      "created": "2013-11-25T00:24:50+00:00",
-      "id": 295,
-      "is_public": true,
-      "modified": "2014-04-23T10:53:37+00:00",
-      "note": "Removed <a href=\"https://developer.mozilla.org/en-US/docs/E4X\">E4X</a> support from Spidermonkey",
-      "sort_num": 0,
-      "tag": "Changed"
-    },
-    {
-      "bug": null,
-      "created": "2013-11-25T00:24:50+00:00",
-      "id": 307,
-      "is_public": true,
-      "modified": "2014-04-23T10:53:37+00:00",
-      "note": "Graphics related performance improvements (<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=809821\">bug 809821</a>)",
-      "sort_num": 0,
       "tag": "Changed"
     },
     {
@@ -121,6 +101,26 @@
       "is_public": true,
       "modified": "2014-04-23T10:53:37+00:00",
       "note": "CSS -moz-user-select:none selection changed to improve compatibility with -webkit-user-select:none (<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=816298\">bug 816298</a>)",
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
+      "bug": null,
+      "created": "2013-11-25T00:24:50+00:00",
+      "id": 295,
+      "is_public": true,
+      "modified": "2014-04-23T10:53:37+00:00",
+      "note": "Removed <a href=\"https://developer.mozilla.org/en-US/docs/E4X\">E4X</a> support from Spidermonkey",
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
+      "bug": null,
+      "created": "2013-11-25T00:24:50+00:00",
+      "id": 307,
+      "is_public": true,
+      "modified": "2014-04-23T10:53:37+00:00",
+      "note": "Graphics related performance improvements (<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=809821\">bug 809821</a>)",
       "sort_num": 0,
       "tag": "Changed"
     },

@@ -67,16 +67,6 @@
       "tag": "Changed"
     },
     {
-      "bug": 645416,
-      "created": "2014-07-17T07:38:48+00:00",
-      "id": 785650,
-      "is_public": true,
-      "modified": "2015-03-26T15:55:21+00:00",
-      "note": "Support for the [ECMAScript 6 Symbol][1] data type added\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol\r\n",
-      "sort_num": 0,
-      "tag": "HTML5"
-    },
-    {
       "bug": 475891,
       "created": "2014-12-03T00:13:24+00:00",
       "id": 785850,
@@ -137,14 +127,14 @@
       "tag": "HTML5"
     },
     {
-      "bug": null,
-      "created": "2013-11-25T00:24:50+00:00",
-      "id": 161,
+      "bug": 645416,
+      "created": "2014-07-17T07:38:48+00:00",
+      "id": 785650,
       "is_public": true,
-      "modified": "2015-03-26T15:55:42+00:00",
-      "note": "Various <a href=\"https://www.mozilla.org/security/known-vulnerabilities/firefox.html\">security fixes</a>",
+      "modified": "2015-03-26T15:55:21+00:00",
+      "note": "Support for the [ECMAScript 6 Symbol][1] data type added\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol\r\n",
       "sort_num": 0,
-      "tag": "Fixed"
+      "tag": "HTML5"
     },
     {
       "bug": 591600,
@@ -161,6 +151,16 @@
       "is_public": true,
       "modified": "2015-03-26T15:55:48+00:00",
       "note": "[CSS gradients][1] work on premultiplied colors\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/gradient",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2013-11-25T00:24:50+00:00",
+      "id": 161,
+      "is_public": true,
+      "modified": "2015-03-26T15:55:42+00:00",
+      "note": "Various <a href=\"https://www.mozilla.org/security/known-vulnerabilities/firefox.html\">security fixes</a>",
       "sort_num": 0,
       "tag": "Fixed"
     },
@@ -201,12 +201,20 @@
       "tag": "Fixed"
     },
     {
-      "bug": 1131084,
-      "created": "2015-02-16T12:51:52+00:00",
-      "id": 785927,
+      "bug": 1128747,
+      "created": "2015-02-23T12:40:31+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": true,
+        "product": "Firefox",
+        "slug": "firefox-37.0-release",
+        "title": "Firefox 37.0 Release",
+        "version": "37.0"
+      },
+      "id": 785948,
       "is_public": true,
-      "modified": "2015-04-14T15:21:21+00:00",
-      "note": "January Chromecast firmware update broke tab mirroring ([1131084][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/1131084",
+      "modified": "2015-03-31T21:19:38+00:00",
+      "note": "Style Editor: Extra white space appearing above the editor for a sourcemapped scss file ([1128747][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1128747",
       "sort_num": 0,
       "tag": "Known"
     },
@@ -229,20 +237,12 @@
       "tag": "Known"
     },
     {
-      "bug": 1128747,
-      "created": "2015-02-23T12:40:31+00:00",
-      "fixed_in_release": {
-        "channel": "Release",
-        "is_public": true,
-        "product": "Firefox",
-        "slug": "firefox-37.0-release",
-        "title": "Firefox 37.0 Release",
-        "version": "37.0"
-      },
-      "id": 785948,
+      "bug": 1131084,
+      "created": "2015-02-16T12:51:52+00:00",
+      "id": 785927,
       "is_public": true,
-      "modified": "2015-03-31T21:19:38+00:00",
-      "note": "Style Editor: Extra white space appearing above the editor for a sourcemapped scss file ([1128747][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1128747",
+      "modified": "2015-04-14T15:21:21+00:00",
+      "note": "January Chromecast firmware update broke tab mirroring ([1131084][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/1131084",
       "sort_num": 0,
       "tag": "Known"
     }

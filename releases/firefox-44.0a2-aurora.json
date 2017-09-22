@@ -11,7 +11,7 @@
       "created": "2015-11-03T14:24:05+00:00",
       "id": 786355,
       "is_public": true,
-      "modified": "2016-01-21T20:51:49.831000+00:00",
+      "modified": "2016-01-21T20:51:49.831889+00:00",
       "note": "Improved warning pages for certificate errors and untrusted connections",
       "sort_num": 0,
       "tag": "New"
@@ -21,27 +21,17 @@
       "created": "2015-11-03T14:24:57+00:00",
       "id": 786356,
       "is_public": true,
-      "modified": "2016-01-29T18:06:49.513000+00:00",
+      "modified": "2016-01-29T18:06:49.513160+00:00",
       "note": "Firefox has removed support for the RC4 cipher",
       "sort_num": 0,
       "tag": "Changed"
-    },
-    {
-      "bug": 1025778,
-      "created": "2015-11-02T09:28:26+00:00",
-      "id": 786345,
-      "is_public": true,
-      "modified": "2016-01-21T20:51:49.831000+00:00",
-      "note": "Right click on a logged object in the console to store it as a global variable on the page",
-      "sort_num": 0,
-      "tag": "Developer"
     },
     {
       "bug": 1194146,
       "created": "2015-11-02T11:15:40+00:00",
       "id": 786349,
       "is_public": true,
-      "modified": "2016-01-21T20:51:49.831000+00:00",
+      "modified": "2016-01-21T20:51:49.831889+00:00",
       "note": "Visual tools for Animation:\r\n\r\n -  View/Edit CSS animation keyframe rules directly in the inspector\r\n -  Visually modify the cubic-bezier curve that drives the way animations progress through time\r\n -  [Discover and scrub through all CSS animations][1] and transitions playing on the page\r\n - Learn more: http://devtoolschallenger.com/\r\n\r\n\r\n  [1]: https://www.youtube.com/watch?v=T2jykykN3yc",
       "sort_num": 0,
       "tag": "Developer"
@@ -51,7 +41,7 @@
       "created": "2015-11-02T15:07:35+00:00",
       "id": 786351,
       "is_public": true,
-      "modified": "2016-01-21T20:51:49.831000+00:00",
+      "modified": "2016-01-21T20:51:49.831889+00:00",
       "note": "Visual tools for Layout and Styles:\r\n\r\n - Display rulers along the viewport to verify size and position and use the measurement tool to easily detect spacing and alignment problems\r\n - [Use CSS filters to preview and create][1] real-time effects like drop-shadows, sepia, etc\r\n - Learn more: http://devtoolschallenger.com/\r\n\r\n\r\n  [1]: https://www.youtube.com/watch?v=t3NKmmWfklU",
       "sort_num": 0,
       "tag": "Developer"
@@ -61,7 +51,7 @@
       "created": "2015-11-02T17:15:06+00:00",
       "id": 786352,
       "is_public": true,
-      "modified": "2016-01-21T20:51:49.831000+00:00",
+      "modified": "2016-01-21T20:51:49.831889+00:00",
       "note": "New memory tool for inspecting the memory heap",
       "sort_num": 0,
       "tag": "Developer"
@@ -71,7 +61,7 @@
       "created": "2015-11-03T09:44:09+00:00",
       "id": 786353,
       "is_public": true,
-      "modified": "2016-01-21T20:51:49.831000+00:00",
+      "modified": "2016-01-21T20:51:49.831889+00:00",
       "note": "[Service Workers API][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/API/Service_Worker_API/Using_Service_Workers",
       "sort_num": 0,
       "tag": "Developer"
@@ -81,8 +71,18 @@
       "created": "2015-11-03T10:30:11+00:00",
       "id": 786354,
       "is_public": true,
-      "modified": "2016-01-21T20:51:49.831000+00:00",
+      "modified": "2016-01-21T20:51:49.831889+00:00",
       "note": "Built-in JSON reader to intuitively view, search, copy and save data without extensions",
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
+      "bug": 1025778,
+      "created": "2015-11-02T09:28:26+00:00",
+      "id": 786345,
+      "is_public": true,
+      "modified": "2016-01-21T20:51:49.831889+00:00",
+      "note": "Right click on a logged object in the console to store it as a global variable on the page",
       "sort_num": 0,
       "tag": "Developer"
     },
@@ -91,7 +91,7 @@
       "created": "2015-08-13T12:35:54+00:00",
       "id": 786235,
       "is_public": true,
-      "modified": "2016-01-25T18:50:12.034000+00:00",
+      "modified": "2016-01-25T18:50:12.034088+00:00",
       "note": "[Add-on signing][1] enforcement\r\n\r\n\r\n  [1]: https://wiki.mozilla.org/Addons/Extension_Signing",
       "sort_num": -1,
       "tag": "Developer"

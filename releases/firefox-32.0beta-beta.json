@@ -37,24 +37,6 @@
       "tag": "New"
     },
     {
-      "bug": 998081,
-      "created": "2014-03-05T02:40:36+00:00",
-      "fixed_in_release": {
-        "channel": "Aurora",
-        "is_public": true,
-        "product": "Firefox",
-        "slug": "firefox-30.0a2-aurora",
-        "title": "Firefox 30.0a2 Aurora",
-        "version": "30.0a2"
-      },
-      "id": 785457,
-      "is_public": true,
-      "modified": "2014-09-23T08:43:43+00:00",
-      "note": "View historical use information for logins stored in password manager",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
       "bug": 257061,
       "created": "2014-05-07T02:09:59+00:00",
       "id": 785582,
@@ -71,6 +53,24 @@
       "is_public": true,
       "modified": "2014-11-06T23:39:16+00:00",
       "note": "Support for connecting to HTTP proxy over HTTPS",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 998081,
+      "created": "2014-03-05T02:40:36+00:00",
+      "fixed_in_release": {
+        "channel": "Aurora",
+        "is_public": true,
+        "product": "Firefox",
+        "slug": "firefox-30.0a2-aurora",
+        "title": "Firefox 30.0a2 Aurora",
+        "version": "30.0a2"
+      },
+      "id": 785457,
+      "is_public": true,
+      "modified": "2014-09-23T08:43:43+00:00",
+      "note": "View historical use information for logins stored in password manager",
       "sort_num": 0,
       "tag": "New"
     },
@@ -93,26 +93,6 @@
       "note": "Performance improvements to Password Manager and Add-on Manager",
       "sort_num": 0,
       "tag": "Changed"
-    },
-    {
-      "bug": 1004579,
-      "created": "2013-11-25T00:24:42+00:00",
-      "id": 93,
-      "is_public": true,
-      "modified": "2014-09-23T08:43:43+00:00",
-      "note": "drawFocusIfNeeded enabled by default",
-      "sort_num": 0,
-      "tag": "HTML5"
-    },
-    {
-      "bug": 934423,
-      "created": "2014-03-04T10:07:48+00:00",
-      "id": 785453,
-      "is_public": true,
-      "modified": "2014-09-23T08:43:43+00:00",
-      "note": "ECMAScript 6 built-in method [Array#copyWithin implemented][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/Firefox/Releases/32#JavaScript",
-      "sort_num": 0,
-      "tag": "HTML5"
     },
     {
       "bug": 916315,
@@ -141,6 +121,16 @@
       "is_public": true,
       "modified": "2014-09-23T08:43:43+00:00",
       "note": "New Array built-in: [Array.from()][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/from",
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 1004579,
+      "created": "2013-11-25T00:24:42+00:00",
+      "id": 93,
+      "is_public": true,
+      "modified": "2014-09-23T08:43:43+00:00",
+      "note": "drawFocusIfNeeded enabled by default",
       "sort_num": 0,
       "tag": "HTML5"
     },
@@ -175,6 +165,16 @@
       "tag": "HTML5"
     },
     {
+      "bug": 934423,
+      "created": "2014-03-04T10:07:48+00:00",
+      "id": 785453,
+      "is_public": true,
+      "modified": "2014-09-23T08:43:43+00:00",
+      "note": "ECMAScript 6 built-in method [Array#copyWithin implemented][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/Firefox/Releases/32#JavaScript",
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
       "bug": 837188,
       "created": "2014-03-26T16:36:33+00:00",
       "id": 785536,
@@ -205,22 +205,22 @@
       "tag": "Developer"
     },
     {
-      "bug": 980501,
-      "created": "2014-07-17T07:50:16+00:00",
-      "id": 785652,
-      "is_public": true,
-      "modified": "2014-09-23T08:43:43+00:00",
-      "note": "New [Web Audio Editor][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Web_Audio_Editor",
-      "sort_num": 0,
-      "tag": "Developer"
-    },
-    {
       "bug": null,
       "created": "2014-07-17T15:10:48+00:00",
       "id": 785663,
       "is_public": true,
       "modified": "2014-09-23T08:43:43+00:00",
       "note": "[Code completion][1] and [inline documentation][1] added to Scratchpad\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Scratchpad#Code_completion_and_inline_documentation",
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
+      "bug": 980501,
+      "created": "2014-07-17T07:50:16+00:00",
+      "id": 785652,
+      "is_public": true,
+      "modified": "2014-09-23T08:43:43+00:00",
+      "note": "New [Web Audio Editor][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Web_Audio_Editor",
       "sort_num": 0,
       "tag": "Developer"
     },

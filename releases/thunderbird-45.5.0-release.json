@@ -2,13 +2,13 @@
   "bug_list": "",
   "bug_search_url": "https://bugzilla.mozilla.org/buglist.cgi?list_id=13317158&o1=equals&o2=equals&v1=fixed&v2=50%2B&f1=cf_status_thunderbird_esr45&query_format=advanced&f2=cf_tracking_thunderbird_esr45",
   "channel": "Release",
-  "created": "2016-11-18T18:48:50.349000+00:00",
+  "created": "2016-11-18T18:48:50.349889+00:00",
   "is_public": true,
-  "modified": "2017-01-24T14:11:34.290000+00:00",
+  "modified": "2017-01-24T14:11:34.290172+00:00",
   "notes": [
     {
       "bug": 1192739,
-      "created": "2016-10-09T08:42:50.008000+00:00",
+      "created": "2016-10-09T08:42:50.008819+00:00",
       "fixed_in_release": {
         "channel": "Beta",
         "is_public": true,
@@ -19,24 +19,24 @@
       },
       "id": 786836,
       "is_public": true,
-      "modified": "2017-01-12T17:19:12.039000+00:00",
+      "modified": "2017-01-12T17:19:12.039057+00:00",
       "note": "**IMPORTANT:** Changed recipient address entry: Arrow-keys now copy the pop-up value to the input field. Mouse-hovered pop-up value can no longer be confirmed with tab or enter key. This restores the behavior of Thunderbird 24.",
       "sort_num": 1,
       "tag": "Changed"
     },
     {
       "bug": 1275284,
-      "created": "2016-11-18T19:18:30.483000+00:00",
+      "created": "2016-11-18T19:18:30.483286+00:00",
       "id": 786870,
       "is_public": true,
-      "modified": "2016-11-19T08:52:02.055000+00:00",
+      "modified": "2016-11-19T08:52:02.055994+00:00",
       "note": "Support changes to character limit in Twitter",
       "sort_num": 0,
       "tag": "Changed"
     },
     {
       "bug": 669073,
-      "created": "2016-10-09T08:35:42.177000+00:00",
+      "created": "2016-10-09T08:35:42.177976+00:00",
       "fixed_in_release": {
         "channel": "Beta",
         "is_public": true,
@@ -47,14 +47,24 @@
       },
       "id": 786834,
       "is_public": true,
-      "modified": "2017-01-12T17:19:15.679000+00:00",
+      "modified": "2017-01-12T17:19:15.679806+00:00",
       "note": "Reply with selected text containing quote resulted in wrong quoting level indication",
       "sort_num": 5,
       "tag": "Fixed"
     },
     {
+      "bug": 1266698,
+      "created": "2016-11-18T19:04:37.896803+00:00",
+      "id": 786868,
+      "is_public": true,
+      "modified": "2016-11-18T19:05:24.093458+00:00",
+      "note": " Attempting to sort messages on the Date field whilst a quick filter is applied got stuck on sort descending",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
       "bug": 1023285,
-      "created": "2016-09-02T18:08:37.073000+00:00",
+      "created": "2016-09-02T18:08:37.073925+00:00",
       "fixed_in_release": {
         "channel": "Beta",
         "is_public": true,
@@ -65,27 +75,17 @@
       },
       "id": 786802,
       "is_public": true,
-      "modified": "2016-11-19T10:51:58.606000+00:00",
+      "modified": "2016-11-19T10:51:58.606481+00:00",
       "note": "Mail address display at header pane displayed incorrectly if the address contains UTF-8 according to RFC 6532",
       "sort_num": 0,
       "tag": "Fixed"
     },
     {
-      "bug": 1266698,
-      "created": "2016-11-18T19:04:37.896000+00:00",
-      "id": 786868,
-      "is_public": true,
-      "modified": "2016-11-18T19:05:24.093000+00:00",
-      "note": " Attempting to sort messages on the Date field whilst a quick filter is applied got stuck on sort descending",
-      "sort_num": 0,
-      "tag": "Fixed"
-    },
-    {
       "bug": 1301186,
-      "created": "2016-11-18T19:25:57.911000+00:00",
+      "created": "2016-11-18T19:25:57.911444+00:00",
       "id": 786872,
       "is_public": true,
-      "modified": "2016-11-19T08:51:16.317000+00:00",
+      "modified": "2016-11-19T08:51:16.317818+00:00",
       "note": "Email invitation might not be displayed when description contains non-ASCII characters",
       "sort_num": 0,
       "tag": "Fixed"

@@ -77,22 +77,22 @@
       "tag": "New"
     },
     {
-      "bug": 1018497,
-      "created": "2014-07-17T09:08:11+00:00",
-      "id": 785658,
-      "is_public": true,
-      "modified": "2014-11-06T23:39:16+00:00",
-      "note": "[DOMMatrix][1] interface implemented\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/DOMMatrix",
-      "sort_num": 0,
-      "tag": "HTML5"
-    },
-    {
       "bug": 966166,
       "created": "2014-08-28T06:25:31+00:00",
       "id": 785703,
       "is_public": true,
       "modified": "2014-11-06T23:39:16+00:00",
       "note": "[@counter-style rule][1] from CSS3 Counter Styles specification implemented\r\n\r\n\r\n  [1]: http://dev.w3.org/csswg/css-counter-styles/#the-counter-style-rule",
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 1018497,
+      "created": "2014-07-17T09:08:11+00:00",
+      "id": 785658,
+      "is_public": true,
+      "modified": "2014-11-06T23:39:16+00:00",
+      "note": "[DOMMatrix][1] interface implemented\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/DOMMatrix",
       "sort_num": 0,
       "tag": "HTML5"
     },
@@ -117,6 +117,24 @@
       "tag": "Fixed"
     },
     {
+      "bug": 1050832,
+      "created": "2014-08-28T04:52:53+00:00",
+      "fixed_in_release": {
+        "channel": "Beta",
+        "is_public": true,
+        "product": "Firefox",
+        "slug": "firefox-34.0beta-beta",
+        "title": "Firefox 34.0beta Beta",
+        "version": "34.0beta"
+      },
+      "id": 785693,
+      "is_public": true,
+      "modified": "2014-11-24T22:42:39+00:00",
+      "note": "MP4 videos will not play on Android L",
+      "sort_num": 0,
+      "tag": "Known"
+    },
+    {
       "bug": 237623,
       "created": "2014-07-17T08:51:57+00:00",
       "fixed_in_release": {
@@ -135,20 +153,20 @@
       "tag": "Known"
     },
     {
-      "bug": 1050832,
-      "created": "2014-08-28T04:52:53+00:00",
+      "bug": 1042889,
+      "created": "2014-10-13T15:40:12+00:00",
       "fixed_in_release": {
-        "channel": "Beta",
+        "channel": "Release",
         "is_public": true,
         "product": "Firefox",
-        "slug": "firefox-34.0beta-beta",
-        "title": "Firefox 34.0beta Beta",
-        "version": "34.0beta"
+        "slug": "firefox-33.1-release",
+        "title": "Firefox 33.1 Release",
+        "version": "33.1"
       },
-      "id": 785693,
+      "id": 785753,
       "is_public": true,
-      "modified": "2014-11-24T22:42:39+00:00",
-      "note": "MP4 videos will not play on Android L",
+      "modified": "2014-11-10T12:56:16+00:00",
+      "note": "Some certificate errors cannot be overridden ([1042889][1])\r\n\r\n\r\n  [1]: http://bugzilla.mozilla.org/1042889",
       "sort_num": 0,
       "tag": "Known"
     },
@@ -169,24 +187,6 @@
       "is_public": true,
       "modified": "2014-11-04T14:34:56+00:00",
       "note": "On Gingerbread, VP9/WEBM video artifacts: only plays on half screen",
-      "sort_num": 0,
-      "tag": "Known"
-    },
-    {
-      "bug": 1042889,
-      "created": "2014-10-13T15:40:12+00:00",
-      "fixed_in_release": {
-        "channel": "Release",
-        "is_public": true,
-        "product": "Firefox",
-        "slug": "firefox-33.1-release",
-        "title": "Firefox 33.1 Release",
-        "version": "33.1"
-      },
-      "id": 785753,
-      "is_public": true,
-      "modified": "2014-11-10T12:56:16+00:00",
-      "note": "Some certificate errors cannot be overridden ([1042889][1])\r\n\r\n\r\n  [1]: http://bugzilla.mozilla.org/1042889",
       "sort_num": 0,
       "tag": "Known"
     }

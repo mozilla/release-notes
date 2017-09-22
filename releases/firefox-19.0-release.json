@@ -7,16 +7,6 @@
   "modified": "2014-06-06T11:13:30+00:00",
   "notes": [
     {
-      "bug": 802274,
-      "created": "2013-11-25T00:24:50+00:00",
-      "id": 248,
-      "is_public": true,
-      "modified": "2014-04-23T10:53:36+00:00",
-      "note": "Starting Firefox with -private flag incorrectly claims you are not in Private Browsing mode",
-      "sort_num": 0,
-      "tag": ""
-    },
-    {
       "bug": null,
       "created": "2013-11-25T00:24:50+00:00",
       "id": 251,
@@ -53,6 +43,16 @@
       "is_public": true,
       "modified": "2014-04-23T10:53:37+00:00",
       "note": "Some function keys may not work when pressed",
+      "sort_num": 0,
+      "tag": ""
+    },
+    {
+      "bug": 802274,
+      "created": "2013-11-25T00:24:50+00:00",
+      "id": 248,
+      "is_public": true,
+      "modified": "2014-04-23T10:53:36+00:00",
+      "note": "Starting Firefox with -private flag incorrectly claims you are not in Private Browsing mode",
       "sort_num": 0,
       "tag": ""
     },

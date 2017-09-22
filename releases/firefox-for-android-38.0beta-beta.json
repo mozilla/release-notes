@@ -28,6 +28,16 @@
     },
     {
       "bug": null,
+      "created": "2015-05-07T09:13:11+00:00",
+      "id": 786069,
+      "is_public": true,
+      "modified": "2015-05-14T23:51:55+00:00",
+      "note": "Add a website to your Reading List with the \"Add to Reading List\" button in the overflow menu",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
       "created": "2015-05-07T09:09:41+00:00",
       "id": 786067,
       "is_public": true,
@@ -43,16 +53,6 @@
       "is_public": true,
       "modified": "2015-05-14T23:51:53+00:00",
       "note": "Send a tab to another connected device with the 'Send to device' option in the \"share\" menu",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
-      "bug": null,
-      "created": "2015-05-07T09:13:11+00:00",
-      "id": 786069,
-      "is_public": true,
-      "modified": "2015-05-14T23:51:55+00:00",
-      "note": "Add a website to your Reading List with the \"Add to Reading List\" button in the overflow menu",
       "sort_num": 0,
       "tag": "New"
     },
@@ -97,16 +97,6 @@
       "tag": "Changed"
     },
     {
-      "bug": 504553,
-      "created": "2014-10-17T12:27:04+00:00",
-      "id": 785761,
-      "is_public": true,
-      "modified": "2015-05-14T23:51:43+00:00",
-      "note": "WebSocket now available in Web Workers",
-      "sort_num": 0,
-      "tag": "HTML5"
-    },
-    {
       "bug": 966439,
       "created": "2015-02-20T00:16:54+00:00",
       "id": 785938,
@@ -133,6 +123,16 @@
       "is_public": true,
       "modified": "2015-05-14T23:51:38+00:00",
       "note": "Implemented DOM3 Events KeyboardEvent.code",
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 504553,
+      "created": "2014-10-17T12:27:04+00:00",
+      "id": 785761,
+      "is_public": true,
+      "modified": "2015-05-14T23:51:43+00:00",
+      "note": "WebSocket now available in Web Workers",
       "sort_num": 0,
       "tag": "HTML5"
     },

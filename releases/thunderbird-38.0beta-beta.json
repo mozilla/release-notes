@@ -71,16 +71,6 @@
       "tag": "New"
     },
     {
-      "bug": 1018589,
-      "created": "2014-11-13T07:09:04+00:00",
-      "id": 785785,
-      "is_public": true,
-      "modified": "2015-06-03T00:25:41+00:00",
-      "note": "Support Internationalized domain name URLs for RSS feeds (<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1018589\">Bug 1018589</a>)",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
       "bug": 464973,
       "created": "2015-04-01T04:22:13+00:00",
       "fixed_in_release": {
@@ -153,6 +143,16 @@
       "tag": "New"
     },
     {
+      "bug": 1018589,
+      "created": "2014-11-13T07:09:04+00:00",
+      "id": 785785,
+      "is_public": true,
+      "modified": "2015-06-03T00:25:41+00:00",
+      "note": "Support Internationalized domain name URLs for RSS feeds (<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1018589\">Bug 1018589</a>)",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 736002,
       "created": "2015-04-24T20:54:07+00:00",
       "fixed_in_release": {
@@ -169,6 +169,42 @@
       "note": "The editor for twitter should show inputtable character\r\ncount (<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=736002\">bug 736002</a>)",
       "sort_num": 0,
       "tag": "New"
+    },
+    {
+      "bug": 1120777,
+      "created": "2015-04-01T17:47:03+00:00",
+      "fixed_in_release": {
+        "channel": "Beta",
+        "is_public": true,
+        "product": "Thunderbird",
+        "slug": "thunderbird-38.0beta-beta",
+        "title": "Thunderbird 38.0beta Beta",
+        "version": "38.0beta"
+      },
+      "id": 786029,
+      "is_public": true,
+      "modified": "2015-06-03T00:25:41+00:00",
+      "note": "Make OpenSearch queries open in the user's default browser (<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1120777\">bug 1120777</a>)",
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
+      "bug": 1122567,
+      "created": "2015-04-03T18:12:59+00:00",
+      "fixed_in_release": {
+        "channel": "Beta",
+        "is_public": true,
+        "product": "Thunderbird",
+        "slug": "thunderbird-38.0beta-beta",
+        "title": "Thunderbird 38.0beta Beta",
+        "version": "38.0beta"
+      },
+      "id": 786049,
+      "is_public": true,
+      "modified": "2015-06-03T00:25:41+00:00",
+      "note": "Default to using SSL for XMPP and IRC. This might cause issues for self-signed certificates  (<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1122567\">bug 1122567, </a><a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1122666\">bug 1122666</a>)",
+      "sort_num": 0,
+      "tag": "Changed"
     },
     {
       "bug": 1018259,
@@ -213,42 +249,6 @@
       "is_public": true,
       "modified": "2015-06-03T00:25:41+00:00",
       "note": "Disable CONDSTORE support for IMAP to prevent discrepancies in IMAP message status (deleted, unread) on some servers (<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=912216\">bug 912216</a>)",
-      "sort_num": 0,
-      "tag": "Changed"
-    },
-    {
-      "bug": 1120777,
-      "created": "2015-04-01T17:47:03+00:00",
-      "fixed_in_release": {
-        "channel": "Beta",
-        "is_public": true,
-        "product": "Thunderbird",
-        "slug": "thunderbird-38.0beta-beta",
-        "title": "Thunderbird 38.0beta Beta",
-        "version": "38.0beta"
-      },
-      "id": 786029,
-      "is_public": true,
-      "modified": "2015-06-03T00:25:41+00:00",
-      "note": "Make OpenSearch queries open in the user's default browser (<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1120777\">bug 1120777</a>)",
-      "sort_num": 0,
-      "tag": "Changed"
-    },
-    {
-      "bug": 1122567,
-      "created": "2015-04-03T18:12:59+00:00",
-      "fixed_in_release": {
-        "channel": "Beta",
-        "is_public": true,
-        "product": "Thunderbird",
-        "slug": "thunderbird-38.0beta-beta",
-        "title": "Thunderbird 38.0beta Beta",
-        "version": "38.0beta"
-      },
-      "id": 786049,
-      "is_public": true,
-      "modified": "2015-06-03T00:25:41+00:00",
-      "note": "Default to using SSL for XMPP and IRC. This might cause issues for self-signed certificates  (<a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1122567\">bug 1122567, </a><a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1122666\">bug 1122666</a>)",
       "sort_num": 0,
       "tag": "Changed"
     },

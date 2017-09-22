@@ -87,16 +87,6 @@
       "tag": "Changed"
     },
     {
-      "bug": 1116806,
-      "created": "2015-03-29T18:52:05+00:00",
-      "id": 785994,
-      "is_public": true,
-      "modified": "2015-08-11T13:10:21+00:00",
-      "note": "NPAPI Plug-in performance improved via [asynchronous initialization][1]\r\n\r\n  [1]: http://dblohm7.ca/blog/2014/06/17/asynchronous-plugin-initialization-an-introduction/",
-      "sort_num": 0,
-      "tag": "Changed"
-    },
-    {
       "bug": 1144317,
       "created": "2015-05-15T16:21:23+00:00",
       "id": 786115,
@@ -127,14 +117,14 @@
       "tag": "Changed"
     },
     {
-      "bug": 1112702,
-      "created": "2015-05-15T00:12:20+00:00",
-      "id": 786098,
+      "bug": 1116806,
+      "created": "2015-03-29T18:52:05+00:00",
+      "id": 785994,
       "is_public": true,
-      "modified": "2015-08-11T13:10:24+00:00",
-      "note": "[IndexedDB transactions][1] are now non-durable by default\r\n\r\n[1]:https://developer.mozilla.org/docs/Web/API/IndexedDB_API/Basic_Concepts_Behind_IndexedDB#durable",
+      "modified": "2015-08-11T13:10:21+00:00",
+      "note": "NPAPI Plug-in performance improved via [asynchronous initialization][1]\r\n\r\n  [1]: http://dblohm7.ca/blog/2014/06/17/asynchronous-plugin-initialization-an-introduction/",
       "sort_num": 0,
-      "tag": "HTML5"
+      "tag": "Changed"
     },
     {
       "bug": 1153783,
@@ -147,6 +137,16 @@
       "tag": "HTML5"
     },
     {
+      "bug": 1112702,
+      "created": "2015-05-15T00:12:20+00:00",
+      "id": 786098,
+      "is_public": true,
+      "modified": "2015-08-11T13:10:24+00:00",
+      "note": "[IndexedDB transactions][1] are now non-durable by default\r\n\r\n[1]:https://developer.mozilla.org/docs/Web/API/IndexedDB_API/Basic_Concepts_Behind_IndexedDB#durable",
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
       "bug": 1167252,
       "created": "2015-06-01T08:24:42+00:00",
       "id": 786128,
@@ -154,26 +154,6 @@
       "modified": "2015-08-11T13:10:29+00:00",
       "note": "Improved [Performance tools][1] in the developer tools: [Waterfall][2] view, [Call Tree][3] view and a [Flame Chart][4] view\r\n\r\n\r\n  [1]: https://hacks.mozilla.org/?p=28808\r\n  [2]: https://developer.mozilla.org/en-US/docs/Tools/Performance/Waterfall\r\n  [3]: https://developer.mozilla.org/en-US/docs/Tools/Performance/Call_Tree\r\n  [4]: https://developer.mozilla.org/en-US/docs/Tools/Performance/Flame_Chart",
       "sort_num": 1000,
-      "tag": "Developer"
-    },
-    {
-      "bug": 1055181,
-      "created": "2015-05-14T22:54:13+00:00",
-      "id": 786093,
-      "is_public": true,
-      "modified": "2015-08-11T13:10:17+00:00",
-      "note": "New [rules view tooltip][1] in the Inspector to tweak CSS Filter values\r\n\r\n\r\n  [1]: http://youtu.be/t3NKmmWfklU",
-      "sort_num": 0,
-      "tag": "Developer"
-    },
-    {
-      "bug": 1144163,
-      "created": "2015-05-15T01:34:14+00:00",
-      "id": 786101,
-      "is_public": true,
-      "modified": "2015-08-11T13:10:26+00:00",
-      "note": "New page ruler highlighting tool that displays [lightweight horizontal and vertical rules][1] on a page \r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Rulers",
-      "sort_num": 0,
       "tag": "Developer"
     },
     {
@@ -193,6 +173,26 @@
       "is_public": true,
       "modified": "2015-08-11T13:10:27+00:00",
       "note": "Inspector now searches across all content frames in a page",
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
+      "bug": 1055181,
+      "created": "2015-05-14T22:54:13+00:00",
+      "id": 786093,
+      "is_public": true,
+      "modified": "2015-08-11T13:10:17+00:00",
+      "note": "New [rules view tooltip][1] in the Inspector to tweak CSS Filter values\r\n\r\n\r\n  [1]: http://youtu.be/t3NKmmWfklU",
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
+      "bug": 1144163,
+      "created": "2015-05-15T01:34:14+00:00",
+      "id": 786101,
+      "is_public": true,
+      "modified": "2015-08-11T13:10:26+00:00",
+      "note": "New page ruler highlighting tool that displays [lightweight horizontal and vertical rules][1] on a page \r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Rulers",
       "sort_num": 0,
       "tag": "Developer"
     },

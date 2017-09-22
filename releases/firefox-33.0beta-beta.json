@@ -7,12 +7,12 @@
   "modified": "2014-09-04T20:39:59+00:00",
   "notes": [
     {
-      "bug": 948160,
-      "created": "2014-07-24T04:46:48+00:00",
-      "id": 785679,
+      "bug": null,
+      "created": "2014-09-02T04:46:41+00:00",
+      "id": 785717,
       "is_public": true,
-      "modified": "2014-11-06T23:39:16+00:00",
-      "note": "[OpenH264 support][1] (sandboxed)\r\n\r\n\r\n  [1]: http://andreasgal.com/2014/10/14/openh264-now-in-firefox/",
+      "modified": "2014-10-08T07:35:27+00:00",
+      "note": "Continued experimentation with WebRTC-powered communications feature",
       "sort_num": 100,
       "tag": "New"
     },
@@ -27,12 +27,12 @@
       "tag": "New"
     },
     {
-      "bug": null,
-      "created": "2014-09-02T04:46:41+00:00",
-      "id": 785717,
+      "bug": 948160,
+      "created": "2014-07-24T04:46:48+00:00",
+      "id": 785679,
       "is_public": true,
-      "modified": "2014-10-08T07:35:27+00:00",
-      "note": "Continued experimentation with WebRTC-powered communications feature",
+      "modified": "2014-11-06T23:39:16+00:00",
+      "note": "[OpenH264 support][1] (sandboxed)\r\n\r\n\r\n  [1]: http://andreasgal.com/2014/10/14/openh264-now-in-firefox/",
       "sort_num": 100,
       "tag": "New"
     },
@@ -44,6 +44,16 @@
       "modified": "2014-11-06T23:39:16+00:00",
       "note": "[Improved search experience][1] through the location bar\r\n\r\n\r\n  [1]: http://msujaws.wordpress.com/2014/08/01/faster-and-snappier-searches-now-in-firefox-aurora/",
       "sort_num": 99,
+      "tag": "New"
+    },
+    {
+      "bug": 612453,
+      "created": "2014-08-28T06:41:41+00:00",
+      "id": 785706,
+      "is_public": true,
+      "modified": "2014-11-06T23:39:16+00:00",
+      "note": "Search suggestions on the Firefox Start (about:home) and new tab (about:newtab) pages",
+      "sort_num": 98,
       "tag": "New"
     },
     {
@@ -63,16 +73,6 @@
       "is_public": true,
       "modified": "2014-11-06T23:39:16+00:00",
       "note": "Slimmer and faster [JavaScript strings][1]\r\n\r\n  [1]: https://blog.mozilla.org/javascript/2014/07/21/slimmer-and-faster-javascript-strings-in-firefox/",
-      "sort_num": 98,
-      "tag": "New"
-    },
-    {
-      "bug": 612453,
-      "created": "2014-08-28T06:41:41+00:00",
-      "id": 785706,
-      "is_public": true,
-      "modified": "2014-11-06T23:39:16+00:00",
-      "note": "Search suggestions on the Firefox Start (about:home) and new tab (about:newtab) pages",
       "sort_num": 98,
       "tag": "New"
     },
@@ -117,6 +117,16 @@
       "tag": "New"
     },
     {
+      "bug": 1036546,
+      "created": "2014-08-28T05:09:05+00:00",
+      "id": 785695,
+      "is_public": true,
+      "modified": "2014-11-06T23:39:16+00:00",
+      "note": "Proprietary window.crypto properties/functions removed",
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
       "bug": 800200,
       "created": "2014-07-17T08:46:49+00:00",
       "id": 785654,
@@ -127,14 +137,14 @@
       "tag": "Changed"
     },
     {
-      "bug": 1036546,
-      "created": "2014-08-28T05:09:05+00:00",
-      "id": 785695,
+      "bug": 966166,
+      "created": "2014-08-28T06:25:31+00:00",
+      "id": 785703,
       "is_public": true,
       "modified": "2014-11-06T23:39:16+00:00",
-      "note": "Proprietary window.crypto properties/functions removed",
+      "note": "[@counter-style rule][1] from CSS3 Counter Styles specification implemented\r\n\r\n\r\n  [1]: http://dev.w3.org/csswg/css-counter-styles/#the-counter-style-rule",
       "sort_num": 0,
-      "tag": "Changed"
+      "tag": "HTML5"
     },
     {
       "bug": 1018497,
@@ -147,12 +157,12 @@
       "tag": "HTML5"
     },
     {
-      "bug": 966166,
-      "created": "2014-08-28T06:25:31+00:00",
-      "id": 785703,
+      "bug": 1025230,
+      "created": "2014-09-02T02:11:37+00:00",
+      "id": 785714,
       "is_public": true,
-      "modified": "2014-11-06T23:39:16+00:00",
-      "note": "[@counter-style rule][1] from CSS3 Counter Styles specification implemented\r\n\r\n\r\n  [1]: http://dev.w3.org/csswg/css-counter-styles/#the-counter-style-rule",
+      "modified": "2014-11-25T03:04:05+00:00",
+      "note": "WebCrypto: Import/export of JWK-formatted keys",
       "sort_num": 0,
       "tag": "HTML5"
     },
@@ -177,16 +187,6 @@
       "tag": "HTML5"
     },
     {
-      "bug": 1025230,
-      "created": "2014-09-02T02:11:37+00:00",
-      "id": 785714,
-      "is_public": true,
-      "modified": "2014-11-25T03:04:05+00:00",
-      "note": "WebCrypto: Import/export of JWK-formatted keys",
-      "sort_num": 0,
-      "tag": "HTML5"
-    },
-    {
       "bug": 711941,
       "created": "2014-07-24T06:05:27+00:00",
       "id": 785683,
@@ -194,6 +194,26 @@
       "modified": "2014-11-06T23:39:16+00:00",
       "note": "[Cubic-bezier curves][1] editor\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector#Editing_cubic_B.C3.A9zier_curves",
       "sort_num": 10,
+      "tag": "Developer"
+    },
+    {
+      "bug": 1030889,
+      "created": "2014-07-30T06:01:13+00:00",
+      "id": 785687,
+      "is_public": true,
+      "modified": "2014-11-06T23:39:16+00:00",
+      "note": "[Editable @keyframes][1] rules in the Rules section of the Inspector\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector#Editing_keyframes",
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
+      "bug": 1014547,
+      "created": "2014-07-30T06:02:36+00:00",
+      "id": 785688,
+      "is_public": true,
+      "modified": "2014-11-06T23:39:16+00:00",
+      "note": "[CSS transform highlighter][1] in the style-inspector\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector#transform_visualisation",
+      "sort_num": 0,
       "tag": "Developer"
     },
     {
@@ -227,24 +247,14 @@
       "tag": "Developer"
     },
     {
-      "bug": 1030889,
-      "created": "2014-07-30T06:01:13+00:00",
-      "id": 785687,
+      "bug": 1072164,
+      "created": "2014-10-07T02:27:18+00:00",
+      "id": 785747,
       "is_public": true,
-      "modified": "2014-11-06T23:39:16+00:00",
-      "note": "[Editable @keyframes][1] rules in the Rules section of the Inspector\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector#Editing_keyframes",
+      "modified": "2014-11-14T22:22:08+00:00",
+      "note": "PDF.js: With some images, wrong colors could show up. Affects a very small number of PDF",
       "sort_num": 0,
-      "tag": "Developer"
-    },
-    {
-      "bug": 1014547,
-      "created": "2014-07-30T06:02:36+00:00",
-      "id": 785688,
-      "is_public": true,
-      "modified": "2014-11-06T23:39:16+00:00",
-      "note": "[CSS transform highlighter][1] in the style-inspector\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector#transform_visualisation",
-      "sort_num": 0,
-      "tag": "Developer"
+      "tag": "Known"
     },
     {
       "bug": 237623,
@@ -261,16 +271,6 @@
       "is_public": true,
       "modified": "2014-11-06T23:39:16+00:00",
       "note": "Fix incomplete downloads being marked as complete by detecting broken HTTP1.1 transfers ([237623][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=237623",
-      "sort_num": 0,
-      "tag": "Known"
-    },
-    {
-      "bug": 1072164,
-      "created": "2014-10-07T02:27:18+00:00",
-      "id": 785747,
-      "is_public": true,
-      "modified": "2014-11-14T22:22:08+00:00",
-      "note": "PDF.js: With some images, wrong colors could show up. Affects a very small number of PDF",
       "sort_num": 0,
       "tag": "Known"
     }

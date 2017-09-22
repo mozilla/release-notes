@@ -155,6 +155,16 @@
       "tag": "Known"
     },
     {
+      "bug": 1005487,
+      "created": "2014-06-05T17:20:25+00:00",
+      "id": 785601,
+      "is_public": true,
+      "modified": "2014-07-21T03:57:04+00:00",
+      "note": "Exit is not always completed when \"clear history when Firefox closes\" is enabled ([1005487][1])\r\n\r\n\r\n  [1]: http://bugzilla.mozilla.org/1005487",
+      "sort_num": 0,
+      "tag": "Known"
+    },
+    {
       "bug": null,
       "created": "2014-03-04T09:53:28+00:00",
       "fixed_in_release": {
@@ -169,16 +179,6 @@
       "is_public": true,
       "modified": "2014-07-21T04:19:48+00:00",
       "note": "Text Rendering Issues on Windows 7 with Platform Update KB2670838 (MSIE 10 Prerequisite) or on Windows 8.1 has a <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=812695#c414\">workaround</a> (see <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=812695\">812695</a>)",
-      "sort_num": 0,
-      "tag": "Known"
-    },
-    {
-      "bug": 1005487,
-      "created": "2014-06-05T17:20:25+00:00",
-      "id": 785601,
-      "is_public": true,
-      "modified": "2014-07-21T03:57:04+00:00",
-      "note": "Exit is not always completed when \"clear history when Firefox closes\" is enabled ([1005487][1])\r\n\r\n\r\n  [1]: http://bugzilla.mozilla.org/1005487",
       "sort_num": 0,
       "tag": "Known"
     }

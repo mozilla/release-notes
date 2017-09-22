@@ -9,16 +9,6 @@
     {
       "bug": null,
       "created": "2013-11-25T00:24:44+00:00",
-      "id": 785389,
-      "is_public": true,
-      "modified": "2014-04-23T10:53:38+00:00",
-      "note": "Dynamic toolbar hides navigation bar when scrolling down page content",
-      "sort_num": 500,
-      "tag": "New"
-    },
-    {
-      "bug": null,
-      "created": "2013-11-25T00:24:44+00:00",
       "fixed_in_release": {
         "channel": "Aurora",
         "is_public": true,
@@ -31,6 +21,16 @@
       "is_public": true,
       "modified": "2014-04-23T10:53:38+00:00",
       "note": "Basic support for subscribing to feeds (RSS/Atom) with long-tap in address bar",
+      "sort_num": 500,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2013-11-25T00:24:44+00:00",
+      "id": 785389,
+      "is_public": true,
+      "modified": "2014-04-23T10:53:38+00:00",
+      "note": "Dynamic toolbar hides navigation bar when scrolling down page content",
       "sort_num": 500,
       "tag": "New"
     },
@@ -128,17 +128,17 @@
       "bug": null,
       "created": "2013-11-25T00:24:36+00:00",
       "fixed_in_release": {
-        "channel": "Aurora",
+        "channel": "Beta",
         "is_public": true,
         "product": "Firefox for Android",
-        "slug": "firefox-for-android-23.0a2-aurora",
-        "title": "Firefox for Android 23.0a2 Aurora",
-        "version": "23.0a2"
+        "slug": "firefox-for-android-23.0beta-beta",
+        "title": "Firefox for Android 23.0beta Beta",
+        "version": "23.0beta"
       },
-      "id": 785375,
+      "id": 785393,
       "is_public": true,
-      "modified": "2014-04-23T10:53:37+00:00",
-      "note": "Long press Reader Mode icon to add article to Reading List (try it!)",
+      "modified": "2014-04-23T10:53:38+00:00",
+      "note": "Added hu and tr to Android multi-locale builds",
       "sort_num": -1,
       "tag": "New"
     },
@@ -164,17 +164,17 @@
       "bug": null,
       "created": "2013-11-25T00:24:36+00:00",
       "fixed_in_release": {
-        "channel": "Beta",
+        "channel": "Aurora",
         "is_public": true,
         "product": "Firefox for Android",
-        "slug": "firefox-for-android-23.0beta-beta",
-        "title": "Firefox for Android 23.0beta Beta",
-        "version": "23.0beta"
+        "slug": "firefox-for-android-23.0a2-aurora",
+        "title": "Firefox for Android 23.0a2 Aurora",
+        "version": "23.0a2"
       },
-      "id": 785393,
+      "id": 785375,
       "is_public": true,
-      "modified": "2014-04-23T10:53:38+00:00",
-      "note": "Added hu and tr to Android multi-locale builds",
+      "modified": "2014-04-23T10:53:37+00:00",
+      "note": "Long press Reader Mode icon to add article to Reading List (try it!)",
       "sort_num": -1,
       "tag": "New"
     },
@@ -261,10 +261,10 @@
         "title": "Firefox 23.0a2 Aurora",
         "version": "23.0a2"
       },
-      "id": 785367,
+      "id": 785383,
       "is_public": true,
       "modified": "2014-04-23T10:53:37+00:00",
-      "note": "Users can now switch to a new search provider across the entire browser",
+      "note": "Enabled DXVA2 on Windows Vista+ to accelerate H.264 video decoding",
       "sort_num": 600,
       "tag": "Changed"
     },
@@ -279,21 +279,11 @@
         "title": "Firefox 23.0a2 Aurora",
         "version": "23.0a2"
       },
-      "id": 785383,
+      "id": 785367,
       "is_public": true,
       "modified": "2014-04-23T10:53:37+00:00",
-      "note": "Enabled DXVA2 on Windows Vista+ to accelerate H.264 video decoding",
+      "note": "Users can now switch to a new search provider across the entire browser",
       "sort_num": 600,
-      "tag": "Changed"
-    },
-    {
-      "bug": null,
-      "created": "2013-11-25T00:24:32+00:00",
-      "id": 785352,
-      "is_public": true,
-      "modified": "2014-04-23T10:53:37+00:00",
-      "note": "CSP policies using the standard syntax and semantics will now be enforced",
-      "sort_num": -1,
       "tag": "Changed"
     },
     {
@@ -311,6 +301,16 @@
       "is_public": true,
       "modified": "2014-04-23T10:53:38+00:00",
       "note": "Awesomescreen remembers user entered search terms",
+      "sort_num": -1,
+      "tag": "Changed"
+    },
+    {
+      "bug": null,
+      "created": "2013-11-25T00:24:32+00:00",
+      "id": 785352,
+      "is_public": true,
+      "modified": "2014-04-23T10:53:37+00:00",
+      "note": "CSP policies using the standard syntax and semantics will now be enforced",
       "sort_num": -1,
       "tag": "Changed"
     },
@@ -335,16 +335,6 @@
     {
       "bug": null,
       "created": "2013-11-25T00:24:30+00:00",
-      "id": 331,
-      "is_public": true,
-      "modified": "2014-04-23T10:53:37+00:00",
-      "note": "&lt;input type='file'&gt; rendering improvements (see <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=838675\">bug 838675</a>)",
-      "sort_num": -50,
-      "tag": "Changed"
-    },
-    {
-      "bug": null,
-      "created": "2013-11-25T00:24:30+00:00",
       "fixed_in_release": {
         "channel": "Aurora",
         "is_public": true,
@@ -357,6 +347,16 @@
       "is_public": true,
       "modified": "2014-04-23T10:53:37+00:00",
       "note": "\"Load images automatically\" and Always show the tab bar\" checkboxes removed from preferences and reset to defaults. Want to hide one tab? Try <a href=\"https://addons.mozilla.org/en-us/firefox/addon/hide-tab-bar-with-one-tab/\">this add-on</a>.",
+      "sort_num": -50,
+      "tag": "Changed"
+    },
+    {
+      "bug": null,
+      "created": "2013-11-25T00:24:30+00:00",
+      "id": 331,
+      "is_public": true,
+      "modified": "2014-04-23T10:53:37+00:00",
+      "note": "&lt;input type='file'&gt; rendering improvements (see <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=838675\">bug 838675</a>)",
       "sort_num": -50,
       "tag": "Changed"
     },
@@ -386,6 +386,16 @@
       "modified": "2014-04-23T10:53:38+00:00",
       "note": "New feature in toolbox: <a href=\"https://hacks.mozilla.org/2013/05/firefox-developer-tool-features-for-firefox-23/\">Network Monitor</a>",
       "sort_num": 800,
+      "tag": "Developer"
+    },
+    {
+      "bug": null,
+      "created": "2013-11-25T00:24:50+00:00",
+      "id": 785392,
+      "is_public": true,
+      "modified": "2014-04-23T10:53:38+00:00",
+      "note": "Added unprefixed requestAnimationFrame",
+      "sort_num": 0,
       "tag": "Developer"
     },
     {
@@ -447,16 +457,6 @@
     {
       "bug": null,
       "created": "2013-11-25T00:24:50+00:00",
-      "id": 785392,
-      "is_public": true,
-      "modified": "2014-04-23T10:53:38+00:00",
-      "note": "Added unprefixed requestAnimationFrame",
-      "sort_num": 0,
-      "tag": "Developer"
-    },
-    {
-      "bug": null,
-      "created": "2013-11-25T00:24:50+00:00",
       "id": 161,
       "is_public": true,
       "modified": "2015-03-26T15:55:42+00:00",
@@ -472,16 +472,6 @@
       "modified": "2014-04-23T10:53:37+00:00",
       "note": "Browser is unusable on the Nexus 10 tablet with Android 4.3",
       "sort_num": 1000,
-      "tag": "Known"
-    },
-    {
-      "bug": 668288,
-      "created": "2013-11-25T00:24:50+00:00",
-      "id": 33,
-      "is_public": true,
-      "modified": "2014-04-23T10:53:35+00:00",
-      "note": "Some recent changes in the Google layout and CSS may cause issues in non-webkit browsers like Firefox",
-      "sort_num": 0,
       "tag": "Known"
     },
     {
@@ -501,6 +491,26 @@
       "is_public": true,
       "modified": "2014-07-21T04:29:28+00:00",
       "note": "Firefox Sync will not behave as expected if multiple Firefox channels are installed on a single device ([761206][1])\r\n\r\n\r\n  [1]: http://bugzilla.mozilla.org/761206",
+      "sort_num": 0,
+      "tag": "Known"
+    },
+    {
+      "bug": 891262,
+      "created": "2013-11-25T00:24:50+00:00",
+      "id": 410,
+      "is_public": true,
+      "modified": "2014-04-23T10:53:37+00:00",
+      "note": "Startup crash on LG Optimus Black (LG P970) running GB",
+      "sort_num": 0,
+      "tag": "Known"
+    },
+    {
+      "bug": 668288,
+      "created": "2013-11-25T00:24:50+00:00",
+      "id": 33,
+      "is_public": true,
+      "modified": "2014-04-23T10:53:35+00:00",
+      "note": "Some recent changes in the Google layout and CSS may cause issues in non-webkit browsers like Firefox",
       "sort_num": 0,
       "tag": "Known"
     },
@@ -541,16 +551,6 @@
       "is_public": true,
       "modified": "2014-04-23T10:53:37+00:00",
       "note": "Users on Android 4.3 will not be able to copy, cut, or select within the address bar",
-      "sort_num": 0,
-      "tag": "Known"
-    },
-    {
-      "bug": 891262,
-      "created": "2013-11-25T00:24:50+00:00",
-      "id": 410,
-      "is_public": true,
-      "modified": "2014-04-23T10:53:37+00:00",
-      "note": "Startup crash on LG Optimus Black (LG P970) running GB",
       "sort_num": 0,
       "tag": "Known"
     }

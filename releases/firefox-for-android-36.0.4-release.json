@@ -47,22 +47,22 @@
       "tag": "New"
     },
     {
-      "bug": 1088915,
-      "created": "2015-01-08T12:11:27+00:00",
-      "id": 785867,
-      "is_public": true,
-      "modified": "2015-03-26T15:54:39+00:00",
-      "note": "No longer accept insecure RC4 ciphers whenever possible",
-      "sort_num": 0,
-      "tag": "Changed"
-    },
-    {
       "bug": null,
       "created": "2015-02-11T13:31:57+00:00",
       "id": 785925,
       "is_public": true,
       "modified": "2015-03-26T15:54:40+00:00",
       "note": "[Phasing out Certificates][1] with 1024-bit RSA Keys\r\n\r\n\r\n  [1]: https://blog.mozilla.org/security/2015/01/28/phase-2-phasing-out-certificates-with-1024-bit-rsa-keys/",
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
+      "bug": 1088915,
+      "created": "2015-01-08T12:11:27+00:00",
+      "id": 785867,
+      "is_public": true,
+      "modified": "2015-03-26T15:54:39+00:00",
+      "note": "No longer accept insecure RC4 ciphers whenever possible",
       "sort_num": 0,
       "tag": "Changed"
     },
@@ -75,6 +75,16 @@
       "note": "[Add-on Compatibility][1]\r\n\r\n\r\n  [1]: https://blog.mozilla.org/addons/2015/01/13/compatibility-for-firefox-36/",
       "sort_num": -1,
       "tag": "Changed"
+    },
+    {
+      "bug": 611388,
+      "created": "2015-01-08T12:18:18+00:00",
+      "id": 785869,
+      "is_public": true,
+      "modified": "2015-03-26T15:55:32+00:00",
+      "note": "Changed JavaScript ['const' semantics][1] to conform better to the ES6 specification.<br />The const declaration is now block-scoped and requires an initializer. It also can not be redeclared anymore.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/const",
+      "sort_num": 0,
+      "tag": "HTML5"
     },
     {
       "bug": 645416,
@@ -137,16 +147,6 @@
       "tag": "HTML5"
     },
     {
-      "bug": 611388,
-      "created": "2015-01-08T12:18:18+00:00",
-      "id": 785869,
-      "is_public": true,
-      "modified": "2015-03-26T15:55:32+00:00",
-      "note": "Changed JavaScript ['const' semantics][1] to conform better to the ES6 specification.<br />The const declaration is now block-scoped and requires an initializer. It also can not be redeclared anymore.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/const",
-      "sort_num": 0,
-      "tag": "HTML5"
-    },
-    {
       "bug": null,
       "created": "2015-03-20T01:22:06+00:00",
       "id": 785970,
@@ -157,22 +157,22 @@
       "tag": "Fixed"
     },
     {
-      "bug": 1140830,
-      "created": "2015-03-16T17:53:38+00:00",
-      "id": 785968,
-      "is_public": true,
-      "modified": "2015-03-21T03:15:59+00:00",
-      "note": "36.0.2 - Fix a startup crash on HTC One M8 devices (Verizon) with Android 5.0.1 ([1140830][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1140830",
-      "sort_num": 10001,
-      "tag": "Fixed"
-    },
-    {
       "bug": 1118216,
       "created": "2015-03-16T17:58:58+00:00",
       "id": 785969,
       "is_public": true,
       "modified": "2015-03-21T03:15:59+00:00",
       "note": "36.0.2 - Fix some potential crashes with Flash videos ([1118216][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1118216",
+      "sort_num": 10001,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1140830,
+      "created": "2015-03-16T17:53:38+00:00",
+      "id": 785968,
+      "is_public": true,
+      "modified": "2015-03-21T03:15:59+00:00",
+      "note": "36.0.2 - Fix a startup crash on HTC One M8 devices (Verizon) with Android 5.0.1 ([1140830][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1140830",
       "sort_num": 10001,
       "tag": "Fixed"
     },
@@ -217,8 +217,8 @@
       "tag": "Fixed"
     },
     {
-      "bug": 591600,
-      "created": "2014-12-03T00:35:11+00:00",
+      "bug": 950399,
+      "created": "2015-01-19T14:04:07+00:00",
       "fixed_in_release": {
         "channel": "Beta",
         "is_public": true,
@@ -227,10 +227,10 @@
         "title": "Firefox 36.0beta Beta",
         "version": "36.0beta"
       },
-      "id": 785855,
+      "id": 785912,
       "is_public": true,
-      "modified": "2015-03-26T15:55:48+00:00",
-      "note": "[CSS gradients][1] work on premultiplied colors\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/gradient",
+      "modified": "2015-03-26T15:55:46+00:00",
+      "note": " Fix some unexpected logout from Facebook or Google after restart",
       "sort_num": 0,
       "tag": "Fixed"
     },
@@ -253,8 +253,8 @@
       "tag": "Fixed"
     },
     {
-      "bug": 950399,
-      "created": "2015-01-19T14:04:07+00:00",
+      "bug": 591600,
+      "created": "2014-12-03T00:35:11+00:00",
       "fixed_in_release": {
         "channel": "Beta",
         "is_public": true,
@@ -263,10 +263,10 @@
         "title": "Firefox 36.0beta Beta",
         "version": "36.0beta"
       },
-      "id": 785912,
+      "id": 785855,
       "is_public": true,
-      "modified": "2015-03-26T15:55:46+00:00",
-      "note": " Fix some unexpected logout from Facebook or Google after restart",
+      "modified": "2015-03-26T15:55:48+00:00",
+      "note": "[CSS gradients][1] work on premultiplied colors\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/gradient",
       "sort_num": 0,
       "tag": "Fixed"
     },

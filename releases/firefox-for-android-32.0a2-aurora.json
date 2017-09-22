@@ -47,22 +47,22 @@
       "tag": "New"
     },
     {
-      "bug": 916315,
-      "created": "2014-03-26T16:24:31+00:00",
-      "id": 785519,
-      "is_public": true,
-      "modified": "2014-09-23T08:43:43+00:00",
-      "note": "CSS [position:sticky][1] enabled by default\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/position",
-      "sort_num": 0,
-      "tag": "HTML5"
-    },
-    {
       "bug": 952643,
       "created": "2014-05-07T02:13:02+00:00",
       "id": 785583,
       "is_public": true,
       "modified": "2014-09-23T08:43:43+00:00",
       "note": "mix-blend-mode enabled by default ",
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 916315,
+      "created": "2014-03-26T16:24:31+00:00",
+      "id": 785519,
+      "is_public": true,
+      "modified": "2014-09-23T08:43:43+00:00",
+      "note": "CSS [position:sticky][1] enabled by default\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/position",
       "sort_num": 0,
       "tag": "HTML5"
     },

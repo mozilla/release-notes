@@ -7,16 +7,6 @@
   "modified": "2015-08-12T15:52:49+00:00",
   "notes": [
     {
-      "bug": 366324,
-      "created": "2015-07-01T22:10:28+00:00",
-      "id": 786146,
-      "is_public": true,
-      "modified": "2015-09-16T22:16:27+00:00",
-      "note": "SVG images can be used as favicons",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
       "bug": 478029,
       "created": "2015-08-05T21:37:37+00:00",
       "id": 786208,
@@ -47,6 +37,16 @@
       "tag": "New"
     },
     {
+      "bug": 366324,
+      "created": "2015-07-01T22:10:28+00:00",
+      "id": 786146,
+      "is_public": true,
+      "modified": "2015-09-16T22:16:27+00:00",
+      "note": "SVG images can be used as favicons",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1167652,
       "created": "2015-08-07T20:33:21+00:00",
       "id": 786220,
@@ -57,32 +57,22 @@
       "tag": "Changed"
     },
     {
-      "bug": 77999,
-      "created": "2015-07-01T22:06:32+00:00",
-      "id": 786145,
-      "is_public": true,
-      "modified": "2015-09-22T03:33:41+00:00",
-      "note": "[Memory overhead of AdBlock Plus][1] has been greatly reduced\r\n\r\n[1]:https://blog.mozilla.org/nnethercote/2015/07/01/firefox-41-will-use-less-memory-when-running-adblock-plus",
-      "sort_num": 10,
-      "tag": "Changed"
-    },
-    {
-      "bug": 1167066,
-      "created": "2015-07-01T22:56:21+00:00",
-      "id": 786155,
-      "is_public": true,
-      "modified": "2015-09-16T16:36:27+00:00",
-      "note": "WebRTC now requires [perfect forward secrecy][1]\r\n\r\n[1]: https://hacks.mozilla.org/2015/02/webrtc-requires-perfect-forward-secrecy-pfs-starting-in-firefox-38/ ",
-      "sort_num": 10,
-      "tag": "Changed"
-    },
-    {
       "bug": 1152147,
       "created": "2015-07-03T15:31:59+00:00",
       "id": 786173,
       "is_public": true,
       "modified": "2015-09-22T03:36:15+00:00",
       "note": "Updates to image decoding process",
+      "sort_num": 10,
+      "tag": "Changed"
+    },
+    {
+      "bug": 77999,
+      "created": "2015-07-01T22:06:32+00:00",
+      "id": 786145,
+      "is_public": true,
+      "modified": "2015-09-22T03:33:41+00:00",
+      "note": "[Memory overhead of AdBlock Plus][1] has been greatly reduced\r\n\r\n[1]:https://blog.mozilla.org/nnethercote/2015/07/01/firefox-41-will-use-less-memory-when-running-adblock-plus",
       "sort_num": 10,
       "tag": "Changed"
     },
@@ -97,6 +87,16 @@
       "tag": "Changed"
     },
     {
+      "bug": 1167066,
+      "created": "2015-07-01T22:56:21+00:00",
+      "id": 786155,
+      "is_public": true,
+      "modified": "2015-09-16T16:36:27+00:00",
+      "note": "WebRTC now requires [perfect forward secrecy][1]\r\n\r\n[1]: https://hacks.mozilla.org/2015/02/webrtc-requires-perfect-forward-secrecy-pfs-starting-in-firefox-38/ ",
+      "sort_num": 10,
+      "tag": "Changed"
+    },
+    {
       "bug": 980770,
       "created": "2015-06-01T08:25:37+00:00",
       "id": 786129,
@@ -105,16 +105,6 @@
       "note": "Support for running [animations][1] of 'transform' and 'opacity' on the compositor thread\r\n\r\n\r\n  [1]: https://wiki.mozilla.org/Platform/GFX/OffMainThreadCompositing#CSS_Animations",
       "sort_num": 0,
       "tag": "Changed"
-    },
-    {
-      "bug": 911972,
-      "created": "2015-07-01T22:21:01+00:00",
-      "id": 786149,
-      "is_public": true,
-      "modified": "2015-09-16T16:36:27+00:00",
-      "note": "[MessageChannel][1] and [MessagePort][2] API enabled by default\r\n\r\n[1]: https://developer.mozilla.org/en-US/docs/Web/API/MessageChannel\r\n[2]: https://developer.mozilla.org/docs/Web/API/MessagePort",
-      "sort_num": 0,
-      "tag": "HTML5"
     },
     {
       "bug": 923193,
@@ -167,24 +157,14 @@
       "tag": "HTML5"
     },
     {
-      "bug": 1159737,
-      "created": "2015-06-01T08:15:11+00:00",
-      "id": 786126,
+      "bug": 911972,
+      "created": "2015-07-01T22:21:01+00:00",
+      "id": 786149,
       "is_public": true,
       "modified": "2015-09-16T16:36:27+00:00",
-      "note": "Removed support for binary XPCOM components in extensions, use addon SDK \"system/child_process\" pipe mechanism for native binaries instead",
+      "note": "[MessageChannel][1] and [MessagePort][2] API enabled by default\r\n\r\n[1]: https://developer.mozilla.org/en-US/docs/Web/API/MessageChannel\r\n[2]: https://developer.mozilla.org/docs/Web/API/MessagePort",
       "sort_num": 0,
-      "tag": "Developer"
-    },
-    {
-      "bug": 859058,
-      "created": "2015-07-01T22:15:49+00:00",
-      "id": 786148,
-      "is_public": true,
-      "modified": "2015-09-16T16:36:27+00:00",
-      "note": "Network requests can be exported in [HAR][1] format\r\n\r\n[1]: http://www.softwareishard.com/blog/har-12-spec/",
-      "sort_num": 0,
-      "tag": "Developer"
+      "tag": "HTML5"
     },
     {
       "bug": 1067325,
@@ -233,6 +213,26 @@
       "is_public": true,
       "modified": "2015-09-16T16:36:27+00:00",
       "note": "[Pseudo-Class panel][1] in the Inspector\r\n\r\n[1]:https://developer.mozilla.org/docs/Tools/Page_Inspector/How_to/Examine_and_edit_CSS#Setting_hover_active_focus",
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
+      "bug": 1159737,
+      "created": "2015-06-01T08:15:11+00:00",
+      "id": 786126,
+      "is_public": true,
+      "modified": "2015-09-16T16:36:27+00:00",
+      "note": "Removed support for binary XPCOM components in extensions, use addon SDK \"system/child_process\" pipe mechanism for native binaries instead",
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
+      "bug": 859058,
+      "created": "2015-07-01T22:15:49+00:00",
+      "id": 786148,
+      "is_public": true,
+      "modified": "2015-09-16T16:36:27+00:00",
+      "note": "Network requests can be exported in [HAR][1] format\r\n\r\n[1]: http://www.softwareishard.com/blog/har-12-spec/",
       "sort_num": 0,
       "tag": "Developer"
     },

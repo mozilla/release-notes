@@ -165,16 +165,6 @@
     {
       "bug": null,
       "created": "2013-11-25T00:24:30+00:00",
-      "id": 331,
-      "is_public": true,
-      "modified": "2014-04-23T10:53:37+00:00",
-      "note": "&lt;input type='file'&gt; rendering improvements (see <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=838675\">bug 838675</a>)",
-      "sort_num": -50,
-      "tag": "Changed"
-    },
-    {
-      "bug": null,
-      "created": "2013-11-25T00:24:30+00:00",
       "fixed_in_release": {
         "channel": "Aurora",
         "is_public": true,
@@ -187,6 +177,16 @@
       "is_public": true,
       "modified": "2014-04-23T10:53:37+00:00",
       "note": "\"Load images automatically\" and Always show the tab bar\" checkboxes removed from preferences and reset to defaults. Want to hide one tab? Try <a href=\"https://addons.mozilla.org/en-us/firefox/addon/hide-tab-bar-with-one-tab/\">this add-on</a>.",
+      "sort_num": -50,
+      "tag": "Changed"
+    },
+    {
+      "bug": null,
+      "created": "2013-11-25T00:24:30+00:00",
+      "id": 331,
+      "is_public": true,
+      "modified": "2014-04-23T10:53:37+00:00",
+      "note": "&lt;input type='file'&gt; rendering improvements (see <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=838675\">bug 838675</a>)",
       "sort_num": -50,
       "tag": "Changed"
     },
@@ -216,6 +216,16 @@
       "modified": "2014-04-23T10:53:38+00:00",
       "note": "New feature in toolbox: <a href=\"https://hacks.mozilla.org/2013/05/firefox-developer-tool-features-for-firefox-23/\">Network Monitor</a>",
       "sort_num": 800,
+      "tag": "Developer"
+    },
+    {
+      "bug": null,
+      "created": "2013-11-25T00:24:50+00:00",
+      "id": 785392,
+      "is_public": true,
+      "modified": "2014-04-23T10:53:38+00:00",
+      "note": "Added unprefixed requestAnimationFrame",
+      "sort_num": 0,
       "tag": "Developer"
     },
     {
@@ -271,16 +281,6 @@
       "is_public": true,
       "modified": "2014-04-23T10:53:38+00:00",
       "note": "HTML5 &lt;input type=\"range\"&gt; form control implemented ",
-      "sort_num": 0,
-      "tag": "Developer"
-    },
-    {
-      "bug": null,
-      "created": "2013-11-25T00:24:50+00:00",
-      "id": 785392,
-      "is_public": true,
-      "modified": "2014-04-23T10:53:38+00:00",
-      "note": "Added unprefixed requestAnimationFrame",
       "sort_num": 0,
       "tag": "Developer"
     },

@@ -27,16 +27,6 @@
       "tag": "New"
     },
     {
-      "bug": null,
-      "created": "2014-04-09T07:51:51+00:00",
-      "id": 785546,
-      "is_public": true,
-      "modified": "2014-07-17T02:15:23+00:00",
-      "note": "OdinMonkey: Use backtracking allocator for asm.js style code",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
       "bug": 995801,
       "created": "2014-04-25T10:25:37+00:00",
       "fixed_in_release": {
@@ -61,6 +51,16 @@
       "is_public": true,
       "modified": "2014-07-11T07:24:35+00:00",
       "note": "mozilla::pkix as default certificate verifier ([learn more][1])\r\n\r\n\r\n  [1]: https://blog.mozilla.org/security/2014/04/24/exciting-updates-to-certificate-verification-in-gecko/",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2014-04-09T07:51:51+00:00",
+      "id": 785546,
+      "is_public": true,
+      "modified": "2014-07-17T02:15:23+00:00",
+      "note": "OdinMonkey: Use backtracking allocator for asm.js style code",
       "sort_num": 0,
       "tag": "New"
     },
@@ -165,6 +165,16 @@
       "tag": "Developer"
     },
     {
+      "bug": 1005487,
+      "created": "2014-06-05T17:20:25+00:00",
+      "id": 785601,
+      "is_public": true,
+      "modified": "2014-07-21T03:57:04+00:00",
+      "note": "Exit is not always completed when \"clear history when Firefox closes\" is enabled ([1005487][1])\r\n\r\n\r\n  [1]: http://bugzilla.mozilla.org/1005487",
+      "sort_num": 0,
+      "tag": "Known"
+    },
+    {
       "bug": 1008793,
       "created": "2013-11-25T00:24:44+00:00",
       "fixed_in_release": {
@@ -189,16 +199,6 @@
       "is_public": true,
       "modified": "2014-07-11T07:24:35+00:00",
       "note": "Slow shut downs lead to 'Firefox is already running' warning (see [966469][1] and [985655][2])\r\n\r\n\r\n  [1]: http://bugzilla.mozilla.org/966469\r\n  [2]: http://bugzilla.mozilla.org/985655",
-      "sort_num": 0,
-      "tag": "Known"
-    },
-    {
-      "bug": 1005487,
-      "created": "2014-06-05T17:20:25+00:00",
-      "id": 785601,
-      "is_public": true,
-      "modified": "2014-07-21T03:57:04+00:00",
-      "note": "Exit is not always completed when \"clear history when Firefox closes\" is enabled ([1005487][1])\r\n\r\n\r\n  [1]: http://bugzilla.mozilla.org/1005487",
       "sort_num": 0,
       "tag": "Known"
     }

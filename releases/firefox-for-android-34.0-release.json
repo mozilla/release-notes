@@ -77,36 +77,6 @@
       "tag": "Changed"
     },
     {
-      "bug": 792439,
-      "created": "2014-08-28T05:14:19+00:00",
-      "id": 785696,
-      "is_public": true,
-      "modified": "2014-11-25T03:04:05+00:00",
-      "note": "[ECMAScript 6 WeakSet][1] Implemented\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakSet",
-      "sort_num": 0,
-      "tag": "HTML5"
-    },
-    {
-      "bug": 1038259,
-      "created": "2014-08-28T05:15:09+00:00",
-      "id": 785697,
-      "is_public": true,
-      "modified": "2014-11-25T03:04:05+00:00",
-      "note": "[JavaScript Template Strings][1] Implemented\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/template_strings",
-      "sort_num": 0,
-      "tag": "HTML5"
-    },
-    {
-      "bug": 975744,
-      "created": "2014-08-28T05:51:56+00:00",
-      "id": 785699,
-      "is_public": true,
-      "modified": "2014-11-25T03:04:05+00:00",
-      "note": "CSS3 Font variants and features control (e.g. kerning) implemented",
-      "sort_num": 0,
-      "tag": "HTML5"
-    },
-    {
       "bug": 886627,
       "created": "2014-08-28T06:00:31+00:00",
       "id": 785700,
@@ -177,14 +147,34 @@
       "tag": "HTML5"
     },
     {
-      "bug": null,
-      "created": "2013-11-25T00:24:50+00:00",
-      "id": 161,
+      "bug": 792439,
+      "created": "2014-08-28T05:14:19+00:00",
+      "id": 785696,
       "is_public": true,
-      "modified": "2015-03-26T15:55:42+00:00",
-      "note": "Various <a href=\"https://www.mozilla.org/security/known-vulnerabilities/firefox.html\">security fixes</a>",
+      "modified": "2014-11-25T03:04:05+00:00",
+      "note": "[ECMAScript 6 WeakSet][1] Implemented\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakSet",
       "sort_num": 0,
-      "tag": "Fixed"
+      "tag": "HTML5"
+    },
+    {
+      "bug": 1038259,
+      "created": "2014-08-28T05:15:09+00:00",
+      "id": 785697,
+      "is_public": true,
+      "modified": "2014-11-25T03:04:05+00:00",
+      "note": "[JavaScript Template Strings][1] Implemented\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/template_strings",
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 975744,
+      "created": "2014-08-28T05:51:56+00:00",
+      "id": 785699,
+      "is_public": true,
+      "modified": "2014-11-25T03:04:05+00:00",
+      "note": "CSS3 Font variants and features control (e.g. kerning) implemented",
+      "sort_num": 0,
+      "tag": "HTML5"
     },
     {
       "bug": 625289,
@@ -219,6 +209,16 @@
       "is_public": true,
       "modified": "2014-11-24T22:42:27+00:00",
       "note": "MP4 videos will not play on Android L",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2013-11-25T00:24:50+00:00",
+      "id": 161,
+      "is_public": true,
+      "modified": "2015-03-26T15:55:42+00:00",
+      "note": "Various <a href=\"https://www.mozilla.org/security/known-vulnerabilities/firefox.html\">security fixes</a>",
       "sort_num": 0,
       "tag": "Fixed"
     },

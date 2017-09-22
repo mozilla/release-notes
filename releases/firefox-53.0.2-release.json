@@ -2,23 +2,23 @@
   "bug_list": "",
   "bug_search_url": "",
   "channel": "Release",
-  "created": "2017-05-04T17:50:27.461000+00:00",
+  "created": "2017-05-04T17:50:27.461974+00:00",
   "is_public": true,
-  "modified": "2017-06-03T19:05:28.648000+00:00",
+  "modified": "2017-06-03T19:05:28.648863+00:00",
   "notes": [
     {
       "bug": null,
-      "created": "2017-05-04T17:51:58.891000+00:00",
+      "created": "2017-05-04T17:51:58.891097+00:00",
       "id": 787075,
       "is_public": true,
-      "modified": "2017-05-19T07:26:26.227000+00:00",
+      "modified": "2017-05-19T07:26:26.227403+00:00",
       "note": "Reference link to [53.0 release notes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/firefox/53.0/releasenotes/",
       "sort_num": 0,
       "tag": ""
     },
     {
       "bug": 1348409,
-      "created": "2017-05-04T18:38:07.201000+00:00",
+      "created": "2017-05-04T18:38:07.201391+00:00",
       "fixed_in_release": {
         "channel": "Release",
         "is_public": true,
@@ -29,32 +29,14 @@
       },
       "id": 787078,
       "is_public": true,
-      "modified": "2017-05-19T07:26:48.237000+00:00",
+      "modified": "2017-05-19T07:26:48.237072+00:00",
       "note": "The non-standard showDialog argument to window.find is now ignored (Bug [1348409][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1348409",
       "sort_num": 0,
       "tag": "Changed"
     },
     {
-      "bug": null,
-      "created": "2017-05-04T18:02:19.170000+00:00",
-      "fixed_in_release": {
-        "channel": "Release",
-        "is_public": true,
-        "product": "Firefox",
-        "slug": "firefox-53.0.2-release",
-        "title": "Firefox 53.0.2 Release",
-        "version": "53.0.2"
-      },
-      "id": 787076,
-      "is_public": true,
-      "modified": "2017-05-19T07:26:45.377000+00:00",
-      "note": "Various [security fixes][1]\r\n\r\n[1]: https://www.mozilla.org/security/known-vulnerabilities/firefox/#firefox53.0.2",
-      "sort_num": 0,
-      "tag": "Fixed"
-    },
-    {
       "bug": 1341190,
-      "created": "2017-05-04T18:22:44.086000+00:00",
+      "created": "2017-05-04T18:22:44.086910+00:00",
       "fixed_in_release": {
         "channel": "Release",
         "is_public": true,
@@ -65,8 +47,26 @@
       },
       "id": 787077,
       "is_public": true,
-      "modified": "2017-05-19T07:26:46.930000+00:00",
+      "modified": "2017-05-19T07:26:46.930135+00:00",
       "note": "Make form validation errors and date picker panel visible to the user ([Bug 1341190][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1341190",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2017-05-04T18:02:19.170540+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": true,
+        "product": "Firefox",
+        "slug": "firefox-53.0.2-release",
+        "title": "Firefox 53.0.2 Release",
+        "version": "53.0.2"
+      },
+      "id": 787076,
+      "is_public": true,
+      "modified": "2017-05-19T07:26:45.377678+00:00",
+      "note": "Various [security fixes][1]\r\n\r\n[1]: https://www.mozilla.org/security/known-vulnerabilities/firefox/#firefox53.0.2",
       "sort_num": 0,
       "tag": "Fixed"
     }

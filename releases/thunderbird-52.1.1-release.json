@@ -2,13 +2,13 @@
   "bug_list": "",
   "bug_search_url": "https://bugzilla.mozilla.org/buglist.cgi?list_id=13560552&o1=equals&v1=53%2B&f1=cf_tracking_thunderbird_esr52&query_format=advanced",
   "channel": "Release",
-  "created": "2017-05-09T21:51:09.086000+00:00",
+  "created": "2017-05-09T21:51:09.086849+00:00",
   "is_public": true,
-  "modified": "2017-05-15T20:06:23.688000+00:00",
+  "modified": "2017-05-15T20:06:23.688181+00:00",
   "notes": [
     {
       "bug": 1355350,
-      "created": "2017-05-09T21:53:45.662000+00:00",
+      "created": "2017-05-09T21:53:45.662257+00:00",
       "fixed_in_release": {
         "channel": "Release",
         "is_public": true,
@@ -19,14 +19,14 @@
       },
       "id": 787087,
       "is_public": true,
-      "modified": "2017-06-12T19:20:00.318000+00:00",
+      "modified": "2017-06-12T19:20:00.318259+00:00",
       "note": "Large attachments may not be shown or saved correctly if the message is stored in an IMAP folder which is not synchronized for offline use",
       "sort_num": 0,
       "tag": "Fixed"
     },
     {
       "bug": 1361020,
-      "created": "2017-05-09T21:53:50.061000+00:00",
+      "created": "2017-05-09T21:53:50.061116+00:00",
       "fixed_in_release": {
         "channel": "Release",
         "is_public": true,
@@ -37,14 +37,14 @@
       },
       "id": 787088,
       "is_public": true,
-      "modified": "2017-06-12T19:20:45.135000+00:00",
+      "modified": "2017-06-12T19:20:45.135103+00:00",
       "note": "Unable to load full message via POP if message was downloaded partially (or only headers) before",
       "sort_num": 0,
       "tag": "Fixed"
     },
     {
       "bug": 1361422,
-      "created": "2017-05-09T21:53:52.673000+00:00",
+      "created": "2017-05-09T21:53:52.673747+00:00",
       "fixed_in_release": {
         "channel": "Release",
         "is_public": true,
@@ -55,14 +55,14 @@
       },
       "id": 787089,
       "is_public": true,
-      "modified": "2017-06-12T19:21:06.203000+00:00",
+      "modified": "2017-06-12T19:21:06.203881+00:00",
       "note": "Some attachments can't be opened or saved if the message body is empty",
       "sort_num": 0,
       "tag": "Fixed"
     },
     {
       "bug": 1158578,
-      "created": "2017-05-09T21:53:55.033000+00:00",
+      "created": "2017-05-09T21:53:55.033504+00:00",
       "fixed_in_release": {
         "channel": "Release",
         "is_public": true,
@@ -73,38 +73,38 @@
       },
       "id": 787090,
       "is_public": true,
-      "modified": "2017-06-12T19:21:29.288000+00:00",
+      "modified": "2017-06-12T19:21:29.288713+00:00",
       "note": "Crash when compacting IMAP folder",
       "sort_num": 0,
       "tag": "Fixed"
     },
     {
       "bug": 1353625,
-      "created": "2017-04-11T19:13:13.903000+00:00",
+      "created": "2017-04-11T19:13:13.903735+00:00",
       "id": 787030,
       "is_public": true,
-      "modified": "2017-06-12T19:19:15.553000+00:00",
+      "modified": "2017-06-12T19:19:15.553421+00:00",
       "note": "Large number of blank pages being printed under certain circumstances. **To fix this problem,** remove all printer specific preferences in the configuration editor.",
       "sort_num": 0,
       "tag": "Known"
     },
     {
-      "bug": 1281610,
-      "created": "2017-04-11T19:15:44.518000+00:00",
-      "id": 787032,
+      "bug": 1366196,
+      "created": "2017-05-20T07:10:51.070266+00:00",
+      "id": 787104,
       "is_public": true,
-      "modified": "2017-07-14T20:12:38.844000+00:00",
-      "note": "Crash due to incompatibility with McAfee Anti-SPAM add-on. **Workaround:** Start in safe mode and disable McAfee Anti-Spam Extension",
+      "modified": "2017-06-12T19:21:59.290046+00:00",
+      "note": "Messages sent via the Simple MAPI interface are forced to HTML. Will be fixed in next release.",
       "sort_num": 0,
       "tag": "Known"
     },
     {
-      "bug": 1366196,
-      "created": "2017-05-20T07:10:51.070000+00:00",
-      "id": 787104,
+      "bug": 1281610,
+      "created": "2017-04-11T19:15:44.518791+00:00",
+      "id": 787032,
       "is_public": true,
-      "modified": "2017-06-12T19:21:59.290000+00:00",
-      "note": "Messages sent via the Simple MAPI interface are forced to HTML. Will be fixed in next release.",
+      "modified": "2017-07-14T20:12:38.844733+00:00",
+      "note": "Crash due to incompatibility with McAfee Anti-SPAM add-on. **Workaround:** Start in safe mode and disable McAfee Anti-Spam Extension",
       "sort_num": 0,
       "tag": "Known"
     }

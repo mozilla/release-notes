@@ -67,22 +67,22 @@
       "tag": "Changed"
     },
     {
-      "bug": 987514,
-      "created": "2015-08-12T12:14:41+00:00",
-      "id": 786223,
-      "is_public": true,
-      "modified": "2015-10-23T14:59:49+00:00",
-      "note": "Implemented [ES6 Reflect][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Reflect",
-      "sort_num": 0,
-      "tag": "HTML5"
-    },
-    {
       "bug": 1044102,
       "created": "2015-09-01T11:42:18+00:00",
       "id": 786255,
       "is_public": true,
       "modified": "2015-10-23T14:59:49+00:00",
       "note": "Support [ImageBitmap][1] and [createImageBitmap()][2]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/ImageBitmap\r\n  [2]: https://developer.mozilla.org/en-US/docs/Web/API/CreateImageBitmap",
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 987514,
+      "created": "2015-08-12T12:14:41+00:00",
+      "id": 786223,
+      "is_public": true,
+      "modified": "2015-10-23T14:59:49+00:00",
+      "note": "Implemented [ES6 Reflect][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Reflect",
       "sort_num": 0,
       "tag": "HTML5"
     },
@@ -95,26 +95,6 @@
       "note": "Media Source Extension for HTML5 video available for all sites",
       "sort_num": 0,
       "tag": "HTML5"
-    },
-    {
-      "bug": 1067325,
-      "created": "2015-07-01T22:40:19+00:00",
-      "id": 786152,
-      "is_public": true,
-      "modified": "2015-10-23T14:59:49+00:00",
-      "note": "View [HTML source in a tab][1]\r\n\r\n[1]:https://hacks.mozilla.org/2015/07/developer-edition-41-view-source-in-a-tab-screenshot-elements-har-files-and-more/",
-      "sort_num": 0,
-      "tag": "Developer"
-    },
-    {
-      "bug": 1180996,
-      "created": "2015-08-12T13:20:36+00:00",
-      "id": 786226,
-      "is_public": true,
-      "modified": "2015-10-23T14:59:49+00:00",
-      "note": "[Remote website debugging][1] over WiFi (no USB cable or ADB needed)\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Tools/Remote_Debugging/Debugging_Firefox_for_Android_over_Wifi\r\n",
-      "sort_num": 0,
-      "tag": "Developer"
     },
     {
       "bug": 1148593,
@@ -153,6 +133,26 @@
       "is_public": true,
       "modified": "2015-10-23T14:59:49+00:00",
       "note": "Ability to [save filter presets][1] inside CSS Filter Tooltip\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector/How_to/Edit_CSS_filters#Saving_filter_presets",
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
+      "bug": 1180996,
+      "created": "2015-08-12T13:20:36+00:00",
+      "id": 786226,
+      "is_public": true,
+      "modified": "2015-10-23T14:59:49+00:00",
+      "note": "[Remote website debugging][1] over WiFi (no USB cable or ADB needed)\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Tools/Remote_Debugging/Debugging_Firefox_for_Android_over_Wifi\r\n",
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
+      "bug": 1067325,
+      "created": "2015-07-01T22:40:19+00:00",
+      "id": 786152,
+      "is_public": true,
+      "modified": "2015-10-23T14:59:49+00:00",
+      "note": "View [HTML source in a tab][1]\r\n\r\n[1]:https://hacks.mozilla.org/2015/07/developer-edition-41-view-source-in-a-tab-screenshot-elements-har-files-and-more/",
       "sort_num": 0,
       "tag": "Developer"
     },

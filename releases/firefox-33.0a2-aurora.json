@@ -47,22 +47,22 @@
       "tag": "New"
     },
     {
-      "bug": 378637,
-      "created": "2014-07-17T15:03:34+00:00",
-      "id": 785661,
-      "is_public": true,
-      "modified": "2014-11-06T23:39:16+00:00",
-      "note": "Support for connecting to HTTP proxy over HTTPS",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
       "bug": 925004,
       "created": "2014-07-23T07:37:34+00:00",
       "id": 785673,
       "is_public": true,
       "modified": "2014-11-06T23:39:16+00:00",
       "note": "New CSP (Content Security Policy) backend",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 378637,
+      "created": "2014-07-17T15:03:34+00:00",
+      "id": 785661,
+      "is_public": true,
+      "modified": "2014-11-06T23:39:16+00:00",
+      "note": "Support for connecting to HTTP proxy over HTTPS",
       "sort_num": 0,
       "tag": "New"
     },
@@ -87,22 +87,22 @@
       "tag": "Changed"
     },
     {
-      "bug": 645416,
-      "created": "2014-07-17T07:38:48+00:00",
-      "id": 785650,
-      "is_public": true,
-      "modified": "2015-03-26T15:55:21+00:00",
-      "note": "Support for the [ECMAScript 6 Symbol][1] data type added\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol\r\n",
-      "sort_num": 0,
-      "tag": "HTML5"
-    },
-    {
       "bug": 1018497,
       "created": "2014-07-17T09:08:11+00:00",
       "id": 785658,
       "is_public": true,
       "modified": "2014-11-06T23:39:16+00:00",
       "note": "[DOMMatrix][1] interface implemented\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/DOMMatrix",
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 645416,
+      "created": "2014-07-17T07:38:48+00:00",
+      "id": 785650,
+      "is_public": true,
+      "modified": "2015-03-26T15:55:21+00:00",
+      "note": "Support for the [ECMAScript 6 Symbol][1] data type added\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol\r\n",
       "sort_num": 0,
       "tag": "HTML5"
     },
@@ -123,6 +123,16 @@
       "is_public": true,
       "modified": "2014-11-06T23:39:16+00:00",
       "note": "[Paint flashing][1] for browser content repaints\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Paint_Flashing_Tool",
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
+      "bug": 1014547,
+      "created": "2014-07-30T06:02:36+00:00",
+      "id": 785688,
+      "is_public": true,
+      "modified": "2014-11-06T23:39:16+00:00",
+      "note": "[CSS transform highlighter][1] in the style-inspector\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector#transform_visualisation",
       "sort_num": 0,
       "tag": "Developer"
     },
@@ -153,16 +163,6 @@
       "is_public": true,
       "modified": "2014-11-06T23:39:16+00:00",
       "note": "[Editable @keyframes][1] rules in the Rules section of the Inspector\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector#Editing_keyframes",
-      "sort_num": 0,
-      "tag": "Developer"
-    },
-    {
-      "bug": 1014547,
-      "created": "2014-07-30T06:02:36+00:00",
-      "id": 785688,
-      "is_public": true,
-      "modified": "2014-11-06T23:39:16+00:00",
-      "note": "[CSS transform highlighter][1] in the style-inspector\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector#transform_visualisation",
       "sort_num": 0,
       "tag": "Developer"
     },

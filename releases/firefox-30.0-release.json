@@ -27,22 +27,22 @@
       "tag": "New"
     },
     {
-      "bug": null,
-      "created": "2014-03-26T16:26:54+00:00",
-      "id": 785523,
-      "is_public": true,
-      "modified": "2014-06-09T14:33:24+00:00",
-      "note": "Disallow calling WebIDL constructors as functions on the web",
-      "sort_num": 0,
-      "tag": "Changed"
-    },
-    {
       "bug": 982101,
       "created": "2014-04-29T12:01:08+00:00",
       "id": 785567,
       "is_public": true,
       "modified": "2014-06-10T23:17:24+00:00",
       "note": "With the exception of those bundled inside an extension or ones that are [whitelisted][1], plugins will no longer be activated by default (see [blog post][2])\r\n\r\n\r\n  [1]: https://wiki.mozilla.org/Plugins/Firefox_Whitelist\r\n  [2]: https://blog.mozilla.org/security/2014/02/28/update-on-plugin-activation/",
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
+      "bug": null,
+      "created": "2014-03-26T16:26:54+00:00",
+      "id": 785523,
+      "is_public": true,
+      "modified": "2014-06-09T14:33:24+00:00",
+      "note": "Disallow calling WebIDL constructors as functions on the web",
       "sort_num": 0,
       "tag": "Changed"
     },
@@ -137,16 +137,6 @@
       "tag": "Fixed"
     },
     {
-      "bug": null,
-      "created": "2013-11-25T00:24:50+00:00",
-      "id": 161,
-      "is_public": true,
-      "modified": "2015-03-26T15:55:42+00:00",
-      "note": "Various <a href=\"https://www.mozilla.org/security/known-vulnerabilities/firefox.html\">security fixes</a>",
-      "sort_num": 0,
-      "tag": "Fixed"
-    },
-    {
       "bug": 956906,
       "created": "2014-03-26T16:32:14+00:00",
       "id": 785531,
@@ -167,40 +157,14 @@
       "tag": "Fixed"
     },
     {
-      "bug": 1008793,
-      "created": "2013-11-25T00:24:44+00:00",
-      "fixed_in_release": {
-        "channel": "Aurora",
-        "is_public": true,
-        "product": "Firefox",
-        "slug": "firefox-32.0a2-aurora",
-        "title": "Firefox 32.0a2 Aurora",
-        "version": "32.0a2"
-      },
-      "id": 95,
+      "bug": null,
+      "created": "2013-11-25T00:24:50+00:00",
+      "id": 161,
       "is_public": true,
-      "modified": "2014-07-21T03:56:45+00:00",
-      "note": "Mac OS X: cmd-L no longer opens a new window when no window is available ([1008793][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1008793",
+      "modified": "2015-03-26T15:55:42+00:00",
+      "note": "Various <a href=\"https://www.mozilla.org/security/known-vulnerabilities/firefox.html\">security fixes</a>",
       "sort_num": 0,
-      "tag": "Known"
-    },
-    {
-      "bug": 998908,
-      "created": "2014-03-05T02:35:08+00:00",
-      "fixed_in_release": {
-        "channel": "Beta",
-        "is_public": true,
-        "product": "Firefox",
-        "slug": "firefox-31.0beta-beta",
-        "title": "Firefox 31.0beta Beta",
-        "version": "31.0beta"
-      },
-      "id": 785456,
-      "is_public": true,
-      "modified": "2014-06-05T15:36:13+00:00",
-      "note": "Errors loading scripts inside eval scripts with Developer Tools open ([998908][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=998908",
-      "sort_num": 0,
-      "tag": "Known"
+      "tag": "Fixed"
     },
     {
       "bug": 995801,
@@ -231,12 +195,48 @@
       "tag": "Known"
     },
     {
+      "bug": 1008793,
+      "created": "2013-11-25T00:24:44+00:00",
+      "fixed_in_release": {
+        "channel": "Aurora",
+        "is_public": true,
+        "product": "Firefox",
+        "slug": "firefox-32.0a2-aurora",
+        "title": "Firefox 32.0a2 Aurora",
+        "version": "32.0a2"
+      },
+      "id": 95,
+      "is_public": true,
+      "modified": "2014-07-21T03:56:45+00:00",
+      "note": "Mac OS X: cmd-L no longer opens a new window when no window is available ([1008793][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1008793",
+      "sort_num": 0,
+      "tag": "Known"
+    },
+    {
       "bug": 1025627,
       "created": "2014-07-16T08:00:45+00:00",
       "id": 785646,
       "is_public": true,
       "modified": "2014-07-17T06:59:54+00:00",
       "note": "Mac OS X and Windows: Citrix Receiver no longer works. As a workaround, mark the plugin as *Always Enable* in the addon manager ([1025627][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1025627",
+      "sort_num": 0,
+      "tag": "Known"
+    },
+    {
+      "bug": 998908,
+      "created": "2014-03-05T02:35:08+00:00",
+      "fixed_in_release": {
+        "channel": "Beta",
+        "is_public": true,
+        "product": "Firefox",
+        "slug": "firefox-31.0beta-beta",
+        "title": "Firefox 31.0beta Beta",
+        "version": "31.0beta"
+      },
+      "id": 785456,
+      "is_public": true,
+      "modified": "2014-06-05T15:36:13+00:00",
+      "note": "Errors loading scripts inside eval scripts with Developer Tools open ([998908][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=998908",
       "sort_num": 0,
       "tag": "Known"
     }

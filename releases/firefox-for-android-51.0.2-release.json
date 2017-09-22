@@ -2,26 +2,26 @@
   "bug_list": "",
   "bug_search_url": "",
   "channel": "Release",
-  "created": "2017-02-06T09:43:52.424000+00:00",
+  "created": "2017-02-06T09:43:52.424610+00:00",
   "is_public": true,
-  "modified": "2017-02-06T18:04:44.822000+00:00",
+  "modified": "2017-02-06T18:04:44.822193+00:00",
   "notes": [
     {
       "bug": null,
-      "created": "2017-02-06T09:54:36.785000+00:00",
+      "created": "2017-02-06T09:54:36.785121+00:00",
       "id": 786970,
       "is_public": true,
-      "modified": "2017-02-09T14:54:45.633000+00:00",
+      "modified": "2017-02-09T14:54:45.633300+00:00",
       "note": "Reference link for [51.0 release notes for Firefox for Android][1]\r\n\r\n\r\n  [1]: https://www.mozilla.com/firefox/android/51.0/releasenotes/",
       "sort_num": 0,
       "tag": ""
     },
     {
       "bug": 1318667,
-      "created": "2017-02-06T09:52:26.398000+00:00",
+      "created": "2017-02-06T09:52:26.398314+00:00",
       "id": 786969,
       "is_public": true,
-      "modified": "2017-02-09T14:56:37.134000+00:00",
+      "modified": "2017-02-09T14:56:37.134208+00:00",
       "note": "Fix a crash caused by an Android library (Palette) on some x86 devices (Bug [1318667][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1318667",
       "sort_num": 0,
       "tag": "Fixed"

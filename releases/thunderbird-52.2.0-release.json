@@ -2,175 +2,13 @@
   "bug_list": "",
   "bug_search_url": "https://bugzilla.mozilla.org/buglist.cgi?o1=equals&v1=54%2B&f1=cf_tracking_thunderbird_esr52&query_format=advanced&list_id=13634735",
   "channel": "Release",
-  "created": "2017-06-12T18:47:22.883000+00:00",
+  "created": "2017-06-12T18:47:22.883830+00:00",
   "is_public": true,
-  "modified": "2017-06-15T11:13:44.697000+00:00",
+  "modified": "2017-06-15T11:13:44.697016+00:00",
   "notes": [
     {
-      "bug": 1347598,
-      "created": "2017-04-26T19:45:58.871000+00:00",
-      "fixed_in_release": {
-        "channel": "Beta",
-        "is_public": true,
-        "product": "Thunderbird",
-        "slug": "thunderbird-54.0beta-beta",
-        "title": "Thunderbird 54.0beta Beta",
-        "version": "54.0beta"
-      },
-      "id": 787062,
-      "is_public": true,
-      "modified": "2017-07-14T20:12:44.322000+00:00",
-      "note": "Embedded images not shown in email received from Hotmail/Outlook webmailer",
-      "sort_num": 0,
-      "tag": "Fixed"
-    },
-    {
-      "bug": 1358049,
-      "created": "2017-05-19T14:19:29.547000+00:00",
-      "fixed_in_release": {
-        "channel": "Beta",
-        "is_public": true,
-        "product": "Thunderbird",
-        "slug": "thunderbird-54.0beta-beta",
-        "title": "Thunderbird 54.0beta Beta",
-        "version": "54.0beta"
-      },
-      "id": 787098,
-      "is_public": true,
-      "modified": "2017-07-14T20:12:14.521000+00:00",
-      "note": "Detection of non-ASCII font names in font selector",
-      "sort_num": 0,
-      "tag": "Fixed"
-    },
-    {
-      "bug": 570914,
-      "created": "2017-05-19T14:21:07.530000+00:00",
-      "fixed_in_release": {
-        "channel": "Beta",
-        "is_public": true,
-        "product": "Thunderbird",
-        "slug": "thunderbird-54.0beta-beta",
-        "title": "Thunderbird 54.0beta Beta",
-        "version": "54.0beta"
-      },
-      "id": 787099,
-      "is_public": true,
-      "modified": "2017-07-14T20:12:11.960000+00:00",
-      "note": "Attachment not forwarded correctly under certain circumstances",
-      "sort_num": 0,
-      "tag": "Fixed"
-    },
-    {
-      "bug": 1176399,
-      "created": "2017-05-19T14:38:04.485000+00:00",
-      "fixed_in_release": {
-        "channel": "Beta",
-        "is_public": true,
-        "product": "Thunderbird",
-        "slug": "thunderbird-54.0beta-beta",
-        "title": "Thunderbird 54.0beta Beta",
-        "version": "54.0beta"
-      },
-      "id": 787102,
-      "is_public": true,
-      "modified": "2017-07-14T20:12:03.666000+00:00",
-      "note": "Multiple requests for master password when GMail OAuth2 is enabled",
-      "sort_num": 0,
-      "tag": "Fixed"
-    },
-    {
-      "bug": 1353625,
-      "created": "2017-06-12T18:49:18.340000+00:00",
-      "fixed_in_release": {
-        "channel": "Release",
-        "is_public": true,
-        "product": "Thunderbird",
-        "slug": "thunderbird-52.2.0-release",
-        "title": "Thunderbird 52.2.0 Release",
-        "version": "52.2.0"
-      },
-      "id": 787134,
-      "is_public": true,
-      "modified": "2017-06-21T21:46:47.462000+00:00",
-      "note": "Large number of blank pages being printed under certain circumstances when invalid preferences were present",
-      "sort_num": 0,
-      "tag": "Fixed"
-    },
-    {
-      "bug": 1366196,
-      "created": "2017-06-12T18:49:55.237000+00:00",
-      "fixed_in_release": {
-        "channel": "Release",
-        "is_public": true,
-        "product": "Thunderbird",
-        "slug": "thunderbird-52.2.0-release",
-        "title": "Thunderbird 52.2.0 Release",
-        "version": "52.2.0"
-      },
-      "id": 787136,
-      "is_public": true,
-      "modified": "2017-07-14T20:11:50.792000+00:00",
-      "note": "Messages sent via the Simple MAPI interface are forced to HTML",
-      "sort_num": 0,
-      "tag": "Fixed"
-    },
-    {
-      "bug": 1365980,
-      "created": "2017-06-12T19:29:53.039000+00:00",
-      "fixed_in_release": {
-        "channel": "Release",
-        "is_public": true,
-        "product": "Thunderbird",
-        "slug": "thunderbird-52.2.0-release",
-        "title": "Thunderbird 52.2.0 Release",
-        "version": "52.2.0"
-      },
-      "id": 787145,
-      "is_public": true,
-      "modified": "2017-07-14T20:11:47.771000+00:00",
-      "note": "Calendar: Invitations can't be printed",
-      "sort_num": 0,
-      "tag": "Fixed"
-    },
-    {
-      "bug": 1356881,
-      "created": "2017-06-12T19:37:24.269000+00:00",
-      "fixed_in_release": {
-        "channel": "Release",
-        "is_public": true,
-        "product": "Thunderbird",
-        "slug": "thunderbird-52.2.0-release",
-        "title": "Thunderbird 52.2.0 Release",
-        "version": "52.2.0"
-      },
-      "id": 787149,
-      "is_public": true,
-      "modified": "2017-06-21T21:44:51.540000+00:00",
-      "note": "Mailing list (group) not accessible from macOS or Outlook address book",
-      "sort_num": 0,
-      "tag": "Fixed"
-    },
-    {
-      "bug": 1366273,
-      "created": "2017-06-12T19:51:50.919000+00:00",
-      "fixed_in_release": {
-        "channel": "Release",
-        "is_public": true,
-        "product": "Thunderbird",
-        "slug": "thunderbird-52.2.0-release",
-        "title": "Thunderbird 52.2.0 Release",
-        "version": "52.2.0"
-      },
-      "id": 787150,
-      "is_public": true,
-      "modified": "2017-06-21T21:44:42.032000+00:00",
-      "note": "Clicking on links with references/anchors where target doesn't exist in the message not opening in external browser",
-      "sort_num": 0,
-      "tag": "Fixed"
-    },
-    {
       "bug": null,
-      "created": "2017-06-14T18:10:59.169000+00:00",
+      "created": "2017-06-14T18:10:59.169894+00:00",
       "fixed_in_release": {
         "channel": "Release",
         "is_public": true,
@@ -181,27 +19,189 @@
       },
       "id": 787155,
       "is_public": true,
-      "modified": "2017-06-21T21:43:57.125000+00:00",
+      "modified": "2017-06-21T21:43:57.125329+00:00",
       "note": "Various [security fixes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/en-US/security/known-vulnerabilities/thunderbird/#thunderbird52.2",
       "sort_num": 0,
       "tag": "Fixed"
     },
     {
+      "bug": 1366273,
+      "created": "2017-06-12T19:51:50.919077+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": true,
+        "product": "Thunderbird",
+        "slug": "thunderbird-52.2.0-release",
+        "title": "Thunderbird 52.2.0 Release",
+        "version": "52.2.0"
+      },
+      "id": 787150,
+      "is_public": true,
+      "modified": "2017-06-21T21:44:42.032864+00:00",
+      "note": "Clicking on links with references/anchors where target doesn't exist in the message not opening in external browser",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1356881,
+      "created": "2017-06-12T19:37:24.269617+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": true,
+        "product": "Thunderbird",
+        "slug": "thunderbird-52.2.0-release",
+        "title": "Thunderbird 52.2.0 Release",
+        "version": "52.2.0"
+      },
+      "id": 787149,
+      "is_public": true,
+      "modified": "2017-06-21T21:44:51.540544+00:00",
+      "note": "Mailing list (group) not accessible from macOS or Outlook address book",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1353625,
+      "created": "2017-06-12T18:49:18.340443+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": true,
+        "product": "Thunderbird",
+        "slug": "thunderbird-52.2.0-release",
+        "title": "Thunderbird 52.2.0 Release",
+        "version": "52.2.0"
+      },
+      "id": 787134,
+      "is_public": true,
+      "modified": "2017-06-21T21:46:47.462032+00:00",
+      "note": "Large number of blank pages being printed under certain circumstances when invalid preferences were present",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1365980,
+      "created": "2017-06-12T19:29:53.039088+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": true,
+        "product": "Thunderbird",
+        "slug": "thunderbird-52.2.0-release",
+        "title": "Thunderbird 52.2.0 Release",
+        "version": "52.2.0"
+      },
+      "id": 787145,
+      "is_public": true,
+      "modified": "2017-07-14T20:11:47.771643+00:00",
+      "note": "Calendar: Invitations can't be printed",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1366196,
+      "created": "2017-06-12T18:49:55.237403+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": true,
+        "product": "Thunderbird",
+        "slug": "thunderbird-52.2.0-release",
+        "title": "Thunderbird 52.2.0 Release",
+        "version": "52.2.0"
+      },
+      "id": 787136,
+      "is_public": true,
+      "modified": "2017-07-14T20:11:50.792423+00:00",
+      "note": "Messages sent via the Simple MAPI interface are forced to HTML",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1176399,
+      "created": "2017-05-19T14:38:04.485090+00:00",
+      "fixed_in_release": {
+        "channel": "Beta",
+        "is_public": true,
+        "product": "Thunderbird",
+        "slug": "thunderbird-54.0beta-beta",
+        "title": "Thunderbird 54.0beta Beta",
+        "version": "54.0beta"
+      },
+      "id": 787102,
+      "is_public": true,
+      "modified": "2017-07-14T20:12:03.666752+00:00",
+      "note": "Multiple requests for master password when GMail OAuth2 is enabled",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 570914,
+      "created": "2017-05-19T14:21:07.530212+00:00",
+      "fixed_in_release": {
+        "channel": "Beta",
+        "is_public": true,
+        "product": "Thunderbird",
+        "slug": "thunderbird-54.0beta-beta",
+        "title": "Thunderbird 54.0beta Beta",
+        "version": "54.0beta"
+      },
+      "id": 787099,
+      "is_public": true,
+      "modified": "2017-07-14T20:12:11.960134+00:00",
+      "note": "Attachment not forwarded correctly under certain circumstances",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1358049,
+      "created": "2017-05-19T14:19:29.547845+00:00",
+      "fixed_in_release": {
+        "channel": "Beta",
+        "is_public": true,
+        "product": "Thunderbird",
+        "slug": "thunderbird-54.0beta-beta",
+        "title": "Thunderbird 54.0beta Beta",
+        "version": "54.0beta"
+      },
+      "id": 787098,
+      "is_public": true,
+      "modified": "2017-07-14T20:12:14.521659+00:00",
+      "note": "Detection of non-ASCII font names in font selector",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1347598,
+      "created": "2017-04-26T19:45:58.871454+00:00",
+      "fixed_in_release": {
+        "channel": "Beta",
+        "is_public": true,
+        "product": "Thunderbird",
+        "slug": "thunderbird-54.0beta-beta",
+        "title": "Thunderbird 54.0beta Beta",
+        "version": "54.0beta"
+      },
+      "id": 787062,
+      "is_public": true,
+      "modified": "2017-07-14T20:12:44.322391+00:00",
+      "note": "Embedded images not shown in email received from Hotmail/Outlook webmailer",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
       "bug": 1364723,
-      "created": "2017-06-12T19:53:27.157000+00:00",
+      "created": "2017-06-12T19:53:27.157803+00:00",
       "id": 787151,
       "is_public": true,
-      "modified": "2017-06-21T21:44:23.495000+00:00",
+      "modified": "2017-06-21T21:44:23.495591+00:00",
       "note": "Links in news messages including \"remove all expired articles\" not working",
       "sort_num": 0,
       "tag": "Known"
     },
     {
       "bug": 1356902,
-      "created": "2017-06-13T08:40:01.450000+00:00",
+      "created": "2017-06-13T08:40:01.450076+00:00",
       "id": 787152,
       "is_public": true,
-      "modified": "2017-08-16T18:21:48.345000+00:00",
+      "modified": "2017-08-16T18:21:48.345353+00:00",
       "note": "On Windows, \"Send to > Mail recipient\" does not work. Workaround: Install the [Microsoft Visual Studio 2015 redistributable runtime library][1] or the [Universal C Runtime for Windows Server][2].\r\n\r\n\r\n  [1]: https://www.microsoft.com/en-us/download/details.aspx?id=53587\r\n  [2]: https://support.microsoft.com/en-us/help/2999226/update-for-universal-c-runtime-in-windows",
       "sort_num": 0,
       "tag": "Known"

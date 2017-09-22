@@ -58,21 +58,21 @@
     },
     {
       "bug": null,
-      "created": "2014-03-04T09:21:34+00:00",
-      "id": 785425,
-      "is_public": true,
-      "modified": "2014-05-09T10:26:53+00:00",
-      "note": "Performance improved by replacing throbber with a progress bar",
-      "sort_num": 0,
-      "tag": "Changed"
-    },
-    {
-      "bug": null,
       "created": "2014-03-26T16:57:08+00:00",
       "id": 785537,
       "is_public": true,
       "modified": "2014-07-21T04:03:41+00:00",
       "note": "navigator.plugins is no longer enumerable, for user privacy",
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
+      "bug": null,
+      "created": "2014-03-04T09:21:34+00:00",
+      "id": 785425,
+      "is_public": true,
+      "modified": "2014-05-09T10:26:53+00:00",
+      "note": "Performance improved by replacing throbber with a progress bar",
       "sort_num": 0,
       "tag": "Changed"
     },
@@ -118,16 +118,6 @@
     },
     {
       "bug": null,
-      "created": "2014-03-04T08:35:01+00:00",
-      "id": 785416,
-      "is_public": true,
-      "modified": "2014-05-09T10:26:53+00:00",
-      "note": "SharedWorker enabled by default",
-      "sort_num": 0,
-      "tag": "Developer"
-    },
-    {
-      "bug": null,
       "created": "2014-03-04T08:52:33+00:00",
       "id": 785424,
       "is_public": true,
@@ -153,6 +143,16 @@
       "is_public": true,
       "modified": "2014-07-21T04:27:57+00:00",
       "note": "Color picker widget implemented, access by using &lt;input type=\"color\"&gt;",
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
+      "bug": null,
+      "created": "2014-03-04T08:35:01+00:00",
+      "id": 785416,
+      "is_public": true,
+      "modified": "2014-05-09T10:26:53+00:00",
+      "note": "SharedWorker enabled by default",
       "sort_num": 0,
       "tag": "Developer"
     },

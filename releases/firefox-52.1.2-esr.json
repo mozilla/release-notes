@@ -2,16 +2,16 @@
   "bug_list": "",
   "bug_search_url": "",
   "channel": "ESR",
-  "created": "2017-05-19T07:25:19.107000+00:00",
+  "created": "2017-05-19T07:25:19.107972+00:00",
   "is_public": true,
-  "modified": "2017-05-19T12:51:27.015000+00:00",
+  "modified": "2017-05-19T12:51:27.015926+00:00",
   "notes": [
     {
       "bug": 1360574,
-      "created": "2017-05-19T07:34:42.979000+00:00",
+      "created": "2017-05-19T07:34:42.979453+00:00",
       "id": 787093,
       "is_public": true,
-      "modified": "2017-08-10T14:19:22.530000+00:00",
+      "modified": "2017-08-10T14:19:22.530972+00:00",
       "note": "Fix hangs when using a proxy with NTLM authentication ([bug 1360574][1])\r\n\r\n[1]: https://bugzilla.mozilla.org/1360574",
       "sort_num": 0,
       "tag": "Fixed"

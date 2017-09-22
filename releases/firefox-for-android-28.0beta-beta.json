@@ -38,26 +38,6 @@
     },
     {
       "bug": null,
-      "created": "2014-03-04T09:50:53+00:00",
-      "id": 785433,
-      "is_public": true,
-      "modified": "2014-07-21T04:25:14+00:00",
-      "note": "Horizontal HTML5 audio/video volume control",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
-      "bug": null,
-      "created": "2014-03-04T09:51:05+00:00",
-      "id": 785434,
-      "is_public": true,
-      "modified": "2014-07-21T04:26:06+00:00",
-      "note": "Support for Opus in WebM",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
-      "bug": null,
       "created": "2014-03-04T09:57:01+00:00",
       "id": 785445,
       "is_public": true,
@@ -93,6 +73,26 @@
       "is_public": true,
       "modified": "2014-07-21T04:24:44+00:00",
       "note": "Added settings switch to toggle dynamic toolbar mode",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2014-03-04T09:50:53+00:00",
+      "id": 785433,
+      "is_public": true,
+      "modified": "2014-07-21T04:25:14+00:00",
+      "note": "Horizontal HTML5 audio/video volume control",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2014-03-04T09:51:05+00:00",
+      "id": 785434,
+      "is_public": true,
+      "modified": "2014-07-21T04:26:06+00:00",
+      "note": "Support for Opus in WebM",
       "sort_num": 0,
       "tag": "New"
     },
@@ -157,16 +157,6 @@
       "tag": "Fixed"
     },
     {
-      "bug": 761206,
-      "created": "2013-11-25T00:24:50+00:00",
-      "id": 136,
-      "is_public": true,
-      "modified": "2014-07-21T04:29:28+00:00",
-      "note": "Firefox Sync will not behave as expected if multiple Firefox channels are installed on a single device ([761206][1])\r\n\r\n\r\n  [1]: http://bugzilla.mozilla.org/761206",
-      "sort_num": 0,
-      "tag": "Known"
-    },
-    {
       "bug": null,
       "created": "2014-03-04T09:53:08+00:00",
       "id": 785441,
@@ -183,6 +173,16 @@
       "is_public": true,
       "modified": "2014-07-21T04:29:11+00:00",
       "note": "Some recent changes in the Google layout and CSS may cause issues in non-webkit browsers like Firefox (see <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=668288\">668288</a>)</h5>\r\n",
+      "sort_num": 0,
+      "tag": "Known"
+    },
+    {
+      "bug": 761206,
+      "created": "2013-11-25T00:24:50+00:00",
+      "id": 136,
+      "is_public": true,
+      "modified": "2014-07-21T04:29:28+00:00",
+      "note": "Firefox Sync will not behave as expected if multiple Firefox channels are installed on a single device ([761206][1])\r\n\r\n\r\n  [1]: http://bugzilla.mozilla.org/761206",
       "sort_num": 0,
       "tag": "Known"
     }
