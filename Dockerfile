@@ -1,10 +1,4 @@
-FROM python:3.6-slim
-
-# Set Python-related environment variables to reduce annoying-ness
-ENV PYTHONUNBUFFERED 1
-ENV PYTHONDONTWRITEBYTECODE 1
-ENV PIP_DISABLE_PIP_VERSION_CHECK 1
-ENV LANG C.UTF-8
+FROM mozmeao/base:python-3.6
 
 WORKDIR /app
 CMD ["./update_releases.py"]
