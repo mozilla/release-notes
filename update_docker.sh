@@ -2,8 +2,17 @@
 
 UPDATE_FILE=".new-revision-pushed"
 IMAGE_NAME="${DOCKER_IMAGE_NAME:-release-notes-json}"
+IMAGE_NAME="${IMAGE_NAME}:$(git rev-parse HEAD)"
 
-docker build -t "$IMAGE_NAME" --pull .
+function imageExists() {
+    docker history -q "${IMAGE_NAME}" > /dev/null 2>&1
+    return $?
+}
+
+if ! imageExists; then
+    docker build -t "$IMAGE_NAME" --pull .
+fi
+
 docker run --rm -v "$PWD:/app" "$IMAGE_NAME"
 
 # UPDATE_FILE is an indicator we can use in Jenkins
