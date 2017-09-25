@@ -11,8 +11,18 @@
       "created": "2017-09-25T20:38:42.705426+00:00",
       "id": 787250,
       "is_public": true,
-      "modified": "2017-09-25T20:38:42.705225+00:00",
-      "note": "Deprecation of support for iOS 9",
+      "modified": "2017-09-25T20:42:01.438281+00:00",
+      "note": "We\u2019ve been working hard on addressing everyone\u2019s feedback and to help the team move faster and deliver even more amazing features we\u2019ve had to drop support for iOS9. For those of you who have been holding off from upgrading now is the time. \r\n",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2017-09-25T20:37:47.078049+00:00",
+      "id": 787248,
+      "is_public": true,
+      "modified": "2017-09-25T20:41:35.947490+00:00",
+      "note": "Hands off my Browser! We\u2019ve added native Tracking Protection to Firefox. This is a feature long requested by everyone. Tracking protection is turned on by default in Private Browsing and if you\u2019d like to enable it everywhere you can toggle it on in the settings. This feature uses cutting edge features and is only available for those on iOS 11.",
       "sort_num": 0,
       "tag": "New"
     },
@@ -28,16 +38,6 @@
     },
     {
       "bug": null,
-      "created": "2017-09-25T20:37:47.078049+00:00",
-      "id": 787248,
-      "is_public": true,
-      "modified": "2017-09-25T20:37:47.077839+00:00",
-      "note": "Tracking Protection",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
-      "bug": null,
       "created": "2017-09-25T20:40:18.036286+00:00",
       "id": 787251,
       "is_public": true,
@@ -45,6 +45,16 @@
       "note": "All [fixed issues][1] tracking 9.0\r\n\r\n\r\n  [1]: https://mzl.la/2vLaHuZ",
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2017-09-25T20:41:05.749559+00:00",
+      "id": 787252,
+      "is_public": true,
+      "modified": "2017-09-25T20:41:05.749283+00:00",
+      "note": "1Password extension not working. LastPass is ok.",
+      "sort_num": 0,
+      "tag": "Known"
     }
   ],
   "product": "Firefox for iOS",
