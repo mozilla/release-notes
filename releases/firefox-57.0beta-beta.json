@@ -4,8 +4,18 @@
   "channel": "Beta",
   "created": "2017-09-26T07:48:29.086472+00:00",
   "is_public": false,
-  "modified": "2017-09-26T08:16:29.383487+00:00",
+  "modified": "2017-09-26T09:22:52.717577+00:00",
   "notes": [
+    {
+      "bug": 1147820,
+      "created": "2017-09-26T09:22:44.202857+00:00",
+      "id": 787275,
+      "is_public": true,
+      "modified": "2017-09-26T09:22:44.202626+00:00",
+      "note": "Allow users to manage the site data",
+      "sort_num": 0,
+      "tag": "New"
+    },
     {
       "bug": 888320,
       "created": "2017-09-26T08:12:53.432376+00:00",
