@@ -2,10 +2,30 @@
   "bug_list": "",
   "bug_search_url": "",
   "channel": "Beta",
-  "created": "2017-08-03T21:12:04.396315+00:00",
-  "is_public": true,
-  "modified": "2017-09-26T07:39:59.294985+00:00",
+  "created": "2017-09-26T07:40:13.500789+00:00",
+  "is_public": false,
+  "modified": "2017-09-26T07:40:13.500538+00:00",
   "notes": [
+    {
+      "bug": 1265755,
+      "created": "2017-08-04T22:31:14.929217+00:00",
+      "id": 787199,
+      "is_public": true,
+      "modified": "2017-09-26T07:40:13.514678+00:00",
+      "note": "Improved power consumption and performance for WebRTC with the use of hardware encoders",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1383345,
+      "created": "2017-08-04T22:25:55.224706+00:00",
+      "id": 787197,
+      "is_public": true,
+      "modified": "2017-09-26T07:40:13.514678+00:00",
+      "note": "Added Zapoteco (zam) and Belarusian (be) locales\r\n",
+      "sort_num": 0,
+      "tag": "New"
+    },
     {
       "bug": 1185785,
       "created": "2017-08-07T19:49:20.395644+00:00",
@@ -37,26 +57,6 @@
       "tag": "New"
     },
     {
-      "bug": 1265755,
-      "created": "2017-08-04T22:31:14.929217+00:00",
-      "id": 787199,
-      "is_public": true,
-      "modified": "2017-09-26T07:40:13.514678+00:00",
-      "note": "Improved power consumption and performance for WebRTC with the use of hardware encoders",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
-      "bug": 1383345,
-      "created": "2017-08-04T22:25:55.224706+00:00",
-      "id": 787197,
-      "is_public": true,
-      "modified": "2017-09-26T07:40:13.514678+00:00",
-      "note": "Added Zapoteco (zam) and Belarusian (be) locales\r\n",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
       "bug": 1316462,
       "created": "2017-08-04T22:30:24.340691+00:00",
       "id": 787198,
@@ -79,9 +79,9 @@
   ],
   "product": "Firefox for Android",
   "release_date": "2017-08-08",
-  "slug": "firefox-for-android-56.0beta-beta",
+  "slug": "firefox-for-android-copy-56.0beta-beta",
   "system_requirements": "## Operating systems\r\n - Android 4.1\r\n - Above versions\r\n\r\n## Requirements\r\n - 50 MB internal storage\r\n - 384 MB of RAM\r\n - display at least 320 pixels high and 240 pixels wide\r\n",
   "text": "",
-  "title": "Firefox for Android 56.0beta Beta",
-  "version": "56.0beta"
+  "title": "Firefox for Android copy-56.0beta Beta",
+  "version": "copy-56.0beta"
 }

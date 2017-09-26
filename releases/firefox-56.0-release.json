@@ -4,8 +4,18 @@
   "channel": "Release",
   "created": "2017-09-15T17:01:12.130269+00:00",
   "is_public": false,
-  "modified": "2017-09-26T07:13:02.316339+00:00",
+  "modified": "2017-09-26T07:36:53.002979+00:00",
   "notes": [
+    {
+      "bug": 1357285,
+      "created": "2017-09-26T07:29:29.100456+00:00",
+      "id": 787256,
+      "is_public": true,
+      "modified": "2017-09-26T07:31:38.936519+00:00",
+      "note": "#### Updated Preferences \r\n- Added search tool so users can find a specific setting quickly\r\n- Reorganized preferences so users can more easily scan settings\r\n- Rewrote descriptions so users can better understand choices and how they affect browsing\r\n- Revised data collection choices so they align with updated Privacy Notice and data collection strategy#\r\n",
+      "sort_num": 0,
+      "tag": "New"
+    },
     {
       "bug": 990176,
       "created": "2017-09-26T07:23:46.749563+00:00",
@@ -35,6 +45,66 @@
       "note": "Launched [Firefox Screenshots][1], a feature that lets users take, save, and share screenshots without leaving the browser\r\n\r\n\r\n  [1]: https://screenshots.firefox.com/#tour",
       "sort_num": 0,
       "tag": "New"
+    },
+    {
+      "bug": 1105689,
+      "created": "2017-09-26T07:35:51.342436+00:00",
+      "id": 787261,
+      "is_public": true,
+      "modified": "2017-09-26T07:35:51.342174+00:00",
+      "note": "Improved security for verifying update downloads",
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
+      "bug": 641212,
+      "created": "2017-09-26T07:35:15.062267+00:00",
+      "id": 787260,
+      "is_public": true,
+      "modified": "2017-09-26T07:35:15.062082+00:00",
+      "note": "Smaller downloads (approximately a 20% reduction in size) for updating",
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
+      "bug": 1167038,
+      "created": "2017-09-26T07:34:31.518503+00:00",
+      "id": 787259,
+      "is_public": true,
+      "modified": "2017-09-26T07:34:31.518313+00:00",
+      "note": "Updated the Safe Browsing protocol to version 4\r\n",
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
+      "bug": 868948,
+      "created": "2017-09-26T07:33:52.971855+00:00",
+      "id": 787258,
+      "is_public": true,
+      "modified": "2017-09-26T07:33:52.971675+00:00",
+      "note": "Added hardware acceleration for AES-GCM",
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
+      "bug": 1261841,
+      "created": "2017-09-26T07:33:17.644124+00:00",
+      "id": 787257,
+      "is_public": true,
+      "modified": "2017-09-26T07:33:17.643939+00:00",
+      "note": "Replaced character encoding converters with a new [Encoding Standard][1]-compliant implementation written in Rust\r\n\r\n\r\n  [1]: https://encoding.spec.whatwg.org/",
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
+      "bug": 1181227,
+      "created": "2017-09-26T07:36:25.701885+00:00",
+      "id": 787262,
+      "is_public": true,
+      "modified": "2017-09-26T07:36:25.701694+00:00",
+      "note": "Added Layout Panel to CSS Grid DevTools\r\n",
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
       "bug": 1394550,
