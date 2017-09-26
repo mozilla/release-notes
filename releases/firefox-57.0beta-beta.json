@@ -5,7 +5,68 @@
   "created": "2017-09-26T07:48:29.086472+00:00",
   "is_public": false,
   "modified": "2017-09-26T07:50:10.999842+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": 1383051,
+      "created": "2017-09-26T08:04:50.108567+00:00",
+      "id": 787267,
+      "is_public": true,
+      "modified": "2017-09-26T08:04:50.108332+00:00",
+      "note": "Accessibility indicator will now appear in the title bar of the window when Accessibility services are enabled",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1346488,
+      "created": "2017-09-26T08:01:47.945866+00:00",
+      "id": 787263,
+      "is_public": true,
+      "modified": "2017-09-26T08:01:47.945684+00:00",
+      "note": "Firefox is getting a major Visual Redesign ([Photon project][1]) activated on the Nightly channel and which will ship with Firefox 57 on the release channel.\r\n\r\n\r\n  [1]: https://wiki.mozilla.org/Firefox/Photon/Updates",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1402351,
+      "created": "2017-09-26T08:05:50.640987+00:00",
+      "id": 787268,
+      "is_public": true,
+      "modified": "2017-09-26T08:05:50.640800+00:00",
+      "note": "Support more strict sandboxing protection (level 3) on Linux",
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
+      "bug": 1385463,
+      "created": "2017-09-26T08:04:12.289891+00:00",
+      "id": 787266,
+      "is_public": true,
+      "modified": "2017-09-26T08:04:12.289616+00:00",
+      "note": "The browser's \"autoscrolling\" feature now uses asynchronous scrolling, similar to other input methods like mousewheel, providing a smoother scrolling experience.",
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
+      "bug": 366945,
+      "created": "2017-09-26T08:02:37.154978+00:00",
+      "id": 787264,
+      "is_public": true,
+      "modified": "2017-09-26T08:02:37.154581+00:00",
+      "note": "Middle mouse paste in the content area on Unix systems no longer navigates to URLs by default",
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
+      "bug": 1388902,
+      "created": "2017-09-26T08:03:39.900526+00:00",
+      "id": 787265,
+      "is_public": true,
+      "modified": "2017-09-26T08:03:39.900248+00:00",
+      "note": "The \"Share\" button was removed. If you relied on this feature, you can install the [Share Backported][1] extension instead\r\n\r\n\r\n  [1]: https://addons.mozilla.org/firefox/addon/share-backported/",
+      "sort_num": 0,
+      "tag": "Developer"
+    }
+  ],
   "product": "Firefox",
   "release_date": "2017-09-26",
   "slug": "firefox-57.0beta-beta",
