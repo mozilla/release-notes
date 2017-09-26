@@ -1,10 +1,10 @@
 {
   "bug_list": "",
   "bug_search_url": "",
-  "channel": "Beta",
+  "channel": "Release",
   "created": "2017-09-26T07:40:13.500789+00:00",
   "is_public": false,
-  "modified": "2017-09-26T07:40:13.500538+00:00",
+  "modified": "2017-09-26T07:40:47.449867+00:00",
   "notes": [
     {
       "bug": 1265755,
@@ -37,26 +37,6 @@
       "tag": "New"
     },
     {
-      "bug": 1351571,
-      "created": "2017-08-07T19:47:35.242385+00:00",
-      "id": 787204,
-      "is_public": true,
-      "modified": "2017-09-26T07:40:13.514678+00:00",
-      "note": "Get feature recommendations and hints to improve your Firefox experience",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
-      "bug": 1345752,
-      "created": "2017-08-04T22:32:09.002838+00:00",
-      "id": 787200,
-      "is_public": true,
-      "modified": "2017-09-26T07:40:13.514678+00:00",
-      "note": "Improved support for HLS (HTTP Live Streaming) playback ",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
       "bug": 1316462,
       "created": "2017-08-04T22:30:24.340691+00:00",
       "id": 787198,
@@ -78,10 +58,10 @@
     }
   ],
   "product": "Firefox for Android",
-  "release_date": "2017-08-08",
-  "slug": "firefox-for-android-copy-56.0beta-beta",
+  "release_date": "2017-09-28",
+  "slug": "firefox-for-android-56.0-release",
   "system_requirements": "## Operating systems\r\n - Android 4.1\r\n - Above versions\r\n\r\n## Requirements\r\n - 50 MB internal storage\r\n - 384 MB of RAM\r\n - display at least 320 pixels high and 240 pixels wide\r\n",
   "text": "",
-  "title": "Firefox for Android copy-56.0beta Beta",
-  "version": "copy-56.0beta"
+  "title": "Firefox for Android 56.0 Release",
+  "version": "56.0"
 }
