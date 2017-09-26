@@ -4,8 +4,38 @@
   "channel": "Release",
   "created": "2017-09-15T17:01:12.130269+00:00",
   "is_public": false,
-  "modified": "2017-09-15T17:01:12.130095+00:00",
+  "modified": "2017-09-26T07:13:02.316339+00:00",
   "notes": [
+    {
+      "bug": 990176,
+      "created": "2017-09-26T07:23:46.749563+00:00",
+      "id": 787255,
+      "is_public": true,
+      "modified": "2017-09-26T07:23:46.749390+00:00",
+      "note": "Added support for address form autofill (en-US only)",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1308154,
+      "created": "2017-09-26T07:20:18.709758+00:00",
+      "id": 787254,
+      "is_public": true,
+      "modified": "2017-09-26T07:20:18.709560+00:00",
+      "note": "Media opened in a background tab will not play until the tab is selected\r\n",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1386333,
+      "created": "2017-09-26T07:18:53.058947+00:00",
+      "id": 787253,
+      "is_public": true,
+      "modified": "2017-09-26T07:18:53.058766+00:00",
+      "note": "Launched [Firefox Screenshots][1], a feature that lets users take, save, and share screenshots without leaving the browser\r\n\r\n\r\n  [1]: https://screenshots.firefox.com/#tour",
+      "sort_num": 0,
+      "tag": "New"
+    },
     {
       "bug": 1394550,
       "created": "2017-09-15T17:03:32.948582+00:00",
@@ -20,8 +50,8 @@
   "product": "Firefox",
   "release_date": "2017-09-28",
   "slug": "firefox-56.0-release",
-  "system_requirements": "",
-  "text": "",
+  "system_requirements": "## Windows\r\n\r\n### Operating Systems (32-bit and 64-bit)\r\n - Windows 7\r\n - Windows 8\r\n - Windows 10\r\n\r\n### Recommended Hardware\r\n-  Pentium 4 or newer processor that supports SSE2\r\n-  512MB of RAM / 2G of RAM for the 64-bit version\r\n-  200MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- macOS 10.9\r\n- macOS 10.10\r\n- macOS 10.11\r\n- macOS 10.12\r\n- macOS 10.13\r\n\r\n### Recommended Hardware\r\n- Macintosh computer with an Intel x86 processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - GTK+ 3.4 or higher\r\n    - GLib 2.22 or higher\r\n    - Pango 1.14 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n    - libstdc++ 4.6.1 or higher\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - NetworkManager 0.7 or higher\r\n    - DBus 1.0 or higher\r\n    - GNOME 2.16 or higher\r\n    - PulseAudio",
+  "text": "Today's release gives Firefox users a better experience with features like Firefox Screenshots and more control over the browser with an improved (and searchable) preferences section. It also includes incremental performance improvements that move us closer to our biggest release of the year, coming in November. \r\n\r\nWe'd like to extend a special thank you to all of the [new Mozillians][1] who contributed to this release of Firefox!\r\n\r\n\r\n  [1]: https://blog.mozilla.org/community/2017/09/14/firefox-56-new-contributors/",
   "title": "Firefox 56.0 Release",
   "version": "56.0"
 }
