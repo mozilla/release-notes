@@ -1,0 +1,67 @@
+{
+  "bug_list": "",
+  "bug_search_url": "",
+  "channel": "Beta",
+  "created": "2017-09-26T08:17:23.316870+00:00",
+  "is_public": false,
+  "modified": "2017-09-26T08:24:48.210515+00:00",
+  "notes": [
+    {
+      "bug": 1377247,
+      "created": "2017-09-26T08:24:26.089295+00:00",
+      "id": 787274,
+      "is_public": true,
+      "modified": "2017-09-26T08:24:26.089102+00:00",
+      "note": "A revamped new tab page with stories recommended by Pocket (US/Canada/Germany)",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1393249,
+      "created": "2017-09-26T08:22:55.515366+00:00",
+      "id": 787272,
+      "is_public": true,
+      "modified": "2017-09-26T08:22:55.515186+00:00",
+      "note": "Added Wolof (wo) locale",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1271998,
+      "created": "2017-09-26T08:22:25.201954+00:00",
+      "id": 787271,
+      "is_public": true,
+      "modified": "2017-09-26T08:22:25.201695+00:00",
+      "note": "Long URLs in the URL bar are now scrollable",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1266683,
+      "created": "2017-09-26T08:21:50.475853+00:00",
+      "id": 787270,
+      "is_public": true,
+      "modified": "2017-09-26T08:21:50.475653+00:00",
+      "note": "Automatically enable private mode on compatible keyboards during private browsing",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1208655,
+      "created": "2017-09-26T08:23:39.925181+00:00",
+      "id": 787273,
+      "is_public": true,
+      "modified": "2017-09-26T08:23:39.924950+00:00",
+      "note": "Allow Android Apps to launch a customized web browser",
+      "sort_num": 0,
+      "tag": "Developer"
+    }
+  ],
+  "product": "Firefox for Android",
+  "release_date": "2017-09-26",
+  "slug": "firefox-for-android-57.0beta-beta",
+  "system_requirements": "## Operating systems\r\n - Android 4.1\r\n - Above versions\r\n\r\n## Requirements\r\n - 50 MB internal storage\r\n - 384 MB of RAM\r\n - display at least 320 pixels high and 240 pixels wide\r\n",
+  "text": "",
+  "title": "Firefox for Android 57.0beta Beta",
+  "version": "57.0beta"
+}
