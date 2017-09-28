@@ -4,7 +4,7 @@
   "channel": "Release",
   "created": "2017-09-15T17:01:12.130269+00:00",
   "is_public": false,
-  "modified": "2017-09-26T15:43:30.569254+00:00",
+  "modified": "2017-09-27T20:33:57.620523+00:00",
   "notes": [
     {
       "bug": 1386333,
@@ -27,22 +27,42 @@
       "tag": "New"
     },
     {
-      "bug": 1308154,
-      "created": "2017-09-26T07:20:18.709758+00:00",
-      "id": 787254,
-      "is_public": true,
-      "modified": "2017-09-26T16:34:39.705400+00:00",
-      "note": "Media is no longer auto-played when opened in a background tab",
-      "sort_num": 85,
-      "tag": "New"
-    },
-    {
       "bug": 1357285,
       "created": "2017-09-26T07:29:29.100456+00:00",
       "id": 787256,
       "is_public": true,
-      "modified": "2017-09-26T07:45:01.428506+00:00",
-      "note": "Updated Preferences \r\n\r\n - Added search tool so users can find a specific setting quickly\r\n - Reorganized preferences so users can more easily scan settings\r\n - Rewrote descriptions so users can better understand choices and how they affect browsing\r\n - Revised data collection choices so they align with updated Privacy Notice and data collection strategy#\r\n",
+      "modified": "2017-09-27T20:05:06.400869+00:00",
+      "note": "Updated Preferences \r\n\r\n - Added search tool so users can find a specific setting quickly\r\n - Reorganized preferences so users can more easily scan settings\r\n - Rewrote descriptions so users can better understand choices and how they affect browsing\r\n - Revised data collection choices so they align with [updated Privacy Notice][1] and [data collection strategy][2]\r\n\r\n\r\n  [1]: https://blog.mozilla.org/netpolicy/2017/09/06/making-privacy-transparent/\r\n  [2]: https://blog.mozilla.org/futurereleases/2017/09/06/data-just-living/",
+      "sort_num": 88,
+      "tag": "New"
+    },
+    {
+      "bug": 1308154,
+      "created": "2017-09-26T07:20:18.709758+00:00",
+      "id": 787254,
+      "is_public": true,
+      "modified": "2017-09-27T20:05:35.941546+00:00",
+      "note": "Media opened in a background tab will not play until the tab is selected",
+      "sort_num": 85,
+      "tag": "New"
+    },
+    {
+      "bug": 1385207,
+      "created": "2017-09-27T20:24:12.894200+00:00",
+      "id": 787278,
+      "is_public": true,
+      "modified": "2017-09-27T20:24:12.893896+00:00",
+      "note": "Users running Firefox for Windows over a Remote Desktop Connection (RDP) may find that audio playback is disabled due to increased security restrictions. Learn how to mitigate this issue until it is corrected in an upcoming release",
+      "sort_num": 0,
+      "tag": ""
+    },
+    {
+      "bug": 1359894,
+      "created": "2017-09-27T19:53:34.365570+00:00",
+      "id": 787277,
+      "is_public": true,
+      "modified": "2017-09-27T19:53:34.365284+00:00",
+      "note": "Improved Send Tabs feature of Sync for iOS and Android, and Send Tabs can be discovered even by users without a Firefox Account",
       "sort_num": 0,
       "tag": "New"
     },
@@ -67,16 +87,6 @@
       "tag": "Changed"
     },
     {
-      "bug": 641212,
-      "created": "2017-09-26T07:35:15.062267+00:00",
-      "id": 787260,
-      "is_public": true,
-      "modified": "2017-09-26T07:35:15.062082+00:00",
-      "note": "Smaller downloads (approximately a 20% reduction in size) for updating",
-      "sort_num": 0,
-      "tag": "Changed"
-    },
-    {
       "bug": 1167038,
       "created": "2017-09-26T07:34:31.518503+00:00",
       "id": 787259,
@@ -93,6 +103,16 @@
       "is_public": true,
       "modified": "2017-09-26T07:33:17.643939+00:00",
       "note": "Replaced character encoding converters with a new [Encoding Standard][1]-compliant implementation written in Rust\r\n\r\n\r\n  [1]: https://encoding.spec.whatwg.org/",
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
+      "bug": 641212,
+      "created": "2017-09-26T07:35:15.062267+00:00",
+      "id": 787260,
+      "is_public": true,
+      "modified": "2017-09-27T19:54:44.783800+00:00",
+      "note": "Reduced update download file size by approximately 20 percent",
       "sort_num": 0,
       "tag": "Changed"
     },
@@ -131,7 +151,7 @@
   "release_date": "2017-09-28",
   "slug": "firefox-56.0-release",
   "system_requirements": "## Windows\r\n\r\n### Operating Systems (32-bit and 64-bit)\r\n - Windows 7\r\n - Windows 8\r\n - Windows 10\r\n\r\n### Recommended Hardware\r\n-  Pentium 4 or newer processor that supports SSE2\r\n-  512MB of RAM / 2G of RAM for the 64-bit version\r\n-  200MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- macOS 10.9\r\n- macOS 10.10\r\n- macOS 10.11\r\n- macOS 10.12\r\n- macOS 10.13\r\n\r\n### Recommended Hardware\r\n- Macintosh computer with an Intel x86 processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - GTK+ 3.4 or higher\r\n    - GLib 2.22 or higher\r\n    - Pango 1.14 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n    - libstdc++ 4.6.1 or higher\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - NetworkManager 0.7 or higher\r\n    - DBus 1.0 or higher\r\n    - GNOME 2.16 or higher\r\n    - PulseAudio",
-  "text": "Today's release gives Firefox users a better experience with features like Firefox Screenshots and more control over the browser with an improved (and searchable) preferences section. It also includes incremental performance improvements that move us closer to our biggest release of the year, coming in November. \r\n\r\nWe'd like to extend a special thank you to all of the [new Mozillians][1] who contributed to this release of Firefox!\r\n\r\n\r\n  [1]: https://blog.mozilla.org/community/2017/09/14/firefox-56-new-contributors/",
+  "text": "Today's release gives Firefox users a better experience with features like Firefox Screenshots, Send Tabs, and more control over the browser with an improved (and searchable) preferences section. It also includes incremental performance improvements that move us closer to our biggest release of the year, coming in November. \r\n\r\nWe'd like to extend a special thank you to all of the [new Mozillians][1] who contributed to this release of Firefox!\r\n\r\n\r\n  [1]: https://blog.mozilla.org/community/2017/09/14/firefox-56-new-contributors/",
   "title": "Firefox 56.0 Release",
   "version": "56.0"
 }
