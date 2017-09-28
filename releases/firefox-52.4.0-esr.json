@@ -25,6 +25,16 @@
       "note": "Various stability and regression fixes",
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": 1047098,
+      "created": "2017-09-28T09:46:13.887989+00:00",
+      "id": 787280,
+      "is_public": false,
+      "modified": "2017-09-28T09:46:13.887651+00:00",
+      "note": "\"Clear Recent History\" with \"Cache\" or \"Offline Website Data\" doesn't clear all stored data.",
+      "sort_num": 0,
+      "tag": "Known"
     }
   ],
   "product": "Firefox Extended Support Release",
