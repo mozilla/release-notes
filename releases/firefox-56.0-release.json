@@ -127,6 +127,16 @@
       "tag": "Known"
     },
     {
+      "bug": 1385207,
+      "created": "2017-09-27T20:24:12.894200+00:00",
+      "id": 787278,
+      "is_public": true,
+      "modified": "2017-09-28T16:43:31.953122+00:00",
+      "note": "Users running Firefox for Windows over a Remote Desktop Connection (RDP) may find that audio playback is disabled due to increased security restrictions. [Learn how to mitigate this issue][1] until it is corrected in an upcoming release\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/i-cant-play-audio-remote-desktop-connection",
+      "sort_num": 0,
+      "tag": "Known"
+    },
+    {
       "bug": 1369361,
       "created": "2017-09-26T15:42:15.826666+00:00",
       "id": 787276,
@@ -137,12 +147,12 @@
       "tag": "Known"
     },
     {
-      "bug": 1385207,
-      "created": "2017-09-27T20:24:12.894200+00:00",
-      "id": 787278,
+      "bug": 1390125,
+      "created": "2017-09-28T18:11:44.324166+00:00",
+      "id": 787281,
       "is_public": true,
-      "modified": "2017-09-28T16:43:31.953122+00:00",
-      "note": "Users running Firefox for Windows over a Remote Desktop Connection (RDP) may find that audio playback is disabled due to increased security restrictions. [Learn how to mitigate this issue][1] until it is corrected in an upcoming release\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/i-cant-play-audio-remote-desktop-connection",
+      "modified": "2017-09-28T18:11:44.323966+00:00",
+      "note": "Due to a bug in Mac OS X High Sierra, fullscreen mode has some issues",
       "sort_num": 0,
       "tag": "Known"
     }
