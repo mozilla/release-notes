@@ -1,4 +1,6 @@
-#!/bin/bash -ex
+#!/bin/bash
+
+set -exo pipefail
 
 UPDATE_FILE=".new-revision-pushed"
 IMAGE_NAME="${DOCKER_IMAGE_NAME:-release-notes-json}"
@@ -28,4 +30,8 @@ if [[ "$1" == "commit" ]]; then
     else
         echo "No new release updates"
     fi
+fi
+
+if [[ -n "$SNITCH_URL" ]]; then
+    curl "$SNITCH_URL"
 fi
