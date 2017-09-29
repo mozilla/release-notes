@@ -51,8 +51,8 @@
       "created": "2017-09-27T19:53:34.365570+00:00",
       "id": 787277,
       "is_public": true,
-      "modified": "2017-09-28T15:47:10.609024+00:00",
-      "note": "Improved [Send Tabs][1] feature of Sync for iOS and Android, and Send Tabs can be discovered even by users without a Firefox Account\r\n\r\n\r\n  [1]: http://Hyperlink%20%E2%80%9CSend%20Tabs%20feature%20of%20Sync%E2%80%9D%20to%20https://www.mozilla.org/en-US/firefox/features/send-tabs",
+      "modified": "2017-09-29T17:05:42.921049+00:00",
+      "note": "Improved [Send Tabs][1] feature of Sync for iOS and Android, and Send Tabs can be discovered even by users without a Firefox Account\r\n\r\n\r\n  [1]: https://www.mozilla.org/firefox/features/send-tabs",
       "sort_num": 0,
       "tag": "New"
     },
@@ -127,6 +127,16 @@
       "tag": "Known"
     },
     {
+      "bug": 1390125,
+      "created": "2017-09-28T18:11:44.324166+00:00",
+      "id": 787281,
+      "is_public": true,
+      "modified": "2017-09-28T18:11:44.323966+00:00",
+      "note": "Due to a bug in Mac OS X High Sierra, fullscreen mode has some issues",
+      "sort_num": 0,
+      "tag": "Known"
+    },
+    {
       "bug": 1385207,
       "created": "2017-09-27T20:24:12.894200+00:00",
       "id": 787278,
@@ -143,16 +153,6 @@
       "is_public": true,
       "modified": "2017-09-26T15:42:15.826452+00:00",
       "note": "Startup crashes with 64-bit Firefox on Windows 7, for users of Lenovo's \"OneKey Theater\" software for IdeaPad laptops. To fix this crash, please [re-install 32-bit Firefox](https://www.mozilla.org/firefox/all/).",
-      "sort_num": 0,
-      "tag": "Known"
-    },
-    {
-      "bug": 1390125,
-      "created": "2017-09-28T18:11:44.324166+00:00",
-      "id": 787281,
-      "is_public": true,
-      "modified": "2017-09-28T18:11:44.323966+00:00",
-      "note": "Due to a bug in Mac OS X High Sierra, fullscreen mode has some issues",
       "sort_num": 0,
       "tag": "Known"
     }
