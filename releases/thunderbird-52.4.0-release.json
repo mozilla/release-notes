@@ -3,15 +3,15 @@
   "bug_search_url": "https://bugzilla.mozilla.org/buglist.cgi?o1=equals&v1=54%2B&f1=cf_tracking_thunderbird_esr52&query_format=advanced&list_id=13634735",
   "channel": "Release",
   "created": "2017-10-06T13:17:09.684506+00:00",
-  "is_public": false,
-  "modified": "2017-10-06T13:23:05.972650+00:00",
+  "is_public": true,
+  "modified": "2017-10-06T20:58:14.632235+00:00",
   "notes": [
     {
       "bug": 1392371,
       "created": "2017-10-06T13:22:41.218345+00:00",
       "fixed_in_release": {
         "channel": "Release",
-        "is_public": false,
+        "is_public": true,
         "product": "Thunderbird",
         "slug": "thunderbird-52.4.0-release",
         "title": "Thunderbird 52.4.0 Release",
@@ -29,7 +29,7 @@
       "created": "2017-10-06T13:21:27.786806+00:00",
       "fixed_in_release": {
         "channel": "Release",
-        "is_public": false,
+        "is_public": true,
         "product": "Thunderbird",
         "slug": "thunderbird-52.4.0-release",
         "title": "Thunderbird 52.4.0 Release",
@@ -55,8 +55,18 @@
       },
       "id": 787239,
       "is_public": true,
-      "modified": "2017-10-06T13:19:58.304033+00:00",
+      "modified": "2017-10-06T20:57:25.981776+00:00",
       "note": "IMAP UIDs > 0x7FFFFFFF not handled properly",
+      "sort_num": 1,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2017-10-06T20:57:43.538488+00:00",
+      "id": 787288,
+      "is_public": true,
+      "modified": "2017-10-06T20:57:43.538306+00:00",
+      "note": "Various [security fixes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/en-US/security/known-vulnerabilities/thunderbird/#thunderbird52.4",
       "sort_num": 0,
       "tag": "Fixed"
     }
