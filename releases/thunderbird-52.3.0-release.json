@@ -19,26 +19,8 @@
       },
       "id": 787238,
       "is_public": true,
-      "modified": "2017-08-18T11:21:13.800592+00:00",
+      "modified": "2017-10-06T13:18:16.521970+00:00",
       "note": "Various [security fixes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/en-US/security/known-vulnerabilities/thunderbird/#thunderbird52.3",
-      "sort_num": 0,
-      "tag": "Fixed"
-    },
-    {
-      "bug": 549106,
-      "created": "2017-08-07T21:02:35.058778+00:00",
-      "fixed_in_release": {
-        "channel": "Beta",
-        "is_public": true,
-        "product": "Thunderbird",
-        "slug": "thunderbird-56.0beta-beta",
-        "title": "Thunderbird 56.0beta Beta",
-        "version": "56.0beta"
-      },
-      "id": 787214,
-      "is_public": true,
-      "modified": "2017-08-16T18:32:26.387420+00:00",
-      "note": "Inline images not scaled to fit when printing",
       "sort_num": 0,
       "tag": "Fixed"
     },
@@ -55,7 +37,7 @@
       },
       "id": 787226,
       "is_public": true,
-      "modified": "2017-08-16T18:26:40.404104+00:00",
+      "modified": "2017-10-06T13:18:14.665201+00:00",
       "note": "Large attachments taking a long time to open under some circumstances",
       "sort_num": 0,
       "tag": "Fixed"
@@ -73,7 +55,7 @@
       },
       "id": 787218,
       "is_public": true,
-      "modified": "2017-08-16T18:26:30.133153+00:00",
+      "modified": "2017-10-06T13:18:13.419491+00:00",
       "note": "No authorisation prompt displayed when inserting image into email body although image URL requires authentication",
       "sort_num": 0,
       "tag": "Fixed"
@@ -91,8 +73,26 @@
       },
       "id": 787217,
       "is_public": true,
-      "modified": "2017-08-16T18:26:08.235468+00:00",
+      "modified": "2017-10-06T13:18:12.596315+00:00",
       "note": "Selected text from another message sometimes included in a reply",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 549106,
+      "created": "2017-08-07T21:02:35.058778+00:00",
+      "fixed_in_release": {
+        "channel": "Beta",
+        "is_public": true,
+        "product": "Thunderbird",
+        "slug": "thunderbird-56.0beta-beta",
+        "title": "Thunderbird 56.0beta Beta",
+        "version": "56.0beta"
+      },
+      "id": 787214,
+      "is_public": true,
+      "modified": "2017-10-06T13:18:11.818791+00:00",
+      "note": "Inline images not scaled to fit when printing",
       "sort_num": 0,
       "tag": "Fixed"
     },
@@ -109,7 +109,7 @@
       },
       "id": 787212,
       "is_public": true,
-      "modified": "2017-08-16T18:25:36.612898+00:00",
+      "modified": "2017-10-06T13:18:10.844692+00:00",
       "note": "Message disposition flag (replied / forwarded) lost when reply or forwarded message was stored as draft and draft was sent later",
       "sort_num": 0,
       "tag": "Fixed"
@@ -127,7 +127,7 @@
       },
       "id": 787211,
       "is_public": true,
-      "modified": "2017-08-16T18:25:25.319269+00:00",
+      "modified": "2017-10-06T13:18:09.843632+00:00",
       "note": "Deleting message from the POP3 server not working when maildir storage was used",
       "sort_num": 0,
       "tag": "Fixed"
@@ -145,7 +145,7 @@
       },
       "id": 787208,
       "is_public": true,
-      "modified": "2017-08-16T18:25:02.267382+00:00",
+      "modified": "2017-10-06T13:18:08.972700+00:00",
       "note": "Unwanted inline images shown in rogue SPAM messages",
       "sort_num": 0,
       "tag": "Fixed"
@@ -155,7 +155,7 @@
       "created": "2017-06-21T21:47:33.369875+00:00",
       "id": 787158,
       "is_public": true,
-      "modified": "2017-08-16T18:21:48.345353+00:00",
+      "modified": "2017-10-06T13:18:07.594571+00:00",
       "note": "Multiple requests for master password when GMail OAuth2 is enabled",
       "sort_num": 0,
       "tag": "Known"
@@ -165,7 +165,7 @@
       "created": "2017-06-13T08:40:01.450076+00:00",
       "id": 787152,
       "is_public": true,
-      "modified": "2017-08-16T18:21:48.345353+00:00",
+      "modified": "2017-10-06T13:18:05.954311+00:00",
       "note": "On Windows, \"Send to > Mail recipient\" does not work. Workaround: Install the [Microsoft Visual Studio 2015 redistributable runtime library][1] or the [Universal C Runtime for Windows Server][2].\r\n\r\n\r\n  [1]: https://www.microsoft.com/en-us/download/details.aspx?id=53587\r\n  [2]: https://support.microsoft.com/en-us/help/2999226/update-for-universal-c-runtime-in-windows",
       "sort_num": 0,
       "tag": "Known"
