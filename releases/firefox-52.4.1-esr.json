@@ -2,27 +2,37 @@
   "bug_list": "",
   "bug_search_url": "",
   "channel": "ESR",
-  "created": "2017-09-28T07:31:09.872139+00:00",
-  "is_public": true,
-  "modified": "2017-09-28T16:09:05.958547+00:00",
+  "created": "2017-10-09T13:26:43.979148+00:00",
+  "is_public": false,
+  "modified": "2017-10-09T13:30:19.476034+00:00",
   "notes": [
     {
       "bug": null,
-      "created": "2017-09-28T07:31:51.680308+00:00",
-      "id": 787279,
+      "created": "2017-10-09T13:34:06.907740+00:00",
+      "id": 787294,
       "is_public": true,
-      "modified": "2017-10-09T13:30:27.682279+00:00",
-      "note": "Various [security fixes][1]\r\n\r\n[1]: https://www.mozilla.org/en-US/security/known-vulnerabilities/firefox-esr/#firefoxesr52.4",
+      "modified": "2017-10-09T13:34:06.907530+00:00",
+      "note": "Reference link to [52.4.0 release notes][1]\r\n\r\n[1]: https://www.mozilla.org/firefox/52.4.0/releasenotes",
+      "sort_num": 0,
+      "tag": ""
+    },
+    {
+      "bug": 1389908,
+      "created": "2017-10-09T13:32:46.112151+00:00",
+      "id": 787293,
+      "is_public": true,
+      "modified": "2017-10-09T13:33:25.451263+00:00",
+      "note": "Fixed a crash when using the color picker on macOS 10.13",
       "sort_num": 0,
       "tag": "Fixed"
     },
     {
-      "bug": null,
-      "created": "2017-08-07T03:56:37.420091+00:00",
-      "id": 787201,
+      "bug": 1376163,
+      "created": "2017-10-09T13:31:28.094246+00:00",
+      "id": 787292,
       "is_public": true,
-      "modified": "2017-10-09T13:30:26.093811+00:00",
-      "note": "Various stability and regression fixes",
+      "modified": "2017-10-09T13:31:28.094061+00:00",
+      "note": "Fixed a crash when playing videos on macOS 10.13",
       "sort_num": 0,
       "tag": "Fixed"
     },
@@ -38,10 +48,10 @@
     }
   ],
   "product": "Firefox Extended Support Release",
-  "release_date": "2017-09-28",
-  "slug": "firefox-52.4.0-esr",
+  "release_date": "2017-10-09",
+  "slug": "firefox-52.4.1-esr",
   "system_requirements": "## Windows\r\n\r\n### Operating Systems (32-bit and 64-bit)\r\n - Windows XP SP2\r\n - Windows Server 2003 SP1\r\n - Windows Vista\r\n - Windows 7\r\n - Windows 8\r\n - Windows 10\r\n\r\n*Please note that 64-bit builds of Firefox are only supported on Windows 7 and higher.*\r\n\r\n*[The 52esr family will be the last release to run on Windows XP and Vista][2]*\r\n\r\n### Recommended Hardware\r\n-  Pentium 4 or newer processor that supports SSE2\r\n-  512MB of RAM\r\n-  200MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- macOS 10.9\r\n- macOS 10.10\r\n- macOS 10.11\r\n- macOS 10.12\r\n\r\n### Recommended Hardware\r\n- Macintosh computer with an Intel x86 processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - GTK+ 3.4 or higher\r\n    - GLib 2.22 or higher\r\n    - Pango 1.14 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n    - libstdc++ 4.6.1 or higher\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - NetworkManager 0.7 or higher\r\n    - DBus 1.0 or higher\r\n    - GNOME 2.16 or higher\r\n    - PulseAudio\r\n\r\n  [1]: https://support.mozilla.org/kb/get-latest-version-firefox-windows-xp-vista\r\n  [2]: https://blog.mozilla.org/futurereleases/2016/12/23/firefox-support-for-xp-and-vista/",
   "text": "",
-  "title": "Firefox Extended Support Release 52.4.0 ESR",
-  "version": "52.4.0"
+  "title": "Firefox Extended Support Release 52.4.1 ESR",
+  "version": "52.4.1"
 }
