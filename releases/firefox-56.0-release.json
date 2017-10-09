@@ -11,7 +11,7 @@
       "created": "2017-09-26T07:18:53.058947+00:00",
       "id": 787253,
       "is_public": true,
-      "modified": "2017-09-26T16:25:25.952369+00:00",
+      "modified": "2017-10-09T09:08:43.672364+00:00",
       "note": "Launched [Firefox Screenshots][1], a feature that lets users take, save, and share screenshots without leaving the browser\r\n\r\n\r\n  [1]: https://screenshots.firefox.com/#tour",
       "sort_num": 95,
       "tag": "New"
@@ -21,7 +21,7 @@
       "created": "2017-09-26T07:23:46.749563+00:00",
       "id": 787255,
       "is_public": true,
-      "modified": "2017-09-28T15:49:36.562317+00:00",
+      "modified": "2017-10-09T09:09:26.376700+00:00",
       "note": "Added support for [address form autofill][1] (en-US only)\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/automatically-fill-your-address-forms",
       "sort_num": 90,
       "tag": "New"
@@ -31,7 +31,7 @@
       "created": "2017-09-26T07:29:29.100456+00:00",
       "id": 787256,
       "is_public": true,
-      "modified": "2017-09-27T20:05:06.400869+00:00",
+      "modified": "2017-10-09T09:09:23.934625+00:00",
       "note": "Updated Preferences \r\n\r\n - Added search tool so users can find a specific setting quickly\r\n - Reorganized preferences so users can more easily scan settings\r\n - Rewrote descriptions so users can better understand choices and how they affect browsing\r\n - Revised data collection choices so they align with [updated Privacy Notice][1] and [data collection strategy][2]\r\n\r\n\r\n  [1]: https://blog.mozilla.org/netpolicy/2017/09/06/making-privacy-transparent/\r\n  [2]: https://blog.mozilla.org/futurereleases/2017/09/06/data-just-living/",
       "sort_num": 88,
       "tag": "New"
@@ -41,7 +41,7 @@
       "created": "2017-09-26T07:20:18.709758+00:00",
       "id": 787254,
       "is_public": true,
-      "modified": "2017-09-27T20:05:35.941546+00:00",
+      "modified": "2017-10-09T09:09:33.265343+00:00",
       "note": "Media opened in a background tab will not play until the tab is selected",
       "sort_num": 85,
       "tag": "New"
@@ -51,7 +51,7 @@
       "created": "2017-09-27T19:53:34.365570+00:00",
       "id": 787277,
       "is_public": true,
-      "modified": "2017-09-29T17:05:42.921049+00:00",
+      "modified": "2017-10-09T09:08:59.381899+00:00",
       "note": "Improved [Send Tabs][1] feature of Sync for iOS and Android, and Send Tabs can be discovered even by users without a Firefox Account\r\n\r\n\r\n  [1]: https://www.mozilla.org/firefox/features/send-tabs",
       "sort_num": 0,
       "tag": "New"
@@ -61,7 +61,7 @@
       "created": "2017-09-26T07:33:17.644124+00:00",
       "id": 787257,
       "is_public": true,
-      "modified": "2017-09-28T15:50:21.248034+00:00",
+      "modified": "2017-10-09T09:09:22.067074+00:00",
       "note": "Replaced character encoding converters with a new [Encoding Standard][1]-compliant implementation written in Rust\r\n\r\n\r\n  [1]: https://encoding.spec.whatwg.org/",
       "sort_num": 50,
       "tag": "Changed"
@@ -71,7 +71,7 @@
       "created": "2017-09-26T07:33:52.971855+00:00",
       "id": 787258,
       "is_public": true,
-      "modified": "2017-09-28T15:50:53.706334+00:00",
+      "modified": "2017-10-09T09:09:19.695279+00:00",
       "note": "Added hardware acceleration for [AES-GCM][1]\r\n\r\n\r\n  [1]: https://www.franziskuskiefer.de/post/aes-gcm-speedup/",
       "sort_num": 48,
       "tag": "Changed"
@@ -81,7 +81,7 @@
       "created": "2017-09-26T07:34:31.518503+00:00",
       "id": 787259,
       "is_public": true,
-      "modified": "2017-09-28T15:51:27.667742+00:00",
+      "modified": "2017-10-09T09:09:18.483949+00:00",
       "note": "Updated the Safe Browsing protocol to version 4\r\n",
       "sort_num": 46,
       "tag": "Changed"
@@ -91,7 +91,7 @@
       "created": "2017-09-26T07:35:15.062267+00:00",
       "id": 787260,
       "is_public": true,
-      "modified": "2017-09-28T15:52:06.616834+00:00",
+      "modified": "2017-10-09T09:09:16.432185+00:00",
       "note": "Reduced update download file size by approximately 20 percent",
       "sort_num": 44,
       "tag": "Changed"
@@ -101,7 +101,7 @@
       "created": "2017-09-26T07:35:51.342436+00:00",
       "id": 787261,
       "is_public": true,
-      "modified": "2017-09-26T07:35:51.342174+00:00",
+      "modified": "2017-10-09T09:09:15.411796+00:00",
       "note": "Improved security for verifying update downloads",
       "sort_num": 0,
       "tag": "Changed"
@@ -111,7 +111,7 @@
       "created": "2017-09-26T07:36:25.701885+00:00",
       "id": 787262,
       "is_public": true,
-      "modified": "2017-09-26T08:31:13.894956+00:00",
+      "modified": "2017-10-09T09:09:13.292753+00:00",
       "note": "Added Layout Panel to [CSS Grid DevTools][1]\r\n\r\n\r\n  [1]: https://medium.com/mozilla-tech/master-css-grid-with-firefox-devtools-e3420a8d58fd\r\n",
       "sort_num": 0,
       "tag": "Developer"
@@ -121,7 +121,7 @@
       "created": "2017-10-02T20:46:55.849106+00:00",
       "id": 787282,
       "is_public": true,
-      "modified": "2017-10-02T21:37:42.156807+00:00",
+      "modified": "2017-10-09T09:08:49.032859+00:00",
       "note": "Various [security fixes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/known-vulnerabilities/firefox/#firefox56",
       "sort_num": 0,
       "tag": "Fixed"
@@ -131,7 +131,7 @@
       "created": "2017-09-15T17:03:32.948582+00:00",
       "id": 787247,
       "is_public": true,
-      "modified": "2017-09-15T17:32:14.613188+00:00",
+      "modified": "2017-10-09T09:08:12.331024+00:00",
       "note": "Startup crash with RelevantKnowledge adware installed. Firefox Support has helpful [instructions to remove it][1].\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/troubleshoot-firefox-issues-caused-malware",
       "sort_num": 0,
       "tag": "Known"
@@ -141,7 +141,7 @@
       "created": "2017-09-28T18:11:44.324166+00:00",
       "id": 787281,
       "is_public": true,
-      "modified": "2017-09-28T18:11:44.323966+00:00",
+      "modified": "2017-10-09T09:08:12.331024+00:00",
       "note": "Due to a bug in Mac OS X High Sierra, fullscreen mode has some issues",
       "sort_num": 0,
       "tag": "Known"
@@ -151,7 +151,7 @@
       "created": "2017-09-27T20:24:12.894200+00:00",
       "id": 787278,
       "is_public": true,
-      "modified": "2017-09-28T16:43:31.953122+00:00",
+      "modified": "2017-10-09T09:08:12.331024+00:00",
       "note": "Users running Firefox for Windows over a Remote Desktop Connection (RDP) may find that audio playback is disabled due to increased security restrictions. [Learn how to mitigate this issue][1] until it is corrected in an upcoming release\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/i-cant-play-audio-remote-desktop-connection",
       "sort_num": 0,
       "tag": "Known"
@@ -161,7 +161,7 @@
       "created": "2017-09-26T15:42:15.826666+00:00",
       "id": 787276,
       "is_public": true,
-      "modified": "2017-09-26T15:42:15.826452+00:00",
+      "modified": "2017-10-09T09:08:12.331024+00:00",
       "note": "Startup crashes with 64-bit Firefox on Windows 7, for users of Lenovo's \"OneKey Theater\" software for IdeaPad laptops. To fix this crash, please [re-install 32-bit Firefox](https://www.mozilla.org/firefox/all/).",
       "sort_num": 0,
       "tag": "Known"
