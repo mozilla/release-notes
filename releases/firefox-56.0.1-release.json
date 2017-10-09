@@ -4,8 +4,28 @@
   "channel": "Release",
   "created": "2017-10-09T09:08:12.314136+00:00",
   "is_public": false,
-  "modified": "2017-10-09T09:08:12.313940+00:00",
+  "modified": "2017-10-09T09:13:24.569841+00:00",
   "notes": [
+    {
+      "bug": null,
+      "created": "2017-10-09T09:15:39.151243+00:00",
+      "id": 787290,
+      "is_public": true,
+      "modified": "2017-10-09T09:15:39.150981+00:00",
+      "note": "Reference link to [56.0 release notes][1]\r\n\r\n[1]: https://www.mozilla.org/firefox/56.0/releasenotes",
+      "sort_num": 0,
+      "tag": ""
+    },
+    {
+      "bug": 1403353,
+      "created": "2017-10-09T09:12:19.352058+00:00",
+      "id": 787289,
+      "is_public": true,
+      "modified": "2017-10-09T09:12:19.351776+00:00",
+      "note": "Block D3D11 when using Intel drivers on Windows 7 systems with partial AVX support ([bug 1403353][1])\r\n\r\n[1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1403353",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
     {
       "bug": 1390125,
       "created": "2017-09-28T18:11:44.324166+00:00",
@@ -48,10 +68,10 @@
     }
   ],
   "product": "Firefox",
-  "release_date": "2017-09-28",
-  "slug": "firefox-copy-56.0-release",
+  "release_date": "2017-10-09",
+  "slug": "firefox-56.0.1-release",
   "system_requirements": "## Windows\r\n\r\n### Operating Systems (32-bit and 64-bit)\r\n - Windows 7\r\n - Windows 8\r\n - Windows 10\r\n\r\n### Recommended Hardware\r\n-  Pentium 4 or newer processor that supports SSE2\r\n-  512MB of RAM / 2G of RAM for the 64-bit version\r\n-  200MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- macOS 10.9\r\n- macOS 10.10\r\n- macOS 10.11\r\n- macOS 10.12\r\n- macOS 10.13\r\n\r\n### Recommended Hardware\r\n- Macintosh computer with an Intel x86 processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - GTK+ 3.4 or higher\r\n    - GLib 2.22 or higher\r\n    - Pango 1.14 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n    - libstdc++ 4.6.1 or higher\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - NetworkManager 0.7 or higher\r\n    - DBus 1.0 or higher\r\n    - GNOME 2.16 or higher\r\n    - PulseAudio",
-  "text": "Today's release gives Firefox users a better experience with features like Firefox Screenshots, Send Tabs, and more control over the browser with an improved (and searchable) preferences section. It also includes incremental performance improvements that move us closer to our biggest release of the year, coming in November. \r\n\r\nWe'd like to extend a special thank you to all of the [new Mozillians][1] who contributed to this release of Firefox!\r\n\r\n\r\n  [1]: https://blog.mozilla.org/community/2017/09/14/firefox-56-new-contributors/",
-  "title": "Firefox copy-56.0 Release",
-  "version": "copy-56.0"
+  "text": "This release migrates users of 32-bit Firefox on 64-bit Windows to 64-bit Firefox for increased stability and security.",
+  "title": "Firefox 56.0.1 Release",
+  "version": "56.0.1"
 }
