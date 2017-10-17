@@ -4,8 +4,26 @@
   "channel": "Beta",
   "created": "2017-08-07T20:33:59.956039+00:00",
   "is_public": true,
-  "modified": "2017-08-21T07:06:49.440232+00:00",
+  "modified": "2017-10-17T21:49:35.771294+00:00",
   "notes": [
+    {
+      "bug": 1392371,
+      "created": "2017-10-06T13:22:41.218345+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": true,
+        "product": "Thunderbird",
+        "slug": "thunderbird-52.4.0-release",
+        "title": "Thunderbird 52.4.0 Release",
+        "version": "52.4.0"
+      },
+      "id": 787287,
+      "is_public": true,
+      "modified": "2017-10-17T21:51:20.898868+00:00",
+      "note": "In Thunderbird 52 a new behavior was introduced for replies to mailing list posts: \"When replying to a mailing list, reply will be sent to address in From header ignoring Reply-to header\". A new preference mail.override_list_reply_to allows to restore the previous behavior.",
+      "sort_num": 0,
+      "tag": "New"
+    },
     {
       "bug": 1384007,
       "created": "2017-08-07T20:34:40.009185+00:00",
@@ -97,6 +115,24 @@
       "tag": "Changed"
     },
     {
+      "bug": 1395620,
+      "created": "2017-10-06T13:21:27.786806+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": true,
+        "product": "Thunderbird",
+        "slug": "thunderbird-52.4.0-release",
+        "title": "Thunderbird 52.4.0 Release",
+        "version": "52.4.0"
+      },
+      "id": 787286,
+      "is_public": true,
+      "modified": "2017-10-17T21:51:10.536276+00:00",
+      "note": "Under certain circumstances (image attachment and non-image attachment), attached images were shown truncated in messages stored in IMAP folders not synchronised for offline use.",
+      "sort_num": 5,
+      "tag": "Fixed"
+    },
+    {
       "bug": 1391128,
       "created": "2017-08-21T07:07:27.525022+00:00",
       "fixed_in_release": {
@@ -112,6 +148,24 @@
       "modified": "2017-10-06T20:57:25.981776+00:00",
       "note": "IMAP UIDs > 0x7FFFFFFF not handled properly",
       "sort_num": 1,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1387581,
+      "created": "2017-10-17T21:53:07.951769+00:00",
+      "fixed_in_release": {
+        "channel": "Beta",
+        "is_public": true,
+        "product": "Thunderbird",
+        "slug": "thunderbird-56.0beta-beta",
+        "title": "Thunderbird 56.0beta Beta",
+        "version": "56.0beta"
+      },
+      "id": 787295,
+      "is_public": true,
+      "modified": "2017-10-17T21:53:07.951586+00:00",
+      "note": "In search folders spanning multiple base folders clicking on a message sometimes marked another message as read",
+      "sort_num": 0,
       "tag": "Fixed"
     },
     {
@@ -275,13 +329,49 @@
       "note": "Contacts sidebar: Selection and context menu behavior",
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": 1400359,
+      "created": "2017-10-17T21:54:20.302073+00:00",
+      "fixed_in_release": {
+        "channel": "Beta",
+        "is_public": true,
+        "product": "Thunderbird",
+        "slug": "thunderbird-56.0beta-beta",
+        "title": "Thunderbird 56.0beta Beta",
+        "version": "56.0beta"
+      },
+      "id": 787297,
+      "is_public": true,
+      "modified": "2017-10-17T21:54:20.301785+00:00",
+      "note": "POP alerts have been corrected and now indicate connection problems in case the configured POP server cannot be found",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1401026,
+      "created": "2017-10-17T21:53:41.021847+00:00",
+      "fixed_in_release": {
+        "channel": "Beta",
+        "is_public": true,
+        "product": "Thunderbird",
+        "slug": "thunderbird-56.0beta-beta",
+        "title": "Thunderbird 56.0beta Beta",
+        "version": "56.0beta"
+      },
+      "id": 787296,
+      "is_public": true,
+      "modified": "2017-10-17T21:53:41.021627+00:00",
+      "note": "IMAP alerts have been corrected and now show the correct server name in case of connection problems",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Thunderbird",
-  "release_date": "2017-08-21",
+  "release_date": "2017-10-17",
   "slug": "thunderbird-56.0beta-beta",
   "system_requirements": "## Windows\r\n\r\n### Operating Systems\r\n - Windows 7\r\n - Windows 8\r\n - Windows 10\r\n - Windows Server 2008 R2\r\n\r\n*Please note that while the 32-bit and 64-bit versions of Windows can be used to run Thunderbird, only 32-bit builds of Thunderbird are supported at this time.*\r\n\r\n**Note that Thunderbird 56 only supports Windows 7, 8 and 10 and Windows Server 2008 R2.**\r\n  \r\n### Windows Recommended Hardware\r\n   - Pentium 4 or newer processor that supports SSE2\r\n   - 1GB RAM\r\n   - 200 MB hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n  \r\n### Operating Systems\r\n  \r\n- Mac OS X 10.9\r\n- Mac OS X 10.10\r\n- Mac OS X 10.11\r\n- Mac OS X 10.12\r\n  \r\n###  Recommended Hardware\r\n  \r\n -  Macintosh computer with an Intel x86 processor\r\n -  512 MB RAM\r\n -  200 MB hard drive space\r\n\r\n---\r\n  \r\n## GNU/Linux\r\n### Software Requirements\r\n  \r\n  *Please note that Linux distributors may provide packages for your distribution which have different requirements.*\r\n  \r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Thunderbird will not run at all without the following libraries or packages:\r\n    - GTK+ 3.4 or higher\r\n    - GLib 2.22 or higher\r\n    - Pango 1.14 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n    - libstdc++ 4.6.1 or higher\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - NetworkManager 0.7 or higher\r\n    - DBus 1.0 or higher\r\n    - GNOME 2.16 or higher\r\n    ",
-  "text": "**These release notes apply to Thunderbird version 56 beta 3 released August 21st, 2017.**",
+  "text": "**These release notes apply to Thunderbird version 56 beta 4 released October 17th, 2017.**",
   "title": "Thunderbird 56.0beta Beta",
   "version": "56.0beta"
 }
