@@ -37,6 +37,16 @@
       "tag": "Fixed"
     },
     {
+      "bug": 1409275,
+      "created": "2017-10-19T12:06:16.425215+00:00",
+      "id": 787298,
+      "is_public": true,
+      "modified": "2017-10-19T12:06:16.425032+00:00",
+      "note": "GSSAPI and Kerberos authentication _do_ work in 64-Bit Windows Firefox. However it requires the advanced setting \"network.negotiate-auth.gsslib\" to contain the string \"gssapi64.dll\" because the default value (which is chosen if left empty) is wrong. Future versions of Firefox will contain a correct default value.",
+      "sort_num": 0,
+      "tag": "Known"
+    },
+    {
       "bug": 1390125,
       "created": "2017-09-28T18:11:44.324166+00:00",
       "id": 787281,
