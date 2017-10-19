@@ -37,6 +37,16 @@
       "tag": "Fixed"
     },
     {
+      "bug": null,
+      "created": "2017-10-19T12:46:01.355750+00:00",
+      "id": 787299,
+      "is_public": true,
+      "modified": "2017-10-19T12:46:01.355571+00:00",
+      "note": "Some third party software (Comodo Internet Security, Kaspersky, Quick Heal Antivirus) are known to cause issues with Firefox 64-bit. These vendors have published new releases which addresses the issues.\r\n",
+      "sort_num": 0,
+      "tag": "Known"
+    },
+    {
       "bug": 1409275,
       "created": "2017-10-19T12:06:16.425215+00:00",
       "id": 787298,
