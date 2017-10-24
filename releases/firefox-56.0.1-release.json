@@ -41,8 +41,8 @@
       "created": "2017-10-24T18:43:14.651748+00:00",
       "id": 787300,
       "is_public": true,
-      "modified": "2017-10-24T18:43:56.638724+00:00",
-      "note": "Some versions of the Quick Heal security software can cause 64-bit Firefox startup crashes on Windows. Quick Heal has fixed the crash in the latest version of their software. To fix this crash, please install the latest Quick heal update or [re-install 32-bit Firefox](https://www.mozilla.org/firefox/all/).",
+      "modified": "2017-10-24T19:24:39.321459+00:00",
+      "note": "Some older versions of the ATOK IME, including ATOK 2008 and 2009, can cause crashes or may not work on the Windows 64-bit version of Firefox. To fix those incompatibility issues, please use a newer version of ATOK or one of other IMEs.",
       "sort_num": 0,
       "tag": "Known"
     },
