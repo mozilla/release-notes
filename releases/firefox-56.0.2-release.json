@@ -3,8 +3,8 @@
   "bug_search_url": "",
   "channel": "Release",
   "created": "2017-10-25T21:18:37.257899+00:00",
-  "is_public": false,
-  "modified": "2017-10-25T21:18:37.257704+00:00",
+  "is_public": true,
+  "modified": "2017-10-26T15:12:48.345202+00:00",
   "notes": [
     {
       "bug": null,
@@ -17,22 +17,22 @@
       "tag": ""
     },
     {
+      "bug": 1404531,
+      "created": "2017-10-25T21:43:23.092699+00:00",
+      "id": 787304,
+      "is_public": true,
+      "modified": "2017-10-26T15:18:30.877690+00:00",
+      "note": "Disable Form Autofill completely on user request ([Bug 1404531][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1404531",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
       "bug": 1409141,
       "created": "2017-10-25T21:25:08.962446+00:00",
       "id": 787303,
       "is_public": true,
       "modified": "2017-10-25T21:46:16.160180+00:00",
       "note": "Fix for video-related crashes on Windows 7 ([Bug 1409141][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1409141",
-      "sort_num": 0,
-      "tag": "Fixed"
-    },
-    {
-      "bug": 1404531,
-      "created": "2017-10-25T21:43:23.092699+00:00",
-      "id": 787304,
-      "is_public": true,
-      "modified": "2017-10-25T21:43:23.092430+00:00",
-      "note": "Disable Form Autofill completely on user request (Bug 1404531)",
       "sort_num": 0,
       "tag": "Fixed"
     },
