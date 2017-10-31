@@ -37,6 +37,16 @@
       "tag": "New"
     },
     {
+      "bug": 1244754,
+      "created": "2016-04-28T14:52:41.476009+00:00",
+      "id": 786604,
+      "is_public": true,
+      "modified": "2016-08-17T09:14:45.649988+00:00",
+      "note": "GNU/Linux fans: Get better Canvas performance with speedy Skia support. Try saying that three times fast",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1116578,
       "created": "2016-04-28T21:35:05.160523+00:00",
       "id": 786609,
@@ -63,16 +73,6 @@
       "is_public": true,
       "modified": "2016-08-17T09:15:08.066560+00:00",
       "note": "WebRTC embetterments:\r\n\r\n - Delay-agnostic AEC enabled\r\n - Full duplex for GNU/Linux enabled\r\n - [ICE Restart][1] & Update is supported\r\n - Cloning of MediaStream and MediaStreamTrack is now supported\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API/Session_lifetime#ICE_restart",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
-      "bug": 1244754,
-      "created": "2016-04-28T14:52:41.476009+00:00",
-      "id": 786604,
-      "is_public": true,
-      "modified": "2016-08-17T09:14:45.649988+00:00",
-      "note": "GNU/Linux fans: Get better Canvas performance with speedy Skia support. Try saying that three times fast",
       "sort_num": 0,
       "tag": "New"
     },
@@ -107,6 +107,16 @@
       "tag": "Changed"
     },
     {
+      "bug": 1269811,
+      "created": "2016-05-04T11:47:18.208702+00:00",
+      "id": 786664,
+      "is_public": true,
+      "modified": "2016-08-04T18:26:10.726968+00:00",
+      "note": "[So long to support for 10.6, 10.7 and 10.8][1]. Now we can focus on where most Mac users are: 10.9. Don't forget to upgrade!\r\n\r\n  [1]: https://blog.mozilla.org/futurereleases/2016/04/29/update-on-firefox-support-for-os-x/",
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
       "bug": 1271759,
       "created": "2016-08-01T09:43:04.079496+00:00",
       "id": 786749,
@@ -117,14 +127,14 @@
       "tag": "Changed"
     },
     {
-      "bug": 1269811,
-      "created": "2016-05-04T11:47:18.208702+00:00",
-      "id": 786664,
+      "bug": 842818,
+      "created": "2016-04-28T21:33:32.293489+00:00",
+      "id": 786606,
       "is_public": true,
-      "modified": "2016-08-04T18:26:10.726968+00:00",
-      "note": "[So long to support for 10.6, 10.7 and 10.8][1]. Now we can focus on where most Mac users are: 10.9. Don't forget to upgrade!\r\n\r\n  [1]: https://blog.mozilla.org/futurereleases/2016/04/29/update-on-firefox-support-for-os-x/",
+      "modified": "2016-08-17T09:14:48.284637+00:00",
+      "note": "Workers can now use the [Web Crypto API][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/SubtleCrypto",
       "sort_num": 0,
-      "tag": "Changed"
+      "tag": "Developer"
     },
     {
       "bug": 1211525,
@@ -203,16 +213,6 @@
       "is_public": true,
       "modified": "2016-08-17T09:15:12.756521+00:00",
       "note": "Want to [move absolute & fixed positioned elements?][1] (Who doesn't, right?) Now you can with our geometry editor.\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector/How_to/Reposition_elements_in_the_page",
-      "sort_num": 0,
-      "tag": "Developer"
-    },
-    {
-      "bug": 842818,
-      "created": "2016-04-28T21:33:32.293489+00:00",
-      "id": 786606,
-      "is_public": true,
-      "modified": "2016-08-17T09:14:48.284637+00:00",
-      "note": "Workers can now use the [Web Crypto API][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/SubtleCrypto",
       "sort_num": 0,
       "tag": "Developer"
     },

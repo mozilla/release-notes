@@ -105,6 +105,26 @@
       "tag": "Changed"
     },
     {
+      "bug": 1004579,
+      "created": "2013-11-25T00:24:42+00:00",
+      "id": 93,
+      "is_public": true,
+      "modified": "2014-09-23T08:43:43+00:00",
+      "note": "drawFocusIfNeeded enabled by default",
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 934423,
+      "created": "2014-03-04T10:07:48+00:00",
+      "id": 785453,
+      "is_public": true,
+      "modified": "2014-09-23T08:43:43+00:00",
+      "note": "ECMAScript 6 built-in method [Array#copyWithin implemented][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/Firefox/Releases/32#JavaScript",
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
       "bug": 916315,
       "created": "2014-03-26T16:24:31+00:00",
       "id": 785519,
@@ -175,26 +195,6 @@
       "tag": "HTML5"
     },
     {
-      "bug": 934423,
-      "created": "2014-03-04T10:07:48+00:00",
-      "id": 785453,
-      "is_public": true,
-      "modified": "2014-09-23T08:43:43+00:00",
-      "note": "ECMAScript 6 built-in method [Array#copyWithin implemented][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/Firefox/Releases/32#JavaScript",
-      "sort_num": 0,
-      "tag": "HTML5"
-    },
-    {
-      "bug": 1004579,
-      "created": "2013-11-25T00:24:42+00:00",
-      "id": 93,
-      "is_public": true,
-      "modified": "2014-09-23T08:43:43+00:00",
-      "note": "drawFocusIfNeeded enabled by default",
-      "sort_num": 0,
-      "tag": "HTML5"
-    },
-    {
       "bug": 837188,
       "created": "2014-03-26T16:36:33+00:00",
       "id": 785536,
@@ -245,6 +245,16 @@
       "tag": "Developer"
     },
     {
+      "bug": null,
+      "created": "2013-11-25T00:24:50+00:00",
+      "id": 161,
+      "is_public": true,
+      "modified": "2015-03-26T15:55:42+00:00",
+      "note": "Various <a href=\"https://www.mozilla.org/security/known-vulnerabilities/firefox.html\">security fixes</a>",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
       "bug": 1008793,
       "created": "2014-07-17T15:25:19+00:00",
       "fixed_in_release": {
@@ -269,16 +279,6 @@
       "is_public": true,
       "modified": "2014-09-23T08:43:43+00:00",
       "note": "Text Rendering Issues on Windows 7 with Platform Update KB2670838 (MSIE 10 Prerequisite) or on Windows 8.1",
-      "sort_num": 0,
-      "tag": "Fixed"
-    },
-    {
-      "bug": null,
-      "created": "2013-11-25T00:24:50+00:00",
-      "id": 161,
-      "is_public": true,
-      "modified": "2015-03-26T15:55:42+00:00",
-      "note": "Various <a href=\"https://www.mozilla.org/security/known-vulnerabilities/firefox.html\">security fixes</a>",
       "sort_num": 0,
       "tag": "Fixed"
     },

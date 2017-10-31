@@ -7,22 +7,12 @@
   "modified": "2017-09-26T12:30:18.807491+00:00",
   "notes": [
     {
-      "bug": 1377247,
-      "created": "2017-09-26T08:24:26.089295+00:00",
-      "id": 787274,
+      "bug": 1266683,
+      "created": "2017-09-26T08:21:50.475853+00:00",
+      "id": 787270,
       "is_public": true,
-      "modified": "2017-09-26T08:24:26.089102+00:00",
-      "note": "A revamped new tab page with stories recommended by Pocket (US/Canada/Germany)",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
-      "bug": 1393249,
-      "created": "2017-09-26T08:22:55.515366+00:00",
-      "id": 787272,
-      "is_public": true,
-      "modified": "2017-09-26T08:22:55.515186+00:00",
-      "note": "Added Wolof (wo) locale",
+      "modified": "2017-09-26T08:21:50.475653+00:00",
+      "note": "Automatically enable private mode on compatible keyboards during private browsing",
       "sort_num": 0,
       "tag": "New"
     },
@@ -37,12 +27,22 @@
       "tag": "New"
     },
     {
-      "bug": 1266683,
-      "created": "2017-09-26T08:21:50.475853+00:00",
-      "id": 787270,
+      "bug": 1393249,
+      "created": "2017-09-26T08:22:55.515366+00:00",
+      "id": 787272,
       "is_public": true,
-      "modified": "2017-09-26T08:21:50.475653+00:00",
-      "note": "Automatically enable private mode on compatible keyboards during private browsing",
+      "modified": "2017-09-26T08:22:55.515186+00:00",
+      "note": "Added Wolof (wo) locale",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1377247,
+      "created": "2017-09-26T08:24:26.089295+00:00",
+      "id": 787274,
+      "is_public": true,
+      "modified": "2017-09-26T08:24:26.089102+00:00",
+      "note": "A revamped new tab page with stories recommended by Pocket (US/Canada/Germany)",
       "sort_num": 0,
       "tag": "New"
     },

@@ -57,6 +57,16 @@
       "tag": "New"
     },
     {
+      "bug": 1072164,
+      "created": "2014-10-07T02:27:18+00:00",
+      "id": 785747,
+      "is_public": true,
+      "modified": "2014-11-14T22:22:08+00:00",
+      "note": "PDF.js: With some images, wrong colors could show up. Affects a very small number of PDF",
+      "sort_num": 0,
+      "tag": "Known"
+    },
+    {
       "bug": 1087674,
       "created": "2014-10-29T16:05:46+00:00",
       "id": 785767,
@@ -73,16 +83,6 @@
       "is_public": true,
       "modified": "2014-11-14T22:22:08+00:00",
       "note": "Windows: On some combination of hardware and drivers, some flickering can happen\r\n",
-      "sort_num": 0,
-      "tag": "Known"
-    },
-    {
-      "bug": 1072164,
-      "created": "2014-10-07T02:27:18+00:00",
-      "id": 785747,
-      "is_public": true,
-      "modified": "2014-11-14T22:22:08+00:00",
-      "note": "PDF.js: With some images, wrong colors could show up. Affects a very small number of PDF",
       "sort_num": 0,
       "tag": "Known"
     }

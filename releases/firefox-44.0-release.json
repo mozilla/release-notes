@@ -7,12 +7,12 @@
   "modified": "2016-01-26T15:02:22.293639+00:00",
   "notes": [
     {
-      "bug": 1217170,
-      "created": "2015-12-14T23:54:47+00:00",
-      "id": 786385,
+      "bug": null,
+      "created": "2015-11-03T14:24:05+00:00",
+      "id": 786355,
       "is_public": true,
       "modified": "2016-01-21T20:51:49.831889+00:00",
-      "note": "Enable WebM/VP9 video support on systems that don't support MP4/H.264",
+      "note": "Improved warning pages for certificate errors and untrusted connections",
       "sort_num": 0,
       "tag": "New"
     },
@@ -27,12 +27,12 @@
       "tag": "New"
     },
     {
-      "bug": null,
-      "created": "2015-11-03T14:24:05+00:00",
-      "id": 786355,
+      "bug": 1217170,
+      "created": "2015-12-14T23:54:47+00:00",
+      "id": 786385,
       "is_public": true,
       "modified": "2016-01-21T20:51:49.831889+00:00",
-      "note": "Improved warning pages for certificate errors and untrusted connections",
+      "note": "Enable WebM/VP9 video support on systems that don't support MP4/H.264",
       "sort_num": 0,
       "tag": "New"
     },
@@ -77,12 +77,12 @@
       "tag": "New"
     },
     {
-      "bug": 1205843,
-      "created": "2015-12-18T17:59:58.789204+00:00",
-      "id": 786400,
+      "bug": null,
+      "created": "2015-11-03T14:24:57+00:00",
+      "id": 786356,
       "is_public": true,
-      "modified": "2016-01-21T20:51:49.831889+00:00",
-      "note": "Use a SHA-256 signing certificate for Windows builds, to meet new signing requirements",
+      "modified": "2016-01-29T18:06:49.513160+00:00",
+      "note": "Firefox has removed support for the RC4 cipher",
       "sort_num": 0,
       "tag": "Changed"
     },
@@ -103,6 +103,16 @@
       "is_public": true,
       "modified": "2016-01-21T21:05:46.432447+00:00",
       "note": "Firefox will no longer trust the Equifax Secure Certificate Authority 1024-bit root certificate or the UTN - DATACorp SGC to validate secure [website certificates][1]\r\n\r\n\r\n  [1]: https://support.mozilla.org/ta/kb/secure-website-certificate",
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
+      "bug": 1205843,
+      "created": "2015-12-18T17:59:58.789204+00:00",
+      "id": 786400,
+      "is_public": true,
+      "modified": "2016-01-21T20:51:49.831889+00:00",
+      "note": "Use a SHA-256 signing certificate for Windows builds, to meet new signing requirements",
       "sort_num": 0,
       "tag": "Changed"
     },
@@ -137,14 +147,24 @@
       "tag": "Changed"
     },
     {
-      "bug": null,
-      "created": "2015-11-03T14:24:57+00:00",
-      "id": 786356,
+      "bug": 1025778,
+      "created": "2015-11-02T09:28:26+00:00",
+      "id": 786345,
       "is_public": true,
-      "modified": "2016-01-29T18:06:49.513160+00:00",
-      "note": "Firefox has removed support for the RC4 cipher",
+      "modified": "2016-01-21T20:51:49.831889+00:00",
+      "note": "Right click on a logged object in the console to store it as a global variable on the page",
       "sort_num": 0,
-      "tag": "Changed"
+      "tag": "Developer"
+    },
+    {
+      "bug": 1194146,
+      "created": "2015-11-02T11:15:40+00:00",
+      "id": 786349,
+      "is_public": true,
+      "modified": "2016-01-21T20:51:49.831889+00:00",
+      "note": "Visual tools for Animation:\r\n\r\n -  View/Edit CSS animation keyframe rules directly in the inspector\r\n -  Visually modify the cubic-bezier curve that drives the way animations progress through time\r\n -  [Discover and scrub through all CSS animations][1] and transitions playing on the page\r\n - Learn more: http://devtoolschallenger.com/\r\n\r\n\r\n  [1]: https://www.youtube.com/watch?v=T2jykykN3yc",
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
       "bug": 1194146,
@@ -153,36 +173,6 @@
       "is_public": true,
       "modified": "2016-01-21T20:51:49.831889+00:00",
       "note": "Visual tools for Layout and Styles:\r\n\r\n - Display rulers along the viewport to verify size and position and use the measurement tool to easily detect spacing and alignment problems\r\n - [Use CSS filters to preview and create][1] real-time effects like drop-shadows, sepia, etc\r\n - Learn more: http://devtoolschallenger.com/\r\n\r\n\r\n  [1]: https://www.youtube.com/watch?v=t3NKmmWfklU",
-      "sort_num": 0,
-      "tag": "Developer"
-    },
-    {
-      "bug": 852931,
-      "created": "2015-12-14T20:59:01+00:00",
-      "id": 786376,
-      "is_public": true,
-      "modified": "2016-01-21T20:51:49.831889+00:00",
-      "note": "Jump to [function definitions in the debugger][1] with Cmd-Click\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Keyboard_shortcuts#Debugger",
-      "sort_num": 0,
-      "tag": "Developer"
-    },
-    {
-      "bug": 1203802,
-      "created": "2015-12-14T21:04:58+00:00",
-      "id": 786378,
-      "is_public": true,
-      "modified": "2016-01-21T20:51:49.831889+00:00",
-      "note": "[WebSocket Debugging API][1] and add-on\r\n\r\n\r\n  [1]: https://hacks.mozilla.org/2015/11/developer-edition-44-creative-tools-and-more/",
-      "sort_num": 0,
-      "tag": "Developer"
-    },
-    {
-      "bug": 984880,
-      "created": "2015-12-14T22:48:27+00:00",
-      "id": 786383,
-      "is_public": true,
-      "modified": "2016-01-21T20:51:49.831889+00:00",
-      "note": "The rule view now displays styles using their authored text,\r\nand edits in the rule view are now linked to the style editor",
       "sort_num": 0,
       "tag": "Developer"
     },
@@ -217,22 +207,32 @@
       "tag": "Developer"
     },
     {
-      "bug": 1025778,
-      "created": "2015-11-02T09:28:26+00:00",
-      "id": 786345,
+      "bug": 852931,
+      "created": "2015-12-14T20:59:01+00:00",
+      "id": 786376,
       "is_public": true,
       "modified": "2016-01-21T20:51:49.831889+00:00",
-      "note": "Right click on a logged object in the console to store it as a global variable on the page",
+      "note": "Jump to [function definitions in the debugger][1] with Cmd-Click\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Keyboard_shortcuts#Debugger",
       "sort_num": 0,
       "tag": "Developer"
     },
     {
-      "bug": 1194146,
-      "created": "2015-11-02T11:15:40+00:00",
-      "id": 786349,
+      "bug": 1203802,
+      "created": "2015-12-14T21:04:58+00:00",
+      "id": 786378,
       "is_public": true,
       "modified": "2016-01-21T20:51:49.831889+00:00",
-      "note": "Visual tools for Animation:\r\n\r\n -  View/Edit CSS animation keyframe rules directly in the inspector\r\n -  Visually modify the cubic-bezier curve that drives the way animations progress through time\r\n -  [Discover and scrub through all CSS animations][1] and transitions playing on the page\r\n - Learn more: http://devtoolschallenger.com/\r\n\r\n\r\n  [1]: https://www.youtube.com/watch?v=T2jykykN3yc",
+      "note": "[WebSocket Debugging API][1] and add-on\r\n\r\n\r\n  [1]: https://hacks.mozilla.org/2015/11/developer-edition-44-creative-tools-and-more/",
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
+      "bug": 984880,
+      "created": "2015-12-14T22:48:27+00:00",
+      "id": 786383,
+      "is_public": true,
+      "modified": "2016-01-21T20:51:49.831889+00:00",
+      "note": "The rule view now displays styles using their authored text,\r\nand edits in the rule view are now linked to the style editor",
       "sort_num": 0,
       "tag": "Developer"
     },

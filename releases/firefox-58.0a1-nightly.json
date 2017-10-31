@@ -7,22 +7,22 @@
   "modified": "2017-09-22T08:40:04.216144+00:00",
   "notes": [
     {
-      "bug": 1401909,
-      "created": "2017-10-05T11:36:50.128318+00:00",
-      "id": 787285,
-      "is_public": true,
-      "modified": "2017-10-05T11:36:50.128122+00:00",
-      "note": "Video decoding is disabled when not visible, providing both performance and limited battery usage",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
       "bug": 1374399,
       "created": "2017-10-05T11:32:10.932228+00:00",
       "id": 787284,
       "is_public": true,
       "modified": "2017-10-05T11:32:10.932046+00:00",
       "note": "WebVR has been enabled for Mac OS X users",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1401909,
+      "created": "2017-10-05T11:36:50.128318+00:00",
+      "id": 787285,
+      "is_public": true,
+      "modified": "2017-10-05T11:36:50.128122+00:00",
+      "note": "Video decoding is disabled when not visible, providing both performance and limited battery usage",
       "sort_num": 0,
       "tag": "New"
     }

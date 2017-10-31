@@ -87,22 +87,22 @@
       "tag": "Changed"
     },
     {
-      "bug": 1185106,
-      "created": "2016-11-18T22:10:48.155146+00:00",
-      "id": 786883,
+      "bug": 1305769,
+      "created": "2016-11-18T21:00:46.710605+00:00",
+      "id": 786875,
       "is_public": true,
-      "modified": "2017-01-24T13:54:49.970080+00:00",
-      "note": "Introduced ECMAScript 7 [async functions][1] that makes it easier to write asynchronous code without chaining Promises\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function",
+      "modified": "2017-03-06T10:09:23.364873+00:00",
+      "note": "Redesigned [Responsive Design Mode][1] to include device selection, network throttling, and more\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Responsive_Design_Mode",
       "sort_num": 0,
       "tag": "Developer"
     },
     {
-      "bug": 1244402,
-      "created": "2016-11-18T22:21:20.375304+00:00",
-      "id": 786885,
+      "bug": 1127522,
+      "created": "2016-11-18T21:02:20.875339+00:00",
+      "id": 786878,
       "is_public": true,
-      "modified": "2017-01-24T13:53:08.689467+00:00",
-      "note": "[Touch events][1] have been re-enabled on Windows desktop, which will help developers create a better user experience for people using a touchscreen.\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/Touch_events",
+      "modified": "2017-03-06T10:24:48.259576+00:00",
+      "note": "Improved [security for screen sharing][1], which now shows a preview and no longer requires a whitelisted domain\r\n\r\n[1]: https://medium.com/@pastith/feeling-safer-online-with-firefox-b9fe13af6600#0594",
       "sort_num": 0,
       "tag": "Developer"
     },
@@ -125,12 +125,32 @@
       "tag": "Developer"
     },
     {
+      "bug": 1185106,
+      "created": "2016-11-18T22:10:48.155146+00:00",
+      "id": 786883,
+      "is_public": true,
+      "modified": "2017-01-24T13:54:49.970080+00:00",
+      "note": "Introduced ECMAScript 7 [async functions][1] that makes it easier to write asynchronous code without chaining Promises\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function",
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
       "bug": 1243846,
       "created": "2016-11-18T22:12:29.899878+00:00",
       "id": 786884,
       "is_public": false,
       "modified": "2017-01-27T22:19:55.457691+00:00",
       "note": "Added the [Intersection Observer API][1] to help developers improve site performance by deferring content loading and significantly lower the cost of content visibility checks\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API",
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
+      "bug": 1244402,
+      "created": "2016-11-18T22:21:20.375304+00:00",
+      "id": 786885,
+      "is_public": true,
+      "modified": "2017-01-24T13:53:08.689467+00:00",
+      "note": "[Touch events][1] have been re-enabled on Windows desktop, which will help developers create a better user experience for people using a touchscreen.\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/Touch_events",
       "sort_num": 0,
       "tag": "Developer"
     },
@@ -151,26 +171,6 @@
       "is_public": true,
       "modified": "2017-01-24T13:39:21.372677+00:00",
       "note": "Introduced the [selection events API][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/Selection",
-      "sort_num": 0,
-      "tag": "Developer"
-    },
-    {
-      "bug": 1305769,
-      "created": "2016-11-18T21:00:46.710605+00:00",
-      "id": 786875,
-      "is_public": true,
-      "modified": "2017-03-06T10:09:23.364873+00:00",
-      "note": "Redesigned [Responsive Design Mode][1] to include device selection, network throttling, and more\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Responsive_Design_Mode",
-      "sort_num": 0,
-      "tag": "Developer"
-    },
-    {
-      "bug": 1127522,
-      "created": "2016-11-18T21:02:20.875339+00:00",
-      "id": 786878,
-      "is_public": true,
-      "modified": "2017-03-06T10:24:48.259576+00:00",
-      "note": "Improved [security for screen sharing][1], which now shows a preview and no longer requires a whitelisted domain\r\n\r\n[1]: https://medium.com/@pastith/feeling-safer-online-with-firefox-b9fe13af6600#0594",
       "sort_num": 0,
       "tag": "Developer"
     }

@@ -117,6 +117,24 @@
       "tag": "New"
     },
     {
+      "bug": 893505,
+      "created": "2017-04-18T16:40:23.196756+00:00",
+      "fixed_in_release": {
+        "channel": "Nightly",
+        "is_public": true,
+        "product": "Firefox",
+        "slug": "firefox-55.0a1-nightly",
+        "title": "Firefox 55.0a1 Nightly",
+        "version": "55.0a1"
+      },
+      "id": 787048,
+      "is_public": true,
+      "modified": "2017-08-01T13:51:16.107962+00:00",
+      "note": "Modernized application update UI to be less intrusive and more aligned with the rest of the browser.  Only users who have not restarted their browser 8 days after downloading an update or users who opted out of automatic updates will see this change.",
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
       "bug": 977177,
       "created": "2017-04-19T13:16:55.825333+00:00",
       "id": 787052,
@@ -133,24 +151,6 @@
       "is_public": true,
       "modified": "2017-08-08T06:39:42.278450+00:00",
       "note": "Made the Adobe Flash plugin click-to-activate by default and allowed only on http:// and https:// URL schemes. (This change will not be visible to all users immediately. For more information see the [Firefox plugin roadmap][1])\r\n\r\n\r\n[1]:https://developer.mozilla.org/docs/Plugins/Roadmap\r\n\r\n",
-      "sort_num": 0,
-      "tag": "Changed"
-    },
-    {
-      "bug": 893505,
-      "created": "2017-04-18T16:40:23.196756+00:00",
-      "fixed_in_release": {
-        "channel": "Nightly",
-        "is_public": true,
-        "product": "Firefox",
-        "slug": "firefox-55.0a1-nightly",
-        "title": "Firefox 55.0a1 Nightly",
-        "version": "55.0a1"
-      },
-      "id": 787048,
-      "is_public": true,
-      "modified": "2017-08-01T13:51:16.107962+00:00",
-      "note": "Modernized application update UI to be less intrusive and more aligned with the rest of the browser.  Only users who have not restarted their browser 8 days after downloading an update or users who opted out of automatic updates will see this change.",
       "sort_num": 0,
       "tag": "Changed"
     },

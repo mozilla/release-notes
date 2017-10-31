@@ -99,10 +99,10 @@
         "title": "Firefox for Android 23.0a2 Aurora",
         "version": "23.0a2"
       },
-      "id": 785376,
+      "id": 785375,
       "is_public": true,
       "modified": "2014-04-23T10:53:37+00:00",
-      "note": "Added Serif/Sans Serif font toggle to Reader Mode",
+      "note": "Long press Reader Mode icon to add article to Reading List (try it!)",
       "sort_num": -1,
       "tag": "New"
     },
@@ -117,10 +117,10 @@
         "title": "Firefox for Android 23.0a2 Aurora",
         "version": "23.0a2"
       },
-      "id": 785375,
+      "id": 785376,
       "is_public": true,
       "modified": "2014-04-23T10:53:37+00:00",
-      "note": "Long press Reader Mode icon to add article to Reading List (try it!)",
+      "note": "Added Serif/Sans Serif font toggle to Reader Mode",
       "sort_num": -1,
       "tag": "New"
     },
@@ -243,20 +243,12 @@
       "tag": "Changed"
     },
     {
-      "bug": 886886,
-      "created": "2013-11-25T00:24:32+00:00",
-      "fixed_in_release": {
-        "channel": "Beta",
-        "is_public": true,
-        "product": "Firefox",
-        "slug": "firefox-24.0beta-beta",
-        "title": "Firefox 24.0beta Beta",
-        "version": "24.0beta"
-      },
-      "id": 328,
+      "bug": null,
+      "created": "2013-11-25T00:24:30+00:00",
+      "id": 331,
       "is_public": true,
       "modified": "2014-04-23T10:53:37+00:00",
-      "note": "Replace fixed-ratio audio resampler in webrtc.org capture code with Speex resampler and eliminate pseudo-44000Hz rate",
+      "note": "&lt;input type='file'&gt; rendering improvements (see <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=838675\">bug 838675</a>)",
       "sort_num": -50,
       "tag": "Changed"
     },
@@ -279,12 +271,20 @@
       "tag": "Changed"
     },
     {
-      "bug": null,
-      "created": "2013-11-25T00:24:30+00:00",
-      "id": 331,
+      "bug": 886886,
+      "created": "2013-11-25T00:24:32+00:00",
+      "fixed_in_release": {
+        "channel": "Beta",
+        "is_public": true,
+        "product": "Firefox",
+        "slug": "firefox-24.0beta-beta",
+        "title": "Firefox 24.0beta Beta",
+        "version": "24.0beta"
+      },
+      "id": 328,
       "is_public": true,
       "modified": "2014-04-23T10:53:37+00:00",
-      "note": "&lt;input type='file'&gt; rendering improvements (see <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=838675\">bug 838675</a>)",
+      "note": "Replace fixed-ratio audio resampler in webrtc.org capture code with Speex resampler and eliminate pseudo-44000Hz rate",
       "sort_num": -50,
       "tag": "Changed"
     },

@@ -53,16 +53,6 @@
       "tag": "Fixed"
     },
     {
-      "bug": 1266698,
-      "created": "2016-11-18T19:04:37.896803+00:00",
-      "id": 786868,
-      "is_public": true,
-      "modified": "2016-11-18T19:05:24.093458+00:00",
-      "note": " Attempting to sort messages on the Date field whilst a quick filter is applied got stuck on sort descending",
-      "sort_num": 0,
-      "tag": "Fixed"
-    },
-    {
       "bug": 1023285,
       "created": "2016-09-02T18:08:37.073925+00:00",
       "fixed_in_release": {
@@ -77,6 +67,16 @@
       "is_public": true,
       "modified": "2016-11-19T10:51:58.606481+00:00",
       "note": "Mail address display at header pane displayed incorrectly if the address contains UTF-8 according to RFC 6532",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1266698,
+      "created": "2016-11-18T19:04:37.896803+00:00",
+      "id": 786868,
+      "is_public": true,
+      "modified": "2016-11-18T19:05:24.093458+00:00",
+      "note": " Attempting to sort messages on the Date field whilst a quick filter is applied got stuck on sort descending",
       "sort_num": 0,
       "tag": "Fixed"
     },

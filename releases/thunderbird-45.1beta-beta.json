@@ -7,6 +7,26 @@
   "modified": "2016-05-02T17:57:08.343418+00:00",
   "notes": [
     {
+      "bug": 1257363,
+      "created": "2016-04-29T17:56:42.258732+00:00",
+      "id": 786624,
+      "is_public": true,
+      "modified": "2016-05-05T20:21:18.499317+00:00",
+      "note": "Various improvements in handling of message compose in paragraph mode.",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1265126,
+      "created": "2016-04-29T17:58:28.885601+00:00",
+      "id": 786625,
+      "is_public": true,
+      "modified": "2016-05-05T20:21:18.499317+00:00",
+      "note": "Printing failed in composition window.",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
       "bug": 1265326,
       "created": "2016-04-29T18:01:25.529782+00:00",
       "id": 786626,
@@ -23,26 +43,6 @@
       "is_public": true,
       "modified": "2016-05-05T20:21:18.499317+00:00",
       "note": "DIGEST-MD5 authentication in JS-XMPP failed for some users (now disabled).",
-      "sort_num": 0,
-      "tag": "Fixed"
-    },
-    {
-      "bug": 1265126,
-      "created": "2016-04-29T17:58:28.885601+00:00",
-      "id": 786625,
-      "is_public": true,
-      "modified": "2016-05-05T20:21:18.499317+00:00",
-      "note": "Printing failed in composition window.",
-      "sort_num": 0,
-      "tag": "Fixed"
-    },
-    {
-      "bug": 1257363,
-      "created": "2016-04-29T17:56:42.258732+00:00",
-      "id": 786624,
-      "is_public": true,
-      "modified": "2016-05-05T20:21:18.499317+00:00",
-      "note": "Various improvements in handling of message compose in paragraph mode.",
       "sort_num": 0,
       "tag": "Fixed"
     },

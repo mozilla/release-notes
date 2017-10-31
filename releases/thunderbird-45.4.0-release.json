@@ -17,6 +17,24 @@
       "tag": "Fixed"
     },
     {
+      "bug": 1279869,
+      "created": "2016-09-02T17:58:59.433660+00:00",
+      "fixed_in_release": {
+        "channel": "Beta",
+        "is_public": true,
+        "product": "Thunderbird",
+        "slug": "thunderbird-49.0beta-beta",
+        "title": "Thunderbird 49.0beta Beta",
+        "version": "49.0beta"
+      },
+      "id": 786798,
+      "is_public": true,
+      "modified": "2016-09-30T20:57:40.715242+00:00",
+      "note": "Threading broken when editing message draft, due to loss of Message-ID",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
       "bug": 726281,
       "created": "2016-09-02T18:10:49.139091+00:00",
       "fixed_in_release": {
@@ -31,6 +49,24 @@
       "is_public": true,
       "modified": "2016-09-30T21:00:23.642182+00:00",
       "note": "Mail saved as template copied In-Reply-To and References from original email.",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1287126,
+      "created": "2016-09-02T18:12:36.017854+00:00",
+      "fixed_in_release": {
+        "channel": "Beta",
+        "is_public": true,
+        "product": "Thunderbird",
+        "slug": "thunderbird-49.0beta-beta",
+        "title": "Thunderbird 49.0beta Beta",
+        "version": "49.0beta"
+      },
+      "id": 786804,
+      "is_public": true,
+      "modified": "2016-09-30T20:54:26.179967+00:00",
+      "note": "Additional spaces were inserted when drafts were edited.",
       "sort_num": 0,
       "tag": "Fixed"
     },
@@ -67,42 +103,6 @@
       "is_public": true,
       "modified": "2016-09-30T20:51:03.810703+00:00",
       "note": "Display name was truncated if no separating space before email address.",
-      "sort_num": 0,
-      "tag": "Fixed"
-    },
-    {
-      "bug": 1287126,
-      "created": "2016-09-02T18:12:36.017854+00:00",
-      "fixed_in_release": {
-        "channel": "Beta",
-        "is_public": true,
-        "product": "Thunderbird",
-        "slug": "thunderbird-49.0beta-beta",
-        "title": "Thunderbird 49.0beta Beta",
-        "version": "49.0beta"
-      },
-      "id": 786804,
-      "is_public": true,
-      "modified": "2016-09-30T20:54:26.179967+00:00",
-      "note": "Additional spaces were inserted when drafts were edited.",
-      "sort_num": 0,
-      "tag": "Fixed"
-    },
-    {
-      "bug": 1279869,
-      "created": "2016-09-02T17:58:59.433660+00:00",
-      "fixed_in_release": {
-        "channel": "Beta",
-        "is_public": true,
-        "product": "Thunderbird",
-        "slug": "thunderbird-49.0beta-beta",
-        "title": "Thunderbird 49.0beta Beta",
-        "version": "49.0beta"
-      },
-      "id": 786798,
-      "is_public": true,
-      "modified": "2016-09-30T20:57:40.715242+00:00",
-      "note": "Threading broken when editing message draft, due to loss of Message-ID",
       "sort_num": 0,
       "tag": "Fixed"
     }

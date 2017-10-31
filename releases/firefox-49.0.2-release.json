@@ -17,22 +17,22 @@
       "tag": "New"
     },
     {
-      "bug": 1304539,
-      "created": "2016-10-19T13:16:08.363637+00:00",
-      "id": 786848,
-      "is_public": true,
-      "modified": "2016-11-28T19:47:26.298531+00:00",
-      "note": " Fix a Canvas filters graphics issue affecting HTML5 apps ([Bug 1304539][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1304539",
-      "sort_num": 0,
-      "tag": ""
-    },
-    {
       "bug": null,
       "created": "2016-09-23T18:57:44.214561+00:00",
       "id": 786832,
       "is_public": true,
       "modified": "2016-11-28T19:47:18.982844+00:00",
       "note": "Reference link to [Firefox 49.0.1 release notes][1]\r\n\r\n[1]: https://www.mozilla.org/firefox/49.0.1/releasenotes/",
+      "sort_num": 0,
+      "tag": ""
+    },
+    {
+      "bug": 1304539,
+      "created": "2016-10-19T13:16:08.363637+00:00",
+      "id": 786848,
+      "is_public": true,
+      "modified": "2016-11-28T19:47:26.298531+00:00",
+      "note": " Fix a Canvas filters graphics issue affecting HTML5 apps ([Bug 1304539][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1304539",
       "sort_num": 0,
       "tag": ""
     },
@@ -77,22 +77,22 @@
       "tag": "Fixed"
     },
     {
-      "bug": 1299593,
-      "created": "2016-10-19T13:21:23.106609+00:00",
-      "id": 786850,
-      "is_public": true,
-      "modified": "2016-11-28T19:47:28.314113+00:00",
-      "note": "Web compatibility issue with Array.prototype.values ([Bug 1299593][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1299593",
-      "sort_num": 0,
-      "tag": "Fixed"
-    },
-    {
       "bug": 1306472,
       "created": "2016-10-19T13:10:14.035090+00:00",
       "id": 786847,
       "is_public": true,
       "modified": "2016-11-28T19:53:43.194523+00:00",
       "note": "Web compatibility issue with file uploads ([Bug 1306472][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1306472",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1299593,
+      "created": "2016-10-19T13:21:23.106609+00:00",
+      "id": 786850,
+      "is_public": true,
+      "modified": "2016-11-28T19:47:28.314113+00:00",
+      "note": "Web compatibility issue with Array.prototype.values ([Bug 1299593][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1299593",
       "sort_num": 0,
       "tag": "Fixed"
     },

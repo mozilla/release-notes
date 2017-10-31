@@ -37,6 +37,16 @@
       "tag": "Fixed"
     },
     {
+      "bug": null,
+      "created": "2016-08-17T10:11:07.110959+00:00",
+      "id": 786770,
+      "is_public": true,
+      "modified": "2016-08-17T10:58:19.661984+00:00",
+      "note": "Fix an unsigned add-ons issue on Windows",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
       "bug": 1264530,
       "created": "2016-08-17T10:12:14.997959+00:00",
       "id": 786771,
@@ -73,16 +83,6 @@
       "is_public": true,
       "modified": "2016-08-17T15:07:15.442888+00:00",
       "note": "Fix an audio regression impacting some major websites (bug [1295296][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1295296",
-      "sort_num": 0,
-      "tag": "Fixed"
-    },
-    {
-      "bug": null,
-      "created": "2016-08-17T10:11:07.110959+00:00",
-      "id": 786770,
-      "is_public": true,
-      "modified": "2016-08-17T10:58:19.661984+00:00",
-      "note": "Fix an unsigned add-ons issue on Windows",
       "sort_num": 0,
       "tag": "Fixed"
     },

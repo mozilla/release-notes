@@ -7,12 +7,32 @@
   "modified": "2015-01-26T22:31:39+00:00",
   "notes": [
     {
-      "bug": 1104036,
-      "created": "2015-01-26T14:54:38+00:00",
-      "id": 785921,
+      "bug": 1123732,
+      "created": "2015-01-26T14:40:19+00:00",
+      "id": 785914,
       "is_public": true,
-      "modified": "2015-01-26T14:54:38+00:00",
-      "note": "35.0.1 - With a Right-to-left (RTL) version of Firefox, the text selection could be broken ([1104036][1])\r\n\r\n\r\n  [1]: http://bugzilla.mozilla.org/1104036",
+      "modified": "2015-01-26T14:42:36+00:00",
+      "note": "35.0.1 - With the Enhanced Steam extension, Firefox could crash ([1123732][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1123732",
+      "sort_num": 10000,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1113121,
+      "created": "2015-01-26T14:43:51+00:00",
+      "id": 785915,
+      "is_public": true,
+      "modified": "2015-01-26T15:01:20+00:00",
+      "note": "35.0.1 - On Godaddy webmail, Firefox could crash ([1113121][1])\r\n\r\n\r\n  [1]: http://bugzilla.mozilla.org/1113121",
+      "sort_num": 10000,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1121857,
+      "created": "2015-01-26T14:44:38+00:00",
+      "id": 785916,
+      "is_public": true,
+      "modified": "2015-01-26T15:01:44+00:00",
+      "note": "35.0.1 - document.baseURI did not get updated to document.location after base tag was removed from DOM for site with a CSP  ([1121857][1])\r\n\r\n\r\n  [1]: http://bugzilla.mozilla.org/1121857",
       "sort_num": 10000,
       "tag": "Fixed"
     },
@@ -57,32 +77,12 @@
       "tag": "Fixed"
     },
     {
-      "bug": 1123732,
-      "created": "2015-01-26T14:40:19+00:00",
-      "id": 785914,
+      "bug": 1104036,
+      "created": "2015-01-26T14:54:38+00:00",
+      "id": 785921,
       "is_public": true,
-      "modified": "2015-01-26T14:42:36+00:00",
-      "note": "35.0.1 - With the Enhanced Steam extension, Firefox could crash ([1123732][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1123732",
-      "sort_num": 10000,
-      "tag": "Fixed"
-    },
-    {
-      "bug": 1113121,
-      "created": "2015-01-26T14:43:51+00:00",
-      "id": 785915,
-      "is_public": true,
-      "modified": "2015-01-26T15:01:20+00:00",
-      "note": "35.0.1 - On Godaddy webmail, Firefox could crash ([1113121][1])\r\n\r\n\r\n  [1]: http://bugzilla.mozilla.org/1113121",
-      "sort_num": 10000,
-      "tag": "Fixed"
-    },
-    {
-      "bug": 1121857,
-      "created": "2015-01-26T14:44:38+00:00",
-      "id": 785916,
-      "is_public": true,
-      "modified": "2015-01-26T15:01:44+00:00",
-      "note": "35.0.1 - document.baseURI did not get updated to document.location after base tag was removed from DOM for site with a CSP  ([1121857][1])\r\n\r\n\r\n  [1]: http://bugzilla.mozilla.org/1121857",
+      "modified": "2015-01-26T14:54:38+00:00",
+      "note": "35.0.1 - With a Right-to-left (RTL) version of Firefox, the text selection could be broken ([1104036][1])\r\n\r\n\r\n  [1]: http://bugzilla.mozilla.org/1104036",
       "sort_num": 10000,
       "tag": "Fixed"
     },
@@ -127,6 +127,16 @@
       "tag": "New"
     },
     {
+      "bug": 977991,
+      "created": "2014-10-09T04:27:23+00:00",
+      "id": 785751,
+      "is_public": true,
+      "modified": "2015-02-05T22:57:54+00:00",
+      "note": "Improved handling of dynamic styling changes to increase responsiveness",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 982338,
       "created": "2015-01-12T20:24:41+00:00",
       "id": 785881,
@@ -143,16 +153,6 @@
       "is_public": true,
       "modified": "2015-01-26T14:34:57+00:00",
       "note": "Improved high quality image resizing performance",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
-      "bug": 977991,
-      "created": "2014-10-09T04:27:23+00:00",
-      "id": 785751,
-      "is_public": true,
-      "modified": "2015-02-05T22:57:54+00:00",
-      "note": "Improved handling of dynamic styling changes to increase responsiveness",
       "sort_num": 0,
       "tag": "New"
     },
@@ -197,26 +197,6 @@
       "tag": "HTML5"
     },
     {
-      "bug": 859133,
-      "created": "2015-01-09T00:12:51+00:00",
-      "id": 785876,
-      "is_public": true,
-      "modified": "2015-01-26T14:34:57+00:00",
-      "note": "Network Monitor: New request/response headers view (<a href=\"http://hacks.mozilla.org/2014/12/pseudo-elements-promise-inspection-raw-headers-and-much-more-firefox-developer-edition-36/\">more info</a>)",
-      "sort_num": 0,
-      "tag": "Developer"
-    },
-    {
-      "bug": 1079608,
-      "created": "2015-01-12T20:24:11+00:00",
-      "id": 785880,
-      "is_public": true,
-      "modified": "2015-01-26T14:34:57+00:00",
-      "note": "Added support for the EXT_blend_minmax WebGL extension",
-      "sort_num": 0,
-      "tag": "Developer"
-    },
-    {
       "bug": 920141,
       "created": "2014-10-03T05:58:23+00:00",
       "id": 785745,
@@ -237,22 +217,32 @@
       "tag": "Developer"
     },
     {
+      "bug": 859133,
+      "created": "2015-01-09T00:12:51+00:00",
+      "id": 785876,
+      "is_public": true,
+      "modified": "2015-01-26T14:34:57+00:00",
+      "note": "Network Monitor: New request/response headers view (<a href=\"http://hacks.mozilla.org/2014/12/pseudo-elements-promise-inspection-raw-headers-and-much-more-firefox-developer-edition-36/\">more info</a>)",
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
+      "bug": 1079608,
+      "created": "2015-01-12T20:24:11+00:00",
+      "id": 785880,
+      "is_public": true,
+      "modified": "2015-01-26T14:34:57+00:00",
+      "note": "Added support for the EXT_blend_minmax WebGL extension",
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
       "bug": null,
       "created": "2013-11-25T00:24:50+00:00",
       "id": 161,
       "is_public": true,
       "modified": "2015-03-26T15:55:42+00:00",
       "note": "Various <a href=\"https://www.mozilla.org/security/known-vulnerabilities/firefox.html\">security fixes</a>",
-      "sort_num": 0,
-      "tag": "Fixed"
-    },
-    {
-      "bug": 716491,
-      "created": "2015-01-09T00:13:41+00:00",
-      "id": 785877,
-      "is_public": true,
-      "modified": "2015-01-26T14:34:57+00:00",
-      "note": "Non-HTTP(S) XHR now returns correct status code",
       "sort_num": 0,
       "tag": "Fixed"
     },
@@ -287,12 +277,22 @@
       "tag": "Fixed"
     },
     {
-      "bug": null,
-      "created": "2015-01-12T22:35:53+00:00",
-      "id": 785883,
+      "bug": 716491,
+      "created": "2015-01-09T00:13:41+00:00",
+      "id": 785877,
       "is_public": true,
       "modified": "2015-01-26T14:34:57+00:00",
-      "note": "Issues affecting RTL in Hello can be found <a href=\"https://bugzilla.mozilla.org/buglist.cgi?resolution=---&status_whiteboard_type=allwordssubstr&query_format=advanced&status_whiteboard=RTL&product=Loop&list_id=11842971\">here</a>",
+      "note": "Non-HTTP(S) XHR now returns correct status code",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1113633,
+      "created": "2015-01-08T23:40:10+00:00",
+      "id": 785871,
+      "is_public": true,
+      "modified": "2015-01-26T14:34:57+00:00",
+      "note": "WebGL games might not display some textures (see <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1113633\">bug 1113633</a>)",
       "sort_num": 0,
       "tag": "Known"
     },
@@ -307,12 +307,12 @@
       "tag": "Known"
     },
     {
-      "bug": 1113633,
-      "created": "2015-01-08T23:40:10+00:00",
-      "id": 785871,
+      "bug": null,
+      "created": "2015-01-12T22:35:53+00:00",
+      "id": 785883,
       "is_public": true,
       "modified": "2015-01-26T14:34:57+00:00",
-      "note": "WebGL games might not display some textures (see <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1113633\">bug 1113633</a>)",
+      "note": "Issues affecting RTL in Hello can be found <a href=\"https://bugzilla.mozilla.org/buglist.cgi?resolution=---&status_whiteboard_type=allwordssubstr&query_format=advanced&status_whiteboard=RTL&product=Loop&list_id=11842971\">here</a>",
       "sort_num": 0,
       "tag": "Known"
     }

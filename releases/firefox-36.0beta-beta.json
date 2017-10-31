@@ -57,6 +57,26 @@
       "tag": "Changed"
     },
     {
+      "bug": 1080319,
+      "created": "2014-12-03T00:17:01+00:00",
+      "id": 785851,
+      "is_public": true,
+      "modified": "2015-03-22T11:37:55+00:00",
+      "note": "[`-remote` option][1] removed\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Mozilla/Command_Line_Options#-remote_remote_command",
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
+      "bug": 1088915,
+      "created": "2015-01-08T12:11:27+00:00",
+      "id": 785867,
+      "is_public": true,
+      "modified": "2015-03-26T15:54:39+00:00",
+      "note": "No longer accept insecure RC4 ciphers whenever possible",
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
       "bug": null,
       "created": "2015-02-11T13:31:57+00:00",
       "id": 785925,
@@ -73,26 +93,6 @@
       "is_public": true,
       "modified": "2015-03-21T03:15:59+00:00",
       "note": "Shut down hangs will now show the crash reporter before exiting the program",
-      "sort_num": 0,
-      "tag": "Changed"
-    },
-    {
-      "bug": 1088915,
-      "created": "2015-01-08T12:11:27+00:00",
-      "id": 785867,
-      "is_public": true,
-      "modified": "2015-03-26T15:54:39+00:00",
-      "note": "No longer accept insecure RC4 ciphers whenever possible",
-      "sort_num": 0,
-      "tag": "Changed"
-    },
-    {
-      "bug": 1080319,
-      "created": "2014-12-03T00:17:01+00:00",
-      "id": 785851,
-      "is_public": true,
-      "modified": "2015-03-22T11:37:55+00:00",
-      "note": "[`-remote` option][1] removed\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Mozilla/Command_Line_Options#-remote_remote_command",
       "sort_num": 0,
       "tag": "Changed"
     },
@@ -114,6 +114,36 @@
       "modified": "2015-04-03T04:02:06+00:00",
       "note": "Implemented a subset of the Media Source Extensions (MSE) API to allow native HTML5 playback on YouTube (Windows Vista or later only)",
       "sort_num": 100,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 645416,
+      "created": "2014-07-17T07:38:48+00:00",
+      "id": 785650,
+      "is_public": true,
+      "modified": "2015-03-26T15:55:21+00:00",
+      "note": "Support for the [ECMAScript 6 Symbol][1] data type added\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol\r\n",
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 475891,
+      "created": "2014-12-03T00:13:24+00:00",
+      "id": 785850,
+      "is_public": true,
+      "modified": "2015-03-26T15:55:36+00:00",
+      "note": "[unicode-range CSS descriptor][1] implemented\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/unicode-range",
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 1087562,
+      "created": "2014-12-03T00:25:42+00:00",
+      "id": 785852,
+      "is_public": true,
+      "modified": "2015-03-21T03:15:59+00:00",
+      "note": "CSSOM-View scroll behavior implemented allowing smooth scrolling of content without custom libraries",
+      "sort_num": 0,
       "tag": "HTML5"
     },
     {
@@ -157,16 +187,6 @@
       "tag": "HTML5"
     },
     {
-      "bug": 645416,
-      "created": "2014-07-17T07:38:48+00:00",
-      "id": 785650,
-      "is_public": true,
-      "modified": "2015-03-26T15:55:21+00:00",
-      "note": "Support for the [ECMAScript 6 Symbol][1] data type added\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol\r\n",
-      "sort_num": 0,
-      "tag": "HTML5"
-    },
-    {
       "bug": 611388,
       "created": "2015-01-08T12:18:18+00:00",
       "id": 785869,
@@ -183,26 +203,6 @@
       "is_public": true,
       "modified": "2015-02-19T15:51:08+00:00",
       "note": "[&lt;meta name=\"referrer\"&gt;][1] implemented for more privacy. Allows to control the content of the HTTP referer header.\r\n\r\n\r\n  [1]: https://blog.mozilla.org/security/2015/01/21/meta-referrer/",
-      "sort_num": 0,
-      "tag": "HTML5"
-    },
-    {
-      "bug": 475891,
-      "created": "2014-12-03T00:13:24+00:00",
-      "id": 785850,
-      "is_public": true,
-      "modified": "2015-03-26T15:55:36+00:00",
-      "note": "[unicode-range CSS descriptor][1] implemented\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/unicode-range",
-      "sort_num": 0,
-      "tag": "HTML5"
-    },
-    {
-      "bug": 1087562,
-      "created": "2014-12-03T00:25:42+00:00",
-      "id": 785852,
-      "is_public": true,
-      "modified": "2015-03-21T03:15:59+00:00",
-      "note": "CSSOM-View scroll behavior implemented allowing smooth scrolling of content without custom libraries",
       "sort_num": 0,
       "tag": "HTML5"
     },

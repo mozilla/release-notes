@@ -17,42 +17,12 @@
       "tag": ""
     },
     {
-      "bug": 1375708,
-      "created": "2017-06-28T17:57:10.927189+00:00",
-      "id": 787167,
+      "bug": 1357656,
+      "created": "2017-06-28T17:52:46.714339+00:00",
+      "id": 787162,
       "is_public": true,
-      "modified": "2017-08-10T14:08:02.735650+00:00",
-      "note": "Fix a Netflix issue on Linux ([bug 1375708][1])\r\n\r\n[1]: https://bugzilla.mozilla.org/1375708",
-      "sort_num": 0,
-      "tag": "Fixed"
-    },
-    {
-      "bug": 1366744,
-      "created": "2017-06-28T17:56:03.382505+00:00",
-      "id": 787166,
-      "is_public": true,
-      "modified": "2017-08-10T14:07:57.989280+00:00",
-      "note": "Fix a PDF printing issue ([bug 1366744][1])\r\n\r\n[1]: https://bugzilla.mozilla.org/1366744",
-      "sort_num": 0,
-      "tag": "Fixed"
-    },
-    {
-      "bug": 1373109,
-      "created": "2017-06-28T17:54:55.422696+00:00",
-      "id": 787165,
-      "is_public": true,
-      "modified": "2017-08-10T14:07:53.642244+00:00",
-      "note": "Fix a tab display issue when downloading files ([bug 1373109][1])\r\n\r\n[1]: https://bugzilla.mozilla.org/1373109",
-      "sort_num": 0,
-      "tag": "Fixed"
-    },
-    {
-      "bug": 1371962,
-      "created": "2017-06-28T17:54:29.610631+00:00",
-      "id": 787164,
-      "is_public": true,
-      "modified": "2017-08-10T14:07:48.685912+00:00",
-      "note": "Fix a display issue when opening multiple tabs ([bug 1371962][1])\r\n\r\n[1]: https://bugzilla.mozilla.org/1371962",
+      "modified": "2017-08-10T14:07:28.087406+00:00",
+      "note": "Fix a display issue of tab title ([bug 1357656][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/1357656",
       "sort_num": 0,
       "tag": "Fixed"
     },
@@ -67,12 +37,42 @@
       "tag": "Fixed"
     },
     {
-      "bug": 1357656,
-      "created": "2017-06-28T17:52:46.714339+00:00",
-      "id": 787162,
+      "bug": 1371962,
+      "created": "2017-06-28T17:54:29.610631+00:00",
+      "id": 787164,
       "is_public": true,
-      "modified": "2017-08-10T14:07:28.087406+00:00",
-      "note": "Fix a display issue of tab title ([bug 1357656][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/1357656",
+      "modified": "2017-08-10T14:07:48.685912+00:00",
+      "note": "Fix a display issue when opening multiple tabs ([bug 1371962][1])\r\n\r\n[1]: https://bugzilla.mozilla.org/1371962",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1373109,
+      "created": "2017-06-28T17:54:55.422696+00:00",
+      "id": 787165,
+      "is_public": true,
+      "modified": "2017-08-10T14:07:53.642244+00:00",
+      "note": "Fix a tab display issue when downloading files ([bug 1373109][1])\r\n\r\n[1]: https://bugzilla.mozilla.org/1373109",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1366744,
+      "created": "2017-06-28T17:56:03.382505+00:00",
+      "id": 787166,
+      "is_public": true,
+      "modified": "2017-08-10T14:07:57.989280+00:00",
+      "note": "Fix a PDF printing issue ([bug 1366744][1])\r\n\r\n[1]: https://bugzilla.mozilla.org/1366744",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1375708,
+      "created": "2017-06-28T17:57:10.927189+00:00",
+      "id": 787167,
+      "is_public": true,
+      "modified": "2017-08-10T14:08:02.735650+00:00",
+      "note": "Fix a Netflix issue on Linux ([bug 1375708][1])\r\n\r\n[1]: https://bugzilla.mozilla.org/1375708",
       "sort_num": 0,
       "tag": "Fixed"
     }

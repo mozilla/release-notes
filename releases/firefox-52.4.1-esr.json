@@ -17,22 +17,22 @@
       "tag": ""
     },
     {
-      "bug": 1389908,
-      "created": "2017-10-09T13:32:46.112151+00:00",
-      "id": 787293,
-      "is_public": true,
-      "modified": "2017-10-09T13:33:25.451263+00:00",
-      "note": "Fixed a crash when using the color picker on macOS 10.13",
-      "sort_num": 0,
-      "tag": "Fixed"
-    },
-    {
       "bug": 1376163,
       "created": "2017-10-09T13:31:28.094246+00:00",
       "id": 787292,
       "is_public": true,
       "modified": "2017-10-09T13:31:28.094061+00:00",
       "note": "Fixed a crash when playing videos on macOS 10.13",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1389908,
+      "created": "2017-10-09T13:32:46.112151+00:00",
+      "id": 787293,
+      "is_public": true,
+      "modified": "2017-10-09T13:33:25.451263+00:00",
+      "note": "Fixed a crash when using the color picker on macOS 10.13",
       "sort_num": 0,
       "tag": "Fixed"
     },

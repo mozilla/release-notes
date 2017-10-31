@@ -37,6 +37,16 @@
       "tag": "New"
     },
     {
+      "bug": 1186003,
+      "created": "2015-08-07T20:24:05+00:00",
+      "id": 786219,
+      "is_public": true,
+      "modified": "2016-04-15T19:09:52.357078+00:00",
+      "note": "GTK3 integration (GNU/Linux only)\r\n",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1150944,
       "created": "2015-08-12T13:37:27+00:00",
       "id": 786227,
@@ -77,16 +87,6 @@
       "tag": "New"
     },
     {
-      "bug": 1186003,
-      "created": "2015-08-07T20:24:05+00:00",
-      "id": 786219,
-      "is_public": true,
-      "modified": "2016-04-15T19:09:52.357078+00:00",
-      "note": "GTK3 integration (GNU/Linux only)\r\n",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
       "bug": 1180118,
       "created": "2015-08-12T13:58:52+00:00",
       "id": 786229,
@@ -95,26 +95,6 @@
       "note": "Improved performance on interactive websites that trigger a lot of restyles",
       "sort_num": -1,
       "tag": "Changed"
-    },
-    {
-      "bug": 1044102,
-      "created": "2015-09-01T11:42:18+00:00",
-      "id": 786255,
-      "is_public": true,
-      "modified": "2015-10-23T14:59:49+00:00",
-      "note": "Support [ImageBitmap][1] and [createImageBitmap()][2]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/ImageBitmap\r\n  [2]: https://developer.mozilla.org/en-US/docs/Web/API/CreateImageBitmap",
-      "sort_num": 0,
-      "tag": "HTML5"
-    },
-    {
-      "bug": 1185611,
-      "created": "2015-10-02T10:05:49+00:00",
-      "id": 786313,
-      "is_public": true,
-      "modified": "2015-10-23T14:59:49+00:00",
-      "note": "Media Source Extension for HTML5 video available for all sites",
-      "sort_num": 0,
-      "tag": "HTML5"
     },
     {
       "bug": 987514,
@@ -133,6 +113,26 @@
       "is_public": true,
       "modified": "2015-10-30T17:13:50+00:00",
       "note": "Ship [Push messaging][1] with disabled web notifications from ServiceWorkers\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/API/Push_API",
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 1044102,
+      "created": "2015-09-01T11:42:18+00:00",
+      "id": 786255,
+      "is_public": true,
+      "modified": "2015-10-23T14:59:49+00:00",
+      "note": "Support [ImageBitmap][1] and [createImageBitmap()][2]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/ImageBitmap\r\n  [2]: https://developer.mozilla.org/en-US/docs/Web/API/CreateImageBitmap",
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 1185611,
+      "created": "2015-10-02T10:05:49+00:00",
+      "id": 786313,
+      "is_public": true,
+      "modified": "2015-10-23T14:59:49+00:00",
+      "note": "Media Source Extension for HTML5 video available for all sites",
       "sort_num": 0,
       "tag": "HTML5"
     },

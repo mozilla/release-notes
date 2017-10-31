@@ -97,6 +97,36 @@
       "tag": "Changed"
     },
     {
+      "bug": 792439,
+      "created": "2014-08-28T05:14:19+00:00",
+      "id": 785696,
+      "is_public": true,
+      "modified": "2014-11-25T03:04:05+00:00",
+      "note": "[ECMAScript 6 WeakSet][1] Implemented\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakSet",
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 1038259,
+      "created": "2014-08-28T05:15:09+00:00",
+      "id": 785697,
+      "is_public": true,
+      "modified": "2014-11-25T03:04:05+00:00",
+      "note": "[JavaScript Template Strings][1] Implemented\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/template_strings",
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 975744,
+      "created": "2014-08-28T05:51:56+00:00",
+      "id": 785699,
+      "is_public": true,
+      "modified": "2014-11-25T03:04:05+00:00",
+      "note": "CSS3 Font variants and features control (e.g. kerning) implemented",
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
       "bug": 1026398,
       "created": "2014-09-02T02:07:22+00:00",
       "id": 785712,
@@ -157,34 +187,14 @@
       "tag": "HTML5"
     },
     {
-      "bug": 792439,
-      "created": "2014-08-28T05:14:19+00:00",
-      "id": 785696,
+      "bug": 1007059,
+      "created": "2014-07-23T08:11:05+00:00",
+      "id": 785677,
       "is_public": true,
       "modified": "2014-11-25T03:04:05+00:00",
-      "note": "[ECMAScript 6 WeakSet][1] Implemented\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakSet",
+      "note": "[WebIDE][1]: Create, edit, and test a new Web application from your browser\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Tools/WebIDE\r\n",
       "sort_num": 0,
-      "tag": "HTML5"
-    },
-    {
-      "bug": 1038259,
-      "created": "2014-08-28T05:15:09+00:00",
-      "id": 785697,
-      "is_public": true,
-      "modified": "2014-11-25T03:04:05+00:00",
-      "note": "[JavaScript Template Strings][1] Implemented\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/template_strings",
-      "sort_num": 0,
-      "tag": "HTML5"
-    },
-    {
-      "bug": 975744,
-      "created": "2014-08-28T05:51:56+00:00",
-      "id": 785699,
-      "is_public": true,
-      "modified": "2014-11-25T03:04:05+00:00",
-      "note": "CSS3 Font variants and features control (e.g. kerning) implemented",
-      "sort_num": 0,
-      "tag": "HTML5"
+      "tag": "Developer"
     },
     {
       "bug": 971662,
@@ -217,14 +227,14 @@
       "tag": "Developer"
     },
     {
-      "bug": 1007059,
-      "created": "2014-07-23T08:11:05+00:00",
-      "id": 785677,
+      "bug": null,
+      "created": "2013-11-25T00:24:50+00:00",
+      "id": 161,
       "is_public": true,
-      "modified": "2014-11-25T03:04:05+00:00",
-      "note": "[WebIDE][1]: Create, edit, and test a new Web application from your browser\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Tools/WebIDE\r\n",
+      "modified": "2015-03-26T15:55:42+00:00",
+      "note": "Various <a href=\"https://www.mozilla.org/security/known-vulnerabilities/firefox.html\">security fixes</a>",
       "sort_num": 0,
-      "tag": "Developer"
+      "tag": "Fixed"
     },
     {
       "bug": 625289,
@@ -245,32 +255,22 @@
       "tag": "Fixed"
     },
     {
-      "bug": 1040250,
-      "created": "2014-12-02T23:34:30+00:00",
-      "id": 785845,
-      "is_public": true,
-      "modified": "2014-12-02T23:34:31+00:00",
-      "note": "Various Yosemite visual fixes (see <a href=\"http://bugzil.la/1040250\">bug 1040250</a>)",
-      "sort_num": 0,
-      "tag": "Fixed"
-    },
-    {
-      "bug": null,
-      "created": "2013-11-25T00:24:50+00:00",
-      "id": 161,
-      "is_public": true,
-      "modified": "2015-03-26T15:55:42+00:00",
-      "note": "Various <a href=\"https://www.mozilla.org/security/known-vulnerabilities/firefox.html\">security fixes</a>",
-      "sort_num": 0,
-      "tag": "Fixed"
-    },
-    {
       "bug": 772347,
       "created": "2014-12-02T21:55:02+00:00",
       "id": 785838,
       "is_public": true,
       "modified": "2014-12-02T23:30:50+00:00",
       "note": "Fullscreen video on Mac disables display sleep, and dimming, during playback",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1040250,
+      "created": "2014-12-02T23:34:30+00:00",
+      "id": 785845,
+      "is_public": true,
+      "modified": "2014-12-02T23:34:31+00:00",
+      "note": "Various Yosemite visual fixes (see <a href=\"http://bugzil.la/1040250\">bug 1040250</a>)",
       "sort_num": 0,
       "tag": "Fixed"
     }

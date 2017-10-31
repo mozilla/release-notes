@@ -17,22 +17,22 @@
       "tag": ""
     },
     {
-      "bug": 1338009,
-      "created": "2017-03-23T11:01:36.127616+00:00",
-      "id": 787026,
-      "is_public": true,
-      "modified": "2017-04-13T13:22:28.262404+00:00",
-      "note": "Fix loading tab icons on session restore (Bug [1338009][1])\r\n\r\n[1]: https://bugzilla.mozilla.org/1338009",
-      "sort_num": 0,
-      "tag": "Fixed"
-    },
-    {
       "bug": 1345413,
       "created": "2017-03-23T11:00:10.504511+00:00",
       "id": 787024,
       "is_public": true,
       "modified": "2017-04-13T13:22:26.597934+00:00",
       "note": "Fix a crash on startup on Linux (Bug [1345413][1])\r\n\r\n[1]: https://bugzilla.mozilla.org/1345413",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1338009,
+      "created": "2017-03-23T11:01:36.127616+00:00",
+      "id": 787026,
+      "is_public": true,
+      "modified": "2017-04-13T13:22:28.262404+00:00",
+      "note": "Fix loading tab icons on session restore (Bug [1338009][1])\r\n\r\n[1]: https://bugzilla.mozilla.org/1338009",
       "sort_num": 0,
       "tag": "Fixed"
     },

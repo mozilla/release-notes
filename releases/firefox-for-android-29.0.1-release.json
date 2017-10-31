@@ -68,6 +68,26 @@
     },
     {
       "bug": null,
+      "created": "2014-03-04T09:57:01+00:00",
+      "id": 785445,
+      "is_public": true,
+      "modified": "2014-07-21T04:23:34+00:00",
+      "note": "Added multiple quick share buttons",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2014-03-21T08:59:31+00:00",
+      "id": 785464,
+      "is_public": true,
+      "modified": "2014-05-09T10:26:53+00:00",
+      "note": "Better integration for [Open Web Apps][1]\r\n\r\n\r\n  [1]: https://hacks.mozilla.org/2014/03/better-integration-for-open-web-apps-on-android/",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
       "created": "2014-04-23T10:55:05+00:00",
       "id": 785554,
       "is_public": true,
@@ -87,26 +107,6 @@
       "tag": "New"
     },
     {
-      "bug": null,
-      "created": "2014-03-21T08:59:31+00:00",
-      "id": 785464,
-      "is_public": true,
-      "modified": "2014-05-09T10:26:53+00:00",
-      "note": "Better integration for [Open Web Apps][1]\r\n\r\n\r\n  [1]: https://hacks.mozilla.org/2014/03/better-integration-for-open-web-apps-on-android/",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
-      "bug": null,
-      "created": "2014-03-04T09:57:01+00:00",
-      "id": 785445,
-      "is_public": true,
-      "modified": "2014-07-21T04:23:34+00:00",
-      "note": "Added multiple quick share buttons",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
       "bug": 941744,
       "created": "2014-04-29T11:29:29+00:00",
       "id": 785565,
@@ -118,21 +118,21 @@
     },
     {
       "bug": null,
-      "created": "2014-04-09T08:09:00+00:00",
-      "id": 785547,
-      "is_public": true,
-      "modified": "2014-05-09T10:26:53+00:00",
-      "note": "Clicking on a W3C Web Notification will switch to the originating tab",
-      "sort_num": 0,
-      "tag": "Changed"
-    },
-    {
-      "bug": null,
       "created": "2014-03-04T09:21:34+00:00",
       "id": 785425,
       "is_public": true,
       "modified": "2014-05-09T10:26:53+00:00",
       "note": "Performance improved by replacing throbber with a progress bar",
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
+      "bug": null,
+      "created": "2014-04-09T08:09:00+00:00",
+      "id": 785547,
+      "is_public": true,
+      "modified": "2014-05-09T10:26:53+00:00",
+      "note": "Clicking on a W3C Web Notification will switch to the originating tab",
       "sort_num": 0,
       "tag": "Changed"
     },
@@ -164,16 +164,6 @@
       "modified": "2014-05-09T10:26:53+00:00",
       "note": "Promises enabled by default (<a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise\">learn more</a>)",
       "sort_num": 1,
-      "tag": "Developer"
-    },
-    {
-      "bug": 887836,
-      "created": "2014-04-29T10:52:27+00:00",
-      "id": 785564,
-      "is_public": true,
-      "modified": "2014-05-09T10:26:53+00:00",
-      "note": "Implemented URLSearchParams from the URL specification (see [MDN][1] for details )\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/URLUtils",
-      "sort_num": 0,
       "tag": "Developer"
     },
     {
@@ -217,14 +207,14 @@
       "tag": "Developer"
     },
     {
-      "bug": 748100,
-      "created": "2014-03-04T09:21:59+00:00",
-      "id": 785426,
+      "bug": 887836,
+      "created": "2014-04-29T10:52:27+00:00",
+      "id": 785564,
       "is_public": true,
       "modified": "2014-05-09T10:26:53+00:00",
-      "note": "Improved favicon.ico decoding ([748100][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=748100",
+      "note": "Implemented URLSearchParams from the URL specification (see [MDN][1] for details )\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/URLUtils",
       "sort_num": 0,
-      "tag": "Fixed"
+      "tag": "Developer"
     },
     {
       "bug": null,
@@ -233,6 +223,16 @@
       "is_public": true,
       "modified": "2015-03-26T15:55:42+00:00",
       "note": "Various <a href=\"https://www.mozilla.org/security/known-vulnerabilities/firefox.html\">security fixes</a>",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 748100,
+      "created": "2014-03-04T09:21:59+00:00",
+      "id": 785426,
+      "is_public": true,
+      "modified": "2014-05-09T10:26:53+00:00",
+      "note": "Improved favicon.ico decoding ([748100][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=748100",
       "sort_num": 0,
       "tag": "Fixed"
     },

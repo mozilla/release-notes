@@ -77,6 +77,46 @@
       "tag": "New"
     },
     {
+      "bug": 1120406,
+      "created": "2015-09-17T16:49:20+00:00",
+      "id": 786273,
+      "is_public": true,
+      "modified": "2015-12-03T02:57:14+00:00",
+      "note": "Markup view shows [indicators for pseudo-classes locked for elements][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector/How_to/Examine_and_edit_CSS#Setting_hover_active_focus",
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
+      "bug": 1198339,
+      "created": "2015-09-17T16:50:52+00:00",
+      "id": 786274,
+      "is_public": true,
+      "modified": "2015-12-03T02:57:14+00:00",
+      "note": " Bind F1 key to open the settings when the toolbox is focused",
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
+      "bug": 1154363,
+      "created": "2015-09-17T17:48:27+00:00",
+      "id": 786276,
+      "is_public": true,
+      "modified": "2015-12-03T02:57:14+00:00",
+      "note": "[New 'Use in Console' context menu item][1] in Inspector to store selected element in a temporary variable\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Tools/Page_Inspector/How_to/Examine_and_edit_HTML#Element_popup_menu",
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
+      "bug": 1151943,
+      "created": "2015-09-17T17:54:18+00:00",
+      "id": 786277,
+      "is_public": true,
+      "modified": "2015-12-03T02:57:14+00:00",
+      "note": "[Search button next to overridden CSS properties][1] to find similar properties in the rules view\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Tools/Page_Inspector/How_to/Examine_and_edit_CSS#Overridden_declarations",
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
       "bug": 1197048,
       "created": "2015-09-17T18:04:36+00:00",
       "id": 786280,
@@ -103,6 +143,16 @@
       "is_public": true,
       "modified": "2015-12-03T02:57:14+00:00",
       "note": "Added ability to [display server-side logs in the console][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Tools/Web_Console/Console_messages#Server",
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
+      "bug": 970625,
+      "created": "2015-09-17T18:12:18+00:00",
+      "id": 786284,
+      "is_public": true,
+      "modified": "2016-01-22T18:54:17.935978+00:00",
+      "note": "Ability to choose resolution for the GCLI screenshot command",
       "sort_num": 0,
       "tag": "Developer"
     },
@@ -163,56 +213,6 @@
       "is_public": true,
       "modified": "2015-12-03T02:57:14+00:00",
       "note": "Animation inspector now [displays animations in a timeline][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector/How_to/Work_with_animations#Firefox_43",
-      "sort_num": 0,
-      "tag": "Developer"
-    },
-    {
-      "bug": 970625,
-      "created": "2015-09-17T18:12:18+00:00",
-      "id": 786284,
-      "is_public": true,
-      "modified": "2016-01-22T18:54:17.935978+00:00",
-      "note": "Ability to choose resolution for the GCLI screenshot command",
-      "sort_num": 0,
-      "tag": "Developer"
-    },
-    {
-      "bug": 1120406,
-      "created": "2015-09-17T16:49:20+00:00",
-      "id": 786273,
-      "is_public": true,
-      "modified": "2015-12-03T02:57:14+00:00",
-      "note": "Markup view shows [indicators for pseudo-classes locked for elements][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector/How_to/Examine_and_edit_CSS#Setting_hover_active_focus",
-      "sort_num": 0,
-      "tag": "Developer"
-    },
-    {
-      "bug": 1198339,
-      "created": "2015-09-17T16:50:52+00:00",
-      "id": 786274,
-      "is_public": true,
-      "modified": "2015-12-03T02:57:14+00:00",
-      "note": " Bind F1 key to open the settings when the toolbox is focused",
-      "sort_num": 0,
-      "tag": "Developer"
-    },
-    {
-      "bug": 1154363,
-      "created": "2015-09-17T17:48:27+00:00",
-      "id": 786276,
-      "is_public": true,
-      "modified": "2015-12-03T02:57:14+00:00",
-      "note": "[New 'Use in Console' context menu item][1] in Inspector to store selected element in a temporary variable\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Tools/Page_Inspector/How_to/Examine_and_edit_HTML#Element_popup_menu",
-      "sort_num": 0,
-      "tag": "Developer"
-    },
-    {
-      "bug": 1151943,
-      "created": "2015-09-17T17:54:18+00:00",
-      "id": 786277,
-      "is_public": true,
-      "modified": "2015-12-03T02:57:14+00:00",
-      "note": "[Search button next to overridden CSS properties][1] to find similar properties in the rules view\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Tools/Page_Inspector/How_to/Examine_and_edit_CSS#Overridden_declarations",
       "sort_num": 0,
       "tag": "Developer"
     },

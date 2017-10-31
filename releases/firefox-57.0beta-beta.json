@@ -17,12 +17,12 @@
       "tag": "New"
     },
     {
-      "bug": 1147820,
-      "created": "2017-09-26T09:22:44.202857+00:00",
-      "id": 787275,
+      "bug": 1383051,
+      "created": "2017-09-26T08:04:50.108567+00:00",
+      "id": 787267,
       "is_public": true,
-      "modified": "2017-09-26T09:22:44.202626+00:00",
-      "note": "Allow users to manage the site data",
+      "modified": "2017-09-26T08:04:50.108332+00:00",
+      "note": "Accessibility indicator will now appear in the title bar of the window when Accessibility services are enabled",
       "sort_num": 0,
       "tag": "New"
     },
@@ -37,22 +37,22 @@
       "tag": "New"
     },
     {
-      "bug": 1383051,
-      "created": "2017-09-26T08:04:50.108567+00:00",
-      "id": 787267,
+      "bug": 1147820,
+      "created": "2017-09-26T09:22:44.202857+00:00",
+      "id": 787275,
       "is_public": true,
-      "modified": "2017-09-26T08:04:50.108332+00:00",
-      "note": "Accessibility indicator will now appear in the title bar of the window when Accessibility services are enabled",
+      "modified": "2017-09-26T09:22:44.202626+00:00",
+      "note": "Allow users to manage the site data",
       "sort_num": 0,
       "tag": "New"
     },
     {
-      "bug": 1402351,
-      "created": "2017-09-26T08:05:50.640987+00:00",
-      "id": 787268,
+      "bug": 366945,
+      "created": "2017-09-26T08:02:37.154978+00:00",
+      "id": 787264,
       "is_public": true,
-      "modified": "2017-09-26T08:05:50.640800+00:00",
-      "note": "Support more strict sandboxing protection (level 3) on Linux",
+      "modified": "2017-09-26T08:02:37.154581+00:00",
+      "note": "Middle mouse paste in the content area on Unix systems no longer navigates to URLs by default",
       "sort_num": 0,
       "tag": "Changed"
     },
@@ -67,12 +67,12 @@
       "tag": "Changed"
     },
     {
-      "bug": 366945,
-      "created": "2017-09-26T08:02:37.154978+00:00",
-      "id": 787264,
+      "bug": 1402351,
+      "created": "2017-09-26T08:05:50.640987+00:00",
+      "id": 787268,
       "is_public": true,
-      "modified": "2017-09-26T08:02:37.154581+00:00",
-      "note": "Middle mouse paste in the content area on Unix systems no longer navigates to URLs by default",
+      "modified": "2017-09-26T08:05:50.640800+00:00",
+      "note": "Support more strict sandboxing protection (level 3) on Linux",
       "sort_num": 0,
       "tag": "Changed"
     },

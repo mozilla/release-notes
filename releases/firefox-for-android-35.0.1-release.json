@@ -17,6 +17,16 @@
       "tag": "Fixed"
     },
     {
+      "bug": 1054520,
+      "created": "2014-12-02T22:04:51+00:00",
+      "id": 785841,
+      "is_public": true,
+      "modified": "2015-02-05T22:57:54+00:00",
+      "note": "Improve Mozilla's <a href=\"https://location.services.mozilla.com/\">geolocation service</a> by sharing your wi-fi and cellular signals. Enable this feature by opening the Settings menu and in the \"Mozilla\" section check the \"Mozilla Location Services\" option under Data Choices.",
+      "sort_num": 100,
+      "tag": "New"
+    },
+    {
       "bug": 1104841,
       "created": "2014-12-03T00:09:28+00:00",
       "id": 785849,
@@ -27,13 +37,13 @@
       "tag": "New"
     },
     {
-      "bug": 1054520,
-      "created": "2014-12-02T22:04:51+00:00",
-      "id": 785841,
+      "bug": 1042199,
+      "created": "2014-10-03T03:40:27+00:00",
+      "id": 785738,
       "is_public": true,
       "modified": "2015-02-05T22:57:54+00:00",
-      "note": "Improve Mozilla's <a href=\"https://location.services.mozilla.com/\">geolocation service</a> by sharing your wi-fi and cellular signals. Enable this feature by opening the Settings menu and in the \"Mozilla\" section check the \"Mozilla Location Services\" option under Data Choices.",
-      "sort_num": 100,
+      "note": "Search dialog added to network error pages",
+      "sort_num": 0,
       "tag": "New"
     },
     {
@@ -67,16 +77,6 @@
       "tag": "New"
     },
     {
-      "bug": 1042199,
-      "created": "2014-10-03T03:40:27+00:00",
-      "id": 785738,
-      "is_public": true,
-      "modified": "2015-02-05T22:57:54+00:00",
-      "note": "Search dialog added to network error pages",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
       "bug": 1014994,
       "created": "2015-01-12T19:50:03+00:00",
       "id": 785878,
@@ -85,6 +85,16 @@
       "note": "Moved synced tabs from the tabs tray to a home panel",
       "sort_num": 0,
       "tag": "Changed"
+    },
+    {
+      "bug": 1001090,
+      "created": "2014-10-03T02:55:26+00:00",
+      "id": 785733,
+      "is_public": true,
+      "modified": "2015-02-05T22:57:54+00:00",
+      "note": "Changed JavaScript ['let' semantics][1] to conform better to the ES6 specification\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let#Temporal_dead_zone_and_errors_with_let",
+      "sort_num": 0,
+      "tag": "HTML5"
     },
     {
       "bug": 1002855,
@@ -113,16 +123,6 @@
       "is_public": true,
       "modified": "2015-02-05T22:57:54+00:00",
       "note": "Added support for the CSS Font Loading API",
-      "sort_num": 0,
-      "tag": "HTML5"
-    },
-    {
-      "bug": 1001090,
-      "created": "2014-10-03T02:55:26+00:00",
-      "id": 785733,
-      "is_public": true,
-      "modified": "2015-02-05T22:57:54+00:00",
-      "note": "Changed JavaScript ['let' semantics][1] to conform better to the ES6 specification\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let#Temporal_dead_zone_and_errors_with_let",
       "sort_num": 0,
       "tag": "HTML5"
     },

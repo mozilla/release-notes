@@ -17,22 +17,22 @@
       "tag": "Fixed"
     },
     {
-      "bug": 1211160,
-      "created": "2016-02-12T21:23:57.539057+00:00",
-      "id": 786491,
-      "is_public": true,
-      "modified": "2016-02-12T21:26:54.144464+00:00",
-      "note": "For Windows systems on roaming profiles, could not display messages after Thunderbird update (related to Lightning updates)",
-      "sort_num": 0,
-      "tag": "Fixed"
-    },
-    {
       "bug": 1198744,
       "created": "2016-02-12T21:22:18.906681+00:00",
       "id": 786490,
       "is_public": true,
       "modified": "2016-02-12T21:27:09.778318+00:00",
       "note": "Filters ran on a different folder than selected",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1211160,
+      "created": "2016-02-12T21:23:57.539057+00:00",
+      "id": 786491,
+      "is_public": true,
+      "modified": "2016-02-12T21:26:54.144464+00:00",
+      "note": "For Windows systems on roaming profiles, could not display messages after Thunderbird update (related to Lightning updates)",
       "sort_num": 0,
       "tag": "Fixed"
     }

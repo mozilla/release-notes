@@ -37,16 +37,6 @@
       "tag": "New"
     },
     {
-      "bug": 759117,
-      "created": "2016-04-21T18:55:00.238016+00:00",
-      "id": 786588,
-      "is_public": true,
-      "modified": "2016-06-03T22:53:40.835574+00:00",
-      "note": "Embedded YouTube videos now play with HTML5 video if Flash is not installed",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
       "bug": 567365,
       "created": "2016-03-04T18:30:54.979064+00:00",
       "id": 786511,
@@ -57,12 +47,22 @@
       "tag": "New"
     },
     {
-      "bug": 1263630,
-      "created": "2016-05-03T18:15:58.244472+00:00",
-      "id": 786663,
+      "bug": 759117,
+      "created": "2016-04-21T18:55:00.238016+00:00",
+      "id": 786588,
       "is_public": true,
-      "modified": "2016-06-03T22:22:09.453932+00:00",
-      "note": "The Firefox [click-to-activate plugin whitelist][1] has been removed.\r\n\r\n\r\n  [1]: https://blog.mozilla.org/futurereleases/2013/09/24/plugin-activation-in-firefox/",
+      "modified": "2016-06-03T22:53:40.835574+00:00",
+      "note": "Embedded YouTube videos now play with HTML5 video if Flash is not installed",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1090880,
+      "created": "2016-03-04T18:33:03.459027+00:00",
+      "id": 786513,
+      "is_public": true,
+      "modified": "2016-06-07T04:08:13.432334+00:00",
+      "note": "FUEL (Firefox User Extension Library) has been removed. Add-ons relying on it will stop working.",
       "sort_num": 0,
       "tag": "Changed"
     },
@@ -77,14 +77,24 @@
       "tag": "Changed"
     },
     {
-      "bug": 1090880,
-      "created": "2016-03-04T18:33:03.459027+00:00",
-      "id": 786513,
+      "bug": 1263630,
+      "created": "2016-05-03T18:15:58.244472+00:00",
+      "id": 786663,
       "is_public": true,
-      "modified": "2016-06-07T04:08:13.432334+00:00",
-      "note": "FUEL (Firefox User Extension Library) has been removed. Add-ons relying on it will stop working.",
+      "modified": "2016-06-03T22:22:09.453932+00:00",
+      "note": "The Firefox [click-to-activate plugin whitelist][1] has been removed.\r\n\r\n\r\n  [1]: https://blog.mozilla.org/futurereleases/2013/09/24/plugin-activation-in-firefox/",
       "sort_num": 0,
       "tag": "Changed"
+    },
+    {
+      "bug": 1191936,
+      "created": "2016-03-04T18:34:24.501364+00:00",
+      "id": 786515,
+      "is_public": true,
+      "modified": "2016-06-03T22:22:09.453932+00:00",
+      "note": "WebCrypto: RSA-PSS signature support",
+      "sort_num": 0,
+      "tag": "HTML5"
     },
     {
       "bug": 1216109,
@@ -107,22 +117,12 @@
       "tag": "HTML5"
     },
     {
-      "bug": 1191936,
-      "created": "2016-03-04T18:34:24.501364+00:00",
-      "id": 786515,
+      "bug": 1243706,
+      "created": "2016-03-04T18:41:53.412199+00:00",
+      "id": 786517,
       "is_public": true,
-      "modified": "2016-06-03T22:22:09.453932+00:00",
-      "note": "WebCrypto: RSA-PSS signature support",
-      "sort_num": 0,
-      "tag": "HTML5"
-    },
-    {
-      "bug": 1259169,
-      "created": "2016-04-25T22:30:38.731642+00:00",
-      "id": 786596,
-      "is_public": true,
-      "modified": "2016-06-03T22:22:09.453932+00:00",
-      "note": "Changes that can affect [add-on compatibility][1]\r\n\r\n\r\n  [1]: https://blog.mozilla.org/addons/2016/04/07/compatibility-for-firefox-47/",
+      "modified": "2016-06-07T04:03:31.696875+00:00",
+      "note": "See Firefox run! Review Firefox performance data in about:performance.",
       "sort_num": 0,
       "tag": "Developer"
     },
@@ -143,26 +143,6 @@
       "is_public": true,
       "modified": "2016-06-03T22:22:09.453932+00:00",
       "note": "Custom user agents supported in Responsive Design Mode",
-      "sort_num": 0,
-      "tag": "Developer"
-    },
-    {
-      "bug": 1245875,
-      "created": "2016-03-08T19:12:41.211309+00:00",
-      "id": 786531,
-      "is_public": true,
-      "modified": "2016-06-07T04:01:24.246635+00:00",
-      "note": "Tilt is available as extension on [AMO][1]\r\n\r\n\r\n  [1]: https://addons.mozilla.org/firefox/addon/tilt/",
-      "sort_num": 0,
-      "tag": "Developer"
-    },
-    {
-      "bug": 1243706,
-      "created": "2016-03-04T18:41:53.412199+00:00",
-      "id": 786517,
-      "is_public": true,
-      "modified": "2016-06-07T04:03:31.696875+00:00",
-      "note": "See Firefox run! Review Firefox performance data in about:performance.",
       "sort_num": 0,
       "tag": "Developer"
     },
@@ -197,12 +177,32 @@
       "tag": "Developer"
     },
     {
+      "bug": 1245875,
+      "created": "2016-03-08T19:12:41.211309+00:00",
+      "id": 786531,
+      "is_public": true,
+      "modified": "2016-06-07T04:01:24.246635+00:00",
+      "note": "Tilt is available as extension on [AMO][1]\r\n\r\n\r\n  [1]: https://addons.mozilla.org/firefox/addon/tilt/",
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
       "bug": 1247860,
       "created": "2016-04-25T22:28:26.773716+00:00",
       "id": 786595,
       "is_public": true,
       "modified": "2016-06-03T22:22:09.453932+00:00",
       "note": "Added support for ChaCha20/Poly1305 cipher suites",
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
+      "bug": 1259169,
+      "created": "2016-04-25T22:30:38.731642+00:00",
+      "id": 786596,
+      "is_public": true,
+      "modified": "2016-06-03T22:22:09.453932+00:00",
+      "note": "Changes that can affect [add-on compatibility][1]\r\n\r\n\r\n  [1]: https://blog.mozilla.org/addons/2016/04/07/compatibility-for-firefox-47/",
       "sort_num": 0,
       "tag": "Developer"
     }

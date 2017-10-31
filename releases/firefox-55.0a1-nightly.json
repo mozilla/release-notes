@@ -87,22 +87,22 @@
       "tag": "New"
     },
     {
-      "bug": 1356243,
-      "created": "2017-05-30T18:50:40.058700+00:00",
-      "id": 787107,
-      "is_public": true,
-      "modified": "2017-08-01T13:51:16.107962+00:00",
-      "note": "Make [screenshots][1] of webpages, and save them locally or upload them to the cloud. This feature will undergo A/B testing and will not be visible for some users.\r\n\r\n[1]: https://screenshots.firefox.com/",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
       "bug": 1364070,
       "created": "2017-05-29T14:18:06.077652+00:00",
       "id": 787106,
       "is_public": true,
       "modified": "2017-08-08T06:25:05.078349+00:00",
       "note": "[Fine-tune your browser performance][1] from the Preferences/Options page.\r\n\r\n[1]: https://support.mozilla.org/kb/performance-settings",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1356243,
+      "created": "2017-05-30T18:50:40.058700+00:00",
+      "id": 787107,
+      "is_public": true,
+      "modified": "2017-08-01T13:51:16.107962+00:00",
+      "note": "Make [screenshots][1] of webpages, and save them locally or upload them to the cloud. This feature will undergo A/B testing and will not be visible for some users.\r\n\r\n[1]: https://screenshots.firefox.com/",
       "sort_num": 0,
       "tag": "New"
     },
@@ -115,16 +115,6 @@
       "note": " Search suggestions are now enabled by default for users who haven't explicitly opted-out",
       "sort_num": 0,
       "tag": "New"
-    },
-    {
-      "bug": 548311,
-      "created": "2017-04-19T13:12:28.496902+00:00",
-      "id": 787051,
-      "is_public": true,
-      "modified": "2017-06-06T15:04:57.628382+00:00",
-      "note": "The default font for Japanese text is now Meiryo",
-      "sort_num": 0,
-      "tag": "Changed"
     },
     {
       "bug": 893505,
@@ -145,6 +135,16 @@
       "tag": "Changed"
     },
     {
+      "bug": 548311,
+      "created": "2017-04-19T13:12:28.496902+00:00",
+      "id": 787051,
+      "is_public": true,
+      "modified": "2017-06-06T15:04:57.628382+00:00",
+      "note": "The default font for Japanese text is now Meiryo",
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
       "bug": 977177,
       "created": "2017-04-19T13:16:55.825333+00:00",
       "id": 787052,
@@ -155,12 +155,12 @@
       "tag": "Changed"
     },
     {
-      "bug": 1317856,
-      "created": "2017-06-06T13:26:48.862028+00:00",
-      "id": 787118,
+      "bug": 1341897,
+      "created": "2017-04-19T16:07:16.327231+00:00",
+      "id": 787055,
       "is_public": true,
-      "modified": "2017-08-08T06:39:42.278450+00:00",
-      "note": "Made the Adobe Flash plugin click-to-activate by default and allowed only on http:// and https:// URL schemes. (This change will not be visible to all users immediately. For more information see the [Firefox plugin roadmap][1])\r\n\r\n\r\n[1]:https://developer.mozilla.org/docs/Plugins/Roadmap\r\n\r\n",
+      "modified": "2017-06-05T14:47:28.870540+00:00",
+      "note": "Firefox uses Mozilla Location Service for geolocation",
       "sort_num": 0,
       "tag": "Changed"
     },
@@ -175,12 +175,12 @@
       "tag": "Changed"
     },
     {
-      "bug": 1341897,
-      "created": "2017-04-19T16:07:16.327231+00:00",
-      "id": 787055,
+      "bug": 1317856,
+      "created": "2017-06-06T13:26:48.862028+00:00",
+      "id": 787118,
       "is_public": true,
-      "modified": "2017-06-05T14:47:28.870540+00:00",
-      "note": "Firefox uses Mozilla Location Service for geolocation",
+      "modified": "2017-08-08T06:39:42.278450+00:00",
+      "note": "Made the Adobe Flash plugin click-to-activate by default and allowed only on http:// and https:// URL schemes. (This change will not be visible to all users immediately. For more information see the [Firefox plugin roadmap][1])\r\n\r\n\r\n[1]:https://developer.mozilla.org/docs/Plugins/Roadmap\r\n\r\n",
       "sort_num": 0,
       "tag": "Changed"
     },

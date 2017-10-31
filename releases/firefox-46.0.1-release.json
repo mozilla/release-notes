@@ -17,32 +17,12 @@
       "tag": ""
     },
     {
-      "bug": 1262312,
-      "created": "2016-05-02T19:22:57.770151+00:00",
-      "id": 786640,
+      "bug": 1268922,
+      "created": "2016-05-02T19:04:13.402924+00:00",
+      "id": 786637,
       "is_public": true,
-      "modified": "2016-05-02T19:22:58.485892+00:00",
-      "note": "Limit Sync registration updates (Bug [1262312][1]) \r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1262312",
-      "sort_num": 0,
-      "tag": "Fixed"
-    },
-    {
-      "bug": 1267733,
-      "created": "2016-05-02T19:19:36.027873+00:00",
-      "id": 786639,
-      "is_public": true,
-      "modified": "2016-05-03T20:28:29.132990+00:00",
-      "note": "Service worker update issue (Bug [1267733][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1267733",
-      "sort_num": 0,
-      "tag": "Fixed"
-    },
-    {
-      "bug": 1246494,
-      "created": "2016-05-02T19:35:59.078436+00:00",
-      "id": 786645,
-      "is_public": true,
-      "modified": "2016-05-03T20:27:10.008451+00:00",
-      "note": "Search plugin issue for various locales (Bug [1246494][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1246494",
+      "modified": "2016-05-03T20:29:12.895455+00:00",
+      "note": "Page loading issue related to antivirus software (Bug [1268922][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1268922",
       "sort_num": 0,
       "tag": "Fixed"
     },
@@ -57,6 +37,26 @@
       "tag": "Fixed"
     },
     {
+      "bug": 1267733,
+      "created": "2016-05-02T19:19:36.027873+00:00",
+      "id": 786639,
+      "is_public": true,
+      "modified": "2016-05-03T20:28:29.132990+00:00",
+      "note": "Service worker update issue (Bug [1267733][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1267733",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1262312,
+      "created": "2016-05-02T19:22:57.770151+00:00",
+      "id": 786640,
+      "is_public": true,
+      "modified": "2016-05-02T19:22:58.485892+00:00",
+      "note": "Limit Sync registration updates (Bug [1262312][1]) \r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1262312",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
       "bug": 1267318,
       "created": "2016-05-02T19:24:05.947171+00:00",
       "id": 786641,
@@ -67,12 +67,12 @@
       "tag": "Fixed"
     },
     {
-      "bug": 1268922,
-      "created": "2016-05-02T19:04:13.402924+00:00",
-      "id": 786637,
+      "bug": 1246494,
+      "created": "2016-05-02T19:35:59.078436+00:00",
+      "id": 786645,
       "is_public": true,
-      "modified": "2016-05-03T20:29:12.895455+00:00",
-      "note": "Page loading issue related to antivirus software (Bug [1268922][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1268922",
+      "modified": "2016-05-03T20:27:10.008451+00:00",
+      "note": "Search plugin issue for various locales (Bug [1246494][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1246494",
       "sort_num": 0,
       "tag": "Fixed"
     }

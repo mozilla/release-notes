@@ -77,6 +77,26 @@
       "tag": "New"
     },
     {
+      "bug": 645416,
+      "created": "2014-07-17T07:38:48+00:00",
+      "id": 785650,
+      "is_public": true,
+      "modified": "2015-03-26T15:55:21+00:00",
+      "note": "Support for the [ECMAScript 6 Symbol][1] data type added\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol\r\n",
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 1018497,
+      "created": "2014-07-17T09:08:11+00:00",
+      "id": 785658,
+      "is_public": true,
+      "modified": "2014-11-06T23:39:16+00:00",
+      "note": "[DOMMatrix][1] interface implemented\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/DOMMatrix",
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
       "bug": 966166,
       "created": "2014-08-28T06:25:31+00:00",
       "id": 785703,
@@ -117,26 +137,6 @@
       "tag": "HTML5"
     },
     {
-      "bug": 645416,
-      "created": "2014-07-17T07:38:48+00:00",
-      "id": 785650,
-      "is_public": true,
-      "modified": "2015-03-26T15:55:21+00:00",
-      "note": "Support for the [ECMAScript 6 Symbol][1] data type added\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol\r\n",
-      "sort_num": 0,
-      "tag": "HTML5"
-    },
-    {
-      "bug": 1018497,
-      "created": "2014-07-17T09:08:11+00:00",
-      "id": 785658,
-      "is_public": true,
-      "modified": "2014-11-06T23:39:16+00:00",
-      "note": "[DOMMatrix][1] interface implemented\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/DOMMatrix",
-      "sort_num": 0,
-      "tag": "HTML5"
-    },
-    {
       "bug": 900692,
       "created": "2014-07-23T07:43:47+00:00",
       "id": 785674,
@@ -145,6 +145,24 @@
       "note": "[Paint flashing][1] for browser content repaints\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Paint_Flashing_Tool",
       "sort_num": 0,
       "tag": "Developer"
+    },
+    {
+      "bug": 237623,
+      "created": "2014-07-17T08:51:57+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": true,
+        "product": "Firefox",
+        "slug": "firefox-33.0-release",
+        "title": "Firefox 33.0 Release",
+        "version": "33.0"
+      },
+      "id": 785655,
+      "is_public": true,
+      "modified": "2014-11-06T23:39:16+00:00",
+      "note": "Fix incomplete downloads being marked as complete by detecting broken HTTP1.1 transfers ([237623][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=237623",
+      "sort_num": 0,
+      "tag": "Known"
     },
     {
       "bug": 1050832,
@@ -181,24 +199,6 @@
       "is_public": true,
       "modified": "2014-11-04T14:34:56+00:00",
       "note": "On Gingerbread, VP9/WEBM video artifacts: only plays on half screen",
-      "sort_num": 0,
-      "tag": "Known"
-    },
-    {
-      "bug": 237623,
-      "created": "2014-07-17T08:51:57+00:00",
-      "fixed_in_release": {
-        "channel": "Release",
-        "is_public": true,
-        "product": "Firefox",
-        "slug": "firefox-33.0-release",
-        "title": "Firefox 33.0 Release",
-        "version": "33.0"
-      },
-      "id": 785655,
-      "is_public": true,
-      "modified": "2014-11-06T23:39:16+00:00",
-      "note": "Fix incomplete downloads being marked as complete by detecting broken HTTP1.1 transfers ([237623][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=237623",
       "sort_num": 0,
       "tag": "Known"
     }

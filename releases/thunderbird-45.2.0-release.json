@@ -27,6 +27,16 @@
       "tag": "Fixed"
     },
     {
+      "bug": 1174485,
+      "created": "2016-06-08T23:36:52.713429+00:00",
+      "id": 786722,
+      "is_public": true,
+      "modified": "2016-06-27T15:11:56.417373+00:00",
+      "note": "Falsely reported not enough disk space during compacting",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
       "bug": 1268856,
       "created": "2016-06-13T19:15:56.186072+00:00",
       "id": 786726,
@@ -43,16 +53,6 @@
       "is_public": true,
       "modified": "2016-06-27T15:08:34.433760+00:00",
       "note": "Links were not always detected properly in the message body (terminated early on \"|\", some long links not detected at all)",
-      "sort_num": 0,
-      "tag": "Fixed"
-    },
-    {
-      "bug": 1174485,
-      "created": "2016-06-08T23:36:52.713429+00:00",
-      "id": 786722,
-      "is_public": true,
-      "modified": "2016-06-27T15:11:56.417373+00:00",
-      "note": "Falsely reported not enough disk space during compacting",
       "sort_num": 0,
       "tag": "Fixed"
     }

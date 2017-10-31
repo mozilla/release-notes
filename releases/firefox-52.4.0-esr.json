@@ -8,21 +8,21 @@
   "notes": [
     {
       "bug": null,
-      "created": "2017-09-28T07:31:51.680308+00:00",
-      "id": 787279,
-      "is_public": true,
-      "modified": "2017-10-09T13:30:27.682279+00:00",
-      "note": "Various [security fixes][1]\r\n\r\n[1]: https://www.mozilla.org/en-US/security/known-vulnerabilities/firefox-esr/#firefoxesr52.4",
-      "sort_num": 0,
-      "tag": "Fixed"
-    },
-    {
-      "bug": null,
       "created": "2017-08-07T03:56:37.420091+00:00",
       "id": 787201,
       "is_public": true,
       "modified": "2017-10-09T13:30:26.093811+00:00",
       "note": "Various stability and regression fixes",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2017-09-28T07:31:51.680308+00:00",
+      "id": 787279,
+      "is_public": true,
+      "modified": "2017-10-09T13:30:27.682279+00:00",
+      "note": "Various [security fixes][1]\r\n\r\n[1]: https://www.mozilla.org/en-US/security/known-vulnerabilities/firefox-esr/#firefoxesr52.4",
       "sort_num": 0,
       "tag": "Fixed"
     },

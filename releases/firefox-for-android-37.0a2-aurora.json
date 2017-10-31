@@ -107,16 +107,6 @@
       "tag": "HTML5"
     },
     {
-      "bug": 704320,
-      "created": "2015-01-26T17:36:16+00:00",
-      "id": 785922,
-      "is_public": true,
-      "modified": "2015-02-19T15:51:08+00:00",
-      "note": "[&lt;meta name=\"referrer\"&gt;][1] implemented for more privacy. Allows to control the content of the HTTP referer header.\r\n\r\n\r\n  [1]: https://blog.mozilla.org/security/2015/01/21/meta-referrer/",
-      "sort_num": 0,
-      "tag": "HTML5"
-    },
-    {
       "bug": 1102374,
       "created": "2015-01-15T15:05:41+00:00",
       "id": 785893,
@@ -133,6 +123,16 @@
       "is_public": true,
       "modified": "2015-04-03T04:12:04+00:00",
       "note": "IndexedDB now accessible from worker threads",
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 704320,
+      "created": "2015-01-26T17:36:16+00:00",
+      "id": 785922,
+      "is_public": true,
+      "modified": "2015-02-19T15:51:08+00:00",
+      "note": "[&lt;meta name=\"referrer\"&gt;][1] implemented for more privacy. Allows to control the content of the HTTP referer header.\r\n\r\n\r\n  [1]: https://blog.mozilla.org/security/2015/01/21/meta-referrer/",
       "sort_num": 0,
       "tag": "HTML5"
     }

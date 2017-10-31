@@ -89,22 +89,22 @@
       "tag": "Known"
     },
     {
-      "bug": 1366196,
-      "created": "2017-05-20T07:10:51.070266+00:00",
-      "id": 787104,
-      "is_public": true,
-      "modified": "2017-06-12T19:21:59.290046+00:00",
-      "note": "Messages sent via the Simple MAPI interface are forced to HTML. Will be fixed in next release.",
-      "sort_num": 0,
-      "tag": "Known"
-    },
-    {
       "bug": 1281610,
       "created": "2017-04-11T19:15:44.518791+00:00",
       "id": 787032,
       "is_public": true,
       "modified": "2017-07-14T20:12:38.844733+00:00",
       "note": "Crash due to incompatibility with McAfee Anti-SPAM add-on. **Workaround:** Start in safe mode and disable McAfee Anti-Spam Extension",
+      "sort_num": 0,
+      "tag": "Known"
+    },
+    {
+      "bug": 1366196,
+      "created": "2017-05-20T07:10:51.070266+00:00",
+      "id": 787104,
+      "is_public": true,
+      "modified": "2017-06-12T19:21:59.290046+00:00",
+      "note": "Messages sent via the Simple MAPI interface are forced to HTML. Will be fixed in next release.",
       "sort_num": 0,
       "tag": "Known"
     }

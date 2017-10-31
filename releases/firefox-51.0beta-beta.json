@@ -7,32 +7,22 @@
   "modified": "2017-01-18T15:56:03.651456+00:00",
   "notes": [
     {
-      "bug": 1319119,
-      "created": "2017-01-18T14:50:46.569023+00:00",
-      "id": 786917,
+      "bug": 1195723,
+      "created": "2016-09-21T07:25:08.390367+00:00",
+      "id": 786820,
       "is_public": true,
       "modified": "2017-01-18T17:35:39.280808+00:00",
-      "note": "A [warning is displayed][1] when a login page does not have a secure connection\r\n\r\n\r\n  [1]: https://support.mozilla.org/en-US/kb/insecure-password-warning-firefox",
+      "note": "[Added support for FLAC (Free Lossless Audio Codec) playback][1]\r\n\r\n\r\n  [1]: https://xiph.org/flac/",
       "sort_num": 0,
       "tag": "New"
     },
     {
-      "bug": 1166947,
-      "created": "2016-09-22T23:21:30.202896+00:00",
-      "id": 786829,
+      "bug": 1270321,
+      "created": "2016-09-21T07:25:58.987735+00:00",
+      "id": 786821,
       "is_public": true,
-      "modified": "2017-01-24T03:21:11.331132+00:00",
-      "note": "Firefox will save passwords even in forms that do not have \u201csubmit\u201d events ",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
-      "bug": 1275441,
-      "created": "2016-09-21T07:41:40.144452+00:00",
-      "id": 786826,
-      "is_public": true,
-      "modified": "2017-01-24T02:56:07.617655+00:00",
-      "note": "Improved video performance for users without GPU acceleration for less CPU usage and a better full screen experience",
+      "modified": "2017-01-24T03:18:21.586917+00:00",
+      "note": "Users can view passwords in the save password prompt before saving them",
       "sort_num": 0,
       "tag": "New"
     },
@@ -47,6 +37,26 @@
       "tag": "New"
     },
     {
+      "bug": 1275441,
+      "created": "2016-09-21T07:41:40.144452+00:00",
+      "id": 786826,
+      "is_public": true,
+      "modified": "2017-01-24T02:56:07.617655+00:00",
+      "note": "Improved video performance for users without GPU acceleration for less CPU usage and a better full screen experience",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1166947,
+      "created": "2016-09-22T23:21:30.202896+00:00",
+      "id": 786829,
+      "is_public": true,
+      "modified": "2017-01-24T03:21:11.331132+00:00",
+      "note": "Firefox will save passwords even in forms that do not have \u201csubmit\u201d events ",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1232864,
       "created": "2016-11-15T08:58:38.423904+00:00",
       "id": 786865,
@@ -57,12 +67,12 @@
       "tag": "New"
     },
     {
-      "bug": 1195723,
-      "created": "2016-09-21T07:25:08.390367+00:00",
-      "id": 786820,
+      "bug": 1319119,
+      "created": "2017-01-18T14:50:46.569023+00:00",
+      "id": 786917,
       "is_public": true,
       "modified": "2017-01-18T17:35:39.280808+00:00",
-      "note": "[Added support for FLAC (Free Lossless Audio Codec) playback][1]\r\n\r\n\r\n  [1]: https://xiph.org/flac/",
+      "note": "A [warning is displayed][1] when a login page does not have a secure connection\r\n\r\n\r\n  [1]: https://support.mozilla.org/en-US/kb/insecure-password-warning-firefox",
       "sort_num": 0,
       "tag": "New"
     },
@@ -73,16 +83,6 @@
       "is_public": true,
       "modified": "2017-01-20T03:16:04.253103+00:00",
       "note": "Added Georgian (ka) and Kabyle (kab) locales",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
-      "bug": 1270321,
-      "created": "2016-09-21T07:25:58.987735+00:00",
-      "id": 786821,
-      "is_public": true,
-      "modified": "2017-01-24T03:18:21.586917+00:00",
-      "note": "Users can view passwords in the save password prompt before saving them",
       "sort_num": 0,
       "tag": "New"
     },

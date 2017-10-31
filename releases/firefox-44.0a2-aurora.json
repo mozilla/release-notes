@@ -27,6 +27,16 @@
       "tag": "Changed"
     },
     {
+      "bug": 1025778,
+      "created": "2015-11-02T09:28:26+00:00",
+      "id": 786345,
+      "is_public": true,
+      "modified": "2016-01-21T20:51:49.831889+00:00",
+      "note": "Right click on a logged object in the console to store it as a global variable on the page",
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
       "bug": 1194146,
       "created": "2015-11-02T11:15:40+00:00",
       "id": 786349,
@@ -73,16 +83,6 @@
       "is_public": true,
       "modified": "2016-01-21T20:51:49.831889+00:00",
       "note": "Built-in JSON reader to intuitively view, search, copy and save data without extensions",
-      "sort_num": 0,
-      "tag": "Developer"
-    },
-    {
-      "bug": 1025778,
-      "created": "2015-11-02T09:28:26+00:00",
-      "id": 786345,
-      "is_public": true,
-      "modified": "2016-01-21T20:51:49.831889+00:00",
-      "note": "Right click on a logged object in the console to store it as a global variable on the page",
       "sort_num": 0,
       "tag": "Developer"
     },

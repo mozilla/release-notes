@@ -17,22 +17,22 @@
       "tag": ""
     },
     {
-      "bug": 1383518,
-      "created": "2017-08-24T14:00:05.519110+00:00",
-      "id": 787242,
-      "is_public": true,
-      "modified": "2017-08-31T07:56:24.533363+00:00",
-      "note": "Fix file uploads to some websites, including YouTube ([bug 1383518][1])\r\n\r\n[1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1383518",
-      "sort_num": 0,
-      "tag": "Fixed"
-    },
-    {
       "bug": 1389160,
       "created": "2017-08-24T13:47:56.284689+00:00",
       "id": 787241,
       "is_public": true,
       "modified": "2017-08-25T13:14:36.089363+00:00",
       "note": "Fix an issue with addons when using a path containing non-ascii characters ([bug 1389160][1])\r\n\r\n[1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1389160",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1383518,
+      "created": "2017-08-24T14:00:05.519110+00:00",
+      "id": 787242,
+      "is_public": true,
+      "modified": "2017-08-31T07:56:24.533363+00:00",
+      "note": "Fix file uploads to some websites, including YouTube ([bug 1383518][1])\r\n\r\n[1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1383518",
       "sort_num": 0,
       "tag": "Fixed"
     }

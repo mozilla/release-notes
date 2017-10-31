@@ -47,22 +47,22 @@
       "tag": "New"
     },
     {
-      "bug": 1018497,
-      "created": "2014-07-17T09:08:11+00:00",
-      "id": 785658,
-      "is_public": true,
-      "modified": "2014-11-06T23:39:16+00:00",
-      "note": "[DOMMatrix][1] interface implemented\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/DOMMatrix",
-      "sort_num": 0,
-      "tag": "HTML5"
-    },
-    {
       "bug": 645416,
       "created": "2014-07-17T07:38:48+00:00",
       "id": 785650,
       "is_public": true,
       "modified": "2015-03-26T15:55:21+00:00",
       "note": "Support for the [ECMAScript 6 Symbol][1] data type added\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol\r\n",
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 1018497,
+      "created": "2014-07-17T09:08:11+00:00",
+      "id": 785658,
+      "is_public": true,
+      "modified": "2014-11-06T23:39:16+00:00",
+      "note": "[DOMMatrix][1] interface implemented\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/DOMMatrix",
       "sort_num": 0,
       "tag": "HTML5"
     },

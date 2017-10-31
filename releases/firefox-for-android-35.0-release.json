@@ -7,22 +7,22 @@
   "modified": "2015-01-13T15:28:06+00:00",
   "notes": [
     {
-      "bug": 1104841,
-      "created": "2014-12-03T00:09:28+00:00",
-      "id": 785849,
-      "is_public": true,
-      "modified": "2015-02-05T22:57:54+00:00",
-      "note": "Bing search now uses HTTPS for secure searching ",
-      "sort_num": 100,
-      "tag": "New"
-    },
-    {
       "bug": 1054520,
       "created": "2014-12-02T22:04:51+00:00",
       "id": 785841,
       "is_public": true,
       "modified": "2015-02-05T22:57:54+00:00",
       "note": "Improve Mozilla's <a href=\"https://location.services.mozilla.com/\">geolocation service</a> by sharing your wi-fi and cellular signals. Enable this feature by opening the Settings menu and in the \"Mozilla\" section check the \"Mozilla Location Services\" option under Data Choices.",
+      "sort_num": 100,
+      "tag": "New"
+    },
+    {
+      "bug": 1104841,
+      "created": "2014-12-03T00:09:28+00:00",
+      "id": 785849,
+      "is_public": true,
+      "modified": "2015-02-05T22:57:54+00:00",
+      "note": "Bing search now uses HTTPS for secure searching ",
       "sort_num": 100,
       "tag": "New"
     },
@@ -77,6 +77,16 @@
       "tag": "Changed"
     },
     {
+      "bug": 1001090,
+      "created": "2014-10-03T02:55:26+00:00",
+      "id": 785733,
+      "is_public": true,
+      "modified": "2015-02-05T22:57:54+00:00",
+      "note": "Changed JavaScript ['let' semantics][1] to conform better to the ES6 specification\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let#Temporal_dead_zone_and_errors_with_let",
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
       "bug": 1002855,
       "created": "2014-10-03T05:44:28+00:00",
       "id": 785743,
@@ -107,16 +117,6 @@
       "tag": "HTML5"
     },
     {
-      "bug": 1001090,
-      "created": "2014-10-03T02:55:26+00:00",
-      "id": 785733,
-      "is_public": true,
-      "modified": "2015-02-05T22:57:54+00:00",
-      "note": "Changed JavaScript ['let' semantics][1] to conform better to the ES6 specification\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let#Temporal_dead_zone_and_errors_with_let",
-      "sort_num": 0,
-      "tag": "HTML5"
-    },
-    {
       "bug": 1104277,
       "created": "2014-12-03T00:08:13+00:00",
       "id": 785848,
@@ -137,6 +137,16 @@
       "tag": "Developer"
     },
     {
+      "bug": null,
+      "created": "2013-11-25T00:24:50+00:00",
+      "id": 161,
+      "is_public": true,
+      "modified": "2015-03-26T15:55:42+00:00",
+      "note": "Various <a href=\"https://www.mozilla.org/security/known-vulnerabilities/firefox.html\">security fixes</a>",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
       "bug": 1060200,
       "created": "2014-12-02T22:07:26+00:00",
       "id": 785843,
@@ -153,16 +163,6 @@
       "is_public": true,
       "modified": "2015-02-05T22:57:54+00:00",
       "note": "Files downloaded in private browsing mode are now viewable in the download manager",
-      "sort_num": 0,
-      "tag": "Fixed"
-    },
-    {
-      "bug": null,
-      "created": "2013-11-25T00:24:50+00:00",
-      "id": 161,
-      "is_public": true,
-      "modified": "2015-03-26T15:55:42+00:00",
-      "note": "Various <a href=\"https://www.mozilla.org/security/known-vulnerabilities/firefox.html\">security fixes</a>",
       "sort_num": 0,
       "tag": "Fixed"
     },

@@ -7,6 +7,36 @@
   "modified": "2016-11-16T10:10:04.417515+00:00",
   "notes": [
     {
+      "bug": 1144749,
+      "created": "2016-08-03T21:07:39.435887+00:00",
+      "id": 786763,
+      "is_public": true,
+      "modified": "2016-11-14T22:48:34.365820+00:00",
+      "note": "Updates to keyboard shortcuts\r\n\r\n - Set a preference to have Ctrl+Tab cycle through tabs in recently used order \r\n - View a page in Reader Mode by using Ctrl+Alt+R (command+alt+r on Mac)\r\n",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 269442,
+      "created": "2016-08-03T21:10:15.077714+00:00",
+      "id": 786765,
+      "is_public": true,
+      "modified": "2016-11-14T01:28:41.075312+00:00",
+      "note": "Added option to Find in page that allows users to limit search to whole words only",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1299346,
+      "created": "2016-09-19T16:58:51.988350+00:00",
+      "id": 786814,
+      "is_public": true,
+      "modified": "2016-11-14T01:29:06.046369+00:00",
+      "note": "Added Guarani (gn) locale",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1271770,
       "created": "2016-11-10T19:25:24.428867+00:00",
       "id": 786858,
@@ -27,16 +57,6 @@
       "tag": "New"
     },
     {
-      "bug": null,
-      "created": "2016-11-14T01:30:49.217248+00:00",
-      "id": 786862,
-      "is_public": true,
-      "modified": "2016-11-14T19:59:48.268908+00:00",
-      "note": "Playback video on more sites without plugins with WebM EME Support for Widevine on Windows and Mac",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
       "bug": 1308332,
       "created": "2016-11-10T21:54:51.491833+00:00",
       "id": 786861,
@@ -47,44 +67,14 @@
       "tag": "New"
     },
     {
-      "bug": 269442,
-      "created": "2016-08-03T21:10:15.077714+00:00",
-      "id": 786765,
+      "bug": null,
+      "created": "2016-11-14T01:30:49.217248+00:00",
+      "id": 786862,
       "is_public": true,
-      "modified": "2016-11-14T01:28:41.075312+00:00",
-      "note": "Added option to Find in page that allows users to limit search to whole words only",
+      "modified": "2016-11-14T19:59:48.268908+00:00",
+      "note": "Playback video on more sites without plugins with WebM EME Support for Widevine on Windows and Mac",
       "sort_num": 0,
       "tag": "New"
-    },
-    {
-      "bug": 1144749,
-      "created": "2016-08-03T21:07:39.435887+00:00",
-      "id": 786763,
-      "is_public": true,
-      "modified": "2016-11-14T22:48:34.365820+00:00",
-      "note": "Updates to keyboard shortcuts\r\n\r\n - Set a preference to have Ctrl+Tab cycle through tabs in recently used order \r\n - View a page in Reader Mode by using Ctrl+Alt+R (command+alt+r on Mac)\r\n",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
-      "bug": 1299346,
-      "created": "2016-09-19T16:58:51.988350+00:00",
-      "id": 786814,
-      "is_public": true,
-      "modified": "2016-11-14T01:29:06.046369+00:00",
-      "note": "Added Guarani (gn) locale",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
-      "bug": 1263665,
-      "created": "2016-11-10T19:30:46.060345+00:00",
-      "id": 786860,
-      "is_public": true,
-      "modified": "2016-11-10T19:30:46.060161+00:00",
-      "note": "Blocked versions of libavcodec older than 54.35.1",
-      "sort_num": 0,
-      "tag": "Changed"
     },
     {
       "bug": 1231701,
@@ -93,6 +83,16 @@
       "is_public": true,
       "modified": "2016-11-14T01:28:15.341069+00:00",
       "note": "Added a built-in Emoji set for operating systems without native Emoji fonts (Windows 8.0 and lower and Linux)",
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
+      "bug": 1263665,
+      "created": "2016-11-10T19:30:46.060345+00:00",
+      "id": 786860,
+      "is_public": true,
+      "modified": "2016-11-10T19:30:46.060161+00:00",
+      "note": "Blocked versions of libavcodec older than 54.35.1",
       "sort_num": 0,
       "tag": "Changed"
     },
@@ -127,22 +127,22 @@
       "tag": "Fixed"
     },
     {
-      "bug": 1264192,
-      "created": "2016-11-16T18:40:18.223027+00:00",
-      "id": 786867,
-      "is_public": true,
-      "modified": "2016-11-16T18:40:18.222706+00:00",
-      "note": "Login cookies are now saved for sites with a high number of cookies ([Bug 1264192][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1264192",
-      "sort_num": 0,
-      "tag": "Fixed"
-    },
-    {
       "bug": null,
       "created": "2016-11-15T00:59:49.556864+00:00",
       "id": 786863,
       "is_public": true,
       "modified": "2016-11-28T23:51:29.453964+00:00",
       "note": "Various [security fixes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/en-US/security/advisories/mfsa2016-91/",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1264192,
+      "created": "2016-11-16T18:40:18.223027+00:00",
+      "id": 786867,
+      "is_public": true,
+      "modified": "2016-11-16T18:40:18.222706+00:00",
+      "note": "Login cookies are now saved for sites with a high number of cookies ([Bug 1264192][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1264192",
       "sort_num": 0,
       "tag": "Fixed"
     },

@@ -127,22 +127,22 @@
       "tag": "HTML5"
     },
     {
-      "bug": 1064737,
-      "created": "2014-12-02T22:20:46+00:00",
-      "id": 785844,
-      "is_public": true,
-      "modified": "2015-01-12T17:51:46+00:00",
-      "note": "WOFF2 fonts are now supported (on Aurora and Nightly)",
-      "sort_num": 0,
-      "tag": "Developer"
-    },
-    {
       "bug": 920141,
       "created": "2014-10-03T05:58:23+00:00",
       "id": 785745,
       "is_public": true,
       "modified": "2015-01-26T14:34:57+00:00",
       "note": "Support for inspecting ::before and ::after pseudo elements",
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
+      "bug": 1064737,
+      "created": "2014-12-02T22:20:46+00:00",
+      "id": 785844,
+      "is_public": true,
+      "modified": "2015-01-12T17:51:46+00:00",
+      "note": "WOFF2 fonts are now supported (on Aurora and Nightly)",
       "sort_num": 0,
       "tag": "Developer"
     },

@@ -7,24 +7,6 @@
   "modified": "2017-06-02T19:58:44.929211+00:00",
   "notes": [
     {
-      "bug": 1312813,
-      "created": "2017-05-19T14:12:15.476929+00:00",
-      "fixed_in_release": {
-        "channel": "Beta",
-        "is_public": true,
-        "product": "Thunderbird",
-        "slug": "thunderbird-54.0beta-beta",
-        "title": "Thunderbird 54.0beta Beta",
-        "version": "54.0beta"
-      },
-      "id": 787097,
-      "is_public": true,
-      "modified": "2017-07-14T20:12:20.993559+00:00",
-      "note": "Individual feed update interval",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
       "bug": 1231592,
       "created": "2017-04-26T19:51:28.561441+00:00",
       "fixed_in_release": {
@@ -39,6 +21,24 @@
       "is_public": true,
       "modified": "2017-07-14T20:12:35.526300+00:00",
       "note": "Better support for Charter/Spectrum IMAP: Thunderbird will now detect Charter's IMAP service and send an additional IMAP select command to the server. Check the various preferences ending in \"force_select\" to see whether auto-detection has discovered this case.",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1312813,
+      "created": "2017-05-19T14:12:15.476929+00:00",
+      "fixed_in_release": {
+        "channel": "Beta",
+        "is_public": true,
+        "product": "Thunderbird",
+        "slug": "thunderbird-54.0beta-beta",
+        "title": "Thunderbird 54.0beta Beta",
+        "version": "54.0beta"
+      },
+      "id": 787097,
+      "is_public": true,
+      "modified": "2017-07-14T20:12:20.993559+00:00",
+      "note": "Individual feed update interval",
       "sort_num": 0,
       "tag": "New"
     },
@@ -61,44 +61,8 @@
       "tag": "Changed"
     },
     {
-      "bug": 1365980,
-      "created": "2017-06-12T19:29:53.039088+00:00",
-      "fixed_in_release": {
-        "channel": "Release",
-        "is_public": true,
-        "product": "Thunderbird",
-        "slug": "thunderbird-52.2.0-release",
-        "title": "Thunderbird 52.2.0 Release",
-        "version": "52.2.0"
-      },
-      "id": 787145,
-      "is_public": true,
-      "modified": "2017-07-14T20:11:47.771643+00:00",
-      "note": "Calendar: Invitations can't be printed",
-      "sort_num": 0,
-      "tag": "Fixed"
-    },
-    {
-      "bug": 1366196,
-      "created": "2017-06-12T18:49:55.237403+00:00",
-      "fixed_in_release": {
-        "channel": "Release",
-        "is_public": true,
-        "product": "Thunderbird",
-        "slug": "thunderbird-52.2.0-release",
-        "title": "Thunderbird 52.2.0 Release",
-        "version": "52.2.0"
-      },
-      "id": 787136,
-      "is_public": true,
-      "modified": "2017-07-14T20:11:50.792423+00:00",
-      "note": "Messages sent via the Simple MAPI interface are forced to HTML",
-      "sort_num": 0,
-      "tag": "Fixed"
-    },
-    {
-      "bug": 1353625,
-      "created": "2017-06-02T19:47:17.067331+00:00",
+      "bug": 1347598,
+      "created": "2017-04-26T19:45:58.871454+00:00",
       "fixed_in_release": {
         "channel": "Beta",
         "is_public": true,
@@ -107,118 +71,10 @@
         "title": "Thunderbird 54.0beta Beta",
         "version": "54.0beta"
       },
-      "id": 787110,
+      "id": 787062,
       "is_public": true,
-      "modified": "2017-07-14T20:11:54.527992+00:00",
-      "note": "Large number of blank pages being printed under certain circumstances when invalid preferences were present (fixed in Thunderbird version 54 beta 3)",
-      "sort_num": 0,
-      "tag": "Fixed"
-    },
-    {
-      "bug": 1366273,
-      "created": "2017-06-02T19:43:04.267485+00:00",
-      "fixed_in_release": {
-        "channel": "Beta",
-        "is_public": true,
-        "product": "Thunderbird",
-        "slug": "thunderbird-54.0beta-beta",
-        "title": "Thunderbird 54.0beta Beta",
-        "version": "54.0beta"
-      },
-      "id": 787109,
-      "is_public": true,
-      "modified": "2017-07-14T20:11:57.988238+00:00",
-      "note": "Clicking on links with references/anchors not working, clicking on links with references/anchors where target doesn't exist in the message not opening in external browser (fixed in Thunderbird version 54 beta 3, wasn't working in beta 1 and 2)",
-      "sort_num": 0,
-      "tag": "Fixed"
-    },
-    {
-      "bug": 1366255,
-      "created": "2017-05-19T21:06:44.627148+00:00",
-      "fixed_in_release": {
-        "channel": "Beta",
-        "is_public": true,
-        "product": "Thunderbird",
-        "slug": "thunderbird-54.0beta-beta",
-        "title": "Thunderbird 54.0beta Beta",
-        "version": "54.0beta"
-      },
-      "id": 787103,
-      "is_public": true,
-      "modified": "2017-07-14T20:12:00.502552+00:00",
-      "note": "Chat working again (fixed in Thunderbird version 54 beta 2, wasn't working in beta 1)",
-      "sort_num": 0,
-      "tag": "Fixed"
-    },
-    {
-      "bug": 1176399,
-      "created": "2017-05-19T14:38:04.485090+00:00",
-      "fixed_in_release": {
-        "channel": "Beta",
-        "is_public": true,
-        "product": "Thunderbird",
-        "slug": "thunderbird-54.0beta-beta",
-        "title": "Thunderbird 54.0beta Beta",
-        "version": "54.0beta"
-      },
-      "id": 787102,
-      "is_public": true,
-      "modified": "2017-07-14T20:12:03.666752+00:00",
-      "note": "Multiple requests for master password when GMail OAuth2 is enabled",
-      "sort_num": 0,
-      "tag": "Fixed"
-    },
-    {
-      "bug": 1356881,
-      "created": "2017-05-19T14:26:40.221383+00:00",
-      "fixed_in_release": {
-        "channel": "Beta",
-        "is_public": true,
-        "product": "Thunderbird",
-        "slug": "thunderbird-54.0beta-beta",
-        "title": "Thunderbird 54.0beta Beta",
-        "version": "54.0beta"
-      },
-      "id": 787101,
-      "is_public": true,
-      "modified": "2017-07-14T20:12:06.515743+00:00",
-      "note": "Mailing list (group) not accessible from macOS or Outlook address book (not working in Thunderbird version 52)",
-      "sort_num": 0,
-      "tag": "Fixed"
-    },
-    {
-      "bug": 1350080,
-      "created": "2017-05-19T14:24:41.003624+00:00",
-      "fixed_in_release": {
-        "channel": "Beta",
-        "is_public": true,
-        "product": "Thunderbird",
-        "slug": "thunderbird-54.0beta-beta",
-        "title": "Thunderbird 54.0beta Beta",
-        "version": "54.0beta"
-      },
-      "id": 787100,
-      "is_public": true,
-      "modified": "2017-07-14T20:12:09.314497+00:00",
-      "note": "Attached message sometimes not saved or forwarded correctly",
-      "sort_num": 0,
-      "tag": "Fixed"
-    },
-    {
-      "bug": 570914,
-      "created": "2017-05-19T14:21:07.530212+00:00",
-      "fixed_in_release": {
-        "channel": "Beta",
-        "is_public": true,
-        "product": "Thunderbird",
-        "slug": "thunderbird-54.0beta-beta",
-        "title": "Thunderbird 54.0beta Beta",
-        "version": "54.0beta"
-      },
-      "id": 787099,
-      "is_public": true,
-      "modified": "2017-07-14T20:12:11.960134+00:00",
-      "note": "Attachment not forwarded correctly under certain circumstances",
+      "modified": "2017-07-14T20:12:44.322391+00:00",
+      "note": "Embedded images not shown in email received from Hotmail/Outlook webmailer",
       "sort_num": 0,
       "tag": "Fixed"
     },
@@ -241,8 +97,8 @@
       "tag": "Fixed"
     },
     {
-      "bug": 1347598,
-      "created": "2017-04-26T19:45:58.871454+00:00",
+      "bug": 570914,
+      "created": "2017-05-19T14:21:07.530212+00:00",
       "fixed_in_release": {
         "channel": "Beta",
         "is_public": true,
@@ -251,22 +107,156 @@
         "title": "Thunderbird 54.0beta Beta",
         "version": "54.0beta"
       },
-      "id": 787062,
+      "id": 787099,
       "is_public": true,
-      "modified": "2017-07-14T20:12:44.322391+00:00",
-      "note": "Embedded images not shown in email received from Hotmail/Outlook webmailer",
+      "modified": "2017-07-14T20:12:11.960134+00:00",
+      "note": "Attachment not forwarded correctly under certain circumstances",
       "sort_num": 0,
       "tag": "Fixed"
     },
     {
-      "bug": null,
-      "created": "2017-05-05T05:44:06.838246+00:00",
-      "id": 787083,
+      "bug": 1350080,
+      "created": "2017-05-19T14:24:41.003624+00:00",
+      "fixed_in_release": {
+        "channel": "Beta",
+        "is_public": true,
+        "product": "Thunderbird",
+        "slug": "thunderbird-54.0beta-beta",
+        "title": "Thunderbird 54.0beta Beta",
+        "version": "54.0beta"
+      },
+      "id": 787100,
       "is_public": true,
-      "modified": "2017-07-14T20:12:31.603443+00:00",
-      "note": "Date/time display cannot be adjusted in the operating system settings, so the date/time display will follow the application locale. That means that the English-US version will display English-US date/time formats and, for example, the German version will display German date/time formats. Improved behavior scheduled for version 55 beta.",
+      "modified": "2017-07-14T20:12:09.314497+00:00",
+      "note": "Attached message sometimes not saved or forwarded correctly",
       "sort_num": 0,
-      "tag": "Known"
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1356881,
+      "created": "2017-05-19T14:26:40.221383+00:00",
+      "fixed_in_release": {
+        "channel": "Beta",
+        "is_public": true,
+        "product": "Thunderbird",
+        "slug": "thunderbird-54.0beta-beta",
+        "title": "Thunderbird 54.0beta Beta",
+        "version": "54.0beta"
+      },
+      "id": 787101,
+      "is_public": true,
+      "modified": "2017-07-14T20:12:06.515743+00:00",
+      "note": "Mailing list (group) not accessible from macOS or Outlook address book (not working in Thunderbird version 52)",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1176399,
+      "created": "2017-05-19T14:38:04.485090+00:00",
+      "fixed_in_release": {
+        "channel": "Beta",
+        "is_public": true,
+        "product": "Thunderbird",
+        "slug": "thunderbird-54.0beta-beta",
+        "title": "Thunderbird 54.0beta Beta",
+        "version": "54.0beta"
+      },
+      "id": 787102,
+      "is_public": true,
+      "modified": "2017-07-14T20:12:03.666752+00:00",
+      "note": "Multiple requests for master password when GMail OAuth2 is enabled",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1366255,
+      "created": "2017-05-19T21:06:44.627148+00:00",
+      "fixed_in_release": {
+        "channel": "Beta",
+        "is_public": true,
+        "product": "Thunderbird",
+        "slug": "thunderbird-54.0beta-beta",
+        "title": "Thunderbird 54.0beta Beta",
+        "version": "54.0beta"
+      },
+      "id": 787103,
+      "is_public": true,
+      "modified": "2017-07-14T20:12:00.502552+00:00",
+      "note": "Chat working again (fixed in Thunderbird version 54 beta 2, wasn't working in beta 1)",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1366273,
+      "created": "2017-06-02T19:43:04.267485+00:00",
+      "fixed_in_release": {
+        "channel": "Beta",
+        "is_public": true,
+        "product": "Thunderbird",
+        "slug": "thunderbird-54.0beta-beta",
+        "title": "Thunderbird 54.0beta Beta",
+        "version": "54.0beta"
+      },
+      "id": 787109,
+      "is_public": true,
+      "modified": "2017-07-14T20:11:57.988238+00:00",
+      "note": "Clicking on links with references/anchors not working, clicking on links with references/anchors where target doesn't exist in the message not opening in external browser (fixed in Thunderbird version 54 beta 3, wasn't working in beta 1 and 2)",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1353625,
+      "created": "2017-06-02T19:47:17.067331+00:00",
+      "fixed_in_release": {
+        "channel": "Beta",
+        "is_public": true,
+        "product": "Thunderbird",
+        "slug": "thunderbird-54.0beta-beta",
+        "title": "Thunderbird 54.0beta Beta",
+        "version": "54.0beta"
+      },
+      "id": 787110,
+      "is_public": true,
+      "modified": "2017-07-14T20:11:54.527992+00:00",
+      "note": "Large number of blank pages being printed under certain circumstances when invalid preferences were present (fixed in Thunderbird version 54 beta 3)",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1366196,
+      "created": "2017-06-12T18:49:55.237403+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": true,
+        "product": "Thunderbird",
+        "slug": "thunderbird-52.2.0-release",
+        "title": "Thunderbird 52.2.0 Release",
+        "version": "52.2.0"
+      },
+      "id": 787136,
+      "is_public": true,
+      "modified": "2017-07-14T20:11:50.792423+00:00",
+      "note": "Messages sent via the Simple MAPI interface are forced to HTML",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1365980,
+      "created": "2017-06-12T19:29:53.039088+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": true,
+        "product": "Thunderbird",
+        "slug": "thunderbird-52.2.0-release",
+        "title": "Thunderbird 52.2.0 Release",
+        "version": "52.2.0"
+      },
+      "id": 787145,
+      "is_public": true,
+      "modified": "2017-07-14T20:11:47.771643+00:00",
+      "note": "Calendar: Invitations can't be printed",
+      "sort_num": 0,
+      "tag": "Fixed"
     },
     {
       "bug": 1281610,
@@ -275,6 +265,16 @@
       "is_public": true,
       "modified": "2017-07-14T20:12:38.844733+00:00",
       "note": "Crash due to incompatibility with McAfee Anti-SPAM add-on. **Workaround:** Start in safe mode and disable McAfee Anti-Spam Extension",
+      "sort_num": 0,
+      "tag": "Known"
+    },
+    {
+      "bug": null,
+      "created": "2017-05-05T05:44:06.838246+00:00",
+      "id": 787083,
+      "is_public": true,
+      "modified": "2017-07-14T20:12:31.603443+00:00",
+      "note": "Date/time display cannot be adjusted in the operating system settings, so the date/time display will follow the application locale. That means that the English-US version will display English-US date/time formats and, for example, the German version will display German date/time formats. Improved behavior scheduled for version 55 beta.",
       "sort_num": 0,
       "tag": "Known"
     }

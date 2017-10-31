@@ -87,22 +87,22 @@
       "tag": "Changed"
     },
     {
-      "bug": 1044102,
-      "created": "2015-09-01T11:42:18+00:00",
-      "id": 786255,
-      "is_public": true,
-      "modified": "2015-10-23T14:59:49+00:00",
-      "note": "Support [ImageBitmap][1] and [createImageBitmap()][2]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/ImageBitmap\r\n  [2]: https://developer.mozilla.org/en-US/docs/Web/API/CreateImageBitmap",
-      "sort_num": 0,
-      "tag": "HTML5"
-    },
-    {
       "bug": 987514,
       "created": "2015-08-12T12:14:41+00:00",
       "id": 786223,
       "is_public": true,
       "modified": "2015-10-23T14:59:49+00:00",
       "note": "Implemented [ES6 Reflect][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Reflect",
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 1044102,
+      "created": "2015-09-01T11:42:18+00:00",
+      "id": 786255,
+      "is_public": true,
+      "modified": "2015-10-23T14:59:49+00:00",
+      "note": "Support [ImageBitmap][1] and [createImageBitmap()][2]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/ImageBitmap\r\n  [2]: https://developer.mozilla.org/en-US/docs/Web/API/CreateImageBitmap",
       "sort_num": 0,
       "tag": "HTML5"
     },

@@ -17,22 +17,22 @@
       "tag": "New"
     },
     {
-      "bug": 1268368,
-      "created": "2017-01-24T14:06:52.013336+00:00",
-      "id": 786934,
-      "is_public": true,
-      "modified": "2017-03-06T12:21:33.620734+00:00",
-      "note": "Display media controls to pause or resume playback on the Android notification bar. This gives users easy access to controls and allows them to see when audio or video is playing (and consuming mobile data) on Firefox. ",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
       "bug": 1294736,
       "created": "2017-01-24T12:54:53.932473+00:00",
       "id": 786930,
       "is_public": true,
       "modified": "2017-03-01T13:56:25.542353+00:00",
       "note": "Reduced APK file size by more than 5 MB for faster download and installation",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1268368,
+      "created": "2017-01-24T14:06:52.013336+00:00",
+      "id": 786934,
+      "is_public": true,
+      "modified": "2017-03-06T12:21:33.620734+00:00",
+      "note": "Display media controls to pause or resume playback on the Android notification bar. This gives users easy access to controls and allows them to see when audio or video is playing (and consuming mobile data) on Firefox. ",
       "sort_num": 0,
       "tag": "New"
     },

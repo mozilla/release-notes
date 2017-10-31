@@ -38,6 +38,26 @@
     },
     {
       "bug": null,
+      "created": "2014-03-04T09:50:53+00:00",
+      "id": 785433,
+      "is_public": true,
+      "modified": "2014-07-21T04:25:14+00:00",
+      "note": "Horizontal HTML5 audio/video volume control",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2014-03-04T09:51:05+00:00",
+      "id": 785434,
+      "is_public": true,
+      "modified": "2014-07-21T04:26:06+00:00",
+      "note": "Support for Opus in WebM",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
       "created": "2014-03-04T09:57:12+00:00",
       "id": 785446,
       "is_public": true,
@@ -63,26 +83,6 @@
       "is_public": true,
       "modified": "2014-07-21T04:24:44+00:00",
       "note": "Added settings switch to toggle dynamic toolbar mode",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
-      "bug": null,
-      "created": "2014-03-04T09:50:53+00:00",
-      "id": 785433,
-      "is_public": true,
-      "modified": "2014-07-21T04:25:14+00:00",
-      "note": "Horizontal HTML5 audio/video volume control",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
-      "bug": null,
-      "created": "2014-03-04T09:51:05+00:00",
-      "id": 785434,
-      "is_public": true,
-      "modified": "2014-07-21T04:26:06+00:00",
-      "note": "Support for Opus in WebM",
       "sort_num": 0,
       "tag": "New"
     },
@@ -127,22 +127,22 @@
       "tag": "Developer"
     },
     {
-      "bug": 963000,
-      "created": "2014-03-04T10:07:01+00:00",
-      "id": 785451,
-      "is_public": true,
-      "modified": "2014-07-21T04:04:51+00:00",
-      "note": "Explore By Touch automatically loading web pages ([963000][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=963000",
-      "sort_num": 0,
-      "tag": "Fixed"
-    },
-    {
       "bug": null,
       "created": "2013-11-25T00:24:50+00:00",
       "id": 161,
       "is_public": true,
       "modified": "2015-03-26T15:55:42+00:00",
       "note": "Various <a href=\"https://www.mozilla.org/security/known-vulnerabilities/firefox.html\">security fixes</a>",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 963000,
+      "created": "2014-03-04T10:07:01+00:00",
+      "id": 785451,
+      "is_public": true,
+      "modified": "2014-07-21T04:04:51+00:00",
+      "note": "Explore By Touch automatically loading web pages ([963000][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=963000",
       "sort_num": 0,
       "tag": "Fixed"
     },

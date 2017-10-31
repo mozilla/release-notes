@@ -37,52 +37,22 @@
       "tag": "Fixed"
     },
     {
-      "bug": 1409155,
-      "created": "2017-10-24T18:43:14.651748+00:00",
-      "id": 787300,
-      "is_public": true,
-      "modified": "2017-10-24T19:24:39.321459+00:00",
-      "note": "Some older versions of the ATOK IME, including ATOK 2008 and 2009, can cause crashes or may not work on the Windows 64-bit version of Firefox. To fix those incompatibility issues, please use a newer version of ATOK or one of other IMEs.",
-      "sort_num": 0,
-      "tag": "Known"
-    },
-    {
-      "bug": null,
-      "created": "2017-10-19T12:46:01.355750+00:00",
-      "id": 787299,
-      "is_public": true,
-      "modified": "2017-10-19T12:46:01.355571+00:00",
-      "note": "Some third party software (Comodo Internet Security, Kaspersky, Quick Heal Antivirus) are known to cause issues with Firefox 64-bit. These vendors have published new releases which addresses the issues.\r\n",
-      "sort_num": 0,
-      "tag": "Known"
-    },
-    {
-      "bug": 1409275,
-      "created": "2017-10-19T12:06:16.425215+00:00",
-      "id": 787298,
-      "is_public": true,
-      "modified": "2017-10-19T12:06:16.425032+00:00",
-      "note": "GSSAPI and Kerberos authentication _do_ work in 64-Bit Windows Firefox. However it requires the advanced setting \"network.negotiate-auth.gsslib\" to contain the string \"gssapi64.dll\" because the default value (which is chosen if left empty) is wrong. Future versions of Firefox will contain a correct default value.",
-      "sort_num": 0,
-      "tag": "Known"
-    },
-    {
-      "bug": 1390125,
-      "created": "2017-09-28T18:11:44.324166+00:00",
-      "id": 787281,
-      "is_public": true,
-      "modified": "2017-10-09T09:08:12.331024+00:00",
-      "note": "Due to a bug in Mac OS X High Sierra, fullscreen mode has some issues",
-      "sort_num": 0,
-      "tag": "Known"
-    },
-    {
       "bug": 1394550,
       "created": "2017-09-15T17:03:32.948582+00:00",
       "id": 787247,
       "is_public": true,
       "modified": "2017-10-09T09:08:12.331024+00:00",
       "note": "Startup crash with RelevantKnowledge adware installed. Firefox Support has helpful [instructions to remove it][1].\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/troubleshoot-firefox-issues-caused-malware",
+      "sort_num": 0,
+      "tag": "Known"
+    },
+    {
+      "bug": 1369361,
+      "created": "2017-09-26T15:42:15.826666+00:00",
+      "id": 787276,
+      "is_public": true,
+      "modified": "2017-10-09T09:08:12.331024+00:00",
+      "note": "Startup crashes with 64-bit Firefox on Windows 7, for users of Lenovo's \"OneKey Theater\" software for IdeaPad laptops. To fix this crash, please [re-install 32-bit Firefox](https://www.mozilla.org/firefox/all/).",
       "sort_num": 0,
       "tag": "Known"
     },
@@ -97,12 +67,42 @@
       "tag": "Known"
     },
     {
-      "bug": 1369361,
-      "created": "2017-09-26T15:42:15.826666+00:00",
-      "id": 787276,
+      "bug": 1390125,
+      "created": "2017-09-28T18:11:44.324166+00:00",
+      "id": 787281,
       "is_public": true,
       "modified": "2017-10-09T09:08:12.331024+00:00",
-      "note": "Startup crashes with 64-bit Firefox on Windows 7, for users of Lenovo's \"OneKey Theater\" software for IdeaPad laptops. To fix this crash, please [re-install 32-bit Firefox](https://www.mozilla.org/firefox/all/).",
+      "note": "Due to a bug in Mac OS X High Sierra, fullscreen mode has some issues",
+      "sort_num": 0,
+      "tag": "Known"
+    },
+    {
+      "bug": 1409275,
+      "created": "2017-10-19T12:06:16.425215+00:00",
+      "id": 787298,
+      "is_public": true,
+      "modified": "2017-10-19T12:06:16.425032+00:00",
+      "note": "GSSAPI and Kerberos authentication _do_ work in 64-Bit Windows Firefox. However it requires the advanced setting \"network.negotiate-auth.gsslib\" to contain the string \"gssapi64.dll\" because the default value (which is chosen if left empty) is wrong. Future versions of Firefox will contain a correct default value.",
+      "sort_num": 0,
+      "tag": "Known"
+    },
+    {
+      "bug": null,
+      "created": "2017-10-19T12:46:01.355750+00:00",
+      "id": 787299,
+      "is_public": true,
+      "modified": "2017-10-19T12:46:01.355571+00:00",
+      "note": "Some third party software (Comodo Internet Security, Kaspersky, Quick Heal Antivirus) are known to cause issues with Firefox 64-bit. These vendors have published new releases which addresses the issues.\r\n",
+      "sort_num": 0,
+      "tag": "Known"
+    },
+    {
+      "bug": 1409155,
+      "created": "2017-10-24T18:43:14.651748+00:00",
+      "id": 787300,
+      "is_public": true,
+      "modified": "2017-10-24T19:24:39.321459+00:00",
+      "note": "Some older versions of the ATOK IME, including ATOK 2008 and 2009, can cause crashes or may not work on the Windows 64-bit version of Firefox. To fix those incompatibility issues, please use a newer version of ATOK or one of other IMEs.",
       "sort_num": 0,
       "tag": "Known"
     }

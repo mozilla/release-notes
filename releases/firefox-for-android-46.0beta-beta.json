@@ -47,22 +47,22 @@
       "tag": "New"
     },
     {
-      "bug": 1231792,
-      "created": "2016-03-04T04:22:51.937676+00:00",
-      "id": 786506,
-      "is_public": true,
-      "modified": "2016-04-15T19:09:52.375233+00:00",
-      "note": " History and Bookmarks items added to menu",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
       "bug": 1229862,
       "created": "2016-01-27T22:40:29.849710+00:00",
       "id": 786454,
       "is_public": true,
       "modified": "2016-04-15T19:09:52.375233+00:00",
       "note": "Include [default domains for inline autocompletion][1]\r\n\r\n\r\n  [1]: https://gecko.readthedocs.org/en/latest/mobile/android/fennec/defaultdomains.html#domain-auto-completion",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1231792,
+      "created": "2016-03-04T04:22:51.937676+00:00",
+      "id": 786506,
+      "is_public": true,
+      "modified": "2016-04-15T19:09:52.375233+00:00",
+      "note": " History and Bookmarks items added to menu",
       "sort_num": 0,
       "tag": "New"
     },
@@ -77,22 +77,22 @@
       "tag": "Changed"
     },
     {
-      "bug": 1220906,
-      "created": "2016-03-04T04:39:27.827957+00:00",
-      "id": 786507,
-      "is_public": true,
-      "modified": "2016-04-22T19:32:04.489651+00:00",
-      "note": "[Removed support][1] for Firefox Sync 1.1 in favor of Firefox Accounts \r\n\r\n\r\n  [1]: https://blog.mozilla.org/services/2015/07/31/shutting-down-the-legacy-sync-service/",
-      "sort_num": 0,
-      "tag": "Changed"
-    },
-    {
       "bug": 1216987,
       "created": "2016-01-27T21:56:43.404946+00:00",
       "id": 786452,
       "is_public": true,
       "modified": "2016-04-15T19:09:52.375233+00:00",
       "note": "Top Sites panel now lists popular sites by default",
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
+      "bug": 1220906,
+      "created": "2016-03-04T04:39:27.827957+00:00",
+      "id": 786507,
+      "is_public": true,
+      "modified": "2016-04-22T19:32:04.489651+00:00",
+      "note": "[Removed support][1] for Firefox Sync 1.1 in favor of Firefox Accounts \r\n\r\n\r\n  [1]: https://blog.mozilla.org/services/2015/07/31/shutting-down-the-legacy-sync-service/",
       "sort_num": 0,
       "tag": "Changed"
     }

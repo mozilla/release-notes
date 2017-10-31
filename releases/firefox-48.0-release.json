@@ -37,32 +37,12 @@
       "tag": "New"
     },
     {
-      "bug": 1181078,
-      "created": "2016-04-28T21:35:34.355735+00:00",
-      "id": 786610,
-      "is_public": true,
-      "modified": "2016-08-17T09:14:59.925656+00:00",
-      "note": "Searching for something already in your bookmarks or open tabs? We added super smart icons to let you know",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
       "bug": 1244754,
       "created": "2016-04-28T14:52:41.476009+00:00",
       "id": 786604,
       "is_public": true,
       "modified": "2016-08-17T09:14:45.649988+00:00",
       "note": "GNU/Linux fans: Get better Canvas performance with speedy Skia support. Try saying that three times fast",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
-      "bug": 1265641,
-      "created": "2016-05-02T21:03:30.592929+00:00",
-      "id": 786649,
-      "is_public": true,
-      "modified": "2016-08-17T09:15:08.066560+00:00",
-      "note": "WebRTC embetterments:\r\n\r\n - Delay-agnostic AEC enabled\r\n - Full duplex for GNU/Linux enabled\r\n - [ICE Restart][1] & Update is supported\r\n - Cloning of MediaStream and MediaStreamTrack is now supported\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API/Session_lifetime#ICE_restart",
       "sort_num": 0,
       "tag": "New"
     },
@@ -77,13 +57,23 @@
       "tag": "New"
     },
     {
-      "bug": null,
-      "created": "2016-08-01T09:46:40.731777+00:00",
-      "id": 786750,
+      "bug": 1181078,
+      "created": "2016-04-28T21:35:34.355735+00:00",
+      "id": 786610,
       "is_public": true,
-      "modified": "2016-08-17T09:15:21.029097+00:00",
-      "note": "The media parser has been redeveloped using the [Rust programming language][1]\r\n\r\n\r\n  [1]: https://hacks.mozilla.org/2016/07/shipping-rust-in-firefox/",
-      "sort_num": -1,
+      "modified": "2016-08-17T09:14:59.925656+00:00",
+      "note": "Searching for something already in your bookmarks or open tabs? We added super smart icons to let you know",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1265641,
+      "created": "2016-05-02T21:03:30.592929+00:00",
+      "id": 786649,
+      "is_public": true,
+      "modified": "2016-08-17T09:15:08.066560+00:00",
+      "note": "WebRTC embetterments:\r\n\r\n - Delay-agnostic AEC enabled\r\n - Full duplex for GNU/Linux enabled\r\n - [ICE Restart][1] & Update is supported\r\n - Cloning of MediaStream and MediaStreamTrack is now supported\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API/Session_lifetime#ICE_restart",
+      "sort_num": 0,
       "tag": "New"
     },
     {
@@ -93,6 +83,16 @@
       "is_public": true,
       "modified": "2016-08-17T09:15:16.230172+00:00",
       "note": "Windows 7 systems without Platform Update can now use D3D11 WARP",
+      "sort_num": -1,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2016-08-01T09:46:40.731777+00:00",
+      "id": 786750,
+      "is_public": true,
+      "modified": "2016-08-17T09:15:21.029097+00:00",
+      "note": "The media parser has been redeveloped using the [Rust programming language][1]\r\n\r\n\r\n  [1]: https://hacks.mozilla.org/2016/07/shipping-rust-in-firefox/",
       "sort_num": -1,
       "tag": "New"
     },
@@ -135,6 +135,16 @@
       "note": "Starting with the Firefox version 49 release, [so long to support for 10.6, 10.7 and 10.8][1]. Now we can focus on where most Mac users are: 10.9. Don't forget to upgrade!\r\n\r\n\r\n  [1]: https://blog.mozilla.org/futurereleases/2016/04/29/update-on-firefox-support-for-os-x/",
       "sort_num": 0,
       "tag": "Changed"
+    },
+    {
+      "bug": 842818,
+      "created": "2016-04-28T21:33:32.293489+00:00",
+      "id": 786606,
+      "is_public": true,
+      "modified": "2016-08-17T09:14:48.284637+00:00",
+      "note": "Workers can now use the [Web Crypto API][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/SubtleCrypto",
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
       "bug": 1211525,
@@ -227,14 +237,14 @@
       "tag": "Developer"
     },
     {
-      "bug": 842818,
-      "created": "2016-04-28T21:33:32.293489+00:00",
-      "id": 786606,
+      "bug": 1013219,
+      "created": "2016-04-28T21:34:08.088751+00:00",
+      "id": 786607,
       "is_public": true,
-      "modified": "2016-08-17T09:14:48.284637+00:00",
-      "note": "Workers can now use the [Web Crypto API][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/SubtleCrypto",
+      "modified": "2016-08-17T09:14:49.388264+00:00",
+      "note": "Improved step debugging on last line of functions",
       "sort_num": 0,
-      "tag": "Developer"
+      "tag": "Fixed"
     },
     {
       "bug": 1247574,
@@ -243,16 +253,6 @@
       "is_public": true,
       "modified": "2016-08-17T09:15:09.414714+00:00",
       "note": "Heyo, Jabra & Logitech C920 webcam users. We fixed those pesky WebRTC bugs causing frequency distortions. Buh-bye, squeaky voice! ",
-      "sort_num": 0,
-      "tag": "Fixed"
-    },
-    {
-      "bug": 1013219,
-      "created": "2016-04-28T21:34:08.088751+00:00",
-      "id": 786607,
-      "is_public": true,
-      "modified": "2016-08-17T09:14:49.388264+00:00",
-      "note": "Improved step debugging on last line of functions",
       "sort_num": 0,
       "tag": "Fixed"
     },

@@ -7,12 +7,12 @@
   "modified": "2016-05-27T16:59:04.600777+00:00",
   "notes": [
     {
-      "bug": 1268014,
-      "created": "2016-05-20T18:00:48.984183+00:00",
-      "id": 786685,
+      "bug": 1272505,
+      "created": "2016-05-20T17:53:51.143635+00:00",
+      "id": 786681,
       "is_public": true,
-      "modified": "2016-05-27T16:55:27.944930+00:00",
-      "note": "Email without HTML elements was sent as HTML, despite \"Delivery Format: Auto-detect\" option",
+      "modified": "2016-05-27T16:56:45.954262+00:00",
+      "note": "When entering members into a mailing list, the enter key dismissed the panel instead of just moving onto the next line",
       "sort_num": 0,
       "tag": "Fixed"
     },
@@ -27,6 +27,16 @@
       "tag": "Fixed"
     },
     {
+      "bug": 1270651,
+      "created": "2016-05-20T17:57:45.929462+00:00",
+      "id": 786683,
+      "is_public": true,
+      "modified": "2016-05-27T16:56:16.109325+00:00",
+      "note": "Contacts could not be deleted when they were found through a search",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
       "bug": 1270149,
       "created": "2016-05-20T17:59:43.380049+00:00",
       "id": 786684,
@@ -37,22 +47,12 @@
       "tag": "Fixed"
     },
     {
-      "bug": 1272505,
-      "created": "2016-05-20T17:53:51.143635+00:00",
-      "id": 786681,
+      "bug": 1268014,
+      "created": "2016-05-20T18:00:48.984183+00:00",
+      "id": 786685,
       "is_public": true,
-      "modified": "2016-05-27T16:56:45.954262+00:00",
-      "note": "When entering members into a mailing list, the enter key dismissed the panel instead of just moving onto the next line",
-      "sort_num": 0,
-      "tag": "Fixed"
-    },
-    {
-      "bug": 1270651,
-      "created": "2016-05-20T17:57:45.929462+00:00",
-      "id": 786683,
-      "is_public": true,
-      "modified": "2016-05-27T16:56:16.109325+00:00",
-      "note": "Contacts could not be deleted when they were found through a search",
+      "modified": "2016-05-27T16:55:27.944930+00:00",
+      "note": "Email without HTML elements was sent as HTML, despite \"Delivery Format: Auto-detect\" option",
       "sort_num": 0,
       "tag": "Fixed"
     }

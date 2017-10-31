@@ -37,22 +37,22 @@
       "tag": "New"
     },
     {
-      "bug": 1244205,
-      "created": "2016-06-03T22:46:37.591366+00:00",
-      "id": 786706,
-      "is_public": true,
-      "modified": "2016-06-03T22:46:38.236015+00:00",
-      "note": "Latgalu [ltg] locale added. Wikipedia tells us there are 164,500 daily speakers.",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
       "bug": 567365,
       "created": "2016-03-04T18:30:54.979064+00:00",
       "id": 786511,
       "is_public": true,
       "modified": "2016-06-06T18:14:52.367537+00:00",
       "note": "Allow no-cache on back/forward navigations for https resources",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1244205,
+      "created": "2016-06-03T22:46:37.591366+00:00",
+      "id": 786706,
+      "is_public": true,
+      "modified": "2016-06-03T22:46:38.236015+00:00",
+      "note": "Latgalu [ltg] locale added. Wikipedia tells us there are 164,500 daily speakers.",
       "sort_num": 0,
       "tag": "New"
     },
@@ -67,12 +67,12 @@
       "tag": "New"
     },
     {
-      "bug": 1263630,
-      "created": "2016-05-03T18:15:58.244472+00:00",
-      "id": 786663,
+      "bug": 1090880,
+      "created": "2016-03-04T18:33:03.459027+00:00",
+      "id": 786513,
       "is_public": true,
-      "modified": "2016-06-03T22:22:09.453932+00:00",
-      "note": "The Firefox [click-to-activate plugin whitelist][1] has been removed.\r\n\r\n\r\n  [1]: https://blog.mozilla.org/futurereleases/2013/09/24/plugin-activation-in-firefox/",
+      "modified": "2016-06-07T04:08:13.432334+00:00",
+      "note": "FUEL (Firefox User Extension Library) has been removed. Add-ons relying on it will stop working.",
       "sort_num": 0,
       "tag": "Changed"
     },
@@ -87,12 +87,12 @@
       "tag": "Changed"
     },
     {
-      "bug": 1090880,
-      "created": "2016-03-04T18:33:03.459027+00:00",
-      "id": 786513,
+      "bug": 1263630,
+      "created": "2016-05-03T18:15:58.244472+00:00",
+      "id": 786663,
       "is_public": true,
-      "modified": "2016-06-07T04:08:13.432334+00:00",
-      "note": "FUEL (Firefox User Extension Library) has been removed. Add-ons relying on it will stop working.",
+      "modified": "2016-06-03T22:22:09.453932+00:00",
+      "note": "The Firefox [click-to-activate plugin whitelist][1] has been removed.\r\n\r\n\r\n  [1]: https://blog.mozilla.org/futurereleases/2013/09/24/plugin-activation-in-firefox/",
       "sort_num": 0,
       "tag": "Changed"
     },
@@ -157,16 +157,6 @@
       "tag": "Developer"
     },
     {
-      "bug": 1239705,
-      "created": "2016-03-08T19:11:53.806238+00:00",
-      "id": 786530,
-      "is_public": true,
-      "modified": "2016-06-06T23:01:50.007072+00:00",
-      "note": "'Start' button for service workers in about:debugging to start registered Service Workers",
-      "sort_num": 0,
-      "tag": "Developer"
-    },
-    {
       "bug": 1209699,
       "created": "2016-03-08T19:10:50.033381+00:00",
       "id": 786528,
@@ -187,12 +177,12 @@
       "tag": "Developer"
     },
     {
-      "bug": null,
-      "created": "2016-06-06T22:37:02.581671+00:00",
-      "id": 786717,
+      "bug": 1239705,
+      "created": "2016-03-08T19:11:53.806238+00:00",
+      "id": 786530,
       "is_public": true,
-      "modified": "2016-06-07T04:25:17.327217+00:00",
-      "note": "[Web platform changes][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/Firefox/Releases/47#Changes_for_Web_developers",
+      "modified": "2016-06-06T23:01:50.007072+00:00",
+      "note": "'Start' button for service workers in about:debugging to start registered Service Workers",
       "sort_num": 0,
       "tag": "Developer"
     },
@@ -218,6 +208,16 @@
     },
     {
       "bug": null,
+      "created": "2016-06-06T22:37:02.581671+00:00",
+      "id": 786717,
+      "is_public": true,
+      "modified": "2016-06-07T04:25:17.327217+00:00",
+      "note": "[Web platform changes][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/Firefox/Releases/47#Changes_for_Web_developers",
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
+      "bug": null,
       "created": "2016-06-06T22:38:18.107121+00:00",
       "id": 786718,
       "is_public": true,
@@ -227,22 +227,22 @@
       "tag": "Fixed"
     },
     {
-      "bug": 1278605,
-      "created": "2016-06-08T15:48:22.125448+00:00",
-      "id": 786720,
-      "is_public": true,
-      "modified": "2016-06-08T15:48:22.746522+00:00",
-      "note": "Selenium WebDriver may cause Firefox to crash on startup, use [Marionette WebDriver][1] instead\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Mozilla/QA/Marionette/WebDriver",
-      "sort_num": 0,
-      "tag": "Known"
-    },
-    {
       "bug": 1276717,
       "created": "2016-06-03T22:48:31.550926+00:00",
       "id": 786707,
       "is_public": true,
       "modified": "2016-06-09T16:40:49.979096+00:00",
       "note": "[Known issue with old invalid paper size][1] printing preferences (Bug [1276717][2])\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/pages-appear-tiny-when-i-print-or-print-preview-firefox\r\n  [2]: https://bugzilla.mozilla.org/show_bug.cgi?id=1276717",
+      "sort_num": 0,
+      "tag": "Known"
+    },
+    {
+      "bug": 1278605,
+      "created": "2016-06-08T15:48:22.125448+00:00",
+      "id": 786720,
+      "is_public": true,
+      "modified": "2016-06-08T15:48:22.746522+00:00",
+      "note": "Selenium WebDriver may cause Firefox to crash on startup, use [Marionette WebDriver][1] instead\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Mozilla/QA/Marionette/WebDriver",
       "sort_num": 0,
       "tag": "Known"
     }

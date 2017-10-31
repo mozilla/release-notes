@@ -17,22 +17,22 @@
       "tag": ""
     },
     {
-      "bug": 1347755,
-      "created": "2017-03-23T11:01:03.184264+00:00",
-      "id": 787025,
-      "is_public": true,
-      "modified": "2017-03-29T07:25:22.858468+00:00",
-      "note": "Disable presentation API to avoid page loading delays (Bug [1347755][1])\r\n\r\n[1]: https://bugzilla.mozilla.org/1347755",
-      "sort_num": 0,
-      "tag": "Fixed"
-    },
-    {
       "bug": 1305815,
       "created": "2017-03-23T10:58:20.517324+00:00",
       "id": 787023,
       "is_public": true,
       "modified": "2017-03-29T07:24:47.199104+00:00",
       "note": "Display end-of-life message on non-NEON devices (Bug [1305815][1]).  Firefox for Android 53 will require NEON capability.\r\n\r\n[1]: https://bugzilla.mozilla.org/1305815",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1347755,
+      "created": "2017-03-23T11:01:03.184264+00:00",
+      "id": 787025,
+      "is_public": true,
+      "modified": "2017-03-29T07:25:22.858468+00:00",
+      "note": "Disable presentation API to avoid page loading delays (Bug [1347755][1])\r\n\r\n[1]: https://bugzilla.mozilla.org/1347755",
       "sort_num": 0,
       "tag": "Fixed"
     }

@@ -57,22 +57,22 @@
       "tag": "New"
     },
     {
-      "bug": null,
-      "created": "2014-08-28T11:45:44+00:00",
-      "id": 785710,
-      "is_public": true,
-      "modified": "2014-09-23T08:43:43+00:00",
-      "note": "Locales added: Armenian [hy-AM], Basque [eu], Fulah [ff], Icelandic [is], Scottish Gaelic [gd], Welsh [cy]\r\n    \r\n",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
       "bug": 994472,
       "created": "2014-05-26T09:20:40+00:00",
       "id": 785597,
       "is_public": true,
       "modified": "2014-09-23T08:43:43+00:00",
       "note": " Support URI autocomplete on Swype (and other composition focused) keyboards",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2014-08-28T11:45:44+00:00",
+      "id": 785710,
+      "is_public": true,
+      "modified": "2014-09-23T08:43:43+00:00",
+      "note": "Locales added: Armenian [hy-AM], Basque [eu], Fulah [ff], Icelandic [is], Scottish Gaelic [gd], Welsh [cy]\r\n    \r\n",
       "sort_num": 0,
       "tag": "New"
     },
@@ -117,36 +117,6 @@
       "tag": "Changed"
     },
     {
-      "bug": 1014581,
-      "created": "2014-07-17T14:59:00+00:00",
-      "id": 785660,
-      "is_public": true,
-      "modified": "2014-09-23T08:43:43+00:00",
-      "note": "Vibration API updated to latest W3C spec",
-      "sort_num": 0,
-      "tag": "HTML5"
-    },
-    {
-      "bug": 1006326,
-      "created": "2014-07-17T15:20:38+00:00",
-      "id": 785665,
-      "is_public": true,
-      "modified": "2014-09-23T08:43:43+00:00",
-      "note": "[CSS box-decoration-break replaces -moz-background-inline-policy][1]\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/-moz-background-inline-policy",
-      "sort_num": 0,
-      "tag": "HTML5"
-    },
-    {
-      "bug": 1006326,
-      "created": "2014-08-28T06:47:55+00:00",
-      "id": 785707,
-      "is_public": true,
-      "modified": "2014-09-23T08:43:43+00:00",
-      "note": "[box-decoration-break][1] enabled by default\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/box-decoration-break",
-      "sort_num": 0,
-      "tag": "HTML5"
-    },
-    {
       "bug": 916315,
       "created": "2014-03-26T16:24:31+00:00",
       "id": 785519,
@@ -183,6 +153,36 @@
       "is_public": true,
       "modified": "2014-09-23T08:43:43+00:00",
       "note": "[navigator.languages property][1] and [languagechange event][1] implemented\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/NavigatorLanguage.languages",
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 1014581,
+      "created": "2014-07-17T14:59:00+00:00",
+      "id": 785660,
+      "is_public": true,
+      "modified": "2014-09-23T08:43:43+00:00",
+      "note": "Vibration API updated to latest W3C spec",
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 1006326,
+      "created": "2014-07-17T15:20:38+00:00",
+      "id": 785665,
+      "is_public": true,
+      "modified": "2014-09-23T08:43:43+00:00",
+      "note": "[CSS box-decoration-break replaces -moz-background-inline-policy][1]\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/-moz-background-inline-policy",
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 1006326,
+      "created": "2014-08-28T06:47:55+00:00",
+      "id": 785707,
+      "is_public": true,
+      "modified": "2014-09-23T08:43:43+00:00",
+      "note": "[box-decoration-break][1] enabled by default\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/box-decoration-break",
       "sort_num": 0,
       "tag": "HTML5"
     },

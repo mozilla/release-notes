@@ -117,6 +117,16 @@
       "tag": "HTML5"
     },
     {
+      "bug": 1159737,
+      "created": "2015-06-01T08:15:11+00:00",
+      "id": 786126,
+      "is_public": true,
+      "modified": "2015-09-16T16:36:27+00:00",
+      "note": "Removed support for binary XPCOM components in extensions, use addon SDK \"system/child_process\" pipe mechanism for native binaries instead",
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
       "bug": 859058,
       "created": "2015-07-01T22:15:49+00:00",
       "id": 786148,
@@ -153,16 +163,6 @@
       "is_public": true,
       "modified": "2015-09-16T16:36:27+00:00",
       "note": "Screenshot a node or element from markup view with the Screenshot Node context menu item",
-      "sort_num": 0,
-      "tag": "Developer"
-    },
-    {
-      "bug": 1159737,
-      "created": "2015-06-01T08:15:11+00:00",
-      "id": 786126,
-      "is_public": true,
-      "modified": "2015-09-16T16:36:27+00:00",
-      "note": "Removed support for binary XPCOM components in extensions, use addon SDK \"system/child_process\" pipe mechanism for native binaries instead",
       "sort_num": 0,
       "tag": "Developer"
     },

@@ -37,24 +37,6 @@
       "tag": "Changed"
     },
     {
-      "bug": 1237956,
-      "created": "2017-03-10T21:54:19.630620+00:00",
-      "fixed_in_release": {
-        "channel": "Aurora",
-        "is_public": true,
-        "product": "Firefox for Android",
-        "slug": "firefox-for-android-54.0a2-aurora",
-        "title": "Firefox for Android 54.0a2 Aurora",
-        "version": "54.0a2"
-      },
-      "id": 787007,
-      "is_public": true,
-      "modified": "2017-06-12T03:31:11.770798+00:00",
-      "note": "File names correctly preserved on upload",
-      "sort_num": 0,
-      "tag": "Fixed"
-    },
-    {
       "bug": null,
       "created": "2017-03-10T21:53:27.009933+00:00",
       "fixed_in_release": {
@@ -69,6 +51,24 @@
       "is_public": true,
       "modified": "2017-06-28T18:13:54.718701+00:00",
       "note": "Fixed formatting for right-to-left languages, including formatting of preference names in about:config",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1237956,
+      "created": "2017-03-10T21:54:19.630620+00:00",
+      "fixed_in_release": {
+        "channel": "Aurora",
+        "is_public": true,
+        "product": "Firefox for Android",
+        "slug": "firefox-for-android-54.0a2-aurora",
+        "title": "Firefox for Android 54.0a2 Aurora",
+        "version": "54.0a2"
+      },
+      "id": 787007,
+      "is_public": true,
+      "modified": "2017-06-12T03:31:11.770798+00:00",
+      "note": "File names correctly preserved on upload",
       "sort_num": 0,
       "tag": "Fixed"
     }

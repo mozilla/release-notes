@@ -47,22 +47,22 @@
       "tag": "New"
     },
     {
-      "bug": 976073,
-      "created": "2017-01-18T15:59:53.893407+00:00",
-      "id": 786921,
-      "is_public": true,
-      "modified": "2017-03-06T10:30:57.343547+00:00",
-      "note": "Implemented the Strict Secure Cookies specification which forbids insecure HTTP sites from setting cookies with the \"secure\" attribute.  In some cases, this will prevent an insecure site from setting a cookie with the same name as an existing \"secure\" cookie from the same base domain.",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
       "bug": 1304224,
       "created": "2016-11-23T16:10:36.870492+00:00",
       "id": 786888,
       "is_public": true,
       "modified": "2017-03-06T09:47:40.157849+00:00",
       "note": "Added user warnings for [non-secure HTTP pages with logins][1]. Firefox now displays a \u201cThis connection is not secure\u201d message when users click into the username and password fields on pages that don\u2019t use HTTPS.\r\n\r\n[1]: https://blog.mozilla.org/security/2017/01/20/communicating-the-dangers-of-non-secure-http/",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 976073,
+      "created": "2017-01-18T15:59:53.893407+00:00",
+      "id": 786921,
+      "is_public": true,
+      "modified": "2017-03-06T10:30:57.343547+00:00",
+      "note": "Implemented the Strict Secure Cookies specification which forbids insecure HTTP sites from setting cookies with the \"secure\" attribute.  In some cases, this will prevent an insecure site from setting a cookie with the same name as an existing \"secure\" cookie from the same base domain.",
       "sort_num": 0,
       "tag": "New"
     },
@@ -77,16 +77,6 @@
       "tag": "Changed"
     },
     {
-      "bug": 1270014,
-      "created": "2017-01-24T13:25:31.155578+00:00",
-      "id": 786931,
-      "is_public": true,
-      "modified": "2017-03-06T10:03:08.403882+00:00",
-      "note": "Improved experience for downloads:\r\n\r\n* Notification in the toolbar when a download fails\r\n* Quick access to five most recent downloads rather than three\r\n* Larger buttons for canceling and restarting downloads\r\n",
-      "sort_num": 0,
-      "tag": "Changed"
-    },
-    {
       "bug": 1313580,
       "created": "2016-11-18T21:00:10.904988+00:00",
       "id": 786874,
@@ -97,14 +87,14 @@
       "tag": "Changed"
     },
     {
-      "bug": 1127522,
-      "created": "2016-11-18T21:02:20.875339+00:00",
-      "id": 786878,
+      "bug": 1270014,
+      "created": "2017-01-24T13:25:31.155578+00:00",
+      "id": 786931,
       "is_public": true,
-      "modified": "2017-03-06T10:24:48.259576+00:00",
-      "note": "Improved [security for screen sharing][1], which now shows a preview and no longer requires a whitelisted domain\r\n\r\n[1]: https://medium.com/@pastith/feeling-safer-online-with-firefox-b9fe13af6600#0594",
+      "modified": "2017-03-06T10:03:08.403882+00:00",
+      "note": "Improved experience for downloads:\r\n\r\n* Notification in the toolbar when a download fails\r\n* Quick access to five most recent downloads rather than three\r\n* Larger buttons for canceling and restarting downloads\r\n",
       "sort_num": 0,
-      "tag": "Developer"
+      "tag": "Changed"
     },
     {
       "bug": 1305769,
@@ -113,6 +103,16 @@
       "is_public": true,
       "modified": "2017-03-06T10:09:23.364873+00:00",
       "note": "Redesigned [Responsive Design Mode][1] to include device selection, network throttling, and more\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Responsive_Design_Mode",
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
+      "bug": 1127522,
+      "created": "2016-11-18T21:02:20.875339+00:00",
+      "id": 786878,
+      "is_public": true,
+      "modified": "2017-03-06T10:24:48.259576+00:00",
+      "note": "Improved [security for screen sharing][1], which now shows a preview and no longer requires a whitelisted domain\r\n\r\n[1]: https://medium.com/@pastith/feeling-safer-online-with-firefox-b9fe13af6600#0594",
       "sort_num": 0,
       "tag": "Developer"
     },

@@ -7,12 +7,12 @@
   "modified": "2016-01-26T15:02:01.418614+00:00",
   "notes": [
     {
-      "bug": 1209133,
-      "created": "2015-12-14T21:23:02+00:00",
-      "id": 786379,
+      "bug": 1078432,
+      "created": "2015-09-16T20:45:56+00:00",
+      "id": 786264,
       "is_public": true,
       "modified": "2016-01-21T20:51:49.850853+00:00",
-      "note": "Added support for launching URIs with mms: protocol",
+      "note": "Use Android print service to enable cloud printing",
       "sort_num": 0,
       "tag": "New"
     },
@@ -28,16 +28,6 @@
     },
     {
       "bug": null,
-      "created": "2015-11-03T15:34:29+00:00",
-      "id": 786360,
-      "is_public": true,
-      "modified": "2016-01-21T20:51:49.850853+00:00",
-      "note": "Web-based Firefox Accounts page",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
-      "bug": null,
       "created": "2015-11-03T15:33:15+00:00",
       "id": 786358,
       "is_public": true,
@@ -47,12 +37,22 @@
       "tag": "New"
     },
     {
-      "bug": 1078432,
-      "created": "2015-09-16T20:45:56+00:00",
-      "id": 786264,
+      "bug": null,
+      "created": "2015-11-03T15:34:29+00:00",
+      "id": 786360,
       "is_public": true,
       "modified": "2016-01-21T20:51:49.850853+00:00",
-      "note": "Use Android print service to enable cloud printing",
+      "note": "Web-based Firefox Accounts page",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1209133,
+      "created": "2015-12-14T21:23:02+00:00",
+      "id": 786379,
+      "is_public": true,
+      "modified": "2016-01-21T20:51:49.850853+00:00",
+      "note": "Added support for launching URIs with mms: protocol",
       "sort_num": 0,
       "tag": "New"
     },
@@ -65,6 +65,16 @@
       "note": "Users can now choose a homepage to display on startup instead of the Top Sites panel",
       "sort_num": 0,
       "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2015-11-03T14:24:57+00:00",
+      "id": 786356,
+      "is_public": true,
+      "modified": "2016-01-29T18:06:49.513160+00:00",
+      "note": "Firefox has removed support for the RC4 cipher",
+      "sort_num": 0,
+      "tag": "Changed"
     },
     {
       "bug": 1223466,
@@ -83,16 +93,6 @@
       "is_public": true,
       "modified": "2016-01-25T18:41:19.065432+00:00",
       "note": "[Improved tabs tray][1] on phones\r\n\r\n\r\n  [1]: https://medium.com/@antlam/a-new-mobile-tabs-tray-327ac262eacb",
-      "sort_num": 0,
-      "tag": "Changed"
-    },
-    {
-      "bug": null,
-      "created": "2015-11-03T14:24:57+00:00",
-      "id": 786356,
-      "is_public": true,
-      "modified": "2016-01-29T18:06:49.513160+00:00",
-      "note": "Firefox has removed support for the RC4 cipher",
       "sort_num": 0,
       "tag": "Changed"
     }

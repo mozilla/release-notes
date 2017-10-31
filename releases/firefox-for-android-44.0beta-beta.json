@@ -7,6 +7,16 @@
   "modified": "2015-12-17T18:50:30.400269+00:00",
   "notes": [
     {
+      "bug": 1078432,
+      "created": "2015-09-16T20:45:56+00:00",
+      "id": 786264,
+      "is_public": true,
+      "modified": "2016-01-21T20:51:49.850853+00:00",
+      "note": "Use Android print service to enable cloud printing",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1173147,
       "created": "2015-11-02T09:35:49+00:00",
       "id": 786347,
@@ -37,6 +47,16 @@
       "tag": "New"
     },
     {
+      "bug": 1172083,
+      "created": "2015-11-03T15:35:07+00:00",
+      "id": 786361,
+      "is_public": true,
+      "modified": "2016-01-25T18:48:41.822928+00:00",
+      "note": "Easier access to search settings while searching",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1209133,
       "created": "2015-12-14T21:23:02+00:00",
       "id": 786379,
@@ -47,32 +67,12 @@
       "tag": "New"
     },
     {
-      "bug": 1078432,
-      "created": "2015-09-16T20:45:56+00:00",
-      "id": 786264,
-      "is_public": true,
-      "modified": "2016-01-21T20:51:49.850853+00:00",
-      "note": "Use Android print service to enable cloud printing",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
       "bug": 1227322,
       "created": "2015-12-14T21:30:27+00:00",
       "id": 786382,
       "is_public": true,
       "modified": "2016-01-21T21:11:07.753300+00:00",
       "note": "Users can now choose a homepage to display on startup instead of the Top Sites panel",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
-      "bug": 1172083,
-      "created": "2015-11-03T15:35:07+00:00",
-      "id": 786361,
-      "is_public": true,
-      "modified": "2016-01-25T18:48:41.822928+00:00",
-      "note": "Easier access to search settings while searching",
       "sort_num": 0,
       "tag": "New"
     },

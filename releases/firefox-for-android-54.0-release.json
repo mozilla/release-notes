@@ -38,16 +38,6 @@
     },
     {
       "bug": null,
-      "created": "2017-06-12T06:22:39.711457+00:00",
-      "id": 787133,
-      "is_public": true,
-      "modified": "2017-08-08T16:19:43.921512+00:00",
-      "note": "Various [security fixes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/en-US/security/known-vulnerabilities/firefox/#firefox54",
-      "sort_num": 0,
-      "tag": "Fixed"
-    },
-    {
-      "bug": null,
       "created": "2017-03-10T21:53:27.009933+00:00",
       "fixed_in_release": {
         "channel": "Aurora",
@@ -61,6 +51,16 @@
       "is_public": true,
       "modified": "2017-06-28T18:13:54.718701+00:00",
       "note": "Fixed formatting for right-to-left languages, including formatting of preference names in about:config",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2017-06-12T06:22:39.711457+00:00",
+      "id": 787133,
+      "is_public": true,
+      "modified": "2017-08-08T16:19:43.921512+00:00",
+      "note": "Various [security fixes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/en-US/security/known-vulnerabilities/firefox/#firefox54",
       "sort_num": 0,
       "tag": "Fixed"
     }

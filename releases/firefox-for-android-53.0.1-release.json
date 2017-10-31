@@ -17,16 +17,6 @@
       "tag": ""
     },
     {
-      "bug": 1356563,
-      "created": "2017-05-01T09:21:14.350287+00:00",
-      "id": 787068,
-      "is_public": true,
-      "modified": "2017-05-04T17:24:14.937266+00:00",
-      "note": "Fix a race condition that could prevent opening restored tabs (bug [1356563][1])\r\n\r\n[1]: https://bugzilla.mozilla.org/1356563",
-      "sort_num": 0,
-      "tag": "Fixed"
-    },
-    {
       "bug": 1354911,
       "created": "2017-05-01T09:14:46.570816+00:00",
       "id": 787066,
@@ -43,6 +33,16 @@
       "is_public": true,
       "modified": "2017-05-04T17:42:39.019463+00:00",
       "note": "Fix accessibility issue with TalkBack (bug [1332731][1])\r\n\r\n[1]: https://bugzilla.mozilla.org/1332731",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1356563,
+      "created": "2017-05-01T09:21:14.350287+00:00",
+      "id": 787068,
+      "is_public": true,
+      "modified": "2017-05-04T17:24:14.937266+00:00",
+      "note": "Fix a race condition that could prevent opening restored tabs (bug [1356563][1])\r\n\r\n[1]: https://bugzilla.mozilla.org/1356563",
       "sort_num": 0,
       "tag": "Fixed"
     }

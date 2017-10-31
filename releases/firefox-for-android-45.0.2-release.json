@@ -17,22 +17,12 @@
       "tag": ""
     },
     {
-      "bug": 1257861,
-      "created": "2016-04-08T15:53:46.249467+00:00",
-      "id": 786582,
+      "bug": 1255735,
+      "created": "2016-04-08T15:26:39.193754+00:00",
+      "id": 786577,
       "is_public": true,
-      "modified": "2016-04-12T16:55:00.305246+00:00",
-      "note": "Fix an issue impacting the cookie header when third-party cookies are blocked ([1257861][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1257861",
-      "sort_num": 0,
-      "tag": "Fixed"
-    },
-    {
-      "bug": 1259482,
-      "created": "2016-04-08T15:43:57.348321+00:00",
-      "id": 786581,
-      "is_public": true,
-      "modified": "2016-04-12T16:55:09.046688+00:00",
-      "note": "Fix a web compatibility regression impacting the *srcset* attribute of the *image* tag ([1259482][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1259482",
+      "modified": "2016-04-12T16:55:26.568567+00:00",
+      "note": "Fix a regression impacting some specific uploads ([1255735][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1255735",
       "sort_num": 0,
       "tag": "Fixed"
     },
@@ -47,12 +37,22 @@
       "tag": "Fixed"
     },
     {
-      "bug": 1255735,
-      "created": "2016-04-08T15:26:39.193754+00:00",
-      "id": 786577,
+      "bug": 1259482,
+      "created": "2016-04-08T15:43:57.348321+00:00",
+      "id": 786581,
       "is_public": true,
-      "modified": "2016-04-12T16:55:26.568567+00:00",
-      "note": "Fix a regression impacting some specific uploads ([1255735][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1255735",
+      "modified": "2016-04-12T16:55:09.046688+00:00",
+      "note": "Fix a web compatibility regression impacting the *srcset* attribute of the *image* tag ([1259482][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1259482",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1257861,
+      "created": "2016-04-08T15:53:46.249467+00:00",
+      "id": 786582,
+      "is_public": true,
+      "modified": "2016-04-12T16:55:00.305246+00:00",
+      "note": "Fix an issue impacting the cookie header when third-party cookies are blocked ([1257861][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1257861",
       "sort_num": 0,
       "tag": "Fixed"
     }

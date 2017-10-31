@@ -7,16 +7,6 @@
   "modified": "2016-10-03T01:37:07.445975+00:00",
   "notes": [
     {
-      "bug": 1166947,
-      "created": "2016-09-22T23:21:30.202896+00:00",
-      "id": 786829,
-      "is_public": true,
-      "modified": "2017-01-24T03:21:11.331132+00:00",
-      "note": "Firefox will save passwords even in forms that do not have \u201csubmit\u201d events ",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
       "bug": 1195723,
       "created": "2016-09-21T07:25:08.390367+00:00",
       "id": 786820,
@@ -27,12 +17,12 @@
       "tag": "New"
     },
     {
-      "bug": 1275441,
-      "created": "2016-09-21T07:41:40.144452+00:00",
-      "id": 786826,
+      "bug": 1270321,
+      "created": "2016-09-21T07:25:58.987735+00:00",
+      "id": 786821,
       "is_public": true,
-      "modified": "2017-01-24T02:56:07.617655+00:00",
-      "note": "Improved video performance for users without GPU acceleration for less CPU usage and a better full screen experience",
+      "modified": "2017-01-24T03:18:21.586917+00:00",
+      "note": "Users can view passwords in the save password prompt before saving them",
       "sort_num": 0,
       "tag": "New"
     },
@@ -47,22 +37,32 @@
       "tag": "New"
     },
     {
+      "bug": 1275441,
+      "created": "2016-09-21T07:41:40.144452+00:00",
+      "id": 786826,
+      "is_public": true,
+      "modified": "2017-01-24T02:56:07.617655+00:00",
+      "note": "Improved video performance for users without GPU acceleration for less CPU usage and a better full screen experience",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1166947,
+      "created": "2016-09-22T23:21:30.202896+00:00",
+      "id": 786829,
+      "is_public": true,
+      "modified": "2017-01-24T03:21:11.331132+00:00",
+      "note": "Firefox will save passwords even in forms that do not have \u201csubmit\u201d events ",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1309232,
       "created": "2017-01-18T14:56:36.550470+00:00",
       "id": 786918,
       "is_public": true,
       "modified": "2017-01-20T03:16:04.253103+00:00",
       "note": "Added Georgian (ka) and Kabyle (kab) locales",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
-      "bug": 1270321,
-      "created": "2016-09-21T07:25:58.987735+00:00",
-      "id": 786821,
-      "is_public": true,
-      "modified": "2017-01-24T03:18:21.586917+00:00",
-      "note": "Users can view passwords in the save password prompt before saving them",
       "sort_num": 0,
       "tag": "New"
     },

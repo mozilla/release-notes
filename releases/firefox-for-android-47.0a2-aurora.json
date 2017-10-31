@@ -7,22 +7,22 @@
   "modified": "2016-04-04T12:37:31.063926+00:00",
   "notes": [
     {
-      "bug": 1249434,
-      "created": "2016-03-08T19:15:52.143997+00:00",
-      "id": 786536,
-      "is_public": true,
-      "modified": "2016-06-03T22:22:09.431693+00:00",
-      "note": "Add \"Show/Hide web fonts\" in advanced settings to reduce bandwidth and data",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
       "bug": 1004734,
       "created": "2016-03-08T19:14:11.431943+00:00",
       "id": 786532,
       "is_public": true,
       "modified": "2016-06-06T23:09:13.743401+00:00",
       "note": "Add ability to show system notification to highlight features on browser update",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1249434,
+      "created": "2016-03-08T19:15:52.143997+00:00",
+      "id": 786536,
+      "is_public": true,
+      "modified": "2016-06-03T22:22:09.431693+00:00",
+      "note": "Add \"Show/Hide web fonts\" in advanced settings to reduce bandwidth and data",
       "sort_num": 0,
       "tag": "New"
     },
@@ -47,22 +47,22 @@
       "tag": "Changed"
     },
     {
-      "bug": 1220932,
-      "created": "2016-03-08T19:15:24.314268+00:00",
-      "id": 786535,
-      "is_public": true,
-      "modified": "2016-06-03T22:22:09.431693+00:00",
-      "note": "\"Open multiple links\"  setting under \u201cCustomize\u201d has been renamed to \u201cTab Queue\u201d",
-      "sort_num": 0,
-      "tag": "Changed"
-    },
-    {
       "bug": 1244701,
       "created": "2016-03-08T19:15:02.329453+00:00",
       "id": 786534,
       "is_public": true,
       "modified": "2016-06-07T04:28:18.318303+00:00",
       "note": "Last release to support Android 2.3.x (Gingerbread)",
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
+      "bug": 1220932,
+      "created": "2016-03-08T19:15:24.314268+00:00",
+      "id": 786535,
+      "is_public": true,
+      "modified": "2016-06-03T22:22:09.431693+00:00",
+      "note": "\"Open multiple links\"  setting under \u201cCustomize\u201d has been renamed to \u201cTab Queue\u201d",
       "sort_num": 0,
       "tag": "Changed"
     },

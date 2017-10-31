@@ -259,24 +259,6 @@
       "tag": "Changed"
     },
     {
-      "bug": 1106815,
-      "created": "2017-08-24T09:13:27.595362+00:00",
-      "fixed_in_release": {
-        "channel": "Release",
-        "is_public": true,
-        "product": "Thunderbird",
-        "slug": "thunderbird-52.0-release",
-        "title": "Thunderbird 52.0 Release",
-        "version": "52.0"
-      },
-      "id": 787240,
-      "is_public": true,
-      "modified": "2017-08-24T09:13:46.918027+00:00",
-      "note": "Notifications on Mac: Some manual adjustments might be necessary in the Mac Notification Center (System Preferences - Notifications - Thunderbird) after an upgrade to Thunderbird 52.",
-      "sort_num": 11,
-      "tag": "Changed"
-    },
-    {
       "bug": 1247056,
       "created": "2017-03-22T12:17:45.447449+00:00",
       "fixed_in_release": {
@@ -291,6 +273,24 @@
       "is_public": true,
       "modified": "2017-04-12T16:38:37.361031+00:00",
       "note": "On Linux PulseAudio is now required to play sound",
+      "sort_num": 11,
+      "tag": "Changed"
+    },
+    {
+      "bug": 1106815,
+      "created": "2017-08-24T09:13:27.595362+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": true,
+        "product": "Thunderbird",
+        "slug": "thunderbird-52.0-release",
+        "title": "Thunderbird 52.0 Release",
+        "version": "52.0"
+      },
+      "id": 787240,
+      "is_public": true,
+      "modified": "2017-08-24T09:13:46.918027+00:00",
+      "note": "Notifications on Mac: Some manual adjustments might be necessary in the Mac Notification Center (System Preferences - Notifications - Thunderbird) after an upgrade to Thunderbird 52.",
       "sort_num": 11,
       "tag": "Changed"
     },
@@ -683,32 +683,12 @@
       "tag": "Fixed"
     },
     {
-      "bug": 1355350,
-      "created": "2017-04-11T19:14:26.454345+00:00",
-      "id": 787031,
+      "bug": 1354991,
+      "created": "2017-04-11T19:12:15.672902+00:00",
+      "id": 787029,
       "is_public": true,
-      "modified": "2017-05-09T21:53:46.106420+00:00",
-      "note": "Large attachments may not be shown or saved correctly if the message is stored in an IMAP folder which is not synchronized for offline use. **Workaround:** Set preference browser.cache.memory.max_entry_size to the value of -1 (unlimited) and create integer preference browser.cache.memory.capacity with the value of 200000 (200 MB, 25 MB per message).",
-      "sort_num": 0,
-      "tag": "Known"
-    },
-    {
-      "bug": 1158578,
-      "created": "2017-04-26T19:41:50.762090+00:00",
-      "id": 787061,
-      "is_public": true,
-      "modified": "2017-05-09T21:53:55.416433+00:00",
-      "note": "Crash when compacting IMAP folder",
-      "sort_num": 0,
-      "tag": "Known"
-    },
-    {
-      "bug": 1281610,
-      "created": "2017-04-11T19:15:44.518791+00:00",
-      "id": 787032,
-      "is_public": true,
-      "modified": "2017-07-14T20:12:38.844733+00:00",
-      "note": "Crash due to incompatibility with McAfee Anti-SPAM add-on. **Workaround:** Start in safe mode and disable McAfee Anti-Spam Extension",
+      "modified": "2017-04-12T16:38:29.109533+00:00",
+      "note": "Clicking on a link in an email may not open this link in the external browser. Fix provided in 52.0.1 (upcoming)",
       "sort_num": 0,
       "tag": "Known"
     },
@@ -723,6 +703,26 @@
       "tag": "Known"
     },
     {
+      "bug": 1355350,
+      "created": "2017-04-11T19:14:26.454345+00:00",
+      "id": 787031,
+      "is_public": true,
+      "modified": "2017-05-09T21:53:46.106420+00:00",
+      "note": "Large attachments may not be shown or saved correctly if the message is stored in an IMAP folder which is not synchronized for offline use. **Workaround:** Set preference browser.cache.memory.max_entry_size to the value of -1 (unlimited) and create integer preference browser.cache.memory.capacity with the value of 200000 (200 MB, 25 MB per message).",
+      "sort_num": 0,
+      "tag": "Known"
+    },
+    {
+      "bug": 1281610,
+      "created": "2017-04-11T19:15:44.518791+00:00",
+      "id": 787032,
+      "is_public": true,
+      "modified": "2017-07-14T20:12:38.844733+00:00",
+      "note": "Crash due to incompatibility with McAfee Anti-SPAM add-on. **Workaround:** Start in safe mode and disable McAfee Anti-Spam Extension",
+      "sort_num": 0,
+      "tag": "Known"
+    },
+    {
       "bug": 1356600,
       "created": "2017-04-14T22:41:25.441434+00:00",
       "id": 787045,
@@ -733,12 +733,12 @@
       "tag": "Known"
     },
     {
-      "bug": 1354991,
-      "created": "2017-04-11T19:12:15.672902+00:00",
-      "id": 787029,
+      "bug": 1158578,
+      "created": "2017-04-26T19:41:50.762090+00:00",
+      "id": 787061,
       "is_public": true,
-      "modified": "2017-04-12T16:38:29.109533+00:00",
-      "note": "Clicking on a link in an email may not open this link in the external browser. Fix provided in 52.0.1 (upcoming)",
+      "modified": "2017-05-09T21:53:55.416433+00:00",
+      "note": "Crash when compacting IMAP folder",
       "sort_num": 0,
       "tag": "Known"
     }

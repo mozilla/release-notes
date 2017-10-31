@@ -77,16 +77,6 @@
       "tag": "New"
     },
     {
-      "bug": 1269811,
-      "created": "2016-05-04T11:47:18.208702+00:00",
-      "id": 786664,
-      "is_public": true,
-      "modified": "2016-08-04T18:26:10.726968+00:00",
-      "note": "[So long to support for 10.6, 10.7 and 10.8][1]. Now we can focus on where most Mac users are: 10.9. Don't forget to upgrade!\r\n\r\n  [1]: https://blog.mozilla.org/futurereleases/2016/04/29/update-on-firefox-support-for-os-x/",
-      "sort_num": 0,
-      "tag": "Changed"
-    },
-    {
       "bug": 1260491,
       "created": "2016-04-28T21:39:40.710965+00:00",
       "id": 786616,
@@ -97,12 +87,22 @@
       "tag": "Changed"
     },
     {
-      "bug": 1245000,
-      "created": "2016-05-02T21:08:05.818085+00:00",
-      "id": 786651,
+      "bug": 1269811,
+      "created": "2016-05-04T11:47:18.208702+00:00",
+      "id": 786664,
       "is_public": true,
-      "modified": "2016-06-08T20:30:17.490116+00:00",
-      "note": "Added support for [Element.animate()][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/Element/animate",
+      "modified": "2016-08-04T18:26:10.726968+00:00",
+      "note": "[So long to support for 10.6, 10.7 and 10.8][1]. Now we can focus on where most Mac users are: 10.9. Don't forget to upgrade!\r\n\r\n  [1]: https://blog.mozilla.org/futurereleases/2016/04/29/update-on-firefox-support-for-os-x/",
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
+      "bug": 1153322,
+      "created": "2016-03-04T18:33:49.874804+00:00",
+      "id": 786514,
+      "is_public": true,
+      "modified": "2016-06-08T20:29:41.109288+00:00",
+      "note": "[Implemented Document.scrollingElement][1] to tell which element's scroll attributes reflect the viewport scroll state\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/Document/scrollingElement",
       "sort_num": 0,
       "tag": "Developer"
     },
@@ -113,6 +113,16 @@
       "is_public": true,
       "modified": "2016-08-17T09:14:48.284637+00:00",
       "note": "Workers can now use the [Web Crypto API][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/SubtleCrypto",
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
+      "bug": 1097499,
+      "created": "2016-04-28T21:34:33.694905+00:00",
+      "id": 786608,
+      "is_public": true,
+      "modified": "2016-06-08T20:30:00.265362+00:00",
+      "note": "Added vertical text layout support with the [\"text-combine-upright: all\" CSS property][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/text-combine-upright",
       "sort_num": 0,
       "tag": "Developer"
     },
@@ -177,6 +187,16 @@
       "tag": "Developer"
     },
     {
+      "bug": 1245000,
+      "created": "2016-05-02T21:08:05.818085+00:00",
+      "id": 786651,
+      "is_public": true,
+      "modified": "2016-06-08T20:30:17.490116+00:00",
+      "note": "Added support for [Element.animate()][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/Element/animate",
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
       "bug": 1238695,
       "created": "2016-05-02T21:11:08.596835+00:00",
       "id": 786652,
@@ -193,26 +213,6 @@
       "is_public": true,
       "modified": "2016-08-17T09:15:12.756521+00:00",
       "note": "Want to [move absolute & fixed positioned elements?][1] (Who doesn't, right?) Now you can with our geometry editor.\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector/How_to/Reposition_elements_in_the_page",
-      "sort_num": 0,
-      "tag": "Developer"
-    },
-    {
-      "bug": 1153322,
-      "created": "2016-03-04T18:33:49.874804+00:00",
-      "id": 786514,
-      "is_public": true,
-      "modified": "2016-06-08T20:29:41.109288+00:00",
-      "note": "[Implemented Document.scrollingElement][1] to tell which element's scroll attributes reflect the viewport scroll state\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/Document/scrollingElement",
-      "sort_num": 0,
-      "tag": "Developer"
-    },
-    {
-      "bug": 1097499,
-      "created": "2016-04-28T21:34:33.694905+00:00",
-      "id": 786608,
-      "is_public": true,
-      "modified": "2016-06-08T20:30:00.265362+00:00",
-      "note": "Added vertical text layout support with the [\"text-combine-upright: all\" CSS property][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/text-combine-upright",
       "sort_num": 0,
       "tag": "Developer"
     },

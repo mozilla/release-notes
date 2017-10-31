@@ -7,22 +7,22 @@
   "modified": "2016-08-22T08:37:05.617220+00:00",
   "notes": [
     {
+      "bug": 962433,
+      "created": "2016-08-03T11:43:50.918374+00:00",
+      "id": 786756,
+      "is_public": true,
+      "modified": "2016-11-14T22:50:42.156359+00:00",
+      "note": "Improved printing by using the Reader Mode",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1116787,
       "created": "2016-08-03T21:03:55.493229+00:00",
       "id": 786761,
       "is_public": true,
       "modified": "2016-11-14T01:26:59.819429+00:00",
       "note": "New preference for allowing Ctrl+Tab to cycle through tabs in recently used order",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
-      "bug": 269442,
-      "created": "2016-08-03T21:10:15.077714+00:00",
-      "id": 786765,
-      "is_public": true,
-      "modified": "2016-11-14T01:28:41.075312+00:00",
-      "note": "Added option to Find in page that allows users to limit search to whole words only",
       "sort_num": 0,
       "tag": "New"
     },
@@ -37,12 +37,12 @@
       "tag": "New"
     },
     {
-      "bug": 962433,
-      "created": "2016-08-03T11:43:50.918374+00:00",
-      "id": 786756,
+      "bug": 269442,
+      "created": "2016-08-03T21:10:15.077714+00:00",
+      "id": 786765,
       "is_public": true,
-      "modified": "2016-11-14T22:50:42.156359+00:00",
-      "note": "Improved printing by using the Reader Mode",
+      "modified": "2016-11-14T01:28:41.075312+00:00",
+      "note": "Added option to Find in page that allows users to limit search to whole words only",
       "sort_num": 0,
       "tag": "New"
     },

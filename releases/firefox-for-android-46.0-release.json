@@ -27,16 +27,6 @@
       "tag": "New"
     },
     {
-      "bug": 1231792,
-      "created": "2016-03-04T04:22:51.937676+00:00",
-      "id": 786506,
-      "is_public": true,
-      "modified": "2016-04-15T19:09:52.375233+00:00",
-      "note": " History and Bookmarks items added to menu",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
       "bug": 826400,
       "created": "2016-01-27T22:12:45.793125+00:00",
       "id": 786453,
@@ -53,6 +43,16 @@
       "is_public": true,
       "modified": "2016-04-15T19:09:52.375233+00:00",
       "note": "Include [default domains for inline autocompletion][1]\r\n\r\n\r\n  [1]: https://gecko.readthedocs.org/en/latest/mobile/android/fennec/defaultdomains.html#domain-auto-completion",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1231792,
+      "created": "2016-03-04T04:22:51.937676+00:00",
+      "id": 786506,
+      "is_public": true,
+      "modified": "2016-04-15T19:09:52.375233+00:00",
+      "note": " History and Bookmarks items added to menu",
       "sort_num": 0,
       "tag": "New"
     },
@@ -77,6 +77,16 @@
       "tag": ""
     },
     {
+      "bug": 1155801,
+      "created": "2016-01-25T15:17:31.505051+00:00",
+      "id": 786439,
+      "is_public": true,
+      "modified": "2016-04-15T19:09:52.375233+00:00",
+      "note": "Dropped support for Android Honeycomb (version 3)",
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
       "bug": 1216987,
       "created": "2016-01-27T21:56:43.404946+00:00",
       "id": 786452,
@@ -97,16 +107,6 @@
       "tag": "Changed"
     },
     {
-      "bug": 1155801,
-      "created": "2016-01-25T15:17:31.505051+00:00",
-      "id": 786439,
-      "is_public": true,
-      "modified": "2016-04-15T19:09:52.375233+00:00",
-      "note": "Dropped support for Android Honeycomb (version 3)",
-      "sort_num": 0,
-      "tag": "Changed"
-    },
-    {
       "bug": 1178925,
       "created": "2016-04-21T21:00:38.849584+00:00",
       "id": 786590,
@@ -117,22 +117,22 @@
       "tag": "Language"
     },
     {
-      "bug": 1248408,
-      "created": "2016-04-21T22:05:21.140052+00:00",
-      "id": 786592,
-      "is_public": true,
-      "modified": "2016-04-21T22:05:21.966825+00:00",
-      "note": "Text to speech function in TalkBack now works while users swipe right",
-      "sort_num": 0,
-      "tag": "Fixed"
-    },
-    {
       "bug": 1044556,
       "created": "2016-04-21T18:57:37.439597+00:00",
       "id": 786589,
       "is_public": true,
       "modified": "2016-04-26T18:51:38.953599+00:00",
       "note": "Keep track of tab history under memory pressure",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1248408,
+      "created": "2016-04-21T22:05:21.140052+00:00",
+      "id": 786592,
+      "is_public": true,
+      "modified": "2016-04-21T22:05:21.966825+00:00",
+      "note": "Text to speech function in TalkBack now works while users swipe right",
       "sort_num": 0,
       "tag": "Fixed"
     }

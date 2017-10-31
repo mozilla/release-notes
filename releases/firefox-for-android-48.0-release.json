@@ -27,26 +27,6 @@
       "tag": "New"
     },
     {
-      "bug": 1215115,
-      "created": "2016-05-02T21:43:57.417886+00:00",
-      "id": 786662,
-      "is_public": true,
-      "modified": "2016-07-29T17:10:50.486418+00:00",
-      "note": "Android media improvements:\r\n\r\n - Record all the things! MediaRecorder on Android is now supported via software codecs\r\n - Better Audible playback FTW! Now with Android Audio Service.",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
-      "bug": 1264705,
-      "created": "2016-07-20T15:30:07.634207+00:00",
-      "id": 786746,
-      "is_public": true,
-      "modified": "2016-07-29T17:10:50.486418+00:00",
-      "note": "Adding Qwant as a search option for French, United Kingdom English and German locales\r\n\r\n",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
       "bug": 1171110,
       "created": "2016-04-28T21:42:41.299257+00:00",
       "id": 786619,
@@ -57,12 +37,12 @@
       "tag": "New"
     },
     {
-      "bug": 851969,
-      "created": "2016-06-06T18:51:14.974747+00:00",
-      "id": 786716,
+      "bug": 704229,
+      "created": "2016-04-29T00:36:33.548088+00:00",
+      "id": 786623,
       "is_public": true,
-      "modified": "2016-07-29T17:10:50.486418+00:00",
-      "note": "Amazon product search suggestions added to Awesomescreen Search",
+      "modified": "2016-08-02T16:06:45.146848+00:00",
+      "note": "Video controls get a new look! Snazzy",
       "sort_num": 0,
       "tag": "New"
     },
@@ -77,14 +57,44 @@
       "tag": "New"
     },
     {
-      "bug": 704229,
-      "created": "2016-04-29T00:36:33.548088+00:00",
-      "id": 786623,
+      "bug": 1215115,
+      "created": "2016-05-02T21:43:57.417886+00:00",
+      "id": 786662,
       "is_public": true,
-      "modified": "2016-08-02T16:06:45.146848+00:00",
-      "note": "Video controls get a new look! Snazzy",
+      "modified": "2016-07-29T17:10:50.486418+00:00",
+      "note": "Android media improvements:\r\n\r\n - Record all the things! MediaRecorder on Android is now supported via software codecs\r\n - Better Audible playback FTW! Now with Android Audio Service.",
       "sort_num": 0,
       "tag": "New"
+    },
+    {
+      "bug": 851969,
+      "created": "2016-06-06T18:51:14.974747+00:00",
+      "id": 786716,
+      "is_public": true,
+      "modified": "2016-07-29T17:10:50.486418+00:00",
+      "note": "Amazon product search suggestions added to Awesomescreen Search",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1264705,
+      "created": "2016-07-20T15:30:07.634207+00:00",
+      "id": 786746,
+      "is_public": true,
+      "modified": "2016-07-29T17:10:50.486418+00:00",
+      "note": "Adding Qwant as a search option for French, United Kingdom English and German locales\r\n\r\n",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1220184,
+      "created": "2016-05-02T21:29:39.024685+00:00",
+      "id": 786656,
+      "is_public": true,
+      "modified": "2016-07-29T17:10:50.486418+00:00",
+      "note": "Support for Android 2.3 (Gingerbread) has ended. Farewell!",
+      "sort_num": 0,
+      "tag": "Changed"
     },
     {
       "bug": 1219343,
@@ -113,16 +123,6 @@
       "is_public": true,
       "modified": "2016-07-29T17:10:50.486418+00:00",
       "note": "Mobile history comes before synced desktop history on your phone or tablet. Of course!",
-      "sort_num": 0,
-      "tag": "Changed"
-    },
-    {
-      "bug": 1220184,
-      "created": "2016-05-02T21:29:39.024685+00:00",
-      "id": 786656,
-      "is_public": true,
-      "modified": "2016-07-29T17:10:50.486418+00:00",
-      "note": "Support for Android 2.3 (Gingerbread) has ended. Farewell!",
       "sort_num": 0,
       "tag": "Changed"
     },

@@ -47,22 +47,22 @@
       "tag": "New"
     },
     {
-      "bug": 1113790,
-      "created": "2015-02-19T19:55:09+00:00",
-      "id": 785936,
-      "is_public": true,
-      "modified": "2015-04-03T04:11:46+00:00",
-      "note": "[Opportunistically encrypt HTTP traffic][1] where the server supports HTTP/2 AltSvc\r\n\r\n[1]: https://bitsup.blogspot.com/2015/03/opportunistic-encryption-for-firefox.html ",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
       "bug": 1024809,
       "created": "2015-01-16T18:42:49+00:00",
       "id": 785907,
       "is_public": true,
       "modified": "2015-04-03T04:11:44+00:00",
       "note": "Improved protection against site impersonation via OneCRL centralized certificate revocation",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1113790,
+      "created": "2015-02-19T19:55:09+00:00",
+      "id": 785936,
+      "is_public": true,
+      "modified": "2015-04-03T04:11:46+00:00",
+      "note": "[Opportunistically encrypt HTTP traffic][1] where the server supports HTTP/2 AltSvc\r\n\r\n[1]: https://bitsup.blogspot.com/2015/03/opportunistic-encryption-for-firefox.html ",
       "sort_num": 0,
       "tag": "New"
     },
@@ -87,26 +87,6 @@
       "tag": "Changed"
     },
     {
-      "bug": 1096197,
-      "created": "2015-01-16T19:01:48+00:00",
-      "id": 785910,
-      "is_public": true,
-      "modified": "2015-04-03T04:11:55+00:00",
-      "note": "Extended SSL error reporting for reporting non-certificate errors",
-      "sort_num": 0,
-      "tag": "Changed"
-    },
-    {
-      "bug": 1109766,
-      "created": "2015-01-16T21:45:13+00:00",
-      "id": 785911,
-      "is_public": true,
-      "modified": "2015-04-03T04:11:56+00:00",
-      "note": "TLS False Start optimization now requires a cipher suite using AEAD construction",
-      "sort_num": 0,
-      "tag": "Changed"
-    },
-    {
       "bug": 1073867,
       "created": "2015-01-16T18:45:55+00:00",
       "id": 785908,
@@ -127,6 +107,36 @@
       "tag": "Changed"
     },
     {
+      "bug": 1096197,
+      "created": "2015-01-16T19:01:48+00:00",
+      "id": 785910,
+      "is_public": true,
+      "modified": "2015-04-03T04:11:55+00:00",
+      "note": "Extended SSL error reporting for reporting non-certificate errors",
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
+      "bug": 1109766,
+      "created": "2015-01-16T21:45:13+00:00",
+      "id": 785911,
+      "is_public": true,
+      "modified": "2015-04-03T04:11:56+00:00",
+      "note": "TLS False Start optimization now requires a cipher suite using AEAD construction",
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
+      "bug": 504553,
+      "created": "2014-10-17T12:27:04+00:00",
+      "id": 785761,
+      "is_public": true,
+      "modified": "2015-05-14T23:51:43+00:00",
+      "note": "WebSocket now available in Web Workers",
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
       "bug": 1102374,
       "created": "2015-01-15T15:05:41+00:00",
       "id": 785893,
@@ -143,16 +153,6 @@
       "is_public": true,
       "modified": "2015-04-03T04:12:04+00:00",
       "note": "IndexedDB now accessible from worker threads",
-      "sort_num": 0,
-      "tag": "HTML5"
-    },
-    {
-      "bug": 504553,
-      "created": "2014-10-17T12:27:04+00:00",
-      "id": 785761,
-      "is_public": true,
-      "modified": "2015-05-14T23:51:43+00:00",
-      "note": "WebSocket now available in Web Workers",
       "sort_num": 0,
       "tag": "HTML5"
     }

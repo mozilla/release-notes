@@ -37,22 +37,22 @@
       "tag": "New"
     },
     {
-      "bug": 976073,
-      "created": "2017-01-18T15:59:53.893407+00:00",
-      "id": 786921,
-      "is_public": true,
-      "modified": "2017-03-06T10:30:57.343547+00:00",
-      "note": "Implemented the Strict Secure Cookies specification which forbids insecure HTTP sites from setting cookies with the \"secure\" attribute.  In some cases, this will prevent an insecure site from setting a cookie with the same name as an existing \"secure\" cookie from the same base domain.",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
       "bug": 1304224,
       "created": "2016-11-23T16:10:36.870492+00:00",
       "id": 786888,
       "is_public": true,
       "modified": "2017-03-06T09:47:40.157849+00:00",
       "note": "Added user warnings for [non-secure HTTP pages with logins][1]. Firefox now displays a \u201cThis connection is not secure\u201d message when users click into the username and password fields on pages that don\u2019t use HTTPS.\r\n\r\n[1]: https://blog.mozilla.org/security/2017/01/20/communicating-the-dangers-of-non-secure-http/",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 976073,
+      "created": "2017-01-18T15:59:53.893407+00:00",
+      "id": 786921,
+      "is_public": true,
+      "modified": "2017-03-06T10:30:57.343547+00:00",
+      "note": "Implemented the Strict Secure Cookies specification which forbids insecure HTTP sites from setting cookies with the \"secure\" attribute.  In some cases, this will prevent an insecure site from setting a cookie with the same name as an existing \"secure\" cookie from the same base domain.",
       "sort_num": 0,
       "tag": "New"
     },
@@ -67,12 +67,32 @@
       "tag": "Changed"
     },
     {
-      "bug": 1247056,
-      "created": "2017-03-20T13:48:33.755542+00:00",
-      "id": 787012,
+      "bug": 1313580,
+      "created": "2016-11-18T21:00:10.904988+00:00",
+      "id": 786874,
       "is_public": true,
-      "modified": "2017-03-20T13:48:33.755346+00:00",
-      "note": "On Linux, Firefox now requires PulseAudio to play sound and no longer plays sound directly with ALSA.",
+      "modified": "2017-03-17T03:34:05.887122+00:00",
+      "note": "Removed Battery Status API to reduce fingerprinting of users by trackers",
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
+      "bug": 1270014,
+      "created": "2017-01-24T13:25:31.155578+00:00",
+      "id": 786931,
+      "is_public": true,
+      "modified": "2017-03-06T10:03:08.403882+00:00",
+      "note": "Improved experience for downloads:\r\n\r\n* Notification in the toolbar when a download fails\r\n* Quick access to five most recent downloads rather than three\r\n* Larger buttons for canceling and restarting downloads\r\n",
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
+      "bug": null,
+      "created": "2017-03-06T09:58:53.002924+00:00",
+      "id": 786994,
+      "is_public": true,
+      "modified": "2017-03-06T09:59:13.435596+00:00",
+      "note": "Display (but allow users to override) an \u201c[Untrusted Connection][1]\u201d error when encountering SHA-1 certificates that chain up to a root certificate included in [Mozilla\u2019s CA Certificate Program][2]. (Note: Firefox continues to permit SHA-1 certificates that chain to manually imported root certificates.) [Read more about the Mozilla Security Team\u2019s plans to deprecate SHA-1][3]\r\n\r\n[1]: https://support.mozilla.org/en-US/kb/connection-untrusted-error-message\r\n[2]: https://wiki.mozilla.org/CA:IncludedCAs\r\n[3]: https://blog.mozilla.org/security/2017/02/23/the-end-of-sha-1-on-the-public-web/",
       "sort_num": 0,
       "tag": "Changed"
     },
@@ -97,34 +117,24 @@
       "tag": "Changed"
     },
     {
-      "bug": 1313580,
-      "created": "2016-11-18T21:00:10.904988+00:00",
-      "id": 786874,
+      "bug": 1247056,
+      "created": "2017-03-20T13:48:33.755542+00:00",
+      "id": 787012,
       "is_public": true,
-      "modified": "2017-03-17T03:34:05.887122+00:00",
-      "note": "Removed Battery Status API to reduce fingerprinting of users by trackers",
+      "modified": "2017-03-20T13:48:33.755346+00:00",
+      "note": "On Linux, Firefox now requires PulseAudio to play sound and no longer plays sound directly with ALSA.",
       "sort_num": 0,
       "tag": "Changed"
     },
     {
-      "bug": null,
-      "created": "2017-03-06T09:58:53.002924+00:00",
-      "id": 786994,
+      "bug": 1305769,
+      "created": "2016-11-18T21:00:46.710605+00:00",
+      "id": 786875,
       "is_public": true,
-      "modified": "2017-03-06T09:59:13.435596+00:00",
-      "note": "Display (but allow users to override) an \u201c[Untrusted Connection][1]\u201d error when encountering SHA-1 certificates that chain up to a root certificate included in [Mozilla\u2019s CA Certificate Program][2]. (Note: Firefox continues to permit SHA-1 certificates that chain to manually imported root certificates.) [Read more about the Mozilla Security Team\u2019s plans to deprecate SHA-1][3]\r\n\r\n[1]: https://support.mozilla.org/en-US/kb/connection-untrusted-error-message\r\n[2]: https://wiki.mozilla.org/CA:IncludedCAs\r\n[3]: https://blog.mozilla.org/security/2017/02/23/the-end-of-sha-1-on-the-public-web/",
+      "modified": "2017-03-06T10:09:23.364873+00:00",
+      "note": "Redesigned [Responsive Design Mode][1] to include device selection, network throttling, and more\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Responsive_Design_Mode",
       "sort_num": 0,
-      "tag": "Changed"
-    },
-    {
-      "bug": 1270014,
-      "created": "2017-01-24T13:25:31.155578+00:00",
-      "id": 786931,
-      "is_public": true,
-      "modified": "2017-03-06T10:03:08.403882+00:00",
-      "note": "Improved experience for downloads:\r\n\r\n* Notification in the toolbar when a download fails\r\n* Quick access to five most recent downloads rather than three\r\n* Larger buttons for canceling and restarting downloads\r\n",
-      "sort_num": 0,
-      "tag": "Changed"
+      "tag": "Developer"
     },
     {
       "bug": 1127522,
@@ -143,16 +153,6 @@
       "is_public": true,
       "modified": "2017-03-06T10:08:54.730956+00:00",
       "note": "Enabled [CSS Grid Layout][1], opening up a world of new possibilities for graphic design\r\n\r\n[1]: https://developer.mozilla.org/docs/Web/CSS/CSS_Grid_Layout",
-      "sort_num": 0,
-      "tag": "Developer"
-    },
-    {
-      "bug": 1305769,
-      "created": "2016-11-18T21:00:46.710605+00:00",
-      "id": 786875,
-      "is_public": true,
-      "modified": "2017-03-06T10:09:23.364873+00:00",
-      "note": "Redesigned [Responsive Design Mode][1] to include device selection, network throttling, and more\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Responsive_Design_Mode",
       "sort_num": 0,
       "tag": "Developer"
     },

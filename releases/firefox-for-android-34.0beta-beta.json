@@ -97,6 +97,56 @@
       "tag": "New"
     },
     {
+      "bug": 645416,
+      "created": "2014-07-17T07:38:48+00:00",
+      "id": 785650,
+      "is_public": true,
+      "modified": "2015-03-26T15:55:21+00:00",
+      "note": "Support for the [ECMAScript 6 Symbol][1] data type added\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol\r\n",
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 792439,
+      "created": "2014-08-28T05:14:19+00:00",
+      "id": 785696,
+      "is_public": true,
+      "modified": "2014-11-25T03:04:05+00:00",
+      "note": "[ECMAScript 6 WeakSet][1] Implemented\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakSet",
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 1038259,
+      "created": "2014-08-28T05:15:09+00:00",
+      "id": 785697,
+      "is_public": true,
+      "modified": "2014-11-25T03:04:05+00:00",
+      "note": "[JavaScript Template Strings][1] Implemented\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/template_strings",
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 975744,
+      "created": "2014-08-28T05:51:56+00:00",
+      "id": 785699,
+      "is_public": true,
+      "modified": "2014-11-25T03:04:05+00:00",
+      "note": "CSS3 Font variants and features control (e.g. kerning) implemented",
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 886627,
+      "created": "2014-08-28T06:00:31+00:00",
+      "id": 785700,
+      "is_public": true,
+      "modified": "2014-11-24T22:35:46+00:00",
+      "note": "[Device Storage API][1] for privileged apps enabled\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/Device_Storage_API",
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
       "bug": 1026398,
       "created": "2014-09-02T02:07:22+00:00",
       "id": 785712,
@@ -157,56 +207,6 @@
       "tag": "HTML5"
     },
     {
-      "bug": 645416,
-      "created": "2014-07-17T07:38:48+00:00",
-      "id": 785650,
-      "is_public": true,
-      "modified": "2015-03-26T15:55:21+00:00",
-      "note": "Support for the [ECMAScript 6 Symbol][1] data type added\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol\r\n",
-      "sort_num": 0,
-      "tag": "HTML5"
-    },
-    {
-      "bug": 792439,
-      "created": "2014-08-28T05:14:19+00:00",
-      "id": 785696,
-      "is_public": true,
-      "modified": "2014-11-25T03:04:05+00:00",
-      "note": "[ECMAScript 6 WeakSet][1] Implemented\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakSet",
-      "sort_num": 0,
-      "tag": "HTML5"
-    },
-    {
-      "bug": 1038259,
-      "created": "2014-08-28T05:15:09+00:00",
-      "id": 785697,
-      "is_public": true,
-      "modified": "2014-11-25T03:04:05+00:00",
-      "note": "[JavaScript Template Strings][1] Implemented\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/template_strings",
-      "sort_num": 0,
-      "tag": "HTML5"
-    },
-    {
-      "bug": 975744,
-      "created": "2014-08-28T05:51:56+00:00",
-      "id": 785699,
-      "is_public": true,
-      "modified": "2014-11-25T03:04:05+00:00",
-      "note": "CSS3 Font variants and features control (e.g. kerning) implemented",
-      "sort_num": 0,
-      "tag": "HTML5"
-    },
-    {
-      "bug": 886627,
-      "created": "2014-08-28T06:00:31+00:00",
-      "id": 785700,
-      "is_public": true,
-      "modified": "2014-11-24T22:35:46+00:00",
-      "note": "[Device Storage API][1] for privileged apps enabled\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/Device_Storage_API",
-      "sort_num": 0,
-      "tag": "HTML5"
-    },
-    {
       "bug": 625289,
       "created": "2014-10-03T03:10:30+00:00",
       "fixed_in_release": {
@@ -225,16 +225,6 @@
       "tag": "Fixed"
     },
     {
-      "bug": 1055166,
-      "created": "2014-08-28T11:37:24+00:00",
-      "id": 785708,
-      "is_public": true,
-      "modified": "2014-11-24T22:35:46+00:00",
-      "note": "Flash does not work on Android L",
-      "sort_num": 0,
-      "tag": "Known"
-    },
-    {
       "bug": 1050832,
       "created": "2014-08-28T04:52:53+00:00",
       "fixed_in_release": {
@@ -249,6 +239,16 @@
       "is_public": true,
       "modified": "2014-11-24T22:42:39+00:00",
       "note": "MP4 videos will not play on Android L",
+      "sort_num": 0,
+      "tag": "Known"
+    },
+    {
+      "bug": 1055166,
+      "created": "2014-08-28T11:37:24+00:00",
+      "id": 785708,
+      "is_public": true,
+      "modified": "2014-11-24T22:35:46+00:00",
+      "note": "Flash does not work on Android L",
       "sort_num": 0,
       "tag": "Known"
     }

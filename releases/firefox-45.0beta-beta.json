@@ -17,16 +17,6 @@
       "tag": "New"
     },
     {
-      "bug": 1186003,
-      "created": "2016-02-10T12:58:52.149608+00:00",
-      "id": 786481,
-      "is_public": true,
-      "modified": "2016-03-01T14:07:23.044668+00:00",
-      "note": "GTK3 integration (GNU/Linux only). Disabled after beta 4",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
       "bug": 1210616,
       "created": "2016-01-25T15:09:42.555267+00:00",
       "id": 786436,
@@ -47,13 +37,13 @@
       "tag": "New"
     },
     {
-      "bug": 1226664,
-      "created": "2016-03-02T13:50:04.965404+00:00",
-      "id": 786505,
+      "bug": 1186003,
+      "created": "2016-02-10T12:58:52.149608+00:00",
+      "id": 786481,
       "is_public": true,
-      "modified": "2016-03-02T13:50:04.968160+00:00",
-      "note": "Guarani [gn] locale added\r\n",
-      "sort_num": -1,
+      "modified": "2016-03-01T14:07:23.044668+00:00",
+      "note": "GTK3 integration (GNU/Linux only). Disabled after beta 4",
+      "sort_num": 0,
       "tag": "New"
     },
     {
@@ -63,6 +53,16 @@
       "is_public": true,
       "modified": "2016-03-01T12:54:38.112516+00:00",
       "note": "Introduce a new preference (*network.dns.blockDotOnion*) to allow blocking .onion at the DNS level",
+      "sort_num": -1,
+      "tag": "New"
+    },
+    {
+      "bug": 1226664,
+      "created": "2016-03-02T13:50:04.965404+00:00",
+      "id": 786505,
+      "is_public": true,
+      "modified": "2016-03-02T13:50:04.968160+00:00",
+      "note": "Guarani [gn] locale added\r\n",
       "sort_num": -1,
       "tag": "New"
     },
@@ -87,6 +87,16 @@
       "tag": "HTML5"
     },
     {
+      "bug": 1197932,
+      "created": "2015-12-18T17:08:51.149102+00:00",
+      "id": 5,
+      "is_public": true,
+      "modified": "2016-03-01T12:54:38.112516+00:00",
+      "note": "[ES6 Classes][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/JavaScript/Reference/Classes",
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
       "bug": 663570,
       "created": "2016-01-25T15:17:54.672252+00:00",
       "id": 786440,
@@ -97,14 +107,24 @@
       "tag": "HTML5"
     },
     {
-      "bug": 1197932,
-      "created": "2015-12-18T17:08:51.149102+00:00",
-      "id": 5,
+      "bug": 1228005,
+      "created": "2015-12-18T18:14:01.264712+00:00",
+      "id": 786401,
       "is_public": true,
-      "modified": "2016-03-01T12:54:38.112516+00:00",
-      "note": "[ES6 Classes][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/JavaScript/Reference/Classes",
+      "modified": "2016-03-01T12:54:38.094755+00:00",
+      "note": "[List of animated properties and keyframes][1] is now displayed when clicking on an animation in the animation-inspector\u2019s timeline\r\n\r\n\r\n  [1]: https://www.youtube.com/watch?v=Un3u4wuGT8Q",
       "sort_num": 0,
-      "tag": "HTML5"
+      "tag": "Developer"
+    },
+    {
+      "bug": 835896,
+      "created": "2015-12-18T18:21:51.499361+00:00",
+      "id": 786402,
+      "is_public": true,
+      "modified": "2016-03-01T12:54:38.094755+00:00",
+      "note": "Inspector search now matches results from all content in the page, including subframes",
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
       "bug": 960780,
@@ -127,12 +147,12 @@
       "tag": "Developer"
     },
     {
-      "bug": 1221673,
-      "created": "2016-01-25T15:28:28.069846+00:00",
-      "id": 786443,
+      "bug": 1218078,
+      "created": "2016-01-25T15:04:37.506939+00:00",
+      "id": 786434,
       "is_public": true,
       "modified": "2016-03-01T12:54:38.094755+00:00",
-      "note": "Ability to [filter snapshot output][1] in memory tool\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Memory#Analyzing_a_snapshot",
+      "note": "DOMContentLoaded and load events shown in the [network monitor timeline][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Network_Monitor#Timeline",
       "sort_num": 0,
       "tag": "Developer"
     },
@@ -147,32 +167,12 @@
       "tag": "Developer"
     },
     {
-      "bug": 1228005,
-      "created": "2015-12-18T18:14:01.264712+00:00",
-      "id": 786401,
+      "bug": 1221673,
+      "created": "2016-01-25T15:28:28.069846+00:00",
+      "id": 786443,
       "is_public": true,
       "modified": "2016-03-01T12:54:38.094755+00:00",
-      "note": "[List of animated properties and keyframes][1] is now displayed when clicking on an animation in the animation-inspector\u2019s timeline\r\n\r\n\r\n  [1]: https://www.youtube.com/watch?v=Un3u4wuGT8Q",
-      "sort_num": 0,
-      "tag": "Developer"
-    },
-    {
-      "bug": 1218078,
-      "created": "2016-01-25T15:04:37.506939+00:00",
-      "id": 786434,
-      "is_public": true,
-      "modified": "2016-03-01T12:54:38.094755+00:00",
-      "note": "DOMContentLoaded and load events shown in the [network monitor timeline][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Network_Monitor#Timeline",
-      "sort_num": 0,
-      "tag": "Developer"
-    },
-    {
-      "bug": 835896,
-      "created": "2015-12-18T18:21:51.499361+00:00",
-      "id": 786402,
-      "is_public": true,
-      "modified": "2016-03-01T12:54:38.094755+00:00",
-      "note": "Inspector search now matches results from all content in the page, including subframes",
+      "note": "Ability to [filter snapshot output][1] in memory tool\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Memory#Analyzing_a_snapshot",
       "sort_num": 0,
       "tag": "Developer"
     },

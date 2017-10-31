@@ -17,22 +17,22 @@
       "tag": "Fixed"
     },
     {
-      "bug": null,
-      "created": "2015-12-23T14:01:42.324265+00:00",
-      "id": 786408,
-      "is_public": true,
-      "modified": "2015-12-23T14:01:42.326682+00:00",
-      "note": "Various [security fixes][1] \r\n\r\n[1]: https://www.mozilla.org/security/known-vulnerabilities/thunderbird/#thunderbird38.5",
-      "sort_num": 0,
-      "tag": "Fixed"
-    },
-    {
       "bug": 1079858,
       "created": "2015-12-18T15:53:18.239400+00:00",
       "id": 2,
       "is_public": true,
       "modified": "2015-12-31T00:25:53.572796+00:00",
       "note": " Prepare to use SHA-256 signing certificate for Windows builds, to meet new signing requirement ([1079858][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1079858",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2015-12-23T14:01:42.324265+00:00",
+      "id": 786408,
+      "is_public": true,
+      "modified": "2015-12-23T14:01:42.326682+00:00",
+      "note": "Various [security fixes][1] \r\n\r\n[1]: https://www.mozilla.org/security/known-vulnerabilities/thunderbird/#thunderbird38.5",
       "sort_num": 0,
       "tag": "Fixed"
     }

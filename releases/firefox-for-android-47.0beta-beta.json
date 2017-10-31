@@ -7,16 +7,6 @@
   "modified": "2016-04-27T17:27:46.517384+00:00",
   "notes": [
     {
-      "bug": 1249434,
-      "created": "2016-03-08T19:15:52.143997+00:00",
-      "id": 786536,
-      "is_public": true,
-      "modified": "2016-06-03T22:22:09.431693+00:00",
-      "note": "Add \"Show/Hide web fonts\" in advanced settings to reduce bandwidth and data",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
       "bug": 1004734,
       "created": "2016-03-08T19:14:11.431943+00:00",
       "id": 786532,
@@ -27,12 +17,42 @@
       "tag": "New"
     },
     {
+      "bug": 1249434,
+      "created": "2016-03-08T19:15:52.143997+00:00",
+      "id": 786536,
+      "is_public": true,
+      "modified": "2016-06-03T22:22:09.431693+00:00",
+      "note": "Add \"Show/Hide web fonts\" in advanced settings to reduce bandwidth and data",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1018994,
+      "created": "2016-03-04T18:48:32.873525+00:00",
+      "id": 786520,
+      "is_public": true,
+      "modified": "2016-06-03T22:22:09.431693+00:00",
+      "note": "Remove Favicons in Awesomebar to prevent HTTPS spoofing",
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
       "bug": 1235869,
       "created": "2016-03-08T19:14:30.793262+00:00",
       "id": 786533,
       "is_public": true,
       "modified": "2016-06-03T22:22:09.431693+00:00",
       "note": "Remove support for Android web runtime (WebRT)",
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
+      "bug": 1244701,
+      "created": "2016-03-08T19:15:02.329453+00:00",
+      "id": 786534,
+      "is_public": true,
+      "modified": "2016-06-07T04:28:18.318303+00:00",
+      "note": "Last release to support Android 2.3.x (Gingerbread)",
       "sort_num": 0,
       "tag": "Changed"
     },
@@ -47,32 +67,12 @@
       "tag": "Changed"
     },
     {
-      "bug": 1018994,
-      "created": "2016-03-04T18:48:32.873525+00:00",
-      "id": 786520,
-      "is_public": true,
-      "modified": "2016-06-03T22:22:09.431693+00:00",
-      "note": "Remove Favicons in Awesomebar to prevent HTTPS spoofing",
-      "sort_num": 0,
-      "tag": "Changed"
-    },
-    {
       "bug": 518805,
       "created": "2016-04-25T22:34:25.200358+00:00",
       "id": 786598,
       "is_public": true,
       "modified": "2016-06-03T22:22:09.431693+00:00",
       "note": "Stopped data usage when Firefox is in the background and a page uses meta refresh",
-      "sort_num": 0,
-      "tag": "Changed"
-    },
-    {
-      "bug": 1244701,
-      "created": "2016-03-08T19:15:02.329453+00:00",
-      "id": 786534,
-      "is_public": true,
-      "modified": "2016-06-07T04:28:18.318303+00:00",
-      "note": "Last release to support Android 2.3.x (Gingerbread)",
       "sort_num": 0,
       "tag": "Changed"
     },

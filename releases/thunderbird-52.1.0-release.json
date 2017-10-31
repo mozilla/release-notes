@@ -61,12 +61,12 @@
       "tag": "Fixed"
     },
     {
-      "bug": 1158578,
-      "created": "2017-04-26T19:41:50.762090+00:00",
-      "id": 787061,
+      "bug": 1353625,
+      "created": "2017-04-11T19:13:13.903735+00:00",
+      "id": 787030,
       "is_public": true,
-      "modified": "2017-05-09T21:53:55.416433+00:00",
-      "note": "Crash when compacting IMAP folder",
+      "modified": "2017-06-12T19:19:15.553421+00:00",
+      "note": "Large number of blank pages being printed under certain circumstances. **To fix this problem,** remove all printer specific preferences in the configuration editor.",
       "sort_num": 0,
       "tag": "Known"
     },
@@ -81,26 +81,6 @@
       "tag": "Known"
     },
     {
-      "bug": 1361020,
-      "created": "2017-05-09T18:10:13.444658+00:00",
-      "id": 787085,
-      "is_public": true,
-      "modified": "2017-05-09T21:53:50.427262+00:00",
-      "note": "Unable to load full message via POP if message was downloaded partially (or only headers) before",
-      "sort_num": 0,
-      "tag": "Known"
-    },
-    {
-      "bug": 1353625,
-      "created": "2017-04-11T19:13:13.903735+00:00",
-      "id": 787030,
-      "is_public": true,
-      "modified": "2017-06-12T19:19:15.553421+00:00",
-      "note": "Large number of blank pages being printed under certain circumstances. **To fix this problem,** remove all printer specific preferences in the configuration editor.",
-      "sort_num": 0,
-      "tag": "Known"
-    },
-    {
       "bug": 1281610,
       "created": "2017-04-11T19:15:44.518791+00:00",
       "id": 787032,
@@ -111,12 +91,32 @@
       "tag": "Known"
     },
     {
+      "bug": 1158578,
+      "created": "2017-04-26T19:41:50.762090+00:00",
+      "id": 787061,
+      "is_public": true,
+      "modified": "2017-05-09T21:53:55.416433+00:00",
+      "note": "Crash when compacting IMAP folder",
+      "sort_num": 0,
+      "tag": "Known"
+    },
+    {
       "bug": 1361422,
       "created": "2017-05-09T18:08:27.360292+00:00",
       "id": 787084,
       "is_public": true,
       "modified": "2017-05-09T21:53:53.060722+00:00",
       "note": "Some attachments can't be opened or saved if the message body is empty",
+      "sort_num": 0,
+      "tag": "Known"
+    },
+    {
+      "bug": 1361020,
+      "created": "2017-05-09T18:10:13.444658+00:00",
+      "id": 787085,
+      "is_public": true,
+      "modified": "2017-05-09T21:53:50.427262+00:00",
+      "note": "Unable to load full message via POP if message was downloaded partially (or only headers) before",
       "sort_num": 0,
       "tag": "Known"
     }

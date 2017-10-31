@@ -67,22 +67,22 @@
       "tag": "New"
     },
     {
-      "bug": 1265235,
-      "created": "2017-01-18T14:01:15.088706+00:00",
-      "id": 786915,
-      "is_public": true,
-      "modified": "2017-01-18T14:01:15.088476+00:00",
-      "note": "Support of Widevine CDM through the EME API under GNU/Linux",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
       "bug": 1267363,
       "created": "2016-06-02T21:38:42.546039+00:00",
       "id": 786695,
       "is_public": true,
       "modified": "2016-09-13T12:12:06.912018+00:00",
       "note": "Improved appearance of anti-aliased OS X fonts",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1265235,
+      "created": "2017-01-18T14:01:15.088706+00:00",
+      "id": 786915,
+      "is_public": true,
+      "modified": "2017-01-18T14:01:15.088476+00:00",
+      "note": "Support of Widevine CDM through the EME API under GNU/Linux",
       "sort_num": 0,
       "tag": "New"
     },

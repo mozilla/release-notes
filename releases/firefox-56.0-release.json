@@ -137,12 +137,12 @@
       "tag": "Known"
     },
     {
-      "bug": 1390125,
-      "created": "2017-09-28T18:11:44.324166+00:00",
-      "id": 787281,
+      "bug": 1369361,
+      "created": "2017-09-26T15:42:15.826666+00:00",
+      "id": 787276,
       "is_public": true,
       "modified": "2017-10-09T09:08:12.331024+00:00",
-      "note": "Due to a bug in Mac OS X High Sierra, fullscreen mode has some issues",
+      "note": "Startup crashes with 64-bit Firefox on Windows 7, for users of Lenovo's \"OneKey Theater\" software for IdeaPad laptops. To fix this crash, please [re-install 32-bit Firefox](https://www.mozilla.org/firefox/all/).",
       "sort_num": 0,
       "tag": "Known"
     },
@@ -157,12 +157,12 @@
       "tag": "Known"
     },
     {
-      "bug": 1369361,
-      "created": "2017-09-26T15:42:15.826666+00:00",
-      "id": 787276,
+      "bug": 1390125,
+      "created": "2017-09-28T18:11:44.324166+00:00",
+      "id": 787281,
       "is_public": true,
       "modified": "2017-10-09T09:08:12.331024+00:00",
-      "note": "Startup crashes with 64-bit Firefox on Windows 7, for users of Lenovo's \"OneKey Theater\" software for IdeaPad laptops. To fix this crash, please [re-install 32-bit Firefox](https://www.mozilla.org/firefox/all/).",
+      "note": "Due to a bug in Mac OS X High Sierra, fullscreen mode has some issues",
       "sort_num": 0,
       "tag": "Known"
     }

@@ -125,8 +125,8 @@
       "tag": "Fixed"
     },
     {
-      "bug": 1023285,
-      "created": "2016-09-02T18:08:37.073925+00:00",
+      "bug": 1106412,
+      "created": "2016-09-02T17:35:46.408725+00:00",
       "fixed_in_release": {
         "channel": "Beta",
         "is_public": true,
@@ -135,28 +135,10 @@
         "title": "Thunderbird 49.0beta Beta",
         "version": "49.0beta"
       },
-      "id": 786802,
+      "id": 786788,
       "is_public": true,
-      "modified": "2016-11-19T10:51:58.606481+00:00",
-      "note": "Mail address display at header pane displayed incorrectly if the address contains UTF-8 according to RFC 6532",
-      "sort_num": 0,
-      "tag": "Fixed"
-    },
-    {
-      "bug": 1287126,
-      "created": "2016-09-02T18:12:36.017854+00:00",
-      "fixed_in_release": {
-        "channel": "Beta",
-        "is_public": true,
-        "product": "Thunderbird",
-        "slug": "thunderbird-49.0beta-beta",
-        "title": "Thunderbird 49.0beta Beta",
-        "version": "49.0beta"
-      },
-      "id": 786804,
-      "is_public": true,
-      "modified": "2016-09-30T20:54:26.179967+00:00",
-      "note": "Additional spaces were inserted when drafts were edited.",
+      "modified": "2016-09-02T17:56:30.997145+00:00",
+      "note": "Menu items for \"Edit draft\" functionality were missing",
       "sort_num": 0,
       "tag": "Fixed"
     },
@@ -215,8 +197,8 @@
       "tag": "Fixed"
     },
     {
-      "bug": 1106412,
-      "created": "2016-09-02T17:35:46.408725+00:00",
+      "bug": 1279869,
+      "created": "2016-09-02T17:58:59.433660+00:00",
       "fixed_in_release": {
         "channel": "Beta",
         "is_public": true,
@@ -225,10 +207,46 @@
         "title": "Thunderbird 49.0beta Beta",
         "version": "49.0beta"
       },
-      "id": 786788,
+      "id": 786798,
       "is_public": true,
-      "modified": "2016-09-02T17:56:30.997145+00:00",
-      "note": "Menu items for \"Edit draft\" functionality were missing",
+      "modified": "2016-09-30T20:57:40.715242+00:00",
+      "note": "Threading broken when editing message draft, due to loss of Message-ID",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 253830,
+      "created": "2016-09-02T18:01:10.927446+00:00",
+      "fixed_in_release": {
+        "channel": "Beta",
+        "is_public": true,
+        "product": "Thunderbird",
+        "slug": "thunderbird-49.0beta-beta",
+        "title": "Thunderbird 49.0beta Beta",
+        "version": "49.0beta"
+      },
+      "id": 786799,
+      "is_public": true,
+      "modified": "2016-09-02T18:01:10.927215+00:00",
+      "note": "\"View as plain text\" displayed converted HTML part even when plain text part exists.",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1023285,
+      "created": "2016-09-02T18:08:37.073925+00:00",
+      "fixed_in_release": {
+        "channel": "Beta",
+        "is_public": true,
+        "product": "Thunderbird",
+        "slug": "thunderbird-49.0beta-beta",
+        "title": "Thunderbird 49.0beta Beta",
+        "version": "49.0beta"
+      },
+      "id": 786802,
+      "is_public": true,
+      "modified": "2016-11-19T10:51:58.606481+00:00",
+      "note": "Mail address display at header pane displayed incorrectly if the address contains UTF-8 according to RFC 6532",
       "sort_num": 0,
       "tag": "Fixed"
     },
@@ -247,6 +265,24 @@
       "is_public": true,
       "modified": "2016-09-30T21:00:23.642182+00:00",
       "note": "Mail saved as template copied In-Reply-To and References from original email.",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1287126,
+      "created": "2016-09-02T18:12:36.017854+00:00",
+      "fixed_in_release": {
+        "channel": "Beta",
+        "is_public": true,
+        "product": "Thunderbird",
+        "slug": "thunderbird-49.0beta-beta",
+        "title": "Thunderbird 49.0beta Beta",
+        "version": "49.0beta"
+      },
+      "id": 786804,
+      "is_public": true,
+      "modified": "2016-09-30T20:54:26.179967+00:00",
+      "note": "Additional spaces were inserted when drafts were edited.",
       "sort_num": 0,
       "tag": "Fixed"
     },
@@ -287,60 +323,6 @@
       "tag": "Fixed"
     },
     {
-      "bug": 1276419,
-      "created": "2016-09-02T18:23:24.050397+00:00",
-      "fixed_in_release": {
-        "channel": "Beta",
-        "is_public": true,
-        "product": "Thunderbird",
-        "slug": "thunderbird-49.0beta-beta",
-        "title": "Thunderbird 49.0beta Beta",
-        "version": "49.0beta"
-      },
-      "id": 786809,
-      "is_public": true,
-      "modified": "2016-09-02T18:23:24.049901+00:00",
-      "note": "Embedded image with source URL with ? led to incorrect image reference",
-      "sort_num": 0,
-      "tag": "Fixed"
-    },
-    {
-      "bug": 1279869,
-      "created": "2016-09-02T17:58:59.433660+00:00",
-      "fixed_in_release": {
-        "channel": "Beta",
-        "is_public": true,
-        "product": "Thunderbird",
-        "slug": "thunderbird-49.0beta-beta",
-        "title": "Thunderbird 49.0beta Beta",
-        "version": "49.0beta"
-      },
-      "id": 786798,
-      "is_public": true,
-      "modified": "2016-09-30T20:57:40.715242+00:00",
-      "note": "Threading broken when editing message draft, due to loss of Message-ID",
-      "sort_num": 0,
-      "tag": "Fixed"
-    },
-    {
-      "bug": 253830,
-      "created": "2016-09-02T18:01:10.927446+00:00",
-      "fixed_in_release": {
-        "channel": "Beta",
-        "is_public": true,
-        "product": "Thunderbird",
-        "slug": "thunderbird-49.0beta-beta",
-        "title": "Thunderbird 49.0beta Beta",
-        "version": "49.0beta"
-      },
-      "id": 786799,
-      "is_public": true,
-      "modified": "2016-09-02T18:01:10.927215+00:00",
-      "note": "\"View as plain text\" displayed converted HTML part even when plain text part exists.",
-      "sort_num": 0,
-      "tag": "Fixed"
-    },
-    {
       "bug": 1290839,
       "created": "2016-09-02T18:20:12.796840+00:00",
       "fixed_in_release": {
@@ -373,6 +355,24 @@
       "is_public": true,
       "modified": "2016-09-30T20:51:03.810703+00:00",
       "note": "Display name was truncated if no separating space before email address.",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1276419,
+      "created": "2016-09-02T18:23:24.050397+00:00",
+      "fixed_in_release": {
+        "channel": "Beta",
+        "is_public": true,
+        "product": "Thunderbird",
+        "slug": "thunderbird-49.0beta-beta",
+        "title": "Thunderbird 49.0beta Beta",
+        "version": "49.0beta"
+      },
+      "id": 786809,
+      "is_public": true,
+      "modified": "2016-09-02T18:23:24.049901+00:00",
+      "note": "Embedded image with source URL with ? led to incorrect image reference",
       "sort_num": 0,
       "tag": "Fixed"
     }

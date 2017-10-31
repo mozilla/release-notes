@@ -68,21 +68,21 @@
     },
     {
       "bug": null,
-      "created": "2014-04-09T08:09:00+00:00",
-      "id": 785547,
-      "is_public": true,
-      "modified": "2014-05-09T10:26:53+00:00",
-      "note": "Clicking on a W3C Web Notification will switch to the originating tab",
-      "sort_num": 0,
-      "tag": "Changed"
-    },
-    {
-      "bug": null,
       "created": "2014-03-26T16:57:08+00:00",
       "id": 785537,
       "is_public": true,
       "modified": "2014-07-21T04:03:41+00:00",
       "note": "navigator.plugins is no longer enumerable, for user privacy",
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
+      "bug": null,
+      "created": "2014-04-09T08:09:00+00:00",
+      "id": 785547,
+      "is_public": true,
+      "modified": "2014-05-09T10:26:53+00:00",
+      "note": "Clicking on a W3C Web Notification will switch to the originating tab",
       "sort_num": 0,
       "tag": "Changed"
     },
@@ -114,16 +114,6 @@
       "modified": "2014-05-09T10:26:53+00:00",
       "note": "Promises enabled by default (<a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise\">learn more</a>)",
       "sort_num": 1,
-      "tag": "Developer"
-    },
-    {
-      "bug": null,
-      "created": "2014-03-28T08:12:04+00:00",
-      "id": 785539,
-      "is_public": true,
-      "modified": "2014-05-09T10:26:53+00:00",
-      "note": "Add-on bar has been removed, content moved to navigation bar",
-      "sort_num": 0,
       "tag": "Developer"
     },
     {
@@ -167,6 +157,16 @@
       "tag": "Developer"
     },
     {
+      "bug": null,
+      "created": "2014-03-28T08:12:04+00:00",
+      "id": 785539,
+      "is_public": true,
+      "modified": "2014-05-09T10:26:53+00:00",
+      "note": "Add-on bar has been removed, content moved to navigation bar",
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
       "bug": 1008793,
       "created": "2013-11-25T00:24:44+00:00",
       "fixed_in_release": {
@@ -181,16 +181,6 @@
       "is_public": true,
       "modified": "2014-07-21T03:56:45+00:00",
       "note": "Mac OS X: cmd-L no longer opens a new window when no window is available ([1008793][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1008793",
-      "sort_num": 0,
-      "tag": "Known"
-    },
-    {
-      "bug": 1005487,
-      "created": "2014-06-05T17:20:25+00:00",
-      "id": 785601,
-      "is_public": true,
-      "modified": "2014-07-21T03:57:04+00:00",
-      "note": "Exit is not always completed when \"clear history when Firefox closes\" is enabled ([1005487][1])\r\n\r\n\r\n  [1]: http://bugzilla.mozilla.org/1005487",
       "sort_num": 0,
       "tag": "Known"
     },
@@ -219,6 +209,16 @@
       "is_public": true,
       "modified": "2014-07-21T03:56:20+00:00",
       "note": "Echo cancellation on apprtc.appspot.com fails ([974537][1]) \r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=974537",
+      "sort_num": 0,
+      "tag": "Known"
+    },
+    {
+      "bug": 1005487,
+      "created": "2014-06-05T17:20:25+00:00",
+      "id": 785601,
+      "is_public": true,
+      "modified": "2014-07-21T03:57:04+00:00",
+      "note": "Exit is not always completed when \"clear history when Firefox closes\" is enabled ([1005487][1])\r\n\r\n\r\n  [1]: http://bugzilla.mozilla.org/1005487",
       "sort_num": 0,
       "tag": "Known"
     }

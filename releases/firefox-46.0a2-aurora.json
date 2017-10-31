@@ -77,22 +77,22 @@
       "tag": "Developer"
     },
     {
-      "bug": 1233551,
-      "created": "2016-01-25T16:48:47.572909+00:00",
-      "id": 786446,
-      "is_public": true,
-      "modified": "2016-04-15T19:09:52.357078+00:00",
-      "note": "Allocation and garbage collection pause profiling in the [performance panel][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Performance/Allocations",
-      "sort_num": 0,
-      "tag": "Developer"
-    },
-    {
       "bug": 1029371,
       "created": "2016-01-25T04:41:04.017935+00:00",
       "id": 786431,
       "is_public": true,
       "modified": "2016-04-15T19:09:52.357078+00:00",
       "note": "Launch responsive mode from the [Style Editor @media sidebar][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Style_Editor#The_media_sidebar",
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
+      "bug": 1233551,
+      "created": "2016-01-25T16:48:47.572909+00:00",
+      "id": 786446,
+      "is_public": true,
+      "modified": "2016-04-15T19:09:52.357078+00:00",
+      "note": "Allocation and garbage collection pause profiling in the [performance panel][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Performance/Allocations",
       "sort_num": 0,
       "tag": "Developer"
     }

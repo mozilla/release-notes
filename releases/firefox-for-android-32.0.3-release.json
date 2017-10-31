@@ -75,22 +75,22 @@
       "tag": "New"
     },
     {
-      "bug": null,
-      "created": "2014-08-28T11:45:44+00:00",
-      "id": 785710,
-      "is_public": true,
-      "modified": "2014-09-23T08:43:43+00:00",
-      "note": "Locales added: Armenian [hy-AM], Basque [eu], Fulah [ff], Icelandic [is], Scottish Gaelic [gd], Welsh [cy]\r\n    \r\n",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
       "bug": 994472,
       "created": "2014-05-26T09:20:40+00:00",
       "id": 785597,
       "is_public": true,
       "modified": "2014-09-23T08:43:43+00:00",
       "note": " Support URI autocomplete on Swype (and other composition focused) keyboards",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2014-08-28T11:45:44+00:00",
+      "id": 785710,
+      "is_public": true,
+      "modified": "2014-09-23T08:43:43+00:00",
+      "note": "Locales added: Armenian [hy-AM], Basque [eu], Fulah [ff], Icelandic [is], Scottish Gaelic [gd], Welsh [cy]\r\n    \r\n",
       "sort_num": 0,
       "tag": "New"
     },
@@ -102,6 +102,16 @@
       "modified": "2014-09-23T08:43:43+00:00",
       "note": "Android 2.2 and ARMv6 processor chipset no longer supported",
       "sort_num": 1900,
+      "tag": "Changed"
+    },
+    {
+      "bug": 1029561,
+      "created": "2014-07-17T15:06:47+00:00",
+      "id": 785662,
+      "is_public": true,
+      "modified": "2014-09-23T08:43:43+00:00",
+      "note": "Removed and turned off trust bit for [some 1024-bit root certificates][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/NSS_3.16.3_release_notes#Notable_Changes_in_NSS_3.16.3",
+      "sort_num": 0,
       "tag": "Changed"
     },
     {
@@ -123,36 +133,6 @@
       "note": "Top Sites has a cleaner, fresher looking first-run appearance",
       "sort_num": 0,
       "tag": "Changed"
-    },
-    {
-      "bug": 1029561,
-      "created": "2014-07-17T15:06:47+00:00",
-      "id": 785662,
-      "is_public": true,
-      "modified": "2014-09-23T08:43:43+00:00",
-      "note": "Removed and turned off trust bit for [some 1024-bit root certificates][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/NSS_3.16.3_release_notes#Notable_Changes_in_NSS_3.16.3",
-      "sort_num": 0,
-      "tag": "Changed"
-    },
-    {
-      "bug": 1006326,
-      "created": "2014-08-28T06:47:55+00:00",
-      "id": 785707,
-      "is_public": true,
-      "modified": "2014-09-23T08:43:43+00:00",
-      "note": "[box-decoration-break][1] enabled by default\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/box-decoration-break",
-      "sort_num": 0,
-      "tag": "HTML5"
-    },
-    {
-      "bug": 1006326,
-      "created": "2014-07-17T15:20:38+00:00",
-      "id": 785665,
-      "is_public": true,
-      "modified": "2014-09-23T08:43:43+00:00",
-      "note": "[CSS box-decoration-break replaces -moz-background-inline-policy][1]\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/-moz-background-inline-policy",
-      "sort_num": 0,
-      "tag": "HTML5"
     },
     {
       "bug": 916315,
@@ -201,6 +181,26 @@
       "is_public": true,
       "modified": "2014-09-23T08:43:43+00:00",
       "note": "Vibration API updated to latest W3C spec",
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 1006326,
+      "created": "2014-07-17T15:20:38+00:00",
+      "id": 785665,
+      "is_public": true,
+      "modified": "2014-09-23T08:43:43+00:00",
+      "note": "[CSS box-decoration-break replaces -moz-background-inline-policy][1]\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/-moz-background-inline-policy",
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 1006326,
+      "created": "2014-08-28T06:47:55+00:00",
+      "id": 785707,
+      "is_public": true,
+      "modified": "2014-09-23T08:43:43+00:00",
+      "note": "[box-decoration-break][1] enabled by default\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/box-decoration-break",
       "sort_num": 0,
       "tag": "HTML5"
     },
@@ -271,16 +271,6 @@
       "tag": "Known"
     },
     {
-      "bug": 1055166,
-      "created": "2014-08-28T11:37:24+00:00",
-      "id": 785708,
-      "is_public": true,
-      "modified": "2014-11-24T22:35:46+00:00",
-      "note": "Flash does not work on Android L",
-      "sort_num": 0,
-      "tag": "Known"
-    },
-    {
       "bug": 1050832,
       "created": "2014-08-28T04:52:53+00:00",
       "fixed_in_release": {
@@ -295,6 +285,16 @@
       "is_public": true,
       "modified": "2014-11-24T22:42:39+00:00",
       "note": "MP4 videos will not play on Android L",
+      "sort_num": 0,
+      "tag": "Known"
+    },
+    {
+      "bug": 1055166,
+      "created": "2014-08-28T11:37:24+00:00",
+      "id": 785708,
+      "is_public": true,
+      "modified": "2014-11-24T22:35:46+00:00",
+      "note": "Flash does not work on Android L",
       "sort_num": 0,
       "tag": "Known"
     }

@@ -97,6 +97,16 @@
       "tag": "Changed"
     },
     {
+      "bug": 658467,
+      "created": "2017-01-27T21:53:47.221231+00:00",
+      "id": 786954,
+      "is_public": true,
+      "modified": "2017-06-05T20:24:25.427461+00:00",
+      "note": "The last few characters of shortened tab titles fade out instead of being replaced by ellipses to keep more of the title visible",
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
       "bug": 1271765,
       "created": "2017-01-27T22:01:19.677311+00:00",
       "id": 786958,
@@ -113,16 +123,6 @@
       "is_public": true,
       "modified": "2017-06-05T20:25:08.467993+00:00",
       "note": "Ended Firefox Linux support for processors older than Pentium 4 and AMD Opteron",
-      "sort_num": 0,
-      "tag": "Changed"
-    },
-    {
-      "bug": 658467,
-      "created": "2017-01-27T21:53:47.221231+00:00",
-      "id": 786954,
-      "is_public": true,
-      "modified": "2017-06-05T20:24:25.427461+00:00",
-      "note": "The last few characters of shortened tab titles fade out instead of being replaced by ellipses to keep more of the title visible",
       "sort_num": 0,
       "tag": "Changed"
     },

@@ -67,6 +67,26 @@
       "tag": "New"
     },
     {
+      "bug": 645416,
+      "created": "2014-07-17T07:38:48+00:00",
+      "id": 785650,
+      "is_public": true,
+      "modified": "2015-03-26T15:55:21+00:00",
+      "note": "Support for the [ECMAScript 6 Symbol][1] data type added\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol\r\n",
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 792439,
+      "created": "2014-08-28T05:14:19+00:00",
+      "id": 785696,
+      "is_public": true,
+      "modified": "2014-11-25T03:04:05+00:00",
+      "note": "[ECMAScript 6 WeakSet][1] Implemented\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakSet",
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
       "bug": 1038259,
       "created": "2014-08-28T05:15:09+00:00",
       "id": 785697,
@@ -147,24 +167,14 @@
       "tag": "HTML5"
     },
     {
-      "bug": 792439,
-      "created": "2014-08-28T05:14:19+00:00",
-      "id": 785696,
+      "bug": 1007059,
+      "created": "2014-07-23T08:11:05+00:00",
+      "id": 785677,
       "is_public": true,
       "modified": "2014-11-25T03:04:05+00:00",
-      "note": "[ECMAScript 6 WeakSet][1] Implemented\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakSet",
+      "note": "[WebIDE][1]: Create, edit, and test a new Web application from your browser\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Tools/WebIDE\r\n",
       "sort_num": 0,
-      "tag": "HTML5"
-    },
-    {
-      "bug": 645416,
-      "created": "2014-07-17T07:38:48+00:00",
-      "id": 785650,
-      "is_public": true,
-      "modified": "2015-03-26T15:55:21+00:00",
-      "note": "Support for the [ECMAScript 6 Symbol][1] data type added\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol\r\n",
-      "sort_num": 0,
-      "tag": "HTML5"
+      "tag": "Developer"
     },
     {
       "bug": 971662,
@@ -193,16 +203,6 @@
       "is_public": true,
       "modified": "2014-11-25T03:04:05+00:00",
       "note": "[console.table][1] function added to web console\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/Console.table",
-      "sort_num": 0,
-      "tag": "Developer"
-    },
-    {
-      "bug": 1007059,
-      "created": "2014-07-23T08:11:05+00:00",
-      "id": 785677,
-      "is_public": true,
-      "modified": "2014-11-25T03:04:05+00:00",
-      "note": "[WebIDE][1]: Create, edit, and test a new Web application from your browser\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Tools/WebIDE\r\n",
       "sort_num": 0,
       "tag": "Developer"
     },

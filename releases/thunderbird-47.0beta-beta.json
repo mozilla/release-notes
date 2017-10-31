@@ -17,6 +17,36 @@
       "tag": "Fixed"
     },
     {
+      "bug": 1249153,
+      "created": "2016-06-08T23:32:43.952868+00:00",
+      "id": 786721,
+      "is_public": true,
+      "modified": "2016-06-27T15:17:09.003933+00:00",
+      "note": "Dragging and dropping of contacts from the contact list onto an addressbook while All Addressbooks is selected moved only one contact",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1174485,
+      "created": "2016-06-08T23:36:52.713429+00:00",
+      "id": 786722,
+      "is_public": true,
+      "modified": "2016-06-27T15:11:56.417373+00:00",
+      "note": "Falsely reported not enough disk space during compacting",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1216914,
+      "created": "2016-06-10T20:39:01.366023+00:00",
+      "id": 786725,
+      "is_public": true,
+      "modified": "2016-06-10T20:39:01.668481+00:00",
+      "note": "Draft folder database (and possibly others) was deleted when certain messages were viewed, resulting in loss of locally stored message metadata",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
       "bug": 1268856,
       "created": "2016-06-13T19:15:56.186072+00:00",
       "id": 786726,
@@ -37,22 +67,12 @@
       "tag": "Fixed"
     },
     {
-      "bug": 1216914,
-      "created": "2016-06-10T20:39:01.366023+00:00",
-      "id": 786725,
+      "bug": 333064,
+      "created": "2016-06-13T19:27:40.419756+00:00",
+      "id": 786729,
       "is_public": true,
-      "modified": "2016-06-10T20:39:01.668481+00:00",
-      "note": "Draft folder database (and possibly others) was deleted when certain messages were viewed, resulting in loss of locally stored message metadata",
-      "sort_num": 0,
-      "tag": "Fixed"
-    },
-    {
-      "bug": 1249153,
-      "created": "2016-06-08T23:32:43.952868+00:00",
-      "id": 786721,
-      "is_public": true,
-      "modified": "2016-06-27T15:17:09.003933+00:00",
-      "note": "Dragging and dropping of contacts from the contact list onto an addressbook while All Addressbooks is selected moved only one contact",
+      "modified": "2016-06-13T19:31:07.963378+00:00",
+      "note": "Erroneous spaces were inserted when copying CJK text",
       "sort_num": 0,
       "tag": "Fixed"
     },
@@ -63,26 +83,6 @@
       "is_public": true,
       "modified": "2016-06-27T15:08:34.433760+00:00",
       "note": "Links were not always detected properly in the message body (terminated early on \"|\", some long links not detected at all)",
-      "sort_num": 0,
-      "tag": "Fixed"
-    },
-    {
-      "bug": 1174485,
-      "created": "2016-06-08T23:36:52.713429+00:00",
-      "id": 786722,
-      "is_public": true,
-      "modified": "2016-06-27T15:11:56.417373+00:00",
-      "note": "Falsely reported not enough disk space during compacting",
-      "sort_num": 0,
-      "tag": "Fixed"
-    },
-    {
-      "bug": 333064,
-      "created": "2016-06-13T19:27:40.419756+00:00",
-      "id": 786729,
-      "is_public": true,
-      "modified": "2016-06-13T19:31:07.963378+00:00",
-      "note": "Erroneous spaces were inserted when copying CJK text",
       "sort_num": 0,
       "tag": "Fixed"
     }

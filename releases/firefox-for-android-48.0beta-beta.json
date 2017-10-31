@@ -47,22 +47,22 @@
       "tag": "New"
     },
     {
-      "bug": 1210386,
-      "created": "2016-05-02T21:25:33.772796+00:00",
-      "id": 786655,
-      "is_public": true,
-      "modified": "2016-07-29T17:10:50.486418+00:00",
-      "note": "[Want Firefox as your default?][1] Of course you do. So we made it easier.\r\n\r\n  [1]: https://support.mozilla.org/en-US/kb/make-firefox-default-browser-android",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
       "bug": 704229,
       "created": "2016-04-29T00:36:33.548088+00:00",
       "id": 786623,
       "is_public": true,
       "modified": "2016-08-02T16:06:45.146848+00:00",
       "note": "Video controls get a new look! Snazzy",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1210386,
+      "created": "2016-05-02T21:25:33.772796+00:00",
+      "id": 786655,
+      "is_public": true,
+      "modified": "2016-07-29T17:10:50.486418+00:00",
+      "note": "[Want Firefox as your default?][1] Of course you do. So we made it easier.\r\n\r\n  [1]: https://support.mozilla.org/en-US/kb/make-firefox-default-browser-android",
       "sort_num": 0,
       "tag": "New"
     },
@@ -97,6 +97,16 @@
       "tag": "New"
     },
     {
+      "bug": 1220184,
+      "created": "2016-05-02T21:29:39.024685+00:00",
+      "id": 786656,
+      "is_public": true,
+      "modified": "2016-07-29T17:10:50.486418+00:00",
+      "note": "Support for Android 2.3 (Gingerbread) has ended. Farewell!",
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
       "bug": 1219343,
       "created": "2016-05-02T21:31:45.935036+00:00",
       "id": 786657,
@@ -123,16 +133,6 @@
       "is_public": true,
       "modified": "2016-07-29T17:10:50.486418+00:00",
       "note": "Mobile history comes before synced desktop history on your phone or tablet. Of course!",
-      "sort_num": 0,
-      "tag": "Changed"
-    },
-    {
-      "bug": 1220184,
-      "created": "2016-05-02T21:29:39.024685+00:00",
-      "id": 786656,
-      "is_public": true,
-      "modified": "2016-07-29T17:10:50.486418+00:00",
-      "note": "Support for Android 2.3 (Gingerbread) has ended. Farewell!",
       "sort_num": 0,
       "tag": "Changed"
     },

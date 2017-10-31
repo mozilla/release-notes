@@ -17,22 +17,22 @@
       "tag": "New"
     },
     {
-      "bug": 1250766,
-      "created": "2016-03-04T04:53:44.853108+00:00",
-      "id": 786508,
-      "is_public": true,
-      "modified": "2016-04-20T22:33:25.254569+00:00",
-      "note": "Use Content Decryption Module as a fallback to decode unencrypted H.264 and AAC media where available",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
       "bug": 1186003,
       "created": "2015-08-07T20:24:05+00:00",
       "id": 786219,
       "is_public": true,
       "modified": "2016-04-15T19:09:52.357078+00:00",
       "note": "GTK3 integration (GNU/Linux only)\r\n",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1250766,
+      "created": "2016-03-04T04:53:44.853108+00:00",
+      "id": 786508,
+      "is_public": true,
+      "modified": "2016-04-20T22:33:25.254569+00:00",
+      "note": "Use Content Decryption Module as a fallback to decode unencrypted H.264 and AAC media where available",
       "sort_num": 0,
       "tag": "New"
     },

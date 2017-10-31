@@ -7,12 +7,12 @@
   "modified": "2015-03-07T09:39:21+00:00",
   "notes": [
     {
-      "bug": 1136616,
-      "created": "2015-03-05T18:25:44+00:00",
-      "id": 785962,
+      "bug": 1093983,
+      "created": "2015-03-05T18:17:15+00:00",
+      "id": 785959,
       "is_public": true,
       "modified": "2015-03-21T03:15:59+00:00",
-      "note": "36.0.1 - Accept hostnames that include an underscore character (\"_\") ([1136616][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1136616",
+      "note": "36.0.1 - Disable the usage of the ANY DNS query type ([1093983][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1093983",
       "sort_num": 10000,
       "tag": "Fixed"
     },
@@ -27,12 +27,12 @@
       "tag": "Fixed"
     },
     {
-      "bug": 1093983,
-      "created": "2015-03-05T18:17:15+00:00",
-      "id": 785959,
+      "bug": 1136616,
+      "created": "2015-03-05T18:25:44+00:00",
+      "id": 785962,
       "is_public": true,
       "modified": "2015-03-21T03:15:59+00:00",
-      "note": "36.0.1 - Disable the usage of the ANY DNS query type ([1093983][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1093983",
+      "note": "36.0.1 - Accept hostnames that include an underscore character (\"_\") ([1136616][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1136616",
       "sort_num": 10000,
       "tag": "Fixed"
     },
@@ -97,36 +97,6 @@
       "tag": "Changed"
     },
     {
-      "bug": 961871,
-      "created": "2014-12-03T00:37:13+00:00",
-      "id": 785856,
-      "is_public": true,
-      "modified": "2015-03-26T15:54:49+00:00",
-      "note": "CSS3 [will-change property][1] implemented.<br />Hints the browser of elements that will be modified. The browser will\r\nperform some performance optimization for these\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/will-change",
-      "sort_num": 0,
-      "tag": "HTML5"
-    },
-    {
-      "bug": 903457,
-      "created": "2014-12-03T00:41:59+00:00",
-      "id": 785857,
-      "is_public": true,
-      "modified": "2015-03-26T15:55:32+00:00",
-      "note": "[Improved ES6 generators][1] for better performance\r\n\r\n\r\n  [1]: https://wingolog.org/archives/2014/11/14/generators-in-firefox-now-twenty-two-times-faster",
-      "sort_num": 0,
-      "tag": "HTML5"
-    },
-    {
-      "bug": 611388,
-      "created": "2015-01-08T12:18:18+00:00",
-      "id": 785869,
-      "is_public": true,
-      "modified": "2015-03-26T15:55:32+00:00",
-      "note": "Changed JavaScript ['const' semantics][1] to conform better to the ES6 specification.<br />The const declaration is now block-scoped and requires an initializer. It also can not be redeclared anymore.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/const",
-      "sort_num": 0,
-      "tag": "HTML5"
-    },
-    {
       "bug": 645416,
       "created": "2014-07-17T07:38:48+00:00",
       "id": 785650,
@@ -167,6 +137,46 @@
       "tag": "HTML5"
     },
     {
+      "bug": 961871,
+      "created": "2014-12-03T00:37:13+00:00",
+      "id": 785856,
+      "is_public": true,
+      "modified": "2015-03-26T15:54:49+00:00",
+      "note": "CSS3 [will-change property][1] implemented.<br />Hints the browser of elements that will be modified. The browser will\r\nperform some performance optimization for these\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/will-change",
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 903457,
+      "created": "2014-12-03T00:41:59+00:00",
+      "id": 785857,
+      "is_public": true,
+      "modified": "2015-03-26T15:55:32+00:00",
+      "note": "[Improved ES6 generators][1] for better performance\r\n\r\n\r\n  [1]: https://wingolog.org/archives/2014/11/14/generators-in-firefox-now-twenty-two-times-faster",
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 611388,
+      "created": "2015-01-08T12:18:18+00:00",
+      "id": 785869,
+      "is_public": true,
+      "modified": "2015-03-26T15:55:32+00:00",
+      "note": "Changed JavaScript ['const' semantics][1] to conform better to the ES6 specification.<br />The const declaration is now block-scoped and requires an initializer. It also can not be redeclared anymore.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/const",
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": null,
+      "created": "2013-11-25T00:24:50+00:00",
+      "id": 161,
+      "is_public": true,
+      "modified": "2015-03-26T15:55:42+00:00",
+      "note": "Various <a href=\"https://www.mozilla.org/security/known-vulnerabilities/firefox.html\">security fixes</a>",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
       "bug": 591600,
       "created": "2014-12-03T00:35:11+00:00",
       "fixed_in_release": {
@@ -181,16 +191,6 @@
       "is_public": true,
       "modified": "2015-03-26T15:55:48+00:00",
       "note": "[CSS gradients][1] work on premultiplied colors\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/gradient",
-      "sort_num": 0,
-      "tag": "Fixed"
-    },
-    {
-      "bug": null,
-      "created": "2013-11-25T00:24:50+00:00",
-      "id": 161,
-      "is_public": true,
-      "modified": "2015-03-26T15:55:42+00:00",
-      "note": "Various <a href=\"https://www.mozilla.org/security/known-vulnerabilities/firefox.html\">security fixes</a>",
       "sort_num": 0,
       "tag": "Fixed"
     },

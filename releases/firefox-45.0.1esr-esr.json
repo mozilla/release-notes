@@ -57,22 +57,22 @@
       "tag": "Fixed"
     },
     {
-      "bug": 1255139,
-      "created": "2016-03-16T12:28:58.930473+00:00",
-      "id": 786549,
-      "is_public": true,
-      "modified": "2016-03-16T12:28:58.932958+00:00",
-      "note": "Bring back non-standard jar: URIs to fix a regression in IBM iNotes ([1255139][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1255139",
-      "sort_num": 0,
-      "tag": "Fixed"
-    },
-    {
       "bug": 1254694,
       "created": "2016-03-16T12:28:25.909358+00:00",
       "id": 786548,
       "is_public": true,
       "modified": "2016-03-16T13:59:50.894667+00:00",
       "note": "Fix a regression causing search engine settings to be lost in some context ([1254694][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1254694",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1255139,
+      "created": "2016-03-16T12:28:58.930473+00:00",
+      "id": 786549,
+      "is_public": true,
+      "modified": "2016-03-16T12:28:58.932958+00:00",
+      "note": "Bring back non-standard jar: URIs to fix a regression in IBM iNotes ([1255139][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1255139",
       "sort_num": 0,
       "tag": "Fixed"
     },

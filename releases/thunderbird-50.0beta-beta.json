@@ -133,6 +133,24 @@
       "tag": "Fixed"
     },
     {
+      "bug": 1281785,
+      "created": "2016-10-09T08:48:16.166469+00:00",
+      "fixed_in_release": {
+        "channel": "Beta",
+        "is_public": true,
+        "product": "Thunderbird",
+        "slug": "thunderbird-50.0beta-beta",
+        "title": "Thunderbird 50.0beta Beta",
+        "version": "50.0beta"
+      },
+      "id": 786837,
+      "is_public": true,
+      "modified": "2017-01-12T17:19:10.542854+00:00",
+      "note": "Troubleshooting Information was incomplete in Thunderbird 49 beta.",
+      "sort_num": 1,
+      "tag": "Fixed"
+    },
+    {
       "bug": 1300107,
       "created": "2016-10-09T08:50:27.600601+00:00",
       "fixed_in_release": {
@@ -165,24 +183,6 @@
       "is_public": true,
       "modified": "2017-04-12T16:39:17.083800+00:00",
       "note": "Chat: XMPP Resource collisions",
-      "sort_num": 1,
-      "tag": "Fixed"
-    },
-    {
-      "bug": 1281785,
-      "created": "2016-10-09T08:48:16.166469+00:00",
-      "fixed_in_release": {
-        "channel": "Beta",
-        "is_public": true,
-        "product": "Thunderbird",
-        "slug": "thunderbird-50.0beta-beta",
-        "title": "Thunderbird 50.0beta Beta",
-        "version": "50.0beta"
-      },
-      "id": 786837,
-      "is_public": true,
-      "modified": "2017-01-12T17:19:10.542854+00:00",
-      "note": "Troubleshooting Information was incomplete in Thunderbird 49 beta.",
       "sort_num": 1,
       "tag": "Fixed"
     },

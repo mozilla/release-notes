@@ -127,22 +127,22 @@
       "tag": "HTML5"
     },
     {
-      "bug": null,
-      "created": "2016-08-03T17:00:40.566367+00:00",
-      "id": 786759,
-      "is_public": true,
-      "modified": "2016-09-23T18:45:40.614475+00:00",
-      "note": "Introduced [web speech synthesis API][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API#Speech_synthesis",
-      "sort_num": 0,
-      "tag": "Developer"
-    },
-    {
       "bug": 1134073,
       "created": "2016-08-03T16:54:21.189084+00:00",
       "id": 786758,
       "is_public": true,
       "modified": "2016-09-23T18:45:40.614475+00:00",
       "note": "Added a [Cause column][1] to the Network Monitor to show what caused each network request\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Network_Monitor#Cause_column",
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
+      "bug": null,
+      "created": "2016-08-03T17:00:40.566367+00:00",
+      "id": 786759,
+      "is_public": true,
+      "modified": "2016-09-23T18:45:40.614475+00:00",
+      "note": "Introduced [web speech synthesis API][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API#Speech_synthesis",
       "sort_num": 0,
       "tag": "Developer"
     },

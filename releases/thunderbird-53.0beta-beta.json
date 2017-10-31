@@ -53,16 +53,6 @@
       "tag": "Known"
     },
     {
-      "bug": 1158578,
-      "created": "2017-04-26T19:41:50.762090+00:00",
-      "id": 787061,
-      "is_public": true,
-      "modified": "2017-05-09T21:53:55.416433+00:00",
-      "note": "Crash when compacting IMAP folder",
-      "sort_num": 0,
-      "tag": "Known"
-    },
-    {
       "bug": 1355350,
       "created": "2017-04-11T19:14:26.454345+00:00",
       "id": 787031,
@@ -79,6 +69,16 @@
       "is_public": true,
       "modified": "2017-07-14T20:12:38.844733+00:00",
       "note": "Crash due to incompatibility with McAfee Anti-SPAM add-on. **Workaround:** Start in safe mode and disable McAfee Anti-Spam Extension",
+      "sort_num": 0,
+      "tag": "Known"
+    },
+    {
+      "bug": 1158578,
+      "created": "2017-04-26T19:41:50.762090+00:00",
+      "id": 787061,
+      "is_public": true,
+      "modified": "2017-05-09T21:53:55.416433+00:00",
+      "note": "Crash when compacting IMAP folder",
       "sort_num": 0,
       "tag": "Known"
     }

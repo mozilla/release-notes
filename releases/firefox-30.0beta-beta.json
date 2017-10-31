@@ -137,6 +137,42 @@
       "tag": "Fixed"
     },
     {
+      "bug": 1008793,
+      "created": "2013-11-25T00:24:44+00:00",
+      "fixed_in_release": {
+        "channel": "Aurora",
+        "is_public": true,
+        "product": "Firefox",
+        "slug": "firefox-32.0a2-aurora",
+        "title": "Firefox 32.0a2 Aurora",
+        "version": "32.0a2"
+      },
+      "id": 95,
+      "is_public": true,
+      "modified": "2014-07-21T03:56:45+00:00",
+      "note": "Mac OS X: cmd-L no longer opens a new window when no window is available ([1008793][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1008793",
+      "sort_num": 0,
+      "tag": "Known"
+    },
+    {
+      "bug": null,
+      "created": "2014-03-04T09:53:28+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": true,
+        "product": "Firefox",
+        "slug": "firefox-31.0-release",
+        "title": "Firefox 31.0 Release",
+        "version": "31.0"
+      },
+      "id": 785442,
+      "is_public": true,
+      "modified": "2014-07-21T04:19:48+00:00",
+      "note": "Text Rendering Issues on Windows 7 with Platform Update KB2670838 (MSIE 10 Prerequisite) or on Windows 8.1 has a <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=812695#c414\">workaround</a> (see <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=812695\">812695</a>)",
+      "sort_num": 0,
+      "tag": "Known"
+    },
+    {
       "bug": 995801,
       "created": "2014-04-25T10:25:37+00:00",
       "fixed_in_release": {
@@ -165,48 +201,12 @@
       "tag": "Known"
     },
     {
-      "bug": 1008793,
-      "created": "2013-11-25T00:24:44+00:00",
-      "fixed_in_release": {
-        "channel": "Aurora",
-        "is_public": true,
-        "product": "Firefox",
-        "slug": "firefox-32.0a2-aurora",
-        "title": "Firefox 32.0a2 Aurora",
-        "version": "32.0a2"
-      },
-      "id": 95,
-      "is_public": true,
-      "modified": "2014-07-21T03:56:45+00:00",
-      "note": "Mac OS X: cmd-L no longer opens a new window when no window is available ([1008793][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1008793",
-      "sort_num": 0,
-      "tag": "Known"
-    },
-    {
       "bug": 1005487,
       "created": "2014-06-05T17:20:25+00:00",
       "id": 785601,
       "is_public": true,
       "modified": "2014-07-21T03:57:04+00:00",
       "note": "Exit is not always completed when \"clear history when Firefox closes\" is enabled ([1005487][1])\r\n\r\n\r\n  [1]: http://bugzilla.mozilla.org/1005487",
-      "sort_num": 0,
-      "tag": "Known"
-    },
-    {
-      "bug": null,
-      "created": "2014-03-04T09:53:28+00:00",
-      "fixed_in_release": {
-        "channel": "Release",
-        "is_public": true,
-        "product": "Firefox",
-        "slug": "firefox-31.0-release",
-        "title": "Firefox 31.0 Release",
-        "version": "31.0"
-      },
-      "id": 785442,
-      "is_public": true,
-      "modified": "2014-07-21T04:19:48+00:00",
-      "note": "Text Rendering Issues on Windows 7 with Platform Update KB2670838 (MSIE 10 Prerequisite) or on Windows 8.1 has a <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=812695#c414\">workaround</a> (see <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=812695\">812695</a>)",
       "sort_num": 0,
       "tag": "Known"
     }

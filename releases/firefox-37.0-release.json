@@ -37,16 +37,6 @@
       "tag": "New"
     },
     {
-      "bug": 1113790,
-      "created": "2015-02-19T19:55:09+00:00",
-      "id": 785936,
-      "is_public": true,
-      "modified": "2015-04-03T04:11:46+00:00",
-      "note": "[Opportunistically encrypt HTTP traffic][1] where the server supports HTTP/2 AltSvc\r\n\r\n[1]: https://bitsup.blogspot.com/2015/03/opportunistic-encryption-for-firefox.html ",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
       "bug": 1118061,
       "created": "2015-01-16T15:26:25+00:00",
       "id": 785903,
@@ -67,6 +57,16 @@
       "tag": "New"
     },
     {
+      "bug": 1113790,
+      "created": "2015-02-19T19:55:09+00:00",
+      "id": 785936,
+      "is_public": true,
+      "modified": "2015-04-03T04:11:46+00:00",
+      "note": "[Opportunistically encrypt HTTP traffic][1] where the server supports HTTP/2 AltSvc\r\n\r\n[1]: https://bitsup.blogspot.com/2015/03/opportunistic-encryption-for-firefox.html ",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1084025,
       "created": "2015-02-19T15:53:30+00:00",
       "id": 785933,
@@ -74,6 +74,16 @@
       "modified": "2015-04-03T04:11:50+00:00",
       "note": "Disabled insecure TLS version fallback for site security",
       "sort_num": 100,
+      "tag": "Changed"
+    },
+    {
+      "bug": 1073867,
+      "created": "2015-01-16T18:45:55+00:00",
+      "id": 785908,
+      "is_public": true,
+      "modified": "2015-04-03T04:11:53+00:00",
+      "note": "Improved certificate and TLS communication security by removing support for DSA",
+      "sort_num": 0,
       "tag": "Changed"
     },
     {
@@ -107,16 +117,6 @@
       "tag": "Changed"
     },
     {
-      "bug": 1073867,
-      "created": "2015-01-16T18:45:55+00:00",
-      "id": 785908,
-      "is_public": true,
-      "modified": "2015-04-03T04:11:53+00:00",
-      "note": "Improved certificate and TLS communication security by removing support for DSA",
-      "sort_num": 0,
-      "tag": "Changed"
-    },
-    {
       "bug": 778617,
       "created": "2015-01-14T19:18:33+00:00",
       "id": 785891,
@@ -124,16 +124,6 @@
       "modified": "2015-04-03T04:02:06+00:00",
       "note": "Implemented a subset of the Media Source Extensions (MSE) API to allow native HTML5 playback on YouTube (Windows Vista or later only)",
       "sort_num": 100,
-      "tag": "HTML5"
-    },
-    {
-      "bug": 1091242,
-      "created": "2015-03-27T21:37:05+00:00",
-      "id": 785986,
-      "is_public": true,
-      "modified": "2015-04-03T04:12:02+00:00",
-      "note": "New SDP/JSEP implementation in WebRTC",
-      "sort_num": 0,
       "tag": "HTML5"
     },
     {
@@ -153,6 +143,16 @@
       "is_public": true,
       "modified": "2015-04-03T04:12:04+00:00",
       "note": "IndexedDB now accessible from worker threads",
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 1091242,
+      "created": "2015-03-27T21:37:05+00:00",
+      "id": 785986,
+      "is_public": true,
+      "modified": "2015-04-03T04:12:02+00:00",
+      "note": "New SDP/JSEP implementation in WebRTC",
       "sort_num": 0,
       "tag": "HTML5"
     },

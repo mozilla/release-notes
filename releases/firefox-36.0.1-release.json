@@ -7,36 +7,6 @@
   "modified": "2015-03-06T21:28:50+00:00",
   "notes": [
     {
-      "bug": 1137050,
-      "created": "2015-03-05T18:21:39+00:00",
-      "id": 785960,
-      "is_public": true,
-      "modified": "2015-03-21T03:15:59+00:00",
-      "note": "36.0.1 - Fixed a startup crash with EMET ([1137050][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1137050",
-      "sort_num": 10000,
-      "tag": "Fixed"
-    },
-    {
-      "bug": 1080319,
-      "created": "2015-03-05T18:45:51+00:00",
-      "id": 785963,
-      "is_public": true,
-      "modified": "2015-03-21T03:15:59+00:00",
-      "note": "36.0.1 - Option -remote has been restored ([1080319][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1080319",
-      "sort_num": 10000,
-      "tag": "Fixed"
-    },
-    {
-      "bug": 1136616,
-      "created": "2015-03-05T18:25:44+00:00",
-      "id": 785962,
-      "is_public": true,
-      "modified": "2015-03-21T03:15:59+00:00",
-      "note": "36.0.1 - Accept hostnames that include an underscore character (\"_\") ([1136616][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1136616",
-      "sort_num": 10000,
-      "tag": "Fixed"
-    },
-    {
       "bug": 1137469,
       "created": "2015-03-05T17:33:40+00:00",
       "id": 785955,
@@ -57,16 +27,6 @@
       "tag": "Fixed"
     },
     {
-      "bug": 1137251,
-      "created": "2015-03-05T18:23:43+00:00",
-      "id": 785961,
-      "is_public": true,
-      "modified": "2015-03-21T03:15:59+00:00",
-      "note": "36.0.1 - WebGL may use significant memory with Canvas2d ([1137251][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1137251",
-      "sort_num": 10000,
-      "tag": "Fixed"
-    },
-    {
       "bug": 1137141,
       "created": "2015-03-05T18:11:34+00:00",
       "id": 785958,
@@ -83,6 +43,46 @@
       "is_public": true,
       "modified": "2015-03-21T03:15:59+00:00",
       "note": "36.0.1 - Disable the usage of the ANY DNS query type ([1093983][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1093983",
+      "sort_num": 10000,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1137050,
+      "created": "2015-03-05T18:21:39+00:00",
+      "id": 785960,
+      "is_public": true,
+      "modified": "2015-03-21T03:15:59+00:00",
+      "note": "36.0.1 - Fixed a startup crash with EMET ([1137050][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1137050",
+      "sort_num": 10000,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1137251,
+      "created": "2015-03-05T18:23:43+00:00",
+      "id": 785961,
+      "is_public": true,
+      "modified": "2015-03-21T03:15:59+00:00",
+      "note": "36.0.1 - WebGL may use significant memory with Canvas2d ([1137251][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1137251",
+      "sort_num": 10000,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1136616,
+      "created": "2015-03-05T18:25:44+00:00",
+      "id": 785962,
+      "is_public": true,
+      "modified": "2015-03-21T03:15:59+00:00",
+      "note": "36.0.1 - Accept hostnames that include an underscore character (\"_\") ([1136616][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1136616",
+      "sort_num": 10000,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1080319,
+      "created": "2015-03-05T18:45:51+00:00",
+      "id": 785963,
+      "is_public": true,
+      "modified": "2015-03-21T03:15:59+00:00",
+      "note": "36.0.1 - Option -remote has been restored ([1080319][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1080319",
       "sort_num": 10000,
       "tag": "Fixed"
     },
@@ -167,16 +167,6 @@
       "tag": "Changed"
     },
     {
-      "bug": 611388,
-      "created": "2015-01-08T12:18:18+00:00",
-      "id": 785869,
-      "is_public": true,
-      "modified": "2015-03-26T15:55:32+00:00",
-      "note": "Changed JavaScript ['const' semantics][1] to conform better to the ES6 specification.<br />The const declaration is now block-scoped and requires an initializer. It also can not be redeclared anymore.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/const",
-      "sort_num": 0,
-      "tag": "HTML5"
-    },
-    {
       "bug": 645416,
       "created": "2014-07-17T07:38:48+00:00",
       "id": 785650,
@@ -247,14 +237,14 @@
       "tag": "HTML5"
     },
     {
-      "bug": 1095521,
-      "created": "2015-01-08T12:20:22+00:00",
-      "id": 785870,
+      "bug": 611388,
+      "created": "2015-01-08T12:18:18+00:00",
+      "id": 785869,
       "is_public": true,
-      "modified": "2015-03-21T03:15:59+00:00",
-      "note": "Inspector: More [paste options][1] in markup view\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector/How_to/Examine_and_edit_HTML#Element_popup_menu",
+      "modified": "2015-03-26T15:55:32+00:00",
+      "note": "Changed JavaScript ['const' semantics][1] to conform better to the ES6 specification.<br />The const declaration is now block-scoped and requires an initializer. It also can not be redeclared anymore.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/const",
       "sort_num": 0,
-      "tag": "Developer"
+      "tag": "HTML5"
     },
     {
       "bug": 583083,
@@ -277,30 +267,22 @@
       "tag": "Developer"
     },
     {
+      "bug": 1095521,
+      "created": "2015-01-08T12:20:22+00:00",
+      "id": 785870,
+      "is_public": true,
+      "modified": "2015-03-21T03:15:59+00:00",
+      "note": "Inspector: More [paste options][1] in markup view\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector/How_to/Examine_and_edit_HTML#Element_popup_menu",
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
       "bug": null,
       "created": "2013-11-25T00:24:50+00:00",
       "id": 161,
       "is_public": true,
       "modified": "2015-03-26T15:55:42+00:00",
       "note": "Various <a href=\"https://www.mozilla.org/security/known-vulnerabilities/firefox.html\">security fixes</a>",
-      "sort_num": 0,
-      "tag": "Fixed"
-    },
-    {
-      "bug": 950399,
-      "created": "2015-01-19T14:04:07+00:00",
-      "fixed_in_release": {
-        "channel": "Beta",
-        "is_public": true,
-        "product": "Firefox",
-        "slug": "firefox-36.0beta-beta",
-        "title": "Firefox 36.0beta Beta",
-        "version": "36.0beta"
-      },
-      "id": 785912,
-      "is_public": true,
-      "modified": "2015-03-26T15:55:46+00:00",
-      "note": " Fix some unexpected logout from Facebook or Google after restart",
       "sort_num": 0,
       "tag": "Fixed"
     },
@@ -319,6 +301,24 @@
       "is_public": true,
       "modified": "2015-03-26T15:55:48+00:00",
       "note": "[CSS gradients][1] work on premultiplied colors\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/gradient",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 950399,
+      "created": "2015-01-19T14:04:07+00:00",
+      "fixed_in_release": {
+        "channel": "Beta",
+        "is_public": true,
+        "product": "Firefox",
+        "slug": "firefox-36.0beta-beta",
+        "title": "Firefox 36.0beta Beta",
+        "version": "36.0beta"
+      },
+      "id": 785912,
+      "is_public": true,
+      "modified": "2015-03-26T15:55:46+00:00",
+      "note": " Fix some unexpected logout from Facebook or Google after restart",
       "sort_num": 0,
       "tag": "Fixed"
     },

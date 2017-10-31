@@ -17,22 +17,22 @@
       "tag": "New"
     },
     {
-      "bug": 1217170,
-      "created": "2015-12-14T23:54:47+00:00",
-      "id": 786385,
-      "is_public": true,
-      "modified": "2016-01-21T20:51:49.831889+00:00",
-      "note": "Enable WebM/VP9 video support on systems that don't support MP4/H.264",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
       "bug": 1213499,
       "created": "2015-12-14T21:25:34+00:00",
       "id": 786380,
       "is_public": true,
       "modified": "2016-01-21T20:51:49.831889+00:00",
       "note": "Enable H.264 if system decoder is available",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1217170,
+      "created": "2015-12-14T23:54:47+00:00",
+      "id": 786385,
+      "is_public": true,
+      "modified": "2016-01-21T20:51:49.831889+00:00",
+      "note": "Enable WebM/VP9 video support on systems that don't support MP4/H.264",
       "sort_num": 0,
       "tag": "New"
     },
@@ -57,6 +57,16 @@
       "tag": "Changed"
     },
     {
+      "bug": 1223466,
+      "created": "2015-12-14T21:28:52+00:00",
+      "id": 786381,
+      "is_public": true,
+      "modified": "2016-01-21T21:05:46.432447+00:00",
+      "note": "Firefox will no longer trust the Equifax Secure Certificate Authority 1024-bit root certificate or the UTN - DATACorp SGC to validate secure [website certificates][1]\r\n\r\n\r\n  [1]: https://support.mozilla.org/ta/kb/secure-website-certificate",
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
       "bug": 1205843,
       "created": "2015-12-18T17:59:58.789204+00:00",
       "id": 786400,
@@ -67,14 +77,14 @@
       "tag": "Changed"
     },
     {
-      "bug": 1223466,
-      "created": "2015-12-14T21:28:52+00:00",
-      "id": 786381,
+      "bug": 1025778,
+      "created": "2015-11-02T09:28:26+00:00",
+      "id": 786345,
       "is_public": true,
-      "modified": "2016-01-21T21:05:46.432447+00:00",
-      "note": "Firefox will no longer trust the Equifax Secure Certificate Authority 1024-bit root certificate or the UTN - DATACorp SGC to validate secure [website certificates][1]\r\n\r\n\r\n  [1]: https://support.mozilla.org/ta/kb/secure-website-certificate",
+      "modified": "2016-01-21T20:51:49.831889+00:00",
+      "note": "Right click on a logged object in the console to store it as a global variable on the page",
       "sort_num": 0,
-      "tag": "Changed"
+      "tag": "Developer"
     },
     {
       "bug": 1194146,
@@ -117,32 +127,22 @@
       "tag": "Developer"
     },
     {
-      "bug": 852931,
-      "created": "2015-12-14T20:59:01+00:00",
-      "id": 786376,
-      "is_public": true,
-      "modified": "2016-01-21T20:51:49.831889+00:00",
-      "note": "Jump to [function definitions in the debugger][1] with Cmd-Click\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Keyboard_shortcuts#Debugger",
-      "sort_num": 0,
-      "tag": "Developer"
-    },
-    {
-      "bug": 984880,
-      "created": "2015-12-14T22:48:27+00:00",
-      "id": 786383,
-      "is_public": true,
-      "modified": "2016-01-21T20:51:49.831889+00:00",
-      "note": "The rule view now displays styles using their authored text,\r\nand edits in the rule view are now linked to the style editor",
-      "sort_num": 0,
-      "tag": "Developer"
-    },
-    {
       "bug": 1132203,
       "created": "2015-11-03T10:30:11+00:00",
       "id": 786354,
       "is_public": true,
       "modified": "2016-01-21T20:51:49.831889+00:00",
       "note": "Built-in JSON reader to intuitively view, search, copy and save data without extensions",
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
+      "bug": 852931,
+      "created": "2015-12-14T20:59:01+00:00",
+      "id": 786376,
+      "is_public": true,
+      "modified": "2016-01-21T20:51:49.831889+00:00",
+      "note": "Jump to [function definitions in the debugger][1] with Cmd-Click\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Keyboard_shortcuts#Debugger",
       "sort_num": 0,
       "tag": "Developer"
     },
@@ -157,12 +157,12 @@
       "tag": "Developer"
     },
     {
-      "bug": 1025778,
-      "created": "2015-11-02T09:28:26+00:00",
-      "id": 786345,
+      "bug": 984880,
+      "created": "2015-12-14T22:48:27+00:00",
+      "id": 786383,
       "is_public": true,
       "modified": "2016-01-21T20:51:49.831889+00:00",
-      "note": "Right click on a logged object in the console to store it as a global variable on the page",
+      "note": "The rule view now displays styles using their authored text,\r\nand edits in the rule view are now linked to the style editor",
       "sort_num": 0,
       "tag": "Developer"
     },

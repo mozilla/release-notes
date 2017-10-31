@@ -77,32 +77,12 @@
       "tag": "Changed"
     },
     {
-      "bug": 1274196,
-      "created": "2017-01-27T22:01:59.408915+00:00",
-      "id": 786959,
+      "bug": 1258839,
+      "created": "2016-12-16T18:59:30.592405+00:00",
+      "id": 786900,
       "is_public": true,
-      "modified": "2017-06-05T20:25:08.467993+00:00",
-      "note": "Ended Firefox Linux support for processors older than Pentium 4 and AMD Opteron",
-      "sort_num": 0,
-      "tag": "Changed"
-    },
-    {
-      "bug": 1271765,
-      "created": "2017-01-27T22:01:19.677311+00:00",
-      "id": 786958,
-      "is_public": true,
-      "modified": "2017-06-05T20:24:58.617112+00:00",
-      "note": "New visual design for audio and video controls",
-      "sort_num": 0,
-      "tag": "Changed"
-    },
-    {
-      "bug": 1309935,
-      "created": "2017-01-27T22:02:34.480064+00:00",
-      "id": 786960,
-      "is_public": true,
-      "modified": "2017-03-06T21:01:14.222668+00:00",
-      "note": "Select menus offer an inline search when the menus are over 40 items",
+      "modified": "2017-03-07T18:46:50.182932+00:00",
+      "note": "[Process separation][1] (e10s) now supported on Windows 10 touch screen devices and systems with accessibility tools installed\r\n\r\n\r\n  [1]: https://blog.mozilla.org/futurereleases/2016/08/02/whats-next-for-multi-process-firefox/",
       "sort_num": 0,
       "tag": "Changed"
     },
@@ -127,12 +107,32 @@
       "tag": "Changed"
     },
     {
-      "bug": 1258839,
-      "created": "2016-12-16T18:59:30.592405+00:00",
-      "id": 786900,
+      "bug": 1271765,
+      "created": "2017-01-27T22:01:19.677311+00:00",
+      "id": 786958,
       "is_public": true,
-      "modified": "2017-03-07T18:46:50.182932+00:00",
-      "note": "[Process separation][1] (e10s) now supported on Windows 10 touch screen devices and systems with accessibility tools installed\r\n\r\n\r\n  [1]: https://blog.mozilla.org/futurereleases/2016/08/02/whats-next-for-multi-process-firefox/",
+      "modified": "2017-06-05T20:24:58.617112+00:00",
+      "note": "New visual design for audio and video controls",
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
+      "bug": 1274196,
+      "created": "2017-01-27T22:01:59.408915+00:00",
+      "id": 786959,
+      "is_public": true,
+      "modified": "2017-06-05T20:25:08.467993+00:00",
+      "note": "Ended Firefox Linux support for processors older than Pentium 4 and AMD Opteron",
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
+      "bug": 1309935,
+      "created": "2017-01-27T22:02:34.480064+00:00",
+      "id": 786960,
+      "is_public": true,
+      "modified": "2017-03-06T21:01:14.222668+00:00",
+      "note": "Select menus offer an inline search when the menus are over 40 items",
       "sort_num": 0,
       "tag": "Changed"
     },

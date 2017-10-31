@@ -77,6 +77,16 @@
       "tag": "Changed"
     },
     {
+      "bug": 504553,
+      "created": "2014-10-17T12:27:04+00:00",
+      "id": 785761,
+      "is_public": true,
+      "modified": "2015-05-14T23:51:43+00:00",
+      "note": "WebSocket now available in Web Workers",
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
       "bug": 966439,
       "created": "2015-02-20T00:16:54+00:00",
       "id": 785938,
@@ -113,16 +123,6 @@
       "is_public": true,
       "modified": "2015-05-14T13:12:23+00:00",
       "note": "Mac OS X: Implemented a subset of the Media Source Extensions (MSE) API to allow native HTML5 playback on YouTube",
-      "sort_num": 0,
-      "tag": "HTML5"
-    },
-    {
-      "bug": 504553,
-      "created": "2014-10-17T12:27:04+00:00",
-      "id": 785761,
-      "is_public": true,
-      "modified": "2015-05-14T23:51:43+00:00",
-      "note": "WebSocket now available in Web Workers",
       "sort_num": 0,
       "tag": "HTML5"
     },

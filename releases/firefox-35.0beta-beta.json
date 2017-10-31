@@ -37,6 +37,26 @@
       "tag": "New"
     },
     {
+      "bug": 1001090,
+      "created": "2014-10-03T02:55:26+00:00",
+      "id": 785733,
+      "is_public": true,
+      "modified": "2015-02-05T22:57:54+00:00",
+      "note": "Changed JavaScript ['let' semantics][1] to conform better to the ES6 specification\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let#Temporal_dead_zone_and_errors_with_let",
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 1002855,
+      "created": "2014-10-03T05:44:28+00:00",
+      "id": 785743,
+      "is_public": true,
+      "modified": "2015-02-05T22:57:54+00:00",
+      "note": "Resource Timing API implemented",
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
       "bug": 1057180,
       "created": "2014-10-09T04:24:27+00:00",
       "id": 785750,
@@ -57,32 +77,12 @@
       "tag": "HTML5"
     },
     {
-      "bug": 1001090,
-      "created": "2014-10-03T02:55:26+00:00",
-      "id": 785733,
-      "is_public": true,
-      "modified": "2015-02-05T22:57:54+00:00",
-      "note": "Changed JavaScript ['let' semantics][1] to conform better to the ES6 specification\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let#Temporal_dead_zone_and_errors_with_let",
-      "sort_num": 0,
-      "tag": "HTML5"
-    },
-    {
       "bug": 1088437,
       "created": "2015-01-08T23:44:07+00:00",
       "id": 785873,
       "is_public": true,
       "modified": "2015-02-05T22:57:54+00:00",
       "note": "Added support for the CSS Font Loading API",
-      "sort_num": 0,
-      "tag": "HTML5"
-    },
-    {
-      "bug": 1002855,
-      "created": "2014-10-03T05:44:28+00:00",
-      "id": 785743,
-      "is_public": true,
-      "modified": "2015-02-05T22:57:54+00:00",
-      "note": "Resource Timing API implemented",
       "sort_num": 0,
       "tag": "HTML5"
     },

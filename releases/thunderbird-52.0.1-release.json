@@ -25,12 +25,12 @@
       "tag": "Fixed"
     },
     {
-      "bug": 1158578,
-      "created": "2017-04-26T19:41:50.762090+00:00",
-      "id": 787061,
+      "bug": 1353625,
+      "created": "2017-04-11T19:13:13.903735+00:00",
+      "id": 787030,
       "is_public": true,
-      "modified": "2017-05-09T21:53:55.416433+00:00",
-      "note": "Crash when compacting IMAP folder",
+      "modified": "2017-06-12T19:19:15.553421+00:00",
+      "note": "Large number of blank pages being printed under certain circumstances. **To fix this problem,** remove all printer specific preferences in the configuration editor.",
       "sort_num": 0,
       "tag": "Known"
     },
@@ -45,6 +45,16 @@
       "tag": "Known"
     },
     {
+      "bug": 1281610,
+      "created": "2017-04-11T19:15:44.518791+00:00",
+      "id": 787032,
+      "is_public": true,
+      "modified": "2017-07-14T20:12:38.844733+00:00",
+      "note": "Crash due to incompatibility with McAfee Anti-SPAM add-on. **Workaround:** Start in safe mode and disable McAfee Anti-Spam Extension",
+      "sort_num": 0,
+      "tag": "Known"
+    },
+    {
       "bug": 1356600,
       "created": "2017-04-14T22:41:25.441434+00:00",
       "id": 787045,
@@ -55,22 +65,12 @@
       "tag": "Known"
     },
     {
-      "bug": 1353625,
-      "created": "2017-04-11T19:13:13.903735+00:00",
-      "id": 787030,
+      "bug": 1158578,
+      "created": "2017-04-26T19:41:50.762090+00:00",
+      "id": 787061,
       "is_public": true,
-      "modified": "2017-06-12T19:19:15.553421+00:00",
-      "note": "Large number of blank pages being printed under certain circumstances. **To fix this problem,** remove all printer specific preferences in the configuration editor.",
-      "sort_num": 0,
-      "tag": "Known"
-    },
-    {
-      "bug": 1281610,
-      "created": "2017-04-11T19:15:44.518791+00:00",
-      "id": 787032,
-      "is_public": true,
-      "modified": "2017-07-14T20:12:38.844733+00:00",
-      "note": "Crash due to incompatibility with McAfee Anti-SPAM add-on. **Workaround:** Start in safe mode and disable McAfee Anti-Spam Extension",
+      "modified": "2017-05-09T21:53:55.416433+00:00",
+      "note": "Crash when compacting IMAP folder",
       "sort_num": 0,
       "tag": "Known"
     }
