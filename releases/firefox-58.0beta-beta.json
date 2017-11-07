@@ -4,7 +4,7 @@
   "channel": "Beta",
   "created": "2017-11-06T17:12:29.755260+00:00",
   "is_public": false,
-  "modified": "2017-11-06T17:14:42.944087+00:00",
+  "modified": "2017-11-07T08:33:04.621744+00:00",
   "notes": [
     {
       "bug": 1374399,
@@ -15,6 +15,36 @@
       "note": "WebVR has been enabled for Mac OS X users",
       "sort_num": 0,
       "tag": "New"
+    },
+    {
+      "bug": 1411935,
+      "created": "2017-11-07T08:28:52.161143+00:00",
+      "id": 787308,
+      "is_public": true,
+      "modified": "2017-11-07T08:28:52.160970+00:00",
+      "note": "Add Nepali (ne-NP) locale",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1390757,
+      "created": "2017-11-07T08:30:54.313809+00:00",
+      "id": 787310,
+      "is_public": true,
+      "modified": "2017-11-07T08:30:54.313618+00:00",
+      "note": "Support form autofill for credit card",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1399879,
+      "created": "2017-11-07T08:30:22.573786+00:00",
+      "id": 787309,
+      "is_public": true,
+      "modified": "2017-11-07T08:30:22.573600+00:00",
+      "note": "Downgrading profile to previous versions is not supported. In case of downgrade, it is suggested to use a new profile",
+      "sort_num": 0,
+      "tag": "Changed"
     }
   ],
   "product": "Firefox",

@@ -5,7 +5,28 @@
   "created": "2017-11-06T17:12:59.108410+00:00",
   "is_public": false,
   "modified": "2017-11-06T17:17:24.415482+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": 1411117,
+      "created": "2017-11-07T08:40:45.917666+00:00",
+      "id": 787312,
+      "is_public": true,
+      "modified": "2017-11-07T08:41:05.118727+00:00",
+      "note": "Added Bangladesh (bn-BD) and Nepali (ne-NP) locales",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1221344,
+      "created": "2017-11-07T08:40:15.667154+00:00",
+      "id": 787311,
+      "is_public": true,
+      "modified": "2017-11-07T08:40:15.666837+00:00",
+      "note": "Removed Homescreen widget and Search Activity",
+      "sort_num": 0,
+      "tag": "Changed"
+    }
+  ],
   "product": "Firefox for Android",
   "release_date": "2017-11-15",
   "slug": "firefox-for-android-58.0beta-beta",
