@@ -4,7 +4,7 @@
   "channel": "Beta",
   "created": "2017-11-06T17:12:59.108410+00:00",
   "is_public": false,
-  "modified": "2017-11-06T17:17:24.415482+00:00",
+  "modified": "2017-11-07T08:52:03.079409+00:00",
   "notes": [
     {
       "bug": 1411117,
@@ -17,12 +17,52 @@
       "tag": "New"
     },
     {
+      "bug": 1377976,
+      "created": "2017-11-07T08:41:36.673693+00:00",
+      "id": 787313,
+      "is_public": true,
+      "modified": "2017-11-07T08:47:52.906183+00:00",
+      "note": "Updated the Safe Browsing protocol to version 4",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1212648,
+      "created": "2017-11-07T08:49:51.622196+00:00",
+      "id": 787315,
+      "is_public": true,
+      "modified": "2017-11-07T08:49:51.622015+00:00",
+      "note": "Added support for progressive web apps",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1295886,
+      "created": "2017-11-07T08:50:46.843211+00:00",
+      "id": 787316,
+      "is_public": true,
+      "modified": "2017-11-07T08:51:50.833366+00:00",
+      "note": "Added support for FLAC (Free Lossless Audio Codec) playback",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1221344,
       "created": "2017-11-07T08:40:15.667154+00:00",
       "id": 787311,
       "is_public": true,
       "modified": "2017-11-07T08:40:15.666837+00:00",
       "note": "Removed Homescreen widget and Search Activity",
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
+      "bug": 1329127,
+      "created": "2017-11-07T08:42:11.353403+00:00",
+      "id": 787314,
+      "is_public": true,
+      "modified": "2017-11-07T08:42:11.353184+00:00",
+      "note": "Improved bookmark management",
       "sort_num": 0,
       "tag": "Changed"
     }
