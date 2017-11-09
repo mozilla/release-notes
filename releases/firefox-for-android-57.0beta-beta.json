@@ -7,13 +7,23 @@
   "modified": "2017-09-26T12:30:18.807491+00:00",
   "notes": [
     {
+      "bug": 1377247,
+      "created": "2017-09-26T08:24:26.089295+00:00",
+      "id": 787274,
+      "is_public": true,
+      "modified": "2017-11-09T15:16:55.200453+00:00",
+      "note": "Updated interface, including a revamped new tab page that includes top visited sites, and recommendations from Pocket (in the US and Canada)",
+      "sort_num": 800,
+      "tag": "New"
+    },
+    {
       "bug": 1266683,
       "created": "2017-09-26T08:21:50.475853+00:00",
       "id": 787270,
       "is_public": true,
-      "modified": "2017-11-09T14:18:20.998770+00:00",
+      "modified": "2017-11-09T15:19:47.252023+00:00",
       "note": "Automatically enable private mode on compatible keyboards during private browsing",
-      "sort_num": 0,
+      "sort_num": 400,
       "tag": "New"
     },
     {
@@ -21,9 +31,9 @@
       "created": "2017-09-26T08:22:25.201954+00:00",
       "id": 787271,
       "is_public": true,
-      "modified": "2017-11-09T14:18:20.998770+00:00",
+      "modified": "2017-11-09T15:21:35.937272+00:00",
       "note": "Long URLs in the URL bar are now scrollable",
-      "sort_num": 0,
+      "sort_num": 100,
       "tag": "New"
     },
     {
@@ -33,16 +43,6 @@
       "is_public": true,
       "modified": "2017-11-09T14:18:20.998770+00:00",
       "note": "Added Wolof (wo) locale",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
-      "bug": 1377247,
-      "created": "2017-09-26T08:24:26.089295+00:00",
-      "id": 787274,
-      "is_public": true,
-      "modified": "2017-11-09T14:18:20.998770+00:00",
-      "note": "A revamped new tab page with stories recommended by Pocket (US/Canada/Germany)",
       "sort_num": 0,
       "tag": "New"
     },

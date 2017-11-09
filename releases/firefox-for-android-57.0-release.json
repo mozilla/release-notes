@@ -7,13 +7,53 @@
   "modified": "2017-11-09T14:25:17.973072+00:00",
   "notes": [
     {
+      "bug": null,
+      "created": "2017-11-09T15:16:01.572674+00:00",
+      "id": 787325,
+      "is_public": true,
+      "modified": "2017-11-09T15:16:18.114544+00:00",
+      "note": "Performance improvements for faster page loading and stability",
+      "sort_num": 1000,
+      "tag": "New"
+    },
+    {
+      "bug": 1377247,
+      "created": "2017-09-26T08:24:26.089295+00:00",
+      "id": 787274,
+      "is_public": true,
+      "modified": "2017-11-09T15:16:55.200453+00:00",
+      "note": "Updated interface, including a revamped new tab page that includes top visited sites, and recommendations from Pocket (in the US and Canada)",
+      "sort_num": 800,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2017-11-09T15:17:37.923977+00:00",
+      "id": 787326,
+      "is_public": true,
+      "modified": "2017-11-09T15:20:32.530253+00:00",
+      "note": "Video decoding is shut down when the tab playing the media is sent to the background. Video resumes when the tab is brought to the foreground. Audio will not be affected.",
+      "sort_num": 600,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2017-11-09T15:20:55.758094+00:00",
+      "id": 787328,
+      "is_public": true,
+      "modified": "2017-11-09T15:21:10.931502+00:00",
+      "note": "Added an option to enable tracking protection outside of private browsing ",
+      "sort_num": 500,
+      "tag": "New"
+    },
+    {
       "bug": 1266683,
       "created": "2017-09-26T08:21:50.475853+00:00",
       "id": 787270,
       "is_public": true,
-      "modified": "2017-11-09T14:18:20.998770+00:00",
+      "modified": "2017-11-09T15:19:47.252023+00:00",
       "note": "Automatically enable private mode on compatible keyboards during private browsing",
-      "sort_num": 0,
+      "sort_num": 400,
       "tag": "New"
     },
     {
@@ -21,9 +61,9 @@
       "created": "2017-09-26T08:22:25.201954+00:00",
       "id": 787271,
       "is_public": true,
-      "modified": "2017-11-09T14:18:20.998770+00:00",
+      "modified": "2017-11-09T15:21:35.937272+00:00",
       "note": "Long URLs in the URL bar are now scrollable",
-      "sort_num": 0,
+      "sort_num": 100,
       "tag": "New"
     },
     {
@@ -37,14 +77,14 @@
       "tag": "New"
     },
     {
-      "bug": 1377247,
-      "created": "2017-09-26T08:24:26.089295+00:00",
-      "id": 787274,
+      "bug": null,
+      "created": "2017-11-09T15:19:02.862919+00:00",
+      "id": 787327,
       "is_public": true,
-      "modified": "2017-11-09T14:18:20.998770+00:00",
-      "note": "A revamped new tab page with stories recommended by Pocket (US/Canada/Germany)",
+      "modified": "2017-11-09T15:20:24.269683+00:00",
+      "note": "Firefox for Android now supports only extensions built using the WebExtension API, and will deactivate unsupported legacy extensions. [Learn more about our efforts to improve the performance and security of extensions][0]\r\n\r\n[0]: https://support.mozilla.org/kb/firefox-add-technology-modernizing",
       "sort_num": 0,
-      "tag": "New"
+      "tag": "Changed"
     },
     {
       "bug": 1208655,
