@@ -1,10 +1,10 @@
 {
   "bug_list": "",
   "bug_search_url": "",
-  "channel": "Beta",
-  "created": "2017-09-26T08:17:23.316870+00:00",
-  "is_public": true,
-  "modified": "2017-09-26T12:30:18.807491+00:00",
+  "channel": "Release",
+  "created": "2017-11-09T14:18:20.983602+00:00",
+  "is_public": false,
+  "modified": "2017-11-09T14:25:17.973072+00:00",
   "notes": [
     {
       "bug": 1266683,
@@ -58,10 +58,10 @@
     }
   ],
   "product": "Firefox for Android",
-  "release_date": "2017-09-26",
-  "slug": "firefox-for-android-57.0beta-beta",
+  "release_date": "2017-11-14",
+  "slug": "firefox-for-android-57.0-release",
   "system_requirements": "## Operating systems\r\n - Android 4.1\r\n - Above versions\r\n\r\n## Requirements\r\n - 50 MB internal storage\r\n - 384 MB of RAM\r\n - display at least 320 pixels high and 240 pixels wide\r\n",
-  "text": "",
-  "title": "Firefox for Android 57.0beta Beta",
-  "version": "57.0beta"
+  "text": "Brace yourself for an all-new Firefox. We\u2019ve rebuilt the browser from the ground up, with a  next-generation engine that [clocks in at speeds 2X faster than Firefox 52][0], paired with a clean, modern interface that looks as fast as it feels. Today is the first of several releases we\u2019re calling Firefox Quantum, all designed to get to the things you love and the stuff you need faster than ever before. Experience the difference on desktops running Windows, Mac, and Linux; on Android, speed improvements are landing as well, and both Android and iOS reflect a new [design system][1] that reflects the desktop look and feel. To learn more about Firefox Quantum, visit the Mozilla Blog. \r\n\r\nWe'd like to extend a special thank you to all of the [new Mozillians][2] who contributed to this release of Firefox!\r\n\r\n[0]: https://mozilla.github.io/arewefastyet-speedometer/2.0/\r\n[1]: http://design.firefox.com/photon/welcome.html\r\n[2]: https://blog.mozilla.org/community/2017/11/09/firefox-57-new-contributors/",
+  "title": "Firefox for Android 57.0 Release",
+  "version": "57.0"
 }
