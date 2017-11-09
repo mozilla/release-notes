@@ -21,7 +21,7 @@
       "created": "2017-09-26T08:04:50.108567+00:00",
       "id": 787267,
       "is_public": true,
-      "modified": "2017-11-09T14:18:21.024466+00:00",
+      "modified": "2017-11-09T15:08:08.215890+00:00",
       "note": "Accessibility indicator will now appear in the title bar of the window when Accessibility services are enabled",
       "sort_num": 0,
       "tag": "New"
@@ -31,7 +31,7 @@
       "created": "2017-09-26T08:12:53.432376+00:00",
       "id": 787269,
       "is_public": true,
-      "modified": "2017-11-09T14:18:21.024466+00:00",
+      "modified": "2017-11-09T15:07:58.840430+00:00",
       "note": "Added support for [Date/Time input][1]\r\n\r\n\r\n  [1]: https://blog.nightly.mozilla.org/2017/06/12/datetime-inputs-enabled-on-nightly/",
       "sort_num": 0,
       "tag": "New"
@@ -41,10 +41,30 @@
       "created": "2017-09-26T09:22:44.202857+00:00",
       "id": 787275,
       "is_public": true,
-      "modified": "2017-11-09T14:18:21.024466+00:00",
+      "modified": "2017-11-09T15:07:57.026377+00:00",
       "note": "Allow users to manage the site data",
       "sort_num": 0,
       "tag": "New"
+    },
+    {
+      "bug": 1385463,
+      "created": "2017-09-26T08:04:12.289891+00:00",
+      "id": 787266,
+      "is_public": true,
+      "modified": "2017-11-09T15:09:51.155918+00:00",
+      "note": "The browser's autoscroll feature now uses asynchronous scrolling, similar to other input methods like mousewheel, providing a smoother scrolling experience",
+      "sort_num": 800,
+      "tag": "Changed"
+    },
+    {
+      "bug": 1402351,
+      "created": "2017-09-26T08:05:50.640987+00:00",
+      "id": 787268,
+      "is_public": true,
+      "modified": "2017-11-09T15:10:02.662674+00:00",
+      "note": "The content process now has a stricter security sandbox that blocks filesystem reading and writing on Linux systems",
+      "sort_num": 500,
+      "tag": "Changed"
     },
     {
       "bug": 366945,
@@ -53,26 +73,6 @@
       "is_public": true,
       "modified": "2017-11-09T14:41:01.981132+00:00",
       "note": "Middle mouse paste in the content area no longer navigates to URLs by default on Unix systems ",
-      "sort_num": 0,
-      "tag": "Changed"
-    },
-    {
-      "bug": 1385463,
-      "created": "2017-09-26T08:04:12.289891+00:00",
-      "id": 787266,
-      "is_public": true,
-      "modified": "2017-11-09T14:44:14.234625+00:00",
-      "note": "The browser's autoscroll feature now uses asynchronous scrolling, similar to other input methods like mousewheel, providing a smoother scrolling experience",
-      "sort_num": 0,
-      "tag": "Changed"
-    },
-    {
-      "bug": 1402351,
-      "created": "2017-09-26T08:05:50.640987+00:00",
-      "id": 787268,
-      "is_public": true,
-      "modified": "2017-11-09T14:39:58.982427+00:00",
-      "note": "The content process now has a stricter security sandbox that blocks filesystem reading and writing on Linux systems",
       "sort_num": 0,
       "tag": "Changed"
     },
