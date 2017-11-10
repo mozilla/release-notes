@@ -95,6 +95,16 @@
       "note": "Removed the Share button. If you relied on this feature, you can install the [Share Backported][1] extension instead.\r\n\r\n  [1]: https://addons.mozilla.org/firefox/addon/share-backported/",
       "sort_num": 0,
       "tag": "Developer"
+    },
+    {
+      "bug": 1404050,
+      "created": "2017-11-10T08:22:16.727767+00:00",
+      "id": 787331,
+      "is_public": true,
+      "modified": "2017-11-10T08:22:16.727575+00:00",
+      "note": "On Windows and Linux, Firefox crashes occasionally on Intel Broadwell-U processors with old microcode. Windows users should ensure Windows Update is set to install updates. Linux users should ensure that the distribution package for Intel microcode is installed.",
+      "sort_num": 0,
+      "tag": "Known"
     }
   ],
   "product": "Firefox",
