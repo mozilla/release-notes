@@ -19,8 +19,8 @@
       },
       "id": 787335,
       "is_public": true,
-      "modified": "2017-11-10T15:11:05.182923+00:00",
-      "note": "Allow changing the Spellcheck Language' from status bar display",
+      "modified": "2017-11-10T15:19:10.174241+00:00",
+      "note": "Allow changing the Spellcheck Language from status bar display",
       "sort_num": 20,
       "tag": "New"
     },
@@ -41,6 +41,78 @@
       "note": "\"New Message from Template\" command",
       "sort_num": 10,
       "tag": "New"
+    },
+    {
+      "bug": 731688,
+      "created": "2017-11-10T15:15:48.024631+00:00",
+      "fixed_in_release": {
+        "channel": "Beta",
+        "is_public": false,
+        "product": "Thunderbird",
+        "slug": "thunderbird-57.0beta-beta",
+        "title": "Thunderbird 57.0beta Beta",
+        "version": "57.0beta"
+      },
+      "id": 787336,
+      "is_public": true,
+      "modified": "2017-11-10T15:20:01.454685+00:00",
+      "note": "\"Edit As New Message\" will now use the account's default compose format, either HTML or plain text ignoring the format of the message. Plain text messages will be converted to HTML and vice versa. Then using the modifier, the format choice will be reverted.",
+      "sort_num": 70,
+      "tag": "Changed"
+    },
+    {
+      "bug": 1392052,
+      "created": "2017-11-10T15:18:24.569279+00:00",
+      "fixed_in_release": {
+        "channel": "Beta",
+        "is_public": false,
+        "product": "Thunderbird",
+        "slug": "thunderbird-57.0beta-beta",
+        "title": "Thunderbird 57.0beta Beta",
+        "version": "57.0beta"
+      },
+      "id": 787337,
+      "is_public": true,
+      "modified": "2017-11-10T15:18:24.568987+00:00",
+      "note": "The plain text to HTML conversion has been improved where such a conversion is necessary for \"Edit As New Message\" or when the shift modifier is used for \"Edit Draft\" or \"New Message from Template\".",
+      "sort_num": 60,
+      "tag": "Changed"
+    },
+    {
+      "bug": 1389771,
+      "created": "2017-11-10T15:23:22.174785+00:00",
+      "fixed_in_release": {
+        "channel": "Beta",
+        "is_public": false,
+        "product": "Thunderbird",
+        "slug": "thunderbird-57.0beta-beta",
+        "title": "Thunderbird 57.0beta Beta",
+        "version": "57.0beta"
+      },
+      "id": 787338,
+      "is_public": true,
+      "modified": "2017-11-10T15:23:22.174603+00:00",
+      "note": "The \"Edit Draft\" command now also honors the use of the shift key to convert HTML to plain text or vice versa when editing a draft",
+      "sort_num": 50,
+      "tag": "Changed"
+    },
+    {
+      "bug": 209629,
+      "created": "2017-11-10T15:26:06.811903+00:00",
+      "fixed_in_release": {
+        "channel": "Beta",
+        "is_public": false,
+        "product": "Thunderbird",
+        "slug": "thunderbird-57.0beta-beta",
+        "title": "Thunderbird 57.0beta Beta",
+        "version": "57.0beta"
+      },
+      "id": 787339,
+      "is_public": true,
+      "modified": "2017-11-10T15:26:06.811719+00:00",
+      "note": "When attaching a message via drag and drop, the subject of the message is now used as attachment name instead of \"Attached Message\"",
+      "sort_num": 0,
+      "tag": "Changed"
     },
     {
       "bug": 394216,
