@@ -97,31 +97,31 @@
       "tag": "Developer"
     },
     {
-      "bug": null,
+      "bug": 1389730,
       "created": "2017-11-10T15:52:37.920079+00:00",
       "id": 787348,
       "is_public": true,
-      "modified": "2017-11-10T16:05:02.054913+00:00",
+      "modified": "2017-11-10T16:18:23.845919+00:00",
       "note": "[Complete visual refresh][1] of both the Light and Dark DevTools themes, matching the new visual style of Firefox Quantum\r\n\r\n\r\n  [1]: https://hacks.mozilla.org/2017/09/developer-edition-devtools-update-now-with-photon-ui/",
       "sort_num": 0,
       "tag": "Developer"
     },
     {
-      "bug": null,
+      "bug": 1145527,
       "created": "2017-11-10T15:53:39.722873+00:00",
       "id": 787349,
       "is_public": true,
-      "modified": "2017-11-10T15:53:39.722700+00:00",
+      "modified": "2017-11-10T16:18:29.085751+00:00",
       "note": "The Inspector shows the values of CSS variables on hover",
       "sort_num": 0,
       "tag": "Developer"
     },
     {
-      "bug": null,
+      "bug": 1397425,
       "created": "2017-11-10T15:54:26.082741+00:00",
       "id": 787350,
       "is_public": true,
-      "modified": "2017-11-10T15:54:26.082548+00:00",
+      "modified": "2017-11-10T16:18:34.716282+00:00",
       "note": "Completely new and re-designed Console panel. Joining the [Debugger][1] and the [Network Monitor][2], the Console has been rewritten using modern web technologies such as React and Redux. It now also allows to inspect objects in context.\r\n\r\n\r\n  [1]: https://hacks.mozilla.org/2016/09/introducing-debugger-html/\r\n  [2]: https://hacks.mozilla.org/2017/06/network-monitor-reloaded/",
       "sort_num": 0,
       "tag": "Developer"
