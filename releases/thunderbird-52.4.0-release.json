@@ -19,7 +19,7 @@
       },
       "id": 787287,
       "is_public": true,
-      "modified": "2017-10-17T21:51:20.898868+00:00",
+      "modified": "2017-11-10T15:02:35.256294+00:00",
       "note": "In Thunderbird 52 a new behavior was introduced for replies to mailing list posts: \"When replying to a mailing list, reply will be sent to address in From header ignoring Reply-to header\". A new preference mail.override_list_reply_to allows to restore the previous behavior.",
       "sort_num": 0,
       "tag": "New"
@@ -37,7 +37,7 @@
       },
       "id": 787286,
       "is_public": true,
-      "modified": "2017-10-17T21:51:10.536276+00:00",
+      "modified": "2017-11-10T15:02:36.578708+00:00",
       "note": "Under certain circumstances (image attachment and non-image attachment), attached images were shown truncated in messages stored in IMAP folders not synchronised for offline use.",
       "sort_num": 5,
       "tag": "Fixed"
@@ -55,7 +55,7 @@
       },
       "id": 787239,
       "is_public": true,
-      "modified": "2017-10-06T20:57:25.981776+00:00",
+      "modified": "2017-11-10T15:02:37.905763+00:00",
       "note": "IMAP UIDs > 0x7FFFFFFF not handled properly",
       "sort_num": 1,
       "tag": "Fixed"

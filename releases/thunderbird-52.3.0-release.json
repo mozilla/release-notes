@@ -19,7 +19,7 @@
       },
       "id": 787208,
       "is_public": true,
-      "modified": "2017-10-06T13:18:08.972700+00:00",
+      "modified": "2017-11-10T15:02:51.505343+00:00",
       "note": "Unwanted inline images shown in rogue SPAM messages",
       "sort_num": 0,
       "tag": "Fixed"
@@ -37,7 +37,7 @@
       },
       "id": 787211,
       "is_public": true,
-      "modified": "2017-10-06T13:18:09.843632+00:00",
+      "modified": "2017-11-10T15:02:48.386239+00:00",
       "note": "Deleting message from the POP3 server not working when maildir storage was used",
       "sort_num": 0,
       "tag": "Fixed"
@@ -55,7 +55,7 @@
       },
       "id": 787212,
       "is_public": true,
-      "modified": "2017-10-06T13:18:10.844692+00:00",
+      "modified": "2017-11-10T15:02:47.067189+00:00",
       "note": "Message disposition flag (replied / forwarded) lost when reply or forwarded message was stored as draft and draft was sent later",
       "sort_num": 0,
       "tag": "Fixed"
@@ -73,7 +73,7 @@
       },
       "id": 787214,
       "is_public": true,
-      "modified": "2017-10-06T13:18:11.818791+00:00",
+      "modified": "2017-11-10T15:02:45.010697+00:00",
       "note": "Inline images not scaled to fit when printing",
       "sort_num": 0,
       "tag": "Fixed"
@@ -91,7 +91,7 @@
       },
       "id": 787217,
       "is_public": true,
-      "modified": "2017-10-06T13:18:12.596315+00:00",
+      "modified": "2017-11-10T15:02:42.363121+00:00",
       "note": "Selected text from another message sometimes included in a reply",
       "sort_num": 0,
       "tag": "Fixed"
@@ -109,7 +109,7 @@
       },
       "id": 787218,
       "is_public": true,
-      "modified": "2017-10-06T13:18:13.419491+00:00",
+      "modified": "2017-11-10T15:02:41.066579+00:00",
       "note": "No authorisation prompt displayed when inserting image into email body although image URL requires authentication",
       "sort_num": 0,
       "tag": "Fixed"
@@ -127,7 +127,7 @@
       },
       "id": 787226,
       "is_public": true,
-      "modified": "2017-10-06T13:18:14.665201+00:00",
+      "modified": "2017-11-10T15:02:38.835311+00:00",
       "note": "Large attachments taking a long time to open under some circumstances",
       "sort_num": 0,
       "tag": "Fixed"

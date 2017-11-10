@@ -19,7 +19,7 @@
       },
       "id": 787207,
       "is_public": true,
-      "modified": "2017-08-07T20:40:27.607341+00:00",
+      "modified": "2017-11-10T15:02:52.791225+00:00",
       "note": "An option under \"Tools > Options, Advanced, General\" now allows to select whether date/time display will follow the application locale (adjusted by operating system's format settings for that locale) or the locale selected in the operating system's regional settings. In other words, an US English Thunderbird can use, for example, German formats.",
       "sort_num": 0,
       "tag": "New"
@@ -37,7 +37,7 @@
       },
       "id": 787287,
       "is_public": true,
-      "modified": "2017-10-17T21:51:20.898868+00:00",
+      "modified": "2017-11-10T15:02:35.256294+00:00",
       "note": "In Thunderbird 52 a new behavior was introduced for replies to mailing list posts: \"When replying to a mailing list, reply will be sent to address in From header ignoring Reply-to header\". A new preference mail.override_list_reply_to allows to restore the previous behavior.",
       "sort_num": 0,
       "tag": "New"
@@ -55,7 +55,7 @@
       },
       "id": 787210,
       "is_public": true,
-      "modified": "2017-08-07T20:49:58.971570+00:00",
+      "modified": "2017-11-10T15:02:49.546899+00:00",
       "note": "IMAP: When after sending a message storing that sent message fails, the message can now be stored in a local folder",
       "sort_num": 0,
       "tag": "Changed"
@@ -73,7 +73,7 @@
       },
       "id": 787213,
       "is_public": true,
-      "modified": "2017-08-07T20:59:31.609901+00:00",
+      "modified": "2017-11-10T15:02:46.216672+00:00",
       "note": "When messages are composed in paragraph format, \"body text\" and split mail quotes are converted to paragraphs when pressing the enter key",
       "sort_num": 0,
       "tag": "Changed"
@@ -91,7 +91,7 @@
       },
       "id": 787215,
       "is_public": true,
-      "modified": "2017-08-07T21:04:01.448104+00:00",
+      "modified": "2017-11-10T15:02:44.164538+00:00",
       "note": "Thunderbird now uses the latest Mozilla technology based on Rust for encoding messages",
       "sort_num": 0,
       "tag": "Changed"
@@ -109,7 +109,7 @@
       },
       "id": 787216,
       "is_public": true,
-      "modified": "2017-08-07T21:13:31.513698+00:00",
+      "modified": "2017-11-10T15:02:43.164845+00:00",
       "note": "Various improvements in the Thunderbird themes on all platforms, especially for Windows 10.",
       "sort_num": 0,
       "tag": "Changed"
@@ -127,7 +127,7 @@
       },
       "id": 787286,
       "is_public": true,
-      "modified": "2017-10-17T21:51:10.536276+00:00",
+      "modified": "2017-11-10T15:02:36.578708+00:00",
       "note": "Under certain circumstances (image attachment and non-image attachment), attached images were shown truncated in messages stored in IMAP folders not synchronised for offline use.",
       "sort_num": 5,
       "tag": "Fixed"
@@ -145,7 +145,7 @@
       },
       "id": 787239,
       "is_public": true,
-      "modified": "2017-10-06T20:57:25.981776+00:00",
+      "modified": "2017-11-10T15:02:37.905763+00:00",
       "note": "IMAP UIDs > 0x7FFFFFFF not handled properly",
       "sort_num": 1,
       "tag": "Fixed"
@@ -163,7 +163,7 @@
       },
       "id": 787208,
       "is_public": true,
-      "modified": "2017-10-06T13:18:08.972700+00:00",
+      "modified": "2017-11-10T15:02:51.505343+00:00",
       "note": "Unwanted inline images shown in rogue SPAM messages",
       "sort_num": 0,
       "tag": "Fixed"
@@ -181,7 +181,7 @@
       },
       "id": 787209,
       "is_public": true,
-      "modified": "2017-08-07T20:45:06.941762+00:00",
+      "modified": "2017-11-10T15:02:50.646640+00:00",
       "note": "Contacts sidebar: Selection and context menu behavior",
       "sort_num": 0,
       "tag": "Fixed"
@@ -199,7 +199,7 @@
       },
       "id": 787211,
       "is_public": true,
-      "modified": "2017-10-06T13:18:09.843632+00:00",
+      "modified": "2017-11-10T15:02:48.386239+00:00",
       "note": "Deleting message from the POP3 server not working when maildir storage was used",
       "sort_num": 0,
       "tag": "Fixed"
@@ -217,7 +217,7 @@
       },
       "id": 787212,
       "is_public": true,
-      "modified": "2017-10-06T13:18:10.844692+00:00",
+      "modified": "2017-11-10T15:02:47.067189+00:00",
       "note": "Message disposition flag (replied / forwarded) lost when reply or forwarded message was stored as draft and draft was sent later",
       "sort_num": 0,
       "tag": "Fixed"
@@ -235,7 +235,7 @@
       },
       "id": 787214,
       "is_public": true,
-      "modified": "2017-10-06T13:18:11.818791+00:00",
+      "modified": "2017-11-10T15:02:45.010697+00:00",
       "note": "Inline images not scaled to fit when printing",
       "sort_num": 0,
       "tag": "Fixed"
@@ -253,7 +253,7 @@
       },
       "id": 787217,
       "is_public": true,
-      "modified": "2017-10-06T13:18:12.596315+00:00",
+      "modified": "2017-11-10T15:02:42.363121+00:00",
       "note": "Selected text from another message sometimes included in a reply",
       "sort_num": 0,
       "tag": "Fixed"
@@ -271,7 +271,7 @@
       },
       "id": 787218,
       "is_public": true,
-      "modified": "2017-10-06T13:18:13.419491+00:00",
+      "modified": "2017-11-10T15:02:41.066579+00:00",
       "note": "No authorisation prompt displayed when inserting image into email body although image URL requires authentication",
       "sort_num": 0,
       "tag": "Fixed"
@@ -289,7 +289,7 @@
       },
       "id": 787219,
       "is_public": true,
-      "modified": "2017-08-07T21:10:03.231096+00:00",
+      "modified": "2017-11-10T15:02:39.711846+00:00",
       "note": "Blank lines removed from plain text replies under some circumstances",
       "sort_num": 0,
       "tag": "Fixed"
@@ -307,7 +307,7 @@
       },
       "id": 787226,
       "is_public": true,
-      "modified": "2017-10-06T13:18:14.665201+00:00",
+      "modified": "2017-11-10T15:02:38.835311+00:00",
       "note": "Large attachments taking a long time to open under some circumstances",
       "sort_num": 0,
       "tag": "Fixed"
@@ -325,7 +325,7 @@
       },
       "id": 787295,
       "is_public": true,
-      "modified": "2017-10-17T21:53:07.951586+00:00",
+      "modified": "2017-11-10T15:02:34.124546+00:00",
       "note": "In search folders spanning multiple base folders clicking on a message sometimes marked another message as read",
       "sort_num": 0,
       "tag": "Fixed"
@@ -343,7 +343,7 @@
       },
       "id": 787296,
       "is_public": true,
-      "modified": "2017-10-17T21:53:41.021627+00:00",
+      "modified": "2017-11-10T15:02:32.900018+00:00",
       "note": "IMAP alerts have been corrected and now show the correct server name in case of connection problems",
       "sort_num": 0,
       "tag": "Fixed"
@@ -361,7 +361,7 @@
       },
       "id": 787297,
       "is_public": true,
-      "modified": "2017-10-17T21:54:20.301785+00:00",
+      "modified": "2017-11-10T15:02:31.525271+00:00",
       "note": "POP alerts have been corrected and now indicate connection problems in case the configured POP server cannot be found",
       "sort_num": 0,
       "tag": "Fixed"
