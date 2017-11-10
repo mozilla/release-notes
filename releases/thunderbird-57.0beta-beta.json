@@ -109,9 +109,63 @@
       },
       "id": 787339,
       "is_public": true,
-      "modified": "2017-11-10T15:26:06.811719+00:00",
+      "modified": "2017-11-10T15:30:15.186963+00:00",
       "note": "When attaching a message via drag and drop, the subject of the message is now used as attachment name instead of \"Attached Message\"",
-      "sort_num": 0,
+      "sort_num": 40,
+      "tag": "Changed"
+    },
+    {
+      "bug": 1349259,
+      "created": "2017-11-10T15:27:42.070520+00:00",
+      "fixed_in_release": {
+        "channel": "Beta",
+        "is_public": false,
+        "product": "Thunderbird",
+        "slug": "thunderbird-57.0beta-beta",
+        "title": "Thunderbird 57.0beta Beta",
+        "version": "57.0beta"
+      },
+      "id": 787340,
+      "is_public": true,
+      "modified": "2017-11-10T15:27:42.070343+00:00",
+      "note": "On first start, Thunderbird now shows the account setup dialog, no longer the account provisioner dialogue",
+      "sort_num": 30,
+      "tag": "Changed"
+    },
+    {
+      "bug": 1387877,
+      "created": "2017-11-10T15:29:46.465558+00:00",
+      "fixed_in_release": {
+        "channel": "Beta",
+        "is_public": false,
+        "product": "Thunderbird",
+        "slug": "thunderbird-57.0beta-beta",
+        "title": "Thunderbird 57.0beta Beta",
+        "version": "57.0beta"
+      },
+      "id": 787341,
+      "is_public": true,
+      "modified": "2017-11-10T15:36:19.336689+00:00",
+      "note": "Thunderbird follows Firefox' Photon design with rectangular tabs and many other theme improvements",
+      "sort_num": 20,
+      "tag": "Changed"
+    },
+    {
+      "bug": 1352859,
+      "created": "2017-11-10T15:34:24.194744+00:00",
+      "fixed_in_release": {
+        "channel": "Beta",
+        "is_public": false,
+        "product": "Thunderbird",
+        "slug": "thunderbird-57.0beta-beta",
+        "title": "Thunderbird 57.0beta Beta",
+        "version": "57.0beta"
+      },
+      "id": 787346,
+      "is_public": true,
+      "modified": "2017-11-10T15:34:24.194553+00:00",
+      "note": "In Thunderbird 54 beta a better support for Charter users was introduced. As a side effect, messages moved to a different IMAP folder were immediately removed from the source folder, even when the delete model \"Just mark it as deleted\" was in effect. This has now been restored to its pre-version 54 state, so moved IMAP messages are only crossed out in the source folder when this delete model is used.",
+      "sort_num": 10,
       "tag": "Changed"
     },
     {
