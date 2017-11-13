@@ -21,8 +21,8 @@
       "created": "2017-11-10T15:32:24.964421+00:00",
       "id": 787343,
       "is_public": true,
-      "modified": "2017-11-10T15:32:24.964208+00:00",
-      "note": "New tab experience",
+      "modified": "2017-11-13T07:41:27.815999+00:00",
+      "note": "A new tab experience that includes top visited sites, recently visited pages, and recommendations from Pocket . \u201cHighlights\u201d appear when opening a new tab to allow you to easily jump back to a previously viewed site. Trending Pocket stories are available on new tab (in the US, Canada and Germany). You can change the look of new tab page in the \"Settings\".\r\n",
       "sort_num": 0,
       "tag": "New"
     },
@@ -31,8 +31,38 @@
       "created": "2017-11-10T15:32:41.364472+00:00",
       "id": 787344,
       "is_public": true,
-      "modified": "2017-11-10T15:32:41.364287+00:00",
-      "note": "Search suggestions enabled by default",
+      "modified": "2017-11-13T07:41:50.428425+00:00",
+      "note": "Search suggestions are enabled by default, unless you have previously opted out.  \r\n",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2017-11-13T07:42:13.997659+00:00",
+      "id": 787351,
+      "is_public": true,
+      "modified": "2017-11-13T07:42:13.997462+00:00",
+      "note": "\u201cNo Image\u201d mode to allow you to automatically block images from loading.  This may come handy in areas with slow connectivity or low bandwidth.\r\n",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2017-11-13T07:42:34.153023+00:00",
+      "id": 787352,
+      "is_public": true,
+      "modified": "2017-11-13T07:42:34.152837+00:00",
+      "note": "New option to open copied links from clipboard.\r\n",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2017-11-13T07:43:00.045020+00:00",
+      "id": 787353,
+      "is_public": true,
+      "modified": "2017-11-13T07:43:00.044735+00:00",
+      "note": "Full compatibility and support for the latest Apple devices, including iPhone X\r\n",
       "sort_num": 0,
       "tag": "New"
     },
@@ -41,10 +71,60 @@
       "created": "2017-11-10T15:33:03.842156+00:00",
       "id": 787345,
       "is_public": true,
-      "modified": "2017-11-10T15:33:03.841981+00:00",
-      "note": "12 new locales have been added\r\n",
+      "modified": "2017-11-13T07:43:17.937800+00:00",
+      "note": "12 new locales have been added, including Afrikaans (af), Bosnian (bs), Spanish Argentina (es-AR), Galician (gl), Armenian (hy-AM), Interlingua (ia), Khmer (km), Kannada (kn), Malayalam (ml), Odia (or), Punjabi (pa-IN), Sinhala (si)\r\n",
       "sort_num": -100,
       "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2017-11-13T07:44:59.777727+00:00",
+      "id": 787357,
+      "is_public": true,
+      "modified": "2017-11-13T07:44:59.777541+00:00",
+      "note": "Improvements to Night Mode\r\n",
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
+      "bug": null,
+      "created": "2017-11-13T07:45:45.344964+00:00",
+      "id": 787358,
+      "is_public": true,
+      "modified": "2017-11-13T07:45:45.344558+00:00",
+      "note": "Faster storage back-end should result in a snappier overall experience\r\n",
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
+      "bug": null,
+      "created": "2017-11-13T07:43:47.152951+00:00",
+      "id": 787354,
+      "is_public": true,
+      "modified": "2017-11-13T07:44:21.388326+00:00",
+      "note": "Password filling with 1Password is back!\r\n",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2017-11-13T07:44:11.430431+00:00",
+      "id": 787355,
+      "is_public": true,
+      "modified": "2017-11-13T07:44:11.430229+00:00",
+      "note": "Fixed several issues with the context menu \r\n",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2017-11-13T07:44:39.795648+00:00",
+      "id": 787356,
+      "is_public": true,
+      "modified": "2017-11-13T07:44:39.795467+00:00",
+      "note": "Several issues with long-pressing on links and images\r\n",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox for iOS",
