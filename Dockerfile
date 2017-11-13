@@ -1,4 +1,9 @@
-FROM mozmeao/base:python-3.6
+FROM python:3.6-slim
+
+# Extra python env
+ENV PYTHONDONTWRITEBYTECODE=1
+ENV PYTHONUNBUFFERED=1
+ENV PIP_DISABLE_PIP_VERSION_CHECK=1
 
 WORKDIR /app
 CMD ["./update_releases.py"]
