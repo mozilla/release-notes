@@ -91,8 +91,8 @@
       "created": "2017-09-26T08:04:12.289891+00:00",
       "id": 787266,
       "is_public": true,
-      "modified": "2017-11-09T15:09:51.155918+00:00",
-      "note": "The browser's autoscroll feature now uses asynchronous scrolling, similar to other input methods like mousewheel, providing a smoother scrolling experience",
+      "modified": "2017-11-13T21:26:40.379194+00:00",
+      "note": "The browser's autoscroll feature now uses asynchronous scrolling, similar to other input methods like mousewheel, providing a smoother scrolling experience. These scrolling methods are now similar to other input methods like mousewheel, and provide a smoother scrolling experience.",
       "sort_num": 800,
       "tag": "Changed"
     },
@@ -101,8 +101,8 @@
       "created": "2017-09-26T08:05:50.640987+00:00",
       "id": 787268,
       "is_public": true,
-      "modified": "2017-11-09T15:10:02.662674+00:00",
-      "note": "The content process now has a stricter security sandbox that blocks filesystem reading and writing on Linux systems",
+      "modified": "2017-11-13T21:27:37.993046+00:00",
+      "note": "The content process now has a stricter security sandbox that [blocks filesystem reading and writing on Linux][1], similar to the protections for Windows and macOS that shipped in Firefox 56\r\n\r\n\r\n  [1]: http://www.morbo.org/2017/11/linux-sandboxing-improvements-in.html",
       "sort_num": 500,
       "tag": "Changed"
     },
