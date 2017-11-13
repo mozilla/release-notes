@@ -4,15 +4,15 @@
   "channel": "Release",
   "created": "2017-11-09T14:18:21.010355+00:00",
   "is_public": false,
-  "modified": "2017-11-09T14:25:31.848017+00:00",
+  "modified": "2017-11-13T21:21:45.224944+00:00",
   "notes": [
     {
       "bug": null,
       "created": "2017-11-09T14:28:26.658601+00:00",
       "id": 787317,
       "is_public": true,
-      "modified": "2017-11-09T14:44:34.521088+00:00",
-      "note": "A completely new [browsing engine][0], designed to take [full advantage of the processing power in modern devices][1]\r\n\r\n[0]: #\r\n[1]: https://medium.com/mozilla-tech/a-quantum-leap-for-the-web-a3b7174b3c12",
+      "modified": "2017-11-13T21:22:59.949819+00:00",
+      "note": "A completely new [browsing engine][0], designed to take [full advantage of the processing power][1] in modern devices\r\n\r\n[0]: #\r\n[1]: https://medium.com/mozilla-tech/a-quantum-leap-for-the-web-a3b7174b3c12",
       "sort_num": 2000,
       "tag": "New"
     },
@@ -31,8 +31,8 @@
       "created": "2017-11-09T14:49:05.039132+00:00",
       "id": 787320,
       "is_public": true,
-      "modified": "2017-11-09T14:49:05.038873+00:00",
-      "note": "An enhanced address bar that integrates navigation and search functionality, including suggested history, search suggestions, and one-click search",
+      "modified": "2017-11-13T21:24:48.618762+00:00",
+      "note": "A unified address and search bar. New installs will see this unified bar. [Learn how to add the stand-alone search bar to the toolbar][1]\r\n\r\n\r\n  [1]: https://support.mozilla.org/en-US/kb/my-search-bar-gone-how-add-it-back",
       "sort_num": 900,
       "tag": "New"
     },
@@ -81,8 +81,8 @@
       "created": "2017-11-09T14:46:58.552621+00:00",
       "id": 787319,
       "is_public": true,
-      "modified": "2017-11-09T15:09:35.524232+00:00",
-      "note": "Firefox now supports only extensions built using the WebExtension API, and will deactivate unsupported legacy extensions. [Learn more about our efforts to improve the performance and security of extensions][0]\r\n\r\n[0]: https://support.mozilla.org/kb/firefox-add-technology-modernizing",
+      "modified": "2017-11-13T21:25:59.229598+00:00",
+      "note": "Firefox now exclusively supports extensions built using the WebExtension API, and unsupported legacy extensions will no longer work. [Learn more about our efforts to improve the performance and security of extensions][0]\r\n\r\n[0]: https://support.mozilla.org/kb/firefox-add-technology-modernizing",
       "sort_num": 1000,
       "tag": "Changed"
     },
@@ -211,7 +211,7 @@
   "release_date": "2017-11-14",
   "slug": "firefox-57.0-release",
   "system_requirements": "## Windows\r\n\r\n### Operating Systems (32-bit and 64-bit)\r\n - Windows 7\r\n - Windows 8\r\n - Windows 10\r\n\r\n### Recommended Hardware\r\n-  Pentium 4 or newer processor that supports SSE2\r\n-  512MB of RAM / 2G of RAM for the 64-bit version\r\n-  200MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- macOS 10.9\r\n- macOS 10.10\r\n- macOS 10.11\r\n- macOS 10.12\r\n- macOS 10.13\r\n\r\n### Recommended Hardware\r\n- Macintosh computer with an Intel x86 processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - GTK+ 3.4 or higher\r\n    - GLib 2.22 or higher\r\n    - Pango 1.14 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n    - libstdc++ 4.6.1 or higher\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - NetworkManager 0.7 or higher\r\n    - DBus 1.0 or higher\r\n    - GNOME 2.16 or higher\r\n    - PulseAudio",
-  "text": "Brace yourself for an all-new Firefox. We\u2019ve rebuilt the browser from the ground up, with a  next-generation engine that [clocks in at speeds 2X faster than Firefox 52][0], paired with a clean, modern interface that looks as fast as it feels. Today is the first of several releases we\u2019re calling Firefox Quantum, all designed to get to the things you love and the stuff you need faster than ever before. Experience the difference on desktops running Windows, Mac, and Linux; on Android, speed improvements are landing as well, and both Android and iOS reflect a new [design system][1] that reflects the desktop look and feel. To learn more about Firefox Quantum, visit the Mozilla Blog. \r\n\r\nWe'd like to extend a special thank you to all of the [new Mozillians][2] who contributed to this release of Firefox!\r\n\r\n[0]: https://mozilla.github.io/arewefastyet-speedometer/2.0/\r\n[1]: http://design.firefox.com/photon/welcome.html\r\n[2]: https://blog.mozilla.org/community/2017/11/09/firefox-57-new-contributors/",
+  "text": "Brace yourself for an all-new Firefox. It\u2019s fast. Really fast. It\u2019s over twice as fast as Firefox from 6 months ago, built on a completely overhauled core engine with brand new technology from our advanced research group, and graced with a clean, modern interface. Today is the first of several releases we\u2019re calling Firefox Quantum, all designed to get to the things you love and the stuff you need faster than ever before. Experience the difference on desktops running Windows, macOS, and Linux; on Android, speed improvements are landing as well, and both Android and iOS have a new look and feel. To learn more about Firefox Quantum, visit the [Mozilla Blog][0]. \r\n\r\nMaking Firefox look, feel and perform faster was no small feat. Employees and volunteers from around the world worked in record time to create the best Firefox yet. We'd like to extend a special thank you to all of the [new Mozillians][1] who contributed to this release of Firefox!\r\n\r\n[0]: https://blog.mozilla.org/blog/2017/11/14/introducing-firefox-quantum\r\n[1]: https://blog.mozilla.org/community/2017/11/09/firefox-57-new-contributors/",
   "title": "Firefox 57.0 Release",
   "version": "57.0"
 }
