@@ -2,36 +2,15 @@
   "bug_list": "",
   "bug_search_url": "",
   "channel": "Nightly",
-  "created": "2017-09-22T08:37:59.206024+00:00",
+  "created": "2017-11-13T14:17:37.733887+00:00",
   "is_public": true,
-  "modified": "2017-09-22T08:40:04.216144+00:00",
-  "notes": [
-    {
-      "bug": 1374399,
-      "created": "2017-10-05T11:32:10.932228+00:00",
-      "id": 787284,
-      "is_public": true,
-      "modified": "2017-11-13T14:18:23.811267+00:00",
-      "note": "WebVR has been enabled for Mac OS X users",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
-      "bug": 1401909,
-      "created": "2017-10-05T11:36:50.128318+00:00",
-      "id": 787285,
-      "is_public": true,
-      "modified": "2017-11-13T14:18:25.157648+00:00",
-      "note": "Video decoding is disabled when not visible, providing both performance and limited battery usage",
-      "sort_num": 0,
-      "tag": "New"
-    }
-  ],
+  "modified": "2017-11-13T14:18:47.143751+00:00",
+  "notes": [],
   "product": "Firefox",
-  "release_date": "2017-09-22",
-  "slug": "firefox-58.0a1-nightly",
+  "release_date": "2017-11-13",
+  "slug": "firefox-59.0a1-nightly",
   "system_requirements": "## Windows\r\n\r\n### Operating Systems (32-bit and 64-bit)\r\n - Windows 7\r\n - Windows 8\r\n - Windows 10\r\n\r\n### Recommended Hardware\r\n-  Pentium 4 or newer processor that supports SSE2\r\n-  512MB of RAM / 2GB of RAM for the 64-bit version\r\n-  200MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- macOS 10.9\r\n- macOS 10.10\r\n- macOS 10.11\r\n- macOS 10.12\r\n- macOS 10.13\r\n\r\n### Recommended Hardware\r\n- Macintosh computer with an Intel x86 processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - GTK+ 3.4 or higher\r\n    - GLib 2.22 or higher\r\n    - Pango 1.14 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n    - libstdc++ 4.6.1 or higher\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - NetworkManager 0.7 or higher\r\n    - DBus 1.0 or higher\r\n    - GNOME 2.16 or higher\r\n    - PulseAudio\r\n\r\n  [1]: https://support.mozilla.org/kb/get-latest-version-firefox-windows-xp-vista",
   "text": "Firefox Nightly gets a new version every day and as a consequence, the release notes for the Nightly channel are updated continuously to reflect features that have reached sufficient maturity to benefit from community feedback and bug reports. Features listed here may or may not make a final release of Firefox.\r\n\r\nIn addition to these release notes, you can follow ongoing development on our [@FirefoxNightly][1] Twitter account as well as read our [Nightly Blog][2].\r\n\r\n[1]: https://twitter.com/FirefoxNightly\r\n[2]: https://blog.nightly.mozilla.org",
-  "title": "Firefox 58.0a1 Nightly",
-  "version": "58.0a1"
+  "title": "Firefox 59.0a1 Nightly",
+  "version": "59.0a1"
 }
