@@ -77,11 +77,11 @@
       "tag": "New"
     },
     {
-      "bug": null,
+      "bug": 1388946,
       "created": "2017-11-09T14:46:58.552621+00:00",
       "id": 787319,
       "is_public": true,
-      "modified": "2017-11-13T21:25:59.229598+00:00",
+      "modified": "2017-11-15T02:00:03.999528+00:00",
       "note": "Firefox now exclusively supports extensions built using the WebExtension API, and unsupported legacy extensions will no longer work. [Learn more about our efforts to improve the performance and security of extensions][0]\r\n\r\n[0]: https://support.mozilla.org/kb/firefox-add-technology-modernizing",
       "sort_num": 1000,
       "tag": "Changed"
