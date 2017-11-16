@@ -58,6 +58,16 @@
     },
     {
       "bug": null,
+      "created": "2017-11-09T15:17:37.923977+00:00",
+      "id": 787326,
+      "is_public": true,
+      "modified": "2017-11-16T22:57:25.528729+00:00",
+      "note": "Video decoding is shut down when the tab playing the media is sent to the background. Video resumes when the tab is brought to the foreground. Audio will not be affected.",
+      "sort_num": 600,
+      "tag": "New"
+    },
+    {
+      "bug": null,
       "created": "2017-11-10T07:54:45.787511+00:00",
       "id": 787330,
       "is_public": true,
