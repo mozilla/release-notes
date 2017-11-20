@@ -4,7 +4,7 @@
   "channel": "Beta",
   "created": "2017-11-10T15:00:55.211599+00:00",
   "is_public": true,
-  "modified": "2017-11-10T23:02:51.507613+00:00",
+  "modified": "2017-11-20T19:27:58.573583+00:00",
   "notes": [
     {
       "bug": 1399370,
@@ -203,13 +203,31 @@
       "note": "Passwords can now contain non-ASCII characters, like international characters, for example \u00e1\u00e4\u00df, and symbols, for example \u20ac\u00a7",
       "sort_num": 10,
       "tag": "Fixed"
+    },
+    {
+      "bug": 1417209,
+      "created": "2017-11-20T19:29:53.106394+00:00",
+      "fixed_in_release": {
+        "channel": "Beta",
+        "is_public": true,
+        "product": "Thunderbird",
+        "slug": "thunderbird-57.0beta-beta",
+        "title": "Thunderbird 57.0beta Beta",
+        "version": "57.0beta"
+      },
+      "id": 787360,
+      "is_public": true,
+      "modified": "2017-11-20T19:29:53.106166+00:00",
+      "note": "Certain add-ons would cause Thunderbird not to start",
+      "sort_num": 5,
+      "tag": "Fixed"
     }
   ],
   "product": "Thunderbird",
   "release_date": "2017-11-10",
   "slug": "thunderbird-57.0beta-beta",
   "system_requirements": "## Windows\r\n\r\n### Operating Systems\r\n - Windows 7\r\n - Windows 8\r\n - Windows 10\r\n - Windows Server 2008 R2\r\n\r\n*Please note that while the 32-bit and 64-bit versions of Windows can be used to run Thunderbird, only 32-bit builds of Thunderbird are supported at this time.*\r\n\r\n**Note that Thunderbird 56 only supports Windows 7, 8 and 10 and Windows Server 2008 R2.**\r\n  \r\n### Windows Recommended Hardware\r\n   - Pentium 4 or newer processor that supports SSE2\r\n   - 1GB RAM\r\n   - 200 MB hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n  \r\n### Operating Systems\r\n  \r\n- Mac OS X 10.9\r\n- Mac OS X 10.10\r\n- Mac OS X 10.11\r\n- Mac OS X 10.12\r\n  \r\n###  Recommended Hardware\r\n  \r\n -  Macintosh computer with an Intel x86 processor\r\n -  512 MB RAM\r\n -  200 MB hard drive space\r\n\r\n---\r\n  \r\n## GNU/Linux\r\n### Software Requirements\r\n  \r\n  *Please note that Linux distributors may provide packages for your distribution which have different requirements.*\r\n  \r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Thunderbird will not run at all without the following libraries or packages:\r\n    - GTK+ 3.4 or higher\r\n    - GLib 2.22 or higher\r\n    - Pango 1.14 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n    - libstdc++ 4.6.1 or higher\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - NetworkManager 0.7 or higher\r\n    - DBus 1.0 or higher\r\n    - GNOME 2.16 or higher\r\n    ",
-  "text": "**These release notes apply to Thunderbird version 57 beta 1 released November 10th, 2017.**",
+  "text": "**These release notes apply to Thunderbird version 57 beta 2 released November 20th, 2017.**",
   "title": "Thunderbird 57.0beta Beta",
   "version": "57.0beta"
 }
