@@ -1,10 +1,10 @@
 {
   "bug_list": "",
-  "bug_search_url": "https://bugzilla.mozilla.org/buglist.cgi?o1=equals&v1=54%2B&f1=cf_tracking_thunderbird_esr52&query_format=advanced&list_id=13634735",
+  "bug_search_url": "https://bugzilla.mozilla.org/buglist.cgi?o1=equals&v1=57%2B&f1=cf_tracking_thunderbird_esr52&query_format=advanced",
   "channel": "Release",
   "created": "2017-11-23T16:17:45.703244+00:00",
-  "is_public": false,
-  "modified": "2017-11-23T16:18:43.872248+00:00",
+  "is_public": true,
+  "modified": "2017-11-23T20:49:45.422947+00:00",
   "notes": [
     {
       "bug": 1231592,
@@ -83,7 +83,7 @@
       "created": "2017-11-23T16:18:40.882160+00:00",
       "fixed_in_release": {
         "channel": "Release",
-        "is_public": false,
+        "is_public": true,
         "product": "Thunderbird",
         "slug": "thunderbird-52.5.0-release",
         "title": "Thunderbird 52.5.0 Release",
