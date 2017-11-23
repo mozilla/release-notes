@@ -19,7 +19,7 @@
       },
       "id": 787063,
       "is_public": true,
-      "modified": "2017-07-14T20:12:35.526300+00:00",
+      "modified": "2017-11-23T16:25:56.948397+00:00",
       "note": "Better support for Charter/Spectrum IMAP: Thunderbird will now detect Charter's IMAP service and send an additional IMAP select command to the server. Check the various preferences ending in \"force_select\" to see whether auto-detection has discovered this case.",
       "sort_num": 0,
       "tag": "New"

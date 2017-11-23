@@ -37,7 +37,7 @@
       },
       "id": 787287,
       "is_public": true,
-      "modified": "2017-11-10T15:02:35.256294+00:00",
+      "modified": "2017-11-23T16:18:09.177236+00:00",
       "note": "In Thunderbird 52 a new behavior was introduced for replies to mailing list posts: \"When replying to a mailing list, reply will be sent to address in From header ignoring Reply-to header\". A new preference mail.override_list_reply_to allows to restore the previous behavior.",
       "sort_num": 0,
       "tag": "New"
@@ -127,7 +127,7 @@
       },
       "id": 787286,
       "is_public": true,
-      "modified": "2017-11-10T15:02:36.578708+00:00",
+      "modified": "2017-11-23T16:18:10.461911+00:00",
       "note": "Under certain circumstances (image attachment and non-image attachment), attached images were shown truncated in messages stored in IMAP folders not synchronised for offline use.",
       "sort_num": 5,
       "tag": "Fixed"
@@ -145,7 +145,7 @@
       },
       "id": 787239,
       "is_public": true,
-      "modified": "2017-11-10T15:02:37.905763+00:00",
+      "modified": "2017-11-23T16:18:12.709528+00:00",
       "note": "IMAP UIDs > 0x7FFFFFFF not handled properly",
       "sort_num": 1,
       "tag": "Fixed"
@@ -325,7 +325,7 @@
       },
       "id": 787295,
       "is_public": true,
-      "modified": "2017-11-10T15:02:34.124546+00:00",
+      "modified": "2017-11-23T16:21:47.632551+00:00",
       "note": "In search folders spanning multiple base folders clicking on a message sometimes marked another message as read",
       "sort_num": 0,
       "tag": "Fixed"
@@ -343,7 +343,7 @@
       },
       "id": 787296,
       "is_public": true,
-      "modified": "2017-11-10T15:02:32.900018+00:00",
+      "modified": "2017-11-23T16:21:18.307681+00:00",
       "note": "IMAP alerts have been corrected and now show the correct server name in case of connection problems",
       "sort_num": 0,
       "tag": "Fixed"
@@ -361,7 +361,7 @@
       },
       "id": 787297,
       "is_public": true,
-      "modified": "2017-11-10T15:02:31.525271+00:00",
+      "modified": "2017-11-23T16:21:07.392023+00:00",
       "note": "POP alerts have been corrected and now indicate connection problems in case the configured POP server cannot be found",
       "sort_num": 0,
       "tag": "Fixed"
