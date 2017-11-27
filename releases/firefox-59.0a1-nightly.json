@@ -5,7 +5,18 @@
   "created": "2017-11-13T14:17:37.733887+00:00",
   "is_public": true,
   "modified": "2017-11-13T14:18:47.143751+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": 1408044,
+      "created": "2017-11-27T10:40:30.564248+00:00",
+      "id": 787368,
+      "is_public": true,
+      "modified": "2017-11-27T10:40:30.563931+00:00",
+      "note": "The \"about:\" page was removed. Use the \"About Firefox\" dialog instead.",
+      "sort_num": 0,
+      "tag": "Changed"
+    }
+  ],
   "product": "Firefox",
   "release_date": "2017-11-13",
   "slug": "firefox-59.0a1-nightly",
