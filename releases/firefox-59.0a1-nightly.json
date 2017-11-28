@@ -15,6 +15,16 @@
       "note": "The \"about:\" page was removed. Use the \"About Firefox\" dialog instead.",
       "sort_num": 0,
       "tag": "Changed"
+    },
+    {
+      "bug": 1419148,
+      "created": "2017-11-28T19:24:21.022268+00:00",
+      "id": 787369,
+      "is_public": true,
+      "modified": "2017-11-28T19:24:21.022067+00:00",
+      "note": "The Screenshot tool allows copying an image to the clipboard",
+      "sort_num": 0,
+      "tag": "Feature"
     }
   ],
   "product": "Firefox",
