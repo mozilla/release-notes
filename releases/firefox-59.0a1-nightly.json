@@ -7,6 +7,16 @@
   "modified": "2017-11-13T14:18:47.143751+00:00",
   "notes": [
     {
+      "bug": 1419148,
+      "created": "2017-11-28T19:24:21.022268+00:00",
+      "id": 787369,
+      "is_public": true,
+      "modified": "2017-11-28T20:51:54.347757+00:00",
+      "note": "The Screenshot tool allows copying an image to the clipboard",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1408044,
       "created": "2017-11-27T10:40:30.564248+00:00",
       "id": 787368,
@@ -15,16 +25,6 @@
       "note": "The \"about:\" page was removed. Use the \"About Firefox\" dialog instead.",
       "sort_num": 0,
       "tag": "Changed"
-    },
-    {
-      "bug": 1419148,
-      "created": "2017-11-28T19:24:21.022268+00:00",
-      "id": 787369,
-      "is_public": true,
-      "modified": "2017-11-28T19:24:21.022067+00:00",
-      "note": "The Screenshot tool allows copying an image to the clipboard",
-      "sort_num": 0,
-      "tag": "Feature"
     }
   ],
   "product": "Firefox",
