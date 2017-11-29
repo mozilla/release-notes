@@ -15,6 +15,16 @@
       "note": "Reference link to [57.0 release notes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.com/en-US/firefox/57.0/releasenotes/",
       "sort_num": 0,
       "tag": ""
+    },
+    {
+      "bug": 1420427,
+      "created": "2017-11-29T17:59:06.111199+00:00",
+      "id": 787373,
+      "is_public": true,
+      "modified": "2017-11-29T17:59:06.110903+00:00",
+      "note": "Fix an issue with prefs.js when the profile path has non-ascii characters ([bug 1420427][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1420427",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
