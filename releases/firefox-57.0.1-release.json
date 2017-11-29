@@ -17,6 +17,16 @@
       "tag": ""
     },
     {
+      "bug": 1417442,
+      "created": "2017-11-29T17:55:34.117009+00:00",
+      "id": 787372,
+      "is_public": true,
+      "modified": "2017-11-29T18:55:40.092032+00:00",
+      "note": "Fix a video color distortion issue on YouTube and other video sites with some AMD devices (bug 1417442)",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
       "bug": 1420427,
       "created": "2017-11-29T17:59:06.111199+00:00",
       "id": 787373,
