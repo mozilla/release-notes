@@ -25,6 +25,16 @@
       "note": "The \"about:\" page was removed. Use the \"About Firefox\" dialog instead.",
       "sort_num": 0,
       "tag": "Changed"
+    },
+    {
+      "bug": 1352497,
+      "created": "2017-11-29T12:02:12.601409+00:00",
+      "id": 787371,
+      "is_public": true,
+      "modified": "2017-11-29T12:02:12.601217+00:00",
+      "note": "about:healthreport (Firefox Health Report) has been removed in favor of about:telemetry",
+      "sort_num": 0,
+      "tag": "Changed"
     }
   ],
   "product": "Firefox",
