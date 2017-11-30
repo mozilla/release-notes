@@ -65,6 +65,16 @@
       "note": "Google map crashes on OSX with Intel HD Graphics 3000",
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2017-11-30T19:23:34.090437+00:00",
+      "id": 787379,
+      "is_public": true,
+      "modified": "2017-11-30T19:23:34.090158+00:00",
+      "note": "Firefox [startup crash with G DATA security software][1]\r\n\r\n\r\n  [1]: https://support.mozilla.org/en-US/kb/firefox-startup-crash-g-data-security-software",
+      "sort_num": 0,
+      "tag": "Known"
     }
   ],
   "product": "Firefox",
