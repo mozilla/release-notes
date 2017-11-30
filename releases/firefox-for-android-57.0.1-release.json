@@ -3,8 +3,8 @@
   "bug_search_url": "",
   "channel": "Release",
   "created": "2017-11-29T01:46:22.646586+00:00",
-  "is_public": false,
-  "modified": "2017-11-29T01:46:22.646398+00:00",
+  "is_public": true,
+  "modified": "2017-11-30T00:08:47.753955+00:00",
   "notes": [
     {
       "bug": null,
@@ -28,7 +28,7 @@
     }
   ],
   "product": "Firefox for Android",
-  "release_date": "2017-11-30",
+  "release_date": "2017-11-29",
   "slug": "firefox-for-android-57.0.1-release",
   "system_requirements": "## Operating systems\r\n - Android 4.1\r\n - Above versions\r\n\r\n## Requirements\r\n - 50 MB internal storage\r\n - 384 MB of RAM\r\n - display at least 320 pixels high and 240 pixels wide\r\n",
   "text": "Brace yourself for an all-new Firefox. It\u2019s fast. Really fast. It\u2019s over twice as fast as Firefox from 6 months ago, built on a completely overhauled core engine with brand new technology from our advanced research group, and graced with a clean, modern interface. Today is the first of several releases we\u2019re calling Firefox Quantum, all designed to get to the things you love and the stuff you need faster than ever before. Experience the difference on desktops running Windows, macOS, and Linux; on Android, speed improvements are landing as well, and both Android and iOS have a new look and feel. To learn more about Firefox Quantum, visit the [Mozilla Blog][0]. \r\n\r\nMaking Firefox look, feel and perform faster was no small feat. Employees and volunteers from around the world worked in record time to create the best Firefox yet. We'd like to extend a special thank you to all of the [new Mozillians][1] who contributed to this release of Firefox!\r\n\r\n[0]: https://blog.mozilla.org/blog/2017/11/14/introducing-firefox-quantum\r\n[1]: https://blog.mozilla.org/community/2017/11/09/firefox-57-new-contributors/",
