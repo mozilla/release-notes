@@ -25,6 +25,16 @@
       "note": "Video decoding is disabled when not visible, providing both performance and limited battery usage",
       "sort_num": 0,
       "tag": "New"
+    },
+    {
+      "bug": 1405738,
+      "created": "2017-12-05T09:40:19.331505+00:00",
+      "id": 787380,
+      "is_public": true,
+      "modified": "2017-12-05T09:40:19.331320+00:00",
+      "note": "Optimize page load by caching JavaScript internal representation.",
+      "sort_num": 0,
+      "tag": "New"
     }
   ],
   "product": "Firefox",
