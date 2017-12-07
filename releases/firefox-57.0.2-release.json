@@ -25,6 +25,16 @@
       "note": "Block old versions of G Data Endpoint Security for crashing Firefox on start up - Windows only ([bug 1421991][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1421991",
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2017-12-07T15:12:04.526746+00:00",
+      "id": 787383,
+      "is_public": true,
+      "modified": "2017-12-07T15:12:34.327083+00:00",
+      "note": "Fix a regression with WebGL and D3D9 - Windows only",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
