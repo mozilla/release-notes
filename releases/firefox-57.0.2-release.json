@@ -1,0 +1,37 @@
+{
+  "bug_list": "",
+  "bug_search_url": "",
+  "channel": "Release",
+  "created": "2017-12-07T15:06:49.598153+00:00",
+  "is_public": false,
+  "modified": "2017-12-07T15:06:49.597925+00:00",
+  "notes": [
+    {
+      "bug": null,
+      "created": "2017-12-07T15:07:21.979798+00:00",
+      "id": 787381,
+      "is_public": true,
+      "modified": "2017-12-07T15:07:21.979600+00:00",
+      "note": "Reference link to [57.0.1 release notes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.com/en-US/firefox/57.0.1/releasenotes/",
+      "sort_num": 0,
+      "tag": ""
+    },
+    {
+      "bug": 1421991,
+      "created": "2017-12-07T15:09:12.525239+00:00",
+      "id": 787382,
+      "is_public": true,
+      "modified": "2017-12-07T15:10:49.037752+00:00",
+      "note": "Block old versions of G Data Endpoint Security for crashing Firefox on start up - Windows only ([bug 1421991][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1421991",
+      "sort_num": 0,
+      "tag": "Fixed"
+    }
+  ],
+  "product": "Firefox",
+  "release_date": "2017-12-07",
+  "slug": "firefox-57.0.2-release",
+  "system_requirements": "## Windows\r\n\r\n### Operating Systems (32-bit and 64-bit)\r\n - Windows 7\r\n - Windows 8\r\n - Windows 10\r\n\r\n### Recommended Hardware\r\n-  Pentium 4 or newer processor that supports SSE2\r\n-  512MB of RAM / 2G of RAM for the 64-bit version\r\n-  200MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- macOS 10.9\r\n- macOS 10.10\r\n- macOS 10.11\r\n- macOS 10.12\r\n- macOS 10.13\r\n\r\n### Recommended Hardware\r\n- Macintosh computer with an Intel x86 processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - GTK+ 3.4 or higher\r\n    - GLib 2.22 or higher\r\n    - Pango 1.14 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n    - libstdc++ 4.6.1 or higher\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - NetworkManager 0.7 or higher\r\n    - DBus 1.0 or higher\r\n    - GNOME 2.16 or higher\r\n    - PulseAudio",
+  "text": "Brace yourself for an all-new Firefox. It\u2019s fast. Really fast. It\u2019s over twice as fast as Firefox from 6 months ago, built on a completely overhauled core engine with brand new technology from our advanced research group, and graced with a clean, modern interface. Today is the first of several releases we\u2019re calling Firefox Quantum, all designed to get to the things you love and the stuff you need faster than ever before. Experience the difference on desktops running Windows, macOS, and Linux; on Android, speed improvements are landing as well, and both Android and iOS have a new look and feel. To learn more about Firefox Quantum, visit the [Mozilla Blog][0]. \r\n\r\nMaking Firefox look, feel and perform faster was no small feat. Employees and volunteers from around the world worked in record time to create the best Firefox yet. We'd like to extend a special thank you to all of the [new Mozillians][1] who contributed to this release of Firefox!\r\n\r\n[0]: https://blog.mozilla.org/blog/2017/11/14/introducing-firefox-quantum\r\n[1]: https://blog.mozilla.org/community/2017/11/09/firefox-57-new-contributors/",
+  "title": "Firefox 57.0.2 Release",
+  "version": "57.0.2"
+}
