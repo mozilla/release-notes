@@ -19,7 +19,7 @@
       },
       "id": 787063,
       "is_public": true,
-      "modified": "2017-11-23T16:25:56.948397+00:00",
+      "modified": "2017-12-21T19:00:47.761817+00:00",
       "note": "Better support for Charter/Spectrum IMAP: Thunderbird will now detect Charter's IMAP service and send an additional IMAP select command to the server. Check the various preferences ending in \"force_select\" to see whether auto-detection has discovered this case.",
       "sort_num": 0,
       "tag": "New"
@@ -37,7 +37,7 @@
       },
       "id": 787295,
       "is_public": true,
-      "modified": "2017-11-23T16:21:47.632551+00:00",
+      "modified": "2017-12-21T19:00:46.627801+00:00",
       "note": "In search folders spanning multiple base folders clicking on a message sometimes marked another message as read",
       "sort_num": 0,
       "tag": "Fixed"
@@ -55,7 +55,7 @@
       },
       "id": 787296,
       "is_public": true,
-      "modified": "2017-11-23T16:21:18.307681+00:00",
+      "modified": "2017-12-21T19:00:45.550015+00:00",
       "note": "IMAP alerts have been corrected and now show the correct server name in case of connection problems",
       "sort_num": 0,
       "tag": "Fixed"
@@ -73,7 +73,7 @@
       },
       "id": 787297,
       "is_public": true,
-      "modified": "2017-11-23T16:21:07.392023+00:00",
+      "modified": "2017-12-21T19:00:44.016863+00:00",
       "note": "POP alerts have been corrected and now indicate connection problems in case the configured POP server cannot be found",
       "sort_num": 0,
       "tag": "Fixed"
@@ -91,7 +91,7 @@
       },
       "id": 787361,
       "is_public": true,
-      "modified": "2017-11-23T16:19:10.195865+00:00",
+      "modified": "2017-12-21T19:00:38.628203+00:00",
       "note": "Various [security fixes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/en-US/security/known-vulnerabilities/thunderbird/#thunderbird52.5",
       "sort_num": 0,
       "tag": "Fixed"
