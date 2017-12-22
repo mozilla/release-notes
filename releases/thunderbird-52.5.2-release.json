@@ -3,15 +3,15 @@
   "bug_search_url": "https://bugzilla.mozilla.org/buglist.cgi?o1=equals&v1=57%2B&f1=cf_tracking_thunderbird_esr52&query_format=advanced",
   "channel": "Release",
   "created": "2017-12-21T19:00:01.699416+00:00",
-  "is_public": false,
-  "modified": "2017-12-21T19:00:50.224224+00:00",
+  "is_public": true,
+  "modified": "2017-12-22T08:12:57.847624+00:00",
   "notes": [
     {
       "bug": null,
       "created": "2017-12-21T19:00:38.413432+00:00",
       "fixed_in_release": {
         "channel": "Release",
-        "is_public": false,
+        "is_public": true,
         "product": "Thunderbird",
         "slug": "thunderbird-52.5.2-release",
         "title": "Thunderbird 52.5.2 Release",
@@ -19,8 +19,8 @@
       },
       "id": 787387,
       "is_public": true,
-      "modified": "2017-12-21T19:05:02.916172+00:00",
-      "note": "This releases fixes the \"Mailsploit\" vulnerability and other vulnerabilities detected by the \"Cure53\" audit. It also contains various [security fixes][1].\r\n\r\n\r\n  [1]: https://www.mozilla.org/en-US/security/known-vulnerabilities/thunderbird/#thunderbird52.5.2",
+      "modified": "2017-12-22T08:12:09.207638+00:00",
+      "note": "This releases fixes the \"Mailsploit\" vulnerability and other vulnerabilities detected by the \"Cure53\" audit. For details and various other security fixes see [here][1].\r\n\r\n\r\n  [1]: https://www.mozilla.org/en-US/security/known-vulnerabilities/thunderbird/#thunderbird52.5.2",
       "sort_num": 0,
       "tag": "Fixed"
     }
