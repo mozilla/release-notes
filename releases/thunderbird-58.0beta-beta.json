@@ -4,7 +4,7 @@
   "channel": "Beta",
   "created": "2017-11-24T16:18:10.891681+00:00",
   "is_public": true,
-  "modified": "2018-01-07T12:44:02.648836+00:00",
+  "modified": "2018-01-07T12:57:29.612094+00:00",
   "notes": [
     {
       "bug": 663695,
@@ -194,6 +194,24 @@
       "modified": "2018-01-07T12:54:48.029433+00:00",
       "note": "Calendar: Unintended task deletion if numlock is enabled",
       "sort_num": 3,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 390753,
+      "created": "2018-01-07T12:56:50.209575+00:00",
+      "fixed_in_release": {
+        "channel": "Beta",
+        "is_public": true,
+        "product": "Thunderbird",
+        "slug": "thunderbird-58.0beta-beta",
+        "title": "Thunderbird 58.0beta Beta",
+        "version": "58.0beta"
+      },
+      "id": 787399,
+      "is_public": true,
+      "modified": "2018-01-07T12:56:50.209277+00:00",
+      "note": "Calendar: Can't copy information from event dialog for received invitations\r\n",
+      "sort_num": 2,
       "tag": "Fixed"
     }
   ],
