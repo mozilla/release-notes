@@ -4,7 +4,7 @@
   "channel": "Beta",
   "created": "2017-11-06T17:12:59.108410+00:00",
   "is_public": false,
-  "modified": "2017-11-07T08:52:03.079409+00:00",
+  "modified": "2018-01-10T08:20:51.672946+00:00",
   "notes": [
     {
       "bug": 1411117,
@@ -43,6 +43,16 @@
       "is_public": true,
       "modified": "2017-11-07T08:51:50.833366+00:00",
       "note": "Added support for FLAC (Free Lossless Audio Codec) playback",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1405738,
+      "created": "2018-01-10T08:19:34.186210+00:00",
+      "id": 787403,
+      "is_public": true,
+      "modified": "2018-01-10T08:19:34.186007+00:00",
+      "note": "Optimize page load by caching JavaScript internal representation",
       "sort_num": 0,
       "tag": "New"
     },
