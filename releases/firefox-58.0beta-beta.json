@@ -37,6 +37,16 @@
       "tag": "New"
     },
     {
+      "bug": 1405738,
+      "created": "2018-01-10T06:42:48.092001+00:00",
+      "id": 787401,
+      "is_public": true,
+      "modified": "2018-01-10T06:42:48.091797+00:00",
+      "note": "Optimize page load by caching JavaScript internal representation",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1399879,
       "created": "2017-11-07T08:30:22.573786+00:00",
       "id": 787309,
