@@ -7,6 +7,16 @@
   "modified": "2018-01-11T17:31:10.249050+00:00",
   "notes": [
     {
+      "bug": 1426216,
+      "created": "2018-01-11T19:41:41.615994+00:00",
+      "id": 787405,
+      "is_public": true,
+      "modified": "2018-01-11T19:41:41.615803+00:00",
+      "note": "For users with the unified search bar, search suggestions will appear ahead of browsing history by default.  This can be changed in Settings on Windows and in Preferences on Linux and MacOS.",
+      "sort_num": 90,
+      "tag": "New"
+    },
+    {
       "bug": 1427688,
       "created": "2018-01-11T19:37:25.607288+00:00",
       "id": 787404,
@@ -15,6 +25,16 @@
       "note": "Added locale: Interlingua (ia)",
       "sort_num": 0,
       "tag": "New"
+    },
+    {
+      "bug": 1352497,
+      "created": "2018-01-11T19:54:36.292690+00:00",
+      "id": 787406,
+      "is_public": true,
+      "modified": "2018-01-11T19:55:34.444170+00:00",
+      "note": "Changed the location of Firefox Health Report from about:healthreport to about:telemetry",
+      "sort_num": 70,
+      "tag": "Changed"
     }
   ],
   "product": "Firefox",
