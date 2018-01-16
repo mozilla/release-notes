@@ -7,6 +7,16 @@
   "modified": "2018-01-11T17:31:32.127288+00:00",
   "notes": [
     {
+      "bug": 1366049,
+      "created": "2018-01-16T20:05:01.215521+00:00",
+      "id": 787409,
+      "is_public": true,
+      "modified": "2018-01-16T20:12:16.739470+00:00",
+      "note": "Added support for Stylo (Quantum CSS engine using Rust)",
+      "sort_num": 93,
+      "tag": "New"
+    },
+    {
       "bug": 1408044,
       "created": "2018-01-11T23:14:03.439795+00:00",
       "id": 787408,
@@ -23,16 +33,6 @@
       "is_public": true,
       "modified": "2018-01-11T22:30:25.653175+00:00",
       "note": "Added Firefox as an Assist App so users can start a search by long-pressing the home button",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
-      "bug": 1366049,
-      "created": "2018-01-16T20:05:01.215521+00:00",
-      "id": 787409,
-      "is_public": true,
-      "modified": "2018-01-16T20:05:01.215316+00:00",
-      "note": "Added support for Stylo for Android",
       "sort_num": 0,
       "tag": "New"
     },
