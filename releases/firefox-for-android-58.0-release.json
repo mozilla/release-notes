@@ -7,11 +7,11 @@
   "modified": "2018-01-22T10:23:11.565706+00:00",
   "notes": [
     {
-      "bug": null,
+      "bug": 1212648,
       "created": "2018-01-22T10:24:56.049256+00:00",
       "id": 787417,
       "is_public": true,
-      "modified": "2018-01-22T10:24:56.049054+00:00",
+      "modified": "2018-01-22T21:40:46.052282+00:00",
       "note": "Performance improvements, including:\r\n\r\n* Support for Progressive Web Apps\r\n* Loading pages faster by changing how [Firefox caches and retrieves JavaScript][0]\r\n\r\n[0]: https://blog.mozilla.org/javascript/2017/12/12/javascript-startup-bytecode-cache/",
       "sort_num": 1000,
       "tag": "New"

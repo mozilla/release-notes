@@ -67,21 +67,21 @@
       "tag": "Changed"
     },
     {
-      "bug": null,
+      "bug": 1409259,
       "created": "2018-01-22T09:47:40.646463+00:00",
       "id": 787412,
       "is_public": true,
-      "modified": "2018-01-22T09:47:40.646157+00:00",
+      "modified": "2018-01-22T21:33:57.141290+00:00",
       "note": "Added a warning to alert users and site owners of planned security changes to sites affected by the [gradual distrust plan][0] for the [Symantec certificate authority][1]\r\n\r\n[0]: https://wiki.mozilla.org/CA/Upcoming_Distrust_Actions\r\n[1]: https://blog.mozilla.org/security/2017/10/31/statement-digicerts-proposed-purchase-symantec/",
       "sort_num": 0,
       "tag": "Changed"
     },
     {
-      "bug": null,
+      "bug": 1263722,
       "created": "2018-01-22T10:17:01.845877+00:00",
       "id": 787414,
       "is_public": true,
-      "modified": "2018-01-22T10:17:01.845693+00:00",
+      "modified": "2018-01-22T21:36:28.358689+00:00",
       "note": "Implemented the [PerformanceNavigationTiming][0] API\r\n\r\n[0]: https://developer.mozilla.org/docs/Web/API/PerformanceNavigationTiming",
       "sort_num": 0,
       "tag": "Developer"
@@ -97,11 +97,11 @@
       "tag": "Developer"
     },
     {
-      "bug": null,
+      "bug": 1412090,
       "created": "2018-01-22T10:15:11.275667+00:00",
       "id": 787413,
       "is_public": true,
-      "modified": "2018-01-22T10:15:11.275482+00:00",
+      "modified": "2018-01-22T21:35:36.699914+00:00",
       "note": "Fonts installed in non-standard directories will no longer appear blank for Linux users",
       "sort_num": 0,
       "tag": "Fixed"

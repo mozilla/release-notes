@@ -11,7 +11,7 @@
       "created": "2017-11-28T19:24:21.022268+00:00",
       "id": 787369,
       "is_public": true,
-      "modified": "2017-11-28T20:51:54.347757+00:00",
+      "modified": "2018-01-22T21:33:00.192571+00:00",
       "note": "The Screenshot tool allows copying an image to the clipboard",
       "sort_num": 0,
       "tag": "New"
@@ -21,7 +21,7 @@
       "created": "2018-01-04T10:01:10.163226+00:00",
       "id": 787394,
       "is_public": true,
-      "modified": "2018-01-04T10:01:10.163019+00:00",
+      "modified": "2018-01-22T21:33:04.544485+00:00",
       "note": "Locale added: Interlingua (ia)",
       "sort_num": 0,
       "tag": "New"
@@ -31,7 +31,7 @@
       "created": "2018-01-08T13:18:27.369867+00:00",
       "id": 787400,
       "is_public": true,
-      "modified": "2018-01-11T22:32:11.726939+00:00",
+      "modified": "2018-01-22T21:33:05.733668+00:00",
       "note": "Added new settings in about:preferences that allow you to stop intrusive websites from asking you to receive notifications or access advanced device features such as camera and geolocation, while still allowing websites you trust to use these features.\r\n<!-- Blog post to be published, see https://bugzilla.mozilla.org/show_bug.cgi?id=1368744#c46 -->",
       "sort_num": 0,
       "tag": "New"
@@ -41,7 +41,7 @@
       "created": "2017-11-27T10:40:30.564248+00:00",
       "id": 787368,
       "is_public": true,
-      "modified": "2017-11-27T10:40:30.563931+00:00",
+      "modified": "2018-01-22T21:32:58.366739+00:00",
       "note": "The \"about:\" page was removed. Use the \"About Firefox\" dialog instead.",
       "sort_num": 0,
       "tag": "Changed"
@@ -51,7 +51,7 @@
       "created": "2017-11-29T12:02:12.601409+00:00",
       "id": 787371,
       "is_public": true,
-      "modified": "2017-11-29T12:02:12.601217+00:00",
+      "modified": "2018-01-22T21:33:01.432665+00:00",
       "note": "about:healthreport (Firefox Health Report) has been removed in favor of about:telemetry",
       "sort_num": 0,
       "tag": "Changed"
@@ -61,7 +61,7 @@
       "created": "2018-01-04T07:56:45.898355+00:00",
       "id": 787392,
       "is_public": true,
-      "modified": "2018-01-22T10:23:31.812860+00:00",
+      "modified": "2018-01-22T21:33:03.552990+00:00",
       "note": "[Security fixes][1] to address the [Meltdown and Spectre timing attacks][2] \r\n\r\n\r\n  [1]: https://www.mozilla.org/security/known-vulnerabilities/firefox/#firefox57.0.4\r\n  [2]: https://blog.mozilla.org/security/2018/01/03/mitigations-landing-new-class-timing-attack/",
       "sort_num": 10,
       "tag": "Fixed"
@@ -71,7 +71,7 @@
       "created": "2017-12-27T13:12:42.378137+00:00",
       "id": 787389,
       "is_public": true,
-      "modified": "2018-01-22T09:44:09.301772+00:00",
+      "modified": "2018-01-22T21:33:02.314044+00:00",
       "note": "Fix a crash reporting issue that inadvertently sends background tab crash reports to Mozilla without user opt-in ([bug 1427111][1])\r\n\r\n[1]: https://bugzilla.mozilla.org/1427111",
       "sort_num": 0,
       "tag": "Fixed"
