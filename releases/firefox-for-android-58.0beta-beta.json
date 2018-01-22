@@ -17,16 +17,6 @@
       "tag": "New"
     },
     {
-      "bug": 1377976,
-      "created": "2017-11-07T08:41:36.673693+00:00",
-      "id": 787313,
-      "is_public": true,
-      "modified": "2018-01-22T09:32:02.112247+00:00",
-      "note": "Updated the Safe Browsing protocol to version 4",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
       "bug": 1329127,
       "created": "2017-11-07T08:42:11.353403+00:00",
       "id": 787314,
@@ -73,6 +63,16 @@
       "is_public": true,
       "modified": "2018-01-22T09:32:02.112247+00:00",
       "note": "Removed the Firefox Search widget from home screen",
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
+      "bug": 1377976,
+      "created": "2017-11-07T08:41:36.673693+00:00",
+      "id": 787313,
+      "is_public": true,
+      "modified": "2018-01-22T10:41:57.131930+00:00",
+      "note": "Updated the Safe Browsing protocol to version 4",
       "sort_num": 0,
       "tag": "Changed"
     },

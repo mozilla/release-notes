@@ -37,16 +37,6 @@
       "tag": "New"
     },
     {
-      "bug": 1377976,
-      "created": "2017-11-07T08:41:36.673693+00:00",
-      "id": 787313,
-      "is_public": true,
-      "modified": "2018-01-22T09:32:02.112247+00:00",
-      "note": "Updated the Safe Browsing protocol to version 4",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
       "bug": 1329127,
       "created": "2017-11-07T08:42:11.353403+00:00",
       "id": 787314,
@@ -67,6 +57,16 @@
       "tag": "New"
     },
     {
+      "bug": null,
+      "created": "2018-01-22T10:41:33.590406+00:00",
+      "id": 787420,
+      "is_public": true,
+      "modified": "2018-01-22T10:41:33.590218+00:00",
+      "note": "Added ability to change the status bar color in themes",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1221344,
       "created": "2017-11-07T08:40:15.667154+00:00",
       "id": 787311,
@@ -75,6 +75,26 @@
       "note": "Removed the Firefox Search widget from home screen",
       "sort_num": 0,
       "tag": "Changed"
+    },
+    {
+      "bug": 1377976,
+      "created": "2017-11-07T08:41:36.673693+00:00",
+      "id": 787313,
+      "is_public": true,
+      "modified": "2018-01-22T10:41:57.131930+00:00",
+      "note": "Updated the Safe Browsing protocol to version 4",
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
+      "bug": null,
+      "created": "2018-01-22T10:44:48.251222+00:00",
+      "id": 787421,
+      "is_public": true,
+      "modified": "2018-01-22T10:44:48.251039+00:00",
+      "note": "Various [security fixes][0]\r\n\r\n[0]: https://www.mozilla.org/security/known-vulnerabilities/firefox/#firefox58",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox for Android",
