@@ -61,7 +61,7 @@
       "created": "2018-01-04T07:56:45.898355+00:00",
       "id": 787392,
       "is_public": true,
-      "modified": "2018-01-04T23:11:19.766391+00:00",
+      "modified": "2018-01-22T09:32:02.132767+00:00",
       "note": "[Security fixes][1] to address the [Meltdown and Spectre timing attacks][2] \r\n\r\n\r\n  [1]: https://www.mozilla.org/security/known-vulnerabilities/firefox/#firefox57.0.4\r\n  [2]: https://blog.mozilla.org/security/2018/01/03/mitigations-landing-new-class-timing-attack/",
       "sort_num": 10,
       "tag": "Fixed"
@@ -71,7 +71,7 @@
       "created": "2017-12-27T13:12:42.378137+00:00",
       "id": 787389,
       "is_public": true,
-      "modified": "2017-12-28T15:59:00.056154+00:00",
+      "modified": "2018-01-22T09:32:02.132767+00:00",
       "note": "Fix a crash reporting issue that inadvertently sends background tab crash reports to Mozilla without user opt-in ([bug 1427111][1])\r\n\r\n[1]: https://bugzilla.mozilla.org/1427111",
       "sort_num": 0,
       "tag": "Fixed"
