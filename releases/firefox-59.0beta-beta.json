@@ -55,6 +55,16 @@
       "note": "Changed the location of Firefox Health Report from about:healthreport to about:telemetry",
       "sort_num": 70,
       "tag": "Changed"
+    },
+    {
+      "bug": 1293277,
+      "created": "2018-01-22T17:24:01.901522+00:00",
+      "id": 787423,
+      "is_public": true,
+      "modified": "2018-01-22T17:24:01.901335+00:00",
+      "note": "Service Worker Clients API can now find and communicate with windows in a separate browser process",
+      "sort_num": 0,
+      "tag": "Developer"
     }
   ],
   "product": "Firefox",
