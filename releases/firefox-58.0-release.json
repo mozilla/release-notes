@@ -7,6 +7,36 @@
   "modified": "2018-01-22T09:35:44.252113+00:00",
   "notes": [
     {
+      "bug": null,
+      "created": "2018-01-22T09:41:08.780434+00:00",
+      "id": 787410,
+      "is_public": true,
+      "modified": "2018-01-22T09:41:08.780253+00:00",
+      "note": "Performance improvements, including:\r\n\r\n* Rendering graphics for Windows users by using [Off-Main-Thread Painting (OMTP)][0]\r\n* Loading pages faster by changing how [Firefox caches and retrieves JavaScript][1]\r\n\r\n[0]: https://mozillagfx.wordpress.com/2017/12/05/off-main-thread-painting/\r\n[1]: https://blog.mozilla.org/javascript/2017/12/12/javascript-startup-bytecode-cache/",
+      "sort_num": 1000,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2018-01-22T09:43:39.835941+00:00",
+      "id": 787411,
+      "is_public": true,
+      "modified": "2018-01-22T09:43:39.835741+00:00",
+      "note": "Improvements to Firefox Screenshots:\r\n\r\n* Copy and paste screenshots directly to your clipboard\r\n* Firefox Screenshots now works in Private Browsing mode",
+      "sort_num": 100,
+      "tag": "New"
+    },
+    {
+      "bug": 1390757,
+      "created": "2017-11-07T08:30:54.313809+00:00",
+      "id": 787310,
+      "is_public": true,
+      "modified": "2018-01-22T09:42:44.282166+00:00",
+      "note": "Added support for [credit card autofill][0]\r\n\r\n[0]: https://support.mozilla.org/kb/automatically-fill-address-and-credit-cards",
+      "sort_num": 10,
+      "tag": "New"
+    },
+    {
       "bug": 1411935,
       "created": "2017-11-07T08:28:52.161143+00:00",
       "id": 787308,
@@ -17,54 +47,24 @@
       "tag": "New"
     },
     {
-      "bug": 1390757,
-      "created": "2017-11-07T08:30:54.313809+00:00",
-      "id": 787310,
-      "is_public": true,
-      "modified": "2018-01-22T09:32:02.132767+00:00",
-      "note": "Added support for form autofill for credit card",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
       "bug": 1399879,
       "created": "2017-11-07T08:30:22.573786+00:00",
       "id": 787309,
       "is_public": true,
-      "modified": "2018-01-22T09:32:02.132767+00:00",
-      "note": "Downgrading profile to previous versions is not supported. In case of downgrade, it is suggested to use a new profile",
+      "modified": "2018-01-22T09:46:19.576783+00:00",
+      "note": "User profiles created in Firefox 58 (and in future releases) are not supported in previous versions of Firefox. Users who downgrade to a previous version should create a new profile for that version. Learn about [alternatives to downgrading][0] on our support site.\r\n\r\n[0]: https://support.mozilla.org/kb/install-older-version-of-firefox",
       "sort_num": 0,
       "tag": "Changed"
     },
     {
       "bug": null,
-      "created": "2018-01-04T07:56:45.898355+00:00",
-      "id": 787392,
+      "created": "2018-01-22T09:47:40.646463+00:00",
+      "id": 787412,
       "is_public": true,
-      "modified": "2018-01-22T09:32:02.132767+00:00",
-      "note": "[Security fixes][1] to address the [Meltdown and Spectre timing attacks][2] \r\n\r\n\r\n  [1]: https://www.mozilla.org/security/known-vulnerabilities/firefox/#firefox57.0.4\r\n  [2]: https://blog.mozilla.org/security/2018/01/03/mitigations-landing-new-class-timing-attack/",
-      "sort_num": 10,
-      "tag": "Fixed"
-    },
-    {
-      "bug": 1427111,
-      "created": "2017-12-27T13:12:42.378137+00:00",
-      "id": 787389,
-      "is_public": true,
-      "modified": "2018-01-22T09:32:02.132767+00:00",
-      "note": "Fix a crash reporting issue that inadvertently sends background tab crash reports to Mozilla without user opt-in ([bug 1427111][1])\r\n\r\n[1]: https://bugzilla.mozilla.org/1427111",
+      "modified": "2018-01-22T09:47:40.646157+00:00",
+      "note": "Added a warning to alert users and site owners of planned security changes to sites affected by the [gradual distrust plan][0] for the [Symantec certificate authority][1]\r\n\r\n[0]: https://wiki.mozilla.org/CA/Upcoming_Distrust_Actions\r\n[1]: https://blog.mozilla.org/security/2017/10/31/statement-digicerts-proposed-purchase-symantec/",
       "sort_num": 0,
-      "tag": "Fixed"
-    },
-    {
-      "bug": 1404050,
-      "created": "2017-11-10T08:22:16.727767+00:00",
-      "id": 787331,
-      "is_public": true,
-      "modified": "2018-01-22T09:32:02.132767+00:00",
-      "note": "On Windows and Linux, Firefox crashes occasionally on [Intel Broadwell-U processors with old microcode][1]. Windows users should ensure Windows Update is set to install updates. Linux users should ensure that the distribution package for Intel microcode is installed.\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/broadwell-u-microcode",
-      "sort_num": 0,
-      "tag": "Known"
+      "tag": "Changed"
     }
   ],
   "product": "Firefox",
