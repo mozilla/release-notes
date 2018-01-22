@@ -17,22 +17,22 @@
       "tag": "New"
     },
     {
-      "bug": 1408044,
-      "created": "2018-01-11T23:14:03.439795+00:00",
-      "id": 787408,
-      "is_public": true,
-      "modified": "2018-01-11T23:14:03.439511+00:00",
-      "note": "Noted for 59 as Changed: The \"about:\" page was removed. Use the \"About Firefox\" dialog instead.",
-      "sort_num": 10,
-      "tag": ""
-    },
-    {
       "bug": 1413739,
       "created": "2018-01-11T22:30:25.653387+00:00",
       "id": 787407,
       "is_public": true,
       "modified": "2018-01-11T22:30:25.653175+00:00",
       "note": "Added Firefox as an Assist App so users can start a search by long-pressing the home button",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1365505,
+      "created": "2018-01-22T22:37:51.561281+00:00",
+      "id": 787426,
+      "is_public": true,
+      "modified": "2018-01-22T22:37:51.561097+00:00",
+      "note": "Improved user experience for HLS (HTTP Live Streaming) playback ",
       "sort_num": 0,
       "tag": "New"
     },
@@ -44,6 +44,26 @@
       "modified": "2018-01-11T19:55:34.444170+00:00",
       "note": "Changed the location of Firefox Health Report from about:healthreport to about:telemetry",
       "sort_num": 70,
+      "tag": "Changed"
+    },
+    {
+      "bug": 1408044,
+      "created": "2018-01-11T23:14:03.439795+00:00",
+      "id": 787408,
+      "is_public": true,
+      "modified": "2018-01-22T22:34:39.382498+00:00",
+      "note": "The \"about:\" page was removed. Use the \"About Firefox\" dialog instead.",
+      "sort_num": 10,
+      "tag": "Changed"
+    },
+    {
+      "bug": 1422263,
+      "created": "2018-01-22T22:40:29.771338+00:00",
+      "id": 787427,
+      "is_public": true,
+      "modified": "2018-01-22T22:40:29.771148+00:00",
+      "note": "Lock video full screen to landscape mode",
+      "sort_num": 0,
       "tag": "Changed"
     }
   ],
