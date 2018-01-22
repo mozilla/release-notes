@@ -47,6 +47,16 @@
       "tag": "New"
     },
     {
+      "bug": null,
+      "created": "2018-01-22T17:51:19.687263+00:00",
+      "id": 787424,
+      "is_public": true,
+      "modified": "2018-01-22T18:43:45.841707+00:00",
+      "note": "*In Case You Missed It: 57 Release Privacy and Performance Feature*\r\n\r\nAllowing users to [enable Tracking Protection at all times][0]. Learn how to [turn Tracking Protection on][1].\r\n\r\n[0]: https://blog.mozilla.org/blog/2018/01/23/latest-firefox-quantum-release-now-available-with-new-features/\r\n[1]: https://support.mozilla.org/kb/tracking-protection#w_how-to-turn-tracking-protection-on",
+      "sort_num": 0,
+      "tag": ""
+    },
+    {
       "bug": 1399879,
       "created": "2017-11-07T08:30:22.573786+00:00",
       "id": 787309,
@@ -65,16 +75,6 @@
       "note": "Added a warning to alert users and site owners of planned security changes to sites affected by the [gradual distrust plan][0] for the [Symantec certificate authority][1]\r\n\r\n[0]: https://wiki.mozilla.org/CA/Upcoming_Distrust_Actions\r\n[1]: https://blog.mozilla.org/security/2017/10/31/statement-digicerts-proposed-purchase-symantec/",
       "sort_num": 0,
       "tag": "Changed"
-    },
-    {
-      "bug": null,
-      "created": "2018-01-22T17:51:19.687263+00:00",
-      "id": 787424,
-      "is_public": true,
-      "modified": "2018-01-22T17:51:19.687073+00:00",
-      "note": "Allowing users to [enable Tracking Protection at all times][0]. Learn how to [turn Tracking Protection on][1].\r\n\r\n[0]: https://blog.mozilla.org/blog/2018/01/23/latest-firefox-quantum-release-now-available-with-new-features/\r\n[1]: https://support.mozilla.org/kb/tracking-protection#w_how-to-turn-tracking-protection-on",
-      "sort_num": 0,
-      "tag": "Feature"
     },
     {
       "bug": null,

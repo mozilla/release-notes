@@ -27,23 +27,13 @@
       "tag": "New"
     },
     {
-      "bug": 1411117,
-      "created": "2017-11-07T08:40:45.917666+00:00",
-      "id": 787312,
-      "is_public": true,
-      "modified": "2018-01-22T09:32:02.112247+00:00",
-      "note": "Added Bengali from Bangladesh (bn-BD) and Nepali (ne-NP) locales",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
       "bug": 1329127,
       "created": "2017-11-07T08:42:11.353403+00:00",
       "id": 787314,
       "is_public": true,
-      "modified": "2018-01-22T10:39:40.819620+00:00",
+      "modified": "2018-01-22T18:44:22.605308+00:00",
       "note": "Added full screen [bookmark management with folder support][0]\r\n\r\n[0]: https://support.mozilla.org/kb/manage-bookmark-folders-firefox-android",
-      "sort_num": 0,
+      "sort_num": 800,
       "tag": "New"
     },
     {
@@ -51,9 +41,9 @@
       "created": "2017-11-07T08:50:46.843211+00:00",
       "id": 787316,
       "is_public": true,
-      "modified": "2018-01-22T09:32:02.112247+00:00",
+      "modified": "2018-01-22T18:44:51.708290+00:00",
       "note": "Added support for FLAC (Free Lossless Audio Codec) playback",
-      "sort_num": 0,
+      "sort_num": 700,
       "tag": "New"
     },
     {
@@ -61,8 +51,18 @@
       "created": "2018-01-22T10:41:33.590406+00:00",
       "id": 787420,
       "is_public": true,
-      "modified": "2018-01-22T10:41:33.590218+00:00",
+      "modified": "2018-01-22T18:45:20.174817+00:00",
       "note": "Added ability to change the status bar color in themes",
+      "sort_num": 500,
+      "tag": "New"
+    },
+    {
+      "bug": 1411117,
+      "created": "2017-11-07T08:40:45.917666+00:00",
+      "id": 787312,
+      "is_public": true,
+      "modified": "2018-01-22T09:32:02.112247+00:00",
+      "note": "Added Bengali from Bangladesh (bn-BD) and Nepali (ne-NP) locales",
       "sort_num": 0,
       "tag": "New"
     },
