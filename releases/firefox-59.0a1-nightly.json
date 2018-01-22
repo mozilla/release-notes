@@ -7,6 +7,16 @@
   "modified": "2017-11-13T14:18:47.143751+00:00",
   "notes": [
     {
+      "bug": 1368744,
+      "created": "2018-01-08T13:18:27.369867+00:00",
+      "id": 787400,
+      "is_public": true,
+      "modified": "2018-01-22T22:41:27.741170+00:00",
+      "note": "Added new settings in about:preferences that allow you to stop intrusive websites from asking you to receive notifications or access advanced device features such as camera and geolocation, while still allowing websites you trust to use these features.\r\n<!-- Blog post to be published, see https://bugzilla.mozilla.org/show_bug.cgi?id=1368744#c46 -->",
+      "sort_num": 80,
+      "tag": "New"
+    },
+    {
       "bug": 1419148,
       "created": "2017-11-28T19:24:21.022268+00:00",
       "id": 787369,
@@ -23,16 +33,6 @@
       "is_public": true,
       "modified": "2018-01-22T21:33:04.544485+00:00",
       "note": "Locale added: Interlingua (ia)",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
-      "bug": 1368744,
-      "created": "2018-01-08T13:18:27.369867+00:00",
-      "id": 787400,
-      "is_public": true,
-      "modified": "2018-01-22T21:33:05.733668+00:00",
-      "note": "Added new settings in about:preferences that allow you to stop intrusive websites from asking you to receive notifications or access advanced device features such as camera and geolocation, while still allowing websites you trust to use these features.\r\n<!-- Blog post to be published, see https://bugzilla.mozilla.org/show_bug.cgi?id=1368744#c46 -->",
       "sort_num": 0,
       "tag": "New"
     },
