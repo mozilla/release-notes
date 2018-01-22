@@ -17,6 +17,16 @@
       "tag": "New"
     },
     {
+      "bug": null,
+      "created": "2018-01-22T10:40:17.320196+00:00",
+      "id": 787418,
+      "is_public": true,
+      "modified": "2018-01-22T10:40:32.951335+00:00",
+      "note": "Added ability to Sync only over non-metered connections (e.g., WiFi). Setting available via Sync Preferences.",
+      "sort_num": 900,
+      "tag": "New"
+    },
+    {
       "bug": 1411117,
       "created": "2017-11-07T08:40:45.917666+00:00",
       "id": 787312,
@@ -37,12 +47,12 @@
       "tag": "New"
     },
     {
-      "bug": 1212648,
-      "created": "2017-11-07T08:49:51.622196+00:00",
-      "id": 787315,
+      "bug": 1329127,
+      "created": "2017-11-07T08:42:11.353403+00:00",
+      "id": 787314,
       "is_public": true,
-      "modified": "2018-01-22T09:32:02.112247+00:00",
-      "note": "Added support for progressive web apps",
+      "modified": "2018-01-22T10:39:40.819620+00:00",
+      "note": "Added full screen [bookmark management with folder support][0]\r\n\r\n[0]: https://support.mozilla.org/kb/manage-bookmark-folders-firefox-android",
       "sort_num": 0,
       "tag": "New"
     },
@@ -63,16 +73,6 @@
       "is_public": true,
       "modified": "2018-01-22T09:32:02.112247+00:00",
       "note": "Removed the Firefox Search widget from home screen",
-      "sort_num": 0,
-      "tag": "Changed"
-    },
-    {
-      "bug": 1329127,
-      "created": "2017-11-07T08:42:11.353403+00:00",
-      "id": 787314,
-      "is_public": true,
-      "modified": "2018-01-22T09:32:02.112247+00:00",
-      "note": "Improved bookmark management",
       "sort_num": 0,
       "tag": "Changed"
     }
