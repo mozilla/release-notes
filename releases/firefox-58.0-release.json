@@ -65,6 +65,56 @@
       "note": "Added a warning to alert users and site owners of planned security changes to sites affected by the [gradual distrust plan][0] for the [Symantec certificate authority][1]\r\n\r\n[0]: https://wiki.mozilla.org/CA/Upcoming_Distrust_Actions\r\n[1]: https://blog.mozilla.org/security/2017/10/31/statement-digicerts-proposed-purchase-symantec/",
       "sort_num": 0,
       "tag": "Changed"
+    },
+    {
+      "bug": null,
+      "created": "2018-01-22T10:17:01.845877+00:00",
+      "id": 787414,
+      "is_public": true,
+      "modified": "2018-01-22T10:17:01.845693+00:00",
+      "note": "Implemented the [PerformanceNavigationTiming][0] API\r\n\r\n[0]: https://developer.mozilla.org/docs/Web/API/PerformanceNavigationTiming",
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
+      "bug": null,
+      "created": "2018-01-22T10:17:40.920860+00:00",
+      "id": 787415,
+      "is_public": true,
+      "modified": "2018-01-22T10:17:40.920676+00:00",
+      "note": "Added [PerformanceResourceTiming.workerStart][0] so sites can measure service worker startup time\r\n\r\n[0]: https://developer.mozilla.org/docs/Web/API/PerformanceResourceTiming/workerStart",
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
+      "bug": null,
+      "created": "2018-01-22T10:15:11.275667+00:00",
+      "id": 787413,
+      "is_public": true,
+      "modified": "2018-01-22T10:15:11.275482+00:00",
+      "note": "Fonts installed in non-standard directories will no longer appear blank for Linux users",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1385207,
+      "created": "2017-09-27T20:24:12.894200+00:00",
+      "id": 787278,
+      "is_public": true,
+      "modified": "2018-01-22T10:18:27.984820+00:00",
+      "note": "Users running Firefox for Windows over a Remote Desktop Connection (RDP) may find that audio playback is disabled due to increased security restrictions. [Learn how to mitigate this issue][1] until it is corrected in an upcoming release\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/i-cant-play-audio-remote-desktop-connection",
+      "sort_num": 0,
+      "tag": "Known"
+    },
+    {
+      "bug": null,
+      "created": "2018-01-22T10:20:01.271880+00:00",
+      "id": 787416,
+      "is_public": true,
+      "modified": "2018-01-22T10:20:28.315384+00:00",
+      "note": "Users running certain screen readers may experience performance issues and are advised to [use Firefox ESR][0] until performance issues are resolved in an upcoming future release\r\n\r\n[0]: https://support.mozilla.org/kb/can-i-use-my-screen-reader-new-firefox",
+      "sort_num": 0,
+      "tag": "Known"
     }
   ],
   "product": "Firefox",
