@@ -95,6 +95,16 @@
       "note": "Various [security fixes][0]\r\n\r\n[0]: https://www.mozilla.org/security/known-vulnerabilities/firefox/#firefox58",
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": 1420641,
+      "created": "2018-01-23T19:27:49.195858+00:00",
+      "id": 787428,
+      "is_public": true,
+      "modified": "2018-01-23T19:27:49.195674+00:00",
+      "note": "Fixed performance issue whereby some installations were initially slow to load pages",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox for Android",
