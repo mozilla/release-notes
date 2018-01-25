@@ -91,7 +91,7 @@
       },
       "id": 787396,
       "is_public": true,
-      "modified": "2018-01-07T12:48:48.365718+00:00",
+      "modified": "2018-01-25T18:30:30.449534+00:00",
       "note": "Searching message bodies of messages in local folders, including filter and quick filter operations, not working reliably: Content not found in base64-encode message parts, non-ASCII text not found and false positives found.",
       "sort_num": 100,
       "tag": "Fixed"
@@ -109,7 +109,7 @@
       },
       "id": 787395,
       "is_public": true,
-      "modified": "2018-01-07T12:45:37.647260+00:00",
+      "modified": "2018-01-25T18:30:51.081209+00:00",
       "note": "Defective messages (without at least one expected header) not shown in IMAP folders but shown on mobile devices",
       "sort_num": 20,
       "tag": "Fixed"
@@ -191,7 +191,7 @@
       },
       "id": 787398,
       "is_public": true,
-      "modified": "2018-01-07T12:54:48.029433+00:00",
+      "modified": "2018-01-25T18:30:19.031448+00:00",
       "note": "Calendar: Unintended task deletion if numlock is enabled",
       "sort_num": 3,
       "tag": "Fixed"
