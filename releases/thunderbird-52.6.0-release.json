@@ -3,8 +3,8 @@
   "bug_search_url": "https://bugzilla.mozilla.org/buglist.cgi?o1=equals&v1=57%2B&f1=cf_tracking_thunderbird_esr52&query_format=advanced",
   "channel": "Release",
   "created": "2018-01-25T18:26:21.767711+00:00",
-  "is_public": false,
-  "modified": "2018-01-25T18:38:42.137493+00:00",
+  "is_public": true,
+  "modified": "2018-01-25T21:34:16.297195+00:00",
   "notes": [
     {
       "bug": 1259534,
@@ -65,7 +65,7 @@
       "created": "2018-01-25T18:26:57.628028+00:00",
       "fixed_in_release": {
         "channel": "Release",
-        "is_public": false,
+        "is_public": true,
         "product": "Thunderbird",
         "slug": "thunderbird-52.6.0-release",
         "title": "Thunderbird 52.6.0 Release",
