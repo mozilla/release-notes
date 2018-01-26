@@ -125,6 +125,16 @@
       "note": "Users running certain screen readers may experience performance issues and are advised to [use Firefox ESR][0] until performance issues are resolved in an upcoming future release\r\n\r\n[0]: https://support.mozilla.org/kb/can-i-use-my-screen-reader-new-firefox",
       "sort_num": 0,
       "tag": "Known"
+    },
+    {
+      "bug": 1433065,
+      "created": "2018-01-26T08:41:16.205192+00:00",
+      "id": 787430,
+      "is_public": false,
+      "modified": "2018-01-26T08:52:34.982470+00:00",
+      "note": "When using certain non-default security policies on Windows 10 Fall Creators Update, e.g. with Windows Defender Exploit Protection or some Webroot security products, Firefox may fail to load pages ([bug 1433065][0]).\r\n\r\n[0]: https://bugzilla.mozilla.org/1433065",
+      "sort_num": 0,
+      "tag": "Known"
     }
   ],
   "product": "Firefox",
