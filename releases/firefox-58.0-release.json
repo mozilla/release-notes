@@ -130,8 +130,8 @@
       "bug": 1433065,
       "created": "2018-01-26T08:41:16.205192+00:00",
       "id": 787430,
-      "is_public": false,
-      "modified": "2018-01-26T09:03:00.303572+00:00",
+      "is_public": true,
+      "modified": "2018-01-26T15:15:52.864839+00:00",
       "note": "When using certain non-default security policies on Windows (for example with Windows Defender Exploit Protection or Webroot security products), Firefox may fail to load pages ([bug 1433065][0]).\r\n\r\n[0]: https://bugzilla.mozilla.org/1433065",
       "sort_num": 0,
       "tag": "Known"
