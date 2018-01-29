@@ -3,8 +3,8 @@
   "bug_search_url": "",
   "channel": "Release",
   "created": "2018-01-29T08:47:51.186153+00:00",
-  "is_public": false,
-  "modified": "2018-01-29T14:59:49.671334+00:00",
+  "is_public": true,
+  "modified": "2018-01-29T17:05:09.059341+00:00",
   "notes": [
     {
       "bug": null,
@@ -15,6 +15,16 @@
       "note": "Reference link to [58.0 release notes][0]\r\n\r\n[0]: https://www.mozilla.org/firefox/58.0/releasenotes",
       "sort_num": 0,
       "tag": ""
+    },
+    {
+      "bug": null,
+      "created": "2018-01-29T09:15:13.965315+00:00",
+      "id": 787432,
+      "is_public": true,
+      "modified": "2018-01-29T17:04:53.852368+00:00",
+      "note": "[Security fix][0]\r\n\r\n[0]: https://www.mozilla.org/security/known-vulnerabilities/firefox/#firefox58.0.1",
+      "sort_num": 0,
+      "tag": "Fixed"
     },
     {
       "bug": 1433065,
