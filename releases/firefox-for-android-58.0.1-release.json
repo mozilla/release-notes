@@ -4,104 +4,14 @@
   "channel": "Release",
   "created": "2018-01-29T08:47:51.212798+00:00",
   "is_public": false,
-  "modified": "2018-01-29T08:48:15.899508+00:00",
+  "modified": "2018-01-29T09:10:23.464496+00:00",
   "notes": [
-    {
-      "bug": 1212648,
-      "created": "2018-01-22T10:24:56.049256+00:00",
-      "id": 787417,
-      "is_public": true,
-      "modified": "2018-01-29T08:47:51.228121+00:00",
-      "note": "Performance improvements, including:\r\n\r\n* Support for Progressive Web Apps\r\n* Loading pages faster by changing how [Firefox caches and retrieves JavaScript][0]\r\n\r\n[0]: https://blog.mozilla.org/javascript/2017/12/12/javascript-startup-bytecode-cache/",
-      "sort_num": 1000,
-      "tag": "New"
-    },
-    {
-      "bug": null,
-      "created": "2018-01-22T10:40:17.320196+00:00",
-      "id": 787418,
-      "is_public": true,
-      "modified": "2018-01-29T08:47:51.228121+00:00",
-      "note": "Added ability to Sync only over non-metered connections (e.g., WiFi). Setting available via Sync Preferences.",
-      "sort_num": 900,
-      "tag": "New"
-    },
-    {
-      "bug": 1329127,
-      "created": "2017-11-07T08:42:11.353403+00:00",
-      "id": 787314,
-      "is_public": true,
-      "modified": "2018-01-29T08:47:51.228121+00:00",
-      "note": "Added full screen [bookmark management with folder support][0]\r\n\r\n[0]: https://support.mozilla.org/kb/manage-bookmark-folders-firefox-android",
-      "sort_num": 800,
-      "tag": "New"
-    },
-    {
-      "bug": 1295886,
-      "created": "2017-11-07T08:50:46.843211+00:00",
-      "id": 787316,
-      "is_public": true,
-      "modified": "2018-01-29T08:47:51.228121+00:00",
-      "note": "Added support for FLAC (Free Lossless Audio Codec) playback",
-      "sort_num": 700,
-      "tag": "New"
-    },
-    {
-      "bug": 1403653,
-      "created": "2018-01-22T10:41:33.590406+00:00",
-      "id": 787420,
-      "is_public": true,
-      "modified": "2018-01-29T08:47:51.228121+00:00",
-      "note": "Added ability to change the status bar color in themes",
-      "sort_num": 500,
-      "tag": "New"
-    },
-    {
-      "bug": 1411117,
-      "created": "2017-11-07T08:40:45.917666+00:00",
-      "id": 787312,
-      "is_public": true,
-      "modified": "2018-01-29T08:47:51.228121+00:00",
-      "note": "Added Bengali from Bangladesh (bn-BD) and Nepali (ne-NP) locales",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
-      "bug": 1221344,
-      "created": "2017-11-07T08:40:15.667154+00:00",
-      "id": 787311,
-      "is_public": true,
-      "modified": "2018-01-29T08:47:51.228121+00:00",
-      "note": "Removed the Firefox Search widget from home screen",
-      "sort_num": 0,
-      "tag": "Changed"
-    },
-    {
-      "bug": 1377976,
-      "created": "2017-11-07T08:41:36.673693+00:00",
-      "id": 787313,
-      "is_public": true,
-      "modified": "2018-01-29T08:47:51.228121+00:00",
-      "note": "Updated the Safe Browsing protocol to version 4",
-      "sort_num": 0,
-      "tag": "Changed"
-    },
-    {
-      "bug": null,
-      "created": "2018-01-22T10:44:48.251222+00:00",
-      "id": 787421,
-      "is_public": true,
-      "modified": "2018-01-29T08:47:51.228121+00:00",
-      "note": "Various [security fixes][0]\r\n\r\n[0]: https://www.mozilla.org/security/known-vulnerabilities/firefox/#firefox58",
-      "sort_num": 0,
-      "tag": "Fixed"
-    },
     {
       "bug": 1420641,
       "created": "2018-01-23T19:27:49.195858+00:00",
       "id": 787428,
       "is_public": true,
-      "modified": "2018-01-29T08:47:51.228121+00:00",
+      "modified": "2018-01-29T09:10:43.222243+00:00",
       "note": "Fixed performance issue whereby some installations were initially slow to load pages",
       "sort_num": 0,
       "tag": "Fixed"
