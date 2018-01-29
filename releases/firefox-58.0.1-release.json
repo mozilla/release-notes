@@ -8,101 +8,21 @@
   "notes": [
     {
       "bug": null,
-      "created": "2018-01-22T09:41:08.780434+00:00",
-      "id": 787410,
+      "created": "2018-01-29T09:20:44.826468+00:00",
+      "id": 787434,
       "is_public": true,
-      "modified": "2018-01-29T08:47:51.202970+00:00",
-      "note": "Performance improvements, including:\r\n\r\n* Rendering graphics for Windows users by using [Off-Main-Thread Painting (OMTP)][0]\r\n* Loading pages faster by changing how [Firefox caches and retrieves JavaScript][1]\r\n\r\n[0]: https://mozillagfx.wordpress.com/2017/12/05/off-main-thread-painting/\r\n[1]: https://blog.mozilla.org/javascript/2017/12/12/javascript-startup-bytecode-cache/",
-      "sort_num": 1000,
-      "tag": "New"
-    },
-    {
-      "bug": null,
-      "created": "2018-01-22T09:43:39.835941+00:00",
-      "id": 787411,
-      "is_public": true,
-      "modified": "2018-01-29T08:47:51.202970+00:00",
-      "note": "Improvements to Firefox Screenshots:\r\n\r\n* Copy and paste screenshots directly to your clipboard\r\n* Firefox Screenshots now works in Private Browsing mode",
-      "sort_num": 100,
-      "tag": "New"
-    },
-    {
-      "bug": 1411935,
-      "created": "2017-11-07T08:28:52.161143+00:00",
-      "id": 787308,
-      "is_public": true,
-      "modified": "2018-01-29T08:47:51.202970+00:00",
-      "note": "Added Nepali (ne-NP) locale",
+      "modified": "2018-01-29T09:20:44.826283+00:00",
+      "note": "Reference link to [58.0 release notes][0]\r\n\r\n[0]: https://www.mozilla.org/firefox/58.0/releasenotes",
       "sort_num": 0,
-      "tag": "New"
+      "tag": ""
     },
     {
-      "bug": 1393627,
-      "created": "2018-01-22T19:49:18.493327+00:00",
-      "id": 787425,
+      "bug": 1433065,
+      "created": "2018-01-29T09:15:22.896427+00:00",
+      "id": 787433,
       "is_public": true,
-      "modified": "2018-01-29T08:47:51.202970+00:00",
-      "note": "*In case you missed it*\u201457 Release privacy and performance feature:\r\nUsers can [enable Tracking Protection at all times][1]. Learn how to [turn Tracking Protection on][2].\r\n\r\n\r\n[1]: https://blog.mozilla.org/blog/2018/01/23/latest-firefox-quantum-release-now-available-with-new-features\r\n[2]: https://support.mozilla.org/kb/tracking-protection#w_how-to-turn-tracking-protection-on",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
-      "bug": 1399879,
-      "created": "2017-11-07T08:30:22.573786+00:00",
-      "id": 787309,
-      "is_public": true,
-      "modified": "2018-01-29T08:47:51.202970+00:00",
-      "note": "User profiles created in Firefox 58 (and in future releases) are not supported in previous versions of Firefox. Users who downgrade to a previous version should create a new profile for that version. Learn about [alternatives to downgrading][0] on our support site.\r\n\r\n[0]: https://support.mozilla.org/kb/install-older-version-of-firefox",
-      "sort_num": 0,
-      "tag": "Changed"
-    },
-    {
-      "bug": 1409259,
-      "created": "2018-01-22T09:47:40.646463+00:00",
-      "id": 787412,
-      "is_public": true,
-      "modified": "2018-01-29T08:47:51.202970+00:00",
-      "note": "Added a warning to alert users and site owners of planned security changes to sites affected by the [gradual distrust plan][0] for the [Symantec certificate authority][1]\r\n\r\n[0]: https://wiki.mozilla.org/CA/Upcoming_Distrust_Actions\r\n[1]: https://blog.mozilla.org/security/2017/10/31/statement-digicerts-proposed-purchase-symantec/",
-      "sort_num": 0,
-      "tag": "Changed"
-    },
-    {
-      "bug": 1263722,
-      "created": "2018-01-22T10:17:01.845877+00:00",
-      "id": 787414,
-      "is_public": true,
-      "modified": "2018-01-29T08:47:51.202970+00:00",
-      "note": "Implemented the [PerformanceNavigationTiming][0] API\r\n\r\n[0]: https://developer.mozilla.org/docs/Web/API/PerformanceNavigationTiming",
-      "sort_num": 0,
-      "tag": "Developer"
-    },
-    {
-      "bug": null,
-      "created": "2018-01-22T10:17:40.920860+00:00",
-      "id": 787415,
-      "is_public": true,
-      "modified": "2018-01-29T08:47:51.202970+00:00",
-      "note": "Added [PerformanceResourceTiming.workerStart][0] so sites can measure service worker startup time\r\n\r\n[0]: https://developer.mozilla.org/docs/Web/API/PerformanceResourceTiming/workerStart",
-      "sort_num": 0,
-      "tag": "Developer"
-    },
-    {
-      "bug": 1412090,
-      "created": "2018-01-22T10:15:11.275667+00:00",
-      "id": 787413,
-      "is_public": true,
-      "modified": "2018-01-29T08:47:51.202970+00:00",
-      "note": "Fonts installed in non-standard directories will no longer appear blank for Linux users",
-      "sort_num": 0,
-      "tag": "Fixed"
-    },
-    {
-      "bug": null,
-      "created": "2018-01-22T10:44:48.251222+00:00",
-      "id": 787421,
-      "is_public": true,
-      "modified": "2018-01-29T09:10:04.004389+00:00",
-      "note": "Various [security fixes][0]\r\n\r\n[0]: https://www.mozilla.org/security/known-vulnerabilities/firefox/#firefox58",
+      "modified": "2018-01-29T09:17:12.132271+00:00",
+      "note": "When using certain non-default security policies on Windows (for example with Windows Defender Exploit Protection or Webroot security products), Firefox 58.0 would fail to load pages ([bug 1433065][0]).\r\n\r\n[0]: https://bugzilla.mozilla.org/1433065",
       "sort_num": 0,
       "tag": "Fixed"
     },
@@ -123,16 +43,6 @@
       "is_public": true,
       "modified": "2018-01-29T08:47:51.202970+00:00",
       "note": "Users running certain screen readers may experience performance issues and are advised to [use Firefox ESR][0] until performance issues are resolved in an upcoming future release\r\n\r\n[0]: https://support.mozilla.org/kb/can-i-use-my-screen-reader-new-firefox",
-      "sort_num": 0,
-      "tag": "Known"
-    },
-    {
-      "bug": 1433065,
-      "created": "2018-01-26T08:41:16.205192+00:00",
-      "id": 787430,
-      "is_public": true,
-      "modified": "2018-01-29T08:47:51.202970+00:00",
-      "note": "When using certain non-default security policies on Windows (for example with Windows Defender Exploit Protection or Webroot security products), Firefox may fail to load pages ([bug 1433065][0]).\r\n\r\n[0]: https://bugzilla.mozilla.org/1433065",
       "sort_num": 0,
       "tag": "Known"
     }
