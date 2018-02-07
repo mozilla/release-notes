@@ -35,6 +35,16 @@
       "note": "Tab crash during printing",
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": 1433591,
+      "created": "2018-02-07T18:35:29.304533+00:00",
+      "id": 787439,
+      "is_public": true,
+      "modified": "2018-02-07T18:38:12.840100+00:00",
+      "note": "Fix clicking links and scrolling emails on Microsoft Hotmail and Outlook (OWA) webmail",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
