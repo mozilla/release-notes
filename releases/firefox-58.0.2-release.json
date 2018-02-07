@@ -15,6 +15,26 @@
       "note": "Sometimes Firefox updates lead to macOS signature issues",
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": 1433790,
+      "created": "2018-02-07T17:42:58.768583+00:00",
+      "id": 787436,
+      "is_public": true,
+      "modified": "2018-02-07T17:48:42.801527+00:00",
+      "note": "Blocklisted graphics drivers related to off main thread painting crashes",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1426087,
+      "created": "2018-02-07T17:52:09.841144+00:00",
+      "id": 787438,
+      "is_public": true,
+      "modified": "2018-02-07T17:52:09.840881+00:00",
+      "note": "Tab crash during printing",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",

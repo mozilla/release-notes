@@ -5,7 +5,18 @@
   "created": "2018-02-07T17:16:13.186440+00:00",
   "is_public": false,
   "modified": "2018-02-07T17:27:24.352499+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": 1310491,
+      "created": "2018-02-07T17:50:31.945816+00:00",
+      "id": 787437,
+      "is_public": true,
+      "modified": "2018-02-07T17:50:31.945572+00:00",
+      "note": "If the user cancels a download by exiting our app chooser dialogue without choosing anything, the download continues invisibly in background.",
+      "sort_num": 0,
+      "tag": "Fixed"
+    }
+  ],
   "product": "Firefox for Android",
   "release_date": "2018-02-07",
   "slug": "firefox-for-android-58.0.2-release",
