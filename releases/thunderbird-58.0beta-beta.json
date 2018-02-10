@@ -19,7 +19,7 @@
       },
       "id": 787364,
       "is_public": true,
-      "modified": "2017-11-24T16:21:47.304902+00:00",
+      "modified": "2018-02-10T19:27:33.228046+00:00",
       "note": "When composing a message, attachments can now be reordered",
       "sort_num": 50,
       "tag": "New"
@@ -37,7 +37,7 @@
       },
       "id": 787397,
       "is_public": true,
-      "modified": "2018-01-07T12:53:37.906745+00:00",
+      "modified": "2018-02-10T19:27:23.291355+00:00",
       "note": "Calendar: Allow email scheduling for CalDAV servers supporting server-side scheduling",
       "sort_num": 40,
       "tag": "New"
@@ -55,7 +55,7 @@
       },
       "id": 787362,
       "is_public": true,
-      "modified": "2017-11-24T16:20:09.176722+00:00",
+      "modified": "2018-02-10T19:27:35.963829+00:00",
       "note": "Thunderbird Chat now contains multiple built-in message themes",
       "sort_num": 10,
       "tag": "New"
@@ -73,7 +73,7 @@
       },
       "id": 787363,
       "is_public": true,
-      "modified": "2017-11-24T16:20:51.128282+00:00",
+      "modified": "2018-02-10T19:27:33.970388+00:00",
       "note": "Thunderbird Chat: Nicknames inside of messages are colored to match the participants list",
       "sort_num": 0,
       "tag": "Changed"
@@ -91,7 +91,7 @@
       },
       "id": 787396,
       "is_public": true,
-      "modified": "2018-01-25T18:30:30.449534+00:00",
+      "modified": "2018-02-10T19:27:24.472426+00:00",
       "note": "Searching message bodies of messages in local folders, including filter and quick filter operations, not working reliably: Content not found in base64-encode message parts, non-ASCII text not found and false positives found.",
       "sort_num": 100,
       "tag": "Fixed"
@@ -109,7 +109,7 @@
       },
       "id": 787395,
       "is_public": true,
-      "modified": "2018-01-25T18:30:51.081209+00:00",
+      "modified": "2018-02-10T19:27:25.918939+00:00",
       "note": "Defective messages (without at least one expected header) not shown in IMAP folders but shown on mobile devices",
       "sort_num": 20,
       "tag": "Fixed"
@@ -127,7 +127,7 @@
       },
       "id": 787365,
       "is_public": true,
-      "modified": "2017-11-24T16:25:26.489534+00:00",
+      "modified": "2018-02-10T19:27:32.486840+00:00",
       "note": "Better error handling for Yahoo accounts",
       "sort_num": 15,
       "tag": "Fixed"
@@ -145,7 +145,7 @@
       },
       "id": 787366,
       "is_public": true,
-      "modified": "2017-11-24T16:23:16.940116+00:00",
+      "modified": "2018-02-10T19:27:31.504236+00:00",
       "note": "Outlook import",
       "sort_num": 10,
       "tag": "Fixed"
@@ -163,7 +163,7 @@
       },
       "id": 787367,
       "is_public": true,
-      "modified": "2017-11-24T16:25:14.314193+00:00",
+      "modified": "2018-02-10T19:27:30.345659+00:00",
       "note": "Performance problem when repairing, rebuilding or compacting folders or accessing large folders",
       "sort_num": 5,
       "tag": "Fixed"
@@ -173,7 +173,7 @@
       "created": "2017-12-12T12:04:35.009494+00:00",
       "id": 787386,
       "is_public": true,
-      "modified": "2018-01-07T12:54:40.779910+00:00",
+      "modified": "2018-02-10T19:27:27.290339+00:00",
       "note": "Localised versions of Thunderbird didn't show a localised name for Hotmail's \"Deleted\" folder ",
       "sort_num": 4,
       "tag": "Fixed"
@@ -191,7 +191,7 @@
       },
       "id": 787398,
       "is_public": true,
-      "modified": "2018-01-25T18:30:19.031448+00:00",
+      "modified": "2018-02-10T19:27:22.321387+00:00",
       "note": "Calendar: Unintended task deletion if numlock is enabled",
       "sort_num": 3,
       "tag": "Fixed"
@@ -209,7 +209,7 @@
       },
       "id": 787399,
       "is_public": true,
-      "modified": "2018-01-07T12:56:50.209277+00:00",
+      "modified": "2018-02-10T19:27:20.665555+00:00",
       "note": "Calendar: Can't copy information from event dialog for received invitations\r\n",
       "sort_num": 2,
       "tag": "Fixed"
