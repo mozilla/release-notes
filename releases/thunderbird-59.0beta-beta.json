@@ -169,24 +169,6 @@
       "tag": "Fixed"
     },
     {
-      "bug": null,
-      "created": "2018-02-11T13:45:24.157166+00:00",
-      "fixed_in_release": {
-        "channel": "Beta",
-        "is_public": false,
-        "product": "Thunderbird",
-        "slug": "thunderbird-59.0beta-beta",
-        "title": "Thunderbird 59.0beta Beta",
-        "version": "59.0beta"
-      },
-      "id": 787453,
-      "is_public": true,
-      "modified": "2018-02-11T13:45:24.156980+00:00",
-      "note": "Calendar: Wrong time formatting for some time zones",
-      "sort_num": 50,
-      "tag": "Fixed"
-    },
-    {
       "bug": 1419735,
       "created": "2018-02-10T19:41:00.862848+00:00",
       "fixed_in_release": {
@@ -199,9 +181,27 @@
       },
       "id": 787444,
       "is_public": true,
-      "modified": "2018-02-10T19:41:00.862658+00:00",
+      "modified": "2018-02-11T14:18:23.885664+00:00",
       "note": "Shared IMAP folders not shown in subscribe dialog under some circumstances",
-      "sort_num": 0,
+      "sort_num": 100,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1396639,
+      "created": "2018-02-11T13:45:24.157166+00:00",
+      "fixed_in_release": {
+        "channel": "Beta",
+        "is_public": false,
+        "product": "Thunderbird",
+        "slug": "thunderbird-59.0beta-beta",
+        "title": "Thunderbird 59.0beta Beta",
+        "version": "59.0beta"
+      },
+      "id": 787453,
+      "is_public": true,
+      "modified": "2018-02-11T14:23:51.886869+00:00",
+      "note": "Calendar: Wrong time formatting for some time zones",
+      "sort_num": 50,
       "tag": "Fixed"
     },
     {
