@@ -5,7 +5,28 @@
   "created": "2018-01-22T21:32:24.640485+00:00",
   "is_public": true,
   "modified": "2018-01-31T16:56:46.677041+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": 1438308,
+      "created": "2018-02-22T10:26:22.501507+00:00",
+      "id": 787454,
+      "is_public": true,
+      "modified": "2018-02-22T10:26:22.501319+00:00",
+      "note": "On Windows, the shortcut for entering Reader View has changed to F9, for better compatibility with keyboard layouts which use AltGr.",
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
+      "bug": 1313188,
+      "created": "2018-02-22T10:26:22.827100+00:00",
+      "id": 787455,
+      "is_public": true,
+      "modified": "2018-02-22T10:29:49.869186+00:00",
+      "note": "It is no longer possible to have multiple bookmark keywords for the same url, unless the request has different POST data.",
+      "sort_num": 0,
+      "tag": "Changed"
+    }
+  ],
   "product": "Firefox",
   "release_date": "2018-01-22",
   "slug": "firefox-60.0a1-nightly",
