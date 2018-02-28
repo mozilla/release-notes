@@ -7,6 +7,16 @@
   "modified": "2018-02-28T13:38:02.484943+00:00",
   "notes": [
     {
+      "bug": 1245527,
+      "created": "2018-02-28T14:33:14.347423+00:00",
+      "id": 787456,
+      "is_public": true,
+      "modified": "2018-02-28T14:33:14.347229+00:00",
+      "note": "Added support for Web Authentication, allowing the use of USB tokens for authentication to web sites",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1438308,
       "created": "2018-02-22T10:26:22.501507+00:00",
       "id": 787454,
