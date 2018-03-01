@@ -21,8 +21,8 @@
       "created": "2018-01-23T19:27:49.195858+00:00",
       "id": 787428,
       "is_public": true,
-      "modified": "2018-01-29T09:10:43.222243+00:00",
-      "note": "Fixed performance issue whereby some installations were initially slow to load pages",
+      "modified": "2018-03-01T08:28:38.281384+00:00",
+      "note": "Fixed performance issue whereby some installations were initially slow to load pages ([Bug 1420641][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1420641",
       "sort_num": 0,
       "tag": "Fixed"
     }
