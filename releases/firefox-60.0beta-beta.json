@@ -17,6 +17,16 @@
       "tag": "New"
     },
     {
+      "bug": 1441021,
+      "created": "2018-03-01T15:30:02.619660+00:00",
+      "id": 787458,
+      "is_public": true,
+      "modified": "2018-03-01T15:30:02.619479+00:00",
+      "note": "Locale added: Occitan (oc)",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1438308,
       "created": "2018-02-22T10:26:22.501507+00:00",
       "id": 787454,
@@ -35,6 +45,16 @@
       "note": "It is no longer possible to have multiple bookmark keywords for the same url, unless the request has different POST data.",
       "sort_num": 0,
       "tag": "Changed"
+    },
+    {
+      "bug": 1428816,
+      "created": "2018-03-01T15:28:19.698824+00:00",
+      "id": 787457,
+      "is_public": true,
+      "modified": "2018-03-01T15:28:19.698561+00:00",
+      "note": "Responsive Design Mode now offers explicit control over whether the page should reload.",
+      "sort_num": 0,
+      "tag": "Developer"
     }
   ],
   "product": "Firefox",
