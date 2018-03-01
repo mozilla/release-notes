@@ -21,8 +21,8 @@
       "created": "2018-02-07T17:29:28.312655+00:00",
       "id": 787435,
       "is_public": true,
-      "modified": "2018-02-07T19:15:24.184151+00:00",
-      "note": "Avoid a signature validation issue during update on macOS",
+      "modified": "2018-03-01T12:40:22.974980+00:00",
+      "note": "Avoid a signature validation issue during update on macOS ([bug 1431342][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1431342",
       "sort_num": 0,
       "tag": "Fixed"
     },
