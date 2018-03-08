@@ -11,8 +11,8 @@
       "created": "2018-03-08T19:21:18.735856+00:00",
       "id": 787464,
       "is_public": true,
-      "modified": "2018-03-08T19:24:13.396550+00:00",
-      "note": "Performance enhancements:\r\n - Faster page load times using Race Cache With Network (RCWN)\r\n - Faster load times for content on the Firefox Home page\r\n - Improved graphics rendering using [Off-Main-Thread Painting (OMTP)][1] for Mac users (OMTP for Windows and Linux was released in [Firefox 58][2])\r\n\r\n  [1]: https://mozillagfx.wordpress.com/2017/12/05/off-main-thread-painting/\r\n  [2]: https://www.mozilla.org/en-US/firefox/58.0/releasenotes/",
+      "modified": "2018-03-08T20:03:27.547603+00:00",
+      "note": "Performance enhancements:\r\n - Faster load times for content on the Firefox Home page\r\n - Faster page load times by loading either from the networked cache or the cache on the user\u2019s hard drive (Race Cache With Network)\r\n - Improved graphics rendering using [Off-Main-Thread Painting (OMTP)][1] for Mac users (OMTP for Windows and Linux was released in [Firefox 58][2])\r\n\r\n  [1]: https://mozillagfx.wordpress.com/2017/12/05/off-main-thread-painting/\r\n  [2]: https://www.mozilla.org/en-US/firefox/58.0/releasenotes/",
       "sort_num": 0,
       "tag": "New"
     },
@@ -21,8 +21,8 @@
       "created": "2018-03-08T19:25:29.733823+00:00",
       "id": 787466,
       "is_public": true,
-      "modified": "2018-03-08T19:25:29.733527+00:00",
-      "note": "Drag-and-drop to rearrange Top Sites on the Firefox Home page, [and other ways to customize new windows and tabs][1].\r\n\r\n\r\n  [1]: https://support.mozilla.org/en-US/kb/customize-new-tab-page#w_rearrange-top-sites",
+      "modified": "2018-03-08T20:00:45.535317+00:00",
+      "note": "Drag-and-drop to rearrange Top Sites on the Firefox Home page, [and customize new windows and tabs][1] in other ways.\r\n\r\n  [1]: https://support.mozilla.org/en-US/kb/customize-new-tab-page#w_rearrange-top-sites",
       "sort_num": 0,
       "tag": "New"
     },
@@ -41,8 +41,8 @@
       "created": "2018-03-08T19:29:03.566587+00:00",
       "id": 787468,
       "is_public": true,
-      "modified": "2018-03-08T19:39:52.272425+00:00",
-      "note": "Added the ability to [autofill credit card][1] information in forms (en-US release only).\r\n\r\n\r\n  [1]: https://support.mozilla.org/en-US/kb/automatically-fill-address-and-credit-cards",
+      "modified": "2018-03-08T20:04:04.653040+00:00",
+      "note": "Added the ability to [autofill credit card][1] information in forms (en-US release only)\r\n\r\n\r\n  [1]: https://support.mozilla.org/en-US/kb/automatically-fill-address-and-credit-cards",
       "sort_num": 0,
       "tag": "New"
     },
@@ -61,8 +61,8 @@
       "created": "2018-03-08T19:33:12.467513+00:00",
       "id": 787470,
       "is_public": true,
-      "modified": "2018-03-08T19:44:29.824114+00:00",
-      "note": "Added an [Accessibility Service Indicator][1] icon that appears when Firefox Accessibility Service is in use (Windows only).\r\n\r\n\r\n  [1]: https://support.mozilla.org/en-US/kb/accessibility-services",
+      "modified": "2018-03-08T20:03:53.568630+00:00",
+      "note": "Added an [Accessibility Service Indicator][1] icon that appears when Firefox Accessibility Service is in use (Windows only)\r\n\r\n\r\n  [1]: https://support.mozilla.org/en-US/kb/accessibility-services",
       "sort_num": 0,
       "tag": "New"
     },
@@ -83,6 +83,16 @@
       "is_public": true,
       "modified": "2018-03-08T19:55:10.461721+00:00",
       "note": "Improved Real-Time Communications (RTC) capabilities.\r\n - Implemented RTP Transceiver to give pages more fine grained control over calls\r\n - Implemented get Contributing Sources and get Synchronization Sources to support large scale conferences",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2018-03-08T19:56:05.380242+00:00",
+      "id": 787476,
+      "is_public": true,
+      "modified": "2018-03-08T19:56:05.380062+00:00",
+      "note": "Added support for W3C Pointer events and improved platform integration, with added device support for mouse, pen, and touch screen pointer input.",
       "sort_num": 0,
       "tag": "New"
     }
