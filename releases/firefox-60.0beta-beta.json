@@ -37,6 +37,16 @@
       "tag": "New"
     },
     {
+      "bug": 1433173,
+      "created": "2018-03-08T19:49:34.199413+00:00",
+      "id": 787472,
+      "is_public": true,
+      "modified": "2018-03-08T19:49:54.928885+00:00",
+      "note": "The policy engine is now available to customize Firefox before deployments in Enterprise environments (more details on [https://developer.mozilla.org/Firefox/Enterprise_deployment][1])\r\n\r\n\r\n  [1]: https://developer.mozilla.org/Firefox/Enterprise_deployment",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1438308,
       "created": "2018-02-22T10:26:22.501507+00:00",
       "id": 787454,
@@ -63,6 +73,26 @@
       "is_public": true,
       "modified": "2018-03-01T15:28:19.698561+00:00",
       "note": "Responsive Design Mode now offers explicit control over whether the page should reload.",
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
+      "bug": null,
+      "created": "2018-03-08T19:50:46.296766+00:00",
+      "id": 787473,
+      "is_public": true,
+      "modified": "2018-03-08T19:51:08.574735+00:00",
+      "note": "[Web Platform Changes][1] \r\n\r\n\r\n  [1]: https://developer.mozilla.org/Firefox/Releases/60#Changes_for_Web_developers",
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
+      "bug": 1193394,
+      "created": "2018-03-08T19:51:54.788178+00:00",
+      "id": 787474,
+      "is_public": true,
+      "modified": "2018-03-08T19:51:54.787921+00:00",
+      "note": "Developers can now use promises within IndexedDB transactions",
       "sort_num": 0,
       "tag": "Developer"
     }

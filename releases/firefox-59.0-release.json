@@ -31,8 +31,8 @@
       "created": "2018-03-08T19:28:25.858197+00:00",
       "id": 787467,
       "is_public": true,
-      "modified": "2018-03-08T19:38:26.474521+00:00",
-      "note": "[Added features][1] for [Firefox Screenshots][2]:\r\n - Basic annotation lets you draw on and highlight saved screenshots\r\n - Recropping to change the viewable area of your saved screenshots\r\n\r\n\r\n  [1]: https://support.mozilla.org/en-US/kb/firefox-screenshots#w_how-do-i-edit-screenshots\r\n  [2]: https://screenshots.firefox.com/",
+      "modified": "2018-03-08T19:42:27.354349+00:00",
+      "note": "[Added features][1] for [Firefox Screenshots][2]:\r\n - Basic annotation lets the user draw on and highlight saved screenshots\r\n - Recropping to change the viewable area of saved screenshots\r\n\r\n\r\n  [1]: https://support.mozilla.org/en-US/kb/firefox-screenshots#w_how-do-i-edit-screenshots\r\n  [2]: https://screenshots.firefox.com/",
       "sort_num": 0,
       "tag": "New"
     },
@@ -48,11 +48,41 @@
     },
     {
       "bug": null,
+      "created": "2018-03-08T19:30:23.557415+00:00",
+      "id": 787469,
+      "is_public": true,
+      "modified": "2018-03-08T19:45:01.926832+00:00",
+      "note": "A [search setting][1] for prioritizing search suggestions or browsing history in the address bar was added.\r\n\r\n\r\n  [1]: https://support.mozilla.org/en-US/kb/change-your-default-search-settings-firefox#w_provide-search-suggestions",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2018-03-08T19:33:12.467513+00:00",
+      "id": 787470,
+      "is_public": true,
+      "modified": "2018-03-08T19:44:29.824114+00:00",
+      "note": "Added an [Accessibility Service Indicator][1] icon that appears when Firefox Accessibility Service is in use (Windows only).\r\n\r\n\r\n  [1]: https://support.mozilla.org/en-US/kb/accessibility-services",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
       "created": "2018-03-08T19:36:25.167593+00:00",
       "id": 787471,
       "is_public": true,
-      "modified": "2018-03-08T19:36:25.167401+00:00",
-      "note": "[Added features][1] for [Firefox Screenshots][2]:\r\n - Basic annotation lets you draw on and highlight saved screenshots\r\n - Recropping to change the viewable area of your saved screenshots\r\n\r\n\r\n  [1]: https://support.mozilla.org/en-US/kb/firefox-screenshots#w_how-do-i-edit-screenshots\r\n  [2]: https://screenshots.firefox.com/",
+      "modified": "2018-03-08T19:46:56.561938+00:00",
+      "note": "Improved security for add-ons by implementing Content Security Policy for Content Scripts.",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2018-03-08T19:55:10.461971+00:00",
+      "id": 787475,
+      "is_public": true,
+      "modified": "2018-03-08T19:55:10.461721+00:00",
+      "note": "Improved Real-Time Communications (RTC) capabilities.\r\n - Implemented RTP Transceiver to give pages more fine grained control over calls\r\n - Implemented get Contributing Sources and get Synchronization Sources to support large scale conferences",
       "sort_num": 0,
       "tag": "New"
     }
