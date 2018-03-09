@@ -115,6 +115,26 @@
       "note": "Added the Qwant search engine as an option for French Firefox",
       "sort_num": 0,
       "tag": "New"
+    },
+    {
+      "bug": 1368744,
+      "created": "2018-03-09T21:01:58.225226+00:00",
+      "id": 787480,
+      "is_public": true,
+      "modified": "2018-03-09T21:01:58.225035+00:00",
+      "note": "Added new [permissions settings in about:preferences][1] that provide controls to stop intrusive websites from offering notifications or accessing advanced device features such as camera and geolocation, while still allowing trusted websites to use these features\r\n\r\n\r\n  [1]: https://support.mozilla.org/en-US/kb/firefox-options-preferences-and-settings#w_privacy-security-panel",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 587523,
+      "created": "2018-03-09T21:03:24.975009+00:00",
+      "id": 787481,
+      "is_public": true,
+      "modified": "2018-03-09T21:03:24.974808+00:00",
+      "note": "Firefox Private Browsing Mode will remove path information from referrers sent to third parties to help prevent third-party data leakage",
+      "sort_num": 0,
+      "tag": "Changed"
     }
   ],
   "product": "Firefox",
