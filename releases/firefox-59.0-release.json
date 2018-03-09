@@ -71,8 +71,8 @@
       "created": "2018-03-08T19:36:25.167593+00:00",
       "id": 787471,
       "is_public": true,
-      "modified": "2018-03-09T19:55:43.609656+00:00",
-      "note": "[Enhanced WebExtensions API][1] including better support for decentralized protocols and the ability to dynamically register content scripts.\r\n\r\n\r\n  [1]: https://blog.mozilla.org/addons/2018/01/26/extensions-firefox-59/",
+      "modified": "2018-03-09T19:57:33.788298+00:00",
+      "note": "[Enhanced WebExtensions API][1] including better support for decentralized protocols and the ability to dynamically register content scripts\r\n\r\n\r\n  [1]: https://blog.mozilla.org/addons/2018/01/26/extensions-firefox-59/",
       "sort_num": 0,
       "tag": "New"
     },
@@ -93,6 +93,16 @@
       "is_public": true,
       "modified": "2018-03-08T20:17:42.501248+00:00",
       "note": "Added support for W3C Pointer events and improved platform integration with added device support for mouse, pen, and touch screen pointer input.",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1438559,
+      "created": "2018-03-09T19:58:58.372351+00:00",
+      "id": 787478,
+      "is_public": true,
+      "modified": "2018-03-09T19:58:58.372164+00:00",
+      "note": "Added the Ecosia search engine as an option for German Firefox",
       "sort_num": 0,
       "tag": "New"
     }
