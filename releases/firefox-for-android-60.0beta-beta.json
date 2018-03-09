@@ -15,6 +15,16 @@
       "note": "The new CSS engine introduced in the Firefox Quantum (57.0) desktop browser is now enabled in Firefox for Android",
       "sort_num": 0,
       "tag": "New"
+    },
+    {
+      "bug": 1389829,
+      "created": "2018-03-09T13:05:49.404595+00:00",
+      "id": 787477,
+      "is_public": true,
+      "modified": "2018-03-09T13:05:49.404157+00:00",
+      "note": "Added view source option to page menu",
+      "sort_num": 0,
+      "tag": "New"
     }
   ],
   "product": "Firefox for Android",
