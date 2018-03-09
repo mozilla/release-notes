@@ -67,12 +67,12 @@
       "tag": "New"
     },
     {
-      "bug": null,
+      "bug": 1415352,
       "created": "2018-03-08T19:36:25.167593+00:00",
       "id": 787471,
       "is_public": true,
-      "modified": "2018-03-08T19:46:56.561938+00:00",
-      "note": "Improved security for add-ons by implementing Content Security Policy for Content Scripts.",
+      "modified": "2018-03-09T19:55:43.609656+00:00",
+      "note": "[Enhanced WebExtensions API][1] including better support for decentralized protocols and the ability to dynamically register content scripts.\r\n\r\n\r\n  [1]: https://blog.mozilla.org/addons/2018/01/26/extensions-firefox-59/",
       "sort_num": 0,
       "tag": "New"
     },
