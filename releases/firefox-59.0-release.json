@@ -135,6 +135,16 @@
       "note": "Firefox Private Browsing Mode will remove path information from referrers sent to third parties to help prevent third-party data leakage",
       "sort_num": 0,
       "tag": "Changed"
+    },
+    {
+      "bug": 1424505,
+      "created": "2018-03-09T21:24:28.995407+00:00",
+      "id": 787482,
+      "is_public": true,
+      "modified": "2018-03-09T21:24:28.995148+00:00",
+      "note": "On-screen keyboard on some Windows 7 devices may cause a browser crash. Users can work around this issue by turning off accessibility features in Firefox Preferences, in the Privacy and Security Permissions section",
+      "sort_num": 0,
+      "tag": "Known"
     }
   ],
   "product": "Firefox",
