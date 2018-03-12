@@ -4,8 +4,59 @@
   "channel": "Release",
   "created": "2018-02-28T20:35:58.180590+00:00",
   "is_public": false,
-  "modified": "2018-02-28T20:35:58.180299+00:00",
-  "notes": [],
+  "modified": "2018-03-12T20:23:50.208120+00:00",
+  "notes": [
+    {
+      "bug": 1413739,
+      "created": "2018-03-12T20:12:48.441289+00:00",
+      "id": 787483,
+      "is_public": true,
+      "modified": "2018-03-12T20:12:48.441058+00:00",
+      "note": "Added [Firefox as an Assist App][1] so users can start a search by long-pressing the home button\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/how-replace-google-assistant-firefox-search",
+      "sort_num": 90,
+      "tag": "New"
+    },
+    {
+      "bug": 1365505,
+      "created": "2018-03-12T20:15:53.476402+00:00",
+      "id": 787484,
+      "is_public": true,
+      "modified": "2018-03-12T20:15:53.476138+00:00",
+      "note": "Added support for HLS (HTTP Live Streaming) playback for improved compatibility with video sites",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 587523,
+      "created": "2018-03-12T20:16:45.228795+00:00",
+      "id": 787485,
+      "is_public": true,
+      "modified": "2018-03-12T20:16:45.228483+00:00",
+      "note": "Firefox Private Browsing Mode will remove path information from referrers sent to third parties to help prevent third-party data leakage",
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
+      "bug": 1408044,
+      "created": "2018-03-12T20:20:33.443790+00:00",
+      "id": 787486,
+      "is_public": true,
+      "modified": "2018-03-12T20:20:33.443608+00:00",
+      "note": "The \"about:\" page was removed. Use the \"About Firefox\" dialog instead.\r\n",
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
+      "bug": 1422263,
+      "created": "2018-03-12T20:21:20.629175+00:00",
+      "id": 787487,
+      "is_public": true,
+      "modified": "2018-03-12T20:21:20.628992+00:00",
+      "note": "Lock video full screen in landscape mode",
+      "sort_num": 0,
+      "tag": "Changed"
+    }
+  ],
   "product": "Firefox for Android",
   "release_date": "2018-03-13",
   "slug": "firefox-for-android-59.0-release",
