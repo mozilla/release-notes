@@ -4,7 +4,7 @@
   "channel": "Release",
   "created": "2018-02-28T20:26:33.581443+00:00",
   "is_public": false,
-  "modified": "2018-02-28T20:27:17.980268+00:00",
+  "modified": "2018-03-12T19:28:43.231568+00:00",
   "notes": [
     {
       "bug": 1307504,
@@ -21,8 +21,8 @@
       "created": "2018-03-08T19:25:29.733823+00:00",
       "id": 787466,
       "is_public": true,
-      "modified": "2018-03-08T23:35:05.911923+00:00",
-      "note": "Drag-and-drop to rearrange Top Sites on the Firefox Home page, [and customize new windows and tabs][1] in other ways.\r\n\r\n  [1]: https://support.mozilla.org/en-US/kb/customize-new-tab-page#w_rearrange-top-sites",
+      "modified": "2018-03-12T19:29:24.589743+00:00",
+      "note": "Drag-and-drop to rearrange Top Sites on the Firefox Home page, and [customize new windows and tabs][1] in other ways.\r\n\r\n  [1]: https://support.mozilla.org/en-US/kb/customize-new-tab-page#w_rearrange-top-sites",
       "sort_num": 0,
       "tag": "New"
     },
@@ -37,26 +37,6 @@
       "tag": "New"
     },
     {
-      "bug": null,
-      "created": "2018-03-08T19:30:23.557415+00:00",
-      "id": 787469,
-      "is_public": true,
-      "modified": "2018-03-08T20:12:18.478962+00:00",
-      "note": "Allow the user to prioritize search suggestions or browsing history in the address bar with [search settings][1].\r\n\r\n\r\n  [1]: https://support.mozilla.org/en-US/kb/change-your-default-search-settings-firefox#w_provide-search-suggestions",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
-      "bug": null,
-      "created": "2018-03-08T19:33:12.467513+00:00",
-      "id": 787470,
-      "is_public": true,
-      "modified": "2018-03-08T20:14:26.924683+00:00",
-      "note": "Added an [Accessibility Service Indicator][1] icon that appears when accessibility features are in use (Windows only)\r\n\r\n\r\n  [1]: https://support.mozilla.org/en-US/kb/accessibility-services",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
       "bug": 1415352,
       "created": "2018-03-08T19:36:25.167593+00:00",
       "id": 787471,
@@ -67,21 +47,21 @@
       "tag": "New"
     },
     {
-      "bug": null,
+      "bug": 1363667,
       "created": "2018-03-08T19:55:10.461971+00:00",
       "id": 787475,
       "is_public": true,
-      "modified": "2018-03-08T23:10:18.342774+00:00",
+      "modified": "2018-03-12T19:33:21.951914+00:00",
       "note": "Improved Real-Time Communications (RTC) capabilities.\r\n - Implemented RTP Transceiver to give pages more fine grained control over calls\r\n - Implemented [features to support large scale conferences][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/Firefox/Releases/57#Media_and_WebRTC",
       "sort_num": 0,
       "tag": "New"
     },
     {
-      "bug": null,
+      "bug": 822898,
       "created": "2018-03-08T19:56:05.380242+00:00",
       "id": 787476,
       "is_public": true,
-      "modified": "2018-03-09T20:51:23.137331+00:00",
+      "modified": "2018-03-12T19:36:40.042098+00:00",
       "note": "Added support for W3C specs for [pointer events][1] and improved platform integration with added device support for mouse, pen, and touch screen pointer input\r\n\r\n\r\n  [1]: https://wiki.mozilla.org/TPE_DOM/Pointer_events",
       "sort_num": 0,
       "tag": "New"
@@ -141,7 +121,7 @@
   "release_date": "2018-03-13",
   "slug": "firefox-59.0-release",
   "system_requirements": "## Windows\r\n\r\n### Operating Systems (32-bit and 64-bit)\r\n - Windows 7\r\n - Windows 8\r\n - Windows 10\r\n\r\n### Recommended Hardware\r\n-  Pentium 4 or newer processor that supports SSE2\r\n-  512MB of RAM / 2GB of RAM for the 64-bit version\r\n-  200MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- macOS 10.9\r\n- macOS 10.10\r\n- macOS 10.11\r\n- macOS 10.12\r\n- macOS 10.13\r\n\r\n### Recommended Hardware\r\n- Macintosh computer with an Intel x86 processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - GTK+ 3.4 or higher\r\n    - GLib 2.22 or higher\r\n    - Pango 1.14 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n    - libstdc++ 4.6.1 or higher\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - NetworkManager 0.7 or higher\r\n    - DBus 1.0 or higher\r\n    - GNOME 2.16 or higher\r\n    - PulseAudio\r\n\r\n  [1]: https://support.mozilla.org/kb/get-latest-version-firefox-windows-xp-vista",
-  "text": "",
+  "text": "If you\u2019re a regular reader of Firefox release notes (and thank you if you are!) you\u2019re probably aware of just how much we\u2019ve invested in the performance of Firefox Quantum. We launched an entirely new engine in [November][1], made significant improvements to graphics rendering in [January][2], and are continuing to post performance gains and add features with this release. On Firefox for desktop, we\u2019ve improved page load times, added tools to annotate and crop your Firefox Screenshots, and made it easier to arrange your Top Sites on the Firefox Home page. On Firefox for Android, we\u2019ve added support for sites that stream video using the HLS protocol. \r\n\r\nAs always, this is made possible by Mozillians around the world, including the new Mozillians who contributed to this release of Firefox.\r\n\r\n\r\n  [1]: https://www.mozilla.org/firefox/57.0/releasenotes/\r\n  [2]: https://www.mozilla.org/en-US/firefox/58.0/releasenotes/",
   "title": "Firefox 59.0 Release",
   "version": "59.0"
 }
