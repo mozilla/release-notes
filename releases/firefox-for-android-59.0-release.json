@@ -3,8 +3,8 @@
   "bug_search_url": "",
   "channel": "Release",
   "created": "2018-02-28T20:35:58.180590+00:00",
-  "is_public": false,
-  "modified": "2018-03-12T20:23:50.208120+00:00",
+  "is_public": true,
+  "modified": "2018-03-13T12:48:28.386198+00:00",
   "notes": [
     {
       "bug": 1413739,
@@ -71,7 +71,7 @@
   "release_date": "2018-03-13",
   "slug": "firefox-for-android-59.0-release",
   "system_requirements": "## Operating systems\r\n - Android 4.1\r\n - Above versions\r\n\r\n## Requirements\r\n - 50 MB internal storage\r\n - 384 MB of RAM\r\n - display at least 320 pixels high and 240 pixels wide",
-  "text": "",
+  "text": "If you\u2019re a regular reader of Firefox Release Notes (and thank you if you are!) you\u2019re probably aware of just how much we\u2019ve invested in the performance of Firefox Quantum. We launched an entirely new engine in [November][1], made significant improvements to graphics rendering in [January][2], and are continuing to post performance gains and add features with this release. On Firefox for desktop, we\u2019ve improved page load times, added tools to annotate and crop your Firefox Screenshots, and made it easier to arrange your Top Sites on the Firefox Home page. On Firefox for Android, we\u2019ve added support for sites that stream video using the HLS protocol. \r\n\r\nAs always, this is made possible by Mozillians around the world, including the [new Mozillians][3] who contributed to this release of Firefox.\r\n\r\n\r\n  [1]: https://www.mozilla.org/firefox/57.0/releasenotes/\r\n  [2]: https://www.mozilla.org/firefox/58.0/releasenotes/\r\n  [3]: https://blog.mozilla.org/community/2018/02/27/firefox-59-new-contributors/",
   "title": "Firefox for Android 59.0 Release",
   "version": "59.0"
 }
