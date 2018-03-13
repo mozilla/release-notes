@@ -2,36 +2,36 @@
   "bug_list": "",
   "bug_search_url": "",
   "channel": "ESR",
-  "created": "2018-03-07T19:15:25.814060+00:00",
-  "is_public": true,
-  "modified": "2018-03-13T12:49:37.477504+00:00",
+  "created": "2018-03-13T22:16:49.838160+00:00",
+  "is_public": false,
+  "modified": "2018-03-13T22:17:14.817727+00:00",
   "notes": [
     {
       "bug": null,
-      "created": "2018-03-07T19:18:51.460605+00:00",
-      "id": 787462,
+      "created": "2018-03-13T22:21:06.839836+00:00",
+      "id": 787491,
       "is_public": true,
-      "modified": "2018-03-13T22:18:54.533784+00:00",
-      "note": "Various stability and regression fixes",
+      "modified": "2018-03-13T22:21:06.839646+00:00",
+      "note": "Reference link to [ESR52.7.0 release notes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.com/firefox/52.7.0/releasenotes/",
       "sort_num": 0,
       "tag": ""
     },
     {
-      "bug": null,
-      "created": "2018-03-07T19:19:25.019507+00:00",
-      "id": 787463,
+      "bug": 1445278,
+      "created": "2018-03-13T22:18:18.975891+00:00",
+      "id": 787490,
       "is_public": true,
-      "modified": "2018-03-13T22:19:43.930987+00:00",
-      "note": "Various [security fixes][1]\r\n\r\n[1]: https://www.mozilla.org/security/known-vulnerabilities/firefox-esr/#firefoxesr52.7",
+      "modified": "2018-03-13T22:18:18.975703+00:00",
+      "note": "Search is broken on Firefox ESR52.7.0 - Italian \"it\" locale",
       "sort_num": 0,
-      "tag": ""
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox Extended Support Release",
-  "release_date": "2018-03-13",
-  "slug": "firefox-52.7.0-esr",
+  "release_date": "2018-03-14",
+  "slug": "firefox-52.7.1-esr",
   "system_requirements": "## Windows\r\n\r\n### Operating Systems (32-bit and 64-bit)\r\n - Windows XP SP2\r\n - Windows Server 2003 SP1\r\n - Windows Vista\r\n - Windows 7\r\n - Windows 8\r\n - Windows 10\r\n\r\n*Please note that 64-bit builds of Firefox are only supported on Windows 7 and higher.*\r\n\r\n*[The 52esr family will be the last release to run on Windows XP and Vista][2]*\r\n\r\n### Recommended Hardware\r\n-  Pentium 4 or newer processor that supports SSE2\r\n-  512MB of RAM\r\n-  200MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- macOS 10.9\r\n- macOS 10.10\r\n- macOS 10.11\r\n- macOS 10.12\r\n\r\n### Recommended Hardware\r\n- Macintosh computer with an Intel x86 processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - GTK+ 3.4 or higher\r\n    - GLib 2.22 or higher\r\n    - Pango 1.14 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n    - libstdc++ 4.6.1 or higher\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - NetworkManager 0.7 or higher\r\n    - DBus 1.0 or higher\r\n    - GNOME 2.16 or higher\r\n    - PulseAudio\r\n\r\n  [1]: https://support.mozilla.org/kb/get-latest-version-firefox-windows-xp-vista\r\n  [2]: https://blog.mozilla.org/futurereleases/2016/12/23/firefox-support-for-xp-and-vista/",
   "text": "",
-  "title": "Firefox Extended Support Release 52.7.0 ESR",
-  "version": "52.7.0"
+  "title": "Firefox Extended Support Release 52.7.1 ESR",
+  "version": "52.7.1"
 }
