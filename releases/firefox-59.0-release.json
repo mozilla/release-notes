@@ -91,8 +91,8 @@
       "created": "2018-03-09T21:01:58.225226+00:00",
       "id": 787480,
       "is_public": true,
-      "modified": "2018-03-13T01:01:07.416545+00:00",
-      "note": "Added new [permissions settings in about:preferences][1] that provide controls to stop intrusive websites from offering notifications or accessing advanced device features such as camera and geolocation, while still allowing trusted websites to use these features\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/firefox-options-preferences-and-settings#w_privacy-security-panel",
+      "modified": "2018-03-13T08:19:37.723332+00:00",
+      "note": "Added [settings in about:preferences][1] to stop websites from asking to send notifications or access your device\u2019s camera, microphone, and location, while still allowing trusted websites to use these features\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/firefox-options-preferences-and-settings#w_privacy-security-panel",
       "sort_num": 0,
       "tag": "New"
     },
