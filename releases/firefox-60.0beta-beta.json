@@ -7,6 +7,16 @@
   "modified": "2018-03-09T13:11:50.262563+00:00",
   "notes": [
     {
+      "bug": 1433173,
+      "created": "2018-03-08T19:49:34.199413+00:00",
+      "id": 787472,
+      "is_public": true,
+      "modified": "2018-03-14T14:21:23.802132+00:00",
+      "note": "The policy engine is now available to customize Firefox deployments in Enterprise environments (more details on https://wiki.mozilla.org/enterprise)",
+      "sort_num": 1000,
+      "tag": "New"
+    },
+    {
       "bug": 1294514,
       "created": "2018-02-28T14:33:14.347423+00:00",
       "id": 787456,
@@ -37,16 +47,6 @@
       "tag": "New"
     },
     {
-      "bug": 1433173,
-      "created": "2018-03-08T19:49:34.199413+00:00",
-      "id": 787472,
-      "is_public": true,
-      "modified": "2018-03-08T19:49:54.928885+00:00",
-      "note": "The policy engine is now available to customize Firefox before deployments in Enterprise environments (more details on [https://developer.mozilla.org/Firefox/Enterprise_deployment][1])\r\n\r\n\r\n  [1]: https://developer.mozilla.org/Firefox/Enterprise_deployment",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
       "bug": 1438308,
       "created": "2018-02-22T10:26:22.501507+00:00",
       "id": 787454,
@@ -63,6 +63,16 @@
       "is_public": true,
       "modified": "2018-03-12T16:25:07.505172+00:00",
       "note": "It is no longer possible to have multiple bookmark keywords for the same url, unless the request has different POST data.",
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
+      "bug": 1333468,
+      "created": "2018-03-14T14:24:06.279034+00:00",
+      "id": 787492,
+      "is_public": true,
+      "modified": "2018-03-14T14:24:06.278847+00:00",
+      "note": "Enhanced camera privacy indicators: Firefox now turns off your camera when you face-mute on web-sites that use your camera, turning off your camera light so you don't have to wonder if the site is still recording you. The light will come back on whenever recording resumes.",
       "sort_num": 0,
       "tag": "Changed"
     },
