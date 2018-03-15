@@ -5,7 +5,28 @@
   "created": "2018-03-15T19:23:12.853435+00:00",
   "is_public": false,
   "modified": "2018-03-15T19:23:12.853139+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": null,
+      "created": "2018-03-13T22:21:06.839836+00:00",
+      "id": 787491,
+      "is_public": true,
+      "modified": "2018-03-15T20:17:54.925139+00:00",
+      "note": "Reference link to [Firefox ESR 52.7.0 release notes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.com/firefox/52.7.0/releasenotes/",
+      "sort_num": 0,
+      "tag": ""
+    },
+    {
+      "bug": 1446062,
+      "created": "2018-03-15T19:59:05.673075+00:00",
+      "id": 787493,
+      "is_public": true,
+      "modified": "2018-03-15T20:17:44.464966+00:00",
+      "note": "Various [security fixes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/",
+      "sort_num": 0,
+      "tag": "Fixed"
+    }
+  ],
   "product": "Firefox Extended Support Release",
   "release_date": "2018-03-16",
   "slug": "firefox-52.7.2-esr",
