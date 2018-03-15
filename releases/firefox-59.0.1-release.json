@@ -5,7 +5,28 @@
   "created": "2018-03-15T18:18:53.864600+00:00",
   "is_public": false,
   "modified": "2018-03-15T18:18:53.864413+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": 1446062,
+      "created": "2018-03-15T19:59:05.673075+00:00",
+      "id": 787493,
+      "is_public": true,
+      "modified": "2018-03-15T19:59:05.672897+00:00",
+      "note": "Various [security fixes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1446062,
+      "created": "2018-03-15T20:00:50.523622+00:00",
+      "id": 787494,
+      "is_public": true,
+      "modified": "2018-03-15T20:02:45.286910+00:00",
+      "note": "Reference link to [59.0 release notes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.com/firefox/59.0/releasenotes/",
+      "sort_num": 0,
+      "tag": "Fixed"
+    }
+  ],
   "product": "Firefox",
   "release_date": "2018-03-16",
   "slug": "firefox-59.0.1-release",
