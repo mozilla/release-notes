@@ -125,6 +125,16 @@
       "note": "Windows 7 users using accessibility services (like the Windows On-Screen Keyboard) may observe browser crashes after the update to Firefox 59. As a workaround, affected users [can prevent external apps from triggering accessibility services in Firefox][1].\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/accessibility-services#w_how-do-i-disable-firefox-accessibility-service",
       "sort_num": 0,
       "tag": "Known"
+    },
+    {
+      "bug": null,
+      "created": "2018-03-16T15:18:38.144588+00:00",
+      "id": 787498,
+      "is_public": true,
+      "modified": "2018-03-16T16:06:10.710767+00:00",
+      "note": "No sound in Firefox 58 and 59 on Linux in some configurations.  See [our support page][1] for details and workarounds.\r\n\r\n[1]: https://support.mozilla.org/kb/no-sound-firefox-59-linux",
+      "sort_num": 0,
+      "tag": "Known"
     }
   ],
   "product": "Firefox",
