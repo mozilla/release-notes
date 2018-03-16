@@ -25,6 +25,16 @@
       "note": "Added view source option to page menu",
       "sort_num": 0,
       "tag": "New"
+    },
+    {
+      "bug": 1446062,
+      "created": "2018-03-15T19:59:05.673075+00:00",
+      "id": 787493,
+      "is_public": true,
+      "modified": "2018-03-16T16:17:11.254601+00:00",
+      "note": "Various [security fixes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox for Android",
