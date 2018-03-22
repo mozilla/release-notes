@@ -1,6 +1,6 @@
 # Mozilla Release Notes
 
-Release notes and system requirements for our various products in JSON format.
+Release notes and system requirements for Mozilla products in JSON format.
 
 ## Usage
 
