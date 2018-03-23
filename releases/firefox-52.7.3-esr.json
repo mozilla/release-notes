@@ -7,6 +7,16 @@
   "modified": "2018-03-23T00:26:54.975001+00:00",
   "notes": [
     {
+      "bug": null,
+      "created": "2018-03-23T18:22:39.473969+00:00",
+      "id": 787502,
+      "is_public": true,
+      "modified": "2018-03-23T18:22:56.776241+00:00",
+      "note": "Reference link to [Firefox ESR 52.7.2 release notes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.com/firefox/52.7.2/releasenotes/",
+      "sort_num": 0,
+      "tag": ""
+    },
+    {
       "bug": 1440717,
       "created": "2018-03-23T00:32:51.840449+00:00",
       "fixed_in_release": {
@@ -19,8 +29,8 @@
       },
       "id": 787500,
       "is_public": true,
-      "modified": "2018-03-23T00:34:00.778403+00:00",
-      "note": "Various [security fixes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/known-vulnerabilities/firefox-esr/#firefoxesr52.7.3",
+      "modified": "2018-03-23T18:20:47.517390+00:00",
+      "note": "Fix a [security issue][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/known-vulnerabilities/firefox-esr/#firefoxesr52.7.3",
       "sort_num": 0,
       "tag": "Fixed"
     }
