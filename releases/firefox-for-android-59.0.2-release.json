@@ -25,6 +25,16 @@
       "note": "Top crasher on Firefox for Android ([Bug 1444549][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1444549",
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": 1443850,
+      "created": "2018-03-23T22:58:10.738325+00:00",
+      "id": 787520,
+      "is_public": true,
+      "modified": "2018-03-23T23:04:10.371402+00:00",
+      "note": " URL Fragment Identifiers Break Service Worker Responses ([Bug 1443850][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1443850",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox for Android",
