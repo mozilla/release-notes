@@ -25,6 +25,36 @@
       "note": " Invalid page rendering with hardware acceleration enabled ([Bug 1435472][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1435472",
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": 1424505,
+      "created": "2018-03-23T22:47:46.491724+00:00",
+      "id": 787516,
+      "is_public": true,
+      "modified": "2018-03-23T22:47:46.491006+00:00",
+      "note": "Windows 7 users with touch screens or certain 3rd party desktop applications which interact with Firefox through accessibility services may experience random browser crashes. Known 3rd party applicatioins with issues: StickyPassword, Windows 7 touch screen. ([Bug 1424505][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1424505",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1433592,
+      "created": "2018-03-23T22:50:04.627060+00:00",
+      "id": 787517,
+      "is_public": true,
+      "modified": "2018-03-23T22:50:04.626823+00:00",
+      "note": "Browser keyboard shortcuts (eg copy Ctrl+C) don't work on sites that use those keys with resistFingerprinting enabled ([Bug 1433592][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1433592",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1446280,
+      "created": "2018-03-23T22:53:55.662210+00:00",
+      "id": 787518,
+      "is_public": true,
+      "modified": "2018-03-23T22:53:55.661968+00:00",
+      "note": "High CPU / memory churn caused by third-party software on some computers ([Bug 1446280][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1446280",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
