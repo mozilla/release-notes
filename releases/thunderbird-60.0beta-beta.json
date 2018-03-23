@@ -25,6 +25,24 @@
       "tag": "New"
     },
     {
+      "bug": 1428631,
+      "created": "2018-03-23T20:18:32.760494+00:00",
+      "fixed_in_release": {
+        "channel": "Beta",
+        "is_public": false,
+        "product": "Thunderbird",
+        "slug": "thunderbird-60.0beta-beta",
+        "title": "Thunderbird 60.0beta Beta",
+        "version": "60.0beta"
+      },
+      "id": 787507,
+      "is_public": true,
+      "modified": "2018-03-23T20:30:51.503383+00:00",
+      "note": "Further improvements to attachments handling during compose, Alt+M now allows to show the attachment pane.",
+      "sort_num": 200,
+      "tag": "New"
+    },
+    {
       "bug": 856087,
       "created": "2018-03-23T20:10:04.666885+00:00",
       "fixed_in_release": {
@@ -61,6 +79,42 @@
       "tag": "New"
     },
     {
+      "bug": 321434,
+      "created": "2018-03-23T20:26:27.847864+00:00",
+      "fixed_in_release": {
+        "channel": "Beta",
+        "is_public": false,
+        "product": "Thunderbird",
+        "slug": "thunderbird-60.0beta-beta",
+        "title": "Thunderbird 60.0beta Beta",
+        "version": "60.0beta"
+      },
+      "id": 787511,
+      "is_public": true,
+      "modified": "2018-03-23T20:26:27.847641+00:00",
+      "note": "Calendar: Provide an option to display locations for events in calendar day and week views",
+      "sort_num": 80,
+      "tag": "New"
+    },
+    {
+      "bug": 463402,
+      "created": "2018-03-23T20:27:13.679154+00:00",
+      "fixed_in_release": {
+        "channel": "Beta",
+        "is_public": false,
+        "product": "Thunderbird",
+        "slug": "thunderbird-60.0beta-beta",
+        "title": "Thunderbird 60.0beta Beta",
+        "version": "60.0beta"
+      },
+      "id": 787512,
+      "is_public": true,
+      "modified": "2018-03-23T20:27:13.678970+00:00",
+      "note": "Calendar: Provide the ability for sending/not sending meeting notifications directly instead of showing a popup",
+      "sort_num": 70,
+      "tag": "New"
+    },
+    {
       "bug": 1157256,
       "created": "2018-03-23T20:11:07.115824+00:00",
       "fixed_in_release": {
@@ -73,27 +127,9 @@
       },
       "id": 787505,
       "is_public": true,
-      "modified": "2018-03-23T20:15:36.136460+00:00",
-      "note": "Thunderbird will not prompt to compact IMAP folders even if the account is online",
+      "modified": "2018-03-23T20:28:51.457276+00:00",
+      "note": "Thunderbird will now prompt to compact IMAP folders even if the account is online",
       "sort_num": 900,
-      "tag": "Changed"
-    },
-    {
-      "bug": 1428631,
-      "created": "2018-03-23T20:18:32.760494+00:00",
-      "fixed_in_release": {
-        "channel": "Beta",
-        "is_public": false,
-        "product": "Thunderbird",
-        "slug": "thunderbird-60.0beta-beta",
-        "title": "Thunderbird 60.0beta Beta",
-        "version": "60.0beta"
-      },
-      "id": 787507,
-      "is_public": true,
-      "modified": "2018-03-23T20:18:32.760295+00:00",
-      "note": "Further improvements to attachments handling during compose, Alt+M now allows to show the attachment pane.",
-      "sort_num": 200,
       "tag": "Changed"
     },
     {
@@ -112,6 +148,24 @@
       "modified": "2018-03-23T20:13:00.457059+00:00",
       "note": "During address entry, the matching part of the address is now shown in bold. Preference mail.autoComplete.commentColumn allows to display the address book where the address is stored.",
       "sort_num": 100,
+      "tag": "Changed"
+    },
+    {
+      "bug": 463402,
+      "created": "2018-03-23T20:27:59.474378+00:00",
+      "fixed_in_release": {
+        "channel": "Beta",
+        "is_public": false,
+        "product": "Thunderbird",
+        "slug": "thunderbird-60.0beta-beta",
+        "title": "Thunderbird 60.0beta Beta",
+        "version": "60.0beta"
+      },
+      "id": 787513,
+      "is_public": true,
+      "modified": "2018-03-23T20:27:59.474198+00:00",
+      "note": "Calendar: Removal of capability to send email invitations compatible to Outlook 2002 and earlier",
+      "sort_num": 90,
       "tag": "Changed"
     },
     {
