@@ -5,7 +5,18 @@
   "created": "2018-03-20T20:13:19.942805+00:00",
   "is_public": false,
   "modified": "2018-03-23T00:35:26.865436+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": 1435472,
+      "created": "2018-03-23T20:09:58.333684+00:00",
+      "id": 787503,
+      "is_public": true,
+      "modified": "2018-03-23T20:09:58.333446+00:00",
+      "note": " Invalid page rendering with hardware acceleration enabled ([Bug 1435472][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1435472",
+      "sort_num": 0,
+      "tag": "Fixed"
+    }
+  ],
   "product": "Firefox",
   "release_date": "2018-03-26",
   "slug": "firefox-59.0.2-release",
