@@ -25,6 +25,24 @@
       "tag": "Fixed"
     },
     {
+      "bug": 1408610,
+      "created": "2017-11-24T16:22:44.662885+00:00",
+      "fixed_in_release": {
+        "channel": "Beta",
+        "is_public": true,
+        "product": "Thunderbird",
+        "slug": "thunderbird-58.0beta-beta",
+        "title": "Thunderbird 58.0beta Beta",
+        "version": "58.0beta"
+      },
+      "id": 787365,
+      "is_public": true,
+      "modified": "2018-03-23T09:42:55.805805+00:00",
+      "note": "Better error handling for Yahoo accounts",
+      "sort_num": 15,
+      "tag": "Fixed"
+    },
+    {
       "bug": null,
       "created": "2018-03-23T09:35:25.995815+00:00",
       "fixed_in_release": {
