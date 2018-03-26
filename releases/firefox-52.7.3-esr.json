@@ -3,8 +3,8 @@
   "bug_search_url": "",
   "channel": "ESR",
   "created": "2018-03-23T00:26:31.600540+00:00",
-  "is_public": false,
-  "modified": "2018-03-23T00:26:54.975001+00:00",
+  "is_public": true,
+  "modified": "2018-03-26T18:00:18.590699+00:00",
   "notes": [
     {
       "bug": null,
@@ -21,7 +21,7 @@
       "created": "2018-03-23T00:32:51.840449+00:00",
       "fixed_in_release": {
         "channel": "ESR",
-        "is_public": false,
+        "is_public": true,
         "product": "Firefox Extended Support Release",
         "slug": "firefox-52.7.3-esr",
         "title": "Firefox Extended Support Release 52.7.3 ESR",
