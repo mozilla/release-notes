@@ -4,7 +4,7 @@
   "channel": "Release",
   "created": "2018-03-20T20:13:19.942805+00:00",
   "is_public": true,
-  "modified": "2018-03-26T18:00:18.590699+00:00",
+  "modified": "2018-03-28T16:38:56.174079+00:00",
   "notes": [
     {
       "bug": null,
@@ -31,8 +31,8 @@
       "created": "2018-03-23T22:47:46.491724+00:00",
       "id": 787516,
       "is_public": true,
-      "modified": "2018-03-23T22:47:46.491006+00:00",
-      "note": "Windows 7 users with touch screens or certain 3rd party desktop applications which interact with Firefox through accessibility services may experience random browser crashes. Known 3rd party applicatioins with issues: StickyPassword, Windows 7 touch screen. ([Bug 1424505][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1424505",
+      "modified": "2018-03-28T16:36:46.959113+00:00",
+      "note": "Windows 7 users with touch screens or certain 3rd party desktop applications which interact with Firefox through accessibility services may experience random browser crashes. Known 3rd party applications with issues: StickyPassword, Windows 7 touch screen. ([Bug 1424505][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1424505",
       "sort_num": 0,
       "tag": "Fixed"
     },
@@ -71,8 +71,8 @@
       "created": "2018-03-23T22:58:10.738325+00:00",
       "id": 787520,
       "is_public": true,
-      "modified": "2018-03-23T23:04:10.371402+00:00",
-      "note": " URL Fragment Identifiers Break Service Worker Responses ([Bug 1443850][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1443850",
+      "modified": "2018-03-28T16:37:40.466225+00:00",
+      "note": " URL fragment identifiers break Service Worker responses ([Bug 1443850][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1443850",
       "sort_num": 0,
       "tag": "Fixed"
     },
@@ -81,8 +81,8 @@
       "created": "2018-03-23T23:00:21.802824+00:00",
       "id": 787521,
       "is_public": true,
-      "modified": "2018-03-23T23:00:21.802582+00:00",
-      "note": "User's trying to cancel a print around the time it completes will continue to get intermittent crashes ([Bug 1441598][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1441598",
+      "modified": "2018-03-28T16:38:01.759441+00:00",
+      "note": "Users trying to cancel a print around the time it completes will continue to get intermittent crashes ([Bug 1441598][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1441598",
       "sort_num": 0,
       "tag": "Fixed"
     },
