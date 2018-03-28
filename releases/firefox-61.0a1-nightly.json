@@ -15,6 +15,16 @@
       "note": "<!-- Nightly only -->\r\nTab warming was enabled for Nightly making tab switching more efficient in some cases. You can learn more about Tab Warming in [this article][1]\r\n\r\n\r\n  [1]: https://mikeconley.ca/blog/2018/01/11/making-tab-switching-faster-in-firefox-with-tab-warming/",
       "sort_num": 0,
       "tag": "New"
+    },
+    {
+      "bug": 1417883,
+      "created": "2018-03-28T15:04:10.879281+00:00",
+      "id": 787524,
+      "is_public": true,
+      "modified": "2018-03-28T15:04:10.879100+00:00",
+      "note": "Dark Themes now affect the URL bar and search drop-downs.",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
