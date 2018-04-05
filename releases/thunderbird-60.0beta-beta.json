@@ -61,6 +61,24 @@
       "tag": "New"
     },
     {
+      "bug": 1450670,
+      "created": "2018-04-05T23:01:46.575340+00:00",
+      "fixed_in_release": {
+        "channel": "Beta",
+        "is_public": true,
+        "product": "Thunderbird",
+        "slug": "thunderbird-60.0beta-beta",
+        "title": "Thunderbird 60.0beta Beta",
+        "version": "60.0beta"
+      },
+      "id": 787530,
+      "is_public": true,
+      "modified": "2018-04-05T23:01:46.575139+00:00",
+      "note": "WebExtension themes are now enabled in Thunderbird",
+      "sort_num": 95,
+      "tag": "New"
+    },
+    {
       "bug": 393084,
       "created": "2018-03-23T20:25:45.358335+00:00",
       "fixed_in_release": {
@@ -185,6 +203,24 @@
       "note": "Calendar: Removal of capability to send email invitations compatible to Outlook 2002 and earlier",
       "sort_num": 90,
       "tag": "Changed"
+    },
+    {
+      "bug": 1419145,
+      "created": "2018-04-05T22:58:49.040425+00:00",
+      "fixed_in_release": {
+        "channel": "Beta",
+        "is_public": true,
+        "product": "Thunderbird",
+        "slug": "thunderbird-60.0beta-beta",
+        "title": "Thunderbird 60.0beta Beta",
+        "version": "60.0beta"
+      },
+      "id": 787529,
+      "is_public": true,
+      "modified": "2018-04-05T22:58:49.040226+00:00",
+      "note": "The new menu item \"Add-on Options\" introduced in Thunderbird 59 beta is now also working on Mac",
+      "sort_num": 10,
+      "tag": "Fixed"
     },
     {
       "bug": 1425962,
