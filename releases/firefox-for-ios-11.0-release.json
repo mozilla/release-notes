@@ -3,18 +3,78 @@
   "bug_search_url": "",
   "channel": "Release",
   "created": "2018-04-12T16:24:15.742534+00:00",
-  "is_public": false,
-  "modified": "2018-04-12T16:25:25.982620+00:00",
+  "is_public": true,
+  "modified": "2018-04-12T16:31:42.135311+00:00",
   "notes": [
     {
       "bug": null,
       "created": "2018-04-12T16:25:55.779113+00:00",
       "id": 787531,
       "is_public": true,
-      "modified": "2018-04-12T16:25:55.778790+00:00",
-      "note": "**Tracking Protection is now enabled by default** - Tracking Protection is now turned on by default in both regular and private browsing mode.\r\n",
+      "modified": "2018-04-12T16:29:55.061831+00:00",
+      "note": "Tracking Protection:\r\n\r\n - **Tracking Protection is now enabled by default** - Tracking Protection is now turned on by default in both regular and private browsing mode.\r\n - Tracking Protection status shield is shown in the location bar\r\n - Tracking Protection is now easier to turn off or on on individual websites - right from the menu button.\r\n",
       "sort_num": 0,
-      "tag": ""
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2018-04-12T16:26:11.366693+00:00",
+      "id": 787532,
+      "is_public": true,
+      "modified": "2018-04-12T16:30:02.556352+00:00",
+      "note": "**Re-order your tabs.**  Change your tab order by long-pressing on each one and dragging them into the order you prefer.\r\n",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2018-04-12T16:27:40.194118+00:00",
+      "id": 787533,
+      "is_public": true,
+      "modified": "2018-04-12T16:30:07.238206+00:00",
+      "note": "**Choose what to Sync**\r\n",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2018-04-12T16:27:53.403775+00:00",
+      "id": 787534,
+      "is_public": true,
+      "modified": "2018-04-12T16:30:11.893741+00:00",
+      "note": "**Right-to-Left language support** - Arabic, Hebrew, Persian and Urdu\r\n",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2018-04-12T16:28:44.213116+00:00",
+      "id": 787535,
+      "is_public": true,
+      "modified": "2018-04-12T16:30:16.729508+00:00",
+      "note": "Drag and drop links and tabs to and from other apps (iPad Only)\r\n\r\n - Drag links from Firefox for iOS to copy them to another app \r\n - Drop links from another app into Firefox for iOS to open them \r\n - Drag links on any page to the \u201cNew Tab\u201d button to open them in a new tab \r\n - Drag links from Bookmarks and History to copy them to another app",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2018-04-12T16:29:05.118147+00:00",
+      "id": 787536,
+      "is_public": true,
+      "modified": "2018-04-12T16:30:20.584709+00:00",
+      "note": "Improved Bluetooth keyboard experience (iPad Only)\r\n\r\n - Improved text editing in webpages and URL bar.\r\n - Improved tab navigation, especially in the All Tabs screen.\r\n - Added cursor navigation of bookmarks and history in the URL bar.\r\n",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2018-04-12T16:29:19.935914+00:00",
+      "id": 787537,
+      "is_public": true,
+      "modified": "2018-04-12T16:29:19.935628+00:00",
+      "note": "Fixed a crash when opening PDFs on the iPad \r\n",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox for iOS",
