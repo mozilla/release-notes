@@ -37,7 +37,7 @@
       },
       "id": 787446,
       "is_public": true,
-      "modified": "2018-03-23T19:58:17.315982+00:00",
+      "modified": "2018-04-16T09:44:12.226752+00:00",
       "note": "Edit Template command. This also solves various problems when saving as template (duplicates created, message ID lost).",
       "sort_num": 150,
       "tag": "New"
@@ -55,7 +55,7 @@
       },
       "id": 787451,
       "is_public": true,
-      "modified": "2018-03-23T19:58:08.563575+00:00",
+      "modified": "2018-04-16T09:45:27.238607+00:00",
       "note": "Calendar: Option to select the target calendar when pasting an event or task",
       "sort_num": 50,
       "tag": "New"
@@ -73,7 +73,7 @@
       },
       "id": 787449,
       "is_public": true,
-      "modified": "2018-03-23T19:58:11.696652+00:00",
+      "modified": "2018-04-16T09:44:39.688132+00:00",
       "note": "Add-on options can no longer be configured from the Add-on Manager page. A new menu item \"Add-on Options\" is now available on the Tools menu.",
       "sort_num": 300,
       "tag": "Changed"
@@ -91,7 +91,7 @@
       },
       "id": 787447,
       "is_public": true,
-      "modified": "2018-03-23T19:58:15.495545+00:00",
+      "modified": "2018-04-16T09:44:26.661436+00:00",
       "note": "When customizing the From: address, Thunderbird will now use this address for the SMTP \"MAIL FROM\" command. Previously the address configured in the identity was used. The preference mail.smtp.useSenderForSmtpMailFrom allows return to the previous behavior.",
       "sort_num": 200,
       "tag": "Changed"
@@ -127,7 +127,7 @@
       },
       "id": 787452,
       "is_public": true,
-      "modified": "2018-03-23T19:58:07.037543+00:00",
+      "modified": "2018-04-16T09:45:43.747457+00:00",
       "note": "Calendar: Reminders on read-only calendars can now be dismissed, while reminders for missed events will now only be displayed for writable calendars if option \"Show missed reminders for writable calendars\" is selected",
       "sort_num": 50,
       "tag": "Changed"
@@ -145,7 +145,7 @@
       },
       "id": 787442,
       "is_public": true,
-      "modified": "2018-03-23T19:58:23.779746+00:00",
+      "modified": "2018-04-16T09:43:29.459884+00:00",
       "note": "Various problems related to handling the IMAP trash folder: Under certain circumstances the selection of the trash folder didn't persist, for example when the name contained non-ASCII characters, or in localized versions of Thunderbird. At times unwanted additional trash folders were created. Selection of a trash folder didn't give immediate visual feedback.",
       "sort_num": 200,
       "tag": "Fixed"
@@ -181,7 +181,7 @@
       },
       "id": 787444,
       "is_public": true,
-      "modified": "2018-03-23T19:58:20.380604+00:00",
+      "modified": "2018-04-16T09:43:54.352112+00:00",
       "note": "Shared IMAP folders not shown in subscribe dialog under some circumstances",
       "sort_num": 100,
       "tag": "Fixed"
@@ -199,7 +199,7 @@
       },
       "id": 787459,
       "is_public": true,
-      "modified": "2018-03-23T19:58:04.086299+00:00",
+      "modified": "2018-04-16T09:46:04.742910+00:00",
       "note": "Improvements encoding/decoding message headers",
       "sort_num": 80,
       "tag": "Fixed"
@@ -217,7 +217,7 @@
       },
       "id": 787453,
       "is_public": true,
-      "modified": "2018-03-23T19:58:05.477008+00:00",
+      "modified": "2018-04-16T09:45:55.564110+00:00",
       "note": "Calendar: Wrong time formatting for some time zones",
       "sort_num": 50,
       "tag": "Fixed"
@@ -227,7 +227,7 @@
       "created": "2018-02-10T20:02:43.351129+00:00",
       "id": 787450,
       "is_public": true,
-      "modified": "2018-03-23T20:19:31.284418+00:00",
+      "modified": "2018-04-16T09:45:13.899887+00:00",
       "note": "The IMAP and News subscribe dialogue now presents a flat list of folders instead of a folder tree. This will be restored to its original form in the next release.",
       "sort_num": 0,
       "tag": "Known"

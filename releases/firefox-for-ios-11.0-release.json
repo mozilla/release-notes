@@ -7,6 +7,24 @@
   "modified": "2018-04-12T16:31:42.135311+00:00",
   "notes": [
     {
+      "bug": 393084,
+      "created": "2018-03-23T20:25:45.358335+00:00",
+      "fixed_in_release": {
+        "channel": "Beta",
+        "is_public": true,
+        "product": "Thunderbird",
+        "slug": "thunderbird-60.0beta-beta",
+        "title": "Thunderbird 60.0beta Beta",
+        "version": "60.0beta"
+      },
+      "id": 787510,
+      "is_public": true,
+      "modified": "2018-04-16T09:54:00.271856+00:00",
+      "note": "Calendar: Allow copying, cutting or deleting of a selected occurrence or the entire series for recurring events",
+      "sort_num": 90,
+      "tag": "New"
+    },
+    {
       "bug": null,
       "created": "2018-04-12T16:25:55.779113+00:00",
       "id": 787531,
