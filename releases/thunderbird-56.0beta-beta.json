@@ -19,7 +19,7 @@
       },
       "id": 787207,
       "is_public": true,
-      "modified": "2017-11-10T15:02:52.791225+00:00",
+      "modified": "2018-04-16T09:28:40.071332+00:00",
       "note": "An option under \"Tools > Options, Advanced, General\" now allows to select whether date/time display will follow the application locale (adjusted by operating system's format settings for that locale) or the locale selected in the operating system's regional settings. In other words, an US English Thunderbird can use, for example, German formats.",
       "sort_num": 0,
       "tag": "New"
@@ -55,7 +55,7 @@
       },
       "id": 787210,
       "is_public": true,
-      "modified": "2017-11-10T15:02:49.546899+00:00",
+      "modified": "2018-04-16T09:27:50.136967+00:00",
       "note": "IMAP: When after sending a message storing that sent message fails, the message can now be stored in a local folder",
       "sort_num": 0,
       "tag": "Changed"
@@ -73,7 +73,7 @@
       },
       "id": 787213,
       "is_public": true,
-      "modified": "2017-11-10T15:02:46.216672+00:00",
+      "modified": "2018-04-16T09:27:22.962165+00:00",
       "note": "When messages are composed in paragraph format, \"body text\" and split mail quotes are converted to paragraphs when pressing the enter key",
       "sort_num": 0,
       "tag": "Changed"
@@ -91,7 +91,7 @@
       },
       "id": 787215,
       "is_public": true,
-      "modified": "2017-11-10T15:02:44.164538+00:00",
+      "modified": "2018-04-16T09:26:32.337804+00:00",
       "note": "Thunderbird now uses the latest Mozilla technology based on Rust for encoding messages",
       "sort_num": 0,
       "tag": "Changed"
@@ -181,7 +181,7 @@
       },
       "id": 787209,
       "is_public": true,
-      "modified": "2017-11-10T15:02:50.646640+00:00",
+      "modified": "2018-04-16T09:28:21.365652+00:00",
       "note": "Contacts sidebar: Selection and context menu behavior",
       "sort_num": 0,
       "tag": "Fixed"

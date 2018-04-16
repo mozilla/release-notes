@@ -19,7 +19,7 @@
       },
       "id": 787335,
       "is_public": true,
-      "modified": "2017-11-24T16:19:16.542906+00:00",
+      "modified": "2018-04-16T09:34:51.419417+00:00",
       "note": "Allow changing the Spellcheck Language from status bar display",
       "sort_num": 20,
       "tag": "New"
@@ -37,7 +37,7 @@
       },
       "id": 787334,
       "is_public": true,
-      "modified": "2017-11-24T16:19:17.903538+00:00",
+      "modified": "2018-04-16T09:34:41.031242+00:00",
       "note": "\"New Message from Template\" command",
       "sort_num": 10,
       "tag": "New"
@@ -55,7 +55,7 @@
       },
       "id": 787336,
       "is_public": true,
-      "modified": "2017-11-24T16:19:15.237269+00:00",
+      "modified": "2018-04-16T09:35:02.305965+00:00",
       "note": "\"Edit As New Message\" will now use the account's default compose format, either HTML or plain text ignoring the format of the message. Plain text messages will be converted to HTML and vice versa. Then using the modifier, the format choice will be reverted.",
       "sort_num": 70,
       "tag": "Changed"
@@ -73,7 +73,7 @@
       },
       "id": 787337,
       "is_public": true,
-      "modified": "2017-11-24T16:19:13.337676+00:00",
+      "modified": "2018-04-16T09:35:18.025397+00:00",
       "note": "The plain text to HTML conversion has been improved where such a conversion is necessary for \"Edit As New Message\" or when the shift modifier is used for \"Edit Draft\" or \"New Message from Template\".",
       "sort_num": 60,
       "tag": "Changed"
@@ -91,7 +91,7 @@
       },
       "id": 787338,
       "is_public": true,
-      "modified": "2017-11-24T16:19:12.425129+00:00",
+      "modified": "2018-04-16T09:35:31.841028+00:00",
       "note": "The \"Edit Draft\" command now also honors the use of the shift key to convert HTML to plain text or vice versa when editing a draft",
       "sort_num": 50,
       "tag": "Changed"
@@ -109,7 +109,7 @@
       },
       "id": 787339,
       "is_public": true,
-      "modified": "2017-11-24T16:19:09.195515+00:00",
+      "modified": "2018-04-16T09:35:42.827339+00:00",
       "note": "When attaching a message via drag and drop, the subject of the message is now used as attachment name instead of \"Attached Message\"",
       "sort_num": 40,
       "tag": "Changed"
@@ -127,7 +127,7 @@
       },
       "id": 787340,
       "is_public": true,
-      "modified": "2017-11-24T16:19:02.012856+00:00",
+      "modified": "2018-04-16T09:35:55.437527+00:00",
       "note": "On first start, Thunderbird now shows the account setup dialog, no longer the account provisioner dialog",
       "sort_num": 30,
       "tag": "Changed"
@@ -145,7 +145,7 @@
       },
       "id": 787341,
       "is_public": true,
-      "modified": "2017-11-24T16:18:57.181201+00:00",
+      "modified": "2018-04-16T09:36:09.718945+00:00",
       "note": "Thunderbird follows Firefox' Photon design with rectangular tabs and many other theme improvements",
       "sort_num": 20,
       "tag": "Changed"
@@ -181,7 +181,7 @@
       },
       "id": 787333,
       "is_public": true,
-      "modified": "2017-11-24T16:19:19.199906+00:00",
+      "modified": "2018-04-16T09:34:31.605803+00:00",
       "note": "When many Thunderbird clients or other email clients accessed the same IMAP draft folder, messages were sometimes sent with the wrong identity. This has been corrected and the user will be notified if none of their identities matches the draft. ",
       "sort_num": 20,
       "tag": "Fixed"
@@ -199,7 +199,7 @@
       },
       "id": 787332,
       "is_public": true,
-      "modified": "2017-11-24T16:19:20.576182+00:00",
+      "modified": "2018-04-16T09:34:18.246516+00:00",
       "note": "Passwords can now contain non-ASCII characters, like international characters, for example \u00e1\u00e4\u00df, and symbols, for example \u20ac\u00a7",
       "sort_num": 10,
       "tag": "Fixed"
