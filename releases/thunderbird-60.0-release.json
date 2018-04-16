@@ -97,6 +97,24 @@
       "tag": "New"
     },
     {
+      "bug": 393084,
+      "created": "2018-03-23T20:25:45.358335+00:00",
+      "fixed_in_release": {
+        "channel": "Beta",
+        "is_public": true,
+        "product": "Thunderbird",
+        "slug": "thunderbird-60.0beta-beta",
+        "title": "Thunderbird 60.0beta Beta",
+        "version": "60.0beta"
+      },
+      "id": 787510,
+      "is_public": true,
+      "modified": "2018-04-16T10:02:35.365677+00:00",
+      "note": "Calendar: Allow copying, cutting or deleting of a selected occurrence or the entire series for recurring events",
+      "sort_num": 90,
+      "tag": "New"
+    },
+    {
       "bug": 321434,
       "created": "2018-03-23T20:26:27.847864+00:00",
       "fixed_in_release": {
@@ -291,6 +309,24 @@
       "is_public": true,
       "modified": "2018-04-16T09:28:40.071332+00:00",
       "note": "An option under \"Tools > Options, Advanced, General\" now allows to select whether date/time display will follow the application locale (adjusted by operating system's format settings for that locale) or the locale selected in the operating system's regional settings. In other words, an US English Thunderbird can use, for example, German formats.",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1444101,
+      "created": "2018-04-16T10:10:22.634590+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": false,
+        "product": "Thunderbird",
+        "slug": "thunderbird-60.0-release",
+        "title": "Thunderbird 60.0 Release",
+        "version": "60.0"
+      },
+      "id": 787540,
+      "is_public": true,
+      "modified": "2018-04-16T10:10:22.634388+00:00",
+      "note": "Coming in beta 4: Enable FIDO U2F for Thunderbird",
       "sort_num": 0,
       "tag": "New"
     },
