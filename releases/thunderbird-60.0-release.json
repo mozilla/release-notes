@@ -655,6 +655,42 @@
       "tag": "Changed"
     },
     {
+      "bug": 892889,
+      "created": "2018-04-16T10:15:37.711243+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": false,
+        "product": "Thunderbird",
+        "slug": "thunderbird-60.0-release",
+        "title": "Thunderbird 60.0 Release",
+        "version": "60.0"
+      },
+      "id": 787542,
+      "is_public": true,
+      "modified": "2018-04-16T10:15:37.711057+00:00",
+      "note": "Coming in beta 4 or 5: Better AB photo handling",
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
+      "bug": 1428631,
+      "created": "2018-04-16T10:17:22.305489+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": false,
+        "product": "Thunderbird",
+        "slug": "thunderbird-60.0-release",
+        "title": "Thunderbird 60.0 Release",
+        "version": "60.0"
+      },
+      "id": 787543,
+      "is_public": true,
+      "modified": "2018-04-16T10:17:22.305277+00:00",
+      "note": "Coming in beta 4, 5 or 6: Stop attachment pane being minimized when attachments are present",
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
       "bug": 1335982,
       "created": "2018-02-10T19:33:20.115476+00:00",
       "fixed_in_release": {
@@ -859,6 +895,24 @@
       "is_public": true,
       "modified": "2018-04-16T09:28:21.365652+00:00",
       "note": "Contacts sidebar: Selection and context menu behavior",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1453643,
+      "created": "2018-04-16T10:12:54.245574+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": false,
+        "product": "Thunderbird",
+        "slug": "thunderbird-60.0-release",
+        "title": "Thunderbird 60.0 Release",
+        "version": "60.0"
+      },
+      "id": 787541,
+      "is_public": true,
+      "modified": "2018-04-16T10:12:54.245383+00:00",
+      "note": "Coming in beta 4: Better error handling for Gmail authentication to avoid re-downloading of folders",
       "sort_num": 0,
       "tag": "Fixed"
     },
