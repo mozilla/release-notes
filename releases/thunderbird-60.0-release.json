@@ -1,0 +1,71 @@
+{
+  "bug_list": "",
+  "bug_search_url": "",
+  "channel": "Release",
+  "created": "2018-04-16T09:16:17.080138+00:00",
+  "is_public": false,
+  "modified": "2018-04-16T09:16:17.079886+00:00",
+  "notes": [
+    {
+      "bug": 1308776,
+      "created": "2017-03-22T21:17:22.837559+00:00",
+      "fixed_in_release": {
+        "channel": "Beta",
+        "is_public": true,
+        "product": "Thunderbird",
+        "slug": "thunderbird-53.0beta-beta",
+        "title": "Thunderbird 53.0beta Beta",
+        "version": "53.0beta"
+      },
+      "id": 787017,
+      "is_public": true,
+      "modified": "2018-04-16T09:18:47.878743+00:00",
+      "note": "A default startup directory in the address book window can now be configured",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1312813,
+      "created": "2017-05-19T14:12:15.476929+00:00",
+      "fixed_in_release": {
+        "channel": "Beta",
+        "is_public": true,
+        "product": "Thunderbird",
+        "slug": "thunderbird-54.0beta-beta",
+        "title": "Thunderbird 54.0beta Beta",
+        "version": "54.0beta"
+      },
+      "id": 787097,
+      "is_public": true,
+      "modified": "2018-04-16T09:20:56.691697+00:00",
+      "note": "Individual feed update interval",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 791645,
+      "created": "2017-05-19T14:10:34.451148+00:00",
+      "fixed_in_release": {
+        "channel": "Beta",
+        "is_public": true,
+        "product": "Thunderbird",
+        "slug": "thunderbird-54.0beta-beta",
+        "title": "Thunderbird 54.0beta Beta",
+        "version": "54.0beta"
+      },
+      "id": 787096,
+      "is_public": true,
+      "modified": "2018-04-16T09:20:33.566422+00:00",
+      "note": "Thunderbird now uses Mozilla's latest proxy technology (add-on FoxyProxy now supported)",
+      "sort_num": 0,
+      "tag": "Changed"
+    }
+  ],
+  "product": "Thunderbird",
+  "release_date": "2018-05-15",
+  "slug": "thunderbird-60.0-release",
+  "system_requirements": "",
+  "text": "Draft release notes for Thunderbird 60 ESR collecting all release notes of versions 53 beta to 60 beta which have not been uplifted to TB 52 ESR",
+  "title": "Thunderbird 60.0 Release",
+  "version": "60.0"
+}
