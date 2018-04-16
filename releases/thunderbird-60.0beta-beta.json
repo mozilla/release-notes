@@ -37,8 +37,8 @@
       },
       "id": 787507,
       "is_public": true,
-      "modified": "2018-03-23T20:30:51.503383+00:00",
-      "note": "Further improvements to attachments handling during compose, Alt+M now allows to show the attachment pane.",
+      "modified": "2018-04-16T06:57:02.231475+00:00",
+      "note": "Further improvements to attachments handling during compose, Alt+M now allows to show the attachment pane. The attachment pane can also be shown initially when composing a new message. Right-click on the header to enable this option.",
       "sort_num": 200,
       "tag": "New"
     },
@@ -203,6 +203,42 @@
       "note": "Calendar: Removal of capability to send email invitations compatible to Outlook 2002 and earlier",
       "sort_num": 90,
       "tag": "Changed"
+    },
+    {
+      "bug": 1430480,
+      "created": "2018-04-16T07:04:09.991730+00:00",
+      "fixed_in_release": {
+        "channel": "Beta",
+        "is_public": true,
+        "product": "Thunderbird",
+        "slug": "thunderbird-60.0beta-beta",
+        "title": "Thunderbird 60.0beta Beta",
+        "version": "60.0beta"
+      },
+      "id": 787539,
+      "is_public": true,
+      "modified": "2018-04-16T07:04:09.991494+00:00",
+      "note": "Messages moved between IMAP accounts were missing parts (embedded content or attachments) under some circumstances",
+      "sort_num": 100,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 96968,
+      "created": "2018-04-16T07:02:11.663853+00:00",
+      "fixed_in_release": {
+        "channel": "Beta",
+        "is_public": true,
+        "product": "Thunderbird",
+        "slug": "thunderbird-60.0beta-beta",
+        "title": "Thunderbird 60.0beta Beta",
+        "version": "60.0beta"
+      },
+      "id": 787538,
+      "is_public": true,
+      "modified": "2018-04-16T07:02:11.663642+00:00",
+      "note": "Text in the address book card view wasn't selectable",
+      "sort_num": 50,
+      "tag": "Fixed"
     },
     {
       "bug": 1419145,
