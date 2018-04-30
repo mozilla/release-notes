@@ -3,9 +3,30 @@
   "bug_search_url": "",
   "channel": "ESR",
   "created": "2018-04-30T15:25:57.640520+00:00",
-  "is_public": false,
-  "modified": "2018-04-30T15:25:57.640313+00:00",
-  "notes": [],
+  "is_public": true,
+  "modified": "2018-04-30T15:34:37.410089+00:00",
+  "notes": [
+    {
+      "bug": null,
+      "created": "2018-04-30T15:27:09.805728+00:00",
+      "id": 787550,
+      "is_public": true,
+      "modified": "2018-04-30T15:27:09.805552+00:00",
+      "note": "Reference link to [Firefox ESR 52.7.3 release notes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.com/firefox/52.7.3/releasenotes/",
+      "sort_num": 0,
+      "tag": ""
+    },
+    {
+      "bug": 1452619,
+      "created": "2018-04-30T15:20:23.605909+00:00",
+      "id": 787549,
+      "is_public": true,
+      "modified": "2018-04-30T15:27:47.183107+00:00",
+      "note": "Fix for compatibility with Windows 10 April 2018 update ([Bug 1452619][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1452619",
+      "sort_num": 0,
+      "tag": "Fixed"
+    }
+  ],
   "product": "Firefox Extended Support Release",
   "release_date": "2018-04-30",
   "slug": "firefox-52.7.4-esr",
