@@ -11,7 +11,7 @@
       "created": "2018-03-08T19:49:34.199413+00:00",
       "id": 787472,
       "is_public": true,
-      "modified": "2018-05-02T13:05:50.446136+00:00",
+      "modified": "2018-05-02T16:04:36.271902+00:00",
       "note": "The policy engine is now available to customize Firefox deployments in Enterprise environments (more details on [https://wiki.mozilla.org/enterprise][1])\r\n\r\n[1]: https://wiki.mozilla.org/enterprise",
       "sort_num": 1000,
       "tag": "New"
@@ -21,7 +21,7 @@
       "created": "2018-02-28T14:33:14.347423+00:00",
       "id": 787456,
       "is_public": true,
-      "modified": "2018-05-02T13:05:50.446136+00:00",
+      "modified": "2018-05-02T16:04:45.691473+00:00",
       "note": "Added support for Web Authentication, allowing the use of USB tokens for authentication to web sites",
       "sort_num": 0,
       "tag": "New"
@@ -31,7 +31,7 @@
       "created": "2018-03-01T15:30:02.619660+00:00",
       "id": 787458,
       "is_public": true,
-      "modified": "2018-05-02T13:05:50.446136+00:00",
+      "modified": "2018-05-02T16:04:41.758874+00:00",
       "note": "Locale added: Occitan (oc)",
       "sort_num": 0,
       "tag": "New"
@@ -41,7 +41,7 @@
       "created": "2018-03-02T13:52:50.180495+00:00",
       "id": 787460,
       "is_public": true,
-      "modified": "2018-05-02T13:05:50.446136+00:00",
+      "modified": "2018-05-02T16:04:32.897797+00:00",
       "note": "The new CSS engine introduced in Firefox Quantum (57.0) is now used for the browser's user interface, in addition to web content.",
       "sort_num": 0,
       "tag": "New"
@@ -61,7 +61,7 @@
       "created": "2018-02-22T10:26:22.501507+00:00",
       "id": 787454,
       "is_public": true,
-      "modified": "2018-05-02T13:16:02.224661+00:00",
+      "modified": "2018-05-02T16:04:31.759594+00:00",
       "note": "On Windows, the shortcut for entering Reader View has changed to F9, for better compatibility with keyboard layouts that use AltGr.",
       "sort_num": 0,
       "tag": "Changed"
@@ -71,7 +71,7 @@
       "created": "2018-02-22T10:26:22.827100+00:00",
       "id": 787455,
       "is_public": true,
-      "modified": "2018-05-02T13:05:50.446136+00:00",
+      "modified": "2018-05-02T16:04:29.633458+00:00",
       "note": "It is no longer possible to have multiple bookmark keywords for the same url, unless the request has different POST data.",
       "sort_num": 0,
       "tag": "Changed"
@@ -81,7 +81,7 @@
       "created": "2018-03-14T14:24:06.279034+00:00",
       "id": 787492,
       "is_public": true,
-      "modified": "2018-05-02T13:05:50.446136+00:00",
+      "modified": "2018-05-02T16:04:38.922552+00:00",
       "note": "Enhanced camera privacy indicators: Firefox now turns off your camera when you face-mute on web-sites that use your camera, turning off your camera light so you don't have to wonder if the site is still recording you. The light will come back on whenever recording resumes.",
       "sort_num": 0,
       "tag": "Changed"
@@ -91,7 +91,7 @@
       "created": "2018-03-01T15:28:19.698824+00:00",
       "id": 787457,
       "is_public": true,
-      "modified": "2018-05-02T13:05:50.446136+00:00",
+      "modified": "2018-05-02T16:04:43.137091+00:00",
       "note": "Responsive Design Mode now offers explicit control over whether the page should reload.",
       "sort_num": 0,
       "tag": "Developer"
@@ -101,7 +101,7 @@
       "created": "2018-03-08T19:51:54.788178+00:00",
       "id": 787474,
       "is_public": true,
-      "modified": "2018-05-02T13:05:50.446136+00:00",
+      "modified": "2018-05-02T16:04:34.889159+00:00",
       "note": "Developers can now use promises within IndexedDB transactions",
       "sort_num": 0,
       "tag": "Developer"
