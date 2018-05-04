@@ -11,9 +11,9 @@
       "created": "2018-02-22T10:26:22.501507+00:00",
       "id": 787454,
       "is_public": true,
-      "modified": "2018-05-02T16:04:31.759594+00:00",
-      "note": "On Windows, the shortcut for entering Reader View has changed to F9, for better compatibility with keyboard layouts that use AltGr.",
-      "sort_num": 0,
+      "modified": "2018-05-04T13:10:42.147655+00:00",
+      "note": "Changed the Windows shortcut for entering Reader View to F9, for better compatibility with keyboard layouts that use AltGr",
+      "sort_num": 40,
       "tag": "Changed"
     },
     {
@@ -21,9 +21,9 @@
       "created": "2018-02-22T10:26:22.827100+00:00",
       "id": 787455,
       "is_public": true,
-      "modified": "2018-05-02T16:04:29.633458+00:00",
-      "note": "It is no longer possible to have multiple bookmark keywords for the same url, unless the request has different POST data.",
-      "sort_num": 0,
+      "modified": "2018-05-04T13:09:37.954274+00:00",
+      "note": "Bookmarks no longer support multiple keywords for the same URL unless the request has different POST data",
+      "sort_num": 30,
       "tag": "Changed"
     },
     {

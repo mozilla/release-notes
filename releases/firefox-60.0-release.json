@@ -11,9 +11,19 @@
       "created": "2018-03-08T19:49:34.199413+00:00",
       "id": 787472,
       "is_public": true,
-      "modified": "2018-05-02T16:04:36.271902+00:00",
-      "note": "The policy engine is now available to customize Firefox deployments in Enterprise environments (more details on [https://wiki.mozilla.org/enterprise][1])\r\n\r\n[1]: https://wiki.mozilla.org/enterprise",
+      "modified": "2018-05-04T13:08:40.682383+00:00",
+      "note": "Added a policy engine that allows customized Firefox deployments in [enterprise environments][0], using Windows Group Policy or a cross-platform JSON file\r\n\r\n[0]: https://wiki.mozilla.org/enterprise",
       "sort_num": 1000,
+      "tag": "New"
+    },
+    {
+      "bug": 1294570,
+      "created": "2018-03-02T13:52:50.180495+00:00",
+      "id": 787460,
+      "is_public": true,
+      "modified": "2018-05-04T13:07:39.131786+00:00",
+      "note": "Applied [Quantum CSS][0] to render browser UI\r\n\r\n[0]: https://hacks.mozilla.org/2017/08/inside-a-super-fast-css-engine-quantum-css-aka-stylo/",
+      "sort_num": 60,
       "tag": "New"
     },
     {
@@ -37,33 +47,13 @@
       "tag": "New"
     },
     {
-      "bug": 1294570,
-      "created": "2018-03-02T13:52:50.180495+00:00",
-      "id": 787460,
-      "is_public": true,
-      "modified": "2018-05-02T16:04:32.897797+00:00",
-      "note": "The new CSS engine introduced in Firefox Quantum (57.0) is now used for the browser's user interface, in addition to web content.",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
-      "bug": null,
-      "created": "2018-05-02T14:13:12.512023+00:00",
-      "id": 787551,
-      "is_public": true,
-      "modified": "2018-05-02T14:13:12.511840+00:00",
-      "note": "Various [security fixes][0]\r\n\r\n[0]: https://www.mozilla.org/security/known-vulnerabilities/firefox/#firefox60",
-      "sort_num": 0,
-      "tag": ""
-    },
-    {
       "bug": 1438308,
       "created": "2018-02-22T10:26:22.501507+00:00",
       "id": 787454,
       "is_public": true,
-      "modified": "2018-05-02T16:04:31.759594+00:00",
-      "note": "On Windows, the shortcut for entering Reader View has changed to F9, for better compatibility with keyboard layouts that use AltGr.",
-      "sort_num": 0,
+      "modified": "2018-05-04T13:10:42.147655+00:00",
+      "note": "Changed the Windows shortcut for entering Reader View to F9, for better compatibility with keyboard layouts that use AltGr",
+      "sort_num": 40,
       "tag": "Changed"
     },
     {
@@ -71,9 +61,9 @@
       "created": "2018-02-22T10:26:22.827100+00:00",
       "id": 787455,
       "is_public": true,
-      "modified": "2018-05-02T16:04:29.633458+00:00",
-      "note": "It is no longer possible to have multiple bookmark keywords for the same url, unless the request has different POST data.",
-      "sort_num": 0,
+      "modified": "2018-05-04T13:09:37.954274+00:00",
+      "note": "Bookmarks no longer support multiple keywords for the same URL unless the request has different POST data",
+      "sort_num": 30,
       "tag": "Changed"
     },
     {
@@ -105,6 +95,16 @@
       "note": "Developers can now use promises within IndexedDB transactions",
       "sort_num": 0,
       "tag": "Developer"
+    },
+    {
+      "bug": null,
+      "created": "2018-05-02T14:13:12.512023+00:00",
+      "id": 787551,
+      "is_public": true,
+      "modified": "2018-05-04T13:00:14.519417+00:00",
+      "note": "Various [security fixes][0]\r\n\r\n[0]: https://www.mozilla.org/security/known-vulnerabilities/firefox/#firefox60",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
