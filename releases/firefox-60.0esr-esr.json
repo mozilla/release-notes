@@ -11,20 +11,50 @@
       "created": "2018-05-07T10:09:29.326061+00:00",
       "id": 787563,
       "is_public": true,
-      "modified": "2018-05-07T10:09:29.325869+00:00",
+      "modified": "2018-05-07T11:30:48.881233+00:00",
       "note": "Firefox Quantum arrives in the ESR channel.  Key features include:\r\n\r\n* A completely new [browser engine][0], designed to take [full advantage of the processing power in modern devices][1]\r\n* A redesigned interface with a clean, modern appearance, consistent visual elements, and optimizations for touch screens\r\n* A unified address and search bar.  New installs will see this unified bar.  [Learn how to add the stand-alone search bar to the toolbar][2]\r\n* A revamped new tab page that includes top visited sites, recently visited pages, and recommendations from Pocket (in the US, Canada, and Germany)\r\n* An updated product tour to orient new and returning Firefox users\r\n\r\n[0]: https://blog.mozilla.org/blog/2017/11/14/introducing-firefox-quantum/\r\n[1]: https://medium.com/mozilla-tech/a-quantum-leap-for-the-web-a3b7174b3c12\r\n[2]: https://support.mozilla.org/kb/my-search-bar-gone-how-add-it-back",
-      "sort_num": 0,
-      "tag": ""
+      "sort_num": 100,
+      "tag": "New"
+    },
+    {
+      "bug": 1433173,
+      "created": "2018-05-07T11:32:18.276776+00:00",
+      "id": 787564,
+      "is_public": true,
+      "modified": "2018-05-07T11:32:18.276497+00:00",
+      "note": "Support for [enterprise environments][0], with a policy engine that allows customized Firefox deployments using Windows Group Policy or a cross-platform JSON file",
+      "sort_num": 50,
+      "tag": "New"
     },
     {
       "bug": 1442075,
       "created": "2018-05-07T10:05:03.308114+00:00",
       "id": 787562,
       "is_public": true,
-      "modified": "2018-05-07T10:05:03.307924+00:00",
-      "note": "TLS certificates issued by Symantec before June 1st, 2016 are [no longer trusted by Firefox][0]\r\n\r\n[0]: https://blog.mozilla.org/security/2018/03/12/distrust-symantec-tls-certificates/",
+      "modified": "2018-05-07T11:34:50.198233+00:00",
+      "note": "TLS certificates issued by Symantec before June 1st, 2016 are [no longer trusted by Firefox][0].  The \"security.pki.distrust_ca_policy\" preference can be set to 0 to reinstate trust in those certificates.\r\n\r\n[0]: https://blog.mozilla.org/security/2018/03/12/distrust-symantec-tls-certificates/",
       "sort_num": 20,
       "tag": "Changed"
+    },
+    {
+      "bug": null,
+      "created": "2018-05-07T11:37:02.336155+00:00",
+      "id": 787565,
+      "is_public": true,
+      "modified": "2018-05-07T11:37:02.335974+00:00",
+      "note": "Firefox now exclusively supports extensions built using the WebExtension API. Unsupported legacy extensions will no longer work in Firefox 60 ESR, but they will continue to work in Firefox 52 ESR, which will be supported until September 2018.  [Learn more about our efforts to imporve the performance and security of extensions][0]\r\n\r\n[0]: https://support.mozilla.org/kb/firefox-add-technology-modernizing",
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
+      "bug": 1457915,
+      "created": "2018-05-07T11:38:36.621901+00:00",
+      "id": 787566,
+      "is_public": true,
+      "modified": "2018-05-07T11:38:36.621719+00:00",
+      "note": "Service workers and push notifications remain disabled in Firefox ESR",
+      "sort_num": 0,
+      "tag": "Known"
     }
   ],
   "product": "Firefox Extended Support Release",
