@@ -127,12 +127,12 @@
       "tag": "Changed"
     },
     {
-      "bug": 1428816,
-      "created": "2018-03-01T15:28:19.698824+00:00",
-      "id": 787457,
+      "bug": null,
+      "created": "2018-05-07T12:35:51.759218+00:00",
+      "id": 787570,
       "is_public": true,
-      "modified": "2018-05-07T10:05:17.358136+00:00",
-      "note": "Responsive Design Mode now offers explicit control over whether the page should reload.",
+      "modified": "2018-05-07T12:35:51.759032+00:00",
+      "note": "Changes affecting [developers][1]\r\n\r\n[1]: https://developer.mozilla.org/Firefox/Releases/60",
       "sort_num": 0,
       "tag": "Developer"
     },
@@ -145,6 +145,16 @@
       "note": "Various [security fixes][0]\r\n\r\n[0]: https://www.mozilla.org/security/known-vulnerabilities/firefox/#firefox60",
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": 1458906,
+      "created": "2018-05-07T12:29:53.987085+00:00",
+      "id": 787569,
+      "is_public": true,
+      "modified": "2018-05-07T12:30:43.084552+00:00",
+      "note": "After disabling Sponsored Stories from the New Tab page settings, the next opened tab may still show a sponsored tile ([bug 1458906][0])\r\n\r\n[0]: https://bugzilla.mozilla.org/show_bug.cgi?id=1458906",
+      "sort_num": 0,
+      "tag": "Known"
     }
   ],
   "product": "Firefox",
