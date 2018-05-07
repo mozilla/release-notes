@@ -27,11 +27,11 @@
       "tag": "New"
     },
     {
-      "bug": null,
+      "bug": 1421690,
       "created": "2018-05-07T09:09:15.359175+00:00",
       "id": 787556,
       "is_public": true,
-      "modified": "2018-05-07T09:09:15.358992+00:00",
+      "modified": "2018-05-07T09:35:55.640271+00:00",
       "note": "Redesigned Cookies and Site Storage section in Preferences for greater clarity and control of first- and third-party cookies",
       "sort_num": 70,
       "tag": "New"
@@ -61,9 +61,19 @@
       "created": "2018-03-14T14:24:06.279034+00:00",
       "id": 787492,
       "is_public": true,
-      "modified": "2018-05-07T09:25:37.422690+00:00",
-      "note": "Enhanced camera privacy indicators: Firefox now turns off your camera when you face-mute on web-sites that use your camera, turning off your camera light so you don't have to wonder if the site is still recording you. The light will come back on whenever recording resumes.",
+      "modified": "2018-05-07T09:26:24.723769+00:00",
+      "note": "Enhanced camera privacy indicators: Firefox now turns off your camera and the camera's light when you disable video recording, and turns the camera and light on when you resume recording",
       "sort_num": 40,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2018-05-07T09:27:32.838496+00:00",
+      "id": 787557,
+      "is_public": true,
+      "modified": "2018-05-07T09:27:32.838300+00:00",
+      "note": "Enhanced WebRTC audio performance and playback for Linux users",
+      "sort_num": 30,
       "tag": "New"
     },
     {
@@ -97,24 +107,24 @@
       "tag": "Changed"
     },
     {
-      "bug": 1428816,
-      "created": "2018-03-01T15:28:19.698824+00:00",
-      "id": 787457,
+      "bug": 1442075,
+      "created": "2018-05-07T09:28:57.929614+00:00",
+      "id": 787558,
       "is_public": true,
-      "modified": "2018-05-02T16:04:43.137091+00:00",
-      "note": "Responsive Design Mode now offers explicit control over whether the page should reload.",
-      "sort_num": 0,
-      "tag": "Developer"
+      "modified": "2018-05-07T09:39:56.862564+00:00",
+      "note": "TLS certificates issued by Symantec before June 1st, 2016 are [no longer trusted by Firefox][0]\r\n\r\n[0]: https://blog.mozilla.org/security/2018/03/12/distrust-symantec-tls-certificates/",
+      "sort_num": 20,
+      "tag": "Changed"
     },
     {
-      "bug": 1193394,
-      "created": "2018-03-08T19:51:54.788178+00:00",
-      "id": 787474,
+      "bug": 1444506,
+      "created": "2018-05-07T09:34:34.101136+00:00",
+      "id": 787560,
       "is_public": true,
-      "modified": "2018-05-02T16:04:34.889159+00:00",
-      "note": "Developers can now use promises within IndexedDB transactions",
+      "modified": "2018-05-07T09:37:10.499763+00:00",
+      "note": "Updated the Skia graphics library to milestone 66",
       "sort_num": 0,
-      "tag": "Developer"
+      "tag": "Changed"
     },
     {
       "bug": null,
