@@ -21,10 +21,30 @@
       "created": "2018-05-07T11:32:18.276776+00:00",
       "id": 787564,
       "is_public": true,
-      "modified": "2018-05-07T11:32:18.276497+00:00",
-      "note": "Support for [enterprise environments][0], with a policy engine that allows customized Firefox deployments using Windows Group Policy or a cross-platform JSON file",
+      "modified": "2018-05-07T11:52:15.148342+00:00",
+      "note": "Support for [enterprise environments][0], with a policy engine that allows customized Firefox deployments using Windows Group Policy or a cross-platform JSON file\r\n\r\n[0]: http://wiki.mozilla.org/enterprise",
       "sort_num": 50,
       "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2018-05-07T11:46:06.667071+00:00",
+      "id": 787568,
+      "is_public": true,
+      "modified": "2018-05-07T11:46:06.666881+00:00",
+      "note": "Reference link to the [Firefox 60.0 release notes][0]\r\n\r\n[0]: /firefox/60.0/releasenotes",
+      "sort_num": 0,
+      "tag": ""
+    },
+    {
+      "bug": null,
+      "created": "2018-05-07T11:37:02.336155+00:00",
+      "id": 787565,
+      "is_public": true,
+      "modified": "2018-05-07T11:44:51.510274+00:00",
+      "note": "Firefox now exclusively supports extensions built using the WebExtension API. Unsupported legacy extensions will no longer work in Firefox 60 ESR, but they will continue to work in Firefox 52 ESR, which will be supported until September 2018.  [Learn more about our efforts to imporve the performance and security of extensions][0]\r\n\r\n[0]: https://support.mozilla.org/kb/firefox-add-technology-modernizing",
+      "sort_num": 50,
+      "tag": "Changed"
     },
     {
       "bug": 1442075,
@@ -37,22 +57,22 @@
       "tag": "Changed"
     },
     {
-      "bug": null,
-      "created": "2018-05-07T11:37:02.336155+00:00",
-      "id": 787565,
-      "is_public": true,
-      "modified": "2018-05-07T11:37:02.335974+00:00",
-      "note": "Firefox now exclusively supports extensions built using the WebExtension API. Unsupported legacy extensions will no longer work in Firefox 60 ESR, but they will continue to work in Firefox 52 ESR, which will be supported until September 2018.  [Learn more about our efforts to imporve the performance and security of extensions][0]\r\n\r\n[0]: https://support.mozilla.org/kb/firefox-add-technology-modernizing",
-      "sort_num": 0,
-      "tag": "Changed"
-    },
-    {
       "bug": 1457915,
       "created": "2018-05-07T11:38:36.621901+00:00",
       "id": 787566,
       "is_public": true,
       "modified": "2018-05-07T11:38:36.621719+00:00",
       "note": "Service workers and push notifications remain disabled in Firefox ESR",
+      "sort_num": 0,
+      "tag": "Known"
+    },
+    {
+      "bug": 1449158,
+      "created": "2018-05-07T11:42:10.763558+00:00",
+      "id": 787567,
+      "is_public": true,
+      "modified": "2018-05-07T11:42:10.763377+00:00",
+      "note": "In Firefox 58 and later, and in Firefox 60 ESR and later, Firefox uses a new format for storing private keys, certificates and certificate trust\r\n\r\n* Users who store their home directory or application data directory on a network filesystem are advised to set the environment variable NSS_SDB_USE_CACHE=yes prior to starting Firefox\r\n* Without setting this environment variable, users of network filesystems may experience a major slowdown when starting and using Firefox\r\n* The environment variable enables the use of a caching strategy in NSS that works around the slowness of network filesystems.  Because this caching strategy causes a performance decrease on fast filesystems, it isn't used by default, but requires users to explicitly enable it by setting the environment variable",
       "sort_num": 0,
       "tag": "Known"
     }
