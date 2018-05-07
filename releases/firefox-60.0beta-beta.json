@@ -11,7 +11,7 @@
       "created": "2018-03-08T19:49:34.199413+00:00",
       "id": 787472,
       "is_public": true,
-      "modified": "2018-05-04T13:08:40.682383+00:00",
+      "modified": "2018-05-07T10:04:57.961514+00:00",
       "note": "Added a policy engine that allows customized Firefox deployments in [enterprise environments][0], using Windows Group Policy or a cross-platform JSON file\r\n\r\n[0]: https://wiki.mozilla.org/enterprise",
       "sort_num": 1000,
       "tag": "New"
@@ -21,7 +21,7 @@
       "created": "2018-03-02T13:52:50.180495+00:00",
       "id": 787460,
       "is_public": true,
-      "modified": "2018-05-04T13:07:39.131786+00:00",
+      "modified": "2018-05-07T10:04:47.979950+00:00",
       "note": "Applied [Quantum CSS][0] to render browser UI\r\n\r\n[0]: https://hacks.mozilla.org/2017/08/inside-a-super-fast-css-engine-quantum-css-aka-stylo/",
       "sort_num": 60,
       "tag": "New"
@@ -31,7 +31,7 @@
       "created": "2018-02-28T14:33:14.347423+00:00",
       "id": 787456,
       "is_public": true,
-      "modified": "2018-05-07T09:24:55.760199+00:00",
+      "modified": "2018-05-07T10:05:19.380570+00:00",
       "note": "Added support for Web Authentication API, which allows USB tokens for website authentication",
       "sort_num": 50,
       "tag": "New"
@@ -41,7 +41,7 @@
       "created": "2018-03-14T14:24:06.279034+00:00",
       "id": 787492,
       "is_public": true,
-      "modified": "2018-05-07T09:26:24.723769+00:00",
+      "modified": "2018-05-07T10:04:19.380424+00:00",
       "note": "Enhanced camera privacy indicators: Firefox now turns off your camera and the camera's light when you disable video recording, and turns the camera and light on when you resume recording",
       "sort_num": 40,
       "tag": "New"
@@ -51,7 +51,7 @@
       "created": "2018-03-01T15:30:02.619660+00:00",
       "id": 787458,
       "is_public": true,
-      "modified": "2018-05-02T16:04:41.758874+00:00",
+      "modified": "2018-05-07T10:05:15.867690+00:00",
       "note": "Locale added: Occitan (oc)",
       "sort_num": 0,
       "tag": "New"
@@ -61,7 +61,7 @@
       "created": "2018-02-22T10:26:22.501507+00:00",
       "id": 787454,
       "is_public": true,
-      "modified": "2018-05-04T13:10:42.147655+00:00",
+      "modified": "2018-05-07T10:04:22.010956+00:00",
       "note": "Changed the Windows shortcut for entering Reader View to F9, for better compatibility with keyboard layouts that use AltGr",
       "sort_num": 40,
       "tag": "Changed"
@@ -71,7 +71,7 @@
       "created": "2018-02-22T10:26:22.827100+00:00",
       "id": 787455,
       "is_public": true,
-      "modified": "2018-05-04T13:09:37.954274+00:00",
+      "modified": "2018-05-07T10:05:01.134541+00:00",
       "note": "Bookmarks no longer support multiple keywords for the same URL unless the request has different POST data",
       "sort_num": 30,
       "tag": "Changed"
@@ -81,7 +81,7 @@
       "created": "2018-03-01T15:28:19.698824+00:00",
       "id": 787457,
       "is_public": true,
-      "modified": "2018-05-07T09:54:50.925025+00:00",
+      "modified": "2018-05-07T10:05:17.358136+00:00",
       "note": "Responsive Design Mode now offers explicit control over whether the page should reload.",
       "sort_num": 0,
       "tag": "Developer"

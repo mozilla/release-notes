@@ -11,7 +11,7 @@
       "created": "2018-03-08T19:49:34.199413+00:00",
       "id": 787472,
       "is_public": true,
-      "modified": "2018-05-04T13:08:40.682383+00:00",
+      "modified": "2018-05-07T10:04:57.961514+00:00",
       "note": "Added a policy engine that allows customized Firefox deployments in [enterprise environments][0], using Windows Group Policy or a cross-platform JSON file\r\n\r\n[0]: https://wiki.mozilla.org/enterprise",
       "sort_num": 1000,
       "tag": "New"
@@ -21,7 +21,7 @@
       "created": "2018-05-07T09:05:28.325786+00:00",
       "id": 787555,
       "is_public": true,
-      "modified": "2018-05-07T09:05:28.325610+00:00",
+      "modified": "2018-05-07T10:05:13.708450+00:00",
       "note": "Enhancements to New Tab / Firefox Home\r\n\r\n* Responsive layout that shows more content for users with wide-screen displays\r\n* Highlights section includes web sites saved to Pocket\r\n* More options to reorder sections and content on the page\r\n* Pocket Sponsored Stories will appear for a percentage of users in the US.  Read about our [privacy-conscious approach to sponsored content][0]\r\n\r\n[0]: https://blog.mozilla.org/futurereleases/2018/04/30/a-privacy-conscious-approach-to-sponsored-content/",
       "sort_num": 90,
       "tag": "New"
@@ -31,7 +31,7 @@
       "created": "2018-05-07T09:09:15.359175+00:00",
       "id": 787556,
       "is_public": true,
-      "modified": "2018-05-07T09:35:55.640271+00:00",
+      "modified": "2018-05-07T10:05:11.459806+00:00",
       "note": "Redesigned Cookies and Site Storage section in Preferences for greater clarity and control of first- and third-party cookies",
       "sort_num": 70,
       "tag": "New"
@@ -41,7 +41,7 @@
       "created": "2018-03-02T13:52:50.180495+00:00",
       "id": 787460,
       "is_public": true,
-      "modified": "2018-05-04T13:07:39.131786+00:00",
+      "modified": "2018-05-07T10:04:47.979950+00:00",
       "note": "Applied [Quantum CSS][0] to render browser UI\r\n\r\n[0]: https://hacks.mozilla.org/2017/08/inside-a-super-fast-css-engine-quantum-css-aka-stylo/",
       "sort_num": 60,
       "tag": "New"
@@ -51,7 +51,7 @@
       "created": "2018-02-28T14:33:14.347423+00:00",
       "id": 787456,
       "is_public": true,
-      "modified": "2018-05-07T09:24:55.760199+00:00",
+      "modified": "2018-05-07T10:05:19.380570+00:00",
       "note": "Added support for Web Authentication API, which allows USB tokens for website authentication",
       "sort_num": 50,
       "tag": "New"
@@ -61,7 +61,7 @@
       "created": "2018-03-14T14:24:06.279034+00:00",
       "id": 787492,
       "is_public": true,
-      "modified": "2018-05-07T09:26:24.723769+00:00",
+      "modified": "2018-05-07T10:04:19.380424+00:00",
       "note": "Enhanced camera privacy indicators: Firefox now turns off your camera and the camera's light when you disable video recording, and turns the camera and light on when you resume recording",
       "sort_num": 40,
       "tag": "New"
@@ -71,7 +71,7 @@
       "created": "2018-05-07T09:27:32.838496+00:00",
       "id": 787557,
       "is_public": true,
-      "modified": "2018-05-07T09:52:08.590277+00:00",
+      "modified": "2018-05-07T10:05:09.293874+00:00",
       "note": "Improved WebRTC audio performance and playback for Linux users",
       "sort_num": 30,
       "tag": "New"
@@ -81,7 +81,7 @@
       "created": "2018-03-01T15:30:02.619660+00:00",
       "id": 787458,
       "is_public": true,
-      "modified": "2018-05-02T16:04:41.758874+00:00",
+      "modified": "2018-05-07T10:05:15.867690+00:00",
       "note": "Locale added: Occitan (oc)",
       "sort_num": 0,
       "tag": "New"
@@ -91,7 +91,7 @@
       "created": "2018-02-22T10:26:22.501507+00:00",
       "id": 787454,
       "is_public": true,
-      "modified": "2018-05-04T13:10:42.147655+00:00",
+      "modified": "2018-05-07T10:04:22.010956+00:00",
       "note": "Changed the Windows shortcut for entering Reader View to F9, for better compatibility with keyboard layouts that use AltGr",
       "sort_num": 40,
       "tag": "Changed"
@@ -101,7 +101,7 @@
       "created": "2018-02-22T10:26:22.827100+00:00",
       "id": 787455,
       "is_public": true,
-      "modified": "2018-05-04T13:09:37.954274+00:00",
+      "modified": "2018-05-07T10:05:01.134541+00:00",
       "note": "Bookmarks no longer support multiple keywords for the same URL unless the request has different POST data",
       "sort_num": 30,
       "tag": "Changed"
@@ -111,7 +111,7 @@
       "created": "2018-05-07T09:28:57.929614+00:00",
       "id": 787558,
       "is_public": true,
-      "modified": "2018-05-07T09:39:56.862564+00:00",
+      "modified": "2018-05-07T10:05:03.439783+00:00",
       "note": "TLS certificates issued by Symantec before June 1st, 2016 are [no longer trusted by Firefox][0]\r\n\r\n[0]: https://blog.mozilla.org/security/2018/03/12/distrust-symantec-tls-certificates/",
       "sort_num": 20,
       "tag": "Changed"
@@ -121,7 +121,7 @@
       "created": "2018-05-07T09:34:34.101136+00:00",
       "id": 787560,
       "is_public": true,
-      "modified": "2018-05-07T09:37:10.499763+00:00",
+      "modified": "2018-05-07T10:04:59.186527+00:00",
       "note": "Updated the Skia graphics library to milestone 66",
       "sort_num": 0,
       "tag": "Changed"
@@ -131,7 +131,7 @@
       "created": "2018-03-01T15:28:19.698824+00:00",
       "id": 787457,
       "is_public": true,
-      "modified": "2018-05-07T09:54:50.925025+00:00",
+      "modified": "2018-05-07T10:05:17.358136+00:00",
       "note": "Responsive Design Mode now offers explicit control over whether the page should reload.",
       "sort_num": 0,
       "tag": "Developer"
@@ -141,7 +141,7 @@
       "created": "2018-05-02T14:13:12.512023+00:00",
       "id": 787551,
       "is_public": true,
-      "modified": "2018-05-04T13:00:14.519417+00:00",
+      "modified": "2018-05-07T10:04:27.265303+00:00",
       "note": "Various [security fixes][0]\r\n\r\n[0]: https://www.mozilla.org/security/known-vulnerabilities/firefox/#firefox60",
       "sort_num": 0,
       "tag": "Fixed"
