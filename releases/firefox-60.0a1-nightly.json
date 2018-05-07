@@ -7,6 +7,16 @@
   "modified": "2018-01-31T16:56:46.677041+00:00",
   "notes": [
     {
+      "bug": 1333468,
+      "created": "2018-03-14T14:24:06.279034+00:00",
+      "id": 787492,
+      "is_public": true,
+      "modified": "2018-05-07T09:25:37.422690+00:00",
+      "note": "Enhanced camera privacy indicators: Firefox now turns off your camera when you face-mute on web-sites that use your camera, turning off your camera light so you don't have to wonder if the site is still recording you. The light will come back on whenever recording resumes.",
+      "sort_num": 40,
+      "tag": "New"
+    },
+    {
       "bug": 1438308,
       "created": "2018-02-22T10:26:22.501507+00:00",
       "id": 787454,
@@ -24,16 +34,6 @@
       "modified": "2018-05-04T13:09:37.954274+00:00",
       "note": "Bookmarks no longer support multiple keywords for the same URL unless the request has different POST data",
       "sort_num": 30,
-      "tag": "Changed"
-    },
-    {
-      "bug": 1333468,
-      "created": "2018-03-14T14:24:06.279034+00:00",
-      "id": 787492,
-      "is_public": true,
-      "modified": "2018-05-02T16:04:38.922552+00:00",
-      "note": "Enhanced camera privacy indicators: Firefox now turns off your camera when you face-mute on web-sites that use your camera, turning off your camera light so you don't have to wonder if the site is still recording you. The light will come back on whenever recording resumes.",
-      "sort_num": 0,
       "tag": "Changed"
     }
   ],

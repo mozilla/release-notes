@@ -51,9 +51,19 @@
       "created": "2018-02-28T14:33:14.347423+00:00",
       "id": 787456,
       "is_public": true,
-      "modified": "2018-05-02T16:04:45.691473+00:00",
-      "note": "Added support for Web Authentication, allowing the use of USB tokens for authentication to web sites",
-      "sort_num": 0,
+      "modified": "2018-05-07T09:24:55.760199+00:00",
+      "note": "Added support for Web Authentication API, which allows USB tokens for website authentication",
+      "sort_num": 50,
+      "tag": "New"
+    },
+    {
+      "bug": 1333468,
+      "created": "2018-03-14T14:24:06.279034+00:00",
+      "id": 787492,
+      "is_public": true,
+      "modified": "2018-05-07T09:25:37.422690+00:00",
+      "note": "Enhanced camera privacy indicators: Firefox now turns off your camera when you face-mute on web-sites that use your camera, turning off your camera light so you don't have to wonder if the site is still recording you. The light will come back on whenever recording resumes.",
+      "sort_num": 40,
       "tag": "New"
     },
     {
@@ -84,16 +94,6 @@
       "modified": "2018-05-04T13:09:37.954274+00:00",
       "note": "Bookmarks no longer support multiple keywords for the same URL unless the request has different POST data",
       "sort_num": 30,
-      "tag": "Changed"
-    },
-    {
-      "bug": 1333468,
-      "created": "2018-03-14T14:24:06.279034+00:00",
-      "id": 787492,
-      "is_public": true,
-      "modified": "2018-05-02T16:04:38.922552+00:00",
-      "note": "Enhanced camera privacy indicators: Firefox now turns off your camera when you face-mute on web-sites that use your camera, turning off your camera light so you don't have to wonder if the site is still recording you. The light will come back on whenever recording resumes.",
-      "sort_num": 0,
       "tag": "Changed"
     },
     {
