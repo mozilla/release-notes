@@ -4,7 +4,7 @@
   "channel": "Release",
   "created": "2018-05-04T12:56:47.272964+00:00",
   "is_public": false,
-  "modified": "2018-05-04T12:57:16.694822+00:00",
+  "modified": "2018-05-07T08:47:44.715998+00:00",
   "notes": [
     {
       "bug": 1366049,
@@ -41,7 +41,7 @@
   "release_date": "2018-05-09",
   "slug": "firefox-for-android-60.0-release",
   "system_requirements": "## Operating systems\r\n - Android 4.1\r\n - Above versions\r\n\r\n## Requirements\r\n - 50 MB internal storage\r\n - 384 MB of RAM\r\n - display at least 320 pixels high and 240 pixels wide",
-  "text": "",
+  "text": "Firefox 60 offers something for everyone and a little something extra for everyone who [deploys Firefox in an enterprise environment][0]. This release includes changes that give you more content and more ways to customize your New Tab/Firefox Home. It also introduces support for the Web Authentication API, which means you can log in to websites in Firefox with USB tokens like YubiKey. \r\nFirefox 60 also brings a new policy engine and Group Policy support for enterprise deployments. For more info about why and how to use Firefox in the enterprise, see [this blog post][1]. \r\n\r\nThank you to all of the [new Mozillians][2] who contributed to this release of Firefox!\r\n\r\n[0]: https://www.mozilla.org/firefox/enterprise/\r\n[1]: https://medium.com/mozilla-tech/open-for-business-firefox-quantum-is-ready-for-it-622c74fe13fe\r\n[2]: https://blog.mozilla.org/community/2018/05/02/firefox-60-new-contributors/",
   "title": "Firefox for Android 60.0 Release",
   "version": "60.0"
 }
