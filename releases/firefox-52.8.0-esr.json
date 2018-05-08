@@ -15,6 +15,26 @@
       "note": "Various [security fixes][1]\r\n\r\n[1]: https://www.mozilla.org/security/known-vulnerabilities/firefox-esr/#firefoxesr52.8",
       "sort_num": 0,
       "tag": ""
+    },
+    {
+      "bug": null,
+      "created": "2018-05-08T19:44:07.131182+00:00",
+      "id": 787574,
+      "is_public": true,
+      "modified": "2018-05-08T19:44:07.130643+00:00",
+      "note": "Various stability and regression fixes",
+      "sort_num": 0,
+      "tag": ""
+    },
+    {
+      "bug": 1361699,
+      "created": "2018-05-08T19:49:00.819980+00:00",
+      "id": 787575,
+      "is_public": true,
+      "modified": "2018-05-08T19:49:00.819758+00:00",
+      "note": "Performance improvements to the Safe Browsing service to avoid slowdowns while updating classification data",
+      "sort_num": 0,
+      "tag": ""
     }
   ],
   "product": "Firefox Extended Support Release",
