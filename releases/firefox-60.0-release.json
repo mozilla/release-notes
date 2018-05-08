@@ -11,8 +11,8 @@
       "created": "2018-03-08T19:49:34.199413+00:00",
       "id": 787472,
       "is_public": true,
-      "modified": "2018-05-07T10:04:57.961514+00:00",
-      "note": "Added a policy engine that allows customized Firefox deployments in [enterprise environments][0], using Windows Group Policy or a cross-platform JSON file\r\n\r\n[0]: https://wiki.mozilla.org/enterprise",
+      "modified": "2018-05-08T18:17:32.215251+00:00",
+      "note": "Added a policy engine that allows customized Firefox deployments in [enterprise environments][0], using Windows Group Policy or a cross-platform JSON file\r\n\r\n[0]: https://www.mozilla.org/firefox/enterprise/",
       "sort_num": 1000,
       "tag": "New"
     },
@@ -64,6 +64,24 @@
       "modified": "2018-05-07T10:04:19.380424+00:00",
       "note": "Enhanced camera privacy indicators: Firefox now turns off your camera and the camera's light when you disable video recording, and turns the camera and light on when you resume recording",
       "sort_num": 40,
+      "tag": "New"
+    },
+    {
+      "bug": 1283299,
+      "created": "2018-05-08T18:24:23.073857+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": false,
+        "product": "Firefox",
+        "slug": "firefox-60.0-release",
+        "title": "Firefox 60.0 Release",
+        "version": "60.0"
+      },
+      "id": 787571,
+      "is_public": true,
+      "modified": "2018-05-08T18:24:23.073672+00:00",
+      "note": "Added an option for Linux users to show or hide page titles in a bar at the top of the browser. You\u2019ll find the Title Bar option in the Customize panel available from the main browser menu.",
+      "sort_num": 35,
       "tag": "New"
     },
     {
