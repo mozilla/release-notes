@@ -5,7 +5,26 @@
   "created": "2018-05-02T16:03:29.622200+00:00",
   "is_public": false,
   "modified": "2018-05-02T16:05:42.558296+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": null,
+      "created": "2018-05-08T18:52:41.098033+00:00",
+      "fixed_in_release": {
+        "channel": "Beta",
+        "is_public": false,
+        "product": "Firefox for Android",
+        "slug": "firefox-for-android-61.0beta-beta",
+        "title": "Firefox for Android 61.0beta Beta",
+        "version": "61.0beta"
+      },
+      "id": 787572,
+      "is_public": true,
+      "modified": "2018-05-08T18:52:41.097840+00:00",
+      "note": "Performance Enhancements:\r\n\r\n - Quantum CSS improvements which improve page rendering times\r\n - Faster scrolling due to treating touch event listeners as passive by default",
+      "sort_num": 0,
+      "tag": "New"
+    }
+  ],
   "product": "Firefox for Android",
   "release_date": "2018-05-09",
   "slug": "firefox-for-android-61.0beta-beta",
