@@ -71,8 +71,8 @@
       "created": "2018-05-09T01:04:26.013564+00:00",
       "id": 787578,
       "is_public": true,
-      "modified": "2018-05-09T01:04:26.013376+00:00",
-      "note": "Access to FTP subresources inside http(s) pages has been blocked to improve user security",
+      "modified": "2018-05-09T02:38:15.089421+00:00",
+      "note": "In order to improve user security, access to FTP subresources inside http(s) pages [has been blocked][1]\r\n\r\n\r\n  [1]: https://blog.mozilla.org/security/2018/05/07/blocking-ftp-subresource-loads-within-non-ftp-documents-in-firefox-61/",
       "sort_num": 0,
       "tag": "Changed"
     },
