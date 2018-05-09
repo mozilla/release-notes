@@ -4,7 +4,7 @@
   "channel": "Release",
   "created": "2018-05-02T13:05:50.426846+00:00",
   "is_public": false,
-  "modified": "2018-05-04T13:49:28.162947+00:00",
+  "modified": "2018-05-09T08:54:16.451531+00:00",
   "notes": [
     {
       "bug": 1433173,
@@ -179,7 +179,7 @@
   "release_date": "2018-05-09",
   "slug": "firefox-60.0-release",
   "system_requirements": "## Windows\r\n\r\n### Operating Systems (32-bit and 64-bit)\r\n - Windows 7\r\n - Windows 8\r\n - Windows 10\r\n\r\n### Recommended Hardware\r\n-  Pentium 4 or newer processor that supports SSE2\r\n-  512MB of RAM / 2GB of RAM for the 64-bit version\r\n-  200MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- macOS 10.9\r\n- macOS 10.10\r\n- macOS 10.11\r\n- macOS 10.12\r\n- macOS 10.13\r\n\r\n### Recommended Hardware\r\n- Macintosh computer with an Intel x86 processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - GTK+ 3.4 or higher\r\n    - GLib 2.22 or higher\r\n    - Pango 1.14 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n    - libstdc++ 4.6.1 or higher\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - NetworkManager 0.7 or higher\r\n    - DBus 1.0 or higher\r\n    - GNOME 2.16 or higher\r\n    - PulseAudio\r\n\r\n  [1]: https://support.mozilla.org/kb/get-latest-version-firefox-windows-xp-vista",
-  "text": "Firefox 60 offers something for everyone and a little something extra for everyone who [deploys Firefox in an enterprise environment][0]. This release includes changes that give you more content and more ways to customize your New Tab/Firefox Home. It also introduces support for the Web Authentication API, which means you can log in to websites in Firefox with USB tokens like YubiKey. \r\nFirefox 60 also brings a new policy engine and Group Policy support for enterprise deployments. For more info about why and how to use Firefox in the enterprise, see [this blog post][1]. \r\n\r\nThank you to all of the [new Mozillians][2] who contributed to this release of Firefox!\r\n\r\n[0]: https://www.mozilla.org/firefox/enterprise/\r\n[1]: https://medium.com/mozilla-tech/open-for-business-firefox-quantum-is-ready-for-it-622c74fe13fe\r\n[2]: https://blog.mozilla.org/community/2018/05/02/firefox-60-new-contributors/",
+  "text": "Firefox 60 offers something for everyone and a little something extra for everyone who [deploys Firefox in an enterprise environment][0]. This release includes changes that give you more content and more ways to customize your New Tab/Firefox Home. It also introduces support for the Web Authentication API, which means you can log in to websites in Firefox with USB tokens like YubiKey. \r\nFirefox 60 also brings a new policy engine and Group Policy support for enterprise deployments. For more info about why and how to use Firefox in the enterprise, [see this blog post][1]. \r\n\r\nThank you to all of the [new Mozillians][2] who contributed to this release of Firefox!\r\n\r\n[0]: https://www.mozilla.org/firefox/enterprise/\r\n[1]: https://medium.com/mozilla-tech/open-for-business-firefox-quantum-is-ready-for-it-622c74fe13fe\r\n[2]: https://blog.mozilla.org/community/2018/05/02/firefox-60-new-contributors/",
   "title": "Firefox 60.0 Release",
   "version": "60.0"
 }
