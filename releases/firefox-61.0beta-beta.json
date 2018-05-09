@@ -5,7 +5,88 @@
   "created": "2018-05-02T16:03:29.646537+00:00",
   "is_public": false,
   "modified": "2018-05-02T16:05:14.287848+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": null,
+      "created": "2018-05-09T01:06:42.324599+00:00",
+      "id": 787579,
+      "is_public": true,
+      "modified": "2018-05-09T01:06:42.324417+00:00",
+      "note": "Performance Enhancements:\r\n\r\n - Quantum CSS improvements which improve page rendering times\r\n - Improved page rendering speed with the new retained display list feature\r\n - Faster switching between tabs on Windows and Linux\r\n - WebExtensions now run in their own process on MacOS\r\n",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2018-05-09T01:07:14.235319+00:00",
+      "id": 787580,
+      "is_public": true,
+      "modified": "2018-05-09T01:07:14.235102+00:00",
+      "note": "Various improvements for dark theme support will provide a more consistent experience across the entire Firefox UI",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1363168,
+      "created": "2018-05-09T01:07:51.946671+00:00",
+      "id": 787581,
+      "is_public": true,
+      "modified": "2018-05-09T01:07:51.946492+00:00",
+      "note": "Added the ability to share current the URL with MacOS sharing providers from the Page Actions menu",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1221539,
+      "created": "2018-05-09T01:08:16.498503+00:00",
+      "id": 787582,
+      "is_public": true,
+      "modified": "2018-05-09T01:08:16.498326+00:00",
+      "note": "OpenSearch plugins offered by web pages can now be added from the page action menu for easier installation",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1408053,
+      "created": "2018-05-09T01:08:39.228587+00:00",
+      "id": 787583,
+      "is_public": true,
+      "modified": "2018-05-09T01:08:39.228379+00:00",
+      "note": "Improved support for allowing WebExtensions to manage and hide tabs",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1417155,
+      "created": "2018-05-09T01:03:56.031410+00:00",
+      "id": 787577,
+      "is_public": true,
+      "modified": "2018-05-09T01:04:45.943627+00:00",
+      "note": "The settings for customizing your homepage and new tab page in Firefox have been moved to a new Preferences section, Home. It can be accessed from the sidebar in Preferences or by visiting about:preferences#home",
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
+      "bug": 1404744,
+      "created": "2018-05-09T01:04:26.013564+00:00",
+      "id": 787578,
+      "is_public": true,
+      "modified": "2018-05-09T01:04:26.013376+00:00",
+      "note": "Access to FTP subresources inside http(s) pages has been blocked to improve user security",
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
+      "bug": 1349559,
+      "created": "2018-05-09T01:03:09.065345+00:00",
+      "id": 787576,
+      "is_public": true,
+      "modified": "2018-05-09T01:03:09.065135+00:00",
+      "note": "A new drop down menu was added to the Developer Tools Network panel to allow bandwidth throttling, rather than requiring users to do so via Responsive Design Mode",
+      "sort_num": 0,
+      "tag": "Developer"
+    }
+  ],
   "product": "Firefox",
   "release_date": "2018-05-09",
   "slug": "firefox-61.0beta-beta",
