@@ -173,6 +173,16 @@
       "note": "After disabling Sponsored Stories from the New Tab page settings, the next opened tab may still show a sponsored tile ([bug 1458906][0])\r\n\r\n[0]: https://bugzilla.mozilla.org/show_bug.cgi?id=1458906",
       "sort_num": 0,
       "tag": "Known"
+    },
+    {
+      "bug": 1454204,
+      "created": "2018-05-09T09:00:47.299882+00:00",
+      "id": 787584,
+      "is_public": true,
+      "modified": "2018-05-09T09:00:47.299700+00:00",
+      "note": "WebVR does not work on macOS with Vive headsets ([bug 1454204][0])\r\n\r\n[0]: https://bugzilla.mozilla.org/show_bug.cgi?id=1454204",
+      "sort_num": 0,
+      "tag": "Known"
     }
   ],
   "product": "Firefox",
