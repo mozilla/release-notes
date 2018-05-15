@@ -21,8 +21,8 @@
       "created": "2018-05-15T18:39:56.915518+00:00",
       "id": 787592,
       "is_public": true,
-      "modified": "2018-05-15T18:39:56.915334+00:00",
-      "note": "WebVR has been disabled by default on Mac Operating System",
+      "modified": "2018-05-15T18:54:06.065581+00:00",
+      "note": "WebVR has been disabled by default on Mac Operating System ([Bug 1459362][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1459362",
       "sort_num": 0,
       "tag": "Changed"
     },
@@ -31,8 +31,8 @@
       "created": "2018-05-15T18:35:15.131802+00:00",
       "id": 787590,
       "is_public": true,
-      "modified": "2018-05-15T18:35:15.131620+00:00",
-      "note": " A \"Sponsored content\" card is wrongly displayed on the first new tab opened, after the \"Sponsored Stories\" option was unchecked",
+      "modified": "2018-05-15T18:53:01.634481+00:00",
+      "note": " A \"Sponsored content\" card is wrongly displayed on the first new tab opened, after the \"Sponsored Stories\" option was unchecked ([Bug 1458906][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1458906",
       "sort_num": 0,
       "tag": "Fixed"
     },
@@ -41,8 +41,48 @@
       "created": "2018-05-15T18:37:14.481747+00:00",
       "id": 787591,
       "is_public": true,
-      "modified": "2018-05-15T18:37:14.481551+00:00",
-      "note": "Momentum scrolling after a two-finger pan is broken when two fingers are lifted at the same time",
+      "modified": "2018-05-15T18:54:43.067006+00:00",
+      "note": "Momentum scrolling after a two-finger pan is broken when two fingers are lifted at the same time ([Bug 1457743][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1457743",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1458553,
+      "created": "2018-05-15T18:42:39.686676+00:00",
+      "id": 787593,
+      "is_public": true,
+      "modified": "2018-05-15T18:51:51.608692+00:00",
+      "note": "All black map on Google Maps with updated Nvidia web driver on Mac OS ([Bug 1458553][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1458553",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1458956,
+      "created": "2018-05-15T18:45:04.869200+00:00",
+      "id": 787594,
+      "is_public": true,
+      "modified": "2018-05-15T18:51:16.358108+00:00",
+      "note": "Fix selectors for tabbrowser to use -moz-default-background-color as its default background in high contrast mode ([Bug 1458956][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1458956",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1449033,
+      "created": "2018-05-15T18:46:20.486651+00:00",
+      "id": 787595,
+      "is_public": true,
+      "modified": "2018-05-15T18:50:48.204236+00:00",
+      "note": "Long cycle collector pauses with some add-ons installed ([Bug 1449033][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1449033",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1436662,
+      "created": "2018-05-15T18:47:44.869006+00:00",
+      "id": 787596,
+      "is_public": true,
+      "modified": "2018-05-15T18:53:33.641901+00:00",
+      "note": " `uninstall/helper.exe` is no longer translated ([Bug 1436662][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1436662",
       "sort_num": 0,
       "tag": "Fixed"
     }
