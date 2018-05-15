@@ -15,6 +15,36 @@
       "note": "Reference link to [ESR60.0 release notes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.com/en-US/firefox/60.0esr/releasenotes/",
       "sort_num": 0,
       "tag": ""
+    },
+    {
+      "bug": 1459362,
+      "created": "2018-05-15T18:39:56.915518+00:00",
+      "id": 787592,
+      "is_public": true,
+      "modified": "2018-05-15T18:39:56.915334+00:00",
+      "note": "WebVR has been disabled by default on Mac Operating System",
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
+      "bug": 1458906,
+      "created": "2018-05-15T18:35:15.131802+00:00",
+      "id": 787590,
+      "is_public": true,
+      "modified": "2018-05-15T18:35:15.131620+00:00",
+      "note": " A \"Sponsored content\" card is wrongly displayed on the first new tab opened, after the \"Sponsored Stories\" option was unchecked",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1457743,
+      "created": "2018-05-15T18:37:14.481747+00:00",
+      "id": 787591,
+      "is_public": true,
+      "modified": "2018-05-15T18:37:14.481551+00:00",
+      "note": "Momentum scrolling after a two-finger pan is broken when two fingers are lifted at the same time",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox Extended Support Release",
