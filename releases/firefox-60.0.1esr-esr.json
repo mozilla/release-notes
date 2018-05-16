@@ -61,8 +61,8 @@
       "created": "2018-05-15T18:45:04.869200+00:00",
       "id": 787594,
       "is_public": true,
-      "modified": "2018-05-15T18:51:16.358108+00:00",
-      "note": "Fix selectors for tabbrowser to use -moz-default-background-color as its default background in high contrast mode ([Bug 1458956][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1458956",
+      "modified": "2018-05-16T12:37:27.580954+00:00",
+      "note": "Use the right default background when opening tabs or windows in high contrast mode ([Bug 1458956][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1458956",
       "sort_num": 0,
       "tag": "Fixed"
     },
@@ -91,8 +91,8 @@
       "created": "2018-05-16T05:00:01.672578+00:00",
       "id": 787597,
       "is_public": true,
-      "modified": "2018-05-16T05:00:01.672253+00:00",
-      "note": "Incomplete translation for some languages after updating to Firefox 60 ([Bug 1461590][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1461590",
+      "modified": "2018-05-16T12:39:52.868170+00:00",
+      "note": "Restored translations of the Preferences panels when using a language pack ([Bug 1461590][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1461590",
       "sort_num": 0,
       "tag": "Fixed"
     }
