@@ -21,8 +21,8 @@
       "created": "2018-05-15T18:37:14.481747+00:00",
       "id": 787591,
       "is_public": true,
-      "modified": "2018-05-15T18:54:43.067006+00:00",
-      "note": "Momentum scrolling after a two-finger pan is broken when two fingers are lifted at the same time ([Bug 1457743][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1457743",
+      "modified": "2018-05-16T12:42:00.363739+00:00",
+      "note": "On touchscreen devices, fixed momentum scrolling on non-zoomable pages ([Bug 1457743][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1457743",
       "sort_num": 0,
       "tag": "Fixed"
     }

@@ -31,8 +31,8 @@
       "created": "2018-05-15T18:35:15.131802+00:00",
       "id": 787590,
       "is_public": true,
-      "modified": "2018-05-15T18:53:01.634481+00:00",
-      "note": " A \"Sponsored content\" card is wrongly displayed on the first new tab opened, after the \"Sponsored Stories\" option was unchecked ([Bug 1458906][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1458906",
+      "modified": "2018-05-16T12:44:04.196460+00:00",
+      "note": " A \"Sponsored content\" card is no longer displayed after the \"Sponsored Stories\" option is disabled ([Bug 1458906][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1458906",
       "sort_num": 0,
       "tag": "Fixed"
     },
@@ -41,8 +41,8 @@
       "created": "2018-05-15T18:37:14.481747+00:00",
       "id": 787591,
       "is_public": true,
-      "modified": "2018-05-15T18:54:43.067006+00:00",
-      "note": "Momentum scrolling after a two-finger pan is broken when two fingers are lifted at the same time ([Bug 1457743][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1457743",
+      "modified": "2018-05-16T12:42:00.363739+00:00",
+      "note": "On touchscreen devices, fixed momentum scrolling on non-zoomable pages ([Bug 1457743][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1457743",
       "sort_num": 0,
       "tag": "Fixed"
     },
@@ -51,8 +51,8 @@
       "created": "2018-05-15T18:42:39.686676+00:00",
       "id": 787593,
       "is_public": true,
-      "modified": "2018-05-15T18:51:51.608692+00:00",
-      "note": "All black map on Google Maps with updated Nvidia web driver on Mac OS ([Bug 1458553][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1458553",
+      "modified": "2018-05-16T12:47:52.417117+00:00",
+      "note": "Fixed black map on Google Maps with updated Nvidia Web Drivers on macOS ([Bug 1458553][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1458553",
       "sort_num": 0,
       "tag": "Fixed"
     },
@@ -71,8 +71,8 @@
       "created": "2018-05-15T18:46:20.486651+00:00",
       "id": 787595,
       "is_public": true,
-      "modified": "2018-05-15T18:50:48.204236+00:00",
-      "note": "Long cycle collector pauses with some add-ons installed ([Bug 1449033][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1449033",
+      "modified": "2018-05-16T12:48:39.368845+00:00",
+      "note": "Avoid overly long cycle collector pauses with some add-ons installed ([Bug 1449033][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1449033",
       "sort_num": 0,
       "tag": "Fixed"
     },
