@@ -85,6 +85,16 @@
       "note": " `uninstall/helper.exe` is no longer translated ([Bug 1436662][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1436662",
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": 1461590,
+      "created": "2018-05-16T05:00:01.672578+00:00",
+      "id": 787597,
+      "is_public": true,
+      "modified": "2018-05-16T05:00:01.672253+00:00",
+      "note": "Incomplete translation for some languages after updating to Firefox 60 ([Bug 1461590][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1461590",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
