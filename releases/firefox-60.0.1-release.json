@@ -21,8 +21,8 @@
       "created": "2018-05-15T18:39:56.915518+00:00",
       "id": 787592,
       "is_public": true,
-      "modified": "2018-05-15T18:54:06.065581+00:00",
-      "note": "WebVR has been disabled by default on Mac Operating System ([Bug 1459362][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1459362",
+      "modified": "2018-05-16T12:14:17.712687+00:00",
+      "note": "WebVR has been disabled by default on macOS ([Bug 1459362][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1459362",
       "sort_num": 0,
       "tag": "Changed"
     },
@@ -81,8 +81,8 @@
       "created": "2018-05-15T18:47:44.869006+00:00",
       "id": 787596,
       "is_public": true,
-      "modified": "2018-05-15T18:53:33.641901+00:00",
-      "note": " `uninstall/helper.exe` is no longer translated ([Bug 1436662][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1436662",
+      "modified": "2018-05-16T12:16:09.601145+00:00",
+      "note": "The Firefox uninstaller on Windows is now translated again ([Bug 1436662][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1436662",
       "sort_num": 0,
       "tag": "Fixed"
     },
