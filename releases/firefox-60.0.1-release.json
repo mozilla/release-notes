@@ -27,6 +27,16 @@
       "tag": "Changed"
     },
     {
+      "bug": 1449033,
+      "created": "2018-05-15T18:46:20.486651+00:00",
+      "id": 787595,
+      "is_public": true,
+      "modified": "2018-05-16T14:40:43.649974+00:00",
+      "note": "Avoid overly long cycle collector pauses with some add-ons installed ([Bug 1449033][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1449033",
+      "sort_num": 100,
+      "tag": "Fixed"
+    },
+    {
       "bug": 1458906,
       "created": "2018-05-15T18:35:15.131802+00:00",
       "id": 787590,
@@ -63,16 +73,6 @@
       "is_public": true,
       "modified": "2018-05-16T12:37:27.580954+00:00",
       "note": "Use the right default background when opening tabs or windows in high contrast mode ([Bug 1458956][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1458956",
-      "sort_num": 0,
-      "tag": "Fixed"
-    },
-    {
-      "bug": 1449033,
-      "created": "2018-05-15T18:46:20.486651+00:00",
-      "id": 787595,
-      "is_public": true,
-      "modified": "2018-05-16T12:48:39.368845+00:00",
-      "note": "Avoid overly long cycle collector pauses with some add-ons installed ([Bug 1449033][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1449033",
       "sort_num": 0,
       "tag": "Fixed"
     },
