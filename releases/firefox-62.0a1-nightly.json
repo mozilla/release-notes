@@ -7,16 +7,6 @@
   "modified": "2018-05-07T18:16:52.905056+00:00",
   "notes": [
     {
-      "bug": 1242029,
-      "created": "2018-04-27T17:06:43.536915+00:00",
-      "id": 787546,
-      "is_public": true,
-      "modified": "2018-04-27T17:21:31.784898+00:00",
-      "note": "JavaScript library for interactive editing of CSS Shapes values in the browser, with functional values like polygon(), circle() and ellipse() ",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
       "bug": 1302685,
       "created": "2018-04-27T17:10:28.966699+00:00",
       "id": 787547,
@@ -35,6 +25,16 @@
       "note": "<!-- Nightly only, feature planned for Firefox 63 release -->\r\nIf Firefox Nightly is running when Windows shuts down (by manual user shutdown or automatic Windows Update reboot), your browser session will be automatically restored when you login after reboot",
       "sort_num": 0,
       "tag": "New"
+    },
+    {
+      "bug": 1242029,
+      "created": "2018-04-27T17:06:43.536915+00:00",
+      "id": 787546,
+      "is_public": true,
+      "modified": "2018-05-28T09:25:03.100769+00:00",
+      "note": "JavaScript library for interactive editing of CSS Shapes values in the browser, with functional values like polygon(), circle() and ellipse() ",
+      "sort_num": 0,
+      "tag": "HTML5"
     },
     {
       "bug": null,
