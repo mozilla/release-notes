@@ -27,6 +27,16 @@
       "tag": "New"
     },
     {
+      "bug": 603903,
+      "created": "2018-05-28T08:56:44.345270+00:00",
+      "id": 787599,
+      "is_public": true,
+      "modified": "2018-05-28T08:56:44.345076+00:00",
+      "note": "<!-- Nightly only, feature planned for Firefox 63 release -->\r\nIf Firefox Nightly is running when Windows shuts down (by manual user shutdown or automatic Windows Update reboot), your browser session will be automatically restored when you login after reboot",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": null,
       "created": "2018-05-28T08:46:54.006843+00:00",
       "id": 787598,
