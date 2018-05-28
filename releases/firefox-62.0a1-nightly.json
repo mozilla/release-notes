@@ -7,16 +7,6 @@
   "modified": "2018-05-07T18:16:52.905056+00:00",
   "notes": [
     {
-      "bug": 1302685,
-      "created": "2018-04-27T17:10:28.966699+00:00",
-      "id": 787547,
-      "is_public": true,
-      "modified": "2018-04-27T17:21:13.887150+00:00",
-      "note": "CSS Variable Fonts (OpenType Font Variations) enable a single font file to behave like multiple fonts ",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
       "bug": 603903,
       "created": "2018-05-28T08:56:44.345270+00:00",
       "id": 787599,
@@ -33,6 +23,16 @@
       "is_public": true,
       "modified": "2018-05-28T09:25:03.100769+00:00",
       "note": "JavaScript library for interactive editing of CSS Shapes values in the browser, with functional values like polygon(), circle() and ellipse() ",
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 1302685,
+      "created": "2018-04-27T17:10:28.966699+00:00",
+      "id": 787547,
+      "is_public": true,
+      "modified": "2018-05-28T09:28:50.624781+00:00",
+      "note": "CSS Variable Fonts (OpenType Font Variations) enable a single font file to behave like multiple fonts ",
       "sort_num": 0,
       "tag": "HTML5"
     },
