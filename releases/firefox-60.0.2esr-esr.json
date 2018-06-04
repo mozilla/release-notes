@@ -17,7 +17,7 @@
       "tag": ""
     },
     {
-      "bug": null,
+      "bug": 1466028,
       "created": "2018-06-04T18:56:31.540241+00:00",
       "fixed_in_release": {
         "channel": "ESR",
@@ -29,10 +29,28 @@
       },
       "id": 787603,
       "is_public": true,
-      "modified": "2018-06-04T18:56:31.540049+00:00",
-      "note": " Updated to [NSS 3.37.2][1] \r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/NSS_3.37.2_release_notes",
+      "modified": "2018-06-04T20:33:19.810220+00:00",
+      "note": " Updated to [NSS 3.36][1] \r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/NSS_3.36_release_notes",
       "sort_num": 55,
       "tag": "Changed"
+    },
+    {
+      "bug": null,
+      "created": "2018-06-04T20:37:14.213635+00:00",
+      "fixed_in_release": {
+        "channel": "ESR",
+        "is_public": false,
+        "product": "Firefox Extended Support Release",
+        "slug": "firefox-60.0.2esr-esr",
+        "title": "Firefox Extended Support Release 60.0.2esr ESR",
+        "version": "60.0.2esr"
+      },
+      "id": 787604,
+      "is_public": false,
+      "modified": "2018-06-04T20:37:14.213443+00:00",
+      "note": "Various [security fixes][0]\r\n\r\n[0]: https://www.mozilla.org/security/known-vulnerabilities/firefox/#firefox60",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox Extended Support Release",
