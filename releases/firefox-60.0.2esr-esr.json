@@ -15,6 +15,24 @@
       "note": "Reference link to [60.0.1esr release notes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/firefox/60.0.1esr/releasenotes/",
       "sort_num": 50,
       "tag": ""
+    },
+    {
+      "bug": null,
+      "created": "2018-06-04T18:56:31.540241+00:00",
+      "fixed_in_release": {
+        "channel": "ESR",
+        "is_public": false,
+        "product": "Firefox Extended Support Release",
+        "slug": "firefox-60.0.2esr-esr",
+        "title": "Firefox Extended Support Release 60.0.2esr ESR",
+        "version": "60.0.2esr"
+      },
+      "id": 787603,
+      "is_public": true,
+      "modified": "2018-06-04T18:56:31.540049+00:00",
+      "note": " Updated to [NSS 3.37.2][1] \r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/NSS_3.37.2_release_notes",
+      "sort_num": 55,
+      "tag": "Changed"
     }
   ],
   "product": "Firefox Extended Support Release",
