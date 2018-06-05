@@ -1,0 +1,67 @@
+{
+  "bug_list": "",
+  "bug_search_url": "",
+  "channel": "Release",
+  "created": "2018-06-05T19:36:00.120789+00:00",
+  "is_public": false,
+  "modified": "2018-06-05T19:36:00.120610+00:00",
+  "notes": [
+    {
+      "bug": null,
+      "created": "2018-06-05T19:36:28.273466+00:00",
+      "id": 787607,
+      "is_public": true,
+      "modified": "2018-06-05T19:36:28.273186+00:00",
+      "note": "**Download files** on your iPhone or iPad devices by long-pressing on any link to download a file.\r\n",
+      "sort_num": 100,
+      "tag": ""
+    },
+    {
+      "bug": null,
+      "created": "2018-06-05T19:36:56.355044+00:00",
+      "id": 787608,
+      "is_public": true,
+      "modified": "2018-06-05T19:36:56.354863+00:00",
+      "note": "**Updated Share Sheet** allowing users to send, save and load pages from other apps.\r\n",
+      "sort_num": 90,
+      "tag": ""
+    },
+    {
+      "bug": null,
+      "created": "2018-06-05T19:37:11.890044+00:00",
+      "id": 787609,
+      "is_public": true,
+      "modified": "2018-06-05T19:37:11.889858+00:00",
+      "note": "**Sync from the menu** of bookmarks and browsing information. (If you\u2019re not signed in to Firefox Accounts, you\u2019ll see an option to sign in first.)\r\n",
+      "sort_num": 70,
+      "tag": ""
+    },
+    {
+      "bug": null,
+      "created": "2018-06-05T19:37:36.093330+00:00",
+      "id": 787610,
+      "is_public": true,
+      "modified": "2018-06-05T19:37:36.093147+00:00",
+      "note": "**New Pocket video content** (iPad experiment only). We\u2019re testing a feature that lets you discover and watch popular videos on Pocket.\r\n",
+      "sort_num": 50,
+      "tag": ""
+    },
+    {
+      "bug": null,
+      "created": "2018-06-05T19:37:48.412274+00:00",
+      "id": 787611,
+      "is_public": true,
+      "modified": "2018-06-05T19:37:48.412085+00:00",
+      "note": "Crashes and minor bugs\r\n",
+      "sort_num": 0,
+      "tag": "Fixed"
+    }
+  ],
+  "product": "Firefox for iOS",
+  "release_date": "2018-06-11",
+  "slug": "firefox-for-ios-12.0-release",
+  "system_requirements": "## Operating systems\r\n - iOS 10.3\r\n - iOS 11\r\n",
+  "text": "This version of Firefox for iOS has improvements to your favorite features, and a new experiment with video content.\r\n",
+  "title": "Firefox for iOS 12.0 Release",
+  "version": "12.0"
+}
