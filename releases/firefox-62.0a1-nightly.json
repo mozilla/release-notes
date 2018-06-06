@@ -41,8 +41,8 @@
       "created": "2018-06-05T12:45:36.653677+00:00",
       "id": 787605,
       "is_public": true,
-      "modified": "2018-06-05T12:45:36.653486+00:00",
-      "note": "The description field for bookmarks has been removed. Users that manually changed the field can export old descriptions via [html][1] or [json][2]. Descriptions will be removed in the next release.\r\n\r\n[1]: https://support.mozilla.org/kb/export-firefox-bookmarks-to-backup-or-transfer\r\n[2]: https://support.mozilla.org/kb/restore-bookmarks-from-backup-or-move-them#w_backup-and-restore\r\n",
+      "modified": "2018-06-06T14:55:01.709915+00:00",
+      "note": "The description field for bookmarks has been removed. Users that manually changed the field can export old descriptions via [html][1] or [json][2]. Stored descriptions will be removed in a future release.\r\n\r\n[1]: https://support.mozilla.org/kb/export-firefox-bookmarks-to-backup-or-transfer\r\n[2]: https://support.mozilla.org/kb/restore-bookmarks-from-backup-or-move-them#w_backup-and-restore\r\n",
       "sort_num": 0,
       "tag": "Changed"
     },
