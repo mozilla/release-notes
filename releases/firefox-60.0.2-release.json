@@ -1,0 +1,63 @@
+{
+  "bug_list": "",
+  "bug_search_url": "",
+  "channel": "Release",
+  "created": "2018-06-06T15:11:24.840516+00:00",
+  "is_public": false,
+  "modified": "2018-06-06T15:13:35.624538+00:00",
+  "notes": [
+    {
+      "bug": null,
+      "created": "2018-06-06T15:13:48.587610+00:00",
+      "id": 787613,
+      "is_public": true,
+      "modified": "2018-06-06T15:14:21.075869+00:00",
+      "note": "Reference link to [60.0.1 release notes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/firefox/60.0.1/releasenotes/",
+      "sort_num": 0,
+      "tag": ""
+    },
+    {
+      "bug": 1466028,
+      "created": "2018-06-04T18:56:31.540241+00:00",
+      "fixed_in_release": {
+        "channel": "ESR",
+        "is_public": false,
+        "product": "Firefox Extended Support Release",
+        "slug": "firefox-60.0.2esr-esr",
+        "title": "Firefox Extended Support Release 60.0.2esr ESR",
+        "version": "60.0.2esr"
+      },
+      "id": 787603,
+      "is_public": true,
+      "modified": "2018-06-06T15:19:58.827571+00:00",
+      "note": " Updated to NSS 3.36.4 from 3.36.1 (see release notes for NSS [3.36.2][1] and [3.36.4][2])\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/NSS_3.36.2_release_notes\r\n  [2]: https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/NSS_3.36.4_release_notes",
+      "sort_num": 55,
+      "tag": "Changed"
+    },
+    {
+      "bug": null,
+      "created": "2018-06-04T20:37:14.213635+00:00",
+      "fixed_in_release": {
+        "channel": "ESR",
+        "is_public": false,
+        "product": "Firefox Extended Support Release",
+        "slug": "firefox-60.0.2esr-esr",
+        "title": "Firefox Extended Support Release 60.0.2esr ESR",
+        "version": "60.0.2esr"
+      },
+      "id": 787604,
+      "is_public": false,
+      "modified": "2018-06-06T15:18:42.286504+00:00",
+      "note": "Various [security fixes][0]\r\n\r\n[0]: https://www.mozilla.org/security/known-vulnerabilities/firefox/#firefox60.0.2",
+      "sort_num": 0,
+      "tag": "Fixed"
+    }
+  ],
+  "product": "Firefox",
+  "release_date": "2018-06-06",
+  "slug": "firefox-60.0.2-release",
+  "system_requirements": "## Windows\r\n\r\n### Operating Systems (32-bit and 64-bit)\r\n - Windows 7\r\n - Windows 8\r\n - Windows 10\r\n\r\n### Recommended Hardware\r\n-  Pentium 4 or newer processor that supports SSE2\r\n-  512MB of RAM / 2GB of RAM for the 64-bit version\r\n-  200MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- macOS 10.9\r\n- macOS 10.10\r\n- macOS 10.11\r\n- macOS 10.12\r\n- macOS 10.13\r\n\r\n### Recommended Hardware\r\n- Macintosh computer with an Intel x86 processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - GTK+ 3.4 or higher\r\n    - GLib 2.22 or higher\r\n    - Pango 1.14 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n    - libstdc++ 4.6.1 or higher\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - NetworkManager 0.7 or higher\r\n    - DBus 1.0 or higher\r\n    - GNOME 2.16 or higher\r\n    - PulseAudio\r\n\r\n  [1]: https://support.mozilla.org/kb/get-latest-version-firefox-windows-xp-vista",
+  "text": "",
+  "title": "Firefox 60.0.2 Release",
+  "version": "60.0.2"
+}

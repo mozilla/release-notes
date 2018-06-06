@@ -1,19 +1,19 @@
 {
   "bug_list": "",
   "bug_search_url": "",
-  "channel": "ESR",
-  "created": "2018-06-04T17:25:01.661163+00:00",
+  "channel": "Release",
+  "created": "2018-06-06T15:11:24.818974+00:00",
   "is_public": false,
-  "modified": "2018-06-04T17:25:23.618320+00:00",
+  "modified": "2018-06-06T15:11:54.250624+00:00",
   "notes": [
     {
       "bug": null,
-      "created": "2018-06-04T18:16:52.255764+00:00",
-      "id": 787602,
+      "created": "2018-06-06T15:12:00.665578+00:00",
+      "id": 787612,
       "is_public": true,
-      "modified": "2018-06-04T18:16:52.255590+00:00",
-      "note": "Reference link to [60.0.1esr release notes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/firefox/60.0.1esr/releasenotes/",
-      "sort_num": 50,
+      "modified": "2018-06-06T15:12:15.698197+00:00",
+      "note": "Reference link to [60.0.1 release notes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/firefox/android/60.0.1/releasenotes/",
+      "sort_num": 0,
       "tag": ""
     },
     {
@@ -53,11 +53,11 @@
       "tag": "Fixed"
     }
   ],
-  "product": "Firefox Extended Support Release",
-  "release_date": "2018-06-07",
-  "slug": "firefox-60.0.2esr-esr",
-  "system_requirements": "",
+  "product": "Firefox for Android",
+  "release_date": "2018-06-06",
+  "slug": "firefox-for-android-60.0.2-release",
+  "system_requirements": "## Operating systems\r\n - Android 4.1\r\n - Above versions\r\n\r\n## Requirements\r\n - 50 MB internal storage\r\n - 384 MB of RAM\r\n - display at least 320 pixels high and 240 pixels wide",
   "text": "",
-  "title": "Firefox Extended Support Release 60.0.2esr ESR",
-  "version": "60.0.2esr"
+  "title": "Firefox for Android 60.0.2 Release",
+  "version": "60.0.2"
 }

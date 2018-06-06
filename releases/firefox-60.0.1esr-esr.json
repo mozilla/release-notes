@@ -21,7 +21,7 @@
       "created": "2018-05-15T18:39:56.915518+00:00",
       "id": 787592,
       "is_public": true,
-      "modified": "2018-05-16T12:14:17.712687+00:00",
+      "modified": "2018-06-06T15:13:55.318122+00:00",
       "note": "WebVR has been disabled by default on macOS ([Bug 1459362][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1459362",
       "sort_num": 0,
       "tag": "Changed"
@@ -31,7 +31,7 @@
       "created": "2018-05-15T18:46:20.486651+00:00",
       "id": 787595,
       "is_public": true,
-      "modified": "2018-05-16T14:40:43.649974+00:00",
+      "modified": "2018-06-06T15:14:00.697511+00:00",
       "note": "Avoid overly long cycle collector pauses with some add-ons installed ([Bug 1449033][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1449033",
       "sort_num": 100,
       "tag": "Fixed"
@@ -41,7 +41,7 @@
       "created": "2018-05-15T18:35:15.131802+00:00",
       "id": 787590,
       "is_public": true,
-      "modified": "2018-05-17T07:50:20.552843+00:00",
+      "modified": "2018-06-06T15:13:53.401190+00:00",
       "note": "After unckecking the \"Sponsored Stories\" option, the New Tab page now immediately stops displaying \"Sponsored content\" cards ([Bug 1458906][1])\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1458906",
       "sort_num": 0,
       "tag": "Fixed"
@@ -51,7 +51,7 @@
       "created": "2018-05-15T18:37:14.481747+00:00",
       "id": 787591,
       "is_public": true,
-      "modified": "2018-05-16T12:42:00.363739+00:00",
+      "modified": "2018-06-06T15:13:44.657699+00:00",
       "note": "On touchscreen devices, fixed momentum scrolling on non-zoomable pages ([Bug 1457743][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1457743",
       "sort_num": 0,
       "tag": "Fixed"
@@ -61,7 +61,7 @@
       "created": "2018-05-15T18:42:39.686676+00:00",
       "id": 787593,
       "is_public": true,
-      "modified": "2018-05-16T12:47:52.417117+00:00",
+      "modified": "2018-06-06T15:13:58.559065+00:00",
       "note": "Fixed black map on Google Maps with updated Nvidia Web Drivers on macOS ([Bug 1458553][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1458553",
       "sort_num": 0,
       "tag": "Fixed"
@@ -71,7 +71,7 @@
       "created": "2018-05-15T18:45:04.869200+00:00",
       "id": 787594,
       "is_public": true,
-      "modified": "2018-05-16T12:37:27.580954+00:00",
+      "modified": "2018-06-06T15:13:59.581736+00:00",
       "note": "Use the right default background when opening tabs or windows in high contrast mode ([Bug 1458956][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1458956",
       "sort_num": 0,
       "tag": "Fixed"
@@ -81,7 +81,7 @@
       "created": "2018-05-15T18:47:44.869006+00:00",
       "id": 787596,
       "is_public": true,
-      "modified": "2018-05-16T12:16:09.601145+00:00",
+      "modified": "2018-06-06T15:14:02.584310+00:00",
       "note": "The Firefox uninstaller on Windows is now translated again ([Bug 1436662][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1436662",
       "sort_num": 0,
       "tag": "Fixed"
@@ -91,7 +91,7 @@
       "created": "2018-05-16T05:00:01.672578+00:00",
       "id": 787597,
       "is_public": true,
-      "modified": "2018-05-16T12:39:52.868170+00:00",
+      "modified": "2018-06-06T15:14:03.477328+00:00",
       "note": "Restored translations of the Preferences panels when using a language pack ([Bug 1461590][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1461590",
       "sort_num": 0,
       "tag": "Fixed"
