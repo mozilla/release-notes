@@ -7,6 +7,16 @@
   "modified": "2018-05-29T16:38:09.116982+00:00",
   "notes": [
     {
+      "bug": 1433716,
+      "created": "2018-06-15T21:25:20.981389+00:00",
+      "id": 787620,
+      "is_public": true,
+      "modified": "2018-06-15T21:25:20.981191+00:00",
+      "note": "Three-pane Inspector in Developer Tools separates the rules into its own panel",
+      "sort_num": 80,
+      "tag": "New"
+    },
+    {
       "bug": 1462469,
       "created": "2018-05-28T13:41:13.971484+00:00",
       "id": 787600,
@@ -35,6 +45,26 @@
       "note": "The description field for bookmarks has been removed. Users that manually changed the field can export old descriptions via [html][1] or [json][2]. Stored descriptions will be removed in a future release.\r\n\r\n[1]: https://support.mozilla.org/kb/export-firefox-bookmarks-to-backup-or-transfer\r\n[2]: https://support.mozilla.org/kb/restore-bookmarks-from-backup-or-move-them#w_backup-and-restore\r\n",
       "sort_num": 0,
       "tag": "Changed"
+    },
+    {
+      "bug": 1242029,
+      "created": "2018-04-27T17:06:43.536915+00:00",
+      "id": 787546,
+      "is_public": true,
+      "modified": "2018-06-15T21:12:01.131124+00:00",
+      "note": "JavaScript library for interactive editing of CSS Shapes values in the browser, with functional values like polygon(), circle() and ellipse() ",
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": null,
+      "created": "2018-05-28T08:46:54.006843+00:00",
+      "id": 787598,
+      "is_public": true,
+      "modified": "2018-06-15T21:14:42.165483+00:00",
+      "note": "Changes affecting [developers][1]\r\n\r\n[1]: https://developer.mozilla.org/Firefox/Releases/62",
+      "sort_num": 0,
+      "tag": "Developer"
     }
   ],
   "product": "Firefox",
