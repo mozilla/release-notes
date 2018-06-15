@@ -5,7 +5,38 @@
   "created": "2018-05-29T16:38:09.117160+00:00",
   "is_public": false,
   "modified": "2018-05-29T16:38:09.116982+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": 1462469,
+      "created": "2018-05-28T13:41:13.971484+00:00",
+      "id": 787600,
+      "is_public": true,
+      "modified": "2018-06-15T21:08:32.039396+00:00",
+      "note": "Added a ***Clear Site Data and Cookies*** button to the identity popup located next to  the address bar so as to provide a quick and easy process to delete local data for the visited website\r\n",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1462468,
+      "created": "2018-06-05T12:53:36.192058+00:00",
+      "id": 787606,
+      "is_public": true,
+      "modified": "2018-06-15T21:07:29.152440+00:00",
+      "note": "Added a button to the hamburger menu to toggle Tracking Protection on and off",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1463738,
+      "created": "2018-06-05T12:45:36.653677+00:00",
+      "id": 787605,
+      "is_public": true,
+      "modified": "2018-06-15T21:06:59.032531+00:00",
+      "note": "The description field for bookmarks has been removed. Users that manually changed the field can export old descriptions via [html][1] or [json][2]. Stored descriptions will be removed in a future release.\r\n\r\n[1]: https://support.mozilla.org/kb/export-firefox-bookmarks-to-backup-or-transfer\r\n[2]: https://support.mozilla.org/kb/restore-bookmarks-from-backup-or-move-them#w_backup-and-restore\r\n",
+      "sort_num": 0,
+      "tag": "Changed"
+    }
+  ],
   "product": "Firefox",
   "release_date": "2018-06-26",
   "slug": "firefox-62.0beta-beta",
