@@ -7,6 +7,16 @@
   "modified": "2018-05-29T16:38:09.116982+00:00",
   "notes": [
     {
+      "bug": 1462469,
+      "created": "2018-05-28T13:41:13.971484+00:00",
+      "id": 787600,
+      "is_public": true,
+      "modified": "2018-06-18T19:07:57.024548+00:00",
+      "note": "Added a ***Clear Site Data and Cookies*** button to the identity popup located next to  the address bar so as to provide a quick and easy process to delete local data for the visited website\r\n",
+      "sort_num": 85,
+      "tag": "New"
+    },
+    {
       "bug": 1433716,
       "created": "2018-06-15T21:25:20.981389+00:00",
       "id": 787620,
@@ -24,16 +34,6 @@
       "modified": "2018-06-15T21:33:48.904051+00:00",
       "note": "New tab page sections such as top sites, highlights, and Pocket can be adjusted to include 1 to 4 rows in the Preferences",
       "sort_num": 50,
-      "tag": "New"
-    },
-    {
-      "bug": 1462469,
-      "created": "2018-05-28T13:41:13.971484+00:00",
-      "id": 787600,
-      "is_public": true,
-      "modified": "2018-06-15T21:08:32.039396+00:00",
-      "note": "Added a ***Clear Site Data and Cookies*** button to the identity popup located next to  the address bar so as to provide a quick and easy process to delete local data for the visited website\r\n",
-      "sort_num": 0,
       "tag": "New"
     },
     {

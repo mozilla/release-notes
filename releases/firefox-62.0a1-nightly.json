@@ -7,6 +7,16 @@
   "modified": "2018-05-07T18:16:52.905056+00:00",
   "notes": [
     {
+      "bug": 1462469,
+      "created": "2018-05-28T13:41:13.971484+00:00",
+      "id": 787600,
+      "is_public": true,
+      "modified": "2018-06-18T19:07:57.024548+00:00",
+      "note": "Added a ***Clear Site Data and Cookies*** button to the identity popup located next to  the address bar so as to provide a quick and easy process to delete local data for the visited website\r\n",
+      "sort_num": 85,
+      "tag": "New"
+    },
+    {
       "bug": 1400536,
       "created": "2018-06-15T21:33:48.904230+00:00",
       "id": 787621,
@@ -23,16 +33,6 @@
       "is_public": true,
       "modified": "2018-05-28T08:56:44.345076+00:00",
       "note": "<!-- Nightly only, feature planned for Firefox 63 release -->\r\nIf Firefox Nightly is running when Windows shuts down (by manual user shutdown or automatic Windows Update reboot), your browser session will be automatically restored when you login after reboot",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
-      "bug": 1462469,
-      "created": "2018-05-28T13:41:13.971484+00:00",
-      "id": 787600,
-      "is_public": true,
-      "modified": "2018-06-15T21:08:32.039396+00:00",
-      "note": "Added a ***Clear Site Data and Cookies*** button to the identity popup located next to  the address bar so as to provide a quick and easy process to delete local data for the visited website\r\n",
       "sort_num": 0,
       "tag": "New"
     },
