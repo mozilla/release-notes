@@ -19,9 +19,9 @@
       },
       "id": 787635,
       "is_public": true,
-      "modified": "2018-06-20T20:32:08.223480+00:00",
+      "modified": "2018-06-20T21:03:36.444445+00:00",
       "note": "Enhanced performance:\r\n\r\n - Quantum CSS improvements that improve page rendering times\r\n - Improved page rendering speed with the new retained display list feature\r\n - Faster switching between tabs on Windows and Linux\r\n - WebExtensions now run in their own process on MacOS",
-      "sort_num": 10,
+      "sort_num": 100,
       "tag": "New"
     },
     {
@@ -29,9 +29,9 @@
       "created": "2018-06-20T20:27:06.005671+00:00",
       "id": 787627,
       "is_public": true,
-      "modified": "2018-06-20T20:32:49.160824+00:00",
+      "modified": "2018-06-20T21:03:32.403496+00:00",
       "note": "Convenient access to more search engines: You can now add search engines to the address bar \u201cSearch with\u201d tool from the page action menu when on a webpage that provides an OpenSearch plugin",
-      "sort_num": 9,
+      "sort_num": 90,
       "tag": "New"
     },
     {
@@ -39,9 +39,9 @@
       "created": "2018-06-20T20:27:06.780484+00:00",
       "id": 787628,
       "is_public": true,
-      "modified": "2018-06-20T20:33:43.602119+00:00",
+      "modified": "2018-06-20T21:03:28.968547+00:00",
       "note": "Convenient access to share links: Added the ability to share the URL of an active tab with MacOS sharing providers from the Page Actions menu",
-      "sort_num": 8,
+      "sort_num": 80,
       "tag": "New"
     },
     {
@@ -49,9 +49,9 @@
       "created": "2018-06-20T20:28:45.749763+00:00",
       "id": 787634,
       "is_public": true,
-      "modified": "2018-06-20T20:35:28.685096+00:00",
+      "modified": "2018-06-20T21:03:25.369885+00:00",
       "note": "Improved security:\r\n\r\n - On-by-default support for the latest draft of the [TLS 1.3][1] specification\r\n - Access to FTP subresources inside http(s) pages [has been blocked][2]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/Security/Transport_Layer_Security#TLS_1.3\r\n  [2]: https://blog.mozilla.org/security/2018/05/07/blocking-ftp-subresource-loads-within-non-ftp-documents-in-firefox-61/",
-      "sort_num": 7,
+      "sort_num": 70,
       "tag": "New"
     },
     {
@@ -59,9 +59,9 @@
       "created": "2018-06-20T20:27:07.743465+00:00",
       "id": 787630,
       "is_public": true,
-      "modified": "2018-06-20T20:35:55.215472+00:00",
+      "modified": "2018-06-20T21:03:22.037769+00:00",
       "note": "A more consistent user experience: Improvements for dark theme support across the entire Firefox user interface",
-      "sort_num": 6,
+      "sort_num": 60,
       "tag": "New"
     },
     {
@@ -69,9 +69,9 @@
       "created": "2018-06-20T20:27:03.111109+00:00",
       "id": 787625,
       "is_public": true,
-      "modified": "2018-06-20T20:36:13.883495+00:00",
+      "modified": "2018-06-20T21:03:17.942282+00:00",
       "note": "More customization for tabs: added support for allowing WebExtensions to manage and hide tabs",
-      "sort_num": 5,
+      "sort_num": 50,
       "tag": "New"
     },
     {
@@ -79,9 +79,9 @@
       "created": "2018-06-20T20:37:07.376178+00:00",
       "id": 787636,
       "is_public": true,
-      "modified": "2018-06-20T20:37:07.375995+00:00",
+      "modified": "2018-06-20T21:03:14.577662+00:00",
       "note": "Improved bookmark syncing",
-      "sort_num": 4,
+      "sort_num": 40,
       "tag": "New"
     },
     {
