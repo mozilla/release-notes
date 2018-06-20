@@ -11,7 +11,7 @@
       "created": "2018-05-09T01:06:42.324599+00:00",
       "id": 787579,
       "is_public": true,
-      "modified": "2018-06-20T20:00:16.338540+00:00",
+      "modified": "2018-06-20T20:27:07.964006+00:00",
       "note": "Performance Enhancements:\r\n\r\n - Quantum CSS improvements which improve page rendering times\r\n - Improved page rendering speed with the new retained display list feature\r\n - Faster switching between tabs on Windows and Linux\r\n - WebExtensions now run in their own process on MacOS\r\n",
       "sort_num": 10,
       "tag": "New"
@@ -21,7 +21,7 @@
       "created": "2018-05-09T22:28:37.402093+00:00",
       "id": 787585,
       "is_public": true,
-      "modified": "2018-06-20T20:02:26.640612+00:00",
+      "modified": "2018-06-20T20:27:05.264319+00:00",
       "note": "On-by-default support for the latest draft of the [TLS 1.3][1] specification\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/Security/Transport_Layer_Security#TLS_1.3",
       "sort_num": 1,
       "tag": "New"
@@ -31,7 +31,7 @@
       "created": "2018-05-09T01:07:14.235319+00:00",
       "id": 787580,
       "is_public": true,
-      "modified": "2018-06-20T20:00:16.338540+00:00",
+      "modified": "2018-06-20T20:27:07.416712+00:00",
       "note": "Various improvements for dark theme support will provide a more consistent experience across the entire Firefox UI",
       "sort_num": 0,
       "tag": "New"
@@ -41,7 +41,7 @@
       "created": "2018-05-09T01:07:51.946671+00:00",
       "id": 787581,
       "is_public": true,
-      "modified": "2018-06-20T20:00:16.338540+00:00",
+      "modified": "2018-06-20T20:27:07.047863+00:00",
       "note": "Added the ability to share current the URL with MacOS sharing providers from the Page Actions menu",
       "sort_num": 0,
       "tag": "New"
@@ -51,7 +51,7 @@
       "created": "2018-05-09T01:08:16.498503+00:00",
       "id": 787582,
       "is_public": true,
-      "modified": "2018-06-20T20:00:16.338540+00:00",
+      "modified": "2018-06-20T20:27:06.236484+00:00",
       "note": "OpenSearch plugins offered by web pages can now be added from the page action menu for easier installation",
       "sort_num": 0,
       "tag": "New"
@@ -61,7 +61,7 @@
       "created": "2018-05-09T01:08:39.228587+00:00",
       "id": 787583,
       "is_public": true,
-      "modified": "2018-06-20T20:00:16.338540+00:00",
+      "modified": "2018-06-20T20:27:03.387991+00:00",
       "note": "Improved support for allowing WebExtensions to manage and hide tabs",
       "sort_num": 0,
       "tag": "New"
@@ -71,7 +71,7 @@
       "created": "2018-05-09T01:03:56.031410+00:00",
       "id": 787577,
       "is_public": true,
-      "modified": "2018-06-20T20:00:16.338540+00:00",
+      "modified": "2018-06-20T20:27:09.955887+00:00",
       "note": "The settings for customizing your homepage and new tab page in Firefox have been moved to a new Preferences section, Home. It can be accessed from the sidebar in Preferences or by visiting about:preferences#home",
       "sort_num": 0,
       "tag": "Changed"
@@ -81,7 +81,7 @@
       "created": "2018-05-09T01:04:26.013564+00:00",
       "id": 787578,
       "is_public": true,
-      "modified": "2018-06-20T20:00:16.338540+00:00",
+      "modified": "2018-06-20T20:27:09.358882+00:00",
       "note": "In order to improve user security, access to FTP subresources inside http(s) pages [has been blocked][1]\r\n\r\n\r\n  [1]: https://blog.mozilla.org/security/2018/05/07/blocking-ftp-subresource-loads-within-non-ftp-documents-in-firefox-61/",
       "sort_num": 0,
       "tag": "Changed"
@@ -91,7 +91,7 @@
       "created": "2018-05-09T01:03:09.065345+00:00",
       "id": 787576,
       "is_public": true,
-      "modified": "2018-06-20T20:00:16.338540+00:00",
+      "modified": "2018-06-20T20:27:11.129890+00:00",
       "note": "A new drop down menu was added to the Developer Tools Network panel to allow bandwidth throttling, rather than requiring users to do so via Responsive Design Mode",
       "sort_num": 0,
       "tag": "Developer"
