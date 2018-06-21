@@ -9,18 +9,10 @@
     {
       "bug": null,
       "created": "2018-06-21T06:36:46.058559+00:00",
-      "fixed_in_release": {
-        "channel": "ESR",
-        "is_public": true,
-        "product": "Firefox Extended Support Release",
-        "slug": "firefox-60.0.2esr-esr",
-        "title": "Firefox Extended Support Release 60.0.2esr ESR",
-        "version": "60.0.2esr"
-      },
       "id": 787639,
       "is_public": true,
-      "modified": "2018-06-21T06:36:46.058337+00:00",
-      "note": "Various [security fixes][0]\r\n\r\n[0]: https://www.mozilla.org/security/known-vulnerabilities/firefox/#firefox60.0.2",
+      "modified": "2018-06-21T06:41:56.405866+00:00",
+      "note": "Various [security fixes][0]\r\n\r\n[0]: https://www.mozilla.org/security/known-vulnerabilities/firefox-esr/#firefoxesr60.1",
       "sort_num": 0,
       "tag": "Fixed"
     },
