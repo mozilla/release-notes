@@ -4,7 +4,7 @@
   "channel": "Release",
   "created": "2018-06-20T20:00:10.231988+00:00",
   "is_public": false,
-  "modified": "2018-06-20T20:30:52.268200+00:00",
+  "modified": "2018-06-25T18:57:15.476053+00:00",
   "notes": [
     {
       "bug": null,
@@ -19,8 +19,8 @@
       },
       "id": 787635,
       "is_public": true,
-      "modified": "2018-06-20T21:03:36.444445+00:00",
-      "note": "Enhanced performance:\r\n\r\n - Quantum CSS improvements that improve page rendering times\r\n - Improved page rendering speed with the new retained display list feature\r\n - Faster switching between tabs on Windows and Linux\r\n - WebExtensions now run in their own process on MacOS",
+      "modified": "2018-06-25T19:04:02.696916+00:00",
+      "note": "Enhanced performance:\r\n\r\n - Faster page rendering with Quantum CSS improvements and the new retained display list feature\r\n - Faster switching between tabs on Windows and Linux\r\n - WebExtensions now run in their own process on MacOS",
       "sort_num": 100,
       "tag": "New"
     },
@@ -39,8 +39,8 @@
       "created": "2018-06-20T20:27:06.780484+00:00",
       "id": 787628,
       "is_public": true,
-      "modified": "2018-06-20T21:03:28.968547+00:00",
-      "note": "Convenient access to share links: Added the ability to share the URL of an active tab with MacOS sharing providers from the Page Actions menu",
+      "modified": "2018-06-25T19:04:35.624308+00:00",
+      "note": "Share links from Firefox for MacOS more easily: You can now share the URL of an active tab from the page actions menu in the address bar",
       "sort_num": 80,
       "tag": "New"
     },
@@ -69,8 +69,8 @@
       "created": "2018-06-20T20:27:03.111109+00:00",
       "id": 787625,
       "is_public": true,
-      "modified": "2018-06-20T21:03:17.942282+00:00",
-      "note": "More customization for tabs: added support for allowing WebExtensions to manage and hide tabs",
+      "modified": "2018-06-25T19:04:54.231835+00:00",
+      "note": "More customization for tab management: added support to allow WebExtensions to hide tabs",
       "sort_num": 50,
       "tag": "New"
     },
@@ -89,8 +89,8 @@
       "created": "2018-06-20T20:27:09.702486+00:00",
       "id": 787632,
       "is_public": true,
-      "modified": "2018-06-20T20:38:03.207548+00:00",
-      "note": "The settings for customizing your homepage and new tab page in Firefox have been moved to a new Preferences section, Home. It can be accessed from the sidebar in Preferences or by visiting about:preferences#home",
+      "modified": "2018-06-25T19:05:15.681933+00:00",
+      "note": "The settings for customizing your homepage and new tab page in Firefox have been added to a new Preferences section that can be accessed from Firefox at about:preferences#home. The settings can also be accessed via the gear icon on the New Tab page.",
       "sort_num": 0,
       "tag": "Changed"
     }
@@ -99,7 +99,7 @@
   "release_date": "2018-06-26",
   "slug": "firefox-61.0-release",
   "system_requirements": "## Windows\r\n\r\n### Operating Systems (32-bit and 64-bit)\r\n - Windows 7\r\n - Windows 8\r\n - Windows 10\r\n\r\n### Recommended Hardware\r\n-  Pentium 4 or newer processor that supports SSE2\r\n-  512MB of RAM / 2GB of RAM for the 64-bit version\r\n-  200MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- macOS 10.9\r\n- macOS 10.10\r\n- macOS 10.11\r\n- macOS 10.12\r\n- macOS 10.13\r\n\r\n### Recommended Hardware\r\n- Macintosh computer with an Intel x86 processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - GTK+ 3.4 or higher\r\n    - GLib 2.22 or higher\r\n    - Pango 1.14 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n    - libstdc++ 4.6.1 or higher\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - NetworkManager 0.7 or higher\r\n    - DBus 1.0 or higher\r\n    - GNOME 2.16 or higher\r\n    - PulseAudio\r\n\r\n  [1]: https://support.mozilla.org/kb/get-latest-version-firefox-windows-xp-vista",
-  "text": "Firefox Quantum keeps on keeping on.  Look to this release for even more performance improvements, features that let you do more without leaving the webpage you\u2019re on, and a safer online experience.  \r\n\r\nThank you to all of the [new Mozillians][1] who contributed to this release of Firefox!\r\n\r\n\r\n  [1]: https://blog.mozilla.org/community/2018/06/18/firefox-61-new-contributors/",
+  "text": "Firefox Quantum keeps on keeping on. Look to this release for even more performance improvements, features that let you do more without leaving the webpage you\u2019re on, and a safer online experience.  \r\n\r\nThank you to all of the [new Mozillians][1] who contributed to this release of Firefox!\r\n\r\n\r\n  [1]: https://blog.mozilla.org/community/2018/06/18/firefox-61-new-contributors/",
   "title": "Firefox 61.0 Release",
   "version": "61.0"
 }
