@@ -57,6 +57,16 @@
       "tag": "New"
     },
     {
+      "bug": 1409208,
+      "created": "2018-06-26T22:34:03.206122+00:00",
+      "id": 787644,
+      "is_public": true,
+      "modified": "2018-06-26T22:34:03.205937+00:00",
+      "note": "Users who disconnect Firefox for desktop from Sync are now offered the option to wipe their personal data from that device (such as bookmarks, passwords, history, cookies, and site data)",
+      "sort_num": 40,
+      "tag": "New"
+    },
+    {
       "bug": 1462468,
       "created": "2018-06-05T12:53:36.192058+00:00",
       "id": 787606,
