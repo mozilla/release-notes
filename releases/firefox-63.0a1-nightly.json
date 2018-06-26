@@ -3,9 +3,20 @@
   "bug_search_url": "",
   "channel": "Nightly",
   "created": "2018-06-25T07:02:46.924494+00:00",
-  "is_public": false,
-  "modified": "2018-06-25T07:04:55.529043+00:00",
-  "notes": [],
+  "is_public": true,
+  "modified": "2018-06-26T09:44:09.923009+00:00",
+  "notes": [
+    {
+      "bug": 1452645,
+      "created": "2018-06-26T09:43:18.258329+00:00",
+      "id": 787643,
+      "is_public": true,
+      "modified": "2018-06-26T09:43:18.258041+00:00",
+      "note": "In the Library, the ***Open in Sidebar*** feature for individual bookmarks was removed ",
+      "sort_num": 0,
+      "tag": "Changed"
+    }
+  ],
   "product": "Firefox",
   "release_date": "2018-05-07",
   "slug": "firefox-63.0a1-nightly",
