@@ -35,6 +35,16 @@
       "tag": "New"
     },
     {
+      "bug": 1460989,
+      "created": "2018-06-20T20:05:35.069333+00:00",
+      "id": 787624,
+      "is_public": true,
+      "modified": "2018-06-27T00:29:42.511237+00:00",
+      "note": "Fixed a recurring crash on Samsung Galaxy S8 devices running Android Oreo (8.0)",
+      "sort_num": 35,
+      "tag": "Fixed"
+    },
+    {
       "bug": null,
       "created": "2018-06-26T23:58:02.550227+00:00",
       "id": 787645,
@@ -42,16 +52,6 @@
       "modified": "2018-06-26T23:58:02.550044+00:00",
       "note": "Various [security fixes][0]\r\n\r\n[0]: https://www.mozilla.org/security/advisories/mfsa2018-15/",
       "sort_num": 30,
-      "tag": "Fixed"
-    },
-    {
-      "bug": 1460989,
-      "created": "2018-06-20T20:05:35.069333+00:00",
-      "id": 787624,
-      "is_public": true,
-      "modified": "2018-06-25T19:02:43.075851+00:00",
-      "note": "Fixed a recurring crash on Samsung Galaxy S8 devices running Android Oreo (8.0)",
-      "sort_num": 0,
       "tag": "Fixed"
     }
   ],
