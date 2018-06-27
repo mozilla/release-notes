@@ -103,6 +103,16 @@
       "note": "Various [security fixes][0]\r\n\r\n[0]: https://www.mozilla.org/security/known-vulnerabilities/firefox/#firefox61",
       "sort_num": 30,
       "tag": "Fixed"
+    },
+    {
+      "bug": 1468892,
+      "created": "2018-06-27T19:04:33.352213+00:00",
+      "id": 787646,
+      "is_public": true,
+      "modified": "2018-06-27T19:04:33.352024+00:00",
+      "note": "Users with Avast or AVG security software using the HTTPS Scanning feature may get an error message (SSL_ERROR_RX_RECORD_TOO_LONG) when trying to access secure sites. Workarounds are available from [this support article][1] until fixed versions of Avast and AVG are available\r\n\r\n\r\n  [1]: https://support.mozilla.org/en-US/kb/secure-connection-failed-error-message#w_avast-and-avg-security-products",
+      "sort_num": 0,
+      "tag": "Known"
     }
   ],
   "product": "Firefox",
