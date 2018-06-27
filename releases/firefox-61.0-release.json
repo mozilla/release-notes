@@ -93,6 +93,16 @@
       "note": "The settings for customizing your homepage and new tab page in Firefox have been added to a new Preferences section that can be accessed from Firefox at about:preferences#home. The settings can also be accessed via the gear icon on the New Tab page.",
       "sort_num": 0,
       "tag": "Changed"
+    },
+    {
+      "bug": null,
+      "created": "2018-06-26T23:58:02.550227+00:00",
+      "id": 787645,
+      "is_public": true,
+      "modified": "2018-06-26T23:58:02.550044+00:00",
+      "note": "Various [security fixes][0]\r\n\r\n[0]: https://www.mozilla.org/security/advisories/mfsa2018-15/",
+      "sort_num": 30,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
