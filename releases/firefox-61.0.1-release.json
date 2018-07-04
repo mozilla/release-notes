@@ -21,9 +21,9 @@
       "created": "2018-07-04T00:57:56.282464+00:00",
       "id": 787650,
       "is_public": true,
-      "modified": "2018-07-04T00:57:56.282027+00:00",
+      "modified": "2018-07-04T01:15:39.237501+00:00",
       "note": "Fixed broken website loading for Chinese users with accessibility enabled ([Bug 1471824][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1471824",
-      "sort_num": 0,
+      "sort_num": 80,
       "tag": "Fixed"
     },
     {
@@ -31,9 +31,9 @@
       "created": "2018-07-04T01:00:03.504576+00:00",
       "id": 787651,
       "is_public": true,
-      "modified": "2018-07-04T01:00:03.504387+00:00",
+      "modified": "2018-07-04T01:15:35.457770+00:00",
       "note": "Fix missing content on the New Tab Page and the Home section of the Preferences page ([Bug 1471375][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1471375",
-      "sort_num": 0,
+      "sort_num": 70,
       "tag": "Fixed"
     },
     {
@@ -41,9 +41,9 @@
       "created": "2018-07-04T01:01:20.334076+00:00",
       "id": 787652,
       "is_public": true,
-      "modified": "2018-07-04T01:01:20.333872+00:00",
+      "modified": "2018-07-04T01:15:31.507246+00:00",
       "note": "Fixed loss of bookmarks under rare circumstances when upgrading from Firefox 60 ([Bug 1472127][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1472127",
-      "sort_num": 0,
+      "sort_num": 60,
       "tag": "Fixed"
     },
     {
@@ -51,9 +51,9 @@
       "created": "2018-07-04T01:04:06.218449+00:00",
       "id": 787653,
       "is_public": true,
-      "modified": "2018-07-04T01:04:06.218266+00:00",
+      "modified": "2018-07-04T01:15:26.942402+00:00",
       "note": "Improved playback of Twitch 1080p video streams ([Bug 1469257][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1469257",
-      "sort_num": 0,
+      "sort_num": 50,
       "tag": "Fixed"
     },
     {
@@ -61,9 +61,9 @@
       "created": "2018-07-04T01:06:34.850136+00:00",
       "id": 787654,
       "is_public": true,
-      "modified": "2018-07-04T01:06:34.849954+00:00",
+      "modified": "2018-07-04T01:15:22.866971+00:00",
       "note": "Web pages no longer lose focus when a browser popup window is opened ([Bug 1471415][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1471415",
-      "sort_num": 0,
+      "sort_num": 40,
       "tag": "Fixed"
     },
     {
@@ -71,9 +71,9 @@
       "created": "2018-07-04T01:08:18.465803+00:00",
       "id": 787655,
       "is_public": true,
-      "modified": "2018-07-04T01:08:18.465566+00:00",
+      "modified": "2018-07-04T01:15:18.044937+00:00",
       "note": "Fixed launching of downloads without a file extension on Windows ([Bug 1465458][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1465458",
-      "sort_num": 0,
+      "sort_num": 30,
       "tag": "Fixed"
     },
     {
@@ -81,9 +81,19 @@
       "created": "2018-07-04T01:10:33.224982+00:00",
       "id": 787656,
       "is_public": true,
-      "modified": "2018-07-04T01:10:33.224798+00:00",
+      "modified": "2018-07-04T01:15:13.020143+00:00",
       "note": "Re-allowed downloading files from FTP sites via the \"Save Link As\" option when linked from HTTP pages ([Bug 1470295][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1470295",
-      "sort_num": 0,
+      "sort_num": 20,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1466846,
+      "created": "2018-07-04T01:13:51.885195+00:00",
+      "id": 787657,
+      "is_public": true,
+      "modified": "2018-07-04T01:15:08.485156+00:00",
+      "note": "Fixed extensions being unable to override the default homepage in certain situations ([Bug 1466846][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1466846",
+      "sort_num": 10,
       "tag": "Fixed"
     }
   ],
