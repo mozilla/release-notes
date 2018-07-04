@@ -19,7 +19,7 @@
       },
       "id": 787635,
       "is_public": true,
-      "modified": "2018-06-25T19:04:02.696916+00:00",
+      "modified": "2018-07-04T00:47:30.120721+00:00",
       "note": "Enhanced performance:\r\n\r\n - Faster page rendering with Quantum CSS improvements and the new retained display list feature\r\n - Faster switching between tabs on Windows and Linux\r\n - WebExtensions now run in their own process on MacOS",
       "sort_num": 100,
       "tag": "New"
@@ -29,7 +29,7 @@
       "created": "2018-06-20T20:27:06.005671+00:00",
       "id": 787627,
       "is_public": true,
-      "modified": "2018-06-20T21:03:32.403496+00:00",
+      "modified": "2018-07-04T00:47:24.461194+00:00",
       "note": "Convenient access to more search engines: You can now add search engines to the address bar \u201cSearch with\u201d tool from the page action menu when on a webpage that provides an OpenSearch plugin",
       "sort_num": 90,
       "tag": "New"
@@ -39,7 +39,7 @@
       "created": "2018-06-20T20:27:06.780484+00:00",
       "id": 787628,
       "is_public": true,
-      "modified": "2018-06-25T19:04:35.624308+00:00",
+      "modified": "2018-07-04T00:47:22.183506+00:00",
       "note": "Share links from Firefox for MacOS more easily: You can now share the URL of an active tab from the page actions menu in the address bar",
       "sort_num": 80,
       "tag": "New"
@@ -49,7 +49,7 @@
       "created": "2018-06-20T20:28:45.749763+00:00",
       "id": 787634,
       "is_public": true,
-      "modified": "2018-06-20T21:03:25.369885+00:00",
+      "modified": "2018-07-04T00:47:27.438365+00:00",
       "note": "Improved security:\r\n\r\n - On-by-default support for the latest draft of the [TLS 1.3][1] specification\r\n - Access to FTP subresources inside http(s) pages [has been blocked][2]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/Security/Transport_Layer_Security#TLS_1.3\r\n  [2]: https://blog.mozilla.org/security/2018/05/07/blocking-ftp-subresource-loads-within-non-ftp-documents-in-firefox-61/",
       "sort_num": 70,
       "tag": "New"
@@ -59,7 +59,7 @@
       "created": "2018-06-20T20:27:07.743465+00:00",
       "id": 787630,
       "is_public": true,
-      "modified": "2018-06-20T21:03:22.037769+00:00",
+      "modified": "2018-07-04T00:47:22.960889+00:00",
       "note": "A more consistent user experience: Improvements for dark theme support across the entire Firefox user interface",
       "sort_num": 60,
       "tag": "New"
@@ -69,7 +69,7 @@
       "created": "2018-06-20T20:27:03.111109+00:00",
       "id": 787625,
       "is_public": true,
-      "modified": "2018-06-25T19:04:54.231835+00:00",
+      "modified": "2018-07-04T00:47:21.360179+00:00",
       "note": "More customization for tab management: added support to allow WebExtensions to hide tabs",
       "sort_num": 50,
       "tag": "New"
@@ -79,7 +79,7 @@
       "created": "2018-06-20T20:37:07.376178+00:00",
       "id": 787636,
       "is_public": true,
-      "modified": "2018-06-20T21:03:14.577662+00:00",
+      "modified": "2018-07-04T00:47:29.037197+00:00",
       "note": "Improved bookmark syncing",
       "sort_num": 40,
       "tag": "New"
@@ -89,7 +89,7 @@
       "created": "2018-06-20T20:27:09.702486+00:00",
       "id": 787632,
       "is_public": true,
-      "modified": "2018-06-25T19:05:15.681933+00:00",
+      "modified": "2018-07-04T00:47:25.457060+00:00",
       "note": "The settings for customizing your homepage and new tab page in Firefox have been added to a new Preferences section that can be accessed from Firefox at about:preferences#home. The settings can also be accessed via the gear icon on the New Tab page.",
       "sort_num": 0,
       "tag": "Changed"
@@ -99,7 +99,7 @@
       "created": "2018-06-26T23:58:02.550227+00:00",
       "id": 787645,
       "is_public": true,
-      "modified": "2018-06-27T02:05:25.059845+00:00",
+      "modified": "2018-07-04T00:47:18.259806+00:00",
       "note": "Various [security fixes][0]\r\n\r\n[0]: https://www.mozilla.org/security/known-vulnerabilities/firefox/#firefox61",
       "sort_num": 30,
       "tag": "Fixed"
@@ -109,7 +109,7 @@
       "created": "2018-06-27T19:04:33.352213+00:00",
       "id": 787646,
       "is_public": true,
-      "modified": "2018-06-28T18:42:47.305165+00:00",
+      "modified": "2018-07-04T00:47:12.077338+00:00",
       "note": "Users with Avast or AVG security software using the HTTPS Scanning feature may get an error message (SSL_ERROR_RX_RECORD_TOO_LONG) when trying to access secure sites. Workarounds are available from [this support article][1] until fixed versions of Avast and AVG are available\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/secure-connection-failed-error-message#w_avast-and-avg-security-products",
       "sort_num": 0,
       "tag": "Known"
