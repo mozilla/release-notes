@@ -17,11 +17,11 @@
       "tag": ""
     },
     {
-      "bug": null,
+      "bug": 1418535,
       "created": "2017-11-29T19:30:47.742990+00:00",
       "id": 787377,
       "is_public": true,
-      "modified": "2017-11-29T19:36:46.449574+00:00",
+      "modified": "2018-07-11T12:24:29.428246+00:00",
       "note": "Block injection of a client library associated with the RealPlayer Free player which is known to cause performance problems in Firefox. ([Bug 1418535][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1418535",
       "sort_num": 0,
       "tag": "Changed"
