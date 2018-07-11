@@ -17,11 +17,11 @@
       "tag": ""
     },
     {
-      "bug": null,
+      "bug": 1414838,
       "created": "2017-11-29T18:57:02.423253+00:00",
       "id": 787374,
       "is_public": true,
-      "modified": "2017-11-29T18:57:02.423031+00:00",
+      "modified": "2018-07-11T17:15:42.910489+00:00",
       "note": " Stop button no longer appears immediately after starting a navigation ([Bug 1414838][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1414838",
       "sort_num": 0,
       "tag": "Fixed"

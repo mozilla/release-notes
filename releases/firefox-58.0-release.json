@@ -117,11 +117,11 @@
       "tag": "Known"
     },
     {
-      "bug": null,
+      "bug": 1388409,
       "created": "2018-01-22T10:20:01.271880+00:00",
       "id": 787416,
       "is_public": true,
-      "modified": "2018-01-29T08:47:51.202970+00:00",
+      "modified": "2018-07-11T17:17:07.994596+00:00",
       "note": "Users running certain screen readers may experience performance issues and are advised to [use Firefox ESR][0] until performance issues are resolved in an upcoming future release\r\n\r\n[0]: https://support.mozilla.org/kb/can-i-use-my-screen-reader-new-firefox",
       "sort_num": 0,
       "tag": "Known"
