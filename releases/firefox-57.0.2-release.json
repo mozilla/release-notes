@@ -27,12 +27,12 @@
       "tag": "Fixed"
     },
     {
-      "bug": null,
+      "bug": 1402372,
       "created": "2017-12-07T15:12:04.526746+00:00",
       "id": 787383,
       "is_public": true,
-      "modified": "2017-12-27T13:10:36.095404+00:00",
-      "note": "Fix a regression with WebGL and D3D9 - Windows only",
+      "modified": "2018-07-11T09:17:14.102792+00:00",
+      "note": "Fix a regression with WebGL and D3D9 - Windows only ([bug 1402372][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1402372",
       "sort_num": 0,
       "tag": "Fixed"
     }

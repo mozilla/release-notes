@@ -57,22 +57,22 @@
       "tag": "Fixed"
     },
     {
-      "bug": null,
+      "bug": 1413269,
       "created": "2017-11-29T19:21:06.575813+00:00",
       "id": 787376,
       "is_public": true,
-      "modified": "2017-11-29T19:21:06.575612+00:00",
-      "note": "Google map crashes on OSX with Intel HD Graphics 3000",
+      "modified": "2018-07-11T09:18:46.172535+00:00",
+      "note": "Google map crashes on OSX with Intel HD Graphics 3000 ([bug 1413269][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1413269",
       "sort_num": 0,
       "tag": "Fixed"
     },
     {
-      "bug": null,
+      "bug": 1421991,
       "created": "2017-11-30T19:23:34.090437+00:00",
       "id": 787379,
       "is_public": true,
-      "modified": "2017-11-30T19:42:53.159715+00:00",
-      "note": "Firefox [startup crash with G DATA security software][1]\r\n\r\n\r\n  [1]: https://support.mozilla.org/en-US/kb/firefox-startup-crash-g-data-security-software",
+      "modified": "2018-07-11T09:25:45.922210+00:00",
+      "note": "Firefox [startup crash with G DATA security software][1] ([bug 1421991][2])\r\n\r\n\r\n  [1]: https://support.mozilla.org/en-US/kb/firefox-startup-crash-g-data-security-software\r\n  [2]: https://bugzilla.mozilla.org/show_bug.cgi?id=1421991",
       "sort_num": 0,
       "tag": "Known"
     }
