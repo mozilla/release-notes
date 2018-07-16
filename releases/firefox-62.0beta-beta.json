@@ -87,6 +87,16 @@
       "tag": "Changed"
     },
     {
+      "bug": 1455601,
+      "created": "2018-07-16T22:59:40.890718+00:00",
+      "id": 787658,
+      "is_public": true,
+      "modified": "2018-07-16T22:59:40.890528+00:00",
+      "note": "The release version of Firefox 62 will be sandboxing AutoConfig to the [documented API][1]. You can test this in Firefox Beta by setting the preference general.config.sandbox_enabled to true. If you need to continue use more complex AutoConfig scripts, you will need to use [Firefox Extended Support Release (ESR)][2].\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/customizing-firefox-using-autoconfig\r\n  [2]: https://www.mozilla.org/firefox/organizations/",
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
       "bug": 1242029,
       "created": "2018-04-27T17:06:43.536915+00:00",
       "id": 787546,
