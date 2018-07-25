@@ -57,6 +57,16 @@
       "tag": "Changed"
     },
     {
+      "bug": 1438499,
+      "created": "2018-07-25T09:13:32.149646+00:00",
+      "id": 787663,
+      "is_public": true,
+      "modified": "2018-07-25T09:13:32.149402+00:00",
+      "note": "Firefox now warns about having multiple windows/tabs open when quitting from the main menu.",
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
       "bug": null,
       "created": "2018-07-03T09:09:00.660303+00:00",
       "id": 787648,
