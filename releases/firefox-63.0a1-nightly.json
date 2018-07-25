@@ -27,12 +27,32 @@
       "tag": "New"
     },
     {
+      "bug": 1368808,
+      "created": "2018-07-25T08:27:10.281090+00:00",
+      "id": 787661,
+      "is_public": true,
+      "modified": "2018-07-25T08:27:10.280776+00:00",
+      "note": "Improved Windows 10 integration: your Firefox theme now matches your OS Dark / Light mode ",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1452645,
       "created": "2018-06-26T09:43:18.258329+00:00",
       "id": 787643,
       "is_public": true,
       "modified": "2018-06-26T09:43:18.258041+00:00",
       "note": "In the Library, the ***Open in Sidebar*** feature for individual bookmarks was removed ",
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
+      "bug": 1420514,
+      "created": "2018-07-25T08:36:53.027974+00:00",
+      "id": 787662,
+      "is_public": true,
+      "modified": "2018-07-25T08:36:53.027775+00:00",
+      "note": "*Never check for updates* option removed from about:preferences. If a substitute is needed, we recommend using the [DisableAppUpdate][1] enterprise policy \r\n\r\n\r\n  [1]: https://github.com/mozilla/policy-templates/blob/master/README.md",
       "sort_num": 0,
       "tag": "Changed"
     },
