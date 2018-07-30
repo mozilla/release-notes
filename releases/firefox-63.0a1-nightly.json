@@ -77,6 +77,16 @@
       "tag": "Changed"
     },
     {
+      "bug": 1473595,
+      "created": "2018-07-30T11:01:00.776933+00:00",
+      "id": 787665,
+      "is_public": true,
+      "modified": "2018-07-30T11:01:00.776755+00:00",
+      "note": "The *Ctrl+Tab* shortcut now displays thumbnail previews of your tabs and cycles through tabs in recently used order. This new default behavior is activated only in new profiles and can be changed in your [preferences][1]\r\n\r\n  [1]: http://about:preferences",
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
       "bug": null,
       "created": "2018-07-03T09:09:00.660303+00:00",
       "id": 787648,
