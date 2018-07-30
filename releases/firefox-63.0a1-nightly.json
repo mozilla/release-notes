@@ -37,6 +37,16 @@
       "tag": "New"
     },
     {
+      "bug": 1476853,
+      "created": "2018-07-30T10:07:34.709072+00:00",
+      "id": 787664,
+      "is_public": true,
+      "modified": "2018-07-30T10:07:34.708852+00:00",
+      "note": "Firefox by default now prompts for permission before allowing pages to automatically play media with sound",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1452645,
       "created": "2018-06-26T09:43:18.258329+00:00",
       "id": 787643,
