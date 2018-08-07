@@ -15,6 +15,46 @@
       "note": "Reference link to [61.0.1 release notes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/firefox/61.0.1/releasenotes/",
       "sort_num": 0,
       "tag": ""
+    },
+    {
+      "bug": 1480612,
+      "created": "2018-08-07T19:50:46.976478+00:00",
+      "id": 787673,
+      "is_public": true,
+      "modified": "2018-08-07T19:51:34.649148+00:00",
+      "note": "Adds support for automatically restoring your Firefox session after Windows reboots. This feature is currently not enabled by default, but will be rolling out gradually to users over the coming weeks.",
+      "sort_num": 40,
+      "tag": "Feature"
+    },
+    {
+      "bug": 1474402,
+      "created": "2018-08-07T19:46:50.086337+00:00",
+      "id": 787672,
+      "is_public": true,
+      "modified": "2018-08-07T19:51:29.791383+00:00",
+      "note": "Improved website rendering with the Retained Display List feature enabled ([Bug 1474402][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1474402",
+      "sort_num": 30,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1474379,
+      "created": "2018-08-07T19:45:48.555193+00:00",
+      "id": 787671,
+      "is_public": true,
+      "modified": "2018-08-07T19:51:23.800523+00:00",
+      "note": "Fixed broken DevTools panels with certain extensions installed ([Bug 1474379][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1474379",
+      "sort_num": 20,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1474007,
+      "created": "2018-08-07T19:43:51.966260+00:00",
+      "id": 787670,
+      "is_public": true,
+      "modified": "2018-08-07T19:51:16.517680+00:00",
+      "note": "Fixed a crash for users with some accessibility tools enabled ([Bug 1474007][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1474007",
+      "sort_num": 10,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
