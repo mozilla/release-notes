@@ -77,6 +77,16 @@
       "tag": "New"
     },
     {
+      "bug": 1460062,
+      "created": "2018-08-11T14:51:37.650318+00:00",
+      "id": 787676,
+      "is_public": true,
+      "modified": "2018-08-14T10:21:13.701001+00:00",
+      "note": "<!-- Nightly only -->\r\nTLS certificates issued by Symantec are [no longer trusted by Firefox Nightly][0]. Website operators are strongly encouraged to replace any remaining Symantec TLS certificates before Firefox 63 final release on October 23.\r\n\r\n[0]: https://blog.mozilla.org/security/2018/07/30/update-on-the-distrust-of-symantec-tls-certificates/",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1452645,
       "created": "2018-06-26T09:43:18.258329+00:00",
       "id": 787643,
