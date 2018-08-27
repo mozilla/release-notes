@@ -4,14 +4,14 @@
   "channel": "Beta",
   "created": "2018-05-29T16:38:42.304739+00:00",
   "is_public": true,
-  "modified": "2018-06-26T16:55:11.526162+00:00",
+  "modified": "2018-08-27T15:22:49.113314+00:00",
   "notes": [
     {
       "bug": 1460206,
       "created": "2018-05-29T22:18:58.561555+00:00",
       "id": 787601,
       "is_public": true,
-      "modified": "2018-06-15T21:35:02.577662+00:00",
+      "modified": "2018-08-27T15:23:05.787812+00:00",
       "note": "Improved scrolling performance",
       "sort_num": 0,
       "tag": "New"
@@ -20,7 +20,7 @@
   "product": "Firefox for Android",
   "release_date": "2018-06-26",
   "slug": "firefox-for-android-62.0beta-beta",
-  "system_requirements": "",
+  "system_requirements": "## Operating systems\r\n - Android 4.1\r\n - Above versions\r\n\r\n## Requirements\r\n - 50 MB internal storage\r\n - 384 MB of RAM\r\n - display at least 320 pixels high and 240 pixels wide",
   "text": "",
   "title": "Firefox for Android 62.0beta Beta",
   "version": "62.0beta"
