@@ -11,8 +11,8 @@
       "created": "2018-06-29T13:17:12.350231+00:00",
       "id": 787647,
       "is_public": true,
-      "modified": "2018-08-27T15:19:37.510556+00:00",
-      "note": "MacOS: WebGL power preferences allow non-performance-critical applications and applets to request the low-power GPU instead of the high-power GPU in multi-GPU systems",
+      "modified": "2018-08-30T14:34:18.939657+00:00",
+      "note": "On MacOS, WebGL power preferences allow non-performance-critical applications and applets to request the low-power GPU instead of the high-power GPU in multi-GPU systems",
       "sort_num": 0,
       "tag": "New"
     },
@@ -103,6 +103,16 @@
       "is_public": true,
       "modified": "2018-08-27T15:19:37.510556+00:00",
       "note": "The *Ctrl+Tab* shortcut now displays thumbnail previews of your tabs and cycles through tabs in recently used order. This new default behavior is activated only in new profiles and can be changed in your preferences",
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
+      "bug": 1443590,
+      "created": "2018-08-30T14:35:10.851021+00:00",
+      "id": 787678,
+      "is_public": true,
+      "modified": "2018-08-30T14:35:10.850815+00:00",
+      "note": "The build infrastructure of Firefox on Windows moved to the Clang tool chain, bringing important performance gains",
       "sort_num": 0,
       "tag": "Changed"
     },

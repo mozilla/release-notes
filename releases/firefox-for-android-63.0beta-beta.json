@@ -15,6 +15,16 @@
       "note": "TLS certificates issued by Symantec are [no longer trusted by Firefox][0]. Website operators are strongly encouraged to replace any remaining Symantec TLS certificates before Firefox 63 final release on October 23.\r\n\r\n[0]: https://blog.mozilla.org/security/2018/07/30/update-on-the-distrust-of-symantec-tls-certificates/",
       "sort_num": 0,
       "tag": "New"
+    },
+    {
+      "bug": 1450450,
+      "created": "2018-08-30T14:38:14.066399+00:00",
+      "id": 787679,
+      "is_public": true,
+      "modified": "2018-08-30T14:38:14.066221+00:00",
+      "note": "Updated Android API level to improve security and performance",
+      "sort_num": 0,
+      "tag": "Changed"
     }
   ],
   "product": "Firefox for Android",
