@@ -31,8 +31,8 @@
       "created": "2018-09-04T19:57:35.322102+00:00",
       "id": 787700,
       "is_public": true,
-      "modified": "2018-09-04T20:52:03.846560+00:00",
-      "note": "In advance of removing all trust for Symantec-issued certificates in Firefox 63, a preference was added that allows users to distrust certificates issued by Symantec. To use this preference, go to about:config in the address bar and set the preference \"security.pki.distrust_ca_policy\" to 2",
+      "modified": "2018-09-04T21:09:49.263067+00:00",
+      "note": "In advance of removing all trust for Symantec-issued certificates in Firefox 63, a preference was added that allows users to distrust certificates issued by Symantec. To use this preference, go to about:config in the address bar and set the preference \"security.pki.distrust_ca_policy\" to 2.",
       "sort_num": 70,
       "tag": "New"
     },
