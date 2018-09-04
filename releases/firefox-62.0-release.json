@@ -7,6 +7,16 @@
   "modified": "2018-09-04T13:58:53.429960+00:00",
   "notes": [
     {
+      "bug": 1400536,
+      "created": "2018-09-04T13:58:50.703428+00:00",
+      "id": 787694,
+      "is_public": true,
+      "modified": "2018-09-04T19:54:04.562088+00:00",
+      "note": "Firefox Home (the default New Tab) now allows users to display up to 4 rows of top sites, Pocket stories, and highlights.",
+      "sort_num": 90,
+      "tag": "New"
+    },
+    {
       "bug": 1460248,
       "created": "2018-09-04T13:58:43.510491+00:00",
       "id": 787687,
@@ -27,23 +37,13 @@
       "tag": "New"
     },
     {
-      "bug": 1433716,
-      "created": "2018-09-04T13:58:51.727536+00:00",
-      "id": 787695,
+      "bug": 1376119,
+      "created": "2018-09-04T19:54:57.801621+00:00",
+      "id": 787699,
       "is_public": true,
-      "modified": "2018-09-04T13:58:51.727189+00:00",
-      "note": "Three-pane Inspector in Developer Tools separates the rules into its own panel",
+      "modified": "2018-09-04T19:54:57.801417+00:00",
+      "note": "\u201cReopen in Container\u201d tab menu option appears for users with Containers that lets them choose to reopen a tab in a different container. ([Bug 1376119][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1376119",
       "sort_num": 80,
-      "tag": "New"
-    },
-    {
-      "bug": 1400536,
-      "created": "2018-09-04T13:58:50.703428+00:00",
-      "id": 787694,
-      "is_public": true,
-      "modified": "2018-09-04T13:58:50.703193+00:00",
-      "note": "New tab page sections such as top sites, highlights, and Pocket can be adjusted to include 1 to 4 rows in the Preferences",
-      "sort_num": 50,
       "tag": "New"
     },
     {
@@ -115,6 +115,16 @@
       "note": "CSS Variable Fonts (OpenType Font Variations) enable a single font file to behave like multiple fonts",
       "sort_num": 0,
       "tag": "HTML5"
+    },
+    {
+      "bug": 1433716,
+      "created": "2018-09-04T13:58:51.727536+00:00",
+      "id": 787695,
+      "is_public": true,
+      "modified": "2018-09-04T19:51:20.234856+00:00",
+      "note": "Three-pane Inspector in Developer Tools separates the rules into its own panel",
+      "sort_num": 10,
+      "tag": "Developer"
     },
     {
       "bug": null,
