@@ -4,7 +4,7 @@
   "channel": "Release",
   "created": "2018-09-04T13:57:52.738413+00:00",
   "is_public": false,
-  "modified": "2018-09-04T13:58:53.429960+00:00",
+  "modified": "2018-09-04T20:08:21.576002+00:00",
   "notes": [
     {
       "bug": 1400536,
@@ -14,26 +14,6 @@
       "modified": "2018-09-04T19:54:04.562088+00:00",
       "note": "Firefox Home (the default New Tab) now allows users to display up to 4 rows of top sites, Pocket stories, and highlights.",
       "sort_num": 90,
-      "tag": "New"
-    },
-    {
-      "bug": 1460248,
-      "created": "2018-09-04T13:58:43.510491+00:00",
-      "id": 787687,
-      "is_public": true,
-      "modified": "2018-09-04T13:58:43.510302+00:00",
-      "note": "Display preview image and favicon in the New Bookmark dialog",
-      "sort_num": 87,
-      "tag": "New"
-    },
-    {
-      "bug": 1462469,
-      "created": "2018-09-04T13:58:47.886632+00:00",
-      "id": 787691,
-      "is_public": true,
-      "modified": "2018-09-04T13:58:47.886330+00:00",
-      "note": "Added a ***Clear Site Data and Cookies*** button to the identity popup located next to  the address bar so as to provide a quick and easy process to delete local data for the visited website",
-      "sort_num": 85,
       "tag": "New"
     },
     {
@@ -47,13 +27,43 @@
       "tag": "New"
     },
     {
-      "bug": 1465064,
-      "created": "2018-09-04T13:58:44.541417+00:00",
-      "id": 787688,
+      "bug": 1456112,
+      "created": "2018-09-04T19:57:35.322102+00:00",
+      "id": 787700,
       "is_public": true,
-      "modified": "2018-09-04T13:58:44.541203+00:00",
-      "note": "Added Canadian English (en-CA) locale",
-      "sort_num": 45,
+      "modified": "2018-09-04T19:57:35.321927+00:00",
+      "note": "In advance of removing all trust for Symantec-issued certificates in Firefox 63, a preference was added that allows users to distrust certificates issued by Symantec. To use this preference, go to about:config in the address bar and set the preference \"security.pki.distrust_ca_policy\" to 2 ([Bug 1456112][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1456112",
+      "sort_num": 70,
+      "tag": "New"
+    },
+    {
+      "bug": 1468349,
+      "created": "2018-09-04T19:58:33.940355+00:00",
+      "id": 787701,
+      "is_public": true,
+      "modified": "2018-09-04T19:58:33.940164+00:00",
+      "note": "Added FreeBSD support for WebAuthn ([Bug 1468349][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1468349",
+      "sort_num": 60,
+      "tag": "New"
+    },
+    {
+      "bug": 1454980,
+      "created": "2018-09-04T19:59:31.433882+00:00",
+      "id": 787702,
+      "is_public": true,
+      "modified": "2018-09-04T19:59:31.433696+00:00",
+      "note": "Improved graphics rendering for Windows users without accelerated hardware using Parallel-Off-Main-Thread Painting ([Bug 1454980][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1454980",
+      "sort_num": 50,
+      "tag": "New"
+    },
+    {
+      "bug": 1242029,
+      "created": "2018-09-04T13:58:40.349894+00:00",
+      "id": 787684,
+      "is_public": true,
+      "modified": "2018-09-04T20:00:42.652090+00:00",
+      "note": "Support for CSS Shapes, allowing for richer web page layouts ([Bug 1098939][1]). This goes hand in hand with a brand new Shape Path Editor in the CSS inspector ([Bug 1242029][2]).\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1098939\r\n  [2]: https://bugzilla.mozilla.org/show_bug.cgi?id=1242029",
+      "sort_num": 40,
       "tag": "New"
     },
     {
@@ -67,13 +77,33 @@
       "tag": "New"
     },
     {
-      "bug": 1462468,
-      "created": "2018-09-04T13:58:45.463942+00:00",
-      "id": 787689,
+      "bug": 1302685,
+      "created": "2018-09-04T13:58:42.437876+00:00",
+      "id": 787686,
       "is_public": true,
-      "modified": "2018-09-04T13:58:45.463744+00:00",
-      "note": "Added a button to the hamburger menu to toggle Tracking Protection on and off",
-      "sort_num": 0,
+      "modified": "2018-09-04T20:01:23.657059+00:00",
+      "note": "CSS Variable Fonts (OpenType Font Variations) support, which makes it possible to create beautiful typography with a single font file ([Bug 1302685][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1302685",
+      "sort_num": 30,
+      "tag": "New"
+    },
+    {
+      "bug": 1455601,
+      "created": "2018-09-04T13:58:49.755098+00:00",
+      "id": 787693,
+      "is_public": true,
+      "modified": "2018-09-04T20:04:00.220950+00:00",
+      "note": "Updates for [enterprise environments][1]:\r\n\r\n - AutoConfig is sandboxed to the [documented API][2] by default. You\r\n   can disable the sandbox by setting the preference\r\n   general.config.sandbox_enabled to false. Our long term plan is to\r\n   remove the ability to turn off the sandboxing. If you need to\r\n   continue to use more complex AutoConfig scripts, you will need to use\r\n   [Firefox Extended Support Release (ESR)][3].\r\n\r\n  [1]: https://support.mozilla.org/products/firefox-enterprise\r\n  [2]: https://support.mozilla.org/kb/customizing-firefox-using-autoconfig\r\n  [3]: https://www.mozilla.org/firefox/organizations/",
+      "sort_num": 20,
+      "tag": "New"
+    },
+    {
+      "bug": 1465064,
+      "created": "2018-09-04T13:58:44.541417+00:00",
+      "id": 787688,
+      "is_public": true,
+      "modified": "2018-09-04T20:05:59.164401+00:00",
+      "note": "Added Canadian English (en-CA) locale",
+      "sort_num": 10,
       "tag": "New"
     },
     {
@@ -81,40 +111,20 @@
       "created": "2018-09-04T13:58:46.379398+00:00",
       "id": 787690,
       "is_public": true,
-      "modified": "2018-09-04T13:58:46.379183+00:00",
-      "note": "The description field for bookmarks has been removed. Users who manually changed the field can export old descriptions via [html][1] or [json][2]. Stored descriptions will be removed in a future release.\r\n\r\n[1]: https://support.mozilla.org/kb/export-firefox-bookmarks-to-backup-or-transfer\r\n[2]: https://support.mozilla.org/kb/restore-bookmarks-from-backup-or-move-them#w_backup-and-restore",
-      "sort_num": 0,
+      "modified": "2018-09-04T20:09:48.897609+00:00",
+      "note": "Removed the description field for bookmarks. Users who have stored descriptions using the field may wish to export these descriptions as [html][1] or [json][2] files, as they will be removed in a future release.\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/export-firefox-bookmarks-to-backup-or-transfer\r\n  [2]: https://support.mozilla.org/kb/restore-bookmarks-from-backup-or-move-them#w_backup-and-restore",
+      "sort_num": 60,
       "tag": "Changed"
     },
     {
-      "bug": 1455601,
-      "created": "2018-09-04T13:58:49.755098+00:00",
-      "id": 787693,
+      "bug": 1466335,
+      "created": "2018-09-04T20:10:25.123911+00:00",
+      "id": 787703,
       "is_public": true,
-      "modified": "2018-09-04T13:58:49.754905+00:00",
-      "note": "The release version of Firefox 62 will be sandboxing AutoConfig to the [documented API][1]. You can test this in Firefox Beta by setting the preference general.config.sandbox_enabled to true. If you need to continue use more complex AutoConfig scripts, you will need to use [Firefox Extended Support Release (ESR)][2].\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/customizing-firefox-using-autoconfig\r\n  [2]: https://www.mozilla.org/firefox/organizations/",
-      "sort_num": 0,
+      "modified": "2018-09-04T20:10:25.123726+00:00",
+      "note": "Dark theme is automatically enabled in macOS 10.14 dark mode ([Bug 1466335][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1466335",
+      "sort_num": 50,
       "tag": "Changed"
-    },
-    {
-      "bug": 1242029,
-      "created": "2018-09-04T13:58:40.349894+00:00",
-      "id": 787684,
-      "is_public": true,
-      "modified": "2018-09-04T13:58:40.349699+00:00",
-      "note": "JavaScript library for interactive editing of CSS Shapes values in the browser, with functional values like polygon(), circle() and ellipse()",
-      "sort_num": 0,
-      "tag": "HTML5"
-    },
-    {
-      "bug": 1302685,
-      "created": "2018-09-04T13:58:42.437876+00:00",
-      "id": 787686,
-      "is_public": true,
-      "modified": "2018-09-04T13:58:42.437680+00:00",
-      "note": "CSS Variable Fonts (OpenType Font Variations) enable a single font file to behave like multiple fonts",
-      "sort_num": 0,
-      "tag": "HTML5"
     },
     {
       "bug": 1433716,
@@ -141,7 +151,7 @@
   "release_date": "2018-09-05",
   "slug": "firefox-62.0-release",
   "system_requirements": "## Windows\r\n\r\n### Operating Systems (32-bit and 64-bit)\r\n - Windows 7\r\n - Windows 8\r\n - Windows 10\r\n\r\n### Recommended Hardware\r\n-  Pentium 4 or newer processor that supports SSE2\r\n-  512MB of RAM / 2GB of RAM for the 64-bit version\r\n-  200MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- macOS 10.9\r\n- macOS 10.10\r\n- macOS 10.11\r\n- macOS 10.12\r\n- macOS 10.13\r\n\r\n### Recommended Hardware\r\n- Macintosh computer with an Intel x86 processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - GTK+ 3.4 or higher\r\n    - GLib 2.22 or higher\r\n    - Pango 1.22 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n    - libstdc++ 4.6.1 or higher\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - NetworkManager 0.7 or higher\r\n    - DBus 1.0 or higher\r\n    - GNOME 2.16 or higher\r\n    - PulseAudio\r\n",
-  "text": "",
+  "text": "Thank you to all of the [new Mozillians][1] who contributed to this release of Firefox!\r\n\r\n\r\n  [1]: https://blog.mozilla.org/community/2018/08/31/firefox-62-new-contributors/",
   "title": "Firefox 62.0 Release",
   "version": "62.0"
 }
