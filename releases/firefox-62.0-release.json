@@ -67,16 +67,6 @@
       "tag": "New"
     },
     {
-      "bug": 1409208,
-      "created": "2018-09-04T13:58:41.429294+00:00",
-      "id": 787685,
-      "is_public": true,
-      "modified": "2018-09-04T13:58:41.429109+00:00",
-      "note": "Users who disconnect Firefox for desktop from Sync are now offered the option to wipe their personal data from that device (such as bookmarks, passwords, history, cookies, and site data)",
-      "sort_num": 40,
-      "tag": "New"
-    },
-    {
       "bug": 1302685,
       "created": "2018-09-04T13:58:42.437876+00:00",
       "id": 787686,
@@ -124,6 +114,46 @@
       "modified": "2018-09-04T20:10:25.123726+00:00",
       "note": "Dark theme is automatically enabled in macOS 10.14 dark mode ([Bug 1466335][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1466335",
       "sort_num": 50,
+      "tag": "Changed"
+    },
+    {
+      "bug": 1463936,
+      "created": "2018-09-04T20:11:11.408462+00:00",
+      "id": 787704,
+      "is_public": true,
+      "modified": "2018-09-04T20:11:11.408208+00:00",
+      "note": "Changed the default setting to Enforce (3) for the security.pki.name_matching_mode preference ([Bug 1463936][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1463936",
+      "sort_num": 40,
+      "tag": "Changed"
+    },
+    {
+      "bug": null,
+      "created": "2018-09-04T20:12:14.005078+00:00",
+      "id": 787705,
+      "is_public": true,
+      "modified": "2018-09-04T20:12:14.004876+00:00",
+      "note": "[Adobe Flash][1] applets now run in a more secure mode using process sandboxing on macOS. Learn how this may affect features [here][2].\r\n\r\n\r\n  [1]: https://www.adobe.com/products/flashplayer.html\r\n  [2]: https://support.mozilla.org/kb/changes-affecting-adobe-flash-firefox-mac",
+      "sort_num": 30,
+      "tag": "Changed"
+    },
+    {
+      "bug": 1409208,
+      "created": "2018-09-04T13:58:41.429294+00:00",
+      "id": 787685,
+      "is_public": true,
+      "modified": "2018-09-04T20:12:44.989772+00:00",
+      "note": "Users disconnecting from Sync are now offered the option to wipe their Firefox profile data (including bookmarks, passwords, history, cookies, and site data) from their desktop computer",
+      "sort_num": 20,
+      "tag": "Changed"
+    },
+    {
+      "bug": 1450658,
+      "created": "2018-09-04T20:13:19.337788+00:00",
+      "id": 787706,
+      "is_public": true,
+      "modified": "2018-09-04T20:13:19.337477+00:00",
+      "note": "Changed how WebRTC handles screen sharing: When screen-sharing a window, the window will be brought to front. ([Bug 1450658][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1450658",
+      "sort_num": 10,
       "tag": "Changed"
     },
     {
