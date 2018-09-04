@@ -11,7 +11,7 @@
       "created": "2018-06-29T13:17:12.350231+00:00",
       "id": 787647,
       "is_public": true,
-      "modified": "2018-08-30T14:34:18.939657+00:00",
+      "modified": "2018-09-04T11:40:11.544655+00:00",
       "note": "On MacOS, WebGL power preferences allow non-performance-critical applications and applets to request the low-power GPU instead of the high-power GPU in multi-GPU systems",
       "sort_num": 0,
       "tag": "New"
@@ -21,7 +21,7 @@
       "created": "2018-07-23T13:16:37.492985+00:00",
       "id": 787659,
       "is_public": true,
-      "modified": "2018-08-27T15:35:09.360562+00:00",
+      "modified": "2018-09-04T11:40:31.178409+00:00",
       "note": "Multiple tabs can now be selected using Ctrl/Cmd and Shift. These selected tabs can be muted, moved, bookmarked, pinned, and more simply and quickly.",
       "sort_num": 0,
       "tag": "New"
@@ -31,7 +31,7 @@
       "created": "2018-07-25T08:27:10.281090+00:00",
       "id": 787661,
       "is_public": true,
-      "modified": "2018-08-27T15:19:37.510556+00:00",
+      "modified": "2018-09-04T11:40:36.950517+00:00",
       "note": "Improved Windows 10 integration: your Firefox theme now matches your OS Dark / Light mode ",
       "sort_num": 0,
       "tag": "New"
@@ -41,7 +41,7 @@
       "created": "2018-07-30T10:07:34.709072+00:00",
       "id": 787664,
       "is_public": true,
-      "modified": "2018-08-27T15:55:49.069357+00:00",
+      "modified": "2018-09-04T11:40:25.675137+00:00",
       "note": "Firefox by default now prompts for permission before allowing pages to automatically play media with sound",
       "sort_num": 0,
       "tag": "New"
@@ -51,7 +51,7 @@
       "created": "2018-07-30T12:08:57.254660+00:00",
       "id": 787666,
       "is_public": true,
-      "modified": "2018-08-27T15:19:37.510556+00:00",
+      "modified": "2018-09-04T11:40:18.648802+00:00",
       "note": "WebExtensions now run in their own process on Linux",
       "sort_num": 0,
       "tag": "New"
@@ -61,7 +61,7 @@
       "created": "2018-08-08T09:19:21.286909+00:00",
       "id": 787674,
       "is_public": true,
-      "modified": "2018-08-27T15:19:37.510556+00:00",
+      "modified": "2018-09-04T11:40:14.254778+00:00",
       "note": "Faster tab switching in the majority of cases for our macOS users",
       "sort_num": 0,
       "tag": "New"
@@ -71,7 +71,7 @@
       "created": "2018-08-08T09:37:07.809077+00:00",
       "id": 787675,
       "is_public": true,
-      "modified": "2018-08-27T15:19:37.510556+00:00",
+      "modified": "2018-09-04T11:40:34.019346+00:00",
       "note": "<!-- Nightly only -->Improved the reactivity of Firefox on MacOS\r\n",
       "sort_num": 0,
       "tag": "New"
@@ -81,8 +81,18 @@
       "created": "2018-08-11T14:51:37.650318+00:00",
       "id": 787676,
       "is_public": true,
-      "modified": "2018-08-27T15:34:53.475641+00:00",
+      "modified": "2018-09-04T11:40:12.470359+00:00",
       "note": "<!-- Nightly only -->\r\nTLS certificates issued by Symantec are [no longer trusted by Firefox Nightly][0]. Website operators are strongly encouraged to replace any remaining Symantec TLS certificates before Firefox 63 final release on October 23.\r\n\r\n[0]: https://blog.mozilla.org/security/2018/07/30/update-on-the-distrust-of-symantec-tls-certificates/",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1480443,
+      "created": "2018-09-04T11:38:24.115177+00:00",
+      "id": 787682,
+      "is_public": true,
+      "modified": "2018-09-04T11:40:51.640711+00:00",
+      "note": "<!-- Nightly only -->Improved page load performance by [blocking cross-site tracking][1] \r\n\r\n\r\n  [1]: https://blog.mozilla.org/futurereleases/2018/08/30/changing-our-approach-to-anti-tracking/",
       "sort_num": 0,
       "tag": "New"
     },
@@ -91,7 +101,7 @@
       "created": "2018-06-26T09:43:18.258329+00:00",
       "id": 787643,
       "is_public": true,
-      "modified": "2018-08-27T15:19:37.510556+00:00",
+      "modified": "2018-09-04T11:40:15.962232+00:00",
       "note": "In the Library, the ***Open in Sidebar*** feature for individual bookmarks was removed ",
       "sort_num": 0,
       "tag": "Changed"
@@ -101,7 +111,7 @@
       "created": "2018-07-25T08:36:53.027974+00:00",
       "id": 787662,
       "is_public": true,
-      "modified": "2018-08-27T15:19:37.510556+00:00",
+      "modified": "2018-09-04T11:40:29.027509+00:00",
       "note": "*Never check for updates* option removed from about:preferences. If a substitute is needed, we recommend using the [DisableAppUpdate][1] enterprise policy \r\n\r\n\r\n  [1]: https://github.com/mozilla/policy-templates/blob/master/README.md",
       "sort_num": 0,
       "tag": "Changed"
@@ -111,7 +121,7 @@
       "created": "2018-07-25T09:13:32.149646+00:00",
       "id": 787663,
       "is_public": true,
-      "modified": "2018-08-27T15:19:37.510556+00:00",
+      "modified": "2018-09-04T11:40:35.336372+00:00",
       "note": "Firefox now warns about having multiple windows/tabs open when quitting from the main menu.",
       "sort_num": 0,
       "tag": "Changed"
@@ -121,7 +131,7 @@
       "created": "2018-07-30T11:01:00.776933+00:00",
       "id": 787665,
       "is_public": true,
-      "modified": "2018-08-27T15:19:37.510556+00:00",
+      "modified": "2018-09-04T11:40:22.763224+00:00",
       "note": "The *Ctrl+Tab* shortcut now displays thumbnail previews of your tabs and cycles through tabs in recently used order. This new default behavior is activated only in new profiles and can be changed in your preferences",
       "sort_num": 0,
       "tag": "Changed"
@@ -131,7 +141,7 @@
       "created": "2018-08-30T14:35:10.851021+00:00",
       "id": 787678,
       "is_public": true,
-      "modified": "2018-08-30T14:35:10.850815+00:00",
+      "modified": "2018-09-04T11:40:13.443031+00:00",
       "note": "The build infrastructure of Firefox on Windows moved to the Clang tool chain, bringing important performance gains",
       "sort_num": 0,
       "tag": "Changed"
@@ -141,7 +151,7 @@
       "created": "2018-07-03T09:09:00.660303+00:00",
       "id": 787648,
       "is_public": true,
-      "modified": "2018-08-27T15:19:37.510556+00:00",
+      "modified": "2018-09-04T11:40:52.784465+00:00",
       "note": "Changes affecting [developers][1]\r\n\r\n[1]: https://developer.mozilla.org/Firefox/Releases/63",
       "sort_num": 0,
       "tag": "Developer"
