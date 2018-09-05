@@ -2,19 +2,19 @@
   "bug_list": "",
   "bug_search_url": "",
   "channel": "ESR",
-  "created": "2018-06-21T06:35:31.348249+00:00",
+  "created": "2018-08-31T14:56:53.653763+00:00",
   "is_public": true,
-  "modified": "2018-08-31T14:55:03.109261+00:00",
+  "modified": "2018-09-05T23:17:43.572115+00:00",
   "notes": [
     {
       "bug": null,
-      "created": "2018-06-21T06:36:46.058559+00:00",
-      "id": 787639,
+      "created": "2018-08-31T15:07:33.412023+00:00",
+      "id": 787681,
       "is_public": true,
-      "modified": "2018-08-31T15:02:13.505245+00:00",
-      "note": "Various [security fixes][0]\r\n\r\n[0]: https://www.mozilla.org/security/known-vulnerabilities/firefox-esr/#firefoxesr60.1",
+      "modified": "2018-08-31T15:07:33.411842+00:00",
+      "note": "Reference link to [60.0esr release notes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/firefox/60.0esr/releasenotes/",
       "sort_num": 0,
-      "tag": "Fixed"
+      "tag": ""
     },
     {
       "bug": null,
@@ -25,13 +25,23 @@
       "note": "Various stability and regression fixes",
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2018-08-31T15:02:13.277696+00:00",
+      "id": 787680,
+      "is_public": true,
+      "modified": "2018-08-31T15:02:31.394492+00:00",
+      "note": "Various [security fixes][0]\r\n\r\n[0]: https://www.mozilla.org/security/known-vulnerabilities/firefox-esr/#firefoxesr60.2",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox Extended Support Release",
-  "release_date": "2018-06-26",
-  "slug": "firefox-60.1.0esr-esr",
+  "release_date": "2018-09-05",
+  "slug": "firefox-60.2.0-esr",
   "system_requirements": "## Windows\r\n\r\n### Operating Systems (32-bit and 64-bit)\r\n - Windows 7\r\n - Windows 8\r\n - Windows 10\r\n\r\n### Recommended Hardware\r\n-  Pentium 4 or newer processor that supports SSE2\r\n-  512MB of RAM / 2GB of RAM for the 64-bit version\r\n-  200MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- macOS 10.9\r\n- macOS 10.10\r\n- macOS 10.11\r\n- macOS 10.12\r\n- macOS 10.13\r\n\r\n### Recommended Hardware\r\n- Macintosh computer with an Intel x86 processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - GTK+ 3.4 or higher\r\n    - GLib 2.22 or higher\r\n    - Pango 1.22 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n    - libstdc++ 4.6.1 or higher\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - NetworkManager 0.7 or higher\r\n    - DBus 1.0 or higher\r\n    - GNOME 2.16 or higher\r\n    - PulseAudio\r\n\r\n  [1]: https://support.mozilla.org/kb/get-latest-version-firefox-windows-xp-vista",
   "text": "",
-  "title": "Firefox Extended Support Release 60.1.0esr ESR",
-  "version": "60.1.0esr"
+  "title": "Firefox Extended Support Release 60.2.0 ESR",
+  "version": "60.2.0"
 }
