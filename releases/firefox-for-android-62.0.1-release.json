@@ -1,0 +1,37 @@
+{
+  "bug_list": "",
+  "bug_search_url": "",
+  "channel": "Release",
+  "created": "2018-09-06T20:34:42.078120+00:00",
+  "is_public": false,
+  "modified": "2018-09-06T20:35:30.153592+00:00",
+  "notes": [
+    {
+      "bug": null,
+      "created": "2018-09-06T20:35:05.293721+00:00",
+      "id": 787709,
+      "is_public": true,
+      "modified": "2018-09-06T20:35:22.652521+00:00",
+      "note": "Reference link to [62.0 release notes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.com/firefox/android/62.0/releasenotes/",
+      "sort_num": 0,
+      "tag": ""
+    },
+    {
+      "bug": 1485441,
+      "created": "2018-09-06T20:35:06.741216+00:00",
+      "id": 787710,
+      "is_public": true,
+      "modified": "2018-09-06T20:36:40.936660+00:00",
+      "note": "Fixed a crash when navigating sites with WebGL content ([Bug 1485441][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1485441",
+      "sort_num": 10,
+      "tag": "Fixed"
+    }
+  ],
+  "product": "Firefox for Android",
+  "release_date": "2018-09-07",
+  "slug": "firefox-for-android-62.0.1-release",
+  "system_requirements": "## Operating systems\r\n - Android 4.1\r\n - Above versions\r\n\r\n## Requirements\r\n - 50 MB internal storage\r\n - 384 MB of RAM\r\n - display at least 320 pixels high and 240 pixels wide",
+  "text": "",
+  "title": "Firefox for Android 62.0.1 Release",
+  "version": "62.0.1"
+}
