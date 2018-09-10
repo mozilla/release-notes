@@ -5,7 +5,18 @@
   "created": "2018-09-04T11:39:44.813974+00:00",
   "is_public": true,
   "modified": "2018-09-05T12:50:32.638162+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": 237027,
+      "created": "2018-09-10T13:40:51.887808+00:00",
+      "id": 787712,
+      "is_public": true,
+      "modified": "2018-09-10T13:40:51.887618+00:00",
+      "note": "Changes to URL bar autocomplete shortcuts: use ctrl-enter for URL canonicalization on all platforms, and offer an opt-out for Windows/Linux users where it interferes with opening URLs in (background) tabs",
+      "sort_num": 0,
+      "tag": ""
+    }
+  ],
   "product": "Firefox",
   "release_date": "2018-09-04",
   "slug": "firefox-64.0a1-nightly",
