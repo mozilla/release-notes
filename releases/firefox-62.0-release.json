@@ -185,6 +185,16 @@
       "note": "Various [security fixes][0]\r\n\r\n[0]: https://www.mozilla.org/security/advisories/mfsa2018-20/",
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": 1488232,
+      "created": "2018-09-10T09:52:07.660018+00:00",
+      "id": 787711,
+      "is_public": true,
+      "modified": "2018-09-10T09:52:07.659808+00:00",
+      "note": "Bookmarks might be not suggested as suggestions in the address bar ([bug 1488232][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1488879",
+      "sort_num": 0,
+      "tag": "Known"
     }
   ],
   "product": "Firefox",
