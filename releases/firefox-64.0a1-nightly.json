@@ -15,6 +15,16 @@
       "note": "Changes to URL bar autocomplete shortcuts: use ctrl-enter for URL canonicalization on all platforms, and offer an opt-out for Windows/Linux users where it interferes with opening URLs in (background) tabs",
       "sort_num": 0,
       "tag": ""
+    },
+    {
+      "bug": 1476062,
+      "created": "2018-09-11T11:18:59.714272+00:00",
+      "id": 787713,
+      "is_public": true,
+      "modified": "2018-09-11T11:18:59.714082+00:00",
+      "note": "*about:crashes* has been redesigned to make it clear when a crash is being submitted to Mozilla, as well as being clear that removing crashes locally does not remove them from [crash-stats.mozilla.com][1]\r\n\r\n\r\n  [1]: https://crash-stats.mozilla.com",
+      "sort_num": 0,
+      "tag": "Changed"
     }
   ],
   "product": "Firefox",
