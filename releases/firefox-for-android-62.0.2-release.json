@@ -45,6 +45,16 @@
       "note": "Oversized quick share icons on Android 6.0 and newer ([bug 1488720][0])\r\n\r\n[0]: https://bugzilla.mozilla.org/1488720",
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2018-09-21T20:57:48.234882+00:00",
+      "id": 787735,
+      "is_public": true,
+      "modified": "2018-09-21T20:58:06.881534+00:00",
+      "note": "Various [security fixes][0]\r\n\r\n[0]: https://www.mozilla.org/security/advisories/mfsa2018-22/",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox for Android",
