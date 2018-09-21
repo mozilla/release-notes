@@ -11,7 +11,7 @@
       "created": "2018-09-04T13:58:50.703428+00:00",
       "id": 787694,
       "is_public": true,
-      "modified": "2018-09-21T09:54:39.735391+00:00",
+      "modified": "2018-09-21T09:56:40.416230+00:00",
       "note": "Firefox Home (the default New Tab) now allows users to display up to 4 rows of top sites, Pocket stories, and highlights",
       "sort_num": 90,
       "tag": "New"
@@ -21,7 +21,7 @@
       "created": "2018-09-04T19:54:57.801621+00:00",
       "id": 787699,
       "is_public": true,
-      "modified": "2018-09-21T09:54:39.735391+00:00",
+      "modified": "2018-09-21T09:56:27.862494+00:00",
       "note": "\u201cReopen in Container\u201d tab menu option appears for users with Containers that lets them choose to reopen a tab in a different container",
       "sort_num": 80,
       "tag": "New"
@@ -31,7 +31,7 @@
       "created": "2018-09-04T19:57:35.322102+00:00",
       "id": 787700,
       "is_public": true,
-      "modified": "2018-09-21T09:54:39.735391+00:00",
+      "modified": "2018-09-21T09:56:23.943495+00:00",
       "note": "In advance of removing all trust for Symantec-issued certificates in Firefox 63, a preference was added that allows users to distrust certificates issued by Symantec. To use this preference, go to about:config in the address bar and set the preference \"security.pki.distrust_ca_policy\" to 2.",
       "sort_num": 70,
       "tag": "New"
@@ -41,7 +41,7 @@
       "created": "2018-09-04T19:58:33.940355+00:00",
       "id": 787701,
       "is_public": true,
-      "modified": "2018-09-21T09:54:39.735391+00:00",
+      "modified": "2018-09-21T09:56:19.195295+00:00",
       "note": "Added FreeBSD support for WebAuthn",
       "sort_num": 60,
       "tag": "New"
@@ -51,7 +51,7 @@
       "created": "2018-09-04T19:59:31.433882+00:00",
       "id": 787702,
       "is_public": true,
-      "modified": "2018-09-21T09:54:39.735391+00:00",
+      "modified": "2018-09-21T09:56:17.540855+00:00",
       "note": "Improved graphics rendering for Windows users without accelerated hardware using Parallel-Off-Main-Thread Painting",
       "sort_num": 50,
       "tag": "New"
@@ -61,7 +61,7 @@
       "created": "2018-09-04T13:58:40.349894+00:00",
       "id": 787684,
       "is_public": true,
-      "modified": "2018-09-21T09:54:39.735391+00:00",
+      "modified": "2018-09-21T09:57:37.927157+00:00",
       "note": "Support for CSS Shapes, allowing for richer web page layouts. This goes hand in hand with a brand new Shape Path Editor in the CSS inspector.",
       "sort_num": 40,
       "tag": "New"
@@ -71,7 +71,7 @@
       "created": "2018-09-04T13:58:42.437876+00:00",
       "id": 787686,
       "is_public": true,
-      "modified": "2018-09-21T09:54:39.735391+00:00",
+      "modified": "2018-09-21T09:57:36.113191+00:00",
       "note": "CSS Variable Fonts (OpenType Font Variations) support, which makes it possible to create beautiful typography with a single font file",
       "sort_num": 30,
       "tag": "New"
@@ -81,7 +81,7 @@
       "created": "2018-09-04T13:58:49.755098+00:00",
       "id": 787693,
       "is_public": true,
-      "modified": "2018-09-21T09:54:39.735391+00:00",
+      "modified": "2018-09-21T09:56:51.456060+00:00",
       "note": "Updates for [enterprise environments][1]:\r\n\r\n - AutoConfig is sandboxed to the [documented API][2] by default. You\r\n   can disable the sandbox by setting the preference\r\n   general.config.sandbox_enabled to false. Our long term plan is to\r\n   remove the ability to turn off the sandboxing. If you need to\r\n   continue to use more complex AutoConfig scripts, you will need to use\r\n   [Firefox Extended Support Release (ESR)][3].\r\n\r\n  [1]: https://support.mozilla.org/products/firefox-enterprise\r\n  [2]: https://support.mozilla.org/kb/customizing-firefox-using-autoconfig\r\n  [3]: https://www.mozilla.org/firefox/organizations/",
       "sort_num": 20,
       "tag": "New"
@@ -91,7 +91,7 @@
       "created": "2018-09-04T13:58:44.541417+00:00",
       "id": 787688,
       "is_public": true,
-      "modified": "2018-09-21T09:54:39.735391+00:00",
+      "modified": "2018-09-21T09:57:15.892431+00:00",
       "note": "Added Canadian English (en-CA) locale",
       "sort_num": 10,
       "tag": "New"
@@ -101,7 +101,7 @@
       "created": "2018-09-04T13:58:46.379398+00:00",
       "id": 787690,
       "is_public": true,
-      "modified": "2018-09-21T09:54:39.735391+00:00",
+      "modified": "2018-09-21T09:57:09.828798+00:00",
       "note": "Removed the description field for bookmarks. Users who have stored descriptions using the field may wish to export these descriptions as [html][1] or [json][2] files, as they will be removed in a future release.\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/export-firefox-bookmarks-to-backup-or-transfer\r\n  [2]: https://support.mozilla.org/kb/restore-bookmarks-from-backup-or-move-them#w_backup-and-restore",
       "sort_num": 60,
       "tag": "Changed"
@@ -111,7 +111,7 @@
       "created": "2018-09-04T20:10:25.123911+00:00",
       "id": 787703,
       "is_public": true,
-      "modified": "2018-09-21T09:54:39.735391+00:00",
+      "modified": "2018-09-21T09:56:14.891487+00:00",
       "note": "Dark theme is automatically enabled in macOS 10.14 dark mode",
       "sort_num": 50,
       "tag": "Changed"
@@ -121,7 +121,7 @@
       "created": "2018-09-04T20:11:11.408462+00:00",
       "id": 787704,
       "is_public": true,
-      "modified": "2018-09-21T09:54:39.735391+00:00",
+      "modified": "2018-09-21T09:56:08.379923+00:00",
       "note": "Changed the default setting to Enforce (3) for the security.pki.name_matching_mode preference",
       "sort_num": 40,
       "tag": "Changed"
@@ -141,7 +141,7 @@
       "created": "2018-09-04T13:58:41.429294+00:00",
       "id": 787685,
       "is_public": true,
-      "modified": "2018-09-21T09:54:39.735391+00:00",
+      "modified": "2018-09-21T09:57:42.412182+00:00",
       "note": "Users disconnecting from Sync are now offered the option to wipe their Firefox profile data (including bookmarks, passwords, history, cookies, and site data) from their desktop computer",
       "sort_num": 20,
       "tag": "Changed"
@@ -161,7 +161,7 @@
       "created": "2018-09-04T13:58:51.727536+00:00",
       "id": 787695,
       "is_public": true,
-      "modified": "2018-09-21T09:54:39.735391+00:00",
+      "modified": "2018-09-21T09:56:30.157078+00:00",
       "note": "Three-pane Inspector in Developer Tools separates the rules into its own panel",
       "sort_num": 10,
       "tag": "Developer"
@@ -171,7 +171,7 @@
       "created": "2018-09-04T13:58:48.845779+00:00",
       "id": 787692,
       "is_public": true,
-      "modified": "2018-09-21T09:54:39.735391+00:00",
+      "modified": "2018-09-21T09:56:53.839026+00:00",
       "note": "Changes affecting [developers][1]\r\n\r\n[1]: https://developer.mozilla.org/Firefox/Releases/62",
       "sort_num": 0,
       "tag": "Developer"
