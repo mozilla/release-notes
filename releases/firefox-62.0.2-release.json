@@ -2,9 +2,9 @@
   "bug_list": "",
   "bug_search_url": "",
   "channel": "Release",
-  "created": "2018-09-04T13:57:52.738413+00:00",
-  "is_public": true,
-  "modified": "2018-09-05T12:50:09.577228+00:00",
+  "created": "2018-09-21T09:54:39.718492+00:00",
+  "is_public": false,
+  "modified": "2018-09-21T09:55:06.000235+00:00",
   "notes": [
     {
       "bug": 1400536,
@@ -127,16 +127,6 @@
       "tag": "Changed"
     },
     {
-      "bug": null,
-      "created": "2018-09-04T20:12:14.005078+00:00",
-      "id": 787705,
-      "is_public": true,
-      "modified": "2018-09-21T09:56:02.020853+00:00",
-      "note": "[Adobe Flash][1] applets now run in a more secure mode using process sandboxing on macOS. Learn how this may affect features [here][2].\r\n\r\n\r\n  [1]: https://www.adobe.com/products/flashplayer.html\r\n  [2]: https://support.mozilla.org/kb/changes-affecting-adobe-flash-firefox-mac",
-      "sort_num": 30,
-      "tag": "Changed"
-    },
-    {
       "bug": 1409208,
       "created": "2018-09-04T13:58:41.429294+00:00",
       "id": 787685,
@@ -144,16 +134,6 @@
       "modified": "2018-09-21T09:54:39.735391+00:00",
       "note": "Users disconnecting from Sync are now offered the option to wipe their Firefox profile data (including bookmarks, passwords, history, cookies, and site data) from their desktop computer",
       "sort_num": 20,
-      "tag": "Changed"
-    },
-    {
-      "bug": 1450658,
-      "created": "2018-09-04T20:13:19.337788+00:00",
-      "id": 787706,
-      "is_public": true,
-      "modified": "2018-09-21T09:55:58.605102+00:00",
-      "note": "Changed how WebRTC handles screen sharing: When screen-sharing a window, the window will be brought to front",
-      "sort_num": 10,
       "tag": "Changed"
     },
     {
@@ -177,31 +157,21 @@
       "tag": "Developer"
     },
     {
-      "bug": null,
-      "created": "2018-09-06T09:12:48.901274+00:00",
-      "id": 787708,
-      "is_public": true,
-      "modified": "2018-09-21T09:55:55.674658+00:00",
-      "note": "Various [security fixes][0]\r\n\r\n[0]: https://www.mozilla.org/security/advisories/mfsa2018-20/",
-      "sort_num": 0,
-      "tag": "Fixed"
-    },
-    {
       "bug": 1488232,
-      "created": "2018-09-10T09:52:07.660018+00:00",
-      "id": 787711,
+      "created": "2018-09-21T09:55:50.740100+00:00",
+      "id": 787721,
       "is_public": true,
-      "modified": "2018-09-21T09:55:50.871043+00:00",
+      "modified": "2018-09-21T09:55:50.739900+00:00",
       "note": "Unvisited bookmarks will not be autofilled in the address bar ([bug 1488879][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1488879",
       "sort_num": 0,
       "tag": "Known"
     }
   ],
   "product": "Firefox",
-  "release_date": "2018-09-05",
-  "slug": "firefox-62.0-release",
+  "release_date": "2018-09-21",
+  "slug": "firefox-62.0.2-release",
   "system_requirements": "## Windows\r\n\r\n### Operating Systems (32-bit and 64-bit)\r\n - Windows 7\r\n - Windows 8\r\n - Windows 10\r\n\r\n### Recommended Hardware\r\n-  Pentium 4 or newer processor that supports SSE2\r\n-  512MB of RAM / 2GB of RAM for the 64-bit version\r\n-  200MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- macOS 10.9\r\n- macOS 10.10\r\n- macOS 10.11\r\n- macOS 10.12\r\n- macOS 10.13\r\n\r\n### Recommended Hardware\r\n- Macintosh computer with an Intel x86 processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - GTK+ 3.4 or higher\r\n    - GLib 2.22 or higher\r\n    - Pango 1.22 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n    - libstdc++ 4.6.1 or higher\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - NetworkManager 0.7 or higher\r\n    - DBus 1.0 or higher\r\n    - GNOME 2.16 or higher\r\n    - PulseAudio\r\n",
-  "text": "Thank you to all of the [new Mozillians][1] who contributed to this release of Firefox!\r\n\r\n\r\n  [1]: https://blog.mozilla.org/community/2018/08/31/firefox-62-new-contributors/",
-  "title": "Firefox 62.0 Release",
-  "version": "62.0"
+  "text": "",
+  "title": "Firefox 62.0.2 Release",
+  "version": "62.0.2"
 }
