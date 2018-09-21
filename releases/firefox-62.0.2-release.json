@@ -75,6 +75,46 @@
       "note": "Properly restore window size and position when restarting on Windows (bugs [1489214][0] and [1489852][1])\r\n\r\n[0]: https://bugzilla.mozilla.org/1489214\r\n[1]: https://bugzilla.mozilla.org/1489852",
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": 1490585,
+      "created": "2018-09-21T11:58:40.407919+00:00",
+      "id": 787728,
+      "is_public": true,
+      "modified": "2018-09-21T11:58:40.407733+00:00",
+      "note": "Avoid crash when sharing a profile with newer (as yet unreleased) versions of Firefox ([bug 1490585][0])\r\n\r\n[0]: https://bugzilla.mozilla.org/1490585",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1489820,
+      "created": "2018-09-21T12:03:10.265764+00:00",
+      "id": 787729,
+      "is_public": true,
+      "modified": "2018-09-21T12:07:38.263582+00:00",
+      "note": "Do not undo removal of search engines when using a language pack ([bug 1489820][0])\r\n\r\n[0]: https://bugzilla.mozilla.org/1489820",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1421885,
+      "created": "2018-09-21T12:08:58.957639+00:00",
+      "id": 787730,
+      "is_public": true,
+      "modified": "2018-09-21T12:09:11.241618+00:00",
+      "note": "Fixed rendering of some web sites ([bug 1421885][0])\r\n\r\n[0]: https://bugzilla.mozilla.org/1421885",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1487517,
+      "created": "2018-09-21T12:10:27.343753+00:00",
+      "id": 787731,
+      "is_public": true,
+      "modified": "2018-09-21T12:10:27.343449+00:00",
+      "note": "Restored compatibility with some sites using deprecated TLS settings ([bug 1487517][0])\r\n\r\n[0]: https://bugzilla.mozilla.org/1487517",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
