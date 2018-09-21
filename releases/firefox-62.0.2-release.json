@@ -115,6 +115,16 @@
       "note": "Restored compatibility with some sites using deprecated TLS settings ([bug 1487517][0])\r\n\r\n[0]: https://bugzilla.mozilla.org/1487517",
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": 1487419,
+      "created": "2018-09-21T12:14:04.251163+00:00",
+      "id": 787733,
+      "is_public": true,
+      "modified": "2018-09-21T12:14:04.250980+00:00",
+      "note": "Fix screen share on MacOS when using multiple monitors ([bug 1487419][0])\r\n\r\n[0]: https://bugzilla.mozilla.org/1487419",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
