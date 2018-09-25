@@ -195,6 +195,16 @@
       "note": "Unvisited bookmarks will not be autofilled in the address bar ([bug 1488879][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1488879",
       "sort_num": 0,
       "tag": "Known"
+    },
+    {
+      "bug": 1489785,
+      "created": "2018-09-25T11:24:36.896963+00:00",
+      "id": 787736,
+      "is_public": true,
+      "modified": "2018-09-25T11:24:36.896665+00:00",
+      "note": "File management can fail on Mac OS X 10.14 Mojave ([bug 1489785][0])\r\n\r\n[0]: https://bugzilla.mozilla.org/show_bug.cgi?id=1489785",
+      "sort_num": 0,
+      "tag": "Known"
     }
   ],
   "product": "Firefox",
