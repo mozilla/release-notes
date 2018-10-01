@@ -8,41 +8,21 @@
   "notes": [
     {
       "bug": null,
-      "created": "2018-09-21T12:21:44.826652+00:00",
-      "id": 787734,
+      "created": "2018-10-01T18:56:09.658627+00:00",
+      "id": 787740,
       "is_public": true,
-      "modified": "2018-10-01T18:55:36.835575+00:00",
-      "note": "Reference link to [62.0.1 release notes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/firefox/android/62.0.1/releasenotes/",
+      "modified": "2018-10-01T18:56:23.418689+00:00",
+      "note": "Reference link to [62.0.2 release notes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/firefox/android/62.0.2/releasenotes/",
       "sort_num": 0,
       "tag": ""
     },
     {
-      "bug": 1421885,
-      "created": "2018-09-21T12:08:58.957639+00:00",
-      "id": 787730,
-      "is_public": true,
-      "modified": "2018-10-01T18:55:36.835575+00:00",
-      "note": "Fixed rendering of some web sites ([bug 1421885][0])\r\n\r\n[0]: https://bugzilla.mozilla.org/1421885",
-      "sort_num": 0,
-      "tag": "Fixed"
-    },
-    {
-      "bug": 1487517,
-      "created": "2018-09-21T12:10:27.343753+00:00",
-      "id": 787731,
-      "is_public": true,
-      "modified": "2018-10-01T18:55:36.835575+00:00",
-      "note": "Restored compatibility with some sites using deprecated TLS settings ([bug 1487517][0])\r\n\r\n[0]: https://bugzilla.mozilla.org/1487517",
-      "sort_num": 0,
-      "tag": "Fixed"
-    },
-    {
       "bug": null,
-      "created": "2018-09-21T20:57:48.234882+00:00",
-      "id": 787735,
+      "created": "2018-10-01T18:56:11.052131+00:00",
+      "id": 787741,
       "is_public": true,
-      "modified": "2018-10-01T18:55:36.835575+00:00",
-      "note": "Various [security fixes][0]\r\n\r\n[0]: https://www.mozilla.org/security/advisories/mfsa2018-22/",
+      "modified": "2018-10-01T18:58:19.192354+00:00",
+      "note": "Various [security fixes][0]\r\n\r\n[0]: https://www.mozilla.org/security/known-vulnerabilities/firefox/#firefox62.0.3",
       "sort_num": 0,
       "tag": "Fixed"
     }

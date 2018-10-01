@@ -21,10 +21,20 @@
       "created": "2018-10-01T18:51:33.758027+00:00",
       "id": 787739,
       "is_public": true,
-      "modified": "2018-10-01T18:51:33.757843+00:00",
-      "note": "Disabled the Race Cache With Network feature due to authentication problems for users using NTLM ([bug 1494405][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1494405",
+      "modified": "2018-10-01T19:09:11.812123+00:00",
+      "note": "Disabled the Race Cache With Network feature due to authentication problems for users on networks using NTLM ([bug 1494405][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1494405",
       "sort_num": 0,
       "tag": "Changed"
+    },
+    {
+      "bug": 1489785,
+      "created": "2018-10-01T19:04:01.763689+00:00",
+      "id": 787744,
+      "is_public": true,
+      "modified": "2018-10-01T19:04:01.763508+00:00",
+      "note": "Fixed hangs on MacOS Mojave (10.14) when various dialog windows (upload, download, print, etc) were activated ([bug 1489785][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1489785",
+      "sort_num": 50,
+      "tag": "Fixed"
     },
     {
       "bug": null,
