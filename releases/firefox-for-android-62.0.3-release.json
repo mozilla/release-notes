@@ -2,9 +2,9 @@
   "bug_list": "",
   "bug_search_url": "",
   "channel": "Release",
-  "created": "2018-09-21T09:54:39.691838+00:00",
-  "is_public": true,
-  "modified": "2018-09-21T19:13:55.486927+00:00",
+  "created": "2018-10-01T18:55:36.822016+00:00",
+  "is_public": false,
+  "modified": "2018-10-01T18:55:54.697045+00:00",
   "notes": [
     {
       "bug": null,
@@ -37,16 +37,6 @@
       "tag": "Fixed"
     },
     {
-      "bug": 1488720,
-      "created": "2018-09-21T12:12:29.614419+00:00",
-      "id": 787732,
-      "is_public": true,
-      "modified": "2018-10-01T18:56:04.392472+00:00",
-      "note": "Oversized quick share icons on Android 6.0 and newer ([bug 1488720][0])\r\n\r\n[0]: https://bugzilla.mozilla.org/1488720",
-      "sort_num": 0,
-      "tag": "Fixed"
-    },
-    {
       "bug": null,
       "created": "2018-09-21T20:57:48.234882+00:00",
       "id": 787735,
@@ -58,10 +48,10 @@
     }
   ],
   "product": "Firefox for Android",
-  "release_date": "2018-09-21",
-  "slug": "firefox-for-android-62.0.2-release",
+  "release_date": "2018-10-03",
+  "slug": "firefox-for-android-62.0.3-release",
   "system_requirements": "## Operating systems\r\n - Android 4.1\r\n - Above versions\r\n\r\n## Requirements\r\n - 50 MB internal storage\r\n - 384 MB of RAM\r\n - display at least 320 pixels high and 240 pixels wide",
   "text": "",
-  "title": "Firefox for Android 62.0.2 Release",
-  "version": "62.0.2"
+  "title": "Firefox for Android 62.0.3 Release",
+  "version": "62.0.3"
 }

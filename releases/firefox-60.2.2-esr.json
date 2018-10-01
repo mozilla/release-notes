@@ -2,53 +2,33 @@
   "bug_list": "",
   "bug_search_url": "",
   "channel": "ESR",
-  "created": "2018-09-20T01:58:57.092170+00:00",
-  "is_public": true,
-  "modified": "2018-09-21T19:13:55.486927+00:00",
+  "created": "2018-10-01T18:43:06.687732+00:00",
+  "is_public": false,
+  "modified": "2018-10-01T18:43:26.340255+00:00",
   "notes": [
     {
       "bug": null,
-      "created": "2018-09-20T01:59:36.382106+00:00",
-      "id": 787717,
+      "created": "2018-10-01T18:43:48.172021+00:00",
+      "id": 787738,
       "is_public": true,
-      "modified": "2018-10-01T18:43:48.455115+00:00",
-      "note": "Reference link to [60.2.0esr release notes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/firefox/60.2.0/releasenotes/",
+      "modified": "2018-10-01T18:44:25.447357+00:00",
+      "note": "Reference link to [60.2.1esr release notes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/firefox/60.2.1/releasenotes/",
       "sort_num": 0,
       "tag": ""
     },
     {
-      "bug": 1489605,
-      "created": "2018-09-20T02:07:49.186743+00:00",
-      "id": 787720,
+      "bug": 1494405,
+      "created": "2018-10-01T18:51:33.758027+00:00",
+      "id": 787739,
       "is_public": true,
-      "modified": "2018-10-01T18:43:40.907493+00:00",
-      "note": "Disabled multiprocess support for users running old versions of the JAWS screen reader software ([bug 1489605][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1489605",
-      "sort_num": 30,
-      "tag": "Fixed"
-    },
-    {
-      "bug": 1489744,
-      "created": "2018-09-20T02:03:55.602762+00:00",
-      "id": 787718,
-      "is_public": true,
-      "modified": "2018-10-01T18:43:37.805744+00:00",
-      "note": "Fixed a startup crash affecting users migrating from older ESR releases ([bug 1489744][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1489744",
-      "sort_num": 20,
-      "tag": "Fixed"
-    },
-    {
-      "bug": 1475775,
-      "created": "2018-09-20T02:06:27.082708+00:00",
-      "id": 787719,
-      "is_public": true,
-      "modified": "2018-10-01T18:43:36.007076+00:00",
-      "note": "Clean up old NSS DB files after upgrading ([bug 1475775][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1475775",
-      "sort_num": 10,
-      "tag": "Fixed"
+      "modified": "2018-10-01T18:51:33.757843+00:00",
+      "note": "Disabled the Race Cache With Network feature due to authentication problems for users using NTLM ([bug 1494405][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1494405",
+      "sort_num": 0,
+      "tag": "Changed"
     },
     {
       "bug": null,
-      "created": "2018-09-20T01:59:34.759987+00:00",
+      "created": "2018-10-01T18:43:46.599903+00:00",
       "fixed_in_release": {
         "channel": "ESR",
         "is_public": true,
@@ -57,19 +37,19 @@
         "title": "Firefox Extended Support Release 60.0.2esr ESR",
         "version": "60.0.2esr"
       },
-      "id": 787716,
+      "id": 787737,
       "is_public": true,
-      "modified": "2018-10-01T18:43:46.835984+00:00",
-      "note": "Various [security fixes][0]\r\n\r\n[0]: https://www.mozilla.org/security/advisories/mfsa2018-23/",
+      "modified": "2018-10-01T18:45:37.194056+00:00",
+      "note": "Various [security fixes][0]\r\n\r\n[0]: https://www.mozilla.org/security/known-vulnerabilities/firefox-esr/#firefoxesr60.2.2",
       "sort_num": 0,
       "tag": "Fixed"
     }
   ],
   "product": "Firefox Extended Support Release",
-  "release_date": "2018-09-21",
-  "slug": "firefox-60.2.1-esr",
+  "release_date": "2018-10-03",
+  "slug": "firefox-60.2.2-esr",
   "system_requirements": "## Windows\r\n\r\n### Operating Systems (32-bit and 64-bit)\r\n - Windows 7\r\n - Windows 8\r\n - Windows 10\r\n\r\n### Recommended Hardware\r\n-  Pentium 4 or newer processor that supports SSE2\r\n-  512MB of RAM / 2GB of RAM for the 64-bit version\r\n-  200MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- macOS 10.9\r\n- macOS 10.10\r\n- macOS 10.11\r\n- macOS 10.12\r\n- macOS 10.13\r\n\r\n### Recommended Hardware\r\n- Macintosh computer with an Intel x86 processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - GTK+ 3.4 or higher\r\n    - GLib 2.22 or higher\r\n    - Pango 1.14 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n    - libstdc++ 4.6.1 or higher\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - NetworkManager 0.7 or higher\r\n    - DBus 1.0 or higher\r\n    - GNOME 2.16 or higher\r\n    - PulseAudio\r\n\r\n  [1]: https://support.mozilla.org/kb/get-latest-version-firefox-windows-xp-vista",
   "text": "",
-  "title": "Firefox Extended Support Release 60.2.1 ESR",
-  "version": "60.2.1"
+  "title": "Firefox Extended Support Release 60.2.2 ESR",
+  "version": "60.2.2"
 }
