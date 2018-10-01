@@ -21,8 +21,8 @@
       "created": "2018-10-01T19:04:01.763689+00:00",
       "id": 787744,
       "is_public": true,
-      "modified": "2018-10-01T19:31:34.327484+00:00",
-      "note": "Fixed hangs on macOS Mojave (10.14) when various dialog windows (upload, download, print, etc) were activated ([bug 1489785][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1489785",
+      "modified": "2018-10-01T21:54:56.179684+00:00",
+      "note": "Fixed hangs on macOS Mojave (10.14) when various dialog windows (upload, download, print, etc) are activated ([bug 1489785][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1489785",
       "sort_num": 20,
       "tag": "Fixed"
     },
