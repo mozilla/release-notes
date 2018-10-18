@@ -1,0 +1,47 @@
+{
+  "bug_list": "",
+  "bug_search_url": "",
+  "channel": "Release",
+  "created": "2018-10-18T14:11:05.084676+00:00",
+  "is_public": false,
+  "modified": "2018-10-18T14:11:43.689138+00:00",
+  "notes": [
+    {
+      "bug": 1478017,
+      "created": "2018-09-05T17:15:03.753546+00:00",
+      "id": 787707,
+      "is_public": true,
+      "modified": "2018-10-18T14:11:05.100619+00:00",
+      "note": "Locales added: English from Canada (en-CA), and Ligurian (lij)",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1349309,
+      "created": "2018-08-30T14:38:14.066399+00:00",
+      "id": 787679,
+      "is_public": true,
+      "modified": "2018-10-18T14:11:05.100619+00:00",
+      "note": "App now targets Oreo with security and performance improvements and support for new features",
+      "sort_num": 1,
+      "tag": "Changed"
+    },
+    {
+      "bug": 1490391,
+      "created": "2018-10-18T08:59:13.998287+00:00",
+      "id": 787747,
+      "is_public": true,
+      "modified": "2018-10-18T14:11:05.100619+00:00",
+      "note": "Duplicated first letter in some latin keyboards. Duplicated glyphs in Korean words. Using the Google keyboard is a workaround.",
+      "sort_num": 0,
+      "tag": "Known"
+    }
+  ],
+  "product": "Firefox for Android",
+  "release_date": "2018-10-23",
+  "slug": "firefox-for-android-63.0-release",
+  "system_requirements": "## Operating systems\r\n - Android 4.1\r\n - Above versions\r\n\r\n## Requirements\r\n - 50 MB internal storage\r\n - 384 MB of RAM\r\n - display at least 320 pixels high and 240 pixels wide",
+  "text": "",
+  "title": "Firefox for Android 63.0 Release",
+  "version": "63.0"
+}
