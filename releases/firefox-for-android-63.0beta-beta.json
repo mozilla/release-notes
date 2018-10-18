@@ -25,6 +25,16 @@
       "note": "App now targets Oreo with security and performance improvements and support for new features",
       "sort_num": 1,
       "tag": "Changed"
+    },
+    {
+      "bug": 1490391,
+      "created": "2018-10-18T08:59:13.998287+00:00",
+      "id": 787747,
+      "is_public": true,
+      "modified": "2018-10-18T08:59:13.997971+00:00",
+      "note": "Duplicated first letter in some latin keyboards. Duplicated glyphs in Korean words. Using the Google keyboard is a workaround.",
+      "sort_num": 0,
+      "tag": "Known"
     }
   ],
   "product": "Firefox for Android",
