@@ -27,6 +27,16 @@
       "tag": "Changed"
     },
     {
+      "bug": null,
+      "created": "2018-10-19T20:57:56.134835+00:00",
+      "id": 787758,
+      "is_public": true,
+      "modified": "2018-10-19T20:57:56.134638+00:00",
+      "note": "Added support for [Web Components][1] custom elements and shadow DOM\r\n\r\n\r\n  [1]: https://github.com/w3c/webcomponents/",
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
       "bug": 1490391,
       "created": "2018-10-18T08:59:13.998287+00:00",
       "id": 787747,
