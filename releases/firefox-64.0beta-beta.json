@@ -61,8 +61,8 @@
       "created": "2018-09-10T13:40:51.887808+00:00",
       "id": 787712,
       "is_public": true,
-      "modified": "2018-10-18T14:09:25.372057+00:00",
-      "note": "Changes to URL bar [autocomplete shortcuts][0]: use *ctrl-enter* for URL canonicalization on all platforms, and offer an opt-out for Windows/Linux users where it interferes with opening URLs in (background) tabs\r\n\r\n[0]: https://support.mozilla.org/en-US/kb/keyboard-shortcuts-perform-firefox-tasks-quickly#w_miscellaneous",
+      "modified": "2018-10-19T14:15:20.963185+00:00",
+      "note": "Changes to URL bar [autocomplete shortcuts][0]: use *ctrl-enter* to canonicalize a word to a .com URL. On MacOS, *cmd-enter* now opens in a tab.\r\n\r\n[0]: https://support.mozilla.org/en-US/kb/keyboard-shortcuts-perform-firefox-tasks-quickly#w_miscellaneous",
       "sort_num": 0,
       "tag": "Changed"
     },
