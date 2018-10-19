@@ -11,19 +11,29 @@
       "created": "2018-10-19T21:06:31.824042+00:00",
       "id": 787759,
       "is_public": true,
-      "modified": "2018-10-19T21:23:37.762844+00:00",
+      "modified": "2018-10-19T21:33:45.052452+00:00",
       "note": "**Performance and visual improvements for Windows users**\r\n\r\n- Moved the build infrastructure of Firefox on Windows to the Clang toolchain, bringing important performance gains\r\n- Firefox theme now matches the Windows 10 OS Dark and Light modes\r\n1443590_1368808",
       "sort_num": 20,
       "tag": "New"
     },
     {
-      "bug": 1265824,
+      "bug": null,
       "created": "2018-10-19T21:12:24.765853+00:00",
       "id": 787760,
       "is_public": true,
-      "modified": "2018-10-19T21:25:54.699776+00:00",
+      "modified": "2018-10-19T21:33:34.448736+00:00",
       "note": "**Performance improvements for macOS users**\r\n\r\n- Improved reactivity\r\n- Faster tab switching\r\n- WebGL power preferences allow non-performance-critical applications and applets to request the low-power GPU instead of the high-power GPU in multi-GPU systems",
       "sort_num": 10,
+      "tag": "New"
+    },
+    {
+      "bug": 1438499,
+      "created": "2018-07-25T09:13:32.149646+00:00",
+      "id": 787663,
+      "is_public": true,
+      "modified": "2018-10-19T21:36:19.335753+00:00",
+      "note": "Firefox now warns about having multiple windows and tabs open when quitting from the main menu",
+      "sort_num": 0,
       "tag": "New"
     },
     {
@@ -67,16 +77,6 @@
       "tag": "Changed"
     },
     {
-      "bug": 1438499,
-      "created": "2018-07-25T09:13:32.149646+00:00",
-      "id": 787663,
-      "is_public": true,
-      "modified": "2018-10-19T20:43:11.145259+00:00",
-      "note": "Firefox now warns about having multiple windows and tabs open when quitting from the main menu",
-      "sort_num": 0,
-      "tag": "Changed"
-    },
-    {
       "bug": 1473595,
       "created": "2018-07-30T11:01:00.776933+00:00",
       "id": 787665,
@@ -107,11 +107,11 @@
       "tag": "Developer"
     },
     {
-      "bug": null,
+      "bug": 811542,
       "created": "2018-10-19T20:57:56.134835+00:00",
       "id": 787758,
       "is_public": true,
-      "modified": "2018-10-19T20:57:56.134638+00:00",
+      "modified": "2018-10-19T21:28:25.551257+00:00",
       "note": "Added support for [Web Components][1] custom elements and shadow DOM\r\n\r\n\r\n  [1]: https://github.com/w3c/webcomponents/",
       "sort_num": 0,
       "tag": "Developer"
