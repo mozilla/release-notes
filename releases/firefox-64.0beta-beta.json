@@ -27,14 +27,34 @@
       "tag": "New"
     },
     {
-      "bug": 1155505,
-      "created": "2018-10-09T11:55:17.566555+00:00",
-      "id": 787746,
+      "bug": 1445943,
+      "created": "2018-10-19T12:50:23.702716+00:00",
+      "id": 787752,
       "is_public": true,
-      "modified": "2018-10-18T14:09:23.334319+00:00",
-      "note": "Websites notifications you subscribed to are now displayed and managed in the Windows Action Center",
+      "modified": "2018-10-19T12:50:23.702498+00:00",
+      "note": "Enterprise policy support for MacOS",
       "sort_num": 0,
       "tag": "New"
+    },
+    {
+      "bug": 1474938,
+      "created": "2018-10-19T12:50:49.960094+00:00",
+      "id": 787753,
+      "is_public": true,
+      "modified": "2018-10-19T12:50:49.959816+00:00",
+      "note": "You can now select multiple tabs from the tab bar, and mute, move, bookmark, or pin them quickly and easily",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1460062,
+      "created": "2018-08-27T15:34:53.340788+00:00",
+      "id": 787677,
+      "is_public": false,
+      "modified": "2018-10-19T12:53:11.379428+00:00",
+      "note": "TLS certificates issued by Symantec are [no longer trusted by Firefox][0]. Website operators are strongly encouraged to [replace any remaining Symantec TLS certificates as soon as possible][1], before Firefox 64 final release on December 11.\r\n\r\n[0]: https://blog.mozilla.org/security/2018/07/30/update-on-the-distrust-of-symantec-tls-certificates/\r\n[1]: https://blog.mozilla.org/security/2018/10/10/delaying-further-symantec-tls-certificate-distrust/",
+      "sort_num": 0,
+      "tag": "Changed"
     },
     {
       "bug": 237027,
@@ -63,6 +83,16 @@
       "is_public": true,
       "modified": "2018-10-18T14:05:34.050579+00:00",
       "note": "Support for RSS preview and [live bookmarks][0] is being removed\r\n\r\n[0]: https://support.mozilla.org/kb/live-bookmarks-migration",
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
+      "bug": 1463693,
+      "created": "2018-10-19T12:49:23.204781+00:00",
+      "id": 787751,
+      "is_public": true,
+      "modified": "2018-10-19T12:49:23.204557+00:00",
+      "note": "Error pages for common TLS certificate issues have been updated to be clearer",
       "sort_num": 0,
       "tag": "Changed"
     }
