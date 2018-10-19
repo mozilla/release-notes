@@ -57,6 +57,16 @@
       "tag": "New"
     },
     {
+      "bug": 1495577,
+      "created": "2018-10-19T20:40:28.599802+00:00",
+      "id": 787757,
+      "is_public": true,
+      "modified": "2018-10-19T20:40:28.599590+00:00",
+      "note": "Added search shortcuts for Top Sites: Amazon and Google appear as Top Sites tiles on the Firefox Home (New Tab) page. When selected these tiles will change focus to the address bar to initiate a search. Currently in US only.",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1452645,
       "created": "2018-06-26T09:43:18.258329+00:00",
       "id": 787643,
@@ -107,6 +117,16 @@
       "tag": "Changed"
     },
     {
+      "bug": 1468999,
+      "created": "2018-10-19T20:38:29.698079+00:00",
+      "id": 787756,
+      "is_public": true,
+      "modified": "2018-10-19T20:38:29.697883+00:00",
+      "note": "Refreshed visual style of Developer Tools menus to improve navigation and consistency",
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
       "bug": null,
       "created": "2018-07-03T09:09:00.660303+00:00",
       "id": 787648,
@@ -115,6 +135,16 @@
       "note": "Changes affecting [developers][1]\r\n\r\n[1]: https://developer.mozilla.org/Firefox/Releases/63",
       "sort_num": 0,
       "tag": "Developer"
+    },
+    {
+      "bug": 1488879,
+      "created": "2018-10-19T20:32:34.281091+00:00",
+      "id": 787755,
+      "is_public": true,
+      "modified": "2018-10-19T20:38:42.714010+00:00",
+      "note": "Resolved an issue that prevented the address bar from autofilling bookmarked URLs in certain cases",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
