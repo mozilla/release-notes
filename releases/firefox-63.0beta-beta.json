@@ -61,8 +61,8 @@
       "created": "2018-06-26T09:43:18.258329+00:00",
       "id": 787643,
       "is_public": true,
-      "modified": "2018-10-18T14:12:02.628263+00:00",
-      "note": "In the Library, the ***Open in Sidebar*** feature for individual bookmarks was removed ",
+      "modified": "2018-10-19T20:48:33.865307+00:00",
+      "note": "In the Library, the *Open in Sidebar* feature for individual bookmarks was removed",
       "sort_num": 0,
       "tag": "Changed"
     },
@@ -71,8 +71,8 @@
       "created": "2018-07-25T08:36:53.027974+00:00",
       "id": 787662,
       "is_public": true,
-      "modified": "2018-10-18T14:12:02.628263+00:00",
-      "note": "*Never check for updates* option removed from about:preferences. If a substitute is needed, we recommend using the [DisableAppUpdate][1] enterprise policy.\r\n\r\n\r\n  [1]: https://github.com/mozilla/policy-templates/blob/master/README.md",
+      "modified": "2018-10-19T20:45:56.265607+00:00",
+      "note": "The option to *Never check for updates* was removed from about:preferences. You can use the  [DisableAppUpdate][1] enterprise policy as a substitute. \r\n\r\n  [1]: https://github.com/mozilla/policy-templates/blob/master/README.md",
       "sort_num": 0,
       "tag": "Changed"
     },
@@ -81,8 +81,8 @@
       "created": "2018-07-25T09:13:32.149646+00:00",
       "id": 787663,
       "is_public": true,
-      "modified": "2018-10-18T14:12:02.628263+00:00",
-      "note": "Firefox now warns about having multiple windows/tabs open when quitting from the main menu.",
+      "modified": "2018-10-19T20:43:11.145259+00:00",
+      "note": "Firefox now warns about having multiple windows and tabs open when quitting from the main menu",
       "sort_num": 0,
       "tag": "Changed"
     },
@@ -91,8 +91,8 @@
       "created": "2018-07-30T11:01:00.776933+00:00",
       "id": 787665,
       "is_public": true,
-      "modified": "2018-10-18T14:12:02.628263+00:00",
-      "note": "The *Ctrl+Tab* shortcut now displays thumbnail previews of your tabs and cycles through tabs in recently used order. This new default behavior is activated only in new profiles and can be changed in your preferences",
+      "modified": "2018-10-19T20:50:10.475337+00:00",
+      "note": "The *Ctrl+Tab* shortcut now displays thumbnail previews of your tabs and cycles through tabs in recently used order. This new default behavior is activated only in new profiles and can be changed in preferences.",
       "sort_num": 0,
       "tag": "Changed"
     },
@@ -107,22 +107,22 @@
       "tag": "Changed"
     },
     {
-      "bug": 1468999,
-      "created": "2018-10-19T20:38:29.698079+00:00",
-      "id": 787756,
-      "is_public": true,
-      "modified": "2018-10-19T20:38:29.697883+00:00",
-      "note": "Refreshed visual style of Developer Tools menus to improve navigation and consistency",
-      "sort_num": 0,
-      "tag": "Changed"
-    },
-    {
       "bug": null,
       "created": "2018-07-03T09:09:00.660303+00:00",
       "id": 787648,
       "is_public": true,
       "modified": "2018-10-18T14:12:02.628263+00:00",
       "note": "Changes affecting [developers][1]\r\n\r\n[1]: https://developer.mozilla.org/Firefox/Releases/63",
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
+      "bug": 1468999,
+      "created": "2018-10-19T20:38:29.698079+00:00",
+      "id": 787756,
+      "is_public": true,
+      "modified": "2018-10-19T20:51:14.491565+00:00",
+      "note": "Refreshed visual style of Developer Tools menus to improve navigation and consistency",
       "sort_num": 0,
       "tag": "Developer"
     },
