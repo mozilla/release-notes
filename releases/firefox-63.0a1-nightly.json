@@ -7,6 +7,26 @@
   "modified": "2018-07-23T14:19:07.801418+00:00",
   "notes": [
     {
+      "bug": 1357487,
+      "created": "2018-07-30T12:08:57.254660+00:00",
+      "id": 787666,
+      "is_public": true,
+      "modified": "2018-10-19T22:05:39.882050+00:00",
+      "note": "WebExtensions now run in their own process on Linux",
+      "sort_num": 80,
+      "tag": "New"
+    },
+    {
+      "bug": 1438499,
+      "created": "2018-07-25T09:13:32.149646+00:00",
+      "id": 787663,
+      "is_public": true,
+      "modified": "2018-10-19T22:06:46.888818+00:00",
+      "note": "Firefox now warns about having multiple windows and tabs open when quitting from the main menu",
+      "sort_num": 70,
+      "tag": "New"
+    },
+    {
       "bug": 1480443,
       "created": "2018-09-04T11:38:24.115177+00:00",
       "id": 787682,
@@ -47,32 +67,12 @@
       "tag": "New"
     },
     {
-      "bug": 1438499,
-      "created": "2018-07-25T09:13:32.149646+00:00",
-      "id": 787663,
-      "is_public": true,
-      "modified": "2018-10-19T21:36:19.335753+00:00",
-      "note": "Firefox now warns about having multiple windows and tabs open when quitting from the main menu",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
       "bug": 1476853,
       "created": "2018-07-30T10:07:34.709072+00:00",
       "id": 787664,
       "is_public": true,
       "modified": "2018-09-04T11:40:25.675137+00:00",
       "note": "Firefox by default now prompts for permission before allowing pages to automatically play media with sound",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
-      "bug": 1357487,
-      "created": "2018-07-30T12:08:57.254660+00:00",
-      "id": 787666,
-      "is_public": true,
-      "modified": "2018-10-18T14:12:02.628263+00:00",
-      "note": "WebExtensions now run in their own process on Linux",
       "sort_num": 0,
       "tag": "New"
     },

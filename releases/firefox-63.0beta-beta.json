@@ -7,6 +7,26 @@
   "modified": "2018-10-10T18:20:19.522806+00:00",
   "notes": [
     {
+      "bug": 1357487,
+      "created": "2018-07-30T12:08:57.254660+00:00",
+      "id": 787666,
+      "is_public": true,
+      "modified": "2018-10-19T22:05:39.882050+00:00",
+      "note": "WebExtensions now run in their own process on Linux",
+      "sort_num": 80,
+      "tag": "New"
+    },
+    {
+      "bug": 1438499,
+      "created": "2018-07-25T09:13:32.149646+00:00",
+      "id": 787663,
+      "is_public": true,
+      "modified": "2018-10-19T22:06:46.888818+00:00",
+      "note": "Firefox now warns about having multiple windows and tabs open when quitting from the main menu",
+      "sort_num": 70,
+      "tag": "New"
+    },
+    {
       "bug": 1349799,
       "created": "2018-06-29T13:17:12.350231+00:00",
       "id": 787647,
@@ -23,26 +43,6 @@
       "is_public": true,
       "modified": "2018-10-19T21:21:02.536037+00:00",
       "note": "Improved Windows 10 integration: your Firefox theme now matches your OS Dark / Light mode",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
-      "bug": 1438499,
-      "created": "2018-07-25T09:13:32.149646+00:00",
-      "id": 787663,
-      "is_public": true,
-      "modified": "2018-10-19T21:36:19.335753+00:00",
-      "note": "Firefox now warns about having multiple windows and tabs open when quitting from the main menu",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
-      "bug": 1357487,
-      "created": "2018-07-30T12:08:57.254660+00:00",
-      "id": 787666,
-      "is_public": true,
-      "modified": "2018-10-18T14:12:02.628263+00:00",
-      "note": "WebExtensions now run in their own process on Linux",
       "sort_num": 0,
       "tag": "New"
     },

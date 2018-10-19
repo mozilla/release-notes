@@ -11,9 +11,9 @@
       "created": "2018-10-19T21:06:31.824042+00:00",
       "id": 787759,
       "is_public": true,
-      "modified": "2018-10-19T21:33:45.052452+00:00",
-      "note": "**Performance and visual improvements for Windows users**\r\n\r\n- Moved the build infrastructure of Firefox on Windows to the Clang toolchain, bringing important performance gains\r\n- Firefox theme now matches the Windows 10 OS Dark and Light modes\r\n1443590_1368808",
-      "sort_num": 20,
+      "modified": "2018-10-19T22:02:20.615546+00:00",
+      "note": "**Performance and visual improvements for Windows users**\r\n\r\n- Moved the build infrastructure of Firefox on Windows to the Clang toolchain, bringing important performance gains\r\n- Firefox theme now matches the Windows 10 OS Dark and Light modes",
+      "sort_num": 100,
       "tag": "New"
     },
     {
@@ -21,19 +21,9 @@
       "created": "2018-10-19T21:12:24.765853+00:00",
       "id": 787760,
       "is_public": true,
-      "modified": "2018-10-19T21:33:34.448736+00:00",
+      "modified": "2018-10-19T22:03:00.233886+00:00",
       "note": "**Performance improvements for macOS users**\r\n\r\n- Improved reactivity\r\n- Faster tab switching\r\n- WebGL power preferences allow non-performance-critical applications and applets to request the low-power GPU instead of the high-power GPU in multi-GPU systems",
-      "sort_num": 10,
-      "tag": "New"
-    },
-    {
-      "bug": 1438499,
-      "created": "2018-07-25T09:13:32.149646+00:00",
-      "id": 787663,
-      "is_public": true,
-      "modified": "2018-10-19T21:36:19.335753+00:00",
-      "note": "Firefox now warns about having multiple windows and tabs open when quitting from the main menu",
-      "sort_num": 0,
+      "sort_num": 90,
       "tag": "New"
     },
     {
@@ -41,9 +31,19 @@
       "created": "2018-07-30T12:08:57.254660+00:00",
       "id": 787666,
       "is_public": true,
-      "modified": "2018-10-18T14:12:02.628263+00:00",
+      "modified": "2018-10-19T22:05:39.882050+00:00",
       "note": "WebExtensions now run in their own process on Linux",
-      "sort_num": 0,
+      "sort_num": 80,
+      "tag": "New"
+    },
+    {
+      "bug": 1438499,
+      "created": "2018-07-25T09:13:32.149646+00:00",
+      "id": 787663,
+      "is_public": true,
+      "modified": "2018-10-19T22:06:46.888818+00:00",
+      "note": "Firefox now warns about having multiple windows and tabs open when quitting from the main menu",
+      "sort_num": 70,
       "tag": "New"
     },
     {
@@ -51,9 +51,9 @@
       "created": "2018-10-19T20:40:28.599802+00:00",
       "id": 787757,
       "is_public": true,
-      "modified": "2018-10-19T20:40:28.599590+00:00",
+      "modified": "2018-10-19T22:06:59.959125+00:00",
       "note": "Added search shortcuts for Top Sites: Amazon and Google appear as Top Sites tiles on the Firefox Home (New Tab) page. When selected these tiles will change focus to the address bar to initiate a search. Currently in US only.",
-      "sort_num": 0,
+      "sort_num": 60,
       "tag": "New"
     },
     {
