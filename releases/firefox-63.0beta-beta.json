@@ -145,6 +145,16 @@
       "note": "Resolved an issue that prevented the address bar from autofilling bookmarked URLs in certain cases",
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": 1489041,
+      "created": "2018-10-19T22:55:04.539527+00:00",
+      "id": 787761,
+      "is_public": true,
+      "modified": "2018-10-19T22:55:04.539327+00:00",
+      "note": "Quick Heal internet security software might crash 32-bit Firefox on Windows",
+      "sort_num": 0,
+      "tag": "Known"
     }
   ],
   "product": "Firefox",
