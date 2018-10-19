@@ -1,0 +1,37 @@
+{
+  "bug_list": "",
+  "bug_search_url": "",
+  "channel": "Beta",
+  "created": "2018-10-19T12:58:27.466866+00:00",
+  "is_public": false,
+  "modified": "2018-10-19T12:58:43.135613+00:00",
+  "notes": [
+    {
+      "bug": 1460062,
+      "created": "2018-08-27T15:34:53.340788+00:00",
+      "id": 787677,
+      "is_public": false,
+      "modified": "2018-10-19T12:59:36.134483+00:00",
+      "note": "TLS certificates issued by Symantec are [no longer trusted by Firefox][0]. Website operators are strongly encouraged to [replace any remaining Symantec TLS certificates as soon as possible][1], before Firefox 64 final release on December 11.\r\n\r\n[0]: https://blog.mozilla.org/security/2018/07/30/update-on-the-distrust-of-symantec-tls-certificates/\r\n[1]: https://blog.mozilla.org/security/2018/10/10/delaying-further-symantec-tls-certificate-distrust/",
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
+      "bug": 1280184,
+      "created": "2018-10-19T13:00:40.884279+00:00",
+      "id": 787754,
+      "is_public": true,
+      "modified": "2018-10-19T13:00:40.884083+00:00",
+      "note": "Downloaded files are no longer deleted when uninstalling Firefox (note that this only applies to files downloaded after this update)",
+      "sort_num": 0,
+      "tag": "Fixed"
+    }
+  ],
+  "product": "Firefox for Android",
+  "release_date": "2018-10-23",
+  "slug": "firefox-for-android-64.0beta-beta",
+  "system_requirements": "## Operating systems\r\n - Android 4.1\r\n - Above versions\r\n\r\n## Requirements\r\n - 50 MB internal storage\r\n - 384 MB of RAM\r\n - display at least 320 pixels high and 240 pixels wide",
+  "text": "",
+  "title": "Firefox for Android 64.0beta Beta",
+  "version": "64.0beta"
+}
