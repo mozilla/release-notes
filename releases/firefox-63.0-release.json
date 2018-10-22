@@ -27,6 +27,16 @@
       "tag": "New"
     },
     {
+      "bug": 1483445,
+      "created": "2018-10-22T16:16:00.562269+00:00",
+      "id": 787767,
+      "is_public": true,
+      "modified": "2018-10-22T16:20:26.173717+00:00",
+      "note": "Added content blocking, a collection of Firefox settings that offer users greater control over technology that can track them around the web. In 63, the feature is configured to block tracking content only in private browsing sessions. Users can also opt to block third-party tracking cookies and create exceptions for trusted sites that don\u2019t work correctly with content blocking enabled.",
+      "sort_num": 80,
+      "tag": "New"
+    },
+    {
       "bug": 1357487,
       "created": "2018-07-30T12:08:57.254660+00:00",
       "id": 787666,
@@ -107,11 +117,11 @@
       "tag": "Developer"
     },
     {
-      "bug": 1151468,
+      "bug": 1473030,
       "created": "2018-10-22T14:24:21.410316+00:00",
       "id": 787763,
       "is_public": true,
-      "modified": "2018-10-22T14:54:52.894982+00:00",
+      "modified": "2018-10-22T16:12:05.675497+00:00",
       "note": "The Dev Tools accessibility inspector is now enabled by default. This tool surfaces information exposed to assistive technologies on the current page, allowing you to check what\u2019s missing or otherwise needs attention.",
       "sort_num": 90,
       "tag": "Developer"
