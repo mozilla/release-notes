@@ -27,6 +27,26 @@
       "tag": "New"
     },
     {
+      "bug": 1349523,
+      "created": "2018-10-22T14:39:18.404456+00:00",
+      "id": 787765,
+      "is_public": true,
+      "modified": "2018-10-22T14:40:20.220030+00:00",
+      "note": "Added support for Picture-In-Picture video",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1450447,
+      "created": "2018-10-22T14:40:11.995498+00:00",
+      "id": 787766,
+      "is_public": true,
+      "modified": "2018-10-22T14:40:11.995297+00:00",
+      "note": "Started using notification channels",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1349309,
       "created": "2018-08-30T14:38:14.066399+00:00",
       "id": 787679,
@@ -43,6 +63,16 @@
       "is_public": true,
       "modified": "2018-10-19T21:28:25.551257+00:00",
       "note": "Added support for [Web Components][1] custom elements and shadow DOM\r\n\r\n\r\n  [1]: https://github.com/w3c/webcomponents/",
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
+      "bug": null,
+      "created": "2018-10-22T14:31:57.767708+00:00",
+      "id": 787764,
+      "is_public": true,
+      "modified": "2018-10-22T14:31:57.766756+00:00",
+      "note": "The inspector now ships with a Font Editor that allows you to control non-variable as well as variable fonts",
       "sort_num": 0,
       "tag": "Developer"
     },
