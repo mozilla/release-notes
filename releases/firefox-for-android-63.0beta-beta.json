@@ -7,6 +7,26 @@
   "modified": "2018-09-05T12:50:32.638162+00:00",
   "notes": [
     {
+      "bug": 1349523,
+      "created": "2018-10-22T14:39:18.404456+00:00",
+      "id": 787765,
+      "is_public": true,
+      "modified": "2018-10-22T14:52:31.647513+00:00",
+      "note": "Added support for Picture-In-Picture video",
+      "sort_num": 100,
+      "tag": "New"
+    },
+    {
+      "bug": 1450447,
+      "created": "2018-10-22T14:40:11.995498+00:00",
+      "id": 787766,
+      "is_public": true,
+      "modified": "2018-10-22T14:52:41.320032+00:00",
+      "note": "Started using notification channels",
+      "sort_num": 90,
+      "tag": "New"
+    },
+    {
       "bug": 1478017,
       "created": "2018-09-05T17:15:03.753546+00:00",
       "id": 787707,
@@ -27,26 +47,6 @@
       "tag": "New"
     },
     {
-      "bug": 1349523,
-      "created": "2018-10-22T14:39:18.404456+00:00",
-      "id": 787765,
-      "is_public": true,
-      "modified": "2018-10-22T14:40:20.220030+00:00",
-      "note": "Added support for Picture-In-Picture video",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
-      "bug": 1450447,
-      "created": "2018-10-22T14:40:11.995498+00:00",
-      "id": 787766,
-      "is_public": true,
-      "modified": "2018-10-22T14:40:11.995297+00:00",
-      "note": "Started using notification channels",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
       "bug": 1349309,
       "created": "2018-08-30T14:38:14.066399+00:00",
       "id": 787679,
@@ -61,9 +61,9 @@
       "created": "2018-10-19T20:57:56.134835+00:00",
       "id": 787758,
       "is_public": true,
-      "modified": "2018-10-19T21:28:25.551257+00:00",
+      "modified": "2018-10-22T14:55:14.016735+00:00",
       "note": "Added support for [Web Components][1] custom elements and shadow DOM\r\n\r\n\r\n  [1]: https://github.com/w3c/webcomponents/",
-      "sort_num": 0,
+      "sort_num": 80,
       "tag": "Developer"
     },
     {
@@ -71,9 +71,9 @@
       "created": "2018-10-22T14:31:57.767708+00:00",
       "id": 787764,
       "is_public": true,
-      "modified": "2018-10-22T14:31:57.766756+00:00",
-      "note": "The inspector now ships with a Font Editor that allows you to control non-variable as well as variable fonts",
-      "sort_num": 0,
+      "modified": "2018-10-22T14:53:55.216291+00:00",
+      "note": "The inspector now ships with a [Font Editor][1] that allows you to control non-variable as well as variable fonts\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector/How_to/Edit_fonts",
+      "sort_num": 70,
       "tag": "Developer"
     },
     {

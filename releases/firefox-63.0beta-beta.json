@@ -107,33 +107,13 @@
       "tag": "Changed"
     },
     {
-      "bug": null,
-      "created": "2018-07-03T09:09:00.660303+00:00",
-      "id": 787648,
-      "is_public": true,
-      "modified": "2018-10-18T14:12:02.628263+00:00",
-      "note": "Changes affecting [developers][1]\r\n\r\n[1]: https://developer.mozilla.org/Firefox/Releases/63",
-      "sort_num": 0,
-      "tag": "Developer"
-    },
-    {
       "bug": 1468999,
       "created": "2018-10-19T20:38:29.698079+00:00",
       "id": 787756,
       "is_public": true,
-      "modified": "2018-10-19T20:51:14.491565+00:00",
+      "modified": "2018-10-22T14:54:16.086518+00:00",
       "note": "Refreshed visual style of Developer Tools menus to improve navigation and consistency",
-      "sort_num": 0,
-      "tag": "Developer"
-    },
-    {
-      "bug": 811542,
-      "created": "2018-10-19T20:57:56.134835+00:00",
-      "id": 787758,
-      "is_public": true,
-      "modified": "2018-10-19T21:28:25.551257+00:00",
-      "note": "Added support for [Web Components][1] custom elements and shadow DOM\r\n\r\n\r\n  [1]: https://github.com/w3c/webcomponents/",
-      "sort_num": 0,
+      "sort_num": 100,
       "tag": "Developer"
     },
     {
@@ -141,9 +121,19 @@
       "created": "2018-10-22T14:24:21.410316+00:00",
       "id": 787763,
       "is_public": true,
-      "modified": "2018-10-22T14:24:21.410006+00:00",
+      "modified": "2018-10-22T14:54:52.894982+00:00",
       "note": "The Dev Tools accessibility inspector is now enabled by default. This tool surfaces information exposed to assistive technologies on the current page, allowing you to check what\u2019s missing or otherwise needs attention.",
-      "sort_num": 0,
+      "sort_num": 90,
+      "tag": "Developer"
+    },
+    {
+      "bug": 811542,
+      "created": "2018-10-19T20:57:56.134835+00:00",
+      "id": 787758,
+      "is_public": true,
+      "modified": "2018-10-22T14:55:14.016735+00:00",
+      "note": "Added support for [Web Components][1] custom elements and shadow DOM\r\n\r\n\r\n  [1]: https://github.com/w3c/webcomponents/",
+      "sort_num": 80,
       "tag": "Developer"
     },
     {
