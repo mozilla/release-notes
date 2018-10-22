@@ -137,6 +137,16 @@
       "tag": "Developer"
     },
     {
+      "bug": 1151468,
+      "created": "2018-10-22T14:24:21.410316+00:00",
+      "id": 787763,
+      "is_public": true,
+      "modified": "2018-10-22T14:24:21.410006+00:00",
+      "note": "The Dev Tools accessibility inspector is now enabled by default. This tool surfaces information exposed to assistive technologies on the current page, allowing you to check what\u2019s missing or otherwise needs attention.",
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
       "bug": 1488879,
       "created": "2018-10-19T20:32:34.281091+00:00",
       "id": 787755,
