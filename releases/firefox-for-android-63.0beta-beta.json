@@ -27,22 +27,22 @@
       "tag": "New"
     },
     {
+      "bug": 1365045,
+      "created": "2018-10-22T14:19:06.600201+00:00",
+      "id": 787762,
+      "is_public": true,
+      "modified": "2018-10-22T15:10:11.889155+00:00",
+      "note": "Firefox now recognizes the operating system accessibility setting for reducing animation",
+      "sort_num": 50,
+      "tag": "New"
+    },
+    {
       "bug": 1478017,
       "created": "2018-09-05T17:15:03.753546+00:00",
       "id": 787707,
       "is_public": true,
       "modified": "2018-10-19T12:58:47.055664+00:00",
       "note": "Locales added: English from Canada (en-CA), and Ligurian (lij)",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
-      "bug": 1365045,
-      "created": "2018-10-22T14:19:06.600201+00:00",
-      "id": 787762,
-      "is_public": true,
-      "modified": "2018-10-22T14:19:06.600004+00:00",
-      "note": "Firefox now recognizes the operating system accessibility setting for reducing animation",
       "sort_num": 0,
       "tag": "New"
     },
@@ -71,8 +71,8 @@
       "created": "2018-10-22T14:31:57.767708+00:00",
       "id": 787764,
       "is_public": true,
-      "modified": "2018-10-22T14:53:55.216291+00:00",
-      "note": "The inspector now ships with a [Font Editor][1] that allows you to control non-variable as well as variable fonts\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector/How_to/Edit_fonts",
+      "modified": "2018-10-22T14:56:41.488846+00:00",
+      "note": "The inspector now ships with a [Font Editor][1] that allows you to control non-variable as well as variable fonts\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Tools/Page_Inspector/How_to/Edit_fonts",
       "sort_num": 70,
       "tag": "Developer"
     },
