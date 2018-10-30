@@ -11,7 +11,7 @@
       "created": "2018-10-22T16:16:00.562269+00:00",
       "id": 787767,
       "is_public": true,
-      "modified": "2018-10-22T17:52:34.680175+00:00",
+      "modified": "2018-10-30T10:55:13.907097+00:00",
       "note": "Added content blocking, a collection of Firefox settings that offer users greater control over technology that can track them around the web. In 63, users can opt to block third-party tracking cookies or block all trackers and create exceptions for trusted sites that don\u2019t work correctly with content blocking enabled.",
       "sort_num": 80,
       "tag": "New"
@@ -21,7 +21,7 @@
       "created": "2018-07-30T12:08:57.254660+00:00",
       "id": 787666,
       "is_public": true,
-      "modified": "2018-10-22T15:07:28.412540+00:00",
+      "modified": "2018-10-30T10:55:18.834100+00:00",
       "note": "WebExtensions now run in their own process on Linux",
       "sort_num": 70,
       "tag": "New"
@@ -31,7 +31,7 @@
       "created": "2018-07-25T09:13:32.149646+00:00",
       "id": 787663,
       "is_public": true,
-      "modified": "2018-10-25T07:48:52.006109+00:00",
+      "modified": "2018-10-30T10:55:24.270036+00:00",
       "note": "Firefox now warns about having multiple windows and tabs open when quitting from the main menu. The *Save and Quit* feature has been removed.  You can restore your session by ticking the box for *Restore previous session* in the *General \u2192 Startup* options or by using *Restore Previous Session* in the main menu.",
       "sort_num": 60,
       "tag": "New"
@@ -81,7 +81,7 @@
       "created": "2018-06-26T09:43:18.258329+00:00",
       "id": 787643,
       "is_public": true,
-      "modified": "2018-10-19T20:48:33.865307+00:00",
+      "modified": "2018-10-30T10:55:30.261070+00:00",
       "note": "In the Library, the *Open in Sidebar* feature for individual bookmarks was removed",
       "sort_num": 0,
       "tag": "Changed"
@@ -91,7 +91,7 @@
       "created": "2018-07-25T08:36:53.027974+00:00",
       "id": 787662,
       "is_public": true,
-      "modified": "2018-10-19T20:45:56.265607+00:00",
+      "modified": "2018-10-30T10:55:14.638903+00:00",
       "note": "The option to *Never check for updates* was removed from about:preferences. You can use the  [DisableAppUpdate][1] enterprise policy as a substitute. \r\n\r\n  [1]: https://github.com/mozilla/policy-templates/blob/master/README.md",
       "sort_num": 0,
       "tag": "Changed"
@@ -101,7 +101,7 @@
       "created": "2018-07-30T11:01:00.776933+00:00",
       "id": 787665,
       "is_public": true,
-      "modified": "2018-10-19T20:50:10.475337+00:00",
+      "modified": "2018-10-30T10:55:19.926147+00:00",
       "note": "The *Ctrl+Tab* shortcut now displays thumbnail previews of your tabs and cycles through tabs in recently used order. This new default behavior is activated only in new profiles and can be changed in preferences.",
       "sort_num": 0,
       "tag": "Changed"
@@ -121,7 +121,7 @@
       "created": "2018-10-19T20:38:29.698079+00:00",
       "id": 787756,
       "is_public": true,
-      "modified": "2018-10-22T14:54:16.086518+00:00",
+      "modified": "2018-10-30T10:55:26.809203+00:00",
       "note": "Refreshed visual style of Developer Tools menus to improve navigation and consistency",
       "sort_num": 100,
       "tag": "Developer"
@@ -131,7 +131,7 @@
       "created": "2018-10-22T14:24:21.410316+00:00",
       "id": 787763,
       "is_public": true,
-      "modified": "2018-10-22T16:12:05.675497+00:00",
+      "modified": "2018-10-30T10:55:17.704778+00:00",
       "note": "The Dev Tools accessibility inspector is now enabled by default. This tool surfaces information exposed to assistive technologies on the current page, allowing you to check what\u2019s missing or otherwise needs attention.",
       "sort_num": 90,
       "tag": "Developer"
@@ -141,7 +141,7 @@
       "created": "2018-10-19T20:57:56.134835+00:00",
       "id": 787758,
       "is_public": true,
-      "modified": "2018-10-22T14:55:14.016735+00:00",
+      "modified": "2018-10-30T10:55:24.992288+00:00",
       "note": "Added support for [Web Components][1] custom elements and shadow DOM\r\n\r\n\r\n  [1]: https://github.com/w3c/webcomponents/",
       "sort_num": 80,
       "tag": "Developer"
@@ -151,7 +151,7 @@
       "created": "2018-10-19T20:32:34.281091+00:00",
       "id": 787755,
       "is_public": true,
-      "modified": "2018-10-19T20:38:42.714010+00:00",
+      "modified": "2018-10-30T10:55:27.897139+00:00",
       "note": "Resolved an issue that prevented the address bar from autofilling bookmarked URLs in certain cases",
       "sort_num": 0,
       "tag": "Fixed"
@@ -161,7 +161,7 @@
       "created": "2018-10-19T22:55:04.539527+00:00",
       "id": 787761,
       "is_public": true,
-      "modified": "2018-10-22T14:56:29.985800+00:00",
+      "modified": "2018-10-30T10:55:28.535683+00:00",
       "note": "Quick Heal internet security software might crash 32-bit Firefox on Windows. A workaround is documented from [this support article][1] until a fixed version of Quick Heal is available. \r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/firefox-tab-crashes-quick-heal-security-software",
       "sort_num": 0,
       "tag": "Known"
