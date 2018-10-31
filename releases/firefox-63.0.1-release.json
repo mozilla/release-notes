@@ -27,16 +27,6 @@
       "tag": "Fixed"
     },
     {
-      "bug": 1501656,
-      "created": "2018-10-31T14:00:18.623067+00:00",
-      "id": 787775,
-      "is_public": true,
-      "modified": "2018-10-31T14:00:31.531555+00:00",
-      "note": "Each \"CFR Recommendation\" for the \"Facebook\" and \"Reddit\" website is wrongly counted twice in the AS Router page ([bug 1501656][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1501656",
-      "sort_num": 0,
-      "tag": "Fixed"
-    },
-    {
       "bug": 1501952,
       "created": "2018-10-31T14:05:55.657713+00:00",
       "id": 787776,
@@ -51,8 +41,8 @@
       "created": "2018-10-31T14:15:27.624166+00:00",
       "id": 787777,
       "is_public": true,
-      "modified": "2018-10-31T14:15:58.110654+00:00",
-      "note": "Dialog displayed when closing multiple windows shows unreplaced %1$S placeholder in Japanese ([bug 1500823][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1500823",
+      "modified": "2018-10-31T20:23:11.583086+00:00",
+      "note": "Dialog displayed when closing multiple windows shows unreplaced %1$S placeholder in Japanese and potentially other locales ([bug 1500823][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1500823",
       "sort_num": 0,
       "tag": "Fixed"
     }
