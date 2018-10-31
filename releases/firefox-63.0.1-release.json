@@ -5,7 +5,28 @@
   "created": "2018-10-30T10:54:48.291185+00:00",
   "is_public": false,
   "modified": "2018-10-30T10:55:34.000083+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": null,
+      "created": "2018-10-31T12:33:11.486725+00:00",
+      "id": 787773,
+      "is_public": true,
+      "modified": "2018-10-31T12:33:11.486521+00:00",
+      "note": "Reference link to [63.0 release notes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/firefox/63.0/releasenotes/",
+      "sort_num": 0,
+      "tag": ""
+    },
+    {
+      "bug": 1503047,
+      "created": "2018-10-31T12:36:09.691328+00:00",
+      "id": 787774,
+      "is_public": true,
+      "modified": "2018-10-31T12:36:09.691095+00:00",
+      "note": "Text snippets on about:newtab were no longer displayed ([bug 1503047][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1503047",
+      "sort_num": 0,
+      "tag": "Fixed"
+    }
+  ],
   "product": "Firefox",
   "release_date": "2018-10-31",
   "slug": "firefox-63.0.1-release",
