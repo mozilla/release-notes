@@ -35,6 +35,16 @@
       "note": "Fixed a hang in Samsung Galaxy devices ([bug 1501449][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1501449",
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": 1497526,
+      "created": "2018-11-06T17:20:40.680646+00:00",
+      "id": 787782,
+      "is_public": true,
+      "modified": "2018-11-06T17:20:40.680446+00:00",
+      "note": "Crash fixes ([bug 1497526][1], [bug 1500906][2])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1497526\r\n  [2]: https://bugzilla.mozilla.org/show_bug.cgi?id=1500906",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox for Android",
