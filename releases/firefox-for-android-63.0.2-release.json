@@ -11,10 +11,20 @@
       "created": "2018-11-06T14:37:31.870908+00:00",
       "id": 787778,
       "is_public": true,
-      "modified": "2018-11-06T14:37:31.870708+00:00",
+      "modified": "2018-11-06T15:08:28.163088+00:00",
       "note": "Session history popup breaks after one usage ([bug 1498854][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1498854",
       "sort_num": 0,
-      "tag": ""
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1493742,
+      "created": "2018-11-06T15:08:17.674744+00:00",
+      "id": 787780,
+      "is_public": true,
+      "modified": "2018-11-06T15:08:17.674551+00:00",
+      "note": "Flickering of (some) sticky elements on Twitter and other websites ([bug 1493742][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1493742",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox for Android",
