@@ -25,6 +25,16 @@
       "note": "Flickering of (some) sticky elements on Twitter and other websites ([bug 1493742][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1493742",
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": 1501449,
+      "created": "2018-11-06T15:12:23.008952+00:00",
+      "id": 787781,
+      "is_public": true,
+      "modified": "2018-11-06T15:12:23.008721+00:00",
+      "note": "Fixed a hang in Samsung Galaxy devices ([bug 1501449][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1501449",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox for Android",
