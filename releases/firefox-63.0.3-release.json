@@ -15,6 +15,26 @@
       "note": "Reference link to [63.0 release notes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/firefox/63.0/releasenotes/",
       "sort_num": 0,
       "tag": ""
+    },
+    {
+      "bug": 1502748,
+      "created": "2018-11-15T08:43:42.488954+00:00",
+      "id": 787783,
+      "is_public": true,
+      "modified": "2018-11-15T08:43:42.488717+00:00",
+      "note": "Games using WebGL (created in Unity) get stucks after very short time of gameplay ([bug 1502748][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1502748",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1495024,
+      "created": "2018-11-15T08:46:59.406926+00:00",
+      "id": 787784,
+      "is_public": true,
+      "modified": "2018-11-15T08:46:59.406719+00:00",
+      "note": "Slow page loading for some  users with specific proxy configurations ([bug 1495024][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1495024",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
