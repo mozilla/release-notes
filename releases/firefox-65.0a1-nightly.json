@@ -15,6 +15,16 @@
       "note": "Firefox now supports the [WebP image format][1]\r\n\r\n\r\n  [1]: https://developers.google.com/speed/webp/",
       "sort_num": 0,
       "tag": ""
+    },
+    {
+      "bug": 550559,
+      "created": "2018-11-28T17:14:50.177781+00:00",
+      "id": 787789,
+      "is_public": true,
+      "modified": "2018-11-28T17:14:50.177562+00:00",
+      "note": "<!-- Nightly 65 for now, if it rides the trains, the message will probably be different, see https://bugzilla.mozilla.org/show_bug.cgi?id=1506173 -->\r\nThe \"Warn you when quitting and closing multiple tabs\" warning now applies to quitting Firefox with automatic session restore turned on",
+      "sort_num": 0,
+      "tag": "Changed"
     }
   ],
   "product": "Firefox",
