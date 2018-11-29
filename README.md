@@ -5,7 +5,8 @@ Release notes and system requirements for Mozilla products in JSON format.
 ## Usage
 
 To update the data in this repo you can run a simple script which will pull the data from an instance of [Nucleus][]
-and populate the JSON files in the `releases` folder.
+and populate the JSON files in the `releases` folder. After following one of the update procedures below you can commit
+and push the changes to the JSON files if you need to manually update the release notes data on the website.
 
 ### Docker
 
