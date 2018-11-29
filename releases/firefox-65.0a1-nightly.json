@@ -17,6 +17,16 @@
       "tag": ""
     },
     {
+      "bug": 1475510,
+      "created": "2018-11-29T14:52:52.899980+00:00",
+      "id": 787790,
+      "is_public": true,
+      "modified": "2018-11-29T14:54:12.528083+00:00",
+      "note": "<!-- Nightly 65 for now, if it rides the trains, the message will probably be different as well as the target link -->\r\nFirefox on Windows can now be installed with an [MSI installer][1]\r\n\r\n\r\n  [1]: http://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 550559,
       "created": "2018-11-28T17:14:50.177781+00:00",
       "id": 787789,
