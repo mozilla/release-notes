@@ -7,6 +7,16 @@
   "modified": "2018-10-23T12:35:41.545188+00:00",
   "notes": [
     {
+      "bug": 1452783,
+      "created": "2018-12-07T22:55:40.272153+00:00",
+      "id": 787797,
+      "is_public": true,
+      "modified": "2018-12-07T22:55:40.271948+00:00",
+      "note": "People expect websites to work regardless of the device or browser they are using. When a site works in one browser but not another, that is most likely a web compatibility bug that we want to know about. Users can report issues using a menu item in Firefox for Android Beta.",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1460062,
       "created": "2018-08-27T15:34:53.340788+00:00",
       "id": 787677,
