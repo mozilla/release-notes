@@ -7,13 +7,13 @@
   "modified": "2018-12-05T03:30:13.513147+00:00",
   "notes": [
     {
-      "bug": 1475510,
-      "created": "2018-12-07T16:25:28.626882+00:00",
-      "id": 787794,
+      "bug": 1425941,
+      "created": "2018-12-10T18:52:23.929649+00:00",
+      "id": 787803,
       "is_public": true,
-      "modified": "2018-12-07T16:27:43.819675+00:00",
-      "note": "Firefox on Windows can now be installed using an MSI installer",
-      "sort_num": 0,
+      "modified": "2018-12-10T18:58:54.094142+00:00",
+      "note": "The display language for the Firefox application UI is now changeable in the Options page",
+      "sort_num": 50,
       "tag": "New"
     },
     {
@@ -21,19 +21,19 @@
       "created": "2018-12-07T16:31:38.660727+00:00",
       "id": 787795,
       "is_public": true,
-      "modified": "2018-12-07T16:41:29.450143+00:00",
+      "modified": "2018-12-10T18:58:58.919421+00:00",
       "note": "Added support for the [WebP image format][1]\r\n\r\n\r\n  [1]: https://developers.google.com/speed/webp/",
-      "sort_num": 0,
+      "sort_num": 40,
       "tag": "New"
     },
     {
-      "bug": 1285812,
-      "created": "2018-12-07T16:31:40.620421+00:00",
-      "id": 787796,
+      "bug": 1475510,
+      "created": "2018-12-07T16:25:28.626882+00:00",
+      "id": 787794,
       "is_public": true,
-      "modified": "2018-12-07T16:31:40.620179+00:00",
-      "note": "On Linux, tabs can be switched by scrolling in the tab bar",
-      "sort_num": 0,
+      "modified": "2018-12-10T18:59:05.304275+00:00",
+      "note": "Firefox on Windows can now be installed using an MSI installer",
+      "sort_num": 30,
       "tag": "New"
     },
     {
@@ -41,19 +41,19 @@
       "created": "2018-12-10T18:52:04.036002+00:00",
       "id": 787802,
       "is_public": true,
-      "modified": "2018-12-10T18:52:04.035647+00:00",
+      "modified": "2018-12-10T18:59:10.204606+00:00",
       "note": "Firefox now supports Handoff on macOS to continue browsing from your iOS device to your Mac",
-      "sort_num": 0,
+      "sort_num": 20,
       "tag": "New"
     },
     {
-      "bug": 1425941,
-      "created": "2018-12-10T18:52:23.929649+00:00",
-      "id": 787803,
+      "bug": 1285812,
+      "created": "2018-12-07T16:31:40.620421+00:00",
+      "id": 787796,
       "is_public": true,
-      "modified": "2018-12-10T18:52:23.929440+00:00",
-      "note": "The display language for the Firefox application UI is now changeable in the Options page",
-      "sort_num": 0,
+      "modified": "2018-12-10T18:59:14.335272+00:00",
+      "note": "On Linux, tabs can be switched by scrolling in the tab bar",
+      "sort_num": 10,
       "tag": "New"
     },
     {
@@ -61,29 +61,9 @@
       "created": "2018-12-10T18:49:49.512201+00:00",
       "id": 787798,
       "is_public": true,
-      "modified": "2018-12-10T18:49:49.511973+00:00",
+      "modified": "2018-12-10T18:57:17.614781+00:00",
       "note": "Updated the Content Blocking section in the Privacy & Security Options page and in the Control Center to simplify blocking options for users",
-      "sort_num": 0,
-      "tag": "Changed"
-    },
-    {
-      "bug": 1506173,
-      "created": "2018-12-10T18:50:17.808020+00:00",
-      "id": 787799,
-      "is_public": true,
-      "modified": "2018-12-10T18:50:17.807817+00:00",
-      "note": "Firefox can now be set to warn when exiting, even when configured to automatically restore the session on the next launch",
-      "sort_num": 0,
-      "tag": "Changed"
-    },
-    {
-      "bug": 1478831,
-      "created": "2018-12-10T18:50:43.543176+00:00",
-      "id": 787800,
-      "is_public": true,
-      "modified": "2018-12-10T18:50:43.542954+00:00",
-      "note": "Memory usage is also now reported for each resource visible in the updated Task Manager page found at about:performance",
-      "sort_num": 0,
+      "sort_num": 40,
       "tag": "Changed"
     },
     {
@@ -91,9 +71,29 @@
       "created": "2018-12-10T18:51:04.239931+00:00",
       "id": 787801,
       "is_public": true,
-      "modified": "2018-12-10T18:51:04.239730+00:00",
+      "modified": "2018-12-10T18:57:28.516859+00:00",
       "note": "Enhanced security for Linux, Android, and macOS users via stronger stack smashing protection being enabled by default",
-      "sort_num": 0,
+      "sort_num": 30,
+      "tag": "Changed"
+    },
+    {
+      "bug": 1506173,
+      "created": "2018-12-10T18:50:17.808020+00:00",
+      "id": 787799,
+      "is_public": true,
+      "modified": "2018-12-10T18:57:35.085143+00:00",
+      "note": "Firefox can now be set to warn when exiting, even when configured to automatically restore the session on the next launch",
+      "sort_num": 20,
+      "tag": "Changed"
+    },
+    {
+      "bug": 1478831,
+      "created": "2018-12-10T18:50:43.543176+00:00",
+      "id": 787800,
+      "is_public": true,
+      "modified": "2018-12-10T18:57:39.622117+00:00",
+      "note": "Memory usage is also now reported for each resource visible in the updated Task Manager page found at about:performance",
+      "sort_num": 10,
       "tag": "Changed"
     },
     {
