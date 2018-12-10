@@ -5,7 +5,28 @@
   "created": "2018-12-10T17:48:41.867173+00:00",
   "is_public": false,
   "modified": "2018-12-10T18:22:42.499669+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": null,
+      "created": "2018-12-10T20:17:39.657500+00:00",
+      "id": 787807,
+      "is_public": true,
+      "modified": "2018-12-10T20:17:39.657284+00:00",
+      "note": "Better recommendations: You may see suggestions in regular browsing mode for new and relevant Firefox features, services, and extensions based on how you use the web (for US users only)",
+      "sort_num": 95,
+      "tag": "New"
+    },
+    {
+      "bug": 1474938,
+      "created": "2018-12-10T20:18:30.161307+00:00",
+      "id": 787808,
+      "is_public": true,
+      "modified": "2018-12-10T20:18:30.161091+00:00",
+      "note": "Enhanced tab management: You can now select multiple tabs from the tab bar and close, move, bookmark, or pin them quickly and easily",
+      "sort_num": 92,
+      "tag": "New"
+    }
+  ],
   "product": "Firefox",
   "release_date": "2018-12-11",
   "slug": "firefox-64.0-release",
