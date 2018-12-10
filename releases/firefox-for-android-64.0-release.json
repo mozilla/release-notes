@@ -5,7 +5,18 @@
   "created": "2018-12-10T17:51:01.534366+00:00",
   "is_public": false,
   "modified": "2018-12-10T17:51:01.534165+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": 1496467,
+      "created": "2018-12-10T20:23:16.880558+00:00",
+      "id": 787815,
+      "is_public": true,
+      "modified": "2018-12-10T20:27:00.361331+00:00",
+      "note": "TLS certificates issued by Symantec are [no longer trusted by Firefox][1]. Website operators are strongly encouraged to [replace any remaining Symantec TLS certificates as soon as possible][2].\r\n\r\n\r\n  [1]: https://blog.mozilla.org/security/2018/07/30/update-on-the-distrust-of-symantec-tls-certificates/\r\n  [2]: https://blog.mozilla.org/security/2018/10/10/delaying-further-symantec-tls-certificate-distrust/",
+      "sort_num": 68,
+      "tag": "Changed"
+    }
+  ],
   "product": "Firefox for Android",
   "release_date": "2018-12-12",
   "slug": "firefox-for-android-64.0-release",
