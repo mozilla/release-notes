@@ -35,6 +35,26 @@
       "note": "Files downloaded after this update are no longer deleted when uninstalling Firefox",
       "sort_num": 40,
       "tag": "Fixed"
+    },
+    {
+      "bug": 1485810,
+      "created": "2018-12-10T21:26:46.410990+00:00",
+      "id": 787824,
+      "is_public": true,
+      "modified": "2018-12-10T21:26:46.410785+00:00",
+      "note": "Fixed performance lags for users with installed password manager apps",
+      "sort_num": 35,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1484528,
+      "created": "2018-12-10T21:27:17.053067+00:00",
+      "id": 787825,
+      "is_public": true,
+      "modified": "2018-12-10T21:27:17.052862+00:00",
+      "note": "Fixed an issue that resulted in the loading indicator using too much CPU and power",
+      "sort_num": 35,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox for Android",
