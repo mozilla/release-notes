@@ -7,6 +7,16 @@
   "modified": "2018-12-10T17:51:01.534165+00:00",
   "notes": [
     {
+      "bug": 1457586,
+      "created": "2018-12-10T21:23:54.311740+00:00",
+      "id": 787822,
+      "is_public": true,
+      "modified": "2018-12-10T21:24:51.616197+00:00",
+      "note": "Scrolling is faster and more responsive",
+      "sort_num": 90,
+      "tag": "New"
+    },
+    {
       "bug": 1496467,
       "created": "2018-12-10T20:23:16.880558+00:00",
       "id": 787815,
@@ -15,6 +25,16 @@
       "note": "TLS certificates issued by Symantec are [no longer trusted by Firefox][1]. Website operators are strongly encouraged to [replace any remaining Symantec TLS certificates as soon as possible][2].\r\n\r\n\r\n  [1]: https://blog.mozilla.org/security/2018/07/30/update-on-the-distrust-of-symantec-tls-certificates/\r\n  [2]: https://blog.mozilla.org/security/2018/10/10/delaying-further-symantec-tls-certificate-distrust/",
       "sort_num": 68,
       "tag": "Changed"
+    },
+    {
+      "bug": 1280184,
+      "created": "2018-12-10T21:25:41.563548+00:00",
+      "id": 787823,
+      "is_public": true,
+      "modified": "2018-12-10T21:25:41.563313+00:00",
+      "note": "Files downloaded after this update are no longer deleted when uninstalling Firefox",
+      "sort_num": 40,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox for Android",
