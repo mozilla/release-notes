@@ -145,6 +145,16 @@
       "note": "Added support for the new [CSS scrollbar specification][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Mozilla/Firefox/Releases/64#CSS",
       "sort_num": 45,
       "tag": "Developer"
+    },
+    {
+      "bug": 1476091,
+      "created": "2018-12-10T21:04:05.285547+00:00",
+      "id": 787821,
+      "is_public": true,
+      "modified": "2018-12-10T21:04:05.285346+00:00",
+      "note": "[WebVR][1] is now available on MacOS\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/API/WebVR_API",
+      "sort_num": 43,
+      "tag": "Developer"
     }
   ],
   "product": "Firefox",
