@@ -127,6 +127,16 @@
       "tag": "Developer"
     },
     {
+      "bug": 1473805,
+      "created": "2018-12-11T13:25:06.090887+00:00",
+      "id": 787827,
+      "is_public": true,
+      "modified": "2018-12-11T13:25:06.090538+00:00",
+      "note": "The Web Console's command line now highlights JavaScript syntax",
+      "sort_num": 53,
+      "tag": "Developer"
+    },
+    {
       "bug": 1473037,
       "created": "2018-12-10T20:47:16.555092+00:00",
       "id": 787819,
@@ -161,8 +171,8 @@
       "created": "2018-12-10T21:45:30.129398+00:00",
       "id": 787826,
       "is_public": true,
-      "modified": "2018-12-10T21:45:30.129164+00:00",
-      "note": "Various [security fixes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/",
+      "modified": "2018-12-11T13:22:53.193138+00:00",
+      "note": "Various [security fixes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/known-vulnerabilities/firefox/#firefox64",
       "sort_num": 30,
       "tag": "Fixed"
     }
