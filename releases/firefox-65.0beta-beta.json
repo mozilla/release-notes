@@ -11,8 +11,18 @@
       "created": "2018-12-10T18:52:23.929649+00:00",
       "id": 787803,
       "is_public": true,
-      "modified": "2018-12-10T18:58:54.094142+00:00",
+      "modified": "2018-12-18T19:11:58.193392+00:00",
       "note": "The display language for the Firefox application UI is now changeable in the Options page",
+      "sort_num": 60,
+      "tag": "New"
+    },
+    {
+      "bug": 1452146,
+      "created": "2018-12-18T19:12:52.566146+00:00",
+      "id": 787829,
+      "is_public": true,
+      "modified": "2018-12-18T19:12:52.565859+00:00",
+      "note": "Added Windows playback support for the [AV1 video codec][1]\r\n\r\n\r\n  [1]: https://research.mozilla.org/av1-media-codecs/",
       "sort_num": 50,
       "tag": "New"
     },
