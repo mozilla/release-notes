@@ -5,7 +5,18 @@
   "created": "2018-12-10T13:09:34.207255+00:00",
   "is_public": true,
   "modified": "2018-12-11T08:19:13.870922+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": 1452146,
+      "created": "2018-12-18T13:29:02.541772+00:00",
+      "id": 787828,
+      "is_public": true,
+      "modified": "2018-12-18T13:29:02.541557+00:00",
+      "note": "Support for the [AV1 video codec][1] is now activated on Windows \r\n\r\n\r\n  [1]: https://en.wikipedia.org/wiki/AV1",
+      "sort_num": 0,
+      "tag": "New"
+    }
+  ],
   "product": "Firefox",
   "release_date": "2018-12-10",
   "slug": "firefox-66.0a1-nightly",
