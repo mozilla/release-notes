@@ -67,11 +67,11 @@
       "tag": "Fixed"
     },
     {
-      "bug": null,
+      "bug": 1489214,
       "created": "2018-09-21T11:31:06.436510+00:00",
       "id": 787727,
       "is_public": true,
-      "modified": "2018-10-01T18:58:58.517057+00:00",
+      "modified": "2018-12-21T15:08:06.306504+00:00",
       "note": "Properly restore window size and position when restarting on Windows (bugs [1489214][0] and [1489852][1])\r\n\r\n[0]: https://bugzilla.mozilla.org/1489214\r\n[1]: https://bugzilla.mozilla.org/1489852",
       "sort_num": 0,
       "tag": "Fixed"
