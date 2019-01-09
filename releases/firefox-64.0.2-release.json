@@ -15,6 +15,46 @@
       "note": "Fixed a browser crash on MacOS ([bug 1510058][0])\r\n\r\n[0]: https://bugzilla.mozilla.org/1510058",
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": 1513259,
+      "created": "2019-01-09T13:45:13.164760+00:00",
+      "id": 787835,
+      "is_public": true,
+      "modified": "2019-01-09T13:45:13.164513+00:00",
+      "note": "Updated the Japanese translation for missing strings ([bug 1513259][0])\r\n\r\n[0]: https://bugzilla.mozilla.org/1513259",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1503175,
+      "created": "2019-01-09T13:49:49.938049+00:00",
+      "id": 787836,
+      "is_public": true,
+      "modified": "2019-01-09T13:49:49.937850+00:00",
+      "note": "Properly restore column sizes in developer tools inspector ([bug 1503175][0])\r\n\r\n[0]: https://bugzilla.mozilla.org/1503175",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1513511,
+      "created": "2019-01-09T13:50:52.127580+00:00",
+      "id": 787837,
+      "is_public": true,
+      "modified": "2019-01-09T13:50:52.127378+00:00",
+      "note": "Fixed video stuttering on Youtube ([bug 1513511][0])\r\n\r\n[0]: https://bugzilla.mozilla.org/1513511",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1508777,
+      "created": "2019-01-09T13:52:22.880647+00:00",
+      "id": 787838,
+      "is_public": true,
+      "modified": "2019-01-09T13:52:22.880406+00:00",
+      "note": "Fix updates for some lightweight themes ([bug 1508777][0])\r\n\r\n[0]: https://bugzilla.mozilla.org/1508777",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
