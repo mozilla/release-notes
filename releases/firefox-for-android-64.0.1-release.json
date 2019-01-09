@@ -11,7 +11,7 @@
       "created": "2018-12-10T21:23:54.311740+00:00",
       "id": 787822,
       "is_public": true,
-      "modified": "2019-01-09T07:51:20.652761+00:00",
+      "modified": "2019-01-09T08:07:43.710588+00:00",
       "note": "Scrolling is faster and more responsive",
       "sort_num": 90,
       "tag": "New"
@@ -21,7 +21,7 @@
       "created": "2018-12-10T20:23:16.880558+00:00",
       "id": 787815,
       "is_public": true,
-      "modified": "2019-01-09T07:51:27.839304+00:00",
+      "modified": "2019-01-09T08:07:40.400995+00:00",
       "note": "TLS certificates issued by Symantec are [no longer trusted by Firefox][1]. Website operators are strongly encouraged to [replace any remaining Symantec TLS certificates as soon as possible][2].\r\n\r\n\r\n  [1]: https://blog.mozilla.org/security/2018/07/30/update-on-the-distrust-of-symantec-tls-certificates/\r\n  [2]: https://blog.mozilla.org/security/2018/10/10/delaying-further-symantec-tls-certificate-distrust/",
       "sort_num": 68,
       "tag": "Changed"
@@ -31,7 +31,7 @@
       "created": "2018-12-10T21:25:41.563548+00:00",
       "id": 787823,
       "is_public": true,
-      "modified": "2019-01-09T07:51:20.652761+00:00",
+      "modified": "2019-01-09T08:07:44.996582+00:00",
       "note": "Files downloaded after this update are no longer deleted when uninstalling Firefox",
       "sort_num": 40,
       "tag": "Fixed"
@@ -41,7 +41,7 @@
       "created": "2018-12-10T21:26:46.410990+00:00",
       "id": 787824,
       "is_public": true,
-      "modified": "2019-01-09T07:51:20.652761+00:00",
+      "modified": "2019-01-09T08:07:46.439590+00:00",
       "note": "Fixed performance lags for users with installed password manager apps",
       "sort_num": 35,
       "tag": "Fixed"
@@ -51,7 +51,7 @@
       "created": "2018-12-10T21:27:17.053067+00:00",
       "id": 787825,
       "is_public": true,
-      "modified": "2019-01-09T07:51:20.652761+00:00",
+      "modified": "2019-01-09T08:07:47.223176+00:00",
       "note": "Fixed an issue that resulted in the loading indicator using too much CPU and power",
       "sort_num": 30,
       "tag": "Fixed"
@@ -61,7 +61,7 @@
       "created": "2018-12-10T21:45:30.129398+00:00",
       "id": 787826,
       "is_public": true,
-      "modified": "2019-01-09T07:51:27.839304+00:00",
+      "modified": "2019-01-09T08:07:37.971133+00:00",
       "note": "Various [security fixes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/mfsa2018-29/",
       "sort_num": 30,
       "tag": "Fixed"
