@@ -15,6 +15,16 @@
       "note": "Fixed a crash when Firefox for Android is put in background",
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": 1513912,
+      "created": "2019-01-09T08:42:59.566778+00:00",
+      "id": 787832,
+      "is_public": true,
+      "modified": "2019-01-09T08:42:59.566535+00:00",
+      "note": "Fixed a crash when using Web Speech ([bug 1513912][0])\r\n\r\n[0]: https://bugzilla.mozilla.org/1513912",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox for Android",
