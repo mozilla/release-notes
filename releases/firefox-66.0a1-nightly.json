@@ -25,6 +25,16 @@
       "note": "[Added the ability][1] to search through your open tabs from the tab overflow menu\r\n\r\n\r\n  [1]: https://twitter.com/FirefoxNightly/status/1081108965256318976",
       "sort_num": 0,
       "tag": "New"
+    },
+    {
+      "bug": 1303384,
+      "created": "2019-01-18T10:14:55.528219+00:00",
+      "id": 787840,
+      "is_public": true,
+      "modified": "2019-01-18T10:14:55.527987+00:00",
+      "note": "Web Extensions keyboard shortcuts can now be managed or overridden from about:addons",
+      "sort_num": 0,
+      "tag": "New"
     }
   ],
   "product": "Firefox",
