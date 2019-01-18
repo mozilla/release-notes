@@ -1,10 +1,10 @@
 {
   "bug_list": "",
   "bug_search_url": "",
-  "channel": "Beta",
-  "created": "2018-12-05T03:29:38.833712+00:00",
-  "is_public": true,
-  "modified": "2018-12-11T14:03:29.913868+00:00",
+  "channel": "Release",
+  "created": "2019-01-18T17:33:59.634505+00:00",
+  "is_public": false,
+  "modified": "2019-01-18T17:34:46.373896+00:00",
   "notes": [
     {
       "bug": 1425941,
@@ -138,10 +138,10 @@
     }
   ],
   "product": "Firefox",
-  "release_date": "2018-12-11",
-  "slug": "firefox-65.0beta-beta",
+  "release_date": "2019-01-29",
+  "slug": "firefox-65.0-release",
   "system_requirements": "## Windows\r\n\r\n### Operating Systems (32-bit and 64-bit)\r\n - Windows 7\r\n - Windows 8\r\n - Windows 10\r\n\r\n### Recommended Hardware\r\n-  Pentium 4 or newer processor that supports SSE2\r\n-  512MB of RAM / 2GB of RAM for the 64-bit version\r\n-  200MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- macOS 10.9\r\n- macOS 10.10\r\n- macOS 10.11\r\n- macOS 10.12\r\n- macOS 10.13\r\n- macOS 10.14\r\n\r\n### Recommended Hardware\r\n- Macintosh computer with an Intel x86 processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - GTK+ 3.4 or higher\r\n    - GLib 2.22 or higher\r\n    - Pango 1.22 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n    - libstdc++ 4.6.1 or higher\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - NetworkManager 0.7 or higher\r\n    - DBus 1.0 or higher\r\n    - GNOME 2.16 or higher\r\n    - PulseAudio",
   "text": "",
-  "title": "Firefox 65.0beta Beta",
-  "version": "65.0beta"
+  "title": "Firefox 65.0 Release",
+  "version": "65.0"
 }

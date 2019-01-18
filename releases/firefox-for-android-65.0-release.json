@@ -1,10 +1,10 @@
 {
   "bug_list": "",
   "bug_search_url": "",
-  "channel": "Beta",
-  "created": "2018-12-07T16:40:03.697354+00:00",
-  "is_public": true,
-  "modified": "2018-12-11T14:03:29.913868+00:00",
+  "channel": "Release",
+  "created": "2019-01-18T17:33:59.596066+00:00",
+  "is_public": false,
+  "modified": "2019-01-18T17:34:33.986458+00:00",
   "notes": [
     {
       "bug": 1503653,
@@ -28,10 +28,10 @@
     }
   ],
   "product": "Firefox for Android",
-  "release_date": "2018-12-11",
-  "slug": "firefox-for-android-65.0beta-beta",
+  "release_date": "2019-01-29",
+  "slug": "firefox-for-android-65.0-release",
   "system_requirements": "## Operating systems\r\n - Android 4.1\r\n - Above versions\r\n\r\n## Requirements\r\n - 50 MB internal storage\r\n - 384 MB of RAM\r\n - display at least 320 pixels high and 240 pixels wide",
   "text": "",
-  "title": "Firefox for Android 65.0beta Beta",
-  "version": "65.0beta"
+  "title": "Firefox for Android 65.0 Release",
+  "version": "65.0"
 }
