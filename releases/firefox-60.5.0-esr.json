@@ -2,36 +2,26 @@
   "bug_list": "",
   "bug_search_url": "",
   "channel": "ESR",
-  "created": "2018-12-05T17:24:09.612833+00:00",
-  "is_public": true,
-  "modified": "2018-12-11T14:03:29.913868+00:00",
+  "created": "2019-01-22T10:46:43.211125+00:00",
+  "is_public": false,
+  "modified": "2019-01-22T10:47:02.307621+00:00",
   "notes": [
     {
-      "bug": 1499028,
-      "created": "2018-12-05T17:29:59.446641+00:00",
-      "id": 787792,
-      "is_public": true,
-      "modified": "2019-01-22T10:47:12.083411+00:00",
-      "note": "Updated list of currency codes to include Unidad Previsional (UYW) ([Bug 1499028][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1499028",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
       "bug": null,
-      "created": "2018-12-05T17:25:51.391543+00:00",
-      "id": 787791,
+      "created": "2019-01-22T10:47:13.624549+00:00",
+      "id": 787856,
       "is_public": true,
-      "modified": "2019-01-22T10:47:13.763005+00:00",
-      "note": "Various [security fixes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/mfsa2018-30/",
+      "modified": "2019-01-22T10:47:59.401516+00:00",
+      "note": "Various [security fixes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/known-vulnerabilities/firefox-esr/#firefoxesr60.5",
       "sort_num": 80,
       "tag": "Fixed"
     }
   ],
   "product": "Firefox Extended Support Release",
-  "release_date": "2018-12-11",
-  "slug": "firefox-60.4.0-esr",
+  "release_date": "2019-01-29",
+  "slug": "firefox-60.5.0-esr",
   "system_requirements": "## Windows\r\n\r\n### Operating Systems (32-bit and 64-bit)\r\n - Windows 7\r\n - Windows 8\r\n - Windows 10\r\n\r\n### Recommended Hardware\r\n-  Pentium 4 or newer processor that supports SSE2\r\n-  512MB of RAM / 2GB of RAM for the 64-bit version\r\n-  200MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- macOS 10.9\r\n- macOS 10.10\r\n- macOS 10.11\r\n- macOS 10.12\r\n- macOS 10.13\r\n- macOS 10.14\r\n\r\n### Recommended Hardware\r\n- Macintosh computer with an Intel x86 processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - GTK+ 3.4 or higher\r\n    - GLib 2.22 or higher\r\n    - Pango 1.22 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n    - libstdc++ 4.6.1 or higher\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - NetworkManager 0.7 or higher\r\n    - DBus 1.0 or higher\r\n    - GNOME 2.16 or higher\r\n    - PulseAudio\r\n\r\n  [1]: https://support.mozilla.org/kb/get-latest-version-firefox-windows-xp-vista",
   "text": "",
-  "title": "Firefox Extended Support Release 60.4.0 ESR",
-  "version": "60.4.0"
+  "title": "Firefox Extended Support Release 60.5.0 ESR",
+  "version": "60.5.0"
 }
