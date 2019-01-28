@@ -7,22 +7,22 @@
   "modified": "2019-01-28T20:04:24.971582+00:00",
   "notes": [
     {
-      "bug": 1503653,
-      "created": "2019-01-18T17:42:31.006940+00:00",
-      "id": 787854,
-      "is_public": true,
-      "modified": "2019-01-28T20:05:39.732607+00:00",
-      "note": "Improved performance and web compatibility, with support for the [WebP image format][1]: WebP brings the same image quality as existing formats at smaller file sizes, which saves bandwidth and speeds up page load.\r\n\r\n\r\n  [1]: https://developers.google.com/speed/webp/",
-      "sort_num": 40,
-      "tag": "New"
-    },
-    {
       "bug": 1432019,
       "created": "2019-01-28T20:08:26.262355+00:00",
       "id": 787860,
       "is_public": true,
-      "modified": "2019-01-28T20:08:26.261960+00:00",
+      "modified": "2019-01-28T20:13:28.413293+00:00",
       "note": "Improved performance: Scrolling is faster and more responsive.",
+      "sort_num": 20,
+      "tag": "New"
+    },
+    {
+      "bug": 1503653,
+      "created": "2019-01-18T17:42:31.006940+00:00",
+      "id": 787854,
+      "is_public": true,
+      "modified": "2019-01-28T20:16:35.201608+00:00",
+      "note": "Improved performance and web compatibility, with support for the [WebP image format][1]: WebP brings the same image quality as existing formats at smaller file sizes, which saves bandwidth and speeds up page load.\r\n\r\n\r\n  [1]: https://developers.google.com/speed/webp/",
       "sort_num": 10,
       "tag": "New"
     },
@@ -31,9 +31,9 @@
       "created": "2019-01-18T17:42:24.936119+00:00",
       "id": 787848,
       "is_public": true,
-      "modified": "2019-01-28T20:06:46.542450+00:00",
+      "modified": "2019-01-28T20:18:04.473661+00:00",
       "note": "Enhanced security for macOS, Linux, and Android users via stronger stack smashing protection which is now enabled by default for all platforms. \"Stack smashing\" is a common security attack in which malicious actors corrupt or take control of a vulnerable program.",
-      "sort_num": 30,
+      "sort_num": 40,
       "tag": "Changed"
     },
     {
