@@ -4,34 +4,54 @@
   "channel": "Release",
   "created": "2019-01-18T17:33:59.596066+00:00",
   "is_public": false,
-  "modified": "2019-01-18T17:34:33.986458+00:00",
+  "modified": "2019-01-28T20:04:24.971582+00:00",
   "notes": [
     {
       "bug": 1503653,
-      "created": "2019-01-18T17:42:12.497062+00:00",
-      "id": 787841,
+      "created": "2019-01-18T17:42:31.006940+00:00",
+      "id": 787854,
       "is_public": true,
-      "modified": "2019-01-18T17:42:12.493605+00:00",
-      "note": "Added support for the [WebP image format][1]\r\n\r\n\r\n  [1]: https://developers.google.com/speed/webp/",
+      "modified": "2019-01-28T20:05:39.732607+00:00",
+      "note": "Improved performance and web compatibility, with support for the [WebP image format][1]: WebP brings the same image quality as existing formats at smaller file sizes, which saves bandwidth and speeds up page load.\r\n\r\n\r\n  [1]: https://developers.google.com/speed/webp/",
       "sort_num": 40,
       "tag": "New"
     },
     {
-      "bug": 1503589,
-      "created": "2019-01-18T17:42:13.626945+00:00",
-      "id": 787842,
+      "bug": 1432019,
+      "created": "2019-01-28T20:08:26.262355+00:00",
+      "id": 787860,
       "is_public": true,
-      "modified": "2019-01-18T17:42:13.626720+00:00",
-      "note": "Enhanced security for Linux, Android, and macOS users via stronger stack smashing protection being enabled by default",
+      "modified": "2019-01-28T20:08:26.261960+00:00",
+      "note": "Improved performance: Scrolling is faster and more responsive.",
+      "sort_num": 10,
+      "tag": "New"
+    },
+    {
+      "bug": 1503589,
+      "created": "2019-01-18T17:42:24.936119+00:00",
+      "id": 787848,
+      "is_public": true,
+      "modified": "2019-01-28T20:06:46.542450+00:00",
+      "note": "Enhanced security for macOS, Linux, and Android users via stronger stack smashing protection which is now enabled by default for all platforms. \"Stack smashing\" is a common security attack in which malicious actors corrupt or take control of a vulnerable program.",
       "sort_num": 30,
       "tag": "Changed"
+    },
+    {
+      "bug": 1518664,
+      "created": "2019-01-28T20:09:08.199496+00:00",
+      "id": 787861,
+      "is_public": true,
+      "modified": "2019-01-28T20:09:08.199286+00:00",
+      "note": "Restored Chromecast controls to the location bar.",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox for Android",
   "release_date": "2019-01-29",
   "slug": "firefox-for-android-65.0-release",
   "system_requirements": "## Operating systems\r\n - Android 4.1\r\n - Above versions\r\n\r\n## Requirements\r\n - 50 MB internal storage\r\n - 384 MB of RAM\r\n - display at least 320 pixels high and 240 pixels wide",
-  "text": "",
+  "text": "We'd like to extend a special thank you to all of the [new Mozillians][1] who contributed to this release of Firefox!\r\n\r\n\r\n  [1]: https://blog.mozilla.org/community/2019/01/23/firefox-65-new-contributors/",
   "title": "Firefox for Android 65.0 Release",
   "version": "65.0"
 }
