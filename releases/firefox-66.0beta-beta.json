@@ -4,8 +4,79 @@
   "channel": "Beta",
   "created": "2019-01-17T01:13:07.045303+00:00",
   "is_public": false,
-  "modified": "2019-01-17T01:13:07.045085+00:00",
-  "notes": [],
+  "modified": "2019-01-28T21:15:22.751269+00:00",
+  "notes": [
+    {
+      "bug": 1520227,
+      "created": "2019-01-28T21:11:35.995911+00:00",
+      "id": 787863,
+      "is_public": true,
+      "modified": "2019-01-28T21:11:35.995708+00:00",
+      "note": "Increase content processes to 8",
+      "sort_num": 90,
+      "tag": "New"
+    },
+    {
+      "bug": 1518664,
+      "created": "2019-01-28T21:12:22.213460+00:00",
+      "id": 787864,
+      "is_public": true,
+      "modified": "2019-01-28T21:14:14.573286+00:00",
+      "note": "Search through open tabs from the tab overflow menu",
+      "sort_num": 87,
+      "tag": "New"
+    },
+    {
+      "bug": 1406181,
+      "created": "2019-01-28T21:12:48.606724+00:00",
+      "id": 787865,
+      "is_public": true,
+      "modified": "2019-01-28T21:14:33.580585+00:00",
+      "note": "New backend for the storage.local WebExtensions API, providing I/O performance improvements when the extension updates a small subset of the stored data",
+      "sort_num": 85,
+      "tag": "New"
+    },
+    {
+      "bug": 1303384,
+      "created": "2019-01-28T21:13:15.762639+00:00",
+      "id": 787866,
+      "is_public": true,
+      "modified": "2019-01-28T21:15:16.491454+00:00",
+      "note": "WebExtension keyboard shortcuts can now be managed or overridden from about:addons",
+      "sort_num": 82,
+      "tag": "New"
+    },
+    {
+      "bug": 1305957,
+      "created": "2019-01-28T21:16:44.260624+00:00",
+      "id": 787867,
+      "is_public": true,
+      "modified": "2019-01-28T21:16:44.260417+00:00",
+      "note": "Improved scrolling behavior: Firefox will now attempt to keep content from jumping around while a page is loading by supporting scroll anchoring",
+      "sort_num": 73,
+      "tag": "New"
+    },
+    {
+      "bug": 1508364,
+      "created": "2019-01-28T21:17:39.530700+00:00",
+      "id": 787868,
+      "is_public": true,
+      "modified": "2019-01-28T21:17:39.530470+00:00",
+      "note": "New about:privatebrowsing with search",
+      "sort_num": 68,
+      "tag": "New"
+    },
+    {
+      "bug": 1517526,
+      "created": "2019-01-28T21:21:27.288203+00:00",
+      "id": 787869,
+      "is_public": true,
+      "modified": "2019-01-28T21:21:27.287869+00:00",
+      "note": "Firefox now blocks all autoplay media with sound by default. Users can [add individual sites to an exceptions list or turn the blocking off][1]. \r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/block-autoplay",
+      "sort_num": 60,
+      "tag": "Changed"
+    }
+  ],
   "product": "Firefox",
   "release_date": "2019-01-29",
   "slug": "firefox-66.0beta-beta",
