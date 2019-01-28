@@ -67,6 +67,26 @@
       "tag": "New"
     },
     {
+      "bug": 1313429,
+      "created": "2019-01-28T21:26:29.691299+00:00",
+      "id": 787870,
+      "is_public": true,
+      "modified": "2019-01-28T21:26:29.691099+00:00",
+      "note": "Basic macOS touchbar support",
+      "sort_num": 45,
+      "tag": "New"
+    },
+    {
+      "bug": 1521756,
+      "created": "2019-01-28T21:29:29.585273+00:00",
+      "id": 787872,
+      "is_public": true,
+      "modified": "2019-01-28T21:29:29.585070+00:00",
+      "note": "A certificate error page now notifies the user of the name of the certificate issuer that breaks HTTPs connections on intercepted connections to help troubleshooting possible anti-virus software issues.",
+      "sort_num": 42,
+      "tag": "New"
+    },
+    {
       "bug": 1517526,
       "created": "2019-01-28T21:21:27.288203+00:00",
       "id": 787869,
@@ -75,6 +95,46 @@
       "note": "Firefox now blocks all autoplay media with sound by default. Users can [add individual sites to an exceptions list or turn the blocking off][1]. \r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/block-autoplay",
       "sort_num": 60,
       "tag": "Changed"
+    },
+    {
+      "bug": 1490344,
+      "created": "2019-01-28T21:26:59.672987+00:00",
+      "id": 787871,
+      "is_public": true,
+      "modified": "2019-01-28T21:26:59.672786+00:00",
+      "note": "System title bar is hidden by default to match Gnome guideline",
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
+      "bug": 1177346,
+      "created": "2019-01-28T21:30:26.656505+00:00",
+      "id": 787873,
+      "is_public": true,
+      "modified": "2019-01-28T21:30:26.656303+00:00",
+      "note": "It is now possible to select new elements in the page while the debugger is paused",
+      "sort_num": 30,
+      "tag": "Developer"
+    },
+    {
+      "bug": 1499289,
+      "created": "2019-01-28T21:30:52.762798+00:00",
+      "id": 787874,
+      "is_public": true,
+      "modified": "2019-01-28T21:30:52.762581+00:00",
+      "note": "JavaScript getters can now be executed from the auto-completion popup in the WebConsole",
+      "sort_num": 28,
+      "tag": "Developer"
+    },
+    {
+      "bug": 1273997,
+      "created": "2019-01-28T21:31:36.025315+00:00",
+      "id": 787875,
+      "is_public": true,
+      "modified": "2019-01-28T21:31:36.025101+00:00",
+      "note": "window.alert()/prompt()/confirm() now works again in Responsive Design Mode",
+      "sort_num": 26,
+      "tag": "Developer"
     }
   ],
   "product": "Firefox",
