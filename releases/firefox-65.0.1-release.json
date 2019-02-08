@@ -25,6 +25,36 @@
       "note": "Fixed looping CONNECT requests when using WebSockets over HTTP/2 from behind a proxy server ([bug 1523427][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1523427",
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": 1506495,
+      "created": "2019-02-08T21:19:55.036198+00:00",
+      "id": 787883,
+      "is_public": true,
+      "modified": "2019-02-08T21:19:55.035978+00:00",
+      "note": "Fixed color management not working on macOS ([bug 1506495][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1506495",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1521577,
+      "created": "2019-02-08T21:22:22.925105+00:00",
+      "id": 787884,
+      "is_public": true,
+      "modified": "2019-02-08T21:22:22.924906+00:00",
+      "note": "Fixed audio & video delays while making WebRTC calls ([bug 1521577][1] & [bug 1523817][2])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1521577\r\n  [2]: https://bugzilla.mozilla.org/show_bug.cgi?id=1523817",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1524500,
+      "created": "2019-02-08T21:25:03.533261+00:00",
+      "id": 787885,
+      "is_public": true,
+      "modified": "2019-02-08T21:25:03.533013+00:00",
+      "note": "Improved playback of interactive Netflix videos ([bug 1524500][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1524500",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
