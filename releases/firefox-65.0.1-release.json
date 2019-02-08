@@ -1,0 +1,37 @@
+{
+  "bug_list": "",
+  "bug_search_url": "",
+  "channel": "Release",
+  "created": "2019-02-08T20:44:57.308425+00:00",
+  "is_public": false,
+  "modified": "2019-02-08T20:48:15.096138+00:00",
+  "notes": [
+    {
+      "bug": null,
+      "created": "2019-02-08T20:48:41.360447+00:00",
+      "id": 787881,
+      "is_public": true,
+      "modified": "2019-02-08T20:55:53.511272+00:00",
+      "note": "Various stability and [security fixes][1].\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/known-vulnerabilities/firefox/#firefox65.0.1",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1523427,
+      "created": "2019-02-08T20:55:01.107156+00:00",
+      "id": 787882,
+      "is_public": true,
+      "modified": "2019-02-08T20:55:01.106907+00:00",
+      "note": "Fixed looping CONNECT requests when using WebSockets over HTTP/2 from behind a proxy server ([bug 1523427][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1523427",
+      "sort_num": 0,
+      "tag": "Fixed"
+    }
+  ],
+  "product": "Firefox",
+  "release_date": "2019-02-12",
+  "slug": "firefox-65.0.1-release",
+  "system_requirements": "## Windows\r\n\r\n### Operating Systems (32-bit and 64-bit)\r\n - Windows 7\r\n - Windows 8\r\n - Windows 10\r\n\r\n### Recommended Hardware\r\n-  Pentium 4 or newer processor that supports SSE2\r\n-  512MB of RAM / 2GB of RAM for the 64-bit version\r\n-  200MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- macOS 10.9\r\n- macOS 10.10\r\n- macOS 10.11\r\n- macOS 10.12\r\n- macOS 10.13\r\n- macOS 10.14\r\n\r\n### Recommended Hardware\r\n- Macintosh computer with an Intel x86 processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - GTK+ 3.4 or higher\r\n    - GLib 2.22 or higher\r\n    - Pango 1.22 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n    - libstdc++ 4.6.1 or higher\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - NetworkManager 0.7 or higher\r\n    - DBus 1.0 or higher\r\n    - GNOME 2.16 or higher\r\n    - PulseAudio",
+  "text": "",
+  "title": "Firefox 65.0.1 Release",
+  "version": "65.0.1"
+}

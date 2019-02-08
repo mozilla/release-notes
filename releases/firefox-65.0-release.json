@@ -11,7 +11,7 @@
       "created": "2019-01-18T17:42:27.822698+00:00",
       "id": 787851,
       "is_public": true,
-      "modified": "2019-01-28T20:17:52.653547+00:00",
+      "modified": "2019-02-08T20:48:24.315493+00:00",
       "note": "Enhanced tracking protection: Simplified content blocking settings give users standard, strict, and custom options to control online trackers. A redesigned content blocking section in the site information panel (viewed by expanding the small \u201ci\u201d icon in the address bar) shows what Firefox detects and blocks on each website you visit. To learn more about content blocking, visit the [Mozilla Blog][1].\r\n\r\n\r\n  [1]: https://blog.mozilla.org/blog/2019/01/29/todays-firefox-gives-users-more-control-over-their-privacy/",
       "sort_num": 50,
       "tag": "New"
@@ -21,7 +21,7 @@
       "created": "2019-01-18T17:42:23.001280+00:00",
       "id": 787846,
       "is_public": true,
-      "modified": "2019-01-28T20:15:39.272606+00:00",
+      "modified": "2019-02-08T20:48:36.679356+00:00",
       "note": "A better experience for multilingual users: An [updated Language section][1] in Preferences allows users to install multiple language packs and order language preferences for Firefox and websites, without having to download locale-specific versions.\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/use-firefox-another-language",
       "sort_num": 40,
       "tag": "New"
@@ -31,7 +31,7 @@
       "created": "2019-01-18T17:42:23.988694+00:00",
       "id": 787847,
       "is_public": true,
-      "modified": "2019-01-28T20:15:56.903755+00:00",
+      "modified": "2019-02-08T20:48:30.779270+00:00",
       "note": "Support for Handoff on macOS: Continue browsing across devices. Pick up where you left off with iOS (via Firefox or Safari) on Firefox on Mac.",
       "sort_num": 30,
       "tag": "New"
@@ -41,7 +41,7 @@
       "created": "2019-01-18T17:42:29.010746+00:00",
       "id": 787852,
       "is_public": true,
-      "modified": "2019-01-31T19:23:12.274101+00:00",
+      "modified": "2019-02-08T20:48:23.017389+00:00",
       "note": "A better video streaming experience for 64-bit Windows users: Firefox now supports the next-generation, royalty-free video compression technology called AV1. Read about Mozilla\u2019s contribution to this [new open standard][1].\r\n\r\n\r\n  [1]: https://medium.com/mozilla-tech/mozilla-celebrates-release-of-free-high-quality-video-compression-technology-av1-in-firefox-65-7c95f2b7e56",
       "sort_num": 20,
       "tag": "New"
@@ -51,7 +51,7 @@
       "created": "2019-01-18T17:42:31.006940+00:00",
       "id": 787854,
       "is_public": true,
-      "modified": "2019-01-28T20:16:35.201608+00:00",
+      "modified": "2019-02-08T20:48:22.223555+00:00",
       "note": "Improved performance and web compatibility, with support for the [WebP image format][1]: WebP brings the same image quality as existing formats at smaller file sizes, which saves bandwidth and speeds up page load.\r\n\r\n\r\n  [1]: https://developers.google.com/speed/webp/",
       "sort_num": 10,
       "tag": "New"
@@ -61,7 +61,7 @@
       "created": "2019-01-18T17:42:24.936119+00:00",
       "id": 787848,
       "is_public": true,
-      "modified": "2019-01-28T20:18:04.473661+00:00",
+      "modified": "2019-02-08T20:48:29.405837+00:00",
       "note": "Enhanced security for macOS, Linux, and Android users via stronger stack smashing protection which is now enabled by default for all platforms. \"Stack smashing\" is a common security attack in which malicious actors corrupt or take control of a vulnerable program.",
       "sort_num": 40,
       "tag": "Changed"
@@ -71,7 +71,7 @@
       "created": "2019-01-18T17:42:26.854394+00:00",
       "id": 787850,
       "is_public": true,
-      "modified": "2019-01-28T20:18:18.603631+00:00",
+      "modified": "2019-02-08T20:48:25.953649+00:00",
       "note": "Firefox will now warn you when closing a window (regardless of whether you have automatic session restore enabled for restart).",
       "sort_num": 30,
       "tag": "Changed"
@@ -81,7 +81,7 @@
       "created": "2019-01-18T17:42:25.894875+00:00",
       "id": 787849,
       "is_public": true,
-      "modified": "2019-01-28T20:18:55.591781+00:00",
+      "modified": "2019-02-08T20:48:27.462251+00:00",
       "note": "Easier performance management: The [revamped Task Manager page][1] found at about:performance now reports memory usage for tabs and add-ons.\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/task-manager-tabs-or-extensions-are-slowing-firefox",
       "sort_num": 20,
       "tag": "Changed"
@@ -91,7 +91,7 @@
       "created": "2019-01-28T20:19:30.081854+00:00",
       "id": 787862,
       "is_public": true,
-      "modified": "2019-01-28T20:19:30.081645+00:00",
+      "modified": "2019-02-08T20:48:20.546858+00:00",
       "note": "Improved the pop-up blocker to prevent multiple pop-up windows from being opened by websites at the same time.",
       "sort_num": 10,
       "tag": "Changed"
@@ -101,7 +101,7 @@
       "created": "2019-01-18T17:42:21.985745+00:00",
       "id": 787845,
       "is_public": true,
-      "modified": "2019-01-31T19:23:47.405306+00:00",
+      "modified": "2019-02-08T20:48:19.587393+00:00",
       "note": "Additional support for Flexbox: Launched a [new Flexbox inspector tool][1] that details Flexbox containers and helps debug Flex item sizes.\r\n\r\n\r\n  [1]: https://hacks.mozilla.org/2019/01/new-in-firefox-devtools-65/",
       "sort_num": 30,
       "tag": "Developer"
@@ -111,7 +111,7 @@
       "created": "2019-01-18T17:42:20.951261+00:00",
       "id": 787844,
       "is_public": true,
-      "modified": "2019-01-28T20:20:08.113937+00:00",
+      "modified": "2019-02-08T20:48:38.590766+00:00",
       "note": "All CSS changes made in the Rules panel are now tracked in the new Changes tab.",
       "sort_num": 20,
       "tag": "Developer"
@@ -121,7 +121,7 @@
       "created": "2019-01-18T17:42:19.904638+00:00",
       "id": 787843,
       "is_public": true,
-      "modified": "2019-01-28T20:20:44.223701+00:00",
+      "modified": "2019-02-08T20:48:40.132175+00:00",
       "note": "Added support for the [Storage Access API][1] on desktop platforms.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/API/Storage_Access_API",
       "sort_num": 10,
       "tag": "Developer"
@@ -131,7 +131,7 @@
       "created": "2019-01-18T17:42:32.006599+00:00",
       "id": 787855,
       "is_public": true,
-      "modified": "2019-01-29T14:19:19.108918+00:00",
+      "modified": "2019-02-08T20:48:21.385106+00:00",
       "note": "Firefox for Windows is now available with [32- and 64-bit MSI installers][1] for easier enterprise deployments.\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/firefox-customization-msi-installers",
       "sort_num": 10,
       "tag": "Enterprise"
@@ -141,7 +141,7 @@
       "created": "2019-01-29T14:19:04.641036+00:00",
       "id": 787878,
       "is_public": true,
-      "modified": "2019-01-29T17:00:06.362532+00:00",
+      "modified": "2019-02-08T20:48:41.594988+00:00",
       "note": "Various [security fixes][1].\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/mfsa2019-01/",
       "sort_num": 0,
       "tag": "Fixed"
