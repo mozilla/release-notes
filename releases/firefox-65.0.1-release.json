@@ -55,6 +55,26 @@
       "note": "Improved playback of interactive Netflix videos ([bug 1524500][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1524500",
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": 1523635,
+      "created": "2019-02-08T22:59:54.658950+00:00",
+      "id": 787886,
+      "is_public": true,
+      "modified": "2019-02-08T22:59:54.658744+00:00",
+      "note": "Fixed the \"Enter\" key not working on password entry fields for certain Linux distributions ([bug 1523635][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1523635",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1523696,
+      "created": "2019-02-08T23:01:28.652505+00:00",
+      "id": 787887,
+      "is_public": true,
+      "modified": "2019-02-08T23:01:28.652296+00:00",
+      "note": "Fixed incorrect sizing of the \"Clear Recent History\" window in some situations ([bug 1523696][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1523696",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
