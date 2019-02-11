@@ -75,6 +75,16 @@
       "note": "Fixed incorrect sizing of the \"Clear Recent History\" window in some situations ([bug 1523696][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1523696",
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": 1520200,
+      "created": "2019-02-11T16:09:26.478631+00:00",
+      "id": 787888,
+      "is_public": true,
+      "modified": "2019-02-11T16:09:26.478431+00:00",
+      "note": "Fixed video sizing problems during some WebRTC calls ([bug 1520200][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1520200",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
