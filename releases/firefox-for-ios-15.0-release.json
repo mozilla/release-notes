@@ -1,0 +1,67 @@
+{
+  "bug_list": "",
+  "bug_search_url": "",
+  "channel": "Release",
+  "created": "2019-02-11T17:05:50.487966+00:00",
+  "is_public": true,
+  "modified": "2019-02-11T17:09:34.420011+00:00",
+  "notes": [
+    {
+      "bug": null,
+      "created": "2019-02-11T17:07:07.014693+00:00",
+      "id": 787890,
+      "is_public": true,
+      "modified": "2019-02-11T17:07:07.014487+00:00",
+      "note": "Improved menu with **Library** option and access to bookmarks, history, Reading List and downloads",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2019-02-11T17:07:24.950341+00:00",
+      "id": 787891,
+      "is_public": true,
+      "modified": "2019-02-11T17:07:24.950092+00:00",
+      "note": "Updated **Tab settings** with additional options for selecting a New Tab page",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2019-02-11T17:07:44.776640+00:00",
+      "id": 787892,
+      "is_public": true,
+      "modified": "2019-02-11T17:07:44.776049+00:00",
+      "note": "Remain in Private Browsing mode at all times. Firefox for iOS now remembers when you toggle Private Browsing mode so that any new tabs you open via the Share extension or clipboard bar will open in the browsing mode you were last in.",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2019-02-11T17:08:42.283708+00:00",
+      "id": 787893,
+      "is_public": true,
+      "modified": "2019-02-11T17:08:42.283463+00:00",
+      "note": "Crashes and minor bugs",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2019-02-11T17:09:22.291569+00:00",
+      "id": 787894,
+      "is_public": true,
+      "modified": "2019-02-11T17:09:22.291372+00:00",
+      "note": "Drag to reorder tabs. Reorder your tabs by dragging a tab in the tab bar or tab tray.",
+      "sort_num": 0,
+      "tag": "Fixed"
+    }
+  ],
+  "product": "Firefox for iOS",
+  "release_date": "2019-02-12",
+  "slug": "firefox-for-ios-15.0-release",
+  "system_requirements": "## Operating systems\r\n - iOS 10.3\r\n - iOS 11\r\n - iOS 12",
+  "text": "This version of Firefox for iOS has several usability and performance improvements.",
+  "title": "Firefox for iOS 15.0 Release",
+  "version": "15.0"
+}
