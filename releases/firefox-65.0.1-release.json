@@ -85,6 +85,16 @@
       "note": "Fixed video sizing problems during some WebRTC calls ([bug 1520200][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1520200",
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": 1526387,
+      "created": "2019-02-11T16:13:18.191695+00:00",
+      "id": 787889,
+      "is_public": true,
+      "modified": "2019-02-11T16:13:18.191473+00:00",
+      "note": "Fixed accidental requests to addons.mozilla.org when an addon recommendation doorhanger is shown ([bug 1526387][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1526387",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
