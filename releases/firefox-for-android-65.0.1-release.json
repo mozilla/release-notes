@@ -3,9 +3,19 @@
   "bug_search_url": "",
   "channel": "Release",
   "created": "2019-02-08T20:44:57.335077+00:00",
-  "is_public": false,
-  "modified": "2019-02-08T20:47:41.540854+00:00",
+  "is_public": true,
+  "modified": "2019-02-12T18:39:15.064069+00:00",
   "notes": [
+    {
+      "bug": null,
+      "created": "2019-02-12T18:38:42.074564+00:00",
+      "id": 787898,
+      "is_public": true,
+      "modified": "2019-02-12T18:38:42.074360+00:00",
+      "note": "Reference link to [65.0 release notes][0]\r\n\r\n[0]: https://www.mozilla.org/firefox/android/65.0/releasenotes/",
+      "sort_num": 0,
+      "tag": ""
+    },
     {
       "bug": null,
       "created": "2019-02-08T20:48:41.360447+00:00",
