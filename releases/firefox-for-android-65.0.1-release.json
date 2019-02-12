@@ -17,6 +17,16 @@
       "tag": ""
     },
     {
+      "bug": 1523427,
+      "created": "2019-02-08T20:55:01.107156+00:00",
+      "id": 787882,
+      "is_public": true,
+      "modified": "2019-02-12T20:02:03.554133+00:00",
+      "note": "Fixed looping CONNECT requests when using WebSockets over HTTP/2 from behind a proxy server ([bug 1523427][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1523427",
+      "sort_num": 30,
+      "tag": "Fixed"
+    },
+    {
       "bug": null,
       "created": "2019-02-08T20:48:41.360447+00:00",
       "id": 787881,
