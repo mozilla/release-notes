@@ -5,7 +5,18 @@
   "created": "2019-01-28T08:40:06.024525+00:00",
   "is_public": true,
   "modified": "2019-01-29T13:36:10.626086+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": 1252831,
+      "created": "2019-02-12T17:13:54.814282+00:00",
+      "id": 787896,
+      "is_public": true,
+      "modified": "2019-02-12T17:13:54.814070+00:00",
+      "note": "Firefox no longer supports handling webcal: links with 30boxes.com",
+      "sort_num": 0,
+      "tag": "Changed"
+    }
+  ],
   "product": "Firefox",
   "release_date": "2019-01-28",
   "slug": "firefox-67.0a1-nightly",
