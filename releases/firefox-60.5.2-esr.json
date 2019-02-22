@@ -21,8 +21,8 @@
       "created": "2019-02-21T19:15:49.378503+00:00",
       "id": 787899,
       "is_public": true,
-      "modified": "2019-02-21T19:15:49.378260+00:00",
-      "note": "Fixed a frequent crash when reading various Reuters news articles",
+      "modified": "2019-02-22T09:55:43.994101+00:00",
+      "note": "Fixed a frequent crash when reading various Reuters news articles ([bug 1505844][0])\r\n\r\n[0]: https://bugzilla.mozilla.org/1505844",
       "sort_num": 0,
       "tag": "Fixed"
     }
