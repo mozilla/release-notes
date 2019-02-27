@@ -11,7 +11,7 @@
       "created": "2019-02-12T18:37:57.162038+00:00",
       "id": 787897,
       "is_public": true,
-      "modified": "2019-02-12T18:37:57.161831+00:00",
+      "modified": "2019-02-27T22:25:20.479095+00:00",
       "note": "Reference link to [65.0 release notes][0]\r\n\r\n[0]: https://www.mozilla.org/firefox/65.0/releasenotes/",
       "sort_num": 0,
       "tag": ""
@@ -21,7 +21,7 @@
       "created": "2019-02-11T19:16:26.123944+00:00",
       "id": 787895,
       "is_public": true,
-      "modified": "2019-02-11T19:16:26.123729+00:00",
+      "modified": "2019-02-27T22:25:21.899028+00:00",
       "note": "Made support for `<meta>` viewport tags in Responsive Design Mode, initially enabled in Firefox 64, pref-controlled and off by default ([bug 1521814][1]). To restore the previous behavior, change the `devtools.responsive.metaViewport.enabled` pref to true.\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1521814",
       "sort_num": 0,
       "tag": "Developer"
@@ -31,7 +31,7 @@
       "created": "2019-02-11T16:13:18.191695+00:00",
       "id": 787889,
       "is_public": true,
-      "modified": "2019-02-11T19:23:36.232152+00:00",
+      "modified": "2019-02-27T22:25:25.007139+00:00",
       "note": "Fixed accidental requests to addons.mozilla.org when an addon recommendation doorhanger is shown ([bug 1526387][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1526387",
       "sort_num": 90,
       "tag": "Fixed"
@@ -41,7 +41,7 @@
       "created": "2019-02-08T21:25:03.533261+00:00",
       "id": 787885,
       "is_public": true,
-      "modified": "2019-02-11T19:23:39.296921+00:00",
+      "modified": "2019-02-27T22:25:28.245533+00:00",
       "note": "Improved playback of interactive Netflix videos ([bug 1524500][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1524500",
       "sort_num": 80,
       "tag": "Fixed"
@@ -51,7 +51,7 @@
       "created": "2019-02-08T21:19:55.036198+00:00",
       "id": 787883,
       "is_public": true,
-      "modified": "2019-02-11T19:23:42.505795+00:00",
+      "modified": "2019-02-27T22:25:29.617149+00:00",
       "note": "Fixed color management not working on macOS ([bug 1506495][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1506495",
       "sort_num": 70,
       "tag": "Fixed"
@@ -61,7 +61,7 @@
       "created": "2019-02-08T23:01:28.652505+00:00",
       "id": 787887,
       "is_public": true,
-      "modified": "2019-02-11T19:23:45.310115+00:00",
+      "modified": "2019-02-27T22:25:26.837255+00:00",
       "note": "Fixed incorrect sizing of the \"Clear Recent History\" window in some situations ([bug 1523696][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1523696",
       "sort_num": 60,
       "tag": "Fixed"
@@ -71,7 +71,7 @@
       "created": "2019-02-08T21:22:22.925105+00:00",
       "id": 787884,
       "is_public": true,
-      "modified": "2019-02-11T19:23:48.371118+00:00",
+      "modified": "2019-02-27T22:25:28.887508+00:00",
       "note": "Fixed audio & video delays while making WebRTC calls ([bug 1521577][1] & [bug 1523817][2])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1521577\r\n  [2]: https://bugzilla.mozilla.org/show_bug.cgi?id=1523817",
       "sort_num": 50,
       "tag": "Fixed"
@@ -81,7 +81,7 @@
       "created": "2019-02-11T16:09:26.478631+00:00",
       "id": 787888,
       "is_public": true,
-      "modified": "2019-02-11T19:23:51.085424+00:00",
+      "modified": "2019-02-27T22:25:25.966810+00:00",
       "note": "Fixed video sizing problems during some WebRTC calls ([bug 1520200][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1520200",
       "sort_num": 40,
       "tag": "Fixed"
@@ -91,7 +91,7 @@
       "created": "2019-02-08T20:55:01.107156+00:00",
       "id": 787882,
       "is_public": true,
-      "modified": "2019-02-12T20:02:03.554133+00:00",
+      "modified": "2019-02-27T22:25:30.334471+00:00",
       "note": "Fixed looping CONNECT requests when using WebSockets over HTTP/2 from behind a proxy server ([bug 1523427][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1523427",
       "sort_num": 30,
       "tag": "Fixed"
@@ -101,7 +101,7 @@
       "created": "2019-02-08T22:59:54.658950+00:00",
       "id": 787886,
       "is_public": true,
-      "modified": "2019-02-11T19:23:57.202489+00:00",
+      "modified": "2019-02-27T22:25:27.594428+00:00",
       "note": "Fixed the \"Enter\" key not working on password entry fields for certain Linux distributions ([bug 1523635][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1523635",
       "sort_num": 20,
       "tag": "Fixed"
@@ -111,7 +111,7 @@
       "created": "2019-02-08T20:48:41.360447+00:00",
       "id": 787881,
       "is_public": true,
-      "modified": "2019-02-12T19:28:16.150918+00:00",
+      "modified": "2019-02-27T22:25:32.610875+00:00",
       "note": "Various stability and [security fixes][1].\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/mfsa2019-04/",
       "sort_num": 0,
       "tag": "Fixed"
@@ -121,7 +121,7 @@
       "created": "2019-02-25T15:58:45.985586+00:00",
       "id": 787902,
       "is_public": true,
-      "modified": "2019-02-25T15:58:45.985156+00:00",
+      "modified": "2019-02-27T22:25:19.306426+00:00",
       "note": "Some Linux users may experience performance issues with the Downloads panel ([bug 1517101][1]).\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1517101",
       "sort_num": 0,
       "tag": "Known"
