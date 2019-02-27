@@ -5,7 +5,28 @@
   "created": "2019-02-27T22:24:55.491936+00:00",
   "is_public": false,
   "modified": "2019-02-27T22:25:15.484612+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": null,
+      "created": "2019-02-27T22:26:26.568396+00:00",
+      "id": 787904,
+      "is_public": true,
+      "modified": "2019-02-27T22:26:26.568145+00:00",
+      "note": "Reference link to [65.0.1 release notes][0]\r\n\r\n[0]: https://www.mozilla.org/firefox/65.0.1/releasenotes/",
+      "sort_num": 0,
+      "tag": ""
+    },
+    {
+      "bug": 1529919,
+      "created": "2019-02-27T22:28:20.956741+00:00",
+      "id": 787905,
+      "is_public": true,
+      "modified": "2019-02-27T22:28:20.956452+00:00",
+      "note": "Something, something, Geolocation",
+      "sort_num": 0,
+      "tag": "Fixed"
+    }
+  ],
   "product": "Firefox",
   "release_date": "2019-02-28",
   "slug": "firefox-65.0.2-release",
