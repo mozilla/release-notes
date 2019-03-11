@@ -11,7 +11,7 @@
       "created": "2019-01-28T21:11:35.995911+00:00",
       "id": 787863,
       "is_public": true,
-      "modified": "2019-01-28T22:43:18.214745+00:00",
+      "modified": "2019-03-11T08:40:09.099945+00:00",
       "note": "Increased content processes to 8",
       "sort_num": 90,
       "tag": "New"
@@ -21,7 +21,7 @@
       "created": "2019-01-28T21:12:22.213460+00:00",
       "id": 787864,
       "is_public": true,
-      "modified": "2019-01-28T22:44:07.369651+00:00",
+      "modified": "2019-03-11T08:40:07.328295+00:00",
       "note": "Added capability to search through open tabs from the tab overflow menu",
       "sort_num": 87,
       "tag": "New"
@@ -31,7 +31,7 @@
       "created": "2019-01-28T21:12:48.606724+00:00",
       "id": 787865,
       "is_public": true,
-      "modified": "2019-01-28T21:14:33.580585+00:00",
+      "modified": "2019-03-11T08:40:06.476630+00:00",
       "note": "New backend for the storage.local WebExtensions API, providing I/O performance improvements when the extension updates a small subset of the stored data",
       "sort_num": 85,
       "tag": "New"
@@ -41,7 +41,7 @@
       "created": "2019-01-28T21:13:15.762639+00:00",
       "id": 787866,
       "is_public": true,
-      "modified": "2019-01-28T21:15:16.491454+00:00",
+      "modified": "2019-03-11T08:40:05.701843+00:00",
       "note": "WebExtension keyboard shortcuts can now be managed or overridden from about:addons",
       "sort_num": 82,
       "tag": "New"
@@ -51,7 +51,7 @@
       "created": "2019-01-28T21:16:44.260624+00:00",
       "id": 787867,
       "is_public": true,
-      "modified": "2019-01-28T21:16:44.260417+00:00",
+      "modified": "2019-03-11T08:40:04.004328+00:00",
       "note": "Improved scrolling behavior: Firefox will now attempt to keep content from jumping around while a page is loading by supporting scroll anchoring",
       "sort_num": 73,
       "tag": "New"
@@ -61,7 +61,7 @@
       "created": "2019-01-28T21:17:39.530700+00:00",
       "id": 787868,
       "is_public": true,
-      "modified": "2019-01-28T21:17:39.530470+00:00",
+      "modified": "2019-03-11T08:40:03.102902+00:00",
       "note": "New about:privatebrowsing with search",
       "sort_num": 68,
       "tag": "New"
@@ -71,7 +71,7 @@
       "created": "2019-01-28T21:26:29.691299+00:00",
       "id": 787870,
       "is_public": true,
-      "modified": "2019-01-28T21:26:29.691099+00:00",
+      "modified": "2019-03-11T08:40:01.863644+00:00",
       "note": "Basic macOS touchbar support",
       "sort_num": 45,
       "tag": "New"
@@ -81,7 +81,7 @@
       "created": "2019-01-28T21:29:29.585273+00:00",
       "id": 787872,
       "is_public": true,
-      "modified": "2019-01-28T21:29:29.585070+00:00",
+      "modified": "2019-03-11T08:40:17.492858+00:00",
       "note": "A certificate error page now notifies the user of the name of the certificate issuer that breaks HTTPs connections on intercepted connections to help troubleshooting possible anti-virus software issues.",
       "sort_num": 42,
       "tag": "New"
@@ -91,7 +91,7 @@
       "created": "2019-01-28T21:21:27.288203+00:00",
       "id": 787869,
       "is_public": true,
-      "modified": "2019-02-05T01:41:01.826211+00:00",
+      "modified": "2019-03-11T08:40:01.013067+00:00",
       "note": "Firefox now [blocks all autoplay media with sound][1] by default. Users can [add individual sites to an exceptions list or turn the blocking off][2]. \r\n\r\n\r\n  [1]: https://hacks.mozilla.org/2019/02/firefox-66-to-block-automatically-playing-audible-video-and-audio/\r\n  [2]: https://support.mozilla.org/kb/block-autoplay",
       "sort_num": 60,
       "tag": "Changed"
@@ -101,7 +101,7 @@
       "created": "2019-01-28T21:26:59.672987+00:00",
       "id": 787871,
       "is_public": true,
-      "modified": "2019-01-28T21:26:59.672786+00:00",
+      "modified": "2019-03-11T08:40:11.229436+00:00",
       "note": "System title bar is hidden by default to match Gnome guideline",
       "sort_num": 0,
       "tag": "Changed"
@@ -111,7 +111,7 @@
       "created": "2019-01-28T21:30:26.656505+00:00",
       "id": 787873,
       "is_public": true,
-      "modified": "2019-01-28T21:30:26.656303+00:00",
+      "modified": "2019-03-11T08:40:16.852865+00:00",
       "note": "It is now possible to select new elements in the page while the debugger is paused",
       "sort_num": 30,
       "tag": "Developer"
@@ -121,7 +121,7 @@
       "created": "2019-01-28T21:30:52.762798+00:00",
       "id": 787874,
       "is_public": true,
-      "modified": "2019-01-28T21:30:52.762581+00:00",
+      "modified": "2019-03-11T08:40:14.690467+00:00",
       "note": "JavaScript getters can now be executed from the auto-completion popup in the WebConsole",
       "sort_num": 28,
       "tag": "Developer"
@@ -131,7 +131,7 @@
       "created": "2019-01-28T21:31:36.025315+00:00",
       "id": 787875,
       "is_public": true,
-      "modified": "2019-01-28T21:31:36.025101+00:00",
+      "modified": "2019-03-11T08:40:13.486761+00:00",
       "note": "window.alert()/prompt()/confirm() now works again in Responsive Design Mode",
       "sort_num": 26,
       "tag": "Developer"
@@ -141,7 +141,7 @@
       "created": "2019-02-25T17:52:17.205149+00:00",
       "id": 787903,
       "is_public": true,
-      "modified": "2019-02-25T19:11:55.317198+00:00",
+      "modified": "2019-03-11T08:40:00.349140+00:00",
       "note": "Fixed an performance issue some Linux users  experienced with the Downloads panel ([bug 1517101][1]). [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1517101",
       "sort_num": 20,
       "tag": "Fixed"
