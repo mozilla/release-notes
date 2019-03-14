@@ -4,10 +4,61 @@
   "channel": "Beta",
   "created": "2019-03-11T08:39:37.365973+00:00",
   "is_public": false,
-  "modified": "2019-03-11T08:41:53.517862+00:00",
-  "notes": [],
+  "modified": "2019-03-14T17:05:46.475745+00:00",
+  "notes": [
+    {
+      "bug": 1528952,
+      "created": "2019-02-28T16:53:24.070648+00:00",
+      "id": 787906,
+      "is_public": true,
+      "modified": "2019-03-14T17:04:19.298278+00:00",
+      "note": "Tabs can now be pinned from the *Page Actions* menu in the address bar",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1527917,
+      "created": "2019-03-08T17:13:49.171324+00:00",
+      "id": 787909,
+      "is_public": true,
+      "modified": "2019-03-14T17:04:38.581996+00:00",
+      "note": "Users can block known cryptominers and fingerprinters in the *Custom* settings  or their *Content Blocking* preferences",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1522856,
+      "created": "2019-03-08T17:20:54.834707+00:00",
+      "id": 787911,
+      "is_public": true,
+      "modified": "2019-03-14T17:04:47.423457+00:00",
+      "note": "The *Import Data from Another Browser* feature is now also available from the *File* menu",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1474285,
+      "created": "2019-03-08T17:54:07.416748+00:00",
+      "id": 787912,
+      "is_public": true,
+      "modified": "2019-03-14T17:03:33.633541+00:00",
+      "note": "Firefox 67 willl be able to run different Firefox installs [side by side by default][1].\r\n\r\n\r\n  [1]: https://blog.nightly.mozilla.org/2019/01/14/moving-to-a-profile-per-install-architecture/",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1252831,
+      "created": "2019-02-12T17:13:54.814282+00:00",
+      "id": 787896,
+      "is_public": true,
+      "modified": "2019-03-14T17:04:02.738179+00:00",
+      "note": "Firefox no longer supports handling webcal: links with 30boxes.com",
+      "sort_num": 0,
+      "tag": "Changed"
+    }
+  ],
   "product": "Firefox",
-  "release_date": "2019-03-11",
+  "release_date": "2019-03-18",
   "slug": "firefox-67.0beta-beta",
   "system_requirements": "## Windows\r\n\r\n### Operating Systems (32-bit and 64-bit)\r\n - Windows 7\r\n - Windows 8\r\n - Windows 10\r\n\r\n### Recommended Hardware\r\n-  Pentium 4 or newer processor that supports SSE2\r\n-  512MB of RAM / 2GB of RAM for the 64-bit version\r\n-  200MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- macOS 10.9\r\n- macOS 10.10\r\n- macOS 10.11\r\n- macOS 10.12\r\n- macOS 10.13\r\n- macOS 10.14\r\n\r\n### Recommended Hardware\r\n- Macintosh computer with an Intel x86 processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - GTK+ 3.4 or higher\r\n    - GLib 2.22 or higher\r\n    - Pango 1.22 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n    - libstdc++ 4.6.1 or higher\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - NetworkManager 0.7 or higher\r\n    - DBus 1.0 or higher\r\n    - GNOME 2.16 or higher\r\n    - PulseAudio",
   "text": "",
