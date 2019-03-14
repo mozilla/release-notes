@@ -65,6 +65,16 @@
       "note": "Firefox no longer supports handling webcal: links with 30boxes.com",
       "sort_num": 0,
       "tag": "Changed"
+    },
+    {
+      "bug": 1511636,
+      "created": "2019-03-14T18:05:15.989605+00:00",
+      "id": 787915,
+      "is_public": true,
+      "modified": "2019-03-14T18:05:15.989394+00:00",
+      "note": "*Change to extensions in Private Windows:*  Any new extensions you add to the browser won\u2019t work in Private Windows unless you allow this in the settings.",
+      "sort_num": 0,
+      "tag": "Changed"
     }
   ],
   "product": "Firefox",
