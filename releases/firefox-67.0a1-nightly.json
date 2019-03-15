@@ -7,6 +7,16 @@
   "modified": "2019-03-08T17:25:06.406560+00:00",
   "notes": [
     {
+      "bug": 1474285,
+      "created": "2019-03-08T17:54:07.416748+00:00",
+      "id": 787912,
+      "is_public": true,
+      "modified": "2019-03-15T18:06:33.840450+00:00",
+      "note": "Firefox 67 willl be able to run different Firefox installs [side by side by default][1].\r\n\r\n\r\n  [1]: https://blog.nightly.mozilla.org/2019/01/14/moving-to-a-profile-per-install-architecture/",
+      "sort_num": 18,
+      "tag": "New"
+    },
+    {
       "bug": 1528952,
       "created": "2019-02-28T16:53:24.070648+00:00",
       "id": 787906,
@@ -33,16 +43,6 @@
       "is_public": true,
       "modified": "2019-03-14T17:04:47.423457+00:00",
       "note": "The *Import Data from Another Browser* feature is now also available from the *File* menu",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
-      "bug": 1474285,
-      "created": "2019-03-08T17:54:07.416748+00:00",
-      "id": 787912,
-      "is_public": true,
-      "modified": "2019-03-14T17:03:33.633541+00:00",
-      "note": "Firefox 67 willl be able to run different Firefox installs [side by side by default][1].\r\n\r\n\r\n  [1]: https://blog.nightly.mozilla.org/2019/01/14/moving-to-a-profile-per-install-architecture/",
       "sort_num": 0,
       "tag": "New"
     },

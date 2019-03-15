@@ -7,6 +7,16 @@
   "modified": "2019-03-14T17:05:46.475745+00:00",
   "notes": [
     {
+      "bug": 1474285,
+      "created": "2019-03-08T17:54:07.416748+00:00",
+      "id": 787912,
+      "is_public": true,
+      "modified": "2019-03-15T18:06:33.840450+00:00",
+      "note": "Firefox 67 willl be able to run different Firefox installs [side by side by default][1].\r\n\r\n\r\n  [1]: https://blog.nightly.mozilla.org/2019/01/14/moving-to-a-profile-per-install-architecture/",
+      "sort_num": 18,
+      "tag": "New"
+    },
+    {
       "bug": 1528952,
       "created": "2019-02-28T16:53:24.070648+00:00",
       "id": 787906,
@@ -37,16 +47,6 @@
       "tag": "New"
     },
     {
-      "bug": 1474285,
-      "created": "2019-03-08T17:54:07.416748+00:00",
-      "id": 787912,
-      "is_public": true,
-      "modified": "2019-03-14T17:03:33.633541+00:00",
-      "note": "Firefox 67 willl be able to run different Firefox installs [side by side by default][1].\r\n\r\n\r\n  [1]: https://blog.nightly.mozilla.org/2019/01/14/moving-to-a-profile-per-install-architecture/",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
       "bug": 1455707,
       "created": "2019-03-15T15:51:59.193553+00:00",
       "id": 787917,
@@ -55,6 +55,16 @@
       "note": "Firefox will now protect you against running older versions of Firefox which can lead to data corruption and stability issues.",
       "sort_num": 0,
       "tag": "New"
+    },
+    {
+      "bug": 1490742,
+      "created": "2019-03-15T18:05:29.383129+00:00",
+      "id": 787918,
+      "is_public": true,
+      "modified": "2019-03-15T18:05:58.235616+00:00",
+      "note": "**Intent to ship:** WebRender was enabled by default in Betas since Firefox 64 for Desktop NVIDIA GPUs on Windows 10 and should be released with Firefox 67 in May",
+      "sort_num": 20,
+      "tag": "Changed"
     },
     {
       "bug": 1252831,
