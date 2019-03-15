@@ -47,6 +47,16 @@
       "tag": "New"
     },
     {
+      "bug": 1455707,
+      "created": "2019-03-15T15:51:59.193553+00:00",
+      "id": 787917,
+      "is_public": true,
+      "modified": "2019-03-15T15:51:59.193336+00:00",
+      "note": "Firefox will now protect you against running older versions of Firefox which can lead to data corruption and stability issues.",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1252831,
       "created": "2019-02-12T17:13:54.814282+00:00",
       "id": 787896,
