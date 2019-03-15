@@ -75,6 +75,16 @@
       "note": "*Change to extensions in Private Windows:*  Any new extensions you add to the browser won\u2019t work in Private Windows unless you allow this in the settings.",
       "sort_num": 0,
       "tag": "Changed"
+    },
+    {
+      "bug": 1515875,
+      "created": "2019-03-15T11:22:07.824710+00:00",
+      "id": 787916,
+      "is_public": true,
+      "modified": "2019-03-15T11:22:12.713646+00:00",
+      "note": "The DevTools Changes panel now supports copying modified CSS. You can either copy the full changes or individual changed rules.",
+      "sort_num": 0,
+      "tag": "HTML5"
     }
   ],
   "product": "Firefox",
