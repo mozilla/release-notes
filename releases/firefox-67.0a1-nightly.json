@@ -11,7 +11,7 @@
       "created": "2019-03-08T17:54:07.416748+00:00",
       "id": 787912,
       "is_public": true,
-      "modified": "2019-03-15T18:06:33.840450+00:00",
+      "modified": "2019-03-18T10:10:55.992562+00:00",
       "note": "Firefox 67 willl be able to run different Firefox installs [side by side by default][1].\r\n\r\n\r\n  [1]: https://blog.nightly.mozilla.org/2019/01/14/moving-to-a-profile-per-install-architecture/",
       "sort_num": 18,
       "tag": "New"
@@ -21,7 +21,7 @@
       "created": "2019-02-28T16:53:24.070648+00:00",
       "id": 787906,
       "is_public": true,
-      "modified": "2019-03-14T17:04:19.298278+00:00",
+      "modified": "2019-03-18T10:10:49.204253+00:00",
       "note": "Tabs can now be pinned from the *Page Actions* menu in the address bar",
       "sort_num": 0,
       "tag": "New"
@@ -31,7 +31,7 @@
       "created": "2019-03-08T17:13:49.171324+00:00",
       "id": 787909,
       "is_public": true,
-      "modified": "2019-03-14T17:04:38.581996+00:00",
+      "modified": "2019-03-18T10:10:56.887718+00:00",
       "note": "Users can block known cryptominers and fingerprinters in the *Custom* settings  or their *Content Blocking* preferences",
       "sort_num": 0,
       "tag": "New"
@@ -41,7 +41,7 @@
       "created": "2019-03-08T17:20:54.834707+00:00",
       "id": 787911,
       "is_public": true,
-      "modified": "2019-03-14T17:04:47.423457+00:00",
+      "modified": "2019-03-18T10:10:50.374067+00:00",
       "note": "The *Import Data from Another Browser* feature is now also available from the *File* menu",
       "sort_num": 0,
       "tag": "New"
@@ -51,7 +51,7 @@
       "created": "2019-03-08T17:55:20.098666+00:00",
       "id": 787913,
       "is_public": true,
-      "modified": "2019-03-08T18:02:53.031034+00:00",
+      "modified": "2019-03-18T10:10:54.678476+00:00",
       "note": "Added a new *about:compat* page which allows the user to see, and temporarily disable, active site interventions in both Firefox for Desktop and Firefox for Android\r\n<!-- Firefox Nightly only, targetting version 68 -->",
       "sort_num": 0,
       "tag": "New"
@@ -61,7 +61,7 @@
       "created": "2019-03-15T15:51:59.193553+00:00",
       "id": 787917,
       "is_public": true,
-      "modified": "2019-03-15T15:51:59.193336+00:00",
+      "modified": "2019-03-18T10:10:52.768123+00:00",
       "note": "Firefox will now protect you against running older versions of Firefox which can lead to data corruption and stability issues.",
       "sort_num": 0,
       "tag": "New"
@@ -71,7 +71,7 @@
       "created": "2019-02-12T17:13:54.814282+00:00",
       "id": 787896,
       "is_public": true,
-      "modified": "2019-03-14T17:04:02.738179+00:00",
+      "modified": "2019-03-18T10:10:51.766082+00:00",
       "note": "Firefox no longer supports handling webcal: links with 30boxes.com",
       "sort_num": 0,
       "tag": "Changed"
@@ -81,7 +81,7 @@
       "created": "2019-03-14T18:05:15.989605+00:00",
       "id": 787915,
       "is_public": true,
-      "modified": "2019-03-14T18:33:57.342969+00:00",
+      "modified": "2019-03-18T10:10:54.011501+00:00",
       "note": "*Change to extensions in Private Windows:*  Any new extensions you add to the browser won\u2019t work in Private Windows unless you allow this in the settings.",
       "sort_num": 0,
       "tag": "Changed"
@@ -91,7 +91,7 @@
       "created": "2019-03-15T11:22:07.824710+00:00",
       "id": 787916,
       "is_public": true,
-      "modified": "2019-03-15T11:32:46.724925+00:00",
+      "modified": "2019-03-18T10:10:53.509751+00:00",
       "note": "The DevTools Changes panel now supports copying modified CSS. You can either copy the full changes or individual changed rules.",
       "sort_num": 0,
       "tag": "Developer"
