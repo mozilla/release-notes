@@ -5,7 +5,48 @@
   "created": "2019-02-25T17:56:04.592268+00:00",
   "is_public": false,
   "modified": "2019-02-25T17:56:04.592043+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": 1376321,
+      "created": "2019-03-18T17:46:07.237950+00:00",
+      "id": 787919,
+      "is_public": true,
+      "modified": "2019-03-18T18:00:21.333242+00:00",
+      "note": "Firefox now prevents websites from automatically playing sound. You can [add individual sites to an exceptions list or turn blocking off][1]. To learn more about block autoplay, visit the [Mozilla blog][2].\r\n\r\n\r\n  [1]: https://support.mozilla.org/af/kb/block-autoplay\r\n  [2]: https://www.google.com/url?q=https://blog.mozilla.org/blog/2019/03/19/todays-firefox-aims-to-reduce-your-online-annoyances/&sa=D&ust=1552934203644000&usg=AFQjCNFUImPlEX2kiNCmh08IQF_X34eEbw",
+      "sort_num": 97,
+      "tag": "New"
+    },
+    {
+      "bug": 1532374,
+      "created": "2019-03-18T17:49:50.764313+00:00",
+      "id": 787920,
+      "is_public": true,
+      "modified": "2019-03-18T17:59:26.065215+00:00",
+      "note": "Improved search experience:\r\n\r\n - Find a specific webpage faster when you have a lot of tabs open: You\r\n   can now search within all of your open tabs from the [tab overflow\r\n   menu][1].  \r\n - Easier search via a redesigned new tab in Private Windows.\r\n\r\n  [1]: https://support.mozilla.org/en-US/kb/search-open-tabs-firefox",
+      "sort_num": 95,
+      "tag": "New"
+    },
+    {
+      "bug": 1519644,
+      "created": "2019-03-18T18:01:02.514572+00:00",
+      "id": 787923,
+      "is_public": true,
+      "modified": "2019-03-18T18:01:02.514365+00:00",
+      "note": "Smoother scrolling: Scroll anchoring keeps content from jumping as images and ads load at the top of the page",
+      "sort_num": 93,
+      "tag": ""
+    },
+    {
+      "bug": 1406181,
+      "created": "2019-03-18T18:03:15.043600+00:00",
+      "id": 787924,
+      "is_public": true,
+      "modified": "2019-03-18T18:03:15.043322+00:00",
+      "note": "Improved performance and better user experience for extensions:\r\n\r\n - Extensions now [store their settings in a Firefox database][1], rather\r\n   than individual JSON files, making every site you visit faster.  \r\n - A r[edesigned keyboard shortcuts section][2] in about:addons makes it\r\n   easier to view and adjust default shortcuts.\r\n\r\n\r\n  [1]: https://blog.mozilla.org/addons/2019/02/15/extensions-in-firefox-66/\r\n  [2]: https://support.mozilla.org/kb/manage-extension-shortcuts-firefox",
+      "sort_num": 90,
+      "tag": "New"
+    }
+  ],
   "product": "Firefox",
   "release_date": "2019-03-19",
   "slug": "firefox-66.0-release",
