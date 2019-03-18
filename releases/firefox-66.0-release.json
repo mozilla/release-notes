@@ -51,10 +51,100 @@
       "created": "2019-03-18T18:14:40.250038+00:00",
       "id": 787925,
       "is_public": true,
-      "modified": "2019-03-18T18:14:40.249814+00:00",
-      "note": "Redesigned certificate error pages help you better understand and resolve issues, including identification of certificate issuers for anti-virus software.",
+      "modified": "2019-03-18T18:28:15.676619+00:00",
+      "note": "Redesigned certificate error pages help you [better understand and resolve issues][1], including identification of certificate issuers for anti-virus software.\r\n\r\n\r\n  [1]: https://blog.mozilla.org/ux/2019/03/designing-better-security-warnings/",
       "sort_num": 84,
       "tag": "New"
+    },
+    {
+      "bug": 1313429,
+      "created": "2019-03-18T18:30:39.544214+00:00",
+      "id": 787927,
+      "is_public": true,
+      "modified": "2019-03-18T18:30:39.544010+00:00",
+      "note": "Added basic support for macOS Touch Bar.",
+      "sort_num": 84,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2019-03-18T18:31:28.921196+00:00",
+      "id": 787928,
+      "is_public": true,
+      "modified": "2019-03-18T18:31:28.920988+00:00",
+      "note": "Experimenting with an [improved Pocket experience][1] in New Tab with different layouts and more topical content. \r\n\r\n\r\n  [1]: https://help.getpocket.com/article/1149-firefox-home-layout-tests-faq",
+      "sort_num": 80,
+      "tag": "New"
+    },
+    {
+      "bug": 1520227,
+      "created": "2019-03-18T18:30:03.678058+00:00",
+      "id": 787926,
+      "is_public": true,
+      "modified": "2019-03-18T18:30:03.677830+00:00",
+      "note": "Improved performance and reduced crash rates by [doubling web content loading processes from 4 to 8.][1]\r\n\r\n\r\n  [1]: http://www.erahm.org/2019/03/13/doubling-the-number-of-content-processes-in-firefox/",
+      "sort_num": 76,
+      "tag": "New"
+    },
+    {
+      "bug": 1508115,
+      "created": "2019-03-18T18:34:43.829970+00:00",
+      "id": 787929,
+      "is_public": true,
+      "modified": "2019-03-18T18:34:43.829756+00:00",
+      "note": "Easier, passwordless security: Added support for Windows Hello on Windows 10, allowing you to use your face, fingerprint, or external security keys for website authentication.",
+      "sort_num": 70,
+      "tag": "New"
+    },
+    {
+      "bug": 1490344,
+      "created": "2019-03-18T18:39:51.984577+00:00",
+      "id": 787933,
+      "is_public": true,
+      "modified": "2019-03-18T18:39:51.984319+00:00",
+      "note": "System title bar is hidden by default to match Gnome guideline for Linux users.",
+      "sort_num": 45,
+      "tag": "Changed"
+    },
+    {
+      "bug": 1177346,
+      "created": "2019-03-18T18:40:31.243222+00:00",
+      "id": 787934,
+      "is_public": true,
+      "modified": "2019-03-18T18:40:31.243011+00:00",
+      "note": "DevTools Inspector is now fully usable when the Debugger is paused",
+      "sort_num": 38,
+      "tag": "Developer"
+    },
+    {
+      "bug": 1504766,
+      "created": "2019-03-18T18:36:13.706093+00:00",
+      "id": 787930,
+      "is_public": true,
+      "modified": "2019-03-18T18:36:13.705886+00:00",
+      "note": "The Dark and Light Firefox themes now override the system setting for title bar accent color on Windows 10",
+      "sort_num": 60,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1517101,
+      "created": "2019-03-18T18:36:57.187207+00:00",
+      "id": 787931,
+      "is_public": true,
+      "modified": "2019-03-18T18:36:57.186760+00:00",
+      "note": "Linux users: Resolved an issue that caused Firefox to freeze when downloading files.",
+      "sort_num": 55,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2019-03-18T18:37:57.047356+00:00",
+      "id": 787932,
+      "is_public": true,
+      "modified": "2019-03-18T18:37:57.047146+00:00",
+      "note": "Various [security fixes][1].\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/",
+      "sort_num": 50,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",

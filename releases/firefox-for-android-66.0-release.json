@@ -25,6 +25,16 @@
       "note": "Added support to open files from external storage, such as an SD card",
       "sort_num": 90,
       "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2019-03-18T18:37:57.047356+00:00",
+      "id": 787932,
+      "is_public": true,
+      "modified": "2019-03-18T18:37:57.047146+00:00",
+      "note": "Various [security fixes][1].\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/",
+      "sort_num": 50,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox for Android",
