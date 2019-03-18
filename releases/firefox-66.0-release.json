@@ -31,10 +31,10 @@
       "created": "2019-03-18T18:01:02.514572+00:00",
       "id": 787923,
       "is_public": true,
-      "modified": "2019-03-18T18:01:02.514365+00:00",
+      "modified": "2019-03-18T19:58:31.130109+00:00",
       "note": "Smoother scrolling: Scroll anchoring keeps content from jumping as images and ads load at the top of the page",
       "sort_num": 93,
-      "tag": ""
+      "tag": "New"
     },
     {
       "bug": 1406181,
@@ -131,8 +131,8 @@
       "created": "2019-03-18T18:50:22.517263+00:00",
       "id": 787936,
       "is_public": true,
-      "modified": "2019-03-18T18:50:22.517033+00:00",
-      "note": "Fixed: <button> element is no longer special cased in event dispatch, per latest specifications",
+      "modified": "2019-03-18T19:58:07.109484+00:00",
+      "note": "Fixed: &lt;button&gt; element is no longer special cased in event dispatch, per latest specifications",
       "sort_num": 28,
       "tag": "Developer"
     },
