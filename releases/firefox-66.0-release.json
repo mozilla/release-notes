@@ -91,8 +91,8 @@
       "created": "2019-03-18T18:34:43.829970+00:00",
       "id": 787929,
       "is_public": true,
-      "modified": "2019-03-18T18:34:43.829756+00:00",
-      "note": "Easier, passwordless security: Added support for Windows Hello on Windows 10, allowing you to use your face, fingerprint, or external security keys for website authentication.",
+      "modified": "2019-03-18T18:52:05.080500+00:00",
+      "note": "Easier, passwordless security: Added support for [Windows Hello on Windows 10][1], allowing you to use your face, fingerprint, or external security keys for website authentication.\r\n\r\n\r\n  [1]: https://blog.mozilla.org/security/2019/03/19/passwordless-web-authentication-support-via-windows-hello/",
       "sort_num": 70,
       "tag": "New"
     },
@@ -114,6 +114,26 @@
       "modified": "2019-03-18T18:40:31.243011+00:00",
       "note": "DevTools Inspector is now fully usable when the Debugger is paused",
       "sort_num": 38,
+      "tag": "Developer"
+    },
+    {
+      "bug": 1270059,
+      "created": "2019-03-18T18:41:48.029080+00:00",
+      "id": 787935,
+      "is_public": true,
+      "modified": "2019-03-18T18:41:48.028855+00:00",
+      "note": "Lowered priority of setTimeout and setInterval during page load to improve overall page load performance",
+      "sort_num": 36,
+      "tag": "Developer"
+    },
+    {
+      "bug": 1089326,
+      "created": "2019-03-18T18:50:22.517263+00:00",
+      "id": 787936,
+      "is_public": true,
+      "modified": "2019-03-18T18:50:22.517033+00:00",
+      "note": "Fixed: <button> element is no longer special cased in event dispatch, per latest specifications",
+      "sort_num": 28,
       "tag": "Developer"
     },
     {
