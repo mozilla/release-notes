@@ -45,6 +45,16 @@
       "note": "Improved performance and better user experience for extensions:\r\n\r\n - Extensions now [store their settings in a Firefox database][1], rather\r\n   than individual JSON files, making every site you visit faster.  \r\n - A r[edesigned keyboard shortcuts section][2] in about:addons makes it\r\n   easier to view and adjust default shortcuts.\r\n\r\n\r\n  [1]: https://blog.mozilla.org/addons/2019/02/15/extensions-in-firefox-66/\r\n  [2]: https://support.mozilla.org/kb/manage-extension-shortcuts-firefox",
       "sort_num": 90,
       "tag": "New"
+    },
+    {
+      "bug": 1530327,
+      "created": "2019-03-18T18:14:40.250038+00:00",
+      "id": 787925,
+      "is_public": true,
+      "modified": "2019-03-18T18:14:40.249814+00:00",
+      "note": "Redesigned certificate error pages help you better understand and resolve issues, including identification of certificate issuers for anti-virus software.",
+      "sort_num": 84,
+      "tag": "New"
     }
   ],
   "product": "Firefox",
