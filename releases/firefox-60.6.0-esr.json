@@ -11,10 +11,10 @@
       "created": "2019-03-04T19:54:35.797965+00:00",
       "id": 787908,
       "is_public": true,
-      "modified": "2019-03-05T18:32:01.902242+00:00",
-      "note": "The \"No proxies on\" list is now used regardless of how proxies are configured",
+      "modified": "2019-03-18T19:00:36.235298+00:00",
+      "note": "In the network connections settings, sites added to the \"No proxy for\" list will now honor that setting regardless of any other specified proxy settings",
       "sort_num": 0,
-      "tag": "Changed"
+      "tag": "Enterprise"
     },
     {
       "bug": null,
