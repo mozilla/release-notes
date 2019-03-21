@@ -4,7 +4,7 @@
   "channel": "Release",
   "created": "2019-02-25T17:57:13.227656+00:00",
   "is_public": true,
-  "modified": "2019-03-19T12:54:15.576784+00:00",
+  "modified": "2019-03-21T01:11:59.112134+00:00",
   "notes": [
     {
       "bug": 1376321,
@@ -51,7 +51,7 @@
   "release_date": "2019-03-19",
   "slug": "firefox-for-android-66.0-release",
   "system_requirements": "## Operating systems\r\n - Android 4.1\r\n - Above versions\r\n\r\n## Requirements\r\n - 50 MB internal storage\r\n - 384 MB of RAM\r\n - display at least 320 pixels high and 240 pixels wide",
-  "text": "We'd like to extend a special thank you to all of the new Mozillians who contributed to this release of Firefox!",
+  "text": "We'd like to extend a special thank you to all of the [new Mozillians][1] who contributed to this release of Firefox!\r\n\r\n\r\n  [1]: https://blog.mozilla.org/community/2019/03/11/firefox-66-new-contributors/",
   "title": "Firefox for Android 66.0 Release",
   "version": "66.0"
 }
