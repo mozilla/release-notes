@@ -11,7 +11,7 @@
       "created": "2019-03-18T17:46:07.237950+00:00",
       "id": 787919,
       "is_public": true,
-      "modified": "2019-03-19T13:01:48.473027+00:00",
+      "modified": "2019-03-22T02:01:25.591200+00:00",
       "note": "Firefox now prevents websites from automatically playing sound. You can [add individual sites to an exceptions list or turn blocking off][1]. To learn more about block autoplay, which will be rolled out gradually to all users, visit the [Mozilla blog][2].\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/block-autoplay\r\n  [2]: https://blog.mozilla.org/blog/2019/03/19/todays-firefox-aims-to-reduce-your-online-annoyances/#block-autoplay",
       "sort_num": 97,
       "tag": "New"
@@ -21,7 +21,7 @@
       "created": "2019-03-18T17:49:50.764313+00:00",
       "id": 787920,
       "is_public": true,
-      "modified": "2019-03-19T13:16:08.330799+00:00",
+      "modified": "2019-03-22T02:01:30.095576+00:00",
       "note": "Improved search experience:\r\n\r\n - Find a specific webpage faster when you have a lot of tabs open: You can now [search within all of your open tabs][1] from the [tab overflow menu][2]\r\n - Easier search via a redesigned new tab in Private Windows\r\n\r\n\r\n  [1]: https://blog.mozilla.org/blog/2019/03/19/todays-firefox-aims-to-reduce-your-online-annoyances/#search-tabs\r\n  [2]: https://support.mozilla.org/kb/search-open-tabs-firefox",
       "sort_num": 95,
       "tag": "New"
@@ -31,7 +31,7 @@
       "created": "2019-03-18T18:01:02.514572+00:00",
       "id": 787923,
       "is_public": true,
-      "modified": "2019-03-18T19:58:31.130109+00:00",
+      "modified": "2019-03-22T02:01:28.704392+00:00",
       "note": "Smoother scrolling: Scroll anchoring keeps content from jumping as images and ads load at the top of the page",
       "sort_num": 93,
       "tag": "New"
@@ -41,7 +41,7 @@
       "created": "2019-03-18T18:03:15.043600+00:00",
       "id": 787924,
       "is_public": true,
-      "modified": "2019-03-19T13:16:52.360296+00:00",
+      "modified": "2019-03-22T02:01:27.887459+00:00",
       "note": "Improved performance and better user experience for extensions:\r\n\r\n - Extensions now [store their settings in a Firefox database][1], rather than individual JSON files, making every site you visit faster\r\n - A [redesigned keyboard shortcuts section][2] in about:addons makes it easier to view and adjust default shortcuts\r\n\r\n\r\n  [1]: https://blog.mozilla.org/addons/2019/02/15/extensions-in-firefox-66/\r\n  [2]: https://support.mozilla.org/kb/manage-extension-shortcuts-firefox",
       "sort_num": 90,
       "tag": "New"
@@ -51,7 +51,7 @@
       "created": "2019-03-18T18:14:40.250038+00:00",
       "id": 787925,
       "is_public": true,
-      "modified": "2019-03-18T21:52:06.653347+00:00",
+      "modified": "2019-03-22T02:01:27.029272+00:00",
       "note": "Redesigned certificate error pages help you [better understand and resolve issues][1], including identification of certificate issuers for anti-virus software\r\n\r\n\r\n  [1]: https://blog.mozilla.org/ux/2019/03/designing-better-security-warnings/",
       "sort_num": 84,
       "tag": "New"
@@ -61,7 +61,7 @@
       "created": "2019-03-18T18:30:39.544214+00:00",
       "id": 787927,
       "is_public": true,
-      "modified": "2019-03-18T21:51:33.210944+00:00",
+      "modified": "2019-03-22T02:01:22.937853+00:00",
       "note": "Added basic support for macOS Touch Bar",
       "sort_num": 84,
       "tag": "New"
@@ -71,7 +71,7 @@
       "created": "2019-03-18T18:31:28.921196+00:00",
       "id": 787928,
       "is_public": true,
-      "modified": "2019-03-18T21:51:13.795301+00:00",
+      "modified": "2019-03-22T02:01:21.900841+00:00",
       "note": "Experimenting with an [improved Pocket experience][1] in New Tab with different layouts and more topical content \r\n\r\n\r\n  [1]: https://help.getpocket.com/article/1149-firefox-home-layout-tests-faq",
       "sort_num": 80,
       "tag": "New"
@@ -81,7 +81,7 @@
       "created": "2019-03-18T18:30:03.678058+00:00",
       "id": 787926,
       "is_public": true,
-      "modified": "2019-03-19T15:24:35.711901+00:00",
+      "modified": "2019-03-22T02:01:23.482961+00:00",
       "note": "Improved performance and reduced crash rates by [doubling web content loading processes from 4 to 8] [1]\r\n\r\n\r\n  [1]: http://www.erahm.org/2019/03/13/doubling-the-number-of-content-processes-in-firefox/",
       "sort_num": 76,
       "tag": "New"
@@ -91,7 +91,7 @@
       "created": "2019-03-18T18:34:43.829970+00:00",
       "id": 787929,
       "is_public": true,
-      "modified": "2019-03-18T21:51:19.187873+00:00",
+      "modified": "2019-03-22T02:01:21.202097+00:00",
       "note": "Easier, passwordless security: Added support for [Windows Hello on Windows 10][1], allowing you to use your face, fingerprint, or external security keys for website authentication\r\n\r\n\r\n  [1]: https://blog.mozilla.org/security/2019/03/19/passwordless-web-authentication-support-via-windows-hello/",
       "sort_num": 70,
       "tag": "New"
@@ -101,7 +101,7 @@
       "created": "2019-03-20T15:33:55.972886+00:00",
       "id": 787938,
       "is_public": true,
-      "modified": "2019-03-20T17:00:02.681437+00:00",
+      "modified": "2019-03-22T02:01:30.832062+00:00",
       "note": "Enabled [AV1][1] support on 32-bit Windows and MacOS. Firefox now supports the next-generation, royalty-free video compression technology called AV1. Read about Mozilla\u2019s contribution to this [new open standard][2].\r\n\r\n\r\n  [1]: https://research.mozilla.org/av1-media-codecs/\r\n  [2]: https://medium.com/mozilla-tech/mozilla-celebrates-release-of-free-high-quality-video-compression-technology-av1-in-firefox-65-7c95f2b7e56",
       "sort_num": 37,
       "tag": "New"
@@ -111,7 +111,7 @@
       "created": "2019-03-18T18:39:51.984577+00:00",
       "id": 787933,
       "is_public": true,
-      "modified": "2019-03-18T21:50:14.111955+00:00",
+      "modified": "2019-03-22T02:01:16.945994+00:00",
       "note": "System title bar is hidden by default to match Gnome guideline for Linux users",
       "sort_num": 45,
       "tag": "Changed"
@@ -121,7 +121,7 @@
       "created": "2019-03-18T18:40:31.243222+00:00",
       "id": 787934,
       "is_public": true,
-      "modified": "2019-03-18T18:40:31.243011+00:00",
+      "modified": "2019-03-22T02:01:15.849690+00:00",
       "note": "DevTools Inspector is now fully usable when the Debugger is paused",
       "sort_num": 38,
       "tag": "Developer"
@@ -131,7 +131,7 @@
       "created": "2019-03-18T18:41:48.029080+00:00",
       "id": 787935,
       "is_public": true,
-      "modified": "2019-03-18T18:41:48.028855+00:00",
+      "modified": "2019-03-22T02:01:14.647889+00:00",
       "note": "Lowered priority of setTimeout and setInterval during page load to improve overall page load performance",
       "sort_num": 36,
       "tag": "Developer"
@@ -141,7 +141,7 @@
       "created": "2019-03-18T18:50:22.517263+00:00",
       "id": 787936,
       "is_public": true,
-      "modified": "2019-03-18T19:58:07.109484+00:00",
+      "modified": "2019-03-22T02:01:32.640652+00:00",
       "note": "Fixed: &lt;button&gt; element is no longer special cased in event dispatch, per latest specifications",
       "sort_num": 28,
       "tag": "Developer"
@@ -151,7 +151,7 @@
       "created": "2019-03-18T18:36:13.706093+00:00",
       "id": 787930,
       "is_public": true,
-      "modified": "2019-03-18T18:36:13.705886+00:00",
+      "modified": "2019-03-22T02:01:19.856810+00:00",
       "note": "The Dark and Light Firefox themes now override the system setting for title bar accent color on Windows 10",
       "sort_num": 60,
       "tag": "Fixed"
@@ -161,7 +161,7 @@
       "created": "2019-03-18T18:36:57.187207+00:00",
       "id": 787931,
       "is_public": true,
-      "modified": "2019-03-18T21:50:57.813564+00:00",
+      "modified": "2019-03-22T02:01:19.043903+00:00",
       "note": "Linux users: Resolved an issue that caused Firefox to freeze when downloading files",
       "sort_num": 55,
       "tag": "Fixed"
@@ -171,7 +171,7 @@
       "created": "2019-03-18T18:37:57.047356+00:00",
       "id": 787932,
       "is_public": true,
-      "modified": "2019-03-19T18:01:39.896093+00:00",
+      "modified": "2019-03-22T02:01:17.755389+00:00",
       "note": "Various [security fixes][1]\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/mfsa2019-07/",
       "sort_num": 50,
       "tag": "Fixed"

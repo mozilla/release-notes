@@ -2,36 +2,36 @@
   "bug_list": "",
   "bug_search_url": "",
   "channel": "ESR",
-  "created": "2019-03-04T19:46:03.946708+00:00",
-  "is_public": true,
-  "modified": "2019-03-19T12:43:51.839707+00:00",
+  "created": "2019-03-22T01:58:20.221541+00:00",
+  "is_public": false,
+  "modified": "2019-03-22T01:58:45.181144+00:00",
   "notes": [
     {
-      "bug": 1503393,
-      "created": "2019-03-04T19:54:35.797965+00:00",
-      "id": 787908,
+      "bug": null,
+      "created": "2019-03-22T02:07:24.964531+00:00",
+      "id": 787941,
       "is_public": true,
-      "modified": "2019-03-22T01:58:39.238632+00:00",
-      "note": "In the network connections settings, sites added to the \"No proxy for\" list will now honor that setting regardless of any other specified proxy settings",
+      "modified": "2019-03-22T02:07:24.964192+00:00",
+      "note": "Reference link to [60.6.0esr release notes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.com/firefox/60.6.0/releasenotes/",
       "sort_num": 0,
-      "tag": "Enterprise"
+      "tag": ""
     },
     {
       "bug": null,
-      "created": "2019-03-04T19:49:32.307167+00:00",
-      "id": 787907,
+      "created": "2019-03-22T01:58:41.537673+00:00",
+      "id": 787939,
       "is_public": true,
-      "modified": "2019-03-22T01:58:42.035111+00:00",
-      "note": "Various [security fixes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/mfsa2019-08/",
+      "modified": "2019-03-22T01:59:21.332239+00:00",
+      "note": "Various [security fixes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/known-vulnerabilities/firefox-esr/#firefoxesr60.6.1",
       "sort_num": 0,
       "tag": "Fixed"
     }
   ],
   "product": "Firefox Extended Support Release",
-  "release_date": "2019-03-19",
-  "slug": "firefox-60.6.0-esr",
+  "release_date": "2019-03-22",
+  "slug": "firefox-60.6.1-esr",
   "system_requirements": "## Windows\r\n\r\n### Operating Systems (32-bit and 64-bit)\r\n - Windows 7\r\n - Windows 8\r\n - Windows 10\r\n\r\n### Recommended Hardware\r\n-  Pentium 4 or newer processor that supports SSE2\r\n-  512MB of RAM / 2GB of RAM for the 64-bit version\r\n-  200MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- macOS 10.9\r\n- macOS 10.10\r\n- macOS 10.11\r\n- macOS 10.12\r\n- macOS 10.13\r\n- macOS 10.14\r\n\r\n### Recommended Hardware\r\n- Macintosh computer with an Intel x86 processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - GTK+ 3.4 or higher\r\n    - GLib 2.22 or higher\r\n    - Pango 1.22 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n    - libstdc++ 4.6.1 or higher\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - NetworkManager 0.7 or higher\r\n    - DBus 1.0 or higher\r\n    - GNOME 2.16 or higher\r\n    - PulseAudio\r\n\r\n  [1]: https://support.mozilla.org/kb/get-latest-version-firefox-windows-xp-vista",
   "text": "",
-  "title": "Firefox Extended Support Release 60.6.0 ESR",
-  "version": "60.6.0"
+  "title": "Firefox Extended Support Release 60.6.1 ESR",
+  "version": "60.6.1"
 }
