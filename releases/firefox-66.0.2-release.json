@@ -21,8 +21,18 @@
       "created": "2019-03-27T10:15:36.205536+00:00",
       "id": 787948,
       "is_public": true,
-      "modified": "2019-03-27T10:24:43.791913+00:00",
-      "note": "Fix web compatibility issues with Office 365,  iCloud and IBM WebMail caused by recent changes to the handling of keyboard events. ([Bug 1538966][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/1538966",
+      "modified": "2019-03-27T10:39:26.100282+00:00",
+      "note": "Fixed Web compatibility issues with Office 365,  iCloud and IBM WebMail caused by recent changes to the handling of keyboard events ([Bug 1538966][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/1538966",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1521370,
+      "created": "2019-03-27T10:35:38.333831+00:00",
+      "id": 787949,
+      "is_public": true,
+      "modified": "2019-03-27T10:35:38.333621+00:00",
+      "note": "Crash fixes ([bug 1521370][1], [bug 1539118][2])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/1521370\r\n  [2]: https://bugzilla.mozilla.org/1539118",
       "sort_num": 0,
       "tag": "Fixed"
     }
