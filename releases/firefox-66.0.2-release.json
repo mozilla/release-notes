@@ -15,6 +15,16 @@
       "note": "Reference link to [66.0 release notes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.com/firefox/66.0/releasenotes/",
       "sort_num": 0,
       "tag": ""
+    },
+    {
+      "bug": 1538966,
+      "created": "2019-03-27T10:15:36.205536+00:00",
+      "id": 787948,
+      "is_public": true,
+      "modified": "2019-03-27T10:24:43.791913+00:00",
+      "note": "Fix web compatibility issues with Office 365,  iCloud and IBM WebMail caused by recent changes to the handling of keyboard events. ([Bug 1538966][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/1538966",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
