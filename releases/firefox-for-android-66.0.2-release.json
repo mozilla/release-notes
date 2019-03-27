@@ -2,9 +2,9 @@
   "bug_list": "",
   "bug_search_url": "",
   "channel": "Release",
-  "created": "2019-03-22T01:58:20.253440+00:00",
-  "is_public": true,
-  "modified": "2019-03-22T17:12:46.034431+00:00",
+  "created": "2019-03-27T08:08:10.355066+00:00",
+  "is_public": false,
+  "modified": "2019-03-27T08:08:25.955024+00:00",
   "notes": [
     {
       "bug": null,
@@ -15,23 +15,13 @@
       "note": "Reference link to [66.0 release notes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.com/firefox/android/66.0/releasenotes/",
       "sort_num": 0,
       "tag": ""
-    },
-    {
-      "bug": null,
-      "created": "2019-03-22T02:00:28.697901+00:00",
-      "id": 787940,
-      "is_public": true,
-      "modified": "2019-03-27T08:08:23.885189+00:00",
-      "note": "Various [security fixes][1]\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/mfsa2019-09/",
-      "sort_num": 50,
-      "tag": "Fixed"
     }
   ],
   "product": "Firefox for Android",
-  "release_date": "2019-03-22",
-  "slug": "firefox-for-android-66.0.1-release",
+  "release_date": "2019-03-27",
+  "slug": "firefox-for-android-66.0.2-release",
   "system_requirements": "## Operating systems\r\n - Android 4.1\r\n - Above versions\r\n\r\n## Requirements\r\n - 50 MB internal storage\r\n - 384 MB of RAM\r\n - display at least 320 pixels high and 240 pixels wide",
   "text": "",
-  "title": "Firefox for Android 66.0.1 Release",
-  "version": "66.0.1"
+  "title": "Firefox for Android 66.0.2 Release",
+  "version": "66.0.2"
 }
