@@ -4,17 +4,27 @@
   "channel": "Release",
   "created": "2019-03-27T08:08:10.355066+00:00",
   "is_public": false,
-  "modified": "2019-03-27T08:08:25.955024+00:00",
+  "modified": "2019-03-27T08:34:35.354031+00:00",
   "notes": [
     {
       "bug": null,
-      "created": "2019-03-22T02:09:00.014356+00:00",
-      "id": 787943,
+      "created": "2019-03-27T08:34:29.747943+00:00",
+      "id": 787946,
       "is_public": true,
-      "modified": "2019-03-27T08:08:10.370391+00:00",
+      "modified": "2019-03-27T08:34:29.747730+00:00",
       "note": "Reference link to [66.0 release notes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.com/firefox/android/66.0/releasenotes/",
       "sort_num": 0,
       "tag": ""
+    },
+    {
+      "bug": 1535766,
+      "created": "2019-03-27T08:30:06.109813+00:00",
+      "id": 787945,
+      "is_public": true,
+      "modified": "2019-03-27T08:30:06.109607+00:00",
+      "note": "Fix frequent crashes on sites using the OpenH264 video codec for WebRTC ([Bug 1535766][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/1535766",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox for Android",
