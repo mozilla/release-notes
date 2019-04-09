@@ -9,9 +9,17 @@
     {
       "bug": null,
       "created": "2019-04-09T22:06:38.367104+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": false,
+        "product": "Firefox",
+        "slug": "firefox-66.0.3-release",
+        "title": "Firefox 66.0.3 Release",
+        "version": "66.0.3"
+      },
       "id": 787960,
       "is_public": true,
-      "modified": "2019-04-09T22:06:38.366899+00:00",
+      "modified": "2019-04-09T22:17:42.584164+00:00",
       "note": "Reference link to [66.0.2][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/firefox/66.0.2/releasenotes/",
       "sort_num": 0,
       "tag": ""
@@ -31,8 +39,8 @@
       "created": "2019-04-09T21:26:28.199516+00:00",
       "id": 787954,
       "is_public": true,
-      "modified": "2019-04-09T21:26:28.199308+00:00",
-      "note": "Address bar on tablets running Windows 10 now behaves correctly",
+      "modified": "2019-04-09T22:22:25.104525+00:00",
+      "note": "Address bar on tablets running Windows 10 now behaves correctly ([Bug 1498973][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1498973",
       "sort_num": 90,
       "tag": "Fixed"
     },
@@ -41,8 +49,8 @@
       "created": "2019-04-09T21:29:18.615815+00:00",
       "id": 787955,
       "is_public": true,
-      "modified": "2019-04-09T21:29:18.615601+00:00",
-      "note": "Performance issues with some HTML5 games",
+      "modified": "2019-04-09T22:21:39.610445+00:00",
+      "note": "Performance issues with some HTML5 games ([Bug 1537609][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1537609",
       "sort_num": 85,
       "tag": "Fixed"
     },
@@ -51,8 +59,8 @@
       "created": "2019-04-09T21:35:08.534123+00:00",
       "id": 787957,
       "is_public": true,
-      "modified": "2019-04-09T21:35:08.533923+00:00",
-      "note": "Fixed a bug with keypress events in IBM cloud applications",
+      "modified": "2019-04-09T22:20:05.148489+00:00",
+      "note": "Fixed a bug with keypress events in IBM cloud applications ([Bug 1538970][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1538970",
       "sort_num": 75,
       "tag": "Fixed"
     },
@@ -61,8 +69,8 @@
       "created": "2019-04-09T21:37:13.507842+00:00",
       "id": 787958,
       "is_public": true,
-      "modified": "2019-04-09T21:37:13.507598+00:00",
-      "note": "Fix for keypress events in some Microsoft cloud applications",
+      "modified": "2019-04-09T22:19:19.448076+00:00",
+      "note": "Fix for keypress events in some Microsoft cloud applications ([Bug 1539618][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1539618",
       "sort_num": 70,
       "tag": "Fixed"
     }
