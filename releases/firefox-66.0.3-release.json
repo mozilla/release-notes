@@ -5,7 +5,48 @@
   "created": "2019-04-09T19:46:37.697511+00:00",
   "is_public": false,
   "modified": "2019-04-09T19:51:07.194570+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": 1498973,
+      "created": "2019-04-09T21:26:28.199516+00:00",
+      "id": 787954,
+      "is_public": true,
+      "modified": "2019-04-09T21:26:28.199308+00:00",
+      "note": "Address bar on tablets running Windows 10 now behaves correctly",
+      "sort_num": 90,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1537609,
+      "created": "2019-04-09T21:29:18.615815+00:00",
+      "id": 787955,
+      "is_public": true,
+      "modified": "2019-04-09T21:29:18.615601+00:00",
+      "note": "Performance issues with some HTML5 games",
+      "sort_num": 85,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1538970,
+      "created": "2019-04-09T21:35:08.534123+00:00",
+      "id": 787957,
+      "is_public": true,
+      "modified": "2019-04-09T21:35:08.533923+00:00",
+      "note": "Fixed a bug with keypress events in IBM cloud applications",
+      "sort_num": 75,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1539618,
+      "created": "2019-04-09T21:37:13.507842+00:00",
+      "id": 787958,
+      "is_public": true,
+      "modified": "2019-04-09T21:37:13.507598+00:00",
+      "note": "Fix for keypress events in some Microsoft cloud applications",
+      "sort_num": 70,
+      "tag": "Fixed"
+    }
+  ],
   "product": "Firefox",
   "release_date": "2019-04-10",
   "slug": "firefox-66.0.3-release",
