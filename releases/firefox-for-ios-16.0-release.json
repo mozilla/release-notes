@@ -1,0 +1,77 @@
+{
+  "bug_list": "",
+  "bug_search_url": "",
+  "channel": "Release",
+  "created": "2019-04-12T11:01:27.353777+00:00",
+  "is_public": false,
+  "modified": "2019-04-12T11:02:40.937120+00:00",
+  "notes": [
+    {
+      "bug": null,
+      "created": "2019-04-12T11:03:34.835947+00:00",
+      "id": 787961,
+      "is_public": true,
+      "modified": "2019-04-12T11:03:34.835739+00:00",
+      "note": "We\u2019ve listen to the feedback you provided, so we have rearranged the Library links for an easy access from Firefox Home",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2019-04-12T11:03:47.903020+00:00",
+      "id": 787962,
+      "is_public": true,
+      "modified": "2019-04-12T11:03:47.902813+00:00",
+      "note": "Firefox has a new, modern search bar. It\u2019s bigger, easier-to-view to make searching easier.",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2019-04-12T11:03:58.982979+00:00",
+      "id": 787963,
+      "is_public": true,
+      "modified": "2019-04-12T11:03:58.982770+00:00",
+      "note": "Easy access to saved passwords from the Main menu in the app",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2019-04-12T11:04:09.363676+00:00",
+      "id": 787964,
+      "is_public": true,
+      "modified": "2019-04-12T11:04:09.363440+00:00",
+      "note": "Easy way to clear your history from the History panel, rather than going through the Settings menu.",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2019-04-12T11:04:18.685773+00:00",
+      "id": 787965,
+      "is_public": true,
+      "modified": "2019-04-12T11:04:18.685564+00:00",
+      "note": "Preview your settings for Home, Search, New Tab, etc from the Settings menu",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2019-02-11T17:08:42.283708+00:00",
+      "id": 787893,
+      "is_public": true,
+      "modified": "2019-04-12T11:03:06.294568+00:00",
+      "note": "Crashes and minor bugs",
+      "sort_num": 0,
+      "tag": "Fixed"
+    }
+  ],
+  "product": "Firefox for iOS",
+  "release_date": "2019-04-15",
+  "slug": "firefox-for-ios-16.0-release",
+  "system_requirements": "## Operating systems\r\n - iOS 10.3\r\n - iOS 11\r\n - iOS 12",
+  "text": "This version of Firefox for iOS has several usability and performance improvements.",
+  "title": "Firefox for iOS 16.0 Release",
+  "version": "16.0"
+}
