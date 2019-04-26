@@ -25,6 +25,16 @@
       "note": "Unified existing locales (bn-BD, bn-IN) under a single Bengali (bn) localization.",
       "sort_num": 0,
       "tag": "Changed"
+    },
+    {
+      "bug": 1470107,
+      "created": "2019-04-26T08:10:24.859826+00:00",
+      "id": 787969,
+      "is_public": true,
+      "modified": "2019-04-26T08:10:24.859273+00:00",
+      "note": "Included Twemoji Mozilla font updated to support Emoji 11.0 \ud83e\udd73",
+      "sort_num": 0,
+      "tag": "Changed"
     }
   ],
   "product": "Firefox",
