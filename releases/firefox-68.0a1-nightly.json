@@ -35,6 +35,16 @@
       "note": "Included Twemoji Mozilla font updated to support Emoji 11.0 \ud83e\udd73",
       "sort_num": 0,
       "tag": "Changed"
+    },
+    {
+      "bug": 1535300,
+      "created": "2019-04-26T09:27:29.170468+00:00",
+      "id": 787970,
+      "is_public": true,
+      "modified": "2019-04-26T09:27:29.170190+00:00",
+      "note": "Removed unmaintained languages: Assamese (as), English - South Africa (en-ZA), Maithili (mai), Malayalam (ml), Odia (or). Existing users are migrated to the British English (en-GB) version of Firefox.",
+      "sort_num": 0,
+      "tag": "Changed"
     }
   ],
   "product": "Firefox",
