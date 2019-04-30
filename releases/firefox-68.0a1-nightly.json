@@ -17,6 +17,26 @@
       "tag": "New"
     },
     {
+      "bug": 1545029,
+      "created": "2019-04-30T13:05:10.185053+00:00",
+      "id": 787971,
+      "is_public": true,
+      "modified": "2019-04-30T13:05:10.184849+00:00",
+      "note": "<!-- Nightly Only -->\r\nExperimental in-content dark mode complementing the dark theme is now activated by default",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1527925,
+      "created": "2019-04-30T13:10:17.339373+00:00",
+      "id": 787972,
+      "is_public": true,
+      "modified": "2019-04-30T13:10:17.339157+00:00",
+      "note": "<!-- Nightly Only -->\r\n[User Initiated Picture-in-Picture][1] has been enabled by default on Nightly on Windows \r\n\r\n\r\n  [1]: https://mail.mozilla.org/pipermail/firefox-dev/2019-April/007038.html",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1538733,
       "created": "2019-04-25T09:28:38.640982+00:00",
       "id": 787967,
