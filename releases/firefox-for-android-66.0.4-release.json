@@ -1,0 +1,37 @@
+{
+  "bug_list": "",
+  "bug_search_url": "",
+  "channel": "Release",
+  "created": "2019-05-04T21:01:58.935532+00:00",
+  "is_public": false,
+  "modified": "2019-05-04T21:01:58.935316+00:00",
+  "notes": [
+    {
+      "bug": null,
+      "created": "2019-05-04T21:03:30.055040+00:00",
+      "id": 787975,
+      "is_public": true,
+      "modified": "2019-05-04T21:03:30.054764+00:00",
+      "note": "Reference link to [66.0.2 release notes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.com/firefox/android/66.0.2/releasenotes/",
+      "sort_num": 0,
+      "tag": ""
+    },
+    {
+      "bug": 1549061,
+      "created": "2019-05-04T20:19:26.172384+00:00",
+      "id": 787974,
+      "is_public": true,
+      "modified": "2019-05-04T21:04:48.151475+00:00",
+      "note": "Repaired certificate chain to [re-enable web extensions][1] that had been disabled\r\n\r\n\r\n  [1]: https://blog.mozilla.org/addons/2019/05/04/update-regarding-add-ons-in-firefox/",
+      "sort_num": 99,
+      "tag": "Fixed"
+    }
+  ],
+  "product": "Firefox for Android",
+  "release_date": "2019-05-04",
+  "slug": "firefox-for-android-66.0.4-release",
+  "system_requirements": "## Operating systems\r\n - Android 4.1\r\n - Above versions\r\n\r\n## Requirements\r\n - 50 MB internal storage\r\n - 384 MB of RAM\r\n - display at least 320 pixels high and 240 pixels wide",
+  "text": "",
+  "title": "Firefox for Android 66.0.4 Release",
+  "version": "66.0.4"
+}
