@@ -31,8 +31,8 @@
       "created": "2019-05-05T18:10:33.470713+00:00",
       "id": 787977,
       "is_public": true,
-      "modified": "2019-05-05T18:12:18.575039+00:00",
-      "note": "A small number of add-ons may be listed as unsupported or may not appear in about:addons. Their data is not lost; users should be able to re-install the add-ons and recover the data. ([Bug 1549129][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1549129",
+      "modified": "2019-05-05T19:32:48.242359+00:00",
+      "note": "A small number of add-ons may be listed as unsupported or may not appear in about:addons. Their data is not lost; users should be able to re-install the add-ons and recover the data ([Bug 1549129][1]). [**More support information**][2]\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1549129\r\n  [2]: https://support.mozilla.org/kb/add-ons-disabled-or-fail-to-install-firefox#w_add-ons-appearing-as-unsupported-or-disappeared-from-your-aboutaddons-page",
       "sort_num": 90,
       "tag": "Known"
     },
@@ -41,8 +41,8 @@
       "created": "2019-05-05T18:11:50.234539+00:00",
       "id": 787978,
       "is_public": true,
-      "modified": "2019-05-05T18:30:11.842441+00:00",
-      "note": "If add-ons that use Containers functionality (such as Multi-Account Containers and Facebook Container) were disabled as part of this problem, any lost site data or custom configurations for those add-ons will not be recovered by this release. Users may need to set them up and login again in about:addons. ([Bug 1549204][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1549204",
+      "modified": "2019-05-05T19:35:25.631080+00:00",
+      "note": "If add-ons that use Containers functionality (such as Multi-Account Containers and Facebook Container) were disabled as part of this problem, any lost site data or custom configurations for those add-ons will not be recovered by this release. Users may need to set them up and login again in about:addons ([Bug 1549204][1]). [**More support information**][2]\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1549204\r\n  [2]: https://support.mozilla.org/kb/add-ons-disabled-or-fail-to-install-firefox#w_container-add-ons",
       "sort_num": 80,
       "tag": "Known"
     },
@@ -51,8 +51,8 @@
       "created": "2019-05-05T18:15:27.018307+00:00",
       "id": 787979,
       "is_public": true,
-      "modified": "2019-05-05T18:15:27.018062+00:00",
-      "note": "Themes may not be re-enabled. Users may need to re-enable them in about:addons. ([Bug 1549022][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1549022",
+      "modified": "2019-05-05T19:36:10.424017+00:00",
+      "note": "Themes may not be re-enabled. Users may need to re-enable them in about:addons ([Bug 1549022][1]). [**More support information**][2]\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1549022\r\n  [2]: https://support.mozilla.org/kb/add-ons-disabled-or-fail-to-install-firefox#w_themes-will-need-to-be-re-enabled",
       "sort_num": 70,
       "tag": "Known"
     },
@@ -61,8 +61,8 @@
       "created": "2019-05-05T18:16:28.754623+00:00",
       "id": 787980,
       "is_public": true,
-      "modified": "2019-05-05T18:28:57.817003+00:00",
-      "note": "Home page or search settings customized by an add-on may be reset to defaults. Users may need to customize them again in about:preferences or about:addons. ([Bug 1549192][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1549192",
+      "modified": "2019-05-05T19:36:51.870089+00:00",
+      "note": "Home page or search settings customized by an add-on may be reset to defaults. Users may need to customize them again in about:preferences or about:addons ([Bug 1549192][1]). [**More support information**][2]\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1549192\r\n  [2]: https://support.mozilla.org/kb/add-ons-disabled-or-fail-to-install-firefox#w_home-page-and-search",
       "sort_num": 60,
       "tag": "Known"
     }
