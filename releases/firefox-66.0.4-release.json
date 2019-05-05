@@ -41,8 +41,8 @@
       "created": "2019-05-05T18:11:50.234539+00:00",
       "id": 787978,
       "is_public": true,
-      "modified": "2019-05-05T18:11:50.234335+00:00",
-      "note": "If add-ons that use the Containers functionality, like Multi-Account Containers and Facebook Container, were disabled as part of this problem, any lost site data for containers, as well as deleted custom containers that users may have configured, will not be recovered by this new release. Users may need to set them up and login again in about:addons. ([Bug 1549204][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1549204",
+      "modified": "2019-05-05T18:30:11.842441+00:00",
+      "note": "If add-ons that use Containers functionality (such as Multi-Account Containers and Facebook Container) were disabled as part of this problem, any lost site data or custom configurations for those add-ons will not be recovered by this release. Users may need to set them up and login again in about:addons. ([Bug 1549204][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1549204",
       "sort_num": 80,
       "tag": "Known"
     },
@@ -61,8 +61,8 @@
       "created": "2019-05-05T18:16:28.754623+00:00",
       "id": 787980,
       "is_public": true,
-      "modified": "2019-05-05T18:16:28.754353+00:00",
-      "note": "Home page or search settings may be reset to defaults if they are set by an add-on. The user may need to reset their homepage or search settings in about:preferences. ([Bug 1549192][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1549192",
+      "modified": "2019-05-05T18:28:57.817003+00:00",
+      "note": "Home page or search settings customized by an add-on may be reset to defaults. Users may need to customize them again in about:preferences or about:addons. ([Bug 1549192][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1549192",
       "sort_num": 60,
       "tag": "Known"
     }
