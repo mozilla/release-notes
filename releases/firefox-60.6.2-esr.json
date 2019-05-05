@@ -25,6 +25,16 @@
       "note": "Repaired certificate chain to [re-enable web extensions][1] that had been disabled\r\n\r\n\r\n  [1]: https://blog.mozilla.org/addons/2019/05/04/update-regarding-add-ons-in-firefox/",
       "sort_num": 99,
       "tag": "Fixed"
+    },
+    {
+      "bug": 1549129,
+      "created": "2019-05-05T18:10:33.470713+00:00",
+      "id": 787977,
+      "is_public": true,
+      "modified": "2019-05-05T18:10:33.470501+00:00",
+      "note": "A small number of add-ons may be listed as unsupported or may not appear in about:addons. Their data is not lost; users should be able to re-install the add-ons and recover the data. ([Bug 1549129][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1549129",
+      "sort_num": 0,
+      "tag": "Known"
     }
   ],
   "product": "Firefox Extended Support Release",
