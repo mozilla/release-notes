@@ -65,6 +65,16 @@
       "note": "Home page or search settings customized by an add-on may be reset to defaults. Users may need to customize them again in about:preferences or about:addons ([Bug 1549192][1]). [**More support information**][2]\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1549192\r\n  [2]: https://support.mozilla.org/kb/add-ons-disabled-or-fail-to-install-firefox#w_home-page-and-search",
       "sort_num": 60,
       "tag": "Known"
+    },
+    {
+      "bug": 1549249,
+      "created": "2019-05-06T08:36:02.329098+00:00",
+      "id": 787983,
+      "is_public": true,
+      "modified": "2019-05-06T08:40:42.017660+00:00",
+      "note": "Users with a master password set may need to enter or reset it for the fix in this release to take effect ([bug 1549249][0]). [**More support information**][1]\r\n\r\n[0]: https://bugzilla.mozilla.org/show_bug.cgi?id=1549249\r\n[1]: https://support.mozilla.org/kb/add-ons-disabled-or-fail-to-install-firefox#w_master-password",
+      "sort_num": 0,
+      "tag": "Known"
     }
   ],
   "product": "Firefox",
