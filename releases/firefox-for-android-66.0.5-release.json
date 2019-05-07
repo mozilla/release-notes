@@ -1,0 +1,37 @@
+{
+  "bug_list": "",
+  "bug_search_url": "",
+  "channel": "Release",
+  "created": "2019-05-07T18:41:11.872899+00:00",
+  "is_public": false,
+  "modified": "2019-05-07T18:41:11.872691+00:00",
+  "notes": [
+    {
+      "bug": null,
+      "created": "2019-05-07T18:45:45.626166+00:00",
+      "id": 787984,
+      "is_public": true,
+      "modified": "2019-05-07T18:45:45.625955+00:00",
+      "note": "Reference link to [66.0.4 release notes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/firefox/android/66.0.4/releasenotes/",
+      "sort_num": 0,
+      "tag": ""
+    },
+    {
+      "bug": 1549249,
+      "created": "2019-05-07T18:53:57.759684+00:00",
+      "id": 787985,
+      "is_public": true,
+      "modified": "2019-05-07T18:56:02.189196+00:00",
+      "note": "Fix for users who have master passwords set, to re-enable web extensions that had been disabled ([Bug 1549249][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1549249",
+      "sort_num": 90,
+      "tag": "Fixed"
+    }
+  ],
+  "product": "Firefox for Android",
+  "release_date": "2019-05-07",
+  "slug": "firefox-for-android-66.0.5-release",
+  "system_requirements": "## Operating systems\r\n - Android 4.1\r\n - Above versions\r\n\r\n## Requirements\r\n - 50 MB internal storage\r\n - 384 MB of RAM\r\n - display at least 320 pixels high and 240 pixels wide",
+  "text": "",
+  "title": "Firefox for Android 66.0.5 Release",
+  "version": "66.0.5"
+}
