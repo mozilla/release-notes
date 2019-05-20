@@ -77,6 +77,26 @@
       "tag": "New"
     },
     {
+      "bug": 1548365,
+      "created": "2019-05-20T13:02:02.665795+00:00",
+      "id": 788013,
+      "is_public": true,
+      "modified": "2019-05-20T13:02:02.665591+00:00",
+      "note": "[Preloading of intermediate TLS certificates][0] is enabled in early beta builds, which avoids error pages in cases of server misconfiguration\r\n\r\n[0]: https://wiki.mozilla.org/Security/CryptoEngineering/Intermediate_Preloading",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1540581,
+      "created": "2019-05-20T13:06:22.860311+00:00",
+      "id": 788019,
+      "is_public": true,
+      "modified": "2019-05-20T13:06:22.860089+00:00",
+      "note": "Properly support BT601, BT709 and BT2020/2100 colorspaces on all platforms",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1538733,
       "created": "2019-04-25T09:28:38.640982+00:00",
       "id": 787967,

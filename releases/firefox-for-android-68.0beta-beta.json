@@ -5,7 +5,68 @@
   "created": "2019-05-20T12:05:57.055203+00:00",
   "is_public": false,
   "modified": "2019-05-20T12:06:24.592813+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": 1537667,
+      "created": "2019-05-20T13:03:54.798378+00:00",
+      "id": 788016,
+      "is_public": true,
+      "modified": "2019-05-20T13:03:54.798166+00:00",
+      "note": "Improved web page painting performance by avoiding redundant calculations during paint",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1541083,
+      "created": "2019-05-20T13:04:20.732412+00:00",
+      "id": 788017,
+      "is_public": true,
+      "modified": "2019-05-20T13:04:20.731932+00:00",
+      "note": "Compatibility fixes for the upcoming Android Q release",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1551230,
+      "created": "2019-05-20T13:04:40.423192+00:00",
+      "id": 788018,
+      "is_public": true,
+      "modified": "2019-05-20T13:04:40.422853+00:00",
+      "note": "Support W3C Web Authentication API",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1540581,
+      "created": "2019-05-20T13:06:22.860311+00:00",
+      "id": 788019,
+      "is_public": true,
+      "modified": "2019-05-20T13:06:22.860089+00:00",
+      "note": "Properly support BT601, BT709 and BT2020/2100 colorspaces on all platforms",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1538734,
+      "created": "2019-05-20T13:03:03.647527+00:00",
+      "id": 788014,
+      "is_public": true,
+      "modified": "2019-05-20T13:03:03.647257+00:00",
+      "note": "Unified existing locales (bn-BD, bn-IN) under a single Bengali (bn) localization",
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
+      "bug": 1535300,
+      "created": "2019-05-20T13:03:30.219027+00:00",
+      "id": 788015,
+      "is_public": true,
+      "modified": "2019-05-20T13:03:30.218744+00:00",
+      "note": "Removed unmaintained languages: Assamese (as), English - South Africa (en-ZA), Maithili (mai), Odia (or)",
+      "sort_num": 0,
+      "tag": "Changed"
+    }
+  ],
   "product": "Firefox for Android",
   "release_date": "2019-05-21",
   "slug": "firefox-for-android-68.0beta-beta",
