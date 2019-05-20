@@ -11,8 +11,8 @@
       "created": "2019-05-20T09:14:27.800856+00:00",
       "id": 787991,
       "is_public": true,
-      "modified": "2019-05-20T09:14:27.800638+00:00",
-      "note": "Firefox 67 demonstrates improved performance thanks to a number of changes such as: \r\n- Lowering priority of `setTimeout` during page load\r\n- Delayed component initialization until after start up\r\n- Painting sooner during page load but less often\r\n- Suspending unused tabs\r\nLearn more about our approach to performance in 67 in the [Mozilla blog][1].\r\n\r\n\r\n  [1]: https://blog.mozilla.org/blog/2019/05/21/latest-firefox-release-is-faster-than-ever/",
+      "modified": "2019-05-20T09:52:23.073321+00:00",
+      "note": "Firefox 67 demonstrates improved performance thanks to a number of changes such as: \r\n\r\n- Lowering priority of `setTimeout` during page load\r\n- Delayed component initialization until after start up\r\n- Painting sooner during page load but less often\r\n- Suspending unused tabs\r\n\r\nLearn more about our approach to performance in 67 in the [Mozilla blog][1].\r\n\r\n\r\n  [1]: https://blog.mozilla.org/blog/2019/05/21/latest-firefox-release-is-faster-than-ever/",
       "sort_num": 100,
       "tag": "New"
     },
@@ -41,9 +41,19 @@
       "created": "2019-05-20T09:21:35.553512+00:00",
       "id": 787994,
       "is_public": true,
-      "modified": "2019-05-20T09:21:35.553302+00:00",
-      "note": "[Private Browsing][1] sees both [usability and security improvements][2]: \r\n - Save passwords in private browsing mode\r\n - Choose which extensions to exclude from private tabs\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/extensions-private-browsing\r\n  [2]: https://blog.mozilla.org/addons/2019/03/26/extensions-in-firefox-67/",
+      "modified": "2019-05-20T09:51:53.205369+00:00",
+      "note": "[Private Browsing][1] sees both [usability and security improvements][2]: \r\n\r\n - Save passwords in private browsing mode\r\n - Choose which extensions to exclude from private tabs\r\n\r\n  [1]: https://support.mozilla.org/kb/extensions-private-browsing\r\n  [2]: https://blog.mozilla.org/addons/2019/03/26/extensions-in-firefox-67/",
       "sort_num": 85,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2019-05-20T09:54:13.829262+00:00",
+      "id": 787995,
+      "is_public": true,
+      "modified": "2019-05-20T09:54:13.829059+00:00",
+      "note": "A myriad of new features help make Firefox easier to use:\r\n\r\n - We\u2019ve added a toolbar menu for your Firefox Account to provide more transparency for when you are synced, sharing data across devices and with Firefox. Personalize the appearance of the menu with your own avatar\r\n - Tabs can now be pinned from the Page Actions menu in the address bar\r\n - Firefox will highlight useful features (like Pin Tabs) when users are most likely to benefit from them.\r\n - Easier access to your list of saved logins from the main menu and login autocomplete. Learn about all the ways you can manage your passwords in Firefox. \r\n - The Import Data from Another Browser feature is now also available from the File menu\r\n - Users will be able to run different Firefox installs side by side by default so that you can run the beta and release versions simultaneously",
+      "sort_num": 80,
       "tag": "New"
     },
     {
