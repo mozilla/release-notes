@@ -51,9 +51,59 @@
       "created": "2019-05-20T09:54:13.829262+00:00",
       "id": 787995,
       "is_public": true,
-      "modified": "2019-05-20T09:54:13.829059+00:00",
-      "note": "A myriad of new features help make Firefox easier to use:\r\n\r\n - We\u2019ve added a toolbar menu for your Firefox Account to provide more transparency for when you are synced, sharing data across devices and with Firefox. Personalize the appearance of the menu with your own avatar\r\n - Tabs can now be pinned from the Page Actions menu in the address bar\r\n - Firefox will highlight useful features (like Pin Tabs) when users are most likely to benefit from them.\r\n - Easier access to your list of saved logins from the main menu and login autocomplete. Learn about all the ways you can manage your passwords in Firefox. \r\n - The Import Data from Another Browser feature is now also available from the File menu\r\n - Users will be able to run different Firefox installs side by side by default so that you can run the beta and release versions simultaneously",
+      "modified": "2019-05-20T09:57:35.992888+00:00",
+      "note": "A myriad of new features help make Firefox easier to use:\r\n\r\n - We\u2019ve added a [toolbar menu][1] for your Firefox Account to provide more transparency for when you are synced, sharing data across devices and with Firefox. Personalize the appearance of the menu with your own avatar\r\n - Tabs can now be [pinned][2] from the Page Actions menu in the address bar\r\n - Firefox will highlight useful features (like Pin Tabs) when users are most likely to benefit from them.\r\n - Easier access to your list of saved logins from the [main menu and login autocomplete][3]. Learn about all the ways you can [manage your passwords][4] in Firefox. \r\n - The Import Data from Another Browser feature is now also available from the File menu\r\n - Users will be able to run different Firefox installs [side by side by default][5] so that you can [run the beta and release versions simultaneously][6]\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/how-do-i-know-status-my-sync\r\n  [2]: https://support.mozilla.org/kb/pinned-tabs-keep-favorite-websites-open\r\n  [3]: https://matthew.noorenberghe.com/blog/2019/05/password-manager-improvements-firefox-67\r\n  [4]: https://support.mozilla.org/kb/password-manager-remember-delete-change-and-import\r\n  [5]: https://blog.nightly.mozilla.org/2019/01/14/moving-to-a-profile-per-install-architecture/\r\n  [6]: https://support.mozilla.org/kb/dedicated-profiles-firefox-installation",
       "sort_num": 80,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2019-05-20T09:58:34.478480+00:00",
+      "id": 787996,
+      "is_public": true,
+      "modified": "2019-05-20T09:58:34.478273+00:00",
+      "note": "Firefox will now protect you against running older versions of the browser which can lead to data corruption and stability issues",
+      "sort_num": 75,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2019-05-20T09:59:22.176808+00:00",
+      "id": 787997,
+      "is_public": true,
+      "modified": "2019-05-20T09:59:22.176604+00:00",
+      "note": "Firefox is upgrading to the newer, higher performance, AV1 decoder known as \u2018dav1d\u2019",
+      "sort_num": 70,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2019-05-20T10:00:00.359896+00:00",
+      "id": 787998,
+      "is_public": true,
+      "modified": "2019-05-20T10:00:00.359691+00:00",
+      "note": "WebRender is gradually enabled by default on Windows 10 desktops with NVIDIA graphics cards",
+      "sort_num": 65,
+      "tag": "New"
+    },
+    {
+      "bug": 1539541,
+      "created": "2019-04-09T16:04:34.279155+00:00",
+      "id": 787953,
+      "is_public": true,
+      "modified": "2019-05-20T10:01:22.738910+00:00",
+      "note": "[Enable FIDO U2F API][1], and permit registrations for Google Accounts\r\n\r\n\r\n  [1]: https://blog.mozilla.org/security/2019/04/04/shipping-fido-u2f-api-support-in-firefox/",
+      "sort_num": 60,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2019-05-20T10:02:46.326143+00:00",
+      "id": 787999,
+      "is_public": true,
+      "modified": "2019-05-20T10:02:46.325927+00:00",
+      "note": "Some users will see experiments with an [improved Pocket experience][1] in Firefox Home with different layouts and more topical content. \r\n\r\n\r\n  [1]: https://help.getpocket.com/article/1149-firefox-home-layout-tests-faq",
+      "sort_num": 55,
       "tag": "New"
     },
     {
