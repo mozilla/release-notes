@@ -17,6 +17,66 @@
       "tag": "New"
     },
     {
+      "bug": 1547013,
+      "created": "2019-05-20T12:43:10.877436+00:00",
+      "id": 788007,
+      "is_public": true,
+      "modified": "2019-05-20T12:43:10.877223+00:00",
+      "note": "When an HTTPS error caused by antivirus software is detected, Firefox will attempt to automatically fix it",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1540175,
+      "created": "2019-05-20T12:43:51.950303+00:00",
+      "id": 788008,
+      "is_public": true,
+      "modified": "2019-05-20T12:43:51.950088+00:00",
+      "note": "New reporting feature in about:addons allows you to easily report security and performance issues with extensions and themes",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1540173,
+      "created": "2019-05-20T12:48:10.481505+00:00",
+      "id": 788009,
+      "is_public": true,
+      "modified": "2019-05-20T12:48:10.481168+00:00",
+      "note": "Find high quality, secure extensions via the Recommended Extensions program.  Look for these vetted extensions in about:addons",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1539902,
+      "created": "2019-05-20T12:49:44.907353+00:00",
+      "id": 788010,
+      "is_public": true,
+      "modified": "2019-05-20T12:49:44.907138+00:00",
+      "note": "WebRender is being enabled on Windows 10 desktops with AMD graphics",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1542334,
+      "created": "2019-05-20T12:50:14.262774+00:00",
+      "id": 788011,
+      "is_public": true,
+      "modified": "2019-05-20T12:50:14.262561+00:00",
+      "note": "Access your Firefox Account settings from the hamburger menu",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1538249,
+      "created": "2019-05-20T12:55:04.770143+00:00",
+      "id": 788012,
+      "is_public": true,
+      "modified": "2019-05-20T12:55:04.769932+00:00",
+      "note": "Added a Firefox shortcut in the Windows 10 taskbar for new installations",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1538733,
       "created": "2019-04-25T09:28:38.640982+00:00",
       "id": 787967,
@@ -27,11 +87,11 @@
       "tag": "Changed"
     },
     {
-      "bug": 1535300,
+      "bug": 1535299,
       "created": "2019-04-26T09:27:29.170468+00:00",
       "id": 787970,
       "is_public": true,
-      "modified": "2019-05-20T11:46:59.883083+00:00",
+      "modified": "2019-05-20T12:41:28.632082+00:00",
       "note": "Removed unmaintained languages: Assamese (as), English - South Africa (en-ZA), Maithili (mai), Malayalam (ml), Odia (or). Existing users are migrated to the British English (en-GB) version of Firefox.",
       "sort_num": 0,
       "tag": "Changed"
