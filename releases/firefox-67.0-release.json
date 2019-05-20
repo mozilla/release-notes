@@ -107,6 +107,46 @@
       "tag": "New"
     },
     {
+      "bug": 1252831,
+      "created": "2019-02-12T17:13:54.814282+00:00",
+      "id": 787896,
+      "is_public": true,
+      "modified": "2019-05-20T10:26:28.601948+00:00",
+      "note": "Firefox no longer supports handling webcal: links with 30boxes.com",
+      "sort_num": 50,
+      "tag": "Changed"
+    },
+    {
+      "bug": 1511636,
+      "created": "2019-03-14T18:05:15.989605+00:00",
+      "id": 787915,
+      "is_public": true,
+      "modified": "2019-05-20T10:27:09.362950+00:00",
+      "note": "*Change to extensions in Private Windows:*  Any new extensions you add to the browser won\u2019t work in Private Windows unless you allow this in the settings.",
+      "sort_num": 45,
+      "tag": "Changed"
+    },
+    {
+      "bug": null,
+      "created": "2019-05-20T10:28:32.455481+00:00",
+      "id": 788001,
+      "is_public": true,
+      "modified": "2019-05-20T10:29:18.458321+00:00",
+      "note": "Users will [no longer be able to upload and share screenshots][1] through the Firefox Screenshots server. Users who want to keep existing screenshots need to [export][2] them before the server shuts down in the coming months.\r\n\r\n\r\n  [1]: https://blog.mozilla.org/futurereleases/2019/01/24/clarifying-the-future-of-firefox-screenshots/\r\n  [2]: https://screenshots.firefox.com/export",
+      "sort_num": 40,
+      "tag": "Changed"
+    },
+    {
+      "bug": 1470107,
+      "created": "2019-04-26T08:10:24.859826+00:00",
+      "id": 787969,
+      "is_public": true,
+      "modified": "2019-05-20T10:29:40.628485+00:00",
+      "note": "Included Twemoji Mozilla font updated to support Emoji 11.0 \ud83e\udd73",
+      "sort_num": 35,
+      "tag": "Changed"
+    },
+    {
       "bug": 1543641,
       "created": "2019-05-15T22:44:47.118066+00:00",
       "id": 787990,
@@ -115,6 +155,56 @@
       "note": "Font and date adjustments to accommodate the new Reiwa era in Japan",
       "sort_num": 30,
       "tag": "Changed"
+    },
+    {
+      "bug": 1515875,
+      "created": "2019-03-15T11:22:07.824710+00:00",
+      "id": 787916,
+      "is_public": true,
+      "modified": "2019-05-20T10:30:51.406817+00:00",
+      "note": "The DevTools Changes panel now supports copying modified CSS. You can either copy the full changes or individual changed rules.",
+      "sort_num": 30,
+      "tag": "Developer"
+    },
+    {
+      "bug": null,
+      "created": "2019-05-20T10:33:26.242262+00:00",
+      "id": 788002,
+      "is_public": true,
+      "modified": "2019-05-20T10:33:26.242023+00:00",
+      "note": "CSS Viewport-compat - Firefox for Android's mobile viewport behavior is now aligned with other browsers, resolving known compatibility issues with websites.",
+      "sort_num": 25,
+      "tag": "Developer"
+    },
+    {
+      "bug": null,
+      "created": "2019-05-20T10:34:38.538653+00:00",
+      "id": 788003,
+      "is_public": true,
+      "modified": "2019-05-20T10:34:38.538305+00:00",
+      "note": "JavaScript module imports - Firefox now supports dynamic module imports.",
+      "sort_num": 20,
+      "tag": "Developer"
+    },
+    {
+      "bug": null,
+      "created": "2019-05-20T10:35:51.315778+00:00",
+      "id": 788004,
+      "is_public": true,
+      "modified": "2019-05-20T10:35:51.315559+00:00",
+      "note": "New streamlined worker debugging in the [JavaScript Debugger][1] with the new Threads panel.\r\n\r\n\r\n  [1]: https://hacks.mozilla.org/2019/05/faster-smarter-javascript-debugging-in-firefox/",
+      "sort_num": 15,
+      "tag": "Developer"
+    },
+    {
+      "bug": null,
+      "created": "2019-05-20T10:36:21.034042+00:00",
+      "id": 788005,
+      "is_public": true,
+      "modified": "2019-05-20T10:36:21.033680+00:00",
+      "note": "New inline breakpoints provided by the JavaScript Debugger give a much higher fidelity and reliability for pausing in specific locations within a line of code.",
+      "sort_num": 10,
+      "tag": "Developer"
     },
     {
       "bug": null,

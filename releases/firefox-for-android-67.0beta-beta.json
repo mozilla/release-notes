@@ -37,22 +37,22 @@
       "tag": "New"
     },
     {
+      "bug": 1470107,
+      "created": "2019-04-26T08:10:24.859826+00:00",
+      "id": 787969,
+      "is_public": true,
+      "modified": "2019-05-20T10:29:40.628485+00:00",
+      "note": "Included Twemoji Mozilla font updated to support Emoji 11.0 \ud83e\udd73",
+      "sort_num": 35,
+      "tag": "Changed"
+    },
+    {
       "bug": 1536866,
       "created": "2019-04-02T18:29:50.594499+00:00",
       "id": 787950,
       "is_public": true,
       "modified": "2019-04-28T07:51:18.906620+00:00",
       "note": "The [Guest Session][1] feature has been removed to streamline user experience. Please use Private Browsing on Firefox for Android to keep your sessions separate or your device's guest mode feature.\r\n\r\n\r\n  [1]: https://support.mozilla.org/en-US/kb/share-your-android-device-firefox-guest-session",
-      "sort_num": 0,
-      "tag": "Changed"
-    },
-    {
-      "bug": 1470107,
-      "created": "2019-04-26T08:10:24.859826+00:00",
-      "id": 787969,
-      "is_public": true,
-      "modified": "2019-05-03T14:32:50.326958+00:00",
-      "note": "Included Twemoji Mozilla font updated to support Emoji 11.0 \ud83e\udd73",
       "sort_num": 0,
       "tag": "Changed"
     },

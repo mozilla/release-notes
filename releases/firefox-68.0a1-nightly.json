@@ -37,22 +37,22 @@
       "tag": "New"
     },
     {
+      "bug": 1470107,
+      "created": "2019-04-26T08:10:24.859826+00:00",
+      "id": 787969,
+      "is_public": true,
+      "modified": "2019-05-20T10:29:40.628485+00:00",
+      "note": "Included Twemoji Mozilla font updated to support Emoji 11.0 \ud83e\udd73",
+      "sort_num": 35,
+      "tag": "Changed"
+    },
+    {
       "bug": 1538733,
       "created": "2019-04-25T09:28:38.640982+00:00",
       "id": 787967,
       "is_public": true,
       "modified": "2019-04-25T09:28:38.640574+00:00",
       "note": "Unified existing locales (bn-BD, bn-IN) under a single Bengali (bn) localization.",
-      "sort_num": 0,
-      "tag": "Changed"
-    },
-    {
-      "bug": 1470107,
-      "created": "2019-04-26T08:10:24.859826+00:00",
-      "id": 787969,
-      "is_public": true,
-      "modified": "2019-05-03T14:32:50.326958+00:00",
-      "note": "Included Twemoji Mozilla font updated to support Emoji 11.0 \ud83e\udd73",
       "sort_num": 0,
       "tag": "Changed"
     },
