@@ -7,6 +7,46 @@
   "modified": "2019-05-14T12:21:10.185121+00:00",
   "notes": [
     {
+      "bug": null,
+      "created": "2019-05-20T09:14:27.800856+00:00",
+      "id": 787991,
+      "is_public": true,
+      "modified": "2019-05-20T09:14:27.800638+00:00",
+      "note": "Firefox 67 demonstrates improved performance thanks to a number of changes such as: \r\n- Lowering priority of `setTimeout` during page load\r\n- Delayed component initialization until after start up\r\n- Painting sooner during page load but less often\r\n- Suspending unused tabs\r\nLearn more about our approach to performance in 67 in the [Mozilla blog][1].\r\n\r\n\r\n  [1]: https://blog.mozilla.org/blog/2019/05/21/latest-firefox-release-is-faster-than-ever/",
+      "sort_num": 100,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2019-05-20T09:18:21.272407+00:00",
+      "id": 787992,
+      "is_public": true,
+      "modified": "2019-05-20T09:18:21.272206+00:00",
+      "note": "Users can block known cryptominers and fingerprinters in the Custom settings of their [Content Blocking preferences][1].\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/content-blocking",
+      "sort_num": 95,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2019-05-20T09:19:15.380344+00:00",
+      "id": 787993,
+      "is_public": true,
+      "modified": "2019-05-20T09:19:15.380134+00:00",
+      "note": "Keyboard accessibility has improved in the latest version of Firefox. Toolbar and toolbar overflow menu are both [fully keyboard accessible][1]: keyboard users can now access add-ons, the downloads panel, the overflow, Page actions and Firefox menus, and much more.\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/access-toolbar-functions-using-keyboard",
+      "sort_num": 90,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2019-05-20T09:21:35.553512+00:00",
+      "id": 787994,
+      "is_public": true,
+      "modified": "2019-05-20T09:21:35.553302+00:00",
+      "note": "[Private Browsing][1] sees both [usability and security improvements][2]: \r\n - Save passwords in private browsing mode\r\n - Choose which extensions to exclude from private tabs\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/extensions-private-browsing\r\n  [2]: https://blog.mozilla.org/addons/2019/03/26/extensions-in-firefox-67/",
+      "sort_num": 85,
+      "tag": "New"
+    },
+    {
       "bug": 1543641,
       "created": "2019-05-15T22:44:47.118066+00:00",
       "id": 787990,
