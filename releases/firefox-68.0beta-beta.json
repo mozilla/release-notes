@@ -21,8 +21,8 @@
       "created": "2019-05-20T12:43:10.877436+00:00",
       "id": 788007,
       "is_public": true,
-      "modified": "2019-05-20T12:43:10.877223+00:00",
-      "note": "When an HTTPS error caused by antivirus software is detected, Firefox will attempt to automatically fix it",
+      "modified": "2019-05-21T07:39:35.359072+00:00",
+      "note": "When an HTTPS error caused by antivirus software is detected, [Firefox will attempt to automatically fix it][0]\r\n\r\n[0]: https://support.mozilla.org/kb/how-disable-enterprise-roots-preference",
       "sort_num": 0,
       "tag": "New"
     },
@@ -113,6 +113,16 @@
       "is_public": true,
       "modified": "2019-05-20T12:41:28.632082+00:00",
       "note": "Removed unmaintained languages: Assamese (as), English - South Africa (en-ZA), Maithili (mai), Malayalam (ml), Odia (or). Existing users are migrated to the British English (en-GB) version of Firefox.",
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
+      "bug": 1548031,
+      "created": "2019-05-21T07:37:58.378682+00:00",
+      "id": 788021,
+      "is_public": true,
+      "modified": "2019-05-21T07:37:58.378324+00:00",
+      "note": "The AwesomeBar has been rewritten using Web Technologies only (HTML, JS and CSS). Differences include that results that overflow now have a nice fading effect instead of an ellipsis, and removing history items from the results now requires a different key combination on both Windows and Linux: Shift+DEL or Shift+Backspace",
       "sort_num": 0,
       "tag": "Changed"
     }
