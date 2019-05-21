@@ -11,7 +11,7 @@
       "created": "2019-04-25T16:13:05.224733+00:00",
       "id": 787968,
       "is_public": true,
-      "modified": "2019-05-20T11:46:59.883083+00:00",
+      "modified": "2019-05-21T07:59:41.796205+00:00",
       "note": "Added about:compat, where website-specific workarounds are listed and may be toggled. These workarounds are meant as temporary fixes for various forms of website breakage for Firefox, while the website fixes them in due time. With about:compat, it is now easy to see all of the workarounds that are active in Firefox, and easy for website developers to disable a given workaround for testing purposes.",
       "sort_num": 0,
       "tag": "New"
@@ -21,7 +21,7 @@
       "created": "2019-04-30T13:05:10.185053+00:00",
       "id": 787971,
       "is_public": true,
-      "modified": "2019-05-20T11:47:50.450516+00:00",
+      "modified": "2019-05-21T07:59:37.387861+00:00",
       "note": "<!-- Nightly Only -->\r\nExperimental in-content dark mode complementing the dark theme is now activated by default",
       "sort_num": 0,
       "tag": "New"
@@ -31,7 +31,7 @@
       "created": "2019-04-30T13:10:17.339373+00:00",
       "id": 787972,
       "is_public": true,
-      "modified": "2019-05-20T11:47:29.678125+00:00",
+      "modified": "2019-05-21T07:59:34.158967+00:00",
       "note": "<!-- Nightly Only -->\r\n[User Initiated Picture-in-Picture][1] has been enabled by default on Nightly on Windows \r\n\r\n\r\n  [1]: https://mail.mozilla.org/pipermail/firefox-dev/2019-April/007038.html",
       "sort_num": 0,
       "tag": "New"
@@ -41,7 +41,7 @@
       "created": "2019-04-26T08:10:24.859826+00:00",
       "id": 787969,
       "is_public": true,
-      "modified": "2019-05-20T11:48:21.979009+00:00",
+      "modified": "2019-05-21T07:59:40.476329+00:00",
       "note": "Included Twemoji Mozilla font updated to support Emoji 11.0 \ud83e\udd73",
       "sort_num": 35,
       "tag": "Changed"
@@ -51,7 +51,7 @@
       "created": "2019-04-25T09:28:38.640982+00:00",
       "id": 787967,
       "is_public": true,
-      "modified": "2019-05-20T11:46:59.883083+00:00",
+      "modified": "2019-05-21T07:59:31.640456+00:00",
       "note": "Unified existing locales (bn-BD, bn-IN) under a single Bengali (bn) localization.",
       "sort_num": 0,
       "tag": "Changed"
@@ -61,7 +61,7 @@
       "created": "2019-04-26T09:27:29.170468+00:00",
       "id": 787970,
       "is_public": true,
-      "modified": "2019-05-20T12:41:28.632082+00:00",
+      "modified": "2019-05-21T07:59:39.396425+00:00",
       "note": "Removed unmaintained languages: Assamese (as), English - South Africa (en-ZA), Maithili (mai), Malayalam (ml), Odia (or). Existing users are migrated to the British English (en-GB) version of Firefox.",
       "sort_num": 0,
       "tag": "Changed"
