@@ -97,6 +97,16 @@
       "tag": "New"
     },
     {
+      "bug": 1522207,
+      "created": "2019-05-22T08:50:31.486939+00:00",
+      "id": 788022,
+      "is_public": true,
+      "modified": "2019-05-22T08:50:31.486732+00:00",
+      "note": "In addition to providing color contrast information for individual elements of a page, Firefox now offers a full page color contrast audit that identifies all element on a page that fail color contrast checks.",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1538733,
       "created": "2019-04-25T09:28:38.640982+00:00",
       "id": 787967,
