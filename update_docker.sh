@@ -15,7 +15,7 @@ if ! imageExists; then
     docker build -t "$IMAGE_NAME" --pull .
 fi
 
-docker run --rm -v "$PWD:/app" "$IMAGE_NAME"
+docker run -u $(id -u) --rm -v "$PWD:/app" "$IMAGE_NAME"
 
 # UPDATE_FILE is an indicator we can use in Jenkins
 # to run other jobs if there was, in fact, an update
