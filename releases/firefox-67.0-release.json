@@ -225,6 +225,16 @@
       "note": "Various [security fixes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/en-US/security/advisories/mfsa2019-13/",
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": 1553910,
+      "created": "2019-05-28T20:13:13.106356+00:00",
+      "id": 788023,
+      "is_public": true,
+      "modified": "2019-05-28T20:13:13.104983+00:00",
+      "note": "Windows users with Direct2D disabled or WebRender enabled may see color fringing on text on some screens ([bug 1553910][1]).\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1553910",
+      "sort_num": 0,
+      "tag": "Known"
     }
   ],
   "product": "Firefox",
