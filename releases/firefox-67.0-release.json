@@ -245,6 +245,16 @@
       "note": "TinyMCE versions 3.4.4 and earlier are not compatible with Firefox 67 and later, because they have a Firefox-specific codepath that assumes non-standard behavior and that behavior was removed.  This can be addressed by updating to TinyMCE 3.4.5 or later, or by modifying the `setupIframe()` function in `tiny_mce.js` to have the `d.open()` call right before the big conditional block that adds a `DOMContentLoader` event listener, not right after that block ([bug 1554014][1]).\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1554014",
       "sort_num": 0,
       "tag": "Known"
+    },
+    {
+      "bug": 1553672,
+      "created": "2019-06-05T17:39:22.315288+00:00",
+      "id": 788029,
+      "is_public": true,
+      "modified": "2019-06-05T17:39:22.315038+00:00",
+      "note": "For some Firefox users who have antivirus programs installed, the master password dialog appears more than once. Information for [a workaround fix is on support.mozilla.org][1]. \r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/firefox-keeps-asking-me-master-password",
+      "sort_num": 0,
+      "tag": "Known"
     }
   ],
   "product": "Firefox",
