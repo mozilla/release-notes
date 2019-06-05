@@ -235,6 +235,16 @@
       "note": "Windows users with Direct2D disabled or WebRender enabled may see color fringing on text on some screens ([bug 1553910][1]).\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1553910",
       "sort_num": 0,
       "tag": "Known"
+    },
+    {
+      "bug": 1554014,
+      "created": "2019-06-05T13:07:59.797007+00:00",
+      "id": 788028,
+      "is_public": true,
+      "modified": "2019-06-05T13:08:14.839187+00:00",
+      "note": "TinyMCE versions 3.4.4 and earlier are not compatible with Firefox 67 and later, because they have a Firefox-specific codepath that assumes non-standard behavior and that behavior was removed.  This can be addressed by updating to TinyMCE 3.4.5 or later, or by modifying the `setupIframe()` function in `tiny_mce.js` to have the `d.open()` call right before the big conditional block that adds a `DOMContentLoader` event listener, not right after that block.",
+      "sort_num": 0,
+      "tag": "Known"
     }
   ],
   "product": "Firefox",
