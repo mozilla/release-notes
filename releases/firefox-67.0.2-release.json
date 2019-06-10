@@ -2,36 +2,15 @@
   "bug_list": "",
   "bug_search_url": "",
   "channel": "Release",
-  "created": "2019-05-07T18:39:39.702032+00:00",
-  "is_public": true,
-  "modified": "2019-05-07T20:18:44.162254+00:00",
-  "notes": [
-    {
-      "bug": null,
-      "created": "2019-05-07T19:03:48.817836+00:00",
-      "id": 787986,
-      "is_public": true,
-      "modified": "2019-06-03T08:13:36.556603+00:00",
-      "note": "Reference link to [66.0.4 release notes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/firefox/66.0.4/releasenotes/",
-      "sort_num": 0,
-      "tag": ""
-    },
-    {
-      "bug": 1549249,
-      "created": "2019-05-07T18:53:57.759684+00:00",
-      "id": 787985,
-      "is_public": true,
-      "modified": "2019-06-10T16:45:51.186647+00:00",
-      "note": "Further improvements to [re-enable web extensions][1] which had been disabled for users with a master password set ([Bug 1549249][2]). [**More support information**][3]\r\n\r\n\r\n  [1]: https://blog.mozilla.org/addons/2019/05/04/update-regarding-add-ons-in-firefox/\r\n  [2]: https://bugzilla.mozilla.org/show_bug.cgi?id=1549249\r\n  [3]: https://support.mozilla.org/kb/add-ons-disabled-or-fail-to-install-firefox#w_master-password",
-      "sort_num": 90,
-      "tag": "Fixed"
-    }
-  ],
+  "created": "2019-06-10T16:46:19.950018+00:00",
+  "is_public": false,
+  "modified": "2019-06-10T16:47:10.749949+00:00",
+  "notes": [],
   "product": "Firefox",
-  "release_date": "2019-05-07",
-  "slug": "firefox-66.0.5-release",
+  "release_date": "2019-06-11",
+  "slug": "firefox-67.0.2-release",
   "system_requirements": "## Windows\r\n\r\n### Operating Systems (32-bit and 64-bit)\r\n - Windows 7\r\n - Windows 8\r\n - Windows 10\r\n\r\n### Recommended Hardware\r\n-  Pentium 4 or newer processor that supports SSE2\r\n-  512MB of RAM / 2GB of RAM for the 64-bit version\r\n-  200MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- macOS 10.9\r\n- macOS 10.10\r\n- macOS 10.11\r\n- macOS 10.12\r\n- macOS 10.13\r\n- macOS 10.14\r\n\r\n### Recommended Hardware\r\n- Macintosh computer with an Intel x86 processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - GTK+ 3.4 or higher\r\n    - GLib 2.22 or higher\r\n    - Pango 1.22 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n    - libstdc++ 4.6.1 or higher\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - NetworkManager 0.7 or higher\r\n    - DBus 1.0 or higher\r\n    - GNOME 2.16 or higher\r\n    - PulseAudio",
   "text": "",
-  "title": "Firefox 66.0.5 Release",
-  "version": "66.0.5"
+  "title": "Firefox 67.0.2 Release",
+  "version": "67.0.2"
 }
