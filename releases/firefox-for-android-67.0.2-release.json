@@ -35,6 +35,16 @@
       "note": "Pearson MyCloud breaks if FIDO U2F is not Chrome's implementation ([bug 1551282][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1551282",
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": 1555962,
+      "created": "2019-06-11T08:41:40.548624+00:00",
+      "id": 788037,
+      "is_public": true,
+      "modified": "2019-06-11T08:41:40.548371+00:00",
+      "note": "Performance-regression for eclipse RAP based applications ([bug 1555962][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1555962",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox for Android",
