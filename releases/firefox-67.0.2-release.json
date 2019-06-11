@@ -35,6 +35,46 @@
       "note": "Pearson MyCloud breaks if FIDO U2F is not Chrome's implementation ([bug 1551282][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1551282",
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": 1556612,
+      "created": "2019-06-11T08:30:02.683882+00:00",
+      "id": 788033,
+      "is_public": true,
+      "modified": "2019-06-11T08:30:02.683684+00:00",
+      "note": "Starting in safe mode on Linux or macOS causes Firefox to think on the subsequent launch that the profile is too recent to be used with this version of Firefox ([bug 1556612][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1556612",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1554744,
+      "created": "2019-06-11T08:32:32.953240+00:00",
+      "id": 788034,
+      "is_public": true,
+      "modified": "2019-06-11T08:32:32.953045+00:00",
+      "note": "Linux distribution users can't easily install/use additional/different languages using the built-in preferences UI ([bug 1554744][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1554744",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1552275,
+      "created": "2019-06-11T08:37:02.113310+00:00",
+      "id": 788035,
+      "is_public": true,
+      "modified": "2019-06-11T08:37:40.484081+00:00",
+      "note": "Developer tools users can't copy the href/src content from  various HTML tags via the  context menu in the Inspector markup view ([bug 1552275][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1552275",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1554167,
+      "created": "2019-06-11T08:39:51.886694+00:00",
+      "id": 788036,
+      "is_public": true,
+      "modified": "2019-06-11T08:39:51.886442+00:00",
+      "note": "Custom home page is broken with clearing data on shutdown settings applied\r\n([bug 1554167][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1554167",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
