@@ -7,12 +7,22 @@
   "modified": "2019-06-10T16:47:10.749949+00:00",
   "notes": [
     {
+      "bug": null,
+      "created": "2019-06-03T16:44:25.858014+00:00",
+      "id": 788025,
+      "is_public": true,
+      "modified": "2019-06-11T09:44:26.503892+00:00",
+      "note": "Reference link to [67.0 release notes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/en-US/firefox/67.0/releasenotes/",
+      "sort_num": 0,
+      "tag": ""
+    },
+    {
       "bug": 1553413,
       "created": "2019-06-11T08:18:42.626453+00:00",
       "id": 788030,
       "is_public": true,
-      "modified": "2019-06-11T08:18:42.626229+00:00",
-      "note": "Fix JavaScript error (\"TypeError: data is null in PrivacyFilter.jsm\") in console which may significantly degrade sessionstore reliability and performance. [Bug 1553413][1]\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1553413",
+      "modified": "2019-06-11T09:42:58.831355+00:00",
+      "note": "Fix JavaScript error (\"*TypeError: data is null in PrivacyFilter.jsm*\") in console which may significantly degrade sessionstore reliability and performance ([bug 1553413][1])\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1553413",
       "sort_num": 0,
       "tag": "Fixed"
     },
@@ -71,8 +81,8 @@
       "created": "2019-06-11T08:39:51.886694+00:00",
       "id": 788036,
       "is_public": true,
-      "modified": "2019-06-11T08:39:51.886442+00:00",
-      "note": "Custom home page is broken with clearing data on shutdown settings applied\r\n([bug 1554167][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1554167",
+      "modified": "2019-06-11T09:43:26.880579+00:00",
+      "note": "Custom home page is broken with clearing data on shutdown settings applied ([bug 1554167][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1554167",
       "sort_num": 0,
       "tag": "Fixed"
     },
@@ -93,6 +103,16 @@
       "is_public": true,
       "modified": "2019-06-11T08:43:21.864154+00:00",
       "note": "macOS 10.15 crash fix ([bug 1556076][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1556076",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1542912,
+      "created": "2019-06-11T09:41:34.444317+00:00",
+      "id": 788039,
+      "is_public": true,
+      "modified": "2019-06-11T09:41:34.444125+00:00",
+      "note": "Can't start two downloads in parallel via `<a download>` anymore ([bug 1542912][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1542912",
       "sort_num": 0,
       "tag": "Fixed"
     }

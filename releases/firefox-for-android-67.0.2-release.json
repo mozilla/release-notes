@@ -7,12 +7,22 @@
   "modified": "2019-06-10T16:45:55.798108+00:00",
   "notes": [
     {
+      "bug": null,
+      "created": "2019-06-11T09:45:17.553485+00:00",
+      "id": 788040,
+      "is_public": true,
+      "modified": "2019-06-11T09:45:17.553293+00:00",
+      "note": "Reference link to [67.0 release notes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/en-US/firefox/android/67.0/releasenotes/",
+      "sort_num": 0,
+      "tag": ""
+    },
+    {
       "bug": 1553413,
       "created": "2019-06-11T08:18:42.626453+00:00",
       "id": 788030,
       "is_public": true,
-      "modified": "2019-06-11T08:18:42.626229+00:00",
-      "note": "Fix JavaScript error (\"TypeError: data is null in PrivacyFilter.jsm\") in console which may significantly degrade sessionstore reliability and performance. [Bug 1553413][1]\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1553413",
+      "modified": "2019-06-11T09:42:58.831355+00:00",
+      "note": "Fix JavaScript error (\"*TypeError: data is null in PrivacyFilter.jsm*\") in console which may significantly degrade sessionstore reliability and performance ([bug 1553413][1])\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1553413",
       "sort_num": 0,
       "tag": "Fixed"
     },
@@ -43,6 +53,16 @@
       "is_public": true,
       "modified": "2019-06-11T08:41:40.548371+00:00",
       "note": "Performance-regression for eclipse RAP based applications ([bug 1555962][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1555962",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1542912,
+      "created": "2019-06-11T09:41:34.444317+00:00",
+      "id": 788039,
+      "is_public": true,
+      "modified": "2019-06-11T09:41:34.444125+00:00",
+      "note": "Can't start two downloads in parallel via `<a download>` anymore ([bug 1542912][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1542912",
       "sort_num": 0,
       "tag": "Fixed"
     }
