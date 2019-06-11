@@ -5,7 +5,38 @@
   "created": "2019-06-10T16:45:23.041080+00:00",
   "is_public": false,
   "modified": "2019-06-10T16:45:55.798108+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": 1553413,
+      "created": "2019-06-11T08:18:42.626453+00:00",
+      "id": 788030,
+      "is_public": true,
+      "modified": "2019-06-11T08:18:42.626229+00:00",
+      "note": "Fix JavaScript error (\"TypeError: data is null in PrivacyFilter.jsm\") in console which may significantly degrade sessionstore reliability and performance. [Bug 1553413][1]\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1553413",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1548804,
+      "created": "2019-06-11T08:21:23.041713+00:00",
+      "id": 788031,
+      "is_public": true,
+      "modified": "2019-06-11T08:21:23.041484+00:00",
+      "note": "Proxy authentication dialog box repeatedly pops up asking to authenticate after upgrading to Firefox 67 ([bug 1548804][1]) \r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1548804",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1551282,
+      "created": "2019-06-11T08:23:02.649844+00:00",
+      "id": 788032,
+      "is_public": true,
+      "modified": "2019-06-11T08:23:02.649657+00:00",
+      "note": "Pearson MyCloud breaks if FIDO U2F is not Chrome's implementation ([bug 1551282][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1551282",
+      "sort_num": 0,
+      "tag": "Fixed"
+    }
+  ],
   "product": "Firefox for Android",
   "release_date": "2019-06-11",
   "slug": "firefox-for-android-67.0.2-release",
