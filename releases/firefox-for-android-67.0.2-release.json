@@ -11,7 +11,7 @@
       "created": "2019-06-11T09:45:17.553485+00:00",
       "id": 788040,
       "is_public": true,
-      "modified": "2019-06-11T09:45:17.553293+00:00",
+      "modified": "2019-06-18T05:50:50.335862+00:00",
       "note": "Reference link to [67.0 release notes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/en-US/firefox/android/67.0/releasenotes/",
       "sort_num": 0,
       "tag": ""
@@ -21,7 +21,7 @@
       "created": "2019-06-11T08:18:42.626453+00:00",
       "id": 788030,
       "is_public": true,
-      "modified": "2019-06-11T09:42:58.831355+00:00",
+      "modified": "2019-06-18T05:50:47.787612+00:00",
       "note": "Fix JavaScript error (\"*TypeError: data is null in PrivacyFilter.jsm*\") in console which may significantly degrade sessionstore reliability and performance ([bug 1553413][1])\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1553413",
       "sort_num": 0,
       "tag": "Fixed"
@@ -31,7 +31,7 @@
       "created": "2019-06-11T08:21:23.041713+00:00",
       "id": 788031,
       "is_public": true,
-      "modified": "2019-06-11T08:21:23.041484+00:00",
+      "modified": "2019-06-18T05:54:12.806419+00:00",
       "note": "Proxy authentication dialog box repeatedly pops up asking to authenticate after upgrading to Firefox 67 ([bug 1548804][1]) \r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1548804",
       "sort_num": 0,
       "tag": "Fixed"
@@ -41,7 +41,7 @@
       "created": "2019-06-11T08:23:02.649844+00:00",
       "id": 788032,
       "is_public": true,
-      "modified": "2019-06-11T08:23:02.649657+00:00",
+      "modified": "2019-06-18T05:51:09.879995+00:00",
       "note": "Pearson MyCloud breaks if FIDO U2F is not Chrome's implementation ([bug 1551282][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1551282",
       "sort_num": 0,
       "tag": "Fixed"
@@ -51,7 +51,7 @@
       "created": "2019-06-11T08:41:40.548624+00:00",
       "id": 788037,
       "is_public": true,
-      "modified": "2019-06-11T08:41:40.548371+00:00",
+      "modified": "2019-06-18T05:51:25.754763+00:00",
       "note": "Performance-regression for eclipse RAP based applications ([bug 1555962][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1555962",
       "sort_num": 0,
       "tag": "Fixed"
@@ -61,7 +61,7 @@
       "created": "2019-06-11T09:41:34.444317+00:00",
       "id": 788039,
       "is_public": true,
-      "modified": "2019-06-11T09:41:34.444125+00:00",
+      "modified": "2019-06-18T05:51:09.878032+00:00",
       "note": "Can't start two downloads in parallel via `<a download>` anymore ([bug 1542912][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1542912",
       "sort_num": 0,
       "tag": "Fixed"

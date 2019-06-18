@@ -11,7 +11,7 @@
       "created": "2019-06-03T16:44:25.858014+00:00",
       "id": 788025,
       "is_public": true,
-      "modified": "2019-06-11T09:44:26.503892+00:00",
+      "modified": "2019-06-18T05:45:37.032438+00:00",
       "note": "Reference link to [67.0 release notes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/en-US/firefox/67.0/releasenotes/",
       "sort_num": 0,
       "tag": ""
@@ -21,7 +21,7 @@
       "created": "2019-06-11T08:18:42.626453+00:00",
       "id": 788030,
       "is_public": true,
-      "modified": "2019-06-11T09:42:58.831355+00:00",
+      "modified": "2019-06-18T05:50:47.787612+00:00",
       "note": "Fix JavaScript error (\"*TypeError: data is null in PrivacyFilter.jsm*\") in console which may significantly degrade sessionstore reliability and performance ([bug 1553413][1])\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1553413",
       "sort_num": 0,
       "tag": "Fixed"
@@ -31,7 +31,7 @@
       "created": "2019-06-11T08:21:23.041713+00:00",
       "id": 788031,
       "is_public": true,
-      "modified": "2019-06-11T08:21:23.041484+00:00",
+      "modified": "2019-06-18T05:54:12.806419+00:00",
       "note": "Proxy authentication dialog box repeatedly pops up asking to authenticate after upgrading to Firefox 67 ([bug 1548804][1]) \r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1548804",
       "sort_num": 0,
       "tag": "Fixed"
@@ -41,7 +41,7 @@
       "created": "2019-06-11T08:23:02.649844+00:00",
       "id": 788032,
       "is_public": true,
-      "modified": "2019-06-11T08:23:02.649657+00:00",
+      "modified": "2019-06-18T05:51:09.879995+00:00",
       "note": "Pearson MyCloud breaks if FIDO U2F is not Chrome's implementation ([bug 1551282][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1551282",
       "sort_num": 0,
       "tag": "Fixed"
@@ -51,7 +51,7 @@
       "created": "2019-06-11T08:30:02.683882+00:00",
       "id": 788033,
       "is_public": true,
-      "modified": "2019-06-11T08:30:02.683684+00:00",
+      "modified": "2019-06-18T05:48:19.206307+00:00",
       "note": "Starting in safe mode on Linux or macOS causes Firefox to think on the subsequent launch that the profile is too recent to be used with this version of Firefox ([bug 1556612][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1556612",
       "sort_num": 0,
       "tag": "Fixed"
@@ -61,7 +61,7 @@
       "created": "2019-06-11T08:32:32.953240+00:00",
       "id": 788034,
       "is_public": true,
-      "modified": "2019-06-11T08:32:32.953045+00:00",
+      "modified": "2019-06-18T05:48:17.569160+00:00",
       "note": "Linux distribution users can't easily install/use additional/different languages using the built-in preferences UI ([bug 1554744][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1554744",
       "sort_num": 0,
       "tag": "Fixed"
@@ -71,7 +71,7 @@
       "created": "2019-06-11T08:37:02.113310+00:00",
       "id": 788035,
       "is_public": true,
-      "modified": "2019-06-11T08:37:40.484081+00:00",
+      "modified": "2019-06-18T05:48:16.011771+00:00",
       "note": "Developer tools users can't copy the href/src content from  various HTML tags via the  context menu in the Inspector markup view ([bug 1552275][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1552275",
       "sort_num": 0,
       "tag": "Fixed"
@@ -81,7 +81,7 @@
       "created": "2019-06-11T08:39:51.886694+00:00",
       "id": 788036,
       "is_public": true,
-      "modified": "2019-06-11T09:43:26.880579+00:00",
+      "modified": "2019-06-18T05:48:14.159566+00:00",
       "note": "Custom home page is broken with clearing data on shutdown settings applied ([bug 1554167][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1554167",
       "sort_num": 0,
       "tag": "Fixed"
@@ -91,7 +91,7 @@
       "created": "2019-06-11T08:41:40.548624+00:00",
       "id": 788037,
       "is_public": true,
-      "modified": "2019-06-11T08:41:40.548371+00:00",
+      "modified": "2019-06-18T05:51:25.754763+00:00",
       "note": "Performance-regression for eclipse RAP based applications ([bug 1555962][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1555962",
       "sort_num": 0,
       "tag": "Fixed"
@@ -101,7 +101,7 @@
       "created": "2019-06-11T08:43:21.864460+00:00",
       "id": 788038,
       "is_public": true,
-      "modified": "2019-06-11T08:43:21.864154+00:00",
+      "modified": "2019-06-18T05:48:08.667630+00:00",
       "note": "macOS 10.15 crash fix ([bug 1556076][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1556076",
       "sort_num": 0,
       "tag": "Fixed"
@@ -111,7 +111,7 @@
       "created": "2019-06-11T09:41:34.444317+00:00",
       "id": 788039,
       "is_public": true,
-      "modified": "2019-06-11T09:41:34.444125+00:00",
+      "modified": "2019-06-18T05:51:09.878032+00:00",
       "note": "Can't start two downloads in parallel via `<a download>` anymore ([bug 1542912][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1542912",
       "sort_num": 0,
       "tag": "Fixed"
