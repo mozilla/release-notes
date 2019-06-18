@@ -5,7 +5,28 @@
   "created": "2019-05-21T07:58:53.976304+00:00",
   "is_public": true,
   "modified": "2019-05-21T10:17:13.129201+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": 1519434,
+      "created": "2019-06-18T20:56:48.508285+00:00",
+      "id": 788046,
+      "is_public": true,
+      "modified": "2019-06-18T20:56:48.508093+00:00",
+      "note": "The \u201cAlways Activate\u201d Flash option was removed. Firefox will always ask for user permission before activating Flash on a website.",
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
+      "bug": 1541234,
+      "created": "2019-06-18T21:02:46.428997+00:00",
+      "id": 788047,
+      "is_public": true,
+      "modified": "2019-06-18T21:02:46.428802+00:00",
+      "note": "Users who use userChrome.css or userContent.css files to customize Firefox may need to flip the `toolkit.legacyUserProfileCustomizations.stylesheets` pref to true in order for Firefox to load these files. This is to avoid touching the disk unnecessarily during start-up for users that don't have those files. This pref will have been set automatically for users on Firefox 68 who had either userChrome.css or userContent.css already exiting in their profile directories.",
+      "sort_num": 0,
+      "tag": "Changed"
+    }
+  ],
   "product": "Firefox",
   "release_date": "2019-05-20",
   "slug": "firefox-69.0a1-nightly",
