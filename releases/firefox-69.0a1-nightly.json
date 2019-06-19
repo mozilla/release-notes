@@ -7,6 +7,16 @@
   "modified": "2019-05-21T10:17:13.129201+00:00",
   "notes": [
     {
+      "bug": 1548364,
+      "created": "2019-06-19T23:18:30.449443+00:00",
+      "id": 788050,
+      "is_public": true,
+      "modified": "2019-06-19T23:18:30.449246+00:00",
+      "note": "Firefox will give Windows hints to appropriately set content process priority levels, meaning more processor time spent on the tasks you're actively working on, and less processor time spent on things in the background (with the exception of video and audio playback).",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1519434,
       "created": "2019-06-18T20:56:48.508285+00:00",
       "id": 788046,
