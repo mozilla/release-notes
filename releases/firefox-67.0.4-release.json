@@ -5,7 +5,28 @@
   "created": "2019-06-19T22:25:39.167864+00:00",
   "is_public": false,
   "modified": "2019-06-19T22:26:17.286819+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": null,
+      "created": "2019-06-20T04:39:25.892210+00:00",
+      "id": 788052,
+      "is_public": true,
+      "modified": "2019-06-20T04:39:25.892021+00:00",
+      "note": "Reference link to [67.0.3 release notes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/firefox/67.0.3/releasenotes/",
+      "sort_num": 0,
+      "tag": ""
+    },
+    {
+      "bug": null,
+      "created": "2019-06-20T04:38:30.386270+00:00",
+      "id": 788051,
+      "is_public": true,
+      "modified": "2019-06-20T04:38:30.386025+00:00",
+      "note": "[Security fix][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/",
+      "sort_num": 0,
+      "tag": "Fixed"
+    }
+  ],
   "product": "Firefox",
   "release_date": "2019-06-20",
   "slug": "firefox-67.0.4-release",
