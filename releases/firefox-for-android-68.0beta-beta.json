@@ -7,6 +7,16 @@
   "modified": "2019-05-21T16:07:08.691394+00:00",
   "notes": [
     {
+      "bug": 1539918,
+      "created": "2019-04-25T16:13:05.224733+00:00",
+      "id": 787968,
+      "is_public": true,
+      "modified": "2019-06-28T04:12:04.071209+00:00",
+      "note": "Added about:compat, where website-specific workarounds are listed and may be toggled. These workarounds are meant as temporary fixes for various forms of website breakage for Firefox, while the website fixes them in due time. With about:compat, it is now easy to see all of the workarounds that are active in Firefox, and easy for website developers to disable a given workaround for testing purposes.",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1537667,
       "created": "2019-05-20T13:03:54.798378+00:00",
       "id": 788016,
