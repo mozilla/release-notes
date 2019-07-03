@@ -1,0 +1,47 @@
+{
+  "bug_list": "",
+  "bug_search_url": "",
+  "channel": "Beta",
+  "created": "2019-07-03T19:35:38.969931+00:00",
+  "is_public": false,
+  "modified": "2019-07-03T19:35:57.109394+00:00",
+  "notes": [
+    {
+      "bug": 1551594,
+      "created": "2019-07-03T19:40:12.494007+00:00",
+      "id": 788056,
+      "is_public": true,
+      "modified": "2019-07-03T19:40:12.493813+00:00",
+      "note": "Added support for the Web Authentication HmacSecret extension via Windows Hello on systems running the Windows 10 May 2019 update or newer.",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1519434,
+      "created": "2019-07-03T19:39:33.799978+00:00",
+      "id": 788055,
+      "is_public": true,
+      "modified": "2019-07-03T19:39:33.799679+00:00",
+      "note": "As previously announced in the [Plugin Roadmap for Firefox][1], the \"Always Activate\" option for Flash plugin content has been removed. Firefox will now always ask for user permission before activating Flash content on a website.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Plugins/Roadmap",
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
+      "bug": 1541233,
+      "created": "2019-07-03T19:40:38.428691+00:00",
+      "id": 788057,
+      "is_public": true,
+      "modified": "2019-07-03T19:40:38.428500+00:00",
+      "note": "Firefox no longer loads userChrome.css or userContent.css by default. Users who wish to customize Firefox by using these files can set the  toolkit.legacyUserProfileCustomizations.stylesheets preference to true to restore this ability.",
+      "sort_num": 0,
+      "tag": "Changed"
+    }
+  ],
+  "product": "Firefox",
+  "release_date": "2019-07-09",
+  "slug": "firefox-69.0beta-beta",
+  "system_requirements": "## Windows\r\n\r\n### Operating Systems (32-bit and 64-bit)\r\n - Windows 7\r\n - Windows 8\r\n - Windows 10\r\n\r\n### Recommended Hardware\r\n-  Pentium 4 or newer processor that supports SSE2\r\n-  512MB of RAM / 2GB of RAM for the 64-bit version\r\n-  200MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- macOS 10.9\r\n- macOS 10.10\r\n- macOS 10.11\r\n- macOS 10.12\r\n- macOS 10.13\r\n- macOS 10.14\r\n\r\n### Recommended Hardware\r\n- Macintosh computer with an Intel x86 processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - GTK+ 3.4 or higher\r\n    - GLib 2.22 or higher\r\n    - Pango 1.22 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n    - libstdc++ 4.6.1 or higher\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - NetworkManager 0.7 or higher\r\n    - DBus 1.0 or higher\r\n    - GNOME 2.16 or higher\r\n    - PulseAudio",
+  "text": "",
+  "title": "Firefox 69.0beta Beta",
+  "version": "69.0beta"
+}

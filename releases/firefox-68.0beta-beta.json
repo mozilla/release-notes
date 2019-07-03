@@ -11,7 +11,7 @@
       "created": "2019-04-25T16:13:05.224733+00:00",
       "id": 787968,
       "is_public": true,
-      "modified": "2019-06-28T04:12:04.071209+00:00",
+      "modified": "2019-07-03T19:36:26.509555+00:00",
       "note": "Added about:compat, where website-specific workarounds are listed and may be toggled. These workarounds are meant as temporary fixes for various forms of website breakage for Firefox, while the website fixes them in due time. With about:compat, it is now easy to see all of the workarounds that are active in Firefox, and easy for website developers to disable a given workaround for testing purposes.",
       "sort_num": 0,
       "tag": "New"
@@ -21,7 +21,7 @@
       "created": "2019-05-20T12:43:10.877436+00:00",
       "id": 788007,
       "is_public": true,
-      "modified": "2019-05-21T07:39:35.359072+00:00",
+      "modified": "2019-07-03T19:36:24.991922+00:00",
       "note": "When an HTTPS error caused by antivirus software is detected, [Firefox will attempt to automatically fix it][0]\r\n\r\n[0]: https://support.mozilla.org/kb/how-disable-enterprise-roots-preference",
       "sort_num": 0,
       "tag": "New"
@@ -31,7 +31,7 @@
       "created": "2019-05-20T12:43:51.950303+00:00",
       "id": 788008,
       "is_public": true,
-      "modified": "2019-05-20T12:43:51.950088+00:00",
+      "modified": "2019-07-03T19:36:24.230660+00:00",
       "note": "New reporting feature in about:addons allows you to easily report security and performance issues with extensions and themes",
       "sort_num": 0,
       "tag": "New"
@@ -41,7 +41,7 @@
       "created": "2019-05-20T12:48:10.481505+00:00",
       "id": 788009,
       "is_public": true,
-      "modified": "2019-05-20T12:48:10.481168+00:00",
+      "modified": "2019-07-03T19:36:23.468040+00:00",
       "note": "Find high quality, secure extensions via the Recommended Extensions program.  Look for these vetted extensions in about:addons",
       "sort_num": 0,
       "tag": "New"
@@ -51,7 +51,7 @@
       "created": "2019-05-20T12:49:44.907353+00:00",
       "id": 788010,
       "is_public": true,
-      "modified": "2019-05-20T12:49:44.907138+00:00",
+      "modified": "2019-07-03T19:36:22.744209+00:00",
       "note": "WebRender is being enabled on Windows 10 desktops with AMD graphics",
       "sort_num": 0,
       "tag": "New"
@@ -61,7 +61,7 @@
       "created": "2019-05-20T12:50:14.262774+00:00",
       "id": 788011,
       "is_public": true,
-      "modified": "2019-05-20T12:50:14.262561+00:00",
+      "modified": "2019-07-03T19:36:21.953319+00:00",
       "note": "Access your Firefox Account settings from the hamburger menu",
       "sort_num": 0,
       "tag": "New"
@@ -71,7 +71,7 @@
       "created": "2019-05-20T12:55:04.770143+00:00",
       "id": 788012,
       "is_public": true,
-      "modified": "2019-05-20T12:55:04.769932+00:00",
+      "modified": "2019-07-03T19:36:21.306688+00:00",
       "note": "Added a Firefox shortcut in the Windows 10 taskbar for new installations",
       "sort_num": 0,
       "tag": "New"
@@ -81,7 +81,7 @@
       "created": "2019-05-22T08:50:31.486939+00:00",
       "id": 788022,
       "is_public": true,
-      "modified": "2019-05-22T08:50:31.486732+00:00",
+      "modified": "2019-07-03T19:36:19.579173+00:00",
       "note": "In addition to providing color contrast information for individual elements of a page, Firefox now offers a full page color contrast audit that identifies all element on a page that fail color contrast checks.",
       "sort_num": 0,
       "tag": "New"
@@ -91,7 +91,7 @@
       "created": "2019-04-25T09:28:38.640982+00:00",
       "id": 787967,
       "is_public": true,
-      "modified": "2019-05-21T07:59:31.640456+00:00",
+      "modified": "2019-07-03T19:36:18.473483+00:00",
       "note": "Unified existing locales (bn-BD, bn-IN) under a single Bengali (bn) localization.",
       "sort_num": 0,
       "tag": "Changed"
@@ -101,7 +101,7 @@
       "created": "2019-04-26T09:27:29.170468+00:00",
       "id": 787970,
       "is_public": true,
-      "modified": "2019-05-21T07:59:39.396425+00:00",
+      "modified": "2019-07-03T19:36:25.740875+00:00",
       "note": "Removed unmaintained languages: Assamese (as), English - South Africa (en-ZA), Maithili (mai), Malayalam (ml), Odia (or). Existing users are migrated to the British English (en-GB) version of Firefox.",
       "sort_num": 0,
       "tag": "Changed"
@@ -111,7 +111,7 @@
       "created": "2019-05-21T07:37:58.378682+00:00",
       "id": 788021,
       "is_public": true,
-      "modified": "2019-05-21T07:37:58.378324+00:00",
+      "modified": "2019-07-03T19:36:20.537835+00:00",
       "note": "The AwesomeBar has been rewritten using Web Technologies only (HTML, JS and CSS). Differences include that results that overflow now have a nice fading effect instead of an ellipsis, and removing history items from the results now requires a different key combination on both Windows and Linux: Shift+DEL or Shift+Backspace",
       "sort_num": 0,
       "tag": "Changed"
