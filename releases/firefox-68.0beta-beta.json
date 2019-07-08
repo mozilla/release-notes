@@ -7,6 +7,16 @@
   "modified": "2019-05-22T08:15:34.970020+00:00",
   "notes": [
     {
+      "bug": 1539902,
+      "created": "2019-05-20T12:49:44.907353+00:00",
+      "id": 788010,
+      "is_public": true,
+      "modified": "2019-07-08T16:54:21.843185+00:00",
+      "note": "[WebRender][0] will roll out to Windows 10 users with AMD graphics cards.\r\n\r\n[0]: https://mozillagfx.wordpress.com/2019/05/21/graphics-team-ships-webrender-mvp/",
+      "sort_num": 700,
+      "tag": "New"
+    },
+    {
       "bug": 1539918,
       "created": "2019-04-25T16:13:05.224733+00:00",
       "id": 787968,
@@ -17,21 +27,11 @@
       "tag": "New"
     },
     {
-      "bug": 1547013,
-      "created": "2019-05-20T12:43:10.877436+00:00",
-      "id": 788007,
-      "is_public": true,
-      "modified": "2019-07-08T15:08:50.269173+00:00",
-      "note": "When an HTTPS error caused by antivirus software is detected, [Firefox will attempt to automatically fix it][0]\r\n\r\n[0]: https://support.mozilla.org/kb/how-disable-enterprise-roots-preference",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
       "bug": 1540175,
       "created": "2019-05-20T12:43:51.950303+00:00",
       "id": 788008,
       "is_public": true,
-      "modified": "2019-07-08T15:08:50.269173+00:00",
+      "modified": "2019-07-08T16:43:18.709451+00:00",
       "note": "New reporting feature in about:addons allows you to easily report security and performance issues with extensions and themes",
       "sort_num": 0,
       "tag": "New"
@@ -41,18 +41,8 @@
       "created": "2019-05-20T12:48:10.481505+00:00",
       "id": 788009,
       "is_public": true,
-      "modified": "2019-07-08T15:08:50.269173+00:00",
+      "modified": "2019-07-08T16:43:21.404693+00:00",
       "note": "Find high quality, secure extensions via the Recommended Extensions program.  Look for these vetted extensions in about:addons",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
-      "bug": 1539902,
-      "created": "2019-05-20T12:49:44.907353+00:00",
-      "id": 788010,
-      "is_public": true,
-      "modified": "2019-07-08T15:08:50.269173+00:00",
-      "note": "WebRender is being enabled on Windows 10 desktops with AMD graphics",
       "sort_num": 0,
       "tag": "New"
     },
@@ -103,6 +93,16 @@
       "is_public": true,
       "modified": "2019-07-08T15:08:50.269173+00:00",
       "note": "Removed unmaintained languages: Assamese (as), English - South Africa (en-ZA), Maithili (mai), Malayalam (ml), Odia (or). Existing users are migrated to the British English (en-GB) version of Firefox.",
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
+      "bug": 1547013,
+      "created": "2019-05-20T12:43:10.877436+00:00",
+      "id": 788007,
+      "is_public": true,
+      "modified": "2019-07-08T16:54:43.707196+00:00",
+      "note": "When an HTTPS error caused by antivirus software is detected, [Firefox will attempt to automatically fix it][0]\r\n\r\n[0]: https://support.mozilla.org/kb/how-disable-enterprise-roots-preference",
       "sort_num": 0,
       "tag": "Changed"
     },

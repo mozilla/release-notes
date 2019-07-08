@@ -17,43 +17,23 @@
       "tag": "New"
     },
     {
-      "bug": 1539918,
-      "created": "2019-04-25T16:13:05.224733+00:00",
-      "id": 787968,
+      "bug": null,
+      "created": "2019-07-08T16:42:03.351059+00:00",
+      "id": 788063,
       "is_public": true,
-      "modified": "2019-07-08T15:08:50.289111+00:00",
-      "note": "Added about:compat, where website-specific workarounds are listed and may be toggled. These workarounds are meant as temporary fixes for various forms of website breakage for Firefox, while the website fixes them in due time. With about:compat, it is now easy to see all of the workarounds that are active in Firefox, and easy for website developers to disable a given workaround for testing purposes.",
-      "sort_num": 0,
+      "modified": "2019-07-08T16:42:03.350840+00:00",
+      "note": "Improved extension security and discovery:\r\n\r\n* New [reporting feature in about:addons][0] allows you to report security and performance issues with extensions and themes.\r\n* Redesigned extensions dashboard in about:addons provides easy access to information about your extensions, including [data and settings][1] access required by each extension. \r\n* Find high quality, secure extensions via the [Recommended Extensions program][2] in about:addons, which now displays user count and ratings for each extension. \"Recommended\u201d badges for these extensions also appear on [AMO][3]. More extensions will be added over time.\r\n\r\n[0]: https://support.mozilla.org/kb/reporting-extensions-and-themes-abuse\r\n[1]: https://support.mozilla.org/kb/permission-request-messages-firefox-extensions\r\n[2]: https://support.mozilla.org/kb/recommended-extensions-program\r\n[3]: https://addons.mozilla.org",
+      "sort_num": 900,
       "tag": "New"
     },
     {
-      "bug": 1547013,
-      "created": "2019-05-20T12:43:10.877436+00:00",
-      "id": 788007,
+      "bug": null,
+      "created": "2019-07-08T16:53:13.159846+00:00",
+      "id": 788064,
       "is_public": true,
-      "modified": "2019-07-08T15:08:50.269173+00:00",
-      "note": "When an HTTPS error caused by antivirus software is detected, [Firefox will attempt to automatically fix it][0]\r\n\r\n[0]: https://support.mozilla.org/kb/how-disable-enterprise-roots-preference",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
-      "bug": 1540175,
-      "created": "2019-05-20T12:43:51.950303+00:00",
-      "id": 788008,
-      "is_public": true,
-      "modified": "2019-07-08T15:08:50.269173+00:00",
-      "note": "New reporting feature in about:addons allows you to easily report security and performance issues with extensions and themes",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
-      "bug": 1540173,
-      "created": "2019-05-20T12:48:10.481505+00:00",
-      "id": 788009,
-      "is_public": true,
-      "modified": "2019-07-08T15:08:50.269173+00:00",
-      "note": "Find high quality, secure extensions via the Recommended Extensions program.  Look for these vetted extensions in about:addons",
-      "sort_num": 0,
+      "modified": "2019-07-08T16:53:13.159521+00:00",
+      "note": "Cryptomining and fingerprinting protections are added to strict [content blocking][0] settings in Privacy & Security preferences.\r\n\r\n[0]: https://support.mozilla.org/kb/content-blocking",
+      "sort_num": 800,
       "tag": "New"
     },
     {
@@ -61,8 +41,28 @@
       "created": "2019-05-20T12:49:44.907353+00:00",
       "id": 788010,
       "is_public": true,
-      "modified": "2019-07-08T15:08:50.269173+00:00",
-      "note": "WebRender is being enabled on Windows 10 desktops with AMD graphics",
+      "modified": "2019-07-08T16:54:21.843185+00:00",
+      "note": "[WebRender][0] will roll out to Windows 10 users with AMD graphics cards.\r\n\r\n[0]: https://mozillagfx.wordpress.com/2019/05/21/graphics-team-ships-webrender-mvp/",
+      "sort_num": 700,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2019-07-08T16:55:14.835651+00:00",
+      "id": 788065,
+      "is_public": true,
+      "modified": "2019-07-08T16:55:14.835463+00:00",
+      "note": "Windows Background Intelligent Transfer Service (BITS) update download support, which allows Firefox update downloads to continue when Firefox is closed.",
+      "sort_num": 500,
+      "tag": "New"
+    },
+    {
+      "bug": 1539918,
+      "created": "2019-04-25T16:13:05.224733+00:00",
+      "id": 787968,
+      "is_public": true,
+      "modified": "2019-07-08T15:08:50.289111+00:00",
+      "note": "Added about:compat, where website-specific workarounds are listed and may be toggled. These workarounds are meant as temporary fixes for various forms of website breakage for Firefox, while the website fixes them in due time. With about:compat, it is now easy to see all of the workarounds that are active in Firefox, and easy for website developers to disable a given workaround for testing purposes.",
       "sort_num": 0,
       "tag": "New"
     },
@@ -113,6 +113,16 @@
       "is_public": true,
       "modified": "2019-07-08T15:08:50.269173+00:00",
       "note": "Removed unmaintained languages: Assamese (as), English - South Africa (en-ZA), Maithili (mai), Malayalam (ml), Odia (or). Existing users are migrated to the British English (en-GB) version of Firefox.",
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
+      "bug": 1547013,
+      "created": "2019-05-20T12:43:10.877436+00:00",
+      "id": 788007,
+      "is_public": true,
+      "modified": "2019-07-08T16:54:43.707196+00:00",
+      "note": "When an HTTPS error caused by antivirus software is detected, [Firefox will attempt to automatically fix it][0]\r\n\r\n[0]: https://support.mozilla.org/kb/how-disable-enterprise-roots-preference",
       "sort_num": 0,
       "tag": "Changed"
     },
