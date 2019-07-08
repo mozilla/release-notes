@@ -17,16 +17,6 @@
       "tag": "New"
     },
     {
-      "bug": 1539918,
-      "created": "2019-04-25T16:13:05.224733+00:00",
-      "id": 787968,
-      "is_public": true,
-      "modified": "2019-07-08T15:08:50.289111+00:00",
-      "note": "Added about:compat, where website-specific workarounds are listed and may be toggled. These workarounds are meant as temporary fixes for various forms of website breakage for Firefox, while the website fixes them in due time. With about:compat, it is now easy to see all of the workarounds that are active in Firefox, and easy for website developers to disable a given workaround for testing purposes.",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
       "bug": 1540175,
       "created": "2019-05-20T12:43:51.950303+00:00",
       "id": 788008,
@@ -111,10 +101,20 @@
       "created": "2019-05-21T07:37:58.378682+00:00",
       "id": 788021,
       "is_public": true,
-      "modified": "2019-07-08T15:08:50.269173+00:00",
+      "modified": "2019-07-08T17:30:02.155305+00:00",
       "note": "The AwesomeBar has been rewritten using Web Technologies only (HTML, JS and CSS). Differences include that results that overflow now have a nice fading effect instead of an ellipsis, and removing history items from the results now requires a different key combination on both Windows and Linux: Shift+DEL or Shift+Backspace",
       "sort_num": 0,
       "tag": "Changed"
+    },
+    {
+      "bug": 1539918,
+      "created": "2019-04-25T16:13:05.224733+00:00",
+      "id": 787968,
+      "is_public": true,
+      "modified": "2019-07-08T17:33:27.223945+00:00",
+      "note": "Added about:compat, where website-specific workarounds are listed and may be toggled. These workarounds are meant as temporary fixes for various forms of website breakage for Firefox, while the website fixes them in due time. With about:compat, it is now easy to see all of the workarounds that are active in Firefox, and easy for website developers to disable a given workaround for testing purposes.",
+      "sort_num": 0,
+      "tag": "Developer"
     }
   ],
   "product": "Firefox",

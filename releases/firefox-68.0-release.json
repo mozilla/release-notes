@@ -57,16 +57,6 @@
       "tag": "New"
     },
     {
-      "bug": 1539918,
-      "created": "2019-04-25T16:13:05.224733+00:00",
-      "id": 787968,
-      "is_public": true,
-      "modified": "2019-07-08T15:08:50.289111+00:00",
-      "note": "Added about:compat, where website-specific workarounds are listed and may be toggled. These workarounds are meant as temporary fixes for various forms of website breakage for Firefox, while the website fixes them in due time. With about:compat, it is now easy to see all of the workarounds that are active in Firefox, and easy for website developers to disable a given workaround for testing purposes.",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
       "bug": 1542334,
       "created": "2019-05-20T12:50:14.262774+00:00",
       "id": 788011,
@@ -127,16 +117,6 @@
       "tag": "Changed"
     },
     {
-      "bug": 1548031,
-      "created": "2019-05-21T07:37:58.378682+00:00",
-      "id": 788021,
-      "is_public": true,
-      "modified": "2019-07-08T15:08:50.269173+00:00",
-      "note": "The AwesomeBar has been rewritten using Web Technologies only (HTML, JS and CSS). Differences include that results that overflow now have a nice fading effect instead of an ellipsis, and removing history items from the results now requires a different key combination on both Windows and Linux: Shift+DEL or Shift+Backspace",
-      "sort_num": 0,
-      "tag": "Changed"
-    },
-    {
       "bug": null,
       "created": "2019-07-08T17:18:13.882572+00:00",
       "id": 788066,
@@ -145,6 +125,26 @@
       "note": "Camera and microphone access now require an HTTPS connection.\r\n\r\n[0]: https://blog.mozilla.org/webrtc/camera-microphone-require-https-in-firefox-68/",
       "sort_num": 0,
       "tag": "Changed"
+    },
+    {
+      "bug": 1538015,
+      "created": "2019-07-08T17:26:51.072293+00:00",
+      "id": 788067,
+      "is_public": true,
+      "modified": "2019-07-08T17:26:51.072102+00:00",
+      "note": "The way non-default preferences are synced has changed. Please see [this support article][0] for more details\r\n\r\n[0]: https://support.mozilla.org/kb/sync-custom-preferences",
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
+      "bug": 1539918,
+      "created": "2019-04-25T16:13:05.224733+00:00",
+      "id": 787968,
+      "is_public": true,
+      "modified": "2019-07-08T17:33:27.223945+00:00",
+      "note": "Added about:compat, where website-specific workarounds are listed and may be toggled. These workarounds are meant as temporary fixes for various forms of website breakage for Firefox, while the website fixes them in due time. With about:compat, it is now easy to see all of the workarounds that are active in Firefox, and easy for website developers to disable a given workaround for testing purposes.",
+      "sort_num": 0,
+      "tag": "Developer"
     }
   ],
   "product": "Firefox",

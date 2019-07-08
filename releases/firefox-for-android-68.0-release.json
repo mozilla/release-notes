@@ -7,16 +7,6 @@
   "modified": "2019-07-08T15:15:29.033392+00:00",
   "notes": [
     {
-      "bug": 1539918,
-      "created": "2019-04-25T16:13:05.224733+00:00",
-      "id": 787968,
-      "is_public": true,
-      "modified": "2019-07-08T15:08:50.289111+00:00",
-      "note": "Added about:compat, where website-specific workarounds are listed and may be toggled. These workarounds are meant as temporary fixes for various forms of website breakage for Firefox, while the website fixes them in due time. With about:compat, it is now easy to see all of the workarounds that are active in Firefox, and easy for website developers to disable a given workaround for testing purposes.",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
       "bug": 1413567,
       "created": "2019-05-20T13:03:54.798378+00:00",
       "id": 788016,
@@ -65,6 +55,16 @@
       "note": "Removed unmaintained languages: Assamese (as), English - South Africa (en-ZA), Maithili (mai), Odia (or)",
       "sort_num": 0,
       "tag": "Changed"
+    },
+    {
+      "bug": 1539918,
+      "created": "2019-04-25T16:13:05.224733+00:00",
+      "id": 787968,
+      "is_public": true,
+      "modified": "2019-07-08T17:33:27.223945+00:00",
+      "note": "Added about:compat, where website-specific workarounds are listed and may be toggled. These workarounds are meant as temporary fixes for various forms of website breakage for Firefox, while the website fixes them in due time. With about:compat, it is now easy to see all of the workarounds that are active in Firefox, and easy for website developers to disable a given workaround for testing purposes.",
+      "sort_num": 0,
+      "tag": "Developer"
     }
   ],
   "product": "Firefox for Android",
