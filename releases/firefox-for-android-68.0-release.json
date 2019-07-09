@@ -4,7 +4,7 @@
   "channel": "Release",
   "created": "2019-07-08T15:08:50.278047+00:00",
   "is_public": false,
-  "modified": "2019-07-08T15:15:29.033392+00:00",
+  "modified": "2019-07-09T10:34:13.651223+00:00",
   "notes": [
     {
       "bug": 1413567,
@@ -51,8 +51,18 @@
       "created": "2019-05-20T13:03:30.219027+00:00",
       "id": 788015,
       "is_public": true,
-      "modified": "2019-07-08T15:08:50.289111+00:00",
-      "note": "Removed unmaintained languages: Assamese (as), English - South Africa (en-ZA), Maithili (mai), Odia (or)",
+      "modified": "2019-07-09T10:35:16.485457+00:00",
+      "note": "The following unmaintained translations have been removed: Assamese (as), English - South Africa (en-ZA), Maithili (mai), Malayalam (ml), Odia (or). Existing users will be migrated to the language set as the default for Android or the US English version.",
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
+      "bug": 1548679,
+      "created": "2019-07-09T10:37:19.798967+00:00",
+      "id": 788073,
+      "is_public": true,
+      "modified": "2019-07-09T10:38:05.081147+00:00",
+      "note": "New installations of Firefox for Android will [no longer automatically download][0] the Cisco OpenH264 plugin for WebRTC.\r\n\r\n[0]: https://support.mozilla.org/kb/firefox-android-openh264",
       "sort_num": 0,
       "tag": "Changed"
     },
@@ -61,17 +71,37 @@
       "created": "2019-04-25T16:13:05.224733+00:00",
       "id": 787968,
       "is_public": true,
-      "modified": "2019-07-09T10:25:20.115167+00:00",
+      "modified": "2019-07-09T10:39:55.699590+00:00",
       "note": "Added about:compat, where website-specific workarounds are listed and may be toggled. These workarounds are meant as temporary fixes for various forms of website breakage for Firefox, while the website fixes them in due time. With about:compat, it is now easy to see all of the workarounds that are active in Firefox, and easy for website developers to disable a given workaround for testing purposes.",
       "sort_num": 500,
       "tag": "Developer"
+    },
+    {
+      "bug": null,
+      "created": "2019-07-09T10:27:45.213224+00:00",
+      "id": 788070,
+      "is_public": true,
+      "modified": "2019-07-09T10:40:03.760955+00:00",
+      "note": "Various [security fixes][0]\r\n\r\n[0]: https://www.mozilla.org/security/known-vulnerabilities/firefox/#firefox68.0",
+      "sort_num": 100,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1558299,
+      "created": "2019-07-09T10:28:57.038758+00:00",
+      "id": 788071,
+      "is_public": true,
+      "modified": "2019-07-09T10:40:01.529189+00:00",
+      "note": "Local files can no longer access other files in the same directory.",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox for Android",
   "release_date": "2019-07-09",
   "slug": "firefox-for-android-68.0-release",
   "system_requirements": "## Operating systems\r\n - Android 4.1\r\n - Above versions\r\n\r\n## Requirements\r\n - 50 MB internal storage\r\n - 384 MB of RAM\r\n - display at least 320 pixels high and 240 pixels wide",
-  "text": "",
+  "text": "We'd like to extend a special thank you to all of the [new Mozillians][1] who contributed to this release of Firefox!\r\n\r\n[1]: https://blog.mozilla.org/community/2019/07/05/firefox-68-new-contributors/",
   "title": "Firefox for Android 68.0 Release",
   "version": "68.0"
 }

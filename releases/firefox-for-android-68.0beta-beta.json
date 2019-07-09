@@ -51,8 +51,8 @@
       "created": "2019-05-20T13:03:30.219027+00:00",
       "id": 788015,
       "is_public": true,
-      "modified": "2019-07-08T15:08:50.289111+00:00",
-      "note": "Removed unmaintained languages: Assamese (as), English - South Africa (en-ZA), Maithili (mai), Odia (or)",
+      "modified": "2019-07-09T10:35:16.485457+00:00",
+      "note": "The following unmaintained translations have been removed: Assamese (as), English - South Africa (en-ZA), Maithili (mai), Malayalam (ml), Odia (or). Existing users will be migrated to the language set as the default for Android or the US English version.",
       "sort_num": 0,
       "tag": "Changed"
     },
@@ -61,7 +61,7 @@
       "created": "2019-04-25T16:13:05.224733+00:00",
       "id": 787968,
       "is_public": true,
-      "modified": "2019-07-09T10:25:20.115167+00:00",
+      "modified": "2019-07-09T10:39:55.699590+00:00",
       "note": "Added about:compat, where website-specific workarounds are listed and may be toggled. These workarounds are meant as temporary fixes for various forms of website breakage for Firefox, while the website fixes them in due time. With about:compat, it is now easy to see all of the workarounds that are active in Firefox, and easy for website developers to disable a given workaround for testing purposes.",
       "sort_num": 500,
       "tag": "Developer"
