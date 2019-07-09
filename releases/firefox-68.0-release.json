@@ -57,36 +57,6 @@
       "tag": "New"
     },
     {
-      "bug": 1542334,
-      "created": "2019-05-20T12:50:14.262774+00:00",
-      "id": 788011,
-      "is_public": true,
-      "modified": "2019-07-08T15:08:50.269173+00:00",
-      "note": "Access your Firefox Account settings from the hamburger menu",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
-      "bug": 1538249,
-      "created": "2019-05-20T12:55:04.770143+00:00",
-      "id": 788012,
-      "is_public": true,
-      "modified": "2019-07-08T15:08:50.269173+00:00",
-      "note": "Added a Firefox shortcut in the Windows 10 taskbar for new installations",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
-      "bug": 1522207,
-      "created": "2019-05-22T08:50:31.486939+00:00",
-      "id": 788022,
-      "is_public": true,
-      "modified": "2019-07-08T15:08:50.269173+00:00",
-      "note": "In addition to providing color contrast information for individual elements of a page, Firefox now offers a full page color contrast audit that identifies all element on a page that fail color contrast checks.",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
       "bug": 1538733,
       "created": "2019-04-25T09:28:38.640982+00:00",
       "id": 787967,
@@ -137,14 +107,44 @@
       "tag": "Changed"
     },
     {
+      "bug": 1522207,
+      "created": "2019-05-22T08:50:31.486939+00:00",
+      "id": 788022,
+      "is_public": true,
+      "modified": "2019-07-09T10:25:29.281620+00:00",
+      "note": "Firefox Developer Tools now offers a full page color contrast audit that identifies all elements on a page that fail color contrast checks.",
+      "sort_num": 800,
+      "tag": "Developer"
+    },
+    {
       "bug": 1539918,
       "created": "2019-04-25T16:13:05.224733+00:00",
       "id": 787968,
       "is_public": true,
-      "modified": "2019-07-08T17:33:27.223945+00:00",
+      "modified": "2019-07-09T10:25:20.115167+00:00",
       "note": "Added about:compat, where website-specific workarounds are listed and may be toggled. These workarounds are meant as temporary fixes for various forms of website breakage for Firefox, while the website fixes them in due time. With about:compat, it is now easy to see all of the workarounds that are active in Firefox, and easy for website developers to disable a given workaround for testing purposes.",
+      "sort_num": 500,
+      "tag": "Developer"
+    },
+    {
+      "bug": null,
+      "created": "2019-07-09T10:25:02.917921+00:00",
+      "id": 788069,
+      "is_public": true,
+      "modified": "2019-07-09T10:25:02.917727+00:00",
+      "note": "Introduces [CSS Scroll Snap][0] module that enforces scroll snap positions.\r\n\r\n[0]: https://developer.mozilla.org/docs/Web/CSS/CSS_Scroll_Snap",
       "sort_num": 0,
       "tag": "Developer"
+    },
+    {
+      "bug": null,
+      "created": "2019-07-09T10:19:06.898083+00:00",
+      "id": 788068,
+      "is_public": true,
+      "modified": "2019-07-09T10:19:06.897889+00:00",
+      "note": "For all operating systems, we have a number of additional policies including:\r\n\r\n* New tab page configuration and disabling\r\n* Local file links\r\n* Download behavior\r\n* Search suggestions\r\n* Managed storage for using policies in Webextensions\r\n* Extension whitelisting and blacklisting by ID and website\r\n* A subset of commonly used Firefox preferences\r\n\r\nYou can see [a full list of policies here][0].\r\n\r\n[0]: https://github.com/mozilla/policy-templates",
+      "sort_num": 0,
+      "tag": "Enterprise"
     }
   ],
   "product": "Firefox",
