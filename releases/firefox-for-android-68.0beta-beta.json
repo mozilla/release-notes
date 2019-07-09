@@ -21,7 +21,7 @@
       "created": "2019-05-20T13:04:20.732412+00:00",
       "id": 788017,
       "is_public": true,
-      "modified": "2019-07-08T15:08:50.289111+00:00",
+      "modified": "2019-07-09T10:53:40.958150+00:00",
       "note": "Compatibility fixes for the upcoming Android Q release",
       "sort_num": 0,
       "tag": "New"
@@ -31,8 +31,8 @@
       "created": "2019-05-20T13:04:40.423192+00:00",
       "id": 788018,
       "is_public": true,
-      "modified": "2019-07-08T15:08:50.289111+00:00",
-      "note": "[Support W3C Web Authentication API][0] for passwordless-logins to compatible websites\r\n\r\n[0]: https://developer.mozilla.org/docs/Web/API/Web_Authentication_API",
+      "modified": "2019-07-09T10:51:47.358020+00:00",
+      "note": "WebAuthn (the [W3C Web Authentication API][0]) allows users to sign in to a website with a hardware token or even a fingerprint, enabling password-free authentication.\r\n\r\n[0]: https://developer.mozilla.org/docs/Web/API/Web_Authentication_API",
       "sort_num": 0,
       "tag": "New"
     },
