@@ -175,6 +175,16 @@
       "note": "The new URL bar implementation does not handle `javascript:` bookmarklets triggered via bookmark keywords correctly yet ([bug 1552141][0])\r\n\r\n[0]: https://bugzilla.mozilla.org/1552141",
       "sort_num": 0,
       "tag": "Known"
+    },
+    {
+      "bug": 1564808,
+      "created": "2019-07-11T07:17:52.484669+00:00",
+      "id": 788079,
+      "is_public": true,
+      "modified": "2019-07-11T07:17:52.484249+00:00",
+      "note": "Windows administrator users with UAC turned off may no longer be able to drag content out of Firefox. See [this support article][0] to learn more\r\n\r\n[0]: https://support.mozilla.org/kb/windows-administrator-launcher-process-error-fix",
+      "sort_num": 0,
+      "tag": "Known"
     }
   ],
   "product": "Firefox",
