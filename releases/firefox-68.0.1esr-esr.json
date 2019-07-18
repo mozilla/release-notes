@@ -15,6 +15,66 @@
       "note": "Reference link to [68.0esr release notes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/firefox/680.0esr/releasenotes/",
       "sort_num": 0,
       "tag": ""
+    },
+    {
+      "bug": 1471004,
+      "created": "2019-07-18T02:45:01.040108+00:00",
+      "id": 788083,
+      "is_public": true,
+      "modified": "2019-07-18T02:45:01.039816+00:00",
+      "note": "macOS releases are now signed by the Apple notary service, allowing Firefox to properly run on macOS 10.15 Beta releases",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2019-07-18T02:41:41.964362+00:00",
+      "id": 788082,
+      "is_public": true,
+      "modified": "2019-07-18T02:41:41.964172+00:00",
+      "note": "Enterprise Policy improvements:\r\n\r\n - SupportMenu policy doesn't always work ([bug 1553290][1])\r\n - Allow the new ExtensionSettings policy to work with GPO on Windows ([bug 1553586][2])\r\n - Allow the privacy.file_unique_origin pref to be controlled by policy ([bug 1563759][3])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1553290\r\n  [2]: https://bugzilla.mozilla.org/show_bug.cgi?id=1553586\r\n  [3]: https://bugzilla.mozilla.org/show_bug.cgi?id=1563759",
+      "sort_num": 0,
+      "tag": "Enterprise"
+    },
+    {
+      "bug": null,
+      "created": "2019-07-18T02:47:39.681239+00:00",
+      "id": 788084,
+      "is_public": true,
+      "modified": "2019-07-18T02:47:39.681043+00:00",
+      "note": "Fixed missing Full Screen button when watching videos in full screen mode on HBO GO ([bug 1562837][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1562837",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1558503,
+      "created": "2019-07-18T02:50:14.215309+00:00",
+      "id": 788085,
+      "is_public": true,
+      "modified": "2019-07-18T02:50:14.215117+00:00",
+      "note": "Fixed a bug causing incorrect messages to appear for some locales when sites try to request the use of the Storage Access API ([bug 1558503][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1558503",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1565315,
+      "created": "2019-07-18T02:51:46.119396+00:00",
+      "id": 788086,
+      "is_public": true,
+      "modified": "2019-07-18T02:51:46.119198+00:00",
+      "note": "Users in Russian regions may have their default search engine changed ([bug 1565315][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1565315",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1565779,
+      "created": "2019-07-18T02:53:20.122957+00:00",
+      "id": 788087,
+      "is_public": true,
+      "modified": "2019-07-18T02:53:20.122766+00:00",
+      "note": "Built-in search engines in some locales do not function correctly ([bug 1565779][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1565779",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox Extended Support Release",
