@@ -3,9 +3,20 @@
   "bug_search_url": "",
   "channel": "Nightly",
   "created": "2019-07-10T06:29:52.695188+00:00",
-  "is_public": false,
-  "modified": "2019-07-10T06:30:25.791332+00:00",
-  "notes": [],
+  "is_public": true,
+  "modified": "2019-07-22T15:28:49.467379+00:00",
+  "notes": [
+    {
+      "bug": 1565407,
+      "created": "2019-07-22T15:30:11.751230+00:00",
+      "id": 788088,
+      "is_public": true,
+      "modified": "2019-07-22T15:30:11.751032+00:00",
+      "note": "Firefox can now [suggest securely generated passwords][1] from the context menu and autocomplete (on supported sites)\r\n\r\n\r\n  [1]: https://wiki.mozilla.org/Toolkit:Password_Manager/Password_Generation#Firefox_70_.28Desktop_only.29",
+      "sort_num": 0,
+      "tag": "New"
+    }
+  ],
   "product": "Firefox",
   "release_date": "2019-07-08",
   "slug": "firefox-70.0a1-nightly",
