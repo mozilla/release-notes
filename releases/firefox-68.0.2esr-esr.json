@@ -15,6 +15,36 @@
       "note": "Reference link to [68.0.1 release notes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/firefox/68.0.1/releasenotes/",
       "sort_num": 0,
       "tag": ""
+    },
+    {
+      "bug": 1560228,
+      "created": "2019-08-02T15:29:45.335629+00:00",
+      "id": 788092,
+      "is_public": true,
+      "modified": "2019-08-02T15:29:45.335437+00:00",
+      "note": "Fixed a bug causing some special characters to be cut off from the end of the search terms when searching from the URL bar ([bug 1560228][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1560228",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1565942,
+      "created": "2019-08-02T15:35:15.783386+00:00",
+      "id": 788093,
+      "is_public": true,
+      "modified": "2019-08-02T15:35:15.783195+00:00",
+      "note": "Allow fonts to be loaded via file:// URLs when opening a page locally ([bug 1565942][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1565942",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1567105,
+      "created": "2019-08-02T15:38:23.316494+00:00",
+      "id": 788094,
+      "is_public": true,
+      "modified": "2019-08-02T15:38:23.316194+00:00",
+      "note": "Printing emails from the Outlook web app no longer prints only the header and footer ([bug 1567105][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1567105",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox Extended Support Release",
