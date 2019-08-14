@@ -25,6 +25,16 @@
       "note": "The password manager interface (about:logins) was entirely redesigned based on the Firefox Lockwise extension.",
       "sort_num": 0,
       "tag": "New"
+    },
+    {
+      "bug": 1562006,
+      "created": "2019-08-14T15:45:10.841617+00:00",
+      "id": 788098,
+      "is_public": true,
+      "modified": "2019-08-14T15:45:10.841427+00:00",
+      "note": "The Firefox Accounts toolbar menu has been updated and reorganized to give faster access to account features and services.",
+      "sort_num": 0,
+      "tag": "Changed"
     }
   ],
   "product": "Firefox",
