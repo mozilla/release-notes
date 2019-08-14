@@ -65,6 +65,16 @@
       "note": "Fixed an error when starting external applications configured as URI handlers ([bug 1567614][0])\r\n\r\n[0]: https://bugzilla.mozilla.org/1567614",
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2019-08-14T14:25:52.571074+00:00",
+      "id": 788097,
+      "is_public": true,
+      "modified": "2019-08-14T14:25:52.570875+00:00",
+      "note": "[Security fixes][0]\r\n\r\n[0]: https://www.mozilla.org/security/advisories/mfsa2019-24/",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox Extended Support Release",
