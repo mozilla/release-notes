@@ -11,7 +11,7 @@
       "created": "2019-05-20T13:03:54.798378+00:00",
       "id": 788016,
       "is_public": true,
-      "modified": "2019-08-02T15:21:51.727328+00:00",
+      "modified": "2019-08-27T15:45:12.751480+00:00",
       "note": "Improved web page painting performance by avoiding redundant calculations during paint",
       "sort_num": 0,
       "tag": "New"
@@ -31,7 +31,7 @@
       "created": "2019-05-20T13:04:40.423192+00:00",
       "id": 788018,
       "is_public": true,
-      "modified": "2019-08-21T17:35:46.185938+00:00",
+      "modified": "2019-08-27T15:45:10.909012+00:00",
       "note": "WebAuthn (the [Web Authentication API][0]) allows users running Android N or newer to sign in to a website with a hardware token or even a fingerprint, enabling password-free authentication.\r\n\r\n[0]: https://developer.mozilla.org/docs/Web/API/Web_Authentication_API",
       "sort_num": 0,
       "tag": "New"
@@ -41,7 +41,7 @@
       "created": "2019-05-20T13:03:03.647527+00:00",
       "id": 788014,
       "is_public": true,
-      "modified": "2019-08-02T15:21:53.676569+00:00",
+      "modified": "2019-08-27T15:45:20.170156+00:00",
       "note": "Unified existing locales (bn-BD, bn-IN) under a single Bengali (bn) localization",
       "sort_num": 0,
       "tag": "Changed"
@@ -51,7 +51,7 @@
       "created": "2019-05-20T13:03:30.219027+00:00",
       "id": 788015,
       "is_public": true,
-      "modified": "2019-08-02T15:21:52.870578+00:00",
+      "modified": "2019-08-27T15:45:20.880805+00:00",
       "note": "The following unmaintained translations have been removed: Assamese (as), English - South Africa (en-ZA), Maithili (mai), Odia (or). Existing users will be migrated to the language set as the default for Android or the US English version.",
       "sort_num": 0,
       "tag": "Changed"
@@ -61,7 +61,7 @@
       "created": "2019-04-25T16:13:05.224733+00:00",
       "id": 787968,
       "is_public": true,
-      "modified": "2019-08-02T15:21:57.157172+00:00",
+      "modified": "2019-08-27T15:45:16.652784+00:00",
       "note": "Added about:compat, where website-specific workarounds are listed and may be toggled. These workarounds are meant as temporary fixes for various forms of website breakage for Firefox, while the website fixes them in due time. With about:compat, it is now easy to see all of the workarounds that are active in Firefox, and easy for website developers to disable a given workaround for testing purposes.",
       "sort_num": 500,
       "tag": "Developer"

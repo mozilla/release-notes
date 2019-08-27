@@ -11,7 +11,7 @@
       "created": "2019-07-09T10:42:52.823836+00:00",
       "id": 788074,
       "is_public": true,
-      "modified": "2019-07-18T02:31:22.118846+00:00",
+      "modified": "2019-08-27T15:46:06.074279+00:00",
       "note": "A number of features improve the browser experience in enterprise settings.\r\n\r\n* MSI installer file type is included in this release, helping make deployments in the Windows environment easier and more flexible. \r\n* Configuration profiles in macOS\r\n* The ability to read added certificates roots from the macOS Keychain\r\n\r\n* For all operating systems, we have a number of additional policies including:\r\n * New tab page configuration and disabling\r\n * Local file links\r\n * Download behavior\r\n * Search suggestions\r\n * Managed storage for using policies in Webextensions\r\n * Extension configuration (allow/deny) by ID and website\r\n * A subset of commonly used Firefox preferences\r\n\r\n You can see a full list of policies [here][1].\r\n\r\n[1]: https://github.com/mozilla/policy-templates",
       "sort_num": 1000,
       "tag": "New"
@@ -21,7 +21,7 @@
       "created": "2019-07-09T10:44:31.301112+00:00",
       "id": 788075,
       "is_public": true,
-      "modified": "2019-07-18T02:31:21.028270+00:00",
+      "modified": "2019-08-27T15:46:07.398527+00:00",
       "note": "User and enterprise added certificates are read from the operating system by default.",
       "sort_num": 0,
       "tag": "New"
@@ -31,7 +31,7 @@
       "created": "2019-07-09T10:46:40.223499+00:00",
       "id": 788076,
       "is_public": true,
-      "modified": "2019-07-18T02:31:20.130820+00:00",
+      "modified": "2019-08-27T15:46:08.135534+00:00",
       "note": "Added [support for the event property on the Window object][0] to improve web compatibility for enterprises.\r\n\r\n[0]: https://support.mozilla.org/kb/dom-events-changes-introduced-firefox-66",
       "sort_num": 0,
       "tag": "Changed"
@@ -41,7 +41,7 @@
       "created": "2019-07-09T10:28:57.038758+00:00",
       "id": 788071,
       "is_public": true,
-      "modified": "2019-08-02T15:21:55.387119+00:00",
+      "modified": "2019-08-27T15:46:04.478053+00:00",
       "note": "Local files can no longer access other files in the same directory.",
       "sort_num": 0,
       "tag": "Fixed"
@@ -51,7 +51,7 @@
       "created": "2019-07-09T10:47:31.322505+00:00",
       "id": 788077,
       "is_public": true,
-      "modified": "2019-07-18T02:31:18.783087+00:00",
+      "modified": "2019-08-27T15:46:08.909413+00:00",
       "note": "Windows Background Intelligent Transfer Service (BITS) update download for proxy users with authentication will fall back to legacy update system on Windows (bug 1561200)",
       "sort_num": 100,
       "tag": "Known"
@@ -61,7 +61,7 @@
       "created": "2019-07-09T10:49:08.167057+00:00",
       "id": 788078,
       "is_public": true,
-      "modified": "2019-07-18T02:31:17.698258+00:00",
+      "modified": "2019-08-27T15:46:10.582685+00:00",
       "note": "Service workers and push notifications remain disabled in Firefox ESR",
       "sort_num": 0,
       "tag": "Known"

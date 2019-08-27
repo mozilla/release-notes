@@ -1,0 +1,27 @@
+{
+  "bug_list": "",
+  "bug_search_url": "",
+  "channel": "Release",
+  "created": "2019-08-27T15:44:43.083267+00:00",
+  "is_public": false,
+  "modified": "2019-08-27T15:45:07.802509+00:00",
+  "notes": [
+    {
+      "bug": null,
+      "created": "2019-08-27T15:45:22.553497+00:00",
+      "id": 788100,
+      "is_public": true,
+      "modified": "2019-08-27T15:46:34.724769+00:00",
+      "note": "Various [security fixes][0]\r\n\r\n[0]: https://www.mozilla.org/security/advisories/mfsa2019-XX/",
+      "sort_num": 100,
+      "tag": "Fixed"
+    }
+  ],
+  "product": "Firefox for Android",
+  "release_date": "2019-09-03",
+  "slug": "firefox-for-android-68.1-release",
+  "system_requirements": "## Operating systems\r\n - Android 4.1\r\n - Above versions\r\n\r\n## Requirements\r\n - 50 MB internal storage\r\n - 384 MB of RAM\r\n - display at least 320 pixels high and 240 pixels wide",
+  "text": "",
+  "title": "Firefox for Android 68.1 Release",
+  "version": "68.1"
+}

@@ -121,7 +121,7 @@
       "created": "2019-04-25T16:13:05.224733+00:00",
       "id": 787968,
       "is_public": true,
-      "modified": "2019-08-02T15:21:57.157172+00:00",
+      "modified": "2019-08-27T15:45:16.652784+00:00",
       "note": "Added about:compat, where website-specific workarounds are listed and may be toggled. These workarounds are meant as temporary fixes for various forms of website breakage for Firefox, while the website fixes them in due time. With about:compat, it is now easy to see all of the workarounds that are active in Firefox, and easy for website developers to disable a given workaround for testing purposes.",
       "sort_num": 500,
       "tag": "Developer"
@@ -151,7 +151,7 @@
       "created": "2019-07-09T10:27:45.213224+00:00",
       "id": 788070,
       "is_public": true,
-      "modified": "2019-08-02T15:21:56.246946+00:00",
+      "modified": "2019-08-27T15:45:22.648704+00:00",
       "note": "Various [security fixes][0]\r\n\r\n[0]: https://www.mozilla.org/security/advisories/mfsa2019-21/",
       "sort_num": 100,
       "tag": "Fixed"
@@ -161,7 +161,7 @@
       "created": "2019-07-09T10:28:57.038758+00:00",
       "id": 788071,
       "is_public": true,
-      "modified": "2019-08-02T15:21:55.387119+00:00",
+      "modified": "2019-08-27T15:46:04.478053+00:00",
       "note": "Local files can no longer access other files in the same directory.",
       "sort_num": 0,
       "tag": "Fixed"
