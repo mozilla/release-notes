@@ -11,7 +11,7 @@
       "created": "2019-07-03T19:44:44.215330+00:00",
       "id": 788059,
       "is_public": true,
-      "modified": "2019-07-03T19:46:43.422472+00:00",
+      "modified": "2019-08-28T15:14:59.483361+00:00",
       "note": "Firefox now gives Windows hints to appropriately set content process priority levels, meaning more processor time spent on the tasks you're actively working on, and less processor time spent on things in the background (with the exception of video and audio playback).",
       "sort_num": 40,
       "tag": "New"
@@ -21,7 +21,7 @@
       "created": "2019-07-03T19:41:50.112824+00:00",
       "id": 788058,
       "is_public": true,
-      "modified": "2019-07-03T19:46:49.751044+00:00",
+      "modified": "2019-08-28T15:14:58.926683+00:00",
       "note": "To improve battery life on dual-graphics-card macOS machines, Firefox now tries more aggressively to switch back to the more power-efficient GPU for WebGL content when able. Firefox also works harder to avoid switching to the high-power GPU for one-off transient uses of WebGL.",
       "sort_num": 30,
       "tag": "New"
@@ -31,7 +31,7 @@
       "created": "2019-07-03T19:45:05.086803+00:00",
       "id": 788060,
       "is_public": true,
-      "modified": "2019-07-03T19:46:54.607404+00:00",
+      "modified": "2019-08-28T15:14:59.978537+00:00",
       "note": "Finder on macOS now displays download progress for files while they\u2019re being downloaded.",
       "sort_num": 20,
       "tag": "New"
@@ -41,7 +41,7 @@
       "created": "2019-07-03T19:40:12.494007+00:00",
       "id": 788056,
       "is_public": true,
-      "modified": "2019-07-03T19:46:59.474253+00:00",
+      "modified": "2019-08-28T15:14:57.535218+00:00",
       "note": "Added support for the Web Authentication HmacSecret extension via Windows Hello on systems running the Windows 10 May 2019 update or newer.",
       "sort_num": 10,
       "tag": "New"
@@ -51,7 +51,7 @@
       "created": "2019-07-03T19:39:33.799978+00:00",
       "id": 788055,
       "is_public": true,
-      "modified": "2019-07-03T19:47:14.565482+00:00",
+      "modified": "2019-08-28T15:14:56.739303+00:00",
       "note": "As previously announced in the [Plugin Roadmap for Firefox][1], the \"Always Activate\" option for Flash plugin content has been removed. Firefox will now always ask for user permission before activating Flash content on a website.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Plugins/Roadmap",
       "sort_num": 20,
       "tag": "Changed"
@@ -61,7 +61,7 @@
       "created": "2019-07-03T19:40:38.428691+00:00",
       "id": 788057,
       "is_public": true,
-      "modified": "2019-07-03T19:47:18.526046+00:00",
+      "modified": "2019-08-28T15:14:58.260998+00:00",
       "note": "Firefox no longer loads userChrome.css or userContent.css by default. Users who wish to customize Firefox by using these files can set the  toolkit.legacyUserProfileCustomizations.stylesheets preference to true to restore this ability.",
       "sort_num": 10,
       "tag": "Changed"
@@ -71,7 +71,7 @@
       "created": "2019-07-03T19:45:29.927100+00:00",
       "id": 788061,
       "is_public": true,
-      "modified": "2019-07-03T19:45:29.926900+00:00",
+      "modified": "2019-08-28T15:15:00.941947+00:00",
       "note": "The new event listener breakpoint feature allows developers to pause on a host of different event types, whether it be related to animations, DOM, media, mouse, touch, worker, and many other event types.",
       "sort_num": 0,
       "tag": "Developer"
