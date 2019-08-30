@@ -67,6 +67,106 @@
       "tag": "New"
     },
     {
+      "bug": 1562812,
+      "created": "2019-08-30T15:42:04.625522+00:00",
+      "id": 788108,
+      "is_public": true,
+      "modified": "2019-08-30T15:42:04.625330+00:00",
+      "note": "For our users on macOS, battery life and download UI are both improved:\r\n\r\n - macOS users on dual-graphics-card machines (like MacBook Pro) will switch back to the low-power GPU more aggressively, saving battery life.\r\n - Finder on macOS now displays download progress for files being downloaded.",
+      "sort_num": 20,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2019-08-30T15:42:36.265288+00:00",
+      "id": 788109,
+      "is_public": true,
+      "modified": "2019-08-30T15:42:36.265093+00:00",
+      "note": "JIT support comes to ARM64 for improved performance of our JavaScript Optimizing JIT compiler.",
+      "sort_num": 10,
+      "tag": "New"
+    },
+    {
+      "bug": 1519434,
+      "created": "2019-08-30T15:49:18.013217+00:00",
+      "id": 788115,
+      "is_public": true,
+      "modified": "2019-08-30T15:49:18.012965+00:00",
+      "note": "As previously announced in the [Plugin Roadmap for Firefox][1], the \"Always Activate\" option for Flash plugin content has been removed. Firefox will now always ask for user permission before activating Flash content on a website.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Plugins/Roadmap",
+      "sort_num": 30,
+      "tag": "Changed"
+    },
+    {
+      "bug": null,
+      "created": "2019-08-30T15:49:52.312257+00:00",
+      "id": 788116,
+      "is_public": true,
+      "modified": "2019-08-30T15:49:52.312064+00:00",
+      "note": "With the deprecation of Adobe Flash Player, there is no longer a need to identify users on 32-bit version of the Firefox browser on 64-bit version operating systems reducing user agent fingerprinting factors providing greater level of privacy to our users as well as improving the experience of downloading other apps.",
+      "sort_num": 20,
+      "tag": "Changed"
+    },
+    {
+      "bug": 1541233,
+      "created": "2019-08-30T15:51:42.767641+00:00",
+      "id": 788117,
+      "is_public": true,
+      "modified": "2019-08-30T15:51:42.767448+00:00",
+      "note": "Firefox no longer loads userChrome.css or userContent.css by default improving start-up performance. Users who wish to customize Firefox by using these files can set the *toolkit.legacyUserProfileCustomizations.stylesheets* preference to **true** to restore this ability.",
+      "sort_num": 10,
+      "tag": "Changed"
+    },
+    {
+      "bug": null,
+      "created": "2019-08-30T15:44:03.380385+00:00",
+      "id": 788110,
+      "is_public": true,
+      "modified": "2019-08-30T15:44:03.380191+00:00",
+      "note": "For our mobile web developers, we have migrated remote debugging from the old *WebIDE* into a re-designed *about:debugging*, making debugging [GeckoView][1] on remote devices via USB rock solid. \r\n\r\n\r\n  [1]: https://hacks.mozilla.org/2019/06/geckoview-in-2019/",
+      "sort_num": 40,
+      "tag": "Developer"
+    },
+    {
+      "bug": null,
+      "created": "2019-08-30T15:45:43.749139+00:00",
+      "id": 788111,
+      "is_public": true,
+      "modified": "2019-08-30T15:45:43.748942+00:00",
+      "note": "The network panel will now show blocked resources to allow developers to best understand the impact of content blocking and ad blocking extensions given our ongoing expansion of Enhanced Tracking Protection to all users with this release.",
+      "sort_num": 30,
+      "tag": "Developer"
+    },
+    {
+      "bug": 1560571,
+      "created": "2019-08-30T15:46:18.570875+00:00",
+      "id": 788112,
+      "is_public": true,
+      "modified": "2019-08-30T15:46:18.570674+00:00",
+      "note": "The new event listener breakpoint feature allows developers to pause on a host of different event types, whether it be related to animations, DOM, media, mouse, touch, worker, and many other event types.",
+      "sort_num": 20,
+      "tag": "Developer"
+    },
+    {
+      "bug": null,
+      "created": "2019-08-30T15:47:08.821600+00:00",
+      "id": 788113,
+      "is_public": true,
+      "modified": "2019-08-30T15:47:08.821405+00:00",
+      "note": "Firefox Developer Tools now offers an audit for the presence of text alternatives for non-text content, the a11y panel checks toolbar has been augmented to better help developers adhere to [WCAG Guideline 1.1][1].\r\n\r\n\r\n  [1]: https://www.w3.org/TR/WCAG21/#text-alternatives",
+      "sort_num": 10,
+      "tag": "Developer"
+    },
+    {
+      "bug": null,
+      "created": "2019-08-30T15:47:39.358826+00:00",
+      "id": 788114,
+      "is_public": true,
+      "modified": "2019-08-30T15:47:39.358636+00:00",
+      "note": "For Enterprise system administrators that manage macOS computers, we begin shipping a Mozilla signed PKG installer to simplify your deployments.",
+      "sort_num": 10,
+      "tag": "Enterprise"
+    },
+    {
       "bug": null,
       "created": "2019-08-27T15:45:22.553497+00:00",
       "id": 788100,
