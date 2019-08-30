@@ -17,6 +17,16 @@
       "tag": "Changed"
     },
     {
+      "bug": 1553288,
+      "created": "2019-08-30T22:26:40.632538+00:00",
+      "id": 788120,
+      "is_public": true,
+      "modified": "2019-08-30T22:26:40.632340+00:00",
+      "note": "[WebRender][1] enabled by default for Windows desktops with Integrated Intel graphics for Low Resolution devices\r\n\r\n\r\n  [1]: https://mozillagfx.wordpress.com/2019/08/19/moz-gfx-newsletter-47/",
+      "sort_num": 63,
+      "tag": "Changed"
+    },
+    {
       "bug": 1567684,
       "created": "2019-08-23T21:10:20.561420+00:00",
       "id": 788099,
