@@ -1,0 +1,87 @@
+{
+  "bug_list": "",
+  "bug_search_url": "",
+  "channel": "Release",
+  "created": "2019-08-30T15:26:56.013147+00:00",
+  "is_public": false,
+  "modified": "2019-08-30T15:28:46.609215+00:00",
+  "notes": [
+    {
+      "bug": null,
+      "created": "2019-08-30T15:36:29.956595+00:00",
+      "id": 788102,
+      "is_public": true,
+      "modified": "2019-08-30T15:36:29.956374+00:00",
+      "note": "[Enhanced Tracking Protection][1] (ETP) rolls out stronger privacy protections: \r\n\r\n - The default standard setting for this feature now blocks third-party tracking cookies and cryptominers.\r\n - The optional strict setting blocks fingerprinters as well as the items blocked in the standard setting.\r\n\r\n\r\n  [1]: https://blog.mozilla.org/futurereleases/2019/02/20/enhanced-tracking-protection-testing-update/",
+      "sort_num": 80,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2019-08-30T15:37:43.504278+00:00",
+      "id": 788103,
+      "is_public": true,
+      "modified": "2019-08-30T15:37:43.504084+00:00",
+      "note": "The [Block Autoplay][1] feature is enhanced to give users the option to block any video that automatically starts playing, not just those that automatically play with sound.\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/block-autoplay",
+      "sort_num": 70,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2019-08-30T15:38:15.647481+00:00",
+      "id": 788104,
+      "is_public": true,
+      "modified": "2019-08-30T15:38:15.647255+00:00",
+      "note": "For our users in the US or using the en-US browser, we are shipping a new \u201cNew Tab\u201d page experience that connects you to the best of Pocket\u2019s content.",
+      "sort_num": 60,
+      "tag": "New"
+    },
+    {
+      "bug": 1551594,
+      "created": "2019-08-30T15:39:02.543508+00:00",
+      "id": 788105,
+      "is_public": true,
+      "modified": "2019-08-30T15:39:02.543303+00:00",
+      "note": "Support for the Web Authentication HmacSecret extension via Windows Hello now comes with this release, for versions of Windows 10 May 2019 or newer, enabling more passwordless experiences on the web.",
+      "sort_num": 50,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2019-08-30T15:39:49.552079+00:00",
+      "id": 788106,
+      "is_public": true,
+      "modified": "2019-08-30T15:39:49.551810+00:00",
+      "note": "Support for receiving multiple video codecs with this release makes it easier for WebRTC conferencing services to mix video from different clients.",
+      "sort_num": 40,
+      "tag": "New"
+    },
+    {
+      "bug": 1548364,
+      "created": "2019-08-30T15:40:59.664561+00:00",
+      "id": 788107,
+      "is_public": true,
+      "modified": "2019-08-30T15:40:59.664372+00:00",
+      "note": "For our users on Windows 10, you\u2019ll see performance and UI improvements.\r\n\r\n - Firefox will give Windows hints to appropriately set content process priority levels, meaning more processor time spent on the tasks you're actively working on, and less processor time spent on things in the background (with the exception of video and audio playback).\r\n - For our existing Windows 10 users, you can easily find and launch Firefox from a shortcut on the Win10 taskbar.",
+      "sort_num": 30,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2019-08-27T15:45:22.553497+00:00",
+      "id": 788100,
+      "is_public": true,
+      "modified": "2019-08-30T15:29:06.014592+00:00",
+      "note": "Various [security fixes][0]\r\n\r\n[0]: https://www.mozilla.org/security/advisories/mfsa2019-XX/",
+      "sort_num": 100,
+      "tag": "Fixed"
+    }
+  ],
+  "product": "Firefox",
+  "release_date": "2019-09-03",
+  "slug": "firefox-69.0-release",
+  "system_requirements": "## Windows\r\n\r\n### Operating Systems (32-bit and 64-bit)\r\n - Windows 7\r\n - Windows 8\r\n - Windows 10\r\n\r\n### Recommended Hardware\r\n-  Pentium 4 or newer processor that supports SSE2\r\n-  512MB of RAM / 2GB of RAM for the 64-bit version\r\n-  200MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- macOS 10.9\r\n- macOS 10.10\r\n- macOS 10.11\r\n- macOS 10.12\r\n- macOS 10.13\r\n- macOS 10.14\r\n\r\n### Recommended Hardware\r\n- Macintosh computer with an Intel x86 processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - GTK+ 3.4 or higher\r\n    - GLib 2.22 or higher\r\n    - Pango 1.22 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n    - libstdc++ 4.6.1 or higher\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - NetworkManager 0.7 or higher\r\n    - DBus 1.0 or higher\r\n    - GNOME 2.16 or higher\r\n    - PulseAudio",
+  "text": "As of today, Enhanced Tracking Protection will be turned on by default, strengthening the security and privacy for all of our users around the world. We'd like to extend a special thank you to all of the [new Mozillians][1] who contributed to this release of Firefox.\r\n\r\n\r\n  [1]: https://blog.mozilla.org/community/2019/08/30/firefox-69-new-contributors/",
+  "title": "Firefox 69.0 Release",
+  "version": "69.0"
+}

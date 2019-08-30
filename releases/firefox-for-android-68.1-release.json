@@ -8,10 +8,20 @@
   "notes": [
     {
       "bug": null,
+      "created": "2019-08-30T15:26:12.457881+00:00",
+      "id": 788101,
+      "is_public": true,
+      "modified": "2019-08-30T15:26:12.457513+00:00",
+      "note": "Firefox for Android v68.1 introduces on-by-default Enhanced Tracking Protection. Users will now benefit from protections against ad, social, and analytics trackers.",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
       "created": "2019-08-27T15:45:22.553497+00:00",
       "id": 788100,
       "is_public": true,
-      "modified": "2019-08-27T15:46:34.724769+00:00",
+      "modified": "2019-08-30T15:29:06.014592+00:00",
       "note": "Various [security fixes][0]\r\n\r\n[0]: https://www.mozilla.org/security/advisories/mfsa2019-XX/",
       "sort_num": 100,
       "tag": "Fixed"
