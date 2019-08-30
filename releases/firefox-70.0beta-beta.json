@@ -4,8 +4,49 @@
   "channel": "Beta",
   "created": "2019-08-28T15:14:28.932121+00:00",
   "is_public": false,
-  "modified": "2019-08-28T15:15:03.924755+00:00",
-  "notes": [],
+  "modified": "2019-08-30T22:23:58.402984+00:00",
+  "notes": [
+    {
+      "bug": 1565051,
+      "created": "2019-08-30T22:24:39.283508+00:00",
+      "id": 788119,
+      "is_public": true,
+      "modified": "2019-08-30T22:24:39.283298+00:00",
+      "note": "Built-in Firefox pages now follow the system dark mode preference",
+      "sort_num": 65,
+      "tag": "Changed"
+    },
+    {
+      "bug": 1567684,
+      "created": "2019-08-23T21:10:20.561420+00:00",
+      "id": 788099,
+      "is_public": true,
+      "modified": "2019-08-30T22:21:56.060610+00:00",
+      "note": "[Aliased theme properties have been removed][1], which may affect some  themes\r\n\r\n\r\n  [1]: https://blog.mozilla.org/addons/2019/07/25/upcoming-deprecations-in-firefox-70/",
+      "sort_num": 50,
+      "tag": "Changed"
+    },
+    {
+      "bug": 1562006,
+      "created": "2019-08-14T15:45:10.841617+00:00",
+      "id": 788098,
+      "is_public": true,
+      "modified": "2019-08-30T22:21:59.001007+00:00",
+      "note": "The Firefox Accounts toolbar menu has been updated and reorganized to give faster access to account features and services.",
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
+      "bug": 1574538,
+      "created": "2019-08-30T22:23:27.882903+00:00",
+      "id": 788118,
+      "is_public": true,
+      "modified": "2019-08-30T22:23:27.882688+00:00",
+      "note": "macOS: Vastly reduced power consumption with a more efficient compositor",
+      "sort_num": 70,
+      "tag": "Fixed"
+    }
+  ],
   "product": "Firefox",
   "release_date": "2019-09-03",
   "slug": "firefox-70.0beta-beta",
