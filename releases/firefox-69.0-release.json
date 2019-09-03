@@ -165,16 +165,6 @@
       "note": "For Enterprise system administrators that manage macOS computers, we begin shipping a Mozilla signed PKG installer to simplify your deployments.",
       "sort_num": 10,
       "tag": "Enterprise"
-    },
-    {
-      "bug": null,
-      "created": "2019-08-27T15:45:22.553497+00:00",
-      "id": 788100,
-      "is_public": true,
-      "modified": "2019-08-30T15:29:06.014592+00:00",
-      "note": "Various [security fixes][0]\r\n\r\n[0]: https://www.mozilla.org/security/advisories/mfsa2019-XX/",
-      "sort_num": 100,
-      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
