@@ -17,6 +17,36 @@
       "tag": "New"
     },
     {
+      "bug": 1564968,
+      "created": "2019-09-03T15:21:04.008958+00:00",
+      "id": 788127,
+      "is_public": true,
+      "modified": "2019-09-03T15:24:41.207051+00:00",
+      "note": "The developer tools accessibility panel now includes an audit for keyboard accessibility",
+      "sort_num": 45,
+      "tag": "New"
+    },
+    {
+      "bug": 1575749,
+      "created": "2019-09-03T15:21:52.639630+00:00",
+      "id": 788129,
+      "is_public": true,
+      "modified": "2019-09-03T15:24:01.719749+00:00",
+      "note": "When focused on a toolbar button, users can now type the first (or first few) characters of another button's name to jump directly to that button.",
+      "sort_num": 40,
+      "tag": "New"
+    },
+    {
+      "bug": 1306054,
+      "created": "2019-09-03T15:23:42.235134+00:00",
+      "id": 788130,
+      "is_public": true,
+      "modified": "2019-09-03T15:23:42.234943+00:00",
+      "note": "An information icon is displayed next to CSS properties that don't have an effect on the current element in the Rules pane of the Page Inspector.",
+      "sort_num": 35,
+      "tag": "New"
+    },
+    {
       "bug": 1565051,
       "created": "2019-08-30T22:24:39.283508+00:00",
       "id": 788119,
