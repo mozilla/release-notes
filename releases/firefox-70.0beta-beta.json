@@ -27,6 +27,24 @@
       "tag": "New"
     },
     {
+      "bug": 1564966,
+      "created": "2019-09-03T15:21:31.555005+00:00",
+      "fixed_in_release": {
+        "channel": "Beta",
+        "is_public": true,
+        "product": "Firefox",
+        "slug": "firefox-70.0beta-beta",
+        "title": "Firefox 70.0beta Beta",
+        "version": "70.0beta"
+      },
+      "id": 788128,
+      "is_public": true,
+      "modified": "2019-09-03T15:38:48.276590+00:00",
+      "note": "The developer tools accessibility panel now includes a color deficiency simulator for systems with WebRender enabled",
+      "sort_num": 43,
+      "tag": "New"
+    },
+    {
       "bug": 1575749,
       "created": "2019-09-03T15:21:52.639630+00:00",
       "id": 788129,
