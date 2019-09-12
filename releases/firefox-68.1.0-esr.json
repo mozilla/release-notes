@@ -7,6 +7,16 @@
   "modified": "2019-09-03T12:37:03.069971+00:00",
   "notes": [
     {
+      "bug": 1569102,
+      "created": "2019-09-12T14:48:31.964495+00:00",
+      "id": 788131,
+      "is_public": true,
+      "modified": "2019-09-12T14:48:31.964252+00:00",
+      "note": "Re-enabled XMLDocument.async and XMLDocument.load to maintain better legacy compatibility",
+      "sort_num": 95,
+      "tag": "Changed"
+    },
+    {
       "bug": null,
       "created": "2019-08-27T15:45:22.553497+00:00",
       "id": 788100,
