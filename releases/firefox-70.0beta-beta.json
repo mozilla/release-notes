@@ -115,6 +115,16 @@
       "tag": "Developer"
     },
     {
+      "bug": 1573631,
+      "created": "2019-09-16T18:34:17.397290+00:00",
+      "id": 788135,
+      "is_public": true,
+      "modified": "2019-09-16T18:34:17.397100+00:00",
+      "note": "Firefox now supports the CSS properties \"text-decoration-thickness\" and \"text-underline-offset\", which let web developers control the position and size of text decoration lines.\r\nFirefox now supports the CSS property \"text-decoration-skip-ink\", which (by default) makes underlines and overlines skip over any text that they intersect, to improve readability.",
+      "sort_num": 25,
+      "tag": "Developer"
+    },
+    {
       "bug": 1574538,
       "created": "2019-08-30T22:23:27.882903+00:00",
       "id": 788118,
