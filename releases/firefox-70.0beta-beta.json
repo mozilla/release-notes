@@ -105,6 +105,16 @@
       "tag": "Changed"
     },
     {
+      "bug": 1548813,
+      "created": "2019-09-16T17:02:26.441622+00:00",
+      "id": 788134,
+      "is_public": true,
+      "modified": "2019-09-16T17:02:26.441244+00:00",
+      "note": "Write snippets of code and iterate on them faster in the WebConsole with the\r\nnew multi-line editor mode. The Enter key adds new lines like in a regular editor. Evaluate with Ctrl + Enter (Cmd + Enter on OSX).",
+      "sort_num": 32,
+      "tag": "Developer"
+    },
+    {
       "bug": 1574538,
       "created": "2019-08-30T22:23:27.882903+00:00",
       "id": 788118,
