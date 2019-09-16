@@ -59,8 +59,8 @@
       "created": "2019-09-03T15:23:42.235134+00:00",
       "id": 788130,
       "is_public": true,
-      "modified": "2019-09-03T15:23:42.234943+00:00",
-      "note": "An information icon is displayed next to CSS properties that don't have an effect on the current element in the Rules pane of the Page Inspector.",
+      "modified": "2019-09-16T18:00:37.776304+00:00",
+      "note": "Inactive CSS: The Inspector now grays out CSS declarations that don\u2019t affect the selected element and shows a tooltip explaining why.",
       "sort_num": 35,
       "tag": "New"
     },
