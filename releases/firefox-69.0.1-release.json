@@ -17,13 +17,53 @@
       "tag": ""
     },
     {
+      "bug": 1570845,
+      "created": "2019-09-17T14:27:19.145194+00:00",
+      "id": 788139,
+      "is_public": true,
+      "modified": "2019-09-17T14:42:06.324303+00:00",
+      "note": "Fixed external programs launching in the background when clicking a link from inside Firefox to launch them ([bug 1570845][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1570845",
+      "sort_num": 50,
+      "tag": "Fixed"
+    },
+    {
       "bug": 1567600,
       "created": "2019-09-17T14:05:41.948307+00:00",
       "id": 788137,
       "is_public": true,
-      "modified": "2019-09-17T14:05:41.947119+00:00",
+      "modified": "2019-09-17T14:42:09.967813+00:00",
       "note": "Usability improvements to the Add-ons Manager for users with screen readers ([bug 1567600][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1567600",
-      "sort_num": 0,
+      "sort_num": 40,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1578633,
+      "created": "2019-09-17T14:40:46.759397+00:00",
+      "id": 788142,
+      "is_public": true,
+      "modified": "2019-09-17T14:42:14.020979+00:00",
+      "note": "Fixed the Captive Portal notification bar not being dismissable in some situations after login is complete ([bug 1578633][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1578633",
+      "sort_num": 30,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1578454,
+      "created": "2019-09-17T14:38:56.650078+00:00",
+      "id": 788141,
+      "is_public": true,
+      "modified": "2019-09-17T14:42:18.364655+00:00",
+      "note": "Fixed the maximum size of fonts in Reader Mode when zoomed ([bug 1578454][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1578454",
+      "sort_num": 20,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1578354,
+      "created": "2019-09-17T14:37:10.326867+00:00",
+      "id": 788140,
+      "is_public": true,
+      "modified": "2019-09-17T14:42:22.054635+00:00",
+      "note": "Fixed missing stacks in the Developer Tools Performance section ([bug 1578354][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1578354",
+      "sort_num": 10,
       "tag": "Fixed"
     },
     {
@@ -33,46 +73,6 @@
       "is_public": true,
       "modified": "2019-09-17T14:30:57.739519+00:00",
       "note": "[Security][1] and stability fixes\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/mfsa2019-31/",
-      "sort_num": 0,
-      "tag": "Fixed"
-    },
-    {
-      "bug": 1570845,
-      "created": "2019-09-17T14:27:19.145194+00:00",
-      "id": 788139,
-      "is_public": true,
-      "modified": "2019-09-17T14:27:19.145001+00:00",
-      "note": "Fixed external programs launching in the background when clicking a link from inside Firefox to launch them ([bug 1570845][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1570845",
-      "sort_num": 0,
-      "tag": "Fixed"
-    },
-    {
-      "bug": 1578354,
-      "created": "2019-09-17T14:37:10.326867+00:00",
-      "id": 788140,
-      "is_public": true,
-      "modified": "2019-09-17T14:37:10.326668+00:00",
-      "note": "Fixed missing stacks in the Developer Tools Performance section ([bug 1578354][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1578354",
-      "sort_num": 0,
-      "tag": "Fixed"
-    },
-    {
-      "bug": 1578454,
-      "created": "2019-09-17T14:38:56.650078+00:00",
-      "id": 788141,
-      "is_public": true,
-      "modified": "2019-09-17T14:38:56.649884+00:00",
-      "note": "Fixed the maximum size of fonts in Reader Mode when zoomed ([bug 1578454][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1578454",
-      "sort_num": 0,
-      "tag": "Fixed"
-    },
-    {
-      "bug": 1578633,
-      "created": "2019-09-17T14:40:46.759397+00:00",
-      "id": 788142,
-      "is_public": true,
-      "modified": "2019-09-17T14:40:46.759204+00:00",
-      "note": "Fixed the Captive Portal notification bar not being dismissable in some situations after login is complete ([bug 1578633][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1578633",
       "sort_num": 0,
       "tag": "Fixed"
     }
