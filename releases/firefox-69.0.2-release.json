@@ -21,8 +21,28 @@
       "created": "2019-10-01T17:15:03.561517+00:00",
       "id": 788146,
       "is_public": true,
-      "modified": "2019-10-01T17:18:08.147741+00:00",
+      "modified": "2019-10-01T17:40:25.086863+00:00",
       "note": "Fixed a crash when editing files on Office 365 websites ([bug 1579858][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1579858",
+      "sort_num": 20,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1584613,
+      "created": "2019-10-01T17:40:16.627116+00:00",
+      "id": 788149,
+      "is_public": true,
+      "modified": "2019-10-01T17:40:16.626863+00:00",
+      "note": "Fixed detection of the Windows 10 Parental Controls feature being enabled ([bug 1584613][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1584613",
+      "sort_num": 10,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1582222,
+      "created": "2019-10-01T17:38:01.653850+00:00",
+      "id": 788148,
+      "is_public": true,
+      "modified": "2019-10-01T17:38:01.653651+00:00",
+      "note": "Fixed a Linux-only crash when changing the playback speed while watching YouTube videos ([bug 1582222][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1582222",
       "sort_num": 0,
       "tag": "Fixed"
     }
