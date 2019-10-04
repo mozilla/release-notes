@@ -45,6 +45,16 @@
       "note": "Fixed a Linux-only crash when changing the playback speed while watching YouTube videos ([bug 1582222][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1582222",
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": 1586228,
+      "created": "2019-10-04T17:09:50.527863+00:00",
+      "id": 788150,
+      "is_public": true,
+      "modified": "2019-10-04T17:09:50.527625+00:00",
+      "note": "File downloads may not work for Windows 10 users with Parental Controls enabled ([bug 1586228][1]). As a workaround, Parental Controls can be disabled until a fix is available.\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1586228",
+      "sort_num": 0,
+      "tag": "Known"
     }
   ],
   "product": "Firefox",
