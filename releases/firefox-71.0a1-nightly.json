@@ -35,6 +35,16 @@
       "note": "Firefox has a new command line parameter, `--kiosk`, that opens Firefox in fullscreen mode",
       "sort_num": 0,
       "tag": "New"
+    },
+    {
+      "bug": 1403051,
+      "created": "2019-10-08T11:38:13.022506+00:00",
+      "id": 788152,
+      "is_public": true,
+      "modified": "2019-10-08T11:38:13.022273+00:00",
+      "note": "Using the [new server-timing information][1] in DevTools' Network panel, developers can analyze the server-related timings in context of other request and response details.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Tools/Network_Monitor/request_details#Timings",
+      "sort_num": 0,
+      "tag": "HTML5"
     }
   ],
   "product": "Firefox",
