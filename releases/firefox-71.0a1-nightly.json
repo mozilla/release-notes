@@ -37,6 +37,16 @@
       "tag": "New"
     },
     {
+      "bug": 1579270,
+      "created": "2019-10-15T08:25:14.871109+00:00",
+      "id": 788156,
+      "is_public": true,
+      "modified": "2019-10-15T08:25:53.246408+00:00",
+      "note": "<!-- Nightly Only --> Disabled TLS 1.0 and 1.1 by default on the Nightly channel",
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
       "bug": 1403051,
       "created": "2019-10-08T11:38:13.022506+00:00",
       "id": 788152,
