@@ -2,46 +2,26 @@
   "bug_list": "",
   "bug_search_url": "",
   "channel": "ESR",
-  "created": "2019-08-27T15:44:43.061974+00:00",
-  "is_public": true,
-  "modified": "2019-09-03T12:37:03.069971+00:00",
+  "created": "2019-10-16T14:41:51.354677+00:00",
+  "is_public": false,
+  "modified": "2019-10-16T14:42:39.125321+00:00",
   "notes": [
     {
-      "bug": 1569102,
-      "created": "2019-09-12T14:48:31.964495+00:00",
-      "id": 788131,
-      "is_public": true,
-      "modified": "2019-10-16T14:42:33.765729+00:00",
-      "note": "Re-enabled XMLDocument.async and XMLDocument.load to maintain better legacy compatibility",
-      "sort_num": 95,
-      "tag": "Changed"
-    },
-    {
       "bug": null,
-      "created": "2019-08-27T15:45:22.553497+00:00",
-      "id": 788100,
+      "created": "2019-10-16T14:42:37.297023+00:00",
+      "id": 788158,
       "is_public": true,
-      "modified": "2019-10-16T14:42:37.465824+00:00",
+      "modified": "2019-10-16T14:42:37.296843+00:00",
       "note": "Various [security fixes][0]\r\n\r\n[0]: https://www.mozilla.org/security/advisories/mfsa2019-26/",
       "sort_num": 100,
-      "tag": "Fixed"
-    },
-    {
-      "bug": null,
-      "created": "2019-09-03T07:28:21.470880+00:00",
-      "id": 788123,
-      "is_public": true,
-      "modified": "2019-10-16T14:42:31.858651+00:00",
-      "note": "Various stability and functionality fixes",
-      "sort_num": 0,
       "tag": "Fixed"
     }
   ],
   "product": "Firefox Extended Support Release",
-  "release_date": "2019-09-03",
-  "slug": "firefox-68.1.0-esr",
+  "release_date": "2019-10-22",
+  "slug": "firefox-68.2.0-esr",
   "system_requirements": "## Windows\r\n\r\n### Operating Systems (32-bit and 64-bit)\r\n - Windows 7\r\n - Windows 8\r\n - Windows 10\r\n\r\n### Recommended Hardware\r\n-  Pentium 4 or newer processor that supports SSE2\r\n-  512MB of RAM / 2GB of RAM for the 64-bit version\r\n-  200MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- macOS 10.9\r\n- macOS 10.10\r\n- macOS 10.11\r\n- macOS 10.12\r\n- macOS 10.13\r\n- macOS 10.14\r\n\r\n### Recommended Hardware\r\n- Macintosh computer with an Intel x86 processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - GTK+ 3.4 or higher\r\n    - GLib 2.22 or higher\r\n    - Pango 1.22 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n    - libstdc++ 4.6.1 or higher\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - NetworkManager 0.7 or higher\r\n    - DBus 1.0 or higher\r\n    - GNOME 2.16 or higher\r\n    - PulseAudio",
   "text": "",
-  "title": "Firefox Extended Support Release 68.1.0 ESR",
-  "version": "68.1.0"
+  "title": "Firefox Extended Support Release 68.2.0 ESR",
+  "version": "68.2.0"
 }
