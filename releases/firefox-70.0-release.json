@@ -37,6 +37,36 @@
       "tag": "New"
     },
     {
+      "bug": null,
+      "created": "2019-10-16T20:07:24.880125+00:00",
+      "id": 788162,
+      "is_public": true,
+      "modified": "2019-10-16T20:32:53.206410+00:00",
+      "note": "Additional benefits and improved usability for Firefox account holders\r\n\r\n - When you are signed into your Firefox account, you can sign into other Firefox services with one click and stay signed into all the apps and services (like Monitor) associated with your account.\r\n - You can now choose to sync different types data to different devices. For example, you can sync your personal bookmarks on your own laptop and your phone but not on your work computer.\r\n - Send tabs between all your devices, even if you\u2019re not syncing them.",
+      "sort_num": 80,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2019-10-16T20:10:40.120575+00:00",
+      "id": 788163,
+      "is_public": true,
+      "modified": "2019-10-16T20:32:36.386445+00:00",
+      "note": "More browser features to help you get the most out of Firefox products and services\r\n\r\n - A stand-alone Firefox account menu for easy access to Firefox services like Monitor and Send.\r\n - A message panel accessed from the gift icon in the toolbar that offers a quick overview of new releases and key features.",
+      "sort_num": 75,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2019-10-16T20:12:42.775583+00:00",
+      "id": 788164,
+      "is_public": true,
+      "modified": "2019-10-16T20:32:22.278809+00:00",
+      "note": "Developer Information[enter link description here][1]\r\nFor additional developer resources from Mozilla, visit our [Mozilla Developer YouTube channel][2] for new videos every week. \r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/70\r\n  [2]: https://youtube.com/MozillaDeveloper",
+      "sort_num": 70,
+      "tag": ""
+    },
+    {
       "bug": 1567684,
       "created": "2019-10-16T20:30:31.684210+00:00",
       "id": 788171,
@@ -45,6 +75,56 @@
       "note": "[Aliased theme properties have been removed][1], which may affect some themes\r\n\r\n\r\n  [1]: https://blog.mozilla.org/addons/2019/07/25/upcoming-deprecations-in-firefox-70/",
       "sort_num": 46,
       "tag": "Changed"
+    },
+    {
+      "bug": 1564968,
+      "created": "2019-10-16T20:13:28.186719+00:00",
+      "id": 788165,
+      "is_public": true,
+      "modified": "2019-10-16T20:32:09.175709+00:00",
+      "note": "The Developer Tools Accessibility panel now includes an audit for keyboard accessibility and a color deficiency simulator for systems with WebRender enabled",
+      "sort_num": 68,
+      "tag": "Developer"
+    },
+    {
+      "bug": 1306054,
+      "created": "2019-10-16T20:14:15.359861+00:00",
+      "id": 788166,
+      "is_public": true,
+      "modified": "2019-10-16T20:31:58.997007+00:00",
+      "note": "Inactive CSS: The Inspector now grays out CSS declarations that don\u2019t affect the selected element and shows a tooltip explaining why -- and even how to fix it.",
+      "sort_num": 66,
+      "tag": "Developer"
+    },
+    {
+      "bug": 1547692,
+      "created": "2019-10-16T20:16:10.493572+00:00",
+      "id": 788167,
+      "is_public": true,
+      "modified": "2019-10-16T20:31:43.264758+00:00",
+      "note": "The new DOM Mutation Breakpoints in Developer Tools allows developers to diagnose when scripts add, remove or update page content. This makes debugging of complex script interactions and dependencies a lot easier.",
+      "sort_num": 64,
+      "tag": "Developer"
+    },
+    {
+      "bug": null,
+      "created": "2019-10-16T20:17:24.486144+00:00",
+      "id": 788168,
+      "is_public": true,
+      "modified": "2019-10-16T20:31:29.955996+00:00",
+      "note": "WebExtensions developers can now inspect browser.storage.local data using the \"Addon Debugging\" Firefox Developer Tools.",
+      "sort_num": 62,
+      "tag": "Developer"
+    },
+    {
+      "bug": null,
+      "created": "2019-10-16T20:29:07.083063+00:00",
+      "id": 788169,
+      "is_public": true,
+      "modified": "2019-10-16T20:31:17.776830+00:00",
+      "note": "Various security fixes",
+      "sort_num": 55,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
