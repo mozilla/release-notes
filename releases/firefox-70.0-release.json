@@ -15,6 +15,16 @@
       "note": "More privacy protections from Enhanced Tracking Protection:\r\n\r\n - Social tracking protection, which blocks cross-site tracking cookies from sites like Facebook, Twitter, and LinkedIn, is now a standard feature of Enhanced Tracking Protection. \r\n - The Privacy Protections report shows an overview, with details, of the trackers Firefox has blocked. It provides consolidated reports from Monitor and Lockwise.",
       "sort_num": 98,
       "tag": "New"
+    },
+    {
+      "bug": 1549799,
+      "created": "2019-10-16T20:02:30.386422+00:00",
+      "id": 788160,
+      "is_public": true,
+      "modified": "2019-10-16T20:02:30.386230+00:00",
+      "note": "More security protections from Firefox Lockwise, our digital identity and password management tool:\r\n\r\n - Lockwise for desktop lets you to create, update, delete your logins and passwords to sync across all your devices,  including the Lockwise mobile apps and Firefox mobile browsers\u2028.\r\n - Integrated breach alerts from Firefox Monitor, to alert you when saved logins and passwords are compromised in online data breaches.\r\n - Complex password generation, to help you create and save strong passwords for new online accounts.",
+      "sort_num": 90,
+      "tag": "New"
     }
   ],
   "product": "Firefox",
