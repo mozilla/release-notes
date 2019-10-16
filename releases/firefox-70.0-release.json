@@ -81,8 +81,8 @@
       "created": "2019-10-16T20:13:28.186719+00:00",
       "id": 788165,
       "is_public": true,
-      "modified": "2019-10-16T20:32:09.175709+00:00",
-      "note": "The Developer Tools Accessibility panel now includes an audit for keyboard accessibility and a color deficiency simulator for systems with WebRender enabled",
+      "modified": "2019-10-16T20:42:23.850279+00:00",
+      "note": "The Developer Tools Accessibility panel now includes an audit for keyboard accessibility and a color deficiency simulator for systems with WebRender enabled\r\n<!-- bug1564968 and bug 1564966 -->",
       "sort_num": 68,
       "tag": "Developer"
     },
@@ -107,11 +107,11 @@
       "tag": "Developer"
     },
     {
-      "bug": null,
+      "bug": 1577737,
       "created": "2019-10-16T20:17:24.486144+00:00",
       "id": 788168,
       "is_public": true,
-      "modified": "2019-10-16T20:31:29.955996+00:00",
+      "modified": "2019-10-16T20:42:59.255117+00:00",
       "note": "WebExtensions developers can now inspect browser.storage.local data using the \"Addon Debugging\" Firefox Developer Tools.",
       "sort_num": 62,
       "tag": "Developer"
