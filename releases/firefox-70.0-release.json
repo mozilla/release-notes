@@ -7,12 +7,12 @@
   "modified": "2019-10-16T19:54:58.630014+00:00",
   "notes": [
     {
-      "bug": null,
+      "bug": 1558341,
       "created": "2019-10-16T19:58:37.314932+00:00",
       "id": 788159,
       "is_public": true,
-      "modified": "2019-10-16T19:58:37.314732+00:00",
-      "note": "More privacy protections from Enhanced Tracking Protection:\r\n\r\n - Social tracking protection, which blocks cross-site tracking cookies from sites like Facebook, Twitter, and LinkedIn, is now a standard feature of Enhanced Tracking Protection. \r\n - The Privacy Protections report shows an overview, with details, of the trackers Firefox has blocked. It provides consolidated reports from Monitor and Lockwise.",
+      "modified": "2019-10-16T20:35:15.354193+00:00",
+      "note": "More privacy protections from Enhanced Tracking Protection:\r\n\r\n - Social tracking protection, which blocks cross-site tracking cookies from sites like Facebook, Twitter, and LinkedIn, is now a standard feature of Enhanced Tracking Protection. <!-- bug 1558341 -->\r\n - The Privacy Protections report shows an overview, with details, of the trackers Firefox has blocked. It provides consolidated reports from Monitor and Lockwise. <!-- bug 1549805 -->",
       "sort_num": 98,
       "tag": "New"
     },
