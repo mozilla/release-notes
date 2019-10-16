@@ -105,6 +105,16 @@
       "tag": "Changed"
     },
     {
+      "bug": 1574005,
+      "created": "2019-10-16T22:32:55.839932+00:00",
+      "id": 788173,
+      "is_public": true,
+      "modified": "2019-10-16T22:32:55.839731+00:00",
+      "note": "Readability is now greatly improved on under- or overlined texts, including links. The lines will now be interrupted instead of crossing over a glyph.",
+      "sort_num": 38,
+      "tag": "Changed"
+    },
+    {
       "bug": 1564968,
       "created": "2019-10-16T20:13:28.186719+00:00",
       "id": 788165,
