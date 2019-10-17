@@ -47,16 +47,6 @@
       "tag": "New"
     },
     {
-      "bug": null,
-      "created": "2019-10-16T20:12:42.775583+00:00",
-      "id": 788164,
-      "is_public": true,
-      "modified": "2019-10-17T14:49:03.961823+00:00",
-      "note": "[Developer Information][1]\r\nFor additional developer resources from Mozilla, visit our [Mozilla Developer YouTube channel][2] for new videos every week. \r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/70\r\n  [2]: https://youtube.com/MozillaDeveloper",
-      "sort_num": 70,
-      "tag": ""
-    },
-    {
       "bug": 1565051,
       "created": "2019-10-16T20:29:47.657306+00:00",
       "id": 788170,
@@ -103,6 +93,16 @@
       "note": "Readability is now greatly improved on under- or overlined texts, including links. The lines will now be interrupted instead of crossing over a glyph.",
       "sort_num": 38,
       "tag": "Changed"
+    },
+    {
+      "bug": null,
+      "created": "2019-10-16T20:12:42.775583+00:00",
+      "id": 788164,
+      "is_public": true,
+      "modified": "2019-10-17T19:13:37.110609+00:00",
+      "note": "[Developer Information][1]\r\nFor additional developer resources from Mozilla, visit our [Mozilla Developer YouTube channel][2] for new videos every week. \r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/70\r\n  [2]: https://youtube.com/MozillaDeveloper",
+      "sort_num": 70,
+      "tag": "Developer"
     },
     {
       "bug": 1564968,
