@@ -1,0 +1,37 @@
+{
+  "bug_list": "",
+  "bug_search_url": "",
+  "channel": "Release",
+  "created": "2019-10-17T14:43:59.510427+00:00",
+  "is_public": false,
+  "modified": "2019-10-17T14:44:17.855652+00:00",
+  "notes": [
+    {
+      "bug": null,
+      "created": "2019-10-17T14:45:55.853406+00:00",
+      "id": 788177,
+      "is_public": true,
+      "modified": "2019-10-17T14:45:55.853214+00:00",
+      "note": "Added \u201cClear all History\u201d option to the history tab to let you clean the slate easily.",
+      "sort_num": 50,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2019-10-17T14:45:22.577204+00:00",
+      "id": 788176,
+      "is_public": true,
+      "modified": "2019-10-17T14:45:22.577014+00:00",
+      "note": "Fixed a number of bugs associated with XCode 11 changes, including a bug preventing text selection in some cases.",
+      "sort_num": 0,
+      "tag": "Fixed"
+    }
+  ],
+  "product": "Firefox for iOS",
+  "release_date": "2019-10-22",
+  "slug": "firefox-for-ios-20.0-release",
+  "system_requirements": "## Operating systems\r\n - iOS 10.3\r\n - iOS 11\r\n - iOS 12",
+  "text": "This version of Firefox for iOS has several usability and performance improvements.",
+  "title": "Firefox for iOS 20.0 Release",
+  "version": "20.0"
+}
