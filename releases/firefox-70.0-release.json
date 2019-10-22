@@ -96,6 +96,16 @@
     },
     {
       "bug": null,
+      "created": "2019-10-22T20:26:20.669279+00:00",
+      "id": 788189,
+      "is_public": true,
+      "modified": "2019-10-22T20:26:20.669032+00:00",
+      "note": "Improved [privacy and security indicators][1]\r\n\r\n\r\n  [1]: https://blog.mozilla.org/security/2019/10/15/improved-security-and-privacy-indicators-in-firefox-70/\r\n\r\n - A new crossed-out lock icon will indicate sites delivered via\r\n   insecure HTTP  <!-- bug 1562881 -->\r\n - The formerly green lock icon is now grey <!-- bug 1572675 -->\r\n - The Extended Validation (EV) indicator has been moved to the identity\r\n   popup that appears when clicking the lock icon <!-- 1572936 -->",
+      "sort_num": 35,
+      "tag": "Changed"
+    },
+    {
+      "bug": null,
       "created": "2019-10-16T20:12:42.775583+00:00",
       "id": 788164,
       "is_public": true,
