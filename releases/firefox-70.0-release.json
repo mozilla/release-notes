@@ -3,8 +3,8 @@
   "bug_search_url": "",
   "channel": "Release",
   "created": "2019-10-16T19:54:00.135476+00:00",
-  "is_public": false,
-  "modified": "2019-10-22T12:30:59.937030+00:00",
+  "is_public": true,
+  "modified": "2019-10-22T12:31:13.405308+00:00",
   "notes": [
     {
       "bug": 1558341,
@@ -71,7 +71,7 @@
       "created": "2019-10-16T20:45:42.450829+00:00",
       "fixed_in_release": {
         "channel": "Release",
-        "is_public": false,
+        "is_public": true,
         "product": "Firefox",
         "slug": "firefox-70.0-release",
         "title": "Firefox 70.0 Release",
