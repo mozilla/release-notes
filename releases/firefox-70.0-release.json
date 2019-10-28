@@ -173,6 +173,16 @@
       "note": "Various [security fixes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/mfsa2019-34/",
       "sort_num": 55,
       "tag": "Fixed"
+    },
+    {
+      "bug": 1591374,
+      "created": "2019-10-28T22:13:14.563017+00:00",
+      "id": 788191,
+      "is_public": true,
+      "modified": "2019-10-28T22:13:14.562785+00:00",
+      "note": "Some websites or page elements using dynamic JavaScript fail to load. [This can be fixed with a temporary workaround][1].\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/some-pages-or-page-elements-fail-load-after-updating",
+      "sort_num": 1,
+      "tag": "Known"
     }
   ],
   "product": "Firefox",
