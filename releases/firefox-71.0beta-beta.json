@@ -7,16 +7,6 @@
   "modified": "2019-10-22T19:15:16.207216+00:00",
   "notes": [
     {
-      "bug": 1580094,
-      "created": "2019-09-23T11:04:51.518080+00:00",
-      "id": 788144,
-      "is_public": true,
-      "modified": "2019-10-21T11:43:51.983754+00:00",
-      "note": "Locale added: Catalan (Valencia) (ca-valencia)",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
       "bug": 158968,
       "created": "2019-10-07T18:07:46.654305+00:00",
       "id": 788151,
@@ -33,6 +23,16 @@
       "is_public": true,
       "modified": "2019-10-22T11:22:07.123395+00:00",
       "note": "The Picture-in-Picture feature allows users on Windows to pop a video out from its webpage into a floating, resizable window that is always on top and viewable",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1583171,
+      "created": "2019-10-28T07:34:07.947992+00:00",
+      "id": 788190,
+      "is_public": true,
+      "modified": "2019-10-28T07:34:07.947753+00:00",
+      "note": "Locales added: Catalan (Valencian) (ca-valencia), Tagalog (tl), Triqui (trs)",
       "sort_num": 0,
       "tag": "New"
     },
