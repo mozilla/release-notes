@@ -3,8 +3,8 @@
   "bug_search_url": "",
   "channel": "Release",
   "created": "2019-10-31T16:46:54.813269+00:00",
-  "is_public": false,
-  "modified": "2019-10-31T16:48:04.743682+00:00",
+  "is_public": true,
+  "modified": "2019-10-31T18:40:01.911845+00:00",
   "notes": [
     {
       "bug": 1587543,
@@ -17,11 +17,11 @@
       "tag": "Changed"
     },
     {
-      "bug": null,
+      "bug": 1592136,
       "created": "2019-10-31T17:28:41.576426+00:00",
       "id": 788192,
       "is_public": true,
-      "modified": "2019-10-31T17:28:41.575882+00:00",
+      "modified": "2019-10-31T18:40:29.640656+00:00",
       "note": "Fix for an issue that caused some websites or page elements using dynamic JavaScript to fail to load. ([Bug 1592136][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1592136",
       "sort_num": 90,
       "tag": "Fixed"
@@ -41,7 +41,7 @@
       "created": "2019-10-31T17:45:23.529561+00:00",
       "fixed_in_release": {
         "channel": "Release",
-        "is_public": false,
+        "is_public": true,
         "product": "Firefox",
         "slug": "firefox-70.0.1-release",
         "title": "Firefox 70.0.1 Release",
