@@ -35,6 +35,24 @@
       "note": "Update OpenH264 video plugin for macOS 10.15 users ([Bug 1587543][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1587543",
       "sort_num": 80,
       "tag": "Fixed"
+    },
+    {
+      "bug": 1588747,
+      "created": "2019-10-31T17:45:23.529561+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": false,
+        "product": "Firefox",
+        "slug": "firefox-70.0.1-release",
+        "title": "Firefox 70.0.1 Release",
+        "version": "70.0.1"
+      },
+      "id": 788195,
+      "is_public": true,
+      "modified": "2019-10-31T17:45:23.529156+00:00",
+      "note": "Title bar no longer shows in full screen view ([Bug 1588747][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1588747",
+      "sort_num": 70,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
