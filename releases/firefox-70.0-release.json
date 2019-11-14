@@ -183,6 +183,16 @@
       "note": "Some websites or page elements using dynamic JavaScript fail to load. [This can be fixed with a temporary workaround][1].\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/some-pages-or-page-elements-fail-load-after-updating",
       "sort_num": 1,
       "tag": "Known"
+    },
+    {
+      "bug": 1587962,
+      "created": "2019-11-14T17:40:16.884916+00:00",
+      "id": 788200,
+      "is_public": true,
+      "modified": "2019-11-14T17:40:16.884683+00:00",
+      "note": "Keyboard navigation does not work correctly under macOS 10.15",
+      "sort_num": 0,
+      "tag": "Known"
     }
   ],
   "product": "Firefox",
