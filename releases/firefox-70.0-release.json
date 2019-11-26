@@ -11,7 +11,7 @@
       "created": "2019-10-16T19:58:37.314932+00:00",
       "id": 788159,
       "is_public": true,
-      "modified": "2019-10-18T19:23:07.507422+00:00",
+      "modified": "2019-11-26T12:39:33.639504+00:00",
       "note": "More privacy protections from Enhanced Tracking Protection:\r\n\r\n - [Social tracking protection][1], which blocks cross-site tracking cookies from sites like Facebook, Twitter, and LinkedIn, is now a standard feature of [Enhanced Tracking Protection][2]. <!-- bug 1558341 -->\r\n - The [Privacy Protections report][3] shows an overview, with details, of the trackers Firefox has blocked. It provides consolidated reports from Monitor and Lockwise. <!-- bug 1549805 -->\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/trackers-and-scripts-firefox-blocks-enhanced-track#w_social-media-trackers\r\n  [2]: https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop\r\n  [3]: https://www.mozilla.org/firefox/privacy/products",
       "sort_num": 98,
       "tag": "New"
@@ -21,7 +21,7 @@
       "created": "2019-10-16T20:02:30.386422+00:00",
       "id": 788160,
       "is_public": true,
-      "modified": "2019-10-18T19:27:54.143603+00:00",
+      "modified": "2019-11-26T12:39:47.705639+00:00",
       "note": "More security protections from Firefox Lockwise, our digital identity and password management tool:\r\n\r\n - Lockwise for desktop lets you [create, update, and delete][1] your logins and passwords to [sync across all your devices][2], including the Lockwise mobile apps and Firefox mobile browsers\u2028. <!-- bug 1549799 -->\r\n - [Integrated breach alerts][3] from Firefox Monitor, to alert you when saved logins and passwords are compromised in online data breaches. <!-- bug 1565326 -->\r\n - Complex password generation, to help you create and save strong passwords for new online accounts. <!-- bug 376674 -->\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/manage-passwords-firefox-desktop-firefox-lockwise\r\n  [2]: https://support.mozilla.org/products/firefox-lockwise/lockwise-settings\r\n  [3]: https://support.mozilla.org/kb/firefox-lockwise-alerts-breached-websites",
       "sort_num": 90,
       "tag": "New"
@@ -31,7 +31,7 @@
       "created": "2019-10-16T20:05:31.712270+00:00",
       "id": 788161,
       "is_public": true,
-      "modified": "2019-10-22T15:01:17.281130+00:00",
+      "modified": "2019-11-26T12:39:46.628379+00:00",
       "note": "Improvements to core engine components, for better browsing on more sites\r\n\r\n - A faster Javascript Baseline Interpreter to handle the modern web\u2019s\r\n   large codebases and improve page load performance by as much as 8\r\n   percent.\r\n - WebRender rolled out to [more Firefox for Windows users][1], now available by default on Windows desktops with integrated Intel graphics cards and resolution of 1920x1200 or less) for improved graphics rendering. \r\n - [Compositor improvements in Firefox for macOS][2] that reduce power\r\n   consumption, speed up page load by as much as [22 percent][3], and reduce\r\n   resource use for video by up to [37 percent][4].\r\n\r\n \r\n\r\n\r\n  [1]: https://wiki.mozilla.org/Platform/GFX/WebRender_Where\r\n  [2]: https://mozillagfx.wordpress.com/2019/10/22/dramatically-reduced-power-usage-in-firefox-70-on-macos-with-core-animation/\r\n  [3]: https://treeherder.mozilla.org/perf.html#/compare?originalProject=try&originalRevision=18718d1edd41872634b49cbcaf3fe570ce6ad6a3&newProject=try&newRevision=18ef3e9d206ef3ceb3fec3c4170c844a924d0520&framework=10\r\n  [4]: https://treeherder.mozilla.org/perf.html#/compare?originalProject=mozilla-central&newProject=try&newRevision=3d7adefc36d5d5edae6b144dff82919adbb9339e&framework=10&selectedTimeRange=172800#table-header-2242869665",
       "sort_num": 85,
       "tag": "New"
@@ -41,7 +41,7 @@
       "created": "2019-10-16T20:10:40.120575+00:00",
       "id": 788163,
       "is_public": true,
-      "modified": "2019-10-16T23:15:12.852859+00:00",
+      "modified": "2019-11-26T12:39:45.821827+00:00",
       "note": "More browser features to help you get the most out of Firefox products and services\r\n\r\n - A stand-alone Firefox account menu for easy access to Firefox services like Monitor and Send.\r\n - A message panel accessed from the gift icon in the toolbar that offers a quick overview of new releases and key features.\r\n - When a website uses your geolocation, an indicator is shown in the\r\n   address bar.   <!-- bug 630614 -->",
       "sort_num": 75,
       "tag": "New"
@@ -51,7 +51,7 @@
       "created": "2019-10-16T20:29:47.657306+00:00",
       "id": 788170,
       "is_public": true,
-      "modified": "2019-10-16T22:31:54.893105+00:00",
+      "modified": "2019-11-26T12:39:38.304463+00:00",
       "note": "Built-in Firefox pages now follow the system dark mode preference",
       "sort_num": 48,
       "tag": "Changed"
@@ -61,7 +61,7 @@
       "created": "2019-10-16T20:30:31.684210+00:00",
       "id": 788171,
       "is_public": true,
-      "modified": "2019-10-16T20:30:31.684005+00:00",
+      "modified": "2019-11-26T12:39:34.607754+00:00",
       "note": "[Aliased theme properties have been removed][1], which may affect some themes\r\n\r\n\r\n  [1]: https://blog.mozilla.org/addons/2019/07/25/upcoming-deprecations-in-firefox-70/",
       "sort_num": 46,
       "tag": "Changed"
@@ -79,7 +79,7 @@
       },
       "id": 788172,
       "is_public": true,
-      "modified": "2019-10-16T20:45:42.450631+00:00",
+      "modified": "2019-11-26T12:39:36.789779+00:00",
       "note": "Passwords can now be imported from Chrome on macOS in addition to existing support for Windows",
       "sort_num": 38,
       "tag": "Changed"
@@ -89,7 +89,7 @@
       "created": "2019-10-16T22:32:55.839932+00:00",
       "id": 788173,
       "is_public": true,
-      "modified": "2019-10-16T22:37:57.095088+00:00",
+      "modified": "2019-11-26T12:39:36.138830+00:00",
       "note": "Readability is now greatly improved on under- or overlined texts, including links. The lines will now be interrupted instead of crossing over a glyph.",
       "sort_num": 38,
       "tag": "Changed"
@@ -99,7 +99,7 @@
       "created": "2019-10-22T20:26:20.669279+00:00",
       "id": 788189,
       "is_public": true,
-      "modified": "2019-10-22T20:43:16.597890+00:00",
+      "modified": "2019-11-26T12:39:32.456260+00:00",
       "note": "Improved [privacy and security indicators][1]\r\n\r\n\r\n  [1]: https://blog.mozilla.org/security/2019/10/15/improved-security-and-privacy-indicators-in-firefox-70/\r\n\r\n - A new crossed-out lock icon will indicate sites delivered via\r\n   insecure HTTP  <!-- bug 1562881 -->\r\n - The formerly green lock icon is now grey <!-- bug 1572675 -->\r\n - The Extended Validation (EV) indicator has been moved to the identity\r\n   popup that appears when clicking the lock icon <!-- 1572936 -->",
       "sort_num": 35,
       "tag": "Changed"
@@ -109,7 +109,7 @@
       "created": "2019-10-16T20:12:42.775583+00:00",
       "id": 788164,
       "is_public": true,
-      "modified": "2019-10-22T12:29:56.607964+00:00",
+      "modified": "2019-11-26T12:39:45.196893+00:00",
       "note": "[Developer Information][1]\r\nFor additional developer resources from Mozilla, visit our [Mozilla Developer YouTube channel][2] for new videos every week. \r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Mozilla/Firefox/Releases/70\r\n  [2]: https://youtube.com/MozillaDeveloper",
       "sort_num": 70,
       "tag": "Developer"
@@ -119,7 +119,7 @@
       "created": "2019-10-16T20:13:28.186719+00:00",
       "id": 788165,
       "is_public": true,
-      "modified": "2019-10-16T20:42:23.850279+00:00",
+      "modified": "2019-11-26T12:39:43.360876+00:00",
       "note": "The Developer Tools Accessibility panel now includes an audit for keyboard accessibility and a color deficiency simulator for systems with WebRender enabled\r\n<!-- bug1564968 and bug 1564966 -->",
       "sort_num": 68,
       "tag": "Developer"
@@ -129,7 +129,7 @@
       "created": "2019-10-16T20:14:15.359861+00:00",
       "id": 788166,
       "is_public": true,
-      "modified": "2019-10-16T20:31:58.997007+00:00",
+      "modified": "2019-11-26T12:39:42.602466+00:00",
       "note": "Inactive CSS: The Inspector now grays out CSS declarations that don\u2019t affect the selected element and shows a tooltip explaining why -- and even how to fix it.",
       "sort_num": 66,
       "tag": "Developer"
@@ -139,7 +139,7 @@
       "created": "2019-10-16T20:16:10.493572+00:00",
       "id": 788167,
       "is_public": true,
-      "modified": "2019-10-16T20:31:43.264758+00:00",
+      "modified": "2019-11-26T12:39:41.063325+00:00",
       "note": "The new DOM Mutation Breakpoints in Developer Tools allows developers to diagnose when scripts add, remove or update page content. This makes debugging of complex script interactions and dependencies a lot easier.",
       "sort_num": 64,
       "tag": "Developer"
@@ -149,7 +149,7 @@
       "created": "2019-10-16T20:17:24.486144+00:00",
       "id": 788168,
       "is_public": true,
-      "modified": "2019-10-16T20:42:59.255117+00:00",
+      "modified": "2019-11-26T12:39:39.020791+00:00",
       "note": "WebExtensions developers can now inspect browser.storage.local data using the \"Addon Debugging\" Firefox Developer Tools.",
       "sort_num": 62,
       "tag": "Developer"
@@ -159,7 +159,7 @@
       "created": "2019-10-16T23:19:56.557702+00:00",
       "id": 788174,
       "is_public": true,
-      "modified": "2019-10-16T23:22:32.158378+00:00",
+      "modified": "2019-11-26T12:39:35.453891+00:00",
       "note": "With new [network resource search][1] in Developer Tools, you can quickly find resources based on their request and response data, including headers, cookies and content.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Tools/Network_Monitor",
       "sort_num": 61,
       "tag": "Developer"
@@ -169,7 +169,7 @@
       "created": "2019-10-16T20:29:07.083063+00:00",
       "id": 788169,
       "is_public": true,
-      "modified": "2019-10-22T13:06:18.417894+00:00",
+      "modified": "2019-11-26T12:39:37.527764+00:00",
       "note": "Various [security fixes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/mfsa2019-34/",
       "sort_num": 55,
       "tag": "Fixed"
@@ -179,7 +179,7 @@
       "created": "2019-10-28T22:13:14.563017+00:00",
       "id": 788191,
       "is_public": true,
-      "modified": "2019-10-28T22:13:14.562785+00:00",
+      "modified": "2019-11-26T12:39:31.400501+00:00",
       "note": "Some websites or page elements using dynamic JavaScript fail to load. [This can be fixed with a temporary workaround][1].\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/some-pages-or-page-elements-fail-load-after-updating",
       "sort_num": 1,
       "tag": "Known"
@@ -189,7 +189,7 @@
       "created": "2019-11-14T17:40:16.884916+00:00",
       "id": 788200,
       "is_public": true,
-      "modified": "2019-11-14T17:40:16.884683+00:00",
+      "modified": "2019-11-26T12:39:40.112380+00:00",
       "note": "Keyboard navigation does not work correctly under macOS 10.15",
       "sort_num": 0,
       "tag": "Known"
