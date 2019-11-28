@@ -48,6 +48,26 @@
     },
     {
       "bug": null,
+      "created": "2019-11-28T12:23:24.420824+00:00",
+      "id": 788211,
+      "is_public": true,
+      "modified": "2019-11-28T12:23:24.420632+00:00",
+      "note": "Extension popup windows now include the extension name instead of its moz-extension:// url when using the [windows.create][1] API\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Mozilla/Add-ons/WebExtensions/API/windows/create",
+      "sort_num": 0,
+      "tag": ""
+    },
+    {
+      "bug": null,
+      "created": "2019-11-28T12:25:50.215561+00:00",
+      "id": 788215,
+      "is_public": true,
+      "modified": "2019-11-28T12:25:50.215131+00:00",
+      "note": "Configuration page (about:config) reimplemented in HTML",
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
+      "bug": null,
       "created": "2019-11-28T12:20:36.006865+00:00",
       "id": 788207,
       "is_public": true,
@@ -55,6 +75,56 @@
       "note": "Added support for developers, including:\r\n- DevTools\u2019 Network panel can now [inspect WebSocket messages][1] and automatically formats a variety of framework formats\r\n- Console\u2019s new [multi-line editor mode][2] provides an IDE-like experience that makes it convenient to iterate on longer code snippets\r\n- The Network panel\u2019s new [resource blocking][3] can simulate the impact of tracking protection, security, service outages, and bad connectivity for more robust testing\r\n- More features and improvements can be found every release in DevTools\u2019 \u201cWhat\u2019s New\u201d panel in en-US\r\n\r\n\r\n  [1]: https://hacks.mozilla.org/2019/10/firefoxs-new-websocket-inspector/\r\n  [2]: https://developer.mozilla.org/en-US/docs/Tools/Web_Console/The_command_line_interpreter#Multi-line_mode\r\n  [3]: https://developer.mozilla.org/docs/Tools/Network_Monitor/request_list#Blocking_specific_URLs",
       "sort_num": 0,
       "tag": "Developer"
+    },
+    {
+      "bug": null,
+      "created": "2019-11-28T12:21:31.928094+00:00",
+      "id": 788208,
+      "is_public": true,
+      "modified": "2019-11-28T12:21:31.927851+00:00",
+      "note": "New videos every week on the [Mozilla Developer YouTube channel][1]  \r\n\r\n\r\n  [1]: http://youtube.com/MozillaDeveloper",
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
+      "bug": null,
+      "created": "2019-11-28T12:21:58.751544+00:00",
+      "id": 788209,
+      "is_public": true,
+      "modified": "2019-11-28T12:21:58.751301+00:00",
+      "note": "Improvements to the website certificate viewer, with more features and more detailed information",
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
+      "bug": null,
+      "created": "2019-11-28T12:23:40.144838+00:00",
+      "id": 788212,
+      "is_public": true,
+      "modified": "2019-11-28T12:23:40.144583+00:00",
+      "note": "Extension-registered devtools panels now interact better with screen readers",
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
+      "bug": null,
+      "created": "2019-11-28T12:24:22.110252+00:00",
+      "id": 788213,
+      "is_public": true,
+      "modified": "2019-11-28T12:24:22.110057+00:00",
+      "note": "New [kiosk mode][1] functionality, which allows maximum screen space for customer-facing displays\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/firefox-enterprise-kiosk-mode",
+      "sort_num": 0,
+      "tag": "Enterprise"
+    },
+    {
+      "bug": null,
+      "created": "2019-11-28T12:25:04.105299+00:00",
+      "id": 788214,
+      "is_public": true,
+      "modified": "2019-11-28T12:25:27.471533+00:00",
+      "note": "Various [security fixes][1].\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
