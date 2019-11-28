@@ -11,8 +11,8 @@
       "created": "2019-11-28T12:11:27.969397+00:00",
       "id": 788203,
       "is_public": true,
-      "modified": "2019-11-28T12:11:27.969206+00:00",
-      "note": "Improvements to Lockwise, our integrated password manager:\r\n- Firefox now recognizes subdomains and will autofill domain logins from Lockwise \r\n- [Integrated breach alerts][1] from Firefox Monitor are now available to users with screen readers\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/firefox-lockwise-alerte-fuites-donnees-stes-web",
+      "modified": "2019-11-28T12:52:59.759666+00:00",
+      "note": "Improvements to Lockwise, our integrated password manager:\r\n\r\n- Firefox now recognizes subdomains and will autofill domain logins from Lockwise \r\n- [Integrated breach alerts][1] from Firefox Monitor are now available to users with screen readers\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/firefox-lockwise-alerte-fuites-donnees-stes-web",
       "sort_num": 0,
       "tag": "New"
     },
@@ -21,8 +21,8 @@
       "created": "2019-11-28T12:13:05.995895+00:00",
       "id": 788204,
       "is_public": true,
-      "modified": "2019-11-28T12:13:05.995703+00:00",
-      "note": "More information about Enhanced Tracking Protection in action:\r\n - Notifications when Firefox blocks cryptominers\r\n - A running tally of blocked trackers in the protection panel accessed by clicking the address bar shield",
+      "modified": "2019-11-28T12:53:22.656813+00:00",
+      "note": "More information about Enhanced Tracking Protection in action:\r\n\r\n - Notifications when Firefox blocks cryptominers\r\n - A running tally of blocked trackers in the protection panel accessed by clicking the address bar shield",
       "sort_num": 0,
       "tag": "New"
     },
@@ -81,8 +81,8 @@
       "created": "2019-11-28T12:20:36.006865+00:00",
       "id": 788207,
       "is_public": true,
-      "modified": "2019-11-28T12:20:47.483670+00:00",
-      "note": "Added support for developers, including:\r\n- DevTools\u2019 Network panel can now [inspect WebSocket messages][1] and automatically formats a variety of framework formats\r\n- Console\u2019s new [multi-line editor mode][2] provides an IDE-like experience that makes it convenient to iterate on longer code snippets\r\n- The Network panel\u2019s new [resource blocking][3] can simulate the impact of tracking protection, security, service outages, and bad connectivity for more robust testing\r\n- More features and improvements can be found every release in DevTools\u2019 \u201cWhat\u2019s New\u201d panel in en-US\r\n\r\n\r\n  [1]: https://hacks.mozilla.org/2019/10/firefoxs-new-websocket-inspector/\r\n  [2]: https://developer.mozilla.org/en-US/docs/Tools/Web_Console/The_command_line_interpreter#Multi-line_mode\r\n  [3]: https://developer.mozilla.org/docs/Tools/Network_Monitor/request_list#Blocking_specific_URLs",
+      "modified": "2019-11-28T12:52:48.397797+00:00",
+      "note": "Added support for developers, including:\r\n\r\n- DevTools\u2019 Network panel can now [inspect WebSocket messages][1] and automatically formats a variety of framework formats\r\n- Console\u2019s new [multi-line editor mode][2] provides an IDE-like experience that makes it convenient to iterate on longer code snippets\r\n- The Network panel\u2019s new [resource blocking][3] can simulate the impact of tracking protection, security, service outages, and bad connectivity for more robust testing\r\n- More features and improvements can be found every release in DevTools\u2019 \u201cWhat\u2019s New\u201d panel in en-US\r\n\r\n\r\n  [1]: https://hacks.mozilla.org/2019/10/firefoxs-new-websocket-inspector/\r\n  [2]: https://developer.mozilla.org/en-US/docs/Tools/Web_Console/The_command_line_interpreter#Multi-line_mode\r\n  [3]: https://developer.mozilla.org/docs/Tools/Network_Monitor/request_list#Blocking_specific_URLs",
       "sort_num": 0,
       "tag": "Developer"
     },
