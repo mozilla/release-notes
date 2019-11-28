@@ -8,13 +8,23 @@
   "notes": [
     {
       "bug": null,
-      "created": "2019-10-16T14:42:17.085859+00:00",
-      "id": 788157,
+      "created": "2019-11-28T12:08:01.348713+00:00",
+      "id": 788202,
       "is_public": true,
-      "modified": "2019-11-28T12:04:30.116210+00:00",
-      "note": "Various [security fixes][0]\r\n\r\n[0]: https://www.mozilla.org/security/advisories/mfsa2019-33/",
+      "modified": "2019-11-28T12:08:01.348463+00:00",
+      "note": "Various [security fixes][0]\r\n\r\n[0]: https://www.mozilla.org/security/advisories/",
       "sort_num": 0,
-      "tag": "Fixed"
+      "tag": ""
+    },
+    {
+      "bug": null,
+      "created": "2019-11-28T12:06:52.151543+00:00",
+      "id": 788201,
+      "is_public": true,
+      "modified": "2019-11-28T12:06:52.151227+00:00",
+      "note": "Updates to improve performance and stability",
+      "sort_num": 0,
+      "tag": "Changed"
     }
   ],
   "product": "Firefox Extended Support Release",
