@@ -5,7 +5,18 @@
   "created": "2019-11-29T17:51:20.648870+00:00",
   "is_public": false,
   "modified": "2019-11-29T17:51:59.204177+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": null,
+      "created": "2019-11-28T12:08:01.348713+00:00",
+      "id": 788202,
+      "is_public": true,
+      "modified": "2019-12-02T09:41:28.786573+00:00",
+      "note": "Various [security fixes][0]\r\n\r\n[0]: https://www.mozilla.org/security/advisories/",
+      "sort_num": 0,
+      "tag": ""
+    }
+  ],
   "product": "Firefox for Android",
   "release_date": "2019-12-03",
   "slug": "firefox-for-android-68.3.0-release",
