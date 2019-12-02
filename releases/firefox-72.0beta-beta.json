@@ -1,0 +1,57 @@
+{
+  "bug_list": "",
+  "bug_search_url": "",
+  "channel": "Beta",
+  "created": "2019-12-02T10:26:33.162031+00:00",
+  "is_public": false,
+  "modified": "2019-12-02T10:26:52.346111+00:00",
+  "notes": [
+    {
+      "bug": 1598455,
+      "created": "2019-12-02T10:28:22.326248+00:00",
+      "id": 788217,
+      "is_public": true,
+      "modified": "2019-12-02T10:28:22.326058+00:00",
+      "note": "Picture-in-picture video is now also available on macOS and Linux",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1592968,
+      "created": "2019-12-02T10:29:11.410620+00:00",
+      "id": 788219,
+      "is_public": true,
+      "modified": "2019-12-02T10:29:11.410423+00:00",
+      "note": "Users of Windows 10 versions before 1903 will see a Firefox shortcut placed on their taskbar. The shortcut can be unpinned and won\u2019t be added again.",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1593644,
+      "created": "2019-12-02T10:30:28.151200+00:00",
+      "id": 788220,
+      "is_public": true,
+      "modified": "2019-12-02T10:30:28.151010+00:00",
+      "note": "[Prompts for notification permissions][0] are only displayed for websites the user has interacted with\r\n\r\n[0]: https://blog.mozilla.org/futurereleases/2019/11/04/restricting-notification-permission-prompts-in-firefox/",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1597541,
+      "created": "2019-12-02T10:28:47.981337+00:00",
+      "id": 788218,
+      "is_public": true,
+      "modified": "2019-12-02T10:28:47.981135+00:00",
+      "note": "Support for blocking images from individual domains has been removed from Firefox, because of low usage and poor user experience. Content Blocker extensions like uMatrix are a much better alternative for addressing this use case.",
+      "sort_num": 0,
+      "tag": "Changed"
+    }
+  ],
+  "product": "Firefox",
+  "release_date": "2019-12-03",
+  "slug": "firefox-72.0beta-beta",
+  "system_requirements": "## Windows\r\n\r\n### Operating Systems (32-bit and 64-bit)\r\n - Windows 7\r\n - Windows 8\r\n - Windows 10\r\n\r\n### Recommended Hardware\r\n-  Pentium 4 or newer processor that supports SSE2\r\n-  512MB of RAM / 2GB of RAM for the 64-bit version\r\n-  200MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- macOS 10.9\r\n- macOS 10.10\r\n- macOS 10.11\r\n- macOS 10.12\r\n- macOS 10.13\r\n- macOS 10.14\r\n- macOS 10.15\r\n\r\n### Recommended Hardware\r\n- Macintosh computer with an Intel x86 processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - GTK+ 3.4 or higher\r\n    - GLib 2.22 or higher\r\n    - Pango 1.22 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n    - libstdc++ 4.6.1 or higher\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - NetworkManager 0.7 or higher\r\n    - DBus 1.0 or higher\r\n    - GNOME 2.16 or higher\r\n    - PulseAudio",
+  "text": "",
+  "title": "Firefox 72.0beta Beta",
+  "version": "72.0beta"
+}
