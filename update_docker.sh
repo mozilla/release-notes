@@ -17,15 +17,11 @@ fi
 
 docker run -u $(id -u) --rm -v "$PWD:/app" "$IMAGE_NAME"
 
-# UPDATE_FILE is an indicator we can use in Jenkins
-# to run other jobs if there was, in fact, an update
-rm -f "$UPDATE_FILE"
-
 if [[ "$1" == "commit" ]]; then
     if git status --porcelain | grep -E "\.json$"; then
         git add ./releases/
         git commit -m "Update release data"
-        git rev-parse HEAD > "$UPDATE_FILE"
+        git push
         echo "Release data update committed"
     else
         echo "No new release updates"

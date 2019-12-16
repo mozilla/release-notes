@@ -1,0 +1,8 @@
+update:
+  only:
+    - master
+    - gitlab
+  tags:
+    - oregon-b-shell
+  script:
+    - ./update_docker.sh commit
