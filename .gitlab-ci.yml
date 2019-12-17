@@ -1,7 +1,6 @@
 update:
   only:
-    - master
-    - gitlab
+    - triggers
   tags:
     - oregon-b-shell
   script:
