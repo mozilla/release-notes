@@ -21,7 +21,7 @@ if [[ "$1" == "commit" ]]; then
     if git status --porcelain | grep -E "\.json$"; then
         git add ./releases/
         git commit -m "Update release data"
-        git push git@github.com:mozilla/release-notes.git
+        git push git@github.com:mozilla/release-notes.git HEAD:master
         echo "Release data update committed"
     else
         echo "No new release updates"
