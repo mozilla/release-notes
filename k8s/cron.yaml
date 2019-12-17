@@ -18,7 +18,7 @@ spec:
             - -F
             - token=$(TOKEN)
             - -F
-            - ref=gitlab
+            - ref=master
             - https://gitlab.com/api/v4/projects/15905702/trigger/pipeline
             env:
             - name: TOKEN
