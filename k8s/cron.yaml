@@ -1,0 +1,29 @@
+apiVersion: batch/v1beta1
+kind: CronJob
+metadata:
+  name: trigger-update
+  namespace: release-notes
+spec:
+  schedule: "*/5 * * * *"
+  jobTemplate:
+    spec:
+      template:
+        spec:
+          containers:
+          - name: curl
+            image: curlimages/curl
+            args:
+            - -X
+            - POST
+            - -F
+            - token=$(TOKEN)
+            - -F
+            - ref=gitlab
+            - https://gitlab.com/api/v4/projects/15905702/trigger/pipeline
+            env:
+            - name: TOKEN
+              valueFrom:
+                secretKeyRef:
+                  key: token
+                  name: release-notes-secrets
+          restartPolicy: OnFailure
