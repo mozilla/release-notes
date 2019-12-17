@@ -13,8 +13,6 @@ spec:
           - name: curl
             image: curlimages/curl
             args:
-            - -X
-            - POST
             - -F
             - token=$(TOKEN)
             - -F
