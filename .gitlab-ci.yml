@@ -2,6 +2,7 @@ update:
   only:
     - triggers
   tags:
-    - oregon-b-shell
+    - meao
+    - aws
   script:
     - ./update_docker.sh commit
