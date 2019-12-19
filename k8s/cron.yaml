@@ -4,7 +4,7 @@ metadata:
   name: trigger-update
   namespace: release-notes
 spec:
-  schedule: "*/5 * * * *"
+  schedule: "*/15 * * * *"
   jobTemplate:
     spec:
       template:
