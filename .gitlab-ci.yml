@@ -5,3 +5,16 @@ update:
     - oregon-b-shell
   script:
     - ./update_docker.sh commit
+
+apply:
+  tags:
+    - iowa-c
+  only:
+    changes:
+      - "k8s/*"
+    refs:
+      - master
+  variables:
+    KUBECONFIG: /home/gitlab-runner/.kube/iowa-a.kubeconfig
+  script:
+    - kubectl apply -f k8s
