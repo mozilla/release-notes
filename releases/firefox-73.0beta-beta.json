@@ -5,48 +5,7 @@
   "created": "2020-01-02T21:58:03.577130+00:00",
   "is_public": false,
   "modified": "2020-01-02T21:58:25.852142+00:00",
-  "notes": [
-    {
-      "bug": 1598455,
-      "created": "2019-12-02T10:28:22.326248+00:00",
-      "id": 788217,
-      "is_public": true,
-      "modified": "2020-01-02T21:58:03.589847+00:00",
-      "note": "Picture-in-picture video is now also available on macOS and Linux",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
-      "bug": 1593644,
-      "created": "2019-12-02T10:30:28.151200+00:00",
-      "id": 788220,
-      "is_public": true,
-      "modified": "2020-01-02T21:58:03.589847+00:00",
-      "note": "[Prompts for notification permissions][0] are only displayed for websites the user has interacted with\r\n\r\n[0]: https://blog.mozilla.org/futurereleases/2019/11/04/restricting-notification-permission-prompts-in-firefox/",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
-      "bug": 1598493,
-      "created": "2019-12-02T10:32:13.063436+00:00",
-      "id": 788221,
-      "is_public": true,
-      "modified": "2020-01-02T21:58:03.589847+00:00",
-      "note": "Enhanced Tracking Protection in Standard mode blocks known fingerprinters",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
-      "bug": 1597541,
-      "created": "2019-12-02T10:28:47.981337+00:00",
-      "id": 788218,
-      "is_public": true,
-      "modified": "2020-01-02T21:58:03.589847+00:00",
-      "note": "Support for blocking images from individual domains has been removed from Firefox, because of low usage and poor user experience. Content Blocker extensions like uMatrix are a much better alternative for addressing this use case.",
-      "sort_num": 0,
-      "tag": "Changed"
-    }
-  ],
+  "notes": [],
   "product": "Firefox",
   "release_date": "2020-01-07",
   "slug": "firefox-73.0beta-beta",
