@@ -5,7 +5,48 @@
   "created": "2020-01-02T21:58:03.577130+00:00",
   "is_public": false,
   "modified": "2020-01-02T21:58:25.852142+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": 1588647,
+      "created": "2020-01-03T21:09:04.593176+00:00",
+      "id": 788231,
+      "is_public": true,
+      "modified": "2020-01-03T21:09:04.592949+00:00",
+      "note": "Added NextDNS as an alternative DNS over HTTPS provider.",
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
+      "bug": 770780,
+      "created": "2020-01-03T21:08:45.216827+00:00",
+      "id": 788230,
+      "is_public": true,
+      "modified": "2020-01-03T21:08:45.216510+00:00",
+      "note": "Firefox now supports the \"text-underline-position\" CSS property, which improves text underline for non-Latin based languages such as Japanese.",
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 1551276,
+      "created": "2020-01-03T21:09:26.974943+00:00",
+      "id": 788232,
+      "is_public": true,
+      "modified": "2020-01-03T21:09:26.974671+00:00",
+      "note": "Improvements in auto-detection of character encoding for websites which don\u2019t explicitly specify one.",
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 1590485,
+      "created": "2020-01-03T21:08:21.243720+00:00",
+      "id": 788229,
+      "is_public": true,
+      "modified": "2020-01-03T21:08:21.243476+00:00",
+      "note": "Added support for setting a default zoom level which applies globally for all pages.",
+      "sort_num": 0,
+      "tag": "Feature"
+    }
+  ],
   "product": "Firefox",
   "release_date": "2020-01-07",
   "slug": "firefox-73.0beta-beta",
