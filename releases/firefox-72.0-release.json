@@ -7,13 +7,13 @@
   "modified": "2020-01-03T08:58:22.379372+00:00",
   "notes": [
     {
-      "bug": 1598455,
-      "created": "2019-12-02T10:28:22.326248+00:00",
-      "id": 788217,
+      "bug": 1598493,
+      "created": "2019-12-02T10:32:13.063436+00:00",
+      "id": 788221,
       "is_public": true,
-      "modified": "2020-01-03T08:56:40.312238+00:00",
-      "note": "Picture-in-picture video is now also available on macOS and Linux",
-      "sort_num": 0,
+      "modified": "2020-01-03T09:00:59.588795+00:00",
+      "note": "Firefox\u2019s [Enhanced Tracking Protection][0] marks a major new milestone in our battle against cross-site tracking: we now block fingerprinting scripts by default for all users, taking a new bold step in the fight for our users\u2019 privacy.\r\n\r\n[0]: https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop",
+      "sort_num": 1000,
       "tag": "New"
     },
     {
@@ -21,19 +21,19 @@
       "created": "2019-12-02T10:30:28.151200+00:00",
       "id": 788220,
       "is_public": true,
-      "modified": "2020-01-03T08:56:40.312238+00:00",
-      "note": "[Prompts for notification permissions][0] are only displayed for websites the user has interacted with\r\n\r\n[0]: https://blog.mozilla.org/futurereleases/2019/11/04/restricting-notification-permission-prompts-in-firefox/",
-      "sort_num": 0,
+      "modified": "2020-01-03T09:06:30.143238+00:00",
+      "note": "Firefox replaces annoying [notification][1] request pop-ups with a more delightful experience, by default for all users. The pop-ups no longer interrupt your browsing, in its place, a speech bubble will appear in the address bar when you interact with the site.\r\n\r\n[0]: https://blog.mozilla.org/futurereleases/2019/11/04/restricting-notification-permission-prompts-in-firefox/\r\n[1]: https://support.mozilla.org/kb/push-notifications-firefox",
+      "sort_num": 800,
       "tag": "New"
     },
     {
-      "bug": 1598493,
-      "created": "2019-12-02T10:32:13.063436+00:00",
-      "id": 788221,
+      "bug": 1598455,
+      "created": "2019-12-02T10:28:22.326248+00:00",
+      "id": 788217,
       "is_public": true,
-      "modified": "2020-01-03T08:56:40.312238+00:00",
-      "note": "Enhanced Tracking Protection in Standard mode blocks known fingerprinters",
-      "sort_num": 0,
+      "modified": "2020-01-03T09:07:14.872112+00:00",
+      "note": "Picture-in-picture video expands in Firefox for Mac and Linux: Select the blue icon from the right edge of a video to pop open a floating window so you can keep watching while working in other tabs or apps. [Learn how][0] the feature works.\r\n\r\n[0]: https://support.mozilla.org/kb/about-picture-picture-firefox",
+      "sort_num": 600,
       "tag": "New"
     },
     {
