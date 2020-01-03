@@ -41,10 +41,20 @@
       "created": "2019-12-02T10:28:47.981337+00:00",
       "id": 788218,
       "is_public": true,
-      "modified": "2020-01-03T08:56:40.312238+00:00",
-      "note": "Support for blocking images from individual domains has been removed from Firefox, because of low usage and poor user experience. Content Blocker extensions like uMatrix are a much better alternative for addressing this use case.",
+      "modified": "2020-01-03T09:55:19.680303+00:00",
+      "note": "Support for blocking images from individual domains has been removed from Firefox, because of low usage and poor user experience.",
       "sort_num": 0,
       "tag": "Changed"
+    },
+    {
+      "bug": null,
+      "created": "2020-01-03T09:58:12.610304+00:00",
+      "id": 788225,
+      "is_public": true,
+      "modified": "2020-01-03T09:58:12.610109+00:00",
+      "note": "Added support for using enterprise certificates from Windows storage.",
+      "sort_num": 0,
+      "tag": "Enterprise"
     }
   ],
   "product": "Firefox",
