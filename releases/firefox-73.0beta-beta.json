@@ -7,6 +7,16 @@
   "modified": "2020-01-02T21:58:25.852142+00:00",
   "notes": [
     {
+      "bug": 1590485,
+      "created": "2020-01-03T21:08:21.243720+00:00",
+      "id": 788229,
+      "is_public": true,
+      "modified": "2020-01-03T21:36:27.875651+00:00",
+      "note": "Added support for setting a default zoom level which applies globally for all pages.",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1588647,
       "created": "2020-01-03T21:09:04.593176+00:00",
       "id": 788231,
@@ -35,16 +45,6 @@
       "note": "Improvements in auto-detection of character encoding for websites which don\u2019t explicitly specify one.",
       "sort_num": 0,
       "tag": "HTML5"
-    },
-    {
-      "bug": 1590485,
-      "created": "2020-01-03T21:08:21.243720+00:00",
-      "id": 788229,
-      "is_public": true,
-      "modified": "2020-01-03T21:08:21.243476+00:00",
-      "note": "Added support for setting a default zoom level which applies globally for all pages.",
-      "sort_num": 0,
-      "tag": "Feature"
     }
   ],
   "product": "Firefox",
