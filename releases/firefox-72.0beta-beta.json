@@ -47,11 +47,21 @@
       "tag": "Changed"
     },
     {
-      "bug": null,
+      "bug": 1592720,
+      "created": "2020-01-03T10:12:07.419745+00:00",
+      "id": 788226,
+      "is_public": true,
+      "modified": "2020-01-03T10:12:07.419551+00:00",
+      "note": "[Debugger Watchpoints][0] let developers observe object property access and writes for easier to track data flow through an application.\r\n\r\n[0]: https://hacks.mozilla.org/2019/12/debugging-variables-with-watchpoints-in-firefox-72/",
+      "sort_num": 100,
+      "tag": "Developer"
+    },
+    {
+      "bug": 1592111,
       "created": "2020-01-03T09:58:12.610304+00:00",
       "id": 788225,
       "is_public": true,
-      "modified": "2020-01-03T09:58:12.610109+00:00",
+      "modified": "2020-01-03T10:03:59.938136+00:00",
       "note": "Added support for using enterprise certificates from Windows storage.",
       "sort_num": 0,
       "tag": "Enterprise"

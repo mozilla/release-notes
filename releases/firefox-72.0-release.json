@@ -47,14 +47,44 @@
       "tag": "Changed"
     },
     {
-      "bug": null,
+      "bug": 1592720,
+      "created": "2020-01-03T10:12:07.419745+00:00",
+      "id": 788226,
+      "is_public": true,
+      "modified": "2020-01-03T10:12:07.419551+00:00",
+      "note": "[Debugger Watchpoints][0] let developers observe object property access and writes for easier to track data flow through an application.\r\n\r\n[0]: https://hacks.mozilla.org/2019/12/debugging-variables-with-watchpoints-in-firefox-72/",
+      "sort_num": 100,
+      "tag": "Developer"
+    },
+    {
+      "bug": 1521934,
+      "created": "2020-01-03T10:16:10.342968+00:00",
+      "id": 788227,
+      "is_public": true,
+      "modified": "2020-01-03T10:16:10.342771+00:00",
+      "note": "Firefox now supports simulation of `<meta viewport>` in Responsive Design Mode.",
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
+      "bug": 1592111,
       "created": "2020-01-03T09:58:12.610304+00:00",
       "id": 788225,
       "is_public": true,
-      "modified": "2020-01-03T09:58:12.610109+00:00",
+      "modified": "2020-01-03T10:03:59.938136+00:00",
       "note": "Added support for using enterprise certificates from Windows storage.",
       "sort_num": 0,
       "tag": "Enterprise"
+    },
+    {
+      "bug": null,
+      "created": "2020-01-03T10:18:31.474680+00:00",
+      "id": 788228,
+      "is_public": true,
+      "modified": "2020-01-03T10:18:31.474483+00:00",
+      "note": "Various [security fixes][0]\r\n\r\n[0]: https://www.mozilla.org/security/known-vulnerabilities/firefox/#firefox72",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
