@@ -35,6 +35,16 @@
       "note": "Improved auto-detection of legacy text encodings on old web pages which don\u2019t explicitly declare the text encoding.",
       "sort_num": 0,
       "tag": "HTML5"
+    },
+    {
+      "bug": 1427267,
+      "created": "2020-01-06T20:21:37.195723+00:00",
+      "id": 788233,
+      "is_public": true,
+      "modified": "2020-01-06T20:21:37.195527+00:00",
+      "note": "Improved audio quality when playing back audio at a faster or slower speed.",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
