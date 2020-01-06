@@ -21,8 +21,8 @@
       "created": "2019-12-02T10:30:28.151200+00:00",
       "id": 788220,
       "is_public": true,
-      "modified": "2020-01-03T09:06:30.143238+00:00",
-      "note": "Firefox replaces annoying [notification][1] request pop-ups with a more delightful experience, by default for all users. The pop-ups no longer interrupt your browsing, in its place, a speech bubble will appear in the address bar when you interact with the site.\r\n\r\n[0]: https://blog.mozilla.org/futurereleases/2019/11/04/restricting-notification-permission-prompts-in-firefox/\r\n[1]: https://support.mozilla.org/kb/push-notifications-firefox",
+      "modified": "2020-01-06T14:58:45.221097+00:00",
+      "note": "Firefox replaces annoying [notification request pop-ups][0] with a more delightful experience, by default for all users. The pop-ups no longer interrupt your browsing, in its place, a speech bubble will appear in the address bar when you interact with the site.\r\n\r\n[0]:  https://blog.mozilla.org/firefox/block-notification-requests/",
       "sort_num": 800,
       "tag": "New"
     },
@@ -31,8 +31,8 @@
       "created": "2019-12-02T10:28:22.326248+00:00",
       "id": 788217,
       "is_public": true,
-      "modified": "2020-01-03T09:07:14.872112+00:00",
-      "note": "Picture-in-picture video expands in Firefox for Mac and Linux: Select the blue icon from the right edge of a video to pop open a floating window so you can keep watching while working in other tabs or apps. [Learn how][0] the feature works.\r\n\r\n[0]: https://support.mozilla.org/kb/about-picture-picture-firefox",
+      "modified": "2020-01-06T14:59:16.827947+00:00",
+      "note": "Picture-in-picture video is now also available in Firefox for Mac and Linux: Select the blue icon from the right edge of a video to pop open a floating window so you can keep watching while working in other tabs or apps. [Learn how][0] the feature works.\r\n\r\n[0]: https://support.mozilla.org/kb/about-picture-picture-firefox",
       "sort_num": 600,
       "tag": "New"
     },
@@ -71,8 +71,8 @@
       "created": "2020-01-03T09:58:12.610304+00:00",
       "id": 788225,
       "is_public": true,
-      "modified": "2020-01-03T10:03:59.938136+00:00",
-      "note": "Added support for using enterprise certificates from Windows storage.",
+      "modified": "2020-01-06T14:47:01.279308+00:00",
+      "note": "Experimental support for using client certificates from the OS certificate store can be enabled by setting the preference `security.osclientcerts.autoload` to true (Windows only).",
       "sort_num": 0,
       "tag": "Enterprise"
     },

@@ -21,8 +21,8 @@
       "created": "2020-01-03T21:09:04.593176+00:00",
       "id": 788231,
       "is_public": true,
-      "modified": "2020-01-03T21:09:04.592949+00:00",
-      "note": "Added NextDNS as an alternative DNS over HTTPS provider.",
+      "modified": "2020-01-06T14:50:17.262632+00:00",
+      "note": "In addition to Cloudflare (which remains the default when DNS over HTTPS is enabled) and custom DNS over HTTPS provider options, users now have the option of selecting [NextDNS as the Firefox DNS over HTTPS resolver][1] via the Network Settings dialog in Preferences.\r\n\r\n\r\n  [1]: https://blog.mozilla.org/blog/2019/12/17/firefox-announces-new-partner-in-delivering-private-and-secure-dns-services-to-users/",
       "sort_num": 0,
       "tag": "Changed"
     },
@@ -31,8 +31,8 @@
       "created": "2020-01-03T21:09:26.974943+00:00",
       "id": 788232,
       "is_public": true,
-      "modified": "2020-01-03T21:09:26.974671+00:00",
-      "note": "Improvements in auto-detection of character encoding for websites which don\u2019t explicitly specify one.",
+      "modified": "2020-01-06T14:52:35.426322+00:00",
+      "note": "Improved auto-detection of legacy text encodings on old web pages which don\u2019t explicitly declare the text encoding.",
       "sort_num": 0,
       "tag": "HTML5"
     }
