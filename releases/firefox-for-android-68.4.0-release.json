@@ -3,16 +3,16 @@
   "bug_search_url": "",
   "channel": "Release",
   "created": "2019-12-31T13:27:13.666757+00:00",
-  "is_public": false,
-  "modified": "2019-12-31T13:27:40.853781+00:00",
+  "is_public": true,
+  "modified": "2020-01-07T13:41:40.262032+00:00",
   "notes": [
     {
       "bug": null,
       "created": "2019-12-31T13:27:54.968311+00:00",
       "id": 788223,
       "is_public": true,
-      "modified": "2019-12-31T13:29:18.601400+00:00",
-      "note": "Various [security fixes][0]\r\n\r\n[0]: https://www.mozilla.org/security/advisories/mfsa2019-XX/",
+      "modified": "2020-01-07T13:35:19.932126+00:00",
+      "note": "Various [security fixes][0]\r\n\r\n[0]: https://www.mozilla.org/security/advisories/mfsa2020-02/",
       "sort_num": 0,
       "tag": "Fixed"
     }
