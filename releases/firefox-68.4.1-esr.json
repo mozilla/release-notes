@@ -5,7 +5,28 @@
   "created": "2020-01-08T09:13:58.405438+00:00",
   "is_public": false,
   "modified": "2020-01-08T09:14:35.578185+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": null,
+      "created": "2020-01-08T12:17:16.672539+00:00",
+      "id": 788236,
+      "is_public": true,
+      "modified": "2020-01-08T12:17:16.672314+00:00",
+      "note": "Reference link to [68.4.0 release notes][0]\r\n\r\n[0]: https://www.mozilla.org/firefox/68.4.0/releasenotes/",
+      "sort_num": 0,
+      "tag": ""
+    },
+    {
+      "bug": null,
+      "created": "2020-01-08T12:13:21.896217+00:00",
+      "id": 788234,
+      "is_public": true,
+      "modified": "2020-01-08T12:15:19.532223+00:00",
+      "note": "[Security fix][0]\r\n\r\n[0]: https://www.mozilla.org/security/known-vulnerabilities/firefox/#firefox72.0.1",
+      "sort_num": 0,
+      "tag": "Fixed"
+    }
+  ],
   "product": "Firefox Extended Support Release",
   "release_date": "2020-01-08",
   "slug": "firefox-68.4.1-esr",
