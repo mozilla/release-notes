@@ -4,8 +4,28 @@
   "channel": "Nightly",
   "created": "2020-01-06T21:31:08.272917+00:00",
   "is_public": true,
-  "modified": "2020-01-07T13:41:55.081054+00:00",
+  "modified": "2020-01-13T19:10:25.345272+00:00",
   "notes": [
+    {
+      "bug": 1605491,
+      "created": "2020-01-13T19:09:56.571635+00:00",
+      "id": 788241,
+      "is_public": true,
+      "modified": "2020-01-13T19:09:56.571405+00:00",
+      "note": "Firefox users can now import profile data from Edgium on Windows and Mac",
+      "sort_num": 85,
+      "tag": "New"
+    },
+    {
+      "bug": 1592016,
+      "created": "2020-01-13T19:07:43.654388+00:00",
+      "id": 788240,
+      "is_public": true,
+      "modified": "2020-01-13T19:07:43.654149+00:00",
+      "note": "The OS compositor has been enabled for macOS when WebRender is enabled",
+      "sort_num": 80,
+      "tag": "Changed"
+    },
     {
       "bug": 1607443,
       "created": "2020-01-10T18:32:28.129305+00:00",
