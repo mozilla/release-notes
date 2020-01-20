@@ -55,6 +55,16 @@
       "note": "Fixed a web compatibility issue with CSS Shadow Parts which shipped in Firefox 72 ([bug 1604989][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1604989",
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": 1608485,
+      "created": "2020-01-20T15:17:01.569160+00:00",
+      "id": 788249,
+      "is_public": true,
+      "modified": "2020-01-20T15:17:01.568880+00:00",
+      "note": "Fixed inconsistent playback performance for fullscreen 1080p videos on some systems ([bug 1608485][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1608485",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
