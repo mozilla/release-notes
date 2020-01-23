@@ -25,7 +25,7 @@ def get_request_headers():
 def get_release_data():
     etag = None
     headers = get_request_headers()
-    resp = requests.get(RELEASES_URL, headers=headers, timeout=10)
+    resp = requests.get(RELEASES_URL, headers=headers, timeout=30)
     resp.raise_for_status()
     if resp.status_code == 304:
         # no updates, etags match
