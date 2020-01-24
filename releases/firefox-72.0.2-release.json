@@ -37,16 +37,6 @@
       "tag": "Fixed"
     },
     {
-      "bug": 1606992,
-      "created": "2020-01-20T15:10:43.747506+00:00",
-      "id": 788247,
-      "is_public": true,
-      "modified": "2020-01-20T15:10:43.747212+00:00",
-      "note": "Fixed a hang opening about:logins when a master password is set ([bug 1606992)][1]\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1606992",
-      "sort_num": 0,
-      "tag": "Fixed"
-    },
-    {
       "bug": 1604989,
       "created": "2020-01-20T15:14:11.385601+00:00",
       "id": 788248,
