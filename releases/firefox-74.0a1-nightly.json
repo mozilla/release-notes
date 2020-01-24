@@ -27,6 +27,16 @@
       "tag": "Changed"
     },
     {
+      "bug": 1609356,
+      "created": "2020-01-24T16:39:44.138290+00:00",
+      "id": 788251,
+      "is_public": true,
+      "modified": "2020-01-24T16:39:44.138086+00:00",
+      "note": "Service Workers and Web App Manifests are easier to inspect in the Developer Tools new Application panel, which also integrates into the newly landed Service Worker debugging capabilities.",
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
       "bug": 1607443,
       "created": "2020-01-10T18:32:28.129305+00:00",
       "id": 788239,
