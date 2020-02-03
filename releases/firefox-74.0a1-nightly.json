@@ -27,6 +27,16 @@
       "tag": "Changed"
     },
     {
+      "bug": null,
+      "created": "2020-02-03T13:07:18.742179+00:00",
+      "id": 788252,
+      "is_public": true,
+      "modified": "2020-02-03T13:07:18.741815+00:00",
+      "note": "On Windows, `Ctrl+I` can now be used to open the Page Info window instead of opening the Bookmarks sidebar. `Ctrl+B` still opens the Bookmarks sidebar.",
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
       "bug": 1609356,
       "created": "2020-01-24T16:39:44.138290+00:00",
       "id": 788251,
