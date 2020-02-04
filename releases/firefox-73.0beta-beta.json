@@ -17,6 +17,16 @@
       "tag": "New"
     },
     {
+      "bug": 1539212,
+      "created": "2020-02-04T20:01:20.714917+00:00",
+      "id": 788253,
+      "is_public": true,
+      "modified": "2020-02-04T20:01:20.714658+00:00",
+      "note": "High-contrast mode has been updated to allow background images. To maintain readability and ensure sufficient contrast, visible text in high-contrast mode will be backplated by the theme's background color.",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1588647,
       "created": "2020-01-03T21:09:04.593176+00:00",
       "id": 788231,
