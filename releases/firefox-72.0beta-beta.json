@@ -11,7 +11,7 @@
       "created": "2019-12-02T10:32:13.063436+00:00",
       "id": 788221,
       "is_public": true,
-      "modified": "2020-01-08T12:12:03.555145+00:00",
+      "modified": "2020-02-04T20:26:46.455246+00:00",
       "note": "Firefox\u2019s [Enhanced Tracking Protection][0] marks a major new milestone in our battle against cross-site tracking: we now block [fingerprinting scripts][1] by default for all users, taking a new bold step in the fight for our users\u2019 privacy.\r\n\r\n[0]: https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop\r\n[1]: https://blog.mozilla.org/firefox/how-to-block-fingerprinting-with-firefox/",
       "sort_num": 1000,
       "tag": "New"
@@ -21,7 +21,7 @@
       "created": "2019-12-02T10:30:28.151200+00:00",
       "id": 788220,
       "is_public": true,
-      "modified": "2020-01-08T12:12:04.319504+00:00",
+      "modified": "2020-02-04T20:26:47.744359+00:00",
       "note": "Firefox replaces annoying [notification request pop-ups][0] with a more delightful experience, by default for all users. The pop-ups no longer interrupt your browsing, in its place, a speech bubble will appear in the address bar when you interact with the site.\r\n\r\n[0]:  https://blog.mozilla.org/firefox/block-notification-requests/",
       "sort_num": 800,
       "tag": "New"
@@ -31,7 +31,7 @@
       "created": "2019-12-02T10:28:22.326248+00:00",
       "id": 788217,
       "is_public": true,
-      "modified": "2020-01-08T12:12:05.787925+00:00",
+      "modified": "2020-02-04T20:26:50.168686+00:00",
       "note": "Picture-in-picture video is now also available in Firefox for Mac and Linux: Select the blue icon from the right edge of a video to pop open a floating window so you can keep watching while working in other tabs or apps. [Learn how][0] the feature works.\r\n\r\n[0]: https://support.mozilla.org/kb/about-picture-picture-firefox",
       "sort_num": 600,
       "tag": "New"
@@ -41,7 +41,7 @@
       "created": "2019-12-02T10:28:47.981337+00:00",
       "id": 788218,
       "is_public": true,
-      "modified": "2020-01-08T12:12:04.981745+00:00",
+      "modified": "2020-02-04T20:26:49.056006+00:00",
       "note": "Support for blocking images from individual domains has been removed from Firefox, because of low usage and poor user experience.",
       "sort_num": 0,
       "tag": "Changed"
@@ -51,7 +51,7 @@
       "created": "2020-01-03T10:12:07.419745+00:00",
       "id": 788226,
       "is_public": true,
-      "modified": "2020-01-08T12:12:12.100614+00:00",
+      "modified": "2020-02-04T20:26:55.167943+00:00",
       "note": "[Debugger Watchpoints][0] let developers observe object property access and writes for easier to track data flow through an application.\r\n\r\n[0]: https://hacks.mozilla.org/2019/12/debugging-variables-with-watchpoints-in-firefox-72/",
       "sort_num": 100,
       "tag": "Developer"
@@ -61,7 +61,7 @@
       "created": "2020-01-03T09:58:12.610304+00:00",
       "id": 788225,
       "is_public": true,
-      "modified": "2020-01-08T12:12:13.470240+00:00",
+      "modified": "2020-02-04T20:26:56.241070+00:00",
       "note": "Experimental support for using client certificates from the OS certificate store can be enabled by setting the preference `security.osclientcerts.autoload` to true (Windows only).",
       "sort_num": 0,
       "tag": "Enterprise"
