@@ -1,10 +1,10 @@
 {
   "bug_list": "",
   "bug_search_url": "",
-  "channel": "Nightly",
-  "created": "2020-01-06T21:31:08.272917+00:00",
-  "is_public": true,
-  "modified": "2020-01-13T19:10:25.345272+00:00",
+  "channel": "Beta",
+  "created": "2020-02-10T09:22:50.681913+00:00",
+  "is_public": false,
+  "modified": "2020-02-10T09:23:19.861058+00:00",
   "notes": [
     {
       "bug": 1605491,
@@ -55,23 +55,13 @@
       "note": "Service Workers and Web App Manifests are easier to inspect in the Developer Tools new Application panel, which also integrates into the newly landed Service Worker debugging capabilities.",
       "sort_num": 0,
       "tag": "Developer"
-    },
-    {
-      "bug": 1607443,
-      "created": "2020-01-10T18:32:28.129305+00:00",
-      "id": 788239,
-      "is_public": true,
-      "modified": "2020-01-10T18:33:04.722260+00:00",
-      "note": "Fix for [MFSA 2020-03][1] included in 2020-01-08 builds and newer.\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/mfsa2020-03/",
-      "sort_num": 0,
-      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
-  "release_date": "2020-01-06",
-  "slug": "firefox-74.0a1-nightly",
+  "release_date": "2020-02-11",
+  "slug": "firefox-74.0beta-beta",
   "system_requirements": "## Windows\r\n\r\n### Operating Systems (32-bit and 64-bit)\r\n - Windows 7\r\n - Windows 8\r\n - Windows 10\r\n\r\n### Recommended Hardware\r\n-  Pentium 4 or newer processor that supports SSE2\r\n-  512MB of RAM / 2GB of RAM for the 64-bit version\r\n-  200MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- macOS 10.9\r\n- macOS 10.10\r\n- macOS 10.11\r\n- macOS 10.12\r\n- macOS 10.13\r\n- macOS 10.14\r\n- macOS 10.15\r\n\r\n### Recommended Hardware\r\n- Macintosh computer with an Intel x86 processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - GTK+ 3.4 or higher\r\n    - GLib 2.22 or higher\r\n    - Pango 1.22 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n    - libstdc++ 4.6.1 or higher\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - NetworkManager 0.7 or higher\r\n    - DBus 1.0 or higher\r\n    - GNOME 2.16 or higher\r\n    - PulseAudio",
-  "text": "Firefox Nightly gets updated every day and as a consequence, the release notes for the Nightly channel are updated continuously to reflect features that have reached sufficient maturity to benefit from community feedback and bug reports. \r\n\r\n**Warning: Features listed here may or may *not* make a final release of Firefox.**\r\n\r\nIn addition to these release notes, you can follow ongoing development on our [@FirefoxNightly][1] Twitter account as well as read our [Nightly Blog][2].\r\n\r\n[1]: https://twitter.com/FirefoxNightly\r\n[2]: https://blog.nightly.mozilla.org",
-  "title": "Firefox 74.0a1 Nightly",
-  "version": "74.0a1"
+  "text": "",
+  "title": "Firefox 74.0beta Beta",
+  "version": "74.0beta"
 }

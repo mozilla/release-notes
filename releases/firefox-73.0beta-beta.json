@@ -11,7 +11,7 @@
       "created": "2020-01-03T21:08:21.243720+00:00",
       "id": 788229,
       "is_public": true,
-      "modified": "2020-02-04T20:29:38.874698+00:00",
+      "modified": "2020-02-10T09:23:18.651210+00:00",
       "note": "Added support for setting a default zoom level applicable for all web content, regardless of site. This option is available in about:preferences under \"Language and Appearance\" and can be scaled up or down from 100% as needed.",
       "sort_num": 0,
       "tag": "New"
@@ -21,7 +21,7 @@
       "created": "2020-02-04T20:01:20.714917+00:00",
       "id": 788253,
       "is_public": true,
-      "modified": "2020-02-04T20:29:21.752970+00:00",
+      "modified": "2020-02-10T09:23:11.151556+00:00",
       "note": "High-contrast mode has been updated to allow background images. To maintain readability and ensure sufficient contrast, visible text in high-contrast mode will be backplated by the theme's background color.",
       "sort_num": 0,
       "tag": "New"
@@ -31,7 +31,7 @@
       "created": "2020-01-03T21:09:04.593176+00:00",
       "id": 788231,
       "is_public": true,
-      "modified": "2020-02-04T20:29:34.535242+00:00",
+      "modified": "2020-02-10T09:23:17.073335+00:00",
       "note": "In addition to Cloudflare (which remains the default when DNS over HTTPS is enabled) and custom DNS over HTTPS provider options, users now have the option of selecting [NextDNS as the Firefox DNS over HTTPS resolver][1] via the Network Settings dialog in Preferences.\r\n\r\n\r\n  [1]: https://blog.mozilla.org/blog/2019/12/17/firefox-announces-new-partner-in-delivering-private-and-secure-dns-services-to-users/",
       "sort_num": 0,
       "tag": "Changed"
@@ -41,7 +41,7 @@
       "created": "2020-01-03T21:09:26.974943+00:00",
       "id": 788232,
       "is_public": true,
-      "modified": "2020-02-04T20:29:30.220702+00:00",
+      "modified": "2020-02-10T09:23:15.735179+00:00",
       "note": "Improved auto-detection of legacy text encodings on old web pages which don\u2019t explicitly declare the text encoding.",
       "sort_num": 0,
       "tag": "HTML5"
@@ -51,7 +51,7 @@
       "created": "2020-01-06T20:21:37.195723+00:00",
       "id": 788233,
       "is_public": true,
-      "modified": "2020-02-04T20:29:25.871114+00:00",
+      "modified": "2020-02-10T09:23:14.857991+00:00",
       "note": "Improved audio quality when playing back audio at a faster or slower speed.",
       "sort_num": 0,
       "tag": "Fixed"
@@ -61,7 +61,7 @@
       "created": "2020-01-10T17:52:08.308390+00:00",
       "id": 788238,
       "is_public": true,
-      "modified": "2020-01-10T18:32:28.325072+00:00",
+      "modified": "2020-02-10T09:23:13.314553+00:00",
       "note": "Fix for [MFSA 2020-03][1] included in Firefox Desktop and DevEdition 73.0b2 builds and newer.\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/mfsa2020-03/",
       "sort_num": 0,
       "tag": "Fixed"
