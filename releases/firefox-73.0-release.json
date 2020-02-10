@@ -11,9 +11,9 @@
       "created": "2020-02-10T20:29:01.624737+00:00",
       "id": 788262,
       "is_public": true,
-      "modified": "2020-02-10T20:29:01.624488+00:00",
-      "note": "Added support for setting a default zoom level applicable for all web content, regardless of site. This option is available in about:preferences under \"Language and Appearance\" and can be scaled up or down from 100% as needed.",
-      "sort_num": 0,
+      "modified": "2020-02-10T20:30:48.193554+00:00",
+      "note": "Today\u2019s Firefox release includes two features that help users view and read website content more easily, quickly. Like all accessibility improvements, these features improve browsing for everyone.\r\n\r\n - Firefox has offered a page zoom feature for more than a decade that allows users to set the zoom level on a per-site basis. For users who need to zoom most websites, having to adjust zoom for each new site can be an annoyance. To address this, we have implemented a new global default zoom level setting. This option is available in about:preferences under \"Language and Appearance\" and can be scaled up or down from 100% as needed and sets the default zoom level for all sites. Per-site zoom is still available to make adjustments to individual sites as needed.\r\n - Many users with low vision rely on Windows' High Contrast Mode to make websites more readable. Traditionally, to increase the readability of text, Firefox has disabled background images when High Contrast Mode is enabled. With today\u2019s release of Firefox 73, we introduce a \u201creadability backplate\u201d solution which places a block of background color between the text and background image. Now, websites in High Contrast Mode are more readable without disabling background images.",
+      "sort_num": 10,
       "tag": "New"
     },
     {
