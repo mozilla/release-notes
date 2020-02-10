@@ -8,31 +8,21 @@
   "notes": [
     {
       "bug": 1590485,
-      "created": "2020-01-03T21:08:21.243720+00:00",
-      "id": 788229,
+      "created": "2020-02-10T20:29:01.624737+00:00",
+      "id": 788262,
       "is_public": true,
-      "modified": "2020-02-10T09:23:18.651210+00:00",
+      "modified": "2020-02-10T20:29:01.624488+00:00",
       "note": "Added support for setting a default zoom level applicable for all web content, regardless of site. This option is available in about:preferences under \"Language and Appearance\" and can be scaled up or down from 100% as needed.",
       "sort_num": 0,
       "tag": "New"
     },
     {
-      "bug": 1539212,
-      "created": "2020-02-04T20:01:20.714917+00:00",
-      "id": 788253,
+      "bug": 1566875,
+      "created": "2020-02-10T20:25:23.026030+00:00",
+      "id": 788259,
       "is_public": true,
-      "modified": "2020-02-10T09:23:11.151556+00:00",
-      "note": "High-contrast mode has been updated to allow background images. To maintain readability and ensure sufficient contrast, visible text in high-contrast mode will be backplated by the theme's background color.",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
-      "bug": 1588647,
-      "created": "2020-01-03T21:09:04.593176+00:00",
-      "id": 788231,
-      "is_public": true,
-      "modified": "2020-02-10T09:23:17.073335+00:00",
-      "note": "In addition to Cloudflare (which remains the default when DNS over HTTPS is enabled) and custom DNS over HTTPS provider options, users now have the option of selecting [NextDNS as the Firefox DNS over HTTPS resolver][1] via the Network Settings dialog in Preferences.\r\n\r\n\r\n  [1]: https://blog.mozilla.org/blog/2019/12/17/firefox-announces-new-partner-in-delivering-private-and-secure-dns-services-to-users/",
+      "modified": "2020-02-10T20:25:23.025837+00:00",
+      "note": "[WebRender][1] will roll out to laptops with Nvidia graphics cards with drivers newer than 432.00, and screen sizes smaller than 1920x1200.\r\n\r\n\r\n  [1]: https://mozillagfx.wordpress.com/2019/05/21/graphics-team-ships-webrender-mvp/",
       "sort_num": 0,
       "tag": "Changed"
     },
@@ -41,28 +31,48 @@
       "created": "2020-01-03T21:09:26.974943+00:00",
       "id": 788232,
       "is_public": true,
-      "modified": "2020-02-10T09:23:15.735179+00:00",
+      "modified": "2020-02-10T20:24:17.335041+00:00",
       "note": "Improved auto-detection of legacy text encodings on old web pages which don\u2019t explicitly declare the text encoding.",
       "sort_num": 0,
       "tag": "HTML5"
     },
     {
-      "bug": 1427267,
-      "created": "2020-01-06T20:21:37.195723+00:00",
-      "id": 788233,
+      "bug": 1588050,
+      "created": "2020-02-10T20:28:07.831641+00:00",
+      "id": 788260,
       "is_public": true,
-      "modified": "2020-02-10T09:23:14.857991+00:00",
-      "note": "Improved audio quality when playing back audio at a faster or slower speed.",
+      "modified": "2020-02-10T20:28:07.831398+00:00",
+      "note": "WAMP-formatted WebSocket messages (JSON, MsgPack and CBOR) are now nicely decoded for inspection in the Network panel.",
       "sort_num": 0,
-      "tag": "Fixed"
+      "tag": "Developer"
     },
     {
       "bug": null,
       "created": "2020-02-04T20:26:52.373574+00:00",
       "id": 788255,
       "is_public": true,
-      "modified": "2020-02-04T20:27:16.635632+00:00",
-      "note": "Various [security fixes][0]\r\n\r\n[0]: https://www.mozilla.org/security/advisories/mfsa2020-05/",
+      "modified": "2020-02-10T20:23:27.938264+00:00",
+      "note": "Various [security fixes][0].\r\n\r\n[0]: https://www.mozilla.org/security/advisories/mfsa2020-05/",
+      "sort_num": 20,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1427267,
+      "created": "2020-01-06T20:21:37.195723+00:00",
+      "id": 788233,
+      "is_public": true,
+      "modified": "2020-02-10T20:23:37.868710+00:00",
+      "note": "Improved audio quality when playing back audio at a faster or slower speed.",
+      "sort_num": 10,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1388674,
+      "created": "2020-02-10T20:22:46.008674+00:00",
+      "id": 788258,
+      "is_public": true,
+      "modified": "2020-02-10T20:22:46.008363+00:00",
+      "note": "Firefox will now only prompt you to save logins if a field in a login form was modified.",
       "sort_num": 0,
       "tag": "Fixed"
     }
