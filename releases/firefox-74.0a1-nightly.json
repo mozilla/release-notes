@@ -11,7 +11,7 @@
       "created": "2020-01-13T19:09:56.571635+00:00",
       "id": 788241,
       "is_public": true,
-      "modified": "2020-02-10T09:24:52.194801+00:00",
+      "modified": "2020-02-11T09:02:50.136002+00:00",
       "note": "Firefox users can now import profile data from Edgium on Windows and Mac",
       "sort_num": 85,
       "tag": "New"
@@ -21,7 +21,7 @@
       "created": "2020-02-07T18:00:49.834434+00:00",
       "id": 788256,
       "is_public": true,
-      "modified": "2020-02-10T09:24:00.835575+00:00",
+      "modified": "2020-02-11T09:02:54.777133+00:00",
       "note": "A New Container Tab menu can now be opened with right click on the new tab button. In addition, an option to require a container tab to be selected when the new tab button is clicked is available.",
       "sort_num": 0,
       "tag": "New"
@@ -31,7 +31,7 @@
       "created": "2020-01-13T19:07:43.654388+00:00",
       "id": 788240,
       "is_public": true,
-      "modified": "2020-02-10T09:25:05.737124+00:00",
+      "modified": "2020-02-11T09:02:51.307363+00:00",
       "note": "The OS compositor has been enabled for macOS when WebRender is enabled",
       "sort_num": 80,
       "tag": "Changed"
@@ -41,7 +41,7 @@
       "created": "2020-02-03T13:07:18.742179+00:00",
       "id": 788252,
       "is_public": true,
-      "modified": "2020-02-10T09:24:19.911345+00:00",
+      "modified": "2020-02-11T09:02:48.409456+00:00",
       "note": "On Windows, `Ctrl+I` can now be used to open the Page Info window instead of opening the Bookmarks sidebar. `Ctrl+B` still opens the Bookmarks sidebar.",
       "sort_num": 0,
       "tag": "Changed"
@@ -51,7 +51,7 @@
       "created": "2020-01-24T16:39:44.138290+00:00",
       "id": 788251,
       "is_public": true,
-      "modified": "2020-02-10T09:24:35.656168+00:00",
+      "modified": "2020-02-11T09:02:49.425895+00:00",
       "note": "Service Workers and Web App Manifests are easier to inspect in the Developer Tools new Application panel, which also integrates into the newly landed Service Worker debugging capabilities.",
       "sort_num": 0,
       "tag": "Developer"
@@ -61,7 +61,7 @@
       "created": "2020-01-10T18:32:28.129305+00:00",
       "id": 788239,
       "is_public": true,
-      "modified": "2020-01-10T18:33:04.722260+00:00",
+      "modified": "2020-02-11T09:02:51.899116+00:00",
       "note": "Fix for [MFSA 2020-03][1] included in 2020-01-08 builds and newer.\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/mfsa2020-03/",
       "sort_num": 0,
       "tag": "Fixed"
