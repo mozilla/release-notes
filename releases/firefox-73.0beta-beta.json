@@ -71,8 +71,8 @@
       "created": "2020-02-11T10:13:20.165815+00:00",
       "id": 788264,
       "is_public": true,
-      "modified": "2020-02-11T10:13:20.165618+00:00",
-      "note": "Users with *0patch* security software might suffer from crashes at startup after the update to Firefox 73. As a workaround it is possible to add an exclusion for `firefox.exe` within the *0patch* settings.",
+      "modified": "2020-02-11T13:37:47.213870+00:00",
+      "note": "Users with *0patch* security software may encounter crashes at startup after updating to Firefox 73. This will be fixed in a future Firefox release. As a workaround, an exclusion for `firefox.exe` can be added within the *0patch* settings.",
       "sort_num": 0,
       "tag": "Known"
     }
