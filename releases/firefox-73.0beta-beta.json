@@ -65,6 +65,16 @@
       "note": "Fix for [MFSA 2020-03][1] included in Firefox Desktop and DevEdition 73.0b2 builds and newer.\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/mfsa2020-03/",
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": 1604008,
+      "created": "2020-02-11T10:13:20.165815+00:00",
+      "id": 788264,
+      "is_public": true,
+      "modified": "2020-02-11T10:13:20.165618+00:00",
+      "note": "Users with *0patch* security software might suffer from crashes at startup after the update to Firefox 73. As a workaround it is possible to add an exclusion for `firefox.exe` within the *0patch* settings.",
+      "sort_num": 0,
+      "tag": "Known"
     }
   ],
   "product": "Firefox",
