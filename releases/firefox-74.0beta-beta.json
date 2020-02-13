@@ -47,6 +47,16 @@
       "tag": "Changed"
     },
     {
+      "bug": null,
+      "created": "2020-02-11T17:39:48.596759+00:00",
+      "id": 788266,
+      "is_public": true,
+      "modified": "2020-02-13T08:19:04.074220+00:00",
+      "note": "DNS over HTTPS (with Cloudflare as the DNS resolver) will begin to roll out for users, turning the option on by default for users in the United States. For an alternate DNS service, users can select NextDNS via the Network Settings dialog in Preferences.",
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
       "bug": 1609356,
       "created": "2020-01-24T16:39:44.138290+00:00",
       "id": 788251,
