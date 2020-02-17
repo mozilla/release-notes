@@ -31,8 +31,8 @@
       "created": "2020-02-17T19:57:30.714855+00:00",
       "id": 788269,
       "is_public": true,
-      "modified": "2020-02-17T19:58:55.768621+00:00",
-      "note": "Fixed loss of functionality on Windows 10 systems running Firefox in Windows 7 or 8 compatibility mode ([bug 1614885][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1614885",
+      "modified": "2020-02-17T20:34:19.308379+00:00",
+      "note": "Fixed loss of browser functionality in certain circumstances such as running in Windows compatibility mode or having custom anti-exploit settings ([bug 1614885][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1614885",
       "sort_num": 40,
       "tag": "Fixed"
     },
