@@ -2,36 +2,46 @@
   "bug_list": "",
   "bug_search_url": "",
   "channel": "Release",
-  "created": "2020-01-08T12:11:42.397250+00:00",
-  "is_public": true,
-  "modified": "2020-01-08T16:46:56.376259+00:00",
+  "created": "2020-02-17T19:46:14.804630+00:00",
+  "is_public": false,
+  "modified": "2020-02-17T19:46:40.201251+00:00",
   "notes": [
     {
       "bug": null,
-      "created": "2020-01-08T12:15:02.872124+00:00",
-      "id": 788235,
+      "created": "2020-02-17T19:47:11.373678+00:00",
+      "id": 788267,
       "is_public": true,
-      "modified": "2020-02-17T19:47:11.554147+00:00",
-      "note": "Reference link to [72.0.1 release notes][0]\r\n\r\n[0]: https://www.mozilla.org/firefox/72.0.1/releasenotes/",
+      "modified": "2020-02-17T19:47:34.372144+00:00",
+      "note": "Reference link to [73.0 release notes][0]\r\n\r\n[0]: https://www.mozilla.org/firefox/73.0/releasenotes/",
       "sort_num": 0,
       "tag": ""
     },
     {
-      "bug": null,
-      "created": "2020-01-08T12:13:21.896217+00:00",
-      "id": 788234,
+      "bug": 1610790,
+      "created": "2020-02-17T19:55:47.663585+00:00",
+      "id": 788268,
       "is_public": true,
-      "modified": "2020-01-20T14:45:56.014619+00:00",
-      "note": "[Security fix][0]\r\n\r\n[0]: https://www.mozilla.org/security/advisories/mfsa2020-03/",
-      "sort_num": 0,
+      "modified": "2020-02-17T19:55:47.663369+00:00",
+      "note": "Fixed crashes on Windows systems running third-party security software such as 0patch or G DATA ([bug 1610790][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1610790",
+      "sort_num": 50,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1614885,
+      "created": "2020-02-17T19:57:30.714855+00:00",
+      "id": 788269,
+      "is_public": true,
+      "modified": "2020-02-17T19:58:55.768621+00:00",
+      "note": "Fixed loss of functionality on Windows 10 systems running Firefox in Windows 7 or 8 compatibility mode ([bug 1614885][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1614885",
+      "sort_num": 40,
       "tag": "Fixed"
     }
   ],
   "product": "Firefox",
-  "release_date": "2020-01-08",
-  "slug": "firefox-72.0.1-release",
+  "release_date": "2020-02-18",
+  "slug": "firefox-73.0.1-release",
   "system_requirements": "## Windows\r\n\r\n### Operating Systems (32-bit and 64-bit)\r\n - Windows 7\r\n - Windows 8\r\n - Windows 10\r\n\r\n### Recommended Hardware\r\n-  Pentium 4 or newer processor that supports SSE2\r\n-  512MB of RAM / 2GB of RAM for the 64-bit version\r\n-  200MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- macOS 10.9\r\n- macOS 10.10\r\n- macOS 10.11\r\n- macOS 10.12\r\n- macOS 10.13\r\n- macOS 10.14\r\n- macOS 10.15\r\n\r\n### Recommended Hardware\r\n- Macintosh computer with an Intel x86 processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - GTK+ 3.4 or higher\r\n    - GLib 2.22 or higher\r\n    - Pango 1.22 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n    - libstdc++ 4.6.1 or higher\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - NetworkManager 0.7 or higher\r\n    - DBus 1.0 or higher\r\n    - GNOME 2.16 or higher\r\n    - PulseAudio",
   "text": "",
-  "title": "Firefox 72.0.1 Release",
-  "version": "72.0.1"
+  "title": "Firefox 73.0.1 Release",
+  "version": "73.0.1"
 }
