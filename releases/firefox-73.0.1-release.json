@@ -35,6 +35,36 @@
       "note": "Fixed loss of functionality on Windows 10 systems running Firefox in Windows 7 or 8 compatibility mode ([bug 1614885][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1614885",
       "sort_num": 40,
       "tag": "Fixed"
+    },
+    {
+      "bug": 1613943,
+      "created": "2020-02-17T20:00:57.394708+00:00",
+      "id": 788270,
+      "is_public": true,
+      "modified": "2020-02-17T20:00:57.394504+00:00",
+      "note": "Resolved problems connecting to the RBC Royal Bank website ([bug 1613943][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1613943",
+      "sort_num": 30,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1611133,
+      "created": "2020-02-17T20:02:27.859766+00:00",
+      "id": 788271,
+      "is_public": true,
+      "modified": "2020-02-17T20:02:27.859573+00:00",
+      "note": "Fixed Firefox unexpectedly exiting when leaving Print Preview mode ([bug 1611133][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1611133",
+      "sort_num": 20,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1614535,
+      "created": "2020-02-17T20:03:31.720881+00:00",
+      "id": 788272,
+      "is_public": true,
+      "modified": "2020-02-17T20:03:31.720603+00:00",
+      "note": "Fixed crashes when playing encrypted content on some Linux systems ([bug 1614535][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1614535",
+      "sort_num": 10,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
