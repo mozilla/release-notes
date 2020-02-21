@@ -57,6 +57,16 @@
       "tag": "Changed"
     },
     {
+      "bug": 1606734,
+      "created": "2020-02-21T10:40:53.914079+00:00",
+      "id": 788273,
+      "is_public": true,
+      "modified": "2020-02-21T10:40:53.913880+00:00",
+      "note": "[Disabled TLS 1.0 and TLS 1.1][1]. Sites that don't support TLS version 1.2 will show an error page.\r\n\r\n\r\n  [1]: https://hacks.mozilla.org/2020/02/its-the-boot-for-tls-1-0-and-tls-1-1/",
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
       "bug": 1609356,
       "created": "2020-01-24T16:39:44.138290+00:00",
       "id": 788251,
