@@ -4,7 +4,7 @@
   "channel": "Beta",
   "created": "2020-02-10T09:22:50.681913+00:00",
   "is_public": true,
-  "modified": "2020-02-11T09:12:10.208452+00:00",
+  "modified": "2020-02-25T13:01:01.289877+00:00",
   "notes": [
     {
       "bug": 1605491,
@@ -25,16 +25,6 @@
       "note": "A New Container Tab menu can now be opened with right click on the new tab button. In addition, an option to require a container tab to be selected when the new tab button is clicked is available.",
       "sort_num": 0,
       "tag": "New"
-    },
-    {
-      "bug": 1592016,
-      "created": "2020-01-13T19:07:43.654388+00:00",
-      "id": 788240,
-      "is_public": true,
-      "modified": "2020-02-11T09:02:51.307363+00:00",
-      "note": "The OS compositor has been enabled for macOS when WebRender is enabled",
-      "sort_num": 80,
-      "tag": "Changed"
     },
     {
       "bug": null,
