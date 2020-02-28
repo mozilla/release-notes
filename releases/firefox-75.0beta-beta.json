@@ -25,6 +25,16 @@
       "note": "Accessing saved passwords in about:logins on Windows and macOS now requires the user to authenticate with their operating system if no master password is set.",
       "sort_num": 0,
       "tag": "Changed"
+    },
+    {
+      "bug": 1586915,
+      "created": "2020-02-28T16:26:45.985264+00:00",
+      "id": 788276,
+      "is_public": true,
+      "modified": "2020-02-28T16:26:45.985054+00:00",
+      "note": "Experimental support for using client certificates from the OS certificate store can be enabled on macOS by setting the preference security.osclientcerts.autoload to true (this feature has been available on Windows since Firefox 72).",
+      "sort_num": 0,
+      "tag": "Enterprise"
     }
   ],
   "product": "Firefox",
