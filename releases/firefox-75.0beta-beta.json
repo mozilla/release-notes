@@ -4,8 +4,29 @@
   "channel": "Beta",
   "created": "2020-02-28T15:53:47.155024+00:00",
   "is_public": false,
-  "modified": "2020-02-28T15:54:09.997956+00:00",
-  "notes": [],
+  "modified": "2020-02-28T16:11:38.382645+00:00",
+  "notes": [
+    {
+      "bug": 1404934,
+      "created": "2019-05-20T13:02:02.665795+00:00",
+      "id": 788013,
+      "is_public": true,
+      "modified": "2020-02-28T16:11:03.177321+00:00",
+      "note": "Firefox 75 will, in the background, locally cache all trusted Web PKI Certificate Authority certificates known to Mozilla. This will improve HTTPS compatibility with misconfigured web servers.",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1194529,
+      "created": "2020-02-28T16:05:23.586842+00:00",
+      "id": 788275,
+      "is_public": true,
+      "modified": "2020-02-28T16:16:09.792764+00:00",
+      "note": "Accessing saved passwords in about:logins on Windows and macOS now requires the user to authenticate with their operating system if no master password is set.",
+      "sort_num": 0,
+      "tag": "Changed"
+    }
+  ],
   "product": "Firefox",
   "release_date": "2020-03-09",
   "slug": "firefox-75.0beta-beta",
