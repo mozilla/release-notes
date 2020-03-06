@@ -5,7 +5,58 @@
   "created": "2020-03-06T08:35:27.779505+00:00",
   "is_public": false,
   "modified": "2020-03-06T13:29:17.380944+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": null,
+      "created": "2020-03-06T13:44:06.223226+00:00",
+      "id": 788278,
+      "is_public": true,
+      "modified": "2020-03-06T13:44:06.223032+00:00",
+      "note": "Your login management has improved with the ability to reverse alpha sort (Name Z-A) in Lockwise, which you can [access under Logins and Passwords][1]. \r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/manage-passwords-firefox-desktop-firefox-lockwise",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2020-03-06T13:45:06.128072+00:00",
+      "id": 788279,
+      "is_public": true,
+      "modified": "2020-03-06T13:45:48.962599+00:00",
+      "note": "Firefox now makes [importing your bookmarks and history][1] from the new Microsoft Edge browser on Windows and Mac a cinch.\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/import-bookmarks-internet-explorer-or-microsoft-edge",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2020-03-06T13:46:57.037948+00:00",
+      "id": 788280,
+      "is_public": true,
+      "modified": "2020-03-06T13:46:57.037744+00:00",
+      "note": "Add-ons installed by external applications can now be [removed using the Add-ons Manager][1] (about:addons). Going forward, only users can install add-ons; they cannot be installed by an application.\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/disable-or-remove-add-ons",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2020-03-06T13:48:47.621027+00:00",
+      "id": 788281,
+      "is_public": true,
+      "modified": "2020-03-06T13:48:47.620798+00:00",
+      "note": "With [Facebook Container][1], prevent Facebook from tracking you around the web - Facebook logins, likes and comments are automatically blocked on non-Facebook sites. But do you need to login with Facebook on a website? Now you can [create an exception by adding custom sites][2] to the Facebook Container wherever you need to.\r\n\r\n\r\n  [1]: https://addons.mozilla.org/firefox/addon/facebook-container/\r\n  [2]: https://support.mozilla.org/en-US/kb/add-websites-facebook-container-exceptions-list",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2020-03-06T13:49:32.889854+00:00",
+      "id": 788282,
+      "is_public": true,
+      "modified": "2020-03-06T13:49:32.889651+00:00",
+      "note": "Firefox now provides better privacy for your web voice and video calls through support for mDNS ICE by cloaking your computer\u2019s IP address with a random ID in certain WebRTC scenarios.",
+      "sort_num": 0,
+      "tag": "New"
+    }
+  ],
   "product": "Firefox",
   "release_date": "2020-03-10",
   "slug": "firefox-74.0-release",
