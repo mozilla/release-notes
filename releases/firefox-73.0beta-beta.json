@@ -41,7 +41,7 @@
       "created": "2020-01-03T21:09:26.974943+00:00",
       "id": 788232,
       "is_public": true,
-      "modified": "2020-02-10T20:24:17.335041+00:00",
+      "modified": "2020-03-06T08:38:37.337783+00:00",
       "note": "Improved auto-detection of legacy text encodings on old web pages which don\u2019t explicitly declare the text encoding.",
       "sort_num": 0,
       "tag": "HTML5"
@@ -51,7 +51,7 @@
       "created": "2020-01-06T20:21:37.195723+00:00",
       "id": 788233,
       "is_public": true,
-      "modified": "2020-02-10T20:23:37.868710+00:00",
+      "modified": "2020-03-06T08:38:35.630341+00:00",
       "note": "Improved audio quality when playing back audio at a faster or slower speed.",
       "sort_num": 10,
       "tag": "Fixed"
@@ -71,7 +71,7 @@
       "created": "2020-02-11T10:13:20.165815+00:00",
       "id": 788264,
       "is_public": true,
-      "modified": "2020-02-11T18:12:55.963466+00:00",
+      "modified": "2020-03-06T08:38:38.578310+00:00",
       "note": "Users with *0patch* security software may encounter crashes at startup after updating to Firefox 73. This will be fixed in a future Firefox release. As a workaround, an exclusion for `firefox.exe` can be added within the [0patch settings][1].\r\n\r\n\r\n  [1]: https://0patch.zendesk.com/hc/en-us/articles/360011227079-Mozilla-Firefox-73-can-crash-upon-launching-when-0patch-Agent-is-installed",
       "sort_num": 0,
       "tag": "Known"

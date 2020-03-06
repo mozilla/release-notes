@@ -11,7 +11,7 @@
       "created": "2020-02-10T20:29:01.624737+00:00",
       "id": 788262,
       "is_public": true,
-      "modified": "2020-02-10T20:30:48.193554+00:00",
+      "modified": "2020-03-06T08:38:40.989639+00:00",
       "note": "Today\u2019s Firefox release includes two features that help users view and read website content more easily, quickly. Like all accessibility improvements, these features improve browsing for everyone.\r\n\r\n - Firefox has offered a page zoom feature for more than a decade that allows users to set the zoom level on a per-site basis. For users who need to zoom most websites, having to adjust zoom for each new site can be an annoyance. To address this, we have implemented a new global default zoom level setting. This option is available in about:preferences under \"Language and Appearance\" and can be scaled up or down from 100% as needed and sets the default zoom level for all sites. Per-site zoom is still available to make adjustments to individual sites as needed.\r\n - Many users with low vision rely on Windows' High Contrast Mode to make websites more readable. Traditionally, to increase the readability of text, Firefox has disabled background images when High Contrast Mode is enabled. With today\u2019s release of Firefox 73, we introduce a \u201creadability backplate\u201d solution which places a block of background color between the text and background image. Now, websites in High Contrast Mode are more readable without disabling background images.",
       "sort_num": 10,
       "tag": "New"
@@ -21,7 +21,7 @@
       "created": "2020-02-10T20:25:23.026030+00:00",
       "id": 788259,
       "is_public": true,
-      "modified": "2020-02-13T18:29:10.231913+00:00",
+      "modified": "2020-03-06T08:38:42.860557+00:00",
       "note": "[WebRender][1] rollout has been expanded to include Windows 10 laptops running NVIDIA graphics cards with drivers newer than 432.00 and screen sizes smaller than 1920x1200.\r\n\r\n\r\n  [1]: https://mozillagfx.wordpress.com/2019/05/21/graphics-team-ships-webrender-mvp/",
       "sort_num": 0,
       "tag": "Changed"
@@ -31,7 +31,7 @@
       "created": "2020-01-03T21:09:26.974943+00:00",
       "id": 788232,
       "is_public": true,
-      "modified": "2020-02-10T20:24:17.335041+00:00",
+      "modified": "2020-03-06T08:38:37.337783+00:00",
       "note": "Improved auto-detection of legacy text encodings on old web pages which don\u2019t explicitly declare the text encoding.",
       "sort_num": 0,
       "tag": "HTML5"
@@ -41,7 +41,7 @@
       "created": "2020-02-10T20:28:07.831641+00:00",
       "id": 788260,
       "is_public": true,
-      "modified": "2020-02-10T20:28:07.831398+00:00",
+      "modified": "2020-03-06T08:38:42.159924+00:00",
       "note": "WAMP-formatted WebSocket messages (JSON, MsgPack and CBOR) are now nicely decoded for inspection in the Network panel.",
       "sort_num": 0,
       "tag": "Developer"
@@ -51,7 +51,7 @@
       "created": "2020-02-04T20:26:52.373574+00:00",
       "id": 788255,
       "is_public": true,
-      "modified": "2020-02-10T20:23:27.938264+00:00",
+      "modified": "2020-03-06T08:38:34.619812+00:00",
       "note": "Various [security fixes][0].\r\n\r\n[0]: https://www.mozilla.org/security/advisories/mfsa2020-05/",
       "sort_num": 20,
       "tag": "Fixed"
@@ -61,7 +61,7 @@
       "created": "2020-01-06T20:21:37.195723+00:00",
       "id": 788233,
       "is_public": true,
-      "modified": "2020-02-10T20:23:37.868710+00:00",
+      "modified": "2020-03-06T08:38:35.630341+00:00",
       "note": "Improved audio quality when playing back audio at a faster or slower speed.",
       "sort_num": 10,
       "tag": "Fixed"
@@ -71,7 +71,7 @@
       "created": "2020-02-10T20:22:46.008674+00:00",
       "id": 788258,
       "is_public": true,
-      "modified": "2020-02-10T20:22:46.008363+00:00",
+      "modified": "2020-03-06T08:38:45.353388+00:00",
       "note": "Firefox will now only prompt you to save logins if a field in a login form was modified.",
       "sort_num": 0,
       "tag": "Fixed"
@@ -81,7 +81,7 @@
       "created": "2020-02-11T10:13:20.165815+00:00",
       "id": 788264,
       "is_public": true,
-      "modified": "2020-02-11T18:12:55.963466+00:00",
+      "modified": "2020-03-06T08:38:38.578310+00:00",
       "note": "Users with *0patch* security software may encounter crashes at startup after updating to Firefox 73. This will be fixed in a future Firefox release. As a workaround, an exclusion for `firefox.exe` can be added within the [0patch settings][1].\r\n\r\n\r\n  [1]: https://0patch.zendesk.com/hc/en-us/articles/360011227079-Mozilla-Firefox-73-can-crash-upon-launching-when-0patch-Agent-is-installed",
       "sort_num": 0,
       "tag": "Known"
