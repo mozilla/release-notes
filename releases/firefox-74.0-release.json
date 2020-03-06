@@ -55,6 +55,56 @@
       "note": "Firefox now provides better privacy for your web voice and video calls through support for mDNS ICE by cloaking your computer\u2019s IP address with a random ID in certain WebRTC scenarios.",
       "sort_num": 0,
       "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2020-03-06T14:59:44.070070+00:00",
+      "id": 788287,
+      "is_public": true,
+      "modified": "2020-03-06T14:59:44.069874+00:00",
+      "note": "When a video is uploaded with a batch of photos on Instagram, the Picture-in-Picture toggle would sit atop of the \u201cnext\u201d button. The toggle is now moved allowing you to flip through to the next image of the batch.",
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
+      "bug": null,
+      "created": "2020-03-06T14:55:50.793028+00:00",
+      "id": 788283,
+      "is_public": true,
+      "modified": "2020-03-06T14:55:50.792721+00:00",
+      "note": "Firefox has added support for the new JavaScript [optional chaining][1] operator (`?.`) and CSS [text-underline-position][2].\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/JavaScript/Reference/Operators/Optional_chaining\r\n  [2]: https://developer.mozilla.org/docs/Web/CSS/text-underline-position",
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": null,
+      "created": "2020-03-06T14:56:36.878904+00:00",
+      "id": 788284,
+      "is_public": true,
+      "modified": "2020-03-06T14:56:36.878644+00:00",
+      "note": "Firefox\u2019s Debugger added support for debugging Nested Web Workers, so their execution can be paused and stepped through with breakpoints",
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
+      "bug": null,
+      "created": "2020-03-06T14:58:34.873525+00:00",
+      "id": 788285,
+      "is_public": true,
+      "modified": "2020-03-06T14:58:34.873323+00:00",
+      "note": "Various [security fixes][1].\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2020-03-06T14:59:02.006667+00:00",
+      "id": 788286,
+      "is_public": true,
+      "modified": "2020-03-06T14:59:02.006432+00:00",
+      "note": "We have fixed issues involving pinned tabs. You should no longer see them reorder themselves nor being lost.",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
