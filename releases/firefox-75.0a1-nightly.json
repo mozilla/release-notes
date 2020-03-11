@@ -7,6 +7,16 @@
   "modified": "2020-02-11T09:03:00.693716+00:00",
   "notes": [
     {
+      "bug": 1602841,
+      "created": "2020-03-11T08:15:34.208126+00:00",
+      "id": 788291,
+      "is_public": true,
+      "modified": "2020-03-11T08:15:34.207930+00:00",
+      "note": "Picture-in-Picture now supports keyboard controls, on most websites, for Play / Pause, Volume and Seeking (see https://bugzilla.mozilla.org/show_bug.cgi?id=1602841#c11 for the list of keyboard controls)",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": null,
       "created": "2020-02-11T17:39:15.678714+00:00",
       "id": 788265,
