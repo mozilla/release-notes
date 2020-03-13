@@ -25,6 +25,16 @@
       "note": "DNS over HTTPS (with Cloudflare as the DNS resolver) will be rolled out for users, turning the option on by default for users in the United States. For an alternate DNS service, users can select NextDNS via the Network Settings dialog in Preferences.",
       "sort_num": 0,
       "tag": "Changed"
+    },
+    {
+      "bug": 333714,
+      "created": "2020-03-13T09:11:15.290490+00:00",
+      "id": 788292,
+      "is_public": true,
+      "modified": "2020-03-13T09:11:15.290255+00:00",
+      "note": "The behavior when clicking on the Address Bar and the Search Bar has been unified across all the desktop platforms. In particular on Linux a single click selects all without primary selection, a double click selects a word, and a triple click selects all with primary selection.",
+      "sort_num": 0,
+      "tag": "Changed"
     }
   ],
   "product": "Firefox",
