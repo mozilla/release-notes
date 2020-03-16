@@ -15,6 +15,16 @@
       "note": "Picture-in-Picture now supports keyboard controls, on most websites, for Play / Pause, Volume and Seeking (see https://bugzilla.mozilla.org/show_bug.cgi?id=1602841#c11 for the list of keyboard controls)",
       "sort_num": 0,
       "tag": "New"
+    },
+    {
+      "bug": 1607882,
+      "created": "2020-03-16T20:44:55.896799+00:00",
+      "id": 788293,
+      "is_public": true,
+      "modified": "2020-03-16T20:44:55.896608+00:00",
+      "note": "Double-clicking on the [Picture-in-Picture][1] player window now puts it in fullscreen mode.\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/about-picture-picture-firefox",
+      "sort_num": 0,
+      "tag": "New"
     }
   ],
   "product": "Firefox",
