@@ -25,6 +25,16 @@
       "note": "Double-clicking on the [Picture-in-Picture][1] player window now puts it in fullscreen mode.\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/about-picture-picture-firefox",
       "sort_num": 0,
       "tag": "New"
+    },
+    {
+      "bug": 1194529,
+      "created": "2020-02-28T16:05:23.586842+00:00",
+      "id": 788275,
+      "is_public": true,
+      "modified": "2020-03-18T14:29:36.173124+00:00",
+      "note": "Accessing saved passwords in about:logins on Windows and macOS now requires the user to authenticate with their operating system if no master password is set.",
+      "sort_num": 0,
+      "tag": "Changed"
     }
   ],
   "product": "Firefox",
