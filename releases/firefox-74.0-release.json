@@ -81,8 +81,8 @@
       "created": "2020-03-06T15:01:53.226147+00:00",
       "id": 788289,
       "is_public": true,
-      "modified": "2020-03-20T08:58:11.241784+00:00",
-      "note": "~~We have [disabled TLS 1.0 and TLS 1.1][1] to improve your website connections. Sites that don't support TLS version 1.2 will now show an error page.~~ \r\n\r\nWe reverted the change for an undetermined amount of time to better enable access to critical government sites sharing COVID19 information.\r\n\r\n  [1]: https://hacks.mozilla.org/2020/02/its-the-boot-for-tls-1-0-and-tls-1-1/",
+      "modified": "2020-03-20T09:24:43.255914+00:00",
+      "note": "<strike>We have [disabled TLS 1.0 and TLS 1.1][1] to improve your website connections. Sites that don't support TLS version 1.2 will now show an error page.</strike>\r\n\r\n**We reverted the change for an undetermined amount of time to better enable access to critical government sites sharing COVID19 information.**\r\n\r\n  [1]: https://hacks.mozilla.org/2020/02/its-the-boot-for-tls-1-0-and-tls-1-1/",
       "sort_num": 0,
       "tag": "Changed"
     },
