@@ -35,6 +35,16 @@
       "note": "Accessing saved passwords in about:logins on Windows and macOS now requires the user to authenticate with their operating system if no master password is set.",
       "sort_num": 0,
       "tag": "Changed"
+    },
+    {
+      "bug": 1616723,
+      "created": "2020-04-02T17:55:31.827719+00:00",
+      "id": 788295,
+      "is_public": true,
+      "modified": "2020-04-02T17:55:31.827523+00:00",
+      "note": "Web Audio API [AudioWorklet][1] is now enabled by default\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/API/AudioWorkletNode",
+      "sort_num": 0,
+      "tag": "HTML5"
     }
   ],
   "product": "Firefox",
