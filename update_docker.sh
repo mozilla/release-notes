@@ -2,6 +2,10 @@
 
 set -exo pipefail
 
+# get latest from github
+git fetch https://github.com/mozilla/release-notes/ master
+git checkout -f FETCH_HEAD
+
 UPDATE_FILE=".new-revision-pushed"
 IMAGE_NAME="${DOCKER_IMAGE_NAME:-release-notes-json}"
 IMAGE_NAME="${IMAGE_NAME}:$(git rev-parse HEAD)"
