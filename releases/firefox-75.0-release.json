@@ -51,8 +51,8 @@
       "created": "2020-04-06T10:05:15.838538+00:00",
       "id": 788307,
       "is_public": true,
-      "modified": "2020-04-06T10:05:15.838282+00:00",
-      "note": "Save bandwidth and reduce browser memory by using the [loading][0] attribute on the [&lt;img&gt;][1] element. The default \"eager\" value loads images immediately, and the \"lazy\" value delays loading until the image is within range of the viewport.",
+      "modified": "2020-04-06T15:44:30.688265+00:00",
+      "note": "Save bandwidth and reduce browser memory by using the [loading][0] attribute on the [&lt;img&gt;][1] element. The default \"eager\" value loads images immediately, and the \"lazy\" value delays loading until the image is within range of the viewport.\r\n\r\n[0]: https://developer.mozilla.org/docs/Web/HTML/Element/img#attr-loading\r\n[1]: https://developer.mozilla.org/docs/Web/HTML/Element/img",
       "sort_num": 100,
       "tag": "Developer"
     },
