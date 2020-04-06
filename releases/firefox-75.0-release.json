@@ -1,0 +1,47 @@
+{
+  "bug_list": "",
+  "bug_search_url": "",
+  "channel": "Release",
+  "created": "2020-04-06T09:51:49.078403+00:00",
+  "is_public": false,
+  "modified": "2020-04-06T09:52:09.685010+00:00",
+  "notes": [
+    {
+      "bug": 1561531,
+      "created": "2020-04-06T09:55:16.069959+00:00",
+      "id": 788301,
+      "is_public": true,
+      "modified": "2020-04-06T09:55:16.069759+00:00",
+      "note": "With today's release, a number of improvements will help you search smarter, faster. Type less and find more with Firefox's [revamped address bar][1]:\r\n\r\n- Focused, clean search experience that's optimized for smaller laptop screens\r\n- Top sites now appear when you select the address\r\n- Improved readability of search suggestions with a focus on new search terms\r\n- Suggestions include solutions to common Firefox issues\r\n- On Linux, the behavior when clicking on the Address Bar and the Search Bar now matches other desktop platforms: a single click selects all without primary selection, a double click selects a word, and a triple click selects all with primary selection",
+      "sort_num": 1000,
+      "tag": "New"
+    },
+    {
+      "bug": 1404934,
+      "created": "2020-04-06T09:56:10.945896+00:00",
+      "id": 788302,
+      "is_public": true,
+      "modified": "2020-04-06T09:56:42.821340+00:00",
+      "note": "Firefox will locally cache all trusted Web PKI Certificate Authority certificates known to Mozilla. This will improve HTTPS compatibility with misconfigured web servers and improve security.",
+      "sort_num": 900,
+      "tag": "New"
+    },
+    {
+      "bug": 1441922,
+      "created": "2020-04-06T09:57:19.220786+00:00",
+      "id": 788303,
+      "is_public": true,
+      "modified": "2020-04-06T09:59:40.596774+00:00",
+      "note": "Firefox is now available in Flatpak, an easier way to install and use Firefox on Linux.",
+      "sort_num": 800,
+      "tag": "New"
+    }
+  ],
+  "product": "Firefox",
+  "release_date": "2020-04-07",
+  "slug": "firefox-75.0-release",
+  "system_requirements": "## Windows\r\n\r\n### Operating Systems (32-bit and 64-bit)\r\n - Windows 7\r\n - Windows 8\r\n - Windows 10\r\n\r\n### Recommended Hardware\r\n-  Pentium 4 or newer processor that supports SSE2\r\n-  512MB of RAM / 2GB of RAM for the 64-bit version\r\n-  200MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- macOS 10.9\r\n- macOS 10.10\r\n- macOS 10.11\r\n- macOS 10.12\r\n- macOS 10.13\r\n- macOS 10.14\r\n- macOS 10.15\r\n\r\n### Recommended Hardware\r\n- Macintosh computer with an Intel x86 processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - GTK+ 3.4 or higher\r\n    - GLib 2.22 or higher\r\n    - Pango 1.22 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n    - libstdc++ 4.6.1 or higher\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - NetworkManager 0.7 or higher\r\n    - DBus 1.0 or higher\r\n    - GNOME 2.16 or higher\r\n    - PulseAudio",
+  "text": "",
+  "title": "Firefox 75.0 Release",
+  "version": "75.0"
+}
