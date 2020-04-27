@@ -5,7 +5,18 @@
   "created": "2020-04-06T08:45:08.429936+00:00",
   "is_public": true,
   "modified": "2020-04-06T18:05:13.428643+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": 1628926,
+      "created": "2020-04-27T15:18:21.625963+00:00",
+      "id": 788310,
+      "is_public": true,
+      "modified": "2020-04-27T15:18:21.625731+00:00",
+      "note": "The `browser.urlbar.oneOffSearches` preference has been removed. To hide one-off search buttons uncheck search engines on the about:preferences#search page",
+      "sort_num": 0,
+      "tag": "Changed"
+    }
+  ],
   "product": "Firefox",
   "release_date": "2020-04-06",
   "slug": "firefox-77.0a1-nightly",
