@@ -11,7 +11,7 @@
       "created": "2020-04-06T09:55:16.069959+00:00",
       "id": 788301,
       "is_public": true,
-      "modified": "2020-04-06T16:14:02.603874+00:00",
+      "modified": "2020-04-27T22:46:41.161633+00:00",
       "note": "With today's release, a number of improvements will help you [search smarter, faster][0]. Type less and find more with Firefox's [revamped address bar][1]:\r\n\r\n- Focused, clean search experience that's optimized for smaller laptop screens\r\n- Top sites now appear when you select the address\r\n- Improved readability of search suggestions with a focus on new search terms\r\n- Suggestions include solutions to common Firefox issues\r\n- On Linux, the behavior when clicking on the Address Bar and the Search Bar now matches other desktop platforms: a single click selects all without primary selection, a double click selects a word, and a triple click selects all with primary selection\r\n\r\n[0]: https://blog.mozilla.org/blog/2020/04/07/latest-firefox-updates-address-bar-making-search-easier-than-ever/\r\n[1]: https://support.mozilla.org/kb/search-firefox-address-bar",
       "sort_num": 1000,
       "tag": "New"
@@ -21,7 +21,7 @@
       "created": "2020-04-06T09:56:10.945896+00:00",
       "id": 788302,
       "is_public": true,
-      "modified": "2020-04-06T09:56:42.821340+00:00",
+      "modified": "2020-04-27T22:46:40.269678+00:00",
       "note": "Firefox will locally cache all trusted Web PKI Certificate Authority certificates known to Mozilla. This will improve HTTPS compatibility with misconfigured web servers and improve security.",
       "sort_num": 900,
       "tag": "New"
@@ -31,7 +31,7 @@
       "created": "2020-04-06T09:57:19.220786+00:00",
       "id": 788303,
       "is_public": true,
-      "modified": "2020-04-06T09:59:40.596774+00:00",
+      "modified": "2020-04-27T22:46:39.242172+00:00",
       "note": "Firefox is now available in Flatpak, an easier way to install and use Firefox on Linux.",
       "sort_num": 800,
       "tag": "New"
@@ -41,7 +41,7 @@
       "created": "2020-04-06T10:01:05.016513+00:00",
       "id": 788304,
       "is_public": true,
-      "modified": "2020-04-06T10:01:05.016314+00:00",
+      "modified": "2020-04-27T22:46:38.253079+00:00",
       "note": "Direct Composition is being integrated for our users on Windows to help improve performance and enable our ongoing work to ship WebRender on Windows 10 laptops with Intel graphics cards.",
       "sort_num": 0,
       "tag": "New"
@@ -51,7 +51,7 @@
       "created": "2020-04-06T10:05:15.838538+00:00",
       "id": 788307,
       "is_public": true,
-      "modified": "2020-04-06T15:44:30.688265+00:00",
+      "modified": "2020-04-27T22:46:34.587317+00:00",
       "note": "Save bandwidth and reduce browser memory by using the [loading][0] attribute on the [&lt;img&gt;][1] element. The default \"eager\" value loads images immediately, and the \"lazy\" value delays loading until the image is within range of the viewport.\r\n\r\n[0]: https://developer.mozilla.org/docs/Web/HTML/Element/img#attr-loading\r\n[1]: https://developer.mozilla.org/docs/Web/HTML/Element/img",
       "sort_num": 100,
       "tag": "Developer"
@@ -61,7 +61,7 @@
       "created": "2020-04-06T10:22:03.982442+00:00",
       "id": 788308,
       "is_public": true,
-      "modified": "2020-04-06T10:24:52.417643+00:00",
+      "modified": "2020-04-27T22:46:33.199526+00:00",
       "note": "[Instant evaluation][0] for Console expressions lets developers identify and fix errors more rapidly than before. As long as expressions typed into the Web Console are side-effect free, their results will be previewed while you type.\r\n\r\n[0]: https://developer.mozilla.org/docs/Tools/Web_Console/The_command_line_interpreter#Instant_evaluation",
       "sort_num": 0,
       "tag": "Developer"
@@ -71,7 +71,7 @@
       "created": "2020-04-06T10:02:07.549864+00:00",
       "id": 788305,
       "is_public": true,
-      "modified": "2020-04-06T10:03:23.768172+00:00",
+      "modified": "2020-04-27T22:46:36.895405+00:00",
       "note": "Experimental support for using client certificates from the OS certificate store can be enabled on macOS by setting the preference `security.osclientcerts.autoload` to true.",
       "sort_num": 100,
       "tag": "Enterprise"
@@ -81,7 +81,7 @@
       "created": "2020-04-06T10:03:14.200197+00:00",
       "id": 788306,
       "is_public": true,
-      "modified": "2020-04-06T10:05:58.574888+00:00",
+      "modified": "2020-04-27T22:46:35.669216+00:00",
       "note": "Enterprise policies may be used to exclude domains from being resolved via TRR (Trusted Recursive Resolver) using DNS over HTTPS.",
       "sort_num": 0,
       "tag": "Enterprise"
@@ -91,7 +91,7 @@
       "created": "2020-04-06T14:51:00.269520+00:00",
       "id": 788309,
       "is_public": true,
-      "modified": "2020-04-07T13:18:14.631629+00:00",
+      "modified": "2020-04-27T22:46:45.200585+00:00",
       "note": "Various [security fixes][0]\r\n\r\n[0]: https://www.mozilla.org/security/advisories/mfsa2020-12/",
       "sort_num": 0,
       "tag": "Fixed"

@@ -1,27 +1,37 @@
 {
   "bug_list": "",
   "bug_search_url": "",
-  "channel": "ESR",
-  "created": "2020-04-01T20:12:23.369396+00:00",
-  "is_public": true,
-  "modified": "2020-04-07T12:31:40.793246+00:00",
+  "channel": "Release",
+  "created": "2020-04-27T22:45:56.114312+00:00",
+  "is_public": false,
+  "modified": "2020-04-27T22:46:26.912726+00:00",
   "notes": [
     {
       "bug": null,
-      "created": "2020-04-01T20:13:00.739994+00:00",
-      "id": 788294,
+      "created": "2020-04-27T22:46:44.933762+00:00",
+      "id": 788311,
       "is_public": true,
-      "modified": "2020-04-27T22:48:14.365992+00:00",
-      "note": "Various stability and [security fixes][0]\r\n\r\n[0]: https://www.mozilla.org/security/advisories/mfsa2020-13/",
+      "modified": "2020-04-27T22:46:59.888806+00:00",
+      "note": "Various [security fixes][0]\r\n\r\n[0]: https://www.mozilla.org/security/advisories/",
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": 1557282,
+      "created": "2020-04-27T22:49:52.363512+00:00",
+      "id": 788313,
+      "is_public": true,
+      "modified": "2020-04-27T22:50:07.209592+00:00",
+      "note": "Audio playback is currently not working when running the 32-bit Windows version of Firefox from a network drive. This will be addressed in an upcoming future Firefox release.",
+      "sort_num": 0,
+      "tag": "Known"
     }
   ],
-  "product": "Firefox Extended Support Release",
-  "release_date": "2020-04-07",
-  "slug": "firefox-68.7.0-esr",
+  "product": "Firefox",
+  "release_date": "2020-05-05",
+  "slug": "firefox-76.0-release",
   "system_requirements": "## Windows\r\n\r\n### Operating Systems (32-bit and 64-bit)\r\n - Windows 7\r\n - Windows 8\r\n - Windows 10\r\n\r\n### Recommended Hardware\r\n-  Pentium 4 or newer processor that supports SSE2\r\n-  512MB of RAM / 2GB of RAM for the 64-bit version\r\n-  200MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- macOS 10.9\r\n- macOS 10.10\r\n- macOS 10.11\r\n- macOS 10.12\r\n- macOS 10.13\r\n- macOS 10.14\r\n- macOS 10.15\r\n\r\n### Recommended Hardware\r\n- Macintosh computer with an Intel x86 processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - GTK+ 3.4 or higher\r\n    - GLib 2.22 or higher\r\n    - Pango 1.22 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n    - libstdc++ 4.6.1 or higher\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - NetworkManager 0.7 or higher\r\n    - DBus 1.0 or higher\r\n    - GNOME 2.16 or higher\r\n    - PulseAudio",
-  "text": "",
-  "title": "Firefox Extended Support Release 68.7.0 ESR",
-  "version": "68.7.0"
+  "text": "We'd like to extend a special thank you to all of the [new Mozillians][0] who contributed to this release of Firefox.\r\n\r\n[0]: https://blog.mozilla.org/community/2020/04/06/firefox-75-new-contributors/",
+  "title": "Firefox 76.0 Release",
+  "version": "76.0"
 }
