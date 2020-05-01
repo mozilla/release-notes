@@ -1,0 +1,27 @@
+{
+  "bug_list": "",
+  "bug_search_url": "",
+  "channel": "Release",
+  "created": "2020-05-01T19:54:32.470876+00:00",
+  "is_public": true,
+  "modified": "2020-05-01T19:58:18.153149+00:00",
+  "notes": [
+    {
+      "bug": null,
+      "created": "2020-05-01T19:56:58.774347+00:00",
+      "id": 788323,
+      "is_public": true,
+      "modified": "2020-05-01T19:56:58.774151+00:00",
+      "note": "Fixes a [security issue][0]\r\n\r\n[0]: https://www.mozilla.org/security/advisories/mfsa2020-15/",
+      "sort_num": 0,
+      "tag": "Fixed"
+    }
+  ],
+  "product": "Firefox for iOS",
+  "release_date": "2020-05-01",
+  "slug": "firefox-for-ios-25.0-release",
+  "system_requirements": "## Operating systems\r\n - iOS 10.3\r\n - iOS 11\r\n - iOS 12",
+  "text": "This version of Firefox for iOS has several usability and performance improvements.",
+  "title": "Firefox for iOS 25.0 Release",
+  "version": "25.0"
+}
