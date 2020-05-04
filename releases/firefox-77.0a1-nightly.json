@@ -1,10 +1,10 @@
 {
-  "bug_list": "",
-  "bug_search_url": "",
+  "bug_list": "https://bugzilla.mozilla.org/buglist.cgi?list_id=15228061&query_format=advanced&chfieldfrom=2020-04-06&o1=anyexact&chfieldto=2020-05-04&f1=cf_status_firefox77&classification=Client%20Software&classification=Developer%20Infrastructure&classification=Components&classification=Server%20Software&classification=Other&v1=fixed%2C%20verified%2C%20disabled",
+  "bug_search_url": "https://bugzilla.mozilla.org/buglist.cgi?list_id=15228061&query_format=advanced&chfieldfrom=2020-04-06&o1=anyexact&chfieldto=2020-05-04&f1=cf_status_firefox77&classification=Client%20Software&classification=Developer%20Infrastructure&classification=Components&classification=Server%20Software&classification=Other&v1=fixed%2C%20verified%2C%20disabled",
   "channel": "Nightly",
   "created": "2020-04-06T08:45:08.429936+00:00",
   "is_public": true,
-  "modified": "2020-04-29T08:26:33.689990+00:00",
+  "modified": "2020-05-04T07:59:09.313021+00:00",
   "notes": [
     {
       "bug": 1628926,
