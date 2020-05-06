@@ -7,16 +7,6 @@
   "modified": "2020-05-04T07:59:09.313021+00:00",
   "notes": [
     {
-      "bug": 1625363,
-      "created": "2020-05-06T08:35:35.420782+00:00",
-      "id": 788324,
-      "is_public": true,
-      "modified": "2020-05-06T08:35:35.420596+00:00",
-      "note": "Experimental [AVIF][1] support can be enabled by turning on `image.avif.enabled` in `about:config`. Images accessed via a `file://` handler will be rendered in-browser, but remote URLs require the server to be configured to return the `image/avif` Content-Type header. https://resources.link-u.co.jp/avif/ contains a large number of properly-served sample images.\r\n\r\n\r\n  [1]: https://github.com/AOMediaCodec/av1-avif",
-      "sort_num": 0,
-      "tag": ""
-    },
-    {
       "bug": 1628926,
       "created": "2020-04-27T15:18:21.625963+00:00",
       "id": 788310,
@@ -25,6 +15,16 @@
       "note": "The `browser.urlbar.oneOffSearches` preference has been removed. To hide one-off search buttons uncheck search engines on the about:preferences#search page",
       "sort_num": 0,
       "tag": "Changed"
+    },
+    {
+      "bug": 1625363,
+      "created": "2020-05-06T08:35:35.420782+00:00",
+      "id": 788324,
+      "is_public": true,
+      "modified": "2020-05-06T08:50:21.169410+00:00",
+      "note": "Experimental [AVIF][1] support can be enabled by turning on `image.avif.enabled` in `about:config`. Images accessed via a `file://` handler will be rendered in-browser, but remote URLs require the server to be configured to return the `image/avif` Content-Type header. https://resources.link-u.co.jp/avif/ contains a large number of properly-served sample images.\r\n\r\n\r\n  [1]: https://github.com/AOMediaCodec/av1-avif",
+      "sort_num": 0,
+      "tag": "HTML5"
     }
   ],
   "product": "Firefox",
