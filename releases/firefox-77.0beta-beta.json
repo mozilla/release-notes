@@ -15,6 +15,16 @@
       "note": "The `browser.urlbar.oneOffSearches` preference has been removed. To hide one-off search buttons uncheck search engines on the about:preferences#search page",
       "sort_num": 0,
       "tag": "Changed"
+    },
+    {
+      "bug": 1320229,
+      "created": "2020-05-28T13:21:09.468338+00:00",
+      "id": 788329,
+      "is_public": true,
+      "modified": "2020-05-28T13:21:09.468142+00:00",
+      "note": "Text exceeding maxlength [will no longer be truncated][1] when pasted into <input> or <textarea>\r\n\r\n\r\n  [1]: https://www.fxsitecompat.dev/en-CA/docs/2020/text-exceeding-maxlength-will-no-longer-be-truncated-when-pasted-into-input-or-textarea/",
+      "sort_num": 0,
+      "tag": "Changed"
     }
   ],
   "product": "Firefox",
