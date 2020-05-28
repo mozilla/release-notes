@@ -11,10 +11,20 @@
       "created": "2020-05-28T14:33:44.580948+00:00",
       "id": 788330,
       "is_public": true,
-      "modified": "2020-05-28T14:33:44.580720+00:00",
-      "note": "The minimal system requirements on Linux have been updated. Firefox now needs GNU libc 2.17, libstdc++ 4.8.1 and GTK+ 3.14 or newer versions.",
+      "modified": "2020-05-28T15:28:34.525474+00:00",
+      "note": "The minimal [system requirements][0] on Linux have been updated. Firefox now needs GNU libc 2.17, libstdc++ 4.8.1 and GTK+ 3.14 or newer versions.\r\n\r\n[0]: https://www.mozilla.org/firefox/78.0/system-requirements",
       "sort_num": 0,
       "tag": "Changed"
+    },
+    {
+      "bug": 1634135,
+      "created": "2020-05-28T15:26:28.483343+00:00",
+      "id": 788331,
+      "is_public": true,
+      "modified": "2020-05-28T15:26:28.483144+00:00",
+      "note": "New RegExp engine in SpiderMonkey, adding support for the dotAll flag, Unicode escape sequences, lookbehind references, and named captures.",
+      "sort_num": 0,
+      "tag": "Developer"
     }
   ],
   "product": "Firefox",
