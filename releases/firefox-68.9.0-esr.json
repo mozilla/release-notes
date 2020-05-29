@@ -5,7 +5,18 @@
   "created": "2020-05-28T13:24:13.951421+00:00",
   "is_public": false,
   "modified": "2020-05-28T13:24:42.099299+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": null,
+      "created": "2020-05-29T14:35:33.168914+00:00",
+      "id": 788333,
+      "is_public": true,
+      "modified": "2020-05-29T14:36:05.113045+00:00",
+      "note": "Various stability and [security fixes][0]\r\n\r\n[0]: https://www.mozilla.org/security/advisories/mfsa2020-21/",
+      "sort_num": 0,
+      "tag": "Fixed"
+    }
+  ],
   "product": "Firefox Extended Support Release",
   "release_date": "2020-06-02",
   "slug": "firefox-68.9.0-esr",
