@@ -31,10 +31,10 @@
       "created": "2020-06-01T10:15:48.603576+00:00",
       "id": 788337,
       "is_public": true,
-      "modified": "2020-06-01T10:15:48.603385+00:00",
+      "modified": "2020-06-01T10:50:21.161128+00:00",
       "note": "You can view and manage web certificates more easily on the new `about:certificate` page.",
       "sort_num": 0,
-      "tag": ""
+      "tag": "New"
     },
     {
       "bug": 1628926,
@@ -45,6 +45,16 @@
       "note": "The `browser.urlbar.oneOffSearches` preference has been removed. To hide one-off search buttons uncheck search engines on the about:preferences#search page",
       "sort_num": 0,
       "tag": "Changed"
+    },
+    {
+      "bug": 1320229,
+      "created": "2020-05-28T13:21:09.468338+00:00",
+      "id": 788329,
+      "is_public": true,
+      "modified": "2020-06-01T10:54:17.720850+00:00",
+      "note": "Text exceeding maxlength [will no longer be truncated][1] when pasted into &lt;input&gt; or &lt;textarea&gt;\r\n\r\n\r\n  [1]: https://www.fxsitecompat.dev/en-CA/docs/2020/text-exceeding-maxlength-will-no-longer-be-truncated-when-pasted-into-input-or-textarea/",
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
       "bug": null,
@@ -81,8 +91,8 @@
       "created": "2020-06-01T10:23:10.563952+00:00",
       "id": 788341,
       "is_public": true,
-      "modified": "2020-06-01T10:23:10.563756+00:00",
-      "note": "A number of features have been fixed to improve Firefox accessibility.\r\n\r\n* The applications list in Firefox Options is now accessible to screen reader users. \r\n\r\n* Some live regions previously didn't report updated text with the JAWS screen reader. This issue has been fixed.\r\n\r\n* Date/time inputs are now no longer missing labels for users of accessibility tools.",
+      "modified": "2020-06-01T10:52:43.205673+00:00",
+      "note": "A number of features have been fixed to improve Firefox accessibility.\r\n\r\n* The applications list in Firefox Options is now accessible to screen reader users. \r\n* Some live regions previously didn't report updated text with the JAWS screen reader. This issue has been fixed.\r\n* Date/time inputs are now no longer missing labels for users of accessibility tools.",
       "sort_num": 0,
       "tag": "Fixed"
     }
