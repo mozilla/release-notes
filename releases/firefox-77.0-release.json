@@ -15,6 +15,76 @@
       "note": "Pocket recommendations, featuring some of the best stories on the web, will appear on the Firefox new tab for our users in the UK. If you don\u2019t see them, you can turn on Pocket articles in your new tab, [follow these steps][1]. \r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/hide-or-display-content-new-tab",
       "sort_num": 0,
       "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2020-06-01T10:15:20.214396+00:00",
+      "id": 788336,
+      "is_public": true,
+      "modified": "2020-06-01T10:15:20.214196+00:00",
+      "note": "WebRender continues its roll out to [more Firefox for Windows users][1], now available by default on Windows 10 laptops running on Nvidia GPUs with medium (<= 3440x1440) and large screens (> 3440x1440).\r\n\r\n\r\n  [1]: https://wiki.mozilla.org/Platform/GFX/WebRender_Where",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2020-06-01T10:15:48.603576+00:00",
+      "id": 788337,
+      "is_public": true,
+      "modified": "2020-06-01T10:15:48.603385+00:00",
+      "note": "You can view and manage web certificates more easily on the new `about:certificate` page.",
+      "sort_num": 0,
+      "tag": ""
+    },
+    {
+      "bug": 1628926,
+      "created": "2020-04-27T15:18:21.625963+00:00",
+      "id": 788310,
+      "is_public": true,
+      "modified": "2020-06-01T10:21:08.787874+00:00",
+      "note": "The `browser.urlbar.oneOffSearches` preference has been removed. To hide one-off search buttons uncheck search engines on the about:preferences#search page",
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
+      "bug": null,
+      "created": "2020-06-01T10:17:57.311527+00:00",
+      "id": 788338,
+      "is_public": true,
+      "modified": "2020-06-01T10:17:57.311227+00:00",
+      "note": "Significant improvements to JavaScript debugging make loading and stepping through sources faster and with less memory being used over time. Source map support also got a lot more reliable and will just work for a lot more cases.",
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
+      "bug": null,
+      "created": "2020-06-01T10:19:11.929279+00:00",
+      "id": 788339,
+      "is_public": true,
+      "modified": "2020-06-01T10:19:11.929087+00:00",
+      "note": "Added support for the JavaScript API [String.prototype.replaceAll()][1] which allows developers to return a new string with all matches to the provided pattern while preserving the original string.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/String/replaceAll",
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
+      "bug": null,
+      "created": "2020-06-01T10:21:48.465075+00:00",
+      "id": 788340,
+      "is_public": true,
+      "modified": "2020-06-01T10:21:48.464869+00:00",
+      "note": "Various [security fixes][1].\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2020-06-01T10:23:10.563952+00:00",
+      "id": 788341,
+      "is_public": true,
+      "modified": "2020-06-01T10:23:10.563756+00:00",
+      "note": "A number of features have been fixed to improve Firefox accessibility.\r\n\r\n* The applications list in Firefox Options is now accessible to screen reader users. \r\n\r\n* Some live regions previously didn't report updated text with the JAWS screen reader. This issue has been fixed.\r\n\r\n* Date/time inputs are now no longer missing labels for users of accessibility tools.",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
