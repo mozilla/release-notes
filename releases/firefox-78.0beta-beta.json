@@ -37,6 +37,16 @@
       "tag": "Changed"
     },
     {
+      "bug": null,
+      "created": "2020-06-02T13:27:18.574897+00:00",
+      "id": 788342,
+      "is_public": true,
+      "modified": "2020-06-02T13:27:18.574690+00:00",
+      "note": "Firefox 78 is the last major release with support for macOS versions 10.9, 10.10 and 10.11. Users of these macOS versions will be supported through Firefox ESR 78.x for the coming year.",
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
       "bug": 1634135,
       "created": "2020-05-28T15:26:28.483343+00:00",
       "id": 788331,
