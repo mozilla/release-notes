@@ -2,46 +2,26 @@
   "bug_list": "",
   "bug_search_url": "",
   "channel": "Release",
-  "created": "2020-05-07T19:48:24.893437+00:00",
-  "is_public": true,
-  "modified": "2020-05-08T13:22:29.784378+00:00",
+  "created": "2020-06-03T00:57:56.609129+00:00",
+  "is_public": false,
+  "modified": "2020-06-03T00:58:21.285644+00:00",
   "notes": [
     {
       "bug": null,
-      "created": "2020-05-07T19:48:47.288288+00:00",
-      "id": 788325,
+      "created": "2020-06-03T00:58:19.613081+00:00",
+      "id": 788343,
       "is_public": true,
-      "modified": "2020-06-03T00:58:19.801100+00:00",
-      "note": "Reference link to [76.0 release notes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/firefox/76.0/releasenotes/",
+      "modified": "2020-06-03T00:59:20.242714+00:00",
+      "note": "Reference link to [77.0 release notes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/firefox/77.0/releasenotes/",
       "sort_num": 0,
       "tag": ""
-    },
-    {
-      "bug": 1635637,
-      "created": "2020-05-07T19:54:07.552973+00:00",
-      "id": 788326,
-      "is_public": true,
-      "modified": "2020-06-03T00:58:16.830681+00:00",
-      "note": "Fixed a bug causing some add-ons such as Amazon Assistant to see multiple onConnect events, impairing functionality ([bug 1635637][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1635637",
-      "sort_num": 20,
-      "tag": "Fixed"
-    },
-    {
-      "bug": 1635823,
-      "created": "2020-05-07T19:55:42.659979+00:00",
-      "id": 788327,
-      "is_public": true,
-      "modified": "2020-06-03T00:58:15.783504+00:00",
-      "note": "Fixed a crash on 32-bit Windows systems with some nVidia drivers installed ([bug 1635823][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1635823",
-      "sort_num": 10,
-      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
-  "release_date": "2020-05-08",
-  "slug": "firefox-76.0.1-release",
+  "release_date": "2020-06-03",
+  "slug": "firefox-77.0.1-release",
   "system_requirements": "## Windows\r\n\r\n### Operating Systems (32-bit and 64-bit)\r\n - Windows 7\r\n - Windows 8\r\n - Windows 10\r\n\r\n### Recommended Hardware\r\n-  Pentium 4 or newer processor that supports SSE2\r\n-  512MB of RAM / 2GB of RAM for the 64-bit version\r\n-  200MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- macOS 10.9\r\n- macOS 10.10\r\n- macOS 10.11\r\n- macOS 10.12\r\n- macOS 10.13\r\n- macOS 10.14\r\n- macOS 10.15\r\n\r\n### Recommended Hardware\r\n- Macintosh computer with an Intel x86 processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - GTK+ 3.4 or higher\r\n    - GLib 2.22 or higher\r\n    - Pango 1.22 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n    - libstdc++ 4.7 or higher\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - NetworkManager 0.7 or higher\r\n    - DBus 1.0 or higher\r\n    - GNOME 2.16 or higher\r\n    - PulseAudio",
   "text": "",
-  "title": "Firefox 76.0.1 Release",
-  "version": "76.0.1"
+  "title": "Firefox 77.0.1 Release",
+  "version": "77.0.1"
 }
