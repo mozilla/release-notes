@@ -15,6 +15,16 @@
       "note": "Reference link to [77.0 release notes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/firefox/77.0/releasenotes/",
       "sort_num": 0,
       "tag": ""
+    },
+    {
+      "bug": 1642723,
+      "created": "2020-06-03T01:15:20.755150+00:00",
+      "id": 788344,
+      "is_public": true,
+      "modified": "2020-06-03T01:15:20.754955+00:00",
+      "note": "Disabled automatic selection of DNS over HTTPS providers during a test to enable wider deployment in a more controlled way ([bug 1642723][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1642723",
+      "sort_num": 10,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
