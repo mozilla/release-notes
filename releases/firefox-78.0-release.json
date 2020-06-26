@@ -7,13 +7,13 @@
   "modified": "2020-06-26T14:14:13.258463+00:00",
   "notes": [
     {
-      "bug": 773942,
-      "created": "2020-05-29T10:23:59.377521+00:00",
-      "id": 788332,
+      "bug": null,
+      "created": "2020-06-26T14:15:20.479558+00:00",
+      "id": 788346,
       "is_public": true,
-      "modified": "2020-06-26T09:23:50.125344+00:00",
-      "note": "PDF downloads now show an option to open the PDF directly in Firefox",
-      "sort_num": 0,
+      "modified": "2020-06-26T14:15:43.379414+00:00",
+      "note": "The [Protections Dashboard][0] includes consolidated reports about tracking protection, data breaches, and password management. New features let you:\r\n\r\n- Track how many breaches you\u2019ve resolved right from the dashboard \r\n- See if any of your saved passwords may have been exposed in a data breach \r\n\r\nTo view your dashboard, type about:protections into the address bar, or select \u201cProtections Dashboard\u201d from the main menu.\r\n\r\n[0]: https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop#w_protections-dashboard",
+      "sort_num": 1000,
       "tag": "New"
     },
     {
@@ -21,8 +21,58 @@
       "created": "2020-06-01T08:56:49.721480+00:00",
       "id": 788334,
       "is_public": true,
+      "modified": "2020-06-26T14:16:56.846024+00:00",
+      "note": "Because we know people try to fix problems by reinstalling Firefox when a simple [refresh is more likely to solve the issue][0], we\u2019ve added a Refresh button to the Uninstaller. \r\n\r\n[0]: https://support.mozilla.org/kb/refresh-firefox-reset-add-ons-and-settings",
+      "sort_num": 900,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2020-06-26T14:18:18.448268+00:00",
+      "id": 788347,
+      "is_public": true,
+      "modified": "2020-06-26T14:18:18.448070+00:00",
+      "note": "With this release, your screen saver will no longer interrupt WebRTC calls on Firefox, making conference and video calling in Firefox better.",
+      "sort_num": 800,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2020-06-26T14:19:19.021018+00:00",
+      "id": 788348,
+      "is_public": true,
+      "modified": "2020-06-26T14:19:19.020822+00:00",
+      "note": "We\u2019ve rolled out WebRender to [Windows users with Intel GPUs][0], bringing improved graphics performance to an even larger audience. \r\n\r\n[0]: https://wiki.mozilla.org/Platform/GFX/WebRender_Where",
+      "sort_num": 700,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2020-06-26T14:20:22.935358+00:00",
+      "id": 788349,
+      "is_public": true,
+      "modified": "2020-06-26T14:20:22.935160+00:00",
+      "note": "Firefox 78 is also our Extended Support Release (ESR), where the changes made over the course of the previous 10 releases will now roll out to our ESR users. Some of the highlights are:\r\n\r\n- Kiosk mode\r\n- Client certificates\r\n- Service Worker and Push APIs are now enabled \r\n- The Block Autoplay feature is enabled \r\n- Picture-in-picture support\r\n- View and manage web certificates in about:certificate",
+      "sort_num": 500,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2020-06-26T14:21:31.558130+00:00",
+      "id": 788350,
+      "is_public": true,
+      "modified": "2020-06-26T14:21:31.557943+00:00",
+      "note": "[Pocket recommendations][0], featuring some of the best stories on the web, will now appear on the Firefox new tab for 100% of our users in the UK. If you don\u2019t see them, you can turn on Pocket articles in your new tab, [follow these steps][1].\r\n\r\n[0]: https://blog.mozilla.org/blog/2020/06/02/pocket-provides-fascinating-reads-from-trusted-sources-in-the-uk-with-newest-firefox/\r\n[1]: https://support.mozilla.org/kb/hide-or-display-content-new-tab",
+      "sort_num": 400,
+      "tag": "New"
+    },
+    {
+      "bug": 773942,
+      "created": "2020-05-29T10:23:59.377521+00:00",
+      "id": 788332,
+      "is_public": true,
       "modified": "2020-06-26T09:23:50.125344+00:00",
-      "note": "On Windows, the Firefox uninstaller has a new option to [refresh your profile][0]\r\n\r\n[0]: https://support.mozilla.org/kb/refresh-firefox-reset-add-ons-and-settings",
+      "note": "PDF downloads now show an option to open the PDF directly in Firefox",
       "sort_num": 0,
       "tag": "New"
     },
@@ -41,8 +91,8 @@
       "created": "2020-05-28T15:26:28.483343+00:00",
       "id": 788331,
       "is_public": true,
-      "modified": "2020-06-26T09:23:50.125344+00:00",
-      "note": "New RegExp engine in SpiderMonkey, adding support for the dotAll flag, Unicode escape sequences, lookbehind references, and named captures.",
+      "modified": "2020-06-26T14:28:58.568577+00:00",
+      "note": "New [RegExp][0] engine in SpiderMonkey, adding support for the dotAll flag, Unicode escape sequences, lookbehind references, and named captures.\r\n\r\n[0]: https://developer.mozilla.org/docs/Web/JavaScript/Guide/Regular_Expressions",
       "sort_num": 0,
       "tag": "Developer"
     }

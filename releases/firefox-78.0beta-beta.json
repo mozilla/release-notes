@@ -7,22 +7,22 @@
   "modified": "2020-06-02T07:43:48.254602+00:00",
   "notes": [
     {
+      "bug": 1633505,
+      "created": "2020-06-01T08:56:49.721480+00:00",
+      "id": 788334,
+      "is_public": true,
+      "modified": "2020-06-26T14:16:56.846024+00:00",
+      "note": "Because we know people try to fix problems by reinstalling Firefox when a simple [refresh is more likely to solve the issue][0], we\u2019ve added a Refresh button to the Uninstaller. \r\n\r\n[0]: https://support.mozilla.org/kb/refresh-firefox-reset-add-ons-and-settings",
+      "sort_num": 900,
+      "tag": "New"
+    },
+    {
       "bug": 773942,
       "created": "2020-05-29T10:23:59.377521+00:00",
       "id": 788332,
       "is_public": true,
       "modified": "2020-06-26T09:23:50.125344+00:00",
       "note": "PDF downloads now show an option to open the PDF directly in Firefox",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
-      "bug": 1633505,
-      "created": "2020-06-01T08:56:49.721480+00:00",
-      "id": 788334,
-      "is_public": true,
-      "modified": "2020-06-26T09:23:50.125344+00:00",
-      "note": "On Windows, the Firefox uninstaller has a new option to [refresh your profile][0]\r\n\r\n[0]: https://support.mozilla.org/kb/refresh-firefox-reset-add-ons-and-settings",
       "sort_num": 0,
       "tag": "New"
     },
@@ -51,8 +51,8 @@
       "created": "2020-05-28T15:26:28.483343+00:00",
       "id": 788331,
       "is_public": true,
-      "modified": "2020-06-26T09:23:50.125344+00:00",
-      "note": "New RegExp engine in SpiderMonkey, adding support for the dotAll flag, Unicode escape sequences, lookbehind references, and named captures.",
+      "modified": "2020-06-26T14:28:58.568577+00:00",
+      "note": "New [RegExp][0] engine in SpiderMonkey, adding support for the dotAll flag, Unicode escape sequences, lookbehind references, and named captures.\r\n\r\n[0]: https://developer.mozilla.org/docs/Web/JavaScript/Guide/Regular_Expressions",
       "sort_num": 0,
       "tag": "Developer"
     }
