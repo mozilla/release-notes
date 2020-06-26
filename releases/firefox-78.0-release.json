@@ -31,17 +31,17 @@
       "created": "2020-06-26T14:18:18.448268+00:00",
       "id": 788347,
       "is_public": true,
-      "modified": "2020-06-26T14:18:18.448070+00:00",
+      "modified": "2020-06-26T14:56:04.247977+00:00",
       "note": "With this release, your screen saver will no longer interrupt WebRTC calls on Firefox, making conference and video calling in Firefox better.",
       "sort_num": 800,
       "tag": "New"
     },
     {
-      "bug": null,
+      "bug": 1636225,
       "created": "2020-06-26T14:19:19.021018+00:00",
       "id": 788348,
       "is_public": true,
-      "modified": "2020-06-26T14:19:19.020822+00:00",
+      "modified": "2020-06-26T14:57:28.240844+00:00",
       "note": "We\u2019ve rolled out WebRender to [Windows users with Intel GPUs][0], bringing improved graphics performance to an even larger audience. \r\n\r\n[0]: https://wiki.mozilla.org/Platform/GFX/WebRender_Where",
       "sort_num": 700,
       "tag": "New"
@@ -71,19 +71,49 @@
       "created": "2020-05-28T14:33:44.580948+00:00",
       "id": 788330,
       "is_public": true,
-      "modified": "2020-06-26T14:40:31.962266+00:00",
+      "modified": "2020-06-26T14:58:27.412598+00:00",
       "note": "The minimal [system requirements][0] on Linux have been updated. Firefox now needs GNU libc 2.17, libstdc++ 4.8.1 and GTK+ 3.14 or newer versions.\r\n\r\n[0]: https://www.mozilla.org/firefox/78.0/system-requirements",
       "sort_num": 1000,
       "tag": "Changed"
     },
     {
-      "bug": null,
+      "bug": 1496639,
       "created": "2020-06-26T14:40:09.646793+00:00",
       "id": 788356,
       "is_public": true,
-      "modified": "2020-06-26T14:40:09.646458+00:00",
+      "modified": "2020-06-26T14:53:28.446678+00:00",
       "note": "As part of our ongoing effort to deprecate obsolete cryptography, we have disabled all remaining DHE-based TLS ciphersuites by default.\r\n\r\n* To mitigate web compatibility issues from disabling DHE-based TLS ciphersuites, Firefox 78 enables two more AES-GCM SHA2-based ciphersuites.",
       "sort_num": 800,
+      "tag": "Changed"
+    },
+    {
+      "bug": null,
+      "created": "2020-06-02T13:27:18.574897+00:00",
+      "id": 788342,
+      "is_public": true,
+      "modified": "2020-06-26T14:58:19.660825+00:00",
+      "note": "Firefox 78 is the last major release with support for macOS versions 10.9, 10.10 and 10.11. Users of these macOS versions will be supported through Firefox ESR 78.x for the coming year.",
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
+      "bug": 1643229,
+      "created": "2020-06-26T14:46:36.775908+00:00",
+      "id": 788357,
+      "is_public": true,
+      "modified": "2020-06-26T14:53:17.756937+00:00",
+      "note": "We have [disabled TLS 1.0 and TLS 1.1][0] to improve your website connections. Sites that don't support TLS version 1.2 will now show an error page.\r\n\r\n[0]: https://hacks.mozilla.org/2020/02/its-the-boot-for-tls-1-0-and-tls-1-1/",
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
+      "bug": 887515,
+      "created": "2020-06-26T14:50:08.474111+00:00",
+      "id": 788358,
+      "is_public": true,
+      "modified": "2020-06-26T14:52:28.856433+00:00",
+      "note": "The context menu (accessed by right clicking on a tab) lets you undo multiple tab closings with a single click and places Close Tabs to the Right and Close Other Tabs in a submenu.",
+      "sort_num": 0,
       "tag": "Changed"
     },
     {
@@ -107,11 +137,11 @@
       "tag": "Developer"
     },
     {
-      "bug": null,
+      "bug": 1555057,
       "created": "2020-06-26T14:33:31.079740+00:00",
       "id": 788351,
       "is_public": true,
-      "modified": "2020-06-26T14:33:31.079544+00:00",
+      "modified": "2020-06-26T14:54:52.720176+00:00",
       "note": "The Firefox DevTools\u2019 Network panel now highlights which extension or CORS restriction blocked a request, so developers can make their sites more resilient and secure.",
       "sort_num": 100,
       "tag": "Developer"
@@ -145,6 +175,26 @@
       "note": "Enable support for client certificates stored on macOS and Windows by setting the experimental preference security.osclientcerts.autoload to `true`.",
       "sort_num": 0,
       "tag": "Enterprise"
+    },
+    {
+      "bug": null,
+      "created": "2020-06-26T14:51:03.242368+00:00",
+      "id": 788359,
+      "is_public": true,
+      "modified": "2020-06-26T14:51:03.242180+00:00",
+      "note": "Various [security fixes][0].\r\n\r\n[0]: https://www.mozilla.org/security/known-vulnerabilities/firefox/#firefox78",
+      "sort_num": 100,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2020-06-26T14:51:18.859757+00:00",
+      "id": 788360,
+      "is_public": true,
+      "modified": "2020-06-26T14:51:18.859560+00:00",
+      "note": "We fixed bugs in the search results quality composition and improved search result texts based on recommendations by our partners.",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
