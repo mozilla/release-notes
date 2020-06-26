@@ -67,24 +67,54 @@
       "tag": "New"
     },
     {
-      "bug": 773942,
-      "created": "2020-05-29T10:23:59.377521+00:00",
-      "id": 788332,
-      "is_public": true,
-      "modified": "2020-06-26T09:23:50.125344+00:00",
-      "note": "PDF downloads now show an option to open the PDF directly in Firefox",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
       "bug": 1634204,
       "created": "2020-05-28T14:33:44.580948+00:00",
       "id": 788330,
       "is_public": true,
-      "modified": "2020-06-26T09:23:50.125344+00:00",
+      "modified": "2020-06-26T14:40:31.962266+00:00",
       "note": "The minimal [system requirements][0] on Linux have been updated. Firefox now needs GNU libc 2.17, libstdc++ 4.8.1 and GTK+ 3.14 or newer versions.\r\n\r\n[0]: https://www.mozilla.org/firefox/78.0/system-requirements",
-      "sort_num": 0,
+      "sort_num": 1000,
       "tag": "Changed"
+    },
+    {
+      "bug": null,
+      "created": "2020-06-26T14:40:09.646793+00:00",
+      "id": 788356,
+      "is_public": true,
+      "modified": "2020-06-26T14:40:09.646458+00:00",
+      "note": "As part of our ongoing effort to deprecate obsolete cryptography, we have disabled all remaining DHE-based TLS ciphersuites by default.\r\n\r\n* To mitigate web compatibility issues from disabling DHE-based TLS ciphersuites, Firefox 78 enables two more AES-GCM SHA2-based ciphersuites.",
+      "sort_num": 800,
+      "tag": "Changed"
+    },
+    {
+      "bug": null,
+      "created": "2020-06-26T14:33:58.881043+00:00",
+      "id": 788352,
+      "is_public": true,
+      "modified": "2020-06-26T14:33:58.880833+00:00",
+      "note": "DevTools Console now logs uncaught promise errors with much more detailed names, stacks, and properties, particularly improving JavaScript framework debugging.",
+      "sort_num": 800,
+      "tag": "Developer"
+    },
+    {
+      "bug": null,
+      "created": "2020-06-26T14:34:56.702954+00:00",
+      "id": 788353,
+      "is_public": true,
+      "modified": "2020-06-26T14:35:05.418010+00:00",
+      "note": "Debugger\u2019s automatic mapping for minified variable names now also works for [Logpoints][0], which makes debugger of source-mapped projects feel more seamless.\r\n\r\n[0]: https://developer.mozilla.org/docs/Tools/Debugger/Set_a_logpoint",
+      "sort_num": 600,
+      "tag": "Developer"
+    },
+    {
+      "bug": null,
+      "created": "2020-06-26T14:33:31.079740+00:00",
+      "id": 788351,
+      "is_public": true,
+      "modified": "2020-06-26T14:33:31.079544+00:00",
+      "note": "The Firefox DevTools\u2019 Network panel now highlights which extension or CORS restriction blocked a request, so developers can make their sites more resilient and secure.",
+      "sort_num": 100,
+      "tag": "Developer"
     },
     {
       "bug": 1634135,
@@ -95,6 +125,26 @@
       "note": "New [RegExp][0] engine in SpiderMonkey, adding support for the dotAll flag, Unicode escape sequences, lookbehind references, and named captures.\r\n\r\n[0]: https://developer.mozilla.org/docs/Web/JavaScript/Guide/Regular_Expressions",
       "sort_num": 0,
       "tag": "Developer"
+    },
+    {
+      "bug": null,
+      "created": "2020-06-26T14:38:52.320930+00:00",
+      "id": 788354,
+      "is_public": true,
+      "modified": "2020-06-26T14:38:52.320729+00:00",
+      "note": "New policies allow you to configure application handlers, disable picture in picture, and require a master password, which will be renamed to \u2018primary password\u2019 in future releases.",
+      "sort_num": 0,
+      "tag": "Enterprise"
+    },
+    {
+      "bug": null,
+      "created": "2020-06-26T14:39:24.581269+00:00",
+      "id": 788355,
+      "is_public": true,
+      "modified": "2020-06-26T14:39:24.581048+00:00",
+      "note": "Enable support for client certificates stored on macOS and Windows by setting the experimental preference security.osclientcerts.autoload to `true`.",
+      "sort_num": 0,
+      "tag": "Enterprise"
     }
   ],
   "product": "Firefox",
