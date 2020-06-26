@@ -4,7 +4,7 @@
   "channel": "Release",
   "created": "2020-06-26T09:23:02.659324+00:00",
   "is_public": false,
-  "modified": "2020-06-26T09:23:35.846228+00:00",
+  "modified": "2020-06-26T14:14:13.258463+00:00",
   "notes": [
     {
       "bug": 773942,
@@ -37,16 +37,6 @@
       "tag": "Changed"
     },
     {
-      "bug": null,
-      "created": "2020-06-02T13:27:18.574897+00:00",
-      "id": 788342,
-      "is_public": true,
-      "modified": "2020-06-26T09:23:50.125344+00:00",
-      "note": "Firefox 78 is the last major release with support for macOS versions 10.9, 10.10 and 10.11. Users of these macOS versions will be supported through Firefox ESR 78.x for the coming year.",
-      "sort_num": 0,
-      "tag": "Changed"
-    },
-    {
       "bug": 1634135,
       "created": "2020-05-28T15:26:28.483343+00:00",
       "id": 788331,
@@ -61,7 +51,7 @@
   "release_date": "2020-06-30",
   "slug": "firefox-78.0-release",
   "system_requirements": "## Windows\r\n\r\n### Operating Systems (32-bit and 64-bit)\r\n - Windows 7\r\n - Windows 8\r\n - Windows 10\r\n\r\n### Recommended Hardware\r\n-  Pentium 4 or newer processor that supports SSE2\r\n-  512MB of RAM / 2GB of RAM for the 64-bit version\r\n-  200MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- macOS 10.9\r\n- macOS 10.10\r\n- macOS 10.11\r\n- macOS 10.12\r\n- macOS 10.13\r\n- macOS 10.14\r\n- macOS 10.15\r\n\r\n### Recommended Hardware\r\n- Macintosh computer with an Intel x86 processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - GTK+ 3.14 or higher\r\n    - GLib 2.22 or higher\r\n    - Pango 1.22 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n    - libstdc++ 4.8.1 or higher\r\n    - glibc 2.17 or higher\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - NetworkManager 0.7 or higher\r\n    - DBus 1.0 or higher\r\n    - GNOME 2.16 or higher\r\n    - PulseAudio",
-  "text": "",
+  "text": "Firefox 78 is the last major release with [support for macOS versions 10.9, 10.10 and 10.11][0]. If you use one of these versions, you\u2019ll be supported through Firefox ESR (Extended Support Release) 78.x for the coming year. \r\n\r\nWe'd like to extend a special thank you to all of the [new Mozillians][1] who contributed to this release of Firefox.\r\n\r\n[0]: https://blog.mozilla.org/futurereleases/2020/06/23/update-on-firefox-support-for-macos-10-9-10-10-and-10-11/\r\n[1]: https://blog.mozilla.org/community/2020/06/23/firefox-78-new-contributors/",
   "title": "Firefox 78.0 Release",
   "version": "78.0"
 }
