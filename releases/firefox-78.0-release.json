@@ -198,6 +198,16 @@
     },
     {
       "bug": null,
+      "created": "2020-06-29T19:56:10.594382+00:00",
+      "id": 788366,
+      "is_public": true,
+      "modified": "2020-06-29T19:58:29.700281+00:00",
+      "note": "A number of fixes and improvements were made to Firefox accessibility.\r\n\r\n* When using the JAWS screen reader, pressing down arrow in an HTML input control with a datalist no longer incorrectly moves the cursor to the next element after the input control.\r\n* Screen readers no longer severely lag or freeze when focusing the microphone/camera/screen sharing indicator.\r\n* Large tables with thousands of rows now load much faster for screen reader users.\r\n* Text input controls with custom styling now correctly show the focus outline when appropriate.\r\n* Screen readers no longer sometimes incorrectly switch to document browsing mode unexpectedly when the user enters the main Developer Tools window.\r\n* We fixed a number of issues related to users who require reduced motion for migraines and epilepsy.",
+      "sort_num": 50,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
       "created": "2020-06-26T14:51:18.859757+00:00",
       "id": 788360,
       "is_public": true,
