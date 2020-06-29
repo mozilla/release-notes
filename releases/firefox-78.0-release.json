@@ -4,7 +4,7 @@
   "channel": "Release",
   "created": "2020-06-26T09:23:02.659324+00:00",
   "is_public": false,
-  "modified": "2020-06-26T14:14:13.258463+00:00",
+  "modified": "2020-06-29T20:19:03.949032+00:00",
   "notes": [
     {
       "bug": null,
@@ -87,16 +87,6 @@
       "tag": "Changed"
     },
     {
-      "bug": null,
-      "created": "2020-06-02T13:27:18.574897+00:00",
-      "id": 788342,
-      "is_public": true,
-      "modified": "2020-06-29T20:13:11.612853+00:00",
-      "note": "Firefox 78 is the last major release with support for macOS versions 10.9, 10.10 and 10.11. Users of these macOS versions will be supported through Firefox ESR 78.x for the coming year.",
-      "sort_num": 700,
-      "tag": "Changed"
-    },
-    {
       "bug": 1643229,
       "created": "2020-06-26T14:46:36.775908+00:00",
       "id": 788357,
@@ -121,8 +111,8 @@
       "created": "2020-06-29T19:56:10.594382+00:00",
       "id": 788366,
       "is_public": true,
-      "modified": "2020-06-29T20:15:12.826711+00:00",
-      "note": "A number of accessibility improvements have been made with this release.\r\n\r\n* When using the JAWS screen reader, pressing down arrow in an HTML input control with a datalist no longer incorrectly moves the cursor to the next element after the input control.\r\n* Screen readers no longer severely lag or freeze when focusing the microphone/camera/screen sharing indicator.\r\n* Large tables with thousands of rows now load much faster for screen reader users.\r\n* Text input controls with custom styling now correctly show the focus outline when appropriate.\r\n* Screen readers no longer sometimes incorrectly switch to document browsing mode unexpectedly when the user enters the main Developer Tools window.\r\n* We reduced a number of animations such as tab hover, search bar expansion, and others to reduce motion for users with migraines and epilepsy.",
+      "modified": "2020-06-29T20:25:00.072618+00:00",
+      "note": "A number of accessibility improvements have been made with this release.\r\n\r\n* When using the JAWS screen reader, pressing the down arrow in an HTML input control with a datalist no longer incorrectly moves the cursor to the next element after the input control.\r\n* Screen readers no longer severely lag or freeze when focusing the microphone/camera/screen sharing indicator.\r\n* Large tables with thousands of rows now load much faster for screen reader users.\r\n* Text input controls with custom styling now correctly show the focus outline when appropriate.\r\n* Screen readers no longer sometimes incorrectly switch to document browsing mode unexpectedly when the user enters the main Developer Tools window.\r\n* We reduced a number of animations such as tab hover, search bar expansion, and others to reduce motion for users with migraines and epilepsy.",
       "sort_num": 100,
       "tag": "Changed"
     },
