@@ -4,15 +4,15 @@
   "channel": "ESR",
   "created": "2020-06-26T09:23:50.114186+00:00",
   "is_public": true,
-  "modified": "2020-06-30T14:29:50.995260+00:00",
+  "modified": "2020-06-30T14:33:42.390345+00:00",
   "notes": [
     {
       "bug": null,
       "created": "2020-06-29T19:38:59.484959+00:00",
       "id": 788365,
       "is_public": true,
-      "modified": "2020-06-29T19:39:41.625019+00:00",
-      "note": "Some of the highlights of the new Extended Support Release are:\r\n\r\n- Kiosk mode\r\n- Client certificates\r\n- Service Worker and Push APIs are now enabled \r\n- The Block Autoplay feature is enabled \r\n- Picture-in-picture support\r\n- View and manage web certificates in about:certificate",
+      "modified": "2020-06-30T14:33:22.115399+00:00",
+      "note": "Some of the highlights of the new Extended Support Release are:\r\n\r\n- Kiosk mode\r\n- Client certificates\r\n- Service Worker and Push APIs are now enabled \r\n- The Block Autoplay feature is enabled \r\n- Picture-in-picture support\r\n- View and manage web certificates in about:certificate\r\n\r\nFor more information about what's new in the Firefox 78 ESR release, see the [more detailed release notes][1] at support.mozilla.org.\r\n\r\n  [1]: https://support.mozilla.org/kb/firefox-enterprise-78-release-notes",
       "sort_num": 500,
       "tag": "New"
     }
@@ -21,7 +21,7 @@
   "release_date": "2020-06-30",
   "slug": "firefox-78.0esr-esr",
   "system_requirements": "## Windows\r\n\r\n### Operating Systems (32-bit and 64-bit)\r\n - Windows 7\r\n - Windows 8\r\n - Windows 10\r\n\r\n### Recommended Hardware\r\n-  Pentium 4 or newer processor that supports SSE2\r\n-  512MB of RAM / 2GB of RAM for the 64-bit version\r\n-  200MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- macOS 10.9\r\n- macOS 10.10\r\n- macOS 10.11\r\n- macOS 10.12\r\n- macOS 10.13\r\n- macOS 10.14\r\n- macOS 10.15\r\n\r\n### Recommended Hardware\r\n- Macintosh computer with an Intel x86 processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - GTK+ 3.14 or higher\r\n    - GLib 2.22 or higher\r\n    - Pango 1.22 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n    - libstdc++ 4.8.1 or higher\r\n    - glibc 2.17 or higher\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - NetworkManager 0.7 or higher\r\n    - DBus 1.0 or higher\r\n    - GNOME 2.16 or higher\r\n    - PulseAudio",
-  "text": "Firefox 78 ESR includes all of the enhancements since Firefox 68 along with many new features to make your enterprise deployments easier and even more flexible. For more information about what's new in the Firefox 78 ESR release, [more detailed release notes][1] are available.\r\n\r\nWe'd like to extend a special thank you to all of the [new Mozillians][2] who contributed to this release of Firefox.\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/firefox-enterprise-78-release-notes\r\n  [2]: https://blog.mozilla.org/community/2020/06/23/firefox-78-new-contributors/",
+  "text": "Firefox 78 ESR includes all of the enhancements since Firefox 68 along with many new features to make your enterprise deployments easier and even more flexible.\r\n\r\nWe'd like to extend a special thank you to all of the [new Mozillians][1] who contributed to this release of Firefox.\r\n\r\n  [1]: https://blog.mozilla.org/community/2020/06/23/firefox-78-new-contributors/",
   "title": "Firefox Extended Support Release 78.0esr ESR",
   "version": "78.0esr"
 }
