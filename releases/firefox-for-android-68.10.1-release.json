@@ -1,0 +1,27 @@
+{
+  "bug_list": "",
+  "bug_search_url": "",
+  "channel": "Release",
+  "created": "2020-07-06T18:01:20.346864+00:00",
+  "is_public": false,
+  "modified": "2020-07-06T18:01:36.934405+00:00",
+  "notes": [
+    {
+      "bug": null,
+      "created": "2020-07-06T18:01:40.160598+00:00",
+      "id": 788370,
+      "is_public": true,
+      "modified": "2020-07-06T18:02:26.088595+00:00",
+      "note": "Fixed a critical [security bug][0]\r\n\r\n[0]: https://www.mozilla.org/security/advisories/mfsa2020-27/",
+      "sort_num": 0,
+      "tag": "Fixed"
+    }
+  ],
+  "product": "Firefox for Android",
+  "release_date": "2020-07-07",
+  "slug": "firefox-for-android-68.10.1-release",
+  "system_requirements": "## Operating systems\r\n - Android 4.1\r\n - Above versions\r\n\r\n## Requirements\r\n - 50 MB internal storage\r\n - 384 MB of RAM\r\n - display at least 320 pixels high and 240 pixels wide",
+  "text": "",
+  "title": "Firefox for Android 68.10.1 Release",
+  "version": "68.10.1"
+}
