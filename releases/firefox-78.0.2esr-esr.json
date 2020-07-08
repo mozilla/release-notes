@@ -15,6 +15,36 @@
       "note": "Reference link to [78.0.1esr release notes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/firefox/78.0.1esr/releasenotes/",
       "sort_num": 0,
       "tag": ""
+    },
+    {
+      "bug": null,
+      "created": "2020-07-08T13:47:27.705779+00:00",
+      "id": 788373,
+      "is_public": true,
+      "modified": "2020-07-08T13:51:10.506677+00:00",
+      "note": "[Security fix][0]\r\n\r\n[0]: https://www.mozilla.org/security/known-vulnerabilities/firefox/#firefox78.0.2",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1650922,
+      "created": "2020-07-08T13:49:03.399364+00:00",
+      "id": 788374,
+      "is_public": true,
+      "modified": "2020-07-08T13:49:08.988055+00:00",
+      "note": "Fixed an accessibility regression in reader mode ([bug 1650922][0])\r\n\r\n[0]: https://bugzilla.mozilla.org/1650922",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1649981,
+      "created": "2020-07-08T13:50:32.076151+00:00",
+      "id": 788375,
+      "is_public": true,
+      "modified": "2020-07-08T13:50:32.075850+00:00",
+      "note": "Made the address bar more resilient to data corruption in the user profile ([bug 1649981][0])\r\n\r\n[0]: https://bugzilla.mozilla.org/1649981",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox Extended Support Release",
