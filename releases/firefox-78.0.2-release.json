@@ -45,6 +45,16 @@
       "note": "Made the address bar more resilient to data corruption in the user profile ([bug 1649981][0])\r\n\r\n[0]: https://bugzilla.mozilla.org/1649981",
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": 1650162,
+      "created": "2020-07-08T17:10:44.322663+00:00",
+      "id": 788376,
+      "is_public": true,
+      "modified": "2020-07-08T17:10:44.322475+00:00",
+      "note": "Fixed a regression opening certain external applications ([bug 1650162][0])\r\n\r\n[0]: https://bugzilla.mozilla.org/1650162",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
