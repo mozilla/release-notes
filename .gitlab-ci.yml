@@ -1,6 +1,6 @@
 update:
   only:
-    - triggers
+    - schedules
   tags:
     - mozmeao
     - aws
