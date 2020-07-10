@@ -6,18 +6,3 @@ update:
     - aws
   script:
     - ./update_docker.sh commit
-
-apply:
-  tags:
-    - iowa-c
-  only:
-    changes:
-      - "k8s/*"
-    refs:
-      - master
-  except:
-    - triggers
-  variables:
-    KUBECONFIG: /home/gitlab-runner/.kube/iowa-a.kubeconfig
-  script:
-    - kubectl apply -f k8s
