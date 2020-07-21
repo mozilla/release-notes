@@ -11,7 +11,7 @@
       "created": "2020-06-26T14:15:20.479558+00:00",
       "id": 788346,
       "is_public": true,
-      "modified": "2020-06-26T14:15:43.379414+00:00",
+      "modified": "2020-07-21T20:09:10.517237+00:00",
       "note": "The [Protections Dashboard][0] includes consolidated reports about tracking protection, data breaches, and password management. New features let you:\r\n\r\n- Track how many breaches you\u2019ve resolved right from the dashboard \r\n- See if any of your saved passwords may have been exposed in a data breach \r\n\r\nTo view your dashboard, type about:protections into the address bar, or select \u201cProtections Dashboard\u201d from the main menu.\r\n\r\n[0]: https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop#w_protections-dashboard",
       "sort_num": 1000,
       "tag": "New"
@@ -21,7 +21,7 @@
       "created": "2020-06-01T08:56:49.721480+00:00",
       "id": 788334,
       "is_public": true,
-      "modified": "2020-06-29T13:37:13.477159+00:00",
+      "modified": "2020-07-21T20:09:11.411571+00:00",
       "note": "Because we know people try to fix problems by reinstalling Firefox when a simple [refresh is more likely to solve the issue][0], we\u2019ve added a Refresh button to the Uninstaller. \r\n\r\n[0]: https://support.mozilla.org/kb/refresh-firefox-reset-add-ons-and-settings",
       "sort_num": 900,
       "tag": "New"
@@ -31,7 +31,7 @@
       "created": "2020-06-26T14:18:18.448268+00:00",
       "id": 788347,
       "is_public": true,
-      "modified": "2020-06-26T14:56:04.247977+00:00",
+      "modified": "2020-07-21T20:09:09.625031+00:00",
       "note": "With this release, your screen saver will no longer interrupt WebRTC calls on Firefox, making conference and video calling in Firefox better.",
       "sort_num": 800,
       "tag": "New"
@@ -41,7 +41,7 @@
       "created": "2020-06-26T14:19:19.021018+00:00",
       "id": 788348,
       "is_public": true,
-      "modified": "2020-06-26T14:57:28.240844+00:00",
+      "modified": "2020-07-21T20:09:08.626215+00:00",
       "note": "We\u2019ve rolled out WebRender to [Windows users with Intel GPUs][0], bringing improved graphics performance to an even larger audience. \r\n\r\n[0]: https://wiki.mozilla.org/Platform/GFX/WebRender_Where",
       "sort_num": 700,
       "tag": "New"
@@ -51,7 +51,7 @@
       "created": "2020-06-26T14:20:22.935358+00:00",
       "id": 788349,
       "is_public": true,
-      "modified": "2020-06-29T19:38:59.663393+00:00",
+      "modified": "2020-07-21T20:09:07.547799+00:00",
       "note": "Firefox 78 is also our Extended Support Release (ESR), where the changes made over the course of the previous 10 releases will now roll out to our ESR users. Some of the highlights are:\r\n\r\n- Kiosk mode\r\n- Client certificates\r\n- Service Worker and Push APIs are now enabled \r\n- The Block Autoplay feature is enabled \r\n- Picture-in-picture support\r\n- View and manage web certificates in about:certificate",
       "sort_num": 500,
       "tag": "New"
@@ -61,7 +61,7 @@
       "created": "2020-06-26T14:21:31.558130+00:00",
       "id": 788350,
       "is_public": true,
-      "modified": "2020-06-26T14:21:31.557943+00:00",
+      "modified": "2020-07-21T20:09:05.556706+00:00",
       "note": "[Pocket recommendations][0], featuring some of the best stories on the web, will now appear on the Firefox new tab for 100% of our users in the UK. If you don\u2019t see them, you can turn on Pocket articles in your new tab, [follow these steps][1].\r\n\r\n[0]: https://blog.mozilla.org/blog/2020/06/02/pocket-provides-fascinating-reads-from-trusted-sources-in-the-uk-with-newest-firefox/\r\n[1]: https://support.mozilla.org/kb/hide-or-display-content-new-tab",
       "sort_num": 400,
       "tag": "New"
@@ -71,7 +71,7 @@
       "created": "2020-05-28T14:33:44.580948+00:00",
       "id": 788330,
       "is_public": true,
-      "modified": "2020-06-29T13:37:15.301479+00:00",
+      "modified": "2020-07-21T20:09:13.509691+00:00",
       "note": "The minimal [system requirements][0] on Linux have been updated. Firefox now needs GNU libc 2.17, libstdc++ 4.8.1 and GTK+ 3.14 or newer versions.\r\n\r\n[0]: https://www.mozilla.org/firefox/78.0/system-requirements",
       "sort_num": 1000,
       "tag": "Changed"
@@ -81,7 +81,7 @@
       "created": "2020-06-26T14:40:09.646793+00:00",
       "id": 788356,
       "is_public": true,
-      "modified": "2020-06-26T14:53:28.446678+00:00",
+      "modified": "2020-07-21T20:09:21.780714+00:00",
       "note": "As part of our ongoing effort to deprecate obsolete cryptography, we have disabled all remaining DHE-based TLS ciphersuites by default.\r\n\r\n* To mitigate web compatibility issues from disabling DHE-based TLS ciphersuites, Firefox 78 enables two more AES-GCM SHA2-based ciphersuites.",
       "sort_num": 800,
       "tag": "Changed"
@@ -91,7 +91,7 @@
       "created": "2020-06-26T14:46:36.775908+00:00",
       "id": 788357,
       "is_public": true,
-      "modified": "2020-06-29T20:12:09.873484+00:00",
+      "modified": "2020-07-21T20:09:20.507475+00:00",
       "note": "We have [disabled TLS 1.0 and TLS 1.1][0] to improve your website connections. Sites that don't support TLS version 1.2 will now show an error page.\r\n\r\n[0]: https://hacks.mozilla.org/2020/02/its-the-boot-for-tls-1-0-and-tls-1-1/",
       "sort_num": 500,
       "tag": "Changed"
@@ -101,7 +101,7 @@
       "created": "2020-06-26T14:50:08.474111+00:00",
       "id": 788358,
       "is_public": true,
-      "modified": "2020-06-29T20:12:20.847295+00:00",
+      "modified": "2020-07-21T20:09:19.073062+00:00",
       "note": "The context menu (accessed by right clicking on a tab) lets you undo multiple tab closings with a single click and places Close Tabs to the Right and Close Other Tabs in a submenu.",
       "sort_num": 300,
       "tag": "Changed"
@@ -111,7 +111,7 @@
       "created": "2020-06-29T19:56:10.594382+00:00",
       "id": 788366,
       "is_public": true,
-      "modified": "2020-06-29T20:25:00.072618+00:00",
+      "modified": "2020-07-21T20:09:14.884791+00:00",
       "note": "A number of accessibility improvements have been made with this release.\r\n\r\n* When using the JAWS screen reader, pressing the down arrow in an HTML input control with a datalist no longer incorrectly moves the cursor to the next element after the input control.\r\n* Screen readers no longer severely lag or freeze when focusing the microphone/camera/screen sharing indicator.\r\n* Large tables with thousands of rows now load much faster for screen reader users.\r\n* Text input controls with custom styling now correctly show the focus outline when appropriate.\r\n* Screen readers no longer sometimes incorrectly switch to document browsing mode unexpectedly when the user enters the main Developer Tools window.\r\n* We reduced a number of animations such as tab hover, search bar expansion, and others to reduce motion for users with migraines and epilepsy.",
       "sort_num": 100,
       "tag": "Changed"
@@ -121,7 +121,7 @@
       "created": "2020-06-26T14:33:58.881043+00:00",
       "id": 788352,
       "is_public": true,
-      "modified": "2020-06-26T14:33:58.880833+00:00",
+      "modified": "2020-07-21T20:09:25.064488+00:00",
       "note": "DevTools Console now logs uncaught promise errors with much more detailed names, stacks, and properties, particularly improving JavaScript framework debugging.",
       "sort_num": 800,
       "tag": "Developer"
@@ -131,7 +131,7 @@
       "created": "2020-06-26T14:34:56.702954+00:00",
       "id": 788353,
       "is_public": true,
-      "modified": "2020-06-26T14:35:05.418010+00:00",
+      "modified": "2020-07-21T20:09:26.208198+00:00",
       "note": "Debugger\u2019s automatic mapping for minified variable names now also works for [Logpoints][0], which makes debugger of source-mapped projects feel more seamless.\r\n\r\n[0]: https://developer.mozilla.org/docs/Tools/Debugger/Set_a_logpoint",
       "sort_num": 600,
       "tag": "Developer"
@@ -141,7 +141,7 @@
       "created": "2020-06-26T14:33:31.079740+00:00",
       "id": 788351,
       "is_public": true,
-      "modified": "2020-06-26T14:54:52.720176+00:00",
+      "modified": "2020-07-21T20:09:04.411357+00:00",
       "note": "The Firefox DevTools\u2019 Network panel now highlights which extension or CORS restriction blocked a request, so developers can make their sites more resilient and secure.",
       "sort_num": 100,
       "tag": "Developer"
@@ -151,7 +151,7 @@
       "created": "2020-05-28T15:26:28.483343+00:00",
       "id": 788331,
       "is_public": true,
-      "modified": "2020-06-29T13:37:16.130403+00:00",
+      "modified": "2020-07-21T20:09:12.278045+00:00",
       "note": "New [RegExp][0] engine in SpiderMonkey, adding support for the dotAll flag, Unicode escape sequences, lookbehind references, and named captures.\r\n\r\n[0]: https://developer.mozilla.org/docs/Web/JavaScript/Guide/Regular_Expressions",
       "sort_num": 0,
       "tag": "Developer"
@@ -161,7 +161,7 @@
       "created": "2020-06-26T14:39:24.581269+00:00",
       "id": 788355,
       "is_public": true,
-      "modified": "2020-06-29T15:04:09.381842+00:00",
+      "modified": "2020-07-21T20:09:23.760350+00:00",
       "note": "Enable support for client certificates stored on macOS and Windows by setting the experimental preference security.osclientcerts.autoload to `true`.",
       "sort_num": 200,
       "tag": "Enterprise"
@@ -171,7 +171,7 @@
       "created": "2020-06-26T14:38:52.320930+00:00",
       "id": 788354,
       "is_public": true,
-      "modified": "2020-06-29T15:04:15.088406+00:00",
+      "modified": "2020-07-21T20:09:27.435750+00:00",
       "note": "New policies allow you to configure application handlers, disable picture in picture, and require a master password, which will be renamed to \u2018primary password\u2019 in future releases.",
       "sort_num": 100,
       "tag": "Enterprise"
@@ -181,7 +181,7 @@
       "created": "2020-06-29T15:02:19.089143+00:00",
       "id": 788364,
       "is_public": true,
-      "modified": "2020-06-29T15:03:26.155451+00:00",
+      "modified": "2020-07-21T20:09:16.593657+00:00",
       "note": "More details in the [Firefox for Enterprise 78 release notes][0]\r\n\r\n[0]: https://support.mozilla.org/kb/firefox-enterprise-78-release-notes",
       "sort_num": 0,
       "tag": "Enterprise"
@@ -191,7 +191,7 @@
       "created": "2020-06-26T14:51:03.242368+00:00",
       "id": 788359,
       "is_public": true,
-      "modified": "2020-07-01T17:08:41.139952+00:00",
+      "modified": "2020-07-21T20:10:02.717771+00:00",
       "note": "Various [security fixes][0].\r\n\r\n[0]: https://www.mozilla.org/security/advisories/mfsa2020-24/",
       "sort_num": 100,
       "tag": "Fixed"
@@ -201,7 +201,7 @@
       "created": "2020-06-26T14:51:18.859757+00:00",
       "id": 788360,
       "is_public": true,
-      "modified": "2020-06-26T14:51:18.859560+00:00",
+      "modified": "2020-07-21T20:09:17.782336+00:00",
       "note": "We fixed bugs in the search results quality composition and improved search result texts based on recommendations by our partners.",
       "sort_num": 0,
       "tag": "Fixed"
