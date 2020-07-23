@@ -78,12 +78,72 @@
     },
     {
       "bug": null,
+      "created": "2020-07-23T20:40:47.207859+00:00",
+      "id": 788387,
+      "is_public": true,
+      "modified": "2020-07-23T20:40:47.207667+00:00",
+      "note": "[Inspecting accessibility properties][1] from the browser context menu is now available to all users by default.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Tools/Accessibility_inspector",
+      "sort_num": 10,
+      "tag": "Developer"
+    },
+    {
+      "bug": null,
+      "created": "2020-07-23T20:42:02.807279+00:00",
+      "id": 788388,
+      "is_public": true,
+      "modified": "2020-07-23T20:42:02.807079+00:00",
+      "note": "A number of bug fixes and new policies have been implemented in the latest version of Firefox.",
+      "sort_num": 20,
+      "tag": "Enterprise"
+    },
+    {
+      "bug": null,
+      "created": "2020-07-23T20:42:42.549597+00:00",
+      "id": 788389,
+      "is_public": true,
+      "modified": "2020-07-23T20:42:42.549394+00:00",
+      "note": "Updates to the [password policy][1] allow admins to require a primary password (formerly called master password. Previously the policy could disable the primary password but not force a primary password. Users required to use a primary password will only be asked to create a primary password the first time they try to save a password.\r\n\r\n\r\n  [1]: https://github.com/mozilla/policy-templates/blob/master/README.md#primarypassword",
+      "sort_num": 10,
+      "tag": "Enterprise"
+    },
+    {
+      "bug": null,
       "created": "2020-07-21T20:10:02.536452+00:00",
       "id": 788379,
       "is_public": true,
-      "modified": "2020-07-21T20:10:40.498690+00:00",
+      "modified": "2020-07-23T20:43:01.910998+00:00",
       "note": "Various [security fixes][0].\r\n\r\n[0]: https://www.mozilla.org/security/advisories/",
-      "sort_num": 100,
+      "sort_num": 40,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2020-07-23T20:43:22.811408+00:00",
+      "id": 788390,
+      "is_public": true,
+      "modified": "2020-07-23T20:43:22.811207+00:00",
+      "note": "Several crashes while using a screen reader were fixed, including a frequently encountered crash when using the JAWS screen reader.",
+      "sort_num": 30,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2020-07-23T20:43:38.831146+00:00",
+      "id": 788391,
+      "is_public": true,
+      "modified": "2020-07-23T20:43:38.830853+00:00",
+      "note": "Firefox Developer Tools received significant fixes allowing screen reader users to benefit from some of the tools that were previously inaccessible.",
+      "sort_num": 20,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2020-07-23T20:44:07.646612+00:00",
+      "id": 788392,
+      "is_public": true,
+      "modified": "2020-07-23T20:44:07.646418+00:00",
+      "note": "SVG `title` and `desc` elements (labels and descriptions) are now correctly exposed to assistive technology products such as screen readers.",
+      "sort_num": 10,
       "tag": "Fixed"
     }
   ],
