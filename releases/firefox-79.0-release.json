@@ -7,6 +7,76 @@
   "modified": "2020-07-23T20:31:56.288328+00:00",
   "notes": [
     {
+      "bug": 1594226,
+      "created": "2020-07-23T20:36:08.052735+00:00",
+      "id": 788380,
+      "is_public": true,
+      "modified": "2020-07-23T20:36:08.052543+00:00",
+      "note": "With this release, we introduce Enhanced Tracking Protection 2.0. ETP now protects users from unwanted first-party cookies: clearing cookies and site data from tracking sites (from the [Disconnect List][1]) daily (except those you have interacted with, which remain 45 days from interaction before being cleared.)\r\n\r\n\r\n  [1]: https://disconnect.me/trackerprotection",
+      "sort_num": 30,
+      "tag": "New"
+    },
+    {
+      "bug": 1643033,
+      "created": "2020-07-23T20:36:55.528294+00:00",
+      "id": 788381,
+      "is_public": true,
+      "modified": "2020-07-23T20:36:55.528098+00:00",
+      "note": "We\u2019ve rolled out WebRender to more [Windows users with Intel and AMD GPUs][1], bringing improved graphics performance to an even larger audience.\r\n\r\n\r\n  [1]: https://wiki.mozilla.org/Platform/GFX/WebRender_Where",
+      "sort_num": 20,
+      "tag": "New"
+    },
+    {
+      "bug": 1653061,
+      "created": "2020-07-23T20:37:46.451709+00:00",
+      "id": 788382,
+      "is_public": true,
+      "modified": "2020-07-23T20:37:46.451513+00:00",
+      "note": "Firefox users in Germany will now see more Pocket recommendations in their new tab featuring some of the best stories on the web. If you don\u2019t see them, you can turn on Pocket articles in your new tab by [following these steps][1].\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/hide-or-display-content-new-tab",
+      "sort_num": 10,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2020-07-23T20:38:50.745478+00:00",
+      "id": 788383,
+      "is_public": true,
+      "modified": "2020-07-23T20:38:50.745248+00:00",
+      "note": "Newly added [asynchronous call stacks][1] let developers trace their async code through events, timeouts, and promises. The async execution chains are shown in the Debugger\u2019s call stack, but also for stack traces in Console errors and Network initiators.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Learn/JavaScript/Asynchronous",
+      "sort_num": 50,
+      "tag": "Developer"
+    },
+    {
+      "bug": null,
+      "created": "2020-07-23T20:39:33.345998+00:00",
+      "id": 788384,
+      "is_public": true,
+      "modified": "2020-07-23T20:39:33.345694+00:00",
+      "note": "Erroneous network responses with 4xx/5xx status codes display as [errors in the Console][1], making it easy to understand them in the context of related logs. The request/response details can be expanded or resent for quick debugging.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Tools/Web_Console/Console_messages#Network",
+      "sort_num": 40,
+      "tag": "Developer"
+    },
+    {
+      "bug": null,
+      "created": "2020-07-23T20:39:55.873309+00:00",
+      "id": 788385,
+      "is_public": true,
+      "modified": "2020-07-23T20:39:55.873106+00:00",
+      "note": "JavaScript errors are now visible not only in the Console, but also in the Debugger. The relevant line of code will be highlighted and display error details on hover.",
+      "sort_num": 30,
+      "tag": "Developer"
+    },
+    {
+      "bug": null,
+      "created": "2020-07-23T20:40:14.990753+00:00",
+      "id": 788386,
+      "is_public": true,
+      "modified": "2020-07-23T20:40:14.990557+00:00",
+      "note": "Opening SCSS and CSS-in-JS sources from the Inspector now works more reliably thanks to improved source map handling across all panels.",
+      "sort_num": 20,
+      "tag": "Developer"
+    },
+    {
       "bug": null,
       "created": "2020-07-21T20:10:02.536452+00:00",
       "id": 788379,
