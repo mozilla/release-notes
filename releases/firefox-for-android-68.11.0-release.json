@@ -3,8 +3,8 @@
   "bug_search_url": "",
   "channel": "Release",
   "created": "2020-07-21T19:11:00.174759+00:00",
-  "is_public": false,
-  "modified": "2020-07-21T19:12:15.853236+00:00",
+  "is_public": true,
+  "modified": "2020-07-27T18:35:14.379174+00:00",
   "notes": [
     {
       "bug": null,
@@ -18,10 +18,10 @@
     }
   ],
   "product": "Firefox for Android",
-  "release_date": "2020-07-28",
+  "release_date": "2020-07-27",
   "slug": "firefox-for-android-68.11.0-release",
   "system_requirements": "## Operating systems\r\n - Android 4.1\r\n - Above versions\r\n\r\n## Requirements\r\n - 50 MB internal storage\r\n - 384 MB of RAM\r\n - display at least 320 pixels high and 240 pixels wide",
-  "text": "",
+  "text": "This is the final release of this version of the Firefox Browser for Android. This version will no longer receive security updates or bug fixes. A brand new Firefox is coming soon to Android devices 5.0 and higher. Prepare to upgrade in the coming weeks.",
   "title": "Firefox for Android 68.11.0 Release",
   "version": "68.11.0"
 }
