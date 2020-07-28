@@ -11,8 +11,8 @@
       "created": "2020-07-23T20:36:08.052735+00:00",
       "id": 788380,
       "is_public": true,
-      "modified": "2020-07-24T16:37:10.911375+00:00",
-      "note": "With this release, we introduce Enhanced Tracking Protection 2.0. ETP now automatically protects users from unwanted first-party cookies: clearing cookies and site data from tracking sites (from the [Disconnect List][1]) daily (except those you have interacted with, which remain 45 days from interaction before being cleared.)\r\n\r\n\r\n  [1]: https://disconnect.me/trackerprotection",
+      "modified": "2020-07-28T06:51:03.371100+00:00",
+      "note": "With this release, we introduce [Enhanced Tracking Protection 2.0][1]. ETP now automatically protects users from unwanted first-party cookies: clearing cookies and site data from tracking sites (from the [Disconnect List][2]) daily (except those you have interacted with, which remain 45 days from interaction before being cleared.)\r\n\r\n\r\n  [1]: https://blog.mozilla.org/blog/2020/07/28/latest-firefox-rolls-out-enhanced-tracking-protection-2-0-blocking-redirect-trackers-by-default/\r\n  [2]: https://disconnect.me/trackerprotection",
       "sort_num": 30,
       "tag": "New"
     },
