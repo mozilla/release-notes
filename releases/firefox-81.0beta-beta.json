@@ -1,0 +1,37 @@
+{
+  "bug_list": "",
+  "bug_search_url": "",
+  "channel": "Beta",
+  "created": "2020-08-19T19:24:07.804410+00:00",
+  "is_public": false,
+  "modified": "2020-08-19T19:24:42.115217+00:00",
+  "notes": [
+    {
+      "bug": 1623856,
+      "created": "2020-08-19T19:34:05.495740+00:00",
+      "id": 788396,
+      "is_public": true,
+      "modified": "2020-08-19T19:34:05.495417+00:00",
+      "note": "Shift-clicking the reload button now duplicates the current page in a new window, matching the shift key behavior on buttons around it, rather than reloading with cache skipped. Cache-skipping reload can still be triggered via the keyboard shortcut Ctrl-Shift-R.",
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
+      "bug": 1649515,
+      "created": "2020-08-19T19:32:16.417049+00:00",
+      "id": 788395,
+      "is_public": true,
+      "modified": "2020-08-19T19:32:16.416796+00:00",
+      "note": "Smoother video playback and improved AV sync of 60 fps videos on macOS.",
+      "sort_num": 0,
+      "tag": "Fixed"
+    }
+  ],
+  "product": "Firefox",
+  "release_date": "2020-08-25",
+  "slug": "firefox-81.0beta-beta",
+  "system_requirements": "## Windows\r\n\r\n### Operating Systems (32-bit and 64-bit)\r\n - Windows 7\r\n - Windows 8\r\n - Windows 10\r\n\r\n### Recommended Hardware\r\n-  Pentium 4 or newer processor that supports SSE2\r\n-  512MB of RAM / 2GB of RAM for the 64-bit version\r\n-  200MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- macOS 10.12\r\n- macOS 10.13\r\n- macOS 10.14\r\n- macOS 10.15\r\n\r\n### Recommended Hardware\r\n- Macintosh computer with an Intel x86 processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - GTK+ 3.14 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n    - libstdc++ 4.8.1 or higher\r\n    - glibc 2.17 or higher\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - NetworkManager 0.7 or higher\r\n    - DBus 1.0 or higher\r\n    - GNOME 2.16 or higher\r\n    - PulseAudio",
+  "text": "",
+  "title": "Firefox 81.0beta Beta",
+  "version": "81.0beta"
+}
