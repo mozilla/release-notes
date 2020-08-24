@@ -8,6 +8,16 @@
   "notes": [
     {
       "bug": null,
+      "created": "2020-08-24T15:32:38.846706+00:00",
+      "id": 788410,
+      "is_public": true,
+      "modified": "2020-08-24T16:32:51.304925+00:00",
+      "note": "Firefox can now be set as the default system PDF viewer.",
+      "sort_num": 20,
+      "tag": "New"
+    },
+    {
+      "bug": null,
       "created": "2020-08-24T15:24:55.436213+00:00",
       "id": 788399,
       "is_public": true,
@@ -91,8 +101,8 @@
       "created": "2020-08-24T13:43:43.440466+00:00",
       "id": 788398,
       "is_public": true,
-      "modified": "2020-08-24T15:38:51.114414+00:00",
-      "note": "Various [security fixes][0].\r\n\r\n[0]: https://www.mozilla.org/security/advisories/mfsa2020-36/",
+      "modified": "2020-08-24T16:34:50.949318+00:00",
+      "note": "Various [security fixes][0].\r\n\r\n[0]: https://www.mozilla.org/security/advisories/mfsa2020-39/",
       "sort_num": 50,
       "tag": "Fixed"
     },
@@ -124,16 +134,6 @@
       "modified": "2020-08-24T15:31:35.415871+00:00",
       "note": "SVG title and desc elements (labels and descriptions) are now correctly exposed to assistive technology products such as screen readers.",
       "sort_num": 20,
-      "tag": "Fixed"
-    },
-    {
-      "bug": null,
-      "created": "2020-08-24T15:32:38.846706+00:00",
-      "id": 788410,
-      "is_public": true,
-      "modified": "2020-08-24T15:32:38.846510+00:00",
-      "note": "Firefox can now be set as the default PDF viewer.",
-      "sort_num": 10,
       "tag": "Fixed"
     }
   ],

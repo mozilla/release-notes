@@ -4,7 +4,7 @@
   "channel": "Release",
   "created": "2020-08-24T15:36:30.748795+00:00",
   "is_public": false,
-  "modified": "2020-08-24T15:49:47.423696+00:00",
+  "modified": "2020-08-24T16:34:39.073567+00:00",
   "notes": [
     {
       "bug": null,
@@ -21,14 +21,14 @@
       "created": "2020-08-24T13:43:43.440466+00:00",
       "id": 788398,
       "is_public": true,
-      "modified": "2020-08-24T15:38:51.114414+00:00",
-      "note": "Various [security fixes][0].\r\n\r\n[0]: https://www.mozilla.org/security/advisories/mfsa2020-36/",
+      "modified": "2020-08-24T16:34:50.949318+00:00",
+      "note": "Various [security fixes][0].\r\n\r\n[0]: https://www.mozilla.org/security/advisories/mfsa2020-39/",
       "sort_num": 50,
       "tag": "Fixed"
     }
   ],
   "product": "Firefox for Android",
-  "release_date": "2020-08-25",
+  "release_date": "2020-08-31",
   "slug": "firefox-for-android-80.0-release",
   "system_requirements": "## Operating systems\r\n - Android 5.0 or newer",
   "text": "We'd like to extend a special thank you to all of the new Mozillians who contributed to this release of Firefox.",
