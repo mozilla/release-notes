@@ -1,0 +1,37 @@
+{
+  "bug_list": "",
+  "bug_search_url": "",
+  "channel": "Release",
+  "created": "2020-08-24T15:36:30.748795+00:00",
+  "is_public": false,
+  "modified": "2020-08-24T15:37:36.693249+00:00",
+  "notes": [
+    {
+      "bug": null,
+      "created": "2020-08-24T15:39:44.042836+00:00",
+      "id": 788412,
+      "is_public": true,
+      "modified": "2020-08-24T15:39:44.042609+00:00",
+      "note": "Introducing our latest release of Firefox for Android browser \u2014 Firefox Daylight. This version is dramatically redesigned to be faster, easy to use, customizable and private.\r\n\r\n - Enhanced Tracking Protection on by default\r\n - Open as many tabs as you like and organize them into Collections\r\n - Get to Private Browsing Mode with just one tap\r\n - Ergonomic browsing with the bottom nav bar\r\n - Switch to Dark Mode anytime\r\n - Video multitasking with Picture-in-Picture mode\r\n - Powered by the robust and independent GeckoView engine",
+      "sort_num": 10,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2020-08-24T13:43:43.440466+00:00",
+      "id": 788398,
+      "is_public": true,
+      "modified": "2020-08-24T15:38:51.114414+00:00",
+      "note": "Various [security fixes][0].\r\n\r\n[0]: https://www.mozilla.org/security/advisories/mfsa2020-36/",
+      "sort_num": 50,
+      "tag": "Fixed"
+    }
+  ],
+  "product": "Firefox for Android",
+  "release_date": "2020-08-25",
+  "slug": "firefox-for-android-80.0-release",
+  "system_requirements": "## Operating systems\r\n - Android 5.0\r\n - Above versions\r\n\r\n## Requirements\r\n - 50 MB internal storage\r\n - 384 MB of RAM\r\n - display at least 320 pixels high and 240 pixels wide",
+  "text": "We'd like to extend a special thank you to all of the new Mozillians who contributed to this release of Firefox.",
+  "title": "Firefox for Android 80.0 Release",
+  "version": "80.0"
+}
