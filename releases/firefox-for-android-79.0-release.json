@@ -5,7 +5,78 @@
   "created": "2020-08-26T19:12:42.793110+00:00",
   "is_public": false,
   "modified": "2020-08-26T20:18:24.435195+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": null,
+      "created": "2020-08-26T20:33:10.381490+00:00",
+      "id": 788415,
+      "is_public": true,
+      "modified": "2020-08-26T20:33:10.381301+00:00",
+      "note": "Enhanced Tracking Protection on by default",
+      "sort_num": 70,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2020-08-26T20:33:33.464190+00:00",
+      "id": 788416,
+      "is_public": true,
+      "modified": "2020-08-26T20:33:33.463962+00:00",
+      "note": "Open as many tabs as you like and organize them into Collections",
+      "sort_num": 60,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2020-08-26T20:34:02.870423+00:00",
+      "id": 788417,
+      "is_public": true,
+      "modified": "2020-08-26T20:34:02.870229+00:00",
+      "note": "Get to Private Browsing Mode with just one tap",
+      "sort_num": 50,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2020-08-26T20:34:19.097485+00:00",
+      "id": 788418,
+      "is_public": true,
+      "modified": "2020-08-26T20:34:19.097237+00:00",
+      "note": "Ergonomic browsing with the bottom nav bar",
+      "sort_num": 40,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2020-08-26T20:34:35.673071+00:00",
+      "id": 788419,
+      "is_public": true,
+      "modified": "2020-08-26T20:34:35.672829+00:00",
+      "note": "Switch to Dark Mode",
+      "sort_num": 30,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2020-08-26T20:34:53.602130+00:00",
+      "id": 788420,
+      "is_public": true,
+      "modified": "2020-08-26T20:34:53.601943+00:00",
+      "note": "Video multitasking with Picture-in-Picture mode",
+      "sort_num": 20,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2020-08-26T20:35:09.506541+00:00",
+      "id": 788421,
+      "is_public": true,
+      "modified": "2020-08-26T20:35:09.506327+00:00",
+      "note": "Powered by the independent GeckoView engine",
+      "sort_num": 10,
+      "tag": "New"
+    }
+  ],
   "product": "Firefox for Android",
   "release_date": "2020-08-27",
   "slug": "firefox-for-android-79.0-release",
