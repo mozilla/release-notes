@@ -11,7 +11,7 @@
       "created": "2020-08-24T15:32:38.846706+00:00",
       "id": 788410,
       "is_public": true,
-      "modified": "2020-08-24T16:32:51.304925+00:00",
+      "modified": "2020-09-01T08:23:34.618668+00:00",
       "note": "Firefox can now be set as the default system PDF viewer.",
       "sort_num": 20,
       "tag": "New"
@@ -21,7 +21,7 @@
       "created": "2020-08-24T15:24:55.436213+00:00",
       "id": 788399,
       "is_public": true,
-      "modified": "2020-08-24T15:25:30.584861+00:00",
+      "modified": "2020-09-01T08:23:40.793332+00:00",
       "note": "The name reported by accessibility tools for items in multi-tiered tree controls no longer incorrectly includes information from items at deeper levels, providing users with the correct level of content when using a screen reader.",
       "sort_num": 10,
       "tag": "New"
@@ -31,7 +31,7 @@
       "created": "2020-08-24T15:29:50.387468+00:00",
       "id": 788405,
       "is_public": true,
-      "modified": "2020-08-24T15:29:50.387232+00:00",
+      "modified": "2020-09-01T08:23:39.036937+00:00",
       "note": "For users with reduced motion settings, we\u2019ve reduced a number of animations such as tab loading to reduce motion for users with migraines and epilepsy.",
       "sort_num": 20,
       "tag": "Changed"
@@ -41,7 +41,7 @@
       "created": "2020-08-24T15:30:17.394131+00:00",
       "id": 788406,
       "is_public": true,
-      "modified": "2020-08-24T15:30:17.393895+00:00",
+      "modified": "2020-09-01T08:23:37.847247+00:00",
       "note": "The new add-ons blocklist has been enabled to improve performance and scalability.",
       "sort_num": 10,
       "tag": "Changed"
@@ -51,7 +51,7 @@
       "created": "2020-08-24T15:26:36.066469+00:00",
       "id": 788400,
       "is_public": true,
-      "modified": "2020-08-24T15:26:36.066273+00:00",
+      "modified": "2020-09-01T08:23:41.456320+00:00",
       "note": "We\u2019ve shipped an [experimental sidebar panel][1] in the inspector to Firefox Developer Edition that helps developers more quickly identify potential browser compatibility problems based on MDN data.\r\n\r\n\r\n  [1]: https://wiki.developer.mozilla.org/en-US/docs/Tools/Page_Inspector/UI_Tour#Compatibility_view",
       "sort_num": 30,
       "tag": "Developer"
@@ -61,7 +61,7 @@
       "created": "2020-08-24T15:27:23.602482+00:00",
       "id": 788401,
       "is_public": true,
-      "modified": "2020-08-24T15:27:23.602253+00:00",
+      "modified": "2020-09-01T08:23:42.106001+00:00",
       "note": "In the [Network Monitor request list][1], a turtle icon is shown for \"slow\" requests that exceed a threshold for the waiting time.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Tools/Network_Monitor/request_list#Network_request_columns",
       "sort_num": 20,
       "tag": "Developer"
@@ -71,7 +71,7 @@
       "created": "2020-08-24T15:27:52.539561+00:00",
       "id": 788402,
       "is_public": true,
-      "modified": "2020-08-24T15:27:52.539322+00:00",
+      "modified": "2020-09-01T08:23:42.831630+00:00",
       "note": "Firefox now supports RTX and Transport-cc for improved call quality in poor network conditions and better bandwidth estimation. These features also provide better compatibility with many websites using WebRTC.",
       "sort_num": 10,
       "tag": "Developer"
@@ -81,7 +81,7 @@
       "created": "2020-08-24T15:28:20.109746+00:00",
       "id": 788403,
       "is_public": true,
-      "modified": "2020-08-24T15:28:44.085080+00:00",
+      "modified": "2020-09-01T08:23:45.187683+00:00",
       "note": "A number of bug fixes and new policies have been implemented in the latest version of Firefox. You can see more details in the [Firefox for Enterprise 80 Release Notes][1].\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/firefox-enterprise-80-release-notes",
       "sort_num": 20,
       "tag": "Enterprise"
@@ -91,7 +91,7 @@
       "created": "2020-08-24T15:29:31.006691+00:00",
       "id": 788404,
       "is_public": true,
-      "modified": "2020-08-24T15:29:31.006412+00:00",
+      "modified": "2020-09-01T08:23:46.353647+00:00",
       "note": "Today\u2019s release is the final scheduled for Firefox 68 ESR (68.12) unless there is a critical security issue found prior to the release of Firefox ESR 78.3 on September 22, 2020. Users of Firefox 68 ESR will be automatically upgraded to the Firefox 78 ESR series with the release of 78.3.",
       "sort_num": 10,
       "tag": "Enterprise"
@@ -101,7 +101,7 @@
       "created": "2020-08-24T17:27:33.230503+00:00",
       "id": 788413,
       "is_public": true,
-      "modified": "2020-08-24T17:27:57.994016+00:00",
+      "modified": "2020-09-01T08:23:33.530859+00:00",
       "note": "Various [security fixes][0].\r\n\r\n[0]: https://www.mozilla.org/security/advisories/mfsa2020-36/",
       "sort_num": 50,
       "tag": "Fixed"
@@ -111,7 +111,7 @@
       "created": "2020-08-24T15:30:58.499765+00:00",
       "id": 788407,
       "is_public": true,
-      "modified": "2020-08-24T15:30:58.499572+00:00",
+      "modified": "2020-09-01T08:23:37.303172+00:00",
       "note": "Several crashes while using a screen reader were fixed including a frequently encountered crash when using the JAWS screen reader.",
       "sort_num": 40,
       "tag": "Fixed"
@@ -121,7 +121,7 @@
       "created": "2020-08-24T15:31:18.363180+00:00",
       "id": 788408,
       "is_public": true,
-      "modified": "2020-08-24T15:31:18.362985+00:00",
+      "modified": "2020-09-01T08:23:36.659319+00:00",
       "note": "Firefox Developer Tools received significant fixes allowing screen reader users to benefit from some of the tools that were previously inaccessible.",
       "sort_num": 30,
       "tag": "Fixed"
@@ -131,7 +131,7 @@
       "created": "2020-08-24T15:31:35.416057+00:00",
       "id": 788409,
       "is_public": true,
-      "modified": "2020-08-24T15:31:35.415871+00:00",
+      "modified": "2020-09-01T08:23:35.828425+00:00",
       "note": "SVG title and desc elements (labels and descriptions) are now correctly exposed to assistive technology products such as screen readers.",
       "sort_num": 20,
       "tag": "Fixed"
