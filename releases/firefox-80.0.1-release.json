@@ -51,8 +51,18 @@
       "created": "2020-09-01T08:31:10.700591+00:00",
       "id": 788426,
       "is_public": true,
-      "modified": "2020-09-01T08:31:10.700391+00:00",
-      "note": "Fixed the zoom-in keyboard shortcuts on Japanese language builds ([bug 1661895][0])\r\n\r\n[0]: https://bugzilla.mozilla.org/1661895",
+      "modified": "2020-09-01T08:46:57.336216+00:00",
+      "note": "Fixed the zoom-in keyboard shortcut on Japanese language builds ([bug 1661895][0])\r\n\r\n[0]: https://bugzilla.mozilla.org/1661895",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1655190,
+      "created": "2020-09-01T08:45:24.137978+00:00",
+      "id": 788427,
+      "is_public": true,
+      "modified": "2020-09-01T08:45:24.137768+00:00",
+      "note": "Fixed download issues related to extensions and cookies ([bug 1655190][0])\r\n\r\n[0]: https://bugzilla.mozilla.org/1655190",
       "sort_num": 0,
       "tag": "Fixed"
     }
