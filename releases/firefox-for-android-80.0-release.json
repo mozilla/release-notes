@@ -4,8 +4,18 @@
   "channel": "Release",
   "created": "2020-09-03T01:41:21.095819+00:00",
   "is_public": false,
-  "modified": "2020-09-03T01:46:23.507840+00:00",
+  "modified": "2020-09-03T02:11:48.563950+00:00",
   "notes": [
+    {
+      "bug": null,
+      "created": "2020-09-03T02:12:15.460835+00:00",
+      "id": 788428,
+      "is_public": true,
+      "modified": "2020-09-03T02:12:15.460612+00:00",
+      "note": "**The people have spoken! The back button is back. Plus view tab history with a long-press of it.**",
+      "sort_num": 80,
+      "tag": "New"
+    },
     {
       "bug": null,
       "created": "2020-08-26T20:33:10.381490+00:00",
@@ -91,7 +101,7 @@
   "release_date": "2020-08-31",
   "slug": "firefox-for-android-80.0-release",
   "system_requirements": "## Operating systems\r\n - Android 5.0 or newer",
-  "text": "**The people have spoken! The back button is back. Plus view tab history with a long-press of it.**\r\n\r\nIntroducing our latest release of Firefox for Android \u2014 Firefox Daylight, dramatically redesigned to be faster, easy to use, customizable, and private.",
+  "text": "Introducing our latest release of Firefox for Android \u2014 Firefox Daylight, dramatically redesigned to be faster, easy to use, customizable, and private.",
   "title": "Firefox for Android 80.0 Release",
   "version": "80.0"
 }
