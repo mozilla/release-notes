@@ -1,0 +1,77 @@
+{
+  "bug_list": "",
+  "bug_search_url": "",
+  "channel": "Release",
+  "created": "2020-09-21T15:47:25.636382+00:00",
+  "is_public": false,
+  "modified": "2020-09-21T15:48:19.894412+00:00",
+  "notes": [
+    {
+      "bug": null,
+      "created": "2020-09-21T15:51:59.125073+00:00",
+      "id": 788433,
+      "is_public": true,
+      "modified": "2020-09-21T15:51:59.124843+00:00",
+      "note": "You will soon find Picture-in-Picture more easily on all the videos you watch with new iconography.",
+      "sort_num": 30,
+      "tag": "Changed"
+    },
+    {
+      "bug": null,
+      "created": "2020-09-21T15:52:19.727458+00:00",
+      "id": 788434,
+      "is_public": true,
+      "modified": "2020-09-21T15:52:19.727214+00:00",
+      "note": "Bookmarks toolbar is now automatically revealed once bookmarks are imported into Firefox, making it easier to find your most important websites.",
+      "sort_num": 20,
+      "tag": "Changed"
+    },
+    {
+      "bug": null,
+      "created": "2020-09-21T15:52:37.798892+00:00",
+      "id": 788435,
+      "is_public": true,
+      "modified": "2020-09-21T15:52:37.798667+00:00",
+      "note": "We have expanded our supported file types - .xml, .svg, and .webp - so files you\u2019ve downloaded can be opened right in Firefox.",
+      "sort_num": 10,
+      "tag": "Changed"
+    },
+    {
+      "bug": null,
+      "created": "2020-09-21T15:48:18.072798+00:00",
+      "id": 788430,
+      "is_public": true,
+      "modified": "2020-09-21T15:49:38.529553+00:00",
+      "note": "Various [security fixes][0].\r\n\r\n[0]: https://www.mozilla.org/security/advisories/mfsa2020-42/",
+      "sort_num": 30,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2020-09-21T15:50:14.159490+00:00",
+      "id": 788431,
+      "is_public": true,
+      "modified": "2020-09-21T15:50:14.159278+00:00",
+      "note": "We\u2019ve fixed a bug for users of language packs where the default language was reset to English after Firefox updates.",
+      "sort_num": 20,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2020-09-21T15:51:07.068239+00:00",
+      "id": 788432,
+      "is_public": true,
+      "modified": "2020-09-21T15:51:07.068016+00:00",
+      "note": "Browser native HTML5 audio/video controls received several important accessibility fixes:\r\n\r\n - Audio/video controls remain accessible to screen readers even when they are temporarily hidden visually.\r\n - Audio/video elapsed and total time are now accessible to screen readers where they weren't previously.\r\n - Various unlabelled controls are now labelled making them identifiable to screen readers.\r\n - Screen readers no longer intrusively report progress information unless the user requests it.",
+      "sort_num": 10,
+      "tag": "Fixed"
+    }
+  ],
+  "product": "Firefox",
+  "release_date": "2020-09-22",
+  "slug": "firefox-81.0-release",
+  "system_requirements": "## Windows\r\n\r\n### Operating Systems (32-bit and 64-bit)\r\n - Windows 7\r\n - Windows 8\r\n - Windows 10\r\n\r\n### Recommended Hardware\r\n-  Pentium 4 or newer processor that supports SSE2\r\n-  512MB of RAM / 2GB of RAM for the 64-bit version\r\n-  200MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- macOS 10.12\r\n- macOS 10.13\r\n- macOS 10.14\r\n- macOS 10.15\r\n\r\n### Recommended Hardware\r\n- Macintosh computer with an Intel x86 processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - GTK+ 3.14 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n    - libstdc++ 4.8.1 or higher\r\n    - glibc 2.17 or higher\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - NetworkManager 0.7 or higher\r\n    - DBus 1.0 or higher\r\n    - GNOME 2.16 or higher\r\n    - PulseAudio",
+  "text": "We'd like to extend a special thank you to all of the new Mozillians who contributed to this release of Firefox.",
+  "title": "Firefox 81.0 Release",
+  "version": "81.0"
+}
