@@ -4,8 +4,19 @@
   "channel": "Release",
   "created": "2020-09-21T18:19:24.206781+00:00",
   "is_public": false,
-  "modified": "2020-09-21T18:20:08.367136+00:00",
-  "notes": [],
+  "modified": "2020-09-21T18:20:16.901602+00:00",
+  "notes": [
+    {
+      "bug": null,
+      "created": "2020-09-21T15:48:18.072798+00:00",
+      "id": 788430,
+      "is_public": true,
+      "modified": "2020-09-21T18:20:33.993287+00:00",
+      "note": "Various [security fixes][0].\r\n\r\n[0]: https://www.mozilla.org/security/advisories/mfsa2020-42/",
+      "sort_num": 30,
+      "tag": "Fixed"
+    }
+  ],
   "product": "Firefox for Android",
   "release_date": "2020-09-22",
   "slug": "firefox-for-android-81.0-release",
