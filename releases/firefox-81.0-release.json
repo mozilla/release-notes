@@ -37,6 +37,46 @@
       "tag": "Changed"
     },
     {
+      "bug": 1642769,
+      "created": "2020-09-21T16:06:47.705865+00:00",
+      "id": 788436,
+      "is_public": true,
+      "modified": "2020-09-21T16:06:47.705668+00:00",
+      "note": "TypeScript files are now properly [identified][1] in the Debugger panel and labeled with corresponding icons making it easier for you to find these files in the list.\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1642769",
+      "sort_num": 40,
+      "tag": "Developer"
+    },
+    {
+      "bug": 1635835,
+      "created": "2020-09-21T16:07:19.332323+00:00",
+      "id": 788437,
+      "is_public": true,
+      "modified": "2020-09-21T16:07:19.332133+00:00",
+      "note": "HTTP JSON responses using [XSSI prevention characters][1] are properly parsed and JSON data presented in a form of an expandable tree. This allows easy inspection of such HTTP responses through traditional (expandable) tree UI.\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1635835",
+      "sort_num": 30,
+      "tag": "Developer"
+    },
+    {
+      "bug": 917963,
+      "created": "2020-09-21T16:07:50.689757+00:00",
+      "id": 788438,
+      "is_public": true,
+      "modified": "2020-09-21T16:07:50.689546+00:00",
+      "note": "It\u2019s possible to pause on [script first statement][1], which is useful e.g. in cases where developers want to debug side effects caused by script execution or timers.\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=917963",
+      "sort_num": 20,
+      "tag": "Developer"
+    },
+    {
+      "bug": 1655053,
+      "created": "2020-09-21T16:08:19.815358+00:00",
+      "id": 788439,
+      "is_public": true,
+      "modified": "2020-09-21T16:08:19.815166+00:00",
+      "note": "The color vision deficiency simulation in the accessibility panel of Developer Tools is now [more accurate][1]. We removed protanomaly, deuteranomaly and tritanomaly and aded achromatopsia.\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1655053",
+      "sort_num": 10,
+      "tag": "Developer"
+    },
+    {
       "bug": null,
       "created": "2020-09-21T15:48:18.072798+00:00",
       "id": 788430,
