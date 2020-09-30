@@ -11,7 +11,7 @@
       "created": "2020-09-21T16:28:05.079550+00:00",
       "id": 788440,
       "is_public": true,
-      "modified": "2020-09-21T16:28:05.079342+00:00",
+      "modified": "2020-09-30T18:17:56.931492+00:00",
       "note": "You can [pause and play audio or video in Firefox][1] right from your keyboard or headset, giving you easy access to control your media when in another Firefox tab, another program, or even when your computer is locked.\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/control-audio-or-video-playback-your-headset-or-keyboard",
       "sort_num": 50,
       "tag": "New"
@@ -21,7 +21,7 @@
       "created": "2020-09-21T16:28:34.764507+00:00",
       "id": 788441,
       "is_public": true,
-      "modified": "2020-09-22T16:53:25.262348+00:00",
+      "modified": "2020-09-30T18:17:55.647828+00:00",
       "note": "In addition to our default, dark and light themes, with this release, Firefox introduces the Alpenglow theme: a colorful appearance for buttons, menus, and windows. You can [update your Firefox themes][1] under settings or preferences.\r\n![Alpenglow Theme Screenshot][2]\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/use-themes-change-look-of-firefox\r\n  [2]: https://www.mozilla.org/media/img/firefox/releasenotes/note-images/alpenglow.png",
       "sort_num": 40,
       "tag": "New"
@@ -31,7 +31,7 @@
       "created": "2020-09-21T16:29:12.606790+00:00",
       "id": 788442,
       "is_public": true,
-      "modified": "2020-09-21T16:29:12.606594+00:00",
+      "modified": "2020-09-30T18:17:54.808072+00:00",
       "note": "For our users in the US and Canada, Firefox can now [save, manage, and auto-fill credit card information][1] for you, making shopping on Firefox ever more convenient. To ensure the smoothest experience, this will be rolling out to users gradually.\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/credit-card-autofill",
       "sort_num": 30,
       "tag": "New"
@@ -41,7 +41,7 @@
       "created": "2020-09-21T16:29:38.925376+00:00",
       "id": 788443,
       "is_public": true,
-      "modified": "2020-09-21T16:29:38.925178+00:00",
+      "modified": "2020-09-30T18:17:54.038315+00:00",
       "note": "Firefox supports AcroForm, which will soon allow you to [fill in, print, and save supported PDF forms][1] and the PDF viewer also has a new fresh look.\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/view-pdf-files-firefox-or-choose-another-viewer",
       "sort_num": 20,
       "tag": "New"
@@ -51,7 +51,7 @@
       "created": "2020-09-21T16:30:04.801967+00:00",
       "id": 788444,
       "is_public": true,
-      "modified": "2020-09-21T16:30:04.801767+00:00",
+      "modified": "2020-09-30T18:17:53.292010+00:00",
       "note": "Our users in Austria, Belgium and Switzerland using the German version of Firefox will now see Pocket recommendations in their new tab featuring some of the best stories on the web.  If you don\u2019t see them, you can turn on Pocket articles in your new tab by [following these steps][1]. In addition to Firefox\u2019s new tab, Pocket is also available as an app on iOS and Android.\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/hide-or-display-content-new-tab",
       "sort_num": 10,
       "tag": "New"
@@ -61,7 +61,7 @@
       "created": "2020-09-21T15:51:59.125073+00:00",
       "id": 788433,
       "is_public": true,
-      "modified": "2020-09-21T15:51:59.124843+00:00",
+      "modified": "2020-09-30T18:18:05.321683+00:00",
       "note": "You will soon find Picture-in-Picture more easily on all the videos you watch with new iconography.",
       "sort_num": 30,
       "tag": "Changed"
@@ -71,7 +71,7 @@
       "created": "2020-09-21T15:52:19.727458+00:00",
       "id": 788434,
       "is_public": true,
-      "modified": "2020-09-21T22:16:23.756585+00:00",
+      "modified": "2020-09-30T18:18:04.185697+00:00",
       "note": "The bookmarks toolbar is now automatically revealed once bookmarks are imported into Firefox, making it easier to find your most important websites.",
       "sort_num": 20,
       "tag": "Changed"
@@ -81,7 +81,7 @@
       "created": "2020-09-21T15:52:37.798892+00:00",
       "id": 788435,
       "is_public": true,
-      "modified": "2020-09-21T15:52:37.798667+00:00",
+      "modified": "2020-09-30T18:18:03.153905+00:00",
       "note": "We have expanded our supported file types - .xml, .svg, and .webp - so files you\u2019ve downloaded can be opened right in Firefox.",
       "sort_num": 10,
       "tag": "Changed"
@@ -91,7 +91,7 @@
       "created": "2020-09-21T16:06:47.705865+00:00",
       "id": 788436,
       "is_public": true,
-      "modified": "2020-09-21T16:06:47.705668+00:00",
+      "modified": "2020-09-30T18:18:02.134280+00:00",
       "note": "TypeScript files are now properly [identified][1] in the Debugger panel and labeled with corresponding icons making it easier for you to find these files in the list.\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1642769",
       "sort_num": 40,
       "tag": "Developer"
@@ -101,7 +101,7 @@
       "created": "2020-09-21T16:07:19.332323+00:00",
       "id": 788437,
       "is_public": true,
-      "modified": "2020-09-21T16:07:19.332133+00:00",
+      "modified": "2020-09-30T18:18:00.177534+00:00",
       "note": "HTTP JSON responses using [XSSI prevention characters][1] are properly parsed and JSON data presented in a form of an expandable tree. This allows easy inspection of such HTTP responses through traditional (expandable) tree UI.\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1635835",
       "sort_num": 30,
       "tag": "Developer"
@@ -111,7 +111,7 @@
       "created": "2020-09-21T16:07:50.689757+00:00",
       "id": 788438,
       "is_public": true,
-      "modified": "2020-09-21T16:07:50.689546+00:00",
+      "modified": "2020-09-30T18:17:58.611034+00:00",
       "note": "It\u2019s possible to pause on [script first statement][1], which is useful e.g. in cases where developers want to debug side effects caused by script execution or timers.\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=917963",
       "sort_num": 20,
       "tag": "Developer"
@@ -121,7 +121,7 @@
       "created": "2020-09-21T16:08:19.815358+00:00",
       "id": 788439,
       "is_public": true,
-      "modified": "2020-09-23T01:42:00.454599+00:00",
+      "modified": "2020-09-30T18:17:57.735659+00:00",
       "note": "The color vision deficiency simulation in the accessibility panel of Developer Tools is now [more accurate][1]. We removed protanomaly, deuteranomaly and tritanomaly and added achromatopsia.\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1655053",
       "sort_num": 10,
       "tag": "Developer"
@@ -131,7 +131,7 @@
       "created": "2020-09-21T21:22:30.082496+00:00",
       "id": 788446,
       "is_public": true,
-      "modified": "2020-09-21T21:24:40.345500+00:00",
+      "modified": "2020-09-30T18:17:52.479902+00:00",
       "note": "Various bug fixes and new policies have been implemented in the latest version of Firefox. You can see more details in the [Firefox for Enterprise 81 Release Notes][1].\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/firefox-enterprise-81-release-notes",
       "sort_num": 10,
       "tag": "Enterprise"
@@ -141,7 +141,7 @@
       "created": "2020-09-21T15:48:18.072798+00:00",
       "id": 788430,
       "is_public": true,
-      "modified": "2020-09-21T18:20:33.993287+00:00",
+      "modified": "2020-09-30T18:18:08.598730+00:00",
       "note": "Various [security fixes][0].\r\n\r\n[0]: https://www.mozilla.org/security/advisories/mfsa2020-42/",
       "sort_num": 30,
       "tag": "Fixed"
@@ -151,7 +151,7 @@
       "created": "2020-09-21T15:50:14.159490+00:00",
       "id": 788431,
       "is_public": true,
-      "modified": "2020-09-21T15:50:14.159278+00:00",
+      "modified": "2020-09-30T18:18:07.184907+00:00",
       "note": "We\u2019ve fixed a bug for users of language packs where the default language was reset to English after Firefox updates.",
       "sort_num": 20,
       "tag": "Fixed"
@@ -161,7 +161,7 @@
       "created": "2020-09-21T15:51:07.068239+00:00",
       "id": 788432,
       "is_public": true,
-      "modified": "2020-09-21T15:51:07.068016+00:00",
+      "modified": "2020-09-30T18:18:06.179589+00:00",
       "note": "Browser native HTML5 audio/video controls received several important accessibility fixes:\r\n\r\n - Audio/video controls remain accessible to screen readers even when they are temporarily hidden visually.\r\n - Audio/video elapsed and total time are now accessible to screen readers where they weren't previously.\r\n - Various unlabelled controls are now labelled making them identifiable to screen readers.\r\n - Screen readers no longer intrusively report progress information unless the user requests it.",
       "sort_num": 10,
       "tag": "Fixed"
