@@ -5,7 +5,18 @@
   "created": "2020-09-30T18:17:16.876282+00:00",
   "is_public": false,
   "modified": "2020-09-30T18:18:11.970788+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": null,
+      "created": "2020-09-30T19:01:58.829811+00:00",
+      "id": 788453,
+      "is_public": true,
+      "modified": "2020-09-30T19:01:58.829504+00:00",
+      "note": "Various stability improvements ([bug 1661485][1], [bug 1664542][2], [bug 1664843][3])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1661485\r\n  [2]: https://bugzilla.mozilla.org/show_bug.cgi?id=1664542\r\n  [3]: https://bugzilla.mozilla.org/show_bug.cgi?id=1664843",
+      "sort_num": 0,
+      "tag": "Fixed"
+    }
+  ],
   "product": "Firefox",
   "release_date": "2020-10-01",
   "slug": "firefox-81.0.1-release",
