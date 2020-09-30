@@ -4,8 +4,28 @@
   "channel": "Release",
   "created": "2020-09-30T18:17:16.876282+00:00",
   "is_public": false,
-  "modified": "2020-09-30T18:18:11.970788+00:00",
+  "modified": "2020-09-30T19:59:06.336420+00:00",
   "notes": [
+    {
+      "bug": null,
+      "created": "2020-09-30T19:59:04.607766+00:00",
+      "id": 788455,
+      "is_public": true,
+      "modified": "2020-09-30T20:00:54.946169+00:00",
+      "note": "Reference link to [81.0 release notes][0]\r\n\r\n[0]: https://www.mozilla.org/firefox/81.0/releasenotes/",
+      "sort_num": 0,
+      "tag": ""
+    },
+    {
+      "bug": 1666775,
+      "created": "2020-09-30T20:04:04.637199+00:00",
+      "id": 788457,
+      "is_public": true,
+      "modified": "2020-09-30T20:04:04.637009+00:00",
+      "note": "Fixed Picture-in-Picture controls being visible on audio-only page elements ([bug 1666775][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1666775",
+      "sort_num": 20,
+      "tag": "Fixed"
+    },
     {
       "bug": 1658571,
       "created": "2020-09-30T19:13:36.402260+00:00",

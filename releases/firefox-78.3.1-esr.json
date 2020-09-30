@@ -4,8 +4,19 @@
   "channel": "ESR",
   "created": "2020-09-30T18:17:16.908018+00:00",
   "is_public": false,
-  "modified": "2020-09-30T18:18:38.584355+00:00",
-  "notes": [],
+  "modified": "2020-09-30T19:59:12.189747+00:00",
+  "notes": [
+    {
+      "bug": null,
+      "created": "2020-09-30T19:59:09.797112+00:00",
+      "id": 788456,
+      "is_public": true,
+      "modified": "2020-09-30T20:00:34.241275+00:00",
+      "note": "Reference link to [78.3.0 release notes][0]\r\n\r\n[0]: https://www.mozilla.org/firefox/78.3.0/releasenotes/",
+      "sort_num": 0,
+      "tag": ""
+    }
+  ],
   "product": "Firefox Extended Support Release",
   "release_date": "2020-10-01",
   "slug": "firefox-78.3.1-esr",
