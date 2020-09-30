@@ -17,6 +17,36 @@
       "tag": ""
     },
     {
+      "bug": 1665447,
+      "created": "2020-09-30T20:18:05.261131+00:00",
+      "id": 788461,
+      "is_public": true,
+      "modified": "2020-09-30T20:18:05.260932+00:00",
+      "note": "Fixed missing content on Blackboard course listings ([bug 1665447][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1665447",
+      "sort_num": 60,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1667267,
+      "created": "2020-09-30T20:14:05.322609+00:00",
+      "id": 788460,
+      "is_public": true,
+      "modified": "2020-09-30T20:14:05.322406+00:00",
+      "note": "Resolved incorrect scaling of Flash content on HiDPI macOS systems ([bug 1667267][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1667267",
+      "sort_num": 50,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2020-09-30T20:12:09.882521+00:00",
+      "id": 788459,
+      "is_public": true,
+      "modified": "2020-09-30T20:12:09.882285+00:00",
+      "note": "Fixes for various printing issues ([bug 1667342][1], [bug 1667510][2], [bug 1667723][3])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1667342\r\n  [2]: https://bugzilla.mozilla.org/show_bug.cgi?id=1667510\r\n  [3]: https://bugzilla.mozilla.org/show_bug.cgi?id=1667723",
+      "sort_num": 40,
+      "tag": "Fixed"
+    },
+    {
       "bug": 1666836,
       "created": "2020-09-30T20:07:51.984694+00:00",
       "id": 788458,
