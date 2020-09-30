@@ -7,6 +7,16 @@
   "modified": "2020-09-30T18:18:11.970788+00:00",
   "notes": [
     {
+      "bug": 1658571,
+      "created": "2020-09-30T19:13:36.402260+00:00",
+      "id": 788454,
+      "is_public": true,
+      "modified": "2020-09-30T19:13:36.402061+00:00",
+      "note": "Fixed high memory growth with addons such as Disconnect installed, causing browser responsiveness issues over time ([bug 1658571][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1658571",
+      "sort_num": 10,
+      "tag": "Fixed"
+    },
+    {
       "bug": null,
       "created": "2020-09-30T19:01:58.829811+00:00",
       "id": 788453,
