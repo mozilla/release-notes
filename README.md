@@ -29,7 +29,7 @@ $ pip install -r requirements.txt
 $ ./update_releases.py
 ```
 
-[Nucleus]: https://github.com/mozilla/nucleus/
+[Nucleus]: https://nucleus.mozilla.org
 [Docker]: https://www.docker.com/community-edition
 [virtualenv]: https://virtualenv.pypa.io/en/stable/
 
