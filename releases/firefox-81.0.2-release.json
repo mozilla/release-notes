@@ -5,7 +5,28 @@
   "created": "2020-10-12T13:49:16.953451+00:00",
   "is_public": false,
   "modified": "2020-10-12T13:49:47.184757+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": null,
+      "created": "2020-09-30T19:59:04.607766+00:00",
+      "id": 788455,
+      "is_public": true,
+      "modified": "2020-10-12T13:50:28.248191+00:00",
+      "note": "Reference link to [81.0 release notes][0]\r\n\r\n[0]: https://www.mozilla.org/firefox/81.0/releasenotes/",
+      "sort_num": 0,
+      "tag": ""
+    },
+    {
+      "bug": 1665368,
+      "created": "2020-10-12T13:54:12.612114+00:00",
+      "id": 788462,
+      "is_public": true,
+      "modified": "2020-10-12T13:54:12.611804+00:00",
+      "note": "Fixed an incompatibility with Twitter.com manifesting itself with the intermittent display of a service workers  error page",
+      "sort_num": 0,
+      "tag": "Fixed"
+    }
+  ],
   "product": "Firefox",
   "release_date": "2020-10-13",
   "slug": "firefox-81.0.2-release",
