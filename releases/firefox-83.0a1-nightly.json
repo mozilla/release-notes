@@ -41,8 +41,8 @@
       "created": "2020-10-14T12:23:36.970430+00:00",
       "id": 788465,
       "is_public": true,
-      "modified": "2020-10-14T12:26:08.079858+00:00",
-      "note": "Tab-to-search has been enabled in Nightly. When the URL bar autofills an origin having an installed search engine, users can press tab or down to pick a special shortcut result and enter Search Mode.\r\n\r\n![Tab search screenshot][1]\r\n\r\n  [1]: https://blog.nightly.mozilla.org/files/2020/10/headlines81_0.gif",
+      "modified": "2020-10-14T12:46:16.241513+00:00",
+      "note": "Tab-to-search has been enabled in Nightly. When the URL bar autofills an origin having an installed search engine, users can press tab or down to pick a special shortcut result and enter Search Mode.",
       "sort_num": 0,
       "tag": "New"
     },
@@ -75,6 +75,16 @@
       "note": "Added support for [CSS conic gradients][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/CSS/conic-gradient",
       "sort_num": 0,
       "tag": "HTML5"
+    },
+    {
+      "bug": 1669129,
+      "created": "2020-10-14T12:45:28.102170+00:00",
+      "id": 788467,
+      "is_public": true,
+      "modified": "2020-10-14T12:45:28.101962+00:00",
+      "note": "You can now click on the \"scroll\" badge for scrollable elements to toggle highlighting of the overflow causing elements, which also have a new \"overflow\" badge next to them",
+      "sort_num": 0,
+      "tag": "Developer"
     }
   ],
   "product": "Firefox",
