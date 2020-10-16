@@ -48,6 +48,26 @@
     },
     {
       "bug": null,
+      "created": "2020-10-16T16:12:11.579203+00:00",
+      "id": 788475,
+      "is_public": true,
+      "modified": "2020-10-16T16:12:11.579003+00:00",
+      "note": "Credit card auto-fill is now more accessible with the card type, and the card number in the card editor now available to screen readers.",
+      "sort_num": 1000,
+      "tag": "Changed"
+    },
+    {
+      "bug": null,
+      "created": "2020-10-16T16:13:59.682962+00:00",
+      "id": 788476,
+      "is_public": true,
+      "modified": "2020-10-16T16:15:11.458236+00:00",
+      "note": "Printing dialog errors for invalid form entries are now reported to screen readers.",
+      "sort_num": 800,
+      "tag": "Changed"
+    },
+    {
+      "bug": null,
       "created": "2020-10-16T15:51:26.619198+00:00",
       "id": 788473,
       "is_public": true,
@@ -65,6 +85,26 @@
       "note": "DevTools now shows [server side events][0] in the Network panel. This allows a server to send new data to a web page at any time allowing developers to see events they previously couldn't and help with lower-level troubleshooting.\r\n\r\n[0]: https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events/Using_server-sent_events",
       "sort_num": 500,
       "tag": "Developer"
+    },
+    {
+      "bug": null,
+      "created": "2020-10-16T16:14:58.131438+00:00",
+      "id": 788477,
+      "is_public": true,
+      "modified": "2020-10-16T16:14:58.131241+00:00",
+      "note": "Screen reader features which report paragraphs now correctly report paragraphs in Firefox instead of lines.",
+      "sort_num": 1000,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2020-10-16T16:17:01.766286+00:00",
+      "id": 788478,
+      "is_public": true,
+      "modified": "2020-10-16T16:17:01.766092+00:00",
+      "note": "Various [security fixes][0]\r\n\r\n[0]: https://www.mozilla.org/security/known-vulnerabilities/firefox/#firefox82",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
