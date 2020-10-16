@@ -11,8 +11,8 @@
       "created": "2020-10-16T15:42:22.677937+00:00",
       "id": 788469,
       "is_public": true,
-      "modified": "2020-10-16T15:42:22.677734+00:00",
-      "note": "With this release, Firefox introduces a number of improvements to make watching videos more delightful:\r\n\r\n- the Picture-In-Picture button has a new look and position, making it easier for you to find and use the feature.\r\n- Picture-In-Picture now has a keyboard shortcut for Mac users (Option + Command + Shift + Right bracket) that works before you start playing the video.\r\n- For Windows users, Firefox now uses DirectComposition for hardware decoded video, which will improve CPU and GPU usage during video playback, improving battery life.",
+      "modified": "2020-10-16T15:53:26.662282+00:00",
+      "note": "With this release, Firefox introduces a number of improvements that make watching videos more delightful:\r\n\r\n- the Picture-In-Picture button has a new look and position, making it easier for you to find and use the feature.\r\n- Picture-In-Picture now has a keyboard shortcut for Mac users (Option + Command + Shift + Right bracket) that works before you start playing the video.\r\n- For Windows users, Firefox now uses DirectComposition for hardware decoded video, which will improve CPU and GPU usage during video playback, improving battery life.",
       "sort_num": 1000,
       "tag": "New"
     },
@@ -45,6 +45,26 @@
       "note": "WebRender continues to roll out to [more Firefox users][0] on Windows.\r\n\r\n[0]: https://wiki.mozilla.org/Platform/GFX/WebRender_Where",
       "sort_num": 500,
       "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2020-10-16T15:51:26.619198+00:00",
+      "id": 788473,
+      "is_public": true,
+      "modified": "2020-10-16T15:51:26.619006+00:00",
+      "note": "MediaSession API has been enabled by default which allows web authors to provide custom behaviors for standard media playback interactions, giving them more options than ever.",
+      "sort_num": 1000,
+      "tag": "Developer"
+    },
+    {
+      "bug": null,
+      "created": "2020-10-16T15:52:47.090805+00:00",
+      "id": 788474,
+      "is_public": true,
+      "modified": "2020-10-16T15:52:47.090606+00:00",
+      "note": "DevTools now shows [server side events][0] in the Network panel. This allows a server to send new data to a web page at any time allowing developers to see events they previously couldn't and help with lower-level troubleshooting.\r\n\r\n[0]: https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events/Using_server-sent_events",
+      "sort_num": 500,
+      "tag": "Developer"
     }
   ],
   "product": "Firefox",
