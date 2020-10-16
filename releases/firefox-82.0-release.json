@@ -15,6 +15,36 @@
       "note": "With this release, Firefox introduces a number of improvements to make watching videos more delightful:\r\n\r\n- the Picture-In-Picture button has a new look and position, making it easier for you to find and use the feature.\r\n- Picture-In-Picture now has a keyboard shortcut for Mac users (Option + Command + Shift + Right bracket) that works before you start playing the video.\r\n- For Windows users, Firefox now uses DirectComposition for hardware decoded video, which will improve CPU and GPU usage during video playback, improving battery life.",
       "sort_num": 1000,
       "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2020-10-16T15:46:45.188841+00:00",
+      "id": 788470,
+      "is_public": true,
+      "modified": "2020-10-16T15:46:45.188644+00:00",
+      "note": "Firefox demonstrates improved performance on both page loads and start up time:\r\n\r\n- Websites that use flexbox-based layouts load 20% faster than before;\r\n- Restoring a session is 17% quicker, meaning you can more quickly pick up where you left off;\r\n- For Windows users, opening new windows got quicker by 10%.",
+      "sort_num": 900,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2020-10-16T15:48:58.780693+00:00",
+      "id": 788471,
+      "is_public": true,
+      "modified": "2020-10-16T15:48:58.780469+00:00",
+      "note": "You can now explore new articles when you save a webpage to Pocket from the Firefox toolbar.",
+      "sort_num": 800,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2020-10-16T15:50:18.905669+00:00",
+      "id": 788472,
+      "is_public": true,
+      "modified": "2020-10-16T15:50:18.905458+00:00",
+      "note": "WebRender continues to roll out to [more Firefox users][0] on Windows.\r\n\r\n[0]: https://wiki.mozilla.org/Platform/GFX/WebRender_Where",
+      "sort_num": 500,
+      "tag": "New"
     }
   ],
   "product": "Firefox",
