@@ -7,6 +7,16 @@
   "modified": "2020-10-20T11:11:15.871751+00:00",
   "notes": [
     {
+      "bug": 1666417,
+      "created": "2020-09-29T11:25:10.676322+00:00",
+      "id": 788450,
+      "is_public": true,
+      "modified": "2020-10-21T11:38:08.667543+00:00",
+      "note": "<!-- Nightly Only -->\r\nA major update to Firefox JavaScript JITs engine (codenamed *Warp*) is now [activated by default][1] on the nightly channel and brings some nice speed improvements. If you find any issues, please file bugs blocking [bug 1613592][2] .\r\n\r\n\r\n  [1]: https://groups.google.com/g/mozilla.dev.platform/c/1PHhxBxSehQ\r\n  [2]: https://bugzilla.mozilla.org/show_bug.cgi?id=1613592",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1667149,
       "created": "2020-09-29T11:30:34.502272+00:00",
       "id": 788451,
