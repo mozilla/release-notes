@@ -1,0 +1,37 @@
+{
+  "bug_list": "",
+  "bug_search_url": "",
+  "channel": "Release",
+  "created": "2020-10-23T18:30:54.628517+00:00",
+  "is_public": true,
+  "modified": "2020-10-23T18:33:23.128793+00:00",
+  "notes": [
+    {
+      "bug": null,
+      "created": "2020-10-23T18:31:39.585190+00:00",
+      "id": 788480,
+      "is_public": true,
+      "modified": "2020-10-23T18:32:31.226271+00:00",
+      "note": "In this release, we are excited to introduce new ways of making your browsing experience better:\r\n\r\n- Accidentally close a tab? You can now reopen your recently closed tabs in your tab tray menu or History panel.\r\n- Automatically purge cookies from sites you haven\u2019t directly visited in 30 days\r\n- Newly supported add-ons: Video Background Play Fix and Google Search Fixer\r\n- Added a new locale: Tajik!\r\n- Better support for opening links in Firefox from third-party apps",
+      "sort_num": 10,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2020-10-16T16:17:01.766286+00:00",
+      "id": 788478,
+      "is_public": true,
+      "modified": "2020-10-23T18:32:51.596771+00:00",
+      "note": "Various [security fixes][0]\r\n\r\n[0]: https://www.mozilla.org/security/advisories/mfsa2020-45/",
+      "sort_num": 0,
+      "tag": "Fixed"
+    }
+  ],
+  "product": "Firefox for Android",
+  "release_date": "2020-10-20",
+  "slug": "firefox-for-android-82.0-release",
+  "system_requirements": "## Operating systems\r\n - Android 5.0 or newer",
+  "text": "Introducing our latest release of Firefox for Android \u2014 Firefox Daylight, dramatically redesigned to be faster, easy to use, customizable, and private.",
+  "title": "Firefox for Android 82.0 Release",
+  "version": "82.0"
+}
