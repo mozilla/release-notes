@@ -35,6 +35,36 @@
       "note": "Restored the ability to print on paper whose width or height is larger than 100 inches, e.g. for receipts ([bug 1672370][0])\r\n\r\n[0]: https://bugzilla.mozilla.org/1672370",
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": 1672529,
+      "created": "2020-10-27T09:25:27.337687+00:00",
+      "id": 788484,
+      "is_public": true,
+      "modified": "2020-10-27T09:25:27.337493+00:00",
+      "note": "Fixed printing of documents with margins of zero, e.g. some PDFs ([bug 1672529][0])",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1666755,
+      "created": "2020-10-27T09:28:10.366071+00:00",
+      "id": 788485,
+      "is_public": true,
+      "modified": "2020-10-27T09:28:10.365875+00:00",
+      "note": "Fixed handling of the `WebDriver:ClickElement` command in the marionette testing framework ([bug 1666755][0])\r\n\r\n[0]: https://bugzilla.mozilla.org/1666755",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1660539,
+      "created": "2020-10-27T09:29:38.280170+00:00",
+      "id": 788486,
+      "is_public": true,
+      "modified": "2020-10-27T09:29:38.279974+00:00",
+      "note": "Stability fix ([bug 1660539][0])\r\n\r\n[0]: https://bugzilla.mozilla.org/1660539",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
