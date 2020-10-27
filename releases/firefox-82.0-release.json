@@ -11,7 +11,7 @@
       "created": "2020-10-16T15:42:22.677937+00:00",
       "id": 788469,
       "is_public": true,
-      "modified": "2020-10-16T15:53:26.662282+00:00",
+      "modified": "2020-10-27T09:15:55.619838+00:00",
       "note": "With this release, Firefox introduces a number of improvements that make watching videos more delightful:\r\n\r\n- the Picture-In-Picture button has a new look and position, making it easier for you to find and use the feature.\r\n- Picture-In-Picture now has a keyboard shortcut for Mac users (Option + Command + Shift + Right bracket) that works before you start playing the video.\r\n- For Windows users, Firefox now uses DirectComposition for hardware decoded video, which will improve CPU and GPU usage during video playback, improving battery life.",
       "sort_num": 1000,
       "tag": "New"
@@ -21,7 +21,7 @@
       "created": "2020-10-16T15:46:45.188841+00:00",
       "id": 788470,
       "is_public": true,
-      "modified": "2020-10-19T09:29:53.496949+00:00",
+      "modified": "2020-10-27T09:15:54.776458+00:00",
       "note": "Firefox is faster than ever with improved performance on both page loads and start up time:\r\n\r\n- Websites that use flexbox-based layouts load 20% faster than before;\r\n- Restoring a session is 17% quicker, meaning you can more quickly pick up where you left off;\r\n- For Windows users, opening new windows got quicker by 10%.",
       "sort_num": 900,
       "tag": "New"
@@ -31,7 +31,7 @@
       "created": "2020-10-16T15:48:58.780693+00:00",
       "id": 788471,
       "is_public": true,
-      "modified": "2020-10-16T15:48:58.780469+00:00",
+      "modified": "2020-10-27T09:15:53.863299+00:00",
       "note": "You can now explore new articles when you save a webpage to Pocket from the Firefox toolbar.",
       "sort_num": 800,
       "tag": "New"
@@ -41,7 +41,7 @@
       "created": "2020-10-16T15:50:18.905669+00:00",
       "id": 788472,
       "is_public": true,
-      "modified": "2020-10-16T15:50:18.905458+00:00",
+      "modified": "2020-10-27T09:15:52.623321+00:00",
       "note": "WebRender continues to roll out to [more Firefox users][0] on Windows.\r\n\r\n[0]: https://wiki.mozilla.org/Platform/GFX/WebRender_Where",
       "sort_num": 500,
       "tag": "New"
@@ -51,7 +51,7 @@
       "created": "2020-10-16T16:12:11.579203+00:00",
       "id": 788475,
       "is_public": true,
-      "modified": "2020-10-16T16:12:11.579003+00:00",
+      "modified": "2020-10-27T09:15:49.171927+00:00",
       "note": "Credit card auto-fill is now more accessible with the card type, and the card number in the card editor now available to screen readers.",
       "sort_num": 1000,
       "tag": "Changed"
@@ -61,7 +61,7 @@
       "created": "2020-10-16T16:13:59.682962+00:00",
       "id": 788476,
       "is_public": true,
-      "modified": "2020-10-16T16:15:11.458236+00:00",
+      "modified": "2020-10-27T09:15:48.450416+00:00",
       "note": "Printing dialog errors for invalid form entries are now reported to screen readers.",
       "sort_num": 800,
       "tag": "Changed"
@@ -71,7 +71,7 @@
       "created": "2020-10-16T15:51:26.619198+00:00",
       "id": 788473,
       "is_public": true,
-      "modified": "2020-10-16T15:51:26.619006+00:00",
+      "modified": "2020-10-27T09:15:51.701769+00:00",
       "note": "MediaSession API has been enabled by default which allows web authors to provide custom behaviors for standard media playback interactions, giving them more options than ever.",
       "sort_num": 1000,
       "tag": "Developer"
@@ -81,7 +81,7 @@
       "created": "2020-10-16T15:52:47.090805+00:00",
       "id": 788474,
       "is_public": true,
-      "modified": "2020-10-22T16:50:33.267445+00:00",
+      "modified": "2020-10-27T09:15:50.289873+00:00",
       "note": "DevTools now shows [server sent events][0] in the Network panel. This allows a server to send new data to a web page at any time allowing developers to see events they previously couldn't and help with lower-level troubleshooting.\r\n\r\n[0]: https://developer.mozilla.org/docs/Web/API/Server-sent_events/Using_server-sent_events",
       "sort_num": 500,
       "tag": "Developer"
@@ -91,7 +91,7 @@
       "created": "2020-10-16T16:14:58.131438+00:00",
       "id": 788477,
       "is_public": true,
-      "modified": "2020-10-16T16:14:58.131241+00:00",
+      "modified": "2020-10-27T09:15:47.506403+00:00",
       "note": "Screen reader features which report paragraphs now correctly report paragraphs in Firefox instead of lines.",
       "sort_num": 1000,
       "tag": "Fixed"
@@ -101,7 +101,7 @@
       "created": "2020-10-16T16:17:01.766286+00:00",
       "id": 788478,
       "is_public": true,
-      "modified": "2020-10-23T18:32:51.596771+00:00",
+      "modified": "2020-10-27T09:15:44.404981+00:00",
       "note": "Various [security fixes][0]\r\n\r\n[0]: https://www.mozilla.org/security/advisories/mfsa2020-45/",
       "sort_num": 0,
       "tag": "Fixed"
