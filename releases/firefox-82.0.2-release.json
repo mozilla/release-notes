@@ -15,6 +15,16 @@
       "note": "Reference link to [82.0.1 release notes][0]\r\n\r\n[0]: https://www.mozilla.org/firefox/82.0.1/releasenotes/",
       "sort_num": 0,
       "tag": ""
+    },
+    {
+      "bug": 1673340,
+      "created": "2020-10-28T08:47:57.944736+00:00",
+      "id": 788488,
+      "is_public": true,
+      "modified": "2020-10-28T08:47:57.944540+00:00",
+      "note": "Fixed duplication of WebSocket messages in certain cases ([bug 1673340][0])\r\n\r\n[0]: https://bugzilla.mozilla.org/1673340",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
