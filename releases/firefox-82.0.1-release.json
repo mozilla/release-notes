@@ -11,7 +11,7 @@
       "created": "2020-10-27T09:16:32.469816+00:00",
       "id": 788481,
       "is_public": true,
-      "modified": "2020-10-27T09:16:32.469520+00:00",
+      "modified": "2020-10-28T08:44:48.129212+00:00",
       "note": "Reference link to [82.0 release notes][0]\r\n\r\n[0]: https://www.mozilla.org/firefox/82.0/releasenotes/",
       "sort_num": 0,
       "tag": ""
@@ -21,7 +21,7 @@
       "created": "2020-10-27T09:17:44.647872+00:00",
       "id": 788482,
       "is_public": true,
-      "modified": "2020-10-27T09:17:44.647681+00:00",
+      "modified": "2020-10-28T08:44:55.575604+00:00",
       "note": "Avoid an unnecessary prompt to reboot when using the full installer on Windows ([bug 1671715][0])\r\n\r\n[0]: https://bugzilla.mozilla.org/1671715",
       "sort_num": 0,
       "tag": "Fixed"
@@ -31,7 +31,7 @@
       "created": "2020-10-27T09:19:46.564155+00:00",
       "id": 788483,
       "is_public": true,
-      "modified": "2020-10-27T09:19:46.563960+00:00",
+      "modified": "2020-10-28T08:44:53.874563+00:00",
       "note": "Restored the ability to print on paper whose width or height is larger than 100 inches, e.g. for receipts ([bug 1672370][0])\r\n\r\n[0]: https://bugzilla.mozilla.org/1672370",
       "sort_num": 0,
       "tag": "Fixed"
@@ -41,7 +41,7 @@
       "created": "2020-10-27T09:25:27.337687+00:00",
       "id": 788484,
       "is_public": true,
-      "modified": "2020-10-27T09:57:51.793921+00:00",
+      "modified": "2020-10-28T08:44:53.284929+00:00",
       "note": "Fixed printing of documents with margins of zero, e.g. some PDFs ([bug 1672529][0])\r\n\r\n[0]: https://bugzilla.mozilla.org/1672529",
       "sort_num": 0,
       "tag": "Fixed"
@@ -51,7 +51,7 @@
       "created": "2020-10-27T09:28:10.366071+00:00",
       "id": 788485,
       "is_public": true,
-      "modified": "2020-10-27T09:28:10.365875+00:00",
+      "modified": "2020-10-28T08:44:52.488366+00:00",
       "note": "Fixed handling of the `WebDriver:ClickElement` command in the marionette testing framework ([bug 1666755][0])\r\n\r\n[0]: https://bugzilla.mozilla.org/1666755",
       "sort_num": 0,
       "tag": "Fixed"
@@ -61,7 +61,7 @@
       "created": "2020-10-27T09:29:38.280170+00:00",
       "id": 788486,
       "is_public": true,
-      "modified": "2020-10-27T09:29:38.279974+00:00",
+      "modified": "2020-10-28T08:44:51.584793+00:00",
       "note": "Stability fix ([bug 1660539][0])\r\n\r\n[0]: https://bugzilla.mozilla.org/1660539",
       "sort_num": 0,
       "tag": "Fixed"
