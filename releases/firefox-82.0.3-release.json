@@ -11,10 +11,20 @@
       "created": "2020-11-09T02:25:06.146432+00:00",
       "id": 788489,
       "is_public": true,
-      "modified": "2020-11-09T02:25:06.146245+00:00",
-      "note": "Reference link to [82.0.1 release notes][0]\r\n\r\n[0]: https://www.mozilla.org/firefox/82.0.1/releasenotes/",
+      "modified": "2020-11-09T02:25:25.083865+00:00",
+      "note": "Reference link to [82.0.2 release notes][0]\r\n\r\n[0]: https://www.mozilla.org/firefox/82.0.2/releasenotes/",
       "sort_num": 0,
       "tag": ""
+    },
+    {
+      "bug": 1675905,
+      "created": "2020-11-09T02:30:10.208529+00:00",
+      "id": 788491,
+      "is_public": true,
+      "modified": "2020-11-09T02:30:10.208276+00:00",
+      "note": "[Security fix][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",

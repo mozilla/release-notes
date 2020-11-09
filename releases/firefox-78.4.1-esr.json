@@ -4,8 +4,29 @@
   "channel": "ESR",
   "created": "2020-11-09T02:23:58.414852+00:00",
   "is_public": false,
-  "modified": "2020-11-09T02:24:35.420153+00:00",
-  "notes": [],
+  "modified": "2020-11-09T02:26:04.926413+00:00",
+  "notes": [
+    {
+      "bug": null,
+      "created": "2020-11-09T02:26:02.954321+00:00",
+      "id": 788490,
+      "is_public": true,
+      "modified": "2020-11-09T02:26:18.719821+00:00",
+      "note": "Reference link to [78.4.0 release notes][0]\r\n\r\n[0]: https://www.mozilla.org/firefox/78.4.0/releasenotes/",
+      "sort_num": 0,
+      "tag": ""
+    },
+    {
+      "bug": 1675905,
+      "created": "2020-11-09T02:30:10.208529+00:00",
+      "id": 788491,
+      "is_public": true,
+      "modified": "2020-11-09T02:30:10.208276+00:00",
+      "note": "[Security fix][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/",
+      "sort_num": 0,
+      "tag": "Fixed"
+    }
+  ],
   "product": "Firefox Extended Support Release",
   "release_date": "2020-11-10",
   "slug": "firefox-78.4.1-esr",
