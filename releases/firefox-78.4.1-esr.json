@@ -2,26 +2,15 @@
   "bug_list": "",
   "bug_search_url": "",
   "channel": "ESR",
-  "created": "2020-10-14T11:19:01.202187+00:00",
-  "is_public": true,
-  "modified": "2020-10-20T12:43:14.308431+00:00",
-  "notes": [
-    {
-      "bug": null,
-      "created": "2020-10-14T11:19:24.215222+00:00",
-      "id": 788464,
-      "is_public": true,
-      "modified": "2020-11-09T02:24:33.721821+00:00",
-      "note": "Various stability, functionality, and [security fixes][0]\r\n\r\n[0]: https://www.mozilla.org/security/advisories/mfsa2020-46/",
-      "sort_num": 0,
-      "tag": "Fixed"
-    }
-  ],
+  "created": "2020-11-09T02:23:58.414852+00:00",
+  "is_public": false,
+  "modified": "2020-11-09T02:24:35.420153+00:00",
+  "notes": [],
   "product": "Firefox Extended Support Release",
-  "release_date": "2020-10-20",
-  "slug": "firefox-78.4.0-esr",
+  "release_date": "2020-11-10",
+  "slug": "firefox-78.4.1-esr",
   "system_requirements": "## Windows\r\n\r\n### Operating Systems (32-bit and 64-bit)\r\n - Windows 7\r\n - Windows 8\r\n - Windows 10\r\n\r\n### Recommended Hardware\r\n-  Pentium 4 or newer processor that supports SSE2\r\n-  512MB of RAM / 2GB of RAM for the 64-bit version\r\n-  200MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- macOS 10.9\r\n- macOS 10.10\r\n- macOS 10.11\r\n- macOS 10.12\r\n- macOS 10.13\r\n- macOS 10.14\r\n- macOS 10.15\r\n\r\n### Recommended Hardware\r\n- Macintosh computer with an Intel x86 processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - GTK+ 3.14 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n    - libstdc++ 4.8.1 or higher\r\n    - glibc 2.17 or higher\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - NetworkManager 0.7 or higher\r\n    - DBus 1.0 or higher\r\n    - GNOME 2.16 or higher\r\n    - PulseAudio",
   "text": "",
-  "title": "Firefox Extended Support Release 78.4.0 ESR",
-  "version": "78.4.0"
+  "title": "Firefox Extended Support Release 78.4.1 ESR",
+  "version": "78.4.1"
 }
