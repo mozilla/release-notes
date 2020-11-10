@@ -47,6 +47,16 @@
       "tag": "New"
     },
     {
+      "bug": 1620056,
+      "created": "2020-11-10T16:59:15.105870+00:00",
+      "id": 788494,
+      "is_public": true,
+      "modified": "2020-11-10T16:59:15.105631+00:00",
+      "note": "Users with touchscreens and precision trackpads can now use pinch gestures on those devices to zoom web content without reflowing",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 613785,
       "created": "2020-09-29T10:59:14.053900+00:00",
       "id": 788449,
@@ -84,6 +94,16 @@
       "modified": "2020-11-09T16:17:49.732254+00:00",
       "note": "Fix for [MFSA 2020-49][1] included in version 83.0b10 and newer.\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/mfsa2020-49/",
       "sort_num": 100,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1580117,
+      "created": "2020-11-10T17:04:21.565932+00:00",
+      "id": 788495,
+      "is_public": true,
+      "modified": "2020-11-10T17:04:21.565729+00:00",
+      "note": "For users on macOS with minimized windows, Firefox now uses much less power and you should see much longer battery life.",
+      "sort_num": 0,
       "tag": "Fixed"
     }
   ],
