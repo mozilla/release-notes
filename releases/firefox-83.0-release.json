@@ -125,6 +125,26 @@
       "note": "[Enterprise Information][1]\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/firefox-enterprise-83-release-notes",
       "sort_num": 0,
       "tag": "Enterprise"
+    },
+    {
+      "bug": null,
+      "created": "2020-11-12T15:41:21.143593+00:00",
+      "id": 788510,
+      "is_public": true,
+      "modified": "2020-11-12T15:41:21.143355+00:00",
+      "note": "This release also includes a number of accessibility fixes:\r\n \r\n* Screen reader features which report paragraphs now correctly report paragraphs instead of lines in Google Docs\r\n* When reading by word using a screen reader, words are now correctly reported when there is punctuation nearby\r\n* The arrow keys now work correctly after tabbing in the picture-in-picture window",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2020-11-12T15:41:59.515177+00:00",
+      "id": 788511,
+      "is_public": true,
+      "modified": "2020-11-12T15:41:59.514975+00:00",
+      "note": "For users on macOS restoring a session with minimized windows, Firefox now uses much less power and you should see much longer battery life.",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
