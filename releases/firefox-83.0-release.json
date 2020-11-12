@@ -5,7 +5,48 @@
   "created": "2020-11-12T13:09:56.101750+00:00",
   "is_public": false,
   "modified": "2020-11-12T13:10:47.890066+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": null,
+      "created": "2020-11-12T14:48:38.995552+00:00",
+      "id": 788498,
+      "is_public": true,
+      "modified": "2020-11-12T14:48:38.995335+00:00",
+      "note": "Pinch zooming will now be supported for our users with Windows touchscreen devices and touchpads on Mac devices. Firefox users may now use pinch to zoom on touch-capable devices to zoom in and out of webpages.",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2020-11-12T14:49:07.718753+00:00",
+      "id": 788499,
+      "is_public": true,
+      "modified": "2020-11-12T14:49:07.718550+00:00",
+      "note": "Picture-in-Picture now supports fast forward and rewind video with keyboard shortcuts: use the arrow keys to move forward and back 15 seconds, along with volume controls. For a list of supported commands see {{SUMO link}}",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2020-11-12T14:49:33.725420+00:00",
+      "id": 788500,
+      "is_public": true,
+      "modified": "2020-11-12T14:49:33.725213+00:00",
+      "note": "When you are presenting your screen on a video conference in Firefox, you will see our improved user interface that makes it clearer which devices or displays are being shared over WebRTC.",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2020-11-12T14:50:06.088242+00:00",
+      "id": 788501,
+      "is_public": true,
+      "modified": "2020-11-12T14:50:06.088040+00:00",
+      "note": "Our JavaScript engine, SpiderMonkey, gets a significant update with this release. We have replaced part of the JavaScript engine that helps to compile and display websites for you, improving security and maintainability of the engine at the same time. This change improves page load performance by up to 15%, page responsiveness by up to 12%, and reduces memory usage by up to 8%.",
+      "sort_num": 0,
+      "tag": "New"
+    }
+  ],
   "product": "Firefox",
   "release_date": "2020-11-17",
   "slug": "firefox-83.0-release",
