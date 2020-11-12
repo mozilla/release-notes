@@ -45,6 +45,56 @@
       "note": "Our JavaScript engine, SpiderMonkey, gets a significant update with this release. We have replaced part of the JavaScript engine that helps to compile and display websites for you, improving security and maintainability of the engine at the same time. This change improves page load performance by up to 15%, page responsiveness by up to 12%, and reduces memory usage by up to 8%.",
       "sort_num": 0,
       "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2020-11-12T14:51:03.757995+00:00",
+      "id": 788502,
+      "is_public": true,
+      "modified": "2020-11-12T14:51:03.757787+00:00",
+      "note": "We\u2019ve improved functionality and design for a number of Firefox search features:  \r\n\r\n* Selecting a search engine at the bottom of the search panel now enters search mode for that engine, allowing you to see suggestions (if available) for your search terms. The old behavior (immediately performing a search) is available with a shift-click.\r\n* When Firefox autocompletes the URL of one of your search engines, you can now search with that engine directly in the address bar by selecting the shortcut in the address bar results.\r\n* We\u2019ve added buttons at the bottom of the search panel to allow you to search your bookmarks, open tabs, and history.",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2020-11-12T14:52:18.547318+00:00",
+      "id": 788503,
+      "is_public": true,
+      "modified": "2020-11-12T14:52:18.547109+00:00",
+      "note": "[Firefox introduces HTTPS-Only Mode][1]. When enabled, this new mode ensures that every connection Firefox makes to the web is secure and alerts you when a secure connection is not available. [You can enable it in Firefox Preferences.][2]\r\n\r\n\r\n  [1]: https://blog.mozilla.org/security/2020/11/11/firefox-83-introduces-https-only-mode\r\n  [2]: https://support.mozilla.org/kb/https-only-prefs#w_enable-https-only-mode",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2020-11-12T14:53:48.706245+00:00",
+      "id": 788504,
+      "is_public": true,
+      "modified": "2020-11-12T14:53:48.706032+00:00",
+      "note": "Our users in India  will now see Pocket recommendations in their new tab featuring some of the best stories on the web.  If you don\u2019t see them, you can turn on Pocket articles in your new tab by [following these steps][1].  \r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/hide-or-display-content-new-tab",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2020-11-12T14:54:43.924605+00:00",
+      "id": 788505,
+      "is_public": true,
+      "modified": "2020-11-12T14:54:43.924360+00:00",
+      "note": "For the recently released Apple devices built with Apple Silicon CPUs, you can use Firefox 83 and future releases without any change. This release (83) will support emulation under [Apple\u2019s Rosetta 2][1] that ships with macOS Big Sur. We are working toward Firefox being natively-compiled for these CPUs in a future release.\r\n\r\n\r\n  [1]: https://www.apple.com/rosetta/index.html",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2020-11-12T14:56:46.427094+00:00",
+      "id": 788506,
+      "is_public": true,
+      "modified": "2020-11-12T14:56:46.426885+00:00",
+      "note": "This is a major release for WebRender as we roll out to [more Firefox users][1] on Windows 7 and 8 as well as on macOS 10.12 to 10.15.\r\n\r\n\r\n  [1]: https://wiki.mozilla.org/Platform/GFX/WebRender_Where",
+      "sort_num": 0,
+      "tag": "New"
     }
   ],
   "product": "Firefox",
