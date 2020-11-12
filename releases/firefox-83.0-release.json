@@ -95,6 +95,36 @@
       "note": "This is a major release for WebRender as we roll out to [more Firefox users][1] on Windows 7 and 8 as well as on macOS 10.12 to 10.15.\r\n\r\n\r\n  [1]: https://wiki.mozilla.org/Platform/GFX/WebRender_Where",
       "sort_num": 0,
       "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2020-11-12T15:12:24.352945+00:00",
+      "id": 788508,
+      "is_public": true,
+      "modified": "2020-11-12T15:12:24.352723+00:00",
+      "note": "This release adds support for [conic gradients in CSS][1], helping colors to smoothly transition as you spin around the center, rather than as you progress outward from the center. \r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/CSS/conic-gradient",
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": null,
+      "created": "2020-11-12T15:11:18.632315+00:00",
+      "id": 788507,
+      "is_public": true,
+      "modified": "2020-11-12T15:11:18.632113+00:00",
+      "note": "Developers can use the scroll badge in the [Page Inspector][1] to [Debug scrollable overflow][2]. Selecting the badge highlights elements that are *causing* overflow and marks them with the overflow badge\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Tools/Page_Inspector\r\n  [2]: https://developer.mozilla.org/docs/Tools/Page_Inspector/How_to/Debug_Scrollable_Overflow",
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
+      "bug": null,
+      "created": "2020-11-12T15:14:17.536953+00:00",
+      "id": 788509,
+      "is_public": true,
+      "modified": "2020-11-12T15:14:17.536744+00:00",
+      "note": "[Enterprise Information][1]\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/firefox-enterprise-83-release-notes",
+      "sort_num": 0,
+      "tag": "Enterprise"
     }
   ],
   "product": "Firefox",
