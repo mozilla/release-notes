@@ -11,7 +11,7 @@
       "created": "2020-09-29T11:25:10.676322+00:00",
       "id": 788450,
       "is_public": true,
-      "modified": "2020-10-21T11:38:08.667543+00:00",
+      "modified": "2020-11-13T18:40:17.073634+00:00",
       "note": "<!-- Nightly Only -->\r\nA major update to Firefox JavaScript JITs engine (codenamed *Warp*) is now [activated by default][1] on the nightly channel and brings some nice speed improvements. If you find any issues, please file bugs blocking [bug 1613592][2] .\r\n\r\n\r\n  [1]: https://groups.google.com/g/mozilla.dev.platform/c/1PHhxBxSehQ\r\n  [2]: https://bugzilla.mozilla.org/show_bug.cgi?id=1613592",
       "sort_num": 0,
       "tag": "New"
@@ -21,7 +21,7 @@
       "created": "2020-09-29T11:30:34.502272+00:00",
       "id": 788451,
       "is_public": true,
-      "modified": "2020-10-20T11:13:50.361582+00:00",
+      "modified": "2020-11-13T18:40:16.293978+00:00",
       "note": "WebRender is now activated on Intel Gen12 GPUs",
       "sort_num": 0,
       "tag": "New"
@@ -31,7 +31,7 @@
       "created": "2020-10-14T12:31:25.623812+00:00",
       "id": 788466,
       "is_public": true,
-      "modified": "2020-10-20T11:10:53.237813+00:00",
+      "modified": "2020-11-13T18:40:10.096310+00:00",
       "note": "There is now a \"Print selection\" context menu item.",
       "sort_num": 0,
       "tag": "New"
@@ -41,7 +41,7 @@
       "created": "2020-10-14T12:54:10.371594+00:00",
       "id": 788468,
       "is_public": true,
-      "modified": "2020-10-20T11:17:26.983410+00:00",
+      "modified": "2020-11-13T18:40:07.885286+00:00",
       "note": "Device sharing state indicator icons have been added to the system tray on Windows",
       "sort_num": 0,
       "tag": "New"
@@ -51,7 +51,7 @@
       "created": "2020-11-10T16:59:15.105870+00:00",
       "id": 788494,
       "is_public": true,
-      "modified": "2020-11-10T16:59:15.105631+00:00",
+      "modified": "2020-11-13T18:40:14.622683+00:00",
       "note": "Users with touchscreens and precision trackpads can now use pinch gestures on those devices to zoom web content without reflowing",
       "sort_num": 0,
       "tag": "New"
@@ -61,7 +61,7 @@
       "created": "2020-11-10T17:09:05.671560+00:00",
       "id": 788496,
       "is_public": true,
-      "modified": "2020-11-10T17:09:16.392123+00:00",
+      "modified": "2020-11-13T18:40:12.446798+00:00",
       "note": "Added an option in about:preferences to disable control of media via keyboard, headset and virtual interface.",
       "sort_num": 0,
       "tag": "New"
@@ -71,7 +71,7 @@
       "created": "2020-09-29T10:59:14.053900+00:00",
       "id": 788449,
       "is_public": true,
-      "modified": "2020-10-20T11:12:48.994988+00:00",
+      "modified": "2020-11-13T18:40:18.927069+00:00",
       "note": "HTTP authentication prompt dialogs are now tab-modal instead of window-modal",
       "sort_num": 0,
       "tag": "Changed"
@@ -81,7 +81,7 @@
       "created": "2020-10-12T13:56:52.302693+00:00",
       "id": 788463,
       "is_public": true,
-      "modified": "2020-10-20T11:14:05.219870+00:00",
+      "modified": "2020-11-13T18:40:11.438863+00:00",
       "note": "Added support for [CSS conic gradients][1]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/CSS/conic-gradient",
       "sort_num": 0,
       "tag": "HTML5"
@@ -91,7 +91,7 @@
       "created": "2020-10-14T12:45:28.102170+00:00",
       "id": 788467,
       "is_public": true,
-      "modified": "2020-10-20T11:16:29.447829+00:00",
+      "modified": "2020-11-13T18:40:09.157751+00:00",
       "note": "You can now click on the \"scroll\" badge for scrollable elements to toggle highlighting of the overflow causing elements, which also have a new \"overflow\" badge next to them",
       "sort_num": 0,
       "tag": "Developer"
@@ -101,7 +101,7 @@
       "created": "2020-11-09T16:17:21.905543+00:00",
       "id": 788493,
       "is_public": true,
-      "modified": "2020-11-09T16:17:49.732254+00:00",
+      "modified": "2020-11-13T18:40:15.492857+00:00",
       "note": "Fix for [MFSA 2020-49][1] included in version 83.0b10 and newer.\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/mfsa2020-49/",
       "sort_num": 100,
       "tag": "Fixed"
@@ -111,7 +111,7 @@
       "created": "2020-11-10T17:04:21.565932+00:00",
       "id": 788495,
       "is_public": true,
-      "modified": "2020-11-10T17:04:21.565729+00:00",
+      "modified": "2020-11-13T18:40:13.627595+00:00",
       "note": "For users on macOS with minimized windows, Firefox now uses much less power and you should see much longer battery life.",
       "sort_num": 0,
       "tag": "Fixed"
