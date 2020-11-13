@@ -5,7 +5,28 @@
   "created": "2020-11-13T18:39:39.143013+00:00",
   "is_public": false,
   "modified": "2020-11-13T18:40:20.176213+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": 1675349,
+      "created": "2020-11-13T18:53:35.415329+00:00",
+      "id": 788513,
+      "is_public": true,
+      "modified": "2020-11-13T18:53:35.415084+00:00",
+      "note": "Firefox 84 will be the final release to support Adobe Flash. There will be no setting available to re-enable Flash support in future releases.",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1667930,
+      "created": "2020-11-13T18:51:11.140637+00:00",
+      "id": 788512,
+      "is_public": true,
+      "modified": "2020-11-13T18:51:11.140405+00:00",
+      "note": "New profiles will load all of Mozilla's trusted intermediate certificate authorities from Remote Settings in a single day now, rather than spread out over multiple weeks. This makes it much more likely that a new Firefox user will not encounter security errors on misconfigured websites.",
+      "sort_num": 0,
+      "tag": "Changed"
+    }
+  ],
   "product": "Firefox",
   "release_date": "2020-11-17",
   "slug": "firefox-84.0beta-beta",
