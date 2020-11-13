@@ -7,6 +7,16 @@
   "modified": "2020-11-13T18:40:20.176213+00:00",
   "notes": [
     {
+      "bug": 1675766,
+      "created": "2020-11-13T19:14:56.824330+00:00",
+      "id": 788514,
+      "is_public": true,
+      "modified": "2020-11-13T19:14:56.824128+00:00",
+      "note": "WebRender is now enabled by default on Linux/GNOME/X11.",
+      "sort_num": 20,
+      "tag": "New"
+    },
+    {
       "bug": 1675349,
       "created": "2020-11-13T18:53:35.415329+00:00",
       "id": 788513,
