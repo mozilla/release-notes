@@ -5,7 +5,28 @@
   "created": "2020-11-16T09:23:22.065989+00:00",
   "is_public": false,
   "modified": "2020-11-16T09:23:46.065025+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": null,
+      "created": "2020-11-16T09:25:51.032285+00:00",
+      "id": 788515,
+      "is_public": true,
+      "modified": "2020-11-16T09:25:51.032083+00:00",
+      "note": "We are continually making improvements and this release brings you the following update:\r\n\r\n* Newly supported add-ons: FoxyProxy, Bitwarden, AdGuard AdBlocker, Tomato Clock, LeechBlock NG, Web Archives, and Ghostery. See all our supported add-ons [here][1].\r\n\r\n\r\n  [1]: https://addons.mozilla.org/android/",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2020-11-16T09:27:00.489320+00:00",
+      "id": 788517,
+      "is_public": true,
+      "modified": "2020-11-16T09:27:00.489116+00:00",
+      "note": "Various [security fixes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/",
+      "sort_num": 0,
+      "tag": "Fixed"
+    }
+  ],
   "product": "Firefox for Android",
   "release_date": "2020-11-17",
   "slug": "firefox-for-android-83.0-release",

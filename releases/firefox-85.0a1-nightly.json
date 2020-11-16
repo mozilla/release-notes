@@ -5,7 +5,18 @@
   "created": "2020-11-16T09:24:15.553307+00:00",
   "is_public": false,
   "modified": "2020-11-16T09:24:44.370131+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": 1675349,
+      "created": "2020-11-16T09:25:58.620767+00:00",
+      "id": 788516,
+      "is_public": true,
+      "modified": "2020-11-16T09:25:58.620572+00:00",
+      "note": "Firefox [no longer supports Adobe Flash][0]. There is no setting available to re-enable Flash support.\r\n\r\n[0]: https://support.mozilla.org/kb/end-support-adobe-flash",
+      "sort_num": 0,
+      "tag": "Changed"
+    }
+  ],
   "product": "Firefox",
   "release_date": "2020-11-16",
   "slug": "firefox-85.0a1-nightly",
