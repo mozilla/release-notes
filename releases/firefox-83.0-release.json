@@ -31,9 +31,9 @@
       "created": "2020-11-12T14:48:38.995552+00:00",
       "id": 788498,
       "is_public": true,
-      "modified": "2020-11-16T09:48:22.401240+00:00",
+      "modified": "2020-11-16T09:50:38.867495+00:00",
       "note": "Pinch zooming will now be supported for our users with Windows touchscreen devices and touchpads on Mac devices. Firefox users may now use pinch to zoom on touch-capable devices to zoom in and out of webpages.",
-      "sort_num": 60,
+      "sort_num": 80,
       "tag": "New"
     },
     {
@@ -41,19 +41,9 @@
       "created": "2020-11-12T14:49:07.718753+00:00",
       "id": 788499,
       "is_public": true,
-      "modified": "2020-11-16T09:48:51.270129+00:00",
+      "modified": "2020-11-16T09:51:04.068709+00:00",
       "note": "Picture-in-Picture now supports keyboard shortcuts for fast forwarding and rewinding videos: use the arrow keys to move forward and back 15 seconds, along with volume controls. For a list of supported commands see {{SUMO link}}",
-      "sort_num": 40,
-      "tag": "New"
-    },
-    {
-      "bug": null,
-      "created": "2020-09-21T16:29:38.925376+00:00",
-      "id": 788443,
-      "is_public": true,
-      "modified": "2020-11-16T09:40:43.493817+00:00",
-      "note": "Firefox supports AcroForm, which will allow you to [fill in, print, and save supported PDF forms][1] and the PDF viewer also has a new fresh look.\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/view-pdf-files-firefox-or-choose-another-viewer",
-      "sort_num": 0,
+      "sort_num": 70,
       "tag": "New"
     },
     {
@@ -61,9 +51,9 @@
       "created": "2020-11-12T14:49:33.725420+00:00",
       "id": 788500,
       "is_public": true,
-      "modified": "2020-11-16T09:34:19.051809+00:00",
+      "modified": "2020-11-16T09:51:28.942424+00:00",
       "note": "When you are presenting your screen on a video conference in Firefox, you will see our improved user interface that makes it clearer which devices or displays are being shared.",
-      "sort_num": 0,
+      "sort_num": 60,
       "tag": "New"
     },
     {
@@ -71,9 +61,19 @@
       "created": "2020-11-12T14:51:03.757995+00:00",
       "id": 788502,
       "is_public": true,
-      "modified": "2020-11-12T14:51:03.757787+00:00",
+      "modified": "2020-11-16T09:51:58.479075+00:00",
       "note": "We\u2019ve improved functionality and design for a number of Firefox search features:  \r\n\r\n* Selecting a search engine at the bottom of the search panel now enters search mode for that engine, allowing you to see suggestions (if available) for your search terms. The old behavior (immediately performing a search) is available with a shift-click.\r\n* When Firefox autocompletes the URL of one of your search engines, you can now search with that engine directly in the address bar by selecting the shortcut in the address bar results.\r\n* We\u2019ve added buttons at the bottom of the search panel to allow you to search your bookmarks, open tabs, and history.",
-      "sort_num": 0,
+      "sort_num": 50,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2020-09-21T16:29:38.925376+00:00",
+      "id": 788443,
+      "is_public": true,
+      "modified": "2020-11-16T09:52:21.493135+00:00",
+      "note": "Firefox supports AcroForm, which will allow you to [fill in, print, and save supported PDF forms][1] and the PDF viewer also has a new fresh look.\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/view-pdf-files-firefox-or-choose-another-viewer",
+      "sort_num": 40,
       "tag": "New"
     },
     {
@@ -81,9 +81,9 @@
       "created": "2020-11-12T14:53:48.706245+00:00",
       "id": 788504,
       "is_public": true,
-      "modified": "2020-11-16T09:41:56.104208+00:00",
+      "modified": "2020-11-16T09:52:49.390911+00:00",
       "note": "Our users in India on the English build of Firefox will now see Pocket recommendations in their new tab featuring some of the best stories on the web.  If you don\u2019t see them, you can turn on Pocket articles in your new tab by [following these steps][1].\r\n\r\n  [1]: https://support.mozilla.org/kb/hide-or-display-content-new-tab",
-      "sort_num": 0,
+      "sort_num": 30,
       "tag": "New"
     },
     {
@@ -91,9 +91,9 @@
       "created": "2020-11-12T14:54:43.924605+00:00",
       "id": 788505,
       "is_public": true,
-      "modified": "2020-11-12T14:54:43.924360+00:00",
+      "modified": "2020-11-16T09:53:17.366832+00:00",
       "note": "For the recently released Apple devices built with Apple Silicon CPUs, you can use Firefox 83 and future releases without any change. This release (83) will support emulation under [Apple\u2019s Rosetta 2][1] that ships with macOS Big Sur. We are working toward Firefox being natively-compiled for these CPUs in a future release.\r\n\r\n\r\n  [1]: https://www.apple.com/rosetta/index.html",
-      "sort_num": 0,
+      "sort_num": 20,
       "tag": "New"
     },
     {
@@ -101,9 +101,9 @@
       "created": "2020-11-12T14:56:46.427094+00:00",
       "id": 788506,
       "is_public": true,
-      "modified": "2020-11-12T14:56:46.426885+00:00",
+      "modified": "2020-11-16T09:53:40.910559+00:00",
       "note": "This is a major release for WebRender as we roll out to [more Firefox users][1] on Windows 7 and 8 as well as on macOS 10.12 to 10.15.\r\n\r\n\r\n  [1]: https://wiki.mozilla.org/Platform/GFX/WebRender_Where",
-      "sort_num": 0,
+      "sort_num": 10,
       "tag": "New"
     },
     {
