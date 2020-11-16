@@ -8,12 +8,22 @@
   "notes": [
     {
       "bug": null,
-      "created": "2020-09-21T16:29:38.925376+00:00",
-      "id": 788443,
+      "created": "2020-11-12T14:50:06.088242+00:00",
+      "id": 788501,
       "is_public": true,
-      "modified": "2020-11-16T09:40:43.493817+00:00",
-      "note": "Firefox supports AcroForm, which will allow you to [fill in, print, and save supported PDF forms][1] and the PDF viewer also has a new fresh look.\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/view-pdf-files-firefox-or-choose-another-viewer",
-      "sort_num": 0,
+      "modified": "2020-11-16T09:46:35.702810+00:00",
+      "note": "Firefox keeps getting faster as a result of significant updates to SpiderMonkey, our JavaScript engine, you will now experience improved page load performance by up to 15%, page responsiveness by up to 12%, and reduced memory usage by up to 8%. We have replaced part of the JavaScript engine that helps to compile and display websites for you, improving security and maintainability of the engine at the same time.",
+      "sort_num": 100,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2020-11-12T14:52:18.547318+00:00",
+      "id": 788503,
+      "is_public": true,
+      "modified": "2020-11-16T09:50:02.470411+00:00",
+      "note": "[Firefox introduces HTTPS-Only Mode][1]. When enabled, this new mode ensures that every connection Firefox makes to the web is secure and alerts you when a secure connection is not available. [You can enable it in Firefox Preferences.][2]\r\n\r\n\r\n  [1]: https://blog.mozilla.org/security/2020/11/11/firefox-83-introduces-https-only-mode\r\n  [2]: https://support.mozilla.org/kb/https-only-prefs#w_enable-https-only-mode",
+      "sort_num": 90,
       "tag": "New"
     },
     {
@@ -21,9 +31,9 @@
       "created": "2020-11-12T14:48:38.995552+00:00",
       "id": 788498,
       "is_public": true,
-      "modified": "2020-11-12T14:48:38.995335+00:00",
+      "modified": "2020-11-16T09:48:22.401240+00:00",
       "note": "Pinch zooming will now be supported for our users with Windows touchscreen devices and touchpads on Mac devices. Firefox users may now use pinch to zoom on touch-capable devices to zoom in and out of webpages.",
-      "sort_num": 0,
+      "sort_num": 60,
       "tag": "New"
     },
     {
@@ -31,8 +41,18 @@
       "created": "2020-11-12T14:49:07.718753+00:00",
       "id": 788499,
       "is_public": true,
-      "modified": "2020-11-16T09:39:17.358324+00:00",
+      "modified": "2020-11-16T09:48:51.270129+00:00",
       "note": "Picture-in-Picture now supports keyboard shortcuts for fast forwarding and rewinding videos: use the arrow keys to move forward and back 15 seconds, along with volume controls. For a list of supported commands see {{SUMO link}}",
+      "sort_num": 40,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2020-09-21T16:29:38.925376+00:00",
+      "id": 788443,
+      "is_public": true,
+      "modified": "2020-11-16T09:40:43.493817+00:00",
+      "note": "Firefox supports AcroForm, which will allow you to [fill in, print, and save supported PDF forms][1] and the PDF viewer also has a new fresh look.\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/view-pdf-files-firefox-or-choose-another-viewer",
       "sort_num": 0,
       "tag": "New"
     },
@@ -48,31 +68,11 @@
     },
     {
       "bug": null,
-      "created": "2020-11-12T14:50:06.088242+00:00",
-      "id": 788501,
-      "is_public": true,
-      "modified": "2020-11-16T09:37:16.798499+00:00",
-      "note": "Firefox keeps getting faster as a result of significant updates to SpiderMonkey, our JavaScript engine, you will now experience improved page load performance by up to 15%, page responsiveness by up to 12%, and reduced memory usage by up to 8%. We have replaced part of the JavaScript engine that helps to compile and display websites for you, improving security and maintainability of the engine at the same time.",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
-      "bug": null,
       "created": "2020-11-12T14:51:03.757995+00:00",
       "id": 788502,
       "is_public": true,
       "modified": "2020-11-12T14:51:03.757787+00:00",
       "note": "We\u2019ve improved functionality and design for a number of Firefox search features:  \r\n\r\n* Selecting a search engine at the bottom of the search panel now enters search mode for that engine, allowing you to see suggestions (if available) for your search terms. The old behavior (immediately performing a search) is available with a shift-click.\r\n* When Firefox autocompletes the URL of one of your search engines, you can now search with that engine directly in the address bar by selecting the shortcut in the address bar results.\r\n* We\u2019ve added buttons at the bottom of the search panel to allow you to search your bookmarks, open tabs, and history.",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
-      "bug": null,
-      "created": "2020-11-12T14:52:18.547318+00:00",
-      "id": 788503,
-      "is_public": true,
-      "modified": "2020-11-12T14:52:18.547109+00:00",
-      "note": "[Firefox introduces HTTPS-Only Mode][1]. When enabled, this new mode ensures that every connection Firefox makes to the web is secure and alerts you when a secure connection is not available. [You can enable it in Firefox Preferences.][2]\r\n\r\n\r\n  [1]: https://blog.mozilla.org/security/2020/11/11/firefox-83-introduces-https-only-mode\r\n  [2]: https://support.mozilla.org/kb/https-only-prefs#w_enable-https-only-mode",
       "sort_num": 0,
       "tag": "New"
     },
