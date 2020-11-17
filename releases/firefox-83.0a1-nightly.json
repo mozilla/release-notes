@@ -11,8 +11,8 @@
       "created": "2020-09-29T11:25:10.676322+00:00",
       "id": 788450,
       "is_public": true,
-      "modified": "2020-11-13T18:40:17.073634+00:00",
-      "note": "<!-- Nightly Only -->\r\nA major update to Firefox JavaScript JITs engine (codenamed *Warp*) is now [activated by default][1] on the nightly channel and brings some nice speed improvements. If you find any issues, please file bugs blocking [bug 1613592][2] .\r\n\r\n\r\n  [1]: https://groups.google.com/g/mozilla.dev.platform/c/1PHhxBxSehQ\r\n  [2]: https://bugzilla.mozilla.org/show_bug.cgi?id=1613592",
+      "modified": "2020-11-17T11:59:30.915318+00:00",
+      "note": "A major update to Firefox JavaScript JITs engine (codenamed *Warp*) is now [activated by default][1] and brings some nice speed improvements. If you find any issues, please file bugs blocking [bug 1613592][2] .\r\n\r\n\r\n  [1]:  https://hacks.mozilla.org/2020/11/warp-improved-js-performance-in-firefox-83\r\n  [2]: https://bugzilla.mozilla.org/show_bug.cgi?id=1613592",
       "sort_num": 0,
       "tag": "New"
     },
