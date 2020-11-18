@@ -45,6 +45,16 @@
       "note": "New profiles will load all of Mozilla's trusted intermediate certificate authorities from Remote Settings in a single day now, rather than spread out over multiple weeks. This makes it much more likely that a new Firefox user will not encounter security errors on misconfigured websites.",
       "sort_num": 0,
       "tag": "Changed"
+    },
+    {
+      "bug": 1677633,
+      "created": "2020-11-18T21:48:02.640988+00:00",
+      "id": 788519,
+      "is_public": false,
+      "modified": "2020-11-18T21:48:02.640786+00:00",
+      "note": "macOS users running Cylance antivirus software may see the Firefox installation get erroneously flagged as malware and corrupted.",
+      "sort_num": 0,
+      "tag": "Known"
     }
   ],
   "product": "Firefox",
