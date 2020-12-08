@@ -60,7 +60,8 @@ def main():
     except requests.RequestException as e:
         return 'ERROR: %s' % e
     if data:
-        setup()
+        # skip this for now
+        # setup()
         write_files(data, etag)
     else:
         print('Releases are up to date. No update required.')
