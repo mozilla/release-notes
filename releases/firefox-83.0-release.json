@@ -11,7 +11,7 @@
       "created": "2020-11-12T14:50:06.088242+00:00",
       "id": 788501,
       "is_public": true,
-      "modified": "2020-11-16T09:46:35.702810+00:00",
+      "modified": "2020-12-14T19:35:49.017085+00:00",
       "note": "Firefox keeps getting faster as a result of significant updates to SpiderMonkey, our JavaScript engine, you will now experience improved page load performance by up to 15%, page responsiveness by up to 12%, and reduced memory usage by up to 8%. We have replaced part of the JavaScript engine that helps to compile and display websites for you, improving security and maintainability of the engine at the same time.",
       "sort_num": 100,
       "tag": "New"
@@ -21,7 +21,7 @@
       "created": "2020-11-12T14:52:18.547318+00:00",
       "id": 788503,
       "is_public": true,
-      "modified": "2020-11-17T09:17:31.093379+00:00",
+      "modified": "2020-12-14T19:35:47.269441+00:00",
       "note": "[Firefox introduces HTTPS-Only Mode][1]. When enabled, this new mode ensures that every connection Firefox makes to the web is secure and alerts you when a secure connection is not available. [You can enable it in Firefox Preferences.][2]\r\n\r\n\r\n  [1]: https://blog.mozilla.org/security/2020/11/17/firefox-83-introduces-https-only-mode/\r\n  [2]: https://support.mozilla.org/kb/https-only-prefs#w_enable-https-only-mode",
       "sort_num": 90,
       "tag": "New"
@@ -31,7 +31,7 @@
       "created": "2020-11-12T14:48:38.995552+00:00",
       "id": 788498,
       "is_public": true,
-      "modified": "2020-11-16T09:50:38.867495+00:00",
+      "modified": "2020-12-14T19:35:51.890602+00:00",
       "note": "Pinch zooming will now be supported for our users with Windows touchscreen devices and touchpads on Mac devices. Firefox users may now use pinch to zoom on touch-capable devices to zoom in and out of webpages.",
       "sort_num": 80,
       "tag": "New"
@@ -41,7 +41,7 @@
       "created": "2020-11-12T14:49:07.718753+00:00",
       "id": 788499,
       "is_public": true,
-      "modified": "2020-11-16T19:58:42.682344+00:00",
+      "modified": "2020-12-14T19:35:50.862950+00:00",
       "note": "Picture-in-Picture now supports keyboard shortcuts for fast forwarding and rewinding videos: use the arrow keys to move forward and back 15 seconds, along with volume controls. For a list of supported commands see [Support Mozilla][1]\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/about-picture-picture-firefox#w_keyboard-shortcuts",
       "sort_num": 70,
       "tag": "New"
@@ -51,7 +51,7 @@
       "created": "2020-11-12T14:49:33.725420+00:00",
       "id": 788500,
       "is_public": true,
-      "modified": "2020-11-16T09:51:28.942424+00:00",
+      "modified": "2020-12-14T19:35:50.156828+00:00",
       "note": "When you are presenting your screen on a video conference in Firefox, you will see our improved user interface that makes it clearer which devices or displays are being shared.",
       "sort_num": 60,
       "tag": "New"
@@ -61,7 +61,7 @@
       "created": "2020-11-12T14:51:03.757995+00:00",
       "id": 788502,
       "is_public": true,
-      "modified": "2020-11-16T09:51:58.479075+00:00",
+      "modified": "2020-12-14T19:35:48.061722+00:00",
       "note": "We\u2019ve improved functionality and design for a number of Firefox search features:  \r\n\r\n* Selecting a search engine at the bottom of the search panel now enters search mode for that engine, allowing you to see suggestions (if available) for your search terms. The old behavior (immediately performing a search) is available with a shift-click.\r\n* When Firefox autocompletes the URL of one of your search engines, you can now search with that engine directly in the address bar by selecting the shortcut in the address bar results.\r\n* We\u2019ve added buttons at the bottom of the search panel to allow you to search your bookmarks, open tabs, and history.",
       "sort_num": 50,
       "tag": "New"
@@ -71,7 +71,7 @@
       "created": "2020-09-21T16:29:38.925376+00:00",
       "id": 788443,
       "is_public": true,
-      "modified": "2020-11-16T09:52:21.493135+00:00",
+      "modified": "2020-12-14T19:35:43.732171+00:00",
       "note": "Firefox supports AcroForm, which will allow you to [fill in, print, and save supported PDF forms][1] and the PDF viewer also has a new fresh look.\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/view-pdf-files-firefox-or-choose-another-viewer",
       "sort_num": 40,
       "tag": "New"
@@ -81,7 +81,7 @@
       "created": "2020-11-12T14:53:48.706245+00:00",
       "id": 788504,
       "is_public": true,
-      "modified": "2020-11-16T09:52:49.390911+00:00",
+      "modified": "2020-12-14T19:35:46.601247+00:00",
       "note": "Our users in India on the English build of Firefox will now see Pocket recommendations in their new tab featuring some of the best stories on the web.  If you don\u2019t see them, you can turn on Pocket articles in your new tab by [following these steps][1].\r\n\r\n  [1]: https://support.mozilla.org/kb/hide-or-display-content-new-tab",
       "sort_num": 30,
       "tag": "New"
@@ -91,7 +91,7 @@
       "created": "2020-11-12T14:54:43.924605+00:00",
       "id": 788505,
       "is_public": true,
-      "modified": "2020-11-16T09:53:17.366832+00:00",
+      "modified": "2020-12-14T19:35:45.827683+00:00",
       "note": "For the recently released Apple devices built with Apple Silicon CPUs, you can use Firefox 83 and future releases without any change. This release (83) will support emulation under [Apple\u2019s Rosetta 2][1] that ships with macOS Big Sur. We are working toward Firefox being natively-compiled for these CPUs in a future release.\r\n\r\n\r\n  [1]: https://www.apple.com/rosetta/index.html",
       "sort_num": 20,
       "tag": "New"
@@ -101,7 +101,7 @@
       "created": "2020-11-12T14:56:46.427094+00:00",
       "id": 788506,
       "is_public": true,
-      "modified": "2020-11-16T09:53:40.910559+00:00",
+      "modified": "2020-12-14T19:35:44.450783+00:00",
       "note": "This is a major release for WebRender as we roll out to [more Firefox users][1] on Windows 7 and 8 as well as on macOS 10.12 to 10.15.\r\n\r\n\r\n  [1]: https://wiki.mozilla.org/Platform/GFX/WebRender_Where",
       "sort_num": 10,
       "tag": "New"
@@ -111,7 +111,7 @@
       "created": "2020-11-12T15:12:24.352945+00:00",
       "id": 788508,
       "is_public": true,
-      "modified": "2020-11-12T15:12:24.352723+00:00",
+      "modified": "2020-12-14T19:35:43.020170+00:00",
       "note": "This release adds support for [conic gradients in CSS][1], helping colors to smoothly transition as you spin around the center, rather than as you progress outward from the center. \r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/CSS/conic-gradient",
       "sort_num": 0,
       "tag": "HTML5"
@@ -121,7 +121,7 @@
       "created": "2020-11-12T15:11:18.632315+00:00",
       "id": 788507,
       "is_public": true,
-      "modified": "2020-11-12T15:11:18.632113+00:00",
+      "modified": "2020-12-14T19:35:52.934587+00:00",
       "note": "Developers can use the scroll badge in the [Page Inspector][1] to [Debug scrollable overflow][2]. Selecting the badge highlights elements that are *causing* overflow and marks them with the overflow badge\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Tools/Page_Inspector\r\n  [2]: https://developer.mozilla.org/docs/Tools/Page_Inspector/How_to/Debug_Scrollable_Overflow",
       "sort_num": 0,
       "tag": "Developer"
@@ -131,7 +131,7 @@
       "created": "2020-11-12T15:14:17.536953+00:00",
       "id": 788509,
       "is_public": true,
-      "modified": "2020-11-12T15:14:17.536744+00:00",
+      "modified": "2020-12-14T19:35:42.263436+00:00",
       "note": "[Enterprise Information][1]\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/firefox-enterprise-83-release-notes",
       "sort_num": 0,
       "tag": "Enterprise"
@@ -141,7 +141,7 @@
       "created": "2020-11-12T15:41:21.143593+00:00",
       "id": 788510,
       "is_public": true,
-      "modified": "2020-11-12T15:41:21.143355+00:00",
+      "modified": "2020-12-14T19:35:41.408974+00:00",
       "note": "This release also includes a number of accessibility fixes:\r\n \r\n* Screen reader features which report paragraphs now correctly report paragraphs instead of lines in Google Docs\r\n* When reading by word using a screen reader, words are now correctly reported when there is punctuation nearby\r\n* The arrow keys now work correctly after tabbing in the picture-in-picture window",
       "sort_num": 0,
       "tag": "Fixed"
@@ -151,7 +151,7 @@
       "created": "2020-11-12T15:41:59.515177+00:00",
       "id": 788511,
       "is_public": true,
-      "modified": "2020-11-12T15:41:59.514975+00:00",
+      "modified": "2020-12-14T19:35:40.214846+00:00",
       "note": "For users on macOS restoring a session with minimized windows, Firefox now uses much less power and you should see much longer battery life.",
       "sort_num": 0,
       "tag": "Fixed"
@@ -161,7 +161,7 @@
       "created": "2020-11-16T09:27:00.489320+00:00",
       "id": 788517,
       "is_public": true,
-      "modified": "2020-11-17T12:06:04.265032+00:00",
+      "modified": "2020-12-14T19:35:54.905449+00:00",
       "note": "Various [security fixes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/mfsa2020-50/",
       "sort_num": 0,
       "tag": "Fixed"
