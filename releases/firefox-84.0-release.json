@@ -8,6 +8,16 @@
   "notes": [
     {
       "bug": null,
+      "created": "2020-12-14T22:02:03.423102+00:00",
+      "id": 788534,
+      "is_public": true,
+      "modified": "2020-12-14T22:08:14.906207+00:00",
+      "note": "Native support for macOS devices built with Apple Silicon CPUs brings dramatic performance improvements over the non-native build that was shipped in Firefox 83: Firefox launches over 2.5 times faster and web apps are now twice as responsive (per the SpeedoMeter 2.0 test). If you are on a new Apple device, [follow these steps to upgrade to the latest Firefox][1].\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/upgrading-new-version-firefox-84-apple-silicon",
+      "sort_num": 40,
+      "tag": "New"
+    },
+    {
+      "bug": null,
       "created": "2020-12-14T21:59:36.842372+00:00",
       "id": 788533,
       "is_public": true,
