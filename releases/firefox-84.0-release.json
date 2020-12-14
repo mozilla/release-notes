@@ -8,6 +8,56 @@
   "notes": [
     {
       "bug": null,
+      "created": "2020-12-14T21:59:36.842372+00:00",
+      "id": 788533,
+      "is_public": true,
+      "modified": "2020-12-14T21:59:36.842147+00:00",
+      "note": "WebRender rolls out to MacOS Big Sur and Windows devices with Intel Gen 5 and 6 GPUs. Additionally we'll ship an accelerated rendering pipeline for Linux/GNOME/X11 users for the first time, ever!",
+      "sort_num": 30,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2020-12-14T21:59:08.471768+00:00",
+      "id": 788532,
+      "is_public": true,
+      "modified": "2020-12-14T21:59:08.471606+00:00",
+      "note": "Firefox now uses more modern techniques for allocating shared memory on Linux, improving performance and increasing compatibility with Docker.",
+      "sort_num": 20,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2020-12-14T21:58:44.750062+00:00",
+      "id": 788531,
+      "is_public": true,
+      "modified": "2020-12-14T21:58:44.749911+00:00",
+      "note": "Firefox 84 is the [final release to support Adobe Flash][1].\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/end-support-adobe-flash",
+      "sort_num": 10,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2020-12-14T21:57:35.972156+00:00",
+      "id": 788530,
+      "is_public": true,
+      "modified": "2020-12-14T21:57:35.972005+00:00",
+      "note": "The Network panel is now able to handle unexpected crashes and render useful debugging details such as a related stack-trace. Users can also easily file a bug report by clicking on the available link to help improve the stability of the tool.\r\n![Network Panel Bug Report Submission Screenshot][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/media/img/firefox/releasenotes/note-images/network_panel_crash.png",
+      "sort_num": 20,
+      "tag": "Developer"
+    },
+    {
+      "bug": null,
+      "created": "2020-12-14T21:55:26.154575+00:00",
+      "id": 788529,
+      "is_public": true,
+      "modified": "2020-12-14T21:55:26.154423+00:00",
+      "note": "The Accessibility Panel now includes an option for displaying elements in their tabbing order in order to help developers see what elements are focusable when tabbing and in what sequence.",
+      "sort_num": 10,
+      "tag": "Developer"
+    },
+    {
+      "bug": null,
       "created": "2020-12-14T21:53:53.197403+00:00",
       "id": 788528,
       "is_public": true,
