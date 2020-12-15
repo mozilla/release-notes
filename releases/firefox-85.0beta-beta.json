@@ -11,8 +11,18 @@
       "created": "2020-12-15T16:02:19.183882+00:00",
       "id": 788535,
       "is_public": true,
-      "modified": "2020-12-15T16:02:19.183724+00:00",
+      "modified": "2020-12-15T16:20:58.196179+00:00",
       "note": "Firefox 85 Beta offers a preview of VoiceOver screen reader support for macOS users. Navigation and speech should work well for web pages and for most of the Firefox user interface. If you find something isn\u2019t working as expected, please let us know in the `#accessibility:mozilla.org` channel on [Matrix][0].\r\n\r\n[0]: https://wiki.mozilla.org/Matrix",
+      "sort_num": 100,
+      "tag": "New"
+    },
+    {
+      "bug": 1613620,
+      "created": "2020-12-15T16:20:35.045523+00:00",
+      "id": 788536,
+      "is_public": true,
+      "modified": "2020-12-15T16:20:35.045372+00:00",
+      "note": "`about:logins` now lets you remove all saved logins with one click, as opposed to having to delete each login individually.",
       "sort_num": 0,
       "tag": "New"
     },
