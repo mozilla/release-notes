@@ -7,6 +7,16 @@
   "modified": "2020-12-15T13:33:12.950519+00:00",
   "notes": [
     {
+      "bug": 1618364,
+      "created": "2020-12-15T16:02:19.183882+00:00",
+      "id": 788535,
+      "is_public": true,
+      "modified": "2020-12-15T16:02:19.183724+00:00",
+      "note": "Firefox 85 Beta offers a preview of VoiceOver screen reader support for macOS users. Navigation and speech should work well for web pages and for most of the Firefox user interface. If you find something isn\u2019t working as expected, please let us know in the `#accessibility:mozilla.org` channel on [Matrix][0].\r\n\r\n[0]: https://wiki.mozilla.org/Matrix",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1675349,
       "created": "2020-11-16T09:25:58.620767+00:00",
       "id": 788516,
