@@ -11,7 +11,7 @@
       "created": "2020-12-14T22:02:03.423102+00:00",
       "id": 788534,
       "is_public": true,
-      "modified": "2020-12-14T22:08:14.906207+00:00",
+      "modified": "2020-12-21T15:01:07.959879+00:00",
       "note": "Native support for macOS devices built with Apple Silicon CPUs brings dramatic performance improvements over the non-native build that was shipped in Firefox 83: Firefox launches over 2.5 times faster and web apps are now twice as responsive (per the SpeedoMeter 2.0 test). If you are on a new Apple device, [follow these steps to upgrade to the latest Firefox][1].\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/upgrading-new-version-firefox-84-apple-silicon",
       "sort_num": 40,
       "tag": "New"
@@ -21,7 +21,7 @@
       "created": "2020-12-14T21:59:36.842372+00:00",
       "id": 788533,
       "is_public": true,
-      "modified": "2020-12-15T16:05:55.998593+00:00",
+      "modified": "2020-12-21T15:01:08.919783+00:00",
       "note": "WebRender rolls out to MacOS Big Sur, Windows devices with Intel Gen 6 GPUs, and Intel laptops running Windows 7 and 8. Additionally we'll ship an accelerated rendering pipeline for Linux/GNOME/X11 users for the first time, ever!",
       "sort_num": 30,
       "tag": "New"
@@ -31,7 +31,7 @@
       "created": "2020-12-14T21:59:08.471768+00:00",
       "id": 788532,
       "is_public": true,
-      "modified": "2020-12-14T21:59:08.471606+00:00",
+      "modified": "2020-12-21T15:01:09.691829+00:00",
       "note": "Firefox now uses more modern techniques for allocating shared memory on Linux, improving performance and increasing compatibility with Docker.",
       "sort_num": 20,
       "tag": "New"
@@ -41,7 +41,7 @@
       "created": "2020-12-14T21:58:44.750062+00:00",
       "id": 788531,
       "is_public": true,
-      "modified": "2020-12-14T21:58:44.749911+00:00",
+      "modified": "2020-12-21T15:01:10.454272+00:00",
       "note": "Firefox 84 is the [final release to support Adobe Flash][1].\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/end-support-adobe-flash",
       "sort_num": 10,
       "tag": "New"
@@ -51,7 +51,7 @@
       "created": "2020-12-14T21:57:35.972156+00:00",
       "id": 788530,
       "is_public": true,
-      "modified": "2020-12-14T21:57:35.972005+00:00",
+      "modified": "2020-12-21T15:01:11.247993+00:00",
       "note": "The Network panel is now able to handle unexpected crashes and render useful debugging details such as a related stack-trace. Users can also easily file a bug report by clicking on the available link to help improve the stability of the tool.\r\n![Network Panel Bug Report Submission Screenshot][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/media/img/firefox/releasenotes/note-images/network_panel_crash.png",
       "sort_num": 20,
       "tag": "Developer"
@@ -61,7 +61,7 @@
       "created": "2020-12-14T21:55:26.154575+00:00",
       "id": 788529,
       "is_public": true,
-      "modified": "2020-12-14T21:55:26.154423+00:00",
+      "modified": "2020-12-21T15:01:12.699599+00:00",
       "note": "The Accessibility Panel now includes an option for displaying elements in their tabbing order in order to help developers see what elements are focusable when tabbing and in what sequence.",
       "sort_num": 10,
       "tag": "Developer"
@@ -71,7 +71,7 @@
       "created": "2020-12-14T21:53:53.197403+00:00",
       "id": 788528,
       "is_public": true,
-      "modified": "2020-12-14T21:53:53.197251+00:00",
+      "modified": "2020-12-21T15:01:13.768165+00:00",
       "note": "Various bug fixes and new policies have been implemented in the latest version of Firefox. You can see more details in the [Firefox for Enterprise 84 Release Notes][1].\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/firefox-enterprise-84-release-notes",
       "sort_num": 0,
       "tag": "Enterprise"
@@ -81,7 +81,7 @@
       "created": "2020-12-14T19:35:32.108570+00:00",
       "id": 788521,
       "is_public": true,
-      "modified": "2020-12-14T19:36:41.950872+00:00",
+      "modified": "2020-12-21T15:01:17.045145+00:00",
       "note": "Various [security fixes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/mfsa2020-54/",
       "sort_num": 0,
       "tag": "Fixed"
@@ -91,7 +91,7 @@
       "created": "2020-12-14T21:51:50.924860+00:00",
       "id": 788526,
       "is_public": true,
-      "modified": "2020-12-14T21:51:50.924710+00:00",
+      "modified": "2020-12-21T15:01:15.653079+00:00",
       "note": "macOS users running on Apple Silicon systems [may encounter playback][1] errors on encrypted content if the Rosetta system software is not installed.\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/netflix-hulu-disney-or-prime-error-mac-apple-silicon",
       "sort_num": 20,
       "tag": "Known"
@@ -101,7 +101,7 @@
       "created": "2020-12-14T21:52:25.606032+00:00",
       "id": 788527,
       "is_public": true,
-      "modified": "2020-12-14T21:52:25.605871+00:00",
+      "modified": "2020-12-21T15:01:14.706601+00:00",
       "note": "macOS users running Cylance antivirus software may see their Firefox installation get corrupted due to being erroneously flagged as malware.",
       "sort_num": 10,
       "tag": "Known"

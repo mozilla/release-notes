@@ -1,0 +1,37 @@
+{
+  "bug_list": "",
+  "bug_search_url": "",
+  "channel": "Release",
+  "created": "2020-12-21T15:00:35.602095+00:00",
+  "is_public": false,
+  "modified": "2020-12-21T15:01:48.095092+00:00",
+  "notes": [
+    {
+      "bug": null,
+      "created": "2020-12-21T15:01:45.911715+00:00",
+      "id": 788537,
+      "is_public": true,
+      "modified": "2020-12-21T15:02:12.455708+00:00",
+      "note": "Reference link to [84.0 release notes][0]\r\n\r\n[0]: https://www.mozilla.org/firefox/84.0/releasenotes/",
+      "sort_num": 0,
+      "tag": ""
+    },
+    {
+      "bug": null,
+      "created": "2020-12-21T15:09:51.110911+00:00",
+      "id": 788538,
+      "is_public": true,
+      "modified": "2020-12-21T15:09:51.110704+00:00",
+      "note": "Fixed crashes caused by various third-party antivirus software.",
+      "sort_num": 10,
+      "tag": "Fixed"
+    }
+  ],
+  "product": "Firefox",
+  "release_date": "2020-12-22",
+  "slug": "firefox-84.0.1-release",
+  "system_requirements": "## Windows\r\n\r\n### Operating Systems (32-bit and 64-bit)\r\n - Windows 7\r\n - Windows 8\r\n - Windows 10\r\n\r\n### Recommended Hardware\r\n-  Pentium 4 or newer processor that supports SSE2\r\n-  512MB of RAM / 2GB of RAM for the 64-bit version\r\n-  200MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- macOS 10.12\r\n- macOS 10.13\r\n- macOS 10.14\r\n- macOS 10.15\r\n- macOS 11\r\n\r\n### Recommended Hardware\r\n- Macintosh computer with an Intel x86 processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - GTK+ 3.14 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n    - libstdc++ 4.8.1 or higher\r\n    - glibc 2.17 or higher\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - NetworkManager 0.7 or higher\r\n    - DBus 1.0 or higher\r\n    - GNOME 2.16 or higher\r\n    - PulseAudio",
+  "text": "",
+  "title": "Firefox 84.0.1 Release",
+  "version": "84.0.1"
+}
