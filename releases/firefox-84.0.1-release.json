@@ -11,7 +11,7 @@
       "created": "2020-12-21T15:01:45.911715+00:00",
       "id": 788537,
       "is_public": true,
-      "modified": "2020-12-21T15:02:12.455708+00:00",
+      "modified": "2021-01-05T20:59:16.177008+00:00",
       "note": "Reference link to [84.0 release notes][0]\r\n\r\n[0]: https://www.mozilla.org/firefox/84.0/releasenotes/",
       "sort_num": 0,
       "tag": ""
@@ -21,7 +21,7 @@
       "created": "2020-12-21T15:50:10.882212+00:00",
       "id": 788541,
       "is_public": true,
-      "modified": "2020-12-21T15:50:10.881981+00:00",
+      "modified": "2021-01-05T20:59:07.637340+00:00",
       "note": "Fixed problems loading secure websites and crashes for users with certain third-party PKCS11 modules and smartcards installed ([bug 1682881][1]).\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1682881",
       "sort_num": 40,
       "tag": "Fixed"
@@ -31,7 +31,7 @@
       "created": "2020-12-21T15:45:13.181765+00:00",
       "id": 788540,
       "is_public": true,
-      "modified": "2020-12-21T15:45:13.181594+00:00",
+      "modified": "2021-01-05T20:59:08.666168+00:00",
       "note": "Fixed slower than expected performance and flickering on Canvas elements for some Windows users ([bug 1683116][1]).\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1683116",
       "sort_num": 30,
       "tag": "Fixed"
@@ -41,7 +41,7 @@
       "created": "2020-12-21T15:42:37.944818+00:00",
       "id": 788539,
       "is_public": true,
-      "modified": "2020-12-21T15:42:37.944661+00:00",
+      "modified": "2021-01-05T20:59:09.628564+00:00",
       "note": "Fixed a bug causing some Unity JS games to not load on Apple Silicon devices due to improper detection of the OS version ([bug 1680516][1]).\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1680516",
       "sort_num": 20,
       "tag": "Fixed"
@@ -51,7 +51,7 @@
       "created": "2020-12-21T15:09:51.110911+00:00",
       "id": 788538,
       "is_public": true,
-      "modified": "2020-12-21T15:09:51.110704+00:00",
+      "modified": "2021-01-05T20:59:11.195297+00:00",
       "note": "Fixed crashes caused by various third-party antivirus software.",
       "sort_num": 10,
       "tag": "Fixed"
