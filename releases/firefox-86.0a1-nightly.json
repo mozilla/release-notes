@@ -17,12 +17,12 @@
       "tag": "Changed"
     },
     {
-      "bug": 1625363,
+      "bug": 1682995,
       "created": "2021-01-12T12:43:05.344658+00:00",
       "id": 788548,
       "is_public": true,
-      "modified": "2021-01-12T12:43:05.344504+00:00",
-      "note": "Basic [AVIF][1] support is enabled in Firefox 86. Some advanced features like animated images and colorspace support are still in development (see [bug 1682995][2] and dependencies)\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/Media/Formats/Image_types#AVIF\r\n  [2]: https://bugzilla.mozilla.org/1682995",
+      "modified": "2021-01-12T14:06:43.148160+00:00",
+      "note": "Basic [AVIF][1] support is enabled in Firefox 86. Some advanced features like animated images and colorspace support are still in development (see [bug 144386][2] and dependencies)\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/Media/Formats/Image_types#AVIF\r\n  [2]: https://bugzilla.mozilla.org/showdependencytree.cgi?id=1443863&hide_resolved=1",
       "sort_num": 0,
       "tag": "HTML5"
     }
