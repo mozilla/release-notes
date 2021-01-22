@@ -61,10 +61,20 @@
       "created": "2021-01-22T14:58:04.540456+00:00",
       "id": 788555,
       "is_public": true,
-      "modified": "2021-01-22T15:39:26.936393+00:00",
-      "note": "It's possible to prettify JS expressions in Console source code Editor (available in multiline mode) using a new toolbar button.\r\n![Console Editor Pretty Print Expression Screenshot][1]\r\n\r\n  [1]: /media/img/firefox/releasenotes/note-images/prettyfy_js_console_button.png",
+      "modified": "2021-01-22T15:41:15.723493+00:00",
+      "note": "It's possible to prettify JS expressions in Console source code Editor (available in multiline mode) using a new toolbar button.\r\n![Console Editor Pretty Print Expression Screenshot][1]\r\n\r\n[1]: /media/img/firefox/releasenotes/note-images/prettyfy_js_console_button.png",
       "sort_num": 0,
       "tag": "Developer"
+    },
+    {
+      "bug": null,
+      "created": "2021-01-22T15:40:24.099216+00:00",
+      "id": 788556,
+      "is_public": true,
+      "modified": "2021-01-22T15:40:24.098973+00:00",
+      "note": "[Enterprise information][0]\r\n\r\n[0]: https://support.mozilla.org/kb/firefox-enterprise-85-release-notes",
+      "sort_num": 0,
+      "tag": "Enterprise"
     }
   ],
   "product": "Firefox",
