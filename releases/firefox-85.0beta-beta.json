@@ -7,6 +7,16 @@
   "modified": "2021-01-12T13:07:15.193235+00:00",
   "notes": [
     {
+      "bug": 1682887,
+      "created": "2021-01-07T14:44:22.781790+00:00",
+      "id": 788547,
+      "is_public": true,
+      "modified": "2021-01-22T14:50:49.493483+00:00",
+      "note": "It\u2019s easier than ever to keep track of your favorite sites. Firefox now remembers your preferred location for saved bookmarks, displays the bookmarks toolbar by default on new tabs, and gives you easy access to all of your [bookmarks][0] via a toolbar folder.\r\n\r\n[0]: https://support.mozilla.org/kb/bookmarks-firefox",
+      "sort_num": 500,
+      "tag": "New"
+    },
+    {
       "bug": 1618364,
       "created": "2020-12-15T16:02:19.183882+00:00",
       "id": 788535,
@@ -21,18 +31,8 @@
       "created": "2020-12-15T16:20:35.045523+00:00",
       "id": 788536,
       "is_public": true,
-      "modified": "2021-01-21T14:19:59.848254+00:00",
-      "note": "`about:logins` now lets you remove all saved logins with one click, as opposed to having to delete each login individually.",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
-      "bug": 1682887,
-      "created": "2021-01-07T14:44:22.781790+00:00",
-      "id": 788547,
-      "is_public": true,
-      "modified": "2021-01-21T14:19:59.848254+00:00",
-      "note": "It is now simpler to retrieve your bookmarks on Firefox. Users can now access the bookmarks toolbar on its new tab page, and use a convenient button to import bookmarks from other profiles and to show bookmarks stored in the \"*Other bookmarks*\" folder.",
+      "modified": "2021-01-22T14:43:00.730893+00:00",
+      "note": "The password manager now allows you to [remove all of your saved logins][0] with one click, as opposed to having to delete each login individually.\r\n\r\n[0]: https://support.mozilla.org/kb/password-manager-remember-delete-edit-logins#w_remove-all-saved-logins",
       "sort_num": 0,
       "tag": "New"
     },
