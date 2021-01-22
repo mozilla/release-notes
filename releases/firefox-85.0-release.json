@@ -55,6 +55,16 @@
       "note": "CSS: We have added support for the [`:focus-visible`][0] pseudo class.\r\n\r\n[0]: https://developer.mozilla.org/docs/Web/CSS/:focus-visible",
       "sort_num": 100,
       "tag": "Developer"
+    },
+    {
+      "bug": 1577900,
+      "created": "2021-01-22T14:58:04.540456+00:00",
+      "id": 788555,
+      "is_public": true,
+      "modified": "2021-01-22T14:58:18.198399+00:00",
+      "note": "It's possible to prettify JS expressions in Console source code Editor (available in multiline mode) using a new toolbar button.",
+      "sort_num": 0,
+      "tag": "Developer"
     }
   ],
   "product": "Firefox",
