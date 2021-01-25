@@ -4,15 +4,15 @@
   "channel": "Release",
   "created": "2021-01-21T14:19:59.827897+00:00",
   "is_public": false,
-  "modified": "2021-01-22T14:40:51.648453+00:00",
+  "modified": "2021-01-25T14:04:22.799953+00:00",
   "notes": [
     {
       "bug": null,
       "created": "2021-01-22T14:43:29.727947+00:00",
       "id": 788553,
       "is_public": true,
-      "modified": "2021-01-22T14:43:29.727763+00:00",
-      "note": "Firefox now protects you from supercookies, a type of tracker that can stay hidden in your browser and track you online, even after you clear cookies. Now automatically Firefox will isolate supercookies so they can\u2019t be used to track your online activities from one site to the next.",
+      "modified": "2021-01-25T14:05:20.737256+00:00",
+      "note": "Firefox now protects you from [supercookies][0], a type of tracker that can stay hidden in your browser and track you online, even after you clear cookies. By isolating supercookies, Firefox prevents them from tracking your web browsing from one site to the next.\r\n\r\n[0]: https://blog.mozilla.org/security/2021/01/26/supercookie-protections/",
       "sort_num": 1000,
       "tag": "New"
     },
@@ -21,8 +21,8 @@
       "created": "2021-01-07T14:44:22.781790+00:00",
       "id": 788547,
       "is_public": true,
-      "modified": "2021-01-25T09:12:52.374658+00:00",
-      "note": "It\u2019s easier than ever to keep track of your favorite sites. Firefox now remembers your preferred location for saved bookmarks, displays the bookmarks toolbar by default on new tabs, and gives you easy access to all of your [bookmarks][0] via a toolbar folder.\r\n\r\n[0]: https://support.mozilla.org/kb/bookmarks-firefox",
+      "modified": "2021-01-25T14:09:42.532536+00:00",
+      "note": "It\u2019s easier than ever to save and access your bookmarks. Firefox now remembers your preferred location for saved bookmarks, displays the bookmarks toolbar by default on new tabs, and gives you easy access to all of your [bookmarks][0] via a toolbar folder.\r\n\r\n[0]: https://support.mozilla.org/kb/bookmarks-firefox",
       "sort_num": 500,
       "tag": "New"
     },
@@ -61,8 +61,8 @@
       "created": "2021-01-22T14:58:04.540456+00:00",
       "id": 788555,
       "is_public": true,
-      "modified": "2021-01-22T15:41:15.723493+00:00",
-      "note": "It's possible to prettify JS expressions in Console source code Editor (available in multiline mode) using a new toolbar button.\r\n![Console Editor Pretty Print Expression Screenshot][1]\r\n\r\n[1]: /media/img/firefox/releasenotes/note-images/prettyfy_js_console_button.png",
+      "modified": "2021-01-25T14:10:26.811318+00:00",
+      "note": "It's possible to prettify JS expressions in Console source code Editor (available in multiline mode) using a new toolbar button.\r\n![Console Editor Pretty Print Expression Screenshot][1]\r\n\r\n[1]: https://www.mozilla.org/media/img/firefox/releasenotes/note-images/prettyfy_js_console_button.png",
       "sort_num": 0,
       "tag": "Developer"
     },
@@ -81,7 +81,7 @@
   "release_date": "2021-01-26",
   "slug": "firefox-85.0-release",
   "system_requirements": "## Windows\r\n\r\n### Operating Systems (32-bit and 64-bit)\r\n - Windows 7\r\n - Windows 8\r\n - Windows 10\r\n\r\n### Recommended Hardware\r\n-  Pentium 4 or newer processor that supports SSE2\r\n-  512MB of RAM / 2GB of RAM for the 64-bit version\r\n-  200MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- macOS 10.12\r\n- macOS 10.13\r\n- macOS 10.14\r\n- macOS 10.15\r\n- macOS 11\r\n\r\n### Recommended Hardware\r\n- Macintosh computer with an Intel x86 processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - GTK+ 3.14 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n    - libstdc++ 4.8.1 or higher\r\n    - glibc 2.17 or higher\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - NetworkManager 0.7 or higher\r\n    - DBus 1.0 or higher\r\n    - GNOME 2.16 or higher\r\n    - PulseAudio",
-  "text": "We'd like to extend a special thank you to all of the new Mozillians who contributed to this release of Firefox.\r\n\r\nAt Mozilla, we believe you have a right to privacy. You shouldn't be tracked online. Whether you are researching whom to vote for, looking for the best doctor, or shopping for shoes, unscrupulous tracking companies should not be able to track you as you browse the Web. For that reason, we are continuously working to harden Firefox against online tracking of our users.",
+  "text": "We'd like to extend a special thank you to all of the new Mozillians who contributed to this release of Firefox.\r\n\r\nAt Mozilla, we believe you have a right to privacy. You shouldn\u2019t be tracked online. Whether you are checking your bank balance, looking for the best doctor, or shopping for shoes, unscrupulous tracking companies should not be able to track you as you browse the Web. For that reason, we are continuously working to harden Firefox against online tracking of our users.",
   "title": "Firefox 85.0 Release",
   "version": "85.0"
 }
