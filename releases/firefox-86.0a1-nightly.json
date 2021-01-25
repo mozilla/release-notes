@@ -31,7 +31,7 @@
       "created": "2021-01-04T13:19:18.877677+00:00",
       "id": 788542,
       "is_public": true,
-      "modified": "2021-01-25T09:15:53.460861+00:00",
+      "modified": "2021-01-25T21:53:14.316617+00:00",
       "note": "To prevent user data loss when filling out forms, the `Backspace` key as a navigation shortcut for \"Go back one page\" is now disabled.  To re-enable the Backspace keyboard shortcut, you can change the about:config preference `browser.backspace_action` to `0`. You can also use the  recommended `Alt + Left arrow`  (`Command + Left arrow` on Mac) shortcut instead. \r\n[Firefox keyboard shortcuts][1]\r\n\r\n\r\n  [1]: https://support.mozilla.org/en-US/kb/keyboard-shortcuts-perform-firefox-tasks-quickly",
       "sort_num": 0,
       "tag": "Changed"
@@ -41,7 +41,7 @@
       "created": "2021-01-12T12:43:05.344658+00:00",
       "id": 788548,
       "is_public": true,
-      "modified": "2021-01-25T09:14:13.341485+00:00",
+      "modified": "2021-01-25T21:53:50.494451+00:00",
       "note": "Basic [AVIF][1] support is enabled in Firefox 86. Some advanced features like animated images and colorspace support are still in development (see [bug 1443863][2] and dependencies)\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/Media/Formats/Image_types#AVIF\r\n  [2]: https://bugzilla.mozilla.org/showdependencytree.cgi?id=1443863&hide_resolved=1",
       "sort_num": 0,
       "tag": "HTML5"
