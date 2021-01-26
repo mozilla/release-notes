@@ -1,0 +1,27 @@
+{
+  "bug_list": "",
+  "bug_search_url": "",
+  "channel": "Release",
+  "created": "2021-01-26T13:35:12.375108+00:00",
+  "is_public": false,
+  "modified": "2021-01-26T13:36:07.566900+00:00",
+  "notes": [
+    {
+      "bug": null,
+      "created": "2021-01-25T14:30:09.263196+00:00",
+      "id": 788557,
+      "is_public": true,
+      "modified": "2021-01-26T13:36:21.771385+00:00",
+      "note": "Various [security fixes][0].\r\n\r\n[0]: https://www.mozilla.org/security/known-vulnerabilities/firefox/#firefox85",
+      "sort_num": 0,
+      "tag": "Fixed"
+    }
+  ],
+  "product": "Firefox for Android",
+  "release_date": "2021-01-26",
+  "slug": "firefox-for-android-85.0-release",
+  "system_requirements": "## Operating systems\r\n - Android 5.0 or newer",
+  "text": "We'd like to extend a special thank you to all of the [new Mozillians][1] who contributed to this release of Firefox.\r\n\r\n\r\n  [1]: http://blog.mozilla.org/community/2021/01/25/new-contributors-to-firefox-85/",
+  "title": "Firefox for Android 85.0 Release",
+  "version": "85.0"
+}
