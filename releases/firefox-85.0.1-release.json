@@ -41,8 +41,8 @@
       "created": "2021-02-05T08:43:46.943519+00:00",
       "id": 788562,
       "is_public": true,
-      "modified": "2021-02-05T08:43:46.943271+00:00",
-      "note": "Fixed a crash when authenticating to websites using SPNEGO on macOS devices with Apple Silicon CPUs.",
+      "modified": "2021-02-05T09:03:25.358316+00:00",
+      "note": "Fixed a crash when authenticating to websites using SPNEGO on macOS devices with Apple Silicon CPUs ([bug 1685427][0]).\r\n\r\n[0]: https://bugzilla.mozilla.org/1685427",
       "sort_num": 0,
       "tag": "Fixed"
     },
@@ -51,8 +51,8 @@
       "created": "2021-02-05T08:48:44.662953+00:00",
       "id": 788563,
       "is_public": true,
-      "modified": "2021-02-05T08:49:00.113032+00:00",
-      "note": "Fixed a bug that caused an extra blank page to be printed at the end of some documents.",
+      "modified": "2021-02-05T09:02:52.364989+00:00",
+      "note": "Avoid printing an extra blank page at the end of some documents ([bug 1689789][0]).\r\n\r\n[0]: https://bugzilla.mozilla.org/1689789",
       "sort_num": 0,
       "tag": "Fixed"
     },
@@ -61,8 +61,8 @@
       "created": "2021-02-05T08:50:01.526581+00:00",
       "id": 788564,
       "is_public": true,
-      "modified": "2021-02-05T08:50:01.526342+00:00",
-      "note": "Fixed a browser crash in case of unexpected Cache API state (bug 1684838).",
+      "modified": "2021-02-05T09:01:45.176247+00:00",
+      "note": "Fixed a browser crash in case of unexpected Cache API state ([bug 1684838][0]).\r\n\r\n[0]: https://bugzilla.mozilla.org/1684838",
       "sort_num": 0,
       "tag": "Fixed"
     },
