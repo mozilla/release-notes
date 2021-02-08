@@ -11,7 +11,7 @@
       "created": "2021-02-05T08:50:45.561969+00:00",
       "id": 788565,
       "is_public": true,
-      "modified": "2021-02-05T08:50:45.561811+00:00",
+      "modified": "2021-02-08T14:27:29.795761+00:00",
       "note": "Reference link to [85.0 release notes][0]\r\n\r\n[0]: https://www.mozilla.org/firefox/85.0/releasenotes/",
       "sort_num": 0,
       "tag": ""
@@ -21,7 +21,7 @@
       "created": "2021-02-05T08:34:29.597189+00:00",
       "id": 788559,
       "is_public": true,
-      "modified": "2021-02-05T08:39:38.214877+00:00",
+      "modified": "2021-02-08T14:27:36.403994+00:00",
       "note": "[Security fix][0]\r\n\r\n[0]: https://www.mozilla.org/security/advisories/mfsa2021-06/",
       "sort_num": 0,
       "tag": "Fixed"
@@ -31,7 +31,7 @@
       "created": "2021-02-05T08:41:15.454889+00:00",
       "id": 788561,
       "is_public": true,
-      "modified": "2021-02-05T08:41:15.454714+00:00",
+      "modified": "2021-02-08T14:27:35.065218+00:00",
       "note": "Prevent access to NTFS special paths that could lead to filesystem corruption.",
       "sort_num": 0,
       "tag": "Fixed"
@@ -41,7 +41,7 @@
       "created": "2021-02-05T08:43:46.943519+00:00",
       "id": 788562,
       "is_public": true,
-      "modified": "2021-02-05T09:03:25.358316+00:00",
+      "modified": "2021-02-08T14:27:33.891403+00:00",
       "note": "Fixed a crash when authenticating to websites using SPNEGO on macOS devices with Apple Silicon CPUs ([bug 1685427][0]).\r\n\r\n[0]: https://bugzilla.mozilla.org/1685427",
       "sort_num": 0,
       "tag": "Fixed"
@@ -51,7 +51,7 @@
       "created": "2021-02-05T08:48:44.662953+00:00",
       "id": 788563,
       "is_public": true,
-      "modified": "2021-02-05T09:02:52.364989+00:00",
+      "modified": "2021-02-08T14:27:32.926179+00:00",
       "note": "Avoid printing an extra blank page at the end of some documents ([bug 1689789][0]).\r\n\r\n[0]: https://bugzilla.mozilla.org/1689789",
       "sort_num": 0,
       "tag": "Fixed"
@@ -61,7 +61,7 @@
       "created": "2021-02-05T08:50:01.526581+00:00",
       "id": 788564,
       "is_public": true,
-      "modified": "2021-02-05T09:01:45.176247+00:00",
+      "modified": "2021-02-08T14:27:31.980054+00:00",
       "note": "Fixed a browser crash in case of unexpected Cache API state ([bug 1684838][0]).\r\n\r\n[0]: https://bugzilla.mozilla.org/1684838",
       "sort_num": 0,
       "tag": "Fixed"
@@ -71,7 +71,7 @@
       "created": "2021-02-05T08:53:34.106026+00:00",
       "id": 788567,
       "is_public": true,
-      "modified": "2021-02-05T17:26:34.074191+00:00",
+      "modified": "2021-02-08T14:27:28.348721+00:00",
       "note": "Fixed external URL scheme handlers when using the [Firefox flatpak][0] ([bug 1688966][1])\r\n\r\n[0]: https://flathub.org/apps/details/org.mozilla.firefox\r\n[1]: https://bugzilla.mozilla.org/1688966",
       "sort_num": 0,
       "tag": "Fixed"
