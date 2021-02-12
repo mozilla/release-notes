@@ -27,6 +27,16 @@
       "tag": "New"
     },
     {
+      "bug": 1686573,
+      "created": "2021-02-12T16:13:47.715816+00:00",
+      "id": 788570,
+      "is_public": true,
+      "modified": "2021-02-12T16:13:47.715513+00:00",
+      "note": "From Firefox 86 on forward DTLS 1.0 is no longer supported for establishing WebRTC's PeerConnections. All WebRTC services need to support DTLS 1.2 from now on as the minimum version.",
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
       "bug": 1682995,
       "created": "2021-01-12T12:43:05.344658+00:00",
       "id": 788548,
