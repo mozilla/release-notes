@@ -11,7 +11,7 @@
       "created": "2021-01-22T14:43:29.727947+00:00",
       "id": 788553,
       "is_public": true,
-      "modified": "2021-02-17T14:05:36.421251+00:00",
+      "modified": "2021-02-17T14:06:21.898855+00:00",
       "note": "Firefox now protects you from [supercookies][0], a type of tracker that can stay hidden in your browser and track you online, even after you clear cookies. By isolating supercookies, Firefox prevents them from tracking your web browsing from one site to the next.\r\n\r\n[0]: https://blog.mozilla.org/security/2021/01/26/supercookie-protections/",
       "sort_num": 1000,
       "tag": "New"
@@ -21,7 +21,7 @@
       "created": "2021-01-07T14:44:22.781790+00:00",
       "id": 788547,
       "is_public": true,
-      "modified": "2021-02-05T08:34:42.818215+00:00",
+      "modified": "2021-02-17T14:06:22.855978+00:00",
       "note": "It\u2019s easier than ever to save and access your bookmarks. Firefox now remembers your preferred location for saved bookmarks, displays the bookmarks toolbar by default on new tabs, and gives you easy access to all of your [bookmarks][0] via a toolbar folder.\r\n\r\n[0]: https://support.mozilla.org/kb/bookmarks-firefox",
       "sort_num": 500,
       "tag": "New"
@@ -31,7 +31,7 @@
       "created": "2020-12-15T16:20:35.045523+00:00",
       "id": 788536,
       "is_public": true,
-      "modified": "2021-02-05T08:34:28.060112+00:00",
+      "modified": "2021-02-17T14:06:18.174234+00:00",
       "note": "The password manager now allows you to [remove all of your saved logins][0] with one click, as opposed to having to delete each login individually.\r\n\r\n[0]: https://support.mozilla.org/kb/password-manager-remember-delete-edit-logins#w_remove-all-saved-logins",
       "sort_num": 0,
       "tag": "New"
@@ -41,7 +41,7 @@
       "created": "2020-11-16T09:25:58.620767+00:00",
       "id": 788516,
       "is_public": true,
-      "modified": "2021-02-05T08:34:40.875953+00:00",
+      "modified": "2021-02-17T14:06:22.286820+00:00",
       "note": "Firefox [no longer supports Adobe Flash][0]. There is no setting available to re-enable Flash support.\r\n\r\n[0]: https://support.mozilla.org/kb/end-support-adobe-flash",
       "sort_num": 0,
       "tag": "Changed"
@@ -51,7 +51,7 @@
       "created": "2021-01-22T14:51:26.578000+00:00",
       "id": 788554,
       "is_public": true,
-      "modified": "2021-02-05T08:34:38.616133+00:00",
+      "modified": "2021-02-17T14:06:21.357776+00:00",
       "note": "CSS: We have added support for the [`:focus-visible`][0] pseudo class.\r\n\r\n[0]: https://developer.mozilla.org/docs/Web/CSS/:focus-visible",
       "sort_num": 100,
       "tag": "Developer"
@@ -61,7 +61,7 @@
       "created": "2021-01-22T14:58:04.540456+00:00",
       "id": 788555,
       "is_public": true,
-      "modified": "2021-02-05T08:34:36.342989+00:00",
+      "modified": "2021-02-17T14:06:20.290309+00:00",
       "note": "It's possible to prettify JS expressions in Console source code Editor (available in multiline mode) using a new toolbar button.\r\n![Console Editor Pretty Print Expression Screenshot][1]\r\n\r\n[1]: https://www.mozilla.org/media/img/firefox/releasenotes/note-images/prettyfy_js_console_button.png",
       "sort_num": 0,
       "tag": "Developer"
@@ -71,7 +71,7 @@
       "created": "2021-01-22T15:40:24.099216+00:00",
       "id": 788556,
       "is_public": true,
-      "modified": "2021-02-05T08:34:35.049666+00:00",
+      "modified": "2021-02-17T14:06:19.681156+00:00",
       "note": "Various bug fixes and new policies have been implemented in the latest version of Firefox. You can see more details in the [Firefox for Enterprise 85 Release Notes][0].\r\n\r\n[0]: https://support.mozilla.org/kb/firefox-enterprise-85-release-notes",
       "sort_num": 0,
       "tag": "Enterprise"
@@ -81,7 +81,7 @@
       "created": "2021-01-25T14:30:09.263196+00:00",
       "id": 788557,
       "is_public": true,
-      "modified": "2021-02-17T14:05:29.466188+00:00",
+      "modified": "2021-02-17T14:06:18.943267+00:00",
       "note": "Various [security fixes][0].\r\n\r\n[0]: https://www.mozilla.org/security/advisories/mfsa2021-03/",
       "sort_num": 0,
       "tag": "Fixed"
