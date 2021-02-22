@@ -45,6 +45,76 @@
       "note": "For Firefox users in Canada, [credit card management and auto-fill][1] are now enabled.\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/credit-card-autofill",
       "sort_num": 0,
       "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2021-02-22T11:45:51.263434+00:00",
+      "id": 788577,
+      "is_public": true,
+      "modified": "2021-02-22T11:45:51.263280+00:00",
+      "note": "Firefox now supports the new AVIF image format, which is based on the modern and royalty free AV1 video codec. It offers significant bandwidth savings for sites compared to existing image formats. Additionally it supports transparency and other advanced features.",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2021-02-22T11:46:18.326843+00:00",
+      "id": 788578,
+      "is_public": true,
+      "modified": "2021-02-22T11:46:18.326688+00:00",
+      "note": "Notable performance and stability improvements are achieved by moving canvas drawing and WebGL drawing to the GPU process.",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1588710,
+      "created": "2021-02-12T16:26:05.982156+00:00",
+      "id": 788571,
+      "is_public": true,
+      "modified": "2021-02-22T11:48:22.563321+00:00",
+      "note": "On Linux and Android, the protection to mitigate the [stack clash attack][1] has been activated.\r\n\r\n\r\n  [1]: https://blog.llvm.org/posts/2021-01-05-stack-clash-protection/",
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
+      "bug": null,
+      "created": "2021-02-22T11:46:46.738795+00:00",
+      "id": 788579,
+      "is_public": true,
+      "modified": "2021-02-22T11:46:46.738638+00:00",
+      "note": "From Firefox 86 onward, DTLS 1.0 is no longer supported for establishing WebRTC's PeerConnections. All WebRTC services need to support DTLS 1.2 from now on as the minimum version.",
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
+      "bug": null,
+      "created": "2021-02-22T11:48:50.686718+00:00",
+      "id": 788580,
+      "is_public": true,
+      "modified": "2021-02-22T11:48:50.686462+00:00",
+      "note": "Consolidated all video decoding in the new RDD process which results in a more secure Firefox.",
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
+      "bug": 1166829,
+      "created": "2021-01-22T14:04:02.034551+00:00",
+      "id": 788552,
+      "is_public": true,
+      "modified": "2021-02-22T11:49:26.038631+00:00",
+      "note": "Reader mode now works with local HTML pages.",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2021-02-22T11:50:06.351565+00:00",
+      "id": 788581,
+      "is_public": true,
+      "modified": "2021-02-22T11:50:06.351410+00:00",
+      "note": "Using screen reader quick navigation to move to editable text controls no longer incorrectly reaches non-editable cells in some grids such as on messenger.com.",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
