@@ -15,6 +15,16 @@
       "note": "On Linux and Android, the protection to mitigate the [stack clash attack][1] has been activated.\r\n\r\n\r\n  [1]: https://blog.llvm.org/posts/2021-01-05-stack-clash-protection/",
       "sort_num": 0,
       "tag": "Changed"
+    },
+    {
+      "bug": null,
+      "created": "2021-02-22T16:19:09.331210+00:00",
+      "id": 788588,
+      "is_public": true,
+      "modified": "2021-02-22T16:19:09.331053+00:00",
+      "note": "Various [security fixes][1].\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/mfsa2021-07/",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox for Android",
