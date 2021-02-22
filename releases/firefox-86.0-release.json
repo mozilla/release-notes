@@ -97,6 +97,36 @@
       "tag": "Changed"
     },
     {
+      "bug": null,
+      "created": "2021-02-22T11:51:57.180364+00:00",
+      "id": 788585,
+      "is_public": true,
+      "modified": "2021-02-22T11:51:57.180207+00:00",
+      "note": "CSS image-set() function in CSS is now enabled, allowing for responsive images in CSS.",
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
+      "bug": null,
+      "created": "2021-02-22T11:52:21.298199+00:00",
+      "id": 788586,
+      "is_public": true,
+      "modified": "2021-02-22T11:52:21.298048+00:00",
+      "note": "Inactive CSS tool is now showing a warning when margin or padding is set on internal table elements.",
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
+      "bug": null,
+      "created": "2021-02-22T11:52:49.023407+00:00",
+      "id": 788587,
+      "is_public": true,
+      "modified": "2021-02-22T11:52:49.023235+00:00",
+      "note": "Developer Tools Toolbox is now showing a number of errors on the current page. This is a quick way to surface information to a developer that something is wrong with their page. Clicking on the red exclamation icon navigates the user to the Console panel.",
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
       "bug": 1166829,
       "created": "2021-01-22T14:04:02.034551+00:00",
       "id": 788552,
@@ -113,6 +143,36 @@
       "is_public": true,
       "modified": "2021-02-22T11:50:06.351410+00:00",
       "note": "Using screen reader quick navigation to move to editable text controls no longer incorrectly reaches non-editable cells in some grids such as on messenger.com.",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2021-02-22T11:50:30.845925+00:00",
+      "id": 788582,
+      "is_public": true,
+      "modified": "2021-02-22T11:50:30.845752+00:00",
+      "note": "The Orca screen reader's mouse review feature now works correctly after switching tabs in Firefox.",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2021-02-22T11:50:53.135358+00:00",
+      "id": 788583,
+      "is_public": true,
+      "modified": "2021-02-22T11:50:53.135200+00:00",
+      "note": "Screen readers no longer report column headers incorrectly in tables containing cells spanning multiple columns.",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2021-02-22T11:51:19.530282+00:00",
+      "id": 788584,
+      "is_public": true,
+      "modified": "2021-02-22T11:51:19.530124+00:00",
+      "note": "Links in Reader View now have more color contrast.",
       "sort_num": 0,
       "tag": "Fixed"
     }
