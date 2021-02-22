@@ -5,7 +5,38 @@
   "created": "2021-02-17T14:06:00.637324+00:00",
   "is_public": false,
   "modified": "2021-02-17T14:06:33.490477+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": null,
+      "created": "2021-02-22T06:34:28.730081+00:00",
+      "id": 788573,
+      "is_public": true,
+      "modified": "2021-02-22T06:34:28.729882+00:00",
+      "note": "Firefox now [supports][1] simultaneously watching multiple videos in Picture-in-Picture.  \r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/about-picture-picture-firefox",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2021-02-22T06:35:21.688167+00:00",
+      "id": 788574,
+      "is_public": true,
+      "modified": "2021-02-22T06:35:21.688004+00:00",
+      "note": "Today, Firefox introduces [Total Cookie Protection][1] to Strict Mode. In Total Cookie Protection, every website gets its own \u201ccookie jar,\u201d preventing cookies from being used to track you from site to site.\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/third-party-trackers",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2021-02-22T06:39:05.600032+00:00",
+      "id": 788575,
+      "is_public": true,
+      "modified": "2021-02-22T06:39:05.599840+00:00",
+      "note": "We've improved our Print functionality with a cleaner design and better integration with your computer's printer settings.",
+      "sort_num": 0,
+      "tag": "New"
+    }
+  ],
   "product": "Firefox",
   "release_date": "2021-02-22",
   "slug": "firefox-86.0-release",
