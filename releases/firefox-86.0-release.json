@@ -61,7 +61,7 @@
       "created": "2021-02-12T16:26:05.982156+00:00",
       "id": 788571,
       "is_public": true,
-      "modified": "2021-02-22T11:48:22.563321+00:00",
+      "modified": "2021-02-23T09:09:39.239290+00:00",
       "note": "On Linux and Android, the protection to mitigate the [stack clash attack][1] has been activated.\r\n\r\n\r\n  [1]: https://blog.llvm.org/posts/2021-01-05-stack-clash-protection/",
       "sort_num": 0,
       "tag": "Changed"
@@ -131,7 +131,7 @@
       "created": "2021-01-22T14:04:02.034551+00:00",
       "id": 788552,
       "is_public": true,
-      "modified": "2021-02-22T11:49:26.038631+00:00",
+      "modified": "2021-02-23T09:09:39.239290+00:00",
       "note": "Reader mode now works with local HTML pages.",
       "sort_num": 0,
       "tag": "Fixed"
