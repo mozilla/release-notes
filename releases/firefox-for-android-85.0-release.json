@@ -25,6 +25,16 @@
       "note": "Various [security fixes][0].\r\n\r\n[0]: https://www.mozilla.org/security/advisories/mfsa2021-03/",
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": 1674104,
+      "created": "2021-02-23T09:32:42.066134+00:00",
+      "id": 788590,
+      "is_public": true,
+      "modified": "2021-02-23T09:32:42.065975+00:00",
+      "note": "Fullscreen video now correctly matches the video size to screen size. Previously fullscreen videos were displayed larger than the screen size resulting in videos that were cut off.",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox for Android",
