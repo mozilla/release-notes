@@ -45,6 +45,26 @@
       "note": "Fixed truncation of date and time widgets due to incorrect width calculation ([bug 1695578][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1695578",
       "sort_num": 30,
       "tag": "Fixed"
+    },
+    {
+      "bug": 1694699,
+      "created": "2021-03-10T22:27:27.359400+00:00",
+      "id": 788600,
+      "is_public": true,
+      "modified": "2021-03-10T22:27:27.359247+00:00",
+      "note": "Fixed an issue causing unexpected behavior with extensions managing tab groups ([bug 1694699][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1694699",
+      "sort_num": 20,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1694670,
+      "created": "2021-03-10T22:29:03.898997+00:00",
+      "id": 788601,
+      "is_public": true,
+      "modified": "2021-03-10T22:29:03.898834+00:00",
+      "note": "Fixed a frequent Linux crash on browser launch ([bug 1694670][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1694670",
+      "sort_num": 10,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
