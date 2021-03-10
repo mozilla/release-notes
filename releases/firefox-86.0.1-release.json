@@ -15,6 +15,36 @@
       "note": "Reference link to [86.0 release notes][0]\r\n\r\n[0]: https://www.mozilla.org/firefox/86.0/releasenotes/",
       "sort_num": 0,
       "tag": ""
+    },
+    {
+      "bug": 1682713,
+      "created": "2021-03-10T22:16:00.504645+00:00",
+      "id": 788597,
+      "is_public": true,
+      "modified": "2021-03-10T22:16:00.504438+00:00",
+      "note": "Fixed an issue on Apple Silicon machines that caused Firefox to be unresponsive after system sleep ([bug 1682713][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1682713",
+      "sort_num": 50,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1694927,
+      "created": "2021-03-10T22:19:51.846420+00:00",
+      "id": 788598,
+      "is_public": true,
+      "modified": "2021-03-10T22:19:51.846256+00:00",
+      "note": "Fixed an issue causing windows to gain or lose focus unexpectedly ([bug 1694927][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1694927",
+      "sort_num": 40,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1695578,
+      "created": "2021-03-10T22:24:54.885699+00:00",
+      "id": 788599,
+      "is_public": true,
+      "modified": "2021-03-10T22:24:54.885541+00:00",
+      "note": "Fixed truncation of date and time widgets due to incorrect width calculation ([bug 1695578][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1695578",
+      "sort_num": 30,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
