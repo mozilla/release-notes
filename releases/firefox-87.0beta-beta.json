@@ -11,9 +11,9 @@
       "created": "2021-02-23T11:00:33.065824+00:00",
       "id": 788594,
       "is_public": true,
-      "modified": "2021-03-22T11:27:06.175252+00:00",
-      "note": "\u201cFind in page\u201d can now display marks next to the scrollbar corresponding to the positions of matches.",
-      "sort_num": 0,
+      "modified": "2021-03-22T14:13:38.640963+00:00",
+      "note": "The \u201cHighlight All\u201d feature on Find in Page now displays tick marks alongside your scrollbar that correspond to the location of matches found on that page.",
+      "sort_num": 500,
       "tag": "New"
     },
     {
@@ -21,9 +21,9 @@
       "created": "2021-01-04T13:19:18.877677+00:00",
       "id": 788542,
       "is_public": true,
-      "modified": "2021-03-22T11:28:05.773348+00:00",
+      "modified": "2021-03-22T14:19:22.398085+00:00",
       "note": "To prevent user data loss when filling out forms, we\u2019ve disabled the Backspace key as a navigation shortcut for the back navigation button. To re-enable the Backspace keyboard shortcut, you can change the about:config preference browser.backspace_action to 0. You can also use the recommended Alt + Left arrow (Command + Left arrow on Mac) shortcut instead.\r\n[Firefox keyboard shortcuts][1]\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/keyboard-shortcuts-perform-firefox-tasks-quickly",
-      "sort_num": 0,
+      "sort_num": 800,
       "tag": "Changed"
     },
     {
@@ -31,9 +31,9 @@
       "created": "2021-02-23T10:21:58.077714+00:00",
       "id": 788591,
       "is_public": true,
-      "modified": "2021-03-22T11:27:06.175252+00:00",
-      "note": "We've removed some items from the Library button that weren't used often, or have other access points in the browser.",
-      "sort_num": 0,
+      "modified": "2021-03-22T14:19:11.745304+00:00",
+      "note": "We've removed items from the Library menu that weren't used often or have other access points in the browser: Synced tabs, Recent highlights, and Pocket list.",
+      "sort_num": 500,
       "tag": "Changed"
     },
     {
@@ -41,9 +41,9 @@
       "created": "2021-02-23T10:23:06.051337+00:00",
       "id": 788592,
       "is_public": true,
-      "modified": "2021-03-22T11:27:06.175252+00:00",
-      "note": "We've simplified the Help menu by reducing some redundant items, or items that point to support pages that can also be accessed via the Get Help item.",
-      "sort_num": 0,
+      "modified": "2021-03-22T14:20:08.419581+00:00",
+      "note": "We've simplified the Help menu by reducing redundant items, such as those that point to Firefox support pages that can also be accessed via the Get Help item.",
+      "sort_num": 200,
       "tag": "Changed"
     },
     {
@@ -51,10 +51,10 @@
       "created": "2021-02-23T10:23:53.908526+00:00",
       "id": 788593,
       "is_public": true,
-      "modified": "2021-03-22T11:27:06.175252+00:00",
-      "note": "We've greatly simplified the Web Developer menu.",
-      "sort_num": 0,
-      "tag": "Changed"
+      "modified": "2021-03-22T14:20:37.001524+00:00",
+      "note": "We've greatly simplified the Web Developer menu. Go to Application Menu > Web Developer > Web Developer Tools  to access Inspector, Web Console, Debugger, Network Style Error, Performance, Storage Inspector, Accessibility, and Application",
+      "sort_num": 800,
+      "tag": "Developer"
     },
     {
       "bug": 1682713,

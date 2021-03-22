@@ -7,13 +7,53 @@
   "modified": "2021-03-22T11:28:13.603809+00:00",
   "notes": [
     {
+      "bug": null,
+      "created": "2021-03-22T14:11:25.666743+00:00",
+      "id": 788603,
+      "is_public": true,
+      "modified": "2021-03-22T14:11:25.666468+00:00",
+      "note": "You\u2019ll encounter less website breakage in Private Browsing and Strict Enhanced Tracking Protection with [SmartBlock][0], which provides stand-in scripts so that websites load properly. \r\n\r\n[0]: https://blog.mozilla.org/security/2021/03/23/introducing-smartblock/",
+      "sort_num": 1000,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2021-03-22T14:13:18.930806+00:00",
+      "id": 788604,
+      "is_public": true,
+      "modified": "2021-03-22T14:13:18.930640+00:00",
+      "note": "To further protect your privacy, our new [default HTTP Referrer policy][0] will trim path and query string information from referrer headers to prevent sites from accidentally leaking sensitive user data.\r\n\r\n[0]: https://blog.mozilla.org/security/2021/03/22/firefox-87-trims-http-referrers-by-default-to-protect-user-privacy/",
+      "sort_num": 900,
+      "tag": "New"
+    },
+    {
       "bug": 259640,
       "created": "2021-02-23T11:00:33.065824+00:00",
       "id": 788594,
       "is_public": true,
-      "modified": "2021-03-22T11:27:06.175252+00:00",
-      "note": "\u201cFind in page\u201d can now display marks next to the scrollbar corresponding to the positions of matches.",
-      "sort_num": 0,
+      "modified": "2021-03-22T14:13:38.640963+00:00",
+      "note": "The \u201cHighlight All\u201d feature on Find in Page now displays tick marks alongside your scrollbar that correspond to the location of matches found on that page.",
+      "sort_num": 500,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2021-03-22T14:14:09.897653+00:00",
+      "id": 788605,
+      "is_public": true,
+      "modified": "2021-03-22T14:14:09.897034+00:00",
+      "note": "We\u2019re proud to announce full support for macOS built-in screen reader, VoiceOver.",
+      "sort_num": 400,
+      "tag": "New"
+    },
+    {
+      "bug": 1691692,
+      "created": "2021-03-22T14:14:59.569676+00:00",
+      "id": 788606,
+      "is_public": true,
+      "modified": "2021-03-22T14:14:59.569437+00:00",
+      "note": "We\u2019ve added a new locale: Silesian (szl)",
+      "sort_num": 100,
       "tag": "New"
     },
     {
@@ -21,9 +61,9 @@
       "created": "2021-01-04T13:19:18.877677+00:00",
       "id": 788542,
       "is_public": true,
-      "modified": "2021-03-22T11:28:05.773348+00:00",
+      "modified": "2021-03-22T14:19:22.398085+00:00",
       "note": "To prevent user data loss when filling out forms, we\u2019ve disabled the Backspace key as a navigation shortcut for the back navigation button. To re-enable the Backspace keyboard shortcut, you can change the about:config preference browser.backspace_action to 0. You can also use the recommended Alt + Left arrow (Command + Left arrow on Mac) shortcut instead.\r\n[Firefox keyboard shortcuts][1]\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/keyboard-shortcuts-perform-firefox-tasks-quickly",
-      "sort_num": 0,
+      "sort_num": 800,
       "tag": "Changed"
     },
     {
@@ -31,9 +71,9 @@
       "created": "2021-02-23T10:21:58.077714+00:00",
       "id": 788591,
       "is_public": true,
-      "modified": "2021-03-22T11:27:06.175252+00:00",
-      "note": "We've removed some items from the Library button that weren't used often, or have other access points in the browser.",
-      "sort_num": 0,
+      "modified": "2021-03-22T14:19:11.745304+00:00",
+      "note": "We've removed items from the Library menu that weren't used often or have other access points in the browser: Synced tabs, Recent highlights, and Pocket list.",
+      "sort_num": 500,
       "tag": "Changed"
     },
     {
@@ -41,9 +81,9 @@
       "created": "2021-02-23T10:23:06.051337+00:00",
       "id": 788592,
       "is_public": true,
-      "modified": "2021-03-22T11:27:06.175252+00:00",
-      "note": "We've simplified the Help menu by reducing some redundant items, or items that point to support pages that can also be accessed via the Get Help item.",
-      "sort_num": 0,
+      "modified": "2021-03-22T14:20:08.419581+00:00",
+      "note": "We've simplified the Help menu by reducing redundant items, such as those that point to Firefox support pages that can also be accessed via the Get Help item.",
+      "sort_num": 200,
       "tag": "Changed"
     },
     {
@@ -51,10 +91,30 @@
       "created": "2021-02-23T10:23:53.908526+00:00",
       "id": 788593,
       "is_public": true,
-      "modified": "2021-03-22T11:27:06.175252+00:00",
-      "note": "We've greatly simplified the Web Developer menu.",
+      "modified": "2021-03-22T14:20:37.001524+00:00",
+      "note": "We've greatly simplified the Web Developer menu. Go to Application Menu > Web Developer > Web Developer Tools  to access Inspector, Web Console, Debugger, Network Style Error, Performance, Storage Inspector, Accessibility, and Application",
+      "sort_num": 800,
+      "tag": "Developer"
+    },
+    {
+      "bug": null,
+      "created": "2021-03-22T14:17:09.134562+00:00",
+      "id": 788607,
+      "is_public": true,
+      "modified": "2021-03-22T14:17:09.134391+00:00",
+      "note": "We\u2019ve fixed several significant accessibility issues:\r\n\r\n* Video controls now have visible focus styling and video and audio controls are now keyboard navigable. ([Bug 1681007][0]) \r\n* HTML `<meter>` is now spoken by screen readers. ([Bug 1460378][1]) \r\n* Firefox now sets a useful initial focus in Add-ons Manager. ([Bug 580537][2]) \r\n* Firefox will now fire a name/description change event when aria-labelledby/describedby content changes. ([Bug 493683][3])\r\n\r\n[0]: https://bugzilla.mozilla.org/1681007\r\n[1]: https://bugzilla.mozilla.org/1460378\r\n[2]: https://bugzilla.mozilla.org/580537\r\n[3]: https://bugzilla.mozilla.org/493683",
+      "sort_num": 100,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2021-03-22T14:18:21.674107+00:00",
+      "id": 788608,
+      "is_public": true,
+      "modified": "2021-03-22T14:18:21.673545+00:00",
+      "note": "Various [security fixes][0].\r\n\r\n[0]: https://www.mozilla.org/security/known-vulnerabilities/firefox/#firefox87",
       "sort_num": 0,
-      "tag": "Changed"
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
