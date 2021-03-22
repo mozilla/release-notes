@@ -61,8 +61,8 @@
       "created": "2021-01-04T13:19:18.877677+00:00",
       "id": 788542,
       "is_public": true,
-      "modified": "2021-03-22T14:19:22.398085+00:00",
-      "note": "To prevent user data loss when filling out forms, we\u2019ve disabled the Backspace key as a navigation shortcut for the back navigation button. To re-enable the Backspace keyboard shortcut, you can change the about:config preference browser.backspace_action to 0. You can also use the recommended Alt + Left arrow (Command + Left arrow on Mac) shortcut instead.\r\n[Firefox keyboard shortcuts][1]\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/keyboard-shortcuts-perform-firefox-tasks-quickly",
+      "modified": "2021-03-22T14:51:00.353694+00:00",
+      "note": "To prevent user data loss when filling out forms, we\u2019ve disabled the Backspace key as a navigation shortcut for the back navigation button. To re-enable the Backspace keyboard shortcut, you can change the about:config preference `browser.backspace_action` to 0. You can also use the recommended Alt + Left arrow (Command + Left arrow on Mac) shortcut instead.\r\n[Firefox keyboard shortcuts][1]\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/keyboard-shortcuts-perform-firefox-tasks-quickly",
       "sort_num": 800,
       "tag": "Changed"
     },
@@ -101,8 +101,8 @@
       "created": "2021-03-22T14:26:58.331183+00:00",
       "id": 788610,
       "is_public": true,
-      "modified": "2021-03-22T14:26:58.330930+00:00",
-      "note": "Developers can now use the [Page Inspector][0] to simulate [prefers-color-scheme][1] media queries, without having to change the operating system to light or dark mode.\r\n\r\n[0]: https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector/How_to/Examine_and_edit_CSS#view_media_rules_for_prefers-color-scheme\r\n[1]: https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-color-scheme",
+      "modified": "2021-03-22T14:51:55.390352+00:00",
+      "note": "Developers can now use the [Page Inspector][0] to simulate [prefers-color-scheme][1] media queries, without having to change the operating system to light or dark mode.\r\n\r\n[0]: https://developer.mozilla.org/docs/Tools/Page_Inspector/How_to/Examine_and_edit_CSS#view_media_rules_for_prefers-color-scheme\r\n[1]: https://developer.mozilla.org/docs/Web/CSS/@media/prefers-color-scheme",
       "sort_num": 700,
       "tag": "Developer"
     },
@@ -141,8 +141,8 @@
       "created": "2021-03-22T14:17:09.134562+00:00",
       "id": 788607,
       "is_public": true,
-      "modified": "2021-03-22T14:36:03.721836+00:00",
-      "note": "We\u2019ve fixed several significant accessibility issues:\r\n\r\n* Video controls now have visible focus styling and video and audio controls are now keyboard navigable. ([Bug 1681007][0]) \r\n* HTML <meter> is now spoken by screen readers. ([Bug 1460378][1]) \r\n* Firefox now sets a useful initial focus in Add-ons Manager. ([Bug 580537][2]) \r\n* Firefox will now fire a name/description change event when aria-labelledby/describedby content changes. ([Bug 493683][3])\r\n\r\n[0]: https://bugzilla.mozilla.org/1681007\r\n[1]: https://bugzilla.mozilla.org/1460378\r\n[2]: https://bugzilla.mozilla.org/580537\r\n[3]: https://bugzilla.mozilla.org/493683",
+      "modified": "2021-03-22T14:55:56.846476+00:00",
+      "note": "We\u2019ve fixed several significant accessibility issues:\r\n\r\n* Video controls now have visible focus styling and video and audio controls are now keyboard navigable. ([Bug 1681007][0]) \r\n* HTML &lt;meter&gt; is now spoken by screen readers. ([Bug 1460378][1]) \r\n* Firefox now sets a useful initial focus in Add-ons Manager. ([Bug 580537][2]) \r\n* Firefox will now fire a name/description change event when aria-labelledby/describedby content changes. ([Bug 493683][3])\r\n\r\n[0]: https://bugzilla.mozilla.org/1681007\r\n[1]: https://bugzilla.mozilla.org/1460378\r\n[2]: https://bugzilla.mozilla.org/580537\r\n[3]: https://bugzilla.mozilla.org/493683",
       "sort_num": 100,
       "tag": "Fixed"
     },
