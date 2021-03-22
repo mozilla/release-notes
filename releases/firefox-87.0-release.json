@@ -98,6 +98,36 @@
     },
     {
       "bug": null,
+      "created": "2021-03-22T14:26:58.331183+00:00",
+      "id": 788610,
+      "is_public": true,
+      "modified": "2021-03-22T14:26:58.330930+00:00",
+      "note": "Developers can now use the [Page Inspector][0] to simulate [prefers-color-scheme][1] media queries, without having to change the operating system to light or dark mode.\r\n\r\n[0]: https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector/How_to/Examine_and_edit_CSS#view_media_rules_for_prefers-color-scheme\r\n[1]: https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-color-scheme",
+      "sort_num": 700,
+      "tag": "Developer"
+    },
+    {
+      "bug": null,
+      "created": "2021-03-22T14:30:07.190522+00:00",
+      "id": 788611,
+      "is_public": true,
+      "modified": "2021-03-22T14:30:22.120671+00:00",
+      "note": "Developers can now use the Page Inspector to toggle the [`:target`][0] pseudo-class for the currently selected element in addition to the pseudo-classes that were previously supported: [`:hover`][1], [`:active`][2] and [`:focus`][3], [`:focus-within`][4], [`:focus-visible`][5], and [`:visited`][6].\r\n\r\n[0]: https://developer.mozilla.org/docs/Web/CSS/:target\r\n[1]: https://developer.mozilla.org/docs/Web/CSS/:hover\r\n[2]: https://developer.mozilla.org/docs/Web/CSS/:active\r\n[3]: https://developer.mozilla.org/docs/Web/CSS/:focus\r\n[4]: https://developer.mozilla.org/docs/Web/CSS/:focus-within\r\n[5]: https://developer.mozilla.org/docs/Web/CSS/:focus-visible\r\n[6]: https://developer.mozilla.org/docs/Web/CSS/:visited",
+      "sort_num": 500,
+      "tag": "Developer"
+    },
+    {
+      "bug": null,
+      "created": "2021-03-22T14:25:41.096620+00:00",
+      "id": 788609,
+      "is_public": true,
+      "modified": "2021-03-22T14:25:41.096363+00:00",
+      "note": "Various bug fixes and new policies have been implemented in the latest version of Firefox. You can see more details in the [Firefox for Enterprise 87 Release Notes][0].\r\n\r\n[0]: https://support.mozilla.org/kb/firefox-enterprise-87-release-notes",
+      "sort_num": 0,
+      "tag": "Enterprise"
+    },
+    {
+      "bug": null,
       "created": "2021-03-22T14:17:09.134562+00:00",
       "id": 788607,
       "is_public": true,
