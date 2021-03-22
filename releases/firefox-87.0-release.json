@@ -118,6 +118,16 @@
     },
     {
       "bug": null,
+      "created": "2021-03-22T14:32:21.973961+00:00",
+      "id": 788612,
+      "is_public": true,
+      "modified": "2021-03-22T14:32:21.973664+00:00",
+      "note": "There is a number of Page Inspector improvements and bug fixes related to inactive CSS rules:\r\n\r\n* The [`table-layout`][0] property is now marked as inactive for non-table elements.\r\n* The [`scroll-padding`][1] properties (shorthand and longhand) are now marked as inactive for non-scrollable elements.\r\n* The [`text-overflow`][2] property was previously incorrectly marked as inactive for some [`overflow`][3] values.\r\n\r\n[0]: https://developer.mozilla.org/docs/Web/CSS/table-layout\r\n[1]: https://developer.mozilla.org/docs/Web/CSS/scroll-padding\r\n[2]: https://developer.mozilla.org/docs/Web/CSS/text-overflow\r\n[3]: https://developer.mozilla.org/docs/Web/CSS/overflow",
+      "sort_num": 300,
+      "tag": "Developer"
+    },
+    {
+      "bug": null,
       "created": "2021-03-22T14:25:41.096620+00:00",
       "id": 788609,
       "is_public": true,
@@ -131,8 +141,8 @@
       "created": "2021-03-22T14:17:09.134562+00:00",
       "id": 788607,
       "is_public": true,
-      "modified": "2021-03-22T14:17:09.134391+00:00",
-      "note": "We\u2019ve fixed several significant accessibility issues:\r\n\r\n* Video controls now have visible focus styling and video and audio controls are now keyboard navigable. ([Bug 1681007][0]) \r\n* HTML `<meter>` is now spoken by screen readers. ([Bug 1460378][1]) \r\n* Firefox now sets a useful initial focus in Add-ons Manager. ([Bug 580537][2]) \r\n* Firefox will now fire a name/description change event when aria-labelledby/describedby content changes. ([Bug 493683][3])\r\n\r\n[0]: https://bugzilla.mozilla.org/1681007\r\n[1]: https://bugzilla.mozilla.org/1460378\r\n[2]: https://bugzilla.mozilla.org/580537\r\n[3]: https://bugzilla.mozilla.org/493683",
+      "modified": "2021-03-22T14:36:03.721836+00:00",
+      "note": "We\u2019ve fixed several significant accessibility issues:\r\n\r\n* Video controls now have visible focus styling and video and audio controls are now keyboard navigable. ([Bug 1681007][0]) \r\n* HTML <meter> is now spoken by screen readers. ([Bug 1460378][1]) \r\n* Firefox now sets a useful initial focus in Add-ons Manager. ([Bug 580537][2]) \r\n* Firefox will now fire a name/description change event when aria-labelledby/describedby content changes. ([Bug 493683][3])\r\n\r\n[0]: https://bugzilla.mozilla.org/1681007\r\n[1]: https://bugzilla.mozilla.org/1460378\r\n[2]: https://bugzilla.mozilla.org/580537\r\n[3]: https://bugzilla.mozilla.org/493683",
       "sort_num": 100,
       "tag": "Fixed"
     },
