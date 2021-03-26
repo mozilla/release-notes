@@ -37,6 +37,16 @@
       "tag": "Changed"
     },
     {
+      "bug": 1691890,
+      "created": "2021-03-26T18:42:30.668791+00:00",
+      "id": 788617,
+      "is_public": true,
+      "modified": "2021-03-26T18:42:30.668543+00:00",
+      "note": "FTP has been disabled in Firefox Release 88. The implementation is planned to be removed in Firefox 90.",
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
       "bug": 1696717,
       "created": "2021-03-22T21:43:59.641798+00:00",
       "id": 788615,
