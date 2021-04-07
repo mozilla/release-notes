@@ -7,6 +7,36 @@
   "modified": "2021-04-07T07:43:11.768238+00:00",
   "notes": [
     {
+      "bug": null,
+      "created": "2021-04-07T07:45:32.604597+00:00",
+      "id": 788620,
+      "is_public": true,
+      "modified": "2021-04-07T07:45:32.604352+00:00",
+      "note": "This release provides a modern redesign of the most frequently used  features and experiences in Firefox. \r\n\r\nWe\u2019ve looked at every surface and asked if we could make the experience simpler, cleaner, and more inviting to use. \r\n\r\nStarting with 89, you\u2019ll see a number of changes including:\r\n\r\n * **Simplified toolbar defaults**: we\u2019ve removed redundant navigations and iconography to provide clearer access to the features you use most\r\n * **Streamlined menus**: we\u2019ve reduced dependancy of iconography to communicate options, resulting in a refreshed appearance, and easier navigation to the menu labels themselves\r\n * **Updated infobars and modals**: we\u2019ve improved clarity and calls to action with more concise language for prompts \r\n * **New tab design**: we\u2019ve rethought our tab experience, with rounded edges to mirror the curves used throughout the design, and helpful action including visual indicators for media playback and audio controls.\r\n * We\u2019re also excited for what you don\u2019t see! We\u2019ve tuned the experience to reduce non-actionable prompts, and alerts at every turn.",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2021-04-07T07:46:24.972228+00:00",
+      "id": 788621,
+      "is_public": true,
+      "modified": "2021-04-07T07:46:24.971985+00:00",
+      "note": "We\u2019ve enhanced the privacy of the Firefox Browser\u2019s Private Browsing mode with Total Cookie Protection, which confines cookies to the site where they were created, preventing [companies from using cookies to track your browsing from site to site][1]. This feature was previously available only in Firefox\u2019s ETP Strict mode. \r\n\r\n\r\n  [1]: https://blog.mozilla.org/security/2021/02/23/total-cookie-protection/",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2021-04-07T07:47:16.491523+00:00",
+      "id": 788622,
+      "is_public": true,
+      "modified": "2021-04-07T07:47:16.491270+00:00",
+      "note": "We are rolling out Version 2 of our [existing SmartBlock feature][1], which enables a seamless web page experience that would otherwise stop working when we block trackers.\r\n\r\n\r\n  [1]: https://blog.mozilla.org/security/2021/03/23/introducing-smartblock/",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1697053,
       "created": "2021-03-27T08:07:03.034737+00:00",
       "id": 788618,
