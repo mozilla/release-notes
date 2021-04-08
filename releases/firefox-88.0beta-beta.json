@@ -4,18 +4,8 @@
   "channel": "Beta",
   "created": "2021-03-22T21:34:37.791714+00:00",
   "is_public": true,
-  "modified": "2021-03-23T14:44:31.393355+00:00",
+  "modified": "2021-04-08T16:40:45.842763+00:00",
   "notes": [
-    {
-      "bug": 1696997,
-      "created": "2021-03-22T21:37:56.287298+00:00",
-      "id": 788614,
-      "is_public": true,
-      "modified": "2021-03-22T21:37:56.287037+00:00",
-      "note": "Firefox will automatically look for client certificates in platform-specific storage on Windows and macOS by default when necessary.",
-      "sort_num": 10,
-      "tag": "New"
-    },
     {
       "bug": 1688717,
       "created": "2021-03-22T21:37:11.236749+00:00",
