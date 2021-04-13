@@ -55,6 +55,16 @@
       "note": "The [Event Timing API][1] is now supported.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/API/PerformanceEventTiming",
       "sort_num": 0,
       "tag": "HTML5"
+    },
+    {
+      "bug": 1696688,
+      "created": "2021-04-13T07:51:57.250576+00:00",
+      "id": 788628,
+      "is_public": true,
+      "modified": "2021-04-13T07:51:57.250325+00:00",
+      "note": "Colors in Firefox on macOS will no longer be saturated on wide gamut displays, untagged images are properly treated as sRGB, and colors in images tagged as sRGB will now match CSS colors.",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
