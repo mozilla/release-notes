@@ -18,6 +18,36 @@
     },
     {
       "bug": null,
+      "created": "2021-04-14T16:10:41.916849+00:00",
+      "id": 788629,
+      "is_public": true,
+      "modified": "2021-04-14T16:10:41.916640+00:00",
+      "note": "Sharing an image now shares the image itself instead of its URL",
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
+      "bug": null,
+      "created": "2021-04-14T16:11:27.954325+00:00",
+      "id": 788630,
+      "is_public": true,
+      "modified": "2021-04-14T16:11:27.954136+00:00",
+      "note": "Sites that have only been visited once are no longer automatically added as Top Sites on the home screen.",
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
+      "bug": null,
+      "created": "2021-04-14T16:12:42.514784+00:00",
+      "id": 788631,
+      "is_public": true,
+      "modified": "2021-04-14T16:12:42.514616+00:00",
+      "note": "WebRender is rolling out to more devices, with the following mobile GPUs now supported: Adreno 505, Adreno 506, Mali-T.",
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
+      "bug": null,
       "created": "2021-03-22T14:18:21.674107+00:00",
       "id": 788608,
       "is_public": true,
