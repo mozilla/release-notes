@@ -1,0 +1,37 @@
+{
+  "bug_list": "",
+  "bug_search_url": "",
+  "channel": "Release",
+  "created": "2021-04-14T16:06:22.240000+00:00",
+  "is_public": false,
+  "modified": "2021-04-14T16:07:27.134367+00:00",
+  "notes": [
+    {
+      "bug": null,
+      "created": "2021-03-22T14:13:18.930806+00:00",
+      "id": 788604,
+      "is_public": true,
+      "modified": "2021-04-14T16:08:28.896666+00:00",
+      "note": "To further protect your privacy, our new [default HTTP Referrer policy][0] will trim path and query string information from referrer headers to prevent sites from accidentally leaking sensitive user data.\r\n\r\n[0]: https://blog.mozilla.org/security/2021/03/22/firefox-87-trims-http-referrers-by-default-to-protect-user-privacy/",
+      "sort_num": 900,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2021-03-22T14:18:21.674107+00:00",
+      "id": 788608,
+      "is_public": true,
+      "modified": "2021-04-14T16:08:02.473477+00:00",
+      "note": "Various [security fixes][0].\r\n\r\n[0]: https://www.mozilla.org/security/known-vulnerabilities/firefox/#firefox87",
+      "sort_num": 0,
+      "tag": "Fixed"
+    }
+  ],
+  "product": "Firefox for Android",
+  "release_date": "2021-03-23",
+  "slug": "firefox-for-android-87.0-release",
+  "system_requirements": "## Operating systems\r\n - Android 5.0 or newer",
+  "text": "We'd like to extend a special thank you to [all of the new Mozillians][0] who contributed to this release of Firefox!\r\n\r\n[0]: https://blog.mozilla.org/community/2021/03/22/contributors-to-firefox-87",
+  "title": "Firefox for Android 87.0 Release",
+  "version": "87.0"
+}
