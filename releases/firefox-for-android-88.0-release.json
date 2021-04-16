@@ -1,0 +1,27 @@
+{
+  "bug_list": "",
+  "bug_search_url": "",
+  "channel": "Release",
+  "created": "2021-04-16T14:19:56.200025+00:00",
+  "is_public": false,
+  "modified": "2021-04-16T14:20:32.509605+00:00",
+  "notes": [
+    {
+      "bug": null,
+      "created": "2021-04-16T14:20:30.675988+00:00",
+      "id": 788632,
+      "is_public": true,
+      "modified": "2021-04-16T14:22:06.055452+00:00",
+      "note": "Various [security fixes][0].\r\n\r\n[0]: https://www.mozilla.org/security/advisories/mfsa2021-14/",
+      "sort_num": 0,
+      "tag": "Fixed"
+    }
+  ],
+  "product": "Firefox for Android",
+  "release_date": "2021-04-19",
+  "slug": "firefox-for-android-88.0-release",
+  "system_requirements": "## Operating systems\r\n - Android 5.0 or newer",
+  "text": "We'd like to extend a special thank you to [all of the new Mozillians][0] who contributed to this release of Firefox!\r\n\r\n[0]: https://blog.mozilla.org/community/2021/03/22/contributors-to-firefox-87",
+  "title": "Firefox for Android 88.0 Release",
+  "version": "88.0"
+}

@@ -11,7 +11,7 @@
       "created": "2021-03-22T14:11:25.666743+00:00",
       "id": 788603,
       "is_public": true,
-      "modified": "2021-03-22T14:11:25.666468+00:00",
+      "modified": "2021-04-16T14:21:44.981946+00:00",
       "note": "You\u2019ll encounter less website breakage in Private Browsing and Strict Enhanced Tracking Protection with [SmartBlock][0], which provides stand-in scripts so that websites load properly. \r\n\r\n[0]: https://blog.mozilla.org/security/2021/03/23/introducing-smartblock/",
       "sort_num": 1000,
       "tag": "New"
@@ -21,7 +21,7 @@
       "created": "2021-03-22T14:13:18.930806+00:00",
       "id": 788604,
       "is_public": true,
-      "modified": "2021-04-14T16:08:28.896666+00:00",
+      "modified": "2021-04-16T14:21:43.886534+00:00",
       "note": "To further protect your privacy, our new [default HTTP Referrer policy][0] will trim path and query string information from referrer headers to prevent sites from accidentally leaking sensitive user data.\r\n\r\n[0]: https://blog.mozilla.org/security/2021/03/22/firefox-87-trims-http-referrers-by-default-to-protect-user-privacy/",
       "sort_num": 900,
       "tag": "New"
@@ -31,7 +31,7 @@
       "created": "2021-02-23T11:00:33.065824+00:00",
       "id": 788594,
       "is_public": true,
-      "modified": "2021-03-22T21:35:07.120917+00:00",
+      "modified": "2021-04-16T14:21:48.046144+00:00",
       "note": "The \u201cHighlight All\u201d feature on Find in Page now displays tick marks alongside your scrollbar that correspond to the location of matches found on that page.",
       "sort_num": 500,
       "tag": "New"
@@ -41,7 +41,7 @@
       "created": "2021-03-22T14:14:09.897653+00:00",
       "id": 788605,
       "is_public": true,
-      "modified": "2021-03-22T21:08:32.037811+00:00",
+      "modified": "2021-04-16T14:21:43.120016+00:00",
       "note": "We\u2019re proud to announce full support for macOS built-in screen reader, [VoiceOver][0].\r\n\r\n[0]: https://blog.mozilla.org/accessibility/voiceover-support-for-macos-in-firefox-87/",
       "sort_num": 400,
       "tag": "New"
@@ -51,7 +51,7 @@
       "created": "2021-03-22T14:14:59.569676+00:00",
       "id": 788606,
       "is_public": true,
-      "modified": "2021-03-22T14:14:59.569437+00:00",
+      "modified": "2021-04-16T14:21:42.176081+00:00",
       "note": "We\u2019ve added a new locale: Silesian (szl)",
       "sort_num": 100,
       "tag": "New"
@@ -61,7 +61,7 @@
       "created": "2021-01-04T13:19:18.877677+00:00",
       "id": 788542,
       "is_public": true,
-      "modified": "2021-03-22T21:35:05.035056+00:00",
+      "modified": "2021-04-16T14:21:46.529474+00:00",
       "note": "To prevent user data loss when filling out forms, we\u2019ve disabled the Backspace key as a navigation shortcut for the back navigation button. To re-enable the Backspace keyboard shortcut, you can change the about:config preference `browser.backspace_action` to 0. You can also use the recommended Alt + Left arrow (Command + Left arrow on Mac) shortcut instead.\r\n[Firefox keyboard shortcuts][1]\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/keyboard-shortcuts-perform-firefox-tasks-quickly",
       "sort_num": 800,
       "tag": "Changed"
@@ -71,7 +71,7 @@
       "created": "2021-02-23T10:21:58.077714+00:00",
       "id": 788591,
       "is_public": true,
-      "modified": "2021-03-22T21:35:10.872750+00:00",
+      "modified": "2021-04-16T14:21:47.336176+00:00",
       "note": "We've removed items from the Library menu that weren't used often or have other access points in the browser: Synced tabs, Recent highlights, and Pocket list.",
       "sort_num": 500,
       "tag": "Changed"
@@ -81,7 +81,7 @@
       "created": "2021-02-23T10:23:06.051337+00:00",
       "id": 788592,
       "is_public": true,
-      "modified": "2021-03-22T21:35:09.898272+00:00",
+      "modified": "2021-04-16T14:21:49.383361+00:00",
       "note": "We've simplified the Help menu by reducing redundant items, such as those that point to Firefox support pages that can also be accessed via the Get Help item.",
       "sort_num": 200,
       "tag": "Changed"
@@ -91,7 +91,7 @@
       "created": "2021-04-07T09:41:47.081933+00:00",
       "id": 788623,
       "is_public": true,
-      "modified": "2021-04-07T09:41:47.081781+00:00",
+      "modified": "2021-04-16T14:21:50.074262+00:00",
       "note": "In the image context menu, the \"View Image Info\u201d menu label has been removed.",
       "sort_num": 100,
       "tag": "Changed"
@@ -101,7 +101,7 @@
       "created": "2021-02-23T10:23:53.908526+00:00",
       "id": 788593,
       "is_public": true,
-      "modified": "2021-03-22T21:35:07.858906+00:00",
+      "modified": "2021-04-16T14:21:48.740179+00:00",
       "note": "We've greatly simplified the Web Developer menu. Go to Application Menu > Web Developer > Web Developer Tools  to access Inspector, Web Console, Debugger, Network Style Error, Performance, Storage Inspector, Accessibility, and Application",
       "sort_num": 800,
       "tag": "Developer"
@@ -111,7 +111,7 @@
       "created": "2021-03-22T14:26:58.331183+00:00",
       "id": 788610,
       "is_public": true,
-      "modified": "2021-03-22T14:51:55.390352+00:00",
+      "modified": "2021-04-16T14:21:53.120291+00:00",
       "note": "Developers can now use the [Page Inspector][0] to simulate [prefers-color-scheme][1] media queries, without having to change the operating system to light or dark mode.\r\n\r\n[0]: https://developer.mozilla.org/docs/Tools/Page_Inspector/How_to/Examine_and_edit_CSS#view_media_rules_for_prefers-color-scheme\r\n[1]: https://developer.mozilla.org/docs/Web/CSS/@media/prefers-color-scheme",
       "sort_num": 700,
       "tag": "Developer"
@@ -121,7 +121,7 @@
       "created": "2021-03-22T14:30:07.190522+00:00",
       "id": 788611,
       "is_public": true,
-      "modified": "2021-03-22T14:30:22.120671+00:00",
+      "modified": "2021-04-16T14:21:51.722939+00:00",
       "note": "Developers can now use the Page Inspector to toggle the [`:target`][0] pseudo-class for the currently selected element in addition to the pseudo-classes that were previously supported: [`:hover`][1], [`:active`][2] and [`:focus`][3], [`:focus-within`][4], [`:focus-visible`][5], and [`:visited`][6].\r\n\r\n[0]: https://developer.mozilla.org/docs/Web/CSS/:target\r\n[1]: https://developer.mozilla.org/docs/Web/CSS/:hover\r\n[2]: https://developer.mozilla.org/docs/Web/CSS/:active\r\n[3]: https://developer.mozilla.org/docs/Web/CSS/:focus\r\n[4]: https://developer.mozilla.org/docs/Web/CSS/:focus-within\r\n[5]: https://developer.mozilla.org/docs/Web/CSS/:focus-visible\r\n[6]: https://developer.mozilla.org/docs/Web/CSS/:visited",
       "sort_num": 500,
       "tag": "Developer"
@@ -131,7 +131,7 @@
       "created": "2021-03-22T14:32:21.973961+00:00",
       "id": 788612,
       "is_public": true,
-      "modified": "2021-03-22T14:32:21.973664+00:00",
+      "modified": "2021-04-16T14:21:50.765331+00:00",
       "note": "There is a number of Page Inspector improvements and bug fixes related to inactive CSS rules:\r\n\r\n* The [`table-layout`][0] property is now marked as inactive for non-table elements.\r\n* The [`scroll-padding`][1] properties (shorthand and longhand) are now marked as inactive for non-scrollable elements.\r\n* The [`text-overflow`][2] property was previously incorrectly marked as inactive for some [`overflow`][3] values.\r\n\r\n[0]: https://developer.mozilla.org/docs/Web/CSS/table-layout\r\n[1]: https://developer.mozilla.org/docs/Web/CSS/scroll-padding\r\n[2]: https://developer.mozilla.org/docs/Web/CSS/text-overflow\r\n[3]: https://developer.mozilla.org/docs/Web/CSS/overflow",
       "sort_num": 300,
       "tag": "Developer"
@@ -141,7 +141,7 @@
       "created": "2021-03-22T14:25:41.096620+00:00",
       "id": 788609,
       "is_public": true,
-      "modified": "2021-03-22T14:25:41.096363+00:00",
+      "modified": "2021-04-16T14:21:54.049094+00:00",
       "note": "Various bug fixes and new policies have been implemented in the latest version of Firefox. You can see more details in the [Firefox for Enterprise 87 Release Notes][0].\r\n\r\n[0]: https://support.mozilla.org/kb/firefox-enterprise-87-release-notes",
       "sort_num": 0,
       "tag": "Enterprise"
@@ -151,7 +151,7 @@
       "created": "2021-03-22T14:17:09.134562+00:00",
       "id": 788607,
       "is_public": true,
-      "modified": "2021-03-22T14:55:56.846476+00:00",
+      "modified": "2021-04-16T14:21:41.090348+00:00",
       "note": "We\u2019ve fixed several significant accessibility issues:\r\n\r\n* Video controls now have visible focus styling and video and audio controls are now keyboard navigable. ([Bug 1681007][0]) \r\n* HTML &lt;meter&gt; is now spoken by screen readers. ([Bug 1460378][1]) \r\n* Firefox now sets a useful initial focus in Add-ons Manager. ([Bug 580537][2]) \r\n* Firefox will now fire a name/description change event when aria-labelledby/describedby content changes. ([Bug 493683][3])\r\n\r\n[0]: https://bugzilla.mozilla.org/1681007\r\n[1]: https://bugzilla.mozilla.org/1460378\r\n[2]: https://bugzilla.mozilla.org/580537\r\n[3]: https://bugzilla.mozilla.org/493683",
       "sort_num": 100,
       "tag": "Fixed"
@@ -161,7 +161,7 @@
       "created": "2021-03-22T14:18:21.674107+00:00",
       "id": 788608,
       "is_public": true,
-      "modified": "2021-04-14T16:08:02.473477+00:00",
+      "modified": "2021-04-16T14:21:55.415229+00:00",
       "note": "Various [security fixes][0].\r\n\r\n[0]: https://www.mozilla.org/security/known-vulnerabilities/firefox/#firefox87",
       "sort_num": 0,
       "tag": "Fixed"
