@@ -8,6 +8,46 @@
   "notes": [
     {
       "bug": null,
+      "created": "2021-04-17T21:37:14.042319+00:00",
+      "id": 788644,
+      "is_public": true,
+      "modified": "2021-04-17T21:37:14.042166+00:00",
+      "note": "PDF forms now support JavaScript embedded in PDF files. Some PDF forms use JavaScript for validation and other interactive features.",
+      "sort_num": 30,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2021-04-17T21:36:51.785974+00:00",
+      "id": 788643,
+      "is_public": true,
+      "modified": "2021-04-17T21:36:51.785824+00:00",
+      "note": "Print updates: Margin units are now localized.",
+      "sort_num": 20,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2021-04-17T21:36:16.068994+00:00",
+      "id": 788642,
+      "is_public": true,
+      "modified": "2021-04-17T21:36:16.068802+00:00",
+      "note": "Smooth pinch-zooming using a touchpad is now supported on Linux",
+      "sort_num": 10,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2021-04-17T21:35:42.401542+00:00",
+      "id": 788641,
+      "is_public": true,
+      "modified": "2021-04-17T21:35:42.401383+00:00",
+      "note": "To protect against cross-site privacy leaks, Firefox now isolates window.name data to the website that created it. [Learn more][1]\r\n\r\n\r\n  [1]: https://blog.mozilla.org/security/2021/04/19/firefox-88-combats-window-name-privacy-abuses/",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
       "created": "2021-04-17T21:34:54.566055+00:00",
       "id": 788640,
       "is_public": true,
