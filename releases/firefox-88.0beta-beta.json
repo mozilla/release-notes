@@ -11,7 +11,7 @@
       "created": "2021-03-22T21:37:11.236749+00:00",
       "id": 788613,
       "is_public": true,
-      "modified": "2021-03-22T21:37:11.236599+00:00",
+      "modified": "2021-04-19T06:51:18.342083+00:00",
       "note": "Smooth pinch-zooming using a touchpad is now supported on Linux under Wayland.",
       "sort_num": 0,
       "tag": "New"
@@ -21,7 +21,7 @@
       "created": "2021-04-09T13:45:25.190462+00:00",
       "id": 788624,
       "is_public": true,
-      "modified": "2021-04-09T18:23:57.110949+00:00",
+      "modified": "2021-04-19T06:52:10.015279+00:00",
       "note": "We keep on working on improving our PDF forms support and now support JavaScript embedded in PDF files (some PDF forms use JavaScript for validation and other interactive features). If you find any bug with this feature, please file an issue on the [PDF.js][1] repository\r\n\r\n  [1]: https://github.com/mozilla/pdf.js",
       "sort_num": 0,
       "tag": "New"
@@ -31,7 +31,7 @@
       "created": "2021-03-26T16:50:00.500948+00:00",
       "id": 788616,
       "is_public": true,
-      "modified": "2021-04-06T06:54:00.438781+00:00",
+      "modified": "2021-04-19T06:51:15.412666+00:00",
       "note": "The *Take a Screenshot* feature was moved from the *Page Actions* menu in the url bar into a regular icon you can add to your toolbar from the customize menu.",
       "sort_num": 0,
       "tag": "Changed"
@@ -41,7 +41,7 @@
       "created": "2021-03-26T18:42:30.668791+00:00",
       "id": 788617,
       "is_public": true,
-      "modified": "2021-03-26T18:42:30.668543+00:00",
+      "modified": "2021-04-19T06:51:14.495540+00:00",
       "note": "FTP has been disabled in Firefox Release 88. The implementation is planned to be removed in Firefox 90.",
       "sort_num": 0,
       "tag": "Changed"
@@ -51,7 +51,7 @@
       "created": "2021-03-22T21:43:59.641798+00:00",
       "id": 788615,
       "is_public": true,
-      "modified": "2021-03-22T21:43:59.641539+00:00",
+      "modified": "2021-04-19T06:51:16.459010+00:00",
       "note": "Fixed an issue with Firefox for Android where video playing in fullscreen or picture-in-picture mode would not display correctly on sites using a desktop viewport.",
       "sort_num": 0,
       "tag": "Fixed"
