@@ -15,6 +15,16 @@
       "note": "Various stability, functionality, and [security fixes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/mfsa2021-15/",
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": 1705138,
+      "created": "2021-04-27T14:51:00.130231+00:00",
+      "id": 788645,
+      "is_public": true,
+      "modified": "2021-04-27T14:51:00.130033+00:00",
+      "note": "Some purchased video content may not play correctly due to a recent Widevine plugin update ([bug 1705138][1]). This will be addressed in an upcoming bug fix release.\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1705138",
+      "sort_num": 0,
+      "tag": "Known"
     }
   ],
   "product": "Firefox Extended Support Release",
