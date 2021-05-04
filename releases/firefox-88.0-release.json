@@ -11,7 +11,7 @@
       "created": "2021-04-17T21:37:14.042319+00:00",
       "id": 788644,
       "is_public": true,
-      "modified": "2021-04-17T21:37:14.042166+00:00",
+      "modified": "2021-05-04T17:54:39.431581+00:00",
       "note": "PDF forms now support JavaScript embedded in PDF files. Some PDF forms use JavaScript for validation and other interactive features.",
       "sort_num": 30,
       "tag": "New"
@@ -21,7 +21,7 @@
       "created": "2021-04-17T21:36:51.785974+00:00",
       "id": 788643,
       "is_public": true,
-      "modified": "2021-04-17T21:36:51.785824+00:00",
+      "modified": "2021-05-04T17:54:45.487557+00:00",
       "note": "Print updates: Margin units are now localized.",
       "sort_num": 20,
       "tag": "New"
@@ -31,7 +31,7 @@
       "created": "2021-04-17T21:36:16.068994+00:00",
       "id": 788642,
       "is_public": true,
-      "modified": "2021-04-17T21:36:16.068802+00:00",
+      "modified": "2021-05-04T17:54:44.314704+00:00",
       "note": "Smooth pinch-zooming using a touchpad is now supported on Linux",
       "sort_num": 10,
       "tag": "New"
@@ -41,7 +41,7 @@
       "created": "2021-04-17T21:35:42.401542+00:00",
       "id": 788641,
       "is_public": true,
-      "modified": "2021-04-17T21:35:42.401383+00:00",
+      "modified": "2021-05-04T17:54:43.081284+00:00",
       "note": "To protect against cross-site privacy leaks, Firefox now isolates window.name data to the website that created it. [Learn more][1]\r\n\r\n\r\n  [1]: https://blog.mozilla.org/security/2021/04/19/firefox-88-combats-window-name-privacy-abuses/",
       "sort_num": 0,
       "tag": "New"
@@ -51,7 +51,7 @@
       "created": "2021-04-17T21:34:54.566055+00:00",
       "id": 788640,
       "is_public": true,
-      "modified": "2021-04-17T21:34:54.565895+00:00",
+      "modified": "2021-05-04T17:54:41.205952+00:00",
       "note": "Firefox will not prompt for access to your microphone or camera if you\u2019ve already granted access to the same device on the same site in the same tab within the past 50 seconds. This new grace period reduces the number of times you\u2019re prompted to grant device access.",
       "sort_num": 20,
       "tag": "Changed"
@@ -61,7 +61,7 @@
       "created": "2021-04-17T21:34:12.865174+00:00",
       "id": 788639,
       "is_public": true,
-      "modified": "2021-04-17T21:34:12.865011+00:00",
+      "modified": "2021-05-04T17:54:28.973454+00:00",
       "note": "The \u2018Take a Screenshot\u2019 feature was removed from the Page Actions menu in the url bar. [To take a screenshot][1], right-click to open the context menu. You can also add a screenshots shortcut directly to your toolbar via the Customize menu. Open the Firefox menu and select Customize\u2026\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/take-screenshots-firefox",
       "sort_num": 10,
       "tag": "Changed"
@@ -71,7 +71,7 @@
       "created": "2021-04-17T21:33:12.340923+00:00",
       "id": 788638,
       "is_public": true,
-      "modified": "2021-04-17T21:33:12.340771+00:00",
+      "modified": "2021-05-04T17:54:29.983901+00:00",
       "note": "FTP support has been disabled, and its full removal is planned for an upcoming release. Addressing this security risk reduces the likelihood of an attack while also removing support for a non-encrypted protocol.",
       "sort_num": 0,
       "tag": "Changed"
@@ -81,7 +81,7 @@
       "created": "2021-04-17T21:31:30.224014+00:00",
       "id": 788636,
       "is_public": true,
-      "modified": "2021-04-17T21:31:30.223863+00:00",
+      "modified": "2021-05-04T17:54:31.474922+00:00",
       "note": "Introduced a new toggle button in the Network panel for switching between JSON formatted HTTP response and raw data (as received over the wire).\r\n![enter image description here][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/media/img/firefox/releasenotes/note-images/network_panel_json_toggle.9bc1e09b1452.png",
       "sort_num": 0,
       "tag": "Developer"
@@ -91,7 +91,7 @@
       "created": "2021-04-17T21:32:25.544319+00:00",
       "id": 788637,
       "is_public": true,
-      "modified": "2021-04-17T21:32:25.544134+00:00",
+      "modified": "2021-05-04T17:54:30.737109+00:00",
       "note": "Various bug fixes and new policies have been implemented in the latest version of Firefox. You can see more details in the [Firefox for Enterprise 88 Release Notes][1].\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/firefox-enterprise-88-release-notes",
       "sort_num": 0,
       "tag": "Enterprise"
@@ -101,7 +101,7 @@
       "created": "2021-04-17T21:30:31.777991+00:00",
       "id": 788635,
       "is_public": true,
-      "modified": "2021-04-17T21:30:31.777835+00:00",
+      "modified": "2021-05-04T17:54:36.963576+00:00",
       "note": "Screen readers no longer incorrectly read content that websites have visually hidden, as in the case of articles in the Google Help panel.",
       "sort_num": 10,
       "tag": "Fixed"
@@ -111,7 +111,7 @@
       "created": "2021-04-16T14:20:30.675988+00:00",
       "id": 788632,
       "is_public": true,
-      "modified": "2021-04-19T12:35:44.177197+00:00",
+      "modified": "2021-05-04T17:54:51.057534+00:00",
       "note": "Various [security fixes][0].\r\n\r\n[0]: https://www.mozilla.org/security/advisories/mfsa2021-16/",
       "sort_num": 0,
       "tag": "Fixed"
@@ -121,7 +121,7 @@
       "created": "2021-04-27T14:51:00.130231+00:00",
       "id": 788645,
       "is_public": true,
-      "modified": "2021-05-03T18:13:57.380296+00:00",
+      "modified": "2021-05-04T17:54:38.348940+00:00",
       "note": "Some purchased video content may not play correctly due to a recent Widevine plugin update ([bug 1705138][1]). This will be addressed in an upcoming bug fix release.\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1705138",
       "sort_num": 0,
       "tag": "Known"
