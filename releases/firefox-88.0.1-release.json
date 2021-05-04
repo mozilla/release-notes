@@ -37,6 +37,16 @@
       "tag": "Fixed"
     },
     {
+      "bug": 1706496,
+      "created": "2021-05-04T19:10:48.814737+00:00",
+      "id": 788651,
+      "is_public": true,
+      "modified": "2021-05-04T19:10:48.814534+00:00",
+      "note": "Fixed menulists in Preferences being unreadable for users with High Contrast Mode enabled ([bug 1706496][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1706496",
+      "sort_num": 10,
+      "tag": "Fixed"
+    },
+    {
       "bug": null,
       "created": "2021-05-04T17:54:50.897552+00:00",
       "id": 788648,
