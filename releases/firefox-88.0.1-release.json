@@ -27,6 +27,16 @@
       "tag": "Fixed"
     },
     {
+      "bug": 1708937,
+      "created": "2021-05-04T19:09:41.595209+00:00",
+      "id": 788650,
+      "is_public": true,
+      "modified": "2021-05-04T19:09:41.595036+00:00",
+      "note": "Fixed corruption of videos playing on Twitter or WebRTC calls on some Gen6 Intel graphics chipsets ([bug 1708937][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1708937",
+      "sort_num": 20,
+      "tag": "Fixed"
+    },
+    {
       "bug": null,
       "created": "2021-05-04T17:54:50.897552+00:00",
       "id": 788648,
