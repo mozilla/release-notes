@@ -17,12 +17,32 @@
       "tag": "New"
     },
     {
+      "bug": null,
+      "created": "2021-05-05T06:23:46.567742+00:00",
+      "id": 788652,
+      "is_public": true,
+      "modified": "2021-05-05T06:23:46.567574+00:00",
+      "note": "For macOS users, we're introducing the elastic overscroll effect known from many other applications. A gentle bouncing animation will indicate that you reached the end of the page. \r\n\r\nIn addition, we added support for smart zoom. Double-tap with two fingers on your trackpad, or with a single finger on your Magic Mouse, to zoom the content below your cursor into focus.",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1697053,
       "created": "2021-03-27T08:07:03.034737+00:00",
       "id": 788618,
       "is_public": true,
       "modified": "2021-04-19T06:53:30.255152+00:00",
       "note": "Introducing a non-native implementation of web form controls, which delivers a new modern design and some improvements to page load performance. Watch for layout bugs in web pages that make assumptions about the dimensions or styling of form controls.",
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
+      "bug": 3472,
+      "created": "2021-05-05T06:25:00.830395+00:00",
+      "id": 788653,
+      "is_public": true,
+      "modified": "2021-05-05T06:25:00.830239+00:00",
+      "note": "Also on macOS, we are switching to native context menus instead of our custom implementation. Enjoy a consistent look and feel and a better integration with the operating system.",
       "sort_num": 0,
       "tag": "Changed"
     },
