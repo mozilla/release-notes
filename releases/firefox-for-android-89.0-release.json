@@ -7,6 +7,36 @@
   "modified": "2021-05-26T13:18:08.366541+00:00",
   "notes": [
     {
+      "bug": null,
+      "created": "2021-05-28T11:21:49.315730+00:00",
+      "id": 788662,
+      "is_public": true,
+      "modified": "2021-05-28T11:21:49.315574+00:00",
+      "note": "Synced Tabs are now shown in the tabs tray",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2021-05-28T11:22:14.199784+00:00",
+      "id": 788663,
+      "is_public": true,
+      "modified": "2021-05-28T11:23:00.101555+00:00",
+      "note": "Compact menu to allow easy access to commonly used items",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2021-05-28T11:22:36.199800+00:00",
+      "id": 788664,
+      "is_public": true,
+      "modified": "2021-05-28T11:23:12.652689+00:00",
+      "note": "Top site tiles are larger to improve touch accessibility",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1701029,
       "created": "2021-03-31T13:32:09.718234+00:00",
       "id": 788619,
@@ -25,6 +55,56 @@
       "note": "The CSS f[orced-colors media query][1] is now supported.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/CSS/@media/forced-colors",
       "sort_num": 0,
       "tag": "HTML5"
+    },
+    {
+      "bug": null,
+      "created": "2021-05-28T11:23:41.285294+00:00",
+      "id": 788665,
+      "is_public": true,
+      "modified": "2021-05-28T11:24:14.794182+00:00",
+      "note": "Using a touchpad to scroll now scrolls the page instead of selecting text",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2021-05-28T11:24:01.718238+00:00",
+      "id": 788666,
+      "is_public": true,
+      "modified": "2021-05-28T11:24:01.718089+00:00",
+      "note": "Find toolbar no longer covers content with top toolbar setting",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2021-05-28T11:24:28.689634+00:00",
+      "id": 788667,
+      "is_public": true,
+      "modified": "2021-05-28T11:24:28.689478+00:00",
+      "note": "Large data URI images now display and upload correctly",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2021-05-28T11:24:44.544196+00:00",
+      "id": 788668,
+      "is_public": true,
+      "modified": "2021-05-28T11:24:44.544042+00:00",
+      "note": "Firefox is removed from the Android recent apps list when the \u2018quit to clear browsing data\u2019 option is used",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2021-05-28T11:25:01.126031+00:00",
+      "id": 788669,
+      "is_public": true,
+      "modified": "2021-05-28T11:25:01.125875+00:00",
+      "note": "The \"Quit\" option is available in both menus: the Home screen menu, and the page menu.",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox for Android",
