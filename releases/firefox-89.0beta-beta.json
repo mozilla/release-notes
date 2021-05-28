@@ -8,21 +8,21 @@
   "notes": [
     {
       "bug": null,
-      "created": "2021-04-07T07:45:32.604597+00:00",
-      "id": 788620,
-      "is_public": true,
-      "modified": "2021-05-28T17:19:13.346378+00:00",
-      "note": "Say hello to a fresh new Firefox, designed to get you where you want to go even faster. We\u2019ve redesigned and modernized the core experience to be cleaner, more inviting, and easier to use. \r\n\r\nBeginning in 89, you\u2019ll notice a number of changes, including:\r\n\r\n**Simplified browser chrome and toolbar**: Less frequently used items removed to focus on the most important navigation items.\r\n\r\n![Simplified browser chrome and toolbar screenshot][4]\r\n\r\n**Clear, streamlined menus**: Re-organized and prioritized menu content according to usage. Updated labels and removed iconography.\r\n\r\n![Clear, streamlined menus screenshot][5]\r\n\r\n**Updated prompts**: Infobars, panels, and modals have a cleaner design and clearer language.\r\n\r\n![Updated prompts screenshot][6]\r\n\r\n**Inspired tab design**: Floating tabs neatly contain information and surface cues when you need them, like visual indicators for audio controls. The rounded design of the active tab supports focus and signals the ability to easily move the tab as needed.\r\n\r\n![Inspired tab design screenshot][7]\r\n\r\n**Fewer interruptions**: Reduced number of alerts and messages, so you can browse with fewer distractions.\r\n\r\n**Cohesive, calmer visuals**: Lighter iconography, a refined color palette, and more consistent styling throughout. \r\n\r\n **Native context menus**: Context menus on macOS are now native and support Dark Mode.\r\n\r\n![native context menus screenshot][1]\r\n\r\nThis release also includes enhancements to our privacy offerings: \r\n\r\n* [We\u2019ve enhanced the privacy of the Firefox Browser\u2019s Private Browsing mode][2] with Total Cookie Protection, which confines cookies to the site where they were created, preventing [companies from using cookies to track your browsing][3] across sites. This feature was originally launched in Firefox\u2019s ETP Strict mode. \r\n\r\n\r\n  [1]: https://www.mozilla.org/media/img/firefox/releasenotes/note-images/native_macos_context_menus.png\r\n  [2]: https://blog.mozilla.org/security/2021/06/01/total-cookie-protection-in-private-browsing\r\n  [3]: https://blog.mozilla.org/security/2021/02/23/total-cookie-protection/\r\n  [4]: https://www.mozilla.org/media/img/firefox/releasenotes/note-images/proton_simplified_chrome.png\r\n  [5]: https://www.mozilla.org/media/img/firefox/releasenotes/note-images/proton_clear_menu.png\r\n  [6]: https://www.mozilla.org/media/img/firefox/releasenotes/note-images/proton_updated_prompts.png\r\n  [7]: https://www.mozilla.org/media/img/firefox/releasenotes/note-images/proton_inspired_tab_design.png",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
-      "bug": null,
       "created": "2021-05-05T06:23:46.567742+00:00",
       "id": 788652,
       "is_public": true,
       "modified": "2021-05-28T09:02:37.731283+00:00",
       "note": "For macOS users, we're introducing the elastic overscroll effect known from many other applications. A gentle bouncing animation will indicate that you reached the end of the page. \r\n\r\nIn addition, we added support for smart zoom. Double-tap with two fingers on your trackpad, or with a single finger on your Magic Mouse, to zoom the content below your cursor into focus.",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2021-05-28T17:42:46.721793+00:00",
+      "id": 788672,
+      "is_public": true,
+      "modified": "2021-05-28T17:42:46.721639+00:00",
+      "note": "Say hello to a fresh new Firefox, designed to get you where you want to go even faster. We've redesigned and modernized the core experience to be cleaner, more inviting, and easier to use. \r\n\r\nBeginning in 89, you'll notice a number of changes, including:\r\n\r\n* **Simplified browser chrome and toolbar**: Redundant or less frequently used features have been removed to focus on the most important navigation items.\r\n* **Streamlined menus**: Content has been re-organized and prioritized according to usage. We've reduced visual noise by removing unnecessary iconography and provided clearer labels. \r\n* **Updated prompts**: Infobars and modals have a cleaner design and clearer language. \r\n* **Inspired new tab design**: Floating tabs neatly contain information and surface cues when you need them, like visual indicators for audio controls. The rounded design of the active tab supports focus and signals the ability to easily move the tab as needed.\r\n* **Fewer interruptions**: We've removed unnecessary alerts and messages. \r\n* **Cohesive, calmer visuals**: Lighter iconography, a refined color palette, and more consistent styling throughout. \r\n\r\n\r\nThis release also includes enhancements to our privacy offerings: \r\n\r\n* We've enhanced the privacy of the Firefox Browser's Private Browsing mode with Total Cookie Protection, which confines cookies to the site where they were created, preventing [companies from using cookies to track your browsing][1] from site to site. This feature was previously available only in Firefox's ETP Strict mode. \r\n* We are rolling out Version 2 of our [existing SmartBlock feature][2], which enables a seamless web page experience that would otherwise stop working when we block trackers.\r\n\r\n\r\n  [1]: https://blog.mozilla.org/security/2021/02/23/total-cookie-protection/\r\n  [2]: https://blog.mozilla.org/security/2021/03/23/introducing-smartblock/",
       "sort_num": 0,
       "tag": "New"
     },
