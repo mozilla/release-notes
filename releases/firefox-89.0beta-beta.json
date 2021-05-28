@@ -71,9 +71,9 @@
       "created": "2021-04-13T07:51:57.250576+00:00",
       "id": 788628,
       "is_public": true,
-      "modified": "2021-05-28T09:24:47.967903+00:00",
+      "modified": "2021-05-28T09:49:45.677771+00:00",
       "note": "Colors in Firefox on macOS will no longer be saturated on wide gamut displays, untagged images are properly treated as sRGB, and colors in images tagged as sRGB will now match CSS colors.",
-      "sort_num": 0,
+      "sort_num": 15,
       "tag": "Fixed"
     },
     {
@@ -81,9 +81,9 @@
       "created": "2021-05-28T09:25:34.163903+00:00",
       "id": 788660,
       "is_public": true,
-      "modified": "2021-05-28T09:25:34.163743+00:00",
+      "modified": "2021-05-28T09:49:31.378584+00:00",
       "note": "In full screen mode on macOS, moving your mouse to the top of the screen will no longer hide your tabs behind the system menu bar.",
-      "sort_num": 0,
+      "sort_num": 10,
       "tag": "Fixed"
     },
     {
@@ -91,9 +91,9 @@
       "created": "2021-05-28T09:26:13.952381+00:00",
       "id": 788661,
       "is_public": true,
-      "modified": "2021-05-28T09:26:13.952220+00:00",
+      "modified": "2021-05-28T09:49:17.191234+00:00",
       "note": "Also in full screen mode on macOS, it is now possible to hide the browser toolbars for a fully immersive full screen experience. This brings macOS in line with Windows and Linux.",
-      "sort_num": 0,
+      "sort_num": 5,
       "tag": "Fixed"
     }
   ],
