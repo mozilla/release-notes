@@ -5,7 +5,28 @@
   "created": "2021-05-26T13:17:35.770824+00:00",
   "is_public": false,
   "modified": "2021-05-26T13:18:08.366541+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": 1701029,
+      "created": "2021-03-31T13:32:09.718234+00:00",
+      "id": 788619,
+      "is_public": true,
+      "modified": "2021-05-28T09:21:01.009959+00:00",
+      "note": "The [Event Timing API][1] is now supported.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/API/PerformanceEventTiming",
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": null,
+      "created": "2021-05-28T09:22:20.502668+00:00",
+      "id": 788659,
+      "is_public": true,
+      "modified": "2021-05-28T09:22:20.502516+00:00",
+      "note": "The CSS f[orced-colors media query][1] is now supported.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/CSS/@media/forced-colors",
+      "sort_num": 0,
+      "tag": "HTML5"
+    }
+  ],
   "product": "Firefox for Android",
   "release_date": "2021-06-01",
   "slug": "firefox-for-android-89.0-release",
