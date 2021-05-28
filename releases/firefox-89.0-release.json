@@ -5,7 +5,48 @@
   "created": "2021-05-26T13:16:41.283494+00:00",
   "is_public": false,
   "modified": "2021-05-26T13:17:24.482906+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": 1697053,
+      "created": "2021-03-27T08:07:03.034737+00:00",
+      "id": 788618,
+      "is_public": true,
+      "modified": "2021-05-28T08:42:50.634002+00:00",
+      "note": "Introducing a non-native implementation of web form controls, which delivers a new modern design and some improvements to page load performance. Watch for layout bugs in web pages that make assumptions about the dimensions or styling of form controls.",
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
+      "bug": 1357890,
+      "created": "2021-05-28T08:46:24.746092+00:00",
+      "id": 788657,
+      "is_public": true,
+      "modified": "2021-05-28T08:46:24.745942+00:00",
+      "note": "Better keyboard navigation for editable *BoxModel* properties in the Inspector panel",
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
+      "bug": null,
+      "created": "2021-05-28T08:44:08.511479+00:00",
+      "id": 788656,
+      "is_public": true,
+      "modified": "2021-05-28T08:44:08.511324+00:00",
+      "note": "Various bug fixes and new policies have been implemented in the latest version of Firefox. You can see more details in the [Firefox for Enterprise 89 Release Notes][1]. \r\n\r\n[1]: https://support.mozilla.org/kb/firefox-enterprise-89-release-notes",
+      "sort_num": 0,
+      "tag": "Enterprise"
+    },
+    {
+      "bug": null,
+      "created": "2021-05-28T08:49:12.173702+00:00",
+      "id": 788658,
+      "is_public": true,
+      "modified": "2021-05-28T08:49:12.173511+00:00",
+      "note": "Various stability and [security fixes][0]. \r\n\r\n[0]: https://www.mozilla.org/security/advisories/",
+      "sort_num": 0,
+      "tag": "Fixed"
+    }
+  ],
   "product": "Firefox",
   "release_date": "2021-06-01",
   "slug": "firefox-89.0-release",
