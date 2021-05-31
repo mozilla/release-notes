@@ -2,36 +2,15 @@
   "bug_list": "",
   "bug_search_url": "",
   "channel": "Nightly",
-  "created": "2021-04-19T06:51:47.280852+00:00",
-  "is_public": true,
-  "modified": "2021-05-03T18:24:21.644495+00:00",
-  "notes": [
-    {
-      "bug": null,
-      "created": "2021-05-05T06:23:46.567742+00:00",
-      "id": 788652,
-      "is_public": true,
-      "modified": "2021-05-31T11:41:52.649518+00:00",
-      "note": "For macOS users, we're introducing the elastic overscroll effect known from many other applications. A gentle bouncing animation will indicate that you reached the end of the page. \r\n\r\nIn addition, we added support for smart zoom. Double-tap with two fingers on your trackpad, or with a single finger on your Magic Mouse, to zoom the content below your cursor into focus.",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
-      "bug": 34572,
-      "created": "2021-05-05T06:25:00.830395+00:00",
-      "id": 788653,
-      "is_public": true,
-      "modified": "2021-05-31T11:41:50.115299+00:00",
-      "note": "Also on macOS, we are switching to native context menus instead of our custom implementation. Enjoy a consistent look and feel and a better integration with the operating system.",
-      "sort_num": 0,
-      "tag": "Changed"
-    }
-  ],
+  "created": "2021-05-31T11:41:30.261725+00:00",
+  "is_public": false,
+  "modified": "2021-05-31T11:41:54.312594+00:00",
+  "notes": [],
   "product": "Firefox",
-  "release_date": "2021-04-19",
-  "slug": "firefox-90.0a1-nightly",
+  "release_date": "2021-05-31",
+  "slug": "firefox-91.0a1-nightly",
   "system_requirements": "## Windows\r\n\r\n### Operating Systems (32-bit and 64-bit)\r\n - Windows 7\r\n - Windows 8\r\n - Windows 10\r\n\r\n### Recommended Hardware\r\n-  Pentium 4 or newer processor that supports SSE2\r\n-  512MB of RAM / 2GB of RAM for the 64-bit version\r\n-  200MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- macOS 10.12\r\n- macOS 10.13\r\n- macOS 10.14\r\n- macOS 10.15\r\n- macOS 11\r\n\r\n### Recommended Hardware\r\n- Macintosh computer with an Intel x86 processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - GTK+ 3.14 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n    - libstdc++ 4.8.1 or higher\r\n    - glibc 2.17 or higher\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - NetworkManager 0.7 or higher\r\n    - DBus 1.0 or higher\r\n    - GNOME 2.16 or higher\r\n    - PulseAudio",
   "text": "Firefox Nightly gets updated every day and as a consequence, the release notes for the Nightly channel are updated continuously to reflect features that have reached sufficient maturity to benefit from community feedback and bug reports. \r\n\r\n**Warning: Features listed here may or may *not* make a final release of Firefox.**\r\n\r\nIn addition to these release notes, you can follow ongoing development on our [@FirefoxNightly][1] Twitter account as well as read our [Nightly Blog][2].\r\n\r\n[1]: https://twitter.com/FirefoxNightly\r\n[2]: https://blog.nightly.mozilla.org",
-  "title": "Firefox 90.0a1 Nightly",
-  "version": "90.0a1"
+  "title": "Firefox 91.0a1 Nightly",
+  "version": "91.0a1"
 }
