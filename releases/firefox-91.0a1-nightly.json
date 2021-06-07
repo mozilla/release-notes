@@ -5,7 +5,18 @@
   "created": "2021-05-31T11:41:30.261725+00:00",
   "is_public": true,
   "modified": "2021-06-03T16:16:43.486011+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": 1713015,
+      "created": "2021-06-07T17:04:32.748194+00:00",
+      "id": 788675,
+      "is_public": true,
+      "modified": "2021-06-07T17:04:32.748041+00:00",
+      "note": "Firefox now automatically enables High Contrast Mode when \"Increase Contrast\" is checked on MacOS",
+      "sort_num": 0,
+      "tag": "New"
+    }
+  ],
   "product": "Firefox",
   "release_date": "2021-05-31",
   "slug": "firefox-91.0a1-nightly",
