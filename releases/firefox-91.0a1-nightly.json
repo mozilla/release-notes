@@ -15,6 +15,16 @@
       "note": "Firefox now automatically enables High Contrast Mode when \"Increase Contrast\" is checked on MacOS",
       "sort_num": 0,
       "tag": "New"
+    },
+    {
+      "bug": 1551302,
+      "created": "2021-06-10T07:41:01.020955+00:00",
+      "id": 788676,
+      "is_public": true,
+      "modified": "2021-06-10T07:41:01.020794+00:00",
+      "note": "The [Visual Viewport API](https://developer.mozilla.org/docs/Web/API/Visual_Viewport_API) is now supported on desktop platforms.",
+      "sort_num": 0,
+      "tag": "HTML5"
     }
   ],
   "product": "Firefox",
