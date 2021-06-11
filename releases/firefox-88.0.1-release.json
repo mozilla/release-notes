@@ -11,7 +11,7 @@
       "created": "2021-05-04T17:58:52.416914+00:00",
       "id": 788649,
       "is_public": true,
-      "modified": "2021-05-04T17:59:08.379149+00:00",
+      "modified": "2021-06-11T12:04:44.968334+00:00",
       "note": "Reference link to [88.0 release notes][0]\r\n\r\n[0]: https://www.mozilla.org/firefox/88.0/releasenotes/",
       "sort_num": 0,
       "tag": ""
@@ -21,7 +21,7 @@
       "created": "2021-05-03T18:13:57.213814+00:00",
       "id": 788646,
       "is_public": true,
-      "modified": "2021-05-04T18:02:15.974269+00:00",
+      "modified": "2021-06-11T12:04:37.257998+00:00",
       "note": "Resolved an issue caused by a recent Widevine plugin update which prevented some purchased video content from playing correctly ([bug 1705138][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1705138",
       "sort_num": 100,
       "tag": "Fixed"
@@ -31,7 +31,7 @@
       "created": "2021-05-04T19:09:41.595209+00:00",
       "id": 788650,
       "is_public": true,
-      "modified": "2021-05-04T19:09:41.595036+00:00",
+      "modified": "2021-06-11T12:04:31.846944+00:00",
       "note": "Fixed corruption of videos playing on Twitter or WebRTC calls on some Gen6 Intel graphics chipsets ([bug 1708937][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1708937",
       "sort_num": 20,
       "tag": "Fixed"
@@ -41,7 +41,7 @@
       "created": "2021-05-04T19:10:48.814737+00:00",
       "id": 788651,
       "is_public": true,
-      "modified": "2021-05-04T19:10:48.814534+00:00",
+      "modified": "2021-06-11T12:04:30.008906+00:00",
       "note": "Fixed menulists in Preferences being unreadable for users with High Contrast Mode enabled ([bug 1706496][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1706496",
       "sort_num": 10,
       "tag": "Fixed"
@@ -51,7 +51,7 @@
       "created": "2021-05-04T17:54:50.897552+00:00",
       "id": 788648,
       "is_public": true,
-      "modified": "2021-05-04T18:03:11.436204+00:00",
+      "modified": "2021-06-11T12:04:33.870314+00:00",
       "note": "Various stability and [security fixes][0].\r\n\r\n[0]: https://www.mozilla.org/security/advisories/mfsa2021-20/",
       "sort_num": 0,
       "tag": "Fixed"
