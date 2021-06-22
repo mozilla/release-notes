@@ -11,7 +11,7 @@
       "created": "2021-06-15T12:23:49.962089+00:00",
       "id": 788678,
       "is_public": true,
-      "modified": "2021-06-15T12:34:10.538074+00:00",
+      "modified": "2021-06-22T16:05:46.930721+00:00",
       "note": "Windows: Resolved an issue causing some screen readers to not interact correctly with Firefox anymore ([bug 1714212](https://bugzilla.mozilla.org/show_bug.cgi?id=1714212))",
       "sort_num": 0,
       "tag": "Fixed"
@@ -21,7 +21,7 @@
       "created": "2021-06-15T12:24:44.259951+00:00",
       "id": 788679,
       "is_public": true,
-      "modified": "2021-06-15T13:13:54.227761+00:00",
+      "modified": "2021-06-22T16:05:44.873826+00:00",
       "note": "Updated translations, including full Spanish (Mexico) localization and other improvements ([bug 1714946](https://bugzilla.mozilla.org/show_bug.cgi?id=1714946))",
       "sort_num": 0,
       "tag": "Fixed"
@@ -31,7 +31,7 @@
       "created": "2021-06-15T12:25:19.327306+00:00",
       "id": 788680,
       "is_public": true,
-      "modified": "2021-06-15T12:25:19.327150+00:00",
+      "modified": "2021-06-22T16:05:44.379256+00:00",
       "note": "Fix various font related regressions ([bug 1694174](https://bugzilla.mozilla.org/show_bug.cgi?id=1694174))",
       "sort_num": 0,
       "tag": "Fixed"
@@ -41,7 +41,7 @@
       "created": "2021-06-15T12:27:30.017180+00:00",
       "id": 788681,
       "is_public": true,
-      "modified": "2021-06-15T14:26:41.940603+00:00",
+      "modified": "2021-06-22T16:05:42.513973+00:00",
       "note": "Linux: Fix performance and stability regressions with WebRender ([bug 1715895](https://bugzilla.mozilla.org/show_bug.cgi?id=1715895), [bug 1715902](https://bugzilla.mozilla.org/show_bug.cgi?id=1715902))",
       "sort_num": 0,
       "tag": "Fixed"
@@ -51,7 +51,7 @@
       "created": "2021-06-15T12:32:24.087473+00:00",
       "id": 788682,
       "is_public": true,
-      "modified": "2021-06-15T12:32:24.087320+00:00",
+      "modified": "2021-06-22T16:05:41.898803+00:00",
       "note": "macOS: Fix screen flickering when scrolling a page on an external monitor ([bug 1715452](https://bugzilla.mozilla.org/show_bug.cgi?id=1715452))",
       "sort_num": 0,
       "tag": "Fixed"
@@ -61,7 +61,7 @@
       "created": "2021-06-15T12:33:55.777952+00:00",
       "id": 788683,
       "is_public": true,
-      "modified": "2021-06-15T12:36:51.753635+00:00",
+      "modified": "2021-06-22T16:05:41.442841+00:00",
       "note": "Enterprise: Fix for the `DisableDeveloperTools` policy not having effect anymore ([bug 1715777](https://bugzilla.mozilla.org/show_bug.cgi?id=1715777))",
       "sort_num": 0,
       "tag": "Fixed"
@@ -71,7 +71,7 @@
       "created": "2021-06-15T12:35:11.489690+00:00",
       "id": 788684,
       "is_public": true,
-      "modified": "2021-06-15T12:35:45.005211+00:00",
+      "modified": "2021-06-22T16:05:40.352252+00:00",
       "note": "Linux: Fix broken scrollbars on some GTK themes ([bug 1714103](https://bugzilla.mozilla.org/show_bug.cgi?id=1714103))",
       "sort_num": 0,
       "tag": "Fixed"
@@ -81,7 +81,7 @@
       "created": "2021-06-15T12:40:22.189063+00:00",
       "id": 788685,
       "is_public": true,
-      "modified": "2021-06-15T12:40:22.188911+00:00",
+      "modified": "2021-06-22T16:05:39.252799+00:00",
       "note": "Various stability and [security fixes](https://www.mozilla.org/security/advisories/mfsa2021-27/).",
       "sort_num": 0,
       "tag": "Fixed"
