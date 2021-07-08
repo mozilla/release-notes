@@ -98,6 +98,16 @@
     },
     {
       "bug": null,
+      "created": "2021-07-08T15:31:21.356454+00:00",
+      "id": 788696,
+      "is_public": true,
+      "modified": "2021-07-08T15:31:21.356301+00:00",
+      "note": "Support for Private Fields ([TC39 proposal][0], stage 3) is available in DevTools. The support includes: object inspection, autocompletion, expression evaluation, variable tooltips, and pretty printing ([bug][1])\r\n\r\n[0]: https://github.com/tc39/proposal-class-fields#private-fields\r\n[1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1650188",
+      "sort_num": 200,
+      "tag": "Developer"
+    },
+    {
+      "bug": null,
       "created": "2021-07-08T15:30:30.714973+00:00",
       "id": 788695,
       "is_public": true,
