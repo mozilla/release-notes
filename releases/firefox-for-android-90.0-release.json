@@ -28,11 +28,21 @@
     },
     {
       "bug": null,
+      "created": "2021-07-08T17:20:45.197538+00:00",
+      "id": 788704,
+      "is_public": true,
+      "modified": "2021-07-08T17:20:45.197380+00:00",
+      "note": "Users that need to import user Android certificates can do so through the [secret settings][0]\r\n\r\n[0]: https://github.com/mozilla-mobile/fenix/wiki/%22Secret-settings%22-debug-menu-instructions",
+      "sort_num": 300,
+      "tag": "New"
+    },
+    {
+      "bug": null,
       "created": "2021-07-08T17:18:46.751743+00:00",
       "id": 788701,
       "is_public": true,
-      "modified": "2021-07-08T17:18:46.751589+00:00",
-      "note": "Various stability and [security fixes][0]. \r\n\r\n[0]: https://www.mozilla.org/security/advisories/mfsa2021-23/",
+      "modified": "2021-07-08T17:29:30.696457+00:00",
+      "note": "Various stability and [security fixes][0]. \r\n\r\n[0]: https://www.mozilla.org/security/known-vulnerabilities/firefox/#firefox90",
       "sort_num": 0,
       "tag": "Fixed"
     }
