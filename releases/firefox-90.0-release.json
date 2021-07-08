@@ -98,12 +98,42 @@
     },
     {
       "bug": null,
+      "created": "2021-07-08T16:53:22.731448+00:00",
+      "id": 788698,
+      "is_public": true,
+      "modified": "2021-07-08T17:02:14.082526+00:00",
+      "note": "Support for [Fetch Metadata Request Headers][0], which allows web applications to better protect themselves and their users against various cross-origin threats.\r\n\r\n[0]: https://blog.mozilla.org/security/2021/07/12/firefox-90-supports-fetch-metadata-request-headers/",
+      "sort_num": 50,
+      "tag": "HTML5"
+    },
+    {
+      "bug": null,
+      "created": "2021-07-08T17:00:36.757950+00:00",
+      "id": 788699,
+      "is_public": true,
+      "modified": "2021-07-08T17:02:07.739101+00:00",
+      "note": "Added the ability to use client authentication certificates stored in hardware tokens or in Operating System storage.",
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": null,
       "created": "2021-07-08T15:31:21.356454+00:00",
       "id": 788696,
       "is_public": true,
       "modified": "2021-07-08T15:31:21.356301+00:00",
       "note": "Support for Private Fields ([TC39 proposal][0], stage 3) is available in DevTools. The support includes: object inspection, autocompletion, expression evaluation, variable tooltips, and pretty printing ([bug][1])\r\n\r\n[0]: https://github.com/tc39/proposal-class-fields#private-fields\r\n[1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1650188",
       "sort_num": 200,
+      "tag": "Developer"
+    },
+    {
+      "bug": null,
+      "created": "2021-07-08T16:51:14.697361+00:00",
+      "id": 788697,
+      "is_public": true,
+      "modified": "2021-07-08T16:51:14.697181+00:00",
+      "note": "The Network panel shows a preview of HTTP requests for fonts in the Response tab ([bug][0])\r\n\r\n[0]: https://bugzilla.mozilla.org/show_bug.cgi?id=872078\r\n\r\n![Network panel font preview screenshot][1]\r\n\r\n[1]: /media/img/firefox/releasenotes/note-images/devtools_network_font_preview.png",
+      "sort_num": 100,
       "tag": "Developer"
     },
     {
