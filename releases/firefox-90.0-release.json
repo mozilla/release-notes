@@ -15,6 +15,16 @@
       "note": "On Windows, [updates can now be applied in the background][0] while Firefox is not running.\r\n\r\n[0]: https://support.mozilla.org/kb/enable-background-updates-firefox-windows",
       "sort_num": 1000,
       "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2021-07-08T14:21:31.656189+00:00",
+      "id": 788687,
+      "is_public": true,
+      "modified": "2021-07-08T14:21:31.656033+00:00",
+      "note": "Firefox for Windows now offers a new page [about:third-party][0] to help identify compatibility issues caused by third-party applications\r\n\r\n[0]: https://support.mozilla.org/kb/identify-problems-caused-third-party-modules-firef",
+      "sort_num": 900,
+      "tag": "New"
     }
   ],
   "product": "Firefox",
