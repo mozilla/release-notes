@@ -25,6 +25,26 @@
       "note": "Firefox for Windows now offers a new page [about:third-party][0] to help identify compatibility issues caused by third-party applications\r\n\r\n[0]: https://support.mozilla.org/kb/identify-problems-caused-third-party-modules-firef",
       "sort_num": 900,
       "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2021-07-08T14:41:02.911616+00:00",
+      "id": 788688,
+      "is_public": true,
+      "modified": "2021-07-08T14:41:02.911427+00:00",
+      "note": "[Exceptions to HTTPS-Only mode][0] can be managed in about:preferences#privacy\r\n\r\n[0]: https://support.mozilla.org/kb/https-only-prefs",
+      "sort_num": 800,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2021-07-08T14:41:34.177150+00:00",
+      "id": 788689,
+      "is_public": true,
+      "modified": "2021-07-08T14:41:34.176995+00:00",
+      "note": "Print to PDF now produces working hyperlinks",
+      "sort_num": 700,
+      "tag": "New"
     }
   ],
   "product": "Firefox",
