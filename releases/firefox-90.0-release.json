@@ -45,6 +45,16 @@
       "note": "Print to PDF now produces working hyperlinks",
       "sort_num": 700,
       "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2021-07-08T14:51:48.681683+00:00",
+      "id": 788690,
+      "is_public": true,
+      "modified": "2021-07-08T14:57:41.139187+00:00",
+      "note": "[Version 2 of Firefox\u2019s SmartBlock feature][0] further improves private browsing. Third-party Facebook scripts are blocked to prevent you from being tracked, but are now automatically loaded \u201cjust in time\u201d if you decide to \u201cLog in with Facebook\u201d on any website.\r\n\r\n[0]: https://blog.mozilla.org/security/2021/07/13/smartblock-v2/",
+      "sort_num": 600,
+      "tag": "New"
     }
   ],
   "product": "Firefox",
