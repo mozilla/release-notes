@@ -55,6 +55,56 @@
       "note": "[Version 2 of Firefox\u2019s SmartBlock feature][0] further improves private browsing. Third-party Facebook scripts are blocked to prevent you from being tracked, but are now automatically loaded \u201cjust in time\u201d if you decide to \u201cLog in with Facebook\u201d on any website.\r\n\r\n[0]: https://blog.mozilla.org/security/2021/07/13/smartblock-v2/",
       "sort_num": 600,
       "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2021-07-08T15:28:45.232461+00:00",
+      "id": 788691,
+      "is_public": true,
+      "modified": "2021-07-08T15:29:00.665680+00:00",
+      "note": "The \"Open Image in New Tab\" context menu item now opens images and media in a background tab by default. [Learn more][0]\r\n\r\n[0]: https://support.mozilla.org/kb/tab-preferences-and-settings",
+      "sort_num": 500,
+      "tag": "Changed"
+    },
+    {
+      "bug": null,
+      "created": "2021-07-08T15:29:27.062702+00:00",
+      "id": 788692,
+      "is_public": true,
+      "modified": "2021-07-08T15:29:27.062534+00:00",
+      "note": "Most users without hardware accelerated WebRender will now be using software WebRender.",
+      "sort_num": 300,
+      "tag": "Changed"
+    },
+    {
+      "bug": null,
+      "created": "2021-07-08T15:29:44.545678+00:00",
+      "id": 788693,
+      "is_public": true,
+      "modified": "2021-07-08T15:29:44.545527+00:00",
+      "note": "Improved software WebRender performance",
+      "sort_num": 250,
+      "tag": "Changed"
+    },
+    {
+      "bug": null,
+      "created": "2021-07-08T15:30:00.629240+00:00",
+      "id": 788694,
+      "is_public": true,
+      "modified": "2021-07-08T15:30:00.629083+00:00",
+      "note": "FTP support has been removed",
+      "sort_num": 100,
+      "tag": "Changed"
+    },
+    {
+      "bug": null,
+      "created": "2021-07-08T15:30:30.714973+00:00",
+      "id": 788695,
+      "is_public": true,
+      "modified": "2021-07-08T15:30:30.714815+00:00",
+      "note": "Various bug fixes and new policies have been implemented in the latest version of Firefox. See more details in the [Firefox for Enterprise 90 Release Notes][0].\r\n\r\n[0]: https://support.mozilla.org/kb/firefox-enterprise-90-release-notes",
+      "sort_num": 0,
+      "tag": "Enterprise"
     }
   ],
   "product": "Firefox",
