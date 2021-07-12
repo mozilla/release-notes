@@ -8,22 +8,22 @@
   "notes": [
     {
       "bug": null,
+      "created": "2021-07-08T17:19:49.475564+00:00",
+      "id": 788703,
+      "is_public": true,
+      "modified": "2021-07-12T13:29:17.961640+00:00",
+      "note": "Firefox can now [save, manage, and auto-fill credit card information][0] for you, making shopping on Firefox more convenient.\r\n\r\n[0]: https://support.mozilla.org/kb/automatically-fill-credit-card-information-firefox",
+      "sort_num": 1000,
+      "tag": "New"
+    },
+    {
+      "bug": null,
       "created": "2021-07-08T17:19:30.762514+00:00",
       "id": 788702,
       "is_public": true,
       "modified": "2021-07-08T17:19:30.762352+00:00",
       "note": "Back/Forward Cache (aka BFCache) is now enabled for webpages that use unload event listeners, making the back and forward navigations faster on these pages.",
       "sort_num": 500,
-      "tag": "New"
-    },
-    {
-      "bug": null,
-      "created": "2021-07-08T17:19:49.475564+00:00",
-      "id": 788703,
-      "is_public": true,
-      "modified": "2021-07-08T17:20:09.698665+00:00",
-      "note": "Firefox can now [save, manage, and auto-fill credit card information][0] for you, making shopping on Firefox more convenient.\r\n\r\n[0]: https://support.mozilla.org/kb/automatically-fill-credit-card-information-firefox",
-      "sort_num": 400,
       "tag": "New"
     },
     {
