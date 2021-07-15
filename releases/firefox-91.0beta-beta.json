@@ -55,6 +55,16 @@
       "note": "The [Visual Viewport API](https://developer.mozilla.org/docs/Web/API/Visual_Viewport_API) is now supported on desktop platforms.",
       "sort_num": 0,
       "tag": "HTML5"
+    },
+    {
+      "bug": 1666247,
+      "created": "2021-07-15T16:44:41.188645+00:00",
+      "id": 788709,
+      "is_public": true,
+      "modified": "2021-07-15T16:45:16.945059+00:00",
+      "note": "The simplify page when printing feature is back! When printing, under *More settings > Format* select the *Simplified* option when available to get a clutter-free page.",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
