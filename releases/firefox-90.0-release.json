@@ -11,7 +11,7 @@
       "created": "2021-06-01T16:31:40.183401+00:00",
       "id": 788673,
       "is_public": true,
-      "modified": "2021-07-12T16:36:00.666009+00:00",
+      "modified": "2021-07-19T10:28:23.663013+00:00",
       "note": "On Windows, [updates can now be applied in the background][0] while Firefox is not running.\r\n\r\n[0]: https://support.mozilla.org/kb/enable-background-updates-firefox-windows",
       "sort_num": 1000,
       "tag": "New"
@@ -21,7 +21,7 @@
       "created": "2021-07-08T14:21:31.656189+00:00",
       "id": 788687,
       "is_public": true,
-      "modified": "2021-07-13T17:46:25.162945+00:00",
+      "modified": "2021-07-19T10:28:25.164999+00:00",
       "note": "Firefox for Windows now offers a new page [about:third-party][0] to help identify compatibility issues caused by third-party applications\r\n\r\n[0]: https://support.mozilla.org/kb/identify-problems-third-party-modules-firefox-windows",
       "sort_num": 900,
       "tag": "New"
@@ -31,7 +31,7 @@
       "created": "2021-07-08T14:41:02.911616+00:00",
       "id": 788688,
       "is_public": true,
-      "modified": "2021-07-08T14:41:02.911427+00:00",
+      "modified": "2021-07-19T10:28:25.785871+00:00",
       "note": "[Exceptions to HTTPS-Only mode][0] can be managed in about:preferences#privacy\r\n\r\n[0]: https://support.mozilla.org/kb/https-only-prefs",
       "sort_num": 800,
       "tag": "New"
@@ -41,7 +41,7 @@
       "created": "2021-07-08T14:41:34.177150+00:00",
       "id": 788689,
       "is_public": true,
-      "modified": "2021-07-08T14:41:34.176995+00:00",
+      "modified": "2021-07-19T10:28:26.404053+00:00",
       "note": "Print to PDF now produces working hyperlinks",
       "sort_num": 700,
       "tag": "New"
@@ -51,7 +51,7 @@
       "created": "2021-07-08T14:51:48.681683+00:00",
       "id": 788690,
       "is_public": true,
-      "modified": "2021-07-08T14:57:41.139187+00:00",
+      "modified": "2021-07-19T10:28:26.998098+00:00",
       "note": "[Version 2 of Firefox\u2019s SmartBlock feature][0] further improves private browsing. Third-party Facebook scripts are blocked to prevent you from being tracked, but are now automatically loaded \u201cjust in time\u201d if you decide to \u201cLog in with Facebook\u201d on any website.\r\n\r\n[0]: https://blog.mozilla.org/security/2021/07/13/smartblock-v2/",
       "sort_num": 600,
       "tag": "New"
@@ -61,7 +61,7 @@
       "created": "2021-07-08T15:28:45.232461+00:00",
       "id": 788691,
       "is_public": true,
-      "modified": "2021-07-08T15:29:00.665680+00:00",
+      "modified": "2021-07-19T10:28:28.334272+00:00",
       "note": "The \"Open Image in New Tab\" context menu item now opens images and media in a background tab by default. [Learn more][0]\r\n\r\n[0]: https://support.mozilla.org/kb/tab-preferences-and-settings",
       "sort_num": 500,
       "tag": "Changed"
@@ -71,7 +71,7 @@
       "created": "2021-07-08T15:29:27.062702+00:00",
       "id": 788692,
       "is_public": true,
-      "modified": "2021-07-08T15:29:27.062534+00:00",
+      "modified": "2021-07-19T10:28:32.382103+00:00",
       "note": "Most users without hardware accelerated WebRender will now be using software WebRender.",
       "sort_num": 300,
       "tag": "Changed"
@@ -81,7 +81,7 @@
       "created": "2021-07-08T15:29:44.545678+00:00",
       "id": 788693,
       "is_public": true,
-      "modified": "2021-07-08T15:29:44.545527+00:00",
+      "modified": "2021-07-19T10:28:32.930529+00:00",
       "note": "Improved software WebRender performance",
       "sort_num": 250,
       "tag": "Changed"
@@ -91,7 +91,7 @@
       "created": "2021-07-08T15:30:00.629240+00:00",
       "id": 788694,
       "is_public": true,
-      "modified": "2021-07-08T15:30:00.629083+00:00",
+      "modified": "2021-07-19T10:28:33.542206+00:00",
       "note": "FTP support has been removed",
       "sort_num": 100,
       "tag": "Changed"
@@ -101,7 +101,7 @@
       "created": "2021-07-08T16:53:22.731448+00:00",
       "id": 788698,
       "is_public": true,
-      "modified": "2021-07-08T17:02:14.082526+00:00",
+      "modified": "2021-07-19T10:28:37.646871+00:00",
       "note": "Support for [Fetch Metadata Request Headers][0], which allows web applications to better protect themselves and their users against various cross-origin threats.\r\n\r\n[0]: https://blog.mozilla.org/security/2021/07/12/firefox-90-supports-fetch-metadata-request-headers/",
       "sort_num": 50,
       "tag": "HTML5"
@@ -111,7 +111,7 @@
       "created": "2021-07-08T17:00:36.757950+00:00",
       "id": 788699,
       "is_public": true,
-      "modified": "2021-07-08T17:02:07.739101+00:00",
+      "modified": "2021-07-19T10:28:21.457716+00:00",
       "note": "Added the ability to use client authentication certificates stored in hardware tokens or in Operating System storage.",
       "sort_num": 0,
       "tag": "HTML5"
@@ -121,7 +121,7 @@
       "created": "2021-07-08T15:31:21.356454+00:00",
       "id": 788696,
       "is_public": true,
-      "modified": "2021-07-08T15:31:21.356301+00:00",
+      "modified": "2021-07-19T10:28:34.756560+00:00",
       "note": "Support for Private Fields ([TC39 proposal][0], stage 3) is available in DevTools. The support includes: object inspection, autocompletion, expression evaluation, variable tooltips, and pretty printing ([bug][1])\r\n\r\n[0]: https://github.com/tc39/proposal-class-fields#private-fields\r\n[1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1650188",
       "sort_num": 200,
       "tag": "Developer"
@@ -131,7 +131,7 @@
       "created": "2021-07-08T16:51:14.697361+00:00",
       "id": 788697,
       "is_public": true,
-      "modified": "2021-07-08T16:51:14.697181+00:00",
+      "modified": "2021-07-19T10:28:36.347702+00:00",
       "note": "The Network panel shows a preview of HTTP requests for fonts in the Response tab ([bug][0])\r\n\r\n[0]: https://bugzilla.mozilla.org/show_bug.cgi?id=872078\r\n\r\n![Network panel font preview screenshot][1]\r\n\r\n[1]: /media/img/firefox/releasenotes/note-images/devtools_network_font_preview.png",
       "sort_num": 100,
       "tag": "Developer"
@@ -141,7 +141,7 @@
       "created": "2021-07-08T15:30:30.714973+00:00",
       "id": 788695,
       "is_public": true,
-      "modified": "2021-07-08T15:30:30.714815+00:00",
+      "modified": "2021-07-19T10:28:34.149784+00:00",
       "note": "Various bug fixes and new policies have been implemented in the latest version of Firefox. See more details in the [Firefox for Enterprise 90 Release Notes][0].\r\n\r\n[0]: https://support.mozilla.org/kb/firefox-enterprise-90-release-notes",
       "sort_num": 0,
       "tag": "Enterprise"
@@ -151,7 +151,7 @@
       "created": "2021-07-08T17:10:10.661306+00:00",
       "id": 788700,
       "is_public": true,
-      "modified": "2021-07-13T13:10:29.089201+00:00",
+      "modified": "2021-07-19T10:28:20.028109+00:00",
       "note": "Various [security fixes][0]\r\n\r\n[0]: https://www.mozilla.org/security/advisories/mfsa2021-28/",
       "sort_num": 0,
       "tag": "Fixed"
@@ -161,7 +161,7 @@
       "created": "2021-07-19T08:03:20.100378+00:00",
       "id": 788710,
       "is_public": true,
-      "modified": "2021-07-19T08:03:20.100211+00:00",
+      "modified": "2021-07-19T10:29:31.397652+00:00",
       "note": "Printing a page with scaling may result in truncated output ([bug 1720621][0])\r\n\r\n[0]: https://bugzilla.mozilla.org/show_bug.cgi?id=1720621",
       "sort_num": 0,
       "tag": "Known"
