@@ -27,6 +27,16 @@
       "tag": "Fixed"
     },
     {
+      "bug": 1720079,
+      "created": "2021-07-19T12:02:07.572955+00:00",
+      "id": 788713,
+      "is_public": true,
+      "modified": "2021-07-19T12:02:07.572797+00:00",
+      "note": "Fixed busy looping processing some HTTP3 responses",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
       "bug": 1720621,
       "created": "2021-07-19T08:03:20.100378+00:00",
       "id": 788710,
