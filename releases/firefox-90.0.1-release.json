@@ -31,8 +31,28 @@
       "created": "2021-07-19T12:02:07.572955+00:00",
       "id": 788713,
       "is_public": true,
-      "modified": "2021-07-19T12:02:07.572797+00:00",
-      "note": "Fixed busy looping processing some HTTP3 responses",
+      "modified": "2021-07-19T12:04:01.709234+00:00",
+      "note": "Fixed busy looping processing some HTTP3 responses ([bug 1720079][0])\r\n\r\n[0]: https://bugzilla.mozilla.org/show_bug.cgi?id=1720079",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1715325,
+      "created": "2021-07-19T12:03:32.403484+00:00",
+      "id": 788714,
+      "is_public": true,
+      "modified": "2021-07-19T12:03:32.403333+00:00",
+      "note": "Fixed transient errors authenticating with some smart cards ([bug 1715325][0])\r\n\r\n[0]: https://bugzilla.mozilla.org/show_bug.cgi?id=1715325",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1707057,
+      "created": "2021-07-19T12:10:16.370718+00:00",
+      "id": 788715,
+      "is_public": true,
+      "modified": "2021-07-19T12:10:16.370556+00:00",
+      "note": "Fixed a rare crash on shutdown ([bug 1707057][0])\r\n\r\n[0]: https://bugzilla.mozilla.org/show_bug.cgi?id=1707057",
       "sort_num": 0,
       "tag": "Fixed"
     },
