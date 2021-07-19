@@ -57,6 +57,16 @@
       "tag": "Fixed"
     },
     {
+      "bug": 1717894,
+      "created": "2021-07-19T12:14:34.978675+00:00",
+      "id": 788716,
+      "is_public": true,
+      "modified": "2021-07-19T12:14:34.978518+00:00",
+      "note": "Fixed a race on startup that caused about:support to end up empty after upgrade ([bug 1717894][0])\r\n\r\n[0]: https://bugzilla.mozilla.org/show_bug.cgi?id=1717894",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
       "bug": 1720621,
       "created": "2021-07-19T08:03:20.100378+00:00",
       "id": 788710,
