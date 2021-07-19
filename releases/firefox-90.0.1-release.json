@@ -17,6 +17,16 @@
       "tag": ""
     },
     {
+      "bug": 1720696,
+      "created": "2021-07-19T10:41:18.193894+00:00",
+      "id": 788712,
+      "is_public": true,
+      "modified": "2021-07-19T10:41:18.193740+00:00",
+      "note": "Fixed a crash when using some accessibility clients on Windows ([bug 1720696][0])\r\n\r\n[0]: https://bugzilla.mozilla.org/show_bug.cgi?id=1720696",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
       "bug": 1720621,
       "created": "2021-07-19T08:03:20.100378+00:00",
       "id": 788710,
