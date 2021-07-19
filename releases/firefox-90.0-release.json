@@ -155,6 +155,16 @@
       "note": "Various [security fixes][0]\r\n\r\n[0]: https://www.mozilla.org/security/advisories/mfsa2021-28/",
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": 1720621,
+      "created": "2021-07-19T08:03:20.100378+00:00",
+      "id": 788710,
+      "is_public": true,
+      "modified": "2021-07-19T08:03:20.100211+00:00",
+      "note": "Printing a page with scaling may result in truncated output ([bug 1720621][0])\r\n\r\n[0]: https://bugzilla.mozilla.org/show_bug.cgi?id=1720621",
+      "sort_num": 0,
+      "tag": "Known"
     }
   ],
   "product": "Firefox",
