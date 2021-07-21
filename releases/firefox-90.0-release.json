@@ -159,9 +159,17 @@
     {
       "bug": 1720621,
       "created": "2021-07-19T08:03:20.100378+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": false,
+        "product": "Firefox",
+        "slug": "firefox-90.0.2-release",
+        "title": "Firefox 90.0.2 Release",
+        "version": "90.0.2"
+      },
       "id": 788710,
       "is_public": true,
-      "modified": "2021-07-19T10:29:31.397652+00:00",
+      "modified": "2021-07-21T18:09:18.903019+00:00",
       "note": "Printing a page with scaling may result in truncated output ([bug 1720621][0])\r\n\r\n[0]: https://bugzilla.mozilla.org/show_bug.cgi?id=1720621",
       "sort_num": 0,
       "tag": "Known"

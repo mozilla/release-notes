@@ -11,7 +11,7 @@
       "created": "2021-07-19T10:29:10.192485+00:00",
       "id": 788711,
       "is_public": true,
-      "modified": "2021-07-19T10:29:10.192331+00:00",
+      "modified": "2021-07-21T18:09:21.789512+00:00",
       "note": "Reference link to [90.0 release notes][0]\r\n\r\n[0]: https://www.mozilla.org/firefox/90.0/releasenotes/",
       "sort_num": 0,
       "tag": ""
@@ -21,7 +21,7 @@
       "created": "2021-07-19T10:41:18.193894+00:00",
       "id": 788712,
       "is_public": true,
-      "modified": "2021-07-19T10:41:18.193740+00:00",
+      "modified": "2021-07-21T18:09:01.160225+00:00",
       "note": "Fixed a crash when using some accessibility clients on Windows ([bug 1720696][0])\r\n\r\n[0]: https://bugzilla.mozilla.org/show_bug.cgi?id=1720696",
       "sort_num": 0,
       "tag": "Fixed"
@@ -31,7 +31,7 @@
       "created": "2021-07-19T12:02:07.572955+00:00",
       "id": 788713,
       "is_public": true,
-      "modified": "2021-07-19T12:04:01.709234+00:00",
+      "modified": "2021-07-21T18:08:58.246551+00:00",
       "note": "Fixed busy looping processing some HTTP3 responses ([bug 1720079][0])\r\n\r\n[0]: https://bugzilla.mozilla.org/show_bug.cgi?id=1720079",
       "sort_num": 0,
       "tag": "Fixed"
@@ -41,7 +41,7 @@
       "created": "2021-07-19T12:03:32.403484+00:00",
       "id": 788714,
       "is_public": true,
-      "modified": "2021-07-19T12:03:32.403333+00:00",
+      "modified": "2021-07-21T18:08:56.408902+00:00",
       "note": "Fixed transient errors authenticating with some smart cards ([bug 1715325][0])\r\n\r\n[0]: https://bugzilla.mozilla.org/show_bug.cgi?id=1715325",
       "sort_num": 0,
       "tag": "Fixed"
@@ -51,7 +51,7 @@
       "created": "2021-07-19T12:10:16.370718+00:00",
       "id": 788715,
       "is_public": true,
-      "modified": "2021-07-19T12:10:16.370556+00:00",
+      "modified": "2021-07-21T18:08:54.618459+00:00",
       "note": "Fixed a rare crash on shutdown ([bug 1707057][0])\r\n\r\n[0]: https://bugzilla.mozilla.org/show_bug.cgi?id=1707057",
       "sort_num": 0,
       "tag": "Fixed"
@@ -61,7 +61,7 @@
       "created": "2021-07-19T12:14:34.978675+00:00",
       "id": 788716,
       "is_public": true,
-      "modified": "2021-07-19T12:14:34.978518+00:00",
+      "modified": "2021-07-21T18:08:52.839979+00:00",
       "note": "Fixed a race on startup that caused about:support to end up empty after upgrade ([bug 1717894][0])\r\n\r\n[0]: https://bugzilla.mozilla.org/show_bug.cgi?id=1717894",
       "sort_num": 0,
       "tag": "Fixed"
@@ -69,9 +69,17 @@
     {
       "bug": 1720621,
       "created": "2021-07-19T08:03:20.100378+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": false,
+        "product": "Firefox",
+        "slug": "firefox-90.0.2-release",
+        "title": "Firefox 90.0.2 Release",
+        "version": "90.0.2"
+      },
       "id": 788710,
       "is_public": true,
-      "modified": "2021-07-19T10:29:31.397652+00:00",
+      "modified": "2021-07-21T18:09:18.903019+00:00",
       "note": "Printing a page with scaling may result in truncated output ([bug 1720621][0])\r\n\r\n[0]: https://bugzilla.mozilla.org/show_bug.cgi?id=1720621",
       "sort_num": 0,
       "tag": "Known"
