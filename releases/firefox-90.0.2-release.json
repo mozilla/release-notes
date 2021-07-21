@@ -15,6 +15,36 @@
       "note": "Reference link to [90.0.1 release notes][0]\r\n\r\n[0]: https://www.mozilla.org/firefox/90.0.1/releasenotes/",
       "sort_num": 0,
       "tag": ""
+    },
+    {
+      "bug": 1713036,
+      "created": "2021-07-21T18:15:50.302393+00:00",
+      "id": 788721,
+      "is_public": true,
+      "modified": "2021-07-21T18:15:50.302237+00:00",
+      "note": "Updates to support DoH Canada rollout",
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
+      "bug": 1720621,
+      "created": "2021-07-21T18:11:30.223928+00:00",
+      "id": 788719,
+      "is_public": true,
+      "modified": "2021-07-21T18:14:53.988055+00:00",
+      "note": "Fixed truncated output when printing ([bug 1720621][0])\r\n\r\n[0]: https://bugzilla.mozilla.org/show_bug.cgi?id=1720621",
+      "sort_num": 1000,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1720441,
+      "created": "2021-07-21T18:14:05.869159+00:00",
+      "id": 788720,
+      "is_public": true,
+      "modified": "2021-07-21T18:14:05.869007+00:00",
+      "note": "Fixed menu styling on some Gtk themes ([bug 1720441][0], [bug 1720874][1])\r\n\r\n[0]: https://bugzilla.mozilla.org/show_bug.cgi?id=1720441\r\n[1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1720874",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
