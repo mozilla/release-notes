@@ -5,7 +5,28 @@
   "created": "2021-08-04T15:52:02.218958+00:00",
   "is_public": false,
   "modified": "2021-08-04T15:52:31.092749+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": 1706133,
+      "created": "2021-08-04T16:55:12.402128+00:00",
+      "id": 788723,
+      "is_public": true,
+      "modified": "2021-08-04T16:55:12.401970+00:00",
+      "note": "Firefox PDF viewer now supports filling more forms (XFA-based forms, used by multiple governments and banks).",
+      "sort_num": 10,
+      "tag": "New"
+    },
+    {
+      "bug": 1721257,
+      "created": "2021-08-04T17:00:39.211295+00:00",
+      "id": 788724,
+      "is_public": true,
+      "modified": "2021-08-04T17:01:17.742350+00:00",
+      "note": "Support for images containing ICC v4 profiles is enabled on macOS.",
+      "sort_num": 0,
+      "tag": "New"
+    }
+  ],
   "product": "Firefox",
   "release_date": "2021-08-10",
   "slug": "firefox-92.0beta-beta",
