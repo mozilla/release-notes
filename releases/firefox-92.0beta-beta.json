@@ -25,6 +25,16 @@
       "note": "Support for images containing ICC v4 profiles is enabled on macOS.",
       "sort_num": 0,
       "tag": "New"
+    },
+    {
+      "bug": 1512851,
+      "created": "2021-08-05T19:20:04.628900+00:00",
+      "id": 788725,
+      "is_public": true,
+      "modified": "2021-08-05T19:20:04.628741+00:00",
+      "note": "Mac users can now access the MacOS share options from the Firefox File menu.",
+      "sort_num": 0,
+      "tag": "New"
     }
   ],
   "product": "Firefox",
