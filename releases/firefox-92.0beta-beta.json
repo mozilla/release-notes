@@ -7,23 +7,23 @@
   "modified": "2021-08-04T15:52:31.092749+00:00",
   "notes": [
     {
+      "bug": 1682995,
+      "created": "2021-02-22T11:45:51.263434+00:00",
+      "id": 788577,
+      "is_public": true,
+      "modified": "2021-08-05T19:26:12.687219+00:00",
+      "note": "Firefox now supports the new AVIF image format, which is based on the modern and royalty free AV1 video codec. It offers significant bandwidth savings for sites compared to existing image formats. Additionally it supports transparency and other advanced features.",
+      "sort_num": 40,
+      "tag": "New"
+    },
+    {
       "bug": 1706133,
       "created": "2021-08-04T16:55:12.402128+00:00",
       "id": 788723,
       "is_public": true,
-      "modified": "2021-08-04T16:55:12.401970+00:00",
+      "modified": "2021-08-05T19:26:17.651390+00:00",
       "note": "Firefox PDF viewer now supports filling more forms (XFA-based forms, used by multiple governments and banks).",
-      "sort_num": 10,
-      "tag": "New"
-    },
-    {
-      "bug": 1721257,
-      "created": "2021-08-04T17:00:39.211295+00:00",
-      "id": 788724,
-      "is_public": true,
-      "modified": "2021-08-04T17:01:17.742350+00:00",
-      "note": "Support for images containing ICC v4 profiles is enabled on macOS.",
-      "sort_num": 0,
+      "sort_num": 30,
       "tag": "New"
     },
     {
@@ -31,10 +31,40 @@
       "created": "2021-08-05T19:20:04.628900+00:00",
       "id": 788725,
       "is_public": true,
-      "modified": "2021-08-05T19:20:04.628741+00:00",
+      "modified": "2021-08-05T19:26:21.940512+00:00",
       "note": "Mac users can now access the MacOS share options from the Firefox File menu.",
-      "sort_num": 0,
+      "sort_num": 20,
       "tag": "New"
+    },
+    {
+      "bug": 1721257,
+      "created": "2021-08-04T17:00:39.211295+00:00",
+      "id": 788724,
+      "is_public": true,
+      "modified": "2021-08-05T19:26:26.179254+00:00",
+      "note": "Support for images containing ICC v4 profiles is enabled on macOS.",
+      "sort_num": 10,
+      "tag": "New"
+    },
+    {
+      "bug": 1703051,
+      "created": "2021-08-05T19:21:59.914228+00:00",
+      "id": 788726,
+      "is_public": true,
+      "modified": "2021-08-05T19:21:59.914073+00:00",
+      "note": "The bookmark toolbar menus now follow Firefox visual styles.",
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
+      "bug": 1721632,
+      "created": "2021-08-05T19:22:45.354909+00:00",
+      "id": 788727,
+      "is_public": true,
+      "modified": "2021-08-05T19:24:48.636754+00:00",
+      "note": "Certificate error pages have been redesigned for a better user experience.",
+      "sort_num": 0,
+      "tag": "Changed"
     }
   ],
   "product": "Firefox",
