@@ -17,6 +17,16 @@
       "tag": "New"
     },
     {
+      "bug": 1675349,
+      "created": "2020-11-16T09:25:58.620767+00:00",
+      "id": 788516,
+      "is_public": true,
+      "modified": "2021-08-09T15:24:13.739217+00:00",
+      "note": "Firefox [no longer supports Adobe Flash][0]. There is no setting available to re-enable Flash support.\r\n\r\n[0]: https://support.mozilla.org/kb/end-support-adobe-flash",
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
       "bug": null,
       "created": "2021-08-09T13:27:55.793504+00:00",
       "id": 788732,
