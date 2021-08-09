@@ -17,22 +17,32 @@
       "tag": "New"
     },
     {
+      "bug": 1716360,
+      "created": "2021-07-13T07:46:45.812132+00:00",
+      "id": 788706,
+      "is_public": true,
+      "modified": "2021-08-09T13:01:56.457640+00:00",
+      "note": "Firefox now supports logging into Microsoft, work, and school accounts using Windows single sign-on. [Learn more][0]\r\n\r\n[0]: https://support.mozilla.org/kb/windows-sso",
+      "sort_num": 900,
+      "tag": "New"
+    },
+    {
+      "bug": 1666247,
+      "created": "2021-07-15T16:44:41.188645+00:00",
+      "id": 788709,
+      "is_public": true,
+      "modified": "2021-08-09T13:02:44.579090+00:00",
+      "note": "The simplify page when printing feature is back! When printing, under More settings > Format select the *Simplified* option when available to get a clutter-free page. [Learn more][0]\r\n\r\n[0]: https://support.mozilla.org/kb/print-friendly-pages-firefox-clutter-free-printing",
+      "sort_num": 800,
+      "tag": "New"
+    },
+    {
       "bug": 1713015,
       "created": "2021-06-07T17:04:32.748194+00:00",
       "id": 788675,
       "is_public": true,
       "modified": "2021-08-09T12:44:00.912580+00:00",
       "note": "Firefox now automatically enables High Contrast Mode when \"Increase Contrast\" is checked on MacOS",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
-      "bug": 1716360,
-      "created": "2021-07-13T07:46:45.812132+00:00",
-      "id": 788706,
-      "is_public": true,
-      "modified": "2021-08-09T12:44:00.912580+00:00",
-      "note": "Firefox now supports using logging into Microsoft, work and school sites using Windows SSO.",
       "sort_num": 0,
       "tag": "New"
     },
@@ -75,16 +85,6 @@
       "note": "The [Visual Viewport API](https://developer.mozilla.org/docs/Web/API/Visual_Viewport_API) is now supported on desktop platforms.",
       "sort_num": 0,
       "tag": "HTML5"
-    },
-    {
-      "bug": 1666247,
-      "created": "2021-07-15T16:44:41.188645+00:00",
-      "id": 788709,
-      "is_public": true,
-      "modified": "2021-08-09T12:44:00.912580+00:00",
-      "note": "The simplify page when printing feature is back! When printing, under *More settings > Format* select the *Simplified* option when available to get a clutter-free page.",
-      "sort_num": 0,
-      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
