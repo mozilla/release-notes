@@ -4,14 +4,14 @@
   "channel": "Release",
   "created": "2021-07-08T17:18:09.872586+00:00",
   "is_public": true,
-  "modified": "2021-07-13T12:49:04.658777+00:00",
+  "modified": "2021-08-10T00:31:54.789269+00:00",
   "notes": [
     {
       "bug": null,
       "created": "2021-07-08T17:19:49.475564+00:00",
       "id": 788703,
       "is_public": true,
-      "modified": "2021-08-10T00:30:32.061360+00:00",
+      "modified": "2021-08-10T00:31:19.729795+00:00",
       "note": "Firefox can now [save, manage, and auto-fill credit card information][0] for you, making shopping on Firefox more convenient.\r\n\r\n[0]: https://support.mozilla.org/kb/automatically-fill-credit-card-information-firefox",
       "sort_num": 1000,
       "tag": "New"
@@ -21,7 +21,7 @@
       "created": "2021-07-08T17:19:30.762514+00:00",
       "id": 788702,
       "is_public": true,
-      "modified": "2021-08-10T00:30:32.061360+00:00",
+      "modified": "2021-08-10T00:31:20.755912+00:00",
       "note": "Back/Forward Cache (aka BFCache) is now enabled for webpages that use unload event listeners, making the back and forward navigations faster on these pages.",
       "sort_num": 500,
       "tag": "New"
@@ -31,7 +31,7 @@
       "created": "2021-07-08T17:20:45.197538+00:00",
       "id": 788704,
       "is_public": true,
-      "modified": "2021-08-10T00:30:32.061360+00:00",
+      "modified": "2021-08-10T00:31:22.706798+00:00",
       "note": "Users that need to import user Android certificates can do so through the [secret settings][0]\r\n\r\n[0]: https://github.com/mozilla-mobile/fenix/wiki/%22Secret-settings%22-debug-menu-instructions",
       "sort_num": 300,
       "tag": "New"
@@ -41,7 +41,7 @@
       "created": "2021-07-08T17:18:46.751743+00:00",
       "id": 788701,
       "is_public": true,
-      "modified": "2021-08-10T00:30:32.061360+00:00",
+      "modified": "2021-08-10T00:31:21.871183+00:00",
       "note": "Various stability and [security fixes][0]. \r\n\r\n[0]: https://www.mozilla.org/security/advisories/mfsa2021-28/",
       "sort_num": 0,
       "tag": "Fixed"
@@ -51,7 +51,7 @@
   "release_date": "2021-07-13",
   "slug": "firefox-for-android-90.0-release",
   "system_requirements": "## Operating systems\r\n - Android 5.0 or newer",
-  "text": "We'd like to extend a special thank you to [all of the new Mozillians][0] who contributed to this release of Firefox!\r\n\r\n[0]: https://blog.mozilla.org/community/",
+  "text": "We'd like to extend a special thank you to all of the new Mozillians who contributed to this release of Firefox!",
   "title": "Firefox for Android 90.0 Release",
   "version": "90.0"
 }
