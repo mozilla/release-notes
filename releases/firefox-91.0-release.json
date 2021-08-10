@@ -77,6 +77,16 @@
       "tag": "New"
     },
     {
+      "bug": 1714467,
+      "created": "2021-08-10T00:24:30.196906+00:00",
+      "id": 788733,
+      "is_public": true,
+      "modified": "2021-08-10T00:24:30.196749+00:00",
+      "note": "Firefox now does catch-up paints for almost all user interactions, enabling a 10-20% improvement in response time to most user interactions.",
+      "sort_num": 300,
+      "tag": "New"
+    },
+    {
       "bug": 1551302,
       "created": "2021-06-10T07:41:01.020955+00:00",
       "id": 788676,
@@ -101,8 +111,8 @@
       "created": "2021-08-09T13:11:43.925269+00:00",
       "id": 788730,
       "is_public": true,
-      "modified": "2021-08-09T13:14:01.066745+00:00",
-      "note": "Various [security fixes][0]\r\n\r\n[0]: https://www.mozilla.org/security/known-vulnerabilities/firefox/#firefox91",
+      "modified": "2021-08-10T00:22:57.622903+00:00",
+      "note": "Various [security fixes][0]\r\n\r\n[0]: https://www.mozilla.org/security/advisories/mfsa2021-33/",
       "sort_num": 0,
       "tag": "Fixed"
     }
