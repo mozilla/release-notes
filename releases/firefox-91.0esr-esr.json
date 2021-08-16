@@ -35,6 +35,16 @@
       "note": "Various bug fixes and new policies have been implemented in the latest version of Firefox. See more details in the [Firefox for Enterprise 91 Release Notes][0].\r\n\r\n[0]: https://support.mozilla.org/kb/firefox-enterprise-91-release-notes",
       "sort_num": 0,
       "tag": "Enterprise"
+    },
+    {
+      "bug": 1704404,
+      "created": "2021-08-16T21:09:03.532579+00:00",
+      "id": 788741,
+      "is_public": true,
+      "modified": "2021-08-16T21:09:03.532420+00:00",
+      "note": "Fixed an issue causing buttons on the tab bar to be resized when loading certain websites (bug 1704404)",
+      "sort_num": 40,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",

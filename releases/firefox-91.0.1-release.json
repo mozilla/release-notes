@@ -7,6 +7,16 @@
   "modified": "2021-08-16T20:19:28.014927+00:00",
   "notes": [
     {
+      "bug": 1704404,
+      "created": "2021-08-16T21:09:03.532579+00:00",
+      "id": 788741,
+      "is_public": true,
+      "modified": "2021-08-16T21:09:03.532420+00:00",
+      "note": "Fixed an issue causing buttons on the tab bar to be resized when loading certain websites (bug 1704404)",
+      "sort_num": 40,
+      "tag": "Fixed"
+    },
+    {
       "bug": null,
       "created": "2021-08-16T20:19:20.113419+00:00",
       "id": 788740,
