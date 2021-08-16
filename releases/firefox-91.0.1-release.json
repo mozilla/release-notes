@@ -7,11 +7,21 @@
   "modified": "2021-08-16T20:19:28.014927+00:00",
   "notes": [
     {
+      "bug": null,
+      "created": "2021-08-16T21:27:32.863694+00:00",
+      "id": 788744,
+      "is_public": true,
+      "modified": "2021-08-16T21:29:04.195605+00:00",
+      "note": "Reference link to [91.0 release notes][0]\r\n\r\n[0]: https://www.mozilla.org/firefox/91.0/releasenotes/",
+      "sort_num": 0,
+      "tag": ""
+    },
+    {
       "bug": 1704404,
       "created": "2021-08-16T21:09:03.532579+00:00",
       "id": 788741,
       "is_public": true,
-      "modified": "2021-08-16T21:09:03.532420+00:00",
+      "modified": "2021-08-16T21:22:20.656273+00:00",
       "note": "Fixed an issue causing buttons on the tab bar to be resized when loading certain websites (bug 1704404)",
       "sort_num": 40,
       "tag": "Fixed"
