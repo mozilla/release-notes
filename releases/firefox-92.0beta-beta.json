@@ -7,6 +7,16 @@
   "modified": "2021-08-10T15:21:59.865139+00:00",
   "notes": [
     {
+      "bug": 1721132,
+      "created": "2021-08-20T18:25:16.880400+00:00",
+      "id": 788746,
+      "is_public": true,
+      "modified": "2021-08-20T18:25:16.880243+00:00",
+      "note": "Firefox now supports automatically performing HTTPS upgrades when HTTPS RR is available and using HTTPS RR as Alt-Svc headers.",
+      "sort_num": 50,
+      "tag": "New"
+    },
+    {
       "bug": 1682995,
       "created": "2021-02-22T11:45:51.263434+00:00",
       "id": 788577,
