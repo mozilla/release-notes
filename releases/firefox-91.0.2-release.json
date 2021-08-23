@@ -1,0 +1,47 @@
+{
+  "bug_list": "",
+  "bug_search_url": "",
+  "channel": "Release",
+  "created": "2021-08-23T15:13:23.411828+00:00",
+  "is_public": false,
+  "modified": "2021-08-23T15:13:35.750352+00:00",
+  "notes": [
+    {
+      "bug": null,
+      "created": "2021-08-23T15:13:39.893027+00:00",
+      "id": 788747,
+      "is_public": true,
+      "modified": "2021-08-23T15:14:01.193514+00:00",
+      "note": "Reference link to [91.0.1 release notes][0]\r\n\r\n[0]: https://www.mozilla.org/firefox/91.0.1/releasenotes/",
+      "sort_num": 0,
+      "tag": ""
+    },
+    {
+      "bug": 1726606,
+      "created": "2021-08-23T15:18:43.102182+00:00",
+      "id": 788749,
+      "is_public": true,
+      "modified": "2021-08-23T15:18:43.102030+00:00",
+      "note": "High Contrast Mode is no longer enabled when \"Increase Contrast\" is checked in macOS settings ([bug 1726606][0])\r\n\r\n[0]: https://bugzilla.mozilla.org/show_bug.cgi?id=1726606",
+      "sort_num": 100,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1721084,
+      "created": "2021-08-23T15:15:56.688658+00:00",
+      "id": 788748,
+      "is_public": true,
+      "modified": "2021-08-23T15:16:59.620846+00:00",
+      "note": "Firefox no longer clears authentication data when purging trackers, to avoid repeatedly prompting for a password ([bug 1721084][0])\r\n\r\n[0]: https://bugzilla.mozilla.org/show_bug.cgi?id=1721084",
+      "sort_num": 0,
+      "tag": "Fixed"
+    }
+  ],
+  "product": "Firefox",
+  "release_date": "2021-08-24",
+  "slug": "firefox-91.0.2-release",
+  "system_requirements": "## Windows\r\n\r\n### Operating Systems (32-bit and 64-bit)\r\n - Windows 7\r\n - Windows 8\r\n - Windows 10\r\n\r\n### Recommended Hardware\r\n-  Pentium 4 or newer processor that supports SSE2\r\n-  512MB of RAM / 2GB of RAM for the 64-bit version\r\n-  200MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- macOS 10.12\r\n- macOS 10.13\r\n- macOS 10.14\r\n- macOS 10.15\r\n- macOS 11\r\n\r\n### Recommended Hardware\r\n- Mac computer with an Intel x86 or Apple silicon processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - GTK+ 3.14 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n    - libstdc++ 4.8.1 or higher\r\n    - glibc 2.17 or higher\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - NetworkManager 0.7 or higher\r\n    - DBus 1.0 or higher\r\n    - GNOME 2.16 or higher\r\n    - PulseAudio",
+  "text": "",
+  "title": "Firefox 91.0.2 Release",
+  "version": "91.0.2"
+}
