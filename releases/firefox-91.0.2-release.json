@@ -21,8 +21,8 @@
       "created": "2021-08-23T15:18:43.102182+00:00",
       "id": 788749,
       "is_public": true,
-      "modified": "2021-08-23T15:18:43.102030+00:00",
-      "note": "High Contrast Mode is no longer enabled when \"Increase Contrast\" is checked in macOS settings ([bug 1726606][0])\r\n\r\n[0]: https://bugzilla.mozilla.org/show_bug.cgi?id=1726606",
+      "modified": "2021-08-23T15:57:15.847548+00:00",
+      "note": "High Contrast Mode is no longer enabled by default when \"Increase Contrast\" is checked in macOS settings ([bug 1726606][0])\r\n\r\n[0]: https://bugzilla.mozilla.org/show_bug.cgi?id=1726606",
       "sort_num": 100,
       "tag": "Fixed"
     },
