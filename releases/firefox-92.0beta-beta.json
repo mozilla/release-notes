@@ -4,7 +4,7 @@
   "channel": "Beta",
   "created": "2021-08-04T15:52:02.218958+00:00",
   "is_public": true,
-  "modified": "2021-08-10T15:21:59.865139+00:00",
+  "modified": "2021-08-25T10:24:10.787472+00:00",
   "notes": [
     {
       "bug": 1721132,
@@ -24,16 +24,6 @@
       "modified": "2021-08-05T19:26:12.687219+00:00",
       "note": "Firefox now supports the new AVIF image format, which is based on the modern and royalty free AV1 video codec. It offers significant bandwidth savings for sites compared to existing image formats. Additionally it supports transparency and other advanced features.",
       "sort_num": 40,
-      "tag": "New"
-    },
-    {
-      "bug": 1706133,
-      "created": "2021-08-04T16:55:12.402128+00:00",
-      "id": 788723,
-      "is_public": true,
-      "modified": "2021-08-05T19:26:17.651390+00:00",
-      "note": "Firefox PDF viewer now supports filling more forms (XFA-based forms, used by multiple governments and banks).",
-      "sort_num": 30,
       "tag": "New"
     },
     {
