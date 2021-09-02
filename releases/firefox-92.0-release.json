@@ -4,15 +4,95 @@
   "channel": "Release",
   "created": "2021-09-02T17:35:54.467918+00:00",
   "is_public": false,
-  "modified": "2021-09-02T17:38:37.498891+00:00",
+  "modified": "2021-09-02T17:56:39.520480+00:00",
   "notes": [
+    {
+      "bug": null,
+      "created": "2021-09-02T17:59:02.994252+00:00",
+      "id": 788756,
+      "is_public": true,
+      "modified": "2021-09-02T17:59:02.994102+00:00",
+      "note": "More secure connections: Firefox can now automatically upgrade to HTTPS using HTTPS RR as Alt-Svc headers.",
+      "sort_num": 50,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2021-09-02T17:59:27.947797+00:00",
+      "id": 788757,
+      "is_public": true,
+      "modified": "2021-09-02T18:00:19.750608+00:00",
+      "note": "Firefox now supports the new AVIF image format, which is based on the modern and royalty free AV1 video codec. It offers significant bandwidth savings for sites compared to existing image formats. It also supports transparency and other advanced features.",
+      "sort_num": 40,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2021-09-02T18:00:00.158751+00:00",
+      "id": 788758,
+      "is_public": true,
+      "modified": "2021-09-02T18:00:00.158602+00:00",
+      "note": "Full-range color levels are now supported for video playback on many systems.",
+      "sort_num": 30,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2021-09-02T18:00:50.079960+00:00",
+      "id": 788759,
+      "is_public": true,
+      "modified": "2021-09-02T18:00:50.079784+00:00",
+      "note": "Mac users can now access the macOS share options from the Firefox File menu.",
+      "sort_num": 20,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2021-09-02T18:01:07.459120+00:00",
+      "id": 788760,
+      "is_public": true,
+      "modified": "2021-09-02T18:01:07.458897+00:00",
+      "note": "Support for images containing ICC v4 profiles is enabled on macOS.",
+      "sort_num": 10,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2021-09-02T18:01:42.305416+00:00",
+      "id": 788761,
+      "is_public": true,
+      "modified": "2021-09-02T18:01:42.305268+00:00",
+      "note": "Firefox performance with screen readers and other accessibility tools is no longer severely degraded if Mozilla Thunderbird is installed or updated after Firefox.",
+      "sort_num": 30,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2021-09-02T18:02:09.982314+00:00",
+      "id": 788762,
+      "is_public": true,
+      "modified": "2021-09-02T18:02:09.982154+00:00",
+      "note": "macOS VoiceOver now correctly reports buttons and links marked as \u2018expanded\u2019 using the aria-expanded attribute.",
+      "sort_num": 20,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2021-09-02T18:02:43.347376+00:00",
+      "id": 788763,
+      "is_public": true,
+      "modified": "2021-09-02T18:02:43.347222+00:00",
+      "note": "An open alert in a tab no longer causes performance issues in other tabs using the same process.",
+      "sort_num": 10,
+      "tag": "Fixed"
+    },
     {
       "bug": null,
       "created": "2021-09-02T17:38:34.755248+00:00",
       "id": 788753,
       "is_public": true,
-      "modified": "2021-09-02T17:38:34.755100+00:00",
-      "note": "Various [security fixes][0]\r\n\r\n[0]: https://www.mozilla.org/security/advisories/mfsa2021-33/",
+      "modified": "2021-09-02T17:57:06.031999+00:00",
+      "note": "Various [security fixes][0]\r\n\r\n[0]: https://www.mozilla.org/security/advisories/mfsa2021-38/",
       "sort_num": 0,
       "tag": "Fixed"
     }
@@ -21,7 +101,7 @@
   "release_date": "2021-09-07",
   "slug": "firefox-92.0-release",
   "system_requirements": "## Windows\r\n\r\n### Operating Systems (32-bit and 64-bit)\r\n - Windows 7\r\n - Windows 8\r\n - Windows 10\r\n\r\n### Recommended Hardware\r\n-  Pentium 4 or newer processor that supports SSE2\r\n-  512MB of RAM / 2GB of RAM for the 64-bit version\r\n-  200MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- macOS 10.12\r\n- macOS 10.13\r\n- macOS 10.14\r\n- macOS 10.15\r\n- macOS 11\r\n\r\n### Recommended Hardware\r\n- Mac computer with an Intel x86 or Apple silicon processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - GTK+ 3.14 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n    - libstdc++ 4.8.1 or higher\r\n    - glibc 2.17 or higher\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - NetworkManager 0.7 or higher\r\n    - DBus 1.0 or higher\r\n    - GNOME 2.16 or higher\r\n    - PulseAudio",
-  "text": "We\u2019d like to extend a special thank you to the 210 volunteers who helped resolve more than 1,200 bugs in the Firefox 91 release. Of the 210 volunteers, 16 developers contributed their first code changes to Firefox as brand new volunteers!",
+  "text": "We'd like to extend a special thank you to all of the new Mozillians who contributed to this release of Firefox!",
   "title": "Firefox 92.0 Release",
   "version": "92.0"
 }

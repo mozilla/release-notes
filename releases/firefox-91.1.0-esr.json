@@ -5,7 +5,18 @@
   "created": "2021-09-02T17:35:54.442760+00:00",
   "is_public": false,
   "modified": "2021-09-02T17:40:50.284960+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": null,
+      "created": "2021-09-02T17:51:45.976814+00:00",
+      "id": 788755,
+      "is_public": true,
+      "modified": "2021-09-02T17:51:45.976659+00:00",
+      "note": "Various stability, functionality, and [security fixes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/mfsa2021-40/",
+      "sort_num": 0,
+      "tag": "Fixed"
+    }
+  ],
   "product": "Firefox Extended Support Release",
   "release_date": "2021-09-07",
   "slug": "firefox-91.1.0-esr",
