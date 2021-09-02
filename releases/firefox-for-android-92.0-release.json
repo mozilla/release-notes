@@ -4,16 +4,36 @@
   "channel": "Release",
   "created": "2021-09-02T17:35:54.406989+00:00",
   "is_public": false,
-  "modified": "2021-09-02T17:36:34.035684+00:00",
+  "modified": "2021-09-02T18:06:41.686990+00:00",
   "notes": [
     {
       "bug": null,
-      "created": "2021-09-02T17:36:32.106452+00:00",
-      "id": 788751,
+      "created": "2021-09-02T18:07:13.354392+00:00",
+      "id": 788768,
       "is_public": true,
-      "modified": "2021-09-02T17:36:32.106038+00:00",
-      "note": "Various [security fixes][0]\r\n\r\n[0]: https://www.mozilla.org/security/advisories/mfsa2021-33/",
-      "sort_num": 0,
+      "modified": "2021-09-02T18:07:13.354233+00:00",
+      "note": "Added support for Web Authentication API, which allows USB tokens (such as the use of USB or Bluetooth Security Key) for website authentication.",
+      "sort_num": 10,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2021-09-02T18:07:31.091821+00:00",
+      "id": 788769,
+      "is_public": true,
+      "modified": "2021-09-02T18:07:31.091633+00:00",
+      "note": "Crash when attempting to disconnect from Mozilla account.",
+      "sort_num": 20,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2021-09-02T18:07:59.196655+00:00",
+      "id": 788770,
+      "is_public": true,
+      "modified": "2021-09-02T18:07:59.196495+00:00",
+      "note": "Crash when navigating back to the settings menu after disabling studies.",
+      "sort_num": 10,
       "tag": "Fixed"
     },
     {

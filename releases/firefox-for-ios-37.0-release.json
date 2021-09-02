@@ -5,7 +5,48 @@
   "created": "2021-09-02T17:42:25.138770+00:00",
   "is_public": false,
   "modified": "2021-09-02T17:43:20.099325+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": null,
+      "created": "2021-09-02T18:08:47.526619+00:00",
+      "id": 788771,
+      "is_public": true,
+      "modified": "2021-09-02T18:08:47.526462+00:00",
+      "note": "You can now manually add new accounts to the password manager.",
+      "sort_num": 40,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2021-09-02T18:09:23.033815+00:00",
+      "id": 788772,
+      "is_public": true,
+      "modified": "2021-09-02T18:09:23.033657+00:00",
+      "note": "Clean start: Firefox will open on your Home page if the browser has been closed for 4+ hours.",
+      "sort_num": 30,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2021-09-02T18:09:39.081970+00:00",
+      "id": 788773,
+      "is_public": true,
+      "modified": "2021-09-02T18:09:39.081806+00:00",
+      "note": "Quick Home access: You will now find the Home button on the toolbar.",
+      "sort_num": 20,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2021-09-02T18:09:52.567508+00:00",
+      "id": 788774,
+      "is_public": true,
+      "modified": "2021-09-02T18:09:52.567356+00:00",
+      "note": "We made improvements to the Enhanced Tracking Protection (ETP) menu (see the lock icon) to give you more information about the security of the websites you visit.",
+      "sort_num": 10,
+      "tag": "New"
+    }
+  ],
   "product": "Firefox for iOS",
   "release_date": "2021-09-07",
   "slug": "firefox-for-ios-37.0-release",
