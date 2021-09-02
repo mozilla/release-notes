@@ -1,0 +1,27 @@
+{
+  "bug_list": "",
+  "bug_search_url": "",
+  "channel": "Release",
+  "created": "2021-09-02T17:35:54.406989+00:00",
+  "is_public": false,
+  "modified": "2021-09-02T17:36:34.035684+00:00",
+  "notes": [
+    {
+      "bug": null,
+      "created": "2021-09-02T17:36:32.106452+00:00",
+      "id": 788751,
+      "is_public": true,
+      "modified": "2021-09-02T17:36:32.106038+00:00",
+      "note": "Various [security fixes][0]\r\n\r\n[0]: https://www.mozilla.org/security/advisories/mfsa2021-33/",
+      "sort_num": 0,
+      "tag": "Fixed"
+    }
+  ],
+  "product": "Firefox for Android",
+  "release_date": "2021-09-07",
+  "slug": "firefox-for-android-92.0-release",
+  "system_requirements": "## Operating systems\r\n - Android 5.0 or newer",
+  "text": "We'd like to extend a special thank you to all of the new Mozillians who contributed to this release of Firefox!",
+  "title": "Firefox for Android 92.0 Release",
+  "version": "92.0"
+}

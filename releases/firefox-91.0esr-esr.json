@@ -11,7 +11,7 @@
       "created": "2021-08-09T13:27:11.398029+00:00",
       "id": 788731,
       "is_public": true,
-      "modified": "2021-08-16T20:18:49.730504+00:00",
+      "modified": "2021-09-02T17:37:14.454241+00:00",
       "note": "Some of the highlights of the new Extended Support Release are:\r\n\r\n- A number of user interface changes. For more information, see the [Firefox 89 release notes][0].\r\n- Firefox now supports logging into Microsoft, work, and school accounts using Windows single sign-on. [Learn more][1]\r\n- On Windows, [updates can now be applied in the background][2] while Firefox is not running.\r\n- Firefox for Windows now offers a new page [about:third-party][3] to help identify compatibility issues caused by third-party applications\r\n- [Version 2 of Firefox's SmartBlock feature][4] further improves private browsing. Third party Facebook scripts are blocked to prevent you from being tracked, but are now automatically loaded \"just in time\" if you decide to \"Log in with Facebook\" on any website.\r\n- [Enhanced the privacy of the Firefox Browser's Private Browsing mode][5] with Total Cookie Protection, which confines cookies to the site where they were created, preventing [companis from using cookies to track your browsing][6] across sites. This feature was originally launched in Firefox's ETP Strict mode.\r\n- PDF forms now support JavaScript embedded in PDF files. Some PDF forms use JavaScript for validation and other interactive features.\r\n- You'll encounter less website breakage in Private Browsing and Strict Enhanced Tracking Protection with [SmartBlock][7], which provides stand-in scripts so that websites load properly.\r\n- Improved Print functionality with a cleaner design and better integration with your computer's printer settings.\r\n- Firefox now protects you from [supercookies][8], a type of tracker that can stay hidden in your browser and track you online, even after you clear cookies. By isolating supercookies, Firefox prevents them from tracking your web browsing from one site to the next.\r\n- Firefox now remembers your preferred location for saved bookmarks, displays the bookmarks toolbar by default on new tabs, and gives you easy access to all of your [bookmarks][9] via a toolbar folder.\r\n- Native support for macOS devices built with Apple Silicon CPUs brings dramatic performance improvements over the non-native build that was shipped in Firefox 83: Firefox launches over 2.5 times faster and web apps are now twice as responsive (per the SpeedoMeter 2.0 test). If you are on a new Apple device, [follow these steps to upgrade to the latest Firefox][10].\r\n- Pinch zooming will now be supported for our users with Windows touchscreen devices and touchpads on Mac devices. Firefox users may now use pinch to zoom on touch-capable devices to zoom in and out of webpages.\r\n- We\u2019ve improved functionality and design for a number of Firefox search features:\r\n  * Selecting a search engine at the bottom of the search panel now enters search mode for that engine, allowing you to see suggestions (if available) for your search terms. The old behavior (immediately performing a search) is available with a shift-click.\r\n  * When Firefox autocompletes the URL of one of your search engines, you can now search with that engine directly in the address bar by selecting the shortcut in the address bar results.\r\n  * We\u2019ve added buttons at the bottom of the search panel to allow you to search your bookmarks, open tabs, and history.\r\n- Firefox supports AcroForm, which will allow you to [fill in, print, and save supported PDF forms][11] and the PDF viewer also has a new fresh look.\r\n- For our users in the US and Canada, Firefox can now [save, manage, and auto-fill credit card information][12] for you, making shopping on Firefox ever more convenient.\r\n- In addition to our default, dark and light themes, with this release, Firefox introduces the Alpenglow theme: a colorful appearance for buttons, menus, and windows. You can [update your Firefox themes][13] under settings or preferences.\r\n\r\n[0]: https://www.mozilla.org/firefox/89.0/releasenotes/\r\n[1]: https://support.mozilla.org/kb/windows-sso\r\n[2]: https://support.mozilla.org/kb/enable-background-updates-firefox-windows\r\n[3]: https://support.mozilla.org/kb/identify-problems-third-party-modules-firefox-windows\r\n[4]: https://blog.mozilla.org/security/2021/07/13/smartblock-v2/\r\n[5]: https://blog.mozilla.org/security/2021/06/01/total-cookie-protection-in-private-browsing\r\n[6]: https://blog.mozilla.org/security/2021/02/23/total-cookie-protection/\r\n[7]: https://blog.mozilla.org/security/2021/03/23/introducing-smartblock/\r\n[8]: https://blog.mozilla.org/security/2021/01/26/supercookie-protections/\r\n[9]: https://support.mozilla.org/kb/bookmarks-firefox\r\n[10]: https://support.mozilla.org/kb/upgrading-new-version-firefox-84-apple-silicon\r\n[11]: https://support.mozilla.org/kb/view-pdf-files-firefox-or-choose-another-viewer\r\n[12]: https://support.mozilla.org/kb/credit-card-autofill\r\n[13]: https://support.mozilla.org/kb/use-themes-change-look-of-firefox",
       "sort_num": 1000,
       "tag": "New"
@@ -21,7 +21,7 @@
       "created": "2020-11-16T09:25:58.620767+00:00",
       "id": 788516,
       "is_public": true,
-      "modified": "2021-08-16T20:18:47.981855+00:00",
+      "modified": "2021-09-02T17:37:13.173038+00:00",
       "note": "Firefox [no longer supports Adobe Flash][0]. There is no setting available to re-enable Flash support.\r\n\r\n[0]: https://support.mozilla.org/kb/end-support-adobe-flash",
       "sort_num": 0,
       "tag": "Changed"
@@ -31,20 +31,10 @@
       "created": "2021-08-09T13:27:55.793504+00:00",
       "id": 788732,
       "is_public": true,
-      "modified": "2021-08-16T20:18:46.074528+00:00",
+      "modified": "2021-09-02T17:37:17.223540+00:00",
       "note": "Various bug fixes and new policies have been implemented in the latest version of Firefox. See more details in the [Firefox for Enterprise 91 Release Notes][0].\r\n\r\n[0]: https://support.mozilla.org/kb/firefox-enterprise-91-release-notes",
       "sort_num": 0,
       "tag": "Enterprise"
-    },
-    {
-      "bug": 1704404,
-      "created": "2021-08-16T21:09:03.532579+00:00",
-      "id": 788741,
-      "is_public": true,
-      "modified": "2021-08-16T21:09:03.532420+00:00",
-      "note": "Fixed an issue causing buttons on the tab bar to be resized when loading certain websites (bug 1704404)",
-      "sort_num": 40,
-      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
