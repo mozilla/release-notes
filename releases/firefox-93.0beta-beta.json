@@ -3,8 +3,8 @@
   "bug_search_url": "",
   "channel": "Beta",
   "created": "2021-09-02T17:35:54.514665+00:00",
-  "is_public": false,
-  "modified": "2021-09-02T17:39:01.722308+00:00",
+  "is_public": true,
+  "modified": "2021-09-07T07:29:05.792908+00:00",
   "notes": [
     {
       "bug": null,
@@ -14,6 +14,16 @@
       "modified": "2021-09-03T23:56:45.849023+00:00",
       "note": "Firefox now supports the new AVIF image format, which is based on the modern and royalty free AV1 video codec. It offers significant bandwidth savings for sites compared to existing image formats. It also supports transparency and other advanced features.",
       "sort_num": 40,
+      "tag": "New"
+    },
+    {
+      "bug": 1587762,
+      "created": "2021-08-24T07:39:30.556680+00:00",
+      "id": 788750,
+      "is_public": true,
+      "modified": "2021-09-07T07:28:39.549170+00:00",
+      "note": "When available system memory is low, Firefox on Windows will automatically unload some tabs based on their last access time, memory usage, and other attributes. This should help reduce Firefox out-of-memory crashes. Switching to an unloaded tab reloads it.",
+      "sort_num": 0,
       "tag": "New"
     }
   ],
