@@ -3,8 +3,8 @@
   "bug_search_url": "",
   "channel": "Release",
   "created": "2021-09-02T17:35:54.467918+00:00",
-  "is_public": false,
-  "modified": "2021-09-02T17:56:39.520480+00:00",
+  "is_public": true,
+  "modified": "2021-09-07T12:41:32.381876+00:00",
   "notes": [
     {
       "bug": null,
@@ -14,16 +14,6 @@
       "modified": "2021-09-02T17:59:02.994102+00:00",
       "note": "More secure connections: Firefox can now automatically upgrade to HTTPS using HTTPS RR as Alt-Svc headers.",
       "sort_num": 50,
-      "tag": "New"
-    },
-    {
-      "bug": null,
-      "created": "2021-09-02T17:59:27.947797+00:00",
-      "id": 788757,
-      "is_public": true,
-      "modified": "2021-09-02T18:00:19.750608+00:00",
-      "note": "Firefox now supports the new AVIF image format, which is based on the modern and royalty free AV1 video codec. It offers significant bandwidth savings for sites compared to existing image formats. It also supports transparency and other advanced features.",
-      "sort_num": 40,
       "tag": "New"
     },
     {
