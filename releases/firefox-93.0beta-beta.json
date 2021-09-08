@@ -35,6 +35,16 @@
       "note": "When available system memory is low, Firefox on Windows will automatically unload some tabs based on their last access time, memory usage, and other attributes. This should help reduce Firefox out-of-memory crashes. Switching to an unloaded tab reloads it.",
       "sort_num": 0,
       "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2021-09-08T14:09:36.947936+00:00",
+      "id": 788775,
+      "is_public": true,
+      "modified": "2021-09-08T14:09:36.947782+00:00",
+      "note": "TLS ciphersuites that use 3DES have been disabled. Such ciphersuites can only be enabled when deprecated versions of TLS are also enabled.",
+      "sort_num": 0,
+      "tag": "Changed"
     }
   ],
   "product": "Firefox",
