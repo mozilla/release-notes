@@ -78,6 +78,16 @@
     },
     {
       "bug": null,
+      "created": "2021-09-10T14:29:53.793692+00:00",
+      "id": 788777,
+      "is_public": false,
+      "modified": "2021-09-10T14:29:53.793385+00:00",
+      "note": "Canonical is now building the <a href=\"https://snapcraft.io/firefox\">official Firefox snap</a>. It's also now available on two additional architectures, ARMhf and ARM64.",
+      "sort_num": 10,
+      "tag": "Changed"
+    },
+    {
+      "bug": null,
       "created": "2021-09-02T18:04:32.450084+00:00",
       "id": 788767,
       "is_public": true,
