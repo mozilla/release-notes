@@ -37,6 +37,16 @@
       "tag": "New"
     },
     {
+      "bug": 516362,
+      "created": "2021-09-15T08:10:43.168381+00:00",
+      "id": 788778,
+      "is_public": true,
+      "modified": "2021-09-15T08:10:43.168222+00:00",
+      "note": "To prevent session loss for inexperienced macOS users, Firefox now requests the user\u2019s permission to install itself if it is being run from a mounted .dmg file. This request is only made the first time Firefox is run on a user\u2019s computer.",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": null,
       "created": "2021-09-10T14:29:53.793692+00:00",
       "id": 788777,
