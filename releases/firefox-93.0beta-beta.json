@@ -47,6 +47,16 @@
       "tag": "New"
     },
     {
+      "bug": 1685479,
+      "created": "2021-09-17T11:14:53.864306+00:00",
+      "id": 788779,
+      "is_public": true,
+      "modified": "2021-09-17T11:14:53.864111+00:00",
+      "note": "Insecure Download Protection: Firefox now protects against insecure downloads by blocking downloads relying on insecure connections.",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": null,
       "created": "2021-09-10T14:29:53.793692+00:00",
       "id": 788777,
