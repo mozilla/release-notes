@@ -17,6 +17,24 @@
       "tag": ""
     },
     {
+      "bug": 1730499,
+      "created": "2021-09-22T16:42:07.473040+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": false,
+        "product": "Firefox",
+        "slug": "firefox-92.0.1-release",
+        "title": "Firefox 92.0.1 Release",
+        "version": "92.0.1"
+      },
+      "id": 788782,
+      "is_public": true,
+      "modified": "2021-09-22T16:44:52.008505+00:00",
+      "note": "Fixes an issue where Audio Playback was not working on some Linux Systems (bug 1730499)",
+      "sort_num": 20,
+      "tag": "Fixed"
+    },
+    {
       "bug": 1728368,
       "created": "2021-09-22T16:39:12.878047+00:00",
       "fixed_in_release": {
@@ -29,8 +47,8 @@
       },
       "id": 788781,
       "is_public": true,
-      "modified": "2021-09-22T16:40:35.309479+00:00",
-      "note": "Fixes an issue that was hiding the close button on the Findbar in MacOS",
+      "modified": "2021-09-22T16:46:23.250698+00:00",
+      "note": "Fixes issues with the findbar close button on different Operating Systems (bug 1728368)",
       "sort_num": 10,
       "tag": "Fixed"
     }
