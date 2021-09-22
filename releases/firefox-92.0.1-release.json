@@ -4,7 +4,7 @@
   "channel": "Release",
   "created": "2021-09-22T16:30:32.736245+00:00",
   "is_public": false,
-  "modified": "2021-09-22T16:32:17.463355+00:00",
+  "modified": "2021-09-22T16:59:59.390490+00:00",
   "notes": [
     {
       "bug": 0,
@@ -29,8 +29,8 @@
       },
       "id": 788782,
       "is_public": true,
-      "modified": "2021-09-22T16:44:52.008505+00:00",
-      "note": "Fixes an issue where Audio Playback was not working on some Linux Systems (bug 1730499)",
+      "modified": "2021-09-22T16:59:14.923079+00:00",
+      "note": "Fixes an issue where audio playback was not working on some linux systems ([bug 1730499][0])\r\n[0]: https://bugzilla.mozilla.org/show_bug.cgi?id=1730499",
       "sort_num": 20,
       "tag": "Fixed"
     },
@@ -47,14 +47,14 @@
       },
       "id": 788781,
       "is_public": true,
-      "modified": "2021-09-22T16:46:23.250698+00:00",
-      "note": "Fixes issues with the findbar close button on different Operating Systems (bug 1728368)",
+      "modified": "2021-09-22T17:00:37.498777+00:00",
+      "note": "Fixes issues with the findbar close button on different operating systems ([bug 1728368][0])\r\n\r\n[0]: https://bugzilla.mozilla.org/show_bug.cgi?id=1728368",
       "sort_num": 10,
       "tag": "Fixed"
     }
   ],
   "product": "Firefox",
-  "release_date": "2021-09-29",
+  "release_date": "2021-09-23",
   "slug": "firefox-92.0.1-release",
   "system_requirements": "## Windows\r\n\r\n### Operating Systems (32-bit and 64-bit)\r\n - Windows 7\r\n - Windows 8\r\n - Windows 10\r\n\r\n### Recommended Hardware\r\n-  Pentium 4 or newer processor that supports SSE2\r\n-  512MB of RAM / 2GB of RAM for the 64-bit version\r\n-  200MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- macOS 10.12\r\n- macOS 10.13\r\n- macOS 10.14\r\n- macOS 10.15\r\n- macOS 11\r\n\r\n### Recommended Hardware\r\n- Mac computer with an Intel x86 or Apple silicon processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - GTK+ 3.14 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n    - libstdc++ 4.8.1 or higher\r\n    - glibc 2.17 or higher\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - NetworkManager 0.7 or higher\r\n    - DBus 1.0 or higher\r\n    - GNOME 2.16 or higher\r\n    - PulseAudio",
   "text": "",
