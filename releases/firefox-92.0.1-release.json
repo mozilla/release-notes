@@ -2,16 +2,16 @@
   "bug_list": "",
   "bug_search_url": "",
   "channel": "Release",
-  "created": "2021-09-22T16:30:32.736245+00:00",
-  "is_public": true,
-  "modified": "2021-09-23T17:52:41.469915+00:00",
+  "created": "2021-09-23T18:53:23.589584+00:00",
+  "is_public": false,
+  "modified": "2021-09-23T18:54:02.033122+00:00",
   "notes": [
     {
       "bug": 0,
       "created": "2021-09-22T16:33:34.737772+00:00",
       "id": 788780,
       "is_public": true,
-      "modified": "2021-09-22T16:33:34.737593+00:00",
+      "modified": "2021-09-23T18:54:17.961788+00:00",
       "note": "Reference link to [92.0 release notes][0]\r\n\r\n[0]: https://www.mozilla.org/firefox/92.0/releasenotes/",
       "sort_num": 0,
       "tag": ""
@@ -19,17 +19,9 @@
     {
       "bug": 1730499,
       "created": "2021-09-22T16:42:07.473040+00:00",
-      "fixed_in_release": {
-        "channel": "Release",
-        "is_public": true,
-        "product": "Firefox",
-        "slug": "firefox-92.0.1-release",
-        "title": "Firefox 92.0.1 Release",
-        "version": "92.0.1"
-      },
       "id": 788782,
       "is_public": true,
-      "modified": "2021-09-22T17:07:50.368487+00:00",
+      "modified": "2021-09-23T18:54:27.479927+00:00",
       "note": "Fixes an issue where audio playback was not working on some Linux systems ([bug 1730499][0])\r\n[0]: https://bugzilla.mozilla.org/show_bug.cgi?id=1730499",
       "sort_num": 20,
       "tag": "Fixed"
@@ -37,17 +29,9 @@
     {
       "bug": 1728368,
       "created": "2021-09-22T16:39:12.878047+00:00",
-      "fixed_in_release": {
-        "channel": "Release",
-        "is_public": true,
-        "product": "Firefox",
-        "slug": "firefox-92.0.1-release",
-        "title": "Firefox 92.0.1 Release",
-        "version": "92.0.1"
-      },
       "id": 788781,
       "is_public": true,
-      "modified": "2021-09-22T17:00:37.498777+00:00",
+      "modified": "2021-09-23T18:54:23.397660+00:00",
       "note": "Fixes issues with the findbar close button on different operating systems ([bug 1728368][0])\r\n\r\n[0]: https://bugzilla.mozilla.org/show_bug.cgi?id=1728368",
       "sort_num": 10,
       "tag": "Fixed"
