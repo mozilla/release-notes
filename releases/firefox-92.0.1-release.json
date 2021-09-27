@@ -35,6 +35,16 @@
       "note": "Fixes issues with the findbar close button on different operating systems ([bug 1728368][0])\r\n\r\n[0]: https://bugzilla.mozilla.org/show_bug.cgi?id=1728368",
       "sort_num": 10,
       "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2021-09-27T16:15:46.264613+00:00",
+      "id": 788783,
+      "is_public": true,
+      "modified": "2021-09-27T16:16:24.035630+00:00",
+      "note": "Some Firefox users may see their browser menus in English instead of their selected language. This will be fixed in Firefox 93 which ships October 5. A workaround is to remove the installed language pack and to reinstall it from [addons.mozilla.org][1].\r\n\r\n\r\n  [1]: https://addons.mozilla.org/firefox/language-tools/",
+      "sort_num": 0,
+      "tag": "Known"
     }
   ],
   "product": "Firefox",
