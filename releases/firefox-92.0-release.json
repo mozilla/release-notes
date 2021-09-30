@@ -11,7 +11,7 @@
       "created": "2021-09-02T17:59:02.994252+00:00",
       "id": 788756,
       "is_public": true,
-      "modified": "2021-09-23T18:53:50.028412+00:00",
+      "modified": "2021-09-30T15:01:30.187805+00:00",
       "note": "More secure connections: Firefox can now automatically upgrade to HTTPS using HTTPS RR as Alt-Svc headers.",
       "sort_num": 50,
       "tag": "New"
@@ -21,7 +21,7 @@
       "created": "2021-09-02T18:00:00.158751+00:00",
       "id": 788758,
       "is_public": true,
-      "modified": "2021-09-23T18:53:50.995920+00:00",
+      "modified": "2021-09-30T15:01:29.694722+00:00",
       "note": "Full-range color levels are now supported for video playback on many systems.",
       "sort_num": 30,
       "tag": "New"
@@ -31,7 +31,7 @@
       "created": "2021-09-02T18:00:50.079960+00:00",
       "id": 788759,
       "is_public": true,
-      "modified": "2021-09-23T18:53:51.711839+00:00",
+      "modified": "2021-09-30T15:01:29.227450+00:00",
       "note": "Mac users can now access the macOS share options from the Firefox File menu.",
       "sort_num": 20,
       "tag": "New"
@@ -41,7 +41,7 @@
       "created": "2021-09-02T18:01:07.459120+00:00",
       "id": 788760,
       "is_public": true,
-      "modified": "2021-09-23T18:53:52.576358+00:00",
+      "modified": "2021-09-30T15:01:27.920342+00:00",
       "note": "Support for images containing ICC v4 profiles is enabled on macOS.",
       "sort_num": 10,
       "tag": "New"
@@ -51,7 +51,7 @@
       "created": "2021-09-10T14:29:53.793692+00:00",
       "id": 788777,
       "is_public": true,
-      "modified": "2021-09-23T18:53:48.290026+00:00",
+      "modified": "2021-09-30T15:01:31.272759+00:00",
       "note": "Canonical is now building the <a href=\"https://snapcraft.io/firefox\">official Firefox snap</a>. It's also now available on two additional architectures, ARMhf and ARM64.",
       "sort_num": 40,
       "tag": "Changed"
@@ -61,7 +61,7 @@
       "created": "2021-09-02T18:03:00.230403+00:00",
       "id": 788764,
       "is_public": true,
-      "modified": "2021-09-23T18:53:45.415380+00:00",
+      "modified": "2021-09-30T15:01:25.170495+00:00",
       "note": "The bookmark toolbar menus on macOS now follow Firefox visual styles.",
       "sort_num": 30,
       "tag": "Changed"
@@ -71,7 +71,7 @@
       "created": "2021-09-02T18:03:17.970846+00:00",
       "id": 788765,
       "is_public": true,
-      "modified": "2021-09-23T18:53:44.755345+00:00",
+      "modified": "2021-09-30T15:01:24.625155+00:00",
       "note": "Certificate error pages have been redesigned for a better user experience.",
       "sort_num": 20,
       "tag": "Changed"
@@ -81,7 +81,7 @@
       "created": "2021-09-02T18:03:51.928488+00:00",
       "id": 788766,
       "is_public": true,
-      "modified": "2021-09-23T18:53:43.681936+00:00",
+      "modified": "2021-09-30T15:01:24.023345+00:00",
       "note": "Continuing work to restructure Firefox\u2019s JavaScript memory management to be more performant and use less memory.",
       "sort_num": 10,
       "tag": "Changed"
@@ -91,7 +91,7 @@
       "created": "2021-09-02T18:04:32.450084+00:00",
       "id": 788767,
       "is_public": true,
-      "modified": "2021-09-23T18:53:42.644831+00:00",
+      "modified": "2021-09-30T15:01:23.343524+00:00",
       "note": "Various bug fixes and new policies have been implemented in the latest version of Firefox. See more details in the [Firefox for Enterprise 92 Release Notes][1].\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/firefox-enterprise-92-release-notes",
       "sort_num": 10,
       "tag": "Enterprise"
@@ -101,7 +101,7 @@
       "created": "2021-09-02T18:01:42.305416+00:00",
       "id": 788761,
       "is_public": true,
-      "modified": "2021-09-23T18:53:46.883148+00:00",
+      "modified": "2021-09-30T15:01:26.828565+00:00",
       "note": "Firefox performance with screen readers and other accessibility tools is no longer severely degraded if Mozilla Thunderbird is installed or updated after Firefox.",
       "sort_num": 30,
       "tag": "Fixed"
@@ -111,7 +111,7 @@
       "created": "2021-09-02T18:02:09.982314+00:00",
       "id": 788762,
       "is_public": true,
-      "modified": "2021-09-23T18:53:46.523746+00:00",
+      "modified": "2021-09-30T15:01:26.283801+00:00",
       "note": "macOS VoiceOver now correctly reports buttons and links marked as \u2018expanded\u2019 using the aria-expanded attribute.",
       "sort_num": 20,
       "tag": "Fixed"
@@ -121,7 +121,7 @@
       "created": "2021-09-02T18:02:43.347376+00:00",
       "id": 788763,
       "is_public": true,
-      "modified": "2021-09-23T18:53:45.925643+00:00",
+      "modified": "2021-09-30T15:01:25.831523+00:00",
       "note": "An open alert in a tab no longer causes performance issues in other tabs using the same process.",
       "sort_num": 10,
       "tag": "Fixed"
@@ -131,7 +131,7 @@
       "created": "2021-09-02T17:38:34.755248+00:00",
       "id": 788753,
       "is_public": true,
-      "modified": "2021-09-23T18:53:49.154782+00:00",
+      "modified": "2021-09-30T15:02:05.348777+00:00",
       "note": "Various [security fixes][0]\r\n\r\n[0]: https://www.mozilla.org/security/advisories/mfsa2021-38/",
       "sort_num": 0,
       "tag": "Fixed"
