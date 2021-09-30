@@ -11,7 +11,7 @@
       "created": "2021-09-02T17:59:27.947797+00:00",
       "id": 788757,
       "is_public": true,
-      "modified": "2021-09-03T23:56:45.849023+00:00",
+      "modified": "2021-09-30T18:15:20.044462+00:00",
       "note": "Firefox now supports the new AVIF image format, which is based on the modern and royalty free AV1 video codec. It offers significant bandwidth savings for sites compared to existing image formats. It also supports transparency and other advanced features.",
       "sort_num": 40,
       "tag": "New"
@@ -21,7 +21,7 @@
       "created": "2021-08-04T16:55:12.402128+00:00",
       "id": 788723,
       "is_public": true,
-      "modified": "2021-09-08T12:26:19.871328+00:00",
+      "modified": "2021-09-30T18:15:21.078332+00:00",
       "note": "Firefox PDF viewer now supports filling more forms (XFA-based forms, used by multiple governments and banks).",
       "sort_num": 30,
       "tag": "New"
@@ -31,7 +31,7 @@
       "created": "2021-08-24T07:39:30.556680+00:00",
       "id": 788750,
       "is_public": true,
-      "modified": "2021-09-07T12:41:05.633259+00:00",
+      "modified": "2021-09-30T18:15:21.801235+00:00",
       "note": "When available system memory is low, Firefox on Windows will automatically unload some tabs based on their last access time, memory usage, and other attributes. This should help reduce Firefox out-of-memory crashes. Switching to an unloaded tab reloads it.",
       "sort_num": 0,
       "tag": "New"
@@ -41,7 +41,7 @@
       "created": "2021-09-15T08:10:43.168381+00:00",
       "id": 788778,
       "is_public": true,
-      "modified": "2021-09-15T08:10:43.168222+00:00",
+      "modified": "2021-09-30T18:15:23.637862+00:00",
       "note": "To prevent session loss for inexperienced macOS users, Firefox now requests the user\u2019s permission to install itself if it is being run from a mounted .dmg file. This request is only made the first time Firefox is run on a user\u2019s computer.",
       "sort_num": 0,
       "tag": "New"
@@ -51,7 +51,7 @@
       "created": "2021-09-17T11:14:53.864306+00:00",
       "id": 788779,
       "is_public": true,
-      "modified": "2021-09-17T11:14:53.864111+00:00",
+      "modified": "2021-09-30T18:15:22.845128+00:00",
       "note": "Insecure Download Protection: Firefox now protects against insecure downloads by blocking downloads relying on insecure connections.",
       "sort_num": 0,
       "tag": "New"
@@ -61,7 +61,7 @@
       "created": "2021-09-10T14:29:53.793692+00:00",
       "id": 788777,
       "is_public": true,
-      "modified": "2021-09-30T15:01:31.272759+00:00",
+      "modified": "2021-09-30T18:15:24.984392+00:00",
       "note": "Canonical is now building the <a href=\"https://snapcraft.io/firefox\">official Firefox snap</a>. It's also now available on two additional architectures, ARMhf and ARM64.",
       "sort_num": 40,
       "tag": "Changed"
@@ -71,7 +71,7 @@
       "created": "2021-09-08T14:09:36.947936+00:00",
       "id": 788775,
       "is_public": true,
-      "modified": "2021-09-08T14:09:36.947782+00:00",
+      "modified": "2021-09-30T18:15:26.002474+00:00",
       "note": "TLS ciphersuites that use 3DES have been disabled. Such ciphersuites can only be enabled when deprecated versions of TLS are also enabled.",
       "sort_num": 0,
       "tag": "Changed"
