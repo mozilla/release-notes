@@ -78,6 +78,16 @@
     },
     {
       "bug": null,
+      "created": "2021-10-01T08:21:53.058406+00:00",
+      "id": 788801,
+      "is_public": true,
+      "modified": "2021-10-01T08:21:53.058245+00:00",
+      "note": "The UI for [`<input type=\"datetime-local\">`][1] has been implemented.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/datetime-local",
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": null,
       "created": "2021-10-01T08:20:20.117013+00:00",
       "id": 788800,
       "is_public": true,
@@ -105,6 +115,26 @@
       "note": "The Orca screen reader now works correctly with Firefox, no longer requiring users to switch to another application after starting Firefox.",
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2021-10-01T08:30:16.443473+00:00",
+      "id": 788803,
+      "is_public": true,
+      "modified": "2021-10-01T08:30:16.443300+00:00",
+      "note": "Various [security fixes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/mfsa2021-43/",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2021-10-01T08:25:37.977172+00:00",
+      "id": 788802,
+      "is_public": true,
+      "modified": "2021-10-01T08:25:37.977019+00:00",
+      "note": "With the release of Firefox 93, we would like to express our gratitude to all the volunteers who have contributed code to this release, 12 of whom were first time contributors! \r\n\r\nPlease join us in thanking each of these diligent and enthusiastic individuals, and take a look at their contributions:\r\n\r\n*   cwinter158: [1604914](https://bugzilla.mozilla.org/show_bug.cgi?id=1604914)\r\n*   dalesionpt: [1723224](https://bugzilla.mozilla.org/show_bug.cgi?id=1723224)\r\n*   diomede979: [1690415](https://bugzilla.mozilla.org/show_bug.cgi?id=1690415)\r\n*   henry: [1725496](https://bugzilla.mozilla.org/show_bug.cgi?id=1725496)\r\n*   kpatenio: [1609558](https://bugzilla.mozilla.org/show_bug.cgi?id=1609558), [1625478](https://bugzilla.mozilla.org/show_bug.cgi?id=1625478), [1727197](https://bugzilla.mozilla.org/show_bug.cgi?id=1727197)\r\n*   Alex Finder: [1727919](https://bugzilla.mozilla.org/show_bug.cgi?id=1727919)\r\n*   Fernando Garc\u00eda G\u00f3mez, stripTM: [1283388](https://bugzilla.mozilla.org/show_bug.cgi?id=1283388)\r\n*   Gerard A. Robinson: [1722223](https://bugzilla.mozilla.org/show_bug.cgi?id=1722223)\r\n*   Haiyang Xu: [1727710](https://bugzilla.mozilla.org/show_bug.cgi?id=1727710)\r\n*   Jacek Kuzemczak: [1719124](https://bugzilla.mozilla.org/show_bug.cgi?id=1719124)\r\n*   Mohit: [1721825](https://bugzilla.mozilla.org/show_bug.cgi?id=1721825)\r\n*   Niklas Baumgardner: [1635548](https://bugzilla.mozilla.org/show_bug.cgi?id=1635548), [1724792](https://bugzilla.mozilla.org/show_bug.cgi?id=1724792), [1728458](https://bugzilla.mozilla.org/show_bug.cgi?id=1728458)\r\n*   Ruben Calvo: [1728366](https://bugzilla.mozilla.org/show_bug.cgi?id=1728366)\r\n*   Tzvika Ofek: [1723820](https://bugzilla.mozilla.org/show_bug.cgi?id=1723820)\r\n*   cschanaj: [1510664](https://bugzilla.mozilla.org/show_bug.cgi?id=1510664)\r\n*   gstrauss: [472823](https://bugzilla.mozilla.org/show_bug.cgi?id=472823)",
+      "sort_num": 0,
+      "tag": "Community"
     }
   ],
   "product": "Firefox",

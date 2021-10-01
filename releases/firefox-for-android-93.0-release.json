@@ -65,6 +65,16 @@
       "note": "Site security and privacy info have been merged to one icon, freeing up space in the address bar. Tap the lock icon in the address bar to access both.",
       "sort_num": 0,
       "tag": "Changed"
+    },
+    {
+      "bug": null,
+      "created": "2021-10-01T08:30:16.443473+00:00",
+      "id": 788803,
+      "is_public": true,
+      "modified": "2021-10-01T08:30:16.443300+00:00",
+      "note": "Various [security fixes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/mfsa2021-43/",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox for Android",
