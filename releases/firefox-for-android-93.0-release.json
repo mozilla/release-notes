@@ -8,6 +8,56 @@
   "notes": [
     {
       "bug": null,
+      "created": "2021-10-01T07:41:03.034992+00:00",
+      "id": 788787,
+      "is_public": true,
+      "modified": "2021-10-01T07:41:03.034840+00:00",
+      "note": "Tablets now have forward, back, and reload buttons in the toolbar.",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2021-10-01T07:41:21.227726+00:00",
+      "id": 788788,
+      "is_public": true,
+      "modified": "2021-10-01T07:41:21.227540+00:00",
+      "note": "Firefox now auto-fills your logins and passwords. This feature is on by default.",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2021-10-01T07:42:17.536537+00:00",
+      "id": 788789,
+      "is_public": true,
+      "modified": "2021-10-01T07:42:17.536371+00:00",
+      "note": "Firefox can also auto-fill logins and passwords on other apps. To turn this feature on, go to *Settings > Logins and passwords > Autofill in other apps*.",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2021-10-01T07:42:45.802972+00:00",
+      "id": 788790,
+      "is_public": true,
+      "modified": "2021-10-01T07:43:31.821961+00:00",
+      "note": "You can now manually add logins and passwords. Go to *Settings > Logins and passwords > Saved Logins > Add Login*.",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2021-10-01T07:43:12.009938+00:00",
+      "id": 788791,
+      "is_public": true,
+      "modified": "2021-10-01T07:43:12.009749+00:00",
+      "note": "You can now opt out of experiments and studies. Go to *Settings > Data collection > Studies* and switch off.",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
       "created": "2021-10-01T07:40:27.321032+00:00",
       "id": 788786,
       "is_public": true,
