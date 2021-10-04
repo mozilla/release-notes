@@ -58,6 +58,26 @@
     },
     {
       "bug": null,
+      "created": "2021-10-04T15:27:21.289226+00:00",
+      "id": 788804,
+      "is_public": true,
+      "modified": "2021-10-04T15:27:21.289061+00:00",
+      "note": "Improved web compatibility for privacy protections with SmartBlock 3.0. [Learn more][1]\r\n\r\n\r\n  [1]: https://blog.mozilla.org/security/2021/10/05/firefox-93-features-an-improved-smartblock-and-new-referrer-tracking-protections/",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2021-10-04T15:27:57.376011+00:00",
+      "id": 788805,
+      "is_public": true,
+      "modified": "2021-10-04T15:27:57.375859+00:00",
+      "note": "Introducing a new referrer tracking protection in Strict Tracking Protection and Private Browsing. [Learn more][1]\r\n\r\n\r\n  [1]: https://blog.mozilla.org/security/2021/10/05/firefox-93-features-an-improved-smartblock-and-new-referrer-tracking-protections/",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
       "created": "2021-09-08T14:09:36.947936+00:00",
       "id": 788775,
       "is_public": true,
