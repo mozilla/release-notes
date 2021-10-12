@@ -7,6 +7,16 @@
   "modified": "2021-10-05T14:33:01.908226+00:00",
   "notes": [
     {
+      "bug": 1653417,
+      "created": "2021-10-12T19:54:42.669933+00:00",
+      "id": 788808,
+      "is_public": true,
+      "modified": "2021-10-12T19:54:42.669691+00:00",
+      "note": "Firefox macOS now uses Apple's low power mode for fullscreen video on Youtube and Twitch. This meaningfully extends battery life in long viewing sessions.",
+      "sort_num": 30,
+      "tag": "New"
+    },
+    {
       "bug": 1725257,
       "created": "2021-09-10T07:52:16.074349+00:00",
       "id": 788776,
