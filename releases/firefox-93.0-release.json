@@ -165,6 +165,16 @@
       "note": "With the release of Firefox 93, we would like to express our gratitude to all the volunteers who have contributed code to this release, 12 of whom were first time contributors! \r\n\r\nPlease join us in thanking each of these diligent and enthusiastic individuals, and take a look at their contributions:\r\n\r\n*   cwinter158: [1604914](https://bugzilla.mozilla.org/show_bug.cgi?id=1604914)\r\n*   dalesionpt: [1723224](https://bugzilla.mozilla.org/show_bug.cgi?id=1723224)\r\n*   diomede979: [1690415](https://bugzilla.mozilla.org/show_bug.cgi?id=1690415)\r\n*   henry: [1725496](https://bugzilla.mozilla.org/show_bug.cgi?id=1725496)\r\n*   kpatenio: [1609558](https://bugzilla.mozilla.org/show_bug.cgi?id=1609558), [1625478](https://bugzilla.mozilla.org/show_bug.cgi?id=1625478), [1727197](https://bugzilla.mozilla.org/show_bug.cgi?id=1727197)\r\n*   Alex Finder: [1727919](https://bugzilla.mozilla.org/show_bug.cgi?id=1727919)\r\n*   Fernando Garc\u00eda G\u00f3mez, stripTM: [1283388](https://bugzilla.mozilla.org/show_bug.cgi?id=1283388)\r\n*   Gerard A. Robinson: [1722223](https://bugzilla.mozilla.org/show_bug.cgi?id=1722223)\r\n*   Haiyang Xu: [1727710](https://bugzilla.mozilla.org/show_bug.cgi?id=1727710)\r\n*   Jacek Kuzemczak: [1719124](https://bugzilla.mozilla.org/show_bug.cgi?id=1719124)\r\n*   Mohit: [1721825](https://bugzilla.mozilla.org/show_bug.cgi?id=1721825)\r\n*   Niklas Baumgardner: [1635548](https://bugzilla.mozilla.org/show_bug.cgi?id=1635548), [1724792](https://bugzilla.mozilla.org/show_bug.cgi?id=1724792), [1728458](https://bugzilla.mozilla.org/show_bug.cgi?id=1728458)\r\n*   Ruben Calvo: [1728366](https://bugzilla.mozilla.org/show_bug.cgi?id=1728366)\r\n*   Tzvika Ofek: [1723820](https://bugzilla.mozilla.org/show_bug.cgi?id=1723820)\r\n*   cschanaj: [1510664](https://bugzilla.mozilla.org/show_bug.cgi?id=1510664)\r\n*   gstrauss: [472823](https://bugzilla.mozilla.org/show_bug.cgi?id=472823)",
       "sort_num": 0,
       "tag": "Community"
+    },
+    {
+      "bug": null,
+      "created": "2021-10-20T19:00:56.175808+00:00",
+      "id": 788809,
+      "is_public": true,
+      "modified": "2021-10-20T19:00:56.175650+00:00",
+      "note": "For users on macOS Monterey, enabling mouse cursor coloring in the system accessibility preferences causes large memory usage in Firefox. This problem will be fixed in Firefox 94",
+      "sort_num": 0,
+      "tag": "Known"
     }
   ],
   "product": "Firefox",
