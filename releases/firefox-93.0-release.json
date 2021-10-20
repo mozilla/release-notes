@@ -171,8 +171,8 @@
       "created": "2021-10-20T19:00:56.175808+00:00",
       "id": 788809,
       "is_public": true,
-      "modified": "2021-10-20T19:12:13.655454+00:00",
-      "note": "For users on macOS Monterey, enabling mouse cursor coloring in the system accessibility preferences causes large memory usage in Firefox. This problem will be fixed in Firefox 94 that will be released on November 2.",
+      "modified": "2021-10-20T19:36:38.730916+00:00",
+      "note": "For users on macOS Monterey, enabling mouse cursor coloring in the system accessibility preferences can lead to excessive memory usage  in Firefox. This problem will be fixed in Firefox 94 due for release on November 2.",
       "sort_num": 0,
       "tag": "Known"
     }
