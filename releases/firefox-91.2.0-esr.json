@@ -15,6 +15,16 @@
       "note": "Various stability, functionality, and [security fixes][1]\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/mfsa2021-45/",
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": 1736049,
+      "created": "2021-10-20T19:00:56.175808+00:00",
+      "id": 788809,
+      "is_public": true,
+      "modified": "2021-10-20T19:12:13.655454+00:00",
+      "note": "For users on macOS Monterey, enabling mouse cursor coloring in the system accessibility preferences causes large memory usage in Firefox. This problem will be fixed in Firefox 94 that will be released on November 2.",
+      "sort_num": 0,
+      "tag": "Known"
     }
   ],
   "product": "Firefox Extended Support Release",
