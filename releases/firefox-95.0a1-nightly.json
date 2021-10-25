@@ -7,6 +7,24 @@
   "modified": "2021-10-05T12:29:45.477483+00:00",
   "notes": [
     {
+      "bug": null,
+      "created": "2021-10-25T15:27:08.293544+00:00",
+      "fixed_in_release": {
+        "channel": "Nightly",
+        "is_public": true,
+        "product": "Firefox",
+        "slug": "firefox-95.0a1-nightly",
+        "title": "Firefox 95.0a1 Nightly",
+        "version": "95.0a1"
+      },
+      "id": 788810,
+      "is_public": false,
+      "modified": "2021-10-25T15:31:02.626005+00:00",
+      "note": "Firefox now has a new optimized download flow. Instead of prompting every time, files will now download automatically. They can still be opened from the downloads panel with just one click.",
+      "sort_num": 10,
+      "tag": "New"
+    },
+    {
       "bug": 1734555,
       "created": "2021-10-08T10:04:30.897478+00:00",
       "id": 788807,
