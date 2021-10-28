@@ -7,6 +7,24 @@
   "modified": "2021-10-05T12:29:45.477483+00:00",
   "notes": [
     {
+      "bug": 1690687,
+      "created": "2021-10-28T20:48:34.665241+00:00",
+      "fixed_in_release": {
+        "channel": "Nightly",
+        "is_public": true,
+        "product": "Firefox",
+        "slug": "firefox-95.0a1-nightly",
+        "title": "Firefox 95.0a1 Nightly",
+        "version": "95.0a1"
+      },
+      "id": 788811,
+      "is_public": true,
+      "modified": "2021-10-28T20:50:05.887197+00:00",
+      "note": "Avoided always posting a NSEvent to the event loop everytime a\r\nnon-native event is ran which should reduce the CPU usage of the WindowServer process.",
+      "sort_num": 20,
+      "tag": "New"
+    },
+    {
       "bug": null,
       "created": "2021-10-25T15:27:08.293544+00:00",
       "fixed_in_release": {
