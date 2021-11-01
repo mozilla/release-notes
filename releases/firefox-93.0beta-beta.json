@@ -71,7 +71,7 @@
       "created": "2021-09-08T14:09:36.947936+00:00",
       "id": 788775,
       "is_public": true,
-      "modified": "2021-10-01T09:17:41.041745+00:00",
+      "modified": "2021-11-01T17:39:43.973509+00:00",
       "note": "TLS ciphersuites that use 3DES have been disabled. Such ciphersuites can only be enabled when deprecated versions of TLS are also enabled. [Learn more][1].\r\n\r\n\r\n  [1]: https://blog.mozilla.org/security/2021/10/05/securing-connections-disabling-3des-in-firefox-93",
       "sort_num": 0,
       "tag": "Changed"
@@ -81,7 +81,7 @@
       "created": "2021-10-01T08:19:10.947915+00:00",
       "id": 788799,
       "is_public": true,
-      "modified": "2021-10-01T08:19:10.947757+00:00",
+      "modified": "2021-11-01T17:39:42.651646+00:00",
       "note": "The download panel now follows the Firefox visual styles.",
       "sort_num": 0,
       "tag": "Changed"

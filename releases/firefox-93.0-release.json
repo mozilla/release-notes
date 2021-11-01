@@ -11,7 +11,7 @@
       "created": "2021-10-01T08:12:17.492734+00:00",
       "id": 788792,
       "is_public": true,
-      "modified": "2021-10-01T08:12:17.492581+00:00",
+      "modified": "2021-11-01T17:39:30.165631+00:00",
       "note": "Firefox now supports the new AVIF image format, which is based on the modern and royalty free AV1 video codec. It offers significant bandwidth savings for sites compared to existing image formats. It also supports transparency and other advanced features.",
       "sort_num": 0,
       "tag": "New"
@@ -21,7 +21,7 @@
       "created": "2021-10-01T08:13:28.397010+00:00",
       "id": 788793,
       "is_public": true,
-      "modified": "2021-10-01T08:13:28.396798+00:00",
+      "modified": "2021-11-01T17:39:33.134076+00:00",
       "note": "Firefox PDF viewer now supports filling more forms (XFA-based forms, used by multiple governments and banks). [Learn more][1].\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/view-pdf-files-firefox-or-choose-another-viewer#w_fill-out-forms-in-pdf-viewer",
       "sort_num": 0,
       "tag": "New"
@@ -31,7 +31,7 @@
       "created": "2021-10-01T08:14:08.427288+00:00",
       "id": 788794,
       "is_public": true,
-      "modified": "2021-10-01T08:14:08.427090+00:00",
+      "modified": "2021-11-01T17:39:34.520213+00:00",
       "note": "When available system memory is critically low, Firefox on Windows will automatically unload tabs based on their last access time, memory usage, and other attributes. This should help reduce Firefox out-of-memory crashes. Switching to an unloaded tab automatically reloads it.",
       "sort_num": 0,
       "tag": "New"
@@ -41,7 +41,7 @@
       "created": "2021-10-01T08:14:45.817103+00:00",
       "id": 788795,
       "is_public": true,
-      "modified": "2021-10-01T08:14:45.816948+00:00",
+      "modified": "2021-11-01T17:39:45.806686+00:00",
       "note": "To prevent session loss for macOS users who are running Firefox from a mounted .dmg file, they\u2019ll now be prompted to finish installation. This permission prompt only appears the first time these users run Firefox on their computer.",
       "sort_num": 0,
       "tag": "New"
@@ -51,7 +51,7 @@
       "created": "2021-10-01T08:15:49.481717+00:00",
       "id": 788796,
       "is_public": true,
-      "modified": "2021-10-01T09:30:04.274279+00:00",
+      "modified": "2021-11-01T17:39:27.877373+00:00",
       "note": "Firefox now blocks downloads that rely on insecure connections, protecting against potentially malicious or unsafe downloads. [Learn more][1] and see where to find [downloads in Firefox][2].\r\n\r\n\r\n  [1]: https://blog.mozilla.org/security/2021/10/05/firefox-93-protects-against-insecure-downloads/\r\n  [2]: https://support.mozilla.org/kb/where-find-and-manage-downloaded-files-firefox#w_download-protection",
       "sort_num": 0,
       "tag": "New"
@@ -61,7 +61,7 @@
       "created": "2021-10-04T15:27:21.289226+00:00",
       "id": 788804,
       "is_public": true,
-      "modified": "2021-10-04T15:27:21.289061+00:00",
+      "modified": "2021-11-01T17:39:33.865546+00:00",
       "note": "Improved web compatibility for privacy protections with SmartBlock 3.0. [Learn more][1]\r\n\r\n\r\n  [1]: https://blog.mozilla.org/security/2021/10/05/firefox-93-features-an-improved-smartblock-and-new-referrer-tracking-protections/",
       "sort_num": 0,
       "tag": "New"
@@ -71,7 +71,7 @@
       "created": "2021-10-04T15:27:57.376011+00:00",
       "id": 788805,
       "is_public": true,
-      "modified": "2021-10-04T15:27:57.375859+00:00",
+      "modified": "2021-11-01T17:39:35.183299+00:00",
       "note": "Introducing a new referrer tracking protection in Strict Tracking Protection and Private Browsing. [Learn more][1]\r\n\r\n\r\n  [1]: https://blog.mozilla.org/security/2021/10/05/firefox-93-features-an-improved-smartblock-and-new-referrer-tracking-protections/",
       "sort_num": 0,
       "tag": "New"
@@ -81,7 +81,7 @@
       "created": "2021-10-06T06:47:40.205232+00:00",
       "id": 788806,
       "is_public": true,
-      "modified": "2021-10-06T06:47:40.205013+00:00",
+      "modified": "2021-11-01T17:39:44.831882+00:00",
       "note": "Introducing Firefox Suggest, a faster way to navigate the web. [Learn more][1] about the experience and locale-specific features. \r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/navigate-web-faster-firefox-suggest?as=u&utm_source=inproduct",
       "sort_num": 0,
       "tag": "New"
@@ -91,7 +91,7 @@
       "created": "2021-09-08T14:09:36.947936+00:00",
       "id": 788775,
       "is_public": true,
-      "modified": "2021-10-01T09:17:41.041745+00:00",
+      "modified": "2021-11-01T17:39:43.973509+00:00",
       "note": "TLS ciphersuites that use 3DES have been disabled. Such ciphersuites can only be enabled when deprecated versions of TLS are also enabled. [Learn more][1].\r\n\r\n\r\n  [1]: https://blog.mozilla.org/security/2021/10/05/securing-connections-disabling-3des-in-firefox-93",
       "sort_num": 0,
       "tag": "Changed"
@@ -101,7 +101,7 @@
       "created": "2021-10-01T08:19:10.947915+00:00",
       "id": 788799,
       "is_public": true,
-      "modified": "2021-10-01T08:19:10.947757+00:00",
+      "modified": "2021-11-01T17:39:42.651646+00:00",
       "note": "The download panel now follows the Firefox visual styles.",
       "sort_num": 0,
       "tag": "Changed"
@@ -111,7 +111,7 @@
       "created": "2021-10-01T08:21:53.058406+00:00",
       "id": 788801,
       "is_public": true,
-      "modified": "2021-10-01T09:09:15.363466+00:00",
+      "modified": "2021-11-01T17:39:31.153701+00:00",
       "note": "The UI for [&lt;input type=\"datetime-local\"&gt;][1] has been implemented.\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/HTML/Element/input/datetime-local",
       "sort_num": 0,
       "tag": "HTML5"
@@ -121,7 +121,7 @@
       "created": "2021-10-01T08:20:20.117013+00:00",
       "id": 788800,
       "is_public": true,
-      "modified": "2021-10-01T08:20:20.116848+00:00",
+      "modified": "2021-11-01T17:39:26.294289+00:00",
       "note": "Various bug fixes and new policies have been implemented in the latest version of Firefox. See more details in the [Firefox for Enterprise 93 Release Notes][1].\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/firefox-enterprise-93-release-notes",
       "sort_num": 0,
       "tag": "Enterprise"
@@ -131,7 +131,7 @@
       "created": "2021-10-01T08:16:33.239538+00:00",
       "id": 788797,
       "is_public": true,
-      "modified": "2021-10-01T08:16:33.239390+00:00",
+      "modified": "2021-11-01T17:39:40.799665+00:00",
       "note": "The VoiceOver screen reader now correctly reports checkable items in accessible tree controls as checked or unchecked.",
       "sort_num": 0,
       "tag": "Fixed"
@@ -141,7 +141,7 @@
       "created": "2021-10-01T08:16:45.424478+00:00",
       "id": 788798,
       "is_public": true,
-      "modified": "2021-10-01T08:16:45.424331+00:00",
+      "modified": "2021-11-01T17:39:39.764279+00:00",
       "note": "The Orca screen reader now works correctly with Firefox, no longer requiring users to switch to another application after starting Firefox.",
       "sort_num": 0,
       "tag": "Fixed"
@@ -151,7 +151,7 @@
       "created": "2021-10-01T08:30:16.443473+00:00",
       "id": 788803,
       "is_public": true,
-      "modified": "2021-10-01T08:30:16.443300+00:00",
+      "modified": "2021-11-01T17:39:37.820789+00:00",
       "note": "Various [security fixes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/mfsa2021-43/",
       "sort_num": 0,
       "tag": "Fixed"
@@ -161,7 +161,7 @@
       "created": "2021-10-01T08:25:37.977172+00:00",
       "id": 788802,
       "is_public": true,
-      "modified": "2021-10-01T08:25:37.977019+00:00",
+      "modified": "2021-11-01T17:39:32.026560+00:00",
       "note": "With the release of Firefox 93, we would like to express our gratitude to all the volunteers who have contributed code to this release, 12 of whom were first time contributors! \r\n\r\nPlease join us in thanking each of these diligent and enthusiastic individuals, and take a look at their contributions:\r\n\r\n*   cwinter158: [1604914](https://bugzilla.mozilla.org/show_bug.cgi?id=1604914)\r\n*   dalesionpt: [1723224](https://bugzilla.mozilla.org/show_bug.cgi?id=1723224)\r\n*   diomede979: [1690415](https://bugzilla.mozilla.org/show_bug.cgi?id=1690415)\r\n*   henry: [1725496](https://bugzilla.mozilla.org/show_bug.cgi?id=1725496)\r\n*   kpatenio: [1609558](https://bugzilla.mozilla.org/show_bug.cgi?id=1609558), [1625478](https://bugzilla.mozilla.org/show_bug.cgi?id=1625478), [1727197](https://bugzilla.mozilla.org/show_bug.cgi?id=1727197)\r\n*   Alex Finder: [1727919](https://bugzilla.mozilla.org/show_bug.cgi?id=1727919)\r\n*   Fernando Garc\u00eda G\u00f3mez, stripTM: [1283388](https://bugzilla.mozilla.org/show_bug.cgi?id=1283388)\r\n*   Gerard A. Robinson: [1722223](https://bugzilla.mozilla.org/show_bug.cgi?id=1722223)\r\n*   Haiyang Xu: [1727710](https://bugzilla.mozilla.org/show_bug.cgi?id=1727710)\r\n*   Jacek Kuzemczak: [1719124](https://bugzilla.mozilla.org/show_bug.cgi?id=1719124)\r\n*   Mohit: [1721825](https://bugzilla.mozilla.org/show_bug.cgi?id=1721825)\r\n*   Niklas Baumgardner: [1635548](https://bugzilla.mozilla.org/show_bug.cgi?id=1635548), [1724792](https://bugzilla.mozilla.org/show_bug.cgi?id=1724792), [1728458](https://bugzilla.mozilla.org/show_bug.cgi?id=1728458)\r\n*   Ruben Calvo: [1728366](https://bugzilla.mozilla.org/show_bug.cgi?id=1728366)\r\n*   Tzvika Ofek: [1723820](https://bugzilla.mozilla.org/show_bug.cgi?id=1723820)\r\n*   cschanaj: [1510664](https://bugzilla.mozilla.org/show_bug.cgi?id=1510664)\r\n*   gstrauss: [472823](https://bugzilla.mozilla.org/show_bug.cgi?id=472823)",
       "sort_num": 0,
       "tag": "Community"
@@ -171,7 +171,7 @@
       "created": "2021-10-20T19:00:56.175808+00:00",
       "id": 788809,
       "is_public": true,
-      "modified": "2021-10-20T19:55:12.846951+00:00",
+      "modified": "2021-11-01T17:39:36.731256+00:00",
       "note": "For users on macOS Monterey, enabling mouse cursor coloring in the system accessibility preferences can lead to excessive memory usage in Firefox. This problem will be fixed in Firefox 94 due for release on November 2.",
       "sort_num": 0,
       "tag": "Known"
