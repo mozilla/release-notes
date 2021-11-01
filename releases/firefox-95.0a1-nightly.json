@@ -19,7 +19,7 @@
       },
       "id": 788811,
       "is_public": true,
-      "modified": "2021-10-28T20:50:05.887197+00:00",
+      "modified": "2021-11-01T17:08:45.305588+00:00",
       "note": "Avoided always posting a NSEvent to the event loop everytime a\r\nnon-native event is ran which should reduce the CPU usage of the WindowServer process.",
       "sort_num": 20,
       "tag": "New"
@@ -37,7 +37,7 @@
       },
       "id": 788810,
       "is_public": true,
-      "modified": "2021-10-26T18:19:34.615419+00:00",
+      "modified": "2021-11-01T17:08:04.401796+00:00",
       "note": "Firefox now has a new optimized download flow. Instead of prompting every time, files will now download automatically. They can still be opened from the downloads panel with just one click.",
       "sort_num": 10,
       "tag": "New"
@@ -47,7 +47,7 @@
       "created": "2021-10-08T10:04:30.897478+00:00",
       "id": 788807,
       "is_public": true,
-      "modified": "2021-10-08T10:04:30.897289+00:00",
+      "modified": "2021-11-01T17:08:31.343341+00:00",
       "note": "Locale added: Santali (sat)\r\n<!-- Nightly only for now -->",
       "sort_num": 0,
       "tag": "New"
