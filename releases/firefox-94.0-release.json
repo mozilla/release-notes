@@ -48,6 +48,16 @@
     },
     {
       "bug": null,
+      "created": "2021-11-02T15:08:19.835914+00:00",
+      "id": 788843,
+      "is_public": true,
+      "modified": "2021-11-02T15:08:19.835700+00:00",
+      "note": "And on Linux, we\u2019ve [improved WebGL performance][1] and reduced power consumption for many users.\r\n\r\n\r\n  [1]: https://mozillagfx.wordpress.com/2021/10/30/switching-the-linux-graphics-stack-from-glx-to-egl/",
+      "sort_num": 45,
+      "tag": "New"
+    },
+    {
+      "bug": null,
       "created": "2021-11-02T02:02:38.728905+00:00",
       "id": 788838,
       "is_public": true,
