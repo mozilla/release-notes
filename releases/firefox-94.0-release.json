@@ -8,6 +8,56 @@
   "notes": [
     {
       "bug": null,
+      "created": "2021-11-02T02:05:05.017817+00:00",
+      "id": 788842,
+      "is_public": true,
+      "modified": "2021-11-02T02:05:30.049515+00:00",
+      "note": "![Colorways animated screenshot][1]\r\n\r\nWith 94, you\u2019ll find a selection of six fun seasonal Colorways (available for a limited time only). Now you can find a color to suit (or lift) your every mood.\r\n**Fun fact:** Did you know we have more daily users with color themes than dark or Alpenglow on Beta? With Firefox 89, 32% of users clicked through to customize their color theme. And that was just on the first day! We decided to introduce these new Colorways to give our users more to love.\r\n\r\n\r\n  [1]: https://www.mozilla.org/media/img/firefox/releasenotes/note-images/ColorThemeMotion_v3_800.gif",
+      "sort_num": 80,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2021-11-02T02:03:57.913562+00:00",
+      "id": 788841,
+      "is_public": true,
+      "modified": "2021-11-02T02:03:57.913411+00:00",
+      "note": "Firefox macOS now uses Apple's low power mode for fullscreen video on YouTube and Twitch. This meaningfully extends battery life in long viewing sessions. Now your kids can find out what the fox says on a loop without you ever missing a beat\u2026",
+      "sort_num": 70,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2021-11-02T02:03:28.857040+00:00",
+      "id": 788840,
+      "is_public": true,
+      "modified": "2021-11-02T02:03:28.856890+00:00",
+      "note": "With this release, power users can use [about:unloads][1] to release system resources by manually unloading tabs without closing them.\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/unload-inactive-tabs-save-system-memory-firefox",
+      "sort_num": 60,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2021-11-02T02:03:01.807156+00:00",
+      "id": 788839,
+      "is_public": true,
+      "modified": "2021-11-02T02:03:01.807005+00:00",
+      "note": "On Windows, there will now be fewer interruptions because Firefox won\u2019t prompt you for updates. Instead, a background agent will download and install updates even if Firefox is closed.",
+      "sort_num": 50,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2021-11-02T02:02:38.728905+00:00",
+      "id": 788838,
+      "is_public": true,
+      "modified": "2021-11-02T02:02:38.728751+00:00",
+      "note": "To better protect all Firefox users against side-channel attacks such as Spectre, we\u2019ve introduced [Site Isolation][1]. We\u2019ve got your back...errr...side!\r\n\r\n\r\n  [1]: https://hacks.mozilla.org/2021/05/introducing-firefox-new-site-isolation-security-architecture/",
+      "sort_num": 40,
+      "tag": "New"
+    },
+    {
+      "bug": null,
       "created": "2021-11-02T02:01:34.119577+00:00",
       "id": 788837,
       "is_public": true,
