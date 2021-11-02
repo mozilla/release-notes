@@ -4,8 +4,38 @@
   "channel": "Release",
   "created": "2021-11-01T17:38:49.305041+00:00",
   "is_public": false,
-  "modified": "2021-11-01T17:40:03.384239+00:00",
+  "modified": "2021-11-02T01:51:16.666020+00:00",
   "notes": [
+    {
+      "bug": null,
+      "created": "2021-11-02T02:01:34.119577+00:00",
+      "id": 788837,
+      "is_public": true,
+      "modified": "2021-11-02T02:01:34.119424+00:00",
+      "note": "We\u2019re rolling out the [Firefox Multi-Account Containers][1] extension with [Mozilla VPN][2] integration. This lets you use a different server location for each container.\r\n\r\n\r\n  [1]: https://addons.mozilla.org/firefox/addon/multi-account-containers/\r\n  [2]: https://www.mozilla.org/products/vpn/",
+      "sort_num": 30,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2021-11-02T02:00:04.169808+00:00",
+      "id": 788836,
+      "is_public": true,
+      "modified": "2021-11-02T02:01:48.506768+00:00",
+      "note": "Firefox no longer warns you by default when you exit the browser or close a window using a menu, button, or three-key command. This should cut back on unwelcome notifications which is always nice--however, if you prefer a bit of notice, you\u2019ll still have full control over the quit/close modal behavior. All warnings can be managed within Firefox Settings. No worries! ([More details][1])\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/how-configure-close-tab-warnings-firefox",
+      "sort_num": 20,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2021-11-02T01:59:37.627616+00:00",
+      "id": 788835,
+      "is_public": true,
+      "modified": "2021-11-02T01:59:37.627464+00:00",
+      "note": "And now, Firefox supports the new Snap Layouts menus when running on Windows 11.",
+      "sort_num": 10,
+      "tag": "New"
+    },
     {
       "bug": null,
       "created": "2021-11-01T18:54:56.147583+00:00",
@@ -25,6 +55,116 @@
       "note": "You\u2019ll also notice various bug fixes and new policies have been implemented in this latest version of Firefox. See more details in the [Firefox for Enterprise 94 Release Notes][1].\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/firefox-enterprise-94-release-notes",
       "sort_num": 10,
       "tag": "Enterprise"
+    },
+    {
+      "bug": null,
+      "created": "2021-11-02T01:56:01.258233+00:00",
+      "id": 788834,
+      "is_public": true,
+      "modified": "2021-11-02T01:56:01.258070+00:00",
+      "note": "We\u2019ve reduced the overhead of using performance.mark() and performance.measure() APIs with a large set of performance entries.",
+      "sort_num": 100,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2021-11-02T01:55:47.746808+00:00",
+      "id": 788833,
+      "is_public": true,
+      "modified": "2021-11-02T01:55:47.746631+00:00",
+      "note": "Plus, we\u2019ve modified paint suppression during load to greatly improve warmload performance in Site Isolation mode.",
+      "sort_num": 90,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2021-11-02T01:55:26.829690+00:00",
+      "id": 788832,
+      "is_public": true,
+      "modified": "2021-11-02T01:55:26.829522+00:00",
+      "note": "You\u2019ll also notice a small reduction in Javascript memory usage.",
+      "sort_num": 80,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2021-11-02T01:55:11.667842+00:00",
+      "id": 788831,
+      "is_public": true,
+      "modified": "2021-11-02T01:56:32.150785+00:00",
+      "note": "With this release, you\u2019ll notice faster Javascript property enumeration as well.",
+      "sort_num": 70,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2021-11-02T01:54:57.628284+00:00",
+      "id": 788830,
+      "is_public": true,
+      "modified": "2021-11-02T01:54:57.628116+00:00",
+      "note": "We\u2019ve also implemented better scheduling of garbage collection which has improved some pageload benchmarks.",
+      "sort_num": 60,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2021-11-02T01:54:36.653699+00:00",
+      "id": 788829,
+      "is_public": true,
+      "modified": "2021-11-02T01:54:36.653543+00:00",
+      "note": "This release also sees reduced CPU usage during socket polling for HTTPS connections.",
+      "sort_num": 50,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2021-11-02T01:54:23.880605+00:00",
+      "id": 788828,
+      "is_public": true,
+      "modified": "2021-11-02T01:54:23.880454+00:00",
+      "note": "Additionally, you\u2019ll notice faster storage initialization.",
+      "sort_num": 40,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2021-11-02T01:54:03.420893+00:00",
+      "id": 788827,
+      "is_public": true,
+      "modified": "2021-11-02T01:54:03.420741+00:00",
+      "note": "We\u2019ve also improved cold startup by reducing main thread I/O.",
+      "sort_num": 30,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2021-11-02T01:53:42.205970+00:00",
+      "id": 788826,
+      "is_public": true,
+      "modified": "2021-11-02T01:53:47.528280+00:00",
+      "note": "Plus, closing devtools now reclaims more memory than ever before.",
+      "sort_num": 20,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2021-11-02T01:53:21.674097+00:00",
+      "id": 788825,
+      "is_public": true,
+      "modified": "2021-11-02T01:53:21.673946+00:00",
+      "note": "And we\u2019ve improved pageload (especially with Site Isolation mode) by setting a higher priority for loading and displaying images.",
+      "sort_num": 10,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2021-11-02T01:51:14.587201+00:00",
+      "id": 788824,
+      "is_public": true,
+      "modified": "2021-11-02T01:51:44.888703+00:00",
+      "note": "Various [security fixes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/mfsa2021-48/",
+      "sort_num": 0,
+      "tag": "Fixed"
     },
     {
       "bug": null,
