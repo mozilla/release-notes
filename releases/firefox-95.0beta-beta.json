@@ -25,29 +25,11 @@
       "tag": "New"
     },
     {
-      "bug": null,
-      "created": "2021-10-25T15:27:08.293544+00:00",
-      "fixed_in_release": {
-        "channel": "Nightly",
-        "is_public": true,
-        "product": "Firefox",
-        "slug": "firefox-95.0a1-nightly",
-        "title": "Firefox 95.0a1 Nightly",
-        "version": "95.0a1"
-      },
-      "id": 788810,
-      "is_public": true,
-      "modified": "2021-11-01T17:08:04.401796+00:00",
-      "note": "Firefox now has a new optimized download flow. Instead of prompting every time, files will now download automatically. They can still be opened from the downloads panel with just one click.",
-      "sort_num": 10,
-      "tag": "New"
-    },
-    {
-      "bug": null,
+      "bug": 1680885,
       "created": "2021-11-08T12:37:00.789348+00:00",
       "id": 788846,
       "is_public": true,
-      "modified": "2021-11-08T12:37:00.789192+00:00",
+      "modified": "2021-11-09T09:38:36.148812+00:00",
       "note": "The Picture-in-Picture toggle button can now be moved to the opposite side of the video from the new context menu option *Move Picture-in-Picture Toggle to Left (Right) Side*.",
       "sort_num": 0,
       "tag": "New"
