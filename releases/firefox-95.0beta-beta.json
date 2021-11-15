@@ -33,6 +33,16 @@
       "note": "The Picture-in-Picture toggle button can now be moved to the opposite side of the video from the new context menu option *Move Picture-in-Picture Toggle to Left (Right) Side*.",
       "sort_num": 0,
       "tag": "New"
+    },
+    {
+      "bug": 1727100,
+      "created": "2021-11-15T10:48:48.195152+00:00",
+      "id": 788847,
+      "is_public": true,
+      "modified": "2021-11-15T10:48:48.194953+00:00",
+      "note": "Added an User Agent override for Slack.com, allowing Firefox users now to use more Call features and access to Huddles.",
+      "sort_num": 0,
+      "tag": "Changed"
     }
   ],
   "product": "Firefox",
