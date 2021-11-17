@@ -2,36 +2,36 @@
   "bug_list": "",
   "bug_search_url": "",
   "channel": "Release",
-  "created": "2021-11-03T18:17:16.747953+00:00",
-  "is_public": true,
-  "modified": "2021-11-04T14:13:05.181112+00:00",
+  "created": "2021-11-17T14:12:39.242606+00:00",
+  "is_public": false,
+  "modified": "2021-11-17T14:13:13.422971+00:00",
   "notes": [
     {
       "bug": 0,
-      "created": "2021-11-03T18:17:40.669948+00:00",
-      "id": 788844,
+      "created": "2021-11-17T14:13:06.339333+00:00",
+      "id": 788848,
       "is_public": true,
-      "modified": "2021-11-17T14:13:06.482034+00:00",
-      "note": "Reference link to [94.0 release notes][0]\r\n\r\n[0]: https://www.mozilla.org/firefox/94.0/releasenotes/",
+      "modified": "2021-11-17T14:13:29.261606+00:00",
+      "note": "Reference link to [94.0.1 release notes][0]\r\n\r\n[0]: https://www.mozilla.org/firefox/94.0.1/releasenotes/",
       "sort_num": 0,
       "tag": ""
     },
     {
-      "bug": 1737998,
-      "created": "2021-11-03T18:19:52.429150+00:00",
-      "id": 788845,
+      "bug": 1736742,
+      "created": "2021-11-17T14:17:52.573244+00:00",
+      "id": 788849,
       "is_public": true,
-      "modified": "2021-11-17T14:13:08.495858+00:00",
-      "note": "Fixed browser hangs when viewing fullscreen videos on macOS 10.12 ([bug 1737998][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1737998",
-      "sort_num": 0,
+      "modified": "2021-11-17T14:17:52.573081+00:00",
+      "note": "Improved hangs experienced by users of assistive technology such as NVDA when installing Firefox through the Microsoft Store ([bug 1736742][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1736742",
+      "sort_num": 10,
       "tag": "Fixed"
     }
   ],
   "product": "Firefox",
-  "release_date": "2021-11-04",
-  "slug": "firefox-94.0.1-release",
+  "release_date": "2021-11-18",
+  "slug": "firefox-94.0.2-release",
   "system_requirements": "## Windows\r\n\r\n### Operating Systems (32-bit and 64-bit)\r\n - Windows 7\r\n - Windows 8\r\n - Windows 10\r\n - Windows 11\r\n\r\n### Recommended Hardware\r\n-  Pentium 4 or newer processor that supports SSE2\r\n-  512MB of RAM / 2GB of RAM for the 64-bit version\r\n-  200MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- macOS 10.12\r\n- macOS 10.13\r\n- macOS 10.14\r\n- macOS 10.15\r\n- macOS 11\r\n- macOS 12\r\n\r\n### Recommended Hardware\r\n- Mac computer with an Intel x86 or Apple silicon processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - GTK+ 3.14 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n    - libstdc++ 4.8.1 or higher\r\n    - glibc 2.17 or higher\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - NetworkManager 0.7 or higher\r\n    - DBus 1.0 or higher\r\n    - GNOME 2.16 or higher\r\n    - PulseAudio",
   "text": "",
-  "title": "Firefox 94.0.1 Release",
-  "version": "94.0.1"
+  "title": "Firefox 94.0.2 Release",
+  "version": "94.0.2"
 }
