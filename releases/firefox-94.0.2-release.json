@@ -25,6 +25,16 @@
       "note": "Improved hangs experienced by users of assistive technology such as NVDA when installing Firefox through the Microsoft Store ([bug 1736742][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1736742",
       "sort_num": 10,
       "tag": "Fixed"
+    },
+    {
+      "bug": 1741997,
+      "created": "2021-11-19T15:05:16.124313+00:00",
+      "id": 788850,
+      "is_public": true,
+      "modified": "2021-11-19T15:05:32.635173+00:00",
+      "note": "Resolved general instability/crashes\r\non Linux caused by a file descriptor leak when backgrounding tabs using WebGL",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
