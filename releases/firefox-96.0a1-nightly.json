@@ -7,6 +7,24 @@
   "modified": "2021-11-05T17:52:42.271922+00:00",
   "notes": [
     {
+      "bug": 1232234,
+      "created": "2021-11-22T19:02:32.869086+00:00",
+      "fixed_in_release": {
+        "channel": "Nightly",
+        "is_public": true,
+        "product": "Firefox",
+        "slug": "firefox-96.0a1-nightly",
+        "title": "Firefox 96.0a1 Nightly",
+        "version": "96.0a1"
+      },
+      "id": 788854,
+      "is_public": false,
+      "modified": "2021-11-22T22:01:32.475697+00:00",
+      "note": "RTCP BYE is sent for every media stream on renegotiation, replaceTrack, or setParameters",
+      "sort_num": 60,
+      "tag": "New"
+    },
+    {
       "bug": 1730748,
       "created": "2021-11-22T18:59:22.476802+00:00",
       "fixed_in_release": {
@@ -19,9 +37,9 @@
       },
       "id": 788852,
       "is_public": false,
-      "modified": "2021-11-22T19:00:57.155614+00:00",
+      "modified": "2021-11-22T22:00:07.170955+00:00",
       "note": "Fixes issue where WebRTC downgrades screen sharing resolution.",
-      "sort_num": 0,
+      "sort_num": 50,
       "tag": "New"
     },
     {
@@ -37,27 +55,9 @@
       },
       "id": 788853,
       "is_public": false,
-      "modified": "2021-11-22T19:01:37.688626+00:00",
-      "note": "Fixes  video quality after negotiating video tracks 3 times",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
-      "bug": 1232234,
-      "created": "2021-11-22T19:02:32.869086+00:00",
-      "fixed_in_release": {
-        "channel": "Nightly",
-        "is_public": true,
-        "product": "Firefox",
-        "slug": "firefox-96.0a1-nightly",
-        "title": "Firefox 96.0a1 Nightly",
-        "version": "96.0a1"
-      },
-      "id": 788854,
-      "is_public": false,
-      "modified": "2021-11-22T19:02:32.868856+00:00",
-      "note": "RTCP BYE is sent for every media stream on renegotiation, replaceTrack, or setParameters",
-      "sort_num": 0,
+      "modified": "2021-11-22T21:59:36.815141+00:00",
+      "note": "Fixes video quality degradation in certain sites",
+      "sort_num": 40,
       "tag": "New"
     },
     {
@@ -73,9 +73,9 @@
       },
       "id": 788855,
       "is_public": false,
-      "modified": "2021-11-22T19:03:30.485914+00:00",
-      "note": "getSynchronizationSources() intermittently drops SSRC for video",
-      "sort_num": 0,
+      "modified": "2021-11-22T21:46:36.253231+00:00",
+      "note": "Fixes an issue where video intermittently drops SSRC",
+      "sort_num": 30,
       "tag": "New"
     },
     {
@@ -91,9 +91,9 @@
       },
       "id": 788856,
       "is_public": false,
-      "modified": "2021-11-22T19:03:59.226231+00:00",
+      "modified": "2021-11-22T21:48:09.222701+00:00",
       "note": "Significantly reduced main thread load",
-      "sort_num": 0,
+      "sort_num": 20,
       "tag": "New"
     },
     {
@@ -109,9 +109,9 @@
       },
       "id": 788857,
       "is_public": false,
-      "modified": "2021-11-22T19:04:47.691425+00:00",
+      "modified": "2021-11-22T21:47:11.474230+00:00",
       "note": "Significant improvements in noise-suppression and auto-gain-control, slight improvements in echo-cancellation",
-      "sort_num": 0,
+      "sort_num": 10,
       "tag": "New"
     }
   ],
