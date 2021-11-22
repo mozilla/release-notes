@@ -25,24 +25,6 @@
       "tag": "New"
     },
     {
-      "bug": 1730748,
-      "created": "2021-11-22T18:59:22.476802+00:00",
-      "fixed_in_release": {
-        "channel": "Nightly",
-        "is_public": true,
-        "product": "Firefox",
-        "slug": "firefox-96.0a1-nightly",
-        "title": "Firefox 96.0a1 Nightly",
-        "version": "96.0a1"
-      },
-      "id": 788852,
-      "is_public": false,
-      "modified": "2021-11-22T22:00:07.170955+00:00",
-      "note": "Fixes issue where WebRTC downgrades screen sharing resolution.",
-      "sort_num": 50,
-      "tag": "New"
-    },
-    {
       "bug": 1690832,
       "created": "2021-11-22T19:01:37.688793+00:00",
       "fixed_in_release": {
@@ -55,8 +37,26 @@
       },
       "id": 788853,
       "is_public": false,
-      "modified": "2021-11-22T21:59:36.815141+00:00",
+      "modified": "2021-11-22T22:03:19.762667+00:00",
       "note": "Fixes video quality degradation in certain sites",
+      "sort_num": 50,
+      "tag": "New"
+    },
+    {
+      "bug": 1730748,
+      "created": "2021-11-22T18:59:22.476802+00:00",
+      "fixed_in_release": {
+        "channel": "Nightly",
+        "is_public": true,
+        "product": "Firefox",
+        "slug": "firefox-96.0a1-nightly",
+        "title": "Firefox 96.0a1 Nightly",
+        "version": "96.0a1"
+      },
+      "id": 788852,
+      "is_public": false,
+      "modified": "2021-11-22T22:03:36.920412+00:00",
+      "note": "Fixes issue where WebRTC downgrades screen sharing resolution",
       "sort_num": 40,
       "tag": "New"
     },
@@ -108,8 +108,8 @@
         "version": "96.0a1"
       },
       "id": 788857,
-      "is_public": false,
-      "modified": "2021-11-22T21:47:11.474230+00:00",
+      "is_public": true,
+      "modified": "2021-11-22T22:04:58.746520+00:00",
       "note": "Significant improvements in noise-suppression and auto-gain-control, slight improvements in echo-cancellation",
       "sort_num": 10,
       "tag": "New"
