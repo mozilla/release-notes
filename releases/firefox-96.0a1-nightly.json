@@ -54,8 +54,8 @@
         "version": "96.0a1"
       },
       "id": 788852,
-      "is_public": false,
-      "modified": "2021-11-22T22:03:36.920412+00:00",
+      "is_public": true,
+      "modified": "2021-11-23T14:24:47.117245+00:00",
       "note": "Fixes issue where WebRTC downgrades screen sharing resolution",
       "sort_num": 40,
       "tag": "New"
@@ -72,8 +72,8 @@
         "version": "96.0a1"
       },
       "id": 788855,
-      "is_public": false,
-      "modified": "2021-11-22T21:46:36.253231+00:00",
+      "is_public": true,
+      "modified": "2021-11-23T14:24:04.403544+00:00",
       "note": "Fixes an issue where video intermittently drops SSRC",
       "sort_num": 30,
       "tag": "New"
@@ -90,8 +90,8 @@
         "version": "96.0a1"
       },
       "id": 788856,
-      "is_public": false,
-      "modified": "2021-11-22T21:48:09.222701+00:00",
+      "is_public": true,
+      "modified": "2021-11-23T14:22:34.038627+00:00",
       "note": "Significantly reduced main thread load",
       "sort_num": 20,
       "tag": "New"
