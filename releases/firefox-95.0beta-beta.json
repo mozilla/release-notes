@@ -43,6 +43,16 @@
       "note": "Added an User Agent override for Slack.com, allowing Firefox users now to use more Call features and access to Huddles.",
       "sort_num": 0,
       "tag": "Changed"
+    },
+    {
+      "bug": null,
+      "created": "2021-11-26T15:09:29.692264+00:00",
+      "id": 788859,
+      "is_public": true,
+      "modified": "2021-11-26T15:09:29.692112+00:00",
+      "note": "Command-clicking links in Gmail does not open a new tab. Workaround: click links in Gmail without pressing command, which will still open a new tab.",
+      "sort_num": 0,
+      "tag": "Known"
     }
   ],
   "product": "Firefox",
