@@ -35,6 +35,16 @@
       "tag": "New"
     },
     {
+      "bug": 1736672,
+      "created": "2021-11-30T15:41:09.720342+00:00",
+      "id": 788860,
+      "is_public": true,
+      "modified": "2021-11-30T15:41:09.720193+00:00",
+      "note": "Reduced power usage of software decoded video on macOS especially in fullscreen. This includes many streaming sites like Netflix or Amazon Prime Video.",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1727100,
       "created": "2021-11-15T10:48:48.195152+00:00",
       "id": 788847,
