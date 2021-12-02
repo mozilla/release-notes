@@ -7,6 +7,16 @@
   "modified": "2021-12-02T14:36:16.581228+00:00",
   "notes": [
     {
+      "bug": 1727266,
+      "created": "2021-11-30T17:01:23.832217+00:00",
+      "id": 788861,
+      "is_public": true,
+      "modified": "2021-12-02T18:17:25.432364+00:00",
+      "note": "RLBox \u2014 a new technology that hardens Firefox against potential security vulnerabilities in third-party libraries \u2014 is now enabled on all platforms.",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": null,
       "created": "2021-12-02T14:54:48.777477+00:00",
       "id": 788862,
@@ -55,6 +65,36 @@
       "note": "To better protect Firefox users against side-channel attacks such as Spectre, Site Isolation is now enabled for all Firefox 95 users.",
       "sort_num": 0,
       "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2021-12-02T18:18:27.041104+00:00",
+      "id": 788867,
+      "is_public": true,
+      "modified": "2021-12-02T18:18:27.040950+00:00",
+      "note": "After starting Firefox, users of the JAWS screen reader and ZoomText magnifier will no longer need to switch applications in order to access Firefox.",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2021-12-02T18:19:04.338072+00:00",
+      "id": 788868,
+      "is_public": true,
+      "modified": "2021-12-02T18:19:04.337914+00:00",
+      "note": "You\u2019ll find the state of controls using the ARIA switch role is now correctly reported by Mac OS VoiceOver.",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2021-12-02T18:20:07.601299+00:00",
+      "id": 788869,
+      "is_public": true,
+      "modified": "2021-12-02T18:20:07.601147+00:00",
+      "note": "You\u2019ll see a faster content process startup on macOS.",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
