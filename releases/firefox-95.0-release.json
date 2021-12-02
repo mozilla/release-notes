@@ -67,6 +67,26 @@
       "tag": "New"
     },
     {
+      "bug": 1727100,
+      "created": "2021-11-15T10:48:48.195152+00:00",
+      "id": 788847,
+      "is_public": true,
+      "modified": "2021-12-02T18:21:58.497318+00:00",
+      "note": "We\u2019ve added a User Agent override for Slack.com, which allows Firefox users to use more Call features and have access to Huddles.",
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
+      "bug": null,
+      "created": "2021-12-02T18:23:10.103056+00:00",
+      "id": 788872,
+      "is_public": true,
+      "modified": "2021-12-02T18:23:10.102900+00:00",
+      "note": "Various bug fixes and new policies have been implemented in [this latest version][1] of Firefox. \r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/firefox-enterprise-95-release-notes",
+      "sort_num": 0,
+      "tag": "Enterprise"
+    },
+    {
       "bug": null,
       "created": "2021-12-02T18:18:27.041104+00:00",
       "id": 788867,
@@ -95,6 +115,36 @@
       "note": "You\u2019ll see a faster content process startup on macOS.",
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2021-12-02T18:20:42.681582+00:00",
+      "id": 788870,
+      "is_public": true,
+      "modified": "2021-12-02T18:20:42.681410+00:00",
+      "note": "We\u2019ve also made memory allocator improvements.",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2021-12-02T18:21:16.757468+00:00",
+      "id": 788871,
+      "is_public": true,
+      "modified": "2021-12-02T18:21:16.757303+00:00",
+      "note": "And we\u2019ve improved page load performance by speculatively compiling JavaScript ahead of time.",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2021-11-26T15:09:29.692264+00:00",
+      "id": 788859,
+      "is_public": true,
+      "modified": "2021-12-02T18:24:00.691704+00:00",
+      "note": "Command-clicking links in Gmail still does not open a new tab. Workaround: you can click links in Gmail without pressing command, which will still open a new tab.",
+      "sort_num": 0,
+      "tag": "Known"
     }
   ],
   "product": "Firefox",
