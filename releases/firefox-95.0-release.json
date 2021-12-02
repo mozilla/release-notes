@@ -5,7 +5,58 @@
   "created": "2021-12-02T14:35:45.047951+00:00",
   "is_public": false,
   "modified": "2021-12-02T14:36:16.581228+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": null,
+      "created": "2021-12-02T14:54:48.777477+00:00",
+      "id": 788862,
+      "is_public": true,
+      "modified": "2021-12-02T14:59:33.949095+00:00",
+      "note": "Good news! You can now [download Firefox][1] from the Microsoft Store on Windows 10 and Windows 11 platforms.\r\n\r\n![Simplified browser chrome and toolbar screenshot][2]\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/download-firefox-windows-microsoft-store\r\n  [2]: /media/img/firefox/releasenotes/note-images/95_windows_store.png",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2021-12-02T14:57:22.801155+00:00",
+      "id": 788863,
+      "is_public": true,
+      "modified": "2021-12-02T14:57:22.801000+00:00",
+      "note": "We\u2019ve reduced CPU usage on macOS in Firefox and WindowServer during event processing.",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2021-12-02T14:58:15.009588+00:00",
+      "id": 788864,
+      "is_public": true,
+      "modified": "2021-12-02T14:58:15.009426+00:00",
+      "note": "We\u2019ve also reduced the power usage of software decoded video on macOS,  especially in fullscreen. This includes streaming sites such as Netflix and Amazon Prime Video.",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2021-12-02T14:59:16.625597+00:00",
+      "id": 788865,
+      "is_public": true,
+      "modified": "2021-12-02T14:59:16.625431+00:00",
+      "note": "You can now move the [Picture-in-Picture][1] toggle button to the opposite side of the video. Simply look for the new context menu option Move Picture-in-Picture Toggle to Left (Right) Side.\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/about-picture-picture-firefox",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2021-12-02T14:59:59.666085+00:00",
+      "id": 788866,
+      "is_public": true,
+      "modified": "2021-12-02T14:59:59.665929+00:00",
+      "note": "To better protect Firefox users against side-channel attacks such as Spectre, Site Isolation is now enabled for all Firefox 95 users.",
+      "sort_num": 0,
+      "tag": "New"
+    }
+  ],
   "product": "Firefox",
   "release_date": "2021-12-07",
   "slug": "firefox-95.0-release",
