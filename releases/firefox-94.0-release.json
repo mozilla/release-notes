@@ -11,7 +11,7 @@
       "created": "2021-11-02T02:05:05.017817+00:00",
       "id": 788842,
       "is_public": true,
-      "modified": "2021-11-02T02:05:30.049515+00:00",
+      "modified": "2021-12-02T14:36:03.775853+00:00",
       "note": "![Colorways animated screenshot][1]\r\n\r\nWith 94, you\u2019ll find a selection of six fun seasonal Colorways (available for a limited time only). Now you can find a color to suit (or lift) your every mood.\r\n**Fun fact:** Did you know we have more daily users with color themes than dark or Alpenglow on Beta? With Firefox 89, 32% of users clicked through to customize their color theme. And that was just on the first day! We decided to introduce these new Colorways to give our users more to love.\r\n\r\n\r\n  [1]: https://www.mozilla.org/media/img/firefox/releasenotes/note-images/ColorThemeMotion_v3_800.gif",
       "sort_num": 80,
       "tag": "New"
@@ -21,7 +21,7 @@
       "created": "2021-11-02T02:03:57.913562+00:00",
       "id": 788841,
       "is_public": true,
-      "modified": "2021-11-02T14:38:59.388850+00:00",
+      "modified": "2021-12-02T14:36:04.513962+00:00",
       "note": "Firefox macOS now uses Apple's low power mode for fullscreen video on sites such as YouTube and Twitch. This meaningfully extends battery life in long viewing sessions. Now your kids can find out what the fox says on a loop without you ever missing a beat\u2026",
       "sort_num": 70,
       "tag": "New"
@@ -31,7 +31,7 @@
       "created": "2021-11-02T02:03:28.857040+00:00",
       "id": 788840,
       "is_public": true,
-      "modified": "2021-11-02T02:03:28.856890+00:00",
+      "modified": "2021-12-02T14:36:05.144873+00:00",
       "note": "With this release, power users can use [about:unloads][1] to release system resources by manually unloading tabs without closing them.\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/unload-inactive-tabs-save-system-memory-firefox",
       "sort_num": 60,
       "tag": "New"
@@ -41,7 +41,7 @@
       "created": "2021-11-02T02:03:01.807156+00:00",
       "id": 788839,
       "is_public": true,
-      "modified": "2021-11-02T02:03:01.807005+00:00",
+      "modified": "2021-12-02T14:36:05.709564+00:00",
       "note": "On Windows, there will now be fewer interruptions because Firefox won\u2019t prompt you for updates. Instead, a background agent will download and install updates even if Firefox is closed.",
       "sort_num": 50,
       "tag": "New"
@@ -51,7 +51,7 @@
       "created": "2021-11-02T15:08:19.835914+00:00",
       "id": 788843,
       "is_public": true,
-      "modified": "2021-11-02T15:08:19.835700+00:00",
+      "modified": "2021-12-02T14:36:02.819837+00:00",
       "note": "And on Linux, we\u2019ve [improved WebGL performance][1] and reduced power consumption for many users.\r\n\r\n\r\n  [1]: https://mozillagfx.wordpress.com/2021/10/30/switching-the-linux-graphics-stack-from-glx-to-egl/",
       "sort_num": 45,
       "tag": "New"
@@ -61,7 +61,7 @@
       "created": "2021-11-02T02:02:38.728905+00:00",
       "id": 788838,
       "is_public": true,
-      "modified": "2021-11-03T15:09:37.980767+00:00",
+      "modified": "2021-12-02T14:36:06.220706+00:00",
       "note": "To better protect all Firefox users against side-channel attacks such as Spectre, we\u2019re introducing [Site Isolation][1]. It will be rolled out to Firefox 94 users over the next few weeks. We\u2019ve got your back...errr...side!\r\n\r\n\r\n  [1]: https://hacks.mozilla.org/2021/05/introducing-firefox-new-site-isolation-security-architecture/",
       "sort_num": 40,
       "tag": "New"
@@ -71,7 +71,7 @@
       "created": "2021-11-02T02:01:34.119577+00:00",
       "id": 788837,
       "is_public": true,
-      "modified": "2021-11-02T02:01:34.119424+00:00",
+      "modified": "2021-12-02T14:36:06.725516+00:00",
       "note": "We\u2019re rolling out the [Firefox Multi-Account Containers][1] extension with [Mozilla VPN][2] integration. This lets you use a different server location for each container.\r\n\r\n\r\n  [1]: https://addons.mozilla.org/firefox/addon/multi-account-containers/\r\n  [2]: https://www.mozilla.org/products/vpn/",
       "sort_num": 30,
       "tag": "New"
@@ -81,7 +81,7 @@
       "created": "2021-11-02T02:00:04.169808+00:00",
       "id": 788836,
       "is_public": true,
-      "modified": "2021-11-02T02:01:48.506768+00:00",
+      "modified": "2021-12-02T14:36:07.189622+00:00",
       "note": "Firefox no longer warns you by default when you exit the browser or close a window using a menu, button, or three-key command. This should cut back on unwelcome notifications which is always nice--however, if you prefer a bit of notice, you\u2019ll still have full control over the quit/close modal behavior. All warnings can be managed within Firefox Settings. No worries! ([More details][1])\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/how-configure-close-tab-warnings-firefox",
       "sort_num": 20,
       "tag": "New"
@@ -91,7 +91,7 @@
       "created": "2021-11-02T01:59:37.627616+00:00",
       "id": 788835,
       "is_public": true,
-      "modified": "2021-11-02T01:59:37.627464+00:00",
+      "modified": "2021-12-02T14:36:07.638615+00:00",
       "note": "And now, Firefox supports the new Snap Layouts menus when running on Windows 11.",
       "sort_num": 10,
       "tag": "New"
@@ -101,7 +101,7 @@
       "created": "2021-11-01T18:54:56.147583+00:00",
       "id": 788823,
       "is_public": true,
-      "modified": "2021-11-01T18:54:56.147423+00:00",
+      "modified": "2021-12-02T14:36:13.253638+00:00",
       "note": "Enterprise users now have more control over Firefox deployments with the availability of our MSIX package on Windows platforms.",
       "sort_num": 20,
       "tag": "Enterprise"
@@ -111,7 +111,7 @@
       "created": "2021-11-01T18:54:40.408956+00:00",
       "id": 788822,
       "is_public": true,
-      "modified": "2021-11-01T18:54:40.408804+00:00",
+      "modified": "2021-12-02T14:36:14.651086+00:00",
       "note": "You\u2019ll also notice various bug fixes and new policies have been implemented in this latest version of Firefox. See more details in the [Firefox for Enterprise 94 Release Notes][1].\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/firefox-enterprise-94-release-notes",
       "sort_num": 10,
       "tag": "Enterprise"
@@ -121,7 +121,7 @@
       "created": "2021-11-02T01:56:01.258233+00:00",
       "id": 788834,
       "is_public": true,
-      "modified": "2021-11-02T01:56:01.258070+00:00",
+      "modified": "2021-12-02T14:36:08.123178+00:00",
       "note": "We\u2019ve reduced the overhead of using performance.mark() and performance.measure() APIs with a large set of performance entries.",
       "sort_num": 100,
       "tag": "Fixed"
@@ -131,7 +131,7 @@
       "created": "2021-11-02T01:55:47.746808+00:00",
       "id": 788833,
       "is_public": true,
-      "modified": "2021-11-02T01:55:47.746631+00:00",
+      "modified": "2021-12-02T14:36:08.568699+00:00",
       "note": "Plus, we\u2019ve modified paint suppression during load to greatly improve warmload performance in Site Isolation mode.",
       "sort_num": 90,
       "tag": "Fixed"
@@ -141,7 +141,7 @@
       "created": "2021-11-02T01:55:26.829690+00:00",
       "id": 788832,
       "is_public": true,
-      "modified": "2021-11-02T01:55:26.829522+00:00",
+      "modified": "2021-12-02T14:36:09.046699+00:00",
       "note": "You\u2019ll also notice a small reduction in Javascript memory usage.",
       "sort_num": 80,
       "tag": "Fixed"
@@ -151,7 +151,7 @@
       "created": "2021-11-02T01:55:11.667842+00:00",
       "id": 788831,
       "is_public": true,
-      "modified": "2021-11-02T01:56:32.150785+00:00",
+      "modified": "2021-12-02T14:36:09.463358+00:00",
       "note": "With this release, you\u2019ll notice faster Javascript property enumeration as well.",
       "sort_num": 70,
       "tag": "Fixed"
@@ -161,7 +161,7 @@
       "created": "2021-11-02T01:54:57.628284+00:00",
       "id": 788830,
       "is_public": true,
-      "modified": "2021-11-02T01:54:57.628116+00:00",
+      "modified": "2021-12-02T14:36:09.975323+00:00",
       "note": "We\u2019ve also implemented better scheduling of garbage collection which has improved some pageload benchmarks.",
       "sort_num": 60,
       "tag": "Fixed"
@@ -171,7 +171,7 @@
       "created": "2021-11-02T01:54:36.653699+00:00",
       "id": 788829,
       "is_public": true,
-      "modified": "2021-11-02T01:54:36.653543+00:00",
+      "modified": "2021-12-02T14:36:10.452387+00:00",
       "note": "This release also sees reduced CPU usage during socket polling for HTTPS connections.",
       "sort_num": 50,
       "tag": "Fixed"
@@ -181,7 +181,7 @@
       "created": "2021-11-02T01:54:23.880605+00:00",
       "id": 788828,
       "is_public": true,
-      "modified": "2021-11-02T01:54:23.880454+00:00",
+      "modified": "2021-12-02T14:36:10.881723+00:00",
       "note": "Additionally, you\u2019ll notice faster storage initialization.",
       "sort_num": 40,
       "tag": "Fixed"
@@ -191,7 +191,7 @@
       "created": "2021-11-02T01:54:03.420893+00:00",
       "id": 788827,
       "is_public": true,
-      "modified": "2021-11-02T01:54:03.420741+00:00",
+      "modified": "2021-12-02T14:36:11.347223+00:00",
       "note": "We\u2019ve also improved cold startup by reducing main thread I/O.",
       "sort_num": 30,
       "tag": "Fixed"
@@ -201,7 +201,7 @@
       "created": "2021-11-02T01:53:42.205970+00:00",
       "id": 788826,
       "is_public": true,
-      "modified": "2021-11-02T01:53:47.528280+00:00",
+      "modified": "2021-12-02T14:36:11.852313+00:00",
       "note": "Plus, closing devtools now reclaims more memory than ever before.",
       "sort_num": 20,
       "tag": "Fixed"
@@ -211,7 +211,7 @@
       "created": "2021-11-02T01:53:21.674097+00:00",
       "id": 788825,
       "is_public": true,
-      "modified": "2021-11-02T01:53:21.673946+00:00",
+      "modified": "2021-12-02T14:36:12.297933+00:00",
       "note": "And we\u2019ve improved pageload (especially with Site Isolation mode) by setting a higher priority for loading and displaying images.",
       "sort_num": 10,
       "tag": "Fixed"
@@ -221,7 +221,7 @@
       "created": "2021-11-02T01:51:14.587201+00:00",
       "id": 788824,
       "is_public": true,
-      "modified": "2021-11-02T01:51:44.888703+00:00",
+      "modified": "2021-12-02T14:36:12.798396+00:00",
       "note": "Various [security fixes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/mfsa2021-48/",
       "sort_num": 0,
       "tag": "Fixed"
@@ -231,7 +231,7 @@
       "created": "2021-11-01T18:53:50.988545+00:00",
       "id": 788821,
       "is_public": true,
-      "modified": "2021-11-01T18:53:50.988391+00:00",
+      "modified": "2021-12-02T14:36:15.588580+00:00",
       "note": "With the release of Firefox 94, we would like to thank all the developers who contributed their first code change to Firefox in this release, 5 of whom were brand new volunteers! Please join us in thanking each of these diligent and enthusiastic individuals, and take a look at their contributions:\r\n\r\n - bvandersloot: [Bug 1671182][1] - Remove \"cache\" feature from Clear-Site-Data\r\n - colin.cazabet: [Bug 1619312][2] - Highlighting all occurrences of a selected token, [Bug 1654257][3] - Images with incorrect mime-type won't appear when Network is filtered with \"Images\"\r\n - Ben: [Bug 1656651][4] - Improve the management and reporting of the pausing of RSS feeds.\r\n - Hanna Jones: [Bug 1723989][5] - Printing modal animation is displayed even when the show animation is switched off on Windows\r\n - Noah Pesta: [Bug 1699593][6] - Remove default icon styles from info-pages.css .title class\r\n - Shaoting Huang: [Bug 1712370][7] - Rename --panel-banner-item-warning-icon-bgcolor variable\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1671182\r\n  [2]: https://bugzilla.mozilla.org/show_bug.cgi?id=1619312\r\n  [3]: https://bugzilla.mozilla.org/show_bug.cgi?id=1654257\r\n  [4]: https://bugzilla.mozilla.org/show_bug.cgi?id=1656651\r\n  [5]: https://bugzilla.mozilla.org/show_bug.cgi?id=1723989\r\n  [6]: https://bugzilla.mozilla.org/show_bug.cgi?id=1699593\r\n  [7]: https://bugzilla.mozilla.org/show_bug.cgi?id=1712370",
       "sort_num": 0,
       "tag": "Community"
