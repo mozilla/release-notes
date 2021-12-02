@@ -55,6 +55,46 @@
       "note": "The \u201cJump back in\u201d section will now always show titles or URLs.",
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2021-12-02T19:10:33.089468+00:00",
+      "id": 788878,
+      "is_public": true,
+      "modified": "2021-12-02T19:10:33.089299+00:00",
+      "note": "The Inactive Tabs prompt will no longer be redisplayed after dismissing the prompt.",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2021-12-02T19:11:11.155467+00:00",
+      "id": 788879,
+      "is_public": true,
+      "modified": "2021-12-02T19:11:11.155310+00:00",
+      "note": "The download list will now refresh properly after deleting a file.",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2021-12-02T19:12:08.480445+00:00",
+      "id": 788880,
+      "is_public": true,
+      "modified": "2021-12-02T19:12:08.480213+00:00",
+      "note": "We\u2019ve also fixed the following crashes:\r\n - When opening a history group\r\n - When a selected topic under \u201cStories by topic\u201d does not exist anymore)",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2021-12-02T19:18:18.112556+00:00",
+      "id": 788883,
+      "is_public": true,
+      "modified": "2021-12-02T19:18:18.112407+00:00",
+      "note": "Various stability, functionality, and [security][1] fixes\r\n\r\n\r\n  [1]: https://www.mozilla.org/en-US/security/advisories/",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox for Android",
