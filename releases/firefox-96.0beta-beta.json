@@ -25,6 +25,60 @@
       "tag": "New"
     },
     {
+      "bug": 1654112,
+      "created": "2021-11-22T19:03:59.226413+00:00",
+      "fixed_in_release": {
+        "channel": "Nightly",
+        "is_public": true,
+        "product": "Firefox",
+        "slug": "firefox-96.0a1-nightly",
+        "title": "Firefox 96.0a1 Nightly",
+        "version": "96.0a1"
+      },
+      "id": 788856,
+      "is_public": true,
+      "modified": "2021-12-06T15:05:29.727303+00:00",
+      "note": "Significantly reduced main thread load",
+      "sort_num": 40,
+      "tag": "New"
+    },
+    {
+      "bug": 1729110,
+      "created": "2021-11-22T19:03:30.486084+00:00",
+      "fixed_in_release": {
+        "channel": "Nightly",
+        "is_public": true,
+        "product": "Firefox",
+        "slug": "firefox-96.0a1-nightly",
+        "title": "Firefox 96.0a1 Nightly",
+        "version": "96.0a1"
+      },
+      "id": 788855,
+      "is_public": true,
+      "modified": "2021-12-06T15:05:56.149465+00:00",
+      "note": "Fixes an issue where video intermittently drops SSRC",
+      "sort_num": 30,
+      "tag": "New"
+    },
+    {
+      "bug": 1730748,
+      "created": "2021-11-22T18:59:22.476802+00:00",
+      "fixed_in_release": {
+        "channel": "Nightly",
+        "is_public": true,
+        "product": "Firefox",
+        "slug": "firefox-96.0a1-nightly",
+        "title": "Firefox 96.0a1 Nightly",
+        "version": "96.0a1"
+      },
+      "id": 788852,
+      "is_public": true,
+      "modified": "2021-12-06T15:06:32.150918+00:00",
+      "note": "Fixes issue where WebRTC downgrades screen sharing resolution",
+      "sort_num": 20,
+      "tag": "New"
+    },
+    {
       "bug": 1617609,
       "created": "2021-11-23T19:45:17.529797+00:00",
       "fixed_in_release": {
@@ -40,6 +94,24 @@
       "modified": "2021-12-02T20:22:35.925971+00:00",
       "note": "Firefox will enforce the `Cookie Policy: Same-Site=lax` by default which provides a solid first line of defense against Cross-Site Request Forgery (CSRF) attacks.",
       "sort_num": 19,
+      "tag": "New"
+    },
+    {
+      "bug": 1690832,
+      "created": "2021-11-22T19:01:37.688793+00:00",
+      "fixed_in_release": {
+        "channel": "Nightly",
+        "is_public": true,
+        "product": "Firefox",
+        "slug": "firefox-96.0a1-nightly",
+        "title": "Firefox 96.0a1 Nightly",
+        "version": "96.0a1"
+      },
+      "id": 788853,
+      "is_public": true,
+      "modified": "2021-12-06T15:07:31.399341+00:00",
+      "note": "Fixes video quality degradation in certain sites",
+      "sort_num": 10,
       "tag": "New"
     }
   ],
