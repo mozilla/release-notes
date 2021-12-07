@@ -4,7 +4,7 @@
   "channel": "Beta",
   "created": "2021-12-02T19:59:45.777324+00:00",
   "is_public": false,
-  "modified": "2021-12-02T19:59:45.777097+00:00",
+  "modified": "2021-12-07T02:36:05.282611+00:00",
   "notes": [
     {
       "bug": 1654112,
@@ -113,12 +113,30 @@
       "note": "Fixes video quality degradation in certain sites",
       "sort_num": 10,
       "tag": "New"
+    },
+    {
+      "bug": 1376091,
+      "created": "2021-12-06T15:17:24.741334+00:00",
+      "fixed_in_release": {
+        "channel": "Nightly",
+        "is_public": true,
+        "product": "Firefox",
+        "slug": "firefox-96.0a1-nightly",
+        "title": "Firefox 96.0a1 Nightly",
+        "version": "96.0a1"
+      },
+      "id": 788884,
+      "is_public": true,
+      "modified": "2021-12-07T02:36:57.041266+00:00",
+      "note": "Firefox for Linux changes shortcut key for \"Select All\" from `Alt-a` to `Ctrl-a` for solving web-compat and avoiding conflict with access keys. If you want to keep using Emacs like key bindings, e.g., you configured your GTK settings to use `Ctrl-a` as a shortcut key for moving caret to beginning of a line, you need to change `ui.key.textcontrol.prefer_native_key_bindings_over_builtin_shortcut_key_definitions` and `ui.key.use_select_all_in_single_line_editor` from `about:config`. These prefs are currently disabled by default but would be enabled by default in a future release.",
+      "sort_num": 9,
+      "tag": ""
     }
   ],
   "product": "Firefox",
   "release_date": "2021-12-07",
   "slug": "firefox-96.0beta-beta",
-  "system_requirements": "## Windows\r\n\r\n### Operating Systems (32-bit and 64-bit)\r\n - Windows 7\r\n - Windows 8\r\n - Windows 10\r\n - Windows 11\r\n\r\n### Recommended Hardware\r\n-  Pentium 4 or newer processor that supports SSE2\r\n-  512MB of RAM / 2GB of RAM for the 64-bit version\r\n-  200MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- macOS 10.12\r\n- macOS 10.13\r\n- macOS 10.14\r\n- macOS 10.15\r\n- macOS 11\r\n- macOS 12\r\n\r\n### Recommended Hardware\r\n- Mac computer with an Intel x86 or Apple silicon processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - GTK+ 3.14 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n    - libstdc++ 4.8.1 or higher\r\n    - glibc 2.17 or higher\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - NetworkManager 0.7 or higher\r\n    - DBus 1.0 or higher\r\n    - GNOME 2.16 or higher\r\n    - PulseAudio",
+  "system_requirements": "## Windows\r\n\r\n### Operating Systems (32-bit and 64-bit)\r\n - Windows 7\r\n - Windows 8\r\n - Windows 10\r\n - Windows 11\r\n\r\n### Recommended Hardware\r\n-  Pentium 4 or newer processor that supports SSE2\r\n-  512MB of RAM / 2GB of RAM for the 64-bit version\r\n-  200MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- macOS 10.12\r\n- macOS 10.13\r\n- macOS 10.14\r\n- macOS 10.15\r\n- macOS 11\r\n- macOS 12\r\n\r\n### Recommended Hardware\r\n- Mac computer with an Intel x86 or Apple silicon processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - glibc 2.17 or higher\r\n    - GTK+ 3.14 or higher\r\n    - libstdc++ 4.8.1 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - DBus 1.0 or higher\r\n    - GNOME 2.16 or higher\r\n    - libxtst 1.2.3 or higher\r\n    - NetworkManager 0.7 or higher\r\n    - PulseAudio",
   "text": "",
   "title": "Firefox 96.0beta Beta",
   "version": "96.0beta"
