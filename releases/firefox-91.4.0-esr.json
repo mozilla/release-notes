@@ -8,11 +8,21 @@
   "notes": [
     {
       "bug": null,
+      "created": "2021-10-01T08:13:28.397010+00:00",
+      "id": 788793,
+      "is_public": true,
+      "modified": "2021-12-09T19:56:05.767468+00:00",
+      "note": "Firefox PDF viewer now supports filling more forms (XFA-based forms, used by multiple governments and banks). [Learn more][1].\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/view-pdf-files-firefox-or-choose-another-viewer#w_fill-out-forms-in-pdf-viewer",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
       "created": "2021-12-02T19:17:25.587754+00:00",
       "id": 788881,
       "is_public": true,
-      "modified": "2021-12-07T13:08:48.413654+00:00",
-      "note": "Various [security][1] fixes\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/mfsa2021-53/",
+      "modified": "2021-12-09T19:55:19.658180+00:00",
+      "note": "Various stability, functionality, and [security fixes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/mfsa2021-53/",
       "sort_num": 0,
       "tag": "Fixed"
     }
