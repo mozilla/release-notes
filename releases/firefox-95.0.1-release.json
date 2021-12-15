@@ -35,6 +35,16 @@
       "note": "Fix for a frequent Windows shutdown crash ([bug 1738984][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1738984",
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": 1740518,
+      "created": "2021-12-15T22:11:05.234951+00:00",
+      "id": 788888,
+      "is_public": true,
+      "modified": "2021-12-15T22:11:05.234771+00:00",
+      "note": "Fix websites contrast issues for some Linux users with Dark mode set at OS level ([bug 1740518][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1740518",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
