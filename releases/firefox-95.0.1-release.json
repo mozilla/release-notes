@@ -15,6 +15,16 @@
       "note": "Fix for microsoft.com domains yielding a certificate error message. ([bug 1745600][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/1745600",
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": 1741956,
+      "created": "2021-12-15T22:00:41.546111+00:00",
+      "id": 788886,
+      "is_public": true,
+      "modified": "2021-12-15T22:00:41.545959+00:00",
+      "note": "Fix  for a WebRender crash on some Linux/X11 systems ([bug 1741956][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1741956",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
