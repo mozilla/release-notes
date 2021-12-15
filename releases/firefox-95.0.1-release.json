@@ -25,6 +25,16 @@
       "note": "Fix  for a WebRender crash on some Linux/X11 systems ([bug 1741956][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1741956",
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": 1738982,
+      "created": "2021-12-15T22:05:13.156992+00:00",
+      "id": 788887,
+      "is_public": true,
+      "modified": "2021-12-15T22:05:13.156828+00:00",
+      "note": "Fix for a frequent Windows shutdown crash ([bug 1738984][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1738984",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
