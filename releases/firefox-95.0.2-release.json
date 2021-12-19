@@ -4,8 +4,18 @@
   "channel": "Release",
   "created": "2021-12-18T22:36:07.871713+00:00",
   "is_public": true,
-  "modified": "2021-12-19T15:21:57.863207+00:00",
+  "modified": "2021-12-19T17:19:22.400165+00:00",
   "notes": [
+    {
+      "bug": 0,
+      "created": "2021-12-19T17:18:29.376516+00:00",
+      "id": 788890,
+      "is_public": true,
+      "modified": "2021-12-19T17:18:39.163462+00:00",
+      "note": "Reference link to [95.0.1 release notes][0]\r\n\r\n[0]: https://www.mozilla.org/firefox/95.0.1/releasenotes/",
+      "sort_num": 0,
+      "tag": ""
+    },
     {
       "bug": 1746733,
       "created": "2021-12-18T22:41:41.318999+00:00",
