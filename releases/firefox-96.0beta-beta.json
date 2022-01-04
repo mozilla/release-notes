@@ -91,8 +91,8 @@
       },
       "id": 788858,
       "is_public": true,
-      "modified": "2021-12-06T17:54:04.363256+00:00",
-      "note": "Firefox will enforce the `Cookie Policy: Same-Site=lax` by default which provides a solid first line of defense against Cross-Site Request Forgery (CSRF) attacks.",
+      "modified": "2022-01-04T23:28:51.485485+00:00",
+      "note": "Firefox will now enforce the `Cookie Policy: Same-Site=lax` by default which provides a solid first line of defense against Cross-Site Request Forgery (CSRF) attacks.",
       "sort_num": 19,
       "tag": "New"
     },

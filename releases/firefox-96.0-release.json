@@ -5,7 +5,26 @@
   "created": "2022-01-04T21:35:14.211391+00:00",
   "is_public": false,
   "modified": "2022-01-04T21:35:14.211162+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": 1617609,
+      "created": "2021-11-23T19:45:17.529797+00:00",
+      "fixed_in_release": {
+        "channel": "Nightly",
+        "is_public": true,
+        "product": "Firefox",
+        "slug": "firefox-96.0a1-nightly",
+        "title": "Firefox 96.0a1 Nightly",
+        "version": "96.0a1"
+      },
+      "id": 788858,
+      "is_public": true,
+      "modified": "2022-01-04T23:28:51.485485+00:00",
+      "note": "Firefox will now enforce the `Cookie Policy: Same-Site=lax` by default which provides a solid first line of defense against Cross-Site Request Forgery (CSRF) attacks.",
+      "sort_num": 19,
+      "tag": "New"
+    }
+  ],
   "product": "Firefox",
   "release_date": "2022-01-11",
   "slug": "firefox-96.0-release",
