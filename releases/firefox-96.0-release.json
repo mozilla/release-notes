@@ -62,6 +62,24 @@
     },
     {
       "bug": null,
+      "created": "2022-01-05T01:01:12.051545+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": false,
+        "product": "Firefox",
+        "slug": "firefox-96.0-release",
+        "title": "Firefox 96.0 Release",
+        "version": "96.0"
+      },
+      "id": 788895,
+      "is_public": true,
+      "modified": "2022-01-05T01:01:12.051330+00:00",
+      "note": "Various bug fixes and new policies have been implemented in the latest version of Firefox. You can find more information in the Firefox for Enterprise [96 Release Notes.][1]\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/firefox-enterprise-96-release-notes",
+      "sort_num": 0,
+      "tag": "Enterprise"
+    },
+    {
+      "bug": null,
       "created": "2022-01-05T00:22:26.605759+00:00",
       "fixed_in_release": {
         "channel": "Release",
@@ -76,6 +94,42 @@
       "modified": "2022-01-05T00:22:26.605595+00:00",
       "note": "Our newest release fixes an issue where video intermittently drops SSRC.",
       "sort_num": 20,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2022-01-05T00:56:54.699045+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": false,
+        "product": "Firefox",
+        "slug": "firefox-96.0-release",
+        "title": "Firefox 96.0 Release",
+        "version": "96.0"
+      },
+      "id": 788894,
+      "is_public": true,
+      "modified": "2022-01-05T00:56:54.698858+00:00",
+      "note": "It also fixes an issue where WebRTC downgrades screen sharing resolution to provide you with a clearer browsing experience.",
+      "sort_num": 15,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2022-01-05T00:56:01.569041+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": false,
+        "product": "Firefox",
+        "slug": "firefox-96.0-release",
+        "title": "Firefox 96.0 Release",
+        "version": "96.0"
+      },
+      "id": 788893,
+      "is_public": true,
+      "modified": "2022-01-05T00:56:34.876515+00:00",
+      "note": "Plus, we\u2019ve fixed video quality degradation issues on certain sites.",
+      "sort_num": 10,
       "tag": "Fixed"
     }
   ],
