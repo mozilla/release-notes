@@ -59,6 +59,24 @@
       "note": "Firefox will now enforce the `Cookie Policy: Same-Site=lax` by default which provides a solid first line of defense against Cross-Site Request Forgery (CSRF) attacks.",
       "sort_num": 19,
       "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2022-01-05T00:22:26.605759+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": false,
+        "product": "Firefox",
+        "slug": "firefox-96.0-release",
+        "title": "Firefox 96.0 Release",
+        "version": "96.0"
+      },
+      "id": 788892,
+      "is_public": true,
+      "modified": "2022-01-05T00:22:26.605595+00:00",
+      "note": "Our newest release fixes an issue where video intermittently drops SSRC.",
+      "sort_num": 20,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
