@@ -131,6 +131,24 @@
       "note": "Firefox for Linux changes shortcut key for \"Select All\" from `Alt-a` to `Ctrl-a` for solving web-compat and avoiding conflict with access keys. If you want to keep using Emacs like key bindings, e.g., you configured your GTK settings to use `Ctrl-a` as a shortcut key for moving caret to beginning of a line, you need to change `ui.key.textcontrol.prefer_native_key_bindings_over_builtin_shortcut_key_definitions` and `ui.key.use_select_all_in_single_line_editor` from `about:config`. These prefs are currently disabled by default but would be enabled by default in a future release.",
       "sort_num": 9,
       "tag": ""
+    },
+    {
+      "bug": 35228,
+      "created": "2022-01-05T19:55:38.378642+00:00",
+      "fixed_in_release": {
+        "channel": "Beta",
+        "is_public": true,
+        "product": "Firefox",
+        "slug": "firefox-96.0beta-beta",
+        "title": "Firefox 96.0beta Beta",
+        "version": "96.0beta"
+      },
+      "id": 788896,
+      "is_public": true,
+      "modified": "2022-01-05T19:55:38.378487+00:00",
+      "note": "When printing, you can now choose to print only the odd/even pages.",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
