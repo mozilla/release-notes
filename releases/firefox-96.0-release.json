@@ -7,6 +7,42 @@
   "modified": "2022-01-04T21:35:14.211162+00:00",
   "notes": [
     {
+      "bug": 1654112,
+      "created": "2021-11-22T19:04:47.691590+00:00",
+      "fixed_in_release": {
+        "channel": "Nightly",
+        "is_public": true,
+        "product": "Firefox",
+        "slug": "firefox-96.0a1-nightly",
+        "title": "Firefox 96.0a1 Nightly",
+        "version": "96.0a1"
+      },
+      "id": 788857,
+      "is_public": true,
+      "modified": "2022-01-05T00:17:32.315178+00:00",
+      "note": "We\u2019ve made significant improvements in noise-suppression and auto-gain-control as well as slight improvements in echo-cancellation to provide you with a better overall experience.",
+      "sort_num": 50,
+      "tag": "New"
+    },
+    {
+      "bug": 1654112,
+      "created": "2021-11-22T19:03:59.226413+00:00",
+      "fixed_in_release": {
+        "channel": "Nightly",
+        "is_public": true,
+        "product": "Firefox",
+        "slug": "firefox-96.0a1-nightly",
+        "title": "Firefox 96.0a1 Nightly",
+        "version": "96.0a1"
+      },
+      "id": 788856,
+      "is_public": true,
+      "modified": "2022-01-05T00:18:36.679549+00:00",
+      "note": "We\u2019ve also significantly reduced main-thread load.",
+      "sort_num": 40,
+      "tag": "New"
+    },
+    {
       "bug": 1617609,
       "created": "2021-11-23T19:45:17.529797+00:00",
       "fixed_in_release": {
