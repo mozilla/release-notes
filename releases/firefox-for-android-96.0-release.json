@@ -8,6 +8,204 @@
   "notes": [
     {
       "bug": null,
+      "created": "2022-01-07T16:30:59.051327+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": false,
+        "product": "Firefox for Android",
+        "slug": "firefox-for-android-96.0-release",
+        "title": "Firefox for Android 96.0 Release",
+        "version": "96.0"
+      },
+      "id": 788899,
+      "is_public": true,
+      "modified": "2022-01-07T16:30:59.051161+00:00",
+      "note": "We\u2019ve added history highlights to recently visited sites.",
+      "sort_num": 100,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2022-01-07T16:31:40.663582+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": false,
+        "product": "Firefox for Android",
+        "slug": "firefox-for-android-96.0-release",
+        "title": "Firefox for Android 96.0 Release",
+        "version": "96.0"
+      },
+      "id": 788900,
+      "is_public": true,
+      "modified": "2022-01-07T16:32:42.286341+00:00",
+      "note": "Firefox will now display better images for recent bookmarks on the home page.",
+      "sort_num": 95,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2022-01-07T16:38:31.660266+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": false,
+        "product": "Firefox for Android",
+        "slug": "firefox-for-android-96.0-release",
+        "title": "Firefox for Android 96.0 Release",
+        "version": "96.0"
+      },
+      "id": 788909,
+      "is_public": true,
+      "modified": "2022-01-07T16:38:31.660099+00:00",
+      "note": "\u201cFill link from clipboard\u201d has been improved for Android 12.",
+      "sort_num": 90,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2022-01-07T16:37:51.382894+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": false,
+        "product": "Firefox for Android",
+        "slug": "firefox-for-android-96.0-release",
+        "title": "Firefox for Android 96.0 Release",
+        "version": "96.0"
+      },
+      "id": 788908,
+      "is_public": true,
+      "modified": "2022-01-07T16:37:51.382727+00:00",
+      "note": "Now, selecting \u2018search group\u2019 in \u2018Jump back in\u2019 switches to an active tab.",
+      "sort_num": 80,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2022-01-07T16:37:01.026107+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": false,
+        "product": "Firefox for Android",
+        "slug": "firefox-for-android-96.0-release",
+        "title": "Firefox for Android 96.0 Release",
+        "version": "96.0"
+      },
+      "id": 788907,
+      "is_public": true,
+      "modified": "2022-01-07T16:37:01.025952+00:00",
+      "note": "We\u2019ve fixed an interface problem where private tabs were displayed as normal tabs.",
+      "sort_num": 70,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2022-01-07T16:36:38.196892+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": false,
+        "product": "Firefox for Android",
+        "slug": "firefox-for-android-96.0-release",
+        "title": "Firefox for Android 96.0 Release",
+        "version": "96.0"
+      },
+      "id": 788906,
+      "is_public": true,
+      "modified": "2022-01-07T16:36:38.196666+00:00",
+      "note": "The history delete button is now correctly labeled for screen readers.",
+      "sort_num": 60,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2022-01-07T16:35:54.676665+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": false,
+        "product": "Firefox for Android",
+        "slug": "firefox-for-android-96.0-release",
+        "title": "Firefox for Android 96.0 Release",
+        "version": "96.0"
+      },
+      "id": 788905,
+      "is_public": true,
+      "modified": "2022-01-07T16:35:54.676499+00:00",
+      "note": "Duplicate history items are now merged.",
+      "sort_num": 50,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2022-01-07T16:35:27.345404+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": false,
+        "product": "Firefox for Android",
+        "slug": "firefox-for-android-96.0-release",
+        "title": "Firefox for Android 96.0 Release",
+        "version": "96.0"
+      },
+      "id": 788904,
+      "is_public": true,
+      "modified": "2022-01-07T16:36:05.047163+00:00",
+      "note": "A rare crash when browsing bookmarks is now fixed.",
+      "sort_num": 40,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2022-01-07T16:34:27.611697+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": false,
+        "product": "Firefox for Android",
+        "slug": "firefox-for-android-96.0-release",
+        "title": "Firefox for Android 96.0 Release",
+        "version": "96.0"
+      },
+      "id": 788903,
+      "is_public": true,
+      "modified": "2022-01-07T16:34:27.611520+00:00",
+      "note": "Deleted search groups are now repopulated after interacting with their tabs.",
+      "sort_num": 30,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2022-01-07T16:33:57.094874+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": false,
+        "product": "Firefox for Android",
+        "slug": "firefox-for-android-96.0-release",
+        "title": "Firefox for Android 96.0 Release",
+        "version": "96.0"
+      },
+      "id": 788902,
+      "is_public": true,
+      "modified": "2022-01-07T16:33:57.094706+00:00",
+      "note": "You\u2019ll now find Search Groups in Jump Back In will not also display in Recently Searched.",
+      "sort_num": 20,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2022-01-07T16:33:26.325359+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": false,
+        "product": "Firefox for Android",
+        "slug": "firefox-for-android-96.0-release",
+        "title": "Firefox for Android 96.0 Release",
+        "version": "96.0"
+      },
+      "id": 788901,
+      "is_public": true,
+      "modified": "2022-01-07T16:33:26.325169+00:00",
+      "note": "You can now dismiss the keyboard when scrolling Home behind search dialog for a clearer, smoother experience.",
+      "sort_num": 10,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
       "created": "2022-01-07T13:39:28.880555+00:00",
       "id": 788898,
       "is_public": true,
