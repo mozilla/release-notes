@@ -19,7 +19,7 @@
       },
       "id": 788857,
       "is_public": true,
-      "modified": "2022-01-05T00:17:32.315178+00:00",
+      "modified": "2022-01-10T16:14:54.365894+00:00",
       "note": "We\u2019ve made significant improvements in noise-suppression and auto-gain-control as well as slight improvements in echo-cancellation to provide you with a better overall experience.",
       "sort_num": 50,
       "tag": "New"
@@ -37,7 +37,7 @@
       },
       "id": 788856,
       "is_public": true,
-      "modified": "2022-01-05T00:18:36.679549+00:00",
+      "modified": "2022-01-10T16:14:55.455783+00:00",
       "note": "We\u2019ve also significantly reduced main-thread load.",
       "sort_num": 40,
       "tag": "New"
@@ -55,7 +55,7 @@
       },
       "id": 788855,
       "is_public": true,
-      "modified": "2021-12-06T17:54:06.561055+00:00",
+      "modified": "2022-01-10T16:14:56.126771+00:00",
       "note": "Fixes an issue where video intermittently drops SSRC",
       "sort_num": 30,
       "tag": "New"
@@ -73,7 +73,7 @@
       },
       "id": 788852,
       "is_public": true,
-      "modified": "2021-12-06T17:53:51.278113+00:00",
+      "modified": "2022-01-10T16:14:52.028604+00:00",
       "note": "Fixes issue where WebRTC downgrades screen sharing resolution",
       "sort_num": 20,
       "tag": "New"
@@ -91,7 +91,7 @@
       },
       "id": 788858,
       "is_public": true,
-      "modified": "2022-01-04T23:28:51.485485+00:00",
+      "modified": "2022-01-10T16:14:49.609793+00:00",
       "note": "Firefox will now enforce the `Cookie Policy: Same-Site=lax` by default which provides a solid first line of defense against Cross-Site Request Forgery (CSRF) attacks.",
       "sort_num": 19,
       "tag": "New"
@@ -109,7 +109,7 @@
       },
       "id": 788853,
       "is_public": true,
-      "modified": "2021-12-06T17:54:07.549191+00:00",
+      "modified": "2022-01-10T16:14:53.172433+00:00",
       "note": "Fixes video quality degradation in certain sites",
       "sort_num": 10,
       "tag": "New"
@@ -127,7 +127,7 @@
       },
       "id": 788884,
       "is_public": true,
-      "modified": "2021-12-07T02:36:57.041266+00:00",
+      "modified": "2022-01-10T16:14:56.812987+00:00",
       "note": "Firefox for Linux changes shortcut key for \"Select All\" from `Alt-a` to `Ctrl-a` for solving web-compat and avoiding conflict with access keys. If you want to keep using Emacs like key bindings, e.g., you configured your GTK settings to use `Ctrl-a` as a shortcut key for moving caret to beginning of a line, you need to change `ui.key.textcontrol.prefer_native_key_bindings_over_builtin_shortcut_key_definitions` and `ui.key.use_select_all_in_single_line_editor` from `about:config`. These prefs are currently disabled by default but would be enabled by default in a future release.",
       "sort_num": 9,
       "tag": ""
