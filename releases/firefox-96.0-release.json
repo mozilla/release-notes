@@ -134,6 +134,24 @@
     },
     {
       "bug": null,
+      "created": "2022-01-10T15:00:44.167925+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": false,
+        "product": "Firefox",
+        "slug": "firefox-96.0-release",
+        "title": "Firefox 96.0 Release",
+        "version": "96.0"
+      },
+      "id": 788910,
+      "is_public": true,
+      "modified": "2022-01-10T15:00:44.167765+00:00",
+      "note": "Detached video in fullscreen on macOS has been temporarily disabled to avoid some issues with corruption, brightness changes, missing subtitles and high cpu usage.",
+      "sort_num": 10,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
       "created": "2022-01-07T13:39:28.880555+00:00",
       "id": 788898,
       "is_public": true,
