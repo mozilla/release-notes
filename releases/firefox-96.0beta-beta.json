@@ -43,42 +43,6 @@
       "tag": "New"
     },
     {
-      "bug": 1729110,
-      "created": "2021-11-22T19:03:30.486084+00:00",
-      "fixed_in_release": {
-        "channel": "Nightly",
-        "is_public": true,
-        "product": "Firefox",
-        "slug": "firefox-96.0a1-nightly",
-        "title": "Firefox 96.0a1 Nightly",
-        "version": "96.0a1"
-      },
-      "id": 788855,
-      "is_public": true,
-      "modified": "2022-01-10T16:14:56.126771+00:00",
-      "note": "Fixes an issue where video intermittently drops SSRC",
-      "sort_num": 30,
-      "tag": "New"
-    },
-    {
-      "bug": 1730748,
-      "created": "2021-11-22T18:59:22.476802+00:00",
-      "fixed_in_release": {
-        "channel": "Nightly",
-        "is_public": true,
-        "product": "Firefox",
-        "slug": "firefox-96.0a1-nightly",
-        "title": "Firefox 96.0a1 Nightly",
-        "version": "96.0a1"
-      },
-      "id": 788852,
-      "is_public": true,
-      "modified": "2022-01-10T16:14:52.028604+00:00",
-      "note": "Fixes issue where WebRTC downgrades screen sharing resolution",
-      "sort_num": 20,
-      "tag": "New"
-    },
-    {
       "bug": 1617609,
       "created": "2021-11-23T19:45:17.529797+00:00",
       "fixed_in_release": {
@@ -97,21 +61,21 @@
       "tag": "New"
     },
     {
-      "bug": 1690832,
-      "created": "2021-11-22T19:01:37.688793+00:00",
+      "bug": 35228,
+      "created": "2022-01-05T19:55:38.378642+00:00",
       "fixed_in_release": {
-        "channel": "Nightly",
+        "channel": "Beta",
         "is_public": true,
         "product": "Firefox",
-        "slug": "firefox-96.0a1-nightly",
-        "title": "Firefox 96.0a1 Nightly",
-        "version": "96.0a1"
+        "slug": "firefox-96.0beta-beta",
+        "title": "Firefox 96.0beta Beta",
+        "version": "96.0beta"
       },
-      "id": 788853,
+      "id": 788896,
       "is_public": true,
-      "modified": "2022-01-10T16:14:53.172433+00:00",
-      "note": "Fixes video quality degradation in certain sites",
-      "sort_num": 10,
+      "modified": "2022-01-12T17:24:19.425612+00:00",
+      "note": "When printing, you can now choose to print only the odd/even pages.",
+      "sort_num": 0,
       "tag": "New"
     },
     {
@@ -127,27 +91,63 @@
       },
       "id": 788884,
       "is_public": true,
-      "modified": "2022-01-10T16:14:56.812987+00:00",
+      "modified": "2022-01-12T17:26:00.277385+00:00",
       "note": "Firefox for Linux changes shortcut key for \"Select All\" from `Alt-a` to `Ctrl-a` for solving web-compat and avoiding conflict with access keys. If you want to keep using Emacs like key bindings, e.g., you configured your GTK settings to use `Ctrl-a` as a shortcut key for moving caret to beginning of a line, you need to change `ui.key.textcontrol.prefer_native_key_bindings_over_builtin_shortcut_key_definitions` and `ui.key.use_select_all_in_single_line_editor` from `about:config`. These prefs are currently disabled by default but would be enabled by default in a future release.",
       "sort_num": 9,
-      "tag": ""
+      "tag": "Developer"
     },
     {
-      "bug": 35228,
-      "created": "2022-01-05T19:55:38.378642+00:00",
+      "bug": 1729110,
+      "created": "2021-11-22T19:03:30.486084+00:00",
       "fixed_in_release": {
-        "channel": "Beta",
+        "channel": "Nightly",
         "is_public": true,
         "product": "Firefox",
-        "slug": "firefox-96.0beta-beta",
-        "title": "Firefox 96.0beta Beta",
-        "version": "96.0beta"
+        "slug": "firefox-96.0a1-nightly",
+        "title": "Firefox 96.0a1 Nightly",
+        "version": "96.0a1"
       },
-      "id": 788896,
+      "id": 788855,
       "is_public": true,
-      "modified": "2022-01-10T16:14:51.363877+00:00",
-      "note": "When printing, you can now choose to print only the odd/even pages.",
-      "sort_num": 0,
+      "modified": "2022-01-12T17:25:23.177372+00:00",
+      "note": "Fixes an issue where video intermittently drops SSRC",
+      "sort_num": 30,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1730748,
+      "created": "2021-11-22T18:59:22.476802+00:00",
+      "fixed_in_release": {
+        "channel": "Nightly",
+        "is_public": true,
+        "product": "Firefox",
+        "slug": "firefox-96.0a1-nightly",
+        "title": "Firefox 96.0a1 Nightly",
+        "version": "96.0a1"
+      },
+      "id": 788852,
+      "is_public": true,
+      "modified": "2022-01-12T17:25:12.059940+00:00",
+      "note": "Fixes issue where WebRTC downgrades screen sharing resolution",
+      "sort_num": 20,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1690832,
+      "created": "2021-11-22T19:01:37.688793+00:00",
+      "fixed_in_release": {
+        "channel": "Nightly",
+        "is_public": true,
+        "product": "Firefox",
+        "slug": "firefox-96.0a1-nightly",
+        "title": "Firefox 96.0a1 Nightly",
+        "version": "96.0a1"
+      },
+      "id": 788853,
+      "is_public": true,
+      "modified": "2022-01-12T17:25:18.329944+00:00",
+      "note": "Fixes video quality degradation in certain sites",
+      "sort_num": 10,
       "tag": "Fixed"
     }
   ],

@@ -61,6 +61,24 @@
       "tag": "New"
     },
     {
+      "bug": 35228,
+      "created": "2022-01-05T19:55:38.378642+00:00",
+      "fixed_in_release": {
+        "channel": "Beta",
+        "is_public": true,
+        "product": "Firefox",
+        "slug": "firefox-96.0beta-beta",
+        "title": "Firefox 96.0beta Beta",
+        "version": "96.0beta"
+      },
+      "id": 788896,
+      "is_public": true,
+      "modified": "2022-01-12T17:24:19.425612+00:00",
+      "note": "When printing, you can now choose to print only the odd/even pages.",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": null,
       "created": "2022-01-12T16:01:33.253922+00:00",
       "fixed_in_release": {
