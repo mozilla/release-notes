@@ -62,6 +62,78 @@
     },
     {
       "bug": null,
+      "created": "2022-01-12T16:01:33.253922+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": true,
+        "product": "Firefox",
+        "slug": "firefox-96.0-release",
+        "title": "Firefox 96.0 Release",
+        "version": "96.0"
+      },
+      "id": 788914,
+      "is_public": true,
+      "modified": "2022-01-12T16:01:33.253650+00:00",
+      "note": "The Web Locks API landed. This allows scripts running in different service workers or tabs to coordinate with each other.",
+      "sort_num": 30,
+      "tag": "HTML5"
+    },
+    {
+      "bug": null,
+      "created": "2022-01-12T16:01:57.780238+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": true,
+        "product": "Firefox",
+        "slug": "firefox-96.0-release",
+        "title": "Firefox 96.0 Release",
+        "version": "96.0"
+      },
+      "id": 788915,
+      "is_public": true,
+      "modified": "2022-01-12T16:01:57.780076+00:00",
+      "note": "WebRTC library updated, bringing improved audio and video features for web conferencing applications.",
+      "sort_num": 20,
+      "tag": "HTML5"
+    },
+    {
+      "bug": null,
+      "created": "2022-01-12T16:02:23.494285+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": true,
+        "product": "Firefox",
+        "slug": "firefox-96.0-release",
+        "title": "Firefox 96.0 Release",
+        "version": "96.0"
+      },
+      "id": 788916,
+      "is_public": true,
+      "modified": "2022-01-12T16:02:23.494115+00:00",
+      "note": "Added CSS color-scheme support to allow web pages to indicate which color schemes they can be rendered with (for example, operating system dark mode).",
+      "sort_num": 10,
+      "tag": "HTML5"
+    },
+    {
+      "bug": null,
+      "created": "2022-01-12T15:56:57.086146+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": true,
+        "product": "Firefox",
+        "slug": "firefox-96.0-release",
+        "title": "Firefox 96.0 Release",
+        "version": "96.0"
+      },
+      "id": 788913,
+      "is_public": true,
+      "modified": "2022-01-12T15:56:57.085975+00:00",
+      "note": "Firefox for Linux changes the shortcut key for \u2018Select All\u2019 from \u2018Alt-A\u2019 to \u2018Ctrl-A\u2019 for solving web-compatibility and avoiding conflict with access keys. If you want to keep using Emacs like key bindings, e.g., you configured your GTK settings to use \u2018Ctrl-A\u2019 as a shortcut key for moving caret to beginning of a line, you must change ui.key.textcontrol.prefer_native_key_bindings_over_builtin_shortcut_key_definitions and ui.key.use_select_all_in_single_line_editor from about:config. Currently, these are disabled by default but will be enabled by default in a future release.",
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
+      "bug": null,
       "created": "2022-01-05T01:01:12.051545+00:00",
       "fixed_in_release": {
         "channel": "Release",
