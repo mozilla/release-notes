@@ -145,8 +145,8 @@
       },
       "id": 788913,
       "is_public": true,
-      "modified": "2022-01-12T16:59:13.958048+00:00",
-      "note": "Firefox for Linux changes the shortcut key for `Select All` from `Alt-A` to `Ctrl-A` for solving web-compatibility and avoiding conflict with access keys. If you want to keep using Emacs like key bindings, e.g., you configured your GTK settings to use `Ctrl-A` as a shortcut key for moving caret to beginning of a line, you must change `ui.key.textcontrol.prefer_native_key_bindings_over_builtin_shortcut_key_definitions` and `ui.key.use_select_all_in_single_line_editor` from `about:config`. Currently, these are disabled by default but will be enabled by default in a future release.",
+      "modified": "2022-01-12T19:09:12.178154+00:00",
+      "note": "Firefox for Linux changes the shortcut key for \"Select All\" from `Alt-A` to `Ctrl-A` for solving web-compatibility and avoiding conflict with access keys. If you want to keep using Emacs like key bindings, e.g., you configured your GTK settings to use `Ctrl-A` as a shortcut key for moving caret to beginning of a line, you must change `ui.key.textcontrol.prefer_native_key_bindings_over_builtin_shortcut_key_definitions` and `ui.key.use_select_all_in_single_line_editor` from `about:config`. Currently, these are disabled by default but will be enabled by default in a future release.",
       "sort_num": 0,
       "tag": "Developer"
     },
