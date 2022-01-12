@@ -73,8 +73,8 @@
       },
       "id": 788914,
       "is_public": true,
-      "modified": "2022-01-12T16:01:33.253650+00:00",
-      "note": "The Web Locks API landed. This allows scripts running in different service workers or tabs to coordinate with each other.",
+      "modified": "2022-01-12T16:05:12.051946+00:00",
+      "note": "The [Web Locks API][1] landed. This allows scripts running in different service workers or tabs to coordinate with each other.\r\n\r\n[1]: https://developer.mozilla.org/en-US/docs/Web/API/Web_Locks_API",
       "sort_num": 30,
       "tag": "HTML5"
     },
@@ -109,8 +109,8 @@
       },
       "id": 788916,
       "is_public": true,
-      "modified": "2022-01-12T16:02:23.494115+00:00",
-      "note": "Added CSS color-scheme support to allow web pages to indicate which color schemes they can be rendered with (for example, operating system dark mode).",
+      "modified": "2022-01-12T16:05:50.327160+00:00",
+      "note": "Added CSS [color-scheme][1] support to allow web pages to indicate which color schemes they can be rendered with (for example, operating system dark mode).\r\n\r\n[1]: https://developer.mozilla.org/en-US/docs/Web/CSS/color-scheme",
       "sort_num": 10,
       "tag": "HTML5"
     },
