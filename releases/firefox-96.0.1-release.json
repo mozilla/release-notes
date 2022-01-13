@@ -15,6 +15,42 @@
       "note": "Reference link to [96.0 release notes][0]\r\n\r\n[0]: https://www.mozilla.org/firefox/96.0/releasenotes/",
       "sort_num": 0,
       "tag": ""
+    },
+    {
+      "bug": null,
+      "created": "2022-01-13T20:40:50.135466+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": false,
+        "product": "Firefox",
+        "slug": "firefox-96.0.1-release",
+        "title": "Firefox 96.0.1 Release",
+        "version": "96.0.1"
+      },
+      "id": 788918,
+      "is_public": true,
+      "modified": "2022-01-13T21:01:46.130200+00:00",
+      "note": "Addresses an issue where the exception list for enterprise proxies was not working. ([bug 1749501][1])\r\n\r\n[1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1749501",
+      "sort_num": 100,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2022-01-13T20:41:42.045138+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": false,
+        "product": "Firefox",
+        "slug": "firefox-96.0.1-release",
+        "title": "Firefox 96.0.1 Release",
+        "version": "96.0.1"
+      },
+      "id": 788919,
+      "is_public": true,
+      "modified": "2022-01-13T21:00:50.863896+00:00",
+      "note": "Improvements to make the parsing of content-length http3 headers more robust. ([bug 1749957][1])\r\n\r\n[1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1749957",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
