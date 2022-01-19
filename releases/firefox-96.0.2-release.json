@@ -15,6 +15,24 @@
       "note": "Reference link to [96.0.1 release notes][0]\r\n\r\n[0]: https://www.mozilla.org/firefox/96.0.1/releasenotes/",
       "sort_num": 0,
       "tag": ""
+    },
+    {
+      "bug": null,
+      "created": "2022-01-19T23:37:04.577988+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": false,
+        "product": "Firefox",
+        "slug": "firefox-96.0.2-release",
+        "title": "Firefox 96.0.2 Release",
+        "version": "96.0.2"
+      },
+      "id": 788921,
+      "is_public": true,
+      "modified": "2022-01-19T23:37:04.577817+00:00",
+      "note": "Fixes an issue that was causing tab height to display inconsistently on Linux when audio was being played ([bug 1714276] [1])\r\n[1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1714276",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
