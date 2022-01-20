@@ -47,8 +47,26 @@
       },
       "id": 788922,
       "is_public": true,
-      "modified": "2022-01-20T13:18:41.349860+00:00",
-      "note": "Fixes an issue that was causing extensions that use the `sender.frameId` property to fail ([bug 1748158][1])\r\n[1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1748158",
+      "modified": "2022-01-20T13:57:04.977828+00:00",
+      "note": "Fixes an issue that was causing Lastpass windows to go blank ([bug 1748158][1])\r\n[1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1748158",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2022-01-20T14:00:32.538362+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": false,
+        "product": "Firefox",
+        "slug": "firefox-96.0.2-release",
+        "title": "Firefox 96.0.2 Release",
+        "version": "96.0.2"
+      },
+      "id": 788923,
+      "is_public": true,
+      "modified": "2022-01-20T14:01:13.499712+00:00",
+      "note": "Fixes a crash that was occurring after resizing a Facebook app ([bug 1746084] [1])\r\n[1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1746084",
       "sort_num": 0,
       "tag": "Fixed"
     }
