@@ -47,8 +47,8 @@
       },
       "id": 788922,
       "is_public": true,
-      "modified": "2022-01-20T13:08:09.752884+00:00",
-      "note": "Fixes an issue that was causing extensions that use the `sender.frameId` property to fail ([bug 1748158]) [1]\r\n[1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1748158",
+      "modified": "2022-01-20T13:18:41.349860+00:00",
+      "note": "Fixes an issue that was causing extensions that use the `sender.frameId` property to fail ([bug 1748158][1])\r\n[1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1748158",
       "sort_num": 0,
       "tag": "Fixed"
     }
