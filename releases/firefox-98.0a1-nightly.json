@@ -5,7 +5,18 @@
   "created": "2022-01-10T16:13:54.865970+00:00",
   "is_public": true,
   "modified": "2022-01-11T10:52:36.323588+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": 1745624,
+      "created": "2022-01-20T16:20:00.587377+00:00",
+      "id": 788924,
+      "is_public": true,
+      "modified": "2022-01-20T16:20:00.587222+00:00",
+      "note": "You can now delete downloaded files directly from the download panel and other download views using the context menu.",
+      "sort_num": 0,
+      "tag": "New"
+    }
+  ],
   "product": "Firefox",
   "release_date": "2022-01-10",
   "slug": "firefox-98.0a1-nightly",
