@@ -33,6 +33,24 @@
       "note": "Fixes an issue that was causing tab height to display inconsistently on Linux when audio was being played ([bug 1714276] [1])\r\n[1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1714276",
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2022-01-20T01:39:15.893744+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": false,
+        "product": "Firefox",
+        "slug": "firefox-96.0.2-release",
+        "title": "Firefox 96.0.2 Release",
+        "version": "96.0.2"
+      },
+      "id": 788922,
+      "is_public": true,
+      "modified": "2022-01-20T01:40:04.839486+00:00",
+      "note": "Fixes an issue that was causing extensions that use the `sender.frameId` property to fail ([bug 1748158 ] [1]\r\n[1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1748158",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
