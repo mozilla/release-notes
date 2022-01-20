@@ -3,8 +3,8 @@
   "bug_search_url": "",
   "channel": "Release",
   "created": "2022-01-19T17:25:35.723184+00:00",
-  "is_public": false,
-  "modified": "2022-01-19T17:25:35.723035+00:00",
+  "is_public": true,
+  "modified": "2022-01-20T14:19:40.164934+00:00",
   "notes": [
     {
       "bug": null,
@@ -21,7 +21,7 @@
       "created": "2022-01-19T23:37:04.577988+00:00",
       "fixed_in_release": {
         "channel": "Release",
-        "is_public": false,
+        "is_public": true,
         "product": "Firefox",
         "slug": "firefox-96.0.2-release",
         "title": "Firefox 96.0.2 Release",
@@ -29,8 +29,8 @@
       },
       "id": 788921,
       "is_public": true,
-      "modified": "2022-01-19T23:37:04.577817+00:00",
-      "note": "Fixes an issue that was causing tab height to display inconsistently on Linux when audio was being played ([bug 1714276] [1])\r\n[1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1714276",
+      "modified": "2022-01-20T14:14:23.587982+00:00",
+      "note": "Fixed an issue that caused tab height to display inconsistently on Linux when audio was played ([bug 1714276] [1])\r\n[1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1714276",
       "sort_num": 0,
       "tag": "Fixed"
     },
@@ -39,7 +39,7 @@
       "created": "2022-01-20T01:39:15.893744+00:00",
       "fixed_in_release": {
         "channel": "Release",
-        "is_public": false,
+        "is_public": true,
         "product": "Firefox",
         "slug": "firefox-96.0.2-release",
         "title": "Firefox 96.0.2 Release",
@@ -47,8 +47,8 @@
       },
       "id": 788922,
       "is_public": true,
-      "modified": "2022-01-20T13:57:04.977828+00:00",
-      "note": "Fixes an issue that was causing Lastpass windows to go blank ([bug 1748158][1])\r\n[1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1748158",
+      "modified": "2022-01-20T14:13:19.121668+00:00",
+      "note": "Fixed an issue that caused Lastpass dropdowns to appear blank in Private Browsing mode ([bug 1748158][1])\r\n[1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1748158",
       "sort_num": 0,
       "tag": "Fixed"
     },
@@ -57,7 +57,7 @@
       "created": "2022-01-20T14:00:32.538362+00:00",
       "fixed_in_release": {
         "channel": "Release",
-        "is_public": false,
+        "is_public": true,
         "product": "Firefox",
         "slug": "firefox-96.0.2-release",
         "title": "Firefox 96.0.2 Release",
@@ -65,8 +65,8 @@
       },
       "id": 788923,
       "is_public": true,
-      "modified": "2022-01-20T14:01:13.499712+00:00",
-      "note": "Fixes a crash that was occurring after resizing a Facebook app ([bug 1746084] [1])\r\n[1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1746084",
+      "modified": "2022-01-20T14:16:47.509548+00:00",
+      "note": "Fixed a crash encountered when resizing a Facebook app ([bug 1746084] [1])\r\n[1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1746084",
       "sort_num": 0,
       "tag": "Fixed"
     }
