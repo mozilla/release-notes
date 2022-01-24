@@ -15,6 +15,16 @@
       "note": "You can now delete downloaded files directly from the download panel and other download views using the context menu.",
       "sort_num": 0,
       "tag": "New"
+    },
+    {
+      "bug": 1749150,
+      "created": "2022-01-24T11:49:37.723611+00:00",
+      "id": 788925,
+      "is_public": true,
+      "modified": "2022-01-24T11:49:37.723402+00:00",
+      "note": "<!-- Nightly only -->Firefox on Wayland support enabled by default (Linux Nightly only)",
+      "sort_num": 0,
+      "tag": "New"
     }
   ],
   "product": "Firefox",
