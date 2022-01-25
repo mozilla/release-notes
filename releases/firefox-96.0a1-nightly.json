@@ -54,8 +54,8 @@
         "version": "96.0a1"
       },
       "id": 788858,
-      "is_public": true,
-      "modified": "2022-01-12T15:27:40.273998+00:00",
+      "is_public": false,
+      "modified": "2022-01-25T20:12:07.791614+00:00",
       "note": "Firefox will now default all cookies to having a `SameSite=lax` attribute which helps defend against Cross-Site Request Forgery (CSRF) attacks.",
       "sort_num": 19,
       "tag": "New"
