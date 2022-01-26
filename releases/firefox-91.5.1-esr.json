@@ -5,7 +5,26 @@
   "created": "2022-01-26T18:43:54.476350+00:00",
   "is_public": false,
   "modified": "2022-01-26T18:43:54.476196+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": null,
+      "created": "2022-01-26T19:30:18.611421+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": false,
+        "product": "Firefox",
+        "slug": "firefox-96.0.3-release",
+        "title": "Firefox 96.0.3 Release",
+        "version": "96.0.3"
+      },
+      "id": 788928,
+      "is_public": true,
+      "modified": "2022-01-26T19:32:40.659916+00:00",
+      "note": "Fixed an issue that allowed unexpected data to be submitted in some of our search telemetry ([bug 1751746] [1])\r\n[1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1751746",
+      "sort_num": 0,
+      "tag": "Fixed"
+    }
+  ],
   "product": "Firefox Extended Support Release",
   "release_date": "2022-01-27",
   "slug": "firefox-91.5.1-esr",
