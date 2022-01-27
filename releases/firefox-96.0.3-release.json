@@ -3,8 +3,8 @@
   "bug_search_url": "",
   "channel": "Release",
   "created": "2022-01-26T16:24:43.614423+00:00",
-  "is_public": false,
-  "modified": "2022-01-26T16:24:43.614267+00:00",
+  "is_public": true,
+  "modified": "2022-01-27T14:56:23.321308+00:00",
   "notes": [
     {
       "bug": null,
@@ -21,7 +21,7 @@
       "created": "2022-01-26T19:30:18.611421+00:00",
       "fixed_in_release": {
         "channel": "Release",
-        "is_public": false,
+        "is_public": true,
         "product": "Firefox",
         "slug": "firefox-96.0.3-release",
         "title": "Firefox 96.0.3 Release",
