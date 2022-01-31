@@ -47,12 +47,22 @@
       "tag": "HTML5"
     },
     {
+      "bug": 1750619,
+      "created": "2022-01-31T14:59:13.723575+00:00",
+      "id": 788932,
+      "is_public": true,
+      "modified": "2022-01-31T14:59:13.723421+00:00",
+      "note": "The [Compatibility sidebar panel][1] in the DevTools Inspector already available on pre-release channels will become available on the release channel in version 98 . It provides compatibility warnings for the CSS properties used on the selected element, as well as for the overall page. \r\n\r\nDevelopers may use it to detect web-compatibility issues early, without having to test in each browser. All compatibility data are pulled from MDN. \t\r\n\r\n  [1]: https://firefox-source-docs.mozilla.org/devtools-user/page_inspector/ui_tour/index.html#compatibility-view",
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
       "bug": 1748798,
       "created": "2022-01-31T12:32:54.244181+00:00",
       "id": 788931,
       "is_public": true,
-      "modified": "2022-01-31T12:36:06.302762+00:00",
-      "note": "With Firefox version 100 rapidly approaching, you can help test websites' compatibility with three-digit version numbers by enabling  the new **Firefox 100 User-Agent String** option in the Experimental section of *Settings* (about:preferences#experimental). If you find a website that is broken with Firefox version 100, please file a bug report on https://webcompat.com",
+      "modified": "2022-01-31T14:48:32.106790+00:00",
+      "note": "With Firefox version 100 rapidly approaching, you can help test websites' compatibility with three-digit version numbers by enabling  the new **Firefox 100 User-Agent String** option in the Experimental section of *Settings* (about:preferences#experimental). If you find a website that is broken with Firefox version 100, please file a bug report on [webcompat.com][1].\r\n\r\n\r\n  [1]: https://webcompat.com",
       "sort_num": 0,
       "tag": "Community"
     }
