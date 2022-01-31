@@ -45,6 +45,16 @@
       "note": "The <code> <a href=\"https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dialog\">&lt;dialog&gt;</a></code> HTML element already available on pre-release channels will become available on the release channel in version 98.",
       "sort_num": 0,
       "tag": "HTML5"
+    },
+    {
+      "bug": 1748798,
+      "created": "2022-01-31T12:32:54.244181+00:00",
+      "id": 788931,
+      "is_public": true,
+      "modified": "2022-01-31T12:36:06.302762+00:00",
+      "note": "With Firefox version 100 rapidly approaching, you can help test websites' compatibility with three-digit version numbers by enabling  the new **Firefox 100 User-Agent String** option in the Experimental section of *Settings* (about:preferences#experimental). If you find a website that is broken with Firefox version 100, please file a bug report on https://webcompat.com",
+      "sort_num": 0,
+      "tag": "Community"
     }
   ],
   "product": "Firefox",
