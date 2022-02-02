@@ -27,6 +27,16 @@
       "tag": "New"
     },
     {
+      "bug": 1749155,
+      "created": "2022-02-02T16:56:21.239336+00:00",
+      "id": 788934,
+      "is_public": true,
+      "modified": "2022-02-02T16:56:21.239172+00:00",
+      "note": "New Nightly-only setting: *Show fewer update notification prompts*. When the setting is enabled and Nightly is ready to restart to install updates, it will show a notification in the hamburger menu but not a popup notification. Additionally, if the user also has the *Check for updates but let you choose to install them\" setting enabled, the *Update Available* notification will be shown in the hamburger menu but the popup notification will be suppressed for up to a week after the last successful update.",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1749871,
       "created": "2022-01-24T19:49:31.145906+00:00",
       "id": 788927,
