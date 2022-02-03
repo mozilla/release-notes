@@ -8,6 +8,86 @@
   "notes": [
     {
       "bug": null,
+      "created": "2022-02-03T20:17:11.519232+00:00",
+      "id": 788936,
+      "is_public": true,
+      "modified": "2022-02-03T20:17:11.519073+00:00",
+      "note": "We now show you a prompt when you attempt to leave private browsing with active downloads. We won\u2019t let you lose that important information!",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2022-02-03T20:20:12.116977+00:00",
+      "id": 788943,
+      "is_public": true,
+      "modified": "2022-02-03T20:20:12.116801+00:00",
+      "note": "We\u2019ve improved performance when it comes to a cold start.",
+      "sort_num": 70,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2022-02-03T20:19:57.986692+00:00",
+      "id": 788942,
+      "is_public": true,
+      "modified": "2022-02-03T20:19:57.986531+00:00",
+      "note": "You\u2019ll see we\u2019ve fixed the order of items in your history. They go from newest to oldest, just as you\u2019d expect them to.",
+      "sort_num": 60,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2022-02-03T20:19:42.862299+00:00",
+      "id": 788941,
+      "is_public": true,
+      "modified": "2022-02-03T20:19:42.862140+00:00",
+      "note": "Now, Talkback reads \"Button\" aloud just once for the \"Show all\" button on the home screen\u2013as it should!",
+      "sort_num": 50,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2022-02-03T20:19:08.887742+00:00",
+      "id": 788940,
+      "is_public": true,
+      "modified": "2022-02-03T20:19:08.887593+00:00",
+      "note": "Tab group titles are no longer the wrong color when in private mode! Text is now easily visible.",
+      "sort_num": 40,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2022-02-03T20:18:20.663902+00:00",
+      "id": 788939,
+      "is_public": true,
+      "modified": "2022-02-03T20:18:20.663742+00:00",
+      "note": "And when dark theme/private mode is enabled, you can see the icons for bookmarks, folders and downloads. Voila!",
+      "sort_num": 30,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2022-02-03T20:18:00.268621+00:00",
+      "id": 788938,
+      "is_public": true,
+      "modified": "2022-02-03T20:18:00.268465+00:00",
+      "note": "Plus, the app no longer crashes when returning to the add-on details menu after changing your device language.",
+      "sort_num": 20,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2022-02-03T20:17:38.577845+00:00",
+      "id": 788937,
+      "is_public": true,
+      "modified": "2022-02-03T20:17:38.577676+00:00",
+      "note": "Firefox is no longer slow to search stored passwords. We\u2019re all about saving you time!",
+      "sort_num": 10,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
       "created": "2022-02-03T19:26:43.020833+00:00",
       "id": 788935,
       "is_public": true,
