@@ -15,6 +15,16 @@
       "note": "Various [security][1] fixes\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/",
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2022-02-03T21:10:55.777677+00:00",
+      "id": 788944,
+      "is_public": true,
+      "modified": "2022-02-03T21:10:55.777517+00:00",
+      "note": "With the release of Firefox 97, we are pleased to welcome the developers who contributed their first code change to Firefox in this release, 7 of whom were brand new volunteers! Please join us in thanking each of these diligent and enthusiastic individuals, and take a look at their contributions:\r\n\r\n - bnhunsaker: Bug 1707379\r\n - Dennis Jackson: Bug 1742617\r\n - Jin Chun: Bug 1704133\r\n - Kevin Daudt: Bug 1745560\r\n - Meg Viar: Bug 1744466\r\n - Neia Finch: Bug 1613634 and Bug 1747922\r\n-  Nick Rishel: Bug 1592731, Bug 1730110, and Bug 1746517\r\n - Patrick: Bug 1742312 and Bug 1743102\r\n-  Pier Angelo Vendrame: Bug 1745715\r\n-  Rashelle: Bug 1739515, Bug 1742585, and Bug 1744633",
+      "sort_num": 0,
+      "tag": "Community"
     }
   ],
   "product": "Firefox",
