@@ -19,7 +19,7 @@
       },
       "id": 788857,
       "is_public": true,
-      "modified": "2022-01-10T16:14:54.365894+00:00",
+      "modified": "2022-02-03T19:26:33.699921+00:00",
       "note": "We\u2019ve made significant improvements in noise-suppression and auto-gain-control as well as slight improvements in echo-cancellation to provide you with a better overall experience.",
       "sort_num": 50,
       "tag": "New"
@@ -37,7 +37,7 @@
       },
       "id": 788856,
       "is_public": true,
-      "modified": "2022-01-10T16:14:55.455783+00:00",
+      "modified": "2022-02-03T19:26:28.130131+00:00",
       "note": "We\u2019ve also significantly reduced main-thread load.",
       "sort_num": 40,
       "tag": "New"
@@ -55,7 +55,7 @@
       },
       "id": 788858,
       "is_public": false,
-      "modified": "2022-01-25T20:12:07.791614+00:00",
+      "modified": "2022-02-03T19:26:25.868399+00:00",
       "note": "Firefox will now default all cookies to having a `SameSite=lax` attribute which helps defend against Cross-Site Request Forgery (CSRF) attacks.",
       "sort_num": 19,
       "tag": "New"
@@ -73,7 +73,7 @@
       },
       "id": 788896,
       "is_public": true,
-      "modified": "2022-01-12T17:24:19.425612+00:00",
+      "modified": "2022-02-03T19:26:38.854536+00:00",
       "note": "When printing, you can now choose to print only the odd/even pages.",
       "sort_num": 0,
       "tag": "New"
@@ -91,7 +91,7 @@
       },
       "id": 788914,
       "is_public": true,
-      "modified": "2022-01-12T16:05:12.051946+00:00",
+      "modified": "2022-02-03T19:26:31.438212+00:00",
       "note": "The [Web Locks API][1] landed. This allows scripts running in different service workers or tabs to coordinate with each other.\r\n\r\n[1]: https://developer.mozilla.org/en-US/docs/Web/API/Web_Locks_API",
       "sort_num": 30,
       "tag": "HTML5"
@@ -109,7 +109,7 @@
       },
       "id": 788915,
       "is_public": true,
-      "modified": "2022-01-12T16:01:57.780076+00:00",
+      "modified": "2022-02-03T19:26:30.192221+00:00",
       "note": "WebRTC library updated, bringing improved audio and video features for web conferencing applications.",
       "sort_num": 20,
       "tag": "HTML5"
@@ -127,7 +127,7 @@
       },
       "id": 788916,
       "is_public": true,
-      "modified": "2022-01-12T16:05:50.327160+00:00",
+      "modified": "2022-02-03T19:26:29.215092+00:00",
       "note": "Added CSS [color-scheme][1] support to allow web pages to indicate which color schemes they can be rendered with (for example, operating system dark mode).\r\n\r\n[1]: https://developer.mozilla.org/en-US/docs/Web/CSS/color-scheme",
       "sort_num": 10,
       "tag": "HTML5"
@@ -145,7 +145,7 @@
       },
       "id": 788913,
       "is_public": true,
-      "modified": "2022-01-12T19:09:12.178154+00:00",
+      "modified": "2022-02-03T19:26:40.714419+00:00",
       "note": "Firefox for Linux changes the shortcut key for \"Select All\" from `Alt-A` to `Ctrl-A` for solving web-compatibility and avoiding conflict with access keys. If you want to keep using Emacs like key bindings, e.g., you configured your GTK settings to use `Ctrl-A` as a shortcut key for moving caret to beginning of a line, you must change `ui.key.textcontrol.prefer_native_key_bindings_over_builtin_shortcut_key_definitions` and `ui.key.use_select_all_in_single_line_editor` from `about:config`. Currently, these are disabled by default but will be enabled by default in a future release.",
       "sort_num": 0,
       "tag": "Developer"
@@ -163,7 +163,7 @@
       },
       "id": 788895,
       "is_public": true,
-      "modified": "2022-01-05T01:01:12.051330+00:00",
+      "modified": "2022-02-03T19:26:21.061778+00:00",
       "note": "Various bug fixes and new policies have been implemented in the latest version of Firefox. You can find more information in the Firefox for Enterprise [96 Release Notes.][1]\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/firefox-enterprise-96-release-notes",
       "sort_num": 0,
       "tag": "Enterprise"
@@ -173,7 +173,7 @@
       "created": "2022-01-10T16:32:23.060062+00:00",
       "id": 788911,
       "is_public": true,
-      "modified": "2022-01-11T14:17:06.601678+00:00",
+      "modified": "2022-02-03T19:26:35.550256+00:00",
       "note": "On macOS, command-clicking links in Gmail now opens them in a new tab as expected.",
       "sort_num": 25,
       "tag": "Fixed"
@@ -191,7 +191,7 @@
       },
       "id": 788892,
       "is_public": true,
-      "modified": "2022-01-05T00:22:26.605595+00:00",
+      "modified": "2022-02-03T19:26:24.611768+00:00",
       "note": "Our newest release fixes an issue where video intermittently drops SSRC.",
       "sort_num": 20,
       "tag": "Fixed"
@@ -209,7 +209,7 @@
       },
       "id": 788894,
       "is_public": true,
-      "modified": "2022-01-05T00:56:54.698858+00:00",
+      "modified": "2022-02-03T19:26:22.317921+00:00",
       "note": "It also fixes an issue where WebRTC downgrades screen sharing resolution to provide you with a clearer browsing experience.",
       "sort_num": 15,
       "tag": "Fixed"
@@ -227,7 +227,7 @@
       },
       "id": 788893,
       "is_public": true,
-      "modified": "2022-01-05T00:56:34.876515+00:00",
+      "modified": "2022-02-03T19:26:23.333816+00:00",
       "note": "Plus, we\u2019ve fixed video quality degradation issues on certain sites.",
       "sort_num": 10,
       "tag": "Fixed"
@@ -245,7 +245,7 @@
       },
       "id": 788910,
       "is_public": true,
-      "modified": "2022-01-10T15:00:44.167765+00:00",
+      "modified": "2022-02-03T19:26:37.494078+00:00",
       "note": "Detached video in fullscreen on macOS has been temporarily disabled to avoid some issues with corruption, brightness changes, missing subtitles and high cpu usage.",
       "sort_num": 10,
       "tag": "Fixed"
@@ -255,7 +255,7 @@
       "created": "2022-01-07T13:39:28.880555+00:00",
       "id": 788898,
       "is_public": true,
-      "modified": "2022-01-07T13:40:05.079026+00:00",
+      "modified": "2022-02-03T19:26:43.161652+00:00",
       "note": "Various [security][1] fixes\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/mfsa2022-01/",
       "sort_num": 0,
       "tag": "Fixed"
