@@ -4,18 +4,8 @@
   "channel": "Beta",
   "created": "2022-01-10T16:14:33.144764+00:00",
   "is_public": true,
-  "modified": "2022-01-11T14:19:38.359125+00:00",
+  "modified": "2022-02-03T15:00:12.761622+00:00",
   "notes": [
-    {
-      "bug": 1733587,
-      "created": "2022-01-11T02:25:17.268169+00:00",
-      "id": 788912,
-      "is_public": true,
-      "modified": "2022-02-03T09:41:44.495089+00:00",
-      "note": "Firefox now has a new optimized download flow. Instead of prompting every time, files will now download automatically. They can still be opened from the downloads panel with just one click. [More information][1]\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/manage-downloads-preferences-using-downloads-menu",
-      "sort_num": 30,
-      "tag": "New"
-    },
     {
       "bug": 1719427,
       "created": "2022-01-28T14:45:05.415552+00:00",
