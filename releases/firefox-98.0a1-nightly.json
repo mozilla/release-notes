@@ -11,7 +11,7 @@
       "created": "2022-01-11T02:25:17.268169+00:00",
       "id": 788912,
       "is_public": true,
-      "modified": "2022-02-03T15:00:11.145300+00:00",
+      "modified": "2022-02-07T09:23:06.788748+00:00",
       "note": "Firefox now has a new optimized download flow. Instead of prompting every time, files will now download automatically. They can still be opened from the downloads panel with just one click. [More information][1]\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/manage-downloads-preferences-using-downloads-menu",
       "sort_num": 30,
       "tag": "New"
@@ -21,7 +21,7 @@
       "created": "2022-01-20T16:20:00.587377+00:00",
       "id": 788924,
       "is_public": true,
-      "modified": "2022-01-20T16:20:00.587222+00:00",
+      "modified": "2022-02-07T09:24:24.465916+00:00",
       "note": "You can now delete downloaded files directly from the download panel and other download views using the context menu.",
       "sort_num": 0,
       "tag": "New"
@@ -51,7 +51,7 @@
       "created": "2022-01-24T19:49:31.145906+00:00",
       "id": 788927,
       "is_public": true,
-      "modified": "2022-01-24T19:49:31.145754+00:00",
+      "modified": "2022-02-07T09:23:40.570965+00:00",
       "note": "The use of webRequest used to cause addons to start early during Firefox startup. This has changed to only use webRequest blocking calls. non-blocking calls no longer cause an early startup for addons.",
       "sort_num": 0,
       "tag": "Changed"
@@ -61,7 +61,7 @@
       "created": "2022-01-24T15:50:52.715936+00:00",
       "id": 788926,
       "is_public": true,
-      "modified": "2022-01-24T15:50:52.715750+00:00",
+      "modified": "2022-02-07T09:23:55.617452+00:00",
       "note": "The <code> <a href=\"https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dialog\">&lt;dialog&gt;</a></code> HTML element already available on pre-release channels will become available on the release channel in version 98.",
       "sort_num": 0,
       "tag": "HTML5"
@@ -71,7 +71,7 @@
       "created": "2022-01-31T14:59:13.723575+00:00",
       "id": 788932,
       "is_public": true,
-      "modified": "2022-01-31T14:59:13.723421+00:00",
+      "modified": "2022-02-07T09:23:24.687471+00:00",
       "note": "The [Compatibility sidebar panel][1] in the DevTools Inspector already available on pre-release channels will become available on the release channel in version 98 . It provides compatibility warnings for the CSS properties used on the selected element, as well as for the overall page. \r\n\r\nDevelopers may use it to detect web-compatibility issues early, without having to test in each browser. All compatibility data are pulled from MDN. \t\r\n\r\n  [1]: https://firefox-source-docs.mozilla.org/devtools-user/page_inspector/ui_tour/index.html#compatibility-view",
       "sort_num": 0,
       "tag": "Developer"
