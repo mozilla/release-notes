@@ -2,26 +2,15 @@
   "bug_list": "",
   "bug_search_url": "",
   "channel": "Beta",
-  "created": "2022-01-10T16:14:33.144764+00:00",
-  "is_public": true,
-  "modified": "2022-02-03T15:00:12.761622+00:00",
-  "notes": [
-    {
-      "bug": 1719427,
-      "created": "2022-01-28T14:45:05.415552+00:00",
-      "id": 788930,
-      "is_public": true,
-      "modified": "2022-02-07T09:20:04.776591+00:00",
-      "note": "Firefox now supports and displays the new style of scrollbars on Windows 11.",
-      "sort_num": 10,
-      "tag": "New"
-    }
-  ],
+  "created": "2022-02-07T09:19:45.230214+00:00",
+  "is_public": false,
+  "modified": "2022-02-07T09:20:08.835781+00:00",
+  "notes": [],
   "product": "Firefox",
-  "release_date": "2022-01-11",
-  "slug": "firefox-97.0beta-beta",
+  "release_date": "2022-02-08",
+  "slug": "firefox-98.0beta-beta",
   "system_requirements": "## Windows\r\n\r\n### Operating Systems (32-bit and 64-bit)\r\n - Windows 7\r\n - Windows 8\r\n - Windows 10\r\n - Windows 11\r\n\r\n### Recommended Hardware\r\n-  Pentium 4 or newer processor that supports SSE2\r\n-  512MB of RAM / 2GB of RAM for the 64-bit version\r\n-  200MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- macOS 10.12\r\n- macOS 10.13\r\n- macOS 10.14\r\n- macOS 10.15\r\n- macOS 11\r\n- macOS 12\r\n\r\n### Recommended Hardware\r\n- Mac computer with an Intel x86 or Apple silicon processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - glibc 2.17 or higher\r\n    - GTK+ 3.14 or higher\r\n    - libstdc++ 4.8.1 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - DBus 1.0 or higher\r\n    - GNOME 2.16 or higher\r\n    - libxtst 1.2.3 or higher\r\n    - NetworkManager 0.7 or higher\r\n    - PulseAudio",
   "text": "",
-  "title": "Firefox 97.0beta Beta",
-  "version": "97.0beta"
+  "title": "Firefox 98.0beta Beta",
+  "version": "98.0beta"
 }
