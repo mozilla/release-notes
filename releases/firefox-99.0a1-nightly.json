@@ -5,7 +5,28 @@
   "created": "2022-02-08T17:15:07.385500+00:00",
   "is_public": true,
   "modified": "2022-02-09T14:24:45.576862+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": 1749038,
+      "created": "2022-02-10T15:47:00.751461+00:00",
+      "id": 788951,
+      "is_public": true,
+      "modified": "2022-02-10T15:47:44.106634+00:00",
+      "note": "You can now toggle Narrate in ReaderMode with the keyboard shortcut \"n\"",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1753885,
+      "created": "2022-02-10T15:58:45.341423+00:00",
+      "id": 788952,
+      "is_public": true,
+      "modified": "2022-02-10T15:58:45.341262+00:00",
+      "note": "Page navigation (back or forward) can now be triggered using a horizontal two-finger swipe gesture on Windows touchpads.\r\n\r\n<!--- Nightly Only ---!>",
+      "sort_num": 0,
+      "tag": "Fixed"
+    }
+  ],
   "product": "Firefox",
   "release_date": "2022-02-07",
   "slug": "firefox-99.0a1-nightly",
