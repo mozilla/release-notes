@@ -7,6 +7,26 @@
   "modified": "2022-02-08T13:35:24.454892+00:00",
   "notes": [
     {
+      "bug": null,
+      "created": "2022-02-04T00:21:13.396086+00:00",
+      "id": 788947,
+      "is_public": true,
+      "modified": "2022-02-15T19:35:23.565386+00:00",
+      "note": "On February 8, we expired the 18 [colorway][1] themes that shipped along with Firefox 94. This signals the end of a special, limited-time feature set. However, you can hold onto your favorite colorway, as long as you\u2019re using it on the expiration date. In other words, if a colorway is \u201cenabled\u201d in the add-ons manager, that colorway is yours forever.\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/personalize-firefox-colorways",
+      "sort_num": 30,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2022-02-15T19:36:45.630550+00:00",
+      "id": 788953,
+      "is_public": true,
+      "modified": "2022-02-15T19:36:45.630347+00:00",
+      "note": "Beginning February 15, we are releasing 6 brand-new colorways in a special partner collaboration. U.S.-based fans of the film can visit [truecolors.firefox.com][1] to activate official Turning Red-inspired Colorways, available exclusively in Firefox for desktop through April 30, 2022. Firefox users who visit the \u201cTrue Colors\u201d campaign landing page will be able to modify how their web browser looks, with colors and moods inspired by some of the main characters in the film. To enjoy the new Colorways, you\u2019ll need to make sure you upgrade to the latest Firefox 97 version. This collection will be available in the add-ons manager, within the Colorways section. Read more about colorway updates [here][2].\r\n\r\n\r\n  [1]: https://truecolors.firefox.com/\r\n  [2]: https://support.mozilla.org/kb/whats-new-colorways",
+      "sort_num": 20,
+      "tag": "New"
+    },
+    {
       "bug": 1719427,
       "created": "2022-01-28T14:45:05.415552+00:00",
       "id": 788930,
@@ -15,16 +35,6 @@
       "note": "Firefox now supports and displays the new style of scrollbars on Windows 11.",
       "sort_num": 10,
       "tag": "New"
-    },
-    {
-      "bug": null,
-      "created": "2022-02-04T00:21:13.396086+00:00",
-      "id": 788947,
-      "is_public": true,
-      "modified": "2022-02-04T00:24:43.403763+00:00",
-      "note": "On February 8, we will be expiring the 18 [colorway][1] themes of Firefox version 94. This signals the end of a special, limited-time feature set. However, you can hold onto your favorite colorway, as long as you\u2019re using it on the expiration date. In other words, if a colorway is \u201cenabled\u201d in the add-ons manager, that colorway is yours forever. Read more about colorway updates [here][2].\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/personalize-firefox-colorways\r\n  [2]: https://support.mozilla.org/kb/whats-new-colorways",
-      "sort_num": 20,
-      "tag": "Changed"
     },
     {
       "bug": 1322756,
