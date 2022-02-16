@@ -25,6 +25,16 @@
       "note": "Page navigation (back or forward) can now be triggered using a horizontal two-finger swipe gesture on Windows touchpads.\r\n\r\n<!--- Nightly Only ---!>",
       "sort_num": 0,
       "tag": "New"
+    },
+    {
+      "bug": 1745415,
+      "created": "2022-02-16T13:49:56.138221+00:00",
+      "id": 788954,
+      "is_public": true,
+      "modified": "2022-02-16T13:49:56.138059+00:00",
+      "note": "**Nightly-only**  The *New Request* side panel in the DevTools Network tool has been refactored and its usability improved. Developers may use it to send (and resend) synthetic HTTP network requests without having to change their code and refresh their page.  It's also useful for building and testing REST APIs.",
+      "sort_num": 0,
+      "tag": "Developer"
     }
   ],
   "product": "Firefox",
