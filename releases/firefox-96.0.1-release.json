@@ -11,7 +11,7 @@
       "created": "2022-01-13T20:24:11.176299+00:00",
       "id": 788917,
       "is_public": true,
-      "modified": "2022-01-13T20:24:11.176135+00:00",
+      "modified": "2022-02-17T00:34:57.512647+00:00",
       "note": "Reference link to [96.0 release notes][0]\r\n\r\n[0]: https://www.mozilla.org/firefox/96.0/releasenotes/",
       "sort_num": 0,
       "tag": ""
@@ -29,7 +29,7 @@
       },
       "id": 788918,
       "is_public": true,
-      "modified": "2022-01-13T21:09:49.458983+00:00",
+      "modified": "2022-02-17T00:34:55.925484+00:00",
       "note": "Addresses proxy rule exceptions not working on Windows systems when \"Use system proxy settings\" is set ([bug 1749501][1])\r\n\r\n[1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1749501",
       "sort_num": 100,
       "tag": "Fixed"
@@ -47,7 +47,7 @@
       },
       "id": 788919,
       "is_public": true,
-      "modified": "2022-01-13T21:08:23.950207+00:00",
+      "modified": "2022-02-17T00:34:54.597799+00:00",
       "note": "Improvements to make the parsing of content-length headers more robust ([bug 1749957][1])\r\n\r\n[1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1749957",
       "sort_num": 0,
       "tag": "Fixed"
