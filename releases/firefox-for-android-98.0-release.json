@@ -35,6 +35,46 @@
       "note": "[Fix for Slow Search on Stored passwords][1]\r\n\r\n\r\n  [1]: https://github.com/mozilla-mobile/fenix/issues/22795",
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2022-03-03T15:41:18.974264+00:00",
+      "id": 788967,
+      "is_public": true,
+      "modified": "2022-03-03T15:41:18.974111+00:00",
+      "note": "[Dark theme for tabs on Tab Grid View][1]\r\n\r\n\r\n  [1]: https://github.com/mozilla-mobile/fenix/issues/16152",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2022-03-03T15:42:21.247434+00:00",
+      "id": 788968,
+      "is_public": true,
+      "modified": "2022-03-03T15:42:21.247272+00:00",
+      "note": "[\u201cRemove\u201d menu overlapping the address bar when switching between Portrait and Landscape mode][1]\r\n\r\n\r\n  [1]: https://github.com/mozilla-mobile/fenix/issues/23138",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2022-03-03T15:43:19.020583+00:00",
+      "id": 788969,
+      "is_public": true,
+      "modified": "2022-03-03T15:43:19.020423+00:00",
+      "note": "[Title is null when sharing content][1]\r\n\r\n\r\n  [1]: https://github.com/mozilla-mobile/fenix/issues/22477",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2022-03-03T15:44:17.407832+00:00",
+      "id": 788970,
+      "is_public": true,
+      "modified": "2022-03-03T15:44:17.407569+00:00",
+      "note": "[Fix for:  FF message: Limit reached for top sites - but only two top sites are present][1]\r\n\r\n\r\n  [1]: https://github.com/mozilla-mobile/fenix/issues/23408",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox for Android",
