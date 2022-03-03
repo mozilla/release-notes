@@ -5,7 +5,28 @@
   "created": "2022-03-03T14:36:08.934036+00:00",
   "is_public": false,
   "modified": "2022-03-03T14:36:53.918995+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": null,
+      "created": "2022-03-03T18:52:52.020399+00:00",
+      "id": 788971,
+      "is_public": true,
+      "modified": "2022-03-03T19:00:54.627107+00:00",
+      "note": "Firefox has a new optimized download flow. Instead of prompting every time, files will download automatically. However, they can still be opened from the downloads panel with just one click. Easy! [More information][1]\r\n\r\n![screenshot][2]\r\n\r\nYou\u2019ll find you have a number of options, including: \r\n\r\n- **Always Open Similar Files:** Make Firefox automatically open downloaded files of the same type with the system default application.\r\n- **Show In Folder:** Open the folder that contains your downloaded files.\r\n- **Go To Download Page:** Surfaces the download reference page even after leaving the site or closing the tab.\r\n- **Copy Download Link:** Copy the download link to share it, save it, or for any applicable use.\r\n- **Remove From History:** Remove a file from your list of downloaded files.\r\n- **Clear Preview Panel:** Clear the list of downloaded items in the preview panel that opens when you start a download.\r\n\r\nIn this release, you\u2019ll also see that Firefox no longer asks what to do for each file by default. You won\u2019t be prompted to choose a helper application or save to disk before downloading a file unless you have [changed your download action setting][3] for that type of file.\r\n\r\nAnd now, every time you start a download, Firefox will automatically bring up the Downloads panel by default. This means you\u2019ll experience minimal interruptions and easily find your downloaded files. Plus, to avoid having to close it several times, the panel won't show if there are multiple downloads in progress. \r\n\r\nYou can now click on a file in the Downloads panel to open it even before it has finished downloading. Firefox will open the file as soon as it is available. Firefox: saving you time and helping you get back to what you care about!\r\n\r\nAny files you download will be immediately saved on your disk. Depending on the current configuration, they\u2019ll be saved in your preferred download folder, or you\u2019ll be asked to select a location for each download. Windows and Linux users will find their downloaded files in the destination folder. They\u2019ll no longer be put in the Temp folder.\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/manage-downloads-preferences-using-downloads-menu\r\n  [2]: /media/img/firefox/releasenotes/note-images/98_download_panel.png\r\n  [3]: https://support.mozilla.org/en-US/kb/change-firefox-behavior-when-open-file#w_changing-download-actions",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2022-03-03T18:58:08.966524+00:00",
+      "id": 788972,
+      "is_public": true,
+      "modified": "2022-03-03T19:01:10.450508+00:00",
+      "note": "Firefox allows users to choose from a number of built-in search engines to set as their default. In this release, some users who had previously configured a default engine might notice their default search engine has changed since Mozilla was unable to secure formal permission to continue including certain search engines in Firefox.",
+      "sort_num": 0,
+      "tag": "New"
+    }
+  ],
   "product": "Firefox",
   "release_date": "2022-03-08",
   "slug": "firefox-98.0-release",
