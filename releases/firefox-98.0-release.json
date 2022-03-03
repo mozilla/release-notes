@@ -55,6 +55,16 @@
       "note": "After updating to Firefox version 98, \"Always ask\" download actions will now be reset.",
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2022-03-03T19:22:40.640251+00:00",
+      "id": 788976,
+      "is_public": true,
+      "modified": "2022-03-03T19:22:40.640098+00:00",
+      "note": "With the release of Firefox 98, we are pleased to welcome the developers who contributed their first code change to Firefox in this release, 5 of whom were brand new volunteers! Please join us in thanking each of these diligent and enthusiastic individuals, and take a look at their contributions:\r\n\r\n- Abhishek: [Bug 1746631][1]\r\n- Anastasios Bitha: [Bug 1650197][2] and [Bug 1751923][3]\r\n- Hikota Nakatani: [Bug 1751626][4]\r\n- Kash: [Bug 1752050][5] and [Bug 1752567][6] and [Bug 1753284][7]\r\n- Lyubomir: [Bug 1731050][8]\r\n- Meg Viar: [Bug 1751057][9]\r\n- Rolf Martin Glomsrud: [Bug 1739648][10]\r\n- Shane Hughes: [Bug 1718117][11] and [Bug 1744366][12] and [Bug 1747250][13]\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1746631\r\n  [2]: https://bugzilla.mozilla.org/show_bug.cgi?id=1650197\r\n  [3]: https://bugzilla.mozilla.org/show_bug.cgi?id=1751923\r\n  [4]: https://bugzilla.mozilla.org/show_bug.cgi?id=1751626\r\n  [5]: https://bugzilla.mozilla.org/show_bug.cgi?id=1752050\r\n  [6]: https://bugzilla.mozilla.org/show_bug.cgi?id=1752567\r\n  [7]: https://bugzilla.mozilla.org/show_bug.cgi?id=1753284\r\n  [8]: https://bugzilla.mozilla.org/show_bug.cgi?id=1731050\r\n  [9]: https://bugzilla.mozilla.org/show_bug.cgi?id=1751057\r\n  [10]: https://bugzilla.mozilla.org/show_bug.cgi?id=1739648\r\n  [11]: https://bugzilla.mozilla.org/show_bug.cgi?id=1718117\r\n  [12]: https://bugzilla.mozilla.org/show_bug.cgi?id=1744366\r\n  [13]: https://bugzilla.mozilla.org/show_bug.cgi?id=1747250",
+      "sort_num": 0,
+      "tag": "Community"
     }
   ],
   "product": "Firefox",
