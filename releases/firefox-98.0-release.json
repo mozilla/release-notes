@@ -38,6 +38,16 @@
     },
     {
       "bug": null,
+      "created": "2022-03-04T09:18:48.312099+00:00",
+      "id": 788977,
+      "is_public": true,
+      "modified": "2022-03-04T09:18:48.311942+00:00",
+      "note": "Event listeners for a given node can now be disabled from the Inspector Event Tooltip, in the markup view. Also, The \"event\" badge style is updated when at least one event is disabled to remind the user that something was changed.\r\n![screenshot][1]\r\n\r\n\r\n  [1]: /media/img/firefox/releasenotes/note-images/98_devtools_2.png",
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
+      "bug": null,
       "created": "2022-03-03T19:06:22.728254+00:00",
       "id": 788975,
       "is_public": true,
