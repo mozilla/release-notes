@@ -27,6 +27,26 @@
       "tag": "New"
     },
     {
+      "bug": 1733536,
+      "created": "2022-01-24T15:50:52.715936+00:00",
+      "id": 788926,
+      "is_public": true,
+      "modified": "2022-03-04T09:27:17.356275+00:00",
+      "note": "The <code> <a href=\"https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dialog\">&lt;dialog&gt;</a></code> HTML element already available on pre-release channels will become available on the release channel in version 98.",
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": null,
+      "created": "2022-03-04T09:28:23.320462+00:00",
+      "id": 788981,
+      "is_public": true,
+      "modified": "2022-03-04T09:28:23.320233+00:00",
+      "note": "[Form associated custom elements][1] will become available on the release channel in version 98. This allows web authors to define and create custom elements that can be participated in form submission.\r\n\r\n\r\n  [1]: https://html.spec.whatwg.org/#custom-elements",
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
       "bug": 1750619,
       "created": "2022-01-31T14:59:13.723575+00:00",
       "id": 788932,
@@ -43,6 +63,36 @@
       "is_public": true,
       "modified": "2022-03-04T09:18:48.311942+00:00",
       "note": "Event listeners for a given node can now be disabled from the Inspector Event Tooltip, in the markup view. Also, The \"event\" badge style is updated when at least one event is disabled to remind the user that something was changed.\r\n![screenshot][1]\r\n\r\n\r\n  [1]: /media/img/firefox/releasenotes/note-images/98_devtools_2.png",
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
+      "bug": null,
+      "created": "2022-03-04T09:20:52.144877+00:00",
+      "id": 788978,
+      "is_public": true,
+      "modified": "2022-03-04T09:20:52.144722+00:00",
+      "note": "New UI in the Browser Toolbox to toggle Fluent pseudolocalization bidi / accented\r\n![screenshot][1]\r\n\r\n\r\n  [1]: http:///media/img/firefox/releasenotes/note-images/98_devtools_1.png",
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
+      "bug": null,
+      "created": "2022-03-04T09:23:00.222464+00:00",
+      "id": 788979,
+      "is_public": true,
+      "modified": "2022-03-04T09:23:00.222203+00:00",
+      "note": "\u201cIgnore line\u201d context menu entry added in the debugger editor gutter when `devtools.debugger.features.blackbox-lines` is `true`. Also, there is a better \u201cIgnore source\u201d icon and editor background colors for ignored lines.\r\n![screenshot][1]\r\n\r\n\r\n  [1]: http:///media/img/firefox/releasenotes/note-images/98_devtools_3.png",
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
+      "bug": null,
+      "created": "2022-03-04T09:25:59.268141+00:00",
+      "id": 788980,
+      "is_public": true,
+      "modified": "2022-03-04T09:25:59.267941+00:00",
+      "note": "Auto-open devtools for tabs opened via window.open (behind `devtools.popups.debug`). On a page where you already have DevTools opened, if a new tab is created via `window.open`, the toolbox will automatically move to the new tab, with the new document selected in both the iframe picker and the context selector \r\n![screenshot][1]\r\n\r\n\r\n  [1]: http:///media/img/firefox/releasenotes/note-images/98_devtools_4.png",
       "sort_num": 0,
       "tag": "Developer"
     },
