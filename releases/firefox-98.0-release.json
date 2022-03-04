@@ -47,6 +47,16 @@
       "tag": "HTML5"
     },
     {
+      "bug": null,
+      "created": "2022-03-04T09:31:10.251585+00:00",
+      "id": 788982,
+      "is_public": true,
+      "modified": "2022-03-04T09:31:10.251429+00:00",
+      "note": "The [hyphenate-character][1] CSS property can be used to set a string that is used instead of a hyphen character (`-`) at the end of a hyphenation line break.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/hyphenate-character",
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
       "bug": 1750619,
       "created": "2022-01-31T14:59:13.723575+00:00",
       "id": 788932,
