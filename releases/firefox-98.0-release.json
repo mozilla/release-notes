@@ -11,8 +11,8 @@
       "created": "2022-03-03T18:52:52.020399+00:00",
       "id": 788971,
       "is_public": true,
-      "modified": "2022-03-03T19:00:54.627107+00:00",
-      "note": "Firefox has a new optimized download flow. Instead of prompting every time, files will download automatically. However, they can still be opened from the downloads panel with just one click. Easy! [More information][1]\r\n\r\n![screenshot][2]\r\n\r\nYou\u2019ll find you have a number of options, including: \r\n\r\n- **Always Open Similar Files:** Make Firefox automatically open downloaded files of the same type with the system default application.\r\n- **Show In Folder:** Open the folder that contains your downloaded files.\r\n- **Go To Download Page:** Surfaces the download reference page even after leaving the site or closing the tab.\r\n- **Copy Download Link:** Copy the download link to share it, save it, or for any applicable use.\r\n- **Remove From History:** Remove a file from your list of downloaded files.\r\n- **Clear Preview Panel:** Clear the list of downloaded items in the preview panel that opens when you start a download.\r\n\r\nIn this release, you\u2019ll also see that Firefox no longer asks what to do for each file by default. You won\u2019t be prompted to choose a helper application or save to disk before downloading a file unless you have [changed your download action setting][3] for that type of file.\r\n\r\nAnd now, every time you start a download, Firefox will automatically bring up the Downloads panel by default. This means you\u2019ll experience minimal interruptions and easily find your downloaded files. Plus, to avoid having to close it several times, the panel won't show if there are multiple downloads in progress. \r\n\r\nYou can now click on a file in the Downloads panel to open it even before it has finished downloading. Firefox will open the file as soon as it is available. Firefox: saving you time and helping you get back to what you care about!\r\n\r\nAny files you download will be immediately saved on your disk. Depending on the current configuration, they\u2019ll be saved in your preferred download folder, or you\u2019ll be asked to select a location for each download. Windows and Linux users will find their downloaded files in the destination folder. They\u2019ll no longer be put in the Temp folder.\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/manage-downloads-preferences-using-downloads-menu\r\n  [2]: /media/img/firefox/releasenotes/note-images/98_download_panel.png\r\n  [3]: https://support.mozilla.org/en-US/kb/change-firefox-behavior-when-open-file#w_changing-download-actions",
+      "modified": "2022-03-04T09:45:44.516477+00:00",
+      "note": "Firefox has a new optimized download flow. Instead of prompting every time, files will download automatically. However, they can still be opened from the downloads panel with just one click. Easy! [More information][1]\r\n\r\n![screenshot][2]\r\n\r\nYou\u2019ll find you have a number of options, including: \r\n\r\n- **Always Open Similar Files:** Make Firefox automatically open downloaded files of the same type with the system default application.\r\n- **Show In Folder:** Open the folder that contains your downloaded files.\r\n- **Go To Download Page:** Surfaces the download reference page even after leaving the site or closing the tab.\r\n- **Copy Download Link:** Copy the download link to share it, save it, or for any applicable use.\r\n- **Delete:** You can now delete downloaded files directly from the download panel and other download views using the context menu.\r\n- **Remove From History:** Remove a file from your list of downloaded files.\r\n- **Clear Preview Panel:** Clear the list of downloaded items in the preview panel that opens when you start a download.\r\n\r\n\r\nIn this release, you\u2019ll also see that Firefox no longer asks what to do for each file by default. You won\u2019t be prompted to choose a helper application or save to disk before downloading a file unless you have [changed your download action setting][3] for that type of file.\r\n\r\nAnd now, every time you start a download, Firefox will automatically bring up the Downloads panel by default. This means you\u2019ll experience minimal interruptions and easily find your downloaded files. Plus, to avoid having to close it several times, the panel won't show if there are multiple downloads in progress. \r\n\r\nYou can now click on a file in the Downloads panel to open it even before it has finished downloading. Firefox will open the file as soon as it is available. Firefox: saving you time and helping you get back to what you care about!\r\n\r\nAny files you download will be immediately saved on your disk. Depending on the current configuration, they\u2019ll be saved in your preferred download folder, or you\u2019ll be asked to select a location for each download. Windows and Linux users will find their downloaded files in the destination folder. They\u2019ll no longer be put in the Temp folder.\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/manage-downloads-preferences-using-downloads-menu\r\n  [2]: /media/img/firefox/releasenotes/note-images/98_download_panel.png\r\n  [3]: https://support.mozilla.org/en-US/kb/change-firefox-behavior-when-open-file#w_changing-download-actions",
       "sort_num": 0,
       "tag": "New"
     },
@@ -81,8 +81,8 @@
       "created": "2022-03-04T09:20:52.144877+00:00",
       "id": 788978,
       "is_public": true,
-      "modified": "2022-03-04T09:20:52.144722+00:00",
-      "note": "New UI in the Browser Toolbox to toggle Fluent pseudolocalization bidi / accented\r\n![screenshot][1]\r\n\r\n\r\n  [1]: http:///media/img/firefox/releasenotes/note-images/98_devtools_1.png",
+      "modified": "2022-03-04T09:43:15.309269+00:00",
+      "note": "New UI in the Browser Toolbox to toggle Fluent pseudolocalization bidi / accented\r\n![screenshot][1]\r\n\r\n\r\n  [1]: /media/img/firefox/releasenotes/note-images/98_devtools_1.png",
       "sort_num": 0,
       "tag": "Developer"
     },
@@ -91,8 +91,8 @@
       "created": "2022-03-04T09:23:00.222464+00:00",
       "id": 788979,
       "is_public": true,
-      "modified": "2022-03-04T09:23:00.222203+00:00",
-      "note": "\u201cIgnore line\u201d context menu entry added in the debugger editor gutter when `devtools.debugger.features.blackbox-lines` is `true`. Also, there is a better \u201cIgnore source\u201d icon and editor background colors for ignored lines.\r\n![screenshot][1]\r\n\r\n\r\n  [1]: http:///media/img/firefox/releasenotes/note-images/98_devtools_3.png",
+      "modified": "2022-03-04T09:43:43.502503+00:00",
+      "note": "\u201cIgnore line\u201d context menu entry added in the debugger editor gutter when `devtools.debugger.features.blackbox-lines` is `true`. Also, there is a better \u201cIgnore source\u201d icon and editor background colors for ignored lines.\r\n![screenshot][1]\r\n\r\n\r\n  [1]: /media/img/firefox/releasenotes/note-images/98_devtools_3.png",
       "sort_num": 0,
       "tag": "Developer"
     },
@@ -101,8 +101,8 @@
       "created": "2022-03-04T09:25:59.268141+00:00",
       "id": 788980,
       "is_public": true,
-      "modified": "2022-03-04T09:25:59.267941+00:00",
-      "note": "Auto-open devtools for tabs opened via window.open (behind `devtools.popups.debug`). On a page where you already have DevTools opened, if a new tab is created via `window.open`, the toolbox will automatically move to the new tab, with the new document selected in both the iframe picker and the context selector \r\n![screenshot][1]\r\n\r\n\r\n  [1]: http:///media/img/firefox/releasenotes/note-images/98_devtools_4.png",
+      "modified": "2022-03-04T09:43:27.113635+00:00",
+      "note": "Auto-open devtools for tabs opened via window.open (behind `devtools.popups.debug`). On a page where you already have DevTools opened, if a new tab is created via `window.open`, the toolbox will automatically move to the new tab, with the new document selected in both the iframe picker and the context selector \r\n![screenshot][1]\r\n\r\n\r\n  [1]: /media/img/firefox/releasenotes/note-images/98_devtools_4.png",
       "sort_num": 0,
       "tag": "Developer"
     },
