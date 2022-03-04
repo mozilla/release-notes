@@ -8,10 +8,20 @@
   "notes": [
     {
       "bug": null,
+      "created": "2022-03-04T20:13:37.339140+00:00",
+      "id": 788985,
+      "is_public": true,
+      "modified": "2022-03-04T20:13:37.338976+00:00",
+      "note": "Reference link to [91.6.0 release notes][0]\r\n\r\n[0]: https://www.mozilla.org/en-US/firefox/91.6.0/releasenotes/",
+      "sort_num": 0,
+      "tag": ""
+    },
+    {
+      "bug": null,
       "created": "2022-03-04T20:09:25.812997+00:00",
       "id": 788984,
       "is_public": true,
-      "modified": "2022-03-04T20:09:25.812837+00:00",
+      "modified": "2022-03-04T20:19:52.073904+00:00",
       "note": "[Security fix][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/en-US/security/advisories/",
       "sort_num": 0,
       "tag": "Fixed"

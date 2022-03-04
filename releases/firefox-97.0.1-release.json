@@ -11,7 +11,7 @@
       "created": "2022-02-17T00:34:57.364039+00:00",
       "id": 788955,
       "is_public": true,
-      "modified": "2022-02-17T00:35:13.626614+00:00",
+      "modified": "2022-03-04T20:15:00.147678+00:00",
       "note": "Reference link to [97.0 release notes][0]\r\n\r\n[0]: https://www.mozilla.org/firefox/97.0/releasenotes/",
       "sort_num": 0,
       "tag": ""
@@ -21,7 +21,7 @@
       "created": "2022-02-17T00:41:37.296724+00:00",
       "id": 788956,
       "is_public": true,
-      "modified": "2022-02-17T00:41:37.296574+00:00",
+      "modified": "2022-03-04T20:14:58.476063+00:00",
       "note": "Fixed an issue where TikTok videos would fail to load when selected from a user's profile page ([bug 1750973][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1750973",
       "sort_num": 40,
       "tag": "Fixed"
@@ -31,7 +31,7 @@
       "created": "2022-02-17T00:43:44.710908+00:00",
       "id": 788957,
       "is_public": true,
-      "modified": "2022-02-17T09:04:54.990101+00:00",
+      "modified": "2022-03-04T20:14:57.910038+00:00",
       "note": "Fixed an issue which led to Picture-in-Picture mode being unable to be toggled on Hulu ([bug 1753401][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1753401",
       "sort_num": 30,
       "tag": "Fixed"
@@ -41,7 +41,7 @@
       "created": "2022-02-17T00:45:33.307464+00:00",
       "id": 788958,
       "is_public": true,
-      "modified": "2022-02-17T00:45:33.307289+00:00",
+      "modified": "2022-03-04T20:14:57.054755+00:00",
       "note": "Works around problems with WebRoot SecureAnywhere antivirus rendering Firefox unusable in some situations ([bug 1752466][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1752466",
       "sort_num": 20,
       "tag": "Fixed"
@@ -51,7 +51,7 @@
       "created": "2022-02-17T00:47:11.109990+00:00",
       "id": 788959,
       "is_public": true,
-      "modified": "2022-02-17T09:04:38.689976+00:00",
+      "modified": "2022-03-04T20:14:56.243622+00:00",
       "note": "Fixed an issue causing users to see the Restore Session screen unexpectedly when starting Firefox ([bug 1749996][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1749996",
       "sort_num": 10,
       "tag": "Fixed"
