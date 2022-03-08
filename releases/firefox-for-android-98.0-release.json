@@ -75,6 +75,16 @@
       "note": "[Fix for:  FF message: Limit reached for top sites - but only two top sites are present][1]\r\n\r\n\r\n  [1]: https://github.com/mozilla-mobile/fenix/issues/23408",
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2022-03-04T10:02:47.586335+00:00",
+      "id": 788983,
+      "is_public": true,
+      "modified": "2022-03-08T12:55:37.303409+00:00",
+      "note": "Various [security][1] fixes.\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/mfsa2022-10/",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox for Android",
