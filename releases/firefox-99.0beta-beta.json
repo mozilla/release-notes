@@ -37,6 +37,16 @@
       "tag": "New"
     },
     {
+      "bug": null,
+      "created": "2022-03-09T19:35:52.319979+00:00",
+      "id": 788987,
+      "is_public": true,
+      "modified": "2022-03-09T19:35:52.319734+00:00",
+      "note": "The Linux sandbox was strengthened: processes exposed to web content no longer have access to the X Window system (X11).",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1748798,
       "created": "2022-01-31T12:32:54.244181+00:00",
       "id": 788931,
