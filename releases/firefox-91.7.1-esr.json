@@ -3,9 +3,30 @@
   "bug_search_url": "",
   "channel": "ESR",
   "created": "2022-03-14T10:13:39.333103+00:00",
-  "is_public": false,
-  "modified": "2022-03-14T10:13:55.345449+00:00",
-  "notes": [],
+  "is_public": true,
+  "modified": "2022-03-14T16:49:24.345552+00:00",
+  "notes": [
+    {
+      "bug": null,
+      "created": "2022-03-14T16:52:40.856294+00:00",
+      "id": 788990,
+      "is_public": true,
+      "modified": "2022-03-14T16:52:40.856139+00:00",
+      "note": "Reference link to [91.7.0 release notes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/firefox/91.7.0/releasenotes/",
+      "sort_num": 0,
+      "tag": ""
+    },
+    {
+      "bug": null,
+      "created": "2022-03-14T16:46:02.339060+00:00",
+      "id": 788988,
+      "is_public": true,
+      "modified": "2022-03-14T16:46:02.338909+00:00",
+      "note": "Yandex and Mail.ru have been removed as optional search providers in the drop-down search menu in Firefox.\r\n\r\nIf you previously installed a customized version of Firefox with Yandex or Mail.ru, offered through partner distribution channels, this release removes those customizations, including add-ons and default bookmarks. Where applicable, your browser will revert back to default settings, as offered by Mozilla. All other releases of Firefox remain unaffected by the change.",
+      "sort_num": 0,
+      "tag": "Changed"
+    }
+  ],
   "product": "Firefox Extended Support Release",
   "release_date": "2022-03-14",
   "slug": "firefox-91.7.1-esr",
