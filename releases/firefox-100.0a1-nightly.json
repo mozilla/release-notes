@@ -5,7 +5,26 @@
   "created": "2022-03-08T19:22:57.599844+00:00",
   "is_public": true,
   "modified": "2022-03-09T14:38:25.155565+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": null,
+      "created": "2022-03-15T04:05:17.092605+00:00",
+      "fixed_in_release": {
+        "channel": "Nightly",
+        "is_public": true,
+        "product": "Firefox",
+        "slug": "firefox-100.0a1-nightly",
+        "title": "Firefox 100.0a1 Nightly",
+        "version": "100.0a1"
+      },
+      "id": 788991,
+      "is_public": true,
+      "modified": "2022-03-15T04:05:17.092447+00:00",
+      "note": "Some websites might not work correctly in Firefox version 100 due to Firefox's new three-digit version number. You can read about it in our blog post [here][1]! \r\n\r\nSee the Mozilla Support article [Difficulties opening or using a website in Firefox 100][2] for some possible workarounds you can use. You will also find instructions for reporting a broken website so that Mozilla can help fix the problem.\r\n\r\nMozilla Support articles for Desktop and Android:\r\n[https://support.mozilla.org/kb/difficulties-opening-or-using-website-firefox-100][3]\r\n[https://support.mozilla.org/kb/difficulties-firefox-android-100][4]\r\n[https://support.mozilla.org/kb/difficulties-firefox-focus-android-100][5]\r\n\r\n[1]: https://hacks.mozilla.org/2022/02/version-100-in-chrome-and-firefox/\r\n[2]: https://support.mozilla.org/kb/difficulties-opening-or-using-website-firefox-100\r\n[3]: https://support.mozilla.org/kb/difficulties-opening-or-using-website-firefox-100\r\n[4]: https://support.mozilla.org/kb/difficulties-firefox-android-100\r\n[5]:https://support.mozilla.org/kb/difficulties-firefox-focus-android-100",
+      "sort_num": 0,
+      "tag": "New"
+    }
+  ],
   "product": "Firefox",
   "release_date": "2022-03-08",
   "slug": "firefox-100.0a1-nightly",
