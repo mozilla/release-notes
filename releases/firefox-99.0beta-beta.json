@@ -47,6 +47,16 @@
       "tag": "New"
     },
     {
+      "bug": 1752906,
+      "created": "2022-03-16T11:54:04.130581+00:00",
+      "id": 788992,
+      "is_public": true,
+      "modified": "2022-03-16T11:54:04.130417+00:00",
+      "note": "Firefox now supports the [Web MIDI][1] API on Windows, macOS and Linux. Our implementation has some limitations such as lack of device hot-plug detection but should work with most existing web pages. A [site-specific add-on][2] is required to enable the API on your web page.\r\n\r\n\r\n[1]: https://www.w3.org/TR/webmidi/\r\n[2]: https://extensionworkshop.com/documentation/publish/site-permission-add-on/",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1748798,
       "created": "2022-01-31T12:32:54.244181+00:00",
       "id": 788931,
