@@ -8,6 +8,42 @@
   "notes": [
     {
       "bug": null,
+      "created": "2022-03-21T23:18:55.244985+00:00",
+      "fixed_in_release": {
+        "channel": "Nightly",
+        "is_public": true,
+        "product": "Firefox",
+        "slug": "firefox-100.0a1-nightly",
+        "title": "Firefox 100.0a1 Nightly",
+        "version": "100.0a1"
+      },
+      "id": 788994,
+      "is_public": true,
+      "modified": "2022-03-21T23:18:55.244816+00:00",
+      "note": "Picture-in-Picture now also supports video captions on websites that use WebVTT (Web Video Text Track) format, like Coursera.org, Canadian Broadcasting Corporation, and many more",
+      "sort_num": 20,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2022-03-21T23:16:38.574698+00:00",
+      "fixed_in_release": {
+        "channel": "Nightly",
+        "is_public": true,
+        "product": "Firefox",
+        "slug": "firefox-100.0a1-nightly",
+        "title": "Firefox 100.0a1 Nightly",
+        "version": "100.0a1"
+      },
+      "id": 788993,
+      "is_public": true,
+      "modified": "2022-03-21T23:16:38.574413+00:00",
+      "note": "We now support captions/subtitles display on YouTube, Prime Video, and Netflix videos you watch in Picture-in-Picture. Just turn on the subtitles on the in-page video player, and they will appear in PiP.",
+      "sort_num": 10,
+      "tag": "New"
+    },
+    {
+      "bug": null,
       "created": "2022-03-15T04:05:17.092605+00:00",
       "fixed_in_release": {
         "channel": "Nightly",
