@@ -2,36 +2,26 @@
   "bug_list": "",
   "bug_search_url": "",
   "channel": "Release",
-  "created": "2022-03-14T10:11:45.257072+00:00",
-  "is_public": true,
-  "modified": "2022-03-14T16:49:24.348277+00:00",
+  "created": "2022-03-22T21:14:22.506772+00:00",
+  "is_public": false,
+  "modified": "2022-03-22T21:14:57.330960+00:00",
   "notes": [
     {
       "bug": null,
-      "created": "2022-03-14T16:51:51.225592+00:00",
-      "id": 788989,
+      "created": "2022-03-22T21:18:35.328963+00:00",
+      "id": 788995,
       "is_public": true,
-      "modified": "2022-03-22T21:14:45.474470+00:00",
-      "note": "Reference link to [98.0 release notes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/firefox/98.0/releasenotes/",
+      "modified": "2022-03-22T21:18:35.328793+00:00",
+      "note": "Reference link to [98.0.1 release notes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/firefox/98.0.1/releasenotes/",
       "sort_num": 0,
       "tag": ""
-    },
-    {
-      "bug": null,
-      "created": "2022-03-14T16:46:02.339060+00:00",
-      "id": 788988,
-      "is_public": true,
-      "modified": "2022-03-22T21:14:46.871414+00:00",
-      "note": "Yandex and Mail.ru have been removed as optional search providers in the drop-down search menu in Firefox.\r\n\r\nIf you previously installed a customized version of Firefox with Yandex or Mail.ru, offered through partner distribution channels, this release removes those customizations, including add-ons and default bookmarks. Where applicable, your browser will revert back to default settings, as offered by Mozilla. All other releases of Firefox remain unaffected by the change.",
-      "sort_num": 0,
-      "tag": "Changed"
     }
   ],
   "product": "Firefox",
-  "release_date": "2022-03-14",
-  "slug": "firefox-98.0.1-release",
+  "release_date": "2022-03-24",
+  "slug": "firefox-98.0.2-release",
   "system_requirements": "## Windows\r\n\r\n### Operating Systems (32-bit and 64-bit)\r\n - Windows 7\r\n - Windows 8\r\n - Windows 10\r\n - Windows 11\r\n\r\n### Recommended Hardware\r\n-  Pentium 4 or newer processor that supports SSE2\r\n-  512MB of RAM / 2GB of RAM for the 64-bit version\r\n-  200MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- macOS 10.12\r\n- macOS 10.13\r\n- macOS 10.14\r\n- macOS 10.15\r\n- macOS 11\r\n- macOS 12\r\n\r\n### Recommended Hardware\r\n- Mac computer with an Intel x86 or Apple silicon processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - glibc 2.17 or higher\r\n    - GTK+ 3.14 or higher\r\n    - libstdc++ 4.8.1 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - DBus 1.0 or higher\r\n    - GNOME 2.16 or higher\r\n    - libxtst 1.2.3 or higher\r\n    - NetworkManager 0.7 or higher\r\n    - PulseAudio",
   "text": "",
-  "title": "Firefox 98.0.1 Release",
-  "version": "98.0.1"
+  "title": "Firefox 98.0.2 Release",
+  "version": "98.0.2"
 }
