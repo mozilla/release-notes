@@ -25,6 +25,36 @@
       "note": "Fixed an issue preventing users from typing in Address Bar after opening new tab and pressing cmd + enter ([bug 1757376][1])\r\n\r\n[1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1757376",
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": 1757618,
+      "created": "2022-03-22T21:29:37.695663+00:00",
+      "id": 788997,
+      "is_public": true,
+      "modified": "2022-03-22T21:38:32.950064+00:00",
+      "note": "Fixed an issue causing some users to crash in out-of-memory conditions ([bug 1757618][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1757618",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1758664,
+      "created": "2022-03-22T21:32:23.910727+00:00",
+      "id": 788998,
+      "is_public": true,
+      "modified": "2022-03-22T21:38:53.255149+00:00",
+      "note": "Fixed an issue in session history which caused some sites to fail to load ([bug 1758664][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1758664",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1759162,
+      "created": "2022-03-22T21:37:46.195868+00:00",
+      "id": 788999,
+      "is_public": true,
+      "modified": "2022-03-22T21:38:59.068239+00:00",
+      "note": "Fixed an add-on specific compatibility issue ([bug 1759162][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1759162",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
