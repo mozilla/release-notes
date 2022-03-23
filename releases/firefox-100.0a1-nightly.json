@@ -25,7 +25,7 @@
       "tag": "New"
     },
     {
-      "bug": null,
+      "bug": 1751505,
       "created": "2022-03-21T23:16:38.574698+00:00",
       "fixed_in_release": {
         "channel": "Nightly",
@@ -37,7 +37,7 @@
       },
       "id": 788993,
       "is_public": true,
-      "modified": "2022-03-22T02:54:24.218622+00:00",
+      "modified": "2022-03-23T19:26:05.416845+00:00",
       "note": "We now support captions/subtitles display on YouTube, Prime Video, and Netflix videos you watch in Picture-in-Picture. Just turn on the subtitles on the in-page video player, and they will appear in PiP.",
       "sort_num": 20,
       "tag": "New"
