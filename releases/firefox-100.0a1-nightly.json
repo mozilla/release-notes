@@ -59,6 +59,24 @@
       "note": "Picture-in-Picture now also supports video captions on websites that use WebVTT (Web Video Text Track) format, like Coursera.org, Canadian Broadcasting Corporation, and many more.",
       "sort_num": 10,
       "tag": "New"
+    },
+    {
+      "bug": 1736218,
+      "created": "2022-03-23T13:32:45.584639+00:00",
+      "fixed_in_release": {
+        "channel": "Nightly",
+        "is_public": true,
+        "product": "Firefox",
+        "slug": "firefox-100.0a1-nightly",
+        "title": "Firefox 100.0a1 Nightly",
+        "version": "100.0a1"
+      },
+      "id": 789000,
+      "is_public": true,
+      "modified": "2022-03-23T13:34:41.746974+00:00",
+      "note": "Users can now choose the preferred color scheme for websites. Theme authors can now make better decisions about which color scheme Firefox uses for menus etc. Web content appearance can now be changed in `about:preferences`.\r\n\r\n.",
+      "sort_num": 5,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
