@@ -72,9 +72,27 @@
         "version": "100.0a1"
       },
       "id": 789001,
-      "is_public": false,
-      "modified": "2022-03-24T14:56:48.407398+00:00",
+      "is_public": true,
+      "modified": "2022-03-25T13:35:55.906380+00:00",
       "note": "Spellchecker now allows multiple language dictionaries at the same time.",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1652945,
+      "created": "2022-03-25T13:39:54.107783+00:00",
+      "fixed_in_release": {
+        "channel": "Nightly",
+        "is_public": true,
+        "product": "Firefox",
+        "slug": "firefox-100.0a1-nightly",
+        "title": "Firefox 100.0a1 Nightly",
+        "version": "100.0a1"
+      },
+      "id": 789002,
+      "is_public": true,
+      "modified": "2022-03-25T13:39:54.107573+00:00",
+      "note": "Hardware accelerated AV1 video decoding was enabled on Windows with supported GPUs (Intel Gen 11+, AMD RDNA 2 Excluding Navi 24, GeForce 30).",
       "sort_num": 0,
       "tag": "New"
     },
