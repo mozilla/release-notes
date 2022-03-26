@@ -113,6 +113,24 @@
       "note": "Users can now choose the preferred color scheme for websites. Theme authors can now make better decisions about which color scheme Firefox uses for menus etc. Web content appearance can now be changed in `about:preferences`.\r\n\r\n.",
       "sort_num": 5,
       "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2022-03-26T02:48:46.370616+00:00",
+      "fixed_in_release": {
+        "channel": "Nightly",
+        "is_public": true,
+        "product": "Firefox",
+        "slug": "firefox-100.0a1-nightly",
+        "title": "Firefox 100.0a1 Nightly",
+        "version": "100.0a1"
+      },
+      "id": 789003,
+      "is_public": true,
+      "modified": "2022-03-26T02:48:46.370454+00:00",
+      "note": "Beginning in this release, the Firefox installer for Windows is signed with a SHA-256 digest, rather than SHA-1. Update KB4474419 is required for successful installation on a computer running the Microsoft Windows 7 operating system. For more details about this update, visit the [Microsoft Technical Support website][1].\r\n\r\n\r\n  [1]: https://support.microsoft.com/en-us/help/4474419/sha-2-code-signing-support-update",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
