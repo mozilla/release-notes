@@ -115,6 +115,24 @@
       "tag": "New"
     },
     {
+      "bug": 1762649,
+      "created": "2022-04-04T21:18:13.265595+00:00",
+      "fixed_in_release": {
+        "channel": "Beta",
+        "is_public": false,
+        "product": "Firefox",
+        "slug": "firefox-100.0beta-beta",
+        "title": "Firefox 100.0beta Beta",
+        "version": "100.0beta"
+      },
+      "id": 789016,
+      "is_public": true,
+      "modified": "2022-04-04T21:18:13.265437+00:00",
+      "note": "Firefox now supports credit card autofill and capture in the United Kingdom.",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1736218,
       "created": "2022-03-23T13:32:45.584639+00:00",
       "fixed_in_release": {
