@@ -11,7 +11,7 @@
       "created": "2022-03-31T15:13:00.638961+00:00",
       "id": 789010,
       "is_public": true,
-      "modified": "2022-03-31T15:13:00.638808+00:00",
+      "modified": "2022-04-11T16:02:16.086478+00:00",
       "note": "You can now toggle Narrate in ReaderMode with the keyboard shortcut \"n.\"",
       "sort_num": 0,
       "tag": "New"
@@ -21,7 +21,7 @@
       "created": "2022-03-31T15:13:28.081381+00:00",
       "id": 789011,
       "is_public": true,
-      "modified": "2022-03-31T15:13:28.081223+00:00",
+      "modified": "2022-04-11T16:02:15.538996+00:00",
       "note": "You can find added support for search\u2014with or without diacritics\u2014in the PDF viewer.",
       "sort_num": 0,
       "tag": "New"
@@ -31,7 +31,7 @@
       "created": "2022-03-31T15:13:56.667394+00:00",
       "id": 789012,
       "is_public": true,
-      "modified": "2022-03-31T15:13:56.667237+00:00",
+      "modified": "2022-04-11T16:02:14.714895+00:00",
       "note": "The Linux sandbox has been strengthened: processes exposed to web content no longer have access to the X Window system (X11).",
       "sort_num": 0,
       "tag": "New"
@@ -41,7 +41,7 @@
       "created": "2022-03-31T15:14:33.902432+00:00",
       "id": 789013,
       "is_public": true,
-      "modified": "2022-04-04T20:04:16.795602+00:00",
+      "modified": "2022-04-11T16:02:13.945951+00:00",
       "note": "Firefox now supports credit card autofill and capture in Germany and France.",
       "sort_num": 0,
       "tag": "New"
@@ -51,7 +51,7 @@
       "created": "2022-03-31T15:04:54.935298+00:00",
       "id": 789008,
       "is_public": true,
-      "modified": "2022-03-31T15:04:54.935148+00:00",
+      "modified": "2022-04-11T16:02:17.232066+00:00",
       "note": "Various bug fixes and new policies have been implemented in the latest version of Firefox. You can find more information in the [Firefox for Enterprise 99 Release Notes][1].\r\n\r\n[1]: https://support.mozilla.org/kb/firefox-enterprise-99-release-notes",
       "sort_num": 0,
       "tag": "Enterprise"
@@ -61,7 +61,7 @@
       "created": "2022-04-04T13:57:19.502237+00:00",
       "id": 789014,
       "is_public": true,
-      "modified": "2022-04-04T13:57:19.502082+00:00",
+      "modified": "2022-04-11T16:02:12.905384+00:00",
       "note": "Various [security][1] fixes.\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/mfsa2022-13/",
       "sort_num": 0,
       "tag": "Fixed"
@@ -71,7 +71,7 @@
       "created": "2022-03-31T14:59:51.339988+00:00",
       "id": 789007,
       "is_public": true,
-      "modified": "2022-03-31T14:59:51.339830+00:00",
+      "modified": "2022-04-11T16:02:17.882921+00:00",
       "note": "We are pleased to welcome the developers who contributed their first code change to Firefox in this release\u201412 of whom were brand new volunteers! Please join us in thanking each of these diligent and enthusiastic individuals, and take a look at their contributions:\r\n\r\n- adrien.rybarczyk: [Bug 1741566][1]\r\n- Amininkova: [Bug 1749586][2]\r\n- Burnha42: [Bug 1753117][3]\r\n- ccraig8: [Bug 1743486][4]\r\n- kabakert: [Bug 1331981][5] and [Bug 1594828][6]\r\n- Arpit Jain: [Bug 1754368][7] and [Bug 1755656][8]\r\n- Celeste: [Bug 1744765][9]\r\n- Emily Michaels: [Bug 1749038][10]\r\n- Gustavo Silva: [Bug 1747555][11]\r\n- Iulian Moraru: [Bug 1753847][12]\r\n- Jintao Hu: [Bug 1750735][13]\r\n- Max Vollmer: [Bug 1755305][14]\r\n- Patrick Demers: [Bug 1264621][15] \r\n- Sandor Molnar: [Bug 1721541][16]\r\n- Siphalor: [Bug 1753307][17]\r\n- Sven Assmann: [Bug 1651609][18]\r\n\r\n[1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1741566\r\n[2]: https://bugzilla.mozilla.org/show_bug.cgi?id=1749586\r\n[3]: https://bugzilla.mozilla.org/show_bug.cgi?id=1753117\r\n[4]: https://bugzilla.mozilla.org/show_bug.cgi?id=1743486\r\n[5]: https://bugzilla.mozilla.org/show_bug.cgi?id=1331981\r\n[6]: https://bugzilla.mozilla.org/show_bug.cgi?id=1594828\r\n[7]: https://bugzilla.mozilla.org/show_bug.cgi?id=1754368\r\n[8]: https://bugzilla.mozilla.org/show_bug.cgi?id=1755656\r\n[9]: https://bugzilla.mozilla.org/show_bug.cgi?id=1744765\r\n[10]: https://bugzilla.mozilla.org/show_bug.cgi?id=1749038\r\n[11]: https://bugzilla.mozilla.org/show_bug.cgi?id=1747555\r\n[12]: https://bugzilla.mozilla.org/show_bug.cgi?id=1753847\r\n[13]: https://bugzilla.mozilla.org/show_bug.cgi?id=1750735\r\n[14]: https://bugzilla.mozilla.org/show_bug.cgi?id=1755305\r\n[15]: https://bugzilla.mozilla.org/show_bug.cgi?id=1264621\r\n[16]: https://bugzilla.mozilla.org/show_bug.cgi?id=1721541\r\n[17]: https://bugzilla.mozilla.org/show_bug.cgi?id=1753307\r\n[18]: https://bugzilla.mozilla.org/show_bug.cgi?id=1651609",
       "sort_num": 0,
       "tag": "Community"
@@ -81,7 +81,7 @@
       "created": "2022-03-31T15:12:18.131437+00:00",
       "id": 789009,
       "is_public": true,
-      "modified": "2022-03-31T15:40:16.083324+00:00",
+      "modified": "2022-04-11T16:02:16.725035+00:00",
       "note": "Gallery mode in the Zoom web client is [now accessible][1] in Firefox 99. Display of video is not always working with breakout rooms in gallery mode.\r\n\r\n - When a user of the Zoom web client enters a breakout room, one's self view and of other participants may not appear. Leaving the breakout room and re-entering it should resolve the issue. \r\n\r\n[1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1761329",
       "sort_num": 0,
       "tag": "Known"
