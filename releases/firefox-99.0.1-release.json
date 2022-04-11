@@ -5,7 +5,38 @@
   "created": "2022-04-11T16:01:53.898432+00:00",
   "is_public": false,
   "modified": "2022-04-11T16:02:32.474743+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": null,
+      "created": "2022-04-11T16:25:06.370181+00:00",
+      "id": 789018,
+      "is_public": true,
+      "modified": "2022-04-11T16:25:06.370020+00:00",
+      "note": "Reference link to [99.0 release notes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/firefox/99.0/releasenotes/",
+      "sort_num": 0,
+      "tag": ""
+    },
+    {
+      "bug": 1762125,
+      "created": "2022-04-11T16:24:32.328825+00:00",
+      "id": 789017,
+      "is_public": true,
+      "modified": "2022-04-11T16:24:32.328576+00:00",
+      "note": "Fixed an issue for Windows users that prevented hardware video decoding on newer Intel drivers ([bug 1762125][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1762125",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1763368,
+      "created": "2022-04-11T16:28:23.221481+00:00",
+      "id": 789019,
+      "is_public": true,
+      "modified": "2022-04-11T16:28:23.221313+00:00",
+      "note": "Fixed an issue with text rendering in Bengali ([bug 1763368][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1763368",
+      "sort_num": 0,
+      "tag": "Fixed"
+    }
+  ],
   "product": "Firefox",
   "release_date": "2022-04-13",
   "slug": "firefox-99.0.1-release",
