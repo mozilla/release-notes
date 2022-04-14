@@ -1,0 +1,37 @@
+{
+  "bug_list": "",
+  "bug_search_url": "",
+  "channel": "Release",
+  "created": "2022-04-14T13:16:10.836924+00:00",
+  "is_public": false,
+  "modified": "2022-04-14T13:16:10.836758+00:00",
+  "notes": [
+    {
+      "bug": null,
+      "created": "2022-04-14T13:16:51.193350+00:00",
+      "id": 789022,
+      "is_public": true,
+      "modified": "2022-04-14T13:16:51.193195+00:00",
+      "note": "You can now use inactive tabs to keep your tabs tray clutter-free. When you haven\u2019t used a tab in over 14 days, it will move to the inactive section.",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2022-04-14T13:17:36.926645+00:00",
+      "id": 789023,
+      "is_public": true,
+      "modified": "2022-04-14T13:17:36.926409+00:00",
+      "note": "You can now correct a typo in the middle of your search term.",
+      "sort_num": 0,
+      "tag": "Fixed"
+    }
+  ],
+  "product": "Firefox for iOS",
+  "release_date": "2022-04-05",
+  "slug": "firefox-for-ios-99.0-release",
+  "system_requirements": "## Operating systems\r\n - iOS 13\r\n - iOS 14\r\n - iOS 15",
+  "text": "",
+  "title": "Firefox for iOS 99.0 Release",
+  "version": "99.0"
+}
