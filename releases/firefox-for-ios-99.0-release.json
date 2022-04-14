@@ -3,8 +3,8 @@
   "bug_search_url": "",
   "channel": "Release",
   "created": "2022-04-14T13:16:10.836924+00:00",
-  "is_public": false,
-  "modified": "2022-04-14T13:16:10.836758+00:00",
+  "is_public": true,
+  "modified": "2022-04-14T13:33:18.428699+00:00",
   "notes": [
     {
       "bug": null,
@@ -23,6 +23,16 @@
       "is_public": true,
       "modified": "2022-04-14T13:17:36.926409+00:00",
       "note": "You can now correct a typo in the middle of your search term.",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2022-04-14T13:33:03.491334+00:00",
+      "id": 789024,
+      "is_public": true,
+      "modified": "2022-04-14T13:33:03.491178+00:00",
+      "note": "\u201cPasted from [app]\u201d banner will not be repeatedly displayed while navigating the app.",
       "sort_num": 0,
       "tag": "Fixed"
     }
