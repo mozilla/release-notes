@@ -5,7 +5,28 @@
   "created": "2022-05-02T19:57:18.263346+00:00",
   "is_public": false,
   "modified": "2022-05-02T19:57:51.385413+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": 1656363,
+      "created": "2022-05-02T20:27:36.968363+00:00",
+      "id": 789062,
+      "is_public": true,
+      "modified": "2022-05-02T20:27:36.968095+00:00",
+      "note": "Firefox now supports the `prefers-contrast` media query, which allows sites to detect if the user has requested that web content is presented with a higher (or lower) contrast.",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1639087,
+      "created": "2022-05-02T20:29:09.614262+00:00",
+      "id": 789063,
+      "is_public": true,
+      "modified": "2022-05-02T20:29:09.614111+00:00",
+      "note": "Firefox for Android now supports using the magnifier on Android 9+ for positioning the cursor in forms on webpages.",
+      "sort_num": 0,
+      "tag": "New"
+    }
+  ],
   "product": "Firefox",
   "release_date": "2022-05-03",
   "slug": "firefox-101.0beta-beta",
