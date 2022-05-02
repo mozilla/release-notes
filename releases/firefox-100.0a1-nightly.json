@@ -19,7 +19,7 @@
       },
       "id": 788993,
       "is_public": true,
-      "modified": "2022-05-02T14:16:40.993200+00:00",
+      "modified": "2022-05-02T19:57:42.745666+00:00",
       "note": "We now support captions/subtitles display on YouTube, Prime Video, and Netflix videos you watch in Picture-in-Picture. Just turn on the subtitles on the in-page video player, and they will appear in PiP.",
       "sort_num": 100,
       "tag": "New"
@@ -37,7 +37,7 @@
       },
       "id": 788994,
       "is_public": true,
-      "modified": "2022-05-02T14:17:09.663807+00:00",
+      "modified": "2022-05-02T19:57:43.757673+00:00",
       "note": "[Picture-in-Picture][1] now also supports video captions on websites that use WebVTT (Web Video Text Track) format, like Coursera.org, Canadian Broadcasting Corporation, and many more.\r\n\r\n  [1]: https://support.mozilla.org/en-US/kb/about-picture-picture-firefox",
       "sort_num": 90,
       "tag": "New"
@@ -55,7 +55,7 @@
       },
       "id": 789001,
       "is_public": true,
-      "modified": "2022-04-12T09:18:06.553394+00:00",
+      "modified": "2022-05-02T19:57:47.825360+00:00",
       "note": "Spellchecker now allows multiple language dictionaries at the same time.",
       "sort_num": 0,
       "tag": "New"
@@ -73,7 +73,7 @@
       },
       "id": 789002,
       "is_public": true,
-      "modified": "2022-04-12T09:18:06.023485+00:00",
+      "modified": "2022-05-02T19:57:48.579191+00:00",
       "note": "Hardware accelerated AV1 video decoding was enabled on Windows with supported GPUs (Intel Gen 11+, AMD RDNA 2 Excluding Navi 24, GeForce 30).",
       "sort_num": 0,
       "tag": "New"
@@ -91,7 +91,7 @@
       },
       "id": 789015,
       "is_public": true,
-      "modified": "2022-04-12T09:18:04.473394+00:00",
+      "modified": "2022-05-02T19:57:46.609875+00:00",
       "note": "Scrollbars on Linux and Windows 11 won't take space by default. On Linux, users can change this on `about:preferences`. On Windows, we follow the system setting (System Settings > Accessibility > Visual Effects > Always show scrollbars). To change this just on Firefox, use the `widget.windows.overlay-scrollbars.enabled` pref from `about:config`.",
       "sort_num": 0,
       "tag": "New"
@@ -109,7 +109,7 @@
       },
       "id": 789016,
       "is_public": true,
-      "modified": "2022-04-12T09:18:03.196820+00:00",
+      "modified": "2022-05-02T19:57:45.316637+00:00",
       "note": "Firefox now supports credit card autofill and capture in the United Kingdom.",
       "sort_num": 0,
       "tag": "New"
@@ -127,7 +127,7 @@
       },
       "id": 788991,
       "is_public": true,
-      "modified": "2022-04-13T16:45:50.055014+00:00",
+      "modified": "2022-05-02T19:57:40.064248+00:00",
       "note": "Some websites might not work correctly in Firefox version 100 due to Firefox's new three-digit version number. You can read about it in our blog post [here][1]! \r\n\r\nSee the Mozilla Support article [Difficulties opening or using a website in Firefox 100][2] for some possible workarounds you can use. You will also find instructions for reporting a broken website so that Mozilla can help fix the problem.\r\n\r\nMozilla Support articles for Desktop and Android:\r\n[https://support.mozilla.org/kb/difficulties-opening-or-using-website-firefox-100][3]\r\n[https://support.mozilla.org/kb/difficulties-firefox-android-100][4]\r\n[https://support.mozilla.org/kb/difficulties-firefox-focus-android-100][5]\r\n\r\n[1]: https://hacks.mozilla.org/2022/02/version-100-in-chrome-and-firefox/\r\n[2]: https://support.mozilla.org/kb/difficulties-opening-or-using-website-firefox-100\r\n[3]: https://support.mozilla.org/kb/difficulties-opening-or-using-website-firefox-100\r\n[4]: https://support.mozilla.org/kb/difficulties-firefox-android-100\r\n[5]:https://support.mozilla.org/kb/difficulties-firefox-focus-android-100",
       "sort_num": 30,
       "tag": "Changed"
@@ -145,7 +145,7 @@
       },
       "id": 789000,
       "is_public": true,
-      "modified": "2022-04-12T09:18:07.057063+00:00",
+      "modified": "2022-05-02T19:57:50.212683+00:00",
       "note": "Users can now choose the preferred color scheme for websites. Theme authors can now make better decisions about which color scheme Firefox uses for menus etc. Web content appearance can now be changed in `about:preferences`.\r\n\r\n.",
       "sort_num": 5,
       "tag": "Fixed"
@@ -163,7 +163,7 @@
       },
       "id": 789003,
       "is_public": true,
-      "modified": "2022-04-12T09:18:05.596355+00:00",
+      "modified": "2022-05-02T19:57:49.267083+00:00",
       "note": "Beginning in this release, the Firefox installer for Windows is signed with a SHA-256 digest, rather than SHA-1. Update KB4474419 is required for successful installation on a computer running the Microsoft Windows 7 operating system. For more details about this update, visit the [Microsoft Technical Support website][1].\r\n\r\n\r\n  [1]: https://support.microsoft.com/en-us/help/4474419/sha-2-code-signing-support-update",
       "sort_num": 0,
       "tag": "Fixed"
