@@ -199,8 +199,8 @@
       },
       "id": 789045,
       "is_public": true,
-      "modified": "2022-05-02T14:23:56.174656+00:00",
-      "note": "Firefox now ignores less restricted referrer policies, including unsafe-url, no-referrer-when-downgrade and origin-when-cross-origin, for cross-site subresource/iframe requests to prevent privacy leaks from the referrer.",
+      "modified": "2022-05-02T19:10:35.620975+00:00",
+      "note": "Firefox now ignores less restricted referrer policies\u2014including unsafe-url, no-referrer-when-downgrade, and origin-when-cross-origin\u2014for cross-site subresource/iframe requests to prevent privacy leaks from the referrer.",
       "sort_num": 10,
       "tag": "New"
     },
@@ -253,8 +253,8 @@
       },
       "id": 789056,
       "is_public": true,
-      "modified": "2022-05-02T19:05:13.337277+00:00",
-      "note": "Some websites might not work correctly in Firefox version 100 due to Firefox's new three-digit number. You can read about it in our blog post [here][1]!\r\n\r\nSee the Mozilla Support [article][2] *Difficulties opening or using a website in Firefox 100* for some possible workarounds you can use. There, you will also find instructions for reporting a broken website so that Mozilla can help fix the problem.\r\n\r\nMozilla Support articles for Desktop and Android:\r\n[https://support.mozilla.org/kb/difficulties-opening-or-using-website-firefox-100][2]\r\n[https://support.mozilla.org/kb/difficulties-firefox-android-100][3]\r\n\r\n\r\n  [1]: https://hacks.mozilla.org/2022/02/version-100-in-chrome-and-firefox/\r\n  [2]: https://support.mozilla.org/kb/difficulties-opening-or-using-website-firefox-100\r\n  [3]: https://support.mozilla.org/kb/difficulties-firefox-android-100",
+      "modified": "2022-05-02T19:15:23.548581+00:00",
+      "note": "Some websites might not work correctly in Firefox version 100 due to Firefox's new three-digit number. You can read about it in our blog post [here][1]!\r\n\r\nSee the Mozilla Support [article][2] *Difficulties opening or using a website in Firefox 100* for possible workarounds you can use. There, you will also find instructions for reporting a broken website so that Mozilla can help fix the problem.\r\n\r\nMozilla Support articles for Desktop and Android:\r\n[https://support.mozilla.org/kb/difficulties-opening-or-using-website-firefox-100][2]\r\n[https://support.mozilla.org/kb/difficulties-firefox-android-100][3]\r\n\r\n\r\n  [1]: https://hacks.mozilla.org/2022/02/version-100-in-chrome-and-firefox/\r\n  [2]: https://support.mozilla.org/kb/difficulties-opening-or-using-website-firefox-100\r\n  [3]: https://support.mozilla.org/kb/difficulties-firefox-android-100",
       "sort_num": 10,
       "tag": "Changed"
     },
@@ -379,8 +379,8 @@
       },
       "id": 789048,
       "is_public": true,
-      "modified": "2022-05-02T14:26:14.091083+00:00",
-      "note": "In macOS 11+ we now only rasterize the fonts once per window. This means that opening a new tab is fast, and switching tabs in the same window is also usually fast. There's still work to do to share fonts across windows, or to reduce the time it takes to initialize these fonts.",
+      "modified": "2022-05-02T19:11:04.472150+00:00",
+      "note": "In macOS 11+ we now only rasterize the fonts once per window. This means that opening a new tab is fast, and switching tabs in the same window is also fast. (There's still work to do to share fonts across windows, or to reduce the time it takes to initialize these fonts.)",
       "sort_num": 60,
       "tag": "Fixed"
     },
@@ -397,7 +397,7 @@
       },
       "id": 789049,
       "is_public": true,
-      "modified": "2022-05-02T14:26:30.696553+00:00",
+      "modified": "2022-05-02T19:12:27.892968+00:00",
       "note": "The performance of deeply-nested `display: grid` elements is greatly improved.",
       "sort_num": 50,
       "tag": "Fixed"
@@ -433,8 +433,8 @@
       },
       "id": 789051,
       "is_public": true,
-      "modified": "2022-05-02T14:27:32.879994+00:00",
-      "note": "Soft-reload a web page will no longer cause revalidation for all resources.",
+      "modified": "2022-05-02T19:11:35.966646+00:00",
+      "note": "Soft-reloading a web page will no longer cause revalidation for all resources.",
       "sort_num": 30,
       "tag": "Fixed"
     },
@@ -451,8 +451,8 @@
       },
       "id": 789052,
       "is_public": true,
-      "modified": "2022-05-02T14:27:59.874878+00:00",
-      "note": "Non-vsync tasks are given more time to run, which improved behavior on Google docs and Twitch.",
+      "modified": "2022-05-02T19:12:54.521445+00:00",
+      "note": "Non-vsync tasks are given more time to run, which improves behavior on Google docs and Twitch.",
       "sort_num": 20,
       "tag": "Fixed"
     },
