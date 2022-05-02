@@ -98,6 +98,294 @@
     },
     {
       "bug": null,
+      "created": "2022-05-02T14:20:34.883249+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": false,
+        "product": "Firefox",
+        "slug": "firefox-100.0-release",
+        "title": "Firefox 100.0 Release",
+        "version": "100.0"
+      },
+      "id": 789040,
+      "is_public": true,
+      "modified": "2022-05-02T14:20:34.883088+00:00",
+      "note": "Hardware accelerated AV1 video decoding is enabled on Windows with supported GPUs (Intel Gen 11+, AMD RDNA 2 Excluding Navi 24, GeForce 30). Installing the [AV1 Video Extension][1] from the Microsoft Store may also be required.\r\n\r\n\r\n  [1]: https://www.microsoft.com/en-us/p/av1-video-extension/9mvzqvxjbq9v?activetab=pivot:overviewtab",
+      "sort_num": 50,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2022-05-02T14:21:09.030960+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": false,
+        "product": "Firefox",
+        "slug": "firefox-100.0-release",
+        "title": "Firefox 100.0 Release",
+        "version": "100.0"
+      },
+      "id": 789041,
+      "is_public": true,
+      "modified": "2022-05-02T14:21:09.030804+00:00",
+      "note": "Video overlay is enabled on Windows for Intel GPUs, reducing power usage during video playback.",
+      "sort_num": 40,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2022-05-02T14:22:11.740508+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": false,
+        "product": "Firefox",
+        "slug": "firefox-100.0-release",
+        "title": "Firefox 100.0 Release",
+        "version": "100.0"
+      },
+      "id": 789042,
+      "is_public": true,
+      "modified": "2022-05-02T14:22:11.740345+00:00",
+      "note": "Improve the fairness between painting and handling other events. This noticeably improves the [performance of the volume slider on Twitch][1].\r\n\r\n\r\n  [1]: https://jrmuizel.github.io/twitch/volume.html",
+      "sort_num": 30,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2022-05-02T14:22:40.645189+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": false,
+        "product": "Firefox",
+        "slug": "firefox-100.0-release",
+        "title": "Firefox 100.0 Release",
+        "version": "100.0"
+      },
+      "id": 789043,
+      "is_public": true,
+      "modified": "2022-05-02T14:22:40.644850+00:00",
+      "note": "Scrollbars on Linux and Windows 11 won't take space by default. On Linux, users can change this in Settings. On Windows, Firefox follows the system setting (System Settings > Accessibility > Visual Effects > Always show scrollbars).",
+      "sort_num": 20,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2022-05-02T14:23:19.248560+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": false,
+        "product": "Firefox",
+        "slug": "firefox-100.0-release",
+        "title": "Firefox 100.0 Release",
+        "version": "100.0"
+      },
+      "id": 789044,
+      "is_public": true,
+      "modified": "2022-05-02T14:23:19.248389+00:00",
+      "note": "Firefox now supports [credit card autofill][1] and capture in the United Kingdom.\r\n\r\n\r\n  [1]: https://support.mozilla.org/en-US/kb/credit-card-autofill",
+      "sort_num": 15,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2022-05-02T14:23:56.174815+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": false,
+        "product": "Firefox",
+        "slug": "firefox-100.0-release",
+        "title": "Firefox 100.0 Release",
+        "version": "100.0"
+      },
+      "id": 789045,
+      "is_public": true,
+      "modified": "2022-05-02T14:23:56.174656+00:00",
+      "note": "Firefox now ignores less restricted referrer policies, including unsafe-url, no-referrer-when-downgrade and origin-when-cross-origin, for cross-site subresource/iframe requests to prevent privacy leaks from the referrer.",
+      "sort_num": 10,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2022-05-02T14:28:53.479797+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": false,
+        "product": "Firefox",
+        "slug": "firefox-100.0-release",
+        "title": "Firefox 100.0 Release",
+        "version": "100.0"
+      },
+      "id": 789054,
+      "is_public": true,
+      "modified": "2022-05-02T14:28:53.479643+00:00",
+      "note": "Firefox has a new focus indicator for links which replaces the old dotted outline with a solid blue outline. This change unifies the focus indicators across form fields and links and makes it easier to identify the focused link, especially for users with low vision.",
+      "sort_num": 30,
+      "tag": "Changed"
+    },
+    {
+      "bug": null,
+      "created": "2022-05-02T14:29:13.547153+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": false,
+        "product": "Firefox",
+        "slug": "firefox-100.0-release",
+        "title": "Firefox 100.0 Release",
+        "version": "100.0"
+      },
+      "id": 789055,
+      "is_public": true,
+      "modified": "2022-05-02T14:29:13.547003+00:00",
+      "note": "New users can now set Firefox as the default PDF handler when setting Firefox as their default browser.",
+      "sort_num": 20,
+      "tag": "Changed"
+    },
+    {
+      "bug": null,
+      "created": "2022-05-02T14:24:57.296202+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": false,
+        "product": "Firefox",
+        "slug": "firefox-100.0-release",
+        "title": "Firefox 100.0 Release",
+        "version": "100.0"
+      },
+      "id": 789046,
+      "is_public": true,
+      "modified": "2022-05-02T14:24:57.296018+00:00",
+      "note": "Users can now choose preferred color schemes for websites. Theme authors can now make better decisions about which color scheme Firefox uses for menus. Web content appearance can now be changed in Settings.",
+      "sort_num": 80,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2022-05-02T14:25:35.558224+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": false,
+        "product": "Firefox",
+        "slug": "firefox-100.0-release",
+        "title": "Firefox 100.0 Release",
+        "version": "100.0"
+      },
+      "id": 789047,
+      "is_public": true,
+      "modified": "2022-05-02T14:25:35.558049+00:00",
+      "note": "Beginning in this release, the Firefox installer for Windows is signed with a SHA-256 digest, rather than SHA-1. Update KB4474419 is required for successful installation on a computer running Microsoft Windows 7. For more details about this update, visit the [Microsoft Technical Support website][1].\r\n\r\n\r\n  [1]: https://support.microsoft.com/en-us/help/4474419/sha-2-code-signing-support-update",
+      "sort_num": 70,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2022-05-02T14:26:14.091249+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": false,
+        "product": "Firefox",
+        "slug": "firefox-100.0-release",
+        "title": "Firefox 100.0 Release",
+        "version": "100.0"
+      },
+      "id": 789048,
+      "is_public": true,
+      "modified": "2022-05-02T14:26:14.091083+00:00",
+      "note": "In macOS 11+ we now only rasterize the fonts once per window. This means that opening a new tab is fast, and switching tabs in the same window is also usually fast. There's still work to do to share fonts across windows, or to reduce the time it takes to initialize these fonts.",
+      "sort_num": 60,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2022-05-02T14:26:30.696710+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": false,
+        "product": "Firefox",
+        "slug": "firefox-100.0-release",
+        "title": "Firefox 100.0 Release",
+        "version": "100.0"
+      },
+      "id": 789049,
+      "is_public": true,
+      "modified": "2022-05-02T14:26:30.696553+00:00",
+      "note": "The performance of deeply-nested `display: grid` elements is greatly improved.",
+      "sort_num": 50,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2022-05-02T14:26:49.291501+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": false,
+        "product": "Firefox",
+        "slug": "firefox-100.0-release",
+        "title": "Firefox 100.0 Release",
+        "version": "100.0"
+      },
+      "id": 789050,
+      "is_public": true,
+      "modified": "2022-05-02T14:27:03.562653+00:00",
+      "note": "Support for profiling multiple java threads has been added.",
+      "sort_num": 40,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2022-05-02T14:27:32.880172+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": false,
+        "product": "Firefox",
+        "slug": "firefox-100.0-release",
+        "title": "Firefox 100.0 Release",
+        "version": "100.0"
+      },
+      "id": 789051,
+      "is_public": true,
+      "modified": "2022-05-02T14:27:32.879994+00:00",
+      "note": "Soft-reload a web page will no longer cause revalidation for all resources.",
+      "sort_num": 30,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2022-05-02T14:27:59.875027+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": false,
+        "product": "Firefox",
+        "slug": "firefox-100.0-release",
+        "title": "Firefox 100.0 Release",
+        "version": "100.0"
+      },
+      "id": 789052,
+      "is_public": true,
+      "modified": "2022-05-02T14:27:59.874878+00:00",
+      "note": "Non-vsync tasks are given more time to run, which improved behavior on Google docs and Twitch.",
+      "sort_num": 20,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2022-05-02T14:28:25.404780+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": false,
+        "product": "Firefox",
+        "slug": "firefox-100.0-release",
+        "title": "Firefox 100.0 Release",
+        "version": "100.0"
+      },
+      "id": 789053,
+      "is_public": true,
+      "modified": "2022-05-02T14:28:25.404625+00:00",
+      "note": "Geckoview APIs have been added to control the start/stop time of capturing a profile.",
+      "sort_num": 10,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
       "created": "2022-04-29T19:25:59.011182+00:00",
       "fixed_in_release": {
         "channel": "Release",
