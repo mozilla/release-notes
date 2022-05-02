@@ -242,6 +242,96 @@
     },
     {
       "bug": null,
+      "created": "2022-05-02T14:31:34.554100+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": false,
+        "product": "Firefox",
+        "slug": "firefox-100.0-release",
+        "title": "Firefox 100.0 Release",
+        "version": "100.0"
+      },
+      "id": 789056,
+      "is_public": true,
+      "modified": "2022-05-02T14:31:34.553942+00:00",
+      "note": "Some websites might not work correctly in Firefox version 100 due to Firefox's new three-digit number. You can read about it in our blog post [here][1]!\r\n\r\nSee the Mozilla Support [article][2] *Difficulties opening or using a website in Firefox 100* for some possible workarounds you can use. You will also find instructions for reporting a broken website so that Mozilla can help fix the problem.\r\n\r\nMozilla Support articles for Desktop and Android:\r\n[https://support.mozilla.org/kb/difficulties-opening-or-using-website-firefox-100][2]\r\n[https://support.mozilla.org/kb/difficulties-firefox-android-100][3]\r\n\r\n\r\n  [1]: https://hacks.mozilla.org/2022/02/version-100-in-chrome-and-firefox/\r\n  [2]: https://support.mozilla.org/kb/difficulties-opening-or-using-website-firefox-100\r\n  [3]: https://support.mozilla.org/kb/difficulties-firefox-android-100",
+      "sort_num": 10,
+      "tag": "Changed"
+    },
+    {
+      "bug": null,
+      "created": "2022-05-02T14:34:35.922826+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": false,
+        "product": "Firefox",
+        "slug": "firefox-100.0-release",
+        "title": "Firefox 100.0 Release",
+        "version": "100.0"
+      },
+      "id": 789058,
+      "is_public": true,
+      "modified": "2022-05-02T14:34:35.922653+00:00",
+      "note": "Support for the WritableStream API has landed. WritableStreams provide an interface for writing streaming data to a sink object.",
+      "sort_num": 30,
+      "tag": "HTML5"
+    },
+    {
+      "bug": null,
+      "created": "2022-05-02T14:35:20.958807+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": false,
+        "product": "Firefox",
+        "slug": "firefox-100.0-release",
+        "title": "Firefox 100.0 Release",
+        "version": "100.0"
+      },
+      "id": 789059,
+      "is_public": true,
+      "modified": "2022-05-02T14:35:20.958638+00:00",
+      "note": "As well, ReadableStream gained support for the `pipeTo` method, which allows you to connect a ReadableStream to a WritableStream, for example, allowing you to process data retrieved using `fetch` with the WritableStream Sink object.",
+      "sort_num": 20,
+      "tag": "HTML5"
+    },
+    {
+      "bug": null,
+      "created": "2022-05-02T14:36:26.943575+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": false,
+        "product": "Firefox",
+        "slug": "firefox-100.0-release",
+        "title": "Firefox 100.0 Release",
+        "version": "100.0"
+      },
+      "id": 789060,
+      "is_public": true,
+      "modified": "2022-05-02T14:36:26.943414+00:00",
+      "note": "Support for WASM Exceptions has landed. This allows C++ exception handling and unwinding/destructing semantics to be expressed in WASM without additional JavaScript helper code and at zero cost to code that does not rely on exception semantics.",
+      "sort_num": 10,
+      "tag": "HTML5"
+    },
+    {
+      "bug": null,
+      "created": "2022-05-02T14:32:22.179627+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": false,
+        "product": "Firefox",
+        "slug": "firefox-100.0-release",
+        "title": "Firefox 100.0 Release",
+        "version": "100.0"
+      },
+      "id": 789057,
+      "is_public": true,
+      "modified": "2022-05-02T14:32:22.179461+00:00",
+      "note": "Various bug fixes and new policies have been implemented in the latest version of Firefox. You can find more information in the [Firefox for Enterprise 100 Release Notes][1].\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/firefox-enterprise-100-release-notes",
+      "sort_num": 0,
+      "tag": "Enterprise"
+    },
+    {
+      "bug": null,
       "created": "2022-05-02T14:24:57.296202+00:00",
       "fixed_in_release": {
         "channel": "Release",

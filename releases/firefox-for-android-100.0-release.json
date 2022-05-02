@@ -8,7 +8,7 @@
   "notes": [
     {
       "bug": null,
-      "created": "2022-05-02T14:13:57.323363+00:00",
+      "created": "2022-05-02T14:10:51.849493+00:00",
       "fixed_in_release": {
         "channel": "Release",
         "is_public": false,
@@ -17,28 +17,10 @@
         "title": "Firefox for Android 100.0 Release",
         "version": "100.0"
       },
-      "id": 789036,
+      "id": 789033,
       "is_public": true,
-      "modified": "2022-05-02T14:13:57.323201+00:00",
-      "note": "You can now turn on HTTPS-only mode, which will request a secure version of all websites you visit and warn you if one is unavailable.",
-      "sort_num": 40,
-      "tag": "New"
-    },
-    {
-      "bug": null,
-      "created": "2022-05-02T14:12:41.201437+00:00",
-      "fixed_in_release": {
-        "channel": "Release",
-        "is_public": false,
-        "product": "Firefox for Android",
-        "slug": "firefox-for-android-100.0-release",
-        "title": "Firefox for Android 100.0 Release",
-        "version": "100.0"
-      },
-      "id": 789035,
-      "is_public": true,
-      "modified": "2022-05-02T14:13:39.985998+00:00",
-      "note": "Bookmark search is now available.",
+      "modified": "2022-05-02T14:39:39.701443+00:00",
+      "note": "Two new wallpapers now available for your homepage background.",
       "sort_num": 30,
       "tag": "New"
     },
@@ -62,7 +44,7 @@
     },
     {
       "bug": null,
-      "created": "2022-05-02T14:10:51.849493+00:00",
+      "created": "2022-05-02T14:12:41.201437+00:00",
       "fixed_in_release": {
         "channel": "Release",
         "is_public": false,
@@ -71,11 +53,29 @@
         "title": "Firefox for Android 100.0 Release",
         "version": "100.0"
       },
-      "id": 789033,
+      "id": 789035,
       "is_public": true,
-      "modified": "2022-05-02T14:10:51.849315+00:00",
-      "note": "Two new wallpapers now available for your homepage background.",
+      "modified": "2022-05-02T14:39:45.547750+00:00",
+      "note": "Bookmark search is now available.",
       "sort_num": 10,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2022-05-02T14:13:57.323363+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": false,
+        "product": "Firefox for Android",
+        "slug": "firefox-for-android-100.0-release",
+        "title": "Firefox for Android 100.0 Release",
+        "version": "100.0"
+      },
+      "id": 789036,
+      "is_public": true,
+      "modified": "2022-05-02T14:39:58.199209+00:00",
+      "note": "You can now turn on HTTPS-only mode, which will request a secure version of all websites you visit and warn you if one is unavailable.",
+      "sort_num": 5,
       "tag": "New"
     },
     {
@@ -91,9 +91,9 @@
       },
       "id": 789027,
       "is_public": true,
-      "modified": "2022-04-29T19:50:43.876898+00:00",
+      "modified": "2022-05-02T14:40:33.069433+00:00",
       "note": "The system clipboard is now a valid share target for text and URLs.",
-      "sort_num": 0,
+      "sort_num": 10,
       "tag": "Fixed"
     },
     {
