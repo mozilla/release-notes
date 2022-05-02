@@ -19,9 +19,9 @@
       },
       "id": 788993,
       "is_public": true,
-      "modified": "2022-04-29T19:30:49.904439+00:00",
+      "modified": "2022-05-02T14:16:40.993200+00:00",
       "note": "We now support captions/subtitles display on YouTube, Prime Video, and Netflix videos you watch in Picture-in-Picture. Just turn on the subtitles on the in-page video player, and they will appear in PiP.",
-      "sort_num": 20,
+      "sort_num": 100,
       "tag": "New"
     },
     {
@@ -37,9 +37,63 @@
       },
       "id": 788994,
       "is_public": true,
-      "modified": "2022-04-29T19:31:56.719546+00:00",
+      "modified": "2022-05-02T14:17:09.663807+00:00",
       "note": "[Picture-in-Picture][1] now also supports video captions on websites that use WebVTT (Web Video Text Track) format, like Coursera.org, Canadian Broadcasting Corporation, and many more.\r\n\r\n  [1]: https://support.mozilla.org/en-US/kb/about-picture-picture-firefox",
-      "sort_num": 10,
+      "sort_num": 90,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2022-05-02T14:18:07.985996+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": false,
+        "product": "Firefox",
+        "slug": "firefox-100.0-release",
+        "title": "Firefox 100.0 Release",
+        "version": "100.0"
+      },
+      "id": 789037,
+      "is_public": true,
+      "modified": "2022-05-02T14:18:07.985837+00:00",
+      "note": "On the first run after install, Firefox detects when its language does not match the operating system language and offers the user a choice between the two languages.",
+      "sort_num": 80,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2022-05-02T14:18:44.491494+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": false,
+        "product": "Firefox",
+        "slug": "firefox-100.0-release",
+        "title": "Firefox 100.0 Release",
+        "version": "100.0"
+      },
+      "id": 789038,
+      "is_public": true,
+      "modified": "2022-05-02T14:18:44.491322+00:00",
+      "note": "[Firefox spell checking][1] now checks spelling against multiple languages. To enable additional languages, select them within the text field\u2019s context menu. \r\n\r\n\r\n  [1]: https://support.mozilla.org/en-US/kb/how-do-i-use-firefox-spell-checker",
+      "sort_num": 70,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2022-05-02T14:19:44.967244+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": false,
+        "product": "Firefox",
+        "slug": "firefox-100.0-release",
+        "title": "Firefox 100.0 Release",
+        "version": "100.0"
+      },
+      "id": 789039,
+      "is_public": true,
+      "modified": "2022-05-02T14:19:44.967078+00:00",
+      "note": "HDR video is now supported in Firefox on Mac, starting with YouTube! Firefox users on macOS 11+ (with HDR-compatible screens) can enjoy higher-fidelity video content. No need to manually flip any prefs to turn HDR video support on\u2014just make sure battery preferences are NOT set to *\u201coptimize video streaming while on battery\u201d*.",
+      "sort_num": 60,
       "tag": "New"
     },
     {
