@@ -1,0 +1,89 @@
+{
+  "bug_list": "",
+  "bug_search_url": "",
+  "channel": "Release",
+  "created": "2022-05-02T14:06:43.207350+00:00",
+  "is_public": false,
+  "modified": "2022-05-02T14:06:43.207175+00:00",
+  "notes": [
+    {
+      "bug": null,
+      "created": "2022-05-02T14:04:54.997527+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": false,
+        "product": "Firefox for Android",
+        "slug": "firefox-for-android-100.0-release",
+        "title": "Firefox for Android 100.0 Release",
+        "version": "100.0"
+      },
+      "id": 789030,
+      "is_public": true,
+      "modified": "2022-05-02T14:07:37.079157+00:00",
+      "note": "Clutter free history\r\n\r\n - A new homepage section that shows your most important history visits\r\n - Similar searches will group together in your history for a more organized view\r\n - You can now search through your history",
+      "sort_num": 20,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2022-05-02T14:03:56.073822+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": false,
+        "product": "Firefox for Android",
+        "slug": "firefox-for-android-100.0-release",
+        "title": "Firefox for Android 100.0 Release",
+        "version": "100.0"
+      },
+      "id": 789029,
+      "is_public": true,
+      "modified": "2022-05-02T14:07:14.189038+00:00",
+      "note": "Two new wallpapers now available for your homepage background",
+      "sort_num": 10,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2022-05-02T14:08:31.744995+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": false,
+        "product": "Firefox for iOS",
+        "slug": "firefox-for-ios-100.0-release",
+        "title": "Firefox for iOS 100.0 Release",
+        "version": "100.0"
+      },
+      "id": 789031,
+      "is_public": true,
+      "modified": "2022-05-02T14:08:31.744792+00:00",
+      "note": "Your bookmark folder will no longer [reset][1] to the top-level.\r\n\r\n\r\n  [1]: https://github.com/mozilla-mobile/firefox-ios/issues/9856",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2022-05-02T14:09:14.026234+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": false,
+        "product": "Firefox for iOS",
+        "slug": "firefox-for-ios-100.0-release",
+        "title": "Firefox for iOS 100.0 Release",
+        "version": "100.0"
+      },
+      "id": 789032,
+      "is_public": true,
+      "modified": "2022-05-02T14:09:14.026066+00:00",
+      "note": "[Completing 2FA when signing into sync][1] will no longer error as quickly.\r\n\r\n\r\n  [1]: https://github.com/mozilla-mobile/firefox-ios/issues/9807",
+      "sort_num": 0,
+      "tag": "Fixed"
+    }
+  ],
+  "product": "Firefox for iOS",
+  "release_date": "2022-05-03",
+  "slug": "firefox-for-ios-100.0-release",
+  "system_requirements": "## Operating systems\r\n - iOS 13\r\n - iOS 14\r\n - iOS 15",
+  "text": "",
+  "title": "Firefox for iOS 100.0 Release",
+  "version": "100.0"
+}
