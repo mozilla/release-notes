@@ -113,6 +113,16 @@
       "note": "Code for migrating Firefox 68 or older profiles has been removed.",
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2022-05-03T12:47:37.901108+00:00",
+      "id": 789064,
+      "is_public": true,
+      "modified": "2022-05-03T12:53:03.719299+00:00",
+      "note": "Various [security][1] fixes.\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/mfsa2022-16/",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox for Android",
