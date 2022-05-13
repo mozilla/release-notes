@@ -4,17 +4,35 @@
   "channel": "Release",
   "created": "2022-05-09T19:48:57.696475+00:00",
   "is_public": false,
-  "modified": "2022-05-09T19:48:57.696325+00:00",
+  "modified": "2022-05-13T15:24:02.689324+00:00",
   "notes": [
     {
       "bug": null,
       "created": "2022-05-09T19:50:20.138249+00:00",
       "id": 789065,
       "is_public": true,
-      "modified": "2022-05-09T19:50:20.138056+00:00",
+      "modified": "2022-05-13T15:25:11.038487+00:00",
       "note": "Reference link to [100.0 release notes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/firefox/100.0/releasenotes/",
       "sort_num": 0,
       "tag": ""
+    },
+    {
+      "bug": 1767999,
+      "created": "2022-05-13T15:25:52.808130+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": false,
+        "product": "Firefox",
+        "slug": "firefox-100.0.1-release",
+        "title": "Firefox 100.0.1 Release",
+        "version": "100.0.1"
+      },
+      "id": 789066,
+      "is_public": true,
+      "modified": "2022-05-13T15:26:24.987308+00:00",
+      "note": "Firefox's security sandbox now blocks access to the Win32k APIs for Content Processes on Windows.",
+      "sort_num": 30,
+      "tag": "Changed"
     }
   ],
   "product": "Firefox",
