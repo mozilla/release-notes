@@ -4,7 +4,7 @@
   "channel": "Release",
   "created": "2022-05-09T19:48:57.696475+00:00",
   "is_public": false,
-  "modified": "2022-05-13T15:24:02.689324+00:00",
+  "modified": "2022-05-13T15:46:21.178396+00:00",
   "notes": [
     {
       "bug": null,
@@ -29,10 +29,46 @@
       },
       "id": 789066,
       "is_public": true,
-      "modified": "2022-05-13T15:26:24.987308+00:00",
+      "modified": "2022-05-13T16:00:27.393412+00:00",
       "note": "Firefox's security sandbox now blocks access to the Win32k APIs for Content Processes on Windows.",
       "sort_num": 30,
       "tag": "Changed"
+    },
+    {
+      "bug": 1768818,
+      "created": "2022-05-13T15:57:15.226285+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": false,
+        "product": "Firefox",
+        "slug": "firefox-100.0.1-release",
+        "title": "Firefox 100.0.1 Release",
+        "version": "100.0.1"
+      },
+      "id": 789067,
+      "is_public": true,
+      "modified": "2022-05-13T16:00:20.323118+00:00",
+      "note": "Fixed an issue with subtitles in Picture-in-Picture mode while using Netflix.",
+      "sort_num": 25,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1768201,
+      "created": "2022-05-13T15:59:12.969080+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": false,
+        "product": "Firefox",
+        "slug": "firefox-100.0.1-release",
+        "title": "Firefox 100.0.1 Release",
+        "version": "100.0.1"
+      },
+      "id": 789068,
+      "is_public": true,
+      "modified": "2022-05-13T16:00:50.411759+00:00",
+      "note": "Fixed an issue where some commands were unavailable in the Picture-in-Picture window.",
+      "sort_num": 20,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
