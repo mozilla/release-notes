@@ -15,6 +15,16 @@
       "note": "Improved PDF reading in high contrast mode",
       "sort_num": 0,
       "tag": "New"
+    },
+    {
+      "bug": 1470781,
+      "created": "2022-05-16T14:41:44.867735+00:00",
+      "id": 789070,
+      "is_public": true,
+      "modified": "2022-05-16T14:41:44.867521+00:00",
+      "note": "You can now filter style sheets in the Style Editor tab of our developer tools",
+      "sort_num": 0,
+      "tag": "Developer"
     }
   ],
   "product": "Firefox",
