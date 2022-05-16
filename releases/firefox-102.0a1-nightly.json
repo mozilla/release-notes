@@ -5,7 +5,18 @@
   "created": "2022-05-02T16:11:45.741953+00:00",
   "is_public": true,
   "modified": "2022-05-13T15:47:51.308823+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": null,
+      "created": "2022-05-16T12:25:51.117518+00:00",
+      "id": 789069,
+      "is_public": true,
+      "modified": "2022-05-16T12:25:51.117316+00:00",
+      "note": "Improved PDF reading in high contrast mode",
+      "sort_num": 0,
+      "tag": "New"
+    }
+  ],
   "product": "Firefox",
   "release_date": "2022-05-02",
   "slug": "firefox-102.0a1-nightly",
