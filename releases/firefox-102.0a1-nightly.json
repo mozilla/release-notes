@@ -17,6 +17,16 @@
       "tag": "New"
     },
     {
+      "bug": 1769664,
+      "created": "2022-05-19T09:41:26.913201+00:00",
+      "id": 789071,
+      "is_public": true,
+      "modified": "2022-05-19T19:15:53.360615+00:00",
+      "note": "On Linux, Firefox will use Geoclue if available on the system for geolocation.",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1470781,
       "created": "2022-05-16T14:41:44.867735+00:00",
       "id": 789070,
