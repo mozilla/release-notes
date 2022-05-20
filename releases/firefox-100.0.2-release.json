@@ -3,8 +3,8 @@
   "bug_search_url": "",
   "channel": "Release",
   "created": "2022-05-19T22:19:51.993718+00:00",
-  "is_public": false,
-  "modified": "2022-05-19T22:20:39.622093+00:00",
+  "is_public": true,
+  "modified": "2022-05-20T13:08:44.464249+00:00",
   "notes": [
     {
       "bug": null,
@@ -20,9 +20,9 @@
       "bug": null,
       "created": "2022-05-20T00:20:41.651329+00:00",
       "id": 789074,
-      "is_public": false,
-      "modified": "2022-05-20T02:03:21.991479+00:00",
-      "note": "[Security fix][0]\r\n\r\n[0]: https://www.mozilla.org/security/advisories/",
+      "is_public": true,
+      "modified": "2022-05-20T13:07:41.587966+00:00",
+      "note": "[Security fix][0]\r\n\r\n[0]: https://www.mozilla.org/en-US/security/advisories/mfsa2022-19/",
       "sort_num": 0,
       "tag": "Fixed"
     }
