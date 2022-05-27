@@ -19,7 +19,7 @@
       },
       "id": 788993,
       "is_public": true,
-      "modified": "2022-05-02T19:57:42.745666+00:00",
+      "modified": "2022-05-27T20:31:34.721499+00:00",
       "note": "We now support captions/subtitles display on YouTube, Prime Video, and Netflix videos you watch in Picture-in-Picture. Just turn on the subtitles on the in-page video player, and they will appear in PiP.",
       "sort_num": 100,
       "tag": "New"
@@ -37,7 +37,7 @@
       },
       "id": 788994,
       "is_public": true,
-      "modified": "2022-05-02T19:57:43.757673+00:00",
+      "modified": "2022-05-27T20:31:34.093568+00:00",
       "note": "[Picture-in-Picture][1] now also supports video captions on websites that use WebVTT (Web Video Text Track) format, like Coursera.org, Canadian Broadcasting Corporation, and many more.\r\n\r\n  [1]: https://support.mozilla.org/en-US/kb/about-picture-picture-firefox",
       "sort_num": 90,
       "tag": "New"
@@ -55,7 +55,7 @@
       },
       "id": 789037,
       "is_public": true,
-      "modified": "2022-05-02T14:18:07.985837+00:00",
+      "modified": "2022-05-27T20:31:28.718950+00:00",
       "note": "On the first run after install, Firefox detects when its language does not match the operating system language and offers the user a choice between the two languages.",
       "sort_num": 80,
       "tag": "New"
@@ -73,7 +73,7 @@
       },
       "id": 789038,
       "is_public": true,
-      "modified": "2022-05-02T19:08:39.237991+00:00",
+      "modified": "2022-05-27T20:31:27.766441+00:00",
       "note": "[Firefox spell checking][1] now checks spelling in multiple languages. To enable additional languages, select them in the text field\u2019s context menu.\r\n\r\n\r\n  [1]: https://support.mozilla.org/en-US/kb/how-do-i-use-firefox-spell-checker",
       "sort_num": 70,
       "tag": "New"
@@ -91,7 +91,7 @@
       },
       "id": 789039,
       "is_public": true,
-      "modified": "2022-05-02T19:09:22.089203+00:00",
+      "modified": "2022-05-27T20:31:27.042205+00:00",
       "note": "HDR video is now supported in Firefox on Mac\u2014starting with YouTube! Firefox users on macOS 11+ (with HDR-compatible screens) can enjoy higher-fidelity video content. No need to manually flip any preferences to turn HDR video support on\u2014just make sure battery preferences are NOT set to *\u201coptimize video streaming while on battery\u201d.*",
       "sort_num": 60,
       "tag": "New"
@@ -109,7 +109,7 @@
       },
       "id": 789040,
       "is_public": true,
-      "modified": "2022-05-02T14:20:34.883088+00:00",
+      "modified": "2022-05-27T20:31:26.282523+00:00",
       "note": "Hardware accelerated AV1 video decoding is enabled on Windows with supported GPUs (Intel Gen 11+, AMD RDNA 2 Excluding Navi 24, GeForce 30). Installing the [AV1 Video Extension][1] from the Microsoft Store may also be required.\r\n\r\n\r\n  [1]: https://www.microsoft.com/en-us/p/av1-video-extension/9mvzqvxjbq9v?activetab=pivot:overviewtab",
       "sort_num": 50,
       "tag": "New"
@@ -127,7 +127,7 @@
       },
       "id": 789041,
       "is_public": true,
-      "modified": "2022-05-02T14:21:09.030804+00:00",
+      "modified": "2022-05-27T20:31:25.616532+00:00",
       "note": "Video overlay is enabled on Windows for Intel GPUs, reducing power usage during video playback.",
       "sort_num": 40,
       "tag": "New"
@@ -145,7 +145,7 @@
       },
       "id": 789042,
       "is_public": true,
-      "modified": "2022-05-02T19:10:12.879176+00:00",
+      "modified": "2022-05-27T20:31:24.909307+00:00",
       "note": "Improved fairness between painting and handling other events. This noticeably improves the [performance of the volume slider on Twitch][1].\r\n\r\n\r\n  [1]: https://jrmuizel.github.io/twitch/volume.html",
       "sort_num": 30,
       "tag": "New"
@@ -163,7 +163,7 @@
       },
       "id": 789043,
       "is_public": true,
-      "modified": "2022-05-02T14:22:40.644850+00:00",
+      "modified": "2022-05-27T20:31:24.192525+00:00",
       "note": "Scrollbars on Linux and Windows 11 won't take space by default. On Linux, users can change this in Settings. On Windows, Firefox follows the system setting (System Settings > Accessibility > Visual Effects > Always show scrollbars).",
       "sort_num": 20,
       "tag": "New"
@@ -181,7 +181,7 @@
       },
       "id": 789044,
       "is_public": true,
-      "modified": "2022-05-02T14:23:19.248389+00:00",
+      "modified": "2022-05-27T20:31:23.275397+00:00",
       "note": "Firefox now supports [credit card autofill][1] and capture in the United Kingdom.\r\n\r\n\r\n  [1]: https://support.mozilla.org/en-US/kb/credit-card-autofill",
       "sort_num": 15,
       "tag": "New"
@@ -199,7 +199,7 @@
       },
       "id": 789045,
       "is_public": true,
-      "modified": "2022-05-02T19:10:35.620975+00:00",
+      "modified": "2022-05-27T20:31:22.587582+00:00",
       "note": "Firefox now ignores less restricted referrer policies\u2014including unsafe-url, no-referrer-when-downgrade, and origin-when-cross-origin\u2014for cross-site subresource/iframe requests to prevent privacy leaks from the referrer.",
       "sort_num": 10,
       "tag": "New"
@@ -217,7 +217,7 @@
       },
       "id": 789054,
       "is_public": true,
-      "modified": "2022-05-02T19:05:36.270054+00:00",
+      "modified": "2022-05-27T20:31:15.899604+00:00",
       "note": "Firefox has a new focus indicator for links which replaces the old dotted outline with a solid blue outline. This change unifies the focus indicators across form fields and links, which makes it easier to identify the focused link, especially for users with low vision.",
       "sort_num": 30,
       "tag": "Changed"
@@ -235,7 +235,7 @@
       },
       "id": 789055,
       "is_public": true,
-      "modified": "2022-05-02T19:05:49.274449+00:00",
+      "modified": "2022-05-27T20:31:14.767584+00:00",
       "note": "New users can now set Firefox as the default PDF handler when setting Firefox as their default browser.",
       "sort_num": 20,
       "tag": "Changed"
@@ -253,7 +253,7 @@
       },
       "id": 789056,
       "is_public": true,
-      "modified": "2022-05-02T19:15:23.548581+00:00",
+      "modified": "2022-05-27T20:31:35.367911+00:00",
       "note": "Some websites might not work correctly in Firefox version 100 due to Firefox's new three-digit number. You can read about it in our blog post [here][1]!\r\n\r\nSee the Mozilla Support [article][2] *Difficulties opening or using a website in Firefox 100* for possible workarounds you can use. There, you will also find instructions for reporting a broken website so that Mozilla can help fix the problem.\r\n\r\nMozilla Support articles for Desktop and Android:\r\n[https://support.mozilla.org/kb/difficulties-opening-or-using-website-firefox-100][2]\r\n[https://support.mozilla.org/kb/difficulties-firefox-android-100][3]\r\n\r\n\r\n  [1]: https://hacks.mozilla.org/2022/02/version-100-in-chrome-and-firefox/\r\n  [2]: https://support.mozilla.org/kb/difficulties-opening-or-using-website-firefox-100\r\n  [3]: https://support.mozilla.org/kb/difficulties-firefox-android-100",
       "sort_num": 10,
       "tag": "Changed"
@@ -271,7 +271,7 @@
       },
       "id": 789058,
       "is_public": true,
-      "modified": "2022-05-02T19:03:57.110336+00:00",
+      "modified": "2022-05-27T20:31:32.778302+00:00",
       "note": "Support for the WritableStream API has landed. WritableStreams provide an interface for writing streaming data to a sink object.",
       "sort_num": 30,
       "tag": "HTML5"
@@ -289,7 +289,7 @@
       },
       "id": 789059,
       "is_public": true,
-      "modified": "2022-05-02T19:04:06.380452+00:00",
+      "modified": "2022-05-27T20:31:31.432018+00:00",
       "note": "Additionally, ReadableStream gained support for the \u201cpipeTo\u201d method, which allows you to connect a ReadableStream to a WritableStream. For example, this would allow you to process data retrieved using \u201cfetch\u201d with the WritableStream Sink object.",
       "sort_num": 20,
       "tag": "HTML5"
@@ -307,7 +307,7 @@
       },
       "id": 789060,
       "is_public": true,
-      "modified": "2022-05-02T19:04:16.726677+00:00",
+      "modified": "2022-05-27T20:31:30.885623+00:00",
       "note": "Support for WASM Exceptions is now available. This allows C++ exception handling and unwinding/destructing semantics to be expressed in WASM without an additional JavaScript helper code\u2014and at zero cost to code that does not rely on exception semantics.",
       "sort_num": 10,
       "tag": "HTML5"
@@ -325,7 +325,7 @@
       },
       "id": 789057,
       "is_public": true,
-      "modified": "2022-05-02T14:32:22.179461+00:00",
+      "modified": "2022-05-27T20:31:33.506352+00:00",
       "note": "Various bug fixes and new policies have been implemented in the latest version of Firefox. You can find more information in the [Firefox for Enterprise 100 Release Notes][1].\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/firefox-enterprise-100-release-notes",
       "sort_num": 0,
       "tag": "Enterprise"
@@ -343,7 +343,7 @@
       },
       "id": 789046,
       "is_public": true,
-      "modified": "2022-05-02T14:24:57.296018+00:00",
+      "modified": "2022-05-27T20:31:21.913496+00:00",
       "note": "Users can now choose preferred color schemes for websites. Theme authors can now make better decisions about which color scheme Firefox uses for menus. Web content appearance can now be changed in Settings.",
       "sort_num": 80,
       "tag": "Fixed"
@@ -361,7 +361,7 @@
       },
       "id": 789047,
       "is_public": true,
-      "modified": "2022-05-02T14:25:35.558049+00:00",
+      "modified": "2022-05-27T20:31:21.328312+00:00",
       "note": "Beginning in this release, the Firefox installer for Windows is signed with a SHA-256 digest, rather than SHA-1. Update KB4474419 is required for successful installation on a computer running Microsoft Windows 7. For more details about this update, visit the [Microsoft Technical Support website][1].\r\n\r\n\r\n  [1]: https://support.microsoft.com/en-us/help/4474419/sha-2-code-signing-support-update",
       "sort_num": 70,
       "tag": "Fixed"
@@ -379,7 +379,7 @@
       },
       "id": 789048,
       "is_public": true,
-      "modified": "2022-05-02T19:11:04.472150+00:00",
+      "modified": "2022-05-27T20:31:20.678658+00:00",
       "note": "In macOS 11+ we now only rasterize the fonts once per window. This means that opening a new tab is fast, and switching tabs in the same window is also fast. (There's still work to do to share fonts across windows, or to reduce the time it takes to initialize these fonts.)",
       "sort_num": 60,
       "tag": "Fixed"
@@ -397,7 +397,7 @@
       },
       "id": 789049,
       "is_public": true,
-      "modified": "2022-05-02T19:12:27.892968+00:00",
+      "modified": "2022-05-27T20:31:20.188743+00:00",
       "note": "The performance of deeply-nested `display: grid` elements is greatly improved.",
       "sort_num": 50,
       "tag": "Fixed"
@@ -415,7 +415,7 @@
       },
       "id": 789050,
       "is_public": true,
-      "modified": "2022-05-02T14:27:03.562653+00:00",
+      "modified": "2022-05-27T20:31:19.376803+00:00",
       "note": "Support for profiling multiple java threads has been added.",
       "sort_num": 40,
       "tag": "Fixed"
@@ -433,7 +433,7 @@
       },
       "id": 789051,
       "is_public": true,
-      "modified": "2022-05-02T19:11:35.966646+00:00",
+      "modified": "2022-05-27T20:31:18.592173+00:00",
       "note": "Soft-reloading a web page will no longer cause revalidation for all resources.",
       "sort_num": 30,
       "tag": "Fixed"
@@ -451,7 +451,7 @@
       },
       "id": 789052,
       "is_public": true,
-      "modified": "2022-05-02T19:12:54.521445+00:00",
+      "modified": "2022-05-27T20:31:17.767993+00:00",
       "note": "Non-vsync tasks are given more time to run, which improves behavior on Google docs and Twitch.",
       "sort_num": 20,
       "tag": "Fixed"
@@ -469,7 +469,7 @@
       },
       "id": 789053,
       "is_public": true,
-      "modified": "2022-05-02T14:28:25.404625+00:00",
+      "modified": "2022-05-27T20:31:16.755912+00:00",
       "note": "Geckoview APIs have been added to control the start/stop time of capturing a profile.",
       "sort_num": 10,
       "tag": "Fixed"
@@ -479,7 +479,7 @@
       "created": "2022-05-03T12:47:37.901108+00:00",
       "id": 789064,
       "is_public": true,
-      "modified": "2022-05-27T19:49:13.444512+00:00",
+      "modified": "2022-05-27T20:31:30.268111+00:00",
       "note": "Various [security][1] fixes.\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/mfsa2022-16/",
       "sort_num": 0,
       "tag": "Fixed"
@@ -497,7 +497,7 @@
       },
       "id": 789026,
       "is_public": true,
-      "modified": "2022-05-03T12:02:26.185301+00:00",
+      "modified": "2022-05-27T20:31:29.512374+00:00",
       "note": "With the release of Firefox 100, we are pleased to welcome the developers who've contributed their first code change to Firefox in this release, 13 of whom were first time contributors! Please join us in thanking each of these diligent and enthusiastic individuals, and take a look at their contributions:\r\n\r\n - Zaggy1024: [Bug 1569686][1] and [Bug 1652945][2] and [Bug 1758605][3]\r\n - bourg.garrett: [Bug 1747544][4]\r\n - Abhinav Jain: [Bug 1759845][5]\r\n - Emily Michaels: [Bug 1474565][6]\r\n - Hikota Nakatani: [Bug 175872][7]\r\n - Martin Weinelt: [Bug 1761692][8]\r\n - Matteo Ruello: [Bug 1756529][9]\r\n - Nordin Abouzahra: [Bug 1351378][10]\r\n - Sean Burke: [Bug 1757713][11], [Bug 1757993][12], [Bug 1759768][13],\r\n   [Bug 1761129][14], and [Bug 1761555][15]\r\n - SnipFoo: [Bug 1708914][16] and [Bug 1759293][17]\r\n - Steve: [Bug 1188382][18]\r\n - az: [Bug 1744398][20]\r\n - Cboozarjomehri: [Bug 1685575][21]\r\n - gliu20: [Bug 875614,][22] [Bug 1753729][23], and [Bug 1755008][24]\r\n - serge-sans-paille: [Bug 1754864][25] and [Bug 1759344][26]\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1569686\r\n  [2]: https://bugzilla.mozilla.org/show_bug.cgi?id=1652945\r\n  [3]: https://bugzilla.mozilla.org/show_bug.cgi?id=1758605\r\n  [4]: https://bugzilla.mozilla.org/show_bug.cgi?id=1747544\r\n  [5]: https://bugzilla.mozilla.org/show_bug.cgi?id=1759845\r\n  [6]: https://bugzilla.mozilla.org/show_bug.cgi?id=1474565\r\n  [7]: https://bugzilla.mozilla.org/show_bug.cgi?id=1758725\r\n  [8]: https://bugzilla.mozilla.org/show_bug.cgi?id=1761692\r\n  [9]: https://bugzilla.mozilla.org/show_bug.cgi?id=1756529\r\n  [10]: https://bugzilla.mozilla.org/show_bug.cgi?id=1351378\r\n  [11]: https://bugzilla.mozilla.org/show_bug.cgi?id=1757713\r\n  [12]: https://bugzilla.mozilla.org/show_bug.cgi?id=1757993\r\n  [13]: https://bugzilla.mozilla.org/show_bug.cgi?id=1759768\r\n  [14]: https://bugzilla.mozilla.org/show_bug.cgi?id=1761129\r\n  [15]: https://bugzilla.mozilla.org/show_bug.cgi?id=1761555\r\n  [16]: https://bugzilla.mozilla.org/show_bug.cgi?id=1708914\r\n  [17]: https://bugzilla.mozilla.org/show_bug.cgi?id=1759293\r\n  [18]: https://bugzilla.mozilla.org/show_bug.cgi?id=1188382\r\n  [20]: https://bugzilla.mozilla.org/show_bug.cgi?id=1744398\r\n  [21]: https://bugzilla.mozilla.org/show_bug.cgi?id=168557\r\n  [22]: https://bugzilla.mozilla.org/show_bug.cgi?id=875614\r\n  [23]: https://bugzilla.mozilla.org/show_bug.cgi?id=1753729\r\n  [24]: https://bugzilla.mozilla.org/show_bug.cgi?id=1755008\r\n  [25]: https://bugzilla.mozilla.org/show_bug.cgi?id=1754864\r\n  [26]: https://bugzilla.mozilla.org/show_bug.cgi?id=1759344",
       "sort_num": 0,
       "tag": "Community"
