@@ -8,6 +8,56 @@
   "notes": [
     {
       "bug": null,
+      "created": "2022-05-27T20:28:30.480896+00:00",
+      "id": 789087,
+      "is_public": true,
+      "modified": "2022-05-27T20:28:30.480710+00:00",
+      "note": "Firefox for Android now supports using the magnifier on Android 9+ for positioning the cursor in forms on web pages\u2014which makes things on the screen much easier to see.",
+      "sort_num": 20,
+      "tag": "New"
+    },
+    {
+      "bug": 1731980,
+      "created": "2022-05-27T20:27:51.623524+00:00",
+      "id": 789086,
+      "is_public": true,
+      "modified": "2022-05-27T20:29:26.879873+00:00",
+      "note": "Fixed [YouTube video sizing issues][1] on some devices\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1731980",
+      "sort_num": 40,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1757031,
+      "created": "2022-05-27T20:27:28.357711+00:00",
+      "id": 789085,
+      "is_public": true,
+      "modified": "2022-05-27T20:29:19.024954+00:00",
+      "note": "Fixed video sizing when [exiting Picture-in-Picture][1] playback mode\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1757031",
+      "sort_num": 30,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2022-05-27T20:26:37.235684+00:00",
+      "id": 789084,
+      "is_public": true,
+      "modified": "2022-05-27T20:29:03.299575+00:00",
+      "note": "Fixed [keyboard flicker][1] in menu popups\r\n\r\n\r\n  [1]: https://github.com/mozilla-mobile/fenix/issues/24920",
+      "sort_num": 20,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2022-05-27T20:26:09.593717+00:00",
+      "id": 789083,
+      "is_public": true,
+      "modified": "2022-05-27T20:28:58.186331+00:00",
+      "note": "Fixed QR code button [disappearing from the address bar][1]\r\n\r\n\r\n  [1]: https://github.com/mozilla-mobile/fenix/issues/24739",
+      "sort_num": 10,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
       "created": "2022-05-27T19:49:13.291014+00:00",
       "id": 789082,
       "is_public": true,
