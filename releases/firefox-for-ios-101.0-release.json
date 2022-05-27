@@ -1,0 +1,57 @@
+{
+  "bug_list": "",
+  "bug_search_url": "",
+  "channel": "Release",
+  "created": "2022-05-27T19:41:51.132009+00:00",
+  "is_public": false,
+  "modified": "2022-05-27T19:42:27.058092+00:00",
+  "notes": [
+    {
+      "bug": null,
+      "created": "2022-05-27T19:44:27.257765+00:00",
+      "id": 789081,
+      "is_public": true,
+      "modified": "2022-05-27T19:44:27.257581+00:00",
+      "note": "**Sponsored shortcuts on your iOS homepage:** We\u2019re working on new ways to financially support our mission, including new sponsored shortcuts on the homepage. We only work with advertising partners that meet our privacy standards. [Learn more][1] about how to dismiss or disable sponsored shortcuts.\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/sponsor-privacy",
+      "sort_num": 10,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2022-05-27T19:43:42.442962+00:00",
+      "id": 789080,
+      "is_public": true,
+      "modified": "2022-05-27T19:43:42.442775+00:00",
+      "note": "Tired of visual clutter? We\u2019ve added a setting to remove the Shortcuts section from your iOS homepage.",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2022-05-27T19:43:19.921118+00:00",
+      "id": 789079,
+      "is_public": true,
+      "modified": "2022-05-27T19:43:19.920936+00:00",
+      "note": "In a hurry? Recommended Pocket articles on your homepage will now estimate the reading time\u2014so you can read it now or later. Your Firefox language must be set to English (Canada) or English (United States) to receive Pocket article recommendations.",
+      "sort_num": 10,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2022-05-27T19:42:59.892806+00:00",
+      "id": 789078,
+      "is_public": true,
+      "modified": "2022-05-27T19:42:59.892606+00:00",
+      "note": "Text will no longer be replaced in the URL bar using text replacement until you press \u201cspace\u201d or \u201c.\u201d.",
+      "sort_num": 0,
+      "tag": "Fixed"
+    }
+  ],
+  "product": "Firefox for iOS",
+  "release_date": "2022-05-31",
+  "slug": "firefox-for-ios-101.0-release",
+  "system_requirements": "## Operating systems\r\n - iOS 13\r\n - iOS 14\r\n - iOS 15",
+  "text": "",
+  "title": "Firefox for iOS 101.0 Release",
+  "version": "101.0"
+}

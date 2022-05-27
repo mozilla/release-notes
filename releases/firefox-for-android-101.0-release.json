@@ -1,0 +1,27 @@
+{
+  "bug_list": "",
+  "bug_search_url": "",
+  "channel": "Release",
+  "created": "2022-05-27T19:48:34.912694+00:00",
+  "is_public": false,
+  "modified": "2022-05-27T19:49:18.328523+00:00",
+  "notes": [
+    {
+      "bug": null,
+      "created": "2022-05-27T19:49:13.291014+00:00",
+      "id": 789082,
+      "is_public": true,
+      "modified": "2022-05-27T19:49:46.122159+00:00",
+      "note": "Various [security][1] fixes.\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/mfsa2022-20/",
+      "sort_num": 0,
+      "tag": "Fixed"
+    }
+  ],
+  "product": "Firefox for Android",
+  "release_date": "2022-05-31",
+  "slug": "firefox-for-android-101.0-release",
+  "system_requirements": "## Operating systems\r\n - Android 5.0 or newer",
+  "text": "",
+  "title": "Firefox for Android 101.0 Release",
+  "version": "101.0"
+}
