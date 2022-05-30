@@ -27,6 +27,16 @@
       "tag": "New"
     },
     {
+      "bug": 1738574,
+      "created": "2022-05-30T14:15:46.227397+00:00",
+      "id": 789098,
+      "is_public": true,
+      "modified": "2022-05-30T14:15:46.227101+00:00",
+      "note": "There is now an enterprise policy (`StartDownloadsInTempDirectory`) and an about:config pref (`browser.downloads.start_downloads_in_tmp_dir`) that will once again cause Firefox to initially put downloads in (a subfolder of) the OS temp folder, instead of the download folder configured in Firefox. Files opened from the \"what should Firefox do with this file\" dialog, or set to open in helper applications automatically, will stay in this folder. Files saved (not opened as previously mentioned) will still end up in the Firefox download folder.",
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
       "bug": 1470781,
       "created": "2022-05-16T14:41:44.867735+00:00",
       "id": 789070,
