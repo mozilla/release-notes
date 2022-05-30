@@ -5,7 +5,48 @@
   "created": "2022-05-27T11:09:43.431405+00:00",
   "is_public": false,
   "modified": "2022-05-27T11:10:37.621615+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": 1768821,
+      "created": "2022-05-16T12:25:51.117518+00:00",
+      "id": 789069,
+      "is_public": true,
+      "modified": "2022-05-30T16:49:45.956391+00:00",
+      "note": "Improved PDF reading in high contrast mode",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1769664,
+      "created": "2022-05-19T09:41:26.913201+00:00",
+      "id": 789071,
+      "is_public": true,
+      "modified": "2022-05-30T16:49:13.202546+00:00",
+      "note": "On Linux, Firefox will use Geoclue if available on the system for geolocation.",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1738574,
+      "created": "2022-05-30T14:15:46.227397+00:00",
+      "id": 789098,
+      "is_public": true,
+      "modified": "2022-05-30T16:48:59.629536+00:00",
+      "note": "There is now an enterprise policy (`StartDownloadsInTempDirectory`) and an about:config pref (`browser.downloads.start_downloads_in_tmp_dir`) that will once again cause Firefox to initially put downloads in (a subfolder of) the OS temp folder, instead of the download folder configured in Firefox. Files opened from the \"what should Firefox do with this file\" dialog, or set to open in helper applications automatically, will stay in this folder. Files saved (not opened as previously mentioned) will still end up in the Firefox download folder.",
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
+      "bug": 1470781,
+      "created": "2022-05-16T14:41:44.867735+00:00",
+      "id": 789070,
+      "is_public": true,
+      "modified": "2022-05-30T16:49:24.469665+00:00",
+      "note": "You can now filter style sheets in the Style Editor tab of our developer tools",
+      "sort_num": 0,
+      "tag": "Developer"
+    }
+  ],
   "product": "Firefox",
   "release_date": "2022-05-31",
   "slug": "firefox-102.0beta-beta",
