@@ -3,8 +3,8 @@
   "bug_search_url": "",
   "channel": "Release",
   "created": "2022-05-27T20:30:46.021454+00:00",
-  "is_public": false,
-  "modified": "2022-05-27T20:32:31.028216+00:00",
+  "is_public": true,
+  "modified": "2022-05-31T12:40:35.686032+00:00",
   "notes": [
     {
       "bug": null,
@@ -14,16 +14,6 @@
       "modified": "2022-05-27T20:52:18.044408+00:00",
       "note": "Reading is now easier with the `prefers-contrast` media query, which allows sites to detect if the user has requested that web content is presented with a higher (or lower) contrast.",
       "sort_num": 30,
-      "tag": "New"
-    },
-    {
-      "bug": null,
-      "created": "2022-05-27T20:28:30.480896+00:00",
-      "id": 789087,
-      "is_public": true,
-      "modified": "2022-05-27T20:51:37.559047+00:00",
-      "note": "Firefox for Android now supports using the magnifier on Android 9+ for positioning the cursor in forms on web pages\u2014which makes things on the screen much easier to see.",
-      "sort_num": 20,
       "tag": "New"
     },
     {
