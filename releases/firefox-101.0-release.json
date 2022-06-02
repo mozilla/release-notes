@@ -21,9 +21,9 @@
       "created": "2022-05-27T20:51:22.541815+00:00",
       "id": 789096,
       "is_public": true,
-      "modified": "2022-05-27T20:51:22.541639+00:00",
+      "modified": "2022-06-02T20:17:49.413804+00:00",
       "note": "It\u2019s your choice! All non-configured MIME types can now be assigned a custom action upon download completion.",
-      "sort_num": 10,
+      "sort_num": 20,
       "tag": "New"
     },
     {
@@ -31,8 +31,18 @@
       "created": "2022-05-27T20:50:55.587547+00:00",
       "id": 789095,
       "is_public": true,
-      "modified": "2022-05-27T20:50:55.587338+00:00",
+      "modified": "2022-06-02T20:17:53.340522+00:00",
       "note": "Firefox now allows users to use as many microphones as you want, at the same time, during video conferencing. The most exciting benefit is that you can easily switch your microphones at any time (if your conferencing service provider enables this flexibility).",
+      "sort_num": 10,
+      "tag": "New"
+    },
+    {
+      "bug": 1691122,
+      "created": "2022-06-02T20:18:32.641045+00:00",
+      "id": 789100,
+      "is_public": true,
+      "modified": "2022-06-02T20:18:32.640855+00:00",
+      "note": "Removed \"subject common name\" fallback support from certificate validation. This fallback mode was previously enabled only for manually installed certificates. The CA Browser Forum Baseline Requirements have required the presence of the \"subjectAltName\" extension since 2012, and use of the subject common name was deprecated in RFC 2818.",
       "sort_num": 0,
       "tag": "New"
     },
