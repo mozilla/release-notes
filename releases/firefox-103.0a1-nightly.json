@@ -15,6 +15,16 @@
       "note": "Removed configuration option to allow SHA-1 signatures in certificates. SHA-1 signatures in certificates, long since determined to no longer be secure enough, are now not supported.",
       "sort_num": 0,
       "tag": "Changed"
+    },
+    {
+      "bug": 1752494,
+      "created": "2022-06-03T14:09:09.849934+00:00",
+      "id": 789101,
+      "is_public": true,
+      "modified": "2022-06-03T14:09:09.849691+00:00",
+      "note": "<!-- Nightly only -->Hardware video decoding is enabled on Linux by default. It's used on Intel/AMD platform when VA-API is available. (Linux Nightly only)",
+      "sort_num": 0,
+      "tag": "Changed"
     }
   ],
   "product": "Firefox",
