@@ -25,6 +25,16 @@
       "note": "<!-- Nightly only -->Hardware video decoding is enabled on Linux by default. It's used on Intel/AMD platform when VA-API is available. (Linux Nightly only)",
       "sort_num": 0,
       "tag": "Changed"
+    },
+    {
+      "bug": 359303,
+      "created": "2022-06-06T13:24:57.546744+00:00",
+      "id": 789102,
+      "is_public": true,
+      "modified": "2022-06-06T13:24:57.546509+00:00",
+      "note": "Non-breaking spaces are now preserved when copying text from a form control.",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
