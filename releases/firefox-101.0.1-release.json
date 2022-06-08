@@ -41,8 +41,18 @@
       "created": "2022-06-08T21:42:36.955147+00:00",
       "id": 789106,
       "is_public": true,
-      "modified": "2022-06-08T21:42:36.954968+00:00",
+      "modified": "2022-06-08T22:18:47.777826+00:00",
       "note": "Fixed context menus not appearing when right-clicking Picture-in-Picture windows on some Linux systems ([bug 1771914][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1771914",
+      "sort_num": 10,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2022-06-08T22:19:06.230914+00:00",
+      "id": 789108,
+      "is_public": true,
+      "modified": "2022-06-08T22:19:06.230726+00:00",
+      "note": "Various stability fixes",
       "sort_num": 0,
       "tag": "Fixed"
     }
