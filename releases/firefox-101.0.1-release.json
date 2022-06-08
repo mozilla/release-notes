@@ -15,6 +15,16 @@
       "note": "Reference link to [101.0 release notes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/firefox/101.0/releasenotes/",
       "sort_num": 0,
       "tag": ""
+    },
+    {
+      "bug": 1771823,
+      "created": "2022-06-08T21:36:44.513382+00:00",
+      "id": 789105,
+      "is_public": true,
+      "modified": "2022-06-08T21:37:46.684252+00:00",
+      "note": "Fixed Firefox clearing the clipboard when closing on macOS ([bug 1771823][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1771823",
+      "sort_num": 100,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
