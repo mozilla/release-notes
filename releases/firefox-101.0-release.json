@@ -11,7 +11,7 @@
       "created": "2022-05-27T20:52:18.044588+00:00",
       "id": 789097,
       "is_public": true,
-      "modified": "2022-05-27T20:52:18.044408+00:00",
+      "modified": "2022-06-08T21:25:23.199005+00:00",
       "note": "Reading is now easier with the `prefers-contrast` media query, which allows sites to detect if the user has requested that web content is presented with a higher (or lower) contrast.",
       "sort_num": 30,
       "tag": "New"
@@ -21,7 +21,7 @@
       "created": "2022-05-27T20:51:22.541815+00:00",
       "id": 789096,
       "is_public": true,
-      "modified": "2022-06-02T20:17:49.413804+00:00",
+      "modified": "2022-06-08T21:25:23.891588+00:00",
       "note": "It\u2019s your choice! All non-configured MIME types can now be assigned a custom action upon download completion.",
       "sort_num": 20,
       "tag": "New"
@@ -31,7 +31,7 @@
       "created": "2022-05-27T20:50:55.587547+00:00",
       "id": 789095,
       "is_public": true,
-      "modified": "2022-06-02T20:17:53.340522+00:00",
+      "modified": "2022-06-08T21:25:24.412594+00:00",
       "note": "Firefox now allows users to use as many microphones as you want, at the same time, during video conferencing. The most exciting benefit is that you can easily switch your microphones at any time (if your conferencing service provider enables this flexibility).",
       "sort_num": 10,
       "tag": "New"
@@ -41,7 +41,7 @@
       "created": "2022-06-02T20:18:32.641045+00:00",
       "id": 789100,
       "is_public": true,
-      "modified": "2022-06-02T20:39:13.132596+00:00",
+      "modified": "2022-06-08T21:25:22.498326+00:00",
       "note": "Removed \"subject common name\" fallback support from certificate validation. This fallback mode was previously enabled only for manually installed certificates. The CA Browser Forum Baseline Requirements have required the presence of the \"subjectAltName\" extension since 2012, and use of the subject common name was deprecated in RFC 2818.",
       "sort_num": 0,
       "tag": "Changed"
@@ -51,7 +51,7 @@
       "created": "2022-05-27T20:43:02.864656+00:00",
       "id": 789090,
       "is_public": true,
-      "modified": "2022-05-27T20:43:02.864465+00:00",
+      "modified": "2022-06-08T21:25:27.905835+00:00",
       "note": "Firefox new has added support for [large, small, dynamic viewport units][1] and logical ones ([*vi][2] and [*vb][3]). This gives users the flexibility to choose whether page elements are sized to the \u201csmallest\u201d viewport size (dynamic toolbar visible), \u201clargest\u201d viewport size (dynamic toolbar hidden), or \u201cdynamic\u201d viewport size (based on current status of dynamic toolbar).\r\n\r\n\r\n  [1]: https://drafts.csswg.org/css-values/#viewport-variants\r\n  [2]: https://drafts.csswg.org/css-values/#valdef-length-vi\r\n  [3]: https://drafts.csswg.org/css-values/#valdef-length-vb",
       "sort_num": 10,
       "tag": "HTML5"
@@ -61,7 +61,7 @@
       "created": "2022-05-27T20:42:11.377670+00:00",
       "id": 789089,
       "is_public": true,
-      "modified": "2022-05-27T20:42:11.377500+00:00",
+      "modified": "2022-06-08T21:25:28.540212+00:00",
       "note": "Firefox 101 features added web conferencing support for enumerating (reducing errors caused by transposing or mistyping numbers) and selecting multiple audio input devices (giving you the ability to record or process multiple separate audio sources together, synchronously, at once) through navigator.mediaDevices.enumerateDevices().",
       "sort_num": 0,
       "tag": "HTML5"
@@ -71,7 +71,7 @@
       "created": "2022-05-27T20:48:33.996435+00:00",
       "id": 789093,
       "is_public": true,
-      "modified": "2022-05-27T20:48:33.996248+00:00",
+      "modified": "2022-06-08T21:25:25.824957+00:00",
       "note": "**Inspector panel:** When adding/removing a class name to/from an existing HTML element (using .cls button in Rules View), an autocomplete drop down automatically offers all existing class names on the page. In Firefox 101 the selected class name in the autocomplete drop-down list is auto-applied immediately as the user changes the selection of the autocomplete list (using up/down arrow keys). This is especially useful for quick testing of various styles.",
       "sort_num": 20,
       "tag": "Developer"
@@ -81,7 +81,7 @@
       "created": "2022-05-27T20:48:05.451863+00:00",
       "id": 789092,
       "is_public": true,
-      "modified": "2022-05-27T20:49:29.883359+00:00",
+      "modified": "2022-06-08T21:25:26.465977+00:00",
       "note": "**Inspector panel:** This new option can be used to disable \u201cdrag to update\u201d features in the Rule View (values of some CSS properties e.g., sizes can be modified by dragging the mouse horizontally).\r\n\r\n![Screenshot showing Inspector Panel drag to update option checkbox][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/media/img/firefox/releasenotes/note-images/101_devtools.png",
       "sort_num": 10,
       "tag": "Developer"
@@ -91,7 +91,7 @@
       "created": "2022-05-27T20:45:53.728134+00:00",
       "id": 789091,
       "is_public": true,
-      "modified": "2022-05-27T20:45:53.727955+00:00",
+      "modified": "2022-06-08T21:25:27.262671+00:00",
       "note": "**WebDriver BiDi:** This [protocol][1] is enabled on the release channel to support external tools such as Selenium, which plan to start using WebDriver BiDi for Firefox. WebDriver-BiDi aims to provide a cross-browser protocol for browser automation that meets the requirements of modern web application testing tools. This allows both the client and the server to send & receive requests and responses. \r\n\r\n\r\n  [1]: https://w3c.github.io/webdriver-bidi/",
       "sort_num": 0,
       "tag": "Developer"
@@ -101,7 +101,7 @@
       "created": "2022-05-27T20:50:27.452628+00:00",
       "id": 789094,
       "is_public": true,
-      "modified": "2022-05-27T20:50:27.452357+00:00",
+      "modified": "2022-06-08T21:25:25.070247+00:00",
       "note": "Various bug fixes and new policies have been implemented in the latest version of Firefox. You can find more information in the [Firefox for Enterprise 101 Release Notes][1].\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/firefox-enterprise-101-release-notes",
       "sort_num": 0,
       "tag": "Enterprise"
@@ -111,7 +111,7 @@
       "created": "2022-05-27T19:49:13.291014+00:00",
       "id": 789082,
       "is_public": true,
-      "modified": "2022-05-27T20:31:48.123964+00:00",
+      "modified": "2022-06-08T21:25:21.431299+00:00",
       "note": "Various [security][1] fixes.\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/mfsa2022-20/",
       "sort_num": 0,
       "tag": "Fixed"
@@ -121,7 +121,7 @@
       "created": "2022-05-27T20:40:19.395436+00:00",
       "id": 789088,
       "is_public": true,
-      "modified": "2022-05-27T20:40:19.395251+00:00",
+      "modified": "2022-06-08T21:25:29.429009+00:00",
       "note": "With the release of Firefox 101, we are pleased to welcome all the developers who contributed their first code change to Firefox in this release. Please join us in thanking each of these diligent and enthusiastic individuals, and take a look at their contributions:\r\n\r\n * av: [Bug 1762483][1] and [Bug 1763262][2]\r\n * irwp: [Bug 1762785][3] and [Bug 1762909][4]\r\n * johann.koenig: [Bug 1759324][5]\r\n * karnikk1406120: [Bug 1762683][6] and [Bug 1763000][7]\r\n * Manisha.singh2019: [Bug 1739139][8], [Bug 1763865][9], and [Bug 1765459][10]\r\n * michel: [Bug 1661450][11]\r\n * Samuraix221: [Bug 1708511][12] and [Bug 1762459][13]\r\n * aline_g: [Bug 1765639][14]\r\n * Dmitrij Feller: [Bug 1757751][15] and [Bug 1766409][16]\r\n * Jakub \u0160ebek: [Bug 1764118][17]\r\n * Janvi Bajoria: [Bug 1763717][18]\r\n * Max: [Bug 1762316][19] and [Bug 1762499][20]\r\n * Michel Le Bihan: [Bug 1706354][21] and [Bug 1764541][22]\r\n * Roy Christo: [Bug 1762749][23]\r\n * Simon McVittie: [Bug 1494436][24]\r\n * sayuree: [Bug 1624984][25], [Bug 1666456][26], [Bug 1702491][27], and [Bug 1762259][28]\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1762483\r\n  [2]: https://bugzilla.mozilla.org/show_bug.cgi?id=1763262\r\n  [3]: https://bugzilla.mozilla.org/show_bug.cgi?id=1762785\r\n  [4]: https://bugzilla.mozilla.org/show_bug.cgi?id=1762909\r\n  [5]: https://bugzilla.mozilla.org/show_bug.cgi?id=1759324\r\n  [6]: https://bugzilla.mozilla.org/show_bug.cgi?id=1762683\r\n  [7]: https://bugzilla.mozilla.org/show_bug.cgi?id=1763000\r\n  [8]: https://bugzilla.mozilla.org/show_bug.cgi?id=1739139\r\n  [9]: https://bugzilla.mozilla.org/show_bug.cgi?id=1763865\r\n  [10]: https://bugzilla.mozilla.org/show_bug.cgi?id=1765459\r\n  [11]: https://bugzilla.mozilla.org/show_bug.cgi?id=1661450\r\n  [12]: https://bugzilla.mozilla.org/show_bug.cgi?id=1708511\r\n  [13]: https://bugzilla.mozilla.org/show_bug.cgi?id=1762459\r\n  [14]: https://bugzilla.mozilla.org/show_bug.cgi?id=1765639\r\n  [15]: https://bugzilla.mozilla.org/show_bug.cgi?id=1757751\r\n  [16]: https://bugzilla.mozilla.org/show_bug.cgi?id=1766409\r\n  [17]: https://bugzilla.mozilla.org/show_bug.cgi?id=1764118\r\n  [18]: https://bugzilla.mozilla.org/show_bug.cgi?id=1763717\r\n  [19]: https://bugzilla.mozilla.org/show_bug.cgi?id=1762316\r\n  [20]: https://bugzilla.mozilla.org/show_bug.cgi?id=1762499\r\n  [21]: https://bugzilla.mozilla.org/show_bug.cgi?id=1706354\r\n  [22]: https://bugzilla.mozilla.org/show_bug.cgi?id=1764541\r\n  [23]: https://bugzilla.mozilla.org/show_bug.cgi?id=1762749\r\n  [24]: https://bugzilla.mozilla.org/show_bug.cgi?id=1494436\r\n  [25]: https://bugzilla.mozilla.org/show_bug.cgi?id=1624984\r\n  [26]: https://bugzilla.mozilla.org/show_bug.cgi?id=1666456\r\n  [27]: https://bugzilla.mozilla.org/show_bug.cgi?id=1702491\r\n  [28]: https://bugzilla.mozilla.org/show_bug.cgi?id=1762259",
       "sort_num": 0,
       "tag": "Community"
