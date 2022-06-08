@@ -27,6 +27,16 @@
       "tag": "Changed"
     },
     {
+      "bug": 1670885,
+      "created": "2022-06-08T12:23:44.916411+00:00",
+      "id": 789103,
+      "is_public": true,
+      "modified": "2022-06-08T12:23:44.916017+00:00",
+      "note": "Improved responsiveness on macOS during periods of high CPU load, by switching to a modern lock API.",
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
       "bug": 359303,
       "created": "2022-06-06T13:24:57.546744+00:00",
       "id": 789102,
