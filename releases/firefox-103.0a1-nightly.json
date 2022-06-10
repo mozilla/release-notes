@@ -45,6 +45,16 @@
       "note": "Non-breaking spaces are now preserved when copying text from a form control.",
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": 1735929,
+      "created": "2022-06-10T12:29:49.043397+00:00",
+      "id": 789109,
+      "is_public": true,
+      "modified": "2022-06-10T12:29:49.043190+00:00",
+      "note": "Fixed WebGL performance issues on NVIDIA binary drivers via DMA-Buf on Linux.",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
