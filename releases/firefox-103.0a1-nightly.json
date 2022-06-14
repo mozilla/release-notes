@@ -7,6 +7,26 @@
   "modified": "2022-05-31T12:50:38.183192+00:00",
   "notes": [
     {
+      "bug": 1670885,
+      "created": "2022-06-08T12:23:44.916411+00:00",
+      "id": 789103,
+      "is_public": true,
+      "modified": "2022-06-14T13:37:03.289365+00:00",
+      "note": "Improved responsiveness on macOS during periods of high CPU load, by switching to a modern lock API.",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1724918,
+      "created": "2022-06-14T13:39:15.190633+00:00",
+      "id": 789110,
+      "is_public": true,
+      "modified": "2022-06-14T13:39:15.190449+00:00",
+      "note": "Required fields are now highlighted in PDF forms.",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1766687,
       "created": "2022-06-02T18:03:46.195139+00:00",
       "id": 789099,
@@ -23,16 +43,6 @@
       "is_public": true,
       "modified": "2022-06-03T14:09:09.849691+00:00",
       "note": "<!-- Nightly only -->Hardware video decoding is enabled on Linux by default. It's used on Intel/AMD platform when VA-API is available. (Linux Nightly only)",
-      "sort_num": 0,
-      "tag": "Changed"
-    },
-    {
-      "bug": 1670885,
-      "created": "2022-06-08T12:23:44.916411+00:00",
-      "id": 789103,
-      "is_public": true,
-      "modified": "2022-06-08T12:23:44.916017+00:00",
-      "note": "Improved responsiveness on macOS during periods of high CPU load, by switching to a modern lock API.",
       "sort_num": 0,
       "tag": "Changed"
     },
