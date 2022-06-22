@@ -37,6 +37,26 @@
       "tag": "Changed"
     },
     {
+      "bug": 1740263,
+      "created": "2022-06-22T16:42:50.807601+00:00",
+      "id": 789112,
+      "is_public": true,
+      "modified": "2022-06-22T16:47:21.108916+00:00",
+      "note": "We now support the Content-Security-Policy (CSP) directive 'wasm-unsafe-eval'. This means existing web pages that have strict CSP might now block WebAssembly from executing.",
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 1767507,
+      "created": "2022-06-22T16:46:15.720513+00:00",
+      "id": 789113,
+      "is_public": true,
+      "modified": "2022-06-22T16:46:15.720310+00:00",
+      "note": "[TransformStreams][1] has landed, allowing you to pipe from a ReadableStream to a WritableStream, executing a transformation on chunks\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/TransformStream",
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
       "bug": 1470781,
       "created": "2022-05-16T14:41:44.867735+00:00",
       "id": 789070,
