@@ -5,7 +5,18 @@
   "created": "2022-06-24T07:49:54.147574+00:00",
   "is_public": false,
   "modified": "2022-06-24T07:50:33.352213+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": null,
+      "created": "2022-06-24T17:17:02.396906+00:00",
+      "id": 789122,
+      "is_public": true,
+      "modified": "2022-06-24T17:17:02.396704+00:00",
+      "note": "When using a screen reader on Windows, pressing enter to activate an element no longer fails or clicks the wrong element and/or another application window. For those blind or with very limited vision, this technology reads out loud what is on the screen, and users can adapt them to their needs (now, on our platform, without errors).",
+      "sort_num": 0,
+      "tag": "Fixed"
+    }
+  ],
   "product": "Firefox",
   "release_date": "2022-06-28",
   "slug": "firefox-102.0-release",
