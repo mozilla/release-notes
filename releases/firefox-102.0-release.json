@@ -8,6 +8,66 @@
   "notes": [
     {
       "bug": null,
+      "created": "2022-06-24T17:49:02.524587+00:00",
+      "id": 789123,
+      "is_public": true,
+      "modified": "2022-06-24T17:49:02.524300+00:00",
+      "note": "Tired of too many windows crowding your screen? You can now disable automatic opening of the download panel every time a new download starts. [Read more][1]. \r\n\r\n\r\n  [1]: https://support.mozilla.org/en-US/kb/manage-downloads-preferences-using-downloads-menu#w_downloads-panel-automatically-opens",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2022-06-24T17:49:55.029907+00:00",
+      "id": 789124,
+      "is_public": true,
+      "modified": "2022-06-24T17:49:55.029728+00:00",
+      "note": "Firefox now mitigates query parameter tracking when navigating sites in ETP strict mode.",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2022-06-24T17:50:22.310252+00:00",
+      "id": 789125,
+      "is_public": true,
+      "modified": "2022-06-24T17:50:22.310070+00:00",
+      "note": "Subtitles and captions for Picture-in-Picture (PiP) are now available at HBO Max, Funimation, Dailymotion, Tubi, Disney+ Hotstar, and SonyLIV. This allows you to view video in a small window pinned to a corner of the screen while navigating between apps or browsing content on the main screen.",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2022-06-24T17:51:41.180005+00:00",
+      "id": 789126,
+      "is_public": true,
+      "modified": "2022-06-24T17:51:41.179832+00:00",
+      "note": "Improved security by moving audio decoding into a [separate process with stricter sandboxing][1], thus improving process isolation. \r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1722051",
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
+      "bug": null,
+      "created": "2022-06-24T17:52:55.032756+00:00",
+      "id": 789127,
+      "is_public": true,
+      "modified": "2022-06-24T17:52:55.032575+00:00",
+      "note": "Various bug fixes and new policies have been implemented in the latest version of Firefox. You can find more information in the [Firefox for Enterprise 102 Release Notes][1].\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/firefox-enterprise-102-release-notes",
+      "sort_num": 0,
+      "tag": "Enterprise"
+    },
+    {
+      "bug": null,
+      "created": "2022-06-24T17:54:12.452893+00:00",
+      "id": 789128,
+      "is_public": true,
+      "modified": "2022-06-24T17:54:12.452503+00:00",
+      "note": "Firefox 102 is the new Extended Support Release (ESR). Firefox 91 ESR goes out of support on September 20, 2022.",
+      "sort_num": 0,
+      "tag": "Enterprise"
+    },
+    {
+      "bug": null,
       "created": "2022-06-24T17:17:02.396906+00:00",
       "id": 789122,
       "is_public": true,
