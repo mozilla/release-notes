@@ -48,6 +48,36 @@
     },
     {
       "bug": null,
+      "created": "2022-06-24T19:07:30.387011+00:00",
+      "id": 789129,
+      "is_public": true,
+      "modified": "2022-06-24T19:07:30.386833+00:00",
+      "note": "*TransformStream* and *ReadableStream.pipeThrough* have landed, allowing you to pipe from a *ReadableStream* to a *WritableStream*, executing a transformation on each chunk.",
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": null,
+      "created": "2022-06-24T19:08:06.473738+00:00",
+      "id": 789130,
+      "is_public": true,
+      "modified": "2022-06-24T19:08:06.473421+00:00",
+      "note": "ReadableStream, TransformStream, and WritableStream are all transferable now.",
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": null,
+      "created": "2022-06-24T19:08:29.983992+00:00",
+      "id": 789131,
+      "is_public": true,
+      "modified": "2022-06-24T19:08:29.983821+00:00",
+      "note": "Firefox now supports Content-Security-Policy (CSP) integration with WebAssembly. A document with a CSP that restricts scripts will no longer execute WebAssembly unless the policy uses 'unsafe-eval' or the new 'wasm-unsafe-eval' keyword.",
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": null,
       "created": "2022-06-24T17:52:55.032756+00:00",
       "id": 789127,
       "is_public": true,
