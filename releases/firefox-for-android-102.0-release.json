@@ -5,7 +5,58 @@
   "created": "2022-06-24T07:50:46.039245+00:00",
   "is_public": false,
   "modified": "2022-06-24T07:51:21.492004+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": null,
+      "created": "2022-06-24T16:45:36.605243+00:00",
+      "id": 789116,
+      "is_public": true,
+      "modified": "2022-06-24T16:45:36.605051+00:00",
+      "note": "Did you not want to store your personal information? Credit card autofill will now ask to save and update card information when filling out forms.",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2022-06-24T16:48:11.016196+00:00",
+      "id": 789117,
+      "is_public": true,
+      "modified": "2022-06-24T16:48:11.015805+00:00",
+      "note": "Resolved a problem with large clipboard contents causing a crash when the keyboard was opened. Happy copy and pasting!",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2022-06-24T16:48:40.400319+00:00",
+      "id": 789118,
+      "is_public": true,
+      "modified": "2022-06-24T16:48:40.400143+00:00",
+      "note": "Resolved a problem when tapping on the search widget with PiP enabled would crash.",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2022-06-24T16:48:59.963894+00:00",
+      "id": 789119,
+      "is_public": true,
+      "modified": "2022-06-24T16:48:59.963297+00:00",
+      "note": "Password autofill with a locked and not running Bitwarden password now works.",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2022-06-24T16:49:20.640119+00:00",
+      "id": 789120,
+      "is_public": true,
+      "modified": "2022-06-24T16:49:20.639939+00:00",
+      "note": "When switching between apps Firefox should remain running.",
+      "sort_num": 0,
+      "tag": "Fixed"
+    }
+  ],
   "product": "Firefox for Android",
   "release_date": "2022-06-28",
   "slug": "firefox-for-android-102.0-release",
