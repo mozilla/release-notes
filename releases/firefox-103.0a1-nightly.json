@@ -11,7 +11,7 @@
       "created": "2022-06-08T12:23:44.916411+00:00",
       "id": 789103,
       "is_public": true,
-      "modified": "2022-06-14T13:37:03.289365+00:00",
+      "modified": "2022-06-27T03:04:31.995963+00:00",
       "note": "Improved responsiveness on macOS during periods of high CPU load, by switching to a modern lock API.",
       "sort_num": 0,
       "tag": "New"
@@ -21,7 +21,7 @@
       "created": "2022-06-14T13:39:15.190633+00:00",
       "id": 789110,
       "is_public": true,
-      "modified": "2022-06-14T13:39:15.190449+00:00",
+      "modified": "2022-06-27T03:04:38.613347+00:00",
       "note": "Required fields are now highlighted in PDF forms.",
       "sort_num": 0,
       "tag": "New"
@@ -31,7 +31,7 @@
       "created": "2022-06-21T14:25:11.678168+00:00",
       "id": 789111,
       "is_public": true,
-      "modified": "2022-06-21T14:25:11.677910+00:00",
+      "modified": "2022-06-27T03:04:35.537301+00:00",
       "note": "Improved performance on high-refresh rate monitors (120Hz+)",
       "sort_num": 0,
       "tag": "New"
@@ -41,7 +41,7 @@
       "created": "2022-06-02T18:03:46.195139+00:00",
       "id": 789099,
       "is_public": true,
-      "modified": "2022-06-02T18:03:46.194944+00:00",
+      "modified": "2022-06-27T03:04:36.178793+00:00",
       "note": "Removed configuration option to allow SHA-1 signatures in certificates. SHA-1 signatures in certificates, long since determined to no longer be secure enough, are now not supported.",
       "sort_num": 0,
       "tag": "Changed"
@@ -51,7 +51,7 @@
       "created": "2022-06-03T14:09:09.849934+00:00",
       "id": 789101,
       "is_public": true,
-      "modified": "2022-06-03T14:09:09.849691+00:00",
+      "modified": "2022-06-27T03:04:37.228504+00:00",
       "note": "<!-- Nightly only -->Hardware video decoding is enabled on Linux by default. It's used on Intel/AMD platform when VA-API is available. (Linux Nightly only)",
       "sort_num": 0,
       "tag": "Changed"
@@ -61,7 +61,7 @@
       "created": "2022-06-06T13:24:57.546744+00:00",
       "id": 789102,
       "is_public": true,
-      "modified": "2022-06-06T13:24:57.546509+00:00",
+      "modified": "2022-06-27T03:04:32.980971+00:00",
       "note": "Non-breaking spaces are now preserved when copying text from a form control.",
       "sort_num": 0,
       "tag": "Fixed"
@@ -71,7 +71,7 @@
       "created": "2022-06-10T12:29:49.043397+00:00",
       "id": 789109,
       "is_public": true,
-      "modified": "2022-06-10T12:29:49.043190+00:00",
+      "modified": "2022-06-27T03:04:39.615943+00:00",
       "note": "Fixed WebGL performance issues on NVIDIA binary drivers via DMA-Buf on Linux.",
       "sort_num": 0,
       "tag": "Fixed"
