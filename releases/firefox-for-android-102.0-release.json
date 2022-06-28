@@ -55,6 +55,16 @@
       "note": "When switching between apps Firefox should remain running.",
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2022-06-28T09:10:43.655368+00:00",
+      "id": 789132,
+      "is_public": true,
+      "modified": "2022-06-28T09:10:43.655190+00:00",
+      "note": "Various [security][1] fixes.\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/mfsa2022-24/",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox for Android",
