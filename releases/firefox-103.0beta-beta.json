@@ -57,6 +57,16 @@
       "tag": "New"
     },
     {
+      "bug": 1773342,
+      "created": "2022-07-05T12:09:01.992575+00:00",
+      "id": 789135,
+      "is_public": true,
+      "modified": "2022-07-05T12:09:01.992374+00:00",
+      "note": "Windows' \"Make text bigger\" accessibility setting now affects all the UI and content pages, rather than just affecting system font sizes.",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1766687,
       "created": "2022-06-02T18:03:46.195139+00:00",
       "id": 789099,
