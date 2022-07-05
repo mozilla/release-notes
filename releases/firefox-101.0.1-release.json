@@ -11,7 +11,7 @@
       "created": "2022-06-08T21:25:55.619755+00:00",
       "id": 789104,
       "is_public": true,
-      "modified": "2022-06-08T21:26:19.138499+00:00",
+      "modified": "2022-07-05T07:03:52.112473+00:00",
       "note": "Reference link to [101.0 release notes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/firefox/101.0/releasenotes/",
       "sort_num": 0,
       "tag": ""
@@ -21,7 +21,7 @@
       "created": "2022-06-08T21:36:44.513382+00:00",
       "id": 789105,
       "is_public": true,
-      "modified": "2022-06-08T21:37:46.684252+00:00",
+      "modified": "2022-07-05T07:03:42.711203+00:00",
       "note": "Fixed Firefox clearing the clipboard when closing on macOS ([bug 1771823][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1771823",
       "sort_num": 100,
       "tag": "Fixed"
@@ -31,7 +31,7 @@
       "created": "2022-06-08T21:59:38.751240+00:00",
       "id": 789107,
       "is_public": true,
-      "modified": "2022-06-08T22:00:27.019177+00:00",
+      "modified": "2022-07-05T07:03:37.241939+00:00",
       "note": "Fixed a compatibility issue causing severely impaired functionality with [win32k lockdown][1] enabled on some Windows systems ([bug 1769845][2])\r\n\r\n\r\n  [1]: https://hacks.mozilla.org/2022/05/improved-process-isolation-in-firefox-100/\r\n  [2]: https://bugzilla.mozilla.org/show_bug.cgi?id=1769845",
       "sort_num": 60,
       "tag": "Fixed"
@@ -41,7 +41,7 @@
       "created": "2022-06-08T21:42:36.955147+00:00",
       "id": 789106,
       "is_public": true,
-      "modified": "2022-06-08T22:18:47.777826+00:00",
+      "modified": "2022-07-05T07:03:40.626270+00:00",
       "note": "Fixed context menus not appearing when right-clicking Picture-in-Picture windows on some Linux systems ([bug 1771914][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1771914",
       "sort_num": 10,
       "tag": "Fixed"
@@ -51,7 +51,7 @@
       "created": "2022-06-08T22:19:06.230914+00:00",
       "id": 789108,
       "is_public": true,
-      "modified": "2022-06-08T22:19:06.230726+00:00",
+      "modified": "2022-07-05T07:03:11.071054+00:00",
       "note": "Various stability fixes",
       "sort_num": 0,
       "tag": "Fixed"
