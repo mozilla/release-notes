@@ -17,16 +17,6 @@
       "tag": ""
     },
     {
-      "bug": null,
-      "created": "2022-06-08T22:19:06.230914+00:00",
-      "id": 789108,
-      "is_public": true,
-      "modified": "2022-07-05T07:03:11.071054+00:00",
-      "note": "Various stability fixes",
-      "sort_num": 0,
-      "tag": "Fixed"
-    },
-    {
       "bug": 1774683,
       "created": "2022-07-05T14:11:51.067184+00:00",
       "id": 789136,
@@ -73,6 +63,16 @@
       "is_public": true,
       "modified": "2022-07-05T14:29:31.887767+00:00",
       "note": "Fixed *Delete cookies and site data when Firefox is closed* checkbox getting disabled on startup ([bug 1777419][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1777419",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2022-07-06T12:54:16.054536+00:00",
+      "id": 789141,
+      "is_public": true,
+      "modified": "2022-07-06T12:54:16.054357+00:00",
+      "note": "Various stability fixes",
       "sort_num": 0,
       "tag": "Fixed"
     }
