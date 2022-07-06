@@ -5,7 +5,26 @@
   "created": "2022-06-27T03:03:45.271667+00:00",
   "is_public": true,
   "modified": "2022-06-27T16:06:39.776936+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": 1750972,
+      "created": "2022-07-06T13:52:04.703984+00:00",
+      "fixed_in_release": {
+        "channel": "Nightly",
+        "is_public": true,
+        "product": "Firefox",
+        "slug": "firefox-104.0a1-nightly",
+        "title": "Firefox 104.0a1 Nightly",
+        "version": "104.0a1"
+      },
+      "id": 789142,
+      "is_public": true,
+      "modified": "2022-07-06T13:53:24.056837+00:00",
+      "note": "Cookies with `sameSite=none` must now also specify the secure attribute. Cookies are now only considered same-site if they use the same scheme (`http` or `https`). You can read more about it [here][1].\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Set-Cookie/SameSite",
+      "sort_num": 0,
+      "tag": "Developer"
+    }
+  ],
   "product": "Firefox",
   "release_date": "2022-06-27",
   "slug": "firefox-104.0a1-nightly",
