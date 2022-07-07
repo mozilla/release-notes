@@ -7,6 +7,24 @@
   "modified": "2022-06-27T16:06:39.776936+00:00",
   "notes": [
     {
+      "bug": 1766273,
+      "created": "2022-07-07T15:48:23.235002+00:00",
+      "fixed_in_release": {
+        "channel": "Nightly",
+        "is_public": true,
+        "product": "Firefox",
+        "slug": "firefox-104.0a1-nightly",
+        "title": "Firefox 104.0a1 Nightly",
+        "version": "104.0a1"
+      },
+      "id": 789143,
+      "is_public": true,
+      "modified": "2022-07-07T15:48:23.234726+00:00",
+      "note": "Subtitles are now available for Disney+ in Picture-in-Picture.",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1750972,
       "created": "2022-07-06T13:52:04.703984+00:00",
       "fixed_in_release": {
