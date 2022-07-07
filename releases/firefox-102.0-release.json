@@ -21,8 +21,8 @@
       "created": "2022-06-24T17:49:55.029907+00:00",
       "id": 789124,
       "is_public": true,
-      "modified": "2022-06-24T17:49:55.029728+00:00",
-      "note": "Firefox now mitigates query parameter tracking when navigating sites in ETP strict mode.",
+      "modified": "2022-07-07T06:02:43.311851+00:00",
+      "note": "Firefox now mitigates query parameter tracking when navigating sites if you have enabled strict mode for Enhanced Tracking Protection.",
       "sort_num": 0,
       "tag": "New"
     },
