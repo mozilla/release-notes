@@ -1,0 +1,87 @@
+{
+  "bug_list": "",
+  "bug_search_url": "",
+  "channel": "ESR",
+  "created": "2022-07-12T11:35:05.242612+00:00",
+  "is_public": false,
+  "modified": "2022-07-12T11:41:05.859300+00:00",
+  "notes": [
+    {
+      "bug": null,
+      "created": "2022-07-12T11:38:40.598484+00:00",
+      "id": 789144,
+      "is_public": true,
+      "modified": "2022-07-12T11:38:40.598307+00:00",
+      "note": "Reference link to [ESR 102.0 release notes][1]\r\n\r\n\r\n  [1]: http:///firefox/102.0esr/releasenotes/",
+      "sort_num": 0,
+      "tag": ""
+    },
+    {
+      "bug": 1774683,
+      "created": "2022-07-05T14:11:51.067184+00:00",
+      "id": 789136,
+      "is_public": true,
+      "modified": "2022-07-12T11:36:51.591174+00:00",
+      "note": "Fixed bookmark shortcut creation by dragging to Windows File Explorer and dropping partially broken ([bug 1774683][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1774683",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2022-07-05T14:13:35.374247+00:00",
+      "id": 789137,
+      "is_public": true,
+      "modified": "2022-07-12T11:36:41.759008+00:00",
+      "note": "Fixed bookmarks sidebar flashing white when opened in dark mode ([bug 1776157][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1776157",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1773802,
+      "created": "2022-07-05T14:17:57.828059+00:00",
+      "id": 789138,
+      "is_public": true,
+      "modified": "2022-07-12T11:36:17.674954+00:00",
+      "note": "Fixed multilingual spell checking not working with content in both English and a non-Latin alphabet ([bug 1773802][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1773802",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1776262,
+      "created": "2022-07-05T14:20:09.787351+00:00",
+      "id": 789139,
+      "is_public": true,
+      "modified": "2022-07-12T11:36:08.503230+00:00",
+      "note": "Developer tools:  Fixed an issue where the console output keep getting scrolled to the bottom when the last visible message is an evaluation result ([bug 1776262][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1776262",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1777419,
+      "created": "2022-07-05T14:29:31.888006+00:00",
+      "id": 789140,
+      "is_public": true,
+      "modified": "2022-07-12T11:36:00.280667+00:00",
+      "note": "Fixed *Delete cookies and site data when Firefox is closed* checkbox getting disabled on startup ([bug 1777419][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1777419",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2022-07-06T12:54:16.054536+00:00",
+      "id": 789141,
+      "is_public": true,
+      "modified": "2022-07-12T11:35:51.485475+00:00",
+      "note": "Various stability fixes",
+      "sort_num": 0,
+      "tag": "Fixed"
+    }
+  ],
+  "product": "Firefox Extended Support Release",
+  "release_date": "2022-07-13",
+  "slug": "firefox-102.0.1esr-esr",
+  "system_requirements": "## Windows\r\n\r\n### Operating Systems (32-bit and 64-bit)\r\n - Windows 7\r\n - Windows 8\r\n - Windows 10\r\n - Windows 11\r\n\r\n### Recommended Hardware\r\n-  Pentium 4 or newer processor that supports SSE2\r\n-  512MB of RAM / 2GB of RAM for the 64-bit version\r\n-  200MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- macOS 10.12\r\n- macOS 10.13\r\n- macOS 10.14\r\n- macOS 10.15\r\n- macOS 11\r\n- macOS 12\r\n\r\n### Recommended Hardware\r\n- Mac computer with an Intel x86 or Apple silicon processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - GTK+ 3.14 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n    - libstdc++ 4.8.1 or higher\r\n    - glibc 2.17 or higher\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - NetworkManager 0.7 or higher\r\n    - DBus 1.0 or higher\r\n    - GNOME 2.16 or higher\r\n    - PulseAudio",
+  "text": "",
+  "title": "Firefox Extended Support Release 102.0.1esr ESR",
+  "version": "102.0.1esr"
+}
