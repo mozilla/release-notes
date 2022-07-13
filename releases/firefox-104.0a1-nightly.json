@@ -36,8 +36,8 @@
         "version": "104.0a1"
       },
       "id": 789142,
-      "is_public": true,
-      "modified": "2022-07-06T13:53:24.056837+00:00",
+      "is_public": false,
+      "modified": "2022-07-13T13:21:08.208281+00:00",
       "note": "Cookies with `sameSite=none` must now also specify the secure attribute. Cookies are now only considered same-site if they use the same scheme (`http` or `https`). You can read more about it [here][1].\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Set-Cookie/SameSite",
       "sort_num": 0,
       "tag": "Developer"
