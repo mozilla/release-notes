@@ -11,7 +11,7 @@
       "created": "2022-06-24T17:49:02.524587+00:00",
       "id": 789123,
       "is_public": true,
-      "modified": "2022-06-24T17:49:02.524300+00:00",
+      "modified": "2022-07-20T16:44:49.609978+00:00",
       "note": "Tired of too many windows crowding your screen? You can now disable automatic opening of the download panel every time a new download starts. [Read more][1]. \r\n\r\n\r\n  [1]: https://support.mozilla.org/en-US/kb/manage-downloads-preferences-using-downloads-menu#w_downloads-panel-automatically-opens",
       "sort_num": 0,
       "tag": "New"
@@ -21,7 +21,7 @@
       "created": "2022-06-24T17:49:55.029907+00:00",
       "id": 789124,
       "is_public": true,
-      "modified": "2022-07-07T06:02:43.311851+00:00",
+      "modified": "2022-07-20T16:44:48.862073+00:00",
       "note": "Firefox now mitigates query parameter tracking when navigating sites if you have enabled strict mode for Enhanced Tracking Protection.",
       "sort_num": 0,
       "tag": "New"
@@ -31,7 +31,7 @@
       "created": "2022-06-24T17:51:41.180005+00:00",
       "id": 789126,
       "is_public": true,
-      "modified": "2022-06-24T17:51:41.179832+00:00",
+      "modified": "2022-07-20T16:44:48.263429+00:00",
       "note": "Improved security by moving audio decoding into a [separate process with stricter sandboxing][1], thus improving process isolation. \r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1722051",
       "sort_num": 0,
       "tag": "Changed"
@@ -41,7 +41,7 @@
       "created": "2022-06-24T19:07:30.387011+00:00",
       "id": 789129,
       "is_public": true,
-      "modified": "2022-06-24T19:07:30.386833+00:00",
+      "modified": "2022-07-20T16:44:37.988389+00:00",
       "note": "*TransformStream* and *ReadableStream.pipeThrough* have landed, allowing you to pipe from a *ReadableStream* to a *WritableStream*, executing a transformation on each chunk.",
       "sort_num": 0,
       "tag": "HTML5"
@@ -51,7 +51,7 @@
       "created": "2022-06-24T19:08:06.473738+00:00",
       "id": 789130,
       "is_public": true,
-      "modified": "2022-06-24T19:37:13.642731+00:00",
+      "modified": "2022-07-20T16:44:36.615834+00:00",
       "note": "*ReadableStream*, *TransformStream*, and *WritableStream* are all transferable now.",
       "sort_num": 0,
       "tag": "HTML5"
@@ -61,7 +61,7 @@
       "created": "2022-06-24T19:08:29.983992+00:00",
       "id": 789131,
       "is_public": true,
-      "modified": "2022-06-24T19:08:29.983821+00:00",
+      "modified": "2022-07-20T16:44:35.493420+00:00",
       "note": "Firefox now supports Content-Security-Policy (CSP) integration with WebAssembly. A document with a CSP that restricts scripts will no longer execute WebAssembly unless the policy uses 'unsafe-eval' or the new 'wasm-unsafe-eval' keyword.",
       "sort_num": 0,
       "tag": "HTML5"
@@ -71,7 +71,7 @@
       "created": "2022-05-16T14:41:44.867735+00:00",
       "id": 789070,
       "is_public": true,
-      "modified": "2022-06-27T16:59:56.879849+00:00",
+      "modified": "2022-07-20T16:44:33.201369+00:00",
       "note": "You can now filter style sheets in the Style Editor tab of our developer tools",
       "sort_num": 0,
       "tag": "Developer"
@@ -81,7 +81,7 @@
       "created": "2022-06-24T17:52:55.032756+00:00",
       "id": 789127,
       "is_public": true,
-      "modified": "2022-06-24T17:52:55.032575+00:00",
+      "modified": "2022-07-20T16:44:47.462347+00:00",
       "note": "Various bug fixes and new policies have been implemented in the latest version of Firefox. You can find more information in the [Firefox for Enterprise 102 Release Notes][1].\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/firefox-enterprise-102-release-notes",
       "sort_num": 0,
       "tag": "Enterprise"
@@ -91,7 +91,7 @@
       "created": "2022-06-24T17:54:12.452893+00:00",
       "id": 789128,
       "is_public": true,
-      "modified": "2022-06-27T09:01:54.055761+00:00",
+      "modified": "2022-07-20T16:44:39.520875+00:00",
       "note": "Firefox 102 is the new Extended Support Release (ESR). Firefox 91 ESR goes out of support on September 20, 2022. (See the [102 ESR release notes][1] for more information)\r\n\r\n\r\n  [1]: /en-US/firefox/102.0esr/releasenotes/",
       "sort_num": 0,
       "tag": "Enterprise"
@@ -101,7 +101,7 @@
       "created": "2022-06-24T17:17:02.396906+00:00",
       "id": 789122,
       "is_public": true,
-      "modified": "2022-06-24T17:17:02.396704+00:00",
+      "modified": "2022-07-20T16:44:50.167232+00:00",
       "note": "When using a screen reader on Windows, pressing enter to activate an element no longer fails or clicks the wrong element and/or another application window. For those blind or with very limited vision, this technology reads out loud what is on the screen, and users can adapt them to their needs (now, on our platform, without errors).",
       "sort_num": 0,
       "tag": "Fixed"
@@ -111,7 +111,7 @@
       "created": "2022-06-28T09:10:43.655368+00:00",
       "id": 789132,
       "is_public": true,
-      "modified": "2022-06-28T09:10:43.655190+00:00",
+      "modified": "2022-07-20T16:47:12.678532+00:00",
       "note": "Various [security][1] fixes.\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/mfsa2022-24/",
       "sort_num": 0,
       "tag": "Fixed"
