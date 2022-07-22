@@ -5,7 +5,38 @@
   "created": "2022-07-20T16:43:54.520810+00:00",
   "is_public": false,
   "modified": "2022-07-20T16:45:34.919972+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": null,
+      "created": "2022-07-22T15:35:22.315122+00:00",
+      "id": 789159,
+      "is_public": true,
+      "modified": "2022-07-22T15:35:22.314919+00:00",
+      "note": "Resolved a crash involving split screen or resizing the Firefox window.",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2022-07-22T15:35:38.532908+00:00",
+      "id": 789160,
+      "is_public": true,
+      "modified": "2022-07-22T15:35:38.532731+00:00",
+      "note": "Resolved a problem where video, for some devices, was playing upside down.",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2022-07-22T15:35:57.746141+00:00",
+      "id": 789161,
+      "is_public": true,
+      "modified": "2022-07-22T15:35:57.745958+00:00",
+      "note": "Resolved a rare crash to a black screen when opening the keyboard on Android 12.",
+      "sort_num": 0,
+      "tag": "Fixed"
+    }
+  ],
   "product": "Firefox for Android",
   "release_date": "2022-07-26",
   "slug": "firefox-for-android-103.0-release",
