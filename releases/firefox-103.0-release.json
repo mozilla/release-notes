@@ -5,7 +5,118 @@
   "created": "2022-07-20T16:43:54.563304+00:00",
   "is_public": false,
   "modified": "2022-07-20T16:45:08.575463+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": null,
+      "created": "2022-07-22T14:52:24.156464+00:00",
+      "id": 789146,
+      "is_public": true,
+      "modified": "2022-07-22T14:52:24.156242+00:00",
+      "note": "Improved responsiveness on macOS during periods of high CPU load by switching to a modern lock API.",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2022-07-22T14:53:19.234566+00:00",
+      "id": 789147,
+      "is_public": true,
+      "modified": "2022-07-22T14:59:26.454965+00:00",
+      "note": "Do you always forget something? Required fields are now highlighted in PDF forms.",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2022-07-22T14:53:33.402370+00:00",
+      "id": 789148,
+      "is_public": true,
+      "modified": "2022-07-22T15:00:22.396174+00:00",
+      "note": "Improved performance on high-refresh rate monitors (120Hz+).",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2022-07-22T14:54:39.139790+00:00",
+      "id": 789149,
+      "is_public": true,
+      "modified": "2022-07-22T15:00:26.907066+00:00",
+      "note": "Enjoying [Picture-in-Picture][1] subtitles feature? It just got better: you can now change subtitles font size directly from the PiP window. Additionally, PiP subtitles are now available at Funimation, Dailymotion, Tubi, Hotstar, and SonyLIV.\r\n\r\n[1]: https://support.mozilla.org/en-US/kb/about-picture-picture-firefox",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2022-07-22T14:55:57.143670+00:00",
+      "id": 789150,
+      "is_public": true,
+      "modified": "2022-07-22T15:00:32.252917+00:00",
+      "note": "Buttons in the Tabs toolbar can now be reached with Tab, Shift+Tab, and Arrow keys. View [this article][1] for additional details.\r\n\r\n[1]: https://support.mozilla.org/en-US/kb/access-toolbar-functions-using-keyboard?_gl=1*16it7nj*_ga*MTEzNjg4MjY5NC4xNjQ1MjAxMDU3*_ga_MQ7767QQQW*MTY1Njk2MzExMS43LjEuMTY1Njk2MzIzMy4w",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2022-07-22T14:56:08.271464+00:00",
+      "id": 789151,
+      "is_public": true,
+      "modified": "2022-07-22T15:00:37.247610+00:00",
+      "note": "Windows' \"Make text bigger\" accessibility setting now affects all the UI and content pages, rather than only applying to system font sizes.",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2022-07-22T14:57:45.855765+00:00",
+      "id": 789152,
+      "is_public": true,
+      "modified": "2022-07-22T15:00:41.598702+00:00",
+      "note": "Rejoice! You can now conveniently access Firefox, which will now be pinned to the Windows taskbar during installation on Windows 10 and 11. (This will also allow for Firefox to be launched quicker after installing.)",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2022-07-22T14:58:49.764230+00:00",
+      "id": 789156,
+      "is_public": true,
+      "modified": "2022-07-22T15:01:04.309105+00:00",
+      "note": "Removed a configuration option to allow SHA-1 signatures in certificates: SHA-1 signatures in certificates\u2014long since determined to no longer be secure enough\u2014are now not supported.",
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
+      "bug": null,
+      "created": "2022-07-22T14:57:58.813560+00:00",
+      "id": 789153,
+      "is_public": true,
+      "modified": "2022-07-22T15:00:46.858755+00:00",
+      "note": "Non-breaking spaces are now preserved\u2014preventing automatic line breaks\u2014when copying text from a form control.",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2022-07-22T14:58:15.017797+00:00",
+      "id": 789154,
+      "is_public": true,
+      "modified": "2022-07-22T15:00:53.227533+00:00",
+      "note": "Fixed WebGL performance issues on NVIDIA binary drivers via DMA-Buf on Linux.",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2022-07-22T14:58:27.908012+00:00",
+      "id": 789155,
+      "is_public": true,
+      "modified": "2022-07-22T15:00:58.175246+00:00",
+      "note": "Fixed an issue in which Firefox startup could be significantly slowed down by the processing of Web content local storage. This had the greatest impact on users with platter hard drives and significant local storage.",
+      "sort_num": 0,
+      "tag": "Fixed"
+    }
+  ],
   "product": "Firefox",
   "release_date": "2022-07-26",
   "slug": "firefox-103.0-release",
