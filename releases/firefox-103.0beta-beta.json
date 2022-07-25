@@ -11,7 +11,7 @@
       "created": "2022-06-08T12:23:44.916411+00:00",
       "id": 789103,
       "is_public": true,
-      "modified": "2022-06-27T13:43:50.751170+00:00",
+      "modified": "2022-07-25T04:32:44.600722+00:00",
       "note": "Improved responsiveness on macOS during periods of high CPU load, by switching to a modern lock API.",
       "sort_num": 0,
       "tag": "New"
@@ -21,7 +21,7 @@
       "created": "2022-06-14T13:39:15.190633+00:00",
       "id": 789110,
       "is_public": true,
-      "modified": "2022-06-27T13:43:50.751170+00:00",
+      "modified": "2022-07-25T04:32:40.703696+00:00",
       "note": "Required fields are now highlighted in PDF forms.",
       "sort_num": 0,
       "tag": "New"
@@ -31,7 +31,7 @@
       "created": "2022-06-21T14:25:11.678168+00:00",
       "id": 789111,
       "is_public": true,
-      "modified": "2022-06-27T13:43:50.751170+00:00",
+      "modified": "2022-07-25T04:32:39.817107+00:00",
       "note": "Improved performance on high-refresh rate monitors (120Hz+)",
       "sort_num": 0,
       "tag": "New"
@@ -41,7 +41,7 @@
       "created": "2022-06-22T17:09:23.891193+00:00",
       "id": 789114,
       "is_public": true,
-      "modified": "2022-07-12T18:48:52.895919+00:00",
+      "modified": "2022-07-25T04:32:38.389167+00:00",
       "note": "Subtitles and captions for Picture-in-Picture are now available at Funimation, Dailymotion, Tubi, Hotstar, and SonyLIV.",
       "sort_num": 0,
       "tag": "New"
@@ -51,7 +51,7 @@
       "created": "2022-07-04T12:29:25.074635+00:00",
       "id": 789133,
       "is_public": true,
-      "modified": "2022-07-04T12:30:19.934954+00:00",
+      "modified": "2022-07-25T04:32:45.933088+00:00",
       "note": "Buttons in the Tabs toolbar can now be reached with Tab, Shift+Tab, and Arrow keys. Please see [this article][1] for additional details.\r\n\r\n\r\n  [1]: https://support.mozilla.org/en-US/kb/access-toolbar-functions-using-keyboard",
       "sort_num": 0,
       "tag": "New"
@@ -61,7 +61,7 @@
       "created": "2022-07-05T12:09:01.992575+00:00",
       "id": 789135,
       "is_public": true,
-      "modified": "2022-07-05T12:09:01.992374+00:00",
+      "modified": "2022-07-25T04:32:42.790662+00:00",
       "note": "Windows' \"Make text bigger\" accessibility setting now affects all the UI and content pages, rather than just affecting system font sizes.",
       "sort_num": 0,
       "tag": "New"
@@ -71,7 +71,7 @@
       "created": "2022-06-02T18:03:46.195139+00:00",
       "id": 789099,
       "is_public": true,
-      "modified": "2022-06-27T13:43:50.751170+00:00",
+      "modified": "2022-07-25T04:32:46.523104+00:00",
       "note": "Removed configuration option to allow SHA-1 signatures in certificates. SHA-1 signatures in certificates, long since determined to no longer be secure enough, are now not supported.",
       "sort_num": 0,
       "tag": "Changed"
@@ -81,7 +81,7 @@
       "created": "2022-06-06T13:24:57.546744+00:00",
       "id": 789102,
       "is_public": true,
-      "modified": "2022-06-27T13:43:50.751170+00:00",
+      "modified": "2022-07-25T04:32:45.319715+00:00",
       "note": "Non-breaking spaces are now preserved when copying text from a form control.",
       "sort_num": 0,
       "tag": "Fixed"
@@ -91,7 +91,7 @@
       "created": "2022-06-10T12:29:49.043397+00:00",
       "id": 789109,
       "is_public": true,
-      "modified": "2022-06-27T13:43:50.751170+00:00",
+      "modified": "2022-07-25T04:32:42.011017+00:00",
       "note": "Fixed WebGL performance issues on NVIDIA binary drivers via DMA-Buf on Linux.",
       "sort_num": 0,
       "tag": "Fixed"
