@@ -19,7 +19,7 @@
       },
       "id": 789143,
       "is_public": true,
-      "modified": "2022-07-07T15:48:23.234726+00:00",
+      "modified": "2022-07-25T14:39:27.818945+00:00",
       "note": "Subtitles are now available for Disney+ in Picture-in-Picture.",
       "sort_num": 0,
       "tag": "New"
@@ -29,7 +29,7 @@
       "created": "2022-07-21T12:09:01.809612+00:00",
       "id": 789145,
       "is_public": true,
-      "modified": "2022-07-21T12:09:01.809407+00:00",
+      "modified": "2022-07-25T14:39:44.633093+00:00",
       "note": "<!-- Nightly & Early Beta Only -->The PDF viewer allows text writing, drawing and signature",
       "sort_num": 0,
       "tag": "New"
@@ -46,8 +46,8 @@
         "version": "104.0a1"
       },
       "id": 789142,
-      "is_public": true,
-      "modified": "2022-07-22T18:29:28.196697+00:00",
+      "is_public": false,
+      "modified": "2022-07-25T14:38:52.303396+00:00",
       "note": "Cookies with `sameSite=none` must now also specify the secure attribute. Cookies are now only considered same-site if they use the same scheme (`http` or `https`). You can read more about it [here][1].\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Set-Cookie/SameSite",
       "sort_num": 0,
       "tag": "Developer"

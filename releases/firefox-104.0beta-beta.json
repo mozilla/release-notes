@@ -5,7 +5,36 @@
   "created": "2022-07-25T04:31:55.068790+00:00",
   "is_public": false,
   "modified": "2022-07-25T04:32:53.782057+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": 1766273,
+      "created": "2022-07-07T15:48:23.235002+00:00",
+      "fixed_in_release": {
+        "channel": "Nightly",
+        "is_public": true,
+        "product": "Firefox",
+        "slug": "firefox-104.0a1-nightly",
+        "title": "Firefox 104.0a1 Nightly",
+        "version": "104.0a1"
+      },
+      "id": 789143,
+      "is_public": true,
+      "modified": "2022-07-25T14:39:27.818945+00:00",
+      "note": "Subtitles are now available for Disney+ in Picture-in-Picture.",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1779389,
+      "created": "2022-07-21T12:09:01.809612+00:00",
+      "id": 789145,
+      "is_public": true,
+      "modified": "2022-07-25T14:39:44.633093+00:00",
+      "note": "<!-- Nightly & Early Beta Only -->The PDF viewer allows text writing, drawing and signature",
+      "sort_num": 0,
+      "tag": "New"
+    }
+  ],
   "product": "Firefox",
   "release_date": "2022-07-26",
   "slug": "firefox-104.0beta-beta",
