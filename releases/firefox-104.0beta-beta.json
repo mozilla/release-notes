@@ -33,6 +33,16 @@
       "note": "<!-- Nightly & Early Beta Only -->The PDF viewer allows text writing, drawing and signature",
       "sort_num": 0,
       "tag": "New"
+    },
+    {
+      "bug": 1530253,
+      "created": "2022-07-29T12:06:18.776709+00:00",
+      "id": 789166,
+      "is_public": true,
+      "modified": "2022-07-29T12:06:18.776497+00:00",
+      "note": "Firefox now supports `re-snapping`, it tries to keep the last snap position after any content/layout changes.",
+      "sort_num": 0,
+      "tag": "New"
     }
   ],
   "product": "Firefox",
