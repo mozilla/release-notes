@@ -11,7 +11,7 @@
       "created": "2022-07-05T07:05:15.375104+00:00",
       "id": 789134,
       "is_public": true,
-      "modified": "2022-07-05T07:05:49.852002+00:00",
+      "modified": "2022-07-29T21:37:28.015244+00:00",
       "note": "Reference link to [102.0 release notes][1]\r\n\t\r\n\r\n\r\n  [1]: https://www.mozilla.org/en-US/firefox/102.0/releasenotes/",
       "sort_num": 0,
       "tag": ""
@@ -21,7 +21,7 @@
       "created": "2022-07-05T14:11:51.067184+00:00",
       "id": 789136,
       "is_public": true,
-      "modified": "2022-07-12T11:36:51.591174+00:00",
+      "modified": "2022-07-29T21:37:34.634501+00:00",
       "note": "Fixed bookmark shortcut creation by dragging to Windows File Explorer and dropping partially broken ([bug 1774683][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1774683",
       "sort_num": 0,
       "tag": "Fixed"
@@ -31,7 +31,7 @@
       "created": "2022-07-05T14:13:35.374247+00:00",
       "id": 789137,
       "is_public": true,
-      "modified": "2022-07-12T11:36:41.759008+00:00",
+      "modified": "2022-07-29T21:37:33.810381+00:00",
       "note": "Fixed bookmarks sidebar flashing white when opened in dark mode ([bug 1776157][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1776157",
       "sort_num": 0,
       "tag": "Fixed"
@@ -41,7 +41,7 @@
       "created": "2022-07-05T14:17:57.828059+00:00",
       "id": 789138,
       "is_public": true,
-      "modified": "2022-07-12T11:36:17.674954+00:00",
+      "modified": "2022-07-29T21:37:32.333379+00:00",
       "note": "Fixed multilingual spell checking not working with content in both English and a non-Latin alphabet ([bug 1773802][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1773802",
       "sort_num": 0,
       "tag": "Fixed"
@@ -51,7 +51,7 @@
       "created": "2022-07-05T14:20:09.787351+00:00",
       "id": 789139,
       "is_public": true,
-      "modified": "2022-07-12T11:36:08.503230+00:00",
+      "modified": "2022-07-29T21:37:30.820662+00:00",
       "note": "Developer tools:  Fixed an issue where the console output keep getting scrolled to the bottom when the last visible message is an evaluation result ([bug 1776262][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1776262",
       "sort_num": 0,
       "tag": "Fixed"
@@ -61,7 +61,7 @@
       "created": "2022-07-05T14:29:31.888006+00:00",
       "id": 789140,
       "is_public": true,
-      "modified": "2022-07-12T11:36:00.280667+00:00",
+      "modified": "2022-07-29T21:37:29.955978+00:00",
       "note": "Fixed *Delete cookies and site data when Firefox is closed* checkbox getting disabled on startup ([bug 1777419][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1777419",
       "sort_num": 0,
       "tag": "Fixed"
@@ -71,7 +71,7 @@
       "created": "2022-07-06T12:54:16.054536+00:00",
       "id": 789141,
       "is_public": true,
-      "modified": "2022-07-12T11:35:51.485475+00:00",
+      "modified": "2022-07-29T21:37:29.050524+00:00",
       "note": "Various stability fixes",
       "sort_num": 0,
       "tag": "Fixed"
