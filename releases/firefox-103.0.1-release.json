@@ -5,7 +5,28 @@
   "created": "2022-07-29T21:37:00.204287+00:00",
   "is_public": false,
   "modified": "2022-07-29T21:38:04.523699+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": 1780889,
+      "created": "2022-07-30T02:55:06.333758+00:00",
+      "id": 789168,
+      "is_public": true,
+      "modified": "2022-07-30T02:55:06.333548+00:00",
+      "note": "Enabled hardware acceleration on newer AMD cards.",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1779036,
+      "created": "2022-07-30T02:54:26.133028+00:00",
+      "id": 789167,
+      "is_public": true,
+      "modified": "2022-07-30T02:54:26.132829+00:00",
+      "note": "Fixed a crash on Firefox shutdown caused by a bug in the audio manager.",
+      "sort_num": 0,
+      "tag": "Fixed"
+    }
+  ],
   "product": "Firefox",
   "release_date": "2022-08-01",
   "slug": "firefox-103.0.1-release",
