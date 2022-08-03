@@ -5,7 +5,38 @@
   "created": "2022-08-03T17:28:35.240821+00:00",
   "is_public": false,
   "modified": "2022-08-03T17:29:38.255811+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": 1776498,
+      "created": "2022-08-03T17:31:51.212250+00:00",
+      "id": 789169,
+      "is_public": true,
+      "modified": "2022-08-03T17:31:51.212050+00:00",
+      "note": "Fixed menu shortcuts for users of the JAWS screen reader.",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1779973,
+      "created": "2022-08-03T17:33:02.505243+00:00",
+      "id": 789170,
+      "is_public": true,
+      "modified": "2022-08-03T17:33:02.504933+00:00",
+      "note": "Fixed an occasional non-overridable certificate error when accessing device configuration pages.",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1781830,
+      "created": "2022-08-03T17:34:38.315444+00:00",
+      "id": 789171,
+      "is_public": true,
+      "modified": "2022-08-03T17:36:19.163020+00:00",
+      "note": "Fixed an issue with [Picture-in-Picture][1] displaying in fullscreen on macOS.\r\n\r\n[1]: https://support.mozilla.org/kb/about-picture-picture-firefox",
+      "sort_num": 0,
+      "tag": "Fixed"
+    }
+  ],
   "product": "Firefox",
   "release_date": "2022-08-09",
   "slug": "firefox-103.0.2-release",
