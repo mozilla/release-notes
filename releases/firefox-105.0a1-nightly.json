@@ -15,6 +15,16 @@
       "note": "<!-- Nightly & Early Beta Only -->The PDF viewer allows text writing, drawing and signature",
       "sort_num": 0,
       "tag": "New"
+    },
+    {
+      "bug": 1771712,
+      "created": "2022-08-12T17:12:15.694682+00:00",
+      "id": 789173,
+      "is_public": true,
+      "modified": "2022-08-12T17:12:15.694489+00:00",
+      "note": "Firefox is less likely to run out of memory on Linux and also performs better towards the rest of the system when memory is running low.",
+      "sort_num": 0,
+      "tag": "New"
     }
   ],
   "product": "Firefox",
