@@ -11,7 +11,7 @@
       "created": "2022-07-22T14:52:24.156464+00:00",
       "id": 789146,
       "is_public": true,
-      "modified": "2022-07-22T15:04:14.671951+00:00",
+      "modified": "2022-08-15T18:18:29.262594+00:00",
       "note": "Improved responsiveness on macOS during periods of high CPU load by switching to a modern lock API.",
       "sort_num": 100,
       "tag": "New"
@@ -21,7 +21,7 @@
       "created": "2022-07-22T14:53:19.234566+00:00",
       "id": 789147,
       "is_public": true,
-      "modified": "2022-07-22T15:04:29.973668+00:00",
+      "modified": "2022-08-15T18:18:35.492896+00:00",
       "note": "Do you always forget something? Required fields are now highlighted in PDF forms.",
       "sort_num": 90,
       "tag": "New"
@@ -31,7 +31,7 @@
       "created": "2022-07-22T14:53:33.402370+00:00",
       "id": 789148,
       "is_public": true,
-      "modified": "2022-07-22T15:04:47.268998+00:00",
+      "modified": "2022-08-15T18:18:30.786443+00:00",
       "note": "Improved performance on high-refresh rate monitors (120Hz+).",
       "sort_num": 80,
       "tag": "New"
@@ -41,7 +41,7 @@
       "created": "2022-07-22T14:54:39.139790+00:00",
       "id": 789149,
       "is_public": true,
-      "modified": "2022-07-22T15:04:58.749537+00:00",
+      "modified": "2022-08-15T18:18:31.736932+00:00",
       "note": "Enjoying [Picture-in-Picture][1] subtitles feature? It just got better: you can now change subtitles font size directly from the PiP window. Additionally, PiP subtitles are now available at Funimation, Dailymotion, Tubi, Hotstar, and SonyLIV.\r\n\r\n[1]: https://support.mozilla.org/en-US/kb/about-picture-picture-firefox",
       "sort_num": 70,
       "tag": "New"
@@ -51,7 +51,7 @@
       "created": "2022-07-22T14:55:57.143670+00:00",
       "id": 789150,
       "is_public": true,
-      "modified": "2022-07-22T15:05:11.559984+00:00",
+      "modified": "2022-08-15T18:18:33.026136+00:00",
       "note": "Buttons in the Tabs toolbar can now be reached with Tab, Shift+Tab, and Arrow keys. View [this article][1] for additional details.\r\n\r\n[1]: https://support.mozilla.org/en-US/kb/access-toolbar-functions-using-keyboard?_gl=1*16it7nj*_ga*MTEzNjg4MjY5NC4xNjQ1MjAxMDU3*_ga_MQ7767QQQW*MTY1Njk2MzExMS43LjEuMTY1Njk2MzIzMy4w",
       "sort_num": 60,
       "tag": "New"
@@ -61,7 +61,7 @@
       "created": "2022-07-22T14:56:08.271464+00:00",
       "id": 789151,
       "is_public": true,
-      "modified": "2022-07-22T15:05:23.322122+00:00",
+      "modified": "2022-08-15T18:18:33.884196+00:00",
       "note": "Windows' \"Make text bigger\" accessibility setting now affects all the UI and content pages, rather than only applying to system font sizes.",
       "sort_num": 50,
       "tag": "New"
@@ -71,7 +71,7 @@
       "created": "2022-07-22T14:57:45.855765+00:00",
       "id": 789152,
       "is_public": true,
-      "modified": "2022-07-22T15:05:35.436300+00:00",
+      "modified": "2022-08-15T18:18:24.477421+00:00",
       "note": "Rejoice! You can now conveniently access Firefox, which will now be pinned to the Windows taskbar during installation on Windows 10 and 11. (This will also allow for Firefox to be launched quicker after installing.)",
       "sort_num": 40,
       "tag": "New"
@@ -81,7 +81,7 @@
       "created": "2022-07-22T14:58:49.764230+00:00",
       "id": 789156,
       "is_public": true,
-      "modified": "2022-07-22T15:01:04.309105+00:00",
+      "modified": "2022-08-15T18:18:20.279012+00:00",
       "note": "Removed a configuration option to allow SHA-1 signatures in certificates: SHA-1 signatures in certificates\u2014long since determined to no longer be secure enough\u2014are now not supported.",
       "sort_num": 0,
       "tag": "Changed"
@@ -91,7 +91,7 @@
       "created": "2022-07-22T15:18:34.024817+00:00",
       "id": 789158,
       "is_public": true,
-      "modified": "2022-07-22T15:18:34.024505+00:00",
+      "modified": "2022-08-15T18:18:27.593936+00:00",
       "note": "Your information now has increased protection from online tracking via Total Cookie Protection enabled by default. All third-party cookies are now isolated into partitioned storage.",
       "sort_num": 0,
       "tag": "HTML5"
@@ -101,7 +101,7 @@
       "created": "2022-07-22T14:57:58.813560+00:00",
       "id": 789153,
       "is_public": true,
-      "modified": "2022-07-22T15:06:05.117317+00:00",
+      "modified": "2022-08-15T18:18:23.598225+00:00",
       "note": "Non-breaking spaces are now preserved\u2014preventing automatic line breaks\u2014when copying text from a form control.",
       "sort_num": 100,
       "tag": "Fixed"
@@ -111,7 +111,7 @@
       "created": "2022-07-22T14:58:15.017797+00:00",
       "id": 789154,
       "is_public": true,
-      "modified": "2022-07-22T15:06:31.260057+00:00",
+      "modified": "2022-08-15T18:18:22.799712+00:00",
       "note": "Fixed WebGL performance issues on NVIDIA binary drivers via DMA-Buf on Linux.",
       "sort_num": 90,
       "tag": "Fixed"
@@ -121,7 +121,7 @@
       "created": "2022-07-22T14:58:27.908012+00:00",
       "id": 789155,
       "is_public": true,
-      "modified": "2022-07-22T15:06:56.502915+00:00",
+      "modified": "2022-08-15T18:18:21.619594+00:00",
       "note": "Fixed an issue in which Firefox startup could be significantly slowed down by the processing of Web content local storage. This had the greatest impact on users with platter hard drives and significant local storage.",
       "sort_num": 80,
       "tag": "Fixed"
@@ -131,7 +131,7 @@
       "created": "2022-07-22T19:09:51.321165+00:00",
       "id": 789164,
       "is_public": true,
-      "modified": "2022-07-22T19:09:51.320977+00:00",
+      "modified": "2022-08-15T18:19:36.484456+00:00",
       "note": "Various [security][1] fixes.\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/mfsa2022-28/",
       "sort_num": 0,
       "tag": "Fixed"
@@ -141,7 +141,7 @@
       "created": "2022-07-22T15:14:36.975303+00:00",
       "id": 789157,
       "is_public": true,
-      "modified": "2022-07-22T15:15:40.740503+00:00",
+      "modified": "2022-08-15T18:19:00.545452+00:00",
       "note": "With the release of Firefox 103, we are pleased to welcome the developers who've contributed their first code changes to Firefox in this release; 12 of whom were first time contributors! Please join us in thanking each of these diligent and enthusiastic individuals, and take a look at their contributions:\r\n\r\n* martinh: [Bug 1475232][1]\r\n* Anthony Hung: [Bug 1774385][2]\r\n* Eng_Esther: [Bug 1741787][3]\r\n* Janika Neuberger: [Bug 1775011] [4]\r\n* Jason Prickett: [Bug 1770067][5]\r\n* Jon Gjengset: [Bug 1710421][6]\r\n* Pierre de La Morinerie: [Bug 359303][7]\r\n* Salil Mishra: [Bug 1771760][8]\r\n* Seweryn Pajor: [Bug 1769485][9]\r\n* Wong Yi Xiong: [Bug 1768675][10] and [Bug 1770545][11]\r\n* Zolt\u00e1n Szatm\u00e1ry: [Bug 1595635][12] and [Bug 1766821][13]\r\n* kingwl: [Bug 1704385][14]\r\n\r\n[1]:https://bugzilla.mozilla.org/show_bug.cgi?id=1475232\r\n[2]:https://bugzilla.mozilla.org/show_bug.cgi?id=1774385\r\n[3]:https://bugzilla.mozilla.org/show_bug.cgi?id=1741787\r\n[4]:https://bugzilla.mozilla.org/show_bug.cgi?id=1775011\r\n[5]:https://bugzilla.mozilla.org/show_bug.cgi?id=1770067\r\n[6]:https://bugzilla.mozilla.org/show_bug.cgi?id=1710421\r\n[7]: https://bugzilla.mozilla.org/show_bug.cgi?id=359303\r\n[8]:https://bugzilla.mozilla.org/show_bug.cgi?id=1771760\r\n[9]:https://bugzilla.mozilla.org/show_bug.cgi?id=1769485\r\n[10]:https://bugzilla.mozilla.org/show_bug.cgi?id=1768675\r\n[11]:https://bugzilla.mozilla.org/show_bug.cgi?id=1770545\r\n[12]:https://bugzilla.mozilla.org/show_bug.cgi?id=1595635\r\n[13]:https://bugzilla.mozilla.org/show_bug.cgi?id=1766821\r\n[14]:https://bugzilla.mozilla.org/show_bug.cgi?id=1704385",
       "sort_num": 0,
       "tag": "Community"
