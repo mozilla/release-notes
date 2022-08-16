@@ -25,6 +25,16 @@
       "note": "Firefox is less likely to run out of memory on Linux and also performs better towards the rest of the system when memory is running low.",
       "sort_num": 0,
       "tag": "New"
+    },
+    {
+      "bug": 1697226,
+      "created": "2022-08-16T22:34:59.275501+00:00",
+      "id": 789178,
+      "is_public": true,
+      "modified": "2022-08-16T22:34:59.275139+00:00",
+      "note": "Added an option to print only the current page from the print preview dialog",
+      "sort_num": 0,
+      "tag": "New"
     }
   ],
   "product": "Firefox",
