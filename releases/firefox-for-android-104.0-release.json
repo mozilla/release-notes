@@ -5,7 +5,58 @@
   "created": "2022-08-15T18:17:25.852906+00:00",
   "is_public": false,
   "modified": "2022-08-15T18:18:10.304189+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": null,
+      "created": "2022-08-17T02:30:24.356036+00:00",
+      "id": 789182,
+      "is_public": true,
+      "modified": "2022-08-17T02:30:24.355851+00:00",
+      "note": "Address autofill: Firefox will now remember and offer to fill common address forms. You can add, edit and manage your addresses in the Firefox settings.",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2022-08-17T02:30:46.929623+00:00",
+      "id": 789183,
+      "is_public": true,
+      "modified": "2022-08-17T02:30:46.929351+00:00",
+      "note": "Delete recent history: You can choose to delete browsing history from the last hour, two days or all history from the history screen.",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2022-08-17T02:31:31.467557+00:00",
+      "id": 789184,
+      "is_public": true,
+      "modified": "2022-08-17T02:31:31.467304+00:00",
+      "note": "A crash that happens when opening a link from an external app has been resolved.",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2022-08-17T02:31:51.541512+00:00",
+      "id": 789185,
+      "is_public": true,
+      "modified": "2022-08-17T02:31:51.541326+00:00",
+      "note": "LastPass password widget was placed in the wrong position. It will now appear just below the login field.",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2022-08-17T02:32:13.768364+00:00",
+      "id": 789186,
+      "is_public": true,
+      "modified": "2022-08-17T02:32:13.768185+00:00",
+      "note": "After bypassing the https only error page navigating back would take you to the error page that was previously dismissed. Back now takes you to the previous site that was visited.",
+      "sort_num": 0,
+      "tag": "Fixed"
+    }
+  ],
   "product": "Firefox for Android",
   "release_date": "2022-08-23",
   "slug": "firefox-for-android-104.0-release",
