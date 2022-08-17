@@ -4,8 +4,29 @@
   "channel": "Release",
   "created": "2022-08-15T18:17:25.782100+00:00",
   "is_public": false,
-  "modified": "2022-08-15T18:20:28.577041+00:00",
-  "notes": [],
+  "modified": "2022-08-17T02:29:31.527474+00:00",
+  "notes": [
+    {
+      "bug": null,
+      "created": "2022-08-17T02:27:05.709369+00:00",
+      "id": 789180,
+      "is_public": true,
+      "modified": "2022-08-17T02:27:05.709181+00:00",
+      "note": "Mobile bookmarks will now display first. When you open the bookmarks section, all bookmarks and folders you\u2019ve created on Firefox for iOS will be displayed first. The Bookmarks Menu, Bookmarks Toolbar and Unsorted Bookmarks folders are now nested under a new folder called Desktop Bookmarks. Bookmarks are saved to their appropriate root folder by default.",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2022-08-17T02:28:58.185319+00:00",
+      "id": 789181,
+      "is_public": true,
+      "modified": "2022-08-17T02:28:58.185142+00:00",
+      "note": "Sponsored shortcut URLs that you\u2019ve frequently visited will no longer appear as a shortcut on your Firefox for iOS homepage. If you\u2019ve visited a sponsored shortcut previously, it will still appear in your history.",
+      "sort_num": 0,
+      "tag": "Fixed"
+    }
+  ],
   "product": "Firefox for iOS",
   "release_date": "2022-08-23",
   "slug": "firefox-for-ios-104.0-release",
