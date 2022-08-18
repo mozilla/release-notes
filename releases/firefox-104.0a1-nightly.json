@@ -45,6 +45,16 @@
       "tag": "New"
     },
     {
+      "bug": 1774844,
+      "created": "2022-08-18T13:34:17.251473+00:00",
+      "id": 789188,
+      "is_public": true,
+      "modified": "2022-08-18T13:34:17.251121+00:00",
+      "note": "he Firefox profiler can analyze power usage of a website (Apple M1 and Windows 11 only).",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1750972,
       "created": "2022-07-06T13:52:04.703984+00:00",
       "fixed_in_release": {

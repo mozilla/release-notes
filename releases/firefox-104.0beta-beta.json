@@ -43,6 +43,26 @@
       "note": "Firefox now supports `re-snapping`, it tries to keep the last snap position after any content/layout changes.",
       "sort_num": 0,
       "tag": "New"
+    },
+    {
+      "bug": 1774844,
+      "created": "2022-08-18T13:34:17.251473+00:00",
+      "id": 789188,
+      "is_public": true,
+      "modified": "2022-08-18T13:34:17.251121+00:00",
+      "note": "he Firefox profiler can analyze power usage of a website (Apple M1 and Windows 11 only).",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1778091,
+      "created": "2022-08-18T13:30:41.933134+00:00",
+      "id": 789187,
+      "is_public": true,
+      "modified": "2022-08-18T13:31:05.120985+00:00",
+      "note": "Highlight color is preserved correctly after typing `Enter` in the mail composer of Yahoo Mail and Outlook.",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
