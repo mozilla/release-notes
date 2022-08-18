@@ -49,8 +49,18 @@
       "created": "2022-08-18T13:34:17.251473+00:00",
       "id": 789188,
       "is_public": true,
-      "modified": "2022-08-18T13:34:17.251121+00:00",
-      "note": "he Firefox profiler can analyze power usage of a website (Apple M1 and Windows 11 only).",
+      "modified": "2022-08-18T14:43:38.505771+00:00",
+      "note": "The Firefox profiler can analyze power usage of a website (Apple M1 and Windows 11 only).",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1779559,
+      "created": "2022-08-18T14:42:52.632706+00:00",
+      "id": 789189,
+      "is_public": true,
+      "modified": "2022-08-18T14:42:52.632526+00:00",
+      "note": "The Firefox UI itself will now be throttled for performance and battery usage when minimized or occluded, in the same way background tabs are.",
       "sort_num": 0,
       "tag": "New"
     },
