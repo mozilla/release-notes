@@ -81,6 +81,16 @@
       "note": "Cookies with `sameSite=none` must now also specify the secure attribute. Cookies are now only considered same-site if they use the same scheme (`http` or `https`). You can read more about it [here][1].\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Set-Cookie/SameSite",
       "sort_num": 0,
       "tag": "Developer"
+    },
+    {
+      "bug": 1762566,
+      "created": "2022-08-18T15:38:43.899485+00:00",
+      "id": 789190,
+      "is_public": true,
+      "modified": "2022-08-18T15:38:43.899252+00:00",
+      "note": "After bypassing the https only error page navigating back would take you to the error page that was previously dismissed. Back now takes you to the previous site that was visited.",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
