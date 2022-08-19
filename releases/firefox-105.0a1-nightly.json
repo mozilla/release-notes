@@ -17,16 +17,6 @@
       "tag": "New"
     },
     {
-      "bug": 1771712,
-      "created": "2022-08-12T17:12:15.694682+00:00",
-      "id": 789173,
-      "is_public": true,
-      "modified": "2022-08-18T17:40:45.361469+00:00",
-      "note": "Firefox is less likely to run out of memory on Linux and also performs better towards the rest of the system when memory is running low.",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
       "bug": 1697226,
       "created": "2022-08-16T22:34:59.275501+00:00",
       "id": 789178,
@@ -35,6 +25,36 @@
       "note": "Added an option to print only the current page from the print preview dialog",
       "sort_num": 0,
       "tag": "New"
+    },
+    {
+      "bug": 1771712,
+      "created": "2022-08-12T17:12:15.694682+00:00",
+      "id": 789173,
+      "is_public": true,
+      "modified": "2022-08-19T20:33:45.513729+00:00",
+      "note": "Firefox is less likely to run out of memory on Linux and also performs better towards the rest of the system when memory is running low.",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1716727,
+      "created": "2022-08-19T20:31:04.531487+00:00",
+      "id": 789191,
+      "is_public": true,
+      "modified": "2022-08-19T20:33:49.706298+00:00",
+      "note": "On Windows, Firefox itself will be more likely to survive briefly running out of memory, even if individual tabs crash.",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1770515,
+      "created": "2022-08-19T20:33:11.565154+00:00",
+      "id": 789192,
+      "is_public": true,
+      "modified": "2022-08-19T20:33:11.564894+00:00",
+      "note": "Touchpad scrolling on macOS was made easier by reducing unintended diagonal scrolling on the opposite axis of the intended scroll axis.",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
