@@ -83,6 +83,16 @@
       "note": "After bypassing the https only error page navigating back would take you to the error page that was previously dismissed. Back now takes you to the previous site that was visited.",
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": 968104,
+      "created": "2022-08-22T14:14:19.078130+00:00",
+      "id": 789193,
+      "is_public": true,
+      "modified": "2022-08-22T14:14:19.077889+00:00",
+      "note": "Paste unformatted shortcut (shift+ctrl/cmd+v) now works in plain text contexts, such as input and text area.",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",

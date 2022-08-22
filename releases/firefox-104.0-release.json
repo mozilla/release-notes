@@ -38,9 +38,9 @@
       "bug": null,
       "created": "2022-08-15T18:19:46.581513+00:00",
       "id": 789177,
-      "is_public": false,
-      "modified": "2022-08-16T23:25:37.851189+00:00",
-      "note": "Various [security][1] fixes.\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/",
+      "is_public": true,
+      "modified": "2022-08-22T14:18:47.475520+00:00",
+      "note": "Various [security][1] fixes.\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/mfsa2022-33/",
       "sort_num": 0,
       "tag": ""
     },
@@ -99,6 +99,16 @@
       "is_public": true,
       "modified": "2022-08-18T15:38:43.899252+00:00",
       "note": "After bypassing the https only error page navigating back would take you to the error page that was previously dismissed. Back now takes you to the previous site that was visited.",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 968104,
+      "created": "2022-08-22T14:14:19.078130+00:00",
+      "id": 789193,
+      "is_public": true,
+      "modified": "2022-08-22T14:14:19.077889+00:00",
+      "note": "Paste unformatted shortcut (shift+ctrl/cmd+v) now works in plain text contexts, such as input and text area.",
       "sort_num": 0,
       "tag": "Fixed"
     }

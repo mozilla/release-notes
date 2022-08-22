@@ -25,6 +25,16 @@
       "note": "Sponsored shortcut URLs that you\u2019ve frequently visited will no longer appear as a shortcut on your Firefox for iOS homepage. If you\u2019ve visited a sponsored shortcut previously, it will still appear in your history.",
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": 968104,
+      "created": "2022-08-22T14:14:19.078130+00:00",
+      "id": 789193,
+      "is_public": true,
+      "modified": "2022-08-22T14:14:19.077889+00:00",
+      "note": "Paste unformatted shortcut (shift+ctrl/cmd+v) now works in plain text contexts, such as input and text area.",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox for iOS",
