@@ -3,8 +3,8 @@
   "bug_search_url": "",
   "channel": "Release",
   "created": "2022-08-15T18:17:25.802352+00:00",
-  "is_public": false,
-  "modified": "2022-08-15T18:20:46.265302+00:00",
+  "is_public": true,
+  "modified": "2022-08-23T12:36:44.972745+00:00",
   "notes": [
     {
       "bug": 1766273,
@@ -69,7 +69,7 @@
       "created": "2022-08-16T23:28:21.943679+00:00",
       "fixed_in_release": {
         "channel": "Release",
-        "is_public": false,
+        "is_public": true,
         "product": "Firefox",
         "slug": "firefox-104.0-release",
         "title": "Firefox 104.0 Release",
