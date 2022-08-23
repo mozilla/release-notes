@@ -17,22 +17,22 @@
       "tag": "New"
     },
     {
+      "bug": 968104,
+      "created": "2022-08-22T14:14:19.078130+00:00",
+      "id": 789193,
+      "is_public": true,
+      "modified": "2022-08-23T13:15:05.313753+00:00",
+      "note": "Paste unformatted shortcut (shift+ctrl/cmd+v) now works in plain text contexts, such as input and text area.",
+      "sort_num": 30,
+      "tag": "Fixed"
+    },
+    {
       "bug": null,
       "created": "2022-08-17T02:28:58.185319+00:00",
       "id": 789181,
       "is_public": true,
       "modified": "2022-08-17T02:28:58.185142+00:00",
       "note": "Sponsored shortcut URLs that you\u2019ve frequently visited will no longer appear as a shortcut on your Firefox for iOS homepage. If you\u2019ve visited a sponsored shortcut previously, it will still appear in your history.",
-      "sort_num": 0,
-      "tag": "Fixed"
-    },
-    {
-      "bug": 968104,
-      "created": "2022-08-22T14:14:19.078130+00:00",
-      "id": 789193,
-      "is_public": true,
-      "modified": "2022-08-22T14:51:45.730842+00:00",
-      "note": "Paste unformatted shortcut (shift+ctrl/cmd+v) now works in plain text contexts, such as input and text area.",
       "sort_num": 0,
       "tag": "Fixed"
     }
