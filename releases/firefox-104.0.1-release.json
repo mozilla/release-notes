@@ -15,6 +15,16 @@
       "note": "Reference link to [104.0 release notes][1].\r\n\t\r\n\r\n\r\n  [1]: https://www.mozilla.org/firefox/104.0/releasenotes/",
       "sort_num": 20,
       "tag": ""
+    },
+    {
+      "bug": 1787293,
+      "created": "2022-08-29T18:50:21.306481+00:00",
+      "id": 789198,
+      "is_public": true,
+      "modified": "2022-08-29T18:50:21.306280+00:00",
+      "note": "Addresses an issue with Youtube video playback that was affecting some users.",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
