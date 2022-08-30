@@ -15,6 +15,16 @@
       "note": "<!-- Nightly & Early Beta Only -->The PDF viewer allows text writing, drawing and signature",
       "sort_num": 0,
       "tag": "New"
+    },
+    {
+      "bug": 1785983,
+      "created": "2022-08-30T07:18:29.818609+00:00",
+      "id": 789199,
+      "is_public": true,
+      "modified": "2022-08-30T07:18:29.818419+00:00",
+      "note": "<!-- Nightly only -->Firefox can now cache all accessibility information from all documents in the Firefox main process. This improves performance for screen readers and other applications which use accessibility APIs. This can be enabled in the *Nightly Experiments* section of *Settings*.",
+      "sort_num": 0,
+      "tag": "New"
     }
   ],
   "product": "Firefox",
