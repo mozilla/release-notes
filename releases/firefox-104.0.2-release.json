@@ -21,8 +21,8 @@
       "created": "2022-09-02T13:06:26.070285+00:00",
       "id": 789200,
       "is_public": true,
-      "modified": "2022-09-02T15:33:09.191663+00:00",
-      "note": "Fixed a bug making it impossible to use touch or a stylus to drag the scrollbar on pages.",
+      "modified": "2022-09-02T20:19:29.142989+00:00",
+      "note": "Fixed a bug making it impossible to use touch or a stylus to drag the scrollbar on pages ([bug 1787361][1]).\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1787361",
       "sort_num": 0,
       "tag": "Fixed"
     },
@@ -41,8 +41,8 @@
       "created": "2022-09-02T20:06:06.795755+00:00",
       "id": 789203,
       "is_public": true,
-      "modified": "2022-09-02T20:06:06.795355+00:00",
-      "note": "Fixed an issue that would sometimes affect video & audio playback when loaded into a cross-origin iframe.",
+      "modified": "2022-09-02T20:18:34.359202+00:00",
+      "note": "Fixed an issue that would sometimes affect video & audio playback when loaded into a cross-origin iframe ([bug 1781759][1]).\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1781759",
       "sort_num": 0,
       "tag": "Fixed"
     }
