@@ -45,6 +45,16 @@
       "note": "Touchpad scrolling on macOS was made easier by reducing unintended diagonal scrolling on the opposite axis of the intended scroll axis.",
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": 1787361,
+      "created": "2022-09-02T13:06:26.070285+00:00",
+      "id": 789200,
+      "is_public": true,
+      "modified": "2022-09-02T13:06:26.070083+00:00",
+      "note": "Fixed a bug making it impossible to use touch or a stylus to drag the scrollbar on pages.",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
