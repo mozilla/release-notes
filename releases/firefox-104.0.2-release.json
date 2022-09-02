@@ -25,6 +25,26 @@
       "note": "Fixed a bug making it impossible to use touch or a stylus to drag the scrollbar on pages.",
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": 1774155,
+      "created": "2022-09-02T20:02:07.282299+00:00",
+      "id": 789202,
+      "is_public": true,
+      "modified": "2022-09-02T20:02:07.281961+00:00",
+      "note": "Fixed an issue causing some users to crash in out-of-memory conditions ([bug 1774155][1]).\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1774155",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1781759,
+      "created": "2022-09-02T20:06:06.795755+00:00",
+      "id": 789203,
+      "is_public": true,
+      "modified": "2022-09-02T20:06:06.795355+00:00",
+      "note": "Fixed an issue that would sometimes affect video & audio playback when loaded into a cross-origin iframe.",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
