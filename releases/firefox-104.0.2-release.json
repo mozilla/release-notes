@@ -2,36 +2,26 @@
   "bug_list": "",
   "bug_search_url": "",
   "channel": "Release",
-  "created": "2022-08-29T14:29:40.674461+00:00",
-  "is_public": true,
-  "modified": "2022-08-30T12:31:45.980694+00:00",
+  "created": "2022-09-02T15:24:03.445780+00:00",
+  "is_public": false,
+  "modified": "2022-09-02T15:24:32.213409+00:00",
   "notes": [
     {
       "bug": null,
-      "created": "2022-08-29T14:30:57.814816+00:00",
-      "id": 789197,
+      "created": "2022-09-02T15:25:09.140900+00:00",
+      "id": 789201,
       "is_public": true,
-      "modified": "2022-09-02T15:24:57.499463+00:00",
-      "note": "Reference link to [104.0 release notes][1].\r\n\t\r\n\r\n\r\n  [1]: https://www.mozilla.org/firefox/104.0/releasenotes/",
+      "modified": "2022-09-02T15:25:27.663588+00:00",
+      "note": "Reference link to [104.0.1 release notes][1].\r\n\t\r\n\r\n\r\n  [1]: https://www.mozilla.org/firefox/104.0.1/releasenotes/",
       "sort_num": 20,
       "tag": ""
-    },
-    {
-      "bug": 1787293,
-      "created": "2022-08-29T18:50:21.306481+00:00",
-      "id": 789198,
-      "is_public": true,
-      "modified": "2022-09-02T15:24:17.119236+00:00",
-      "note": "Addresses an issue with Youtube video playback that was affecting some users.",
-      "sort_num": 0,
-      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
-  "release_date": "2022-08-30",
-  "slug": "firefox-104.0.1-release",
+  "release_date": "2022-09-06",
+  "slug": "firefox-104.0.2-release",
   "system_requirements": "## Windows\r\n\r\n### Operating Systems (32-bit and 64-bit)\r\n - Windows 7\r\n - Windows 8\r\n - Windows 10\r\n - Windows 11\r\n\r\n### Recommended Hardware\r\n-  Pentium 4 or newer processor that supports SSE2\r\n-  512MB of RAM / 2GB of RAM for the 64-bit version\r\n-  200MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- macOS 10.12\r\n- macOS 10.13\r\n- macOS 10.14\r\n- macOS 10.15\r\n- macOS 11\r\n- macOS 12\r\n\r\n### Recommended Hardware\r\n- Mac computer with an Intel x86 or Apple silicon processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - glibc 2.17 or higher\r\n    - GTK+ 3.14 or higher\r\n    - libstdc++ 4.8.1 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - DBus 1.0 or higher\r\n    - GNOME 2.16 or higher\r\n    - libxtst 1.2.3 or higher\r\n    - NetworkManager 0.7 or higher\r\n    - PulseAudio",
   "text": "",
-  "title": "Firefox 104.0.1 Release",
-  "version": "104.0.1"
+  "title": "Firefox 104.0.2 Release",
+  "version": "104.0.2"
 }
