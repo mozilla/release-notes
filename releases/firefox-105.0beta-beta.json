@@ -11,7 +11,7 @@
       "created": "2022-08-16T22:34:59.275501+00:00",
       "id": 789178,
       "is_public": true,
-      "modified": "2022-08-22T14:52:36.693692+00:00",
+      "modified": "2022-09-12T20:32:12.324528+00:00",
       "note": "Added an option to print only the current page from the print preview dialog",
       "sort_num": 0,
       "tag": "New"
@@ -21,7 +21,7 @@
       "created": "2022-08-12T17:12:15.694682+00:00",
       "id": 789173,
       "is_public": true,
-      "modified": "2022-08-22T14:52:40.891727+00:00",
+      "modified": "2022-09-12T20:32:11.628685+00:00",
       "note": "Firefox is less likely to run out of memory on Linux and also performs better towards the rest of the system when memory is running low.",
       "sort_num": 0,
       "tag": "Fixed"
@@ -31,7 +31,7 @@
       "created": "2022-08-19T20:31:04.531487+00:00",
       "id": 789191,
       "is_public": true,
-      "modified": "2022-08-22T14:52:31.849960+00:00",
+      "modified": "2022-09-12T20:32:10.852011+00:00",
       "note": "On Windows, Firefox itself will be more likely to survive briefly running out of memory, even if individual tabs crash.",
       "sort_num": 0,
       "tag": "Fixed"
@@ -41,18 +41,8 @@
       "created": "2022-08-19T20:33:11.565154+00:00",
       "id": 789192,
       "is_public": true,
-      "modified": "2022-08-22T14:52:26.846893+00:00",
+      "modified": "2022-09-12T20:32:13.195093+00:00",
       "note": "Touchpad scrolling on macOS was made easier by reducing unintended diagonal scrolling on the opposite axis of the intended scroll axis.",
-      "sort_num": 0,
-      "tag": "Fixed"
-    },
-    {
-      "bug": 1787361,
-      "created": "2022-09-02T13:06:26.070285+00:00",
-      "id": 789200,
-      "is_public": true,
-      "modified": "2022-09-02T20:19:29.142989+00:00",
-      "note": "Fixed a bug making it impossible to use touch or a stylus to drag the scrollbar on pages ([bug 1787361][1]).\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1787361",
       "sort_num": 0,
       "tag": "Fixed"
     }
