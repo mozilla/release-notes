@@ -4,7 +4,7 @@
   "channel": "ESR",
   "created": "2022-06-24T07:52:43.937738+00:00",
   "is_public": true,
-  "modified": "2022-06-28T12:24:38.104379+00:00",
+  "modified": "2022-09-12T20:24:26.262921+00:00",
   "notes": [
     {
       "bug": null,
@@ -27,11 +27,11 @@
       "tag": "Fixed"
     }
   ],
-  "product": "Firefox",
+  "product": "Firefox Extended Support Release",
   "release_date": "2022-06-28",
   "slug": "firefox-102.0esr-esr",
   "system_requirements": "## Windows\r\n\r\n### Operating Systems (32-bit and 64-bit)\r\n - Windows 7\r\n - Windows 8\r\n - Windows 10\r\n\r\n### Recommended Hardware\r\n-  Pentium 4 or newer processor that supports SSE2\r\n-  512MB of RAM / 2GB of RAM for the 64-bit version\r\n-  200MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- macOS 10.12\r\n- macOS 10.13\r\n- macOS 10.14\r\n- macOS 10.15\r\n- macOS 11\r\n\r\n### Recommended Hardware\r\n- Mac computer with an Intel x86 or Apple silicon processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - GTK+ 3.14 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n    - libstdc++ 4.8.1 or higher\r\n    - glibc 2.17 or higher\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - NetworkManager 0.7 or higher\r\n    - DBus 1.0 or higher\r\n    - GNOME 2.16 or higher\r\n    - PulseAudio",
   "text": "Firefox 102 Extended Support Release (ESR) includes all of the enhancements since Firefox 91, along with many new features to make your enterprise deployments easier and even more flexible.",
-  "title": "Firefox 102.0esr ESR",
+  "title": "Firefox Extended Support Release 102.0esr ESR",
   "version": "102.0esr"
 }
