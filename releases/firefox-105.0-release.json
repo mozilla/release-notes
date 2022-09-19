@@ -8,6 +8,56 @@
   "notes": [
     {
       "bug": null,
+      "created": "2022-09-19T14:15:19.941260+00:00",
+      "id": 789216,
+      "is_public": true,
+      "modified": "2022-09-19T14:15:19.941025+00:00",
+      "note": "Added an option to print only the current page from the print preview dialog.",
+      "sort_num": 50,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2022-09-19T14:15:03.697711+00:00",
+      "id": 789215,
+      "is_public": true,
+      "modified": "2022-09-19T14:15:03.697458+00:00",
+      "note": "Firefox now supports partitioned service workers in third-party contexts. You can register service workers in a third-party iframe and it will be partitioned under the top-level domain.",
+      "sort_num": 40,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2022-09-19T14:14:45.305937+00:00",
+      "id": 789214,
+      "is_public": true,
+      "modified": "2022-09-19T14:14:45.305753+00:00",
+      "note": "Swipe to navigate (two fingers on a touchpad swiped left or right to perform history back or forward) on Windows is now enabled.",
+      "sort_num": 30,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2022-09-19T14:14:25.302638+00:00",
+      "id": 789213,
+      "is_public": true,
+      "modified": "2022-09-19T14:14:25.302443+00:00",
+      "note": "Firefox is now compliant with the User Timing L3 specification, which adds additional optional arguments to the `performance.mark` and `performance.measure` methods to provide custom start times, end times, duration, and attached details.",
+      "sort_num": 20,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2022-09-19T14:13:41.068082+00:00",
+      "id": 789212,
+      "is_public": true,
+      "modified": "2022-09-19T14:13:41.067894+00:00",
+      "note": "Searching in large lists for individual items is now 2x faster. This performance enhancement replaces array.includes and array.indexOf with an optimized SIMD version.",
+      "sort_num": 10,
+      "tag": "New"
+    },
+    {
+      "bug": null,
       "created": "2022-09-19T14:09:20.491110+00:00",
       "id": 789208,
       "is_public": true,
@@ -33,6 +83,36 @@
       "note": "Various bug fixes and new policies have been implemented in the latest version of Firefox. You can find more information in the [Firefox for Enterprise 105 Release Notes][1].\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/firefox-enterprise-105-release-notes",
       "sort_num": 0,
       "tag": "Enterprise"
+    },
+    {
+      "bug": null,
+      "created": "2022-09-19T14:12:38.466385+00:00",
+      "id": 789211,
+      "is_public": true,
+      "modified": "2022-09-19T14:12:38.466086+00:00",
+      "note": "Stability on Windows is significantly improved as Firefox handles low-memory situations much better.",
+      "sort_num": 30,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2022-09-19T14:12:24.478516+00:00",
+      "id": 789210,
+      "is_public": true,
+      "modified": "2022-09-19T14:12:57.976112+00:00",
+      "note": "Touchpad scrolling on macOS was made more accessible by reducing unintended diagonal scrolling opposite of the intended scroll axis.",
+      "sort_num": 20,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2022-09-19T14:12:02.032292+00:00",
+      "id": 789209,
+      "is_public": true,
+      "modified": "2022-09-19T14:12:02.031937+00:00",
+      "note": "Firefox is less likely to run out of memory on Linux and performs more efficiently for the rest of the system when memory runs low.",
+      "sort_num": 10,
+      "tag": "Fixed"
     },
     {
       "bug": null,

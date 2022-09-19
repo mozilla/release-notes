@@ -8,6 +8,46 @@
   "notes": [
     {
       "bug": null,
+      "created": "2022-09-19T14:17:01.819128+00:00",
+      "id": 789220,
+      "is_public": true,
+      "modified": "2022-09-19T14:17:01.818884+00:00",
+      "note": "Updated interface font to use the Android default font.",
+      "sort_num": 10,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2022-09-19T14:16:45.561348+00:00",
+      "id": 789219,
+      "is_public": true,
+      "modified": "2022-09-19T14:16:45.561131+00:00",
+      "note": "Tabs shared from other Firefox devices will now open in Firefox.",
+      "sort_num": 30,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2022-09-19T14:16:30.442742+00:00",
+      "id": 789218,
+      "is_public": true,
+      "modified": "2022-09-19T14:16:30.442397+00:00",
+      "note": "Fixed downloads are duplicated when a user deletes the download and re-downloads the same file.",
+      "sort_num": 20,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2022-09-19T14:16:13.511053+00:00",
+      "id": 789217,
+      "is_public": true,
+      "modified": "2022-09-19T14:16:13.510812+00:00",
+      "note": "Fixed image and animation corruption on Pixel 6, 6 Pro, and 6a devices running Android 13.",
+      "sort_num": 10,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
       "created": "2022-09-12T20:34:16.602437+00:00",
       "id": 789206,
       "is_public": true,
