@@ -4,8 +4,36 @@
   "channel": "Release",
   "created": "2022-09-12T20:31:43.152715+00:00",
   "is_public": false,
-  "modified": "2022-09-12T20:34:17.960960+00:00",
+  "modified": "2022-09-19T14:07:47.512748+00:00",
   "notes": [
+    {
+      "bug": null,
+      "created": "2022-09-19T14:09:20.491110+00:00",
+      "id": 789208,
+      "is_public": true,
+      "modified": "2022-09-19T14:09:20.490916+00:00",
+      "note": "Support for the Offscreen Canvas DOM API with full context and font support. The [OffscreenCanvas API][1] provides a canvas that can be rendered off-screen in both Window and Web Worker contexts.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/API/OffscreenCanvas",
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": null,
+      "created": "2022-09-19T14:07:44.935968+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": true,
+        "product": "Firefox",
+        "slug": "firefox-104.0-release",
+        "title": "Firefox 104.0 Release",
+        "version": "104.0"
+      },
+      "id": 789207,
+      "is_public": true,
+      "modified": "2022-09-19T14:08:04.923683+00:00",
+      "note": "Various bug fixes and new policies have been implemented in the latest version of Firefox. You can find more information in the [Firefox for Enterprise 105 Release Notes][1].\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/firefox-enterprise-105-release-notes",
+      "sort_num": 0,
+      "tag": "Enterprise"
+    },
     {
       "bug": null,
       "created": "2022-09-12T20:34:16.602437+00:00",
