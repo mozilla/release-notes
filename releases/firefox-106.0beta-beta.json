@@ -15,6 +15,16 @@
       "note": "The PDF viewer allows text writing, drawing and signature.",
       "sort_num": 0,
       "tag": "New"
+    },
+    {
+      "bug": 1766646,
+      "created": "2022-09-20T12:52:03.371954+00:00",
+      "id": 789222,
+      "is_public": true,
+      "modified": "2022-09-20T12:57:28.542927+00:00",
+      "note": "Major improvements of our WebRTC capabilities (libwebrtc library upgraded from version 86 to 103) with multiple improvements:\r\n* Many RTP performance and reliability improvements.\r\n* Windows and Wayland screen sharing improvements.\r\n* Richer statistics.",
+      "sort_num": 0,
+      "tag": "HTML5"
     }
   ],
   "product": "Firefox",
