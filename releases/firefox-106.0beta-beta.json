@@ -5,7 +5,18 @@
   "created": "2022-09-12T20:31:43.108524+00:00",
   "is_public": false,
   "modified": "2022-09-12T20:32:14.891262+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": 1784272,
+      "created": "2022-07-21T12:09:01.809612+00:00",
+      "id": 789145,
+      "is_public": true,
+      "modified": "2022-09-20T12:33:52.902636+00:00",
+      "note": "The PDF viewer allows text writing, drawing and signature.",
+      "sort_num": 0,
+      "tag": "New"
+    }
+  ],
   "product": "Firefox",
   "release_date": "2022-09-20",
   "slug": "firefox-106.0beta-beta",
