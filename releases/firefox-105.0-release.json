@@ -11,7 +11,7 @@
       "created": "2022-09-19T14:15:19.941260+00:00",
       "id": 789216,
       "is_public": true,
-      "modified": "2022-09-19T14:15:19.941025+00:00",
+      "modified": "2022-09-22T17:11:04.524549+00:00",
       "note": "Added an option to print only the current page from the print preview dialog.",
       "sort_num": 50,
       "tag": "New"
@@ -21,7 +21,7 @@
       "created": "2022-09-19T14:15:03.697711+00:00",
       "id": 789215,
       "is_public": true,
-      "modified": "2022-09-19T14:15:03.697458+00:00",
+      "modified": "2022-09-22T17:10:57.163909+00:00",
       "note": "Firefox now supports partitioned service workers in third-party contexts. You can register service workers in a third-party iframe and it will be partitioned under the top-level domain.",
       "sort_num": 40,
       "tag": "New"
@@ -31,7 +31,7 @@
       "created": "2022-09-19T14:14:45.305937+00:00",
       "id": 789214,
       "is_public": true,
-      "modified": "2022-09-19T14:14:45.305753+00:00",
+      "modified": "2022-09-22T17:10:57.889234+00:00",
       "note": "Swipe to navigate (two fingers on a touchpad swiped left or right to perform history back or forward) on Windows is now enabled.",
       "sort_num": 30,
       "tag": "New"
@@ -41,7 +41,7 @@
       "created": "2022-09-19T14:14:25.302638+00:00",
       "id": 789213,
       "is_public": true,
-      "modified": "2022-09-19T14:14:25.302443+00:00",
+      "modified": "2022-09-22T17:10:58.551222+00:00",
       "note": "Firefox is now compliant with the User Timing L3 specification, which adds additional optional arguments to the `performance.mark` and `performance.measure` methods to provide custom start times, end times, duration, and attached details.",
       "sort_num": 20,
       "tag": "New"
@@ -51,7 +51,7 @@
       "created": "2022-09-19T14:13:41.068082+00:00",
       "id": 789212,
       "is_public": true,
-      "modified": "2022-09-19T14:13:41.067894+00:00",
+      "modified": "2022-09-22T17:10:59.516555+00:00",
       "note": "Searching in large lists for individual items is now 2x faster. This performance enhancement replaces array.includes and array.indexOf with an optimized SIMD version.",
       "sort_num": 10,
       "tag": "New"
@@ -61,7 +61,7 @@
       "created": "2022-09-19T14:09:20.491110+00:00",
       "id": 789208,
       "is_public": true,
-      "modified": "2022-09-19T14:09:20.490916+00:00",
+      "modified": "2022-09-22T17:11:02.381217+00:00",
       "note": "Support for the Offscreen Canvas DOM API with full context and font support. The [OffscreenCanvas API][1] provides a canvas that can be rendered off-screen in both Window and Web Worker contexts.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/API/OffscreenCanvas",
       "sort_num": 0,
       "tag": "HTML5"
@@ -71,7 +71,7 @@
       "created": "2022-09-19T14:12:38.466385+00:00",
       "id": 789211,
       "is_public": true,
-      "modified": "2022-09-19T14:12:38.466086+00:00",
+      "modified": "2022-09-22T17:11:00.226695+00:00",
       "note": "Stability on Windows is significantly improved as Firefox handles low-memory situations much better.",
       "sort_num": 30,
       "tag": "Fixed"
@@ -81,7 +81,7 @@
       "created": "2022-09-19T14:12:24.478516+00:00",
       "id": 789210,
       "is_public": true,
-      "modified": "2022-09-19T14:12:57.976112+00:00",
+      "modified": "2022-09-22T17:11:00.918063+00:00",
       "note": "Touchpad scrolling on macOS was made more accessible by reducing unintended diagonal scrolling opposite of the intended scroll axis.",
       "sort_num": 20,
       "tag": "Fixed"
@@ -91,7 +91,7 @@
       "created": "2022-09-19T14:12:02.032292+00:00",
       "id": 789209,
       "is_public": true,
-      "modified": "2022-09-19T14:12:02.031937+00:00",
+      "modified": "2022-09-22T17:11:01.634643+00:00",
       "note": "Firefox is less likely to run out of memory on Linux and performs more efficiently for the rest of the system when memory runs low.",
       "sort_num": 10,
       "tag": "Fixed"
@@ -101,7 +101,7 @@
       "created": "2022-09-12T20:34:16.602437+00:00",
       "id": 789206,
       "is_public": true,
-      "modified": "2022-09-20T12:57:24.235480+00:00",
+      "modified": "2022-09-22T17:11:03.757743+00:00",
       "note": "Various [security][1] fixes.\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/mfsa2022-40/",
       "sort_num": 0,
       "tag": "Fixed"
