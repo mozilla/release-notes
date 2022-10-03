@@ -5,7 +5,26 @@
   "created": "2022-09-12T20:31:43.183413+00:00",
   "is_public": true,
   "modified": "2022-09-19T14:21:00.470380+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": 1774317,
+      "created": "2022-10-03T14:40:10.562028+00:00",
+      "fixed_in_release": {
+        "channel": "Nightly",
+        "is_public": true,
+        "product": "Firefox",
+        "slug": "firefox-107.0a1-nightly",
+        "title": "Firefox 107.0a1 Nightly",
+        "version": "107.0a1"
+      },
+      "id": 789226,
+      "is_public": true,
+      "modified": "2022-10-03T14:40:10.561827+00:00",
+      "note": "Improved the performance of the case when Microsoft's IME and Defender retrieve the URL of a focused document in Windows 11 version 22H2.",
+      "sort_num": 0,
+      "tag": "New"
+    }
+  ],
   "product": "Firefox",
   "release_date": "2022-09-19",
   "slug": "firefox-107.0a1-nightly",
