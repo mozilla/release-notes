@@ -11,7 +11,7 @@
       "created": "2022-10-03T17:51:43.843977+00:00",
       "id": 789227,
       "is_public": true,
-      "modified": "2022-10-03T17:51:58.095229+00:00",
+      "modified": "2022-10-07T19:01:25.322606+00:00",
       "note": "Reference link to [105.0.1 release notes][1].\r\n\t\r\n\r\n\r\n  [1]: https://www.mozilla.org/firefox/105.0.1/releasenotes/",
       "sort_num": 0,
       "tag": ""
@@ -21,7 +21,7 @@
       "created": "2022-10-03T18:04:49.360795+00:00",
       "id": 789228,
       "is_public": true,
-      "modified": "2022-10-03T18:04:49.360607+00:00",
+      "modified": "2022-10-07T19:01:28.618281+00:00",
       "note": "Fixed poor contrast on various menu items with certain themes on Linux systems ([bug 1792063][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1792063",
       "sort_num": 50,
       "tag": "Fixed"
@@ -31,7 +31,7 @@
       "created": "2022-10-03T18:07:09.797977+00:00",
       "id": 789229,
       "is_public": true,
-      "modified": "2022-10-04T14:19:43.919091+00:00",
+      "modified": "2022-10-07T19:01:29.449095+00:00",
       "note": "Fixed the scrollbar appearing on the wrong side of `select` elements in right-to-left locales ([bug 1791219][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1791219",
       "sort_num": 40,
       "tag": "Fixed"
@@ -41,7 +41,7 @@
       "created": "2022-10-03T18:09:45.416580+00:00",
       "id": 789230,
       "is_public": true,
-      "modified": "2022-10-03T18:09:45.416404+00:00",
+      "modified": "2022-10-07T19:01:30.175377+00:00",
       "note": "Fixed a possible deadlock when loading some sites in Troubleshoot Mode ([bug 1786259][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1786259",
       "sort_num": 30,
       "tag": "Fixed"
@@ -51,7 +51,7 @@
       "created": "2022-10-03T18:10:16.390771+00:00",
       "id": 789231,
       "is_public": true,
-      "modified": "2022-10-05T15:05:31.286545+00:00",
+      "modified": "2022-10-07T19:01:31.185575+00:00",
       "note": "Fixed a bug causing some dynamic appearance changes to not appear when expected ([bug 1786521][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1786521",
       "sort_num": 20,
       "tag": "Fixed"
@@ -61,7 +61,7 @@
       "created": "2022-10-03T18:17:18.737656+00:00",
       "id": 789232,
       "is_public": true,
-      "modified": "2022-10-03T18:17:18.737483+00:00",
+      "modified": "2022-10-07T19:01:27.531047+00:00",
       "note": "Fixed a bug causing theme styling to not be properly applied to sidebars for some add-ons in Private Browsing Mode ([bug 1787543][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1787543",
       "sort_num": 10,
       "tag": "Fixed"
