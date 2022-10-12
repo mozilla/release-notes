@@ -2,26 +2,26 @@
   "bug_list": "",
   "bug_search_url": "",
   "channel": "ESR",
-  "created": "2022-09-12T20:25:20.737946+00:00",
-  "is_public": true,
-  "modified": "2022-09-20T12:38:51.575590+00:00",
+  "created": "2022-10-12T13:50:36.442881+00:00",
+  "is_public": false,
+  "modified": "2022-10-12T13:53:11.939533+00:00",
   "notes": [
     {
       "bug": null,
-      "created": "2022-09-12T20:28:22.358928+00:00",
-      "id": 789205,
+      "created": "2022-10-12T13:52:40.552426+00:00",
+      "id": 789235,
       "is_public": true,
-      "modified": "2022-10-12T13:52:11.570484+00:00",
-      "note": "Various stability, functionality, and [security][1] fixes.\r\n\t\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/mfsa2022-41/",
+      "modified": "2022-10-12T13:52:40.552248+00:00",
+      "note": "Various stability, functionality, and [security][1] fixes.\r\n\t\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/",
       "sort_num": 0,
       "tag": "Fixed"
     }
   ],
   "product": "Firefox Extended Support Release",
-  "release_date": "2022-09-20",
-  "slug": "firefox-102.3.0-esr",
+  "release_date": "2022-10-18",
+  "slug": "firefox-102.4.0-esr",
   "system_requirements": "## Windows\r\n\r\n### Operating Systems (32-bit and 64-bit)\r\n - Windows 7\r\n - Windows 8\r\n - Windows 10\r\n\r\n### Recommended Hardware\r\n-  Pentium 4 or newer processor that supports SSE2\r\n-  512MB of RAM / 2GB of RAM for the 64-bit version\r\n-  200MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- macOS 10.12\r\n- macOS 10.13\r\n- macOS 10.14\r\n- macOS 10.15\r\n- macOS 11\r\n\r\n### Recommended Hardware\r\n- Mac computer with an Intel x86 or Apple silicon processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - GTK+ 3.14 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n    - libstdc++ 4.8.1 or higher\r\n    - glibc 2.17 or higher\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - NetworkManager 0.7 or higher\r\n    - DBus 1.0 or higher\r\n    - GNOME 2.16 or higher\r\n    - PulseAudio",
   "text": "",
-  "title": "Firefox Extended Support Release 102.3.0 ESR",
-  "version": "102.3.0"
+  "title": "Firefox Extended Support Release 102.4.0 ESR",
+  "version": "102.4.0"
 }
