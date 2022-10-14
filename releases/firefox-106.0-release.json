@@ -55,6 +55,36 @@
       "note": "Text Recognition in images allows users on macOS 10.15 and higher to extract text from the selected image (such as a meme or screenshot). \r\n\r\nExtracted text is copied to the clipboard in order to share, store, or search\u2014without needing to manually retype everything. \r\n\r\n - This feature is compatible with \u201cVoiceOver,\u201d the built-in macOS\r\n   screen reader. \r\n - For more information, check out our [SUMO article][1].\r\n\r\n\r\n  [1]: https://support.mozilla.org/en-US/kb/text-recognition",
       "sort_num": 0,
       "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2022-10-14T13:32:33.650706+00:00",
+      "id": 789241,
+      "is_public": true,
+      "modified": "2022-10-14T13:32:33.650339+00:00",
+      "note": "\u201c[Firefox View\u201d][1] helps you get back to content you previously discovered. A pinned tab allows you to find and open recently closed tabs on your current device, access tabs from other devices (via our \u201cTab Pickup\u201d feature), and change the look of the browser (with [Colorways][2]). \r\n\r\n - For more information, read our [SUMO article][1].\r\n\r\n\r\n  [1]: https://support.mozilla.org/en-US/kb/how-set-tab-pickup-firefox-view\r\n  [2]: https://support.mozilla.org/en-US/kb/personalize-firefox-colorways",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2022-10-14T13:35:21.032370+00:00",
+      "id": 789242,
+      "is_public": true,
+      "modified": "2022-10-14T13:35:21.032186+00:00",
+      "note": "With the launch of the \u201cIndependent Voices\u201d collection, Firefox is introducing 18 new \u201c[Colorways][1].\u201d You can now access a \u201c[Colorways][1]\u201d modal experience via \u201c[Firefox View][2];\u201d each new color is accompanied with a bespoke graphic and a text description that speaks to its deeper meaning. The collection will be available through Jan 16. \r\n\r\n - For more information, check out our SUMO article.\r\n\r\n\r\n  [1]: https://support.mozilla.org/en-US/kb/personalize-firefox-colorways\r\n  [2]: https://support.mozilla.org/en-US/kb/how-set-tab-pickup-firefox-view",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1766646,
+      "created": "2022-09-20T12:52:03.371954+00:00",
+      "id": 789222,
+      "is_public": true,
+      "modified": "2022-10-14T13:37:10.402627+00:00",
+      "note": "A major upgrade to our WebRTC capabilities (libwebrtc library upgraded from version 86 to 103) brings multiple improvements:\r\n\r\n* Better screen sharing for Windows and Linux Wayland users.\r\n* Lower CPU usage and increased frame rates during WebRTC screen capture on macOS.\r\n* RTP performance and reliability improvements.\r\n* Richer statistics.\r\n* Cross-browser and service compatibility improvements.",
+      "sort_num": 0,
+      "tag": "HTML5"
     }
   ],
   "product": "Firefox",
