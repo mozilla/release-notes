@@ -85,6 +85,16 @@
       "note": "A major upgrade to our WebRTC capabilities (libwebrtc library upgraded from version 86 to 103) brings multiple improvements:\r\n\r\n* Better screen sharing for Windows and Linux Wayland users.\r\n* Lower CPU usage and increased frame rates during WebRTC screen capture on macOS.\r\n* RTP performance and reliability improvements.\r\n* Richer statistics.\r\n* Cross-browser and service compatibility improvements.",
       "sort_num": 0,
       "tag": "HTML5"
+    },
+    {
+      "bug": null,
+      "created": "2022-10-14T14:27:36.588047+00:00",
+      "id": 789243,
+      "is_public": true,
+      "modified": "2022-10-14T14:27:36.587865+00:00",
+      "note": "With the release of Firefox 106, we are honored to welcome all the contributors who've volunteered their time and talent to make Firefox better\u201414 of them were brand new volunteers. Please join us in expressing our gratitude for their efforts, and take a look at their contributions:\r\n\r\n- amabb: [Bug 1739381][1] \r\n- aw4910819: [Bug 1573830][1]\r\n- axtinemvsn: [Bug 1788765][1] and [Bug 1788927][1]\r\n- b1: [Bug 1788901][1]\r\n- justchenabc: [Bug 1789765][1]\r\n- samronning: [Bug 1786402][1]\r\n- Alvin: [Bug 1788931][1]\r\n- Avery: [Bug 1788780][1]\r\n- Basix: [Bug 1787280][1]\r\n- Brian Pham: [Bug 1788776][1]\r\n- Byoungchan Lee: [Bug 1785953][1]\r\n- Eugene Simakin: [Bug 1595119][1]\r\n- Pat McGhen: [Bug 1743334][1]\r\n- Zach Harris: [Bug 1788769][1] \r\n\r\n\r\n\r\n  [1]: https://bugzil.la/1739381\r\n  [2]: https://bugzil.la/1573830\r\n  [3]: https://bugzil.la/1788765\r\n  [4]: https://bugzil.la/1788927\r\n  [5]: https://bugzil.la/1788901\r\n  [6]: https://bugzil.la/1789765\r\n  [7]: https://bugzil.la/1786402\r\n  [8]: https://bugzil.la/1788931\r\n  [9]: https://bugzil.la/1788780\r\n  [10]: https://bugzil.la/1787280\r\n  [11]: https://bugzil.la/1788776\r\n  [12]: https://bugzil.la/1785953\r\n  [13]: https://bugzil.la/1595119\r\n  [14]: https://bugzil.la/1743334\r\n  [15]: https://bugzil.la/1788769",
+      "sort_num": 0,
+      "tag": "Community"
     }
   ],
   "product": "Firefox",

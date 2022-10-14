@@ -5,7 +5,48 @@
   "created": "2022-10-14T07:42:56.139804+00:00",
   "is_public": false,
   "modified": "2022-10-14T07:43:19.914453+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": null,
+      "created": "2022-10-14T14:28:41.249991+00:00",
+      "id": 789244,
+      "is_public": true,
+      "modified": "2022-10-14T14:28:41.249801+00:00",
+      "note": "Wallpapers are now available for the \u201cIndependent Voices\u201d collection.",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2022-10-14T14:28:50.963094+00:00",
+      "id": 789245,
+      "is_public": true,
+      "modified": "2022-10-14T14:28:50.962920+00:00",
+      "note": "Recent sync tabs will now appear in the \u201cJump Back In\u201d section of the homepage. This provides the user quick access to tabs from other devices.",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2022-10-14T14:29:50.854682+00:00",
+      "id": 789246,
+      "is_public": true,
+      "modified": "2022-10-14T14:29:50.854504+00:00",
+      "note": "Fixed several fixes to defective overscroll effects.",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2022-10-14T14:30:08.963818+00:00",
+      "id": 789247,
+      "is_public": true,
+      "modified": "2022-10-14T14:30:08.963641+00:00",
+      "note": "Fixed a crash when OS returns a SecurityException for autofill results.",
+      "sort_num": 0,
+      "tag": "Fixed"
+    }
+  ],
   "product": "Firefox for Android",
   "release_date": "2022-10-18",
   "slug": "firefox-for-android-106.0-release",
