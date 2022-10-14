@@ -45,6 +45,26 @@
       "note": "Fixed a crash when OS returns a SecurityException for autofill results.",
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2022-10-14T14:30:26.093128+00:00",
+      "id": 789248,
+      "is_public": true,
+      "modified": "2022-10-14T14:30:26.092942+00:00",
+      "note": "Fixed a crash when selecting a time in a web form.",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2022-10-14T14:30:33.987730+00:00",
+      "id": 789249,
+      "is_public": true,
+      "modified": "2022-10-14T14:30:33.987556+00:00",
+      "note": "Fixed an OOM crash when having ~30 tabs open at one time.",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox for Android",
