@@ -65,6 +65,16 @@
       "note": "Fixed an OOM crash when having ~30 tabs open at one time.",
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2022-10-17T10:26:33.830109+00:00",
+      "id": 789255,
+      "is_public": true,
+      "modified": "2022-10-17T10:26:33.829932+00:00",
+      "note": "Various [security][1] fixes.\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/mfsa2022-44/",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox for Android",
