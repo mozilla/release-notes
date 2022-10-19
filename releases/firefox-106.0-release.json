@@ -11,7 +11,7 @@
       "created": "2022-10-14T13:27:08.259946+00:00",
       "id": 789236,
       "is_public": true,
-      "modified": "2022-10-14T13:27:08.259770+00:00",
+      "modified": "2022-10-19T22:19:50.118605+00:00",
       "note": "It is now possible to edit PDFs: including writing text, drawing, and adding signatures.",
       "sort_num": 0,
       "tag": "New"
@@ -21,7 +21,7 @@
       "created": "2022-10-14T13:27:38.438223+00:00",
       "id": 789237,
       "is_public": true,
-      "modified": "2022-10-14T13:27:38.438022+00:00",
+      "modified": "2022-10-19T22:19:48.870008+00:00",
       "note": "Setting Firefox as your default browser now also makes it the default PDF application on Windows systems.",
       "sort_num": 0,
       "tag": "New"
@@ -31,7 +31,7 @@
       "created": "2022-10-14T13:28:02.285562+00:00",
       "id": 789238,
       "is_public": true,
-      "modified": "2022-10-14T14:05:02.125731+00:00",
+      "modified": "2022-10-19T22:19:47.195529+00:00",
       "note": "You can now pin private windows to your Windows taskbar on Window 10 and Windows 11 for simpler access. Also, private windows have been redesigned to increase the feeling of privacy.\r\n\r\n![Private browsing screenshot][1]\r\n\r\n  [1]: /media/img/firefox/releasenotes/note-images/106_private_browsing.png",
       "sort_num": 0,
       "tag": "New"
@@ -41,7 +41,7 @@
       "created": "2022-10-14T13:28:21.920093+00:00",
       "id": 789239,
       "is_public": true,
-      "modified": "2022-10-14T13:28:21.919919+00:00",
+      "modified": "2022-10-19T22:19:36.077780+00:00",
       "note": "Swipe-to-navigate (two fingers on a touchpad swiped left or right to perform history back or forward) now works for Linux users on Wayland.",
       "sort_num": 0,
       "tag": "New"
@@ -51,7 +51,7 @@
       "created": "2022-10-14T13:30:12.739358+00:00",
       "id": 789240,
       "is_public": true,
-      "modified": "2022-10-17T16:20:12.317103+00:00",
+      "modified": "2022-10-19T22:19:34.445094+00:00",
       "note": "Text Recognition in images allows users on macOS 10.15 and higher to extract text from the selected image (such as a meme or screenshot). \r\n\r\nExtracted text is copied to the clipboard in order to share, store, or search\u2014without needing to manually retype everything. \r\n\r\n - This feature is compatible with \u201cVoiceOver,\u201d the built-in macOS\r\n   screen reader. \r\n - For more information, check out our [SUMO article][1].\r\n\r\n![Text Regcognition feature on macOS screenshot][2]\r\n\r\n\r\n  [1]: https://support.mozilla.org/en-US/kb/text-recognition\r\n  [2]: /media/img/firefox/releasenotes/note-images/106_text_recognition.png",
       "sort_num": 0,
       "tag": "New"
@@ -61,7 +61,7 @@
       "created": "2022-10-14T13:32:33.650706+00:00",
       "id": 789241,
       "is_public": true,
-      "modified": "2022-10-17T15:35:13.039526+00:00",
+      "modified": "2022-10-19T22:19:33.676443+00:00",
       "note": "\u201c[Firefox View][1]\u201d helps you get back to content you previously discovered. A pinned tab allows you to find and open recently closed tabs on your current device, access tabs from other devices (via our \u201cTab Pickup\u201d feature), and change the look of the browser (with [Colorways][2]). \r\n\r\n - For more information, read our [SUMO article][1].\r\n\r\n\r\n![Firefox View screenshot][3]\r\n\r\n\r\n  [1]: https://support.mozilla.org/en-US/kb/how-set-tab-pickup-firefox-view\r\n  [2]: https://support.mozilla.org/en-US/kb/personalize-firefox-colorways\r\n  [3]: /media/img/firefox/releasenotes/note-images/106_firefox_view.png",
       "sort_num": 0,
       "tag": "New"
@@ -71,7 +71,7 @@
       "created": "2022-10-14T13:35:21.032370+00:00",
       "id": 789242,
       "is_public": true,
-      "modified": "2022-10-17T12:00:58.417928+00:00",
+      "modified": "2022-10-19T22:19:32.850752+00:00",
       "note": "With the launch of the \u201cIndependent Voices\u201d collection, Firefox is introducing 18 new \u201c[Colorways][1].\u201d You can now access a \u201c[Colorways][1]\u201d modal experience via \u201c[Firefox View][2]\u201d; each new color is accompanied with a bespoke graphic and a text description that speaks to its deeper meaning. The collection will be available through Jan 16. \r\n\r\n - For more information, check out our [SUMO article][1].\r\n\r\n![Colorways screenshot][3]\r\n\r\n\r\n  [1]: https://support.mozilla.org/en-US/kb/personalize-firefox-colorways\r\n  [2]: https://support.mozilla.org/en-US/kb/how-set-tab-pickup-firefox-view\r\n  [3]: /media/img/firefox/releasenotes/note-images/106_colorways.gif",
       "sort_num": 0,
       "tag": "New"
@@ -81,7 +81,7 @@
       "created": "2022-09-20T12:52:03.371954+00:00",
       "id": 789222,
       "is_public": true,
-      "modified": "2022-10-14T13:37:10.402627+00:00",
+      "modified": "2022-10-19T22:19:52.756130+00:00",
       "note": "A major upgrade to our WebRTC capabilities (libwebrtc library upgraded from version 86 to 103) brings multiple improvements:\r\n\r\n* Better screen sharing for Windows and Linux Wayland users.\r\n* Lower CPU usage and increased frame rates during WebRTC screen capture on macOS.\r\n* RTP performance and reliability improvements.\r\n* Richer statistics.\r\n* Cross-browser and service compatibility improvements.",
       "sort_num": 0,
       "tag": "HTML5"
@@ -91,7 +91,7 @@
       "created": "2022-10-17T10:26:33.830109+00:00",
       "id": 789255,
       "is_public": true,
-      "modified": "2022-10-17T10:26:33.829932+00:00",
+      "modified": "2022-10-19T22:19:51.966891+00:00",
       "note": "Various [security][1] fixes.\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/mfsa2022-44/",
       "sort_num": 0,
       "tag": "Fixed"
@@ -101,7 +101,7 @@
       "created": "2022-10-14T14:27:36.588047+00:00",
       "id": 789243,
       "is_public": true,
-      "modified": "2022-10-18T18:52:46.871364+00:00",
+      "modified": "2022-10-19T22:19:31.959145+00:00",
       "note": "With the release of Firefox 106, we are honored to welcome all the contributors who've volunteered their time and talent to make Firefox better\u201414 of them were brand new volunteers. Please join us in expressing our gratitude for their efforts, and take a look at their contributions:\r\n\r\n- amabb: [Bug 1739381][1] \r\n- aw4910819: [Bug 1573830][2]\r\n- axtinemvsn: [Bug 1788765][3] and [Bug 1788927][4]\r\n- b1: [Bug 1788901][5]\r\n- justchenabc: [Bug 1789765][6]\r\n- samronning: [Bug 1786402][7]\r\n- Alvin: [Bug 1788931][8]\r\n- Avery: [Bug 1788780][9]\r\n- Basix: [Bug 1787280][10]\r\n- Brian Pham: [Bug 1788776][11]\r\n- Byoungchan Lee: [Bug 1785953][12]\r\n- Eugene Simakin: [Bug 1595119][13]\r\n- Pat McGhen: [Bug 1743334][14]\r\n- Zach Harris: [Bug 1788769][15] \r\n\r\n\r\n\r\n  [1]: https://bugzil.la/1739381\r\n  [2]: https://bugzil.la/1573830\r\n  [3]: https://bugzil.la/1788765\r\n  [4]: https://bugzil.la/1788927\r\n  [5]: https://bugzil.la/1788901\r\n  [6]: https://bugzil.la/1789765\r\n  [7]: https://bugzil.la/1786402\r\n  [8]: https://bugzil.la/1788931\r\n  [9]: https://bugzil.la/1788780\r\n  [10]: https://bugzil.la/1787280\r\n  [11]: https://bugzil.la/1788776\r\n  [12]: https://bugzil.la/1785953\r\n  [13]: https://bugzil.la/1595119\r\n  [14]: https://bugzil.la/1743334\r\n  [15]: https://bugzil.la/1788769",
       "sort_num": 0,
       "tag": "Community"
@@ -111,7 +111,7 @@
       "created": "2022-10-19T18:19:46.273528+00:00",
       "id": 789257,
       "is_public": true,
-      "modified": "2022-10-19T18:20:25.394355+00:00",
+      "modified": "2022-10-19T22:19:51.027950+00:00",
       "note": "We are investigating an increase in crashes reported by users with AMD Zen 1 CPUs.",
       "sort_num": 0,
       "tag": "Known"
