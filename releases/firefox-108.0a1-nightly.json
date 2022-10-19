@@ -5,7 +5,26 @@
   "created": "2022-10-14T14:21:40.241207+00:00",
   "is_public": true,
   "modified": "2022-10-17T14:47:31.937279+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": 488800,
+      "created": "2022-10-19T13:14:14.673533+00:00",
+      "fixed_in_release": {
+        "channel": "Nightly",
+        "is_public": true,
+        "product": "Firefox",
+        "slug": "firefox-108.0a1-nightly",
+        "title": "Firefox 108.0a1 Nightly",
+        "version": "108.0a1"
+      },
+      "id": 789256,
+      "is_public": true,
+      "modified": "2022-10-19T13:14:14.673292+00:00",
+      "note": "Firefox now supports properly color correcting images tagged with ICCv4 profiles.",
+      "sort_num": 10,
+      "tag": "New"
+    }
+  ],
   "product": "Firefox",
   "release_date": "2022-10-17",
   "slug": "firefox-108.0a1-nightly",
