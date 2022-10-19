@@ -105,6 +105,16 @@
       "note": "With the release of Firefox 106, we are honored to welcome all the contributors who've volunteered their time and talent to make Firefox better\u201414 of them were brand new volunteers. Please join us in expressing our gratitude for their efforts, and take a look at their contributions:\r\n\r\n- amabb: [Bug 1739381][1] \r\n- aw4910819: [Bug 1573830][2]\r\n- axtinemvsn: [Bug 1788765][3] and [Bug 1788927][4]\r\n- b1: [Bug 1788901][5]\r\n- justchenabc: [Bug 1789765][6]\r\n- samronning: [Bug 1786402][7]\r\n- Alvin: [Bug 1788931][8]\r\n- Avery: [Bug 1788780][9]\r\n- Basix: [Bug 1787280][10]\r\n- Brian Pham: [Bug 1788776][11]\r\n- Byoungchan Lee: [Bug 1785953][12]\r\n- Eugene Simakin: [Bug 1595119][13]\r\n- Pat McGhen: [Bug 1743334][14]\r\n- Zach Harris: [Bug 1788769][15] \r\n\r\n\r\n\r\n  [1]: https://bugzil.la/1739381\r\n  [2]: https://bugzil.la/1573830\r\n  [3]: https://bugzil.la/1788765\r\n  [4]: https://bugzil.la/1788927\r\n  [5]: https://bugzil.la/1788901\r\n  [6]: https://bugzil.la/1789765\r\n  [7]: https://bugzil.la/1786402\r\n  [8]: https://bugzil.la/1788931\r\n  [9]: https://bugzil.la/1788780\r\n  [10]: https://bugzil.la/1787280\r\n  [11]: https://bugzil.la/1788776\r\n  [12]: https://bugzil.la/1785953\r\n  [13]: https://bugzil.la/1595119\r\n  [14]: https://bugzil.la/1743334\r\n  [15]: https://bugzil.la/1788769",
       "sort_num": 0,
       "tag": "Community"
+    },
+    {
+      "bug": null,
+      "created": "2022-10-19T18:19:46.273528+00:00",
+      "id": 789257,
+      "is_public": true,
+      "modified": "2022-10-19T18:19:46.273324+00:00",
+      "note": "We are investigating an increase in crashes reported by users with AMD Zen 1 CPUs",
+      "sort_num": 0,
+      "tag": "Known"
     }
   ],
   "product": "Firefox",
