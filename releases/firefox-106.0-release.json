@@ -115,6 +115,16 @@
       "note": "We are investigating an increase in crashes reported by users with AMD Zen 1 CPUs.",
       "sort_num": 0,
       "tag": "Known"
+    },
+    {
+      "bug": null,
+      "created": "2022-10-24T19:53:34.261811+00:00",
+      "id": 789260,
+      "is_public": true,
+      "modified": "2022-10-24T19:54:19.599643+00:00",
+      "note": "We are investigating hangs with Firefox installed from the Windows Store.",
+      "sort_num": 0,
+      "tag": "Known"
     }
   ],
   "product": "Firefox",
