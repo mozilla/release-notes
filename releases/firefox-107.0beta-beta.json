@@ -23,6 +23,16 @@
       "note": "Improved the performance of the case when Microsoft's IME and Defender retrieve the URL of a focused document in Windows 11 version 22H2.",
       "sort_num": 0,
       "tag": "New"
+    },
+    {
+      "bug": 1795047,
+      "created": "2022-10-25T12:54:22.799285+00:00",
+      "id": 789264,
+      "is_public": true,
+      "modified": "2022-10-25T12:54:22.799096+00:00",
+      "note": "Power profiling is now also supported on Linux and Mac with Intel CPUs, in addition to Windows 11 and Apple Silicon.",
+      "sort_num": 0,
+      "tag": "New"
     }
   ],
   "product": "Firefox",

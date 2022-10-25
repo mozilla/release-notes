@@ -15,6 +15,36 @@
       "note": "Reference link to [106.0.1 release notes][1].\r\n\r\n\r\n  [1]: https://www.mozilla.org/en-US/firefox/106.0.1/releasenotes/",
       "sort_num": 0,
       "tag": ""
+    },
+    {
+      "bug": 1794351,
+      "created": "2022-10-25T12:50:25.801340+00:00",
+      "id": 789263,
+      "is_public": true,
+      "modified": "2022-10-25T12:50:25.801152+00:00",
+      "note": "Fix missing content on some PDF forms ([bug 1794351][1]).\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1794351",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1793558,
+      "created": "2022-10-25T13:02:55.298306+00:00",
+      "id": 789265,
+      "is_public": true,
+      "modified": "2022-10-25T13:02:55.298134+00:00",
+      "note": "Fix column width for the *Notification* sub-panel in *Settings* ([bug 1793558][1]).\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1793558",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1793748,
+      "created": "2022-10-25T13:07:39.173929+00:00",
+      "id": 789266,
+      "is_public": true,
+      "modified": "2022-10-25T13:07:39.173733+00:00",
+      "note": "Fix a browser freeze with accessibility enabled on some sites such as the Proxmox Web UI ([bug 1793748][1]).\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1793748",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
