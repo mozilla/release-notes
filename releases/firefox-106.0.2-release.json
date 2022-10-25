@@ -51,8 +51,18 @@
       "created": "2022-10-25T13:49:43.624464+00:00",
       "id": 789267,
       "is_public": true,
-      "modified": "2022-10-25T13:49:43.624051+00:00",
-      "note": "The reload button does not work with Firefox View ([bug 1792680][1]).\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1792680",
+      "modified": "2022-10-25T13:55:29.602552+00:00",
+      "note": "Fix page reloading not working with Firefox View and not refreshing synced data ([bug 1792680][1] and [bug 1794474][2]).\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1792680\r\n  [2]: https://bugzilla.mozilla.org/show_bug.cgi?id=1794474",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1795909,
+      "created": "2022-10-25T13:59:27.336277+00:00",
+      "id": 789268,
+      "is_public": true,
+      "modified": "2022-10-25T13:59:27.335918+00:00",
+      "note": "Fix browser not opening if installed  from the Windows Store ([Bug 1796391][1]).\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1796391",
       "sort_num": 0,
       "tag": "Fixed"
     }
