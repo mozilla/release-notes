@@ -7,6 +7,24 @@
   "modified": "2022-10-17T14:47:31.937279+00:00",
   "notes": [
     {
+      "bug": 1795647,
+      "created": "2022-10-25T01:52:18.548455+00:00",
+      "fixed_in_release": {
+        "channel": "Nightly",
+        "is_public": true,
+        "product": "Firefox",
+        "slug": "firefox-108.0a1-nightly",
+        "title": "Firefox 108.0a1 Nightly",
+        "version": "108.0a1"
+      },
+      "id": 789261,
+      "is_public": true,
+      "modified": "2022-10-25T01:53:19.801468+00:00",
+      "note": "Import maps, which allow web pages to control the behavior of JavaScript imports, are now enabled by default.",
+      "sort_num": 20,
+      "tag": "New"
+    },
+    {
       "bug": 488800,
       "created": "2022-10-19T13:14:14.673533+00:00",
       "fixed_in_release": {
