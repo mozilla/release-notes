@@ -45,6 +45,16 @@
       "note": "Fix a browser freeze with accessibility enabled on some sites such as the Proxmox Web UI ([bug 1793748][1]).\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1793748",
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": 1792680,
+      "created": "2022-10-25T13:49:43.624464+00:00",
+      "id": 789267,
+      "is_public": true,
+      "modified": "2022-10-25T13:49:43.624051+00:00",
+      "note": "The reload button does not work with Firefox View ([bug 1792680][1]).\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1792680",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
