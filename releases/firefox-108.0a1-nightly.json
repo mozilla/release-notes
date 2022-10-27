@@ -41,6 +41,24 @@
       "note": "Firefox now supports properly color correcting images tagged with ICCv4 profiles.",
       "sort_num": 10,
       "tag": "New"
+    },
+    {
+      "bug": 1795025,
+      "created": "2022-10-27T14:17:43.850660+00:00",
+      "fixed_in_release": {
+        "channel": "Nightly",
+        "is_public": true,
+        "product": "Firefox",
+        "slug": "firefox-108.0a1-nightly",
+        "title": "Firefox 108.0a1 Nightly",
+        "version": "108.0a1"
+      },
+      "id": 789269,
+      "is_public": true,
+      "modified": "2022-10-27T14:17:43.850439+00:00",
+      "note": "WebMIDI is now enabled by default.",
+      "sort_num": 0,
+      "tag": "Changed"
     }
   ],
   "product": "Firefox",
