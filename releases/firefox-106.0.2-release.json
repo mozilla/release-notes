@@ -11,7 +11,7 @@
       "created": "2022-10-25T12:33:46.880272+00:00",
       "id": 789262,
       "is_public": true,
-      "modified": "2022-10-25T12:33:46.879913+00:00",
+      "modified": "2022-10-30T10:00:36.537162+00:00",
       "note": "Reference link to [106.0.1 release notes][1].\r\n\r\n\r\n  [1]: https://www.mozilla.org/en-US/firefox/106.0.1/releasenotes/",
       "sort_num": 0,
       "tag": ""
@@ -21,7 +21,7 @@
       "created": "2022-10-25T12:50:25.801340+00:00",
       "id": 789263,
       "is_public": true,
-      "modified": "2022-10-25T12:50:25.801152+00:00",
+      "modified": "2022-10-30T10:01:04.654737+00:00",
       "note": "Fix missing content on some PDF forms ([bug 1794351][1]).\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1794351",
       "sort_num": 0,
       "tag": "Fixed"
@@ -31,7 +31,7 @@
       "created": "2022-10-25T13:02:55.298306+00:00",
       "id": 789265,
       "is_public": true,
-      "modified": "2022-10-25T13:02:55.298134+00:00",
+      "modified": "2022-10-30T10:01:09.481948+00:00",
       "note": "Fix column width for the *Notification* sub-panel in *Settings* ([bug 1793558][1]).\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1793558",
       "sort_num": 0,
       "tag": "Fixed"
@@ -41,7 +41,7 @@
       "created": "2022-10-25T13:07:39.173929+00:00",
       "id": 789266,
       "is_public": true,
-      "modified": "2022-10-25T13:07:39.173733+00:00",
+      "modified": "2022-10-30T10:01:07.232017+00:00",
       "note": "Fix a browser freeze with accessibility enabled on some sites such as the Proxmox Web UI ([bug 1793748][1]).\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1793748",
       "sort_num": 0,
       "tag": "Fixed"
@@ -51,7 +51,7 @@
       "created": "2022-10-25T13:49:43.624464+00:00",
       "id": 789267,
       "is_public": true,
-      "modified": "2022-10-25T13:55:29.602552+00:00",
+      "modified": "2022-10-30T10:01:06.502615+00:00",
       "note": "Fix page reloading not working with Firefox View and not refreshing synced data ([bug 1792680][1] and [bug 1794474][2]).\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1792680\r\n  [2]: https://bugzilla.mozilla.org/show_bug.cgi?id=1794474",
       "sort_num": 0,
       "tag": "Fixed"
@@ -61,7 +61,7 @@
       "created": "2022-10-25T13:59:27.336277+00:00",
       "id": 789268,
       "is_public": true,
-      "modified": "2022-10-25T13:59:27.335918+00:00",
+      "modified": "2022-10-30T10:01:05.652626+00:00",
       "note": "Fix browser not opening if installed  from the Windows Store ([Bug 1796391][1]).\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1796391",
       "sort_num": 0,
       "tag": "Fixed"
