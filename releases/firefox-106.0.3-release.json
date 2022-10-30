@@ -25,6 +25,16 @@
       "note": "Fix a startup crash for some users on Windows ([bug 1797464][1]).\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1797464",
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": 1774285,
+      "created": "2022-10-30T10:33:58.845459+00:00",
+      "id": 789273,
+      "is_public": true,
+      "modified": "2022-10-30T10:33:58.844948+00:00",
+      "note": "Fixed an incompatibility with the new Windows 11 22H2  *Suggested Actions* feature resulting in hangs when copying text on a web page ([bug 1774285][1]).\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1774285",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
