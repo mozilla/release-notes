@@ -131,8 +131,8 @@
       "created": "2022-10-29T08:40:19.896152+00:00",
       "id": 789270,
       "is_public": true,
-      "modified": "2022-10-29T08:40:19.895934+00:00",
-      "note": "We are investigating with Microsoft hangs experienced by Firefox users on Windows 11 version 22H2 triggered when performing certain copy actions on page content. Our [support article provides a temporary workaround][1] until we release a fix for this issue.\r\n\r\n\r\n  [1]: https://support.mozilla.org/en-US/kb/firefox-hangs-when-copying-suggested-actions-windows-11",
+      "modified": "2022-10-31T13:46:20.460393+00:00",
+      "note": "<strike>We are investigating with Microsoft hangs experienced by Firefox users on Windows 11 version 22H2 triggered when performing certain copy actions on page content. Our [support article provides a temporary workaround][1] until we release a fix for this issue</strike> (fixed in 106.0.3).\r\n\r\n\r\n  [1]: https://support.mozilla.org/en-US/kb/firefox-hangs-when-copying-suggested-actions-windows-11",
       "sort_num": 0,
       "tag": "Known"
     }
