@@ -15,6 +15,26 @@
       "note": "Reference link to [106.0.3 release notes][1].\r\n\r\n\r\n  [1]: https://www.mozilla.org/firefox/106.0.3/releasenotes/",
       "sort_num": 0,
       "tag": ""
+    },
+    {
+      "bug": 1797292,
+      "created": "2022-11-02T23:30:42.965221+00:00",
+      "id": 789276,
+      "is_public": true,
+      "modified": "2022-11-02T23:30:42.965019+00:00",
+      "note": "Fixed an issue with DRM Video playback ([bug 1797292][1]).\r\n\r\n[1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1797292",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1797139,
+      "created": "2022-11-02T23:36:23.531657+00:00",
+      "id": 789277,
+      "is_public": true,
+      "modified": "2022-11-02T23:36:23.531441+00:00",
+      "note": "Fixed broken layout of datetime input when switching types ([bug 1797139][1]).\r\n\r\n[1]:https://bugzilla.mozilla.org/show_bug.cgi?id=1797139",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
