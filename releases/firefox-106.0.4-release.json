@@ -45,6 +45,16 @@
       "note": "Fixes Firefox hanging when there is a Direct3D device reset ([bug 1792115][1]).\r\n\r\n[1]:https://bugzilla.mozilla.org/show_bug.cgi?id=1792115",
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2022-11-04T15:21:01.601794+00:00",
+      "id": 789279,
+      "is_public": true,
+      "modified": "2022-11-04T15:21:01.601365+00:00",
+      "note": "We are investigating an increase in crashes reported by users with Intel Gemini Lake CPUs",
+      "sort_num": 0,
+      "tag": "Known"
     }
   ],
   "product": "Firefox",
