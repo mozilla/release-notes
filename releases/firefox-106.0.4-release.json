@@ -41,8 +41,8 @@
       "created": "2022-11-02T23:40:20.920607+00:00",
       "id": 789278,
       "is_public": true,
-      "modified": "2022-11-02T23:40:20.920340+00:00",
-      "note": "Fixed a crash experienced by some users during media playback ([bug 1792115][1]).\r\n\r\n[1]:https://bugzilla.mozilla.org/show_bug.cgi?id=1792115",
+      "modified": "2022-11-04T00:57:39.037254+00:00",
+      "note": "Fixes Firefox hanging when there is a Direct3D device reset ([bug 1792115][1]).\r\n\r\n[1]:https://bugzilla.mozilla.org/show_bug.cgi?id=1792115",
       "sort_num": 0,
       "tag": "Fixed"
     }
