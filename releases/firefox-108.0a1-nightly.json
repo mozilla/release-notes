@@ -59,6 +59,24 @@
       "note": "WebMIDI is now enabled by default.",
       "sort_num": 0,
       "tag": "Changed"
+    },
+    {
+      "bug": 1676492,
+      "created": "2022-11-07T14:21:58.204950+00:00",
+      "fixed_in_release": {
+        "channel": "Nightly",
+        "is_public": true,
+        "product": "Firefox",
+        "slug": "firefox-108.0a1-nightly",
+        "title": "Firefox 108.0a1 Nightly",
+        "version": "108.0a1"
+      },
+      "id": 789282,
+      "is_public": true,
+      "modified": "2022-11-07T14:21:58.204614+00:00",
+      "note": "The bookmarks toolbar's default \"Only show on New Tab\" state now also works correctly for blank new tabs. As before, you can change the bookmark toolbar's behavior using the toolbar context menu.",
+      "sort_num": 15,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
