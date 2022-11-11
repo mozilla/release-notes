@@ -25,6 +25,26 @@
       "note": "Fixed issue where moving items within the mobile bookmarks folder placed the bookmarked item one position lower than intended.",
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2022-11-11T14:55:07.467917+00:00",
+      "id": 789290,
+      "is_public": true,
+      "modified": "2022-11-11T14:55:07.467742+00:00",
+      "note": "New tab \u201c+\u201d button in the \u201cOpen Tabs\u201d panel is now easier to tap as the tap area has become larger.",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2022-11-11T15:02:19.037765+00:00",
+      "id": 789291,
+      "is_public": true,
+      "modified": "2022-11-11T15:02:19.037581+00:00",
+      "note": "Fixed the issue when wallpaper shows behind the status bar when users scroll up.",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox for iOS",

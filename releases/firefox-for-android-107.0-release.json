@@ -5,7 +5,68 @@
   "created": "2022-11-11T14:04:53.513681+00:00",
   "is_public": false,
   "modified": "2022-11-11T14:05:23.471890+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": null,
+      "created": "2022-11-11T15:07:36.704024+00:00",
+      "id": 789292,
+      "is_public": true,
+      "modified": "2022-11-11T15:07:36.703814+00:00",
+      "note": "[Total Cookie Protection][1] is now available on Firefox for Android. This feature confines cookies to the site where they were created, which prevents third parties from tracking your online activity across websites.\r\nPreload intermediate certificates to reduce the number of secure website \r\n\r\n[1]:https://support.mozilla.org/en-US/kb/enhanced-tracking-protection-firefox-android#w_total-cookie-protection",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2022-11-11T15:07:56.049677+00:00",
+      "id": 789293,
+      "is_public": true,
+      "modified": "2022-11-11T15:07:56.049500+00:00",
+      "note": "Preload intermediate certificates to reduce the number of secure website errors users encounter.",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2022-11-11T15:08:34.946740+00:00",
+      "id": 789294,
+      "is_public": true,
+      "modified": "2022-11-11T15:08:34.946562+00:00",
+      "note": "Enabled text selection magnifier for website text.",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2022-11-11T15:09:23.932401+00:00",
+      "id": 789295,
+      "is_public": true,
+      "modified": "2022-11-11T15:09:23.932218+00:00",
+      "note": "Added support for [Android image keyboards][1].\r\n\r\n[1]:https://developer.android.com/develop/ui/views/touch-and-input/image-keyboard",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2022-11-11T15:09:56.311293+00:00",
+      "id": 789296,
+      "is_public": true,
+      "modified": "2022-11-11T15:09:56.311094+00:00",
+      "note": "Now you\u2019ll be able to read your notifications clearly! We solved a problem where the notification bar appeared white-on-white.",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2022-11-11T15:10:09.942084+00:00",
+      "id": 789297,
+      "is_public": true,
+      "modified": "2022-11-11T15:10:09.941902+00:00",
+      "note": "Increased the amount of text shown for shortcut titles on the homepage.",
+      "sort_num": 0,
+      "tag": "Fixed"
+    }
+  ],
   "product": "Firefox for Android",
   "release_date": "2022-11-15",
   "slug": "firefox-for-android-107.0-release",
