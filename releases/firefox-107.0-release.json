@@ -28,6 +28,16 @@
     },
     {
       "bug": null,
+      "created": "2022-11-11T14:24:16.395609+00:00",
+      "id": 789287,
+      "is_public": true,
+      "modified": "2022-11-11T14:24:16.395420+00:00",
+      "note": "There are a couple of helpful improvements in Firefox DevTools making it easier to debug WebExtensions:\r\n \r\n- Are you using the [webext][1] command line tool to run and test your web extension? There is a new argument allowing you to also automatically open DevTools just in case you want to\u2014for example, inspect the UI ([bug][2]).\r\n$ webext run --devtools\r\n*Note: web-ext npm package needs to be >= 7.3.0*\r\n- It\u2019s now also simple to inspect popup windows (implemented by WebExtension) using DevTools ([bug][3]).\r\n- When you make changes in the source code of your WebExtension, you can easily reload it using a \u201cReload\u201d button in the DevTools toolbox to see the changes ([bug][4]).\r\n\r\n[1]:https://extensionworkshop.com/documentation/develop/web-ext-command-reference/#devtools\r\n[2]:https://bugzilla.mozilla.org/show_bug.cgi?id=1787409\r\n[3]:https://bugzilla.mozilla.org/show_bug.cgi?id=1780912\r\n[4]:https://bugzilla.mozilla.org/show_bug.cgi?id=1693686",
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
+      "bug": null,
       "created": "2022-11-11T14:14:25.619783+00:00",
       "id": 789285,
       "is_public": true,

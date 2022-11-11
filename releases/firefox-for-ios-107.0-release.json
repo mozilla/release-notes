@@ -5,7 +5,28 @@
   "created": "2022-11-11T14:05:40.178957+00:00",
   "is_public": false,
   "modified": "2022-11-11T14:06:09.089590+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": null,
+      "created": "2022-11-11T14:25:42.200987+00:00",
+      "id": 789288,
+      "is_public": true,
+      "modified": "2022-11-11T14:25:42.200794+00:00",
+      "note": "Fixed the missing \u201cToday\u201d header after closing a tab and navigating to \u201cHistory.\u201d",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2022-11-11T14:26:04.614398+00:00",
+      "id": 789289,
+      "is_public": true,
+      "modified": "2022-11-11T14:26:04.614214+00:00",
+      "note": "Fixed issue where moving items within the mobile bookmarks folder placed the bookmarked item one position lower than intended.",
+      "sort_num": 0,
+      "tag": "Fixed"
+    }
+  ],
   "product": "Firefox for iOS",
   "release_date": "2022-11-15",
   "slug": "firefox-for-ios-107.0-release",
