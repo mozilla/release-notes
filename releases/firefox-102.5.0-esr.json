@@ -5,7 +5,18 @@
   "created": "2022-11-11T14:03:03.669330+00:00",
   "is_public": false,
   "modified": "2022-11-11T14:03:32.300737+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": null,
+      "created": "2022-11-14T14:12:20.251763+00:00",
+      "id": 789298,
+      "is_public": true,
+      "modified": "2022-11-14T14:12:20.251581+00:00",
+      "note": "Various stability, functionality, and [security][1] fixes.\r\n\t\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/",
+      "sort_num": 0,
+      "tag": "Fixed"
+    }
+  ],
   "product": "Firefox Extended Support Release",
   "release_date": "2022-11-15",
   "slug": "firefox-102.5.0-esr",
