@@ -41,8 +41,8 @@
       "created": "2022-11-11T15:09:23.932401+00:00",
       "id": 789295,
       "is_public": true,
-      "modified": "2022-11-11T15:09:23.932218+00:00",
-      "note": "Added support for [Android image keyboards][1].\r\n\r\n[1]:https://developer.android.com/develop/ui/views/touch-and-input/image-keyboard",
+      "modified": "2022-11-15T13:17:09.659096+00:00",
+      "note": "Added support for [Android image keyboards][1]. Requires Android 7.1+ and Google's GBoard keyboard.\r\n\r\n[1]:https://developer.android.com/develop/ui/views/touch-and-input/image-keyboard",
       "sort_num": 0,
       "tag": "New"
     },
