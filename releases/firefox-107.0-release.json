@@ -65,6 +65,16 @@
       "note": "Razvan Cojocaru: [Bug 1755044][1], [Bug 1767337][2]\r\nRazvan has been a prolific contributor, fixing a number of bugs related to scrolling, as well as making many improvements to the type-safety of our rendering engine code.\r\n\r\n[1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1755044\r\n[2]: https://bugzilla.mozilla.org/show_bug.cgi?id=1767337",
       "sort_num": 0,
       "tag": "Community"
+    },
+    {
+      "bug": null,
+      "created": "2022-11-22T14:24:29.788838+00:00",
+      "id": 789301,
+      "is_public": true,
+      "modified": "2022-11-22T14:24:29.788604+00:00",
+      "note": "In order to better support certain typographical conventions, Firefox now preserves some non-breaking spaces when copying text to the clipboard instead of changing them to regular spaces.\r\nThe new behavior is known to cause problems when non-breaking spaces are used for indentation.",
+      "sort_num": 0,
+      "tag": "Known"
     }
   ],
   "product": "Firefox",
