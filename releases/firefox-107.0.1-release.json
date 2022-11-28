@@ -35,6 +35,36 @@
       "note": "Fixed an issue where Color Management was not available for some users ([bug 1799391][1]).\r\n\r\n[1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1799391",
       "sort_num": 0,
       "tag": ""
+    },
+    {
+      "bug": 1800379,
+      "created": "2022-11-28T16:10:26.492049+00:00",
+      "id": 789306,
+      "is_public": true,
+      "modified": "2022-11-28T16:10:26.491710+00:00",
+      "note": "Fixed an issue with text overlap in the Settings Menu for some locales ([bug 1800379][1]).\r\n\r\n[1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1800379",
+      "sort_num": 0,
+      "tag": ""
+    },
+    {
+      "bug": 1798098,
+      "created": "2022-11-28T16:11:20.966410+00:00",
+      "id": 789307,
+      "is_public": true,
+      "modified": "2022-11-28T16:11:20.966207+00:00",
+      "note": "Fixed an incompatibility with the new Windows 11 22H2 Suggested Actions feature resulting in hangs when copying phone number links ([bug 1798098][1]).\r\n\r\n[1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1798098",
+      "sort_num": 0,
+      "tag": ""
+    },
+    {
+      "bug": 1801840,
+      "created": "2022-11-28T16:12:12.814757+00:00",
+      "id": 789308,
+      "is_public": true,
+      "modified": "2022-11-28T16:12:12.814574+00:00",
+      "note": "Fixed an issue where the DevTools UI is not accessible when an alert dialog is displayed ([bug 1801840][1]).\r\n\r\n[1]:https://bugzilla.mozilla.org/show_bug.cgi?id=1801840",
+      "sort_num": 0,
+      "tag": ""
     }
   ],
   "product": "Firefox",
