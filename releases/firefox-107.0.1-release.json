@@ -21,50 +21,50 @@
       "created": "2022-11-28T16:07:38.466885+00:00",
       "id": 789304,
       "is_public": true,
-      "modified": "2022-11-28T16:07:38.466497+00:00",
+      "modified": "2022-11-28T16:35:03.574061+00:00",
       "note": "Fixed an issue with accessing some sites reliably in Private Browsing mode or Strict ETP due to anti-adblockers ([bug 1717806][1]).\r\n\r\n[1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1717806",
       "sort_num": 0,
-      "tag": ""
+      "tag": "Fixed"
     },
     {
       "bug": 1799391,
       "created": "2022-11-28T16:09:25.155173+00:00",
       "id": 789305,
       "is_public": true,
-      "modified": "2022-11-28T16:09:25.154931+00:00",
+      "modified": "2022-11-28T16:34:58.972529+00:00",
       "note": "Fixed an issue where Color Management was not available for some users ([bug 1799391][1]).\r\n\r\n[1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1799391",
       "sort_num": 0,
-      "tag": ""
+      "tag": "Fixed"
     },
     {
       "bug": 1800379,
       "created": "2022-11-28T16:10:26.492049+00:00",
       "id": 789306,
       "is_public": true,
-      "modified": "2022-11-28T16:23:10.891978+00:00",
+      "modified": "2022-11-28T16:34:54.389394+00:00",
       "note": "Fixed an issue with text overlapping in the Settings Menu for some locales ([bug 1800379][1]).\r\n\r\n[1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1800379",
       "sort_num": 0,
-      "tag": ""
+      "tag": "Fixed"
     },
     {
       "bug": 1798098,
       "created": "2022-11-28T16:11:20.966410+00:00",
       "id": 789307,
       "is_public": true,
-      "modified": "2022-11-28T16:11:20.966207+00:00",
+      "modified": "2022-11-28T16:34:49.259817+00:00",
       "note": "Fixed an incompatibility with the new Windows 11 22H2 Suggested Actions feature resulting in hangs when copying phone number links ([bug 1798098][1]).\r\n\r\n[1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1798098",
       "sort_num": 0,
-      "tag": ""
+      "tag": "Fixed"
     },
     {
       "bug": 1801840,
       "created": "2022-11-28T16:12:12.814757+00:00",
       "id": 789308,
       "is_public": true,
-      "modified": "2022-11-28T16:12:12.814574+00:00",
+      "modified": "2022-11-28T16:34:43.096458+00:00",
       "note": "Fixed an issue where the DevTools UI is not accessible when an alert dialog is displayed ([bug 1801840][1]).\r\n\r\n[1]:https://bugzilla.mozilla.org/show_bug.cgi?id=1801840",
       "sort_num": 0,
-      "tag": ""
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
