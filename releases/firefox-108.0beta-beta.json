@@ -43,6 +43,16 @@
       "tag": "New"
     },
     {
+      "bug": 1796096,
+      "created": "2022-11-30T14:23:28.594671+00:00",
+      "id": 789309,
+      "is_public": true,
+      "modified": "2022-11-30T14:23:28.594494+00:00",
+      "note": "The shift+esc keyboard shortcut now opens the Process Manager, offering a way to quickly identify processes that are using too much resources.",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1795025,
       "created": "2022-10-27T14:17:43.850660+00:00",
       "fixed_in_release": {
@@ -90,8 +100,8 @@
         "version": "108.0beta"
       },
       "id": 789300,
-      "is_public": false,
-      "modified": "2022-11-18T22:01:29.611659+00:00",
+      "is_public": true,
+      "modified": "2022-11-30T14:24:06.949726+00:00",
       "note": "Improved handling of non-ASCII characters when saving and printing PDF forms.",
       "sort_num": 0,
       "tag": "Fixed"
