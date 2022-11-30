@@ -53,6 +53,16 @@
       "tag": "New"
     },
     {
+      "bug": 1796525,
+      "created": "2022-11-30T16:47:07.420897+00:00",
+      "id": 789310,
+      "is_public": true,
+      "modified": "2022-11-30T16:47:07.420637+00:00",
+      "note": "Processes used for background tabs now use efficiency mode on Windows 11 to limit resource use.",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1795025,
       "created": "2022-10-27T14:17:43.850660+00:00",
       "fixed_in_release": {
