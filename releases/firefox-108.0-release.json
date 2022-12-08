@@ -7,6 +7,16 @@
   "modified": "2022-12-08T17:13:45.466497+00:00",
   "notes": [
     {
+      "bug": 1795025,
+      "created": "2022-12-08T17:31:02.864215+00:00",
+      "id": 789313,
+      "is_public": true,
+      "modified": "2022-12-08T17:31:02.863996+00:00",
+      "note": "Firefox now supports the WebMIDI API along with a new [experimental mechanism][1] for controlling access to dangerous capabilities.\r\n\r\n\r\n  [1]: https://support.mozilla.org/en-US/kb/site-permission-addons",
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
       "bug": null,
       "created": "2022-12-08T17:24:49.319281+00:00",
       "id": 789311,
