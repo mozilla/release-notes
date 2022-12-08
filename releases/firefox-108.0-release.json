@@ -8,11 +8,21 @@
   "notes": [
     {
       "bug": null,
-      "created": "2022-11-14T19:30:01.688943+00:00",
-      "id": 789299,
+      "created": "2022-12-08T17:24:49.319281+00:00",
+      "id": 789311,
       "is_public": true,
-      "modified": "2022-12-08T17:13:04.337028+00:00",
-      "note": "Various [security][1] fixes.\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/mfsa2022-47/",
+      "modified": "2022-12-08T17:24:49.319087+00:00",
+      "note": "Various security fixes.",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1676492,
+      "created": "2022-12-08T17:25:52.897252+00:00",
+      "id": 789312,
+      "is_public": true,
+      "modified": "2022-12-08T17:26:24.430898+00:00",
+      "note": "The bookmarks toolbar's default \"Only show on New Tab\" state now also works correctly for blank new tabs. As before, you can change the bookmark toolbar's behavior, using the toolbar context menu.",
       "sort_num": 0,
       "tag": "Fixed"
     }
