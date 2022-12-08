@@ -11,7 +11,7 @@
       "created": "2022-11-11T14:13:00.936517+00:00",
       "id": 789283,
       "is_public": true,
-      "modified": "2022-11-11T14:13:00.936340+00:00",
+      "modified": "2022-12-08T17:13:27.876838+00:00",
       "note": "Improved the performance of the instance when Microsoft's IME and Defender retrieve the URL of a focused document in Windows 11 version 22H2.",
       "sort_num": 0,
       "tag": "New"
@@ -21,7 +21,7 @@
       "created": "2022-11-11T14:13:19.401656+00:00",
       "id": 789284,
       "is_public": true,
-      "modified": "2022-11-11T14:13:42.990856+00:00",
+      "modified": "2022-12-08T17:13:29.355640+00:00",
       "note": "Power profiling \u2014 visualizing performance data recorded from web browsers \u2014 is now also supported on Linux and Mac with Intel CPUs, in addition to Windows 11 and Apple Silicon.",
       "sort_num": 0,
       "tag": "New"
@@ -31,7 +31,7 @@
       "created": "2022-11-11T14:24:16.395609+00:00",
       "id": 789287,
       "is_public": true,
-      "modified": "2022-11-14T20:10:21.607451+00:00",
+      "modified": "2022-12-08T17:13:33.421081+00:00",
       "note": "There are a couple of helpful improvements in Firefox DevTools making it easier to debug WebExtensions:\r\n \r\n- Are you using the [webext][1] command line tool to run and test your web extension? There is a new argument allowing you to also automatically open DevTools just in case you want to\u2014for example, inspect the UI ([bug][2]).\r\n$ webext run --devtools\r\n*Note: web-ext npm package needs to be >= 7.3.0*\r\n- It\u2019s now also simple to inspect popup windows (implemented by WebExtension) using DevTools ([bug][3]).\r\n- When you make changes in the source code of your WebExtension, you can easily reload it using a \u201cReload\u201d button in the DevTools toolbox to see the changes ([bug][4]).\r\n\r\n\r\n![DevTools screenshot][5]\r\n\r\n[1]:https://extensionworkshop.com/documentation/develop/web-ext-command-reference/#devtools\r\n[2]:https://bugzilla.mozilla.org/show_bug.cgi?id=1787409\r\n[3]:https://bugzilla.mozilla.org/show_bug.cgi?id=1780912\r\n[4]:https://bugzilla.mozilla.org/show_bug.cgi?id=1693686\r\n[5]: /media/img/firefox/releasenotes/note-images/107_devtools.png",
       "sort_num": 0,
       "tag": "Developer"
@@ -41,7 +41,7 @@
       "created": "2022-11-11T14:14:25.619783+00:00",
       "id": 789285,
       "is_public": true,
-      "modified": "2022-11-11T14:14:25.619576+00:00",
+      "modified": "2022-12-08T17:13:31.736735+00:00",
       "note": "Various bug fixes and new policies have been implemented in the latest version of Firefox. You can find more information in the [Firefox for Enterprise 107 Release Notes][1].\r\n\r\n[1]:https://support.mozilla.org/kb/firefox-enterprise-107-release-notes",
       "sort_num": 0,
       "tag": "Enterprise"
@@ -51,7 +51,7 @@
       "created": "2022-11-14T19:30:01.688943+00:00",
       "id": 789299,
       "is_public": true,
-      "modified": "2022-11-14T19:30:01.688546+00:00",
+      "modified": "2022-12-08T17:13:04.337028+00:00",
       "note": "Various [security][1] fixes.\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/mfsa2022-47/",
       "sort_num": 0,
       "tag": "Fixed"
@@ -61,7 +61,7 @@
       "created": "2022-11-11T14:16:12.801914+00:00",
       "id": 789286,
       "is_public": true,
-      "modified": "2022-11-11T14:16:12.801727+00:00",
+      "modified": "2022-12-08T17:13:30.843087+00:00",
       "note": "Razvan Cojocaru: [Bug 1755044][1], [Bug 1767337][2]\r\nRazvan has been a prolific contributor, fixing a number of bugs related to scrolling, as well as making many improvements to the type-safety of our rendering engine code.\r\n\r\n[1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1755044\r\n[2]: https://bugzilla.mozilla.org/show_bug.cgi?id=1767337",
       "sort_num": 0,
       "tag": "Community"
@@ -71,7 +71,7 @@
       "created": "2022-11-22T14:24:29.788838+00:00",
       "id": 789301,
       "is_public": true,
-      "modified": "2022-11-22T14:24:29.788604+00:00",
+      "modified": "2022-12-08T17:13:34.932652+00:00",
       "note": "In order to better support certain typographical conventions, Firefox now preserves some non-breaking spaces when copying text to the clipboard instead of changing them to regular spaces.\r\nThe new behavior is known to cause problems when non-breaking spaces are used for indentation.",
       "sort_num": 0,
       "tag": "Known"
