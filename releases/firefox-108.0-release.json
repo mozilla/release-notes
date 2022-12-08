@@ -7,6 +7,16 @@
   "modified": "2022-12-08T17:13:45.466497+00:00",
   "notes": [
     {
+      "bug": 1796525,
+      "created": "2022-12-08T18:57:31.520965+00:00",
+      "id": 789315,
+      "is_public": true,
+      "modified": "2022-12-08T18:58:35.947804+00:00",
+      "note": "Processes used for background tabs now use efficiency mode on Windows 11 to limit resource use.",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1795025,
       "created": "2022-12-08T17:31:02.864215+00:00",
       "id": 789313,
@@ -33,6 +43,24 @@
       "is_public": true,
       "modified": "2022-12-08T17:26:24.430898+00:00",
       "note": "The bookmarks toolbar's default \"Only show on New Tab\" state now also works correctly for blank new tabs. As before, you can change the bookmark toolbar's behavior, using the toolbar context menu.",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1666824,
+      "created": "2022-12-08T18:56:19.050610+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": false,
+        "product": "Firefox",
+        "slug": "firefox-108.0-release",
+        "title": "Firefox 108.0 Release",
+        "version": "108.0"
+      },
+      "id": 789314,
+      "is_public": true,
+      "modified": "2022-12-08T18:56:19.050429+00:00",
+      "note": "Improved handling of non-ASCII characters when saving and printing PDF forms.",
       "sort_num": 0,
       "tag": "Fixed"
     }
