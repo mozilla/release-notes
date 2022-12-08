@@ -8,11 +8,95 @@
   "notes": [
     {
       "bug": null,
-      "created": "2022-11-14T19:30:01.688943+00:00",
-      "id": 789299,
+      "created": "2022-12-08T19:22:55.004590+00:00",
+      "id": 789319,
       "is_public": true,
-      "modified": "2022-12-08T17:24:02.884546+00:00",
-      "note": "Various [security][1] fixes.\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/mfsa2022-47/",
+      "modified": "2022-12-08T19:22:55.004408+00:00",
+      "note": "You can now save [web pages as PDF][1] files to conveniently access them later from your Downloads folder.\r\n\r\n\r\n  [1]: https://support.mozilla.org/en-US/kb/save-web-pages-pdf-firefox-android",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2022-12-08T19:23:16.450569+00:00",
+      "id": 789320,
+      "is_public": true,
+      "modified": "2022-12-08T19:23:16.450389+00:00",
+      "note": "You can now organize your tabs in the tabs tray by long pressing on a tab.",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2022-12-08T19:23:56.761865+00:00",
+      "id": 789321,
+      "is_public": true,
+      "modified": "2022-12-08T19:23:56.761690+00:00",
+      "note": "[Open all bookmarks][1] in a folder in tabs or in new or private tabs. \r\n\r\n\r\n  [1]: https://support.mozilla.org/en-US/kb/add-delete-and-view-bookmarked-webpages-firefox-android#w_open-a-bookmark-in-a-new-tab",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2022-12-08T17:24:49.319281+00:00",
+      "id": 789311,
+      "is_public": true,
+      "modified": "2022-12-08T19:22:16.762161+00:00",
+      "note": "Various security fixes.",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2022-12-08T19:24:36.789687+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": false,
+        "product": "Firefox for Android",
+        "slug": "firefox-for-android-108.0-release",
+        "title": "Firefox for Android 108.0 Release",
+        "version": "108.0"
+      },
+      "id": 789322,
+      "is_public": true,
+      "modified": "2022-12-08T19:24:36.789507+00:00",
+      "note": "When using Talkback shortcuts on the homepage are now identified as web links and in the private browsing home screen the learn more link is identified as an article.",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2022-12-08T19:24:58.748761+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": false,
+        "product": "Firefox for Android",
+        "slug": "firefox-for-android-108.0-release",
+        "title": "Firefox for Android 108.0 Release",
+        "version": "108.0"
+      },
+      "id": 789323,
+      "is_public": true,
+      "modified": "2022-12-08T19:24:58.748581+00:00",
+      "note": "The 2x1 configuration for the search widget the voice search icon will be displayed. Previously it was clipped on some devices.",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2022-12-08T19:25:20.180514+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": false,
+        "product": "Firefox for Android",
+        "slug": "firefox-for-android-108.0-release",
+        "title": "Firefox for Android 108.0 Release",
+        "version": "108.0"
+      },
+      "id": 789324,
+      "is_public": true,
+      "modified": "2022-12-08T19:25:20.180313+00:00",
+      "note": "The Firefox settings for the default browser app will now correctly match the Android browser setting.",
       "sort_num": 0,
       "tag": "Fixed"
     }
