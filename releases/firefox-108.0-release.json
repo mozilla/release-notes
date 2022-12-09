@@ -4,26 +4,8 @@
   "channel": "Release",
   "created": "2022-12-08T17:13:04.308148+00:00",
   "is_public": false,
-  "modified": "2022-12-08T17:13:45.466497+00:00",
+  "modified": "2022-12-09T13:53:42.613527+00:00",
   "notes": [
-    {
-      "bug": 488800,
-      "created": "2022-10-19T13:14:14.673533+00:00",
-      "fixed_in_release": {
-        "channel": "Nightly",
-        "is_public": true,
-        "product": "Firefox",
-        "slug": "firefox-108.0a1-nightly",
-        "title": "Firefox 108.0a1 Nightly",
-        "version": "108.0a1"
-      },
-      "id": 789256,
-      "is_public": true,
-      "modified": "2022-12-08T19:28:01.994216+00:00",
-      "note": "Firefox now supports properly color correcting images tagged with ICCv4 profiles.",
-      "sort_num": 10,
-      "tag": "New"
-    },
     {
       "bug": 1796525,
       "created": "2022-12-08T18:57:31.520965+00:00",
@@ -99,6 +81,16 @@
       "is_public": true,
       "modified": "2022-12-08T18:56:19.050429+00:00",
       "note": "Improved handling of non-ASCII characters when saving and printing PDF forms.",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 488800,
+      "created": "2022-12-09T13:52:02.854985+00:00",
+      "id": 789325,
+      "is_public": true,
+      "modified": "2022-12-09T13:52:02.854779+00:00",
+      "note": "Firefox now supports properly color correcting images tagged with ICCv4 profiles.",
       "sort_num": 0,
       "tag": "Fixed"
     },
