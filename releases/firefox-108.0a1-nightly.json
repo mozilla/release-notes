@@ -19,7 +19,7 @@
       },
       "id": 789261,
       "is_public": true,
-      "modified": "2022-11-10T20:55:52.612101+00:00",
+      "modified": "2022-12-12T13:46:40.324616+00:00",
       "note": "Import maps, which allow web pages to control the behavior of JavaScript imports, are now enabled by default.",
       "sort_num": 20,
       "tag": "New"
@@ -37,7 +37,7 @@
       },
       "id": 789256,
       "is_public": true,
-      "modified": "2022-12-09T13:52:05.857056+00:00",
+      "modified": "2022-12-12T13:46:38.360920+00:00",
       "note": "Firefox now supports properly color correcting images tagged with ICCv4 profiles.",
       "sort_num": 10,
       "tag": "New"
@@ -47,7 +47,7 @@
       "created": "2022-11-30T14:23:28.594671+00:00",
       "id": 789309,
       "is_public": true,
-      "modified": "2022-11-30T14:23:28.594494+00:00",
+      "modified": "2022-12-12T13:46:39.267637+00:00",
       "note": "The shift+esc keyboard shortcut now opens the Process Manager, offering a way to quickly identify processes that are using too much resources.",
       "sort_num": 0,
       "tag": "New"
@@ -57,7 +57,7 @@
       "created": "2022-11-30T16:47:07.420897+00:00",
       "id": 789310,
       "is_public": true,
-      "modified": "2022-11-30T16:47:07.420637+00:00",
+      "modified": "2022-12-12T13:46:41.256320+00:00",
       "note": "Processes used for background tabs now use efficiency mode on Windows 11 to limit resource use.",
       "sort_num": 0,
       "tag": "New"
@@ -75,7 +75,7 @@
       },
       "id": 789269,
       "is_public": true,
-      "modified": "2022-11-23T15:00:02.670657+00:00",
+      "modified": "2022-12-12T13:46:37.420591+00:00",
       "note": "Firefox now supports the WebMIDI API along with a new [experimental mechanism][1] for controlling access to dangerous capabilities.\r\n\r\n\r\n  [1]: https://support.mozilla.org/en-US/kb/site-permission-addons",
       "sort_num": 0,
       "tag": "Changed"
@@ -93,7 +93,7 @@
       },
       "id": 789282,
       "is_public": true,
-      "modified": "2022-11-10T20:55:22.689970+00:00",
+      "modified": "2022-12-12T13:46:35.251917+00:00",
       "note": "The bookmarks toolbar's default \"Only show on New Tab\" state now also works correctly for blank new tabs. As before, you can change the bookmark toolbar's behavior using the toolbar context menu.",
       "sort_num": 15,
       "tag": "Fixed"
