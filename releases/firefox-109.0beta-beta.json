@@ -7,6 +7,26 @@
   "modified": "2022-12-12T13:46:42.133813+00:00",
   "notes": [
     {
+      "bug": 1801291,
+      "created": "2022-12-12T14:35:46.722183+00:00",
+      "id": 789327,
+      "is_public": true,
+      "modified": "2022-12-12T14:35:46.721990+00:00",
+      "note": "[Manifest Version 3 (MV3)][1] is now enabled by default ([MV2 remains enabled/supported][2]). This major update also ushers an exciting user interface change in the form of the [new Unified Extensions button][3].\r\n\r\n\r\n  [1]: https://blog.mozilla.org/addons/2022/11/17/manifest-v3-signing-available-november-21-on-firefox-nightly/\r\n  [2]: https://blog.mozilla.org/addons/2022/05/18/manifest-v3-in-firefox-recap-next-steps/\r\n  [3]: https://blog.mozilla.org/addons/2022/11/17/unified-extensions-button-and-how-to-handle-permissions-in-manifest-v3/",
+      "sort_num": 50,
+      "tag": "New"
+    },
+    {
+      "bug": 1804673,
+      "created": "2022-12-12T14:33:01.986721+00:00",
+      "id": 789326,
+      "is_public": true,
+      "modified": "2022-12-12T14:33:01.986516+00:00",
+      "note": "Firefox builds in Spanish from Spain (es-ES) now come with a built-in dictionary that can be used with the Firefox spellchecker",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1781960,
       "created": "2022-11-28T01:35:35.478625+00:00",
       "id": 789302,
