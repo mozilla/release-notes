@@ -37,6 +37,16 @@
       "tag": "New"
     },
     {
+      "bug": 1778575,
+      "created": "2022-12-12T17:38:35.093926+00:00",
+      "id": 789329,
+      "is_public": true,
+      "modified": "2022-12-12T17:38:35.093750+00:00",
+      "note": "Improved frame scheduling when under load. This substantially improves Firefox\u2019s MotionMark scores.",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": null,
       "created": "2022-12-08T17:24:49.319281+00:00",
       "id": 789311,
