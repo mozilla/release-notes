@@ -87,6 +87,60 @@
       "note": "A Bookmark will not immediately delete from the Recently saved after deleting it from the bookmark panel.",
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2022-12-12T20:41:14.344048+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": false,
+        "product": "Firefox for iOS",
+        "slug": "firefox-for-ios-108.0-release",
+        "title": "Firefox for iOS 108.0 Release",
+        "version": "108.0"
+      },
+      "id": 789335,
+      "is_public": true,
+      "modified": "2022-12-12T20:41:14.343857+00:00",
+      "note": "Top tabs and address bar should appear when scrolling to the top using a mouse or trackpad on iPad.",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2022-12-12T20:41:39.712050+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": false,
+        "product": "Firefox for iOS",
+        "slug": "firefox-for-ios-108.0-release",
+        "title": "Firefox for iOS 108.0 Release",
+        "version": "108.0"
+      },
+      "id": 789336,
+      "is_public": true,
+      "modified": "2022-12-12T20:41:39.711845+00:00",
+      "note": "Instead of opening the Homepage, the last visited page still appears after +4 hours of inactivity.",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2022-12-12T20:42:03.478235+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": false,
+        "product": "Firefox for iOS",
+        "slug": "firefox-for-ios-108.0-release",
+        "title": "Firefox for iOS 108.0 Release",
+        "version": "108.0"
+      },
+      "id": 789337,
+      "is_public": true,
+      "modified": "2022-12-12T20:42:03.478053+00:00",
+      "note": "Wallpapers load faster on onboarding and in the wallpaper settings.",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox for iOS",
