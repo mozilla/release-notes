@@ -5,7 +5,90 @@
   "created": "2022-12-08T17:13:04.251649+00:00",
   "is_public": false,
   "modified": "2022-12-08T17:14:23.349033+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": null,
+      "created": "2022-12-12T20:38:37.204798+00:00",
+      "id": 789330,
+      "is_public": true,
+      "modified": "2022-12-12T20:38:37.204629+00:00",
+      "note": "Users can reload a website without cache to troubleshoot site issues by pressing `ctrl` + `F5`.",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2022-12-12T20:39:11.691115+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": false,
+        "product": "Firefox for iOS",
+        "slug": "firefox-for-ios-108.0-release",
+        "title": "Firefox for iOS 108.0 Release",
+        "version": "108.0"
+      },
+      "id": 789331,
+      "is_public": true,
+      "modified": "2022-12-12T20:40:02.420127+00:00",
+      "note": "Synced tabs from the iOS devices will not display on desktop after signing into another synced account on the iOS device.",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2022-12-12T20:39:40.075149+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": false,
+        "product": "Firefox for iOS",
+        "slug": "firefox-for-ios-108.0-release",
+        "title": "Firefox for iOS 108.0 Release",
+        "version": "108.0"
+      },
+      "id": 789332,
+      "is_public": true,
+      "modified": "2022-12-12T20:39:40.074969+00:00",
+      "note": "Firefox crashes when tapping on search engine icons that appear even after being disabled.",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2022-12-12T20:40:29.433353+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": false,
+        "product": "Firefox for iOS",
+        "slug": "firefox-for-ios-108.0-release",
+        "title": "Firefox for iOS 108.0 Release",
+        "version": "108.0"
+      },
+      "id": 789333,
+      "is_public": true,
+      "modified": "2022-12-12T20:40:29.433163+00:00",
+      "note": "App icon long-press opens the bookmark at the top of the bookmark list instead of the most recent bookmark.",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2022-12-12T20:40:53.435179+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": false,
+        "product": "Firefox for iOS",
+        "slug": "firefox-for-ios-108.0-release",
+        "title": "Firefox for iOS 108.0 Release",
+        "version": "108.0"
+      },
+      "id": 789334,
+      "is_public": true,
+      "modified": "2022-12-12T20:40:53.434995+00:00",
+      "note": "A Bookmark will not immediately delete from the Recently saved after deleting it from the bookmark panel.",
+      "sort_num": 0,
+      "tag": "Fixed"
+    }
+  ],
   "product": "Firefox for iOS",
   "release_date": "2022-12-13",
   "slug": "firefox-for-ios-108.0-release",
