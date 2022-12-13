@@ -57,23 +57,13 @@
       "tag": "Changed"
     },
     {
-      "bug": null,
-      "created": "2022-12-08T17:24:49.319281+00:00",
-      "id": 789311,
+      "bug": 488800,
+      "created": "2022-12-09T13:52:02.854985+00:00",
+      "id": 789325,
       "is_public": true,
-      "modified": "2022-12-12T21:37:05.304273+00:00",
-      "note": "Various [security][1] fixes.\r\n\r\n\r\n  [1]: https://www.mozilla.org/en-US/security/advisories/mfsa2022-51/",
-      "sort_num": 0,
-      "tag": "Fixed"
-    },
-    {
-      "bug": 1676492,
-      "created": "2022-12-08T17:25:52.897252+00:00",
-      "id": 789312,
-      "is_public": true,
-      "modified": "2022-12-12T20:30:32.084118+00:00",
-      "note": "The bookmarks toolbar's default \"Only show on New Tab\" state works correctly for blank new tabs. As before, you can change the bookmark toolbar's behavior using the toolbar context menu.",
-      "sort_num": 0,
+      "modified": "2022-12-13T13:16:05.143885+00:00",
+      "note": "Firefox now supports properly color correcting images tagged with ICCv4 profiles.",
+      "sort_num": 20,
       "tag": "Fixed"
     },
     {
@@ -89,18 +79,28 @@
       },
       "id": 789314,
       "is_public": true,
-      "modified": "2022-12-12T20:30:07.972690+00:00",
+      "modified": "2022-12-13T13:17:01.121662+00:00",
       "note": "Support for non-English characters when saving and printing PDF forms.",
-      "sort_num": 0,
+      "sort_num": 15,
       "tag": "Fixed"
     },
     {
-      "bug": 488800,
-      "created": "2022-12-09T13:52:02.854985+00:00",
-      "id": 789325,
+      "bug": 1676492,
+      "created": "2022-12-08T17:25:52.897252+00:00",
+      "id": 789312,
       "is_public": true,
-      "modified": "2022-12-09T13:52:02.854779+00:00",
-      "note": "Firefox now supports properly color correcting images tagged with ICCv4 profiles.",
+      "modified": "2022-12-13T13:16:25.053072+00:00",
+      "note": "The bookmarks toolbar's default \"Only show on New Tab\" state works correctly for blank new tabs. As before, you can change the bookmark toolbar's behavior using the toolbar context menu.",
+      "sort_num": 10,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2022-12-08T17:24:49.319281+00:00",
+      "id": 789311,
+      "is_public": true,
+      "modified": "2022-12-12T21:37:05.304273+00:00",
+      "note": "Various [security][1] fixes.\r\n\r\n\r\n  [1]: https://www.mozilla.org/en-US/security/advisories/mfsa2022-51/",
       "sort_num": 0,
       "tag": "Fixed"
     },
