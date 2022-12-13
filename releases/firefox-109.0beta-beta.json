@@ -3,8 +3,8 @@
   "bug_search_url": "",
   "channel": "Beta",
   "created": "2022-12-12T13:45:59.878073+00:00",
-  "is_public": false,
-  "modified": "2022-12-12T13:46:42.133813+00:00",
+  "is_public": true,
+  "modified": "2022-12-13T14:03:51.329579+00:00",
   "notes": [
     {
       "bug": 1801291,
@@ -21,8 +21,8 @@
       "created": "2022-12-12T14:33:01.986721+00:00",
       "id": 789326,
       "is_public": true,
-      "modified": "2022-12-12T14:33:01.986516+00:00",
-      "note": "Firefox builds in Spanish from Spain (es-ES) now come with a built-in dictionary that can be used with the Firefox spellchecker",
+      "modified": "2022-12-13T14:02:28.940330+00:00",
+      "note": "Firefox builds in Spanish from Spain (es-ES) and Spanish from Argentina (es-AR) now come with a built-in dictionary that can be used with the Firefox spellchecker.",
       "sort_num": 0,
       "tag": "New"
     },
