@@ -3,8 +3,8 @@
   "bug_search_url": "",
   "channel": "Release",
   "created": "2022-12-08T17:13:04.308148+00:00",
-  "is_public": false,
-  "modified": "2022-12-09T13:53:42.613527+00:00",
+  "is_public": true,
+  "modified": "2022-12-13T13:31:58.461602+00:00",
   "notes": [
     {
       "bug": 1795647,
@@ -71,7 +71,7 @@
       "created": "2022-12-08T18:56:19.050610+00:00",
       "fixed_in_release": {
         "channel": "Release",
-        "is_public": false,
+        "is_public": true,
         "product": "Firefox",
         "slug": "firefox-108.0-release",
         "title": "Firefox 108.0 Release",
