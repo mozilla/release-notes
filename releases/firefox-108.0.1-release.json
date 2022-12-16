@@ -15,6 +15,24 @@
       "note": "Reference link to [108.0 release notes][1].\r\n\r\n\r\n  [1]: https://www.mozilla.org/firefox/108.0/releasenotes/",
       "sort_num": 0,
       "tag": ""
+    },
+    {
+      "bug": 1805883,
+      "created": "2022-12-16T12:43:09.677350+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": false,
+        "product": "Firefox",
+        "slug": "firefox-108.0.1-release",
+        "title": "Firefox 108.0.1 Release",
+        "version": "108.0.1"
+      },
+      "id": 789339,
+      "is_public": true,
+      "modified": "2022-12-16T12:43:09.677169+00:00",
+      "note": "Fixes an issue in which the default engine would reset when copying search settings from previous profiles.",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
