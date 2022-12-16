@@ -29,8 +29,8 @@
       },
       "id": 789339,
       "is_public": true,
-      "modified": "2022-12-16T12:43:09.677169+00:00",
-      "note": "Fixes an issue in which the default engine would reset when copying search settings from previous profiles.",
+      "modified": "2022-12-16T13:58:01.815760+00:00",
+      "note": "Fixes the default search engine being reset on upgrade for profiles which were previously copied from a different location.",
       "sort_num": 0,
       "tag": "Fixed"
     }
