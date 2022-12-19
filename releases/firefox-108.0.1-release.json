@@ -4,7 +4,7 @@
   "channel": "Release",
   "created": "2022-12-15T18:04:55.661025+00:00",
   "is_public": true,
-  "modified": "2022-12-16T14:09:10.576954+00:00",
+  "modified": "2022-12-19T14:35:04.641803+00:00",
   "notes": [
     {
       "bug": null,
@@ -38,7 +38,7 @@
   "product": "Firefox",
   "release_date": "2022-12-16",
   "slug": "firefox-108.0.1-release",
-  "system_requirements": "## Windows\r\n\r\n### Operating Systems (32-bit and 64-bit)\r\n - Windows 7\r\n - Windows 8\r\n - Windows 10\r\n - Windows 11\r\n\r\n### Recommended Hardware\r\n-  Pentium 4 or newer processor that supports SSE2\r\n-  512MB of RAM / 2GB of RAM for the 64-bit version\r\n-  200MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- macOS 10.12\r\n- macOS 10.13\r\n- macOS 10.14\r\n- macOS 10.15\r\n- macOS 11\r\n- macOS 12\r\n\r\n### Recommended Hardware\r\n- Mac computer with an Intel x86 or Apple silicon processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - glibc 2.17 or higher\r\n    - GTK+ 3.14 or higher\r\n    - libstdc++ 4.8.1 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - DBus 1.0 or higher\r\n    - GNOME 2.16 or higher\r\n    - libxtst 1.2.3 or higher\r\n    - NetworkManager 0.7 or higher\r\n    - PulseAudio",
+  "system_requirements": "## Windows\r\n\r\n### Operating Systems (32-bit and 64-bit)\r\n - Windows 7 or later\r\n\r\n### Recommended Hardware\r\n-  Pentium 4 or newer processor that supports SSE2\r\n-  512MB of RAM / 2GB of RAM for the 64-bit version\r\n-  200MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- macOS 10.12 or later\r\n\r\n### Recommended Hardware\r\n- Mac computer with an Intel x86 or Apple silicon processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - glibc 2.17 or higher\r\n    - GTK+ 3.14 or higher\r\n    - libstdc++ 4.8.1 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - DBus 1.0 or higher\r\n    - GNOME 2.16 or higher\r\n    - libxtst 1.2.3 or higher\r\n    - NetworkManager 0.7 or higher\r\n    - PulseAudio",
   "text": "",
   "title": "Firefox 108.0.1 Release",
   "version": "108.0.1"
