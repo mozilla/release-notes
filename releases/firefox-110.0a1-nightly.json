@@ -5,7 +5,28 @@
   "created": "2022-12-12T16:09:12.639288+00:00",
   "is_public": true,
   "modified": "2022-12-19T14:34:16.726644+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": 1732528,
+      "created": "2022-12-28T04:54:01.572743+00:00",
+      "id": 789340,
+      "is_public": true,
+      "modified": "2022-12-28T04:54:01.572505+00:00",
+      "note": "Dragging images across Firefox tabs and instances is now more reliable and works with web apps like Google Drive and Photos.",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1805837,
+      "created": "2022-12-28T04:56:29.358609+00:00",
+      "id": 789341,
+      "is_public": true,
+      "modified": "2022-12-28T04:56:29.358432+00:00",
+      "note": "Added Friulian (fur) locale.",
+      "sort_num": 0,
+      "tag": "New"
+    }
+  ],
   "product": "Firefox",
   "release_date": "2022-12-12",
   "slug": "firefox-110.0a1-nightly",
