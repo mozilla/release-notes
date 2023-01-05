@@ -3,8 +3,8 @@
   "bug_search_url": "",
   "channel": "Release",
   "created": "2023-01-04T19:08:39.999491+00:00",
-  "is_public": false,
-  "modified": "2023-01-04T19:08:58.474629+00:00",
+  "is_public": true,
+  "modified": "2023-01-05T13:44:08.431790+00:00",
   "notes": [
     {
       "bug": null,
@@ -15,6 +15,42 @@
       "note": "Reference link to [108.0.1 release notes][1].\r\n\r\n\r\n  [1]: https://www.mozilla.org/firefox/108.0.1/releasenotes/",
       "sort_num": 0,
       "tag": ""
+    },
+    {
+      "bug": 1807697,
+      "created": "2023-01-05T13:42:35.589178+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": true,
+        "product": "Firefox",
+        "slug": "firefox-108.0.2-release",
+        "title": "Firefox 108.0.2 Release",
+        "version": "108.0.2"
+      },
+      "id": 789344,
+      "is_public": true,
+      "modified": "2023-01-05T13:42:35.588970+00:00",
+      "note": "The \"Tabs sharing devices\" menu item for WebRTC is now located in the tools menu on macOS only.",
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
+      "bug": 1806391,
+      "created": "2023-01-05T13:37:46.835362+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": true,
+        "product": "Firefox",
+        "slug": "firefox-108.0.2-release",
+        "title": "Firefox 108.0.2 Release",
+        "version": "108.0.2"
+      },
+      "id": 789343,
+      "is_public": true,
+      "modified": "2023-01-05T13:37:46.835138+00:00",
+      "note": "Fixes a crash for some users on Mac OS X 10.12-10.14 during video playback.",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
