@@ -51,6 +51,24 @@
       "note": "Fixes a crash for some users on Mac OS X 10.12-10.14 during video playback.",
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": 1806408,
+      "created": "2023-01-05T14:37:48.261130+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": true,
+        "product": "Firefox",
+        "slug": "firefox-108.0.2-release",
+        "title": "Firefox 108.0.2 Release",
+        "version": "108.0.2"
+      },
+      "id": 789345,
+      "is_public": true,
+      "modified": "2023-01-05T14:37:48.260618+00:00",
+      "note": "Fixes a crash that might occur when managing browser history.",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
