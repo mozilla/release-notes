@@ -35,6 +35,16 @@
       "note": "It's now possible to [import bookmarks, history and passwords][1] from Opera, Opera GX, and Vivaldi for all the folks who want to move over to Firefox instead!\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/import-data-another-browser",
       "sort_num": 0,
       "tag": "New"
+    },
+    {
+      "bug": 1672106,
+      "created": "2023-01-10T10:05:53.403162+00:00",
+      "id": 789348,
+      "is_public": true,
+      "modified": "2023-01-10T10:05:53.402906+00:00",
+      "note": "<!-- Nightly Only -->[Mixed content upgrading][1] of display content\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/Security/Mixed_content#upgrading_mixed-display_resources",
+      "sort_num": 0,
+      "tag": "Developer"
     }
   ],
   "product": "Firefox",
