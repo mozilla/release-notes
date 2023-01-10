@@ -11,7 +11,7 @@
       "created": "2022-12-08T19:21:15.867287+00:00",
       "id": 789318,
       "is_public": true,
-      "modified": "2022-12-13T12:35:24.200690+00:00",
+      "modified": "2023-01-10T19:46:33.802086+00:00",
       "note": "Import maps, which allow web pages to control the behavior of JavaScript imports, are now enabled by default.",
       "sort_num": 20,
       "tag": "New"
@@ -21,7 +21,7 @@
       "created": "2022-12-08T18:57:31.520965+00:00",
       "id": 789315,
       "is_public": true,
-      "modified": "2022-12-13T12:35:54.847806+00:00",
+      "modified": "2023-01-10T19:46:35.599635+00:00",
       "note": "Processes used for background tabs now use efficiency mode on Windows 11 to limit resource use.\r\n![Efficiency mode on Windows 11][1]\r\n\r\n\r\n  [1]: /media/img/firefox/releasenotes/note-images/108_efficiency-mode.png",
       "sort_num": 15,
       "tag": "New"
@@ -31,7 +31,7 @@
       "created": "2022-12-08T19:16:00.534371+00:00",
       "id": 789316,
       "is_public": true,
-      "modified": "2022-12-13T12:35:08.732681+00:00",
+      "modified": "2023-01-10T19:46:34.978743+00:00",
       "note": "The shift+esc keyboard shortcut now opens the [Process Manager][1], offering a way to quickly identify processes that are using too many resources.\r\n\r\n\r\n  [1]: https://support.mozilla.org/en-US/kb/task-manager-tabs-or-extensions-are-slowing-firefox",
       "sort_num": 10,
       "tag": "New"
@@ -41,7 +41,7 @@
       "created": "2022-12-12T17:38:35.093926+00:00",
       "id": 789329,
       "is_public": true,
-      "modified": "2022-12-12T20:29:36.616305+00:00",
+      "modified": "2023-01-10T19:47:01.971810+00:00",
       "note": "Improved frame scheduling when under load; this substantially improves Firefox\u2019s MotionMark scores.",
       "sort_num": 0,
       "tag": "New"
@@ -51,7 +51,7 @@
       "created": "2022-12-08T17:31:02.864215+00:00",
       "id": 789313,
       "is_public": true,
-      "modified": "2022-12-21T16:18:32.960784+00:00",
+      "modified": "2023-01-10T19:46:36.762161+00:00",
       "note": "Firefox now supports the WebMIDI API and a new [experimental mechanism][1] for controlling access to dangerous capabilities.\r\n\r\n\r\n  [1]: https://support.mozilla.org/en-US/kb/site-permission-add-ons",
       "sort_num": 0,
       "tag": "Changed"
@@ -61,7 +61,7 @@
       "created": "2022-12-09T13:52:02.854985+00:00",
       "id": 789325,
       "is_public": true,
-      "modified": "2022-12-13T13:16:05.143885+00:00",
+      "modified": "2023-01-10T19:46:33.111871+00:00",
       "note": "Firefox now supports properly color correcting images tagged with ICCv4 profiles.",
       "sort_num": 20,
       "tag": "Fixed"
@@ -79,7 +79,7 @@
       },
       "id": 789314,
       "is_public": true,
-      "modified": "2022-12-13T13:17:01.121662+00:00",
+      "modified": "2023-01-10T19:46:36.218268+00:00",
       "note": "Support for non-English characters when saving and printing PDF forms.",
       "sort_num": 15,
       "tag": "Fixed"
@@ -89,7 +89,7 @@
       "created": "2022-12-08T17:25:52.897252+00:00",
       "id": 789312,
       "is_public": true,
-      "modified": "2022-12-13T13:16:25.053072+00:00",
+      "modified": "2023-01-10T19:46:37.428935+00:00",
       "note": "The bookmarks toolbar's default \"Only show on New Tab\" state works correctly for blank new tabs. As before, you can change the bookmark toolbar's behavior using the toolbar context menu.",
       "sort_num": 10,
       "tag": "Fixed"
@@ -99,7 +99,7 @@
       "created": "2022-12-08T17:24:49.319281+00:00",
       "id": 789311,
       "is_public": true,
-      "modified": "2022-12-12T21:37:05.304273+00:00",
+      "modified": "2023-01-10T19:47:01.243188+00:00",
       "note": "Various [security][1] fixes.\r\n\r\n\r\n  [1]: https://www.mozilla.org/en-US/security/advisories/mfsa2022-51/",
       "sort_num": 0,
       "tag": "Fixed"
@@ -109,7 +109,7 @@
       "created": "2022-12-08T19:19:01.590358+00:00",
       "id": 789317,
       "is_public": true,
-      "modified": "2022-12-08T19:19:01.590181+00:00",
+      "modified": "2023-01-10T19:46:34.385204+00:00",
       "note": "Razvan Cojocaru: [Bug 1060421][1], [Bug 1719330][2]\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1060421\r\n  [2]: https://bugzilla.mozilla.org/show_bug.cgi?id=1719330",
       "sort_num": 0,
       "tag": "Community"

@@ -11,7 +11,7 @@
       "created": "2022-12-12T14:35:46.722183+00:00",
       "id": 789327,
       "is_public": true,
-      "modified": "2022-12-12T14:35:46.721990+00:00",
+      "modified": "2023-01-10T19:46:03.147650+00:00",
       "note": "[Manifest Version 3 (MV3)][1] is now enabled by default ([MV2 remains enabled/supported][2]). This major update also ushers an exciting user interface change in the form of the [new Unified Extensions button][3].\r\n\r\n\r\n  [1]: https://blog.mozilla.org/addons/2022/11/17/manifest-v3-signing-available-november-21-on-firefox-nightly/\r\n  [2]: https://blog.mozilla.org/addons/2022/05/18/manifest-v3-in-firefox-recap-next-steps/\r\n  [3]: https://blog.mozilla.org/addons/2022/11/17/unified-extensions-button-and-how-to-handle-permissions-in-manifest-v3/",
       "sort_num": 50,
       "tag": "New"
@@ -21,7 +21,7 @@
       "created": "2022-12-12T14:33:01.986721+00:00",
       "id": 789326,
       "is_public": true,
-      "modified": "2022-12-13T14:02:28.940330+00:00",
+      "modified": "2023-01-10T19:46:03.957667+00:00",
       "note": "Firefox builds in Spanish from Spain (es-ES) and Spanish from Argentina (es-AR) now come with a built-in dictionary that can be used with the Firefox spellchecker.",
       "sort_num": 0,
       "tag": "New"
@@ -31,7 +31,7 @@
       "created": "2022-11-28T01:35:35.478625+00:00",
       "id": 789302,
       "is_public": true,
-      "modified": "2022-12-12T16:09:31.869471+00:00",
+      "modified": "2023-01-10T19:46:04.853035+00:00",
       "note": "On macOS, Ctrl or Cmd + trackpad or mouse wheel now scrolls the page instead of zooming. This avoids accidental zooming and matches Safari's and Chrome's behavior. If you would like to restore the previous zooming behavior, set the `mousewheel.with_control.action` and `mousewheel.with_meta.action` prefs to \"3\" in about:config.",
       "sort_num": 0,
       "tag": "Changed"
