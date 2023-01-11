@@ -41,8 +41,18 @@
       "created": "2023-01-11T09:29:16.081694+00:00",
       "id": 789349,
       "is_public": true,
-      "modified": "2023-01-11T09:29:16.081513+00:00",
+      "modified": "2023-01-11T09:30:34.457623+00:00",
       "note": "GPU sandboxing has been enabled on Windows",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1744362,
+      "created": "2023-01-11T09:32:12.670282+00:00",
+      "id": 789350,
+      "is_public": true,
+      "modified": "2023-01-11T09:32:12.670084+00:00",
+      "note": "On Windows, third-party modules can now be blocked from injecting themselves into Firefox, which can be helpful if they are causing crashes or other undesirable behavior. See this page for more information.",
       "sort_num": 0,
       "tag": "New"
     },
