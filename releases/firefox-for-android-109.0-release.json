@@ -8,6 +8,76 @@
   "notes": [
     {
       "bug": null,
+      "created": "2023-01-12T21:05:16.109435+00:00",
+      "id": 789363,
+      "is_public": true,
+      "modified": "2023-01-12T21:05:16.109259+00:00",
+      "note": "In full-screen video, swiping will no longer trigger the address bar",
+      "sort_num": 70,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2023-01-12T21:04:56.971389+00:00",
+      "id": 789362,
+      "is_public": true,
+      "modified": "2023-01-12T21:04:56.971216+00:00",
+      "note": "Firefox now shows an undo option when removing a pinned site",
+      "sort_num": 60,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2023-01-12T21:04:35.472569+00:00",
+      "id": 789361,
+      "is_public": true,
+      "modified": "2023-01-12T21:04:35.472393+00:00",
+      "note": "Handle the Android 11+ ask every time for camera permissions when scanning QR codes",
+      "sort_num": 50,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2023-01-12T21:04:17.480719+00:00",
+      "id": 789360,
+      "is_public": true,
+      "modified": "2023-01-12T21:04:17.480525+00:00",
+      "note": "Search engines are now updated immediately when changing languages",
+      "sort_num": 40,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2023-01-12T21:03:59.645576+00:00",
+      "id": 789359,
+      "is_public": true,
+      "modified": "2023-01-12T21:03:59.645221+00:00",
+      "note": "Fixed a crash that happened with large clipboard contents and the address bar",
+      "sort_num": 30,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1794380,
+      "created": "2023-01-12T21:03:26.791244+00:00",
+      "id": 789358,
+      "is_public": true,
+      "modified": "2023-01-12T21:03:26.791059+00:00",
+      "note": "Improved the performance of canvas when the graphics process is used",
+      "sort_num": 20,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1803368,
+      "created": "2023-01-12T21:02:58.083642+00:00",
+      "id": 789357,
+      "is_public": true,
+      "modified": "2023-01-12T21:02:58.083472+00:00",
+      "note": "Fixed a problem with H.264-only video calls",
+      "sort_num": 10,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
       "created": "2023-01-12T21:02:23.790124+00:00",
       "id": 789356,
       "is_public": true,
