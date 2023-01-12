@@ -5,7 +5,58 @@
   "created": "2023-01-10T19:45:33.716067+00:00",
   "is_public": false,
   "modified": "2023-01-10T19:47:33.735418+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": null,
+      "created": "2023-01-12T20:57:04.732594+00:00",
+      "id": 789351,
+      "is_public": true,
+      "modified": "2023-01-12T20:57:04.732417+00:00",
+      "note": "Firefox now supports taking full-page screenshots to save them as PDFs. See the [Save web pages as PDFs in Firefox for iOS][1] article to learn how to use this feature.\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/save-web-pages-pdfs-firefox-ios",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2023-01-12T20:59:26.888098+00:00",
+      "id": 789355,
+      "is_public": true,
+      "modified": "2023-01-12T20:59:26.887899+00:00",
+      "note": "Deleting an inactive tab scrolls back to the beginning of the Inactive Tabs list.",
+      "sort_num": 40,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2023-01-12T20:59:10.846774+00:00",
+      "id": 789354,
+      "is_public": true,
+      "modified": "2023-01-12T20:59:10.846603+00:00",
+      "note": "Users can't remove the homepage shortcut.",
+      "sort_num": 30,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2023-01-12T20:58:47.948936+00:00",
+      "id": 789353,
+      "is_public": true,
+      "modified": "2023-01-12T20:58:47.948693+00:00",
+      "note": "A recently closed panel is not accessible after closing a tab.",
+      "sort_num": 20,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2023-01-12T20:58:27.632210+00:00",
+      "id": 789352,
+      "is_public": true,
+      "modified": "2023-01-12T20:58:27.632035+00:00",
+      "note": "Pinned Tabs do not show on the new tab page.",
+      "sort_num": 10,
+      "tag": "Fixed"
+    }
+  ],
   "product": "Firefox for iOS",
   "release_date": "2023-01-17",
   "slug": "firefox-for-ios-109.0-release",
