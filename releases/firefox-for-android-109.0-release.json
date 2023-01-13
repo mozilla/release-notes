@@ -4,7 +4,7 @@
   "channel": "Release",
   "created": "2023-01-10T19:45:33.672448+00:00",
   "is_public": false,
-  "modified": "2023-01-10T19:47:08.762823+00:00",
+  "modified": "2023-01-13T19:25:25.399741+00:00",
   "notes": [
     {
       "bug": null,
@@ -74,6 +74,16 @@
       "modified": "2023-01-12T21:02:58.083472+00:00",
       "note": "Fixed a problem with H.264-only video calls",
       "sort_num": 10,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2023-01-13T19:25:20.859983+00:00",
+      "id": 789377,
+      "is_public": true,
+      "modified": "2023-01-13T19:27:39.140693+00:00",
+      "note": "Various [security][1] fixes.\r\n\r\n\r\n  [1]: https://www.mozilla.org/en-US/security/advisories/mfsa2022-55/",
+      "sort_num": 0,
       "tag": "Fixed"
     },
     {
