@@ -5,7 +5,138 @@
   "created": "2023-01-10T19:45:33.634635+00:00",
   "is_public": false,
   "modified": "2023-01-10T19:46:39.420409+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": 1801291,
+      "created": "2023-01-13T17:56:48.656724+00:00",
+      "id": 789376,
+      "is_public": true,
+      "modified": "2023-01-13T17:57:30.091823+00:00",
+      "note": "[Manifest Version 3 (MV3)][1] extension support is now enabled by default ([MV2 remains enabled/supported][2]). This major update also ushers an exciting user interface change in the form of the [new extensions button][3].\r\n\r\n\r\n  [1]: https://blog.mozilla.org/addons/2022/11/17/manifest-v3-signing-available-november-21-on-firefox-nightly/\r\n  [2]: https://blog.mozilla.org/addons/2022/05/18/manifest-v3-in-firefox-recap-next-steps/\r\n  [3]: https://support.mozilla.org/kb/unified-extensions",
+      "sort_num": 40,
+      "tag": "New"
+    },
+    {
+      "bug": 1800933,
+      "created": "2023-01-13T17:55:56.184599+00:00",
+      "id": 789375,
+      "is_public": true,
+      "modified": "2023-01-13T17:55:56.184421+00:00",
+      "note": "The Arbitrary Code Guard exploit protection has been enabled in the media playback utility processes, improving security for Windows users.",
+      "sort_num": 30,
+      "tag": "New"
+    },
+    {
+      "bug": 1676068,
+      "created": "2023-01-13T17:55:29.948072+00:00",
+      "id": 789374,
+      "is_public": true,
+      "modified": "2023-01-13T17:55:29.947816+00:00",
+      "note": "The native HTML date picker for date and datetime inputs can now be used with a keyboard alone, improving its accessibility for screen reader users. Users with limited mobility can also now use common keyboard shortcuts to navigate the calendar grid and month selection spinners.",
+      "sort_num": 20,
+      "tag": "New"
+    },
+    {
+      "bug": 1804673,
+      "created": "2023-01-13T17:55:05.585394+00:00",
+      "id": 789373,
+      "is_public": true,
+      "modified": "2023-01-13T17:55:05.585122+00:00",
+      "note": "Firefox builds in the Spanish from Spain (es-ES) and Spanish from Argentina (es-AR) locales now come with a built-in dictionary for the Firefox spellchecker.",
+      "sort_num": 10,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2023-01-13T17:54:04.372249+00:00",
+      "id": 789372,
+      "is_public": true,
+      "modified": "2023-01-13T17:54:04.372045+00:00",
+      "note": "Effective on Jan 16, [Colorways][1] will no longer be in Firefox. Users will still be able to access saved and active Colorways from the Add-ons and themes page.\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/personalize-firefox-colorways",
+      "sort_num": 40,
+      "tag": "Changed"
+    },
+    {
+      "bug": 1781960,
+      "created": "2023-01-13T17:48:37.946603+00:00",
+      "id": 789371,
+      "is_public": true,
+      "modified": "2023-01-13T17:48:37.946329+00:00",
+      "note": "On macOS, Ctrl or Cmd + trackpad or mouse wheel now scrolls the page instead of zooming. This avoids accidental zooming and matches the behavior of other web browsers on macOS.",
+      "sort_num": 30,
+      "tag": "Changed"
+    },
+    {
+      "bug": null,
+      "created": "2023-01-13T17:47:59.102994+00:00",
+      "id": 789370,
+      "is_public": true,
+      "modified": "2023-01-13T17:47:59.102460+00:00",
+      "note": "The Recently Closed section of Firefox View now equips users with the ability to manually close/remove url links from the list.",
+      "sort_num": 20,
+      "tag": "Changed"
+    },
+    {
+      "bug": null,
+      "created": "2023-01-13T17:47:40.779463+00:00",
+      "id": 789369,
+      "is_public": true,
+      "modified": "2023-01-13T17:47:40.779295+00:00",
+      "note": "The empty state messages and graphic components surfaced in Firefox View for the Tab Pickup and Recently Closed sections have been updated for an improved user experience.",
+      "sort_num": 10,
+      "tag": "Changed"
+    },
+    {
+      "bug": 1803435,
+      "created": "2023-01-13T17:41:11.769515+00:00",
+      "id": 789366,
+      "is_public": true,
+      "modified": "2023-01-13T17:41:11.769336+00:00",
+      "note": "The [`scrollend`][1] event is now enabled by default. The event is fired when a scroll has completed.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/API/Element/scrollend_event",
+      "sort_num": 20,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 1758737,
+      "created": "2023-01-13T17:40:02.202202+00:00",
+      "id": 789365,
+      "is_public": true,
+      "modified": "2023-01-13T17:40:02.201830+00:00",
+      "note": "Firefox now permanently partitions Storage in third-party contexts independent of Storage Access to align with other browsers and provide better Web compatibility.",
+      "sort_num": 10,
+      "tag": "HTML5"
+    },
+    {
+      "bug": null,
+      "created": "2023-01-13T17:45:14.504944+00:00",
+      "id": 789367,
+      "is_public": true,
+      "modified": "2023-01-13T17:45:14.504763+00:00",
+      "note": "The ability to automatically break when code on the page hits an events handler has been available since Firefox 69. Firefox 109 now adds new support for the `scrollend` event. To use this new event breakpoint, open the JS debugger and find and expand the Event Listener Breakpoints section in the right hand column ([learn more][1]).\r\n![Screenshot of Breakpoint options showing new scrollend event availability][2]\r\n\r\n\r\n  [1]: https://firefox-source-docs.mozilla.org/devtools-user/debugger/set_event_listener_breakpoints/index.html\r\n  [2]: https://www.mozilla.org/media/img/firefox/releasenotes/note-images/109_devtools_scrollend.png",
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
+      "bug": null,
+      "created": "2023-01-13T17:46:05.604819+00:00",
+      "id": 789368,
+      "is_public": true,
+      "modified": "2023-01-13T17:46:05.604437+00:00",
+      "note": "Various bug fixes and new policies have been implemented in the latest version of Firefox. You can find more information in the [Firefox for Enterprise 109 Release Notes][1].\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/firefox-enterprise-109-release-notes",
+      "sort_num": 0,
+      "tag": "Enterprise"
+    },
+    {
+      "bug": null,
+      "created": "2023-01-13T17:37:48.410765+00:00",
+      "id": 789364,
+      "is_public": true,
+      "modified": "2023-01-13T17:37:48.410588+00:00",
+      "note": "Razvan Cojocaru: [Bug 1685648][1], [Bug 1800530][2]\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1685648\r\n  [2]: https://bugzilla.mozilla.org/show_bug.cgi?id=1800530",
+      "sort_num": 0,
+      "tag": "Community"
+    }
+  ],
   "product": "Firefox",
   "release_date": "2023-01-17",
   "slug": "firefox-109.0-release",
