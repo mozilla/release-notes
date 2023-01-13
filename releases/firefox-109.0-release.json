@@ -111,8 +111,8 @@
       "created": "2023-01-13T17:45:14.504944+00:00",
       "id": 789367,
       "is_public": true,
-      "modified": "2023-01-13T17:45:14.504763+00:00",
-      "note": "The ability to automatically break when code on the page hits an events handler has been available since Firefox 69. Firefox 109 now adds new support for the `scrollend` event. To use this new event breakpoint, open the JS debugger and find and expand the Event Listener Breakpoints section in the right hand column ([learn more][1]).\r\n![Screenshot of Breakpoint options showing new scrollend event availability][2]\r\n\r\n\r\n  [1]: https://firefox-source-docs.mozilla.org/devtools-user/debugger/set_event_listener_breakpoints/index.html\r\n  [2]: https://www.mozilla.org/media/img/firefox/releasenotes/note-images/109_devtools_scrollend.png",
+      "modified": "2023-01-13T19:00:45.302771+00:00",
+      "note": "The ability to automatically break when code on the page hits an events handler has been available since Firefox 69. Firefox 109 now adds new support for the `scrollend` event. To use this new event breakpoint, open the JS debugger and find and expand the Event Listener Breakpoints section in the right hand column ([learn more][1]).\r\n\r\n![Screenshot of Breakpoint options showing new scrollend event availability][2]\r\n\r\n\r\n  [1]: https://firefox-source-docs.mozilla.org/devtools-user/debugger/set_event_listener_breakpoints/index.html\r\n  [2]: https://www.mozilla.org/media/img/firefox/releasenotes/note-images/109_devtools_scrollend.png",
       "sort_num": 0,
       "tag": "Developer"
     },
