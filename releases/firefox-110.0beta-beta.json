@@ -45,6 +45,16 @@
       "note": "On Windows, third-party modules can now be blocked from injecting themselves into Firefox, which can be helpful if they are causing crashes or other undesirable behavior.",
       "sort_num": 0,
       "tag": "New"
+    },
+    {
+      "bug": 1802239,
+      "created": "2023-01-19T08:55:46.262922+00:00",
+      "id": 789378,
+      "is_public": true,
+      "modified": "2023-01-19T08:55:46.262743+00:00",
+      "note": "CSS named pages allows web pages to perform per-page layout and add page-breaks in a declarative manner.",
+      "sort_num": 0,
+      "tag": "HTML5"
     }
   ],
   "product": "Firefox",
