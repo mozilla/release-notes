@@ -15,6 +15,16 @@
       "note": "The deprecated U2F Javascript API is now disabled by default. The U2F protocol remains usable through the WebAuthn API. The U2F API can be re-enabled using the `security.webauth.u2f` preference.",
       "sort_num": 0,
       "tag": "Changed"
+    },
+    {
+      "bug": 1509346,
+      "created": "2023-01-23T21:08:27.277691+00:00",
+      "id": 789381,
+      "is_public": true,
+      "modified": "2023-01-23T21:08:27.277373+00:00",
+      "note": "Use of the `rel` attribute is now supported on `form` elements, allowing the specification of the relationship between the current document and the form target in a simpler, cross-browser way.",
+      "sort_num": 0,
+      "tag": "Developer"
     }
   ],
   "product": "Firefox",
