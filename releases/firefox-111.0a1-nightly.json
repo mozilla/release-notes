@@ -5,7 +5,18 @@
   "created": "2023-01-11T15:09:11.511058+00:00",
   "is_public": true,
   "modified": "2023-01-16T14:45:14.627142+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": 1809333,
+      "created": "2023-01-23T15:01:58.387373+00:00",
+      "id": 789380,
+      "is_public": true,
+      "modified": "2023-01-23T15:01:58.387195+00:00",
+      "note": "The deprecated U2F Javascript API is now disabled by default. The U2F protocol remains usable through the WebAuthn API. The U2F API can be re-enabled using the `security.webauth.u2f` preference.",
+      "sort_num": 0,
+      "tag": "Changed"
+    }
+  ],
   "product": "Firefox",
   "release_date": "2023-01-16",
   "slug": "firefox-111.0a1-nightly",
