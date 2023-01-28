@@ -15,6 +15,36 @@
       "note": "Reference link to [109.0 release notes][1].\r\n\r\n\r\n  [1]: https://www.mozilla.org/firefox/109.0/releasenotes/",
       "sort_num": 0,
       "tag": ""
+    },
+    {
+      "bug": 1809081,
+      "created": "2023-01-28T02:28:50.793160+00:00",
+      "id": 789385,
+      "is_public": true,
+      "modified": "2023-01-28T02:28:50.792992+00:00",
+      "note": "Fixed jank when loading pages containing a large number of emoji characters ([bug 1809081][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1809081",
+      "sort_num": 30,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1809151,
+      "created": "2023-01-28T02:24:19.842972+00:00",
+      "id": 789384,
+      "is_public": true,
+      "modified": "2023-01-28T02:24:19.842741+00:00",
+      "note": "Fixed an issue causing authentication prompts to not appear when loading pages in some enterprise environments ([bug 1809151][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1809151",
+      "sort_num": 20,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1811760,
+      "created": "2023-01-28T02:21:27.644933+00:00",
+      "id": 789383,
+      "is_public": true,
+      "modified": "2023-01-28T02:24:54.217077+00:00",
+      "note": "Fixed inconsistent sizing of event listener checkboxes inside the Inspector developer tool ([bug 1811760][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1811760",
+      "sort_num": 10,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
