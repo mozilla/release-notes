@@ -2,44 +2,26 @@
   "bug_list": "",
   "bug_search_url": "",
   "channel": "Release",
-  "created": "2022-12-15T18:04:55.661025+00:00",
-  "is_public": true,
-  "modified": "2022-12-19T14:35:04.641803+00:00",
+  "created": "2023-01-28T02:18:00.435603+00:00",
+  "is_public": false,
+  "modified": "2023-01-28T02:18:29.759617+00:00",
   "notes": [
     {
       "bug": null,
-      "created": "2022-12-15T18:07:13.687115+00:00",
-      "id": 789338,
+      "created": "2023-01-28T02:18:27.557995+00:00",
+      "id": 789382,
       "is_public": true,
-      "modified": "2023-01-28T02:18:27.709186+00:00",
-      "note": "Reference link to [108.0 release notes][1].\r\n\r\n\r\n  [1]: https://www.mozilla.org/firefox/108.0/releasenotes/",
+      "modified": "2023-01-28T02:18:44.189247+00:00",
+      "note": "Reference link to [109.0 release notes][1].\r\n\r\n\r\n  [1]: https://www.mozilla.org/firefox/109.0/releasenotes/",
       "sort_num": 0,
       "tag": ""
-    },
-    {
-      "bug": 1805883,
-      "created": "2022-12-16T12:43:09.677350+00:00",
-      "fixed_in_release": {
-        "channel": "Release",
-        "is_public": true,
-        "product": "Firefox",
-        "slug": "firefox-108.0.1-release",
-        "title": "Firefox 108.0.1 Release",
-        "version": "108.0.1"
-      },
-      "id": 789339,
-      "is_public": true,
-      "modified": "2023-01-28T02:18:26.133685+00:00",
-      "note": "Fixes the default search engine being reset on upgrade for profiles which were previously copied from a different location.",
-      "sort_num": 0,
-      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
-  "release_date": "2022-12-16",
-  "slug": "firefox-108.0.1-release",
+  "release_date": "2023-01-31",
+  "slug": "firefox-109.0.1-release",
   "system_requirements": "## Windows\r\n\r\n### Operating Systems (32-bit and 64-bit)\r\n - Windows 7 or later\r\n\r\n### Recommended Hardware\r\n-  Pentium 4 or newer processor that supports SSE2\r\n-  512MB of RAM / 2GB of RAM for the 64-bit version\r\n-  200MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- macOS 10.12 or later\r\n\r\n### Recommended Hardware\r\n- Mac computer with an Intel x86 or Apple silicon processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - glibc 2.17 or higher\r\n    - GTK+ 3.14 or higher\r\n    - libstdc++ 4.8.1 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - DBus 1.0 or higher\r\n    - GNOME 2.16 or higher\r\n    - libxtst 1.2.3 or higher\r\n    - NetworkManager 0.7 or higher\r\n    - PulseAudio",
   "text": "",
-  "title": "Firefox 108.0.1 Release",
-  "version": "108.0.1"
+  "title": "Firefox 109.0.1 Release",
+  "version": "109.0.1"
 }
