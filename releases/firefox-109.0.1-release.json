@@ -17,6 +17,16 @@
       "tag": ""
     },
     {
+      "bug": 1803154,
+      "created": "2023-01-28T02:32:24.611580+00:00",
+      "id": 789386,
+      "is_public": true,
+      "modified": "2023-01-28T02:32:24.611201+00:00",
+      "note": "Reverted changes to Windows font smoothing which caused poor rendering on some configurations ([bug 1803154][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1803154",
+      "sort_num": 40,
+      "tag": "Fixed"
+    },
+    {
       "bug": 1809081,
       "created": "2023-01-28T02:28:50.793160+00:00",
       "id": 789385,
