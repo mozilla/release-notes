@@ -17,14 +17,14 @@
       "tag": "New"
     },
     {
-      "bug": 1809333,
-      "created": "2023-01-23T15:01:58.387373+00:00",
-      "id": 789380,
+      "bug": 1497425,
+      "created": "2023-02-08T21:26:37.277203+00:00",
+      "id": 789389,
       "is_public": true,
-      "modified": "2023-01-23T15:01:58.387195+00:00",
-      "note": "The deprecated U2F Javascript API is now disabled by default. The U2F protocol remains usable through the WebAuthn API. The U2F API can be re-enabled using the `security.webauth.u2f` preference.",
+      "modified": "2023-02-08T21:26:37.276839+00:00",
+      "note": "Windows native notifications are now enabled by default.",
       "sort_num": 0,
-      "tag": "Changed"
+      "tag": "New"
     },
     {
       "bug": 1509346,
