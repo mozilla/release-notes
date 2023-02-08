@@ -47,6 +47,16 @@
       "tag": "New"
     },
     {
+      "bug": 1806587,
+      "created": "2023-02-08T11:19:32.654523+00:00",
+      "id": 789388,
+      "is_public": true,
+      "modified": "2023-02-08T11:19:32.654126+00:00",
+      "note": "*Date*, *time*, and *datetime-local* input fields can now be cleared with `Cmd+Backspace` and `Cmd+Delete` shortcut on Mac and `Ctrl+Backspace` and `Ctrl+Delete` on Windows and Linux",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1802239,
       "created": "2023-01-19T08:55:46.262922+00:00",
       "id": 789378,
