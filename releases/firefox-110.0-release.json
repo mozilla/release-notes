@@ -21,8 +21,8 @@
       "created": "2023-01-11T09:29:16.081694+00:00",
       "id": 789349,
       "is_public": true,
-      "modified": "2023-02-09T17:18:24.091358+00:00",
-      "note": "GPU sandboxing has been enabled on Windows\r\n\r\n*Note: A bug in the popular X-Mouse Button Control (XMBC) tool may cause mouse wheel scrolling to stop working. The author(s) are working on an update. Meanwhile, scrolling can be restored by reconfiguring XMBC: either disable the Make scroll wheel scroll window under cursor option in the global settings, or enable the Disable scroll window under cursor option if using a custom profile for Firefox.*",
+      "modified": "2023-02-09T17:40:15.531573+00:00",
+      "note": "GPU sandboxing has been enabled on Windows.\r\n\r\n*Note: A bug in the popular X-Mouse Button Control (XMBC) tool may cause mouse wheel scrolling to stop working. The author(s) are working on an update. Meanwhile, scrolling can be restored by reconfiguring XMBC: either disable the Make scroll wheel scroll window under cursor option in the global settings, or enable the Disable scroll window under cursor option if using a custom profile for Firefox.*",
       "sort_num": 0,
       "tag": "New"
     },
@@ -41,8 +41,8 @@
       "created": "2023-02-08T11:19:32.654523+00:00",
       "id": 789388,
       "is_public": true,
-      "modified": "2023-02-09T17:20:10.258112+00:00",
-      "note": "*Date*, *time*, and *datetime-local* input fields can now be cleared with `Cmd+Backspace` and `Cmd+Delete` shortcut on macOS and `Ctrl+Backspace` and `Ctrl+Delete` on Windows and Linux",
+      "modified": "2023-02-09T17:39:54.393086+00:00",
+      "note": "*Date*, *time*, and *datetime-local* input fields can now be cleared with `Cmd+Backspace` and `Cmd+Delete` shortcut on macOS and `Ctrl+Backspace` and `Ctrl+Delete` on Windows and Linux.",
       "sort_num": 0,
       "tag": "New"
     },
@@ -51,8 +51,8 @@
       "created": "2023-02-09T17:20:54.382694+00:00",
       "id": 789390,
       "is_public": true,
-      "modified": "2023-02-09T17:21:40.692229+00:00",
-      "note": "GPU-accelerated Canvas2D is enabled by default on macOS and Linux",
+      "modified": "2023-02-09T17:39:39.719875+00:00",
+      "note": "GPU-accelerated Canvas2D is enabled by default on macOS and Linux.",
       "sort_num": 0,
       "tag": "New"
     },
@@ -65,6 +65,36 @@
       "note": "WebGL performance improvement on Windows, MacOS and Linux.",
       "sort_num": 0,
       "tag": "New"
+    },
+    {
+      "bug": 1802239,
+      "created": "2023-01-19T08:55:46.262922+00:00",
+      "id": 789378,
+      "is_public": true,
+      "modified": "2023-02-09T17:35:20.943837+00:00",
+      "note": "Firefox now supports CSS named pages, allowing web pages to perform per-page layout and add page-breaks in a declarative manner when printing.",
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": null,
+      "created": "2023-02-09T17:36:40.912504+00:00",
+      "id": 789393,
+      "is_public": true,
+      "modified": "2023-02-09T17:39:23.456648+00:00",
+      "note": "Firefox now supports CSS size container queries, see [the MDN page][1] for documentation on this feature.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Container_Queries",
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": null,
+      "created": "2023-02-09T17:34:53.534543+00:00",
+      "id": 789392,
+      "is_public": true,
+      "modified": "2023-02-09T17:34:53.534369+00:00",
+      "note": "Various bug fixes and new policies have been implemented in the latest version of Firefox. You can find more information in the [Firefox for Enterprise 110 Release Notes][1].\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/firefox-enterprise-110-release-notes",
+      "sort_num": 0,
+      "tag": "Enterprise"
     }
   ],
   "product": "Firefox",

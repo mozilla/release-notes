@@ -41,8 +41,8 @@
       "created": "2023-01-11T09:29:16.081694+00:00",
       "id": 789349,
       "is_public": true,
-      "modified": "2023-02-09T17:18:24.091358+00:00",
-      "note": "GPU sandboxing has been enabled on Windows\r\n\r\n*Note: A bug in the popular X-Mouse Button Control (XMBC) tool may cause mouse wheel scrolling to stop working. The author(s) are working on an update. Meanwhile, scrolling can be restored by reconfiguring XMBC: either disable the Make scroll wheel scroll window under cursor option in the global settings, or enable the Disable scroll window under cursor option if using a custom profile for Firefox.*",
+      "modified": "2023-02-09T17:40:15.531573+00:00",
+      "note": "GPU sandboxing has been enabled on Windows.\r\n\r\n*Note: A bug in the popular X-Mouse Button Control (XMBC) tool may cause mouse wheel scrolling to stop working. The author(s) are working on an update. Meanwhile, scrolling can be restored by reconfiguring XMBC: either disable the Make scroll wheel scroll window under cursor option in the global settings, or enable the Disable scroll window under cursor option if using a custom profile for Firefox.*",
       "sort_num": 0,
       "tag": "New"
     },
@@ -61,7 +61,7 @@
       "created": "2023-01-19T08:55:46.262922+00:00",
       "id": 789378,
       "is_public": true,
-      "modified": "2023-01-23T10:48:23.597585+00:00",
+      "modified": "2023-02-09T17:35:20.943837+00:00",
       "note": "Firefox now supports CSS named pages, allowing web pages to perform per-page layout and add page-breaks in a declarative manner when printing.",
       "sort_num": 0,
       "tag": "HTML5"
