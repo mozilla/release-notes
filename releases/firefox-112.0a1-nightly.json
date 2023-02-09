@@ -2,46 +2,15 @@
   "bug_list": "",
   "bug_search_url": "",
   "channel": "Nightly",
-  "created": "2023-01-11T15:09:11.511058+00:00",
-  "is_public": true,
-  "modified": "2023-01-16T14:45:14.627142+00:00",
-  "notes": [
-    {
-      "bug": 1789661,
-      "created": "2023-01-30T17:34:57.826883+00:00",
-      "id": 789387,
-      "is_public": true,
-      "modified": "2023-02-09T22:07:22.887345+00:00",
-      "note": "<!-- Nightly Only -->The Awesomebar result menu is now enabled in Firefox Nightly, allowing you to remove history results and dismiss sponsored Firefox Suggest results.",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
-      "bug": 1497425,
-      "created": "2023-02-08T21:26:37.277203+00:00",
-      "id": 789389,
-      "is_public": true,
-      "modified": "2023-02-09T22:07:21.822875+00:00",
-      "note": "Windows native notifications are now enabled by default.",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
-      "bug": 1509346,
-      "created": "2023-01-23T21:08:27.277691+00:00",
-      "id": 789381,
-      "is_public": true,
-      "modified": "2023-02-09T22:07:20.364759+00:00",
-      "note": "Use of the `rel` attribute is now supported on `form` elements, allowing the specification of the relationship between the current document and the form target in a simpler, cross-browser way.",
-      "sort_num": 0,
-      "tag": "Developer"
-    }
-  ],
+  "created": "2023-02-09T22:06:35.492437+00:00",
+  "is_public": false,
+  "modified": "2023-02-09T22:07:25.538993+00:00",
+  "notes": [],
   "product": "Firefox",
-  "release_date": "2023-01-16",
-  "slug": "firefox-111.0a1-nightly",
+  "release_date": "2023-02-13",
+  "slug": "firefox-112.0a1-nightly",
   "system_requirements": "## Windows\r\n\r\n### Operating Systems (32-bit and 64-bit)\r\n - Windows 7 or later\r\n\r\n### Recommended Hardware\r\n-  Pentium 4 or newer processor that supports SSE2\r\n-  512MB of RAM / 2GB of RAM for the 64-bit version\r\n-  200MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- macOS 10.12 or later\r\n\r\n### Recommended Hardware\r\n- Macintosh computer with an Intel x86 or Apple silicon processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - glibc 2.17 or higher\r\n    - GTK+ 3.14 or higher\r\n    - libstdc++ 4.8.1 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - DBus 1.0 or higher\r\n    - GNOME 2.16 or higher\r\n    - libxtst 1.2.3 or higher\r\n    - NetworkManager 0.7 or higher\r\n    - PulseAudio",
   "text": "Firefox Nightly gets updated every day and as a consequence, the release notes for the Nightly channel are updated continuously to reflect features that have reached sufficient maturity to benefit from community feedback and bug reports. \r\n\r\n**Warning: Features listed here may or may *not* make a final release of Firefox.**\r\n\r\nIn addition to these release notes, you can follow ongoing development on our [@FirefoxNightly][1] Twitter account as well as read our [Nightly Blog][2].\r\n\r\n[1]: https://twitter.com/FirefoxNightly\r\n[2]: https://blog.nightly.mozilla.org",
-  "title": "Firefox 111.0a1 Nightly",
-  "version": "111.0a1"
+  "title": "Firefox 112.0a1 Nightly",
+  "version": "112.0a1"
 }
