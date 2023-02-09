@@ -45,6 +45,26 @@
       "note": "*Date*, *time*, and *datetime-local* input fields can now be cleared with `Cmd+Backspace` and `Cmd+Delete` shortcut on macOS and `Ctrl+Backspace` and `Ctrl+Delete` on Windows and Linux",
       "sort_num": 0,
       "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2023-02-09T17:20:54.382694+00:00",
+      "id": 789390,
+      "is_public": true,
+      "modified": "2023-02-09T17:21:40.692229+00:00",
+      "note": "GPU-accelerated Canvas2D is enabled by default on macOS and Linux",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2023-02-09T17:21:27.810174+00:00",
+      "id": 789391,
+      "is_public": true,
+      "modified": "2023-02-09T17:21:27.809999+00:00",
+      "note": "WebGL performance improvement on Windows, MacOS and Linux.",
+      "sort_num": 0,
+      "tag": "New"
     }
   ],
   "product": "Firefox",
