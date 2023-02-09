@@ -5,7 +5,48 @@
   "created": "2023-02-02T17:42:37.118052+00:00",
   "is_public": false,
   "modified": "2023-02-02T17:42:37.117821+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": 1806711,
+      "created": "2023-01-05T15:57:31.767348+00:00",
+      "id": 789346,
+      "is_public": true,
+      "modified": "2023-02-09T17:16:43.073175+00:00",
+      "note": "It's now possible to [import bookmarks, history and passwords][1] from Opera, Opera GX, and Vivaldi for all the folks who want to move over to Firefox instead!\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/import-data-another-browser",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1809519,
+      "created": "2023-01-11T09:29:16.081694+00:00",
+      "id": 789349,
+      "is_public": true,
+      "modified": "2023-02-09T17:18:24.091358+00:00",
+      "note": "GPU sandboxing has been enabled on Windows\r\n\r\n*Note: A bug in the popular X-Mouse Button Control (XMBC) tool may cause mouse wheel scrolling to stop working. The author(s) are working on an update. Meanwhile, scrolling can be restored by reconfiguring XMBC: either disable the Make scroll wheel scroll window under cursor option in the global settings, or enable the Disable scroll window under cursor option if using a custom profile for Firefox.*",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1744362,
+      "created": "2023-01-11T09:32:12.670282+00:00",
+      "id": 789350,
+      "is_public": true,
+      "modified": "2023-02-09T17:19:38.044334+00:00",
+      "note": "On Windows, third-party modules can now [be blocked from injecting themselves][1] into Firefox, which can be helpful if they are causing crashes or other undesirable behavior.\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/identify-problems-third-party-modules-firefox-windows",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1806587,
+      "created": "2023-02-08T11:19:32.654523+00:00",
+      "id": 789388,
+      "is_public": true,
+      "modified": "2023-02-09T17:20:10.258112+00:00",
+      "note": "*Date*, *time*, and *datetime-local* input fields can now be cleared with `Cmd+Backspace` and `Cmd+Delete` shortcut on macOS and `Ctrl+Backspace` and `Ctrl+Delete` on Windows and Linux",
+      "sort_num": 0,
+      "tag": "New"
+    }
+  ],
   "product": "Firefox",
   "release_date": "2023-02-14",
   "slug": "firefox-110.0-release",
