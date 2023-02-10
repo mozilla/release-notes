@@ -5,7 +5,48 @@
   "created": "2023-02-10T13:03:00.721148+00:00",
   "is_public": false,
   "modified": "2023-02-10T13:03:35.626982+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": null,
+      "created": "2023-02-10T17:14:06.059035+00:00",
+      "id": 789395,
+      "is_public": true,
+      "modified": "2023-02-10T17:14:06.058810+00:00",
+      "note": "Support for [Android themed app icons][1] in Android 13+\r\n\r\n\r\n  [1]: https://developer.android.com/about/versions/13/features#themed-app-icons",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2023-02-10T17:15:03.709721+00:00",
+      "id": 789396,
+      "is_public": true,
+      "modified": "2023-02-10T17:16:12.547050+00:00",
+      "note": "Improved selection magnifier placement when selecting text over several lines.",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2023-02-10T17:15:55.047427+00:00",
+      "id": 789397,
+      "is_public": true,
+      "modified": "2023-02-10T17:15:55.047247+00:00",
+      "note": "In Jump back in the Sync tab call to action can now be dismissed with the search bar open.",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2023-02-10T17:18:11.237037+00:00",
+      "id": 789398,
+      "is_public": true,
+      "modified": "2023-02-10T17:18:11.236801+00:00",
+      "note": "Various [security][1] fixes.\r\n\r\n\r\n  [1]: https://www.mozilla.org/en-US/security/advisories/",
+      "sort_num": 0,
+      "tag": "Fixed"
+    }
+  ],
   "product": "Firefox for Android",
   "release_date": "2023-02-14",
   "slug": "firefox-for-android-110.0-release",

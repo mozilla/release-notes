@@ -105,6 +105,16 @@
       "note": "Various bug fixes and new policies have been implemented in the latest version of Firefox. You can find more information in the [Firefox for Enterprise 110 Release Notes][1].\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/firefox-enterprise-110-release-notes",
       "sort_num": 0,
       "tag": "Enterprise"
+    },
+    {
+      "bug": null,
+      "created": "2023-02-10T17:18:11.237037+00:00",
+      "id": 789398,
+      "is_public": true,
+      "modified": "2023-02-10T17:18:11.236801+00:00",
+      "note": "Various [security][1] fixes.\r\n\r\n\r\n  [1]: https://www.mozilla.org/en-US/security/advisories/",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
