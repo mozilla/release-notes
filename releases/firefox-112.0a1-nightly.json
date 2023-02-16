@@ -5,7 +5,18 @@
   "created": "2023-02-09T22:06:35.492437+00:00",
   "is_public": true,
   "modified": "2023-02-13T16:56:14.934778+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": 1778801,
+      "created": "2023-02-16T02:11:30.732766+00:00",
+      "id": 789402,
+      "is_public": true,
+      "modified": "2023-02-16T02:11:30.732577+00:00",
+      "note": "<!-- Nightly Only -->Say hello to enhanced Picture-in-Picture! Rewind, check video duration, and effortlessly switch to full-screen mode on the web's most popular video websites.",
+      "sort_num": 0,
+      "tag": "New"
+    }
+  ],
   "product": "Firefox",
   "release_date": "2023-02-13",
   "slug": "firefox-112.0a1-nightly",
