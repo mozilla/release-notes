@@ -15,6 +15,16 @@
       "note": "<!-- Nightly Only -->Say hello to enhanced Picture-in-Picture! Rewind, check video duration, and effortlessly switch to full-screen mode on the web's most popular video websites.",
       "sort_num": 0,
       "tag": "New"
+    },
+    {
+      "bug": 1809333,
+      "created": "2023-01-23T15:01:58.387373+00:00",
+      "id": 789380,
+      "is_public": true,
+      "modified": "2023-02-20T09:16:25.054311+00:00",
+      "note": "The deprecated U2F Javascript API is now disabled by default. The U2F protocol remains usable through the WebAuthn API. The U2F API can be re-enabled using the `security.webauth.u2f` preference.",
+      "sort_num": 0,
+      "tag": "Changed"
     }
   ],
   "product": "Firefox",
