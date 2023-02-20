@@ -35,6 +35,16 @@
       "note": "The deprecated U2F Javascript API is now disabled by default. The U2F protocol remains usable through the WebAuthn API. The U2F API can be re-enabled using the `security.webauth.u2f` preference.",
       "sort_num": 0,
       "tag": "Changed"
+    },
+    {
+      "bug": 1811187,
+      "created": "2023-02-20T13:49:11.423195+00:00",
+      "id": 789404,
+      "is_public": true,
+      "modified": "2023-02-20T13:49:11.422987+00:00",
+      "note": "\u201cClear\u201d button, newly added to the date picker panel, allows users to quickly clear the input with type \u201cdate\u201c or \u201cdatetime-local\u201d and provides familiar experience across browsers.",
+      "sort_num": 0,
+      "tag": "HTML5"
     }
   ],
   "product": "Firefox",
