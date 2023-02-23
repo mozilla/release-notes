@@ -27,6 +27,16 @@
       "tag": "New"
     },
     {
+      "bug": 1467094,
+      "created": "2023-02-23T16:41:51.706482+00:00",
+      "id": 789406,
+      "is_public": true,
+      "modified": "2023-02-23T16:41:51.706303+00:00",
+      "note": "Ubuntu Linux users can now import their browser data from the Chromium Snap package. Currently, this will only work if Firefox is not also installed as a Snap package, but work is underway to address this!",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1809333,
       "created": "2023-01-23T15:01:58.387373+00:00",
       "id": 789380,
