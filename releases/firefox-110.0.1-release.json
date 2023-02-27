@@ -41,8 +41,8 @@
       "created": "2023-02-27T19:44:33.617679+00:00",
       "id": 789411,
       "is_public": true,
-      "modified": "2023-02-27T19:44:33.617473+00:00",
-      "note": "Fix for the context menu sometimes displayed on the background of other Firefox UI elements instead of the foreground on macOS ([bug 1763990][1]).\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1763990",
+      "modified": "2023-02-27T20:56:50.661528+00:00",
+      "note": "Fixed a bug causing the context menu to sometimes display on the background of other Firefox UI elements instead of the foreground on macOS ([bug 1763990][1]).\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1763990",
       "sort_num": 0,
       "tag": "Fixed"
     },
@@ -51,8 +51,8 @@
       "created": "2023-02-27T19:48:27.140537+00:00",
       "id": 789412,
       "is_public": true,
-      "modified": "2023-02-27T19:48:27.140362+00:00",
-      "note": "Fix *Manage bookmarks* link on empty bookmarks toolbar not responding to clicks on  Windows ([bug 1812636][1]).\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1812636",
+      "modified": "2023-02-27T20:55:04.075758+00:00",
+      "note": "Fixed *Manage bookmarks* link on empty bookmarks toolbar not responding to clicks on  Windows ([bug 1812636][1]).\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1812636",
       "sort_num": 0,
       "tag": "Fixed"
     },
@@ -61,8 +61,8 @@
       "created": "2023-02-27T19:50:49.504391+00:00",
       "id": 789413,
       "is_public": true,
-      "modified": "2023-02-27T19:50:49.504205+00:00",
-      "note": "Fix WebGL crashes on Linux when ran inside a VMWare virtual machine ([bug 1807942][1]).\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1807942",
+      "modified": "2023-02-27T20:54:50.096470+00:00",
+      "note": "Fixed WebGL crashes on Linux when ran inside a VMWare virtual machine ([bug 1807942][1]).\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1807942",
       "sort_num": 0,
       "tag": "Fixed"
     },
@@ -71,8 +71,8 @@
       "created": "2023-02-27T19:55:06.402192+00:00",
       "id": 789414,
       "is_public": true,
-      "modified": "2023-02-27T19:55:06.402013+00:00",
-      "note": "Fix a bug with CSP serialization causing bugs with the MitID Digital ID in Denmark ([Bug 1819096][1]).\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1807942",
+      "modified": "2023-02-27T20:54:41.280826+00:00",
+      "note": "Fixed a bug with CSP serialization causing bugs with the MitID Digital ID in Denmark ([Bug 1819096][1]).\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1807942",
       "sort_num": 0,
       "tag": "Fixed"
     }
