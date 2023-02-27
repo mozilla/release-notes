@@ -11,7 +11,7 @@
       "created": "2023-01-28T02:18:27.557995+00:00",
       "id": 789382,
       "is_public": true,
-      "modified": "2023-01-28T02:18:44.189247+00:00",
+      "modified": "2023-02-27T17:21:11.732181+00:00",
       "note": "Reference link to [109.0 release notes][1].\r\n\r\n\r\n  [1]: https://www.mozilla.org/firefox/109.0/releasenotes/",
       "sort_num": 0,
       "tag": ""
@@ -21,7 +21,7 @@
       "created": "2023-01-28T02:32:24.611580+00:00",
       "id": 789386,
       "is_public": true,
-      "modified": "2023-01-28T02:32:24.611201+00:00",
+      "modified": "2023-02-27T17:21:07.759202+00:00",
       "note": "Reverted changes to Windows font smoothing which caused poor rendering on some configurations ([bug 1803154][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1803154",
       "sort_num": 40,
       "tag": "Fixed"
@@ -31,7 +31,7 @@
       "created": "2023-01-28T02:28:50.793160+00:00",
       "id": 789385,
       "is_public": true,
-      "modified": "2023-01-28T02:28:50.792992+00:00",
+      "modified": "2023-02-27T17:21:08.692907+00:00",
       "note": "Fixed jank when loading pages containing a large number of emoji characters ([bug 1809081][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1809081",
       "sort_num": 30,
       "tag": "Fixed"
@@ -41,7 +41,7 @@
       "created": "2023-01-28T02:24:19.842972+00:00",
       "id": 789384,
       "is_public": true,
-      "modified": "2023-01-28T02:24:19.842741+00:00",
+      "modified": "2023-02-27T17:21:09.232179+00:00",
       "note": "Fixed an issue causing authentication prompts to not appear when loading pages in some enterprise environments ([bug 1809151][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1809151",
       "sort_num": 20,
       "tag": "Fixed"
@@ -51,7 +51,7 @@
       "created": "2023-01-28T02:21:27.644933+00:00",
       "id": 789383,
       "is_public": true,
-      "modified": "2023-01-28T02:24:54.217077+00:00",
+      "modified": "2023-02-27T17:21:10.485981+00:00",
       "note": "Fixed inconsistent sizing of event listener checkboxes inside the Inspector developer tool ([bug 1811760][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1811760",
       "sort_num": 10,
       "tag": "Fixed"
