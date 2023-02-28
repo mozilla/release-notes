@@ -1,0 +1,37 @@
+{
+  "bug_list": "",
+  "bug_search_url": "",
+  "channel": "Release",
+  "created": "2023-02-28T09:42:28.026926+00:00",
+  "is_public": false,
+  "modified": "2023-02-28T09:42:57.772948+00:00",
+  "notes": [
+    {
+      "bug": null,
+      "created": "2023-02-27T17:24:31.137815+00:00",
+      "id": 789409,
+      "is_public": true,
+      "modified": "2023-02-28T09:44:25.956020+00:00",
+      "note": "Fixed a [security][1]  bug.\r\n\r\n\r\n  [1]: https://www.mozilla.org/en-US/security/advisories/",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1819096,
+      "created": "2023-02-27T19:55:06.402192+00:00",
+      "id": 789414,
+      "is_public": true,
+      "modified": "2023-02-28T09:45:11.422271+00:00",
+      "note": "Fixed a bug with CSP serialization causing bugs with the MitID Digital ID in Denmark ([Bug 1819096][1]).\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1807942",
+      "sort_num": 0,
+      "tag": "Fixed"
+    }
+  ],
+  "product": "Firefox for Android",
+  "release_date": "2023-02-28",
+  "slug": "firefox-for-android-110.1.0-release",
+  "system_requirements": "## Operating systems\r\n - Android 5.0 or newer",
+  "text": "",
+  "title": "Firefox for Android 110.1.0 Release",
+  "version": "110.1.0"
+}
