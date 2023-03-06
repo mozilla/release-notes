@@ -47,6 +47,16 @@
       "tag": "New"
     },
     {
+      "bug": 1423125,
+      "created": "2023-03-06T15:28:10.490000+00:00",
+      "id": 789416,
+      "is_public": true,
+      "modified": "2023-03-06T15:28:10.489772+00:00",
+      "note": "You've always been able to un-close a tab by using (Cmd/Ctrl)-Shift-T. Now, that same shortcut will restore the previous session if there are no more closed tabs from the same session to re-open.",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1809333,
       "created": "2023-01-23T15:01:58.387373+00:00",
       "id": 789380,
