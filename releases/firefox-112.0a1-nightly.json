@@ -11,7 +11,7 @@
       "created": "2023-02-16T02:11:30.732766+00:00",
       "id": 789402,
       "is_public": true,
-      "modified": "2023-02-16T02:11:30.732577+00:00",
+      "modified": "2023-03-07T15:27:40.079718+00:00",
       "note": "<!-- Nightly Only -->Say hello to enhanced Picture-in-Picture! Rewind, check video duration, and effortlessly switch to full-screen mode on the web's most popular video websites.",
       "sort_num": 0,
       "tag": "New"
@@ -21,7 +21,7 @@
       "created": "2023-02-20T10:00:52.147538+00:00",
       "id": 789403,
       "is_public": true,
-      "modified": "2023-02-20T10:00:52.147352+00:00",
+      "modified": "2023-03-07T15:25:01.777986+00:00",
       "note": "Right-clicking on password fields now shows an option to reveal the password.",
       "sort_num": 0,
       "tag": "New"
@@ -31,7 +31,7 @@
       "created": "2023-02-23T16:41:51.706482+00:00",
       "id": 789406,
       "is_public": true,
-      "modified": "2023-02-23T16:41:51.706303+00:00",
+      "modified": "2023-03-07T15:24:59.486442+00:00",
       "note": "Ubuntu Linux users can now import their browser data from the Chromium Snap package. Currently, this will only work if Firefox is not also installed as a Snap package, but work is underway to address this!",
       "sort_num": 0,
       "tag": "New"
@@ -41,7 +41,7 @@
       "created": "2023-03-02T18:18:43.782928+00:00",
       "id": 789415,
       "is_public": true,
-      "modified": "2023-03-02T18:18:43.782682+00:00",
+      "modified": "2023-03-07T15:25:06.579174+00:00",
       "note": "Do you use the tab list panel in the tab bar? If so, you can now close tabs by middle-clicking items in that list.",
       "sort_num": 0,
       "tag": "New"
@@ -51,7 +51,7 @@
       "created": "2023-03-06T15:28:10.490000+00:00",
       "id": 789416,
       "is_public": true,
-      "modified": "2023-03-06T15:28:10.489772+00:00",
+      "modified": "2023-03-07T15:25:07.526074+00:00",
       "note": "You've always been able to un-close a tab by using (Cmd/Ctrl)-Shift-T. Now, that same shortcut will restore the previous session if there are no more closed tabs from the same session to re-open.",
       "sort_num": 0,
       "tag": "New"
@@ -61,7 +61,7 @@
       "created": "2023-01-23T15:01:58.387373+00:00",
       "id": 789380,
       "is_public": true,
-      "modified": "2023-02-20T09:16:25.054311+00:00",
+      "modified": "2023-03-07T15:25:05.644061+00:00",
       "note": "The deprecated U2F Javascript API is now disabled by default. The U2F protocol remains usable through the WebAuthn API. The U2F API can be re-enabled using the `security.webauth.u2f` preference.",
       "sort_num": 0,
       "tag": "Changed"
@@ -71,7 +71,7 @@
       "created": "2023-02-20T13:49:11.423195+00:00",
       "id": 789404,
       "is_public": true,
-      "modified": "2023-02-20T13:49:11.422987+00:00",
+      "modified": "2023-03-07T15:25:00.933313+00:00",
       "note": "\u201cClear\u201d button, newly added to the date picker panel, allows users to quickly clear the input with type \u201cdate\u201c or \u201cdatetime-local\u201d and provides familiar experience across browsers.",
       "sort_num": 0,
       "tag": "HTML5"
