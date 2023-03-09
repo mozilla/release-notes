@@ -5,7 +5,28 @@
   "created": "2023-03-09T14:13:07.737994+00:00",
   "is_public": false,
   "modified": "2023-03-09T14:13:07.737736+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": null,
+      "created": "2023-03-09T14:28:40.112938+00:00",
+      "id": 789422,
+      "is_public": true,
+      "modified": "2023-03-09T14:28:40.112707+00:00",
+      "note": "You can now view PDF documents as you browse, no need to download them and open external applications anymore for this frequent use case.",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2023-03-09T14:30:07.153380+00:00",
+      "id": 789423,
+      "is_public": true,
+      "modified": "2023-03-09T14:30:07.152934+00:00",
+      "note": "[Total Cookie Protection][1] was added to Enhanced Tracking Protection\u2019s Strict Mode. With Total Cookie Protection, every website gets its own \u201ccookie jar,\u201d [preventing cookies from being used to track you from site to site][2].\r\n\r\n[1]: https://blog.mozilla.org/security/2021/02/23/total-cookie-protection/\r\n[2]: https://support.mozilla.org/en-US/kb/enhanced-tracking-protection-firefox-android#w_total-cookie-protection",
+      "sort_num": 0,
+      "tag": "New"
+    }
+  ],
   "product": "Firefox for Android",
   "release_date": "2023-03-14",
   "slug": "firefox-for-android-111.0-release",
