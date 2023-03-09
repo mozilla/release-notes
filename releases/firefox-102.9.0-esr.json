@@ -5,7 +5,18 @@
   "created": "2023-03-09T14:12:29.536949+00:00",
   "is_public": false,
   "modified": "2023-03-09T14:12:29.536709+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": null,
+      "created": "2023-03-09T15:01:08.382320+00:00",
+      "id": 789432,
+      "is_public": true,
+      "modified": "2023-03-09T15:01:08.382146+00:00",
+      "note": "Various [security][1] fixes.\r\n\r\n\r\n  [1]: https://www.mozilla.org/en-US/security/advisories/",
+      "sort_num": 0,
+      "tag": "Fixed"
+    }
+  ],
   "product": "Firefox Extended Support Release",
   "release_date": "2023-03-14",
   "slug": "firefox-102.9.0-esr",
