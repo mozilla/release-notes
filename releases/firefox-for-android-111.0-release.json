@@ -25,6 +25,76 @@
       "note": "[Total Cookie Protection][1] was added to Enhanced Tracking Protection\u2019s Strict Mode. With Total Cookie Protection, every website gets its own \u201ccookie jar,\u201d [preventing cookies from being used to track you from site to site][2].\r\n\r\n[1]: https://blog.mozilla.org/security/2021/02/23/total-cookie-protection/\r\n[2]: https://support.mozilla.org/en-US/kb/enhanced-tracking-protection-firefox-android#w_total-cookie-protection",
       "sort_num": 0,
       "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2023-03-09T14:31:23.185732+00:00",
+      "id": 789424,
+      "is_public": true,
+      "modified": "2023-03-09T14:31:23.185550+00:00",
+      "note": "Added support for [ScreenOrientation.lock()][1].\r\n\r\n[1]: https://developer.mozilla.org/en-US/docs/Web/API/ScreenOrientation/lock",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2023-03-09T14:34:31.734098+00:00",
+      "id": 789425,
+      "is_public": true,
+      "modified": "2023-03-09T14:34:31.733766+00:00",
+      "note": "On Pixel devices running Android 12 or higher, you can now [share links][1] to recently viewed web content directly from the Recents screen. After visiting the content in an app, you can swipe to the Recents screen and find the app where they viewed the content, then tap on the link button to copy or share the URL.\r\n\r\n[1]: https://developer.android.com/guide/components/activities/recents#url-sharing",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2023-03-09T14:35:39.296349+00:00",
+      "id": 789426,
+      "is_public": true,
+      "modified": "2023-03-09T14:35:39.296151+00:00",
+      "note": "Firefox is making a security change in how Open in app and Android intents behave. You will need to confirm that the request to Open in app is expected. We will be working to refine and improve this change in upcoming releases.",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2023-03-09T14:36:08.510583+00:00",
+      "id": 789427,
+      "is_public": true,
+      "modified": "2023-03-09T14:37:42.723171+00:00",
+      "note": "Fixed a case on Android 13 when copying a password from your Firefox logins the clipboard preview will hide your password.",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2023-03-09T14:36:22.543064+00:00",
+      "id": 789428,
+      "is_public": true,
+      "modified": "2023-03-09T14:36:22.542882+00:00",
+      "note": "Fixed a case where a white bar will be shown at the bottom of the screen when scrolling and the toolbar bar is set to top.",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2023-03-09T14:40:18.648859+00:00",
+      "id": 789429,
+      "is_public": true,
+      "modified": "2023-03-09T14:40:18.648647+00:00",
+      "note": "Fixed a crash when interacting with the media playback notification in the notification drawer.",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2023-03-09T14:52:46.290818+00:00",
+      "id": 789430,
+      "is_public": true,
+      "modified": "2023-03-09T14:52:46.290511+00:00",
+      "note": "Various [security][1] fixes.\r\n\r\n\r\n  [1]: https://www.mozilla.org/en-US/security/advisories/",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox for Android",
