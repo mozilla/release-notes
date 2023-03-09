@@ -1,0 +1,57 @@
+{
+  "bug_list": "",
+  "bug_search_url": "",
+  "channel": "Release",
+  "created": "2023-03-09T14:11:53.799702+00:00",
+  "is_public": false,
+  "modified": "2023-03-09T14:11:53.799485+00:00",
+  "notes": [
+    {
+      "bug": null,
+      "created": "2023-03-09T14:15:58.428361+00:00",
+      "id": 789417,
+      "is_public": true,
+      "modified": "2023-03-09T14:15:58.428189+00:00",
+      "note": "Windows native notifications are now enabled.",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2023-03-09T14:16:21.027340+00:00",
+      "id": 789418,
+      "is_public": true,
+      "modified": "2023-03-09T14:16:21.027172+00:00",
+      "note": "Firefox Relay users can now opt-in to create Relay email masks directly from the Firefox credential manager. You must be signed in with your Firefox Account.",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2023-03-09T14:16:43.295055+00:00",
+      "id": 789419,
+      "is_public": true,
+      "modified": "2023-03-09T14:16:43.294864+00:00",
+      "note": "We\u2019ve added two new locales: Silhe Friulian (fur) and Sardinian (sc)",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2023-03-09T14:17:16.713639+00:00",
+      "id": 789420,
+      "is_public": true,
+      "modified": "2023-03-09T14:17:16.713334+00:00",
+      "note": "Use of the rel attribute is now supported on form elements, allowing the specification of the relationship between the current document and the form target in a simpler, cross-browser way.",
+      "sort_num": 0,
+      "tag": "HTML5"
+    }
+  ],
+  "product": "Firefox",
+  "release_date": "2023-03-14",
+  "slug": "firefox-111.0-release",
+  "system_requirements": "## Windows\r\n\r\n### Operating Systems (32-bit and 64-bit)\r\n - Windows 7 or later\r\n\r\n### Recommended Hardware\r\n-  Pentium 4 or newer processor that supports SSE2\r\n-  512MB of RAM / 2GB of RAM for the 64-bit version\r\n-  200MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- macOS 10.12 or later\r\n\r\n### Recommended Hardware\r\n- Mac computer with an Intel x86 or Apple silicon processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - glibc 2.17 or higher\r\n    - GTK+ 3.14 or higher\r\n    - libstdc++ 4.8.1 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - DBus 1.0 or higher\r\n    - GNOME 2.16 or higher\r\n    - libxtst 1.2.3 or higher\r\n    - NetworkManager 0.7 or higher\r\n    - PulseAudio",
+  "text": "",
+  "title": "Firefox 111.0 Release",
+  "version": "111.0"
+}
