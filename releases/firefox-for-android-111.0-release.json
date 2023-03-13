@@ -28,16 +28,6 @@
     },
     {
       "bug": null,
-      "created": "2023-03-09T14:31:23.185732+00:00",
-      "id": 789424,
-      "is_public": true,
-      "modified": "2023-03-09T14:31:23.185550+00:00",
-      "note": "Added support for [ScreenOrientation.lock()][1].\r\n\r\n[1]: https://developer.mozilla.org/en-US/docs/Web/API/ScreenOrientation/lock",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
-      "bug": null,
       "created": "2023-03-09T14:34:31.734098+00:00",
       "id": 789425,
       "is_public": true,
@@ -91,8 +81,8 @@
       "created": "2023-03-09T14:52:46.290818+00:00",
       "id": 789430,
       "is_public": true,
-      "modified": "2023-03-09T14:52:46.290511+00:00",
-      "note": "Various [security][1] fixes.\r\n\r\n\r\n  [1]: https://www.mozilla.org/en-US/security/advisories/",
+      "modified": "2023-03-13T19:29:28.961763+00:00",
+      "note": "Various [security][1] fixes.\r\n\r\n\r\n  [1]: https://www.mozilla.org/en-US/security/advisories/mfsa2023-09/",
       "sort_num": 0,
       "tag": "Fixed"
     }
