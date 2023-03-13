@@ -125,6 +125,16 @@
       "note": "Various [security][1] fixes.\r\n\r\n\r\n  [1]: https://www.mozilla.org/en-US/security/advisories/mfsa2023-05/",
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2023-03-13T16:57:16.542514+00:00",
+      "id": 789438,
+      "is_public": true,
+      "modified": "2023-03-13T16:57:26.066532+00:00",
+      "note": "With the release of Firefox 110, we are pleased to welcome the developers who contributed their first code change to Firefox in this release, 13 of whom were brand new volunteers! Please join us in thanking each of these diligent and enthusiastic individuals, and take a look at their contributions:\r\n\r\n* jacksonwhale: [1792162][1]\r\n* fanie: [1689631][2]\r\n* guus.der.kinderen: [1806630][3]\r\n* nihal: [434327][4]\r\n* Alex Jakobi: [1804597][5]\r\n* Anton Parygin: [1727874][6]\r\n* CanadaHonk: [1809051][7], [1809712][8]\r\n* Danny Colin: [1796797][9]\r\n* Diego E. Moreno: [1805100][10]\r\n* Kyutae Lee: [1742337][11], [1807402][12]\r\n* Luk\u00e1\u0161 Lipinsk\u00fd: [1802954][13]\r\n* Shrey Gupta: [1580495][14]\r\n* Tyler: [1335111][15], [1805885][16]\r\n* Tyler Brinkman: [1791438][17]\r\n\r\n[1]:https://bugzilla.mozilla.org/show_bug.cgi?id=1792162\r\n[2]:https://bugzilla.mozilla.org/show_bug.cgi?id=1689631\r\n[3]:https://bugzilla.mozilla.org/show_bug.cgi?id=1806630\r\n[4]:https://bugzilla.mozilla.org/show_bug.cgi?id=434327\r\n[5]:https://bugzilla.mozilla.org/show_bug.cgi?id=1804597\r\n[6]:https://bugzilla.mozilla.org/show_bug.cgi?id=1727874\r\n[7]: https://bugzilla.mozilla.org/show_bug.cgi?id=1809051\r\n[8]:https://bugzilla.mozilla.org/show_bug.cgi?id=1809712\r\n[9]:https://bugzilla.mozilla.org/show_bug.cgi?id=1796797\r\n[10]:https://bugzilla.mozilla.org/show_bug.cgi?id=1805100\r\n[11]:https://bugzilla.mozilla.org/show_bug.cgi?id=1742337\r\n[12]:https://bugzilla.mozilla.org/show_bug.cgi?id=1807402\r\n[13]:https://bugzilla.mozilla.org/show_bug.cgi?id=1802954\r\n[14]:https://bugzilla.mozilla.org/show_bug.cgi?id=1580495\r\n[15]:https://bugzilla.mozilla.org/show_bug.cgi?id=1335111\r\n[16]:https://bugzilla.mozilla.org/show_bug.cgi?id=1805885\r\n[17]:https://bugzilla.mozilla.org/show_bug.cgi?id=1791438",
+      "sort_num": 0,
+      "tag": "Community"
     }
   ],
   "product": "Firefox",
