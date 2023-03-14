@@ -5,7 +5,28 @@
   "created": "2023-03-07T15:24:21.455679+00:00",
   "is_public": true,
   "modified": "2023-03-14T03:16:12.161483+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": 1559986,
+      "created": "2023-03-14T19:44:15.160996+00:00",
+      "id": 789439,
+      "is_public": true,
+      "modified": "2023-03-14T19:45:53.901976+00:00",
+      "note": "Firefox's password manager now supports special characters and symbols for generated passwords",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 326701,
+      "created": "2023-03-14T19:45:42.570078+00:00",
+      "id": 789440,
+      "is_public": true,
+      "modified": "2023-03-14T19:45:42.569836+00:00",
+      "note": "Importing bookmarks from Safari or a Chrome-based browser? The favicons for those bookmarks will now also be imported by default to make them easier to identify.",
+      "sort_num": 0,
+      "tag": "New"
+    }
+  ],
   "product": "Firefox",
   "release_date": "2023-03-13",
   "slug": "firefox-113.0a1-nightly",
