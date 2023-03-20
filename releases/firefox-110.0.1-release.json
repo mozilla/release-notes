@@ -11,7 +11,7 @@
       "created": "2023-02-27T17:22:17.688370+00:00",
       "id": 789408,
       "is_public": true,
-      "modified": "2023-02-27T17:22:17.688176+00:00",
+      "modified": "2023-03-20T19:38:21.155507+00:00",
       "note": "Reference link to [110.0 release notes][1].\r\n\r\n\r\n  [1]: https://www.mozilla.org/firefox/110.0/releasenotes/",
       "sort_num": 0,
       "tag": ""
@@ -21,7 +21,7 @@
       "created": "2023-02-27T17:34:17.266468+00:00",
       "id": 789410,
       "is_public": true,
-      "modified": "2023-02-27T17:36:43.506829+00:00",
+      "modified": "2023-03-20T19:38:07.762223+00:00",
       "note": "Fixed clearing recent cookies clears all cookies ([bug 1816279][1]).\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1816279",
       "sort_num": 0,
       "tag": "Fixed"
@@ -31,7 +31,7 @@
       "created": "2023-02-27T19:44:33.617679+00:00",
       "id": 789411,
       "is_public": true,
-      "modified": "2023-02-27T20:56:50.661528+00:00",
+      "modified": "2023-03-20T19:38:05.665197+00:00",
       "note": "Fixed a bug causing the context menu to sometimes display on the background of other Firefox UI elements instead of the foreground on macOS ([bug 1763990][1]).\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1763990",
       "sort_num": 0,
       "tag": "Fixed"
@@ -41,7 +41,7 @@
       "created": "2023-02-27T19:48:27.140537+00:00",
       "id": 789412,
       "is_public": true,
-      "modified": "2023-02-27T20:55:04.075758+00:00",
+      "modified": "2023-03-20T19:38:04.684476+00:00",
       "note": "Fixed *Manage bookmarks* link on empty bookmarks toolbar not responding to clicks on  Windows ([bug 1812636][1]).\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1812636",
       "sort_num": 0,
       "tag": "Fixed"
@@ -51,7 +51,7 @@
       "created": "2023-02-27T19:50:49.504391+00:00",
       "id": 789413,
       "is_public": true,
-      "modified": "2023-02-27T20:54:50.096470+00:00",
+      "modified": "2023-03-20T19:38:03.801979+00:00",
       "note": "Fixed WebGL crashes on Linux when ran inside a VMWare virtual machine ([bug 1807942][1]).\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1807942",
       "sort_num": 0,
       "tag": "Fixed"
@@ -61,7 +61,7 @@
       "created": "2023-02-27T19:55:06.402192+00:00",
       "id": 789414,
       "is_public": true,
-      "modified": "2023-02-28T15:24:53.478001+00:00",
+      "modified": "2023-03-20T19:47:47.699410+00:00",
       "note": "Fixed a bug with CSP serialization causing bugs with the MitID Digital ID in Denmark ([Bug 1819096][1]).\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1819096",
       "sort_num": 0,
       "tag": "Fixed"

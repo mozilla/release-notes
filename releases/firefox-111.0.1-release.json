@@ -1,0 +1,37 @@
+{
+  "bug_list": "",
+  "bug_search_url": "",
+  "channel": "Release",
+  "created": "2023-03-20T19:37:33.108771+00:00",
+  "is_public": false,
+  "modified": "2023-03-20T19:38:25.700308+00:00",
+  "notes": [
+    {
+      "bug": null,
+      "created": "2023-03-20T19:38:44.823649+00:00",
+      "id": 789442,
+      "is_public": true,
+      "modified": "2023-03-20T19:38:44.823463+00:00",
+      "note": "Reference link to [111.0 release notes][1].\r\n\r\n\r\n  [1]: https://www.mozilla.org/firefox/111.0/releasenotes/",
+      "sort_num": 0,
+      "tag": ""
+    },
+    {
+      "bug": 1658986,
+      "created": "2023-03-20T19:51:33.124970+00:00",
+      "id": 789443,
+      "is_public": true,
+      "modified": "2023-03-20T19:51:33.124621+00:00",
+      "note": "Fixed a crash experienced by macOSX while pinch-zooming under some circumstances. ([bug 1658986][1]).\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1658986",
+      "sort_num": 0,
+      "tag": "Fixed"
+    }
+  ],
+  "product": "Firefox",
+  "release_date": "2023-03-21",
+  "slug": "firefox-111.0.1-release",
+  "system_requirements": "## Windows\r\n\r\n### Operating Systems (32-bit and 64-bit)\r\n - Windows 7 or later\r\n\r\n### Recommended Hardware\r\n-  Pentium 4 or newer processor that supports SSE2\r\n-  512MB of RAM / 2GB of RAM for the 64-bit version\r\n-  200MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- macOS 10.12 or later\r\n\r\n### Recommended Hardware\r\n- Mac computer with an Intel x86 or Apple silicon processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - glibc 2.17 or higher\r\n    - GTK+ 3.14 or higher\r\n    - libstdc++ 4.8.1 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - DBus 1.0 or higher\r\n    - GNOME 2.16 or higher\r\n    - libxtst 1.2.3 or higher\r\n    - NetworkManager 0.7 or higher\r\n    - PulseAudio",
+  "text": "",
+  "title": "Firefox 111.0.1 Release",
+  "version": "111.0.1"
+}
