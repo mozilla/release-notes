@@ -35,6 +35,16 @@
       "note": "Importing bookmarks from Safari or a Chrome-based browser? The favicons for those bookmarks will now also be imported by default to make them easier to identify.",
       "sort_num": 0,
       "tag": "New"
+    },
+    {
+      "bug": 1572644,
+      "created": "2023-03-22T19:33:30.288111+00:00",
+      "id": 789445,
+      "is_public": true,
+      "modified": "2023-03-22T19:33:30.287908+00:00",
+      "note": "Module scripts can now import other ES module scripts on worklets.",
+      "sort_num": 0,
+      "tag": "HTML5"
     }
   ],
   "product": "Firefox",
