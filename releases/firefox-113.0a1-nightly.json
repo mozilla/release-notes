@@ -37,6 +37,26 @@
       "tag": "New"
     },
     {
+      "bug": 1822308,
+      "created": "2023-03-23T15:21:18.135941+00:00",
+      "id": 789446,
+      "is_public": true,
+      "modified": "2023-03-23T15:21:18.135742+00:00",
+      "note": "The Windows GPU sandbox first shipped in the Firefox 110 release has been tightened to enhance the security benefits it provides",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 580928,
+      "created": "2023-03-23T15:24:19.515539+00:00",
+      "id": 789447,
+      "is_public": true,
+      "modified": "2023-03-23T15:24:19.515188+00:00",
+      "note": "A 13-year-old feature request was fulfilled, and Firefox now supports files being drag-and-dropped directly from Microsoft Outlook. A special thanks to volunteer contributor Marco Spiess for helping to get this across the finish line!",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1572644,
       "created": "2023-03-22T19:33:30.288111+00:00",
       "id": 789445,
