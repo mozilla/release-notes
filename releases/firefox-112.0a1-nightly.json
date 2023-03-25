@@ -57,6 +57,16 @@
       "tag": "New"
     },
     {
+      "bug": 1814487,
+      "created": "2023-03-15T00:32:25.415413+00:00",
+      "id": 789441,
+      "is_public": true,
+      "modified": "2023-03-25T03:30:19.223129+00:00",
+      "note": "Users on macOS and Linux can now use FIDO2 / WebAuthn authenticators over USB. Some advanced features, such as fully passwordless logins, require a PIN to be set on the authenticator.",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1809333,
       "created": "2023-01-23T15:01:58.387373+00:00",
       "id": 789380,
