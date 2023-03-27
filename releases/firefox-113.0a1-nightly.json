@@ -41,8 +41,8 @@
       "created": "2023-03-23T15:21:18.135941+00:00",
       "id": 789446,
       "is_public": true,
-      "modified": "2023-03-23T15:21:18.135742+00:00",
-      "note": "The Windows GPU sandbox first shipped in the Firefox 110 release has been tightened to enhance the security benefits it provides",
+      "modified": "2023-03-27T18:27:14.545472+00:00",
+      "note": "The Windows GPU sandbox first shipped in the Firefox 110 release has been tightened to enhance the security benefits it provides.",
       "sort_num": 0,
       "tag": "New"
     },
@@ -53,6 +53,16 @@
       "is_public": true,
       "modified": "2023-03-23T15:24:19.515188+00:00",
       "note": "A 13-year-old feature request was fulfilled, and Firefox now supports files being drag-and-dropped directly from Microsoft Outlook. A special thanks to volunteer contributor Marco Spiess for helping to get this across the finish line!",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 660452,
+      "created": "2023-03-27T18:27:00.988014+00:00",
+      "id": 789449,
+      "is_public": true,
+      "modified": "2023-03-27T18:27:00.987838+00:00",
+      "note": "Mac users can now access macOS Services directly from the context menu.",
       "sort_num": 0,
       "tag": "New"
     },
