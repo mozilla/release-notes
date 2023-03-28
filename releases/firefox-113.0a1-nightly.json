@@ -67,6 +67,16 @@
       "tag": "New"
     },
     {
+      "bug": 1531812,
+      "created": "2023-03-28T17:28:44.826241+00:00",
+      "id": 789450,
+      "is_public": true,
+      "modified": "2023-03-28T17:28:44.825649+00:00",
+      "note": "Removed the long-deprecated mozRTCPeerConnection, mozRTCIceCandidate, and mozRTCSessionDescription types. Sites should utilize the non-prefixed variants instead.",
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
       "bug": 1572644,
       "created": "2023-03-22T19:33:30.288111+00:00",
       "id": 789445,
