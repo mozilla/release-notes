@@ -7,6 +7,16 @@
   "modified": "2023-03-14T03:16:12.161483+00:00",
   "notes": [
     {
+      "bug": 1789661,
+      "created": "2023-01-30T17:34:57.826883+00:00",
+      "id": 789387,
+      "is_public": true,
+      "modified": "2023-03-30T19:19:55.155136+00:00",
+      "note": "<!-- Nightly Only -->The Awesomebar result menu is now enabled in Firefox Nightly, allowing you to remove history results and dismiss sponsored Firefox Suggest results.",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1778801,
       "created": "2023-02-16T02:11:30.732766+00:00",
       "id": 789402,
@@ -71,8 +81,8 @@
       "created": "2023-03-28T18:04:24.092511+00:00",
       "id": 789453,
       "is_public": true,
-      "modified": "2023-03-28T18:04:24.092119+00:00",
-      "note": "Websites that use window.print() can now be printed in [Firefox for Android Nightly][1] builds.\r\n\r\n\r\n  [1]: https://play.google.com/store/apps/details?id=org.mozilla.fenix",
+      "modified": "2023-03-30T19:17:33.712444+00:00",
+      "note": "<!-- Nightly Only -->Websites that use window.print() can now be printed in [Firefox for Android Nightly][1] builds.\r\n\r\n\r\n  [1]: https://play.google.com/store/apps/details?id=org.mozilla.fenix",
       "sort_num": 0,
       "tag": "New"
     },
@@ -141,8 +151,8 @@
       "created": "2023-03-28T17:41:15.170849+00:00",
       "id": 789452,
       "is_public": true,
-      "modified": "2023-03-28T17:41:15.170651+00:00",
-      "note": "Nightly and early beta builds now behave similar to the other browsers when splitting a node (e.g., typing `Enter` to split a paragraph) and joining two nodes (e.g., typing `Backspace` at start of a paragraph to join the paragraph and the previous one) when using the built-in editor. When a node is split, the built-in editor creates new node after the original one, i.e., creates the right node. Similarly, when two nodes are joined, the built-in editor deletes the latter node and moves its children to end of the preceding node.\r\n\r\nStarting with Firefox 113, this new behavior can also be enabled by web apps themselves for all channels with a call of `document.execCommand(\"enableCompatibleJoinSplitDirection\", false, \"false\")` (introduced in [bug 1810663][1]). This command is available only when `designMode` is set to `\"on\"` or there is at least one editable element which has `contenteditable` attribute, and the built-in editor has not handled the `insertParagraph`, `delete`, or `forwardDelete` command.\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1810663",
+      "modified": "2023-03-30T19:17:47.379530+00:00",
+      "note": "<!-- Nightly Only -->Nightly and early beta builds now behave similar to the other browsers when splitting a node (e.g., typing `Enter` to split a paragraph) and joining two nodes (e.g., typing `Backspace` at start of a paragraph to join the paragraph and the previous one) when using the built-in editor. When a node is split, the built-in editor creates new node after the original one, i.e., creates the right node. Similarly, when two nodes are joined, the built-in editor deletes the latter node and moves its children to end of the preceding node.\r\n\r\nStarting with Firefox 113, this new behavior can also be enabled by web apps themselves for all channels with a call of `document.execCommand(\"enableCompatibleJoinSplitDirection\", false, \"false\")` (introduced in [bug 1810663][1]). This command is available only when `designMode` is set to `\"on\"` or there is at least one editable element which has `contenteditable` attribute, and the built-in editor has not handled the `insertParagraph`, `delete`, or `forwardDelete` command.\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1810663",
       "sort_num": 0,
       "tag": "HTML5"
     }
