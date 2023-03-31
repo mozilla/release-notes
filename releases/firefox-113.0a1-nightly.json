@@ -175,6 +175,16 @@
       "note": "Firefox now supports the [`scripting`][1] CSS media query.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/CSS/@media/scripting",
       "sort_num": 0,
       "tag": "HTML5"
+    },
+    {
+      "bug": 1818819,
+      "created": "2023-03-31T20:09:47.684372+00:00",
+      "id": 789457,
+      "is_public": true,
+      "modified": "2023-03-31T20:09:47.684198+00:00",
+      "note": "The `forced-color-adjust` property is now supported, allowing authors to opt an element out of color changes in Forced Color Mode for improved readability where the automatically-picked contrasting colors are not ideal.",
+      "sort_num": 0,
+      "tag": "HTML5"
     }
   ],
   "product": "Firefox",
