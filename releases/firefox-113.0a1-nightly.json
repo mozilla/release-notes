@@ -117,6 +117,16 @@
       "tag": "New"
     },
     {
+      "bug": 1810641,
+      "created": "2023-03-31T20:17:41.529665+00:00",
+      "id": 789458,
+      "is_public": true,
+      "modified": "2023-03-31T20:17:41.529481+00:00",
+      "note": "On Windows, the elastic overscroll effect is now enabled by default, with two fingers scrolling on touchpad or scrolling on touchscreen, you will see a bouncing animation when scrolling past the edge of a scroll container.",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1531812,
       "created": "2023-03-28T17:28:44.826241+00:00",
       "id": 789450,
