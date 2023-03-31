@@ -165,6 +165,16 @@
       "note": "<!-- Nightly Only -->Nightly and early beta builds now behave similar to the other browsers when splitting a node (e.g., typing `Enter` to split a paragraph) and joining two nodes (e.g., typing `Backspace` at start of a paragraph to join the paragraph and the previous one) when using the built-in editor. When a node is split, the built-in editor creates new node after the original one, i.e., creates the right node. Similarly, when two nodes are joined, the built-in editor deletes the latter node and moves its children to end of the preceding node.\r\n\r\nStarting with Firefox 113, this new behavior can also be enabled by web apps themselves for all channels with a call of `document.execCommand(\"enableCompatibleJoinSplitDirection\", false, \"false\")` (introduced in [bug 1810663][1]). This command is available only when `designMode` is set to `\"on\"` or there is at least one editable element which has `contenteditable` attribute, and the built-in editor has not handled the `insertParagraph`, `delete`, or `forwardDelete` command.\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1810663",
       "sort_num": 0,
       "tag": "HTML5"
+    },
+    {
+      "bug": 1166581,
+      "created": "2023-03-31T19:57:03.346116+00:00",
+      "id": 789456,
+      "is_public": true,
+      "modified": "2023-03-31T19:57:03.345944+00:00",
+      "note": "Firefox now supports the [`scripting`][1] CSS media query.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/CSS/@media/scripting",
+      "sort_num": 0,
+      "tag": "HTML5"
     }
   ],
   "product": "Firefox",
