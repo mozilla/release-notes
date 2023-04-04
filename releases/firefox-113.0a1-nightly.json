@@ -195,6 +195,16 @@
       "note": "The `forced-color-adjust` property is now supported, allowing authors to opt an element out of color changes in Forced Color Mode for improved readability where the automatically-picked contrasting colors are not ideal.",
       "sort_num": 0,
       "tag": "HTML5"
+    },
+    {
+      "bug": 1818754,
+      "created": "2023-04-04T03:22:49.745254+00:00",
+      "id": 789459,
+      "is_public": true,
+      "modified": "2023-04-04T03:22:49.745070+00:00",
+      "note": "<!-- Nightly Only -->The WebTransport API has been enabled in the Nightly channel, including RFC 9297 support, starting with Firefox 113. It's expected to ship to release in the near future. WebTransport is expected to see widespread use for media delivery and other applications. WebTransport is built on top of QUIC/HTTP3 and provides reliable streams and reliable and unreliable datagrams.",
+      "sort_num": 0,
+      "tag": "HTML5"
     }
   ],
   "product": "Firefox",
