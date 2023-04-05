@@ -127,6 +127,16 @@
       "tag": "New"
     },
     {
+      "bug": 1825580,
+      "created": "2023-04-05T02:16:52.394727+00:00",
+      "id": 789460,
+      "is_public": true,
+      "modified": "2023-04-05T16:45:42.259333+00:00",
+      "note": "AV1 Image Format files containing animations (AVIS) are now supported, improving Firefox' support for AVIF images across the web.",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1531812,
       "created": "2023-03-28T17:28:44.826241+00:00",
       "id": 789450,
@@ -203,16 +213,6 @@
       "is_public": true,
       "modified": "2023-04-04T19:24:07.142212+00:00",
       "note": "<!-- Nightly Only -->Starting with Firefox 113, the WebTransport API is now enabled in the Nightly channel, including RFC 9297 support. It's expected to ship to release in the near future. WebTransport is expected to see widespread use for media delivery and other applications. WebTransport is built on top of QUIC/HTTP3 and provides reliable streams and reliable and unreliable datagrams.",
-      "sort_num": 0,
-      "tag": "HTML5"
-    },
-    {
-      "bug": 1825580,
-      "created": "2023-04-05T02:16:52.394727+00:00",
-      "id": 789460,
-      "is_public": true,
-      "modified": "2023-04-05T02:16:52.394545+00:00",
-      "note": "AV1 Image Format files containing animations (AVIS) are now supported, improving Firefox' support for AVIF images across the web.",
       "sort_num": 0,
       "tag": "HTML5"
     }
