@@ -11,7 +11,7 @@
       "created": "2023-03-09T14:15:58.428361+00:00",
       "id": 789417,
       "is_public": true,
-      "modified": "2023-03-09T14:15:58.428189+00:00",
+      "modified": "2023-04-05T19:51:29.244279+00:00",
       "note": "Windows native notifications are now enabled.",
       "sort_num": 0,
       "tag": "New"
@@ -21,7 +21,7 @@
       "created": "2023-03-09T14:16:21.027340+00:00",
       "id": 789418,
       "is_public": true,
-      "modified": "2023-03-09T14:16:21.027172+00:00",
+      "modified": "2023-04-05T19:51:33.298967+00:00",
       "note": "Firefox Relay users can now opt-in to create Relay email masks directly from the Firefox credential manager. You must be signed in with your Firefox Account.",
       "sort_num": 0,
       "tag": "New"
@@ -31,7 +31,7 @@
       "created": "2023-03-09T14:16:43.295055+00:00",
       "id": 789419,
       "is_public": true,
-      "modified": "2023-03-09T14:22:01.945378+00:00",
+      "modified": "2023-04-05T19:51:30.290469+00:00",
       "note": "We\u2019ve added two new locales: Silhe Friulian (fur) and Sardinian (sc).",
       "sort_num": 0,
       "tag": "New"
@@ -41,7 +41,7 @@
       "created": "2023-03-09T14:17:16.713639+00:00",
       "id": 789420,
       "is_public": true,
-      "modified": "2023-03-09T14:17:16.713334+00:00",
+      "modified": "2023-04-05T19:51:31.359027+00:00",
       "note": "Use of the rel attribute is now supported on form elements, allowing the specification of the relationship between the current document and the form target in a simpler, cross-browser way.",
       "sort_num": 0,
       "tag": "HTML5"
@@ -51,7 +51,7 @@
       "created": "2023-03-09T14:21:38.373782+00:00",
       "id": 789421,
       "is_public": true,
-      "modified": "2023-03-09T14:21:38.373615+00:00",
+      "modified": "2023-04-05T19:51:32.327587+00:00",
       "note": "[Origin private file system access][1] is now enabled, a new [storage API][2] that enables web applications to store and retrieve data from and to the filesystem in a sandbox.\r\n\r\n[1]: https://fs.spec.whatwg.org/\r\n[2]: https://developer.mozilla.org/en-US/docs/Web/API/File_System_Access_API",
       "sort_num": 0,
       "tag": "HTML5"
@@ -61,7 +61,7 @@
       "created": "2023-03-09T14:52:46.290818+00:00",
       "id": 789430,
       "is_public": true,
-      "modified": "2023-03-13T19:29:28.961763+00:00",
+      "modified": "2023-04-05T19:57:19.690208+00:00",
       "note": "Various [security][1] fixes.\r\n\r\n\r\n  [1]: https://www.mozilla.org/en-US/security/advisories/mfsa2023-09/",
       "sort_num": 0,
       "tag": "Fixed"
@@ -71,7 +71,7 @@
       "created": "2023-03-13T16:28:45.769071+00:00",
       "id": 789437,
       "is_public": true,
-      "modified": "2023-03-13T16:40:17.937894+00:00",
+      "modified": "2023-04-05T19:52:52.629258+00:00",
       "note": "With the release of Firefox 111, we are pleased to welcome the developers who contributed their first code change to Firefox in this release, 18 of whom were brand new volunteers! Please join us in thanking each of these diligent and enthusiastic individuals, and take a look at their contributions:\r\n\r\n* arcade: [1810343][1]\r\n* eprendergast: [1793918][2], [1811542][3]\r\n* jokeyrhyme: [1807468][4]\r\n* portiawuu: [1788920][5]\r\n* Adalbert Chamisso: [1810503][6]\r\n* Arsen Arsenovi\u0107: [1811714][7]\r\n* Asbj\u00f8rn Sloth T\u00f8nnesen: [1808975][8]\r\n* G Jeevika: [1742697][9]\r\n* Ho Cheung: [1633662][10], [1689565][11], [1777218][12], [1811225][13]\r\n* Jaime Soriano: [1815736][14]\r\n* Jihye Hong: [1793747][15]\r\n* Jon Jensen: [1812696][16]\r\n* Justin Link: [1787974][17], [1812080][18]\r\n* LuYahan: [1800431][19], [1812559][20]\r\n* Michael Holloway: [1804461][21]\r\n* Milos Milovanovic: [1798748][22]\r\n* PS: [1815419][23]\r\n* Qijia Liu: [1810076][24]\r\n* Richard Broker: [1777204][25]\r\n\r\n[1]:https://bugzilla.mozilla.org/show_bug.cgi?id=1810343\r\n[2]:https://bugzilla.mozilla.org/show_bug.cgi?id=1793918\r\n[3]:https://bugzilla.mozilla.org/show_bug.cgi?id=1811542\r\n[4]:https://bugzilla.mozilla.org/show_bug.cgi?id=1807468\r\n[5]:https://bugzilla.mozilla.org/show_bug.cgi?id=1788920\r\n[6]:https://bugzilla.mozilla.org/show_bug.cgi?id=1810503\r\n[7]: https://bugzilla.mozilla.org/show_bug.cgi?id=1811714\r\n[8]:https://bugzilla.mozilla.org/show_bug.cgi?id=1808975\r\n[9]:https://bugzilla.mozilla.org/show_bug.cgi?id=1742697\r\n[10]:https://bugzilla.mozilla.org/show_bug.cgi?id=1633662\r\n[11]:https://bugzilla.mozilla.org/show_bug.cgi?id=1689565\r\n[12]:https://bugzilla.mozilla.org/show_bug.cgi?id=1777218\r\n[13]:https://bugzilla.mozilla.org/show_bug.cgi?id=1811225\r\n[14]:https://bugzilla.mozilla.org/show_bug.cgi?id=1815736\r\n[15]:https://bugzilla.mozilla.org/show_bug.cgi?id=1770067\r\n[16]:https://bugzilla.mozilla.org/show_bug.cgi?id=1812696\r\n[17]: https://bugzilla.mozilla.org/show_bug.cgi?id=1787974\r\n[18]:https://bugzilla.mozilla.org/show_bug.cgi?id=1812080\r\n[19]:https://bugzilla.mozilla.org/show_bug.cgi?id=1800431\r\n[20]:https://bugzilla.mozilla.org/show_bug.cgi?id=1812559\r\n[21]:https://bugzilla.mozilla.org/show_bug.cgi?id=1804461\r\n[22]:https://bugzilla.mozilla.org/show_bug.cgi?id=1798748\r\n[23]:https://bugzilla.mozilla.org/show_bug.cgi?id=1815419\r\n[24]:https://bugzilla.mozilla.org/show_bug.cgi?id=1810076\r\n[25]:https://bugzilla.mozilla.org/show_bug.cgi?id=1777204",
       "sort_num": 0,
       "tag": "Community"
