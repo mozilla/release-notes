@@ -7,6 +7,66 @@
   "modified": "2023-04-06T15:24:55.044723+00:00",
   "notes": [
     {
+      "bug": 1778801,
+      "created": "2023-02-16T02:11:30.732766+00:00",
+      "id": 789402,
+      "is_public": true,
+      "modified": "2023-04-06T15:32:29.319947+00:00",
+      "note": "Say hello to enhanced Picture-in-Picture! Rewind, check video duration, and effortlessly switch to full-screen mode on the web's most popular video websites.",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1559986,
+      "created": "2023-03-14T19:44:15.160996+00:00",
+      "id": 789439,
+      "is_public": true,
+      "modified": "2023-04-06T15:32:45.267681+00:00",
+      "note": "Passwords [generated in Firefox][1] now include special characters, making them more secure.\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/how-generate-secure-password-firefox",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 326701,
+      "created": "2023-03-14T19:45:42.570078+00:00",
+      "id": 789440,
+      "is_public": true,
+      "modified": "2023-04-06T15:32:39.413202+00:00",
+      "note": "Importing bookmarks from Safari or a Chrome-based browser? The favicons for those bookmarks will now also be imported by default to make them easier to identify.",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1822308,
+      "created": "2023-03-23T15:21:18.135941+00:00",
+      "id": 789446,
+      "is_public": true,
+      "modified": "2023-04-06T15:32:14.453422+00:00",
+      "note": "The Windows GPU sandbox first shipped in the Firefox 110 release has been tightened to enhance the security benefits it provides.",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 580928,
+      "created": "2023-03-23T15:24:19.515539+00:00",
+      "id": 789447,
+      "is_public": true,
+      "modified": "2023-04-06T15:32:06.731476+00:00",
+      "note": "A 13-year-old feature request was fulfilled, and Firefox now supports files being drag-and-dropped directly from Microsoft Outlook. A special thanks to volunteer contributor Marco Spiess for helping to get this across the finish line!",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 660452,
+      "created": "2023-03-27T18:27:00.988014+00:00",
+      "id": 789449,
+      "is_public": true,
+      "modified": "2023-04-06T15:31:52.647425+00:00",
+      "note": "Mac users can now access macOS Services directly from the context menu.",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1810641,
       "created": "2023-03-31T20:17:41.529665+00:00",
       "id": 789458,
@@ -27,6 +87,86 @@
       "tag": "New"
     },
     {
+      "bug": 1814487,
+      "created": "2023-04-06T15:33:35.256262+00:00",
+      "id": 789484,
+      "is_public": true,
+      "modified": "2023-04-06T15:34:15.777152+00:00",
+      "note": "Users on macOS and Linux can now use FIDO2 / WebAuthn authenticators over USB. Some advanced features, such as fully passwordless logins, require a PIN to be set on the authenticator.",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1659818,
+      "created": "2023-04-06T15:38:57.866295+00:00",
+      "id": 789486,
+      "is_public": true,
+      "modified": "2023-04-06T15:39:38.188420+00:00",
+      "note": "Websites that use window.print() can now be printed in [Firefox for Android][1].\r\n\r\n\r\n  [1]: https://play.google.com/store/apps/details?id=org.mozilla.firefox_beta",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2023-04-06T15:39:00.193210+00:00",
+      "id": 789487,
+      "is_public": true,
+      "modified": "2023-04-06T15:39:43.189958+00:00",
+      "note": "[Firefox for Android][1] now supports hardware accelerated AV1 video decoding by default with supported hardware or via fallback to software decoding.\r\n\r\n\r\n  [1]: https://play.google.com/store/apps/details?id=org.mozilla.firefox_beta",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1825182,
+      "created": "2023-04-06T15:39:03.481179+00:00",
+      "id": 789488,
+      "is_public": true,
+      "modified": "2023-04-06T15:39:47.105562+00:00",
+      "note": "Following up on the work already shipped on macOS and Linux in Firefox 110, GPU-accelerated Canvas2D is now enabled by default for [Firefox for Android][1] also.\r\n\r\n\r\n  [1]: https://play.google.com/store/apps/details?id=org.mozilla.firefox_beta",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1531812,
+      "created": "2023-03-28T17:28:44.826241+00:00",
+      "id": 789450,
+      "is_public": true,
+      "modified": "2023-04-06T15:31:45.665231+00:00",
+      "note": "Removed the long-deprecated mozRTCPeerConnection, mozRTCIceCandidate, and mozRTCSessionDescription types. Sites should utilize the non-prefixed variants instead.",
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
+      "bug": 1572644,
+      "created": "2023-03-22T19:33:30.288111+00:00",
+      "id": 789445,
+      "is_public": true,
+      "modified": "2023-04-06T15:32:20.688968+00:00",
+      "note": "Module scripts can now import other ES module scripts on worklets.",
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 1352753,
+      "created": "2023-03-26T21:44:39.533509+00:00",
+      "id": 789448,
+      "is_public": true,
+      "modified": "2023-04-06T15:31:58.591251+00:00",
+      "note": "Firefox now supports the color functions from the color (level 4) specification. This includes the lab(), lch(), oklab(), oklch() and color() functions.",
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 1510802,
+      "created": "2023-03-28T17:32:52.991721+00:00",
+      "id": 789451,
+      "is_public": true,
+      "modified": "2023-04-06T15:31:39.392423+00:00",
+      "note": "Firefox 113 adds support for a number of WebRTC features for improved interoperability: [`RTCMediaSourceStats`][1], [`RTCPeerConnectionState`][2], [`RTCPeerConnectionStats`][3] (\"peer-connection\" RTCStatsType), [`RTCRtpSender.setStreams()`][4], and [`RTCSctpTransport`][5].\r\n\r\n\r\n  [1]: https://www.w3.org/TR/webrtc-stats/#dom-rtcmediasourcestats\r\n  [2]: https://w3c.github.io/webrtc-pc/#dom-rtcpeerconnectionstate\r\n  [3]: https://www.w3.org/TR/webrtc-stats/#dom-rtcpeerconnectionstats\r\n  [4]: https://w3c.github.io/webrtc-pc/#dom-rtcrtpsender-setstreams\r\n  [5]: https://w3c.github.io/webrtc-pc/#dom-rtcsctptransport",
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
       "bug": 1166581,
       "created": "2023-03-31T19:57:03.346116+00:00",
       "id": 789456,
@@ -43,6 +183,16 @@
       "is_public": true,
       "modified": "2023-04-06T15:29:47.039525+00:00",
       "note": "The `forced-color-adjust` property is now supported, allowing authors to opt an element out of color changes in Forced Color Mode for improved readability where the automatically-picked contrasting colors are not ideal.",
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 1820116,
+      "created": "2023-04-06T15:33:42.747649+00:00",
+      "id": 789485,
+      "is_public": true,
+      "modified": "2023-04-06T15:33:42.747474+00:00",
+      "note": "<!-- Nightly Only -->Starting with Firefox 113, Nightly and early beta builds now behave similar to the other browsers when splitting a node (e.g., typing `Enter` to split a paragraph) and joining two nodes (e.g., typing `Backspace` at start of a paragraph to join the paragraph and the previous one) when using the built-in editor. When a node is split, the built-in editor creates new node after the original one, i.e., creates the right node. Similarly, when two nodes are joined, the built-in editor deletes the latter node and moves its children to end of the preceding node.\r\n\r\nThis new behavior can also be enabled by web apps themselves for all channels with a call of `document.execCommand(\"enableCompatibleJoinSplitDirection\", false, \"false\")` (introduced in [bug 1810663][1]). This command is available only when `designMode` is set to `\"on\"` or there is at least one editable element which has `contenteditable` attribute, and the built-in editor has not handled the `insertParagraph`, `delete`, or `forwardDelete` command.\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1810663",
       "sort_num": 0,
       "tag": "HTML5"
     }
