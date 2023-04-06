@@ -5,7 +5,18 @@
   "created": "2023-04-05T19:51:01.170181+00:00",
   "is_public": false,
   "modified": "2023-04-05T19:57:29.841502+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": null,
+      "created": "2023-04-06T00:20:08.961015+00:00",
+      "id": 789468,
+      "is_public": true,
+      "modified": "2023-04-06T00:20:08.960832+00:00",
+      "note": "Users can now choose whether to be asked every time they open a link that would open in another app.",
+      "sort_num": 0,
+      "tag": "New"
+    }
+  ],
   "product": "Firefox for Android",
   "release_date": "2023-04-11",
   "slug": "firefox-for-android-112.0-release",
