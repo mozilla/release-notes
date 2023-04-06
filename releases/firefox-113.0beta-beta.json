@@ -201,8 +201,8 @@
       "created": "2023-04-06T15:33:42.747649+00:00",
       "id": 789485,
       "is_public": true,
-      "modified": "2023-04-06T17:26:50.255207+00:00",
-      "note": "Firefox will soon behave similar to other browsers when splitting a node (e.g., typing `Enter` to split a paragraph) and joining two nodes (e.g., typing `Backspace` at start of a paragraph to join the paragraph and the previous one) when using the built-in editor. When a node is split, the built-in editor creates new node after the original one, i.e., creates the right node. Similarly, when two nodes are joined, the built-in editor deletes the latter node and moves its children to end of the preceding node.\r\n\r\nThis behavior change can be enabled for testing by web apps now with a call of `document.execCommand(\"enableCompatibleJoinSplitDirection\", false, \"false\")`. This command is available only when `designMode` is set to `\"on\"` or there is at least one editable element which has `contenteditable` attribute, and the built-in editor has not handled the `insertParagraph`, `delete`, or `forwardDelete` command.",
+      "modified": "2023-04-06T17:48:59.138549+00:00",
+      "note": "Firefox will soon behave similar to other browsers when splitting a node (e.g., typing `Enter` to split a paragraph) and joining two nodes (e.g., typing `Backspace` at start of a paragraph to join the paragraph and the previous one) when using the built-in editor. When a node is split, the built-in editor creates a new node after the original one, i.e., creates the right node. Similarly, when two nodes are joined, the built-in editor deletes the latter node and moves its children to the end of the preceding node.\r\n\r\nThis behavior change can be enabled for testing by web apps now with a call of `document.execCommand(\"enableCompatibleJoinSplitDirection\", false, \"false\")`. This command is available only when `designMode` is set to `\"on\"` or there is at least one editable element which has the `contenteditable` attribute, and the built-in editor has not handled the `insertParagraph`, `delete`, or `forwardDelete` command.",
       "sort_num": 0,
       "tag": "HTML5"
     }
