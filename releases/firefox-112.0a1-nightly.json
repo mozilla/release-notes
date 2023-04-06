@@ -31,7 +31,7 @@
       "created": "2023-02-20T10:00:52.147538+00:00",
       "id": 789403,
       "is_public": true,
-      "modified": "2023-03-12T15:24:37.417833+00:00",
+      "modified": "2023-04-06T15:24:50.836083+00:00",
       "note": "Right-clicking on password fields now shows an option to reveal the password.",
       "sort_num": 0,
       "tag": "New"
@@ -41,7 +41,7 @@
       "created": "2023-02-23T16:41:51.706482+00:00",
       "id": 789406,
       "is_public": true,
-      "modified": "2023-03-12T15:23:37.827016+00:00",
+      "modified": "2023-04-06T15:24:49.000702+00:00",
       "note": "Ubuntu Linux users can now import their browser data from the Chromium Snap package. Currently, this will only work if Firefox is not also installed as a Snap package, but work is underway to address this!",
       "sort_num": 0,
       "tag": "New"
@@ -51,7 +51,7 @@
       "created": "2023-03-02T18:18:43.782928+00:00",
       "id": 789415,
       "is_public": true,
-      "modified": "2023-03-12T15:23:16.547348+00:00",
+      "modified": "2023-04-06T15:24:52.332581+00:00",
       "note": "Do you use the tab list panel in the tab bar? If so, you can now close tabs by middle-clicking items in that list.",
       "sort_num": 0,
       "tag": "New"
@@ -61,7 +61,7 @@
       "created": "2023-03-06T15:28:10.490000+00:00",
       "id": 789416,
       "is_public": true,
-      "modified": "2023-03-12T15:22:47.313932+00:00",
+      "modified": "2023-04-06T15:24:51.586634+00:00",
       "note": "[You've always been able to un-close a tab by using (Cmd/Ctrl)-Shift-T][1]. Now, that same shortcut will restore the previous session if there are no more closed tabs from the same session to re-open.\r\n\r\n\r\n  [1]: https://support.mozilla.org/en-US/kb/keyboard-shortcuts-perform-firefox-tasks-quickly#w_windows-tabs",
       "sort_num": 0,
       "tag": "New"
@@ -81,7 +81,7 @@
       "created": "2023-01-23T15:01:58.387373+00:00",
       "id": 789380,
       "is_public": true,
-      "modified": "2023-03-12T15:24:55.436157+00:00",
+      "modified": "2023-04-06T15:24:53.245093+00:00",
       "note": "The deprecated U2F Javascript API is now disabled by default. The U2F protocol remains usable through the WebAuthn API. The U2F API can be re-enabled using the `security.webauth.u2f` preference.",
       "sort_num": 0,
       "tag": "Changed"
@@ -91,7 +91,7 @@
       "created": "2023-02-20T13:49:11.423195+00:00",
       "id": 789404,
       "is_public": true,
-      "modified": "2023-03-12T15:24:14.332414+00:00",
+      "modified": "2023-04-06T15:24:50.001222+00:00",
       "note": "\u201cClear\u201d button, newly added to the date picker panel, allows users to quickly clear the input with type \u201cdate\u201c or \u201cdatetime-local\u201d and provides familiar experience across browsers.",
       "sort_num": 0,
       "tag": "HTML5"

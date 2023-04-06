@@ -1,0 +1,57 @@
+{
+  "bug_list": "",
+  "bug_search_url": "",
+  "channel": "Beta",
+  "created": "2023-04-06T15:24:23.685999+00:00",
+  "is_public": false,
+  "modified": "2023-04-06T15:24:55.044723+00:00",
+  "notes": [
+    {
+      "bug": 1810641,
+      "created": "2023-03-31T20:17:41.529665+00:00",
+      "id": 789458,
+      "is_public": true,
+      "modified": "2023-04-06T15:29:39.992227+00:00",
+      "note": "On Windows, the elastic overscroll effect is now enabled by default, with two fingers scrolling on touchpad or scrolling on touchscreen, you will see a bouncing animation when scrolling past the edge of a scroll container.",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1825580,
+      "created": "2023-04-05T02:16:52.394727+00:00",
+      "id": 789460,
+      "is_public": true,
+      "modified": "2023-04-06T15:29:28.276700+00:00",
+      "note": "AV1 Image Format files containing animations (AVIS) are now supported, improving Firefox' support for AVIF images across the web.",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1166581,
+      "created": "2023-03-31T19:57:03.346116+00:00",
+      "id": 789456,
+      "is_public": true,
+      "modified": "2023-04-06T15:29:54.428082+00:00",
+      "note": "Firefox now supports the [`scripting`][1] CSS media query.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/CSS/@media/scripting",
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 1818819,
+      "created": "2023-03-31T20:09:47.684372+00:00",
+      "id": 789457,
+      "is_public": true,
+      "modified": "2023-04-06T15:29:47.039525+00:00",
+      "note": "The `forced-color-adjust` property is now supported, allowing authors to opt an element out of color changes in Forced Color Mode for improved readability where the automatically-picked contrasting colors are not ideal.",
+      "sort_num": 0,
+      "tag": "HTML5"
+    }
+  ],
+  "product": "Firefox",
+  "release_date": "2023-04-11",
+  "slug": "firefox-113.0beta-beta",
+  "system_requirements": "## Windows\r\n\r\n### Operating Systems (32-bit and 64-bit)\r\n - Windows 7 or later\r\n\r\n### Recommended Hardware\r\n-  Pentium 4 or newer processor that supports SSE2\r\n-  512MB of RAM / 2GB of RAM for the 64-bit version\r\n-  200MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- macOS 10.12 or later\r\n\r\n### Recommended Hardware\r\n- Macintosh computer with an Intel x86 or Apple silicon processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - glibc 2.17 or higher\r\n    - GTK+ 3.14 or higher\r\n    - libstdc++ 4.8.1 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - DBus 1.0 or higher\r\n    - GNOME 2.16 or higher\r\n    - libxtst 1.2.3 or higher\r\n    - NetworkManager 0.7 or higher\r\n    - PulseAudio",
+  "text": "Firefox Beta gets updated 3 times a week and as a consequence, the release notes for the Beta channel are updated continuously to reflect features that have reached sufficient maturity to benefit from community feedback and bug reports.\r\n\r\n\r\n**Warning: Features listed here may or may *not* make a final release of Firefox.**\r\n\r\nIn addition to these release notes, you can follow ongoing development via our [@FirefoxBeta][1] Twitter account.\r\n\r\n\r\n  [1]: https://twitter.com/firefoxbeta",
+  "title": "Firefox 113.0beta Beta",
+  "version": "113.0beta"
+}
