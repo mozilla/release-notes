@@ -15,6 +15,56 @@
       "note": "Users can now choose whether to be asked every time they open a link that would open in another app.",
       "sort_num": 0,
       "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2023-04-06T00:20:25.413076+00:00",
+      "id": 789469,
+      "is_public": true,
+      "modified": "2023-04-06T00:20:25.412902+00:00",
+      "note": "Fixed the issue that prevented 10-bit videos from playing.",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2023-04-06T00:20:42.258832+00:00",
+      "id": 789470,
+      "is_public": true,
+      "modified": "2023-04-06T00:20:42.258475+00:00",
+      "note": "Fixed the problem that caused full screen YouTube videos to exit and switch to portrait mode when changing quality or speed.",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2023-04-06T00:21:01.606236+00:00",
+      "id": 789471,
+      "is_public": true,
+      "modified": "2023-04-06T00:21:01.605870+00:00",
+      "note": "Improved accessibility by fixing small buttons that were difficult to use.",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2023-04-06T00:21:25.680827+00:00",
+      "id": 789472,
+      "is_public": true,
+      "modified": "2023-04-06T00:21:25.680638+00:00",
+      "note": "Solved the issue that prevented small pages from zooming out to 100% on Android.",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2023-04-06T00:21:48.729065+00:00",
+      "id": 789473,
+      "is_public": true,
+      "modified": "2023-04-06T00:21:48.728898+00:00",
+      "note": "Resolved geolocation timeout issue.",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox for Android",
