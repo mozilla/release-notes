@@ -77,6 +77,16 @@
       "tag": "New"
     },
     {
+      "bug": 1773983,
+      "created": "2023-04-06T00:38:23.022892+00:00",
+      "id": 789482,
+      "is_public": true,
+      "modified": "2023-04-12T13:48:36.706305+00:00",
+      "note": "For all ETP Strict users, we extended the list of known tracking parameters that are removed from URLs to further protect our users from cross-site tracking.",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1809333,
       "created": "2023-01-23T15:01:58.387373+00:00",
       "id": 789380,
