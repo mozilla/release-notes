@@ -29,8 +29,8 @@
       },
       "id": 789495,
       "is_public": true,
-      "modified": "2023-04-14T14:47:12.226156+00:00",
-      "note": "Fixed a bug where cookie dates appear to be set in the far future after updating Firefox. (bug 1827669).",
+      "modified": "2023-04-14T15:11:20.075685+00:00",
+      "note": "Fixed a bug where cookie dates appear to be set in the far future after updating Firefox. This may have caused cookies to be unintentionally purged. (bug 1827669).",
       "sort_num": 0,
       "tag": "Fixed"
     }
