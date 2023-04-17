@@ -3,8 +3,8 @@
   "bug_search_url": "",
   "channel": "Release",
   "created": "2023-04-14T14:38:10.353712+00:00",
-  "is_public": false,
-  "modified": "2023-04-14T14:39:31.050888+00:00",
+  "is_public": true,
+  "modified": "2023-04-17T14:17:16.935152+00:00",
   "notes": [
     {
       "bug": null,
@@ -21,7 +21,7 @@
       "created": "2023-04-14T14:46:29.691574+00:00",
       "fixed_in_release": {
         "channel": "Release",
-        "is_public": false,
+        "is_public": true,
         "product": "Firefox",
         "slug": "firefox-112.0.1-release",
         "title": "Firefox 112.0.1 Release",
