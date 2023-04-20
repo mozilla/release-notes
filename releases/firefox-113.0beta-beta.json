@@ -4,7 +4,7 @@
   "channel": "Beta",
   "created": "2023-04-06T15:24:23.685999+00:00",
   "is_public": true,
-  "modified": "2023-04-11T13:22:19.820464+00:00",
+  "modified": "2023-04-20T18:31:12.384394+00:00",
   "notes": [
     {
       "bug": 1778801,
@@ -143,6 +143,16 @@
       "is_public": true,
       "modified": "2023-04-20T18:27:22.497816+00:00",
       "note": "Firefox 113 introduces a redesigned accessibility engine which significantly improves the speed, responsiveness and stability of Firefox for users of screen readers, as well as certain other accessibility software, east Asian input methods, enterprise single sign-on software and other applications which use accessibility frameworks to access information.",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1827904,
+      "created": "2023-04-20T18:31:07.801085+00:00",
+      "id": 789498,
+      "is_public": true,
+      "modified": "2023-04-20T18:31:55.250001+00:00",
+      "note": "The Awesomebar result menu is now enabled for all users, allowing you to remove history results and dismiss sponsored Firefox Suggest results.",
       "sort_num": 0,
       "tag": "New"
     },
