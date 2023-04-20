@@ -137,6 +137,16 @@
       "tag": "New"
     },
     {
+      "bug": 1824295,
+      "created": "2023-04-20T18:27:22.497991+00:00",
+      "id": 789497,
+      "is_public": true,
+      "modified": "2023-04-20T18:27:22.497816+00:00",
+      "note": "Firefox 113 introduces a redesigned accessibility engine which significantly improves the speed, responsiveness and stability of Firefox for users of screen readers, as well as certain other accessibility software, east Asian input methods, enterprise single sign-on software and other applications which use accessibility frameworks to access information.",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1531812,
       "created": "2023-03-28T17:28:44.826241+00:00",
       "id": 789450,
