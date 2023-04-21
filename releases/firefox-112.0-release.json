@@ -57,11 +57,11 @@
       "tag": "New"
     },
     {
-      "bug": null,
+      "bug": 1816026,
       "created": "2023-04-06T00:45:01.132928+00:00",
       "id": 789483,
       "is_public": true,
-      "modified": "2023-04-06T00:45:01.132753+00:00",
+      "modified": "2023-04-21T20:00:18.265073+00:00",
       "note": "Enables overlay of software-decoded video on Intel GPUs in Windows. Improves video down scaling quality and reduces GPU usage.",
       "sort_num": 0,
       "tag": "New"
