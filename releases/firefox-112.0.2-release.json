@@ -29,8 +29,8 @@
       },
       "id": 789501,
       "is_public": true,
-      "modified": "2023-04-24T03:30:14.609948+00:00",
-      "note": "Fixes an issue where some occluded/minimized windows could lead to high memory usage, especially when using animated themes (bug [1828587][1]).\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1828587",
+      "modified": "2023-04-24T03:31:17.155109+00:00",
+      "note": "Fixes a high memory usage issue in some occluded/minimized windows, especially when using animated themes (bug [1828587][1]).\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1828587",
       "sort_num": 30,
       "tag": "Fixed"
     },
