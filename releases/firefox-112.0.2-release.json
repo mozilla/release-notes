@@ -1,0 +1,63 @@
+{
+  "bug_list": "",
+  "bug_search_url": "",
+  "channel": "Release",
+  "created": "2023-04-24T02:33:57.181082+00:00",
+  "is_public": false,
+  "modified": "2023-04-24T02:34:09.606073+00:00",
+  "notes": [
+    {
+      "bug": null,
+      "created": "2023-04-24T02:34:57.749022+00:00",
+      "id": 789500,
+      "is_public": true,
+      "modified": "2023-04-24T02:34:57.748848+00:00",
+      "note": "Reference link to [112.0.1 release notes][1].\r\n\r\n\r\n  [1]: https://www.mozilla.org/firefox/112.0.1/releasenotes/",
+      "sort_num": 0,
+      "tag": ""
+    },
+    {
+      "bug": 1828587,
+      "created": "2023-04-24T02:39:04.910744+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": false,
+        "product": "Firefox",
+        "slug": "firefox-112.0.2-release",
+        "title": "Firefox 112.0.2 Release",
+        "version": "112.0.2"
+      },
+      "id": 789501,
+      "is_public": true,
+      "modified": "2023-04-24T02:44:27.061995+00:00",
+      "note": "Fixes an issue that could lead to high memory usage especially when using animated themes (bug [1828587][1]).\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1828587",
+      "sort_num": 30,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1827950,
+      "created": "2023-04-24T02:43:59.473315+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": false,
+        "product": "Firefox",
+        "slug": "firefox-112.0.2-release",
+        "title": "Firefox 112.0.2 Release",
+        "version": "112.0.2"
+      },
+      "id": 789502,
+      "is_public": true,
+      "modified": "2023-04-24T02:43:59.473142+00:00",
+      "note": "Fixes an issue where Linux users with bitmap fonts installed may have had entire sections of text invisible to them on some sites (bug [1827950][1]).\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1827950",
+      "sort_num": 15,
+      "tag": "Fixed"
+    }
+  ],
+  "product": "Firefox",
+  "release_date": "2023-04-25",
+  "slug": "firefox-112.0.2-release",
+  "system_requirements": "## Windows\r\n\r\n### Operating Systems (32-bit and 64-bit)\r\n - Windows 7 or later\r\n\r\n### Recommended Hardware\r\n-  Pentium 4 or newer processor that supports SSE2\r\n-  512MB of RAM / 2GB of RAM for the 64-bit version\r\n-  200MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- macOS 10.12 or later\r\n\r\n### Recommended Hardware\r\n- Mac computer with an Intel x86 or Apple silicon processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - glibc 2.17 or higher\r\n    - GTK+ 3.14 or higher\r\n    - libstdc++ 4.8.1 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - DBus 1.0 or higher\r\n    - GNOME 2.16 or higher\r\n    - libxtst 1.2.3 or higher\r\n    - NetworkManager 0.7 or higher\r\n    - PulseAudio",
+  "text": "",
+  "title": "Firefox 112.0.2 Release",
+  "version": "112.0.2"
+}
