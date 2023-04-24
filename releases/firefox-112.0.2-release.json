@@ -29,8 +29,8 @@
       },
       "id": 789501,
       "is_public": true,
-      "modified": "2023-04-24T13:47:36.256578+00:00",
-      "note": "Fixes a high memory usage issue in some occluded/minimized windows, especially when using animated Firefox themes (bug [1828587][1]).\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1828587",
+      "modified": "2023-04-24T21:52:06.941980+00:00",
+      "note": "Fixes a high memory usage issue with animated images in minimized (or completely covered) windows, especially when using animated themes (bug [1828587][1]).\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1828587",
       "sort_num": 30,
       "tag": "Fixed"
     },
