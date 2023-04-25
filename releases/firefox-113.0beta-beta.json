@@ -87,16 +87,6 @@
       "tag": "New"
     },
     {
-      "bug": 1814487,
-      "created": "2023-04-06T15:33:35.256262+00:00",
-      "id": 789484,
-      "is_public": true,
-      "modified": "2023-04-06T15:34:15.777152+00:00",
-      "note": "Users on macOS and Linux can now use FIDO2 / WebAuthn authenticators over USB. Some advanced features, such as fully passwordless logins, require a PIN to be set on the authenticator.",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
       "bug": 1659818,
       "created": "2023-04-06T15:38:57.866295+00:00",
       "id": 789486,
@@ -163,6 +153,16 @@
       "is_public": true,
       "modified": "2023-04-08T09:09:58.286690+00:00",
       "note": "Removed the long-deprecated mozRTCPeerConnection, mozRTCIceCandidate, and mozRTCSessionDescription types. Sites should utilize the non-prefixed variants instead.",
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
+      "bug": 1823164,
+      "created": "2023-04-25T19:58:42.459712+00:00",
+      "id": 789504,
+      "is_public": true,
+      "modified": "2023-04-25T19:58:42.459364+00:00",
+      "note": "[Firefox for Android][1] now includes UI improvements to the built-in PDF viewer to make it easier to save PDFs directly.\r\n\r\n\r\n  [1]: https://play.google.com/store/apps/details?id=org.mozilla.firefox_beta",
       "sort_num": 0,
       "tag": "Changed"
     },
