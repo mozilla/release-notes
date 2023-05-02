@@ -1,4 +1,4 @@
-FROM python:3.7-slim-buster
+FROM python:3.9-slim-bullseye
 
 # Extra python env
 ENV PYTHONDONTWRITEBYTECODE=1
