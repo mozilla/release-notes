@@ -1,0 +1,26 @@
+name: "Refresh Release Notes from Nucleus"
+on:
+  schedule:
+    - cron: "*/10 * * * *" # Every 10th minute
+  workflow_dispatch:
+
+concurrency:
+  group: run-releasenotes-update
+  cancel-in-progress: true
+
+env:
+  SNITCH_URL: ${{ secrets.SNITCH_URL }}
+
+jobs:
+  sitemap_processing:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - id: set-git-identity
+        shell: bash
+        run: |
+          git config user.email ${{ secrets.GIT_AUTHOR_EMAIL }}
+          git config user.name ${{ secrets.GIT_AUTHOR_NAME }}
+      - id: trigger-processing
+        shell: bash
+        run: ./update_docker.sh commit
