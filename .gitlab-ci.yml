@@ -1,8 +1,0 @@
-update:
-  only:
-    - schedules
-  tags:
-    - mozmeao
-    - aws
-  script:
-    - ./update_docker.sh commit
