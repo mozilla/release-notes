@@ -2,9 +2,9 @@
   "bug_list": "",
   "bug_search_url": "",
   "channel": "Release",
-  "created": "2023-04-05T19:51:01.208364+00:00",
-  "is_public": true,
-  "modified": "2023-04-11T12:13:58.805084+00:00",
+  "created": "2023-05-02T19:19:41.042538+00:00",
+  "is_public": false,
+  "modified": "2023-05-02T19:20:04.384501+00:00",
   "notes": [
     {
       "bug": 1816988,
@@ -125,23 +125,13 @@
       "note": "With the release of Firefox 112, we are pleased to welcome the <strong> developers</strong> who contributed their first code change to Firefox in this release, <strong>14</strong> of whom were brand new volunteers! Please join us in thanking each of these diligent and enthusiastic individuals, and take a look at their contributions:\r\n<ul>\r\n<li>yawkat: <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1807531\">1807531</a></li>\r\n<li>grulja: <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1816431\">1816431</a>, <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1818530\">1818530</a>, <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1819035\">1819035</a></li>\r\n<li>ofrazy: <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1810101\">1810101</a></li>\r\n<li>zqianem: <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1814469\">1814469</a></li>\r\n<li>Abhishek: <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1818767\">1818767</a>, <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1820881\">1820881</a></li>\r\n<li>Andreu Botella: <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1812511\">1812511</a></li>\r\n<li>Cristina Horotan: <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1821327\">1821327</a></li>\r\n<li>Daniel Seither: <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1720257\">1720257</a></li>\r\n<li>Filip \u0160: <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1747722\">1747722</a></li>\r\n<li>Khadija Kamran khadija kkamran: <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1809912\">1809912</a></li>\r\n<li>Mihai Adrian Carare: <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1802817\">1802817</a>, <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1813671\">1813671</a></li>\r\n<li>Noah Osuolale: <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1821296\">1821296</a>, <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1821392\">1821392</a></li>\r\n<li>Rebeca Tudor: <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1812249\">1812249</a></li>\r\n<li>Saksham Mittal: <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1801161\">1801161</a></li>\r\n<li>Siya: <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1820639\">1820639</a></li>\r\n<li>Theo Buehler: <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1817588\">1817588</a></li>\r\n<li>mgomes: <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1819355\">1819355</a></li>\r\n<li>twhite: <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1818802\">1818802</a>, <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1821021\">1821021</a></li></ul>",
       "sort_num": 0,
       "tag": "Community"
-    },
-    {
-      "bug": 1828587,
-      "created": "2023-04-22T13:03:53.441190+00:00",
-      "id": 789499,
-      "is_public": true,
-      "modified": "2023-05-02T19:20:09.619247+00:00",
-      "note": "~~Under rare circumstances, animated Firefox themes can use excessive memory.  ~~\r\n~~If you encounter this problem, please change your theme to one that does not use animations to work around it. We are in the process of shipping a fix ([bug 1828587][1])~~ (fixed in 112.0.2).\r\n\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1828587",
-      "sort_num": 0,
-      "tag": "Known"
     }
   ],
   "product": "Firefox",
-  "release_date": "2023-04-11",
-  "slug": "firefox-112.0-release",
+  "release_date": "2023-05-09",
+  "slug": "firefox-113.0-release",
   "system_requirements": "## Windows\r\n\r\n### Operating Systems (32-bit and 64-bit)\r\n - Windows 7 or later\r\n\r\n### Recommended Hardware\r\n-  Pentium 4 or newer processor that supports SSE2\r\n-  512MB of RAM / 2GB of RAM for the 64-bit version\r\n-  200MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- macOS 10.12 or later\r\n\r\n### Recommended Hardware\r\n- Mac computer with an Intel x86 or Apple silicon processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - glibc 2.17 or higher\r\n    - GTK+ 3.14 or higher\r\n    - libstdc++ 4.8.1 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - DBus 1.0 or higher\r\n    - GNOME 2.16 or higher\r\n    - libxtst 1.2.3 or higher\r\n    - NetworkManager 0.7 or higher\r\n    - PulseAudio",
   "text": "",
-  "title": "Firefox 112.0 Release",
-  "version": "112.0"
+  "title": "Firefox 113.0 Release",
+  "version": "113.0"
 }
