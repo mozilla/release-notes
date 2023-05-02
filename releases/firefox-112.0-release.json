@@ -11,7 +11,7 @@
       "created": "2023-04-06T00:27:18.585691+00:00",
       "id": 789478,
       "is_public": true,
-      "modified": "2023-05-02T19:19:41.076606+00:00",
+      "modified": "2023-05-02T19:20:17.074813+00:00",
       "note": "Right-clicking on password fields now shows an option to reveal the password.",
       "sort_num": 0,
       "tag": "New"
@@ -21,7 +21,7 @@
       "created": "2023-04-06T00:30:26.986432+00:00",
       "id": 789479,
       "is_public": true,
-      "modified": "2023-05-02T19:19:41.076606+00:00",
+      "modified": "2023-05-02T19:20:16.202579+00:00",
       "note": "Ubuntu Linux users can now import their browser data from the Chromium Snap package. Currently, this will only work if Firefox is not also installed as a Snap package, but work is underway to address this!",
       "sort_num": 0,
       "tag": "New"
@@ -31,7 +31,7 @@
       "created": "2023-04-06T00:33:10.156855+00:00",
       "id": 789480,
       "is_public": true,
-      "modified": "2023-05-02T19:19:41.076606+00:00",
+      "modified": "2023-05-02T19:20:15.473280+00:00",
       "note": "Do you use the tab list panel in the tab bar? If so, you can now close tabs by middle-clicking items in that list.",
       "sort_num": 0,
       "tag": "New"
@@ -41,7 +41,7 @@
       "created": "2023-04-06T00:35:10.480226+00:00",
       "id": 789481,
       "is_public": true,
-      "modified": "2023-05-02T19:19:41.076606+00:00",
+      "modified": "2023-05-02T19:20:14.684661+00:00",
       "note": "[You've always been able to un-close a tab by using (Cmd/Ctrl)-Shift-T][1]. Now, that same shortcut will restore the previous session if there are no more closed tabs from the same session to re-open.\r\n\r\n\r\n  [1]: https://support.mozilla.org/en-US/kb/keyboard-shortcuts-perform-firefox-tasks-quickly#w_windows-tabs",
       "sort_num": 0,
       "tag": "New"
@@ -51,7 +51,7 @@
       "created": "2023-04-06T00:38:23.022892+00:00",
       "id": 789482,
       "is_public": true,
-      "modified": "2023-05-02T19:19:41.076606+00:00",
+      "modified": "2023-05-02T19:20:13.935277+00:00",
       "note": "For all ETP Strict users, we extended the list of known tracking parameters that are removed from URLs to further protect our users from cross-site tracking.",
       "sort_num": 0,
       "tag": "New"
@@ -61,7 +61,7 @@
       "created": "2023-04-06T00:45:01.132928+00:00",
       "id": 789483,
       "is_public": true,
-      "modified": "2023-05-02T19:19:41.076606+00:00",
+      "modified": "2023-05-02T19:20:12.968808+00:00",
       "note": "Enables overlay of software-decoded video on Intel GPUs in Windows. Improves video down scaling quality and reduces GPU usage.",
       "sort_num": 0,
       "tag": "New"
@@ -71,7 +71,7 @@
       "created": "2023-04-12T13:31:40.296736+00:00",
       "id": 789493,
       "is_public": true,
-      "modified": "2023-05-02T19:19:41.076606+00:00",
+      "modified": "2023-05-02T19:20:11.626280+00:00",
       "note": "Private windows and ETP set to strict will now include email tracking protection. This will make it harder for email trackers to learn the browsing habits of Firefox users. You can check the Tracking Content in the sub-panel on the shield icon panel.",
       "sort_num": 0,
       "tag": "New"
@@ -81,7 +81,7 @@
       "created": "2023-04-06T00:26:38.436401+00:00",
       "id": 789477,
       "is_public": true,
-      "modified": "2023-05-02T19:19:41.076606+00:00",
+      "modified": "2023-05-02T19:20:17.777474+00:00",
       "note": "The deprecated U2F Javascript API is now disabled by default. The U2F protocol remains usable through the WebAuthn API. The U2F API can be re-enabled using the `security.webauth.u2f` preference.",
       "sort_num": 0,
       "tag": "Changed"
@@ -91,7 +91,7 @@
       "created": "2023-04-06T00:25:14.110537+00:00",
       "id": 789475,
       "is_public": true,
-      "modified": "2023-05-02T19:19:41.076606+00:00",
+      "modified": "2023-05-02T19:20:19.247570+00:00",
       "note": "`Clear` button, newly added to the date picker panel, allows users to quickly clear the input with type `date` or `datetime-local` and provides a familiar experience across browsers.",
       "sort_num": 0,
       "tag": "HTML5"
@@ -101,7 +101,7 @@
       "created": "2023-04-06T00:25:52.046088+00:00",
       "id": 789476,
       "is_public": true,
-      "modified": "2023-05-02T19:19:41.076606+00:00",
+      "modified": "2023-05-02T19:20:18.505929+00:00",
       "note": "You can find information about policy updates and enterprise specific bug fixes in the Firefox for [Enterprise 112 Release Notes][1].\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/firefox-enterprise-112-release-notes",
       "sort_num": 0,
       "tag": "Enterprise"
@@ -111,7 +111,7 @@
       "created": "2023-04-05T19:52:27.529671+00:00",
       "id": 789461,
       "is_public": true,
-      "modified": "2023-05-02T19:19:41.104544+00:00",
+      "modified": "2023-05-02T19:21:22.455881+00:00",
       "note": "Various [security][1] fixes.\r\n\r\n\r\n  [1]: https://www.mozilla.org/en-US/security/advisories/mfsa2023-13",
       "sort_num": 0,
       "tag": "Fixed"
@@ -121,7 +121,7 @@
       "created": "2023-04-06T00:23:44.330103+00:00",
       "id": 789474,
       "is_public": true,
-      "modified": "2023-05-02T19:19:41.076606+00:00",
+      "modified": "2023-05-02T19:20:20.092558+00:00",
       "note": "With the release of Firefox 112, we are pleased to welcome the <strong> developers</strong> who contributed their first code change to Firefox in this release, <strong>14</strong> of whom were brand new volunteers! Please join us in thanking each of these diligent and enthusiastic individuals, and take a look at their contributions:\r\n<ul>\r\n<li>yawkat: <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1807531\">1807531</a></li>\r\n<li>grulja: <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1816431\">1816431</a>, <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1818530\">1818530</a>, <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1819035\">1819035</a></li>\r\n<li>ofrazy: <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1810101\">1810101</a></li>\r\n<li>zqianem: <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1814469\">1814469</a></li>\r\n<li>Abhishek: <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1818767\">1818767</a>, <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1820881\">1820881</a></li>\r\n<li>Andreu Botella: <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1812511\">1812511</a></li>\r\n<li>Cristina Horotan: <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1821327\">1821327</a></li>\r\n<li>Daniel Seither: <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1720257\">1720257</a></li>\r\n<li>Filip \u0160: <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1747722\">1747722</a></li>\r\n<li>Khadija Kamran khadija kkamran: <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1809912\">1809912</a></li>\r\n<li>Mihai Adrian Carare: <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1802817\">1802817</a>, <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1813671\">1813671</a></li>\r\n<li>Noah Osuolale: <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1821296\">1821296</a>, <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1821392\">1821392</a></li>\r\n<li>Rebeca Tudor: <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1812249\">1812249</a></li>\r\n<li>Saksham Mittal: <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1801161\">1801161</a></li>\r\n<li>Siya: <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1820639\">1820639</a></li>\r\n<li>Theo Buehler: <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1817588\">1817588</a></li>\r\n<li>mgomes: <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1819355\">1819355</a></li>\r\n<li>twhite: <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1818802\">1818802</a>, <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=1821021\">1821021</a></li></ul>",
       "sort_num": 0,
       "tag": "Community"

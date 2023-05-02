@@ -1,0 +1,27 @@
+{
+  "bug_list": "",
+  "bug_search_url": "",
+  "channel": "Release",
+  "created": "2023-05-02T19:19:41.082542+00:00",
+  "is_public": false,
+  "modified": "2023-05-02T19:21:25.767810+00:00",
+  "notes": [
+    {
+      "bug": null,
+      "created": "2023-05-02T19:20:25.486862+00:00",
+      "id": 789507,
+      "is_public": true,
+      "modified": "2023-05-02T19:21:34.954811+00:00",
+      "note": "Various [security][1] fixes.\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/mfsa2023-16",
+      "sort_num": 0,
+      "tag": "Fixed"
+    }
+  ],
+  "product": "Firefox for Android",
+  "release_date": "2023-05-09",
+  "slug": "firefox-for-android-113.0-release",
+  "system_requirements": "## Operating systems\r\n - Android 5.0 or newer",
+  "text": "",
+  "title": "Firefox for Android 113.0 Release",
+  "version": "113.0"
+}
