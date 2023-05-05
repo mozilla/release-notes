@@ -8,6 +8,16 @@
   "notes": [
     {
       "bug": null,
+      "created": "2023-05-05T15:00:56.636077+00:00",
+      "id": 789518,
+      "is_public": true,
+      "modified": "2023-05-05T15:00:56.635904+00:00",
+      "note": "Fixed accessibility bugs where Talkback didn't announce some buttons or text was too small.",
+      "sort_num": 10,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
       "created": "2023-05-02T19:20:25.486862+00:00",
       "id": 789507,
       "is_public": true,
