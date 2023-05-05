@@ -8,6 +8,56 @@
   "notes": [
     {
       "bug": null,
+      "created": "2023-05-05T15:22:13.025864+00:00",
+      "id": 789534,
+      "is_public": true,
+      "modified": "2023-05-05T15:22:13.025678+00:00",
+      "note": "A 13-year-old feature request was fulfilled and Firefox now supports files being drag-and-dropped directly from Microsoft Outlook. A special thanks to volunteer contributor Marco Spiess for helping to get this across the finish line!",
+      "sort_num": 40,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2023-05-05T15:21:55.109515+00:00",
+      "id": 789533,
+      "is_public": true,
+      "modified": "2023-05-05T15:21:55.109332+00:00",
+      "note": "Users on macOS can now access the Services sub-menu directly from Firefox context menus.",
+      "sort_num": 30,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2023-05-05T15:21:40.062363+00:00",
+      "id": 789532,
+      "is_public": true,
+      "modified": "2023-05-05T15:21:40.062158+00:00",
+      "note": "On Windows, the elastic overscroll effect has been enabled by default. When two-finger scrolling on the touchpad or scrolling on the touchscreen, you will now see a bouncing animation when scrolling past the edge of a scroll container.",
+      "sort_num": 20,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2023-05-05T15:21:24.380936+00:00",
+      "id": 789531,
+      "is_public": true,
+      "modified": "2023-05-05T15:21:24.380762+00:00",
+      "note": "Firefox is now available in the Tajik (tg) language.",
+      "sort_num": 10,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2023-05-05T15:20:33.869718+00:00",
+      "id": 789530,
+      "is_public": true,
+      "modified": "2023-05-05T15:20:33.869547+00:00",
+      "note": "The long-deprecated `mozRTCPeerConnection`, `mozRTCIceCandidate`, and `mozRTCSessionDescription` WebRTC interfaces have been removed. Sites should utilize the non-prefixed versions instead.",
+      "sort_num": 10,
+      "tag": "Changed"
+    },
+    {
+      "bug": null,
       "created": "2023-05-05T15:11:33.798276+00:00",
       "id": 789525,
       "is_public": true,
@@ -45,6 +95,46 @@
       "note": "The `forced-color-adjust` property is now supported, allowing authors to opt an element out of color changes in Forced Color Mode for improved readability where the automatically-picked contrasting colors are not ideal.",
       "sort_num": 10,
       "tag": "HTML5"
+    },
+    {
+      "bug": null,
+      "created": "2023-05-05T15:18:57.129560+00:00",
+      "id": 789528,
+      "is_public": true,
+      "modified": "2023-05-05T15:19:13.911190+00:00",
+      "note": "There have been numerous improvements to the Debugger's \"Search in files\" feature (also known as \"Project search\"):\r\n\r\n* The panel has been moved to a regular side panel, which allows you to keep the results list visible while opening scripts in the editor;\r\n* Results from minified and pretty-printed tabs, as well as matches from the node_modules folder, are displayed;\r\n* Results from ignored files are hidden; and\r\n* Glob patterns and search modifiers are also supported, making it possible to execute case-sensitive or regex searches on specific parts of your project.",
+      "sort_num": 30,
+      "tag": "Developer"
+    },
+    {
+      "bug": null,
+      "created": "2023-05-05T15:17:02.822773+00:00",
+      "id": 789527,
+      "is_public": true,
+      "modified": "2023-05-05T15:17:02.822597+00:00",
+      "note": "Additional features include support for pretty printing inline scripts in HTML files and column breakpoints in pretty printed sources.",
+      "sort_num": 20,
+      "tag": "Developer"
+    },
+    {
+      "bug": null,
+      "created": "2023-05-05T15:16:47.939571+00:00",
+      "id": 789526,
+      "is_public": true,
+      "modified": "2023-05-05T15:16:47.939382+00:00",
+      "note": "It is now possible to override a JavaScript file in the debugger. In the Debugger, under the Sources tree, you can use the \"Add script override\" context menu entry. This action will download the file onto your machine, allowing you to edit it. After reloading the page, the local file will be loaded instead of the original script (indicated by a purple icon when a file is overridden).",
+      "sort_num": 10,
+      "tag": "Developer"
+    },
+    {
+      "bug": null,
+      "created": "2023-05-05T15:20:03.179445+00:00",
+      "id": 789529,
+      "is_public": true,
+      "modified": "2023-05-05T15:20:03.179267+00:00",
+      "note": "You can find information about policy updates and enterprise specific bug fixes in the [Firefox for Enterprise 113 Release Notes][1].\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/firefox-enterprise-113-release-notes",
+      "sort_num": 10,
+      "tag": "Enterprise"
     },
     {
       "bug": null,
