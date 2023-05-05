@@ -21,8 +21,8 @@
       "created": "2023-05-05T15:25:21.193772+00:00",
       "id": 789541,
       "is_public": true,
-      "modified": "2023-05-05T15:25:21.193464+00:00",
-      "note": "Firefox's address bar is already a great place to search for what you're looking for. Now you'll always be able to see your web search terms and refine them while viewing your search's results - no additional scrolling needed! Also, a new result menu has been added making it easier to remove history results and dismiss sponsored Firefox Suggest entries.",
+      "modified": "2023-05-05T19:07:44.544649+00:00",
+      "note": "Firefox's address bar is already a great place to search for what you're looking for. Now you'll always be able to see your web search terms and refine them while viewing your search's results - no additional scrolling needed! Also, a new result menu has been added making it easier to remove history results and dismiss sponsored Firefox Suggest entries.\r\n![Image demonstrating search terms persisting in the address bar after hitting Enter for easier editing][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/media/img/firefox/releasenotes/note-images/113_search_persist.gif",
       "sort_num": 110,
       "tag": "New"
     },
@@ -201,8 +201,8 @@
       "created": "2023-05-05T15:16:47.939571+00:00",
       "id": 789526,
       "is_public": true,
-      "modified": "2023-05-05T15:16:47.939382+00:00",
-      "note": "It is now possible to override a JavaScript file in the debugger. In the Debugger, under the Sources tree, you can use the \"Add script override\" context menu entry. This action will download the file onto your machine, allowing you to edit it. After reloading the page, the local file will be loaded instead of the original script (indicated by a purple icon when a file is overridden).",
+      "modified": "2023-05-05T19:09:05.569438+00:00",
+      "note": "It is now possible to override a JavaScript file in the debugger. In the Debugger, under the Sources tree, you can use the \"Add script override\" context menu entry. This action will download the file onto your machine, allowing you to edit it. After reloading the page, the local file will be loaded instead of the original script (indicated by a purple icon when a file is overridden).\r\n![Screenshot of new script override debugger option][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/media/img/firefox/releasenotes/note-images/113_devtools.png",
       "sort_num": 10,
       "tag": "Developer"
     },
