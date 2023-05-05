@@ -8,6 +8,46 @@
   "notes": [
     {
       "bug": null,
+      "created": "2023-05-05T15:01:51.441132+00:00",
+      "id": 789522,
+      "is_public": true,
+      "modified": "2023-05-05T15:01:51.440959+00:00",
+      "note": "Firefox for Android now supports hardware accelerated AV1 video decoding by default with supported hardware or via fallback to software decoding.",
+      "sort_num": 20,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2023-05-05T15:01:37.954561+00:00",
+      "id": 789521,
+      "is_public": true,
+      "modified": "2023-05-05T15:01:37.954385+00:00",
+      "note": "Following up on the work already shipped on macOS and Linux in Firefox 110, GPU-accelerated Canvas2D is now enabled by default on Android also.",
+      "sort_num": 10,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2023-05-05T15:01:24.147686+00:00",
+      "id": 789520,
+      "is_public": true,
+      "modified": "2023-05-05T15:01:24.147506+00:00",
+      "note": "UI improvements to the built-in PDF viewer to make it easier to save PDFs directly.",
+      "sort_num": 10,
+      "tag": "Changed"
+    },
+    {
+      "bug": null,
+      "created": "2023-05-05T15:01:11.433853+00:00",
+      "id": 789519,
+      "is_public": true,
+      "modified": "2023-05-05T15:01:11.433679+00:00",
+      "note": "Fixed a video playback bug in landscape screen orientation.",
+      "sort_num": 20,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
       "created": "2023-05-05T15:00:56.636077+00:00",
       "id": 789518,
       "is_public": true,
