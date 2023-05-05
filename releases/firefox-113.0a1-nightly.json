@@ -7,22 +7,22 @@
   "modified": "2023-03-14T03:16:12.161483+00:00",
   "notes": [
     {
+      "bug": 1778801,
+      "created": "2023-02-16T02:11:30.732766+00:00",
+      "id": 789402,
+      "is_public": true,
+      "modified": "2023-05-05T15:26:20.249508+00:00",
+      "note": "Say hello to enhanced [Picture-in-Picture][1]! Rewind, check video duration, and effortlessly switch to full-screen mode on the web's most popular video websites.\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/about-picture-picture-firefox",
+      "sort_num": 120,
+      "tag": "New"
+    },
+    {
       "bug": 1789661,
       "created": "2023-01-30T17:34:57.826883+00:00",
       "id": 789387,
       "is_public": true,
       "modified": "2023-04-20T18:31:07.949078+00:00",
       "note": "<!-- Nightly Only -->The Awesomebar result menu is now enabled in Firefox Nightly, allowing you to remove history results and dismiss sponsored Firefox Suggest results.",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
-      "bug": 1778801,
-      "created": "2023-02-16T02:11:30.732766+00:00",
-      "id": 789402,
-      "is_public": true,
-      "modified": "2023-04-08T09:10:24.393283+00:00",
-      "note": "Say hello to enhanced Picture-in-Picture! Rewind, check video duration, and effortlessly switch to full-screen mode on the web's most popular video websites.",
       "sort_num": 0,
       "tag": "New"
     },
