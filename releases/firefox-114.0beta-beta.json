@@ -85,6 +85,16 @@
       "note": "DOM: Added support for ES Modules on [DedicatedWorker and SharedWorker][1]\r\n\r\n\r\n  [1]: https://html.spec.whatwg.org/multipage/workers.html#workeroptions",
       "sort_num": 0,
       "tag": "HTML5"
+    },
+    {
+      "bug": 1709355,
+      "created": "2023-05-10T12:03:14.307558+00:00",
+      "id": 789544,
+      "is_public": true,
+      "modified": "2023-05-10T12:05:08.769360+00:00",
+      "note": "[WebTransport][1] is now enabled by default and will be going to release with 114. As the original [Explainer][2]  notes, it enables multiple use-cases that are hard or impossible to handle without it, especially for Gaming and live streaming.  It covers cases that are problematic for alternative mechanisms, such as WebSockets. \r\n\r\nBuilt on top of HTTP3 (HTTP2 support will be coming later). The current implementation in Firefox is passing 505 out of 565 Web-Platform Tests.\r\n\r\n\r\n  [1]: https://w3c.github.io/webtransport\r\n  [2]: https://github.com/w3c/webtransport/blob/main/explainer.md",
+      "sort_num": 0,
+      "tag": "HTML5"
     }
   ],
   "product": "Firefox",
