@@ -67,16 +67,6 @@
       "tag": "New"
     },
     {
-      "bug": 1812591,
-      "created": "2023-05-10T10:06:38.845333+00:00",
-      "id": 789543,
-      "is_public": true,
-      "modified": "2023-05-10T10:06:38.845130+00:00",
-      "note": "DOM: Added support for ES Modules on [DedicatedWorker and SharedWorker][1]\r\n\r\n\r\n  [1]: https://html.spec.whatwg.org/multipage/workers.html#workeroptions",
-      "sort_num": 0,
-      "tag": ""
-    },
-    {
       "bug": 1610741,
       "created": "2023-04-12T08:19:03.038209+00:00",
       "id": 789491,
@@ -103,6 +93,16 @@
       "is_public": true,
       "modified": "2023-05-01T13:51:25.181951+00:00",
       "note": "<!-- Nightly Only -->Starting with Firefox 113, the WebTransport API is now enabled in the Nightly channel, including RFC 9297 support. It's expected to ship to release in the near future. WebTransport is expected to see widespread use for media delivery and other applications. WebTransport is built on top of QUIC/HTTP3 and provides reliable streams and reliable and unreliable datagrams.",
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 1812591,
+      "created": "2023-05-10T10:06:38.845333+00:00",
+      "id": 789543,
+      "is_public": true,
+      "modified": "2023-05-10T11:05:55.512298+00:00",
+      "note": "DOM: Added support for ES Modules on [DedicatedWorker and SharedWorker][1]\r\n\r\n\r\n  [1]: https://html.spec.whatwg.org/multipage/workers.html#workeroptions",
       "sort_num": 0,
       "tag": "HTML5"
     }
