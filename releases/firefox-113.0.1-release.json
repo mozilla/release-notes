@@ -15,6 +15,16 @@
       "note": "Reference link to [113.0 release notes][1].\r\n\r\n\r\n  [1]: https://www.mozilla.org/firefox/113.0/releasenotes/",
       "sort_num": 0,
       "tag": ""
+    },
+    {
+      "bug": 1830792,
+      "created": "2023-05-11T20:09:20.764906+00:00",
+      "id": 789548,
+      "is_public": true,
+      "modified": "2023-05-11T20:09:20.764711+00:00",
+      "note": "Fixed an issue which may cause users in some configurations to experience tearing when watching videos in fullscreen mode ([bug 1830792][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1830792",
+      "sort_num": 10,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
