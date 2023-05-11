@@ -241,8 +241,8 @@
       "created": "2023-05-10T23:46:18.958570+00:00",
       "id": 789545,
       "is_public": true,
-      "modified": "2023-05-10T23:46:18.958400+00:00",
-      "note": "Users on some Windows systems may see incorrect and/or over-saturated colors. We are investigating this issue and will address it in an upcoming bugfix release. As a temporary workaround, setting the `gfx.color_management.native_srgb` preference to `false` may alleviate the issue. ([Bug 1832215][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1832215",
+      "modified": "2023-05-11T00:17:55.702230+00:00",
+      "note": "Users on some Windows systems may see incorrect and/or over-saturated colors. We are investigating this issue and will address it in an upcoming bugfix release. As a temporary workaround, setting the `gfx.color_management.native_srgb` preference to `false` and restarting Firefox may alleviate the issue. ([Bug 1832215][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1832215",
       "sort_num": 0,
       "tag": "Known"
     }
