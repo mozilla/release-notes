@@ -17,6 +17,26 @@
       "tag": ""
     },
     {
+      "bug": 1832215,
+      "created": "2023-05-11T20:16:28.560345+00:00",
+      "id": 789550,
+      "is_public": true,
+      "modified": "2023-05-11T20:16:28.560176+00:00",
+      "note": "Fixed incorrect colors for Windows users with installed monitor/display color profiles, particularly on wide gamut displays ([bug 1832215][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1832215",
+      "sort_num": 30,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1830721,
+      "created": "2023-05-11T20:13:44.216056+00:00",
+      "id": 789549,
+      "is_public": true,
+      "modified": "2023-05-11T20:13:44.215864+00:00",
+      "note": "Fixed borders being visible around fullscreen windows for some configurations ([bug 1830721][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1830721",
+      "sort_num": 20,
+      "tag": "Fixed"
+    },
+    {
       "bug": 1830792,
       "created": "2023-05-11T20:09:20.764906+00:00",
       "id": 789548,
