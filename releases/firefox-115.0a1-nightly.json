@@ -17,6 +17,16 @@
       "tag": "New"
     },
     {
+      "bug": 1832568,
+      "created": "2023-05-18T19:42:56.107887+00:00",
+      "id": 789551,
+      "is_public": true,
+      "modified": "2023-05-18T19:42:56.107658+00:00",
+      "note": "<!-- Nightly Only -->Starting with Firefox 115, Nightly users without platform support for H264 video decoding can now fallback to Cisco's OpenH264 plugin for playback.",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1418462,
       "created": "2023-05-11T12:43:13.536858+00:00",
       "id": 789546,
