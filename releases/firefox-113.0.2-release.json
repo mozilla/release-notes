@@ -15,6 +15,46 @@
       "note": "Reference link to [113.0.1 release notes][1].\r\n\r\n\r\n  [1]: https://www.mozilla.org/firefox/113.0.1/releasenotes/",
       "sort_num": 0,
       "tag": ""
+    },
+    {
+      "bug": 1832331,
+      "created": "2023-05-22T19:22:37.447976+00:00",
+      "id": 789553,
+      "is_public": true,
+      "modified": "2023-05-22T19:22:37.447749+00:00",
+      "note": "Fixed an issue which caused Picture-in-Picture windows to not be snappable on Windows 11 or on systems with the FancyZones PowerToy installed ([bug 1832331][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1832331",
+      "sort_num": 40,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1831329,
+      "created": "2023-05-22T19:23:49.487481+00:00",
+      "id": 789554,
+      "is_public": true,
+      "modified": "2023-05-22T19:23:49.487250+00:00",
+      "note": "Fixed a video playback crash on some Windows systems with Intel graphics ([bug 1831329][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1831329",
+      "sort_num": 30,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1828026,
+      "created": "2023-05-22T19:26:48.678865+00:00",
+      "id": 789555,
+      "is_public": true,
+      "modified": "2023-05-22T19:26:48.678678+00:00",
+      "note": "Fixed a bug which could cause Firefox to freeze on some pages when loading them with the Developer Tools Web Console open ([bug 1828026][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1828026",
+      "sort_num": 20,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1831535,
+      "created": "2023-05-22T19:27:56.076976+00:00",
+      "id": 789556,
+      "is_public": true,
+      "modified": "2023-05-22T19:27:56.076665+00:00",
+      "note": "Fixed a bug which would cause the bookmarks and history sidebars to not properly react to the browser window being vertically resized ([bug 1831535][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1831535",
+      "sort_num": 10,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
