@@ -31,8 +31,8 @@
       "created": "2023-05-11T12:43:13.536858+00:00",
       "id": 789546,
       "is_public": true,
-      "modified": "2023-05-11T12:43:13.536683+00:00",
-      "note": "On Linux, middle clicks on the new tab button will now open the xclipboard contents in the new tab. If the xclipboard content is a URL then that URL is opened, any other text is opened with your default search provider.\r\nThis feature can be turned off using `browser.tabs.searchclipboardfor.middleclick` in `about:config`.",
+      "modified": "2023-05-23T14:42:39.638154+00:00",
+      "note": "On Linux, middle clicks on the new tab button will now open the xclipboard contents in the new tab. If the xclipboard content is a URL then that URL is opened, any other text is opened with your default search provider. This feature can be turned off using `browser.tabs.searchclipboardfor.middleclick` in `about:config`.",
       "sort_num": 0,
       "tag": "Changed"
     },
