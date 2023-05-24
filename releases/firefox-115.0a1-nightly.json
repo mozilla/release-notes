@@ -55,6 +55,16 @@
       "note": "<!-- Nightly Only -->Starting with Firefox 113, the WebTransport API is now enabled in the Nightly channel, including RFC 9297 support. It's expected to ship to release in the near future. WebTransport is expected to see widespread use for media delivery and other applications. WebTransport is built on top of QUIC/HTTP3 and provides reliable streams and reliable and unreliable datagrams.",
       "sort_num": 0,
       "tag": "HTML5"
+    },
+    {
+      "bug": 1824703,
+      "created": "2023-05-24T12:54:38.717907+00:00",
+      "id": 789561,
+      "is_public": true,
+      "modified": "2023-05-24T12:54:38.717699+00:00",
+      "note": "In web development, we rely on third-party libraries which you may not be interested in while debugging. These can be ignored. Ignoring them means that breakpoints will not get hit and they are skipped during stepping. \r\n\r\nYou can now choose to **Hide ignore-listed sources** in the Developer Tools source tree.",
+      "sort_num": 0,
+      "tag": "Developer"
     }
   ],
   "product": "Firefox",
