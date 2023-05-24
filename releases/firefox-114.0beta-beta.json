@@ -101,8 +101,28 @@
       "created": "2023-05-24T09:01:08.300536+00:00",
       "id": 789557,
       "is_public": true,
-      "modified": "2023-05-24T09:01:08.300337+00:00",
-      "note": "Developer tools: The *Copy as cURL* feature, available in the Network panel, has been enhanced. It now supports the -`-compressed` argument.",
+      "modified": "2023-05-24T09:03:15.722045+00:00",
+      "note": "The *Copy as cURL* feature, available in the Network panel, has been enhanced. It now supports the -`-compressed` argument.",
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
+      "bug": 1572512,
+      "created": "2023-05-24T09:03:05.435003+00:00",
+      "id": 789558,
+      "is_public": true,
+      "modified": "2023-05-24T09:03:05.434805+00:00",
+      "note": "The Accessibility Inspector has been improved to accurately recognize all the ARIA roles like `banner`, `main`, `navigation`, and `contentinfo`, etc. This enhancement is particularly beneficial for web developers working with ARIA roles to improve web accessibility.",
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
+      "bug": 1827801,
+      "created": "2023-05-24T09:04:41.805031+00:00",
+      "id": 789559,
+      "is_public": true,
+      "modified": "2023-05-24T09:04:41.804856+00:00",
+      "note": "Firefox now provides support for the CSS Cascading Level 4 `supports()` syntax for `@import` rules. This allows for the importation of other stylesheets based on support-dependency. In addition, the Inspector panel now accurately displays the conditions at the top of the imported rule.",
       "sort_num": 0,
       "tag": "Developer"
     }
