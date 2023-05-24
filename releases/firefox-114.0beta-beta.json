@@ -97,6 +97,16 @@
       "tag": "HTML5"
     },
     {
+      "bug": 1830759,
+      "created": "2023-05-24T09:30:41.603127+00:00",
+      "id": 789560,
+      "is_public": true,
+      "modified": "2023-05-24T09:30:41.602753+00:00",
+      "note": "CSS: The `infinity` and `NaN` constants are now supported inside the `calc()` function.",
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
       "bug": 1776120,
       "created": "2023-05-24T09:01:08.300536+00:00",
       "id": 789557,
