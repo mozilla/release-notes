@@ -37,6 +37,16 @@
       "tag": "Changed"
     },
     {
+      "bug": 1830337,
+      "created": "2023-05-24T13:27:04.054266+00:00",
+      "id": 789562,
+      "is_public": true,
+      "modified": "2023-05-24T13:27:04.053957+00:00",
+      "note": "For users with a [Firefox Colorways][1] built-in theme, the theme will be automatically migrated to the same theme hosted on [addons.mozilla.org][2] for Firefox profiles that have disabled add-ons auto-updates. This will allow users to keep their Colorways theme when they are later removed from Firefox installer files.\r\n\r\n[1]: https://support.mozilla.org/kb/personalize-firefox-colorways\r\n[2]: https://addons.mozilla.org/firefox/collections/4757633/colorways/",
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
       "bug": 1820116,
       "created": "2023-03-28T17:41:15.170849+00:00",
       "id": 789452,
