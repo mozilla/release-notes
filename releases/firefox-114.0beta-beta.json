@@ -131,8 +131,8 @@
       "created": "2023-05-24T09:04:41.805031+00:00",
       "id": 789559,
       "is_public": true,
-      "modified": "2023-05-24T09:04:41.804856+00:00",
-      "note": "Firefox now provides support for the CSS Cascading Level 4 `supports()` syntax for `@import` rules. This allows for the importation of other stylesheets based on support-dependency. In addition, the Inspector panel now accurately displays the conditions at the top of the imported rule.",
+      "modified": "2023-05-25T12:32:47.864314+00:00",
+      "note": "Firefox now provides support for the CSS Cascading Level 4 `supports()` syntax for `@import` rules. This allows for the importation of other stylesheets based on support-dependency. In addition, the Inspector panel now accurately displays the conditions at the top of the imported rule.\r\n\r\n![developer tools screenshot of the new @import syntax rule][1]\r\n\r\n\r\n  [1]: /media/img/firefox/releasenotes/note-images/114_devtools1.png",
       "sort_num": 0,
       "tag": "Developer"
     }
