@@ -11,7 +11,7 @@
       "created": "2023-03-15T00:32:25.415413+00:00",
       "id": 789441,
       "is_public": true,
-      "modified": "2023-05-01T13:51:25.181951+00:00",
+      "modified": "2023-05-30T15:51:30.339262+00:00",
       "note": "Starting with Firefox 112, Nightly users on macOS and Linux can now use FIDO2 / WebAuthn authenticators over USB. Some advanced features, such as fully passwordless logins, require a PIN to be set on the authenticator. It is expected to ship to all users in a future release.",
       "sort_num": 0,
       "tag": "New"
@@ -81,7 +81,7 @@
       "created": "2023-03-28T17:41:15.170849+00:00",
       "id": 789452,
       "is_public": true,
-      "modified": "2023-05-01T13:51:25.181951+00:00",
+      "modified": "2023-05-30T15:51:30.339262+00:00",
       "note": "<!-- Nightly Only -->Starting with Firefox 113, Nightly and early beta builds now behave similar to the other browsers when splitting a node (e.g., typing `Enter` to split a paragraph) and joining two nodes (e.g., typing `Backspace` at start of a paragraph to join the paragraph and the previous one) when using the built-in editor. When a node is split, the built-in editor creates new node after the original one, i.e., creates the right node. Similarly, when two nodes are joined, the built-in editor deletes the latter node and moves its children to end of the preceding node.\r\n\r\nThis new behavior can also be enabled by web apps themselves for all channels with a call of `document.execCommand(\"enableCompatibleJoinSplitDirection\", false, \"false\")` (introduced in [bug 1810663][1]). This command is available only when `designMode` is set to `\"on\"` or there is at least one editable element which has `contenteditable` attribute, and the built-in editor has not handled the `insertParagraph`, `delete`, or `forwardDelete` command.\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1810663",
       "sort_num": 0,
       "tag": "HTML5"
@@ -91,7 +91,7 @@
       "created": "2023-04-04T03:22:49.745254+00:00",
       "id": 789459,
       "is_public": true,
-      "modified": "2023-05-01T13:51:25.181951+00:00",
+      "modified": "2023-05-30T15:51:30.339262+00:00",
       "note": "<!-- Nightly Only -->Starting with Firefox 113, the WebTransport API is now enabled in the Nightly channel, including RFC 9297 support. It's expected to ship to release in the near future. WebTransport is expected to see widespread use for media delivery and other applications. WebTransport is built on top of QUIC/HTTP3 and provides reliable streams and reliable and unreliable datagrams.",
       "sort_num": 0,
       "tag": "HTML5"
