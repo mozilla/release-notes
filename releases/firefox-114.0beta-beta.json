@@ -67,6 +67,26 @@
       "tag": "New"
     },
     {
+      "bug": 1814487,
+      "created": "2023-05-31T15:35:20.772438+00:00",
+      "id": 789571,
+      "is_public": true,
+      "modified": "2023-05-31T15:35:20.772262+00:00",
+      "note": "Users on macOS, Linux, and Windows 7 can now use FIDO2 / WebAuthn authenticators over USB. Some advanced features, such as fully passwordless logins, require a PIN to be set on the authenticator.",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2023-05-31T15:37:25.387877+00:00",
+      "id": 789572,
+      "is_public": true,
+      "modified": "2023-05-31T15:37:25.387705+00:00",
+      "note": "Pocket Recommended content can now be seen in France, Italy, and Spain.",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1610741,
       "created": "2023-04-12T08:19:03.038209+00:00",
       "id": 789491,
