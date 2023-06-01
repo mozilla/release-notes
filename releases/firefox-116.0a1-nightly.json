@@ -7,22 +7,22 @@
   "modified": "2023-05-30T15:52:39.497040+00:00",
   "notes": [
     {
-      "bug": 1814487,
-      "created": "2023-03-15T00:32:25.415413+00:00",
-      "id": 789441,
-      "is_public": true,
-      "modified": "2023-05-30T15:51:30.339262+00:00",
-      "note": "Starting with Firefox 112, Nightly users on macOS and Linux can now use FIDO2 / WebAuthn authenticators over USB. Some advanced features, such as fully passwordless logins, require a PIN to be set on the authenticator. It is expected to ship to all users in a future release.",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
       "bug": 1832568,
       "created": "2023-05-18T19:42:56.107887+00:00",
       "id": 789551,
       "is_public": true,
       "modified": "2023-05-30T15:51:30.339262+00:00",
       "note": "<!-- Nightly Only -->Starting with Firefox 115, Nightly users without platform support for H264 video decoding can now fallback to Cisco's OpenH264 plugin for playback.",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1831963,
+      "created": "2023-05-30T16:51:50.165739+00:00",
+      "id": 789570,
+      "is_public": true,
+      "modified": "2023-06-01T18:12:35.184301+00:00",
+      "note": "<!-- Nightly Only --> Starting with Firefox 115, Nightly and early beta users can access automated translation of web content in Firefox. Unlike cloud-based alternatives, translation is done locally in Firefox, so that the text being translated does not leave your machine.",
       "sort_num": 0,
       "tag": "New"
     },
