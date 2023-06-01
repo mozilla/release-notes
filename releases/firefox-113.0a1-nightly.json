@@ -11,7 +11,7 @@
       "created": "2023-02-16T02:11:30.732766+00:00",
       "id": 789402,
       "is_public": true,
-      "modified": "2023-05-05T15:26:20.249508+00:00",
+      "modified": "2023-06-01T19:43:06.615477+00:00",
       "note": "Say hello to enhanced [Picture-in-Picture][1]! Rewind, check video duration, and effortlessly switch to full-screen mode on the web's most popular video websites.\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/about-picture-picture-firefox",
       "sort_num": 120,
       "tag": "New"
@@ -151,7 +151,7 @@
       "created": "2023-03-28T17:32:52.991721+00:00",
       "id": 789451,
       "is_public": true,
-      "modified": "2023-05-05T15:08:46.615340+00:00",
+      "modified": "2023-06-01T19:43:14.639126+00:00",
       "note": "Firefox 113 adds support for a number of WebRTC features for improved interoperability: [`RTCMediaSourceStats`][1], [`RTCPeerConnectionState`][2], [`RTCPeerConnectionStats`][3] (\"peer-connection\" RTCStatsType), [`RTCRtpSender.setStreams()`][4], and [`RTCSctpTransport`][5].\r\n\r\n\r\n  [1]: https://www.w3.org/TR/webrtc-stats/#dom-rtcmediasourcestats\r\n  [2]: https://w3c.github.io/webrtc-pc/#dom-rtcpeerconnectionstate\r\n  [3]: https://www.w3.org/TR/webrtc-stats/#dom-rtcpeerconnectionstats\r\n  [4]: https://w3c.github.io/webrtc-pc/#dom-rtcrtpsender-setstreams\r\n  [5]: https://w3c.github.io/webrtc-pc/#dom-rtcsctptransport",
       "sort_num": 20,
       "tag": "HTML5"
