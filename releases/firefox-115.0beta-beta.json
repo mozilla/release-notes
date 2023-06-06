@@ -1,0 +1,137 @@
+{
+  "bug_list": "",
+  "bug_search_url": "",
+  "channel": "Beta",
+  "created": "2023-06-05T19:43:40.159859+00:00",
+  "is_public": true,
+  "modified": "2023-06-06T16:30:13.981421+00:00",
+  "notes": [
+    {
+      "bug": 1777430,
+      "created": "2023-05-29T12:54:44.953351+00:00",
+      "id": 789565,
+      "is_public": true,
+      "modified": "2023-06-05T19:45:48.125317+00:00",
+      "note": "Hardware video decoding enabled for Intel GPUs on Linux.",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1393332,
+      "created": "2023-05-29T15:29:50.268863+00:00",
+      "id": 789566,
+      "is_public": true,
+      "modified": "2023-06-05T19:45:32.710142+00:00",
+      "note": "Migrating from another browser? Now you can bring over payment methods you've saved in Chrome-based browsers to Firefox.",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1418462,
+      "created": "2023-05-11T12:43:13.536858+00:00",
+      "id": 789546,
+      "is_public": true,
+      "modified": "2023-06-05T19:46:21.265330+00:00",
+      "note": "On Linux, middle clicks on the new tab button will now open the xclipboard contents in the new tab. If the xclipboard content is a URL then that URL is opened, any other text is opened with your default search provider. This feature can be turned off using `browser.tabs.searchclipboardfor.middleclick` in `about:config`.",
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
+      "bug": 1830337,
+      "created": "2023-05-24T13:27:04.054266+00:00",
+      "id": 789562,
+      "is_public": true,
+      "modified": "2023-06-05T19:46:08.107188+00:00",
+      "note": "For users with a [Firefox Colorways][1] built-in theme, the theme will be automatically migrated to the same theme hosted on [addons.mozilla.org][2] for Firefox profiles that have disabled add-ons auto-updates. This will allow users to keep their Colorways theme when they are later removed from Firefox installer files.\r\n\r\n[1]: https://support.mozilla.org/kb/personalize-firefox-colorways\r\n[2]: https://addons.mozilla.org/firefox/collections/4757633/colorways/",
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
+      "bug": 1833264,
+      "created": "2023-05-30T13:27:43.280633+00:00",
+      "id": 789568,
+      "is_public": true,
+      "modified": "2023-06-05T19:45:25.507794+00:00",
+      "note": "Undo and redo are now available in Password fields.",
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
+      "bug": 1592988,
+      "created": "2023-05-25T12:55:29.097664+00:00",
+      "id": 789563,
+      "is_public": true,
+      "modified": "2023-06-05T19:46:01.343288+00:00",
+      "note": "WebRTC application developers can now specify a [target][1] in milliseconds of media for the jitter buffer to hold. Altering the target value allows applications to control the tradeoff between playout delay and the risk of running out of audio or video frames due to network jitter.\r\n\r\n[1]:https://w3c.github.io/webrtc-extensions/#rtcrtpreceiver-jitterbuffertarget-attributes",
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 1811057,
+      "created": "2023-05-26T13:30:52.814351+00:00",
+      "id": 789564,
+      "is_public": true,
+      "modified": "2023-06-05T19:45:54.135024+00:00",
+      "note": "[Change array by copy][1] provides additional methods on `Array.prototype` and `TypedArray.prototype` to enable changes on the array by returning a new copy of it with the change.\r\n\r\n[1]:https://github.com/tc39/proposal-change-array-by-copy",
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 1823862,
+      "created": "2023-05-30T14:14:01.427048+00:00",
+      "id": 789569,
+      "is_public": true,
+      "modified": "2023-06-05T19:45:19.430187+00:00",
+      "note": "The [animation-composition][1] property is now supported, allowing a declarative way to define the composite operation used when multiple animations affect the same property simultaneously.\r\n\r\n[1]:https://developer.mozilla.org/docs/Web/CSS/animation-composition",
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 1735608,
+      "created": "2023-06-01T18:34:29.200381+00:00",
+      "id": 789574,
+      "is_public": true,
+      "modified": "2023-06-05T19:45:05.316515+00:00",
+      "note": "The builtin editor now behaves similarly to other browsers with `contenteditable` and `designMode` when splitting a node, e.g. typing Enter to split a paragraph, and also when joining two nodes, e.g. typing Backspace at start of a paragraph to join the paragraph and previous one.\r\n\r\nWhen a node is split, the builtin editor creates a new node after the original one instead of before, i.e. creates the right node instead of the left node. \r\n\r\nSimilarly, when two nodes are joined, the builtin editor deletes the latter node and moves its children to the end of the preceding node instead of deleting the former node and moving its child to start of the following node.",
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 1823354,
+      "created": "2023-06-02T13:50:33.020929+00:00",
+      "id": 789578,
+      "is_public": true,
+      "modified": "2023-06-05T19:44:56.037164+00:00",
+      "note": "Added the URL.canParse() function to allow easy and fast checking if URLs are valid and parseable.",
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 1824703,
+      "created": "2023-05-24T12:54:38.717907+00:00",
+      "id": 789561,
+      "is_public": true,
+      "modified": "2023-06-05T19:46:15.196723+00:00",
+      "note": "In web development, we rely on third-party libraries which you may not be interested in while debugging. These can be ignored. Ignoring them means that breakpoints will not get hit and they are skipped during stepping. \r\n\r\nYou can now choose to **Hide ignore-listed sources** in the Developer Tools source tree.",
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
+      "bug": 1828295,
+      "created": "2023-06-01T18:11:41.428598+00:00",
+      "id": 789573,
+      "is_public": true,
+      "modified": "2023-06-05T19:45:12.478405+00:00",
+      "note": "Windows Magnifier now follows the text cursor correctly when the Firefox title bar is visible.",
+      "sort_num": 0,
+      "tag": "Fixed"
+    }
+  ],
+  "product": "Firefox",
+  "release_date": "2023-06-06",
+  "slug": "firefox-115.0beta-beta",
+  "system_requirements": "## Windows\r\n\r\n### Operating Systems (32-bit and 64-bit)\r\n - Windows 7 or later\r\n\r\n### Recommended Hardware\r\n-  1 gigahertz (GHz) or faster compatible processor or System on a Chip (SoC)\r\n-  1GB of RAM / 2GB of RAM for the 64-bit version\r\n-  500MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- macOS 10.12 or later\r\n\r\n### Recommended Hardware\r\n- Macintosh computer with an Intel x86 or Apple silicon processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - glibc 2.17 or higher\r\n    - GTK+ 3.14 or higher\r\n    - libdbus-glib 0.6.0 or higher\r\n    - libglib 2.42 or higher\r\n    - libstdc++ 4.8.1 or higher\r\n    - libxtst 1.2.3 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - DBus 1.0 or higher\r\n    - NetworkManager 0.7 or higher\r\n    - PulseAudio",
+  "text": "Firefox Beta gets updated 3 times a week and as a consequence, the release notes for the Beta channel are updated continuously to reflect features that have reached sufficient maturity to benefit from community feedback and bug reports.\r\n\r\n\r\n**Warning: Features listed here may or may *not* make a final release of Firefox.**\r\n\r\nIn addition to these release notes, you can follow ongoing development via our [@FirefoxBeta][1] Twitter account.\r\n\r\n\r\n  [1]: https://twitter.com/firefoxbeta",
+  "title": "Firefox 115.0beta Beta",
+  "version": "115.0beta"
+}
