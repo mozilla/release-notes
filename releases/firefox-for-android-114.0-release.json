@@ -25,6 +25,36 @@
       "note": "*Open in app* button in PDF viewer to opens PDFs in an external app.",
       "sort_num": 0,
       "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2023-06-01T21:12:31.158848+00:00",
+      "id": 789577,
+      "is_public": true,
+      "modified": "2023-06-06T07:55:31.931206+00:00",
+      "note": "Various [security][1] fixes.\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/mfsa2023-18/",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2023-06-06T07:51:07.059556+00:00",
+      "id": 789581,
+      "is_public": true,
+      "modified": "2023-06-06T07:51:07.059367+00:00",
+      "note": "Reduced the CPU usage of background tabs. This should help reduce tab reloads.",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2023-06-06T07:51:36.314518+00:00",
+      "id": 789582,
+      "is_public": true,
+      "modified": "2023-06-06T07:51:36.314332+00:00",
+      "note": "Made tabs tray animation smoother.",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox for Android",
