@@ -1,0 +1,37 @@
+{
+  "bug_list": "",
+  "bug_search_url": "",
+  "channel": "Release",
+  "created": "2023-06-06T07:42:53.955391+00:00",
+  "is_public": false,
+  "modified": "2023-06-06T07:43:26.358252+00:00",
+  "notes": [
+    {
+      "bug": null,
+      "created": "2023-06-06T07:49:42.472887+00:00",
+      "id": 789579,
+      "is_public": true,
+      "modified": "2023-06-06T07:49:42.472713+00:00",
+      "note": "Websites that use `window.print()` can now be printed.",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2023-06-06T07:50:28.484183+00:00",
+      "id": 789580,
+      "is_public": true,
+      "modified": "2023-06-06T07:50:28.484001+00:00",
+      "note": "*Open in app* button in PDF viewer to opens PDFs in an external app.",
+      "sort_num": 0,
+      "tag": "New"
+    }
+  ],
+  "product": "Firefox for Android",
+  "release_date": "2023-06-06",
+  "slug": "firefox-for-android-114.0-release",
+  "system_requirements": "## Operating systems\r\n - Android 5.0 or newer",
+  "text": "",
+  "title": "Firefox for Android 114.0 Release",
+  "version": "114.0"
+}
