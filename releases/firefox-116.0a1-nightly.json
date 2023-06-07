@@ -27,6 +27,16 @@
       "tag": "New"
     },
     {
+      "bug": 1818754,
+      "created": "2023-04-04T03:22:49.745254+00:00",
+      "id": 789459,
+      "is_public": true,
+      "modified": "2023-05-30T15:51:30.339262+00:00",
+      "note": "<!-- Nightly Only -->Starting with Firefox 113, the WebTransport API is now enabled in the Nightly channel, including RFC 9297 support. It's expected to ship to release in the near future. WebTransport is expected to see widespread use for media delivery and other applications. WebTransport is built on top of QUIC/HTTP3 and provides reliable streams and reliable and unreliable datagrams.",
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
       "bug": 675943,
       "created": "2023-06-07T18:50:41.923941+00:00",
       "fixed_in_release": {
@@ -39,20 +49,10 @@
       },
       "id": 789584,
       "is_public": true,
-      "modified": "2023-06-07T18:50:41.923766+00:00",
-      "note": "Added support for the [dirname][1] attribute to pass text directionality information about input and textarea elements to the server. \r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input#dirname",
+      "modified": "2023-06-07T18:56:26.027300+00:00",
+      "note": "Added support for the [dirname][1] attribute to pass text directionality information about input and textarea elements to the server. ([learn more][2])\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input#dirname\r\n  [2]: https://www.w3.org/International/questions/qa-html-dir#reportingdirection",
       "sort_num": 0,
-      "tag": ""
-    },
-    {
-      "bug": 1818754,
-      "created": "2023-04-04T03:22:49.745254+00:00",
-      "id": 789459,
-      "is_public": true,
-      "modified": "2023-05-30T15:51:30.339262+00:00",
-      "note": "<!-- Nightly Only -->Starting with Firefox 113, the WebTransport API is now enabled in the Nightly channel, including RFC 9297 support. It's expected to ship to release in the near future. WebTransport is expected to see widespread use for media delivery and other applications. WebTransport is built on top of QUIC/HTTP3 and provides reliable streams and reliable and unreliable datagrams.",
-      "sort_num": 0,
-      "tag": "HTML5"
+      "tag": "Developer"
     }
   ],
   "product": "Firefox",
