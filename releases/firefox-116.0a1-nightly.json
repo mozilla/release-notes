@@ -27,6 +27,24 @@
       "tag": "New"
     },
     {
+      "bug": 675943,
+      "created": "2023-06-07T18:50:41.923941+00:00",
+      "fixed_in_release": {
+        "channel": "Nightly",
+        "is_public": true,
+        "product": "Firefox",
+        "slug": "firefox-116.0a1-nightly",
+        "title": "Firefox 116.0a1 Nightly",
+        "version": "116.0a1"
+      },
+      "id": 789584,
+      "is_public": true,
+      "modified": "2023-06-07T18:50:41.923766+00:00",
+      "note": "Added support for the [dirname][1] attribute to pass text directionality information about input and textarea elements to the server. \r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input#dirname",
+      "sort_num": 0,
+      "tag": ""
+    },
+    {
       "bug": 1818754,
       "created": "2023-04-04T03:22:49.745254+00:00",
       "id": 789459,
