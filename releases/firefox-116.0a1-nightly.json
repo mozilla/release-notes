@@ -73,6 +73,16 @@
       "note": "Added support for the [dirname][1] attribute to pass text directionality information about input and textarea elements to the server. ([learn more][2])\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input#dirname\r\n  [2]: https://www.w3.org/International/questions/qa-html-dir#reportingdirection",
       "sort_num": 0,
       "tag": "Developer"
+    },
+    {
+      "bug": 1409200,
+      "created": "2023-06-15T15:10:14.445597+00:00",
+      "id": 789589,
+      "is_public": true,
+      "modified": "2023-06-15T15:10:14.445387+00:00",
+      "note": "Firefox now supports CSP3 [external hashes][1].\r\n\r\n\r\n  [1]: https://w3c.github.io/webappsec-csp/#external-hash",
+      "sort_num": 0,
+      "tag": "Developer"
     }
   ],
   "product": "Firefox",
