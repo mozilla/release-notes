@@ -57,6 +57,16 @@
       "tag": "HTML5"
     },
     {
+      "bug": 1811440,
+      "created": "2023-06-15T19:04:48.917745+00:00",
+      "id": 789591,
+      "is_public": true,
+      "modified": "2023-06-15T19:05:31.359225+00:00",
+      "note": "This release now supports proper BYOB readers on Fetch and WebTransport, which allows developers to prepare their ArrayBuffer so that it can be reused for read requests and thus saves memory allocation. `.getReader({ mode: \"byob\" })` on Fetch and WebTransport streams was supported on previous releases but without true BYOB support, as new memory allocation still occurred internally.",
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
       "bug": 675943,
       "created": "2023-06-07T18:50:41.923941+00:00",
       "fixed_in_release": {
