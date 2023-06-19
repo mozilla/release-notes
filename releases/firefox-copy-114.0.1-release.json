@@ -2,36 +2,15 @@
   "bug_list": "",
   "bug_search_url": "",
   "channel": "Release",
-  "created": "2023-06-09T10:02:33.447792+00:00",
-  "is_public": true,
-  "modified": "2023-06-09T14:20:29.945380+00:00",
-  "notes": [
-    {
-      "bug": null,
-      "created": "2023-06-09T10:04:31.741545+00:00",
-      "id": 789585,
-      "is_public": true,
-      "modified": "2023-06-19T14:00:34.819725+00:00",
-      "note": "Reference link to [114.0 release notes][1].\r\n\r\n\r\n  [1]: https://www.mozilla.org/en-US/firefox/114.0/releasenotes/",
-      "sort_num": 0,
-      "tag": ""
-    },
-    {
-      "bug": null,
-      "created": "2023-06-09T10:07:23.360174+00:00",
-      "id": 789586,
-      "is_public": true,
-      "modified": "2023-06-19T14:00:35.687934+00:00",
-      "note": "Fix a startup crash ([bug 1837201][1]).\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1837201",
-      "sort_num": 0,
-      "tag": "Fixed"
-    }
-  ],
+  "created": "2023-06-19T14:00:09.926105+00:00",
+  "is_public": false,
+  "modified": "2023-06-19T14:00:09.925900+00:00",
+  "notes": [],
   "product": "Firefox",
   "release_date": "2023-06-09",
-  "slug": "firefox-114.0.1-release",
+  "slug": "firefox-copy-114.0.1-release",
   "system_requirements": "## Windows\r\n\r\n### Operating Systems (32-bit and 64-bit)\r\n - Windows 7 or later\r\n\r\n### Recommended Hardware\r\n-  Pentium 4 or newer processor that supports SSE2\r\n-  512MB of RAM / 2GB of RAM for the 64-bit version\r\n-  200MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- macOS 10.12 or later\r\n\r\n### Recommended Hardware\r\n- Mac computer with an Intel x86 or Apple silicon processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - glibc 2.17 or higher\r\n    - GTK+ 3.14 or higher\r\n    - libdbus-glib 0.6.0 or higher\r\n    - libglib 2.42 or higher\r\n    - libstdc++ 4.8.1 or higher\r\n    - libxtst 1.2.3 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - DBus 1.0 or higher\r\n    - NetworkManager 0.7 or higher\r\n    - PulseAudio",
   "text": "",
-  "title": "Firefox 114.0.1 Release",
-  "version": "114.0.1"
+  "title": "Firefox copy-114.0.1 Release",
+  "version": "copy-114.0.1"
 }
