@@ -5,7 +5,18 @@
   "created": "2023-06-19T14:00:09.926105+00:00",
   "is_public": false,
   "modified": "2023-06-19T14:00:09.925900+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": null,
+      "created": "2023-06-19T14:02:18.309718+00:00",
+      "id": 789594,
+      "is_public": true,
+      "modified": "2023-06-19T14:02:18.309399+00:00",
+      "note": "Reference link to [114.0.1 release notes][1].\r\n\t\r\n\r\n\r\n  [1]: https://www.mozilla.org/en-US/firefox/114.0.1/releasenotes/",
+      "sort_num": 0,
+      "tag": ""
+    }
+  ],
   "product": "Firefox",
   "release_date": "2023-06-09",
   "slug": "firefox-copy-114.0.1-release",
