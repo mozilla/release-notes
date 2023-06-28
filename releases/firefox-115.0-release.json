@@ -178,6 +178,16 @@
     },
     {
       "bug": null,
+      "created": "2023-06-28T18:51:28.516907+00:00",
+      "id": 789616,
+      "is_public": true,
+      "modified": "2023-06-28T18:51:28.516660+00:00",
+      "note": "Windows users on low-end/USB wifi drivers and with OS geolocation disabled can now approve geolocation on a case by case basis without causing system-wide network instability.",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
       "created": "2023-06-28T16:44:40.209495+00:00",
       "id": 789598,
       "is_public": true,
