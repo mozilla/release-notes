@@ -5,7 +5,18 @@
   "created": "2023-06-28T15:54:57.043437+00:00",
   "is_public": false,
   "modified": "2023-06-28T15:58:29.833537+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": null,
+      "created": "2023-06-28T16:44:40.209495+00:00",
+      "id": 789598,
+      "is_public": true,
+      "modified": "2023-06-28T16:44:40.209313+00:00",
+      "note": "With the release of Firefox 115, we are pleased to welcome the developers who contributed their first code change to Firefox in this release, 8 of whom were brand new volunteers! \r\n\r\nPlease join us in thanking each of these diligent and enthusiastic individuals, and take a look at their contributions:\r\n\r\n- Anton Bobrov: <a href=\"https://bugzilla.mozilla.org/1833330\">1833330\r\n- Brice Laurencin: <a href=\"https://bugzilla.mozilla.org/1418462\">1418462</a>\r\n- LyScott123: <a href=\"https://bugzilla.mozilla.org/1788013\">1788013</a>\r\n- Mart\u00edn Gonz\u00e1lez G\u00f3mez: <a href=\"https://bugzilla.mozilla.org/1827565\">1827565</a>\r\n- michael s: <a href=\"https://bugzilla.mozilla.org/1787997\">1787997</a>\r\n- Sam Kravitz: <a href=\"https://bugzilla.mozilla.org/1832402\">1832402</a>\r\n- sankalp.shubham99: <a href=\"https://bugzilla.mozilla.org/1831587\">1831587</a>\r\n- Tom Marble: <a href=\"https://bugzilla.mozilla.org/1832629\">1832629</a>",
+      "sort_num": 0,
+      "tag": "Community"
+    }
+  ],
   "product": "Firefox",
   "release_date": "2023-07-04",
   "slug": "firefox-115.0-release",
