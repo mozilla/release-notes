@@ -78,6 +78,26 @@
     },
     {
       "bug": null,
+      "created": "2023-06-28T17:01:58.559252+00:00",
+      "id": 789608,
+      "is_public": true,
+      "modified": "2023-06-28T17:02:48.519861+00:00",
+      "note": "In web development, we rely on third-party libraries which you may not be interested in while debugging. These can be ignored. Ignoring them means that breakpoints will not get hit and they are skipped during stepping. \r\n\r\nYou can now choose to **Hide ignore-listed sources** in the Developer Tools source tree ([bug][1]).\r\n\r\nIgnored sources are also skipped by JavaScript tracing feature ([bug][2]).\r\n\r\n[1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1824703\r\n[2]: https://bugzilla.mozilla.org/show_bug.cgi?id=1830319",
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
+      "bug": null,
+      "created": "2023-06-28T17:03:39.314564+00:00",
+      "id": 789609,
+      "is_public": true,
+      "modified": "2023-06-28T17:03:39.314124+00:00",
+      "note": "We have introduced a new option, `devtools.f12_enabled`, that can be utilized to prevent the accidental use of the F12 key, which opens the DevTools toolbox ([bug][1]).\r\n\r\n[1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1704521",
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
+      "bug": null,
       "created": "2023-06-28T17:00:27.912965+00:00",
       "id": 789607,
       "is_public": true,
