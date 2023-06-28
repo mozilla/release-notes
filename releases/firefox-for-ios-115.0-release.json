@@ -25,6 +25,76 @@
       "note": "Added support for large text and adaptable fonts.",
       "sort_num": 0,
       "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2023-06-28T19:23:55.433331+00:00",
+      "id": 789625,
+      "is_public": true,
+      "modified": "2023-06-28T19:23:55.433150+00:00",
+      "note": "Fixed a bug with Tab focus and password biometric.",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2023-06-28T19:24:11.990688+00:00",
+      "id": 789626,
+      "is_public": true,
+      "modified": "2023-06-28T19:24:11.990456+00:00",
+      "note": "Fixed truncated settings summary and touch ID text errors.",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2023-06-28T19:24:30.276847+00:00",
+      "id": 789627,
+      "is_public": true,
+      "modified": "2023-06-28T19:24:30.276549+00:00",
+      "note": "Fixed a problem with new tabs always opening in regular mode.",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2023-06-28T19:24:43.634868+00:00",
+      "id": 789628,
+      "is_public": true,
+      "modified": "2023-06-28T19:24:43.634674+00:00",
+      "note": "Improved inactive tab swipe action by renaming the delete button to close.",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2023-06-28T19:24:59.544380+00:00",
+      "id": 789629,
+      "is_public": true,
+      "modified": "2023-06-28T19:24:59.544189+00:00",
+      "note": "Fixed an issue with URL bar text population when opening new tabs.",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2023-06-28T19:25:41.695915+00:00",
+      "id": 789630,
+      "is_public": true,
+      "modified": "2023-06-28T19:25:41.695611+00:00",
+      "note": "Fixed an issue with session restore message handling.",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2023-06-28T19:26:04.535102+00:00",
+      "id": 789631,
+      "is_public": true,
+      "modified": "2023-06-28T19:26:04.534916+00:00",
+      "note": "Various fixes include warnings, zoom page improvements, onboarding button cutoff, correct home favicon, onboarding card experiments, and survey link behavior.",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox for iOS",
