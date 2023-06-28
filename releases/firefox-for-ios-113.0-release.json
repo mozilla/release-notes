@@ -11,7 +11,7 @@
       "created": "2023-05-05T14:59:34.873147+00:00",
       "id": 789517,
       "is_public": true,
-      "modified": "2023-05-05T14:59:34.872967+00:00",
+      "modified": "2023-06-28T16:04:03.441168+00:00",
       "note": "For new users, the toolbar will now default to the top of the screen.",
       "sort_num": 10,
       "tag": "New"
@@ -21,7 +21,7 @@
       "created": "2023-05-05T14:59:22.952702+00:00",
       "id": 789516,
       "is_public": true,
-      "modified": "2023-05-05T14:59:22.952368+00:00",
+      "modified": "2023-06-28T16:04:05.535118+00:00",
       "note": "An empty top bar was shown when it should be hidden due to scrolling.",
       "sort_num": 70,
       "tag": "Fixed"
@@ -31,7 +31,7 @@
       "created": "2023-05-05T14:59:11.368314+00:00",
       "id": 789515,
       "is_public": true,
-      "modified": "2023-05-05T14:59:11.368135+00:00",
+      "modified": "2023-06-28T16:04:06.953616+00:00",
       "note": "Fixed an inconsistency in the way the long press context menu is triggered between the Bookmarks and History panels.",
       "sort_num": 60,
       "tag": "Fixed"
@@ -41,7 +41,7 @@
       "created": "2023-05-05T14:58:55.313693+00:00",
       "id": 789514,
       "is_public": true,
-      "modified": "2023-05-05T14:58:55.313486+00:00",
+      "modified": "2023-06-28T16:04:08.319960+00:00",
       "note": "Clearing history didn\u2019t clear \"recently visited\" on the home page.",
       "sort_num": 50,
       "tag": "Fixed"
@@ -51,7 +51,7 @@
       "created": "2023-05-05T14:58:40.885838+00:00",
       "id": 789513,
       "is_public": true,
-      "modified": "2023-05-05T14:58:40.885667+00:00",
+      "modified": "2023-06-28T16:04:09.775220+00:00",
       "note": "The reader mode web view didn't properly reflect theme changes.",
       "sort_num": 40,
       "tag": "Fixed"
@@ -61,7 +61,7 @@
       "created": "2023-05-05T14:58:16.454067+00:00",
       "id": 789512,
       "is_public": true,
-      "modified": "2023-05-05T14:58:16.453873+00:00",
+      "modified": "2023-06-28T16:04:11.166929+00:00",
       "note": "Save and X buttons were missing from the Edit Bookmark view.",
       "sort_num": 30,
       "tag": "Fixed"
@@ -71,7 +71,7 @@
       "created": "2023-05-05T14:58:03.265940+00:00",
       "id": 789511,
       "is_public": true,
-      "modified": "2023-05-05T14:58:03.265732+00:00",
+      "modified": "2023-06-28T16:04:12.178888+00:00",
       "note": "The Copy URL toast on the TabTray was shown behind the toolbar.",
       "sort_num": 20,
       "tag": "Fixed"
@@ -81,7 +81,7 @@
       "created": "2023-05-05T14:57:27.489725+00:00",
       "id": 789510,
       "is_public": true,
-      "modified": "2023-05-05T14:57:42.552747+00:00",
+      "modified": "2023-06-28T16:04:13.149616+00:00",
       "note": "Tabs disappeared in the tabs tray after creating the second one.",
       "sort_num": 10,
       "tag": "Fixed"
