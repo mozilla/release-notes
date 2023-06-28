@@ -21,7 +21,7 @@
       "created": "2023-04-12T08:20:17.868069+00:00",
       "id": 789492,
       "is_public": true,
-      "modified": "2023-06-01T20:56:54.014168+00:00",
+      "modified": "2023-06-28T15:56:57.674809+00:00",
       "note": "Added UI to manage the DNS over HTTPS exception list.",
       "sort_num": 0,
       "tag": "New"
@@ -31,7 +31,7 @@
       "created": "2023-04-18T14:43:52.657685+00:00",
       "id": 789496,
       "is_public": true,
-      "modified": "2023-06-01T20:57:53.381770+00:00",
+      "modified": "2023-06-28T15:57:03.919124+00:00",
       "note": "Bookmarks can now be searched from the Bookmarks menu. The Bookmarks menu is accessible by adding the *Bookmarks menu* button to the toolbar.",
       "sort_num": 0,
       "tag": "New"
@@ -41,7 +41,7 @@
       "created": "2023-05-02T16:11:19.400181+00:00",
       "id": 789506,
       "is_public": true,
-      "modified": "2023-06-01T20:58:29.583043+00:00",
+      "modified": "2023-06-28T15:57:15.598792+00:00",
       "note": "Restrict searches to your local browsing history by selecting *Search history* from the History, Library or Application menu buttons.",
       "sort_num": 0,
       "tag": "New"
@@ -51,7 +51,7 @@
       "created": "2023-05-03T13:59:53.062460+00:00",
       "id": 789509,
       "is_public": true,
-      "modified": "2023-06-01T20:58:56.750394+00:00",
+      "modified": "2023-06-28T15:57:11.440218+00:00",
       "note": "Mac users can now capture video from their cameras in all supported native resolutions. This enables resolutions higher than 1280x720.",
       "sort_num": 0,
       "tag": "New"
@@ -61,7 +61,7 @@
       "created": "2023-05-10T09:44:12.102171+00:00",
       "id": 789542,
       "is_public": true,
-      "modified": "2023-06-01T20:59:24.423096+00:00",
+      "modified": "2023-06-28T15:57:02.786512+00:00",
       "note": "It is now possible to reorder the extensions listed in the extensions panel.",
       "sort_num": 0,
       "tag": "New"
@@ -71,7 +71,7 @@
       "created": "2023-05-31T15:35:20.772438+00:00",
       "id": 789571,
       "is_public": true,
-      "modified": "2023-06-01T21:30:41.835346+00:00",
+      "modified": "2023-06-28T15:57:13.941562+00:00",
       "note": "Users on macOS, Linux, and Windows 7 can now use FIDO2 / WebAuthn authenticators over USB. Some advanced features, such as fully passwordless logins, require a PIN to be set on the authenticator.",
       "sort_num": 0,
       "tag": "New"
@@ -81,7 +81,7 @@
       "created": "2023-05-31T15:37:25.387877+00:00",
       "id": 789572,
       "is_public": true,
-      "modified": "2023-06-01T20:59:59.596362+00:00",
+      "modified": "2023-06-28T15:57:12.506597+00:00",
       "note": "Pocket Recommended content can now be seen in France, Italy, and Spain.",
       "sort_num": 0,
       "tag": "New"
@@ -91,7 +91,7 @@
       "created": "2023-04-12T08:19:03.038209+00:00",
       "id": 789491,
       "is_public": true,
-      "modified": "2023-06-01T21:01:15.901067+00:00",
+      "modified": "2023-06-28T15:56:58.570852+00:00",
       "note": "DNS over HTTPS settings are now part of  the *Privacy & Security* section of the *Settings* page and allow the user to choose from all the supported modes.",
       "sort_num": 0,
       "tag": "Changed"
@@ -101,7 +101,7 @@
       "created": "2023-05-10T10:06:38.845333+00:00",
       "id": 789543,
       "is_public": true,
-      "modified": "2023-06-01T21:05:18.559471+00:00",
+      "modified": "2023-06-28T15:57:01.867389+00:00",
       "note": "DOM: Added support for ES Modules on [DedicatedWorker and SharedWorker][1]\r\n\r\n\r\n  [1]: https://html.spec.whatwg.org/multipage/workers.html#workeroptions",
       "sort_num": 0,
       "tag": "HTML5"
@@ -111,7 +111,7 @@
       "created": "2023-05-10T12:03:14.307558+00:00",
       "id": 789544,
       "is_public": true,
-      "modified": "2023-06-01T21:06:18.983932+00:00",
+      "modified": "2023-06-28T15:57:00.606911+00:00",
       "note": "[WebTransport][1] is now enabled by default and will be going to release with 114. As the original [Explainer][2]  notes, it enables multiple use-cases that are hard or impossible to handle without it, especially for Gaming and live streaming.  It covers cases that are problematic for alternative mechanisms, such as WebSockets. \r\n\r\nBuilt on top of HTTP3 (HTTP2 support will be coming later). The current implementation in Firefox is passing 505 out of 565 Web-Platform Tests.\r\n\r\n\r\n  [1]: https://w3c.github.io/webtransport\r\n  [2]: https://github.com/w3c/webtransport/blob/main/explainer.md",
       "sort_num": 0,
       "tag": "HTML5"
@@ -121,7 +121,7 @@
       "created": "2023-05-24T09:30:41.603127+00:00",
       "id": 789560,
       "is_public": true,
-      "modified": "2023-06-01T21:06:58.751392+00:00",
+      "modified": "2023-06-28T15:56:51.318223+00:00",
       "note": "CSS: The `infinity` and `NaN` constants are now supported inside the `calc()` function.",
       "sort_num": 0,
       "tag": "HTML5"
@@ -131,7 +131,7 @@
       "created": "2023-05-24T09:01:08.300536+00:00",
       "id": 789557,
       "is_public": true,
-      "modified": "2023-06-01T21:03:20.127152+00:00",
+      "modified": "2023-06-28T15:56:56.637676+00:00",
       "note": "The *Copy as cURL* feature, available in the Network panel, has been enhanced. It now supports the -`-compressed` argument.",
       "sort_num": 0,
       "tag": "Developer"
@@ -141,7 +141,7 @@
       "created": "2023-05-24T09:03:05.435003+00:00",
       "id": 789558,
       "is_public": true,
-      "modified": "2023-06-01T21:03:57.181264+00:00",
+      "modified": "2023-06-28T15:56:53.830261+00:00",
       "note": "The Accessibility Inspector has been improved to accurately recognize all the ARIA roles like `banner`, `main`, `navigation`, and `contentinfo`, etc. This enhancement is particularly beneficial for web developers working with ARIA roles to improve web accessibility.",
       "sort_num": 0,
       "tag": "Developer"
@@ -151,7 +151,7 @@
       "created": "2023-05-24T09:04:41.805031+00:00",
       "id": 789559,
       "is_public": true,
-      "modified": "2023-06-01T21:04:33.374068+00:00",
+      "modified": "2023-06-28T15:56:52.899687+00:00",
       "note": "Firefox now provides support for the CSS Cascading Level 4 `supports()` syntax for `@import` rules. This allows for the importation of other stylesheets based on support-dependency. In addition, the Inspector panel now accurately displays the conditions at the top of the imported rule.\r\n\r\n![developer tools screenshot of the new @import syntax rule][1]\r\n\r\n\r\n  [1]: /media/img/firefox/releasenotes/note-images/114_devtools1.png",
       "sort_num": 0,
       "tag": "Developer"
