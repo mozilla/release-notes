@@ -108,6 +108,36 @@
     },
     {
       "bug": null,
+      "created": "2023-06-28T17:34:18.774948+00:00",
+      "id": 789613,
+      "is_public": true,
+      "modified": "2023-06-28T17:34:18.774624+00:00",
+      "note": "The [animation-composition][1] property is now supported, allowing a declarative way to define the composite operation used when multiple animations affect the same property simultaneously.\r\n\r\n[1]: https://developer.mozilla.org/docs/Web/CSS/animation-composition",
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": null,
+      "created": "2023-06-28T17:37:07.993464+00:00",
+      "id": 789614,
+      "is_public": true,
+      "modified": "2023-06-28T17:37:07.993287+00:00",
+      "note": "Added the [URL.canParse()][1] function to allow easy and fast checking if URLs are valid and parseable.\r\n\r\n[1]: https://developer.mozilla.org/docs/Web/API/URL/canParse_static",
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": null,
+      "created": "2023-06-28T17:38:47.764687+00:00",
+      "id": 789615,
+      "is_public": true,
+      "modified": "2023-06-28T17:38:47.764353+00:00",
+      "note": "[IndexedDB][1] is now also supported in [private browsing][2] without memory limits thanks to encrypted storage on disk.\r\n\r\n[1]: https://w3c.github.io/IndexedDB/\r\n[2]: https://bugzilla.mozilla.org/show_bug.cgi?id=1639542",
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": null,
       "created": "2023-06-28T17:01:58.559252+00:00",
       "id": 789608,
       "is_public": true,
