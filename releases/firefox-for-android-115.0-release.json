@@ -5,7 +5,58 @@
   "created": "2023-06-28T16:03:09.872870+00:00",
   "is_public": false,
   "modified": "2023-06-28T16:03:51.927690+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": null,
+      "created": "2023-06-28T19:07:42.847330+00:00",
+      "id": 789618,
+      "is_public": true,
+      "modified": "2023-06-28T19:07:42.847009+00:00",
+      "note": "The address bar's new search button allows you to easily switch between search engines and search your bookmarks and browsing history.",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2023-06-28T19:09:51.285689+00:00",
+      "id": 789619,
+      "is_public": true,
+      "modified": "2023-06-28T19:09:51.285485+00:00",
+      "note": "Fixed playback of Apple TV+ DRM video.",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2023-06-28T19:10:15.780568+00:00",
+      "id": 789620,
+      "is_public": true,
+      "modified": "2023-06-28T19:10:15.780263+00:00",
+      "note": "Fixed issues with Talkback accessibility.",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2023-06-28T19:10:36.178507+00:00",
+      "id": 789621,
+      "is_public": true,
+      "modified": "2023-06-28T19:10:36.178328+00:00",
+      "note": "Fixed an issue with the download progress bar for large files.",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2023-06-28T19:10:57.257015+00:00",
+      "id": 789622,
+      "is_public": true,
+      "modified": "2023-06-28T19:10:57.256822+00:00",
+      "note": "Fixed issues with filename extensions on downloaded files.",
+      "sort_num": 0,
+      "tag": "Fixed"
+    }
+  ],
   "product": "Firefox for Android",
   "release_date": "2023-07-04",
   "slug": "firefox-for-android-115.0-release",

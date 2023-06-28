@@ -4,7 +4,7 @@
   "channel": "Release",
   "created": "2023-06-28T15:54:57.043437+00:00",
   "is_public": false,
-  "modified": "2023-06-28T15:58:29.833537+00:00",
+  "modified": "2023-06-28T19:06:27.988737+00:00",
   "notes": [
     {
       "bug": null,
@@ -138,6 +138,16 @@
     },
     {
       "bug": null,
+      "created": "2023-06-28T19:02:22.546104+00:00",
+      "id": 789617,
+      "is_public": true,
+      "modified": "2023-06-28T19:02:22.545925+00:00",
+      "note": "Supports conditions are now supported in CSS import rules [@import supports(...)][1]\r\n\r\n[1]: https://www.w3.org/TR/css-cascade-5/#conditional-import",
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": null,
       "created": "2023-06-28T17:01:58.559252+00:00",
       "id": 789608,
       "is_public": true,
@@ -201,7 +211,7 @@
   "release_date": "2023-07-04",
   "slug": "firefox-115.0-release",
   "system_requirements": "## Windows\r\n\r\n### Operating Systems (32-bit and 64-bit)\r\n - Windows 7 or later\r\n\r\n### Recommended Hardware\r\n-  Pentium 4 or newer processor that supports SSE2\r\n-  512MB of RAM / 2GB of RAM for the 64-bit version\r\n-  200MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- macOS 10.12 or later\r\n\r\n### Recommended Hardware\r\n- Mac computer with an Intel x86 or Apple silicon processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - glibc 2.17 or higher\r\n    - GTK+ 3.14 or higher\r\n    - libdbus-glib 0.6.0 or higher\r\n    - libglib 2.42 or higher\r\n    - libstdc++ 4.8.1 or higher\r\n    - libxtst 1.2.3 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - DBus 1.0 or higher\r\n    - NetworkManager 0.7 or higher\r\n    - PulseAudio",
-  "text": "",
+  "text": "In January 2023, Microsoft ended support for Windows 7 and Windows 8. As a consequence, this is the last version of Firefox that users on those operating systems will receive. Users on Windows 7 and Windows 8 will automatically be migrated to the ESR 115 version of Firefox so that they continue to receive important security updates. Visit [this Firefox support article][1] for more information.\r\n\r\nSimilarly, this is the last major version of Firefox that will support Apple macOS 10.12, 10.13, and 10.14.  Users on those operating systems will be migrated to the ESR 115 version of Firefox so that they continue to receive important updates. Visit [this Firefox support article][2] for more information.\r\n\r\nWe want to extend a special thank you to all of the new Mozillians who contributed to this release of Firefox!\r\n\r\n[1]: https://support.mozilla.org/kb/firefox-users-windows-7-8-and-81-moving-extended-support\r\n[2]: https://support.mozilla.org/kb/firefox-users-macos-1012-1013-1014-moving-to-extended-support",
   "title": "Firefox 115.0 Release",
   "version": "115.0"
 }
