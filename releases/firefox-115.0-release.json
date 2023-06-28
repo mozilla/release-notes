@@ -78,6 +78,36 @@
     },
     {
       "bug": null,
+      "created": "2023-06-28T17:28:20.587537+00:00",
+      "id": 789610,
+      "is_public": true,
+      "modified": "2023-06-28T17:28:20.587361+00:00",
+      "note": "The builtin editor now behaves similarly to other browsers with `contenteditable` and `designMode` when splitting a node, e.g. typing Enter to split a paragraph, and also when joining two nodes, e.g. typing Backspace at the start of a paragraph to join the paragraph and the previous one.\r\n\r\nWhen a node is split, the builtin editor creates a new node after the original one instead of before, i.e. creates the right node instead of the left node.\r\n\r\nSimilarly, when two nodes are joined, the builtin editor deletes the latter node and moves its children to the end of the preceding node instead of deleting the former node and moving its child to the start of the following node.",
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": null,
+      "created": "2023-06-28T17:29:16.445665+00:00",
+      "id": 789611,
+      "is_public": true,
+      "modified": "2023-06-28T17:29:16.445458+00:00",
+      "note": "WebRTC application developers can now specify a [target][1] in milliseconds of media for the jitter buffer to hold. Altering the target value allows applications to control the tradeoff between playout delay and the risk of running out of audio or video fraalso in private browsingmes due to network jitter.\r\n\r\n[1]: https://w3c.github.io/webrtc-extensions/#rtcrtpreceiver-jitterbuffertarget-attributes",
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": null,
+      "created": "2023-06-28T17:30:49.464818+00:00",
+      "id": 789612,
+      "is_public": true,
+      "modified": "2023-06-28T17:30:49.464644+00:00",
+      "note": "[Change array by copy][1] provides additional methods on `Array.prototype` and `TypedArray.prototype` to enable changes on the array by returning a new copy of it with the change.\r\n\r\n[1]: https://github.com/tc39/proposal-change-array-by-copy",
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": null,
       "created": "2023-06-28T17:01:58.559252+00:00",
       "id": 789608,
       "is_public": true,
@@ -121,8 +151,8 @@
       "created": "2023-06-28T16:44:40.209495+00:00",
       "id": 789598,
       "is_public": true,
-      "modified": "2023-06-28T16:44:40.209313+00:00",
-      "note": "With the release of Firefox 115, we are pleased to welcome the developers who contributed their first code change to Firefox in this release, 8 of whom were brand new volunteers! \r\n\r\nPlease join us in thanking each of these diligent and enthusiastic individuals, and take a look at their contributions:\r\n\r\n- Anton Bobrov: <a href=\"https://bugzilla.mozilla.org/1833330\">1833330\r\n- Brice Laurencin: <a href=\"https://bugzilla.mozilla.org/1418462\">1418462</a>\r\n- LyScott123: <a href=\"https://bugzilla.mozilla.org/1788013\">1788013</a>\r\n- Mart\u00edn Gonz\u00e1lez G\u00f3mez: <a href=\"https://bugzilla.mozilla.org/1827565\">1827565</a>\r\n- michael s: <a href=\"https://bugzilla.mozilla.org/1787997\">1787997</a>\r\n- Sam Kravitz: <a href=\"https://bugzilla.mozilla.org/1832402\">1832402</a>\r\n- sankalp.shubham99: <a href=\"https://bugzilla.mozilla.org/1831587\">1831587</a>\r\n- Tom Marble: <a href=\"https://bugzilla.mozilla.org/1832629\">1832629</a>",
+      "modified": "2023-06-28T17:29:36.071067+00:00",
+      "note": "With the release of Firefox 115, we are pleased to welcome the developers who contributed their first code change to Firefox in this release, 8 of whom were brand new volunteers! \r\n\r\nPlease join us in thanking each of these diligent and enthusiastic individuals, and take a look at their contributions:\r\n\r\n- Anton Bobrov: <a href=\"https://bugzilla.mozilla.org/1833330\">1833330</a>\r\n- Brice Laurencin: <a href=\"https://bugzilla.mozilla.org/1418462\">1418462</a>\r\n- LyScott123: <a href=\"https://bugzilla.mozilla.org/1788013\">1788013</a>\r\n- Mart\u00edn Gonz\u00e1lez G\u00f3mez: <a href=\"https://bugzilla.mozilla.org/1827565\">1827565</a>\r\n- michael s: <a href=\"https://bugzilla.mozilla.org/1787997\">1787997</a>\r\n- Sam Kravitz: <a href=\"https://bugzilla.mozilla.org/1832402\">1832402</a>\r\n- sankalp.shubham99: <a href=\"https://bugzilla.mozilla.org/1831587\">1831587</a>\r\n- Tom Marble: <a href=\"https://bugzilla.mozilla.org/1832629\">1832629</a>",
       "sort_num": 0,
       "tag": "Community"
     }
