@@ -151,8 +151,8 @@
       "created": "2023-06-28T17:01:58.559252+00:00",
       "id": 789608,
       "is_public": true,
-      "modified": "2023-06-28T17:02:48.519861+00:00",
-      "note": "In web development, we rely on third-party libraries which you may not be interested in while debugging. These can be ignored. Ignoring them means that breakpoints will not get hit and they are skipped during stepping. \r\n\r\nYou can now choose to **Hide ignore-listed sources** in the Developer Tools source tree ([bug][1]).\r\n\r\nIgnored sources are also skipped by JavaScript tracing feature ([bug][2]).\r\n\r\n[1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1824703\r\n[2]: https://bugzilla.mozilla.org/show_bug.cgi?id=1830319",
+      "modified": "2023-06-29T13:27:57.309393+00:00",
+      "note": "In web development, we rely on third-party libraries which you may not be interested in while debugging. These can be ignored. Ignoring them means that breakpoints will not get hit and they are skipped during stepping. \r\n\r\nYou can now choose to **Hide ignore-listed sources** in the Developer Tools source tree ([bug][1]).\r\n\r\n![developer tools screenshot of the Hide ignore-listed sources option][2]\r\n\r\nIgnored sources are also skipped by JavaScript tracing feature ([bug][3]).\r\n\r\n[1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1824703\r\n[2]: /media/img/firefox/releasenotes/note-images/115_devtools.png\r\n[3]: https://bugzilla.mozilla.org/show_bug.cgi?id=1830319",
       "sort_num": 0,
       "tag": "Developer"
     },
