@@ -1,0 +1,87 @@
+{
+  "bug_list": "",
+  "bug_search_url": "",
+  "channel": "Release",
+  "created": "2023-06-29T11:24:57.909353+00:00",
+  "is_public": true,
+  "modified": "2023-06-29T11:29:33.502837+00:00",
+  "notes": [
+    {
+      "bug": null,
+      "created": "2023-06-29T11:26:17.267394+00:00",
+      "id": 789633,
+      "is_public": true,
+      "modified": "2023-06-29T11:26:17.267211+00:00",
+      "note": "You can now add website shortcuts to the phone home screen.",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2023-06-29T11:27:09.287422+00:00",
+      "id": 789634,
+      "is_public": true,
+      "modified": "2023-06-29T11:27:09.287248+00:00",
+      "note": "You can now undo the deletion of an open tab.",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2023-06-29T11:27:31.862504+00:00",
+      "id": 789635,
+      "is_public": true,
+      "modified": "2023-06-29T11:27:31.862335+00:00",
+      "note": "Clearing History now clears the Recently Visited section on the home page.",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2023-06-29T11:27:54.284174+00:00",
+      "id": 789636,
+      "is_public": true,
+      "modified": "2023-06-29T11:27:54.284000+00:00",
+      "note": "Fixed the issue where tapping Passwords in the menu caused the app to crash.",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2023-06-29T11:28:13.913375+00:00",
+      "id": 789637,
+      "is_public": true,
+      "modified": "2023-06-29T11:28:13.913188+00:00",
+      "note": "Custom web pages now load correctly when opening a new tab",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2023-06-29T11:28:41.171688+00:00",
+      "id": 789638,
+      "is_public": true,
+      "modified": "2023-06-29T11:28:41.171417+00:00",
+      "note": "Added Save and X buttons to the Edit Bookmark view.",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2023-06-29T11:29:04.098393+00:00",
+      "id": 789639,
+      "is_public": true,
+      "modified": "2023-06-29T11:29:04.098215+00:00",
+      "note": "Fixed an issue where tabs disappeared in the tabs tray after opening a second tab",
+      "sort_num": 0,
+      "tag": "Fixed"
+    }
+  ],
+  "product": "Firefox for iOS",
+  "release_date": "2023-06-06",
+  "slug": "firefox-for-ios-114.0-release",
+  "system_requirements": "## Operating systems\r\n - iOS 14\r\n - iOS 15\r\n - iOS 16",
+  "text": "",
+  "title": "Firefox for iOS 114.0 Release",
+  "version": "114.0"
+}
