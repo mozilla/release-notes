@@ -31,7 +31,7 @@
       "created": "2023-05-29T12:54:44.953351+00:00",
       "id": 789565,
       "is_public": true,
-      "modified": "2023-06-05T19:45:48.125317+00:00",
+      "modified": "2023-06-29T15:55:46.422950+00:00",
       "note": "Hardware video decoding enabled for Intel GPUs on Linux.",
       "sort_num": 0,
       "tag": "New"
@@ -41,7 +41,7 @@
       "created": "2023-05-29T15:29:50.268863+00:00",
       "id": 789566,
       "is_public": true,
-      "modified": "2023-06-05T19:45:32.710142+00:00",
+      "modified": "2023-06-29T15:55:47.397387+00:00",
       "note": "Migrating from another browser? Now you can bring over payment methods you've saved in Chrome-based browsers to Firefox.",
       "sort_num": 0,
       "tag": "New"
@@ -61,7 +61,7 @@
       "created": "2023-06-06T19:35:15.410944+00:00",
       "id": 789583,
       "is_public": true,
-      "modified": "2023-06-06T19:35:29.142542+00:00",
+      "modified": "2023-06-29T15:55:48.373555+00:00",
       "note": "The Tab Manager dropdown now features close buttons, so you can close tabs more quickly.",
       "sort_num": 0,
       "tag": "New"
@@ -71,7 +71,7 @@
       "created": "2023-05-11T12:43:13.536858+00:00",
       "id": 789546,
       "is_public": true,
-      "modified": "2023-06-05T19:46:21.265330+00:00",
+      "modified": "2023-06-29T15:55:49.411951+00:00",
       "note": "On Linux, middle clicks on the new tab button will now open the xclipboard contents in the new tab. If the xclipboard content is a URL then that URL is opened, any other text is opened with your default search provider. This feature can be turned off using `browser.tabs.searchclipboardfor.middleclick` in `about:config`.",
       "sort_num": 0,
       "tag": "Changed"
@@ -81,7 +81,7 @@
       "created": "2023-05-24T13:27:04.054266+00:00",
       "id": 789562,
       "is_public": true,
-      "modified": "2023-06-05T19:46:08.107188+00:00",
+      "modified": "2023-06-29T15:55:44.782451+00:00",
       "note": "For users with a [Firefox Colorways][1] built-in theme, the theme will be automatically migrated to the same theme hosted on [addons.mozilla.org][2] for Firefox profiles that have disabled add-ons auto-updates. This will allow users to keep their Colorways theme when they are later removed from Firefox installer files.\r\n\r\n[1]: https://support.mozilla.org/kb/personalize-firefox-colorways\r\n[2]: https://addons.mozilla.org/firefox/collections/4757633/colorways/",
       "sort_num": 0,
       "tag": "Changed"
@@ -91,7 +91,7 @@
       "created": "2023-05-30T13:27:43.280633+00:00",
       "id": 789568,
       "is_public": true,
-      "modified": "2023-06-05T19:45:25.507794+00:00",
+      "modified": "2023-06-29T15:55:37.394885+00:00",
       "note": "Undo and redo are now available in Password fields.",
       "sort_num": 0,
       "tag": "Changed"
@@ -111,7 +111,7 @@
       "created": "2023-05-25T12:55:29.097664+00:00",
       "id": 789563,
       "is_public": true,
-      "modified": "2023-06-05T19:46:01.343288+00:00",
+      "modified": "2023-06-29T15:55:45.393052+00:00",
       "note": "WebRTC application developers can now specify a [target][1] in milliseconds of media for the jitter buffer to hold. Altering the target value allows applications to control the tradeoff between playout delay and the risk of running out of audio or video frames due to network jitter.\r\n\r\n[1]:https://w3c.github.io/webrtc-extensions/#rtcrtpreceiver-jitterbuffertarget-attributes",
       "sort_num": 0,
       "tag": "HTML5"
@@ -121,7 +121,7 @@
       "created": "2023-05-26T13:30:52.814351+00:00",
       "id": 789564,
       "is_public": true,
-      "modified": "2023-06-05T19:45:54.135024+00:00",
+      "modified": "2023-06-29T15:55:50.625916+00:00",
       "note": "[Change array by copy][1] provides additional methods on `Array.prototype` and `TypedArray.prototype` to enable changes on the array by returning a new copy of it with the change.\r\n\r\n[1]:https://github.com/tc39/proposal-change-array-by-copy",
       "sort_num": 0,
       "tag": "HTML5"
@@ -131,7 +131,7 @@
       "created": "2023-05-30T14:14:01.427048+00:00",
       "id": 789569,
       "is_public": true,
-      "modified": "2023-06-05T19:45:19.430187+00:00",
+      "modified": "2023-06-29T15:55:38.518614+00:00",
       "note": "The [animation-composition][1] property is now supported, allowing a declarative way to define the composite operation used when multiple animations affect the same property simultaneously.\r\n\r\n[1]:https://developer.mozilla.org/docs/Web/CSS/animation-composition",
       "sort_num": 0,
       "tag": "HTML5"
@@ -141,7 +141,7 @@
       "created": "2023-06-01T18:34:29.200381+00:00",
       "id": 789574,
       "is_public": true,
-      "modified": "2023-06-05T19:45:05.316515+00:00",
+      "modified": "2023-06-29T15:55:40.441388+00:00",
       "note": "The builtin editor now behaves similarly to other browsers with `contenteditable` and `designMode` when splitting a node, e.g. typing Enter to split a paragraph, and also when joining two nodes, e.g. typing Backspace at start of a paragraph to join the paragraph and previous one.\r\n\r\nWhen a node is split, the builtin editor creates a new node after the original one instead of before, i.e. creates the right node instead of the left node. \r\n\r\nSimilarly, when two nodes are joined, the builtin editor deletes the latter node and moves its children to the end of the preceding node instead of deleting the former node and moving its child to start of the following node.",
       "sort_num": 0,
       "tag": "HTML5"
@@ -151,7 +151,7 @@
       "created": "2023-06-02T13:50:33.020929+00:00",
       "id": 789578,
       "is_public": true,
-      "modified": "2023-06-05T19:44:56.037164+00:00",
+      "modified": "2023-06-29T15:55:48.876655+00:00",
       "note": "Added the URL.canParse() function to allow easy and fast checking if URLs are valid and parseable.",
       "sort_num": 0,
       "tag": "HTML5"
@@ -161,7 +161,7 @@
       "created": "2023-05-24T12:54:38.717907+00:00",
       "id": 789561,
       "is_public": true,
-      "modified": "2023-06-05T19:46:15.196723+00:00",
+      "modified": "2023-06-29T15:55:43.913079+00:00",
       "note": "In web development, we rely on third-party libraries which you may not be interested in while debugging. These can be ignored. Ignoring them means that breakpoints will not get hit and they are skipped during stepping. \r\n\r\nYou can now choose to **Hide ignore-listed sources** in the Developer Tools source tree.",
       "sort_num": 0,
       "tag": "Developer"
@@ -171,7 +171,7 @@
       "created": "2023-06-01T18:11:41.428598+00:00",
       "id": 789573,
       "is_public": true,
-      "modified": "2023-06-05T19:45:12.478405+00:00",
+      "modified": "2023-06-29T15:55:39.376015+00:00",
       "note": "Windows Magnifier now follows the text cursor correctly when the Firefox title bar is visible.",
       "sort_num": 0,
       "tag": "Fixed"
