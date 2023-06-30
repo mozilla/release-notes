@@ -113,6 +113,16 @@
       "note": "Firefox now supports CSP3 [external hashes][1].\r\n\r\n\r\n  [1]: https://w3c.github.io/webappsec-csp/#external-hash",
       "sort_num": 0,
       "tag": "Developer"
+    },
+    {
+      "bug": 1803629,
+      "created": "2023-06-30T17:45:17.920095+00:00",
+      "id": 789642,
+      "is_public": true,
+      "modified": "2023-06-30T17:45:17.919914+00:00",
+      "note": "Starting with Firefox 116, we are enabling for nightly users a prototype [Federated Credential Management][1] implementation, a Web Platform API that allows users to login to websites with their federated accounts in a privacy preserving manner.\r\n\r\n\r\n  [1]: https://fedidcg.github.io/FedCM/",
+      "sort_num": 0,
+      "tag": "Developer"
     }
   ],
   "product": "Firefox",
