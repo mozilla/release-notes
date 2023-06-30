@@ -11,7 +11,7 @@
       "created": "2023-06-09T16:57:18.909770+00:00",
       "id": 789587,
       "is_public": true,
-      "modified": "2023-06-29T15:57:48.212199+00:00",
+      "modified": "2023-06-30T16:45:54.288041+00:00",
       "note": "Sidebar switcher allows users to access Bookmarks, History and Synced Tabs panels easily, quickly switch between them, move the sidebar to another side of the browser window, or close the sidebar. Now, keyboard users would be able to do it all with ease too, with or without any assistive technology running, without needing to memorize keyboard shortcuts to access these panels.",
       "sort_num": 0,
       "tag": "New"
@@ -21,7 +21,7 @@
       "created": "2023-06-09T17:57:37.441692+00:00",
       "id": 789588,
       "is_public": true,
-      "modified": "2023-06-29T15:57:41.917287+00:00",
+      "modified": "2023-06-30T16:45:59.287359+00:00",
       "note": "When an update is available in English locales, users will now have access to the release notes in the update notification prompt in the form of a \"Learn More\" link.",
       "sort_num": 0,
       "tag": "New"
@@ -31,7 +31,7 @@
       "created": "2023-06-19T13:34:34.237132+00:00",
       "id": 789592,
       "is_public": true,
-      "modified": "2023-06-29T15:57:20.214856+00:00",
+      "modified": "2023-06-30T16:46:16.581198+00:00",
       "note": "It is now possible to copy any file from your operating system and paste it into Firefox.",
       "sort_num": 0,
       "tag": "New"
@@ -41,7 +41,7 @@
       "created": "2023-06-19T13:38:08.824115+00:00",
       "id": 789593,
       "is_public": true,
-      "modified": "2023-06-29T15:57:12.787298+00:00",
+      "modified": "2023-06-30T16:46:22.391142+00:00",
       "note": "You asked, and we listened! The volume slider is now available in Picture-in-Picture.",
       "sort_num": 0,
       "tag": "New"
@@ -51,7 +51,7 @@
       "created": "2023-06-20T13:46:57.090325+00:00",
       "id": 789597,
       "is_public": true,
-      "modified": "2023-06-29T15:57:05.936842+00:00",
+      "modified": "2023-06-30T16:46:26.840332+00:00",
       "note": "We added the possibility to edit existing text annotations.",
       "sort_num": 0,
       "tag": "New"
@@ -61,7 +61,7 @@
       "created": "2023-06-15T19:04:48.917745+00:00",
       "id": 789591,
       "is_public": true,
-      "modified": "2023-06-29T15:57:27.645846+00:00",
+      "modified": "2023-06-30T16:46:09.168145+00:00",
       "note": "This release now supports proper BYOB readers on Fetch and WebTransport, which allows developers to prepare their ArrayBuffer so that it can be reused for read requests and thus saves memory allocation. `.getReader({ mode: \"byob\" })` on Fetch and WebTransport streams was supported on previous releases but without true BYOB support, as new memory allocation still occurred internally.",
       "sort_num": 0,
       "tag": "HTML5"
@@ -79,7 +79,7 @@
       },
       "id": 789584,
       "is_public": true,
-      "modified": "2023-06-29T15:57:55.560896+00:00",
+      "modified": "2023-06-30T16:45:49.463658+00:00",
       "note": "Added support for the [dirname][1] attribute to pass text directionality information about input and textarea elements to the server. ([learn more][2])\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input#dirname\r\n  [2]: https://www.w3.org/International/questions/qa-html-dir#reportingdirection",
       "sort_num": 0,
       "tag": "Developer"
@@ -89,7 +89,7 @@
       "created": "2023-06-15T15:10:14.445597+00:00",
       "id": 789589,
       "is_public": true,
-      "modified": "2023-06-29T15:57:34.820477+00:00",
+      "modified": "2023-06-30T16:46:04.636533+00:00",
       "note": "Firefox now supports CSP3 [external hashes][1].\r\n\r\n\r\n  [1]: https://w3c.github.io/webappsec-csp/#external-hash",
       "sort_num": 0,
       "tag": "Developer"
