@@ -17,6 +17,16 @@
       "tag": "New"
     },
     {
+      "bug": 1823332,
+      "created": "2023-06-30T17:56:24.465950+00:00",
+      "id": 789643,
+      "is_public": true,
+      "modified": "2023-06-30T17:57:03.041421+00:00",
+      "note": "Starting with Firefox 115, Nightly supports a new \u201ccopy clean\u201d link context menu action which removes any superfluous query parameters, including tracking parameters.",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1803629,
       "created": "2023-06-30T17:45:17.920095+00:00",
       "id": 789642,
