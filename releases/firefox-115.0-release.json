@@ -48,6 +48,16 @@
     },
     {
       "bug": null,
+      "created": "2023-07-02T14:35:49.830545+00:00",
+      "id": 789645,
+      "is_public": true,
+      "modified": "2023-07-02T14:35:49.830367+00:00",
+      "note": "Users without platform support for H264 video decoding can now fallback to Cisco's OpenH264 plugin for playback.",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
       "created": "2023-06-28T16:51:07.927227+00:00",
       "id": 789603,
       "is_public": true,
