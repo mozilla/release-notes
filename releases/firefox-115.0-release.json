@@ -151,8 +151,8 @@
       "created": "2023-06-28T17:38:47.764687+00:00",
       "id": 789615,
       "is_public": true,
-      "modified": "2023-06-28T17:38:47.764353+00:00",
-      "note": "[IndexedDB][1] is now also supported in [private browsing][2] without memory limits thanks to encrypted storage on disk.\r\n\r\n[1]: https://w3c.github.io/IndexedDB/\r\n[2]: https://bugzilla.mozilla.org/show_bug.cgi?id=1639542",
+      "modified": "2023-07-04T10:51:47.450433+00:00",
+      "note": "[IndexedDB][1] is now also supported in [private browsing][2] without memory limits thanks to encrypted storage on disk. The temporary keys to decrypt the information are hold in RAM only and all stored information is purged at the normal end of a private browsing session from disk.\r\n\r\n[1]: https://w3c.github.io/IndexedDB/\r\n[2]: https://bugzilla.mozilla.org/show_bug.cgi?id=1639542",
       "sort_num": 0,
       "tag": "HTML5"
     },
