@@ -45,6 +45,16 @@
       "note": "Starting with Firefox 116, we are enabling for nightly users a prototype [Federated Credential Management][1] implementation, a Web Platform API that allows users to login to websites with their federated accounts in a privacy preserving manner.\r\n\r\n\r\n  [1]: https://fedidcg.github.io/FedCM/",
       "sort_num": 0,
       "tag": "Developer"
+    },
+    {
+      "bug": null,
+      "created": "2023-07-07T14:33:01.858159+00:00",
+      "id": 789651,
+      "is_public": true,
+      "modified": "2023-07-07T14:33:01.857824+00:00",
+      "note": "Web compatibility inspection has been enhanced with our new CSS compatibility tooltip in the Developer Tools Inspector. An icon is now displayed next to properties that could lead to web compatibility issues. When hovered, the tooltip indicates which browsers are not supported and displays a link to the MDN page for the property so the user can learn more about it.",
+      "sort_num": 0,
+      "tag": "Developer"
     }
   ],
   "product": "Firefox",
