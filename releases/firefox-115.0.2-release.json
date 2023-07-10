@@ -15,6 +15,26 @@
       "note": "Reference link to [115.0 release notes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/firefox/115.0/releasenotes/",
       "sort_num": 0,
       "tag": ""
+    },
+    {
+      "bug": 1841751,
+      "created": "2023-07-10T18:44:36.858623+00:00",
+      "id": 789653,
+      "is_public": true,
+      "modified": "2023-07-10T18:49:48.078403+00:00",
+      "note": "Fixed a startup crash experienced by some Windows users by blocking instances of a malicious injected DLL ([bug 1841751][1])\r\n\r\n[1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1841751",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1840804,
+      "created": "2023-07-10T18:48:51.953584+00:00",
+      "id": 789654,
+      "is_public": true,
+      "modified": "2023-07-10T18:48:51.953402+00:00",
+      "note": "Fixed a bug with displaying a caret in the text editor on some websites ([bug 1840804][1])\r\n\r\n[1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1840804",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
