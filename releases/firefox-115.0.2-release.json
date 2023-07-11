@@ -65,6 +65,16 @@
       "note": "A [security][1] fix.\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/mfsa2023-26/",
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2023-07-11T15:47:32.086239+00:00",
+      "id": 789658,
+      "is_public": true,
+      "modified": "2023-07-11T15:47:32.086048+00:00",
+      "note": "Fixed a crash affecting Windows 7 users related to the [DLL blocklist][1].\r\n\r\n[1]: https://hacks.mozilla.org/2023/03/letting-users-block-injected-third-party-dlls-in-firefox/",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
