@@ -51,8 +51,8 @@
       "created": "2023-07-10T18:58:46.185391+00:00",
       "id": 789656,
       "is_public": true,
-      "modified": "2023-07-10T18:58:46.185062+00:00",
-      "note": "Fixed a bug with [patternTransform][1] translate using the wrong units ([bug 1840746][1]) \r\n\r\n[1]: https://developer.mozilla.org/docs/Web/SVG/Attribute/patternTransform\r\n[2]: https://bugzilla.mozilla.org/show_bug.cgi?id=1840746",
+      "modified": "2023-07-12T06:27:36.286006+00:00",
+      "note": "Fixed a bug with [patternTransform][1] translate using the wrong units ([bug 1840746][2]) \r\n\r\n[1]: https://developer.mozilla.org/docs/Web/SVG/Attribute/patternTransform\r\n[2]: https://bugzilla.mozilla.org/show_bug.cgi?id=1840746",
       "sort_num": 0,
       "tag": "Fixed"
     },
