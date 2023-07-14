@@ -47,6 +47,16 @@
       "tag": "HTML5"
     },
     {
+      "bug": 1772772,
+      "created": "2023-07-14T15:35:00.410477+00:00",
+      "id": 789660,
+      "is_public": true,
+      "modified": "2023-07-14T15:35:00.410290+00:00",
+      "note": "`ReadableStream.from` is now supported, allowing creation of a ReadableStream from an (async) iterable.",
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
       "bug": 1803629,
       "created": "2023-06-30T17:45:17.920095+00:00",
       "id": 789642,
