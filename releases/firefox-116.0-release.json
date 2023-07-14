@@ -1,31 +1,11 @@
 {
   "bug_list": "",
   "bug_search_url": "",
-  "channel": "Nightly",
-  "created": "2023-05-30T15:51:30.303335+00:00",
-  "is_public": true,
-  "modified": "2023-06-30T17:24:15.786526+00:00",
+  "channel": "Release",
+  "created": "2023-07-14T20:55:11.847562+00:00",
+  "is_public": false,
+  "modified": "2023-07-14T20:58:47.098807+00:00",
   "notes": [
-    {
-      "bug": 1832568,
-      "created": "2023-05-18T19:42:56.107887+00:00",
-      "id": 789551,
-      "is_public": true,
-      "modified": "2023-06-30T17:00:21.214316+00:00",
-      "note": "<!-- Nightly Only -->Starting with Firefox 115, Nightly users without platform support for H264 video decoding can now fallback to Cisco's OpenH264 plugin for playback.",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
-      "bug": 1831963,
-      "created": "2023-05-30T16:51:50.165739+00:00",
-      "id": 789570,
-      "is_public": true,
-      "modified": "2023-06-30T16:54:15.148884+00:00",
-      "note": "<!-- Nightly Only --> Starting with Firefox 115, Nightly users can access automated translation of web content in Firefox. Unlike cloud-based alternatives, translation is done locally in Firefox, so that the text being translated does not leave your machine.",
-      "sort_num": 0,
-      "tag": "New"
-    },
     {
       "bug": 1532282,
       "created": "2023-06-09T16:57:18.909770+00:00",
@@ -77,14 +57,14 @@
       "tag": "New"
     },
     {
-      "bug": 1823332,
-      "created": "2023-06-30T17:56:24.465950+00:00",
-      "id": 789643,
+      "bug": 1833416,
+      "created": "2023-07-13T14:06:12.979069+00:00",
+      "id": 789659,
       "is_public": true,
-      "modified": "2023-07-12T16:53:15.999473+00:00",
-      "note": "<!-- Nightly Only --> Starting with Firefox 115, Nightly supports a new \u201ccopy clean\u201d link context menu action which removes any superfluous query parameters, including tracking parameters.",
+      "modified": "2023-07-14T20:55:11.881729+00:00",
+      "note": "The keyboard shortcut to reopen closed tabs (command + shift + t) now reopens last closed tab or last closed window, in the order items were closed. If there aren't any tabs or windows to reopen, this command restores the previous session. This change is in anticipation of upcoming changes to recently closed tabs.",
       "sort_num": 0,
-      "tag": "New"
+      "tag": "Changed"
     },
     {
       "bug": 1811440,
@@ -125,21 +105,31 @@
       "tag": "Developer"
     },
     {
-      "bug": 1803629,
-      "created": "2023-06-30T17:45:17.920095+00:00",
-      "id": 789642,
+      "bug": 1498512,
+      "created": "2023-07-07T00:27:56.435414+00:00",
+      "id": 789649,
       "is_public": true,
-      "modified": "2023-07-12T16:53:11.316609+00:00",
-      "note": "<!-- Nightly Only --> Starting with Firefox 116, we are enabling for nightly users a prototype [Federated Credential Management][1] implementation, a Web Platform API that allows users to login to websites with their federated accounts in a privacy preserving manner.\r\n\r\n\r\n  [1]: https://fedidcg.github.io/FedCM/",
+      "modified": "2023-07-14T20:55:11.881729+00:00",
+      "note": "[The Audio Output Devices API][1] now enables sites to redirect audio from media elements to permitted output devices (speakers) other than the system default for the user-agent.\r\nFor example, WebRTC conferencing sites can now redirect audio either to the speakers in a headset or to external speakers. \r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/Audio_Output_Devices_API",
       "sort_num": 0,
       "tag": "Developer"
+    },
+    {
+      "bug": null,
+      "created": "2023-07-14T20:56:40.469473+00:00",
+      "id": 789661,
+      "is_public": true,
+      "modified": "2023-07-14T20:56:40.469297+00:00",
+      "note": "With the release of Firefox 116, we are pleased to welcome the developers who contributed their first code change to Firefox in this release, 9 of whom were brand new volunteers! Please join us in thanking each of these diligent and enthusiastic individuals, and take a look at their contributions:\r\n\r\n* Amin Bandali [:bandali]: <a href=\"https://bugzilla.mozilla.org/1836718\">1836718</a>\r\n* Hunseop Jeong: <a href=\"https://bugzilla.mozilla.org/1826904\">1826904</a>\r\n* Jake Senne: <a href=\"https://bugzilla.mozilla.org/1840882\">1840882</a>\r\n* jijnyasa.goat: <a href=\"https://bugzilla.mozilla.org/1834752\">1834752</a>\r\n* Matt Moldenhauer [:TheMattHatter01] (He/Him): <a href=\"https://bugzilla.mozilla.org/1802152\">1802152</a>\r\n* Mitesh: <a href=\"https://bugzilla.mozilla.org/1838149\">1838149</a>\r\n* Nicolas Avrutin: <a href=\"https://bugzilla.mozilla.org/1838322\">1838322</a>\r\n* patrickkettner: <a href=\"https://bugzilla.mozilla.org/1835723\">1835723</a>\r\n* thiagoms.15: <a href=\"https://bugzilla.mozilla.org/1837832\">1837832</a>",
+      "sort_num": 0,
+      "tag": "Community"
     }
   ],
   "product": "Firefox",
-  "release_date": "2023-06-05",
-  "slug": "firefox-116.0a1-nightly",
+  "release_date": "2023-08-01",
+  "slug": "firefox-116.0-release",
   "system_requirements": "## Windows\r\n\r\n### Operating Systems (32-bit and 64-bit)\r\n - Windows 10 or later\r\n\r\n### Recommended Hardware\r\n-  1 gigahertz (GHz) or faster compatible processor or System on a Chip (SoC)\r\n-  1GB of RAM / 2GB of RAM for the 64-bit version\r\n-  500MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- macOS 10.15 or later\r\n\r\n### Recommended Hardware\r\n- Macintosh computer with an Intel x86 or Apple silicon processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - glibc 2.17 or higher\r\n    - GTK+ 3.14 or higher\r\n    - libdbus-glib 0.6.0 or higher\r\n    - libglib 2.42 or higher\r\n    - libstdc++ 4.8.1 or higher\r\n    - libxtst 1.2.3 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - DBus 1.0 or higher\r\n    - NetworkManager 0.7 or higher\r\n    - PulseAudio",
-  "text": "Firefox Nightly gets updated every day and as a consequence, the release notes for the Nightly channel are updated continuously to reflect features that have reached sufficient maturity to benefit from community feedback and bug reports. \r\n\r\n**Warning: Features listed here may or may *not* make a final release of Firefox.**\r\n\r\nIn addition to these release notes, you can follow ongoing development on our [@FirefoxNightly][1] Twitter account, our  [@FirefoxNightly@mozilla.social][4] Mastodon account as well as read our [Nightly Blog][2].\r\n\r\nYou can interact with other Firefox Nightly users and give your feedback to Mozilla staff in the [Nightly Matrix room][3] on chat.mozilla.org.\r\n\r\n\r\n  [1]: https://twitter.com/FirefoxNightly\r\n  [2]: https://blog.nightly.mozilla.org\r\n  [3]: https://chat.mozilla.org/?#/room/#nightly:mozilla.org\r\n  [4]: https://mozilla.social/@FirefoxNightly",
-  "title": "Firefox 116.0a1 Nightly",
-  "version": "116.0a1"
+  "text": "",
+  "title": "Firefox 116.0 Release",
+  "version": "116.0"
 }
