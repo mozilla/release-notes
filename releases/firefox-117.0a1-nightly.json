@@ -37,6 +37,26 @@
       "tag": "New"
     },
     {
+      "bug": 1628476,
+      "created": "2023-07-20T01:33:15.663993+00:00",
+      "id": 789664,
+      "is_public": true,
+      "modified": "2023-07-20T01:33:15.663815+00:00",
+      "note": "macOS users can now control the tabability of controls and links via about:preferences",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1820660,
+      "created": "2023-07-20T01:34:59.694786+00:00",
+      "id": 789665,
+      "is_public": true,
+      "modified": "2023-07-20T01:35:41.967439+00:00",
+      "note": "<!-- Nightly Only --> Starting with Firefox 117, recently closed tabs now persist between sessions for Nightly users that don't have automatic session restore enabled. Manually restoring a previous session will continue to reopen any previously open tabs or windows.",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1840818,
       "created": "2023-07-07T14:31:16.952075+00:00",
       "id": 789650,
@@ -53,6 +73,16 @@
       "is_public": true,
       "modified": "2023-07-14T15:35:00.410290+00:00",
       "note": "`ReadableStream.from` is now supported, allowing creation of a ReadableStream from an (async) iterable.",
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 1840781,
+      "created": "2023-07-20T01:30:48.621472+00:00",
+      "id": 789663,
+      "is_public": true,
+      "modified": "2023-07-20T01:30:48.621291+00:00",
+      "note": "Support for improved CSS nesting is now enabled by default.",
       "sort_num": 0,
       "tag": "HTML5"
     },
