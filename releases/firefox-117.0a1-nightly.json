@@ -57,6 +57,36 @@
       "tag": "New"
     },
     {
+      "bug": 1839582,
+      "created": "2023-07-24T18:17:50.787847+00:00",
+      "id": 789667,
+      "is_public": true,
+      "modified": "2023-07-24T18:17:50.787651+00:00",
+      "note": "[Firefox for Android][1] now supports pasting images into contenteditable & designMode elements. Previously, only plain text and HTML was supported.\r\n\r\n\r\n  [1]: https://play.google.com/store/apps/details?id=org.mozilla.fenix",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2023-07-24T18:21:27.681617+00:00",
+      "id": 789668,
+      "is_public": true,
+      "modified": "2023-07-24T18:24:56.814197+00:00",
+      "note": "<!-- Nightly Only --> Starting with Firefox 117, Nightly builds now include extended region support for credit card autofill for the AT, BE, ES, IT, and PL locales.",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1843054,
+      "created": "2023-07-24T18:24:34.197950+00:00",
+      "id": 789669,
+      "is_public": true,
+      "modified": "2023-07-24T18:24:34.197776+00:00",
+      "note": "<!-- Nightly Only --> Starting with Firefox 117, Nightly builds now support adding images when editing PDFs in addition to adding text and drawing.",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1840818,
       "created": "2023-07-07T14:31:16.952075+00:00",
       "id": 789650,
