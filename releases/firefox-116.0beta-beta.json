@@ -123,6 +123,16 @@
       "note": "Usage of the `formStateRestoreCallback` [custom element reaction][1] callback is now supported, allowing developers to add support for browser's attempting to restore prior user state. Note that `autocomplete` for custom elements remains unsupported.\r\n\r\n\r\n  [1]: https://html.spec.whatwg.org/multipage/custom-elements.html#custom-element-reactions",
       "sort_num": 0,
       "tag": "Developer"
+    },
+    {
+      "bug": 1596576,
+      "created": "2023-07-25T14:47:16.976822+00:00",
+      "id": 789672,
+      "is_public": true,
+      "modified": "2023-07-25T14:50:29.933291+00:00",
+      "note": "The upload performance of HTTP/2 has been significantly improved starting with Firefox 115.0, particularly on those with a higher bandwidth delay product (i.e., networks characterized by both high bandwidth and high latency).",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",

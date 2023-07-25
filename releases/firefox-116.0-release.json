@@ -115,6 +115,16 @@
       "tag": "Developer"
     },
     {
+      "bug": 1596576,
+      "created": "2023-07-25T14:47:16.976822+00:00",
+      "id": 789672,
+      "is_public": true,
+      "modified": "2023-07-25T14:50:29.933291+00:00",
+      "note": "The upload performance of HTTP/2 has been significantly improved starting with Firefox 115.0, particularly on those with a higher bandwidth delay product (i.e., networks characterized by both high bandwidth and high latency).",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
       "bug": null,
       "created": "2023-07-14T20:56:40.469473+00:00",
       "id": 789661,
