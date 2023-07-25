@@ -2,9 +2,9 @@
   "bug_list": "",
   "bug_search_url": "",
   "channel": "Release",
-  "created": "2023-06-28T16:03:09.872870+00:00",
-  "is_public": true,
-  "modified": "2023-07-04T12:31:32.615649+00:00",
+  "created": "2023-07-25T18:57:44.588376+00:00",
+  "is_public": false,
+  "modified": "2023-07-25T18:57:44.588202+00:00",
   "notes": [
     {
       "bug": null,
@@ -65,13 +65,43 @@
       "note": "Various [security][1] fixes.\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/mfsa2023-22/",
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2023-07-25T18:58:53.181935+00:00",
+      "id": 789674,
+      "is_public": true,
+      "modified": "2023-07-25T19:00:41.796645+00:00",
+      "note": "Fixed pull-to-refresh issues on some sites.",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2023-07-25T18:59:10.273753+00:00",
+      "id": 789675,
+      "is_public": true,
+      "modified": "2023-07-25T19:00:23.393358+00:00",
+      "note": "Fixed desktop mode's zoom issues on some sites.",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2023-07-25T18:59:25.679933+00:00",
+      "id": 789676,
+      "is_public": true,
+      "modified": "2023-07-25T18:59:59.480199+00:00",
+      "note": "Fixed \"Open links in apps\" issue when Firefox is not the default browser.",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox for Android",
   "release_date": "2023-07-04",
-  "slug": "firefox-for-android-115.0-release",
+  "slug": "firefox-for-android-copy-115.0-release",
   "system_requirements": "## Operating systems\r\n - Android 5.0 or newer",
   "text": "",
-  "title": "Firefox for Android 115.0 Release",
-  "version": "115.0"
+  "title": "Firefox for Android copy-115.0 Release",
+  "version": "copy-115.0"
 }
