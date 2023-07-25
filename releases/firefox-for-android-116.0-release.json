@@ -1,0 +1,47 @@
+{
+  "bug_list": "",
+  "bug_search_url": "",
+  "channel": "Release",
+  "created": "2023-07-25T18:57:44.588376+00:00",
+  "is_public": false,
+  "modified": "2023-07-25T19:01:20.879334+00:00",
+  "notes": [
+    {
+      "bug": null,
+      "created": "2023-07-25T18:58:53.181935+00:00",
+      "id": 789674,
+      "is_public": true,
+      "modified": "2023-07-25T19:01:34.535113+00:00",
+      "note": "Fixed pull-to-refresh issues on some sites.",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2023-07-25T18:59:10.273753+00:00",
+      "id": 789675,
+      "is_public": true,
+      "modified": "2023-07-25T19:00:23.393358+00:00",
+      "note": "Fixed desktop mode's zoom issues on some sites.",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2023-07-25T18:59:25.679933+00:00",
+      "id": 789676,
+      "is_public": true,
+      "modified": "2023-07-25T18:59:59.480199+00:00",
+      "note": "Fixed \"Open links in apps\" issue when Firefox is not the default browser.",
+      "sort_num": 0,
+      "tag": "Fixed"
+    }
+  ],
+  "product": "Firefox for Android",
+  "release_date": "2023-08-01",
+  "slug": "firefox-for-android-116.0-release",
+  "system_requirements": "## Operating systems\r\n - Android 5.0 or newer",
+  "text": "",
+  "title": "Firefox for Android 116.0 Release",
+  "version": "116.0"
+}
