@@ -7,16 +7,6 @@
   "modified": "2023-07-04T08:52:47.254837+00:00",
   "notes": [
     {
-      "bug": 1831963,
-      "created": "2023-05-30T16:51:50.165739+00:00",
-      "id": 789570,
-      "is_public": true,
-      "modified": "2023-06-30T16:54:15.148884+00:00",
-      "note": "<!-- Nightly Only --> Starting with Firefox 115, Nightly users can access automated translation of web content in Firefox. Unlike cloud-based alternatives, translation is done locally in Firefox, so that the text being translated does not leave your machine.",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
       "bug": 1823332,
       "created": "2023-06-30T17:56:24.465950+00:00",
       "id": 789643,
@@ -83,6 +73,16 @@
       "is_public": true,
       "modified": "2023-07-24T18:24:34.197776+00:00",
       "note": "<!-- Nightly Only --> Starting with Firefox 117, Nightly builds now support adding images when editing PDFs in addition to adding text and drawing.",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1831963,
+      "created": "2023-07-27T19:03:24.732084+00:00",
+      "id": 789680,
+      "is_public": true,
+      "modified": "2023-07-27T19:04:19.378406+00:00",
+      "note": "Automated translation of web content is now available to Firefox users! Unlike cloud-based alternatives, translation is done locally in Firefox, so that the text being translated does not leave your machine.",
       "sort_num": 0,
       "tag": "New"
     },
