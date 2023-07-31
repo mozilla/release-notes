@@ -8,11 +8,31 @@
   "notes": [
     {
       "bug": null,
-      "created": "2023-07-25T18:58:53.181935+00:00",
-      "id": 789674,
+      "created": "2023-07-31T20:23:55.933575+00:00",
+      "id": 789683,
       "is_public": true,
-      "modified": "2023-07-25T19:00:41.796645+00:00",
-      "note": "Fixed pull-to-refresh issues on some sites.",
+      "modified": "2023-07-31T20:23:55.933393+00:00",
+      "note": "Improvements to loading tab page.",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2023-07-31T20:24:24.224904+00:00",
+      "id": 789684,
+      "is_public": true,
+      "modified": "2023-07-31T20:24:24.224720+00:00",
+      "note": "Settings page not displaying as full.",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2023-07-31T20:28:47.961660+00:00",
+      "id": 789685,
+      "is_public": true,
+      "modified": "2023-07-31T20:28:47.961404+00:00",
+      "note": "Fixes an issue where the URL bar would display autocorrected text incorrectly.",
       "sort_num": 0,
       "tag": "Fixed"
     }
