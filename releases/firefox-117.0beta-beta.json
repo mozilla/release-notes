@@ -7,6 +7,16 @@
   "modified": "2023-07-31T13:26:57.756427+00:00",
   "notes": [
     {
+      "bug": 1759303,
+      "created": "2023-07-10T16:32:08.355729+00:00",
+      "id": 789652,
+      "is_public": true,
+      "modified": "2023-07-31T13:31:13.979879+00:00",
+      "note": "Firefox has added a new `dom.event.contextmenu.shift_suppresses_event` preference allowing users to disable Firefox forcing the context menu to appear when pressing shift+right-click on a webpage as it can sometimes cause undesirable outcomes on certain sites.",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1628476,
       "created": "2023-07-20T01:33:15.663993+00:00",
       "id": 789664,
@@ -17,22 +27,22 @@
       "tag": "New"
     },
     {
-      "bug": 1839582,
-      "created": "2023-07-24T18:17:50.787847+00:00",
-      "id": 789667,
-      "is_public": true,
-      "modified": "2023-07-31T13:30:50.246295+00:00",
-      "note": "[Firefox for Android][1] now supports pasting images into contenteditable & designMode elements. Previously, only plain text and HTML was supported.\r\n\r\n\r\n  [1]: https://play.google.com/store/apps/details?id=org.mozilla.fenix",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
       "bug": 1831963,
       "created": "2023-07-27T19:03:24.732084+00:00",
       "id": 789680,
       "is_public": true,
       "modified": "2023-07-31T13:30:31.197577+00:00",
       "note": "Automated translation of web content is now available to Firefox users! Unlike cloud-based alternatives, translation is done locally in Firefox, so that the text being translated does not leave your machine.",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1839582,
+      "created": "2023-07-31T13:31:38.785302+00:00",
+      "id": 789682,
+      "is_public": true,
+      "modified": "2023-07-31T13:32:43.486703+00:00",
+      "note": "[Firefox for Android][1] now supports pasting images into contenteditable & designMode elements. Previously, only plain text and HTML was supported.\r\n\r\n\r\n  [1]: https://play.google.com/store/apps/details?id=org.mozilla.firefox_beta",
       "sort_num": 0,
       "tag": "New"
     },
@@ -85,6 +95,16 @@
       "note": "Firefox now supports the CSS properties [`math-style`][1] and [`math-depth`][2] and the [`font-size: math`][3] value.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/CSS/math-style\r\n  [2]: https://developer.mozilla.org/docs/Web/CSS/math-depth\r\n  [3]: https://developer.mozilla.org/docs/Web/CSS/font-size",
       "sort_num": 0,
       "tag": "HTML5"
+    },
+    {
+      "bug": 1840775,
+      "created": "2023-07-07T14:33:01.858159+00:00",
+      "id": 789651,
+      "is_public": true,
+      "modified": "2023-07-31T13:34:02.309123+00:00",
+      "note": "Web compatibility inspection has been enhanced with our new CSS compatibility tooltip in the Developer Tools Inspector. An icon is now displayed next to properties that could lead to web compatibility issues. When hovered, the tooltip indicates which browsers are not supported and displays a link to the MDN page for the property so the user can learn more about it.",
+      "sort_num": 0,
+      "tag": "Developer"
     }
   ],
   "product": "Firefox",
