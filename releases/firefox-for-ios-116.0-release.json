@@ -8,11 +8,21 @@
   "notes": [
     {
       "bug": null,
+      "created": "2023-07-31T20:33:26.913900+00:00",
+      "id": 789688,
+      "is_public": true,
+      "modified": "2023-07-31T20:33:26.913706+00:00",
+      "note": "Added Credit Card autofill.",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
       "created": "2023-07-31T20:23:55.933575+00:00",
       "id": 789683,
       "is_public": true,
-      "modified": "2023-07-31T20:23:55.933393+00:00",
-      "note": "Improvements to loading tab page.",
+      "modified": "2023-07-31T20:32:40.901408+00:00",
+      "note": "Improvements to the loading tab page.",
       "sort_num": 0,
       "tag": "Fixed"
     },
@@ -21,8 +31,8 @@
       "created": "2023-07-31T20:24:24.224904+00:00",
       "id": 789684,
       "is_public": true,
-      "modified": "2023-07-31T20:24:24.224720+00:00",
-      "note": "Settings page not displaying as full.",
+      "modified": "2023-07-31T20:32:05.566905+00:00",
+      "note": "Fixes a bug where the settings page was not displaying as full.",
       "sort_num": 0,
       "tag": "Fixed"
     },
@@ -33,6 +43,26 @@
       "is_public": true,
       "modified": "2023-07-31T20:28:47.961404+00:00",
       "note": "Fixes an issue where the URL bar would display autocorrected text incorrectly.",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2023-07-31T20:31:11.410301+00:00",
+      "id": 789686,
+      "is_public": true,
+      "modified": "2023-07-31T20:31:11.410117+00:00",
+      "note": "Fixes an issue where 'Close last tab' and kill FF didn't really close the tab.",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2023-07-31T20:31:36.096795+00:00",
+      "id": 789687,
+      "is_public": true,
+      "modified": "2023-07-31T20:31:36.096615+00:00",
+      "note": "Fixes a black flash on page when rotating device to landscape orientation.",
       "sort_num": 0,
       "tag": "Fixed"
     }

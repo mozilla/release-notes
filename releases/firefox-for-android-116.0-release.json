@@ -35,6 +35,16 @@
       "note": "Fixed \"Open links in apps\" issue when Firefox is not the default browser.",
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2023-07-31T20:34:53.623798+00:00",
+      "id": 789689,
+      "is_public": true,
+      "modified": "2023-07-31T20:34:53.623608+00:00",
+      "note": "Various [security][1] fixes.\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox for Android",
