@@ -2,9 +2,9 @@
   "bug_list": "",
   "bug_search_url": "",
   "channel": "Nightly",
-  "created": "2023-06-30T16:44:58.293202+00:00",
-  "is_public": true,
-  "modified": "2023-07-04T08:52:47.254837+00:00",
+  "created": "2023-07-31T06:28:34.681081+00:00",
+  "is_public": false,
+  "modified": "2023-07-31T06:29:00.366831+00:00",
   "notes": [
     {
       "bug": 1823332,
@@ -155,23 +155,13 @@
       "note": "<!-- Nightly Only --> Starting with Firefox 116, we are enabling for nightly users a prototype [Federated Credential Management][1] implementation, a Web Platform API that allows users to login to websites with their federated accounts in a privacy preserving manner.\r\n\r\n\r\n  [1]: https://fedidcg.github.io/FedCM/",
       "sort_num": 0,
       "tag": "Developer"
-    },
-    {
-      "bug": null,
-      "created": "2023-07-07T14:33:01.858159+00:00",
-      "id": 789651,
-      "is_public": true,
-      "modified": "2023-07-31T06:31:21.983245+00:00",
-      "note": "Web compatibility inspection has been enhanced with our new CSS compatibility tooltip in the Developer Tools Inspector. An icon is now displayed next to properties that could lead to web compatibility issues. When hovered, the tooltip indicates which browsers are not supported and displays a link to the MDN page for the property so the user can learn more about it.",
-      "sort_num": 0,
-      "tag": "Developer"
     }
   ],
   "product": "Firefox",
-  "release_date": "2023-07-04",
-  "slug": "firefox-117.0a1-nightly",
+  "release_date": "2023-08-01",
+  "slug": "firefox-118.0a1-nightly",
   "system_requirements": "## Windows\r\n\r\n### Operating Systems (32-bit and 64-bit)\r\n - Windows 10 or later\r\n\r\n### Recommended Hardware\r\n-  1 gigahertz (GHz) or faster compatible processor or System on a Chip (SoC)\r\n-  1GB of RAM / 2GB of RAM for the 64-bit version\r\n-  500MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- macOS 10.15 or later\r\n\r\n### Recommended Hardware\r\n- Macintosh computer with an Intel x86 or Apple silicon processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - glibc 2.17 or higher\r\n    - GTK+ 3.14 or higher\r\n    - libdbus-glib 0.6.0 or higher\r\n    - libglib 2.42 or higher\r\n    - libstdc++ 4.8.1 or higher\r\n    - libxtst 1.2.3 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - DBus 1.0 or higher\r\n    - NetworkManager 0.7 or higher\r\n    - PulseAudio",
   "text": "Firefox Nightly gets updated every day and as a consequence, the release notes for the Nightly channel are updated continuously to reflect features that have reached sufficient maturity to benefit from community feedback and bug reports. \r\n\r\n**Warning: Features listed here may or may *not* make a final release of Firefox.**\r\n\r\nIn addition to these release notes, you can follow ongoing development on our [@FirefoxNightly][1] Twitter account, our  [@FirefoxNightly@mozilla.social][4] Mastodon account as well as read our [Nightly Blog][2].\r\n\r\nYou can interact with other Firefox Nightly users and give your feedback to Mozilla staff in the [Nightly Matrix room][3] on chat.mozilla.org.\r\n\r\n\r\n  [1]: https://twitter.com/FirefoxNightly\r\n  [2]: https://blog.nightly.mozilla.org\r\n  [3]: https://chat.mozilla.org/?#/room/#nightly:mozilla.org\r\n  [4]: https://mozilla.social/@FirefoxNightly",
-  "title": "Firefox 117.0a1 Nightly",
-  "version": "117.0a1"
+  "title": "Firefox 118.0a1 Nightly",
+  "version": "118.0a1"
 }
