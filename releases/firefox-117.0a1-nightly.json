@@ -87,6 +87,16 @@
       "tag": "New"
     },
     {
+      "bug": 1668358,
+      "created": "2023-07-31T00:20:21.320655+00:00",
+      "id": 789681,
+      "is_public": true,
+      "modified": "2023-07-31T00:20:21.320480+00:00",
+      "note": "Firefox does not show a screen sharing indicator on Wayland any more. It never worked as well as on other platforms and desktop environments typically provide sharing indicators already.",
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
       "bug": 1840818,
       "created": "2023-07-07T14:31:16.952075+00:00",
       "id": 789650,
