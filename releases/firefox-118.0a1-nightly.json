@@ -4,7 +4,7 @@
   "channel": "Nightly",
   "created": "2023-07-31T06:28:34.681081+00:00",
   "is_public": false,
-  "modified": "2023-07-31T06:29:00.366831+00:00",
+  "modified": "2023-07-31T06:37:54.699420+00:00",
   "notes": [
     {
       "bug": 1823332,
@@ -17,42 +17,12 @@
       "tag": "New"
     },
     {
-      "bug": 1759303,
-      "created": "2023-07-10T16:32:08.355729+00:00",
-      "id": 789652,
-      "is_public": true,
-      "modified": "2023-07-31T06:28:34.724141+00:00",
-      "note": "Firefox has added a new `dom.event.contextmenu.shift_suppresses_event` preference allowing users to disable Firefox forcing the context menu to appear when pressing shift+right-click on a webpage as it can sometimes cause undesirable outcomes on certain sites.",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
-      "bug": 1628476,
-      "created": "2023-07-20T01:33:15.663993+00:00",
-      "id": 789664,
-      "is_public": true,
-      "modified": "2023-07-31T06:28:34.724141+00:00",
-      "note": "macOS users can now control the tabability of controls and links via about:preferences",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
       "bug": 1820660,
       "created": "2023-07-20T01:34:59.694786+00:00",
       "id": 789665,
       "is_public": true,
       "modified": "2023-07-31T06:28:34.724141+00:00",
       "note": "<!-- Nightly Only --> Starting with Firefox 117, recently closed tabs now persist between sessions for Nightly users that don't have automatic session restore enabled. Manually restoring a previous session will continue to reopen any previously open tabs or windows.",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
-      "bug": 1839582,
-      "created": "2023-07-24T18:17:50.787847+00:00",
-      "id": 789667,
-      "is_public": true,
-      "modified": "2023-07-31T06:28:34.724141+00:00",
-      "note": "[Firefox for Android][1] now supports pasting images into contenteditable & designMode elements. Previously, only plain text and HTML was supported.\r\n\r\n\r\n  [1]: https://play.google.com/store/apps/details?id=org.mozilla.fenix",
       "sort_num": 0,
       "tag": "New"
     },
@@ -77,72 +47,12 @@
       "tag": "New"
     },
     {
-      "bug": 1831963,
-      "created": "2023-07-27T19:03:24.732084+00:00",
-      "id": 789680,
-      "is_public": true,
-      "modified": "2023-07-31T06:28:34.724141+00:00",
-      "note": "Automated translation of web content is now available to Firefox users! Unlike cloud-based alternatives, translation is done locally in Firefox, so that the text being translated does not leave your machine.",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
-      "bug": 1668358,
-      "created": "2023-07-31T00:20:21.320655+00:00",
-      "id": 789681,
-      "is_public": true,
-      "modified": "2023-07-31T06:28:34.724141+00:00",
-      "note": "Firefox does not show a screen sharing indicator on Wayland any more. It never worked as well as on other platforms and desktop environments typically provide sharing indicators already.",
-      "sort_num": 0,
-      "tag": "Changed"
-    },
-    {
       "bug": 1840818,
       "created": "2023-07-07T14:31:16.952075+00:00",
       "id": 789650,
       "is_public": true,
       "modified": "2023-07-31T06:28:34.724141+00:00",
       "note": "<!-- Nightly Only --> Starting with Firefox 117, partial support for the custom highlight API is now available in Nightly builds, allowing web developers to give ranges an appearance.",
-      "sort_num": 0,
-      "tag": "HTML5"
-    },
-    {
-      "bug": 1772772,
-      "created": "2023-07-14T15:35:00.410477+00:00",
-      "id": 789660,
-      "is_public": true,
-      "modified": "2023-07-31T06:28:34.724141+00:00",
-      "note": "`ReadableStream.from` is now supported, allowing creation of a ReadableStream from an (async) iterable.",
-      "sort_num": 0,
-      "tag": "HTML5"
-    },
-    {
-      "bug": 1840781,
-      "created": "2023-07-20T01:30:48.621472+00:00",
-      "id": 789663,
-      "is_public": true,
-      "modified": "2023-07-31T06:28:34.724141+00:00",
-      "note": "Support for improved CSS nesting is now enabled by default.",
-      "sort_num": 0,
-      "tag": "HTML5"
-    },
-    {
-      "bug": 1631263,
-      "created": "2023-07-26T21:07:11.097143+00:00",
-      "id": 789677,
-      "is_public": true,
-      "modified": "2023-07-31T06:28:34.724141+00:00",
-      "note": "Firefox now supports `RTCRtpScriptTransform`",
-      "sort_num": 0,
-      "tag": "HTML5"
-    },
-    {
-      "bug": 1845516,
-      "created": "2023-07-27T16:49:57.734677+00:00",
-      "id": 789679,
-      "is_public": true,
-      "modified": "2023-07-31T06:28:34.724141+00:00",
-      "note": "Firefox now supports the CSS properties [`math-style`][1] and [`math-depth`][2] and the [`font-size: math`][3] value.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/CSS/math-style\r\n  [2]: https://developer.mozilla.org/docs/Web/CSS/math-depth\r\n  [3]: https://developer.mozilla.org/docs/Web/CSS/font-size",
       "sort_num": 0,
       "tag": "HTML5"
     },
