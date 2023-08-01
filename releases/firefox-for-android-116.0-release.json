@@ -3,8 +3,8 @@
   "bug_search_url": "",
   "channel": "Release",
   "created": "2023-07-25T18:57:44.588376+00:00",
-  "is_public": false,
-  "modified": "2023-08-01T12:19:20.796891+00:00",
+  "is_public": true,
+  "modified": "2023-08-01T12:56:59.672925+00:00",
   "notes": [
     {
       "bug": null,
@@ -41,8 +41,8 @@
       "created": "2023-07-31T20:34:53.623798+00:00",
       "id": 789689,
       "is_public": true,
-      "modified": "2023-07-31T20:34:53.623608+00:00",
-      "note": "Various [security][1] fixes.\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/",
+      "modified": "2023-08-01T12:59:04.270494+00:00",
+      "note": "Various [security][1] fixes.\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/mfsa2023-29/",
       "sort_num": 0,
       "tag": "Fixed"
     }
