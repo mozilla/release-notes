@@ -29,8 +29,8 @@
       },
       "id": 789693,
       "is_public": true,
-      "modified": "2023-08-03T15:03:47.006611+00:00",
-      "note": "Fixed an issue where chart elements were rendered incorrectly for WIndows users. ([bug 1846613][1])\r\n\r\n[1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1846613",
+      "modified": "2023-08-03T15:40:00.447248+00:00",
+      "note": "Fixed an issue which caused chart elements to render incorrectly for Windows users. ([bug 1846613][1])\r\n\r\n[1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1846613",
       "sort_num": 0,
       "tag": "Fixed"
     }
