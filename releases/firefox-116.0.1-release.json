@@ -5,7 +5,36 @@
   "created": "2023-08-03T15:00:11.161646+00:00",
   "is_public": false,
   "modified": "2023-08-03T15:00:39.936812+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": null,
+      "created": "2023-08-03T15:01:43.421443+00:00",
+      "id": 789692,
+      "is_public": true,
+      "modified": "2023-08-03T15:01:43.421262+00:00",
+      "note": "Reference link to [116.0 release notes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/firefox/116.0/releasenotes/",
+      "sort_num": 0,
+      "tag": ""
+    },
+    {
+      "bug": 1846613,
+      "created": "2023-08-03T15:02:59.955542+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": false,
+        "product": "Firefox",
+        "slug": "firefox-116.0.1-release",
+        "title": "Firefox 116.0.1 Release",
+        "version": "116.0.1"
+      },
+      "id": 789693,
+      "is_public": true,
+      "modified": "2023-08-03T15:03:47.006611+00:00",
+      "note": "Fixed an issue where chart elements were rendered incorrectly for WIndows users. ([bug 1846613][1])\r\n\r\n[1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1846613",
+      "sort_num": 0,
+      "tag": "Fixed"
+    }
+  ],
   "product": "Firefox",
   "release_date": "2023-08-04",
   "slug": "firefox-116.0.1-release",
