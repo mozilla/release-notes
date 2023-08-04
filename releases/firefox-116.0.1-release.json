@@ -3,8 +3,8 @@
   "bug_search_url": "",
   "channel": "Release",
   "created": "2023-08-03T15:00:11.161646+00:00",
-  "is_public": false,
-  "modified": "2023-08-03T15:00:39.936812+00:00",
+  "is_public": true,
+  "modified": "2023-08-04T12:13:17.201378+00:00",
   "notes": [
     {
       "bug": null,
@@ -21,7 +21,7 @@
       "created": "2023-08-03T15:02:59.955542+00:00",
       "fixed_in_release": {
         "channel": "Release",
-        "is_public": false,
+        "is_public": true,
         "product": "Firefox",
         "slug": "firefox-116.0.1-release",
         "title": "Firefox 116.0.1 Release",
