@@ -27,16 +27,6 @@
       "tag": "New"
     },
     {
-      "bug": null,
-      "created": "2023-07-24T18:21:27.681617+00:00",
-      "id": 789668,
-      "is_public": true,
-      "modified": "2023-07-31T06:28:34.724141+00:00",
-      "note": "<!-- Nightly Only --> Starting with Firefox 117, Nightly builds now include extended region support for credit card autofill for the AT, BE, ES, IT, and PL locales.",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
       "bug": 1843054,
       "created": "2023-07-24T18:24:34.197950+00:00",
       "id": 789669,
@@ -53,6 +43,16 @@
       "is_public": true,
       "modified": "2023-07-31T06:28:34.724141+00:00",
       "note": "<!-- Nightly Only --> Starting with Firefox 117, partial support for the custom highlight API is now available in Nightly builds, allowing web developers to give ranges an appearance.",
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 1814589,
+      "created": "2023-08-04T14:00:20.052515+00:00",
+      "id": 789695,
+      "is_public": true,
+      "modified": "2023-08-04T14:00:20.052329+00:00",
+      "note": "10 new CSS math functions are now supported: round, mod, rem, pow, sqrt, hypot, log, exp, abs, sign.",
       "sort_num": 0,
       "tag": "HTML5"
     },
