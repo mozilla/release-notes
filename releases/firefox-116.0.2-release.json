@@ -15,6 +15,24 @@
       "note": "Reference link to [116.0 release notes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/firefox/116.0/releasenotes/",
       "sort_num": 0,
       "tag": ""
+    },
+    {
+      "bug": 1847033,
+      "created": "2023-08-07T06:25:38.481462+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": false,
+        "product": "Firefox",
+        "slug": "firefox-116.0.2-release",
+        "title": "Firefox 116.0.2 Release",
+        "version": "116.0.2"
+      },
+      "id": 789696,
+      "is_public": true,
+      "modified": "2023-08-07T06:25:38.481279+00:00",
+      "note": "Fixes an issue that was causing keystrokes to be scrambled for users using ZoneAlarm anti-keylogger. ([bug 1847033][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1847033",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
