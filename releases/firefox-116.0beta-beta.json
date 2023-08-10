@@ -61,8 +61,8 @@
       "created": "2023-07-13T14:06:12.979069+00:00",
       "id": 789659,
       "is_public": true,
-      "modified": "2023-08-03T15:00:37.369457+00:00",
-      "note": "The keyboard shortcut to reopen closed tabs (command + shift + t) now reopens last closed tab or last closed window, in the order items were closed. If there aren't any tabs or windows to reopen, this command restores the previous session. This change is in anticipation of upcoming changes to recently closed tabs.",
+      "modified": "2023-08-10T15:48:53.539951+00:00",
+      "note": "The keyboard shortcut to reopen closed tabs (`Ctrl + shift + t` or `Command + shift + t` depending on your operating system) now reopens last closed tab or last closed window, in the order items were closed. If there aren't any tabs or windows to reopen, this command restores the previous session. This change is in anticipation of upcoming changes to recently closed tabs.",
       "sort_num": 0,
       "tag": "Changed"
     },
