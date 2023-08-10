@@ -115,6 +115,24 @@
       "note": "Web compatibility inspection has been enhanced with our new CSS compatibility tooltip in the Developer Tools Inspector. An icon is now displayed next to properties that could lead to web compatibility issues. When hovered, the tooltip indicates which browsers are not supported and displays a link to the MDN page for the property so the user can learn more about it.",
       "sort_num": 0,
       "tag": "Developer"
+    },
+    {
+      "bug": 1843227,
+      "created": "2023-08-10T15:17:56.626647+00:00",
+      "fixed_in_release": {
+        "channel": "Beta",
+        "is_public": true,
+        "product": "Firefox",
+        "slug": "firefox-117.0beta-beta",
+        "title": "Firefox 117.0beta Beta",
+        "version": "117.0beta"
+      },
+      "id": 789697,
+      "is_public": true,
+      "modified": "2023-08-10T15:17:56.626441+00:00",
+      "note": "YouTube video lists now scroll correctly when navigating with a screen reader.",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
