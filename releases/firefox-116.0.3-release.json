@@ -87,6 +87,16 @@
       "note": "Fixed an issue where Firefox would hang when doing a Google search. ([bug 1847066][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1847066",
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": 1848916,
+      "created": "2023-08-16T15:36:59.894999+00:00",
+      "id": 789702,
+      "is_public": true,
+      "modified": "2023-08-16T15:36:59.894787+00:00",
+      "note": "A few OPFS users might still encounter issues loading old files which is expected to be resolved in [bug 1848916][1].\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1848872",
+      "sort_num": 0,
+      "tag": "Known"
     }
   ],
   "product": "Firefox",
