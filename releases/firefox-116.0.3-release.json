@@ -29,8 +29,8 @@
       },
       "id": 789698,
       "is_public": true,
-      "modified": "2023-08-16T00:56:47.333857+00:00",
-      "note": "Fixed an issue for OPFS users (especially those using the Adobe Photoshop's web version) that broke access to images that were locally cached in a previous version. ([bug 1847989][1], [bug 1847619][2])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1847989\r\n  [2]: https://bugzilla.mozilla.org/show_bug.cgi?id=1847619",
+      "modified": "2023-08-16T01:19:25.938710+00:00",
+      "note": "Fixed an issue for OPFS users (especially those using the Adobe Photoshop) that broke access to images that were locally cached in a previous version. ([bug 1847989][1], [bug 1847619][2])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1847989\r\n  [2]: https://bugzilla.mozilla.org/show_bug.cgi?id=1847619",
       "sort_num": 0,
       "tag": "Fixed"
     },
@@ -47,8 +47,44 @@
       },
       "id": 789699,
       "is_public": true,
-      "modified": "2023-08-16T01:11:36.952621+00:00",
-      "note": "Fixed an issue that was breaking screensharing for some users on Wayland.",
+      "modified": "2023-08-16T01:18:17.086018+00:00",
+      "note": "Fixed an issue that was breaking screensharing for some users on Wayland. ([bug 1841851][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1841851",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1847901,
+      "created": "2023-08-16T01:17:28.898820+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": false,
+        "product": "Firefox",
+        "slug": "firefox-116.0.3-release",
+        "title": "Firefox 116.0.3 Release",
+        "version": "116.0.3"
+      },
+      "id": 789700,
+      "is_public": true,
+      "modified": "2023-08-16T01:17:28.898627+00:00",
+      "note": "Fixed an issue where a fullscreen notification was persistently being shown to a user, even after disabling it. ([bug 1847901][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1847901",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1847066,
+      "created": "2023-08-16T01:22:28.834036+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": false,
+        "product": "Firefox",
+        "slug": "firefox-116.0.3-release",
+        "title": "Firefox 116.0.3 Release",
+        "version": "116.0.3"
+      },
+      "id": 789701,
+      "is_public": true,
+      "modified": "2023-08-16T01:22:28.833852+00:00",
+      "note": "Fixed an issue where Firefox would hang when doing a Google search. ([bug 1847066][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1847066",
       "sort_num": 0,
       "tag": "Fixed"
     }
