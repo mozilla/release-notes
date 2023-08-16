@@ -29,8 +29,8 @@
       },
       "id": 789698,
       "is_public": true,
-      "modified": "2023-08-16T01:19:25.938710+00:00",
-      "note": "Fixed an issue for OPFS users (especially those using the Adobe Photoshop) that broke access to images that were locally cached in a previous version. ([bug 1847989][1], [bug 1847619][2])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1847989\r\n  [2]: https://bugzilla.mozilla.org/show_bug.cgi?id=1847619",
+      "modified": "2023-08-16T13:12:17.175243+00:00",
+      "note": "Fixed an issue for OPFS users (especially those using the Adobe Photoshop) that broke access to files that were locally cached in a previous version. ([bug 1847989][1], [bug 1847619][2])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1847989\r\n  [2]: https://bugzilla.mozilla.org/show_bug.cgi?id=1847619",
       "sort_num": 0,
       "tag": "Fixed"
     },
