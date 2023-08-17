@@ -41,8 +41,18 @@
       "created": "2023-08-17T14:12:43.812309+00:00",
       "id": 789703,
       "is_public": true,
-      "modified": "2023-08-17T14:12:43.812126+00:00",
-      "note": "On Android, Printing page content from the browser or share menu is now available.",
+      "modified": "2023-08-17T14:13:43.427824+00:00",
+      "note": "On Android, printing page content from the browser or share menu is now available.",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1840721,
+      "created": "2023-08-17T14:16:07.661640+00:00",
+      "id": 789704,
+      "is_public": true,
+      "modified": "2023-08-17T14:16:07.661445+00:00",
+      "note": "On Android, pinned user shortcuts now open in an existing tab if it already has the same URL.",
       "sort_num": 0,
       "tag": "New"
     },
