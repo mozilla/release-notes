@@ -11,7 +11,7 @@
       "created": "2023-06-30T17:56:24.465950+00:00",
       "id": 789643,
       "is_public": true,
-      "modified": "2023-07-31T06:28:34.724141+00:00",
+      "modified": "2023-08-17T18:21:10.964788+00:00",
       "note": "<!-- Nightly Only --> Starting with Firefox 115, Nightly supports a new \u201ccopy clean\u201d link context menu action which removes any superfluous query parameters, including tracking parameters.",
       "sort_num": 0,
       "tag": "New"
@@ -41,7 +41,7 @@
       "created": "2023-07-20T01:34:59.694786+00:00",
       "id": 789665,
       "is_public": true,
-      "modified": "2023-07-31T06:28:34.724141+00:00",
+      "modified": "2023-08-17T18:21:10.964788+00:00",
       "note": "<!-- Nightly Only --> Starting with Firefox 117, recently closed tabs now persist between sessions for Nightly users that don't have automatic session restore enabled. Manually restoring a previous session will continue to reopen any previously open tabs or windows.",
       "sort_num": 0,
       "tag": "New"
@@ -71,7 +71,7 @@
       "created": "2023-07-24T18:24:34.197950+00:00",
       "id": 789669,
       "is_public": true,
-      "modified": "2023-07-31T06:28:34.724141+00:00",
+      "modified": "2023-08-17T18:21:10.964788+00:00",
       "note": "<!-- Nightly Only --> Starting with Firefox 117, Nightly builds now support adding images when editing PDFs in addition to adding text and drawing.",
       "sort_num": 0,
       "tag": "New"
@@ -101,7 +101,7 @@
       "created": "2023-07-07T14:31:16.952075+00:00",
       "id": 789650,
       "is_public": true,
-      "modified": "2023-07-31T06:28:34.724141+00:00",
+      "modified": "2023-08-17T18:21:10.964788+00:00",
       "note": "<!-- Nightly Only --> Starting with Firefox 117, partial support for the custom highlight API is now available in Nightly builds, allowing web developers to give ranges an appearance.",
       "sort_num": 0,
       "tag": "HTML5"
@@ -151,7 +151,7 @@
       "created": "2023-06-30T17:45:17.920095+00:00",
       "id": 789642,
       "is_public": true,
-      "modified": "2023-07-31T06:28:34.724141+00:00",
+      "modified": "2023-08-17T18:21:10.964788+00:00",
       "note": "<!-- Nightly Only --> Starting with Firefox 116, we are enabling for nightly users a prototype [Federated Credential Management][1] implementation, a Web Platform API that allows users to login to websites with their federated accounts in a privacy preserving manner.\r\n\r\n\r\n  [1]: https://fedidcg.github.io/FedCM/",
       "sort_num": 0,
       "tag": "Developer"
