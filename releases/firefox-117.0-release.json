@@ -8,6 +8,46 @@
   "notes": [
     {
       "bug": null,
+      "created": "2023-08-24T19:38:19.894331+00:00",
+      "id": 789713,
+      "is_public": true,
+      "modified": "2023-08-24T19:38:19.894150+00:00",
+      "note": "Support for improved CSS nesting is now enabled by default.",
+      "sort_num": 40,
+      "tag": "HTML5"
+    },
+    {
+      "bug": null,
+      "created": "2023-08-24T19:36:49.824921+00:00",
+      "id": 789712,
+      "is_public": true,
+      "modified": "2023-08-24T19:37:46.361685+00:00",
+      "note": "Firefox now supports `RTCRtpScriptTransform`.",
+      "sort_num": 30,
+      "tag": "HTML5"
+    },
+    {
+      "bug": null,
+      "created": "2023-08-24T19:36:17.967995+00:00",
+      "id": 789711,
+      "is_public": true,
+      "modified": "2023-08-24T19:36:17.967816+00:00",
+      "note": "[`ReadableStream.from`][1] is now supported, allowing creation of a ReadableStream from an (async) iterable.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/API/ReadableStream/from_static",
+      "sort_num": 20,
+      "tag": "HTML5"
+    },
+    {
+      "bug": null,
+      "created": "2023-08-24T19:35:28.157854+00:00",
+      "id": 789710,
+      "is_public": true,
+      "modified": "2023-08-24T19:39:00.778961+00:00",
+      "note": "Firefox now supports the [`math-style`][1] and [`math-depth`][2] CSS properties and the [`font-size: math`][3] value.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/CSS/math-style\r\n  [2]: https://developer.mozilla.org/docs/Web/CSS/math-depth\r\n  [3]: https://developer.mozilla.org/docs/Web/CSS/font-size",
+      "sort_num": 10,
+      "tag": "HTML5"
+    },
+    {
+      "bug": null,
       "created": "2023-08-24T19:22:21.031570+00:00",
       "id": 789708,
       "is_public": true,
