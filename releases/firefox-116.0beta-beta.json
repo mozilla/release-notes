@@ -11,7 +11,7 @@
       "created": "2023-06-09T16:57:18.909770+00:00",
       "id": 789587,
       "is_public": true,
-      "modified": "2023-08-24T19:20:26.408418+00:00",
+      "modified": "2023-08-24T19:22:03.904341+00:00",
       "note": "Sidebar switcher allows users to access Bookmarks, History and Synced Tabs panels easily, quickly switch between them, move the sidebar to another side of the browser window, or close the sidebar. Now, keyboard users would be able to do it all with ease too, with or without any assistive technology running, without needing to memorize keyboard shortcuts to access these panels.",
       "sort_num": 0,
       "tag": "New"
@@ -21,7 +21,7 @@
       "created": "2023-06-09T17:57:37.441692+00:00",
       "id": 789588,
       "is_public": true,
-      "modified": "2023-08-24T19:20:26.408418+00:00",
+      "modified": "2023-08-24T19:22:01.320346+00:00",
       "note": "When an update is available in English locales, users will now have access to the release notes in the update notification prompt in the form of a \"Learn More\" link.",
       "sort_num": 0,
       "tag": "New"
@@ -31,7 +31,7 @@
       "created": "2023-06-19T13:34:34.237132+00:00",
       "id": 789592,
       "is_public": true,
-      "modified": "2023-08-24T19:20:26.408418+00:00",
+      "modified": "2023-08-24T19:21:59.147002+00:00",
       "note": "It is now possible to copy any file from your operating system and paste it into Firefox.",
       "sort_num": 0,
       "tag": "New"
@@ -41,7 +41,7 @@
       "created": "2023-06-19T13:38:08.824115+00:00",
       "id": 789593,
       "is_public": true,
-      "modified": "2023-08-24T19:20:26.408418+00:00",
+      "modified": "2023-08-24T19:21:57.891463+00:00",
       "note": "You asked, and we listened! The volume slider is now available in Picture-in-Picture.",
       "sort_num": 0,
       "tag": "New"
@@ -51,7 +51,7 @@
       "created": "2023-06-20T13:46:57.090325+00:00",
       "id": 789597,
       "is_public": true,
-      "modified": "2023-08-24T19:20:26.408418+00:00",
+      "modified": "2023-08-24T19:22:03.010989+00:00",
       "note": "We added the possibility to edit existing text annotations in the PDF reader.",
       "sort_num": 0,
       "tag": "New"
@@ -61,7 +61,7 @@
       "created": "2023-07-13T14:06:12.979069+00:00",
       "id": 789659,
       "is_public": true,
-      "modified": "2023-08-24T19:20:26.408418+00:00",
+      "modified": "2023-08-24T19:22:07.160794+00:00",
       "note": "The keyboard shortcut to reopen closed tabs (`Ctrl + shift + t` or `Command + shift + t` depending on your operating system) now reopens last closed tab or last closed window, in the order items were closed. If there aren't any tabs or windows to reopen, this command restores the previous session. This change is in anticipation of upcoming changes to recently closed tabs.",
       "sort_num": 0,
       "tag": "Changed"
@@ -71,7 +71,7 @@
       "created": "2023-06-15T19:04:48.917745+00:00",
       "id": 789591,
       "is_public": true,
-      "modified": "2023-08-24T19:20:26.408418+00:00",
+      "modified": "2023-08-24T19:22:00.249549+00:00",
       "note": "This release now supports proper BYOB readers on Fetch and WebTransport, which allows developers to prepare their ArrayBuffer so that it can be reused for read requests and thus saves memory allocation. `.getReader({ mode: \"byob\" })` on Fetch and WebTransport streams was supported on previous releases but without true BYOB support, as new memory allocation still occurred internally.",
       "sort_num": 0,
       "tag": "HTML5"
@@ -89,7 +89,7 @@
       },
       "id": 789584,
       "is_public": true,
-      "modified": "2023-08-24T19:20:26.408418+00:00",
+      "modified": "2023-08-24T19:22:06.223193+00:00",
       "note": "Added support for the [dirname][1] attribute to pass text directionality information about input and textarea elements to the server. ([learn more][2])\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input#dirname\r\n  [2]: https://www.w3.org/International/questions/qa-html-dir#reportingdirection",
       "sort_num": 0,
       "tag": "Developer"
@@ -99,7 +99,7 @@
       "created": "2023-06-15T15:10:14.445597+00:00",
       "id": 789589,
       "is_public": true,
-      "modified": "2023-08-24T19:20:26.408418+00:00",
+      "modified": "2023-08-24T19:22:02.156854+00:00",
       "note": "Firefox now supports CSP3 [external hashes][1].\r\n\r\n\r\n  [1]: https://w3c.github.io/webappsec-csp/#external-hash",
       "sort_num": 0,
       "tag": "Developer"
@@ -109,7 +109,7 @@
       "created": "2023-07-07T00:27:56.435414+00:00",
       "id": 789649,
       "is_public": true,
-      "modified": "2023-08-24T19:20:26.408418+00:00",
+      "modified": "2023-08-24T19:22:05.395796+00:00",
       "note": "[The Audio Output Devices API][1] now enables sites to redirect audio from media elements to permitted output devices (speakers) other than the system default for the user-agent.\r\nFor example, WebRTC conferencing sites can now redirect audio either to the speakers in a headset or to external speakers. \r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/Audio_Output_Devices_API",
       "sort_num": 0,
       "tag": "Developer"
@@ -129,7 +129,7 @@
       "created": "2023-07-25T14:47:16.976822+00:00",
       "id": 789672,
       "is_public": true,
-      "modified": "2023-08-24T19:20:26.408418+00:00",
+      "modified": "2023-08-24T19:22:09.689439+00:00",
       "note": "The upload performance of HTTP/2 has been significantly improved starting with Firefox 115.0, particularly on those with a higher bandwidth delay product (i.e., networks characterized by both high bandwidth and high latency).",
       "sort_num": 0,
       "tag": "Fixed"

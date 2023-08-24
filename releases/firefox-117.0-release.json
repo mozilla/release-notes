@@ -1,0 +1,37 @@
+{
+  "bug_list": "",
+  "bug_search_url": "",
+  "channel": "Release",
+  "created": "2023-08-24T19:20:26.357090+00:00",
+  "is_public": false,
+  "modified": "2023-08-24T19:22:15.827869+00:00",
+  "notes": [
+    {
+      "bug": null,
+      "created": "2023-08-24T19:22:21.031570+00:00",
+      "id": 789708,
+      "is_public": true,
+      "modified": "2023-08-24T19:23:29.796236+00:00",
+      "note": "Various [security][1] fixes.\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/mfsa2023-34/",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2023-08-24T19:25:05.694589+00:00",
+      "id": 789709,
+      "is_public": true,
+      "modified": "2023-08-24T19:25:05.694408+00:00",
+      "note": "With the release of Firefox 117, we are pleased to welcome the developers who contributed their first code change to Firefox in this release, 9 of whom were brand new volunteers! Please join us in thanking each of these diligent and enthusiastic individuals, and take a look at their contributions:\r\n\r\n* :ren: <a href=\"https://bugzilla.mozilla.org/1753033\">1753033</a>, <a href=\"https://bugzilla.mozilla.org/1842971\">1842971</a>, <a href=\"https://bugzilla.mozilla.org/1844492\">1844492</a>\r\n* Cassio Neri: <a href=\"https://bugzilla.mozilla.org/1828326\">1828326</a>\r\n* David Turner: <a href=\"https://bugzilla.mozilla.org/1836063\">1836063</a>\r\n* Devesh Bisen: <a href=\"https://bugzilla.mozilla.org/1840583\">1840583</a>, <a href=\"https://bugzilla.mozilla.org/1841131\">1841131</a>\r\n* Lin Runze: <a href=\"https://bugzilla.mozilla.org/1842131\">1842131</a>\r\n* Logan Rosen [:Logan]: <a href=\"https://bugzilla.mozilla.org/1692849\">1692849</a>, <a href=\"https://bugzilla.mozilla.org/1843815\">1843815</a>\r\n* Vinny Diehl: <a href=\"https://bugzilla.mozilla.org/1262782\">1262782</a>, <a href=\"https://bugzilla.mozilla.org/1707974\">1707974</a>\r\n* Willy R. Vasquez: <a href=\"https://bugzilla.mozilla.org/1829765\">1829765</a>, <a href=\"https://bugzilla.mozilla.org/1843418\">1843418</a>, <a href=\"https://bugzilla.mozilla.org/1843419\">1843419</a>, <a href=\"https://bugzilla.mozilla.org/1845186\">1845186</a>, <a href=\"https://bugzilla.mozilla.org/1845798\">1845798</a>\r\n* Xi Ruoyao: <a href=\"https://bugzilla.mozilla.org/1841040\">1841040</a>",
+      "sort_num": 0,
+      "tag": "Community"
+    }
+  ],
+  "product": "Firefox",
+  "release_date": "2023-08-29",
+  "slug": "firefox-117.0-release",
+  "system_requirements": "## Windows\r\n\r\n### Operating Systems (32-bit and 64-bit)\r\n - Windows 10 or later\r\n\r\n### Recommended Hardware\r\n-  1 gigahertz (GHz) or faster compatible processor or System on a Chip (SoC)\r\n-  1GB of RAM / 2GB of RAM for the 64-bit version\r\n-  500MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- macOS 10.15 or later\r\n\r\n### Recommended Hardware\r\n- Macintosh computer with an Intel x86 or Apple silicon processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - glibc 2.17 or higher\r\n    - GTK+ 3.14 or higher\r\n    - libdbus-glib 0.6.0 or higher\r\n    - libglib 2.42 or higher\r\n    - libstdc++ 4.8.1 or higher\r\n    - libxtst 1.2.3 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - DBus 1.0 or higher\r\n    - NetworkManager 0.7 or higher\r\n    - PulseAudio",
+  "text": "",
+  "title": "Firefox 117.0 Release",
+  "version": "117.0"
+}
