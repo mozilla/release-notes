@@ -8,6 +8,86 @@
   "notes": [
     {
       "bug": null,
+      "created": "2023-08-24T20:00:59.307076+00:00",
+      "id": 789726,
+      "is_public": true,
+      "modified": "2023-08-24T20:00:59.306891+00:00",
+      "note": "Firefox now supports pasting images into contenteditable & designMode elements. Previously, only plain text and HTML was supported.",
+      "sort_num": 10,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2023-08-24T19:38:19.894331+00:00",
+      "id": 789713,
+      "is_public": true,
+      "modified": "2023-08-24T19:57:03.483800+00:00",
+      "note": "Support for improved CSS nesting is now enabled by default.",
+      "sort_num": 40,
+      "tag": "HTML5"
+    },
+    {
+      "bug": null,
+      "created": "2023-08-24T19:36:17.967995+00:00",
+      "id": 789711,
+      "is_public": true,
+      "modified": "2023-08-24T19:57:23.107396+00:00",
+      "note": "[`ReadableStream.from`][1] is now supported, allowing creation of a ReadableStream from an (async) iterable.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/API/ReadableStream/from_static",
+      "sort_num": 20,
+      "tag": "HTML5"
+    },
+    {
+      "bug": null,
+      "created": "2023-08-24T19:35:28.157854+00:00",
+      "id": 789710,
+      "is_public": true,
+      "modified": "2023-08-24T19:57:32.758058+00:00",
+      "note": "Firefox now supports the [`math-style`][1] and [`math-depth`][2] CSS properties and the [`font-size: math`][3] value.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/CSS/math-style\r\n  [2]: https://developer.mozilla.org/docs/Web/CSS/math-depth\r\n  [3]: https://developer.mozilla.org/docs/Web/CSS/font-size",
+      "sort_num": 10,
+      "tag": "HTML5"
+    },
+    {
+      "bug": null,
+      "created": "2023-08-24T20:00:33.758209+00:00",
+      "id": 789725,
+      "is_public": true,
+      "modified": "2023-08-24T20:00:33.757843+00:00",
+      "note": "Annoying prompts from sites trying to \u201cOpen links in apps\u201d.",
+      "sort_num": 40,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2023-08-24T20:00:10.490898+00:00",
+      "id": 789724,
+      "is_public": true,
+      "modified": "2023-08-24T20:00:10.490707+00:00",
+      "note": "Hangs for multiple seconds during media playback when disconnecting Bluetooth headphones.",
+      "sort_num": 30,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2023-08-24T19:59:50.372432+00:00",
+      "id": 789723,
+      "is_public": true,
+      "modified": "2023-08-24T19:59:50.372105+00:00",
+      "note": "Media playback would sometimes continue after closing Firefox.",
+      "sort_num": 20,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2023-08-24T19:59:27.962305+00:00",
+      "id": 789722,
+      "is_public": true,
+      "modified": "2023-08-24T19:59:27.962123+00:00",
+      "note": "Searching open tabs would not match tab names that contain spaces.",
+      "sort_num": 10,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
       "created": "2023-08-24T19:22:21.031570+00:00",
       "id": 789708,
       "is_public": true,

@@ -8,6 +8,26 @@
   "notes": [
     {
       "bug": null,
+      "created": "2023-08-24T19:52:56.309876+00:00",
+      "id": 789721,
+      "is_public": true,
+      "modified": "2023-08-24T19:52:56.309508+00:00",
+      "note": "Support for credit card autofill has been extended to users running Firefox in the IT, ES ,AT, BE, and PL locales.",
+      "sort_num": 30,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2023-08-24T19:52:27.966044+00:00",
+      "id": 789720,
+      "is_public": true,
+      "modified": "2023-08-24T19:54:58.987683+00:00",
+      "note": "macOS users can now control the tabability of controls and links via about:preferences.\r\n![Screenshot of new macOS tabability option in about:preferences][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/media/img/firefox/releasenotes/note-images/117_macos_tab_key.png",
+      "sort_num": 20,
+      "tag": "New"
+    },
+    {
+      "bug": null,
       "created": "2023-08-24T19:49:16.987953+00:00",
       "id": 789719,
       "is_public": true,
@@ -31,7 +51,7 @@
       "created": "2023-08-24T19:38:19.894331+00:00",
       "id": 789713,
       "is_public": true,
-      "modified": "2023-08-24T19:38:19.894150+00:00",
+      "modified": "2023-08-24T19:57:03.483800+00:00",
       "note": "Support for improved CSS nesting is now enabled by default.",
       "sort_num": 40,
       "tag": "HTML5"
@@ -51,7 +71,7 @@
       "created": "2023-08-24T19:36:17.967995+00:00",
       "id": 789711,
       "is_public": true,
-      "modified": "2023-08-24T19:36:17.967816+00:00",
+      "modified": "2023-08-24T19:57:23.107396+00:00",
       "note": "[`ReadableStream.from`][1] is now supported, allowing creation of a ReadableStream from an (async) iterable.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/API/ReadableStream/from_static",
       "sort_num": 20,
       "tag": "HTML5"
@@ -61,7 +81,7 @@
       "created": "2023-08-24T19:35:28.157854+00:00",
       "id": 789710,
       "is_public": true,
-      "modified": "2023-08-24T19:39:00.778961+00:00",
+      "modified": "2023-08-24T19:57:32.758058+00:00",
       "note": "Firefox now supports the [`math-style`][1] and [`math-depth`][2] CSS properties and the [`font-size: math`][3] value.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/CSS/math-style\r\n  [2]: https://developer.mozilla.org/docs/Web/CSS/math-depth\r\n  [3]: https://developer.mozilla.org/docs/Web/CSS/font-size",
       "sort_num": 10,
       "tag": "HTML5"
@@ -71,7 +91,7 @@
       "created": "2023-08-24T19:46:04.861989+00:00",
       "id": 789715,
       "is_public": true,
-      "modified": "2023-08-24T19:46:04.860408+00:00",
+      "modified": "2023-08-24T19:55:18.825028+00:00",
       "note": "Web compatibility inspection has been enhanced with our new CSS compatibility tooltip in the Developer Tools Inspector. An icon is now displayed next to properties that could lead to web compatibility issues. When hovered, the tooltip indicates which browsers are not supported and displays a link to the MDN page for the property so the user can learn more about it.\r\n![Screenshot showing CSS compatibility icon for a property shown in the Inspector][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/media/img/firefox/releasenotes/note-images/117_devtools_compat.png'",
       "sort_num": 20,
       "tag": "Developer"
