@@ -21,8 +21,8 @@
       "created": "2023-08-24T19:52:27.966044+00:00",
       "id": 789720,
       "is_public": true,
-      "modified": "2023-08-24T19:54:58.987683+00:00",
-      "note": "macOS users can now control the tabability of controls and links via about:preferences.\r\n![Screenshot of new macOS tabability option in about:preferences][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/media/img/firefox/releasenotes/note-images/117_macos_tab_key.png",
+      "modified": "2023-08-24T20:59:10.837185+00:00",
+      "note": "macOS users can now control the tabability of controls and links via about:preferences.\r\n<img src=\"https://www.mozilla.org/media/img/firefox/releasenotes/note-images/117_macos_tab_key.png\" alt=\"Screenshot of new macOS tabability option in about:preferences\" width=\"482\" height=\"47\">",
       "sort_num": 20,
       "tag": "New"
     },
@@ -91,8 +91,8 @@
       "created": "2023-08-24T19:46:04.861989+00:00",
       "id": 789715,
       "is_public": true,
-      "modified": "2023-08-24T20:40:01.358157+00:00",
-      "note": "Web compatibility inspection has been enhanced with our new CSS compatibility tooltip in the Developer Tools Inspector. An icon is now displayed next to properties that could lead to web compatibility issues. When hovered, the tooltip indicates which browsers are not supported and displays a link to the MDN page for the property so the user can learn more about it.\r\n![Screenshot showing CSS compatibility icon for a property shown in the Inspector][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/media/img/firefox/releasenotes/note-images/117_devtools_compat.png",
+      "modified": "2023-08-24T20:57:49.901569+00:00",
+      "note": "Web compatibility inspection has been enhanced with our new CSS compatibility tooltip in the Developer Tools Inspector. An icon is now displayed next to properties that could lead to web compatibility issues. When hovered, the tooltip indicates which browsers are not supported and displays a link to the MDN page for the property so the user can learn more about it.\r\n<img src=\"https://www.mozilla.org/media/img/firefox/releasenotes/note-images/117_devtools_compat.png\" alt=\"Screenshot showing CSS compatibility icon for a property shown in the Inspector\" width=\"350\" height=\"195\">",
       "sort_num": 20,
       "tag": "Developer"
     },
