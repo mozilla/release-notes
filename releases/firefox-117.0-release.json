@@ -8,6 +8,26 @@
   "notes": [
     {
       "bug": null,
+      "created": "2023-08-24T19:49:16.987953+00:00",
+      "id": 789719,
+      "is_public": true,
+      "modified": "2023-08-24T19:49:16.987774+00:00",
+      "note": "To avoid undesirable outcomes on sites which specify their own behavior when pressing shift+right-click, Firefox now has a `dom.event.contextmenu.shift_suppresses_event` preference to prevent the context menu from appearing.",
+      "sort_num": 10,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2023-08-24T19:48:20.307955+00:00",
+      "id": 789717,
+      "is_public": true,
+      "modified": "2023-08-24T19:48:20.307780+00:00",
+      "note": "Firefox no longer shows its own screen sharing indicator on Wayland desktop environments. The system default sharing indicator will be used instead.",
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
+      "bug": null,
       "created": "2023-08-24T19:38:19.894331+00:00",
       "id": 789713,
       "is_public": true,
@@ -45,6 +65,46 @@
       "note": "Firefox now supports the [`math-style`][1] and [`math-depth`][2] CSS properties and the [`font-size: math`][3] value.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/CSS/math-style\r\n  [2]: https://developer.mozilla.org/docs/Web/CSS/math-depth\r\n  [3]: https://developer.mozilla.org/docs/Web/CSS/font-size",
       "sort_num": 10,
       "tag": "HTML5"
+    },
+    {
+      "bug": null,
+      "created": "2023-08-24T19:46:04.861989+00:00",
+      "id": 789715,
+      "is_public": true,
+      "modified": "2023-08-24T19:46:04.860408+00:00",
+      "note": "Web compatibility inspection has been enhanced with our new CSS compatibility tooltip in the Developer Tools Inspector. An icon is now displayed next to properties that could lead to web compatibility issues. When hovered, the tooltip indicates which browsers are not supported and displays a link to the MDN page for the property so the user can learn more about it.\r\n![Screenshot showing CSS compatibility icon for a property shown in the Inspector][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/media/img/firefox/releasenotes/note-images/117_devtools_compat.png'",
+      "sort_num": 20,
+      "tag": "Developer"
+    },
+    {
+      "bug": null,
+      "created": "2023-08-24T19:43:46.902492+00:00",
+      "id": 789714,
+      "is_public": true,
+      "modified": "2023-08-24T19:43:46.902164+00:00",
+      "note": "`console.clear()` no longer clears the Console output if the \"Enable persistent logs\" option is enabled.",
+      "sort_num": 10,
+      "tag": "Developer"
+    },
+    {
+      "bug": null,
+      "created": "2023-08-24T19:47:55.173788+00:00",
+      "id": 789716,
+      "is_public": true,
+      "modified": "2023-08-24T19:47:55.173591+00:00",
+      "note": "You can find information about policy updates and enterprise specific bug fixes in the [Firefox for Enterprise 117 Release Notes][1].\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/firefox-enterprise-117-release-notes",
+      "sort_num": 0,
+      "tag": "Enterprise"
+    },
+    {
+      "bug": null,
+      "created": "2023-08-24T19:48:43.074184+00:00",
+      "id": 789718,
+      "is_public": true,
+      "modified": "2023-08-24T19:48:43.073868+00:00",
+      "note": "YouTube video lists now scroll correctly when navigating with a screen reader.",
+      "sort_num": 10,
+      "tag": "Fixed"
     },
     {
       "bug": null,
