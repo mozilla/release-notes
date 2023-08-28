@@ -47,6 +47,16 @@
       "tag": "New"
     },
     {
+      "bug": 1813788,
+      "created": "2023-08-27T14:35:53.534699+00:00",
+      "id": 789729,
+      "is_public": true,
+      "modified": "2023-08-28T20:01:44.585657+00:00",
+      "note": "On Firefox for Android, the clearing of site data was moved from \"Browsing history and site data\" to the \"Cookies and site data\" menu item.",
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
       "bug": 1814589,
       "created": "2023-08-04T14:00:20.052515+00:00",
       "id": 789695,
