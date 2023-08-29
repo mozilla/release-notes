@@ -41,8 +41,8 @@
       "created": "2023-08-17T14:12:43.812309+00:00",
       "id": 789703,
       "is_public": true,
-      "modified": "2023-08-23T19:21:50.394248+00:00",
-      "note": "On Android, printing page content from the browser or share menu is now available.",
+      "modified": "2023-08-29T14:25:11.813677+00:00",
+      "note": "On Firefox for Android, printing page content from the browser or share menu is now available.",
       "sort_num": 0,
       "tag": "New"
     },
@@ -51,8 +51,8 @@
       "created": "2023-08-17T14:16:07.661640+00:00",
       "id": 789704,
       "is_public": true,
-      "modified": "2023-08-23T19:21:41.128691+00:00",
-      "note": "On Android, pinned user shortcuts now open in an existing tab if it already has the same URL.",
+      "modified": "2023-08-29T14:25:18.597487+00:00",
+      "note": "On Firefox for Android, pinned user shortcuts now open in an existing tab if it already has the same URL.",
       "sort_num": 0,
       "tag": "New"
     },
@@ -73,6 +73,16 @@
       "is_public": true,
       "modified": "2023-08-26T02:09:05.308391+00:00",
       "note": "Starting with Firefox 118, Nightly now supports UI setting that enables the user to opt-in into [GPC][1], a privacy signal that tells the websites that the user doesn\u2019t want to be tracked and doesn\u2019t want their data to be sold.\r\n\r\n\r\n  [1]: https://globalprivacycontrol.org/",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1849903,
+      "created": "2023-08-29T14:29:43.964886+00:00",
+      "id": 789730,
+      "is_public": true,
+      "modified": "2023-08-29T14:29:43.964701+00:00",
+      "note": "The visibility of fonts to websites has been restricted to system fonts and language pack fonts to mitigate font fingerprinting in Private Browsing windows.",
       "sort_num": 0,
       "tag": "New"
     },
