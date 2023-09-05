@@ -47,6 +47,16 @@
       "tag": "New"
     },
     {
+      "bug": 1757463,
+      "created": "2023-09-05T13:06:33.831585+00:00",
+      "id": 789732,
+      "is_public": true,
+      "modified": "2023-09-05T13:06:33.831403+00:00",
+      "note": "If the relevant Windows [mouse properties][1] system setting is enabled, the mouse pointer will disappear while typing.\r\n\r\n[1]: https://support.microsoft.com/windows/change-mouse-settings-e81356a4-0e74-fe38-7d01-9d79fbf8712b",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1840818,
       "created": "2023-07-07T14:31:16.952075+00:00",
       "id": 789650,
