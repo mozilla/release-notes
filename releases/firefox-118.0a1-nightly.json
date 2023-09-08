@@ -11,8 +11,8 @@
       "created": "2023-06-30T17:56:24.465950+00:00",
       "id": 789643,
       "is_public": true,
-      "modified": "2023-08-17T18:21:10.964788+00:00",
-      "note": "<!-- Nightly Only --> Starting with Firefox 115, Nightly supports a new \u201ccopy clean\u201d link context menu action which removes any superfluous query parameters, including tracking parameters.",
+      "modified": "2023-09-08T19:49:17.745917+00:00",
+      "note": "<!-- Nightly Only --> Starting with Firefox 115, Nightly supports a new \u201cCopy Link Without Site Tracking\u201d context menu action which prevents disclosure of identifying or sensitive information by removing superfluous query and tracking parameters from the copied links.",
       "sort_num": 0,
       "tag": "New"
     },
