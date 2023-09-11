@@ -17,6 +17,26 @@
       "tag": ""
     },
     {
+      "bug": 1850828,
+      "created": "2023-09-11T19:15:58.732859+00:00",
+      "id": 789740,
+      "is_public": true,
+      "modified": "2023-09-11T19:15:58.732546+00:00",
+      "note": "Fixed a bug causing links opened from outside Firefox to not open on macOS ([bug 1850828][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1850828",
+      "sort_num": 70,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1851373,
+      "created": "2023-09-11T19:13:25.386252+00:00",
+      "id": 789739,
+      "is_public": true,
+      "modified": "2023-09-11T19:13:25.385999+00:00",
+      "note": "Fixed a bug causing extensions using an event page for long-running tasks to be terminated while running, causing unexpected behavior changes ([bug 1851373][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1851373",
+      "sort_num": 60,
+      "tag": "Fixed"
+    },
+    {
       "bug": 1850954,
       "created": "2023-09-11T19:10:21.901531+00:00",
       "id": 789738,
