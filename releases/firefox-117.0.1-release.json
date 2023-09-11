@@ -41,8 +41,8 @@
       "created": "2023-09-11T19:10:21.901531+00:00",
       "id": 789738,
       "is_public": true,
-      "modified": "2023-09-11T19:10:45.855936+00:00",
-      "note": "Temporarily reverted an intentional behavior change preventing Javascript from changing `URL.protocol` ([bug 1850954][1]). **NOTE:** This change is expected to ship in a later Firefox release alongside other web browsers and sites are encouraged to find alternate ways to change the protocol if needed.\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1850954",
+      "modified": "2023-09-11T21:10:18.290387+00:00",
+      "note": "Temporarily reverted an intentional behavior change preventing Javascript from changing `URL.protocol` ([bug 1850954][1]).\r\n**NOTE:** This change is expected to ship in a later Firefox release alongside other web browsers and sites are encouraged to find alternate ways to change the protocol if needed.\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1850954",
       "sort_num": 50,
       "tag": "Fixed"
     },
