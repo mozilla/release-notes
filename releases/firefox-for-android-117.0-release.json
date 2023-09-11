@@ -21,7 +21,7 @@
       "created": "2023-08-24T19:38:19.894331+00:00",
       "id": 789713,
       "is_public": true,
-      "modified": "2023-08-24T19:57:03.483800+00:00",
+      "modified": "2023-09-11T18:52:54.464281+00:00",
       "note": "Support for improved CSS nesting is now enabled by default.",
       "sort_num": 40,
       "tag": "HTML5"
@@ -31,7 +31,7 @@
       "created": "2023-08-24T19:36:17.967995+00:00",
       "id": 789711,
       "is_public": true,
-      "modified": "2023-08-24T19:57:23.107396+00:00",
+      "modified": "2023-09-11T18:52:53.429815+00:00",
       "note": "[`ReadableStream.from`][1] is now supported, allowing creation of a ReadableStream from an (async) iterable.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/API/ReadableStream/from_static",
       "sort_num": 20,
       "tag": "HTML5"
@@ -41,7 +41,7 @@
       "created": "2023-08-24T19:35:28.157854+00:00",
       "id": 789710,
       "is_public": true,
-      "modified": "2023-08-24T19:57:32.758058+00:00",
+      "modified": "2023-09-11T18:52:57.757464+00:00",
       "note": "Firefox now supports the [`math-style`][1] and [`math-depth`][2] CSS properties and the [`font-size: math`][3] value.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/CSS/math-style\r\n  [2]: https://developer.mozilla.org/docs/Web/CSS/math-depth\r\n  [3]: https://developer.mozilla.org/docs/Web/CSS/font-size",
       "sort_num": 10,
       "tag": "HTML5"
@@ -91,7 +91,7 @@
       "created": "2023-08-24T19:22:21.031570+00:00",
       "id": 789708,
       "is_public": true,
-      "modified": "2023-08-24T19:23:29.796236+00:00",
+      "modified": "2023-09-11T18:52:52.447336+00:00",
       "note": "Various [security][1] fixes.\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/mfsa2023-34/",
       "sort_num": 0,
       "tag": "Fixed"
