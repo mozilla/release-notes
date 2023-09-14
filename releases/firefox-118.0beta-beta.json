@@ -75,6 +75,16 @@
       "note": "10 new CSS math functions are now supported: round, mod, rem, pow, sqrt, hypot, log, exp, abs, sign.",
       "sort_num": 0,
       "tag": "HTML5"
+    },
+    {
+      "bug": 1851143,
+      "created": "2023-09-14T11:20:57.204994+00:00",
+      "id": 789744,
+      "is_public": true,
+      "modified": "2023-09-14T11:20:57.204657+00:00",
+      "note": "[OpaqueResponseBlocking][1] is now enabled by default.\r\n\r\n\r\n  [1]: https://github.com/annevk/orb",
+      "sort_num": 0,
+      "tag": "HTML5"
     }
   ],
   "product": "Firefox",
