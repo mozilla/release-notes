@@ -41,7 +41,7 @@
       "created": "2023-08-30T13:19:16.627246+00:00",
       "id": 789731,
       "is_public": true,
-      "modified": "2023-08-30T13:19:16.627031+00:00",
+      "modified": "2023-09-18T18:37:00.556046+00:00",
       "note": "[Firefox View][1] now includes more content:\r\n\r\n* You can now see all open tabs from all windows. \r\n* If you sync open tabs then you will now see all tabs from other devices. \r\n* Browsing history is now listed and you can sort by date or by site.\r\n* As before, recently closed tabs are also listed in Firefox View.\r\n\r\n[1]: https://support.mozilla.org/en-US/kb/how-set-tab-pickup-firefox-view",
       "sort_num": 0,
       "tag": "New"
@@ -51,18 +51,8 @@
       "created": "2023-09-05T13:06:33.831585+00:00",
       "id": 789732,
       "is_public": true,
-      "modified": "2023-09-05T13:06:33.831403+00:00",
+      "modified": "2023-09-18T18:36:55.637630+00:00",
       "note": "If the relevant Windows [mouse properties][1] system setting is enabled, the mouse pointer will disappear while typing.\r\n\r\n[1]: https://support.microsoft.com/windows/change-mouse-settings-e81356a4-0e74-fe38-7d01-9d79fbf8712b",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
-      "bug": 1853054,
-      "created": "2023-09-18T12:45:15.502627+00:00",
-      "id": 789745,
-      "is_public": true,
-      "modified": "2023-09-18T12:45:15.502298+00:00",
-      "note": "Firefox is now available in the Santali (sat) language.",
       "sort_num": 0,
       "tag": "New"
     },
@@ -81,7 +71,7 @@
       "created": "2023-09-12T13:47:15.364121+00:00",
       "id": 789743,
       "is_public": true,
-      "modified": "2023-09-12T13:47:15.363923+00:00",
+      "modified": "2023-09-18T18:36:50.124691+00:00",
       "note": "[ARIA reflection][1] for simple attributes and default Accessibility Semantics for [Custom Elements][2] are now supported. Note that this includes boolean, enum, number, and string attributes, but not attributes that reference other elements.\r\n\r\n[1]: https://developer.mozilla.org/docs/Web/API/Element#instance_properties_included_from_aria\r\n[2]: https://developer.mozilla.org/docs/Web/API/ElementInternals#instance_properties_included_from_aria",
       "sort_num": 0,
       "tag": "HTML5"
