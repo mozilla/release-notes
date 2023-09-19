@@ -11,7 +11,7 @@
       "created": "2023-08-24T19:52:56.309876+00:00",
       "id": 789721,
       "is_public": true,
-      "modified": "2023-09-11T18:52:49.390602+00:00",
+      "modified": "2023-09-19T10:14:50.627563+00:00",
       "note": "Support for credit card autofill has been extended to users running Firefox in the IT, ES, AT, BE, and PL locales.",
       "sort_num": 30,
       "tag": "New"
@@ -21,7 +21,7 @@
       "created": "2023-08-24T19:52:27.966044+00:00",
       "id": 789720,
       "is_public": true,
-      "modified": "2023-09-11T18:52:50.251895+00:00",
+      "modified": "2023-09-19T10:14:51.628279+00:00",
       "note": "macOS users can now control the tabability of controls and links via about:preferences.\r\n<img src=\"https://www.mozilla.org/media/img/firefox/releasenotes/note-images/117_macos_tab_key.png\" alt=\"Screenshot of new macOS tabability option in about:preferences\" width=\"482\" height=\"47\">",
       "sort_num": 20,
       "tag": "New"
@@ -31,7 +31,7 @@
       "created": "2023-08-24T19:49:16.987953+00:00",
       "id": 789719,
       "is_public": true,
-      "modified": "2023-09-11T18:52:48.078603+00:00",
+      "modified": "2023-09-19T10:14:52.256000+00:00",
       "note": "To avoid undesirable outcomes on sites which specify their own behavior when pressing shift+right-click, Firefox now has a `dom.event.contextmenu.shift_suppresses_event` preference to prevent the context menu from appearing.",
       "sort_num": 10,
       "tag": "New"
@@ -41,7 +41,7 @@
       "created": "2023-08-24T19:48:20.307955+00:00",
       "id": 789717,
       "is_public": true,
-      "modified": "2023-09-11T18:52:55.511476+00:00",
+      "modified": "2023-09-19T10:14:53.756129+00:00",
       "note": "Firefox no longer shows its own screen sharing indicator on Wayland desktop environments. The system default sharing indicator will be used instead.",
       "sort_num": 0,
       "tag": "Changed"
@@ -51,7 +51,7 @@
       "created": "2023-08-24T19:38:19.894331+00:00",
       "id": 789713,
       "is_public": true,
-      "modified": "2023-09-11T18:52:54.464281+00:00",
+      "modified": "2023-09-19T10:15:37.298073+00:00",
       "note": "Support for improved CSS nesting is now enabled by default.",
       "sort_num": 40,
       "tag": "HTML5"
@@ -61,7 +61,7 @@
       "created": "2023-08-24T19:36:49.824921+00:00",
       "id": 789712,
       "is_public": true,
-      "modified": "2023-09-11T18:52:59.052176+00:00",
+      "modified": "2023-09-19T10:14:58.248186+00:00",
       "note": "Firefox now supports `RTCRtpScriptTransform`.",
       "sort_num": 30,
       "tag": "HTML5"
@@ -71,7 +71,7 @@
       "created": "2023-08-24T19:36:17.967995+00:00",
       "id": 789711,
       "is_public": true,
-      "modified": "2023-09-11T18:52:53.429815+00:00",
+      "modified": "2023-09-19T10:15:37.919003+00:00",
       "note": "[`ReadableStream.from`][1] is now supported, allowing creation of a ReadableStream from an (async) iterable.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/API/ReadableStream/from_static",
       "sort_num": 20,
       "tag": "HTML5"
@@ -81,7 +81,7 @@
       "created": "2023-08-24T19:35:28.157854+00:00",
       "id": 789710,
       "is_public": true,
-      "modified": "2023-09-11T18:52:57.757464+00:00",
+      "modified": "2023-09-19T10:15:38.594023+00:00",
       "note": "Firefox now supports the [`math-style`][1] and [`math-depth`][2] CSS properties and the [`font-size: math`][3] value.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/CSS/math-style\r\n  [2]: https://developer.mozilla.org/docs/Web/CSS/math-depth\r\n  [3]: https://developer.mozilla.org/docs/Web/CSS/font-size",
       "sort_num": 10,
       "tag": "HTML5"
@@ -91,7 +91,7 @@
       "created": "2023-08-24T19:46:04.861989+00:00",
       "id": 789715,
       "is_public": true,
-      "modified": "2023-09-11T18:52:46.689377+00:00",
+      "modified": "2023-09-19T10:14:55.131378+00:00",
       "note": "Web compatibility inspection has been enhanced with our new CSS compatibility tooltip in the Developer Tools Inspector. An icon is now displayed next to properties that could lead to web compatibility issues. When hovered, the tooltip indicates which browsers are not supported and displays a link to the MDN page for the property so the user can learn more about it.\r\n<img src=\"https://www.mozilla.org/media/img/firefox/releasenotes/note-images/117_devtools_compat.png\" alt=\"Screenshot showing CSS compatibility icon for a property shown in the Inspector\" width=\"350\" height=\"195\">",
       "sort_num": 20,
       "tag": "Developer"
@@ -101,7 +101,7 @@
       "created": "2023-08-24T19:43:46.902492+00:00",
       "id": 789714,
       "is_public": true,
-      "modified": "2023-09-11T18:52:45.595353+00:00",
+      "modified": "2023-09-19T10:14:56.721784+00:00",
       "note": "`console.clear()` no longer clears the Console output if the \"Enable persistent logs\" option is enabled.",
       "sort_num": 10,
       "tag": "Developer"
@@ -111,7 +111,7 @@
       "created": "2023-08-24T19:47:55.173788+00:00",
       "id": 789716,
       "is_public": true,
-      "modified": "2023-09-11T18:52:56.524674+00:00",
+      "modified": "2023-09-19T10:14:54.417210+00:00",
       "note": "You can find information about policy updates and enterprise specific bug fixes in the [Firefox for Enterprise 117 Release Notes][1].\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/firefox-enterprise-117-release-notes",
       "sort_num": 0,
       "tag": "Enterprise"
@@ -121,7 +121,7 @@
       "created": "2023-08-24T19:48:43.074184+00:00",
       "id": 789718,
       "is_public": true,
-      "modified": "2023-09-11T18:52:51.230220+00:00",
+      "modified": "2023-09-19T10:14:53.110168+00:00",
       "note": "YouTube video lists now scroll correctly when navigating with a screen reader.",
       "sort_num": 10,
       "tag": "Fixed"
@@ -131,7 +131,7 @@
       "created": "2023-08-24T19:22:21.031570+00:00",
       "id": 789708,
       "is_public": true,
-      "modified": "2023-09-11T18:52:52.447336+00:00",
+      "modified": "2023-09-19T10:15:40.092558+00:00",
       "note": "Various [security][1] fixes.\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/mfsa2023-34/",
       "sort_num": 0,
       "tag": "Fixed"
@@ -141,7 +141,7 @@
       "created": "2023-08-24T19:25:05.694589+00:00",
       "id": 789709,
       "is_public": true,
-      "modified": "2023-09-11T18:52:44.591970+00:00",
+      "modified": "2023-09-19T10:15:01.960183+00:00",
       "note": "With the release of Firefox 117, we are pleased to welcome the developers who contributed their first code change to Firefox in this release, 9 of whom were brand new volunteers! Please join us in thanking each of these diligent and enthusiastic individuals, and take a look at their contributions:\r\n\r\n* Cassio Neri: <a href=\"https://bugzilla.mozilla.org/1828326\">1828326</a>\r\n* David Turner: <a href=\"https://bugzilla.mozilla.org/1836063\">1836063</a>\r\n* Devesh Bisen: <a href=\"https://bugzilla.mozilla.org/1840583\">1840583</a>, <a href=\"https://bugzilla.mozilla.org/1841131\">1841131</a>\r\n* Lin Runze: <a href=\"https://bugzilla.mozilla.org/1842131\">1842131</a>\r\n* Logan Rosen [:Logan]: <a href=\"https://bugzilla.mozilla.org/1692849\">1692849</a>, <a href=\"https://bugzilla.mozilla.org/1843815\">1843815</a>\r\n* ren: <a href=\"https://bugzilla.mozilla.org/1753033\">1753033</a>, <a href=\"https://bugzilla.mozilla.org/1842971\">1842971</a>, <a href=\"https://bugzilla.mozilla.org/1844492\">1844492</a>\r\n* Vinny Diehl: <a href=\"https://bugzilla.mozilla.org/1262782\">1262782</a>, <a href=\"https://bugzilla.mozilla.org/1707974\">1707974</a>\r\n* Willy R. Vasquez: <a href=\"https://bugzilla.mozilla.org/1829765\">1829765</a>, <a href=\"https://bugzilla.mozilla.org/1843418\">1843418</a>, <a href=\"https://bugzilla.mozilla.org/1843419\">1843419</a>, <a href=\"https://bugzilla.mozilla.org/1845186\">1845186</a>, <a href=\"https://bugzilla.mozilla.org/1845798\">1845798</a>\r\n* Xi Ruoyao: <a href=\"https://bugzilla.mozilla.org/1841040\">1841040</a>",
       "sort_num": 0,
       "tag": "Community"
