@@ -5,7 +5,18 @@
   "created": "2023-09-19T10:17:00.247921+00:00",
   "is_public": false,
   "modified": "2023-09-19T10:17:16.498925+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": null,
+      "created": "2023-09-22T15:09:01.125154+00:00",
+      "id": 789756,
+      "is_public": true,
+      "modified": "2023-09-22T15:09:01.124966+00:00",
+      "note": "Various [security fixes][1] and other quality improvements.\r\n\r\n\r\n  [1]: https://www.mozilla.org/en-US/security/advisories/mfsa2023-42/",
+      "sort_num": 0,
+      "tag": ""
+    }
+  ],
   "product": "Firefox Extended Support Release",
   "release_date": "2023-09-26",
   "slug": "firefox-115.3.0-esr",

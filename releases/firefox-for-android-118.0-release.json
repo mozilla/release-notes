@@ -5,7 +5,38 @@
   "created": "2023-09-19T10:15:19.465452+00:00",
   "is_public": false,
   "modified": "2023-09-19T10:15:54.628706+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": null,
+      "created": "2023-09-22T15:11:45.364350+00:00",
+      "id": 789757,
+      "is_public": true,
+      "modified": "2023-09-22T15:11:45.364177+00:00",
+      "note": "Printing page content from the browser or share menu is now available.",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2023-09-22T15:12:05.695134+00:00",
+      "id": 789758,
+      "is_public": true,
+      "modified": "2023-09-22T15:12:05.694951+00:00",
+      "note": "Pinned user shortcuts now open in an existing tab if it already has the same URL.",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2023-09-22T15:12:24.773182+00:00",
+      "id": 789759,
+      "is_public": true,
+      "modified": "2023-09-22T15:12:24.773002+00:00",
+      "note": "The clearing of site data was moved from \"Browsing history and site data\" to the \"Cookies and site data\" menu item.",
+      "sort_num": 0,
+      "tag": "Changed"
+    }
+  ],
   "product": "Firefox for Android",
   "release_date": "2023-09-26",
   "slug": "firefox-for-android-118.0-release",
