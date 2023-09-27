@@ -57,6 +57,16 @@
       "tag": "New"
     },
     {
+      "bug": 1841104,
+      "created": "2023-09-27T16:11:21.413823+00:00",
+      "id": 789765,
+      "is_public": true,
+      "modified": "2023-09-27T16:11:21.413592+00:00",
+      "note": "The visibility of fonts to websites has been restricted to system fonts and language pack fonts in ETP strict mode to mitigate font fingerprinting.",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1785412,
       "created": "2023-09-12T13:47:15.364121+00:00",
       "id": 789743,
