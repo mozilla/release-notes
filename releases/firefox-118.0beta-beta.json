@@ -85,6 +85,16 @@
       "note": "[OpaqueResponseBlocking][1] is now enabled by default.\r\n\r\n\r\n  [1]: https://github.com/annevk/orb",
       "sort_num": 0,
       "tag": "HTML5"
+    },
+    {
+      "bug": 1824121,
+      "created": "2023-09-27T13:31:09.210012+00:00",
+      "id": 789763,
+      "is_public": true,
+      "modified": "2023-09-27T13:31:27.395431+00:00",
+      "note": "The [`<search>`][1] element is now supported. The [`<search>`][1] element is a group element that serves to contain all the elements used in a search or filtering operation.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/search",
+      "sort_num": 0,
+      "tag": "Developer"
     }
   ],
   "product": "Firefox",
