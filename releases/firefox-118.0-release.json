@@ -11,7 +11,7 @@
       "created": "2023-09-22T13:07:46.733530+00:00",
       "id": 789750,
       "is_public": true,
-      "modified": "2023-09-27T15:09:32.651784+00:00",
+      "modified": "2023-09-28T01:57:03.113770+00:00",
       "note": "Automated translation of web content is now available to Firefox users! Unlike cloud-based alternatives, translation is done locally in Firefox, so that the text being translated does not leave your machine. Many thanks to the various partners of the EU R&D [Bergamot][1] project.\r\n\r\n\r\n  [1]: https://blog.mozilla.org/en/mozilla/local-translation-add-on-project-bergamot/",
       "sort_num": 0,
       "tag": "New"
@@ -21,7 +21,7 @@
       "created": "2023-09-22T13:08:37.178389+00:00",
       "id": 789751,
       "is_public": true,
-      "modified": "2023-09-22T13:08:37.178203+00:00",
+      "modified": "2023-09-28T01:57:02.085083+00:00",
       "note": "Web Audio in Firefox now uses the FDLIBM math library on all systems to improve anonymity with [Fingerprint Protection][1].\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/firefox-protection-against-fingerprinting",
       "sort_num": 0,
       "tag": "New"
@@ -31,7 +31,7 @@
       "created": "2023-09-22T13:09:39.269030+00:00",
       "id": 789752,
       "is_public": true,
-      "modified": "2023-09-22T13:09:39.268847+00:00",
+      "modified": "2023-09-28T01:57:01.026236+00:00",
       "note": "The visibility of fonts to websites has been restricted to system fonts and language pack fonts to mitigate font fingerprinting in Private Browsing windows.",
       "sort_num": 0,
       "tag": "New"
@@ -41,7 +41,7 @@
       "created": "2023-09-22T13:10:11.668986+00:00",
       "id": 789753,
       "is_public": true,
-      "modified": "2023-09-22T13:10:28.993814+00:00",
+      "modified": "2023-09-28T01:57:00.514184+00:00",
       "note": "Video Effects and background blur are now available to Firefox users on Google Meet! (Note: These effects have also been released retroactively to support Firefox versions back to Firefox 115.)",
       "sort_num": 0,
       "tag": "New"
@@ -51,7 +51,7 @@
       "created": "2023-09-23T15:24:49.429380+00:00",
       "id": 789762,
       "is_public": true,
-      "modified": "2023-09-23T15:24:49.429197+00:00",
+      "modified": "2023-09-28T01:57:05.796184+00:00",
       "note": "Firefox Suggest users (US-only at this time) will now be able to see browser add-on suggestions right in the address bar based on their keywords.",
       "sort_num": 0,
       "tag": "New"
@@ -61,7 +61,7 @@
       "created": "2023-08-04T14:00:20.052515+00:00",
       "id": 789695,
       "is_public": true,
-      "modified": "2023-09-22T13:12:08.533353+00:00",
+      "modified": "2023-09-28T01:56:56.668299+00:00",
       "note": "10 new CSS math functions are now supported: round, mod, rem, pow, sqrt, hypot, log, exp, abs, sign.",
       "sort_num": 0,
       "tag": "HTML5"
@@ -71,7 +71,7 @@
       "created": "2023-09-14T11:20:57.204994+00:00",
       "id": 789744,
       "is_public": true,
-      "modified": "2023-09-22T13:12:44.890144+00:00",
+      "modified": "2023-09-28T01:57:04.014015+00:00",
       "note": "[OpaqueResponseBlocking][1] is now enabled by default.\r\n\r\n\r\n  [1]: https://github.com/annevk/orb",
       "sort_num": 0,
       "tag": "HTML5"
@@ -81,7 +81,7 @@
       "created": "2023-09-27T13:32:33.067079+00:00",
       "id": 789764,
       "is_public": true,
-      "modified": "2023-09-27T15:11:33.904847+00:00",
+      "modified": "2023-09-28T01:57:04.824778+00:00",
       "note": "The [`<search>`][1] element is now supported. The [`<search>`][1] element is a group element that serves to contain all the elements used in a search or filtering operation.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/search",
       "sort_num": 0,
       "tag": "HTML5"
@@ -91,7 +91,7 @@
       "created": "2023-09-22T13:11:30.131411+00:00",
       "id": 789754,
       "is_public": true,
-      "modified": "2023-09-22T13:11:30.131232+00:00",
+      "modified": "2023-09-28T01:56:59.520801+00:00",
       "note": "You can find information about policy updates and enterprise specific bug fixes in the [Firefox for Enterprise 118 Release Notes][1].\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/firefox-enterprise-118-release-notes",
       "sort_num": 0,
       "tag": "Enterprise"
@@ -101,7 +101,7 @@
       "created": "2023-09-22T15:21:14.918918+00:00",
       "id": 789761,
       "is_public": true,
-      "modified": "2023-09-22T15:21:14.918603+00:00",
+      "modified": "2023-09-28T01:56:38.965324+00:00",
       "note": "Various [security][1] fixes.\r\n\r\n\r\n  [1]: https://www.mozilla.org/en-US/security/advisories/mfsa2023-41/",
       "sort_num": 0,
       "tag": "Fixed"
@@ -111,7 +111,7 @@
       "created": "2023-09-22T13:28:48.893335+00:00",
       "id": 789755,
       "is_public": true,
-      "modified": "2023-09-22T13:28:48.893152+00:00",
+      "modified": "2023-09-28T01:56:58.413601+00:00",
       "note": "With the release of Firefox 118, we are pleased to welcome the developers who contributed their first code change to Firefox in this release, 8 of whom were brand new volunteers! Please join us in thanking each of these diligent and enthusiastic individuals, and take a look at their contributions:\r\n\r\n* Andrew de Rozario: <a href=\"https://bugzilla.mozilla.org/1791983\">1791983</a>\r\n* jackyzy823: <a href=\"https://bugzilla.mozilla.org/1847513\">1847513</a>\r\n* Janne He\u00df: <a href=\"https://bugzilla.mozilla.org/1460986\">1460986</a>\r\n* Krishna Ravishankar: <a href=\"https://bugzilla.mozilla.org/1578994\">1578994</a>\r\n* Rayyan: <a href=\"https://bugzilla.mozilla.org/1844745\">1844745</a>\r\n* Shauryadubey123: <a href=\"https://bugzilla.mozilla.org/1819352\">1819352</a>\r\n* Simon Thoby: <a href=\"https://bugzilla.mozilla.org/1832576\">1832576</a>, <a href=\"https://bugzilla.mozilla.org/1847763\">1847763</a>\r\n* wujiahuan: <a href=\"https://bugzilla.mozilla.org/1782159\">1782159</a>",
       "sort_num": 0,
       "tag": "Community"
