@@ -111,8 +111,8 @@
       "created": "2023-09-29T19:57:48.980693+00:00",
       "id": 789772,
       "is_public": true,
-      "modified": "2023-09-29T19:57:48.980512+00:00",
-      "note": "Grouping of items in an array (and iterables) is now easier by using the methods `Object.groupBy` or `Map.groupBy`.",
+      "modified": "2023-09-29T20:02:32.114695+00:00",
+      "note": "Grouping of items in an array (and iterables) is now easier by using the methods [`Object.groupBy()`][1] or [`Map.groupBy()`][2].\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/groupBy\r\n  [2]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map/groupBy",
       "sort_num": 0,
       "tag": "HTML5"
     }
