@@ -77,6 +77,16 @@
       "tag": "New"
     },
     {
+      "bug": 1852094,
+      "created": "2023-09-29T03:19:28.592755+00:00",
+      "id": 789771,
+      "is_public": true,
+      "modified": "2023-09-29T03:19:28.592577+00:00",
+      "note": "Recently closed tabs now persist between sessions that don't have automatic session restore enabled. Manually restoring a previous session will continue to reopen any previously open tabs or windows.",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1785412,
       "created": "2023-09-12T13:47:15.364121+00:00",
       "id": 789743,
