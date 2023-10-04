@@ -87,6 +87,16 @@
       "tag": "New"
     },
     {
+      "bug": 1843054,
+      "created": "2023-10-04T18:36:33.515852+00:00",
+      "id": 789775,
+      "is_public": true,
+      "modified": "2023-10-04T18:36:33.515667+00:00",
+      "note": "Firefox now supports editing PDFs by adding images, in addition to adding text and drawing. The ability to add Alt Text is also supported while adding images to a PDF document.",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1785412,
       "created": "2023-09-12T13:47:15.364121+00:00",
       "id": 789743,
@@ -113,6 +123,16 @@
       "is_public": true,
       "modified": "2023-09-29T20:02:32.114695+00:00",
       "note": "Grouping of items in an array (and iterables) is now easier by using the methods [`Object.groupBy()`][1] or [`Map.groupBy()`][2].\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/groupBy\r\n  [2]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map/groupBy",
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 1448248,
+      "created": "2023-10-04T18:40:25.473213+00:00",
+      "id": 789776,
+      "is_public": true,
+      "modified": "2023-10-04T18:40:25.473021+00:00",
+      "note": "The CSS [attr()][1] function now supports a fallback parameter (e.g. `attr(foobar, \"Default value\")`).\r\n\r\n[1]:https://developer.mozilla.org/docs/Web/CSS/attr",
       "sort_num": 0,
       "tag": "HTML5"
     }
