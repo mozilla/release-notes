@@ -75,6 +75,16 @@
       "note": "[WebAssembly GC][1] is now enabled by default, which allows new languages, such as [Dart][2] or [Kotlin][3], to run on Firefox. This makes it possible for reference cycles between the guest language and host browser to be collected. \r\n\r\n\r\n  [1]: https://github.com/WebAssembly/gc/blob/main/proposals/gc/Overview.md\r\n  [2]: https://wasmio.tech/sessions/flutter-dart-and-wasm-gc-a-new-model-for-web-applications/\r\n  [3]: https://kotlinlang.org/docs/wasm-overview.html#browser-support",
       "sort_num": 0,
       "tag": "HTML5"
+    },
+    {
+      "bug": 1852837,
+      "created": "2023-10-05T23:47:35.527349+00:00",
+      "id": 789778,
+      "is_public": true,
+      "modified": "2023-10-05T23:49:09.100565+00:00",
+      "note": "Starting with Firefox 120, ULPFE/RED is now on by default for video in Nightly builds. This provides additional protection against packet loss for video during WebRTC calls.",
+      "sort_num": 0,
+      "tag": "HTML5"
     }
   ],
   "product": "Firefox",
