@@ -135,6 +135,16 @@
       "note": "The CSS [attr()][1] function now supports a fallback parameter (e.g. `attr(foobar, \"Default value\")`).\r\n\r\n[1]:https://developer.mozilla.org/docs/Web/CSS/attr",
       "sort_num": 0,
       "tag": "HTML5"
+    },
+    {
+      "bug": 1779404,
+      "created": "2023-10-06T15:47:01.425160+00:00",
+      "id": 789780,
+      "is_public": true,
+      "modified": "2023-10-06T15:47:01.424912+00:00",
+      "note": "Fixed an issue causing unexpected jumps in scroll position on Facebook.",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
