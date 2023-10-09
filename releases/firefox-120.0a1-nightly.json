@@ -95,6 +95,16 @@
       "note": "`lh` and `rlh` units can now be parsed and computed correctly as [lengths][1]. This allows authors to specify lengths in terms of the element's (or the root element's) line height.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/length",
       "sort_num": 0,
       "tag": "HTML5"
+    },
+    {
+      "bug": 1791079,
+      "created": "2023-10-09T13:51:44.786476+00:00",
+      "id": 789781,
+      "is_public": true,
+      "modified": "2023-10-09T13:51:44.786125+00:00",
+      "note": "The [User Activation API][1] has now been added, allowing JavaScript to check if the user currently is or has been active with `navigator.userActivation`.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/UserActivation",
+      "sort_num": 0,
+      "tag": "Developer"
     }
   ],
   "product": "Firefox",
