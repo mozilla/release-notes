@@ -2,36 +2,15 @@
   "bug_list": "",
   "bug_search_url": "",
   "channel": "Release",
-  "created": "2023-09-28T01:56:38.925364+00:00",
-  "is_public": true,
-  "modified": "2023-09-28T12:37:07.976449+00:00",
-  "notes": [
-    {
-      "bug": null,
-      "created": "2023-09-28T01:58:52.383216+00:00",
-      "id": 789767,
-      "is_public": true,
-      "modified": "2023-10-09T20:12:38.666988+00:00",
-      "note": "Reference link to [118.0 release notes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/firefox/118.0/releasenotes/",
-      "sort_num": 0,
-      "tag": ""
-    },
-    {
-      "bug": null,
-      "created": "2023-09-28T03:00:37.114511+00:00",
-      "id": 789769,
-      "is_public": true,
-      "modified": "2023-10-09T20:12:21.648472+00:00",
-      "note": "[Security fix][1].\r\n\r\n\r\n  [1]: https://www.mozilla.org/en-US/security/advisories/mfsa2023-44/",
-      "sort_num": 0,
-      "tag": "Fixed"
-    }
-  ],
+  "created": "2023-10-09T20:11:58.563880+00:00",
+  "is_public": false,
+  "modified": "2023-10-09T20:11:58.563689+00:00",
+  "notes": [],
   "product": "Firefox",
   "release_date": "2023-09-28",
-  "slug": "firefox-118.0.1-release",
+  "slug": "firefox-copy-118.0.1-release",
   "system_requirements": "## Windows\r\n\r\n### Operating Systems (32-bit and 64-bit)\r\n - Windows 10 or later\r\n\r\n### Recommended Hardware\r\n-  1 gigahertz (GHz) or faster compatible processor or System on a Chip (SoC)\r\n-  1GB of RAM / 2GB of RAM for the 64-bit version\r\n-  500MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- macOS 10.15 or later\r\n\r\n### Recommended Hardware\r\n- Macintosh computer with an Intel x86 or Apple silicon processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - glibc 2.17 or higher\r\n    - GTK+ 3.14 or higher\r\n    - libdbus-glib 0.6.0 or higher\r\n    - libglib 2.42 or higher\r\n    - libstdc++ 4.8.1 or higher\r\n    - libxtst 1.2.3 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - DBus 1.0 or higher\r\n    - NetworkManager 0.7 or higher\r\n    - PulseAudio",
   "text": "",
-  "title": "Firefox 118.0.1 Release",
-  "version": "118.0.1"
+  "title": "Firefox copy-118.0.1 Release",
+  "version": "copy-118.0.1"
 }
