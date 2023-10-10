@@ -15,6 +15,66 @@
       "note": "Reference link to [118.0.1 release notes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/firefox/118.0.1/releasenotes/",
       "sort_num": 0,
       "tag": ""
+    },
+    {
+      "bug": 1856145,
+      "created": "2023-10-10T12:29:56.441005+00:00",
+      "id": 789783,
+      "is_public": true,
+      "modified": "2023-10-10T12:39:17.200468+00:00",
+      "note": "Games were not loading on betsoft.com.",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1853727,
+      "created": "2023-10-10T12:31:08.958224+00:00",
+      "id": 789784,
+      "is_public": true,
+      "modified": "2023-10-10T12:39:05.011367+00:00",
+      "note": "Printing issues solved for some SVG images.",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1855650,
+      "created": "2023-10-10T12:32:39.290184+00:00",
+      "id": 789785,
+      "is_public": true,
+      "modified": "2023-10-10T12:38:32.317073+00:00",
+      "note": "CORS XHR with authentication no longer worked.",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1855636,
+      "created": "2023-10-10T12:33:55.051642+00:00",
+      "id": 789786,
+      "is_public": true,
+      "modified": "2023-10-10T12:38:00.827432+00:00",
+      "note": "h264 WebRTC video was not working in some contexts.",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1855307,
+      "created": "2023-10-10T12:35:15.202267+00:00",
+      "id": 789787,
+      "is_public": true,
+      "modified": "2023-10-10T12:37:42.606619+00:00",
+      "note": "Firefox Translations was not working on some pages.",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2023-10-10T12:37:12.482081+00:00",
+      "id": 789788,
+      "is_public": true,
+      "modified": "2023-10-10T12:37:12.481900+00:00",
+      "note": "Stability fixes.",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
