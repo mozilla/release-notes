@@ -7,43 +7,13 @@
   "modified": "2023-10-02T20:56:04.591220+00:00",
   "notes": [
     {
-      "bug": 1830623,
-      "created": "2023-08-26T02:07:13.367341+00:00",
-      "id": 789728,
+      "bug": 1845583,
+      "created": "2023-10-13T03:42:42.862881+00:00",
+      "id": 789791,
       "is_public": true,
-      "modified": "2023-09-29T13:15:44.166971+00:00",
-      "note": "Starting with Firefox 118, Nightly now supports UI setting that enables the user to opt-in into [GPC][1], a privacy signal that tells the websites that the user doesn\u2019t want to be tracked and doesn\u2019t want their data to be sold.\r\n\r\n\r\n  [1]: https://globalprivacycontrol.org/",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
-      "bug": 1772404,
-      "created": "2023-09-27T17:06:29.033784+00:00",
-      "id": 789766,
-      "is_public": true,
-      "modified": "2023-09-27T17:06:29.033435+00:00",
-      "note": "Picture-in-Picture now supports corner snapping on Windows and Linux - just hold `Ctrl` as you move the PiP window.",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
-      "bug": 1848815,
-      "created": "2023-10-02T20:54:14.374527+00:00",
-      "id": 789773,
-      "is_public": true,
-      "modified": "2023-10-02T20:54:14.374332+00:00",
-      "note": "By default, Firefox now uses TLS trust anchors (e.g., certificates) added to the operating system by the user or an administrator. This works on Windows, macOS, and Android, and it can be turned off in the \"Privacy & Security\" section of Firefox settings, under \"Certificates\".",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
-      "bug": 1156659,
-      "created": "2023-10-05T17:28:55.781075+00:00",
-      "id": 789777,
-      "is_public": true,
-      "modified": "2023-10-05T17:28:55.780745+00:00",
-      "note": "Users can now use an added devtools feature to simulate browser tabs to be offline.",
-      "sort_num": 0,
+      "modified": "2023-10-13T03:50:51.642590+00:00",
+      "note": "Keyboard shortcuts are now added for editing and deleting a selected credential.",
+      "sort_num": 50,
       "tag": "New"
     },
     {
@@ -51,8 +21,48 @@
       "created": "2023-10-13T03:38:02.174486+00:00",
       "id": 789790,
       "is_public": true,
-      "modified": "2023-10-13T03:38:02.174260+00:00",
+      "modified": "2023-10-13T03:50:24.791963+00:00",
       "note": "Users on Ubuntu Linux now have the ability to import from Chromium when both are installed as Snap packages.",
+      "sort_num": 40,
+      "tag": "New"
+    },
+    {
+      "bug": 1156659,
+      "created": "2023-10-05T17:28:55.781075+00:00",
+      "id": 789777,
+      "is_public": true,
+      "modified": "2023-10-13T03:50:12.090450+00:00",
+      "note": "Users can now use an added devtools feature to simulate browser tabs to be offline.",
+      "sort_num": 30,
+      "tag": "New"
+    },
+    {
+      "bug": 1772404,
+      "created": "2023-09-27T17:06:29.033784+00:00",
+      "id": 789766,
+      "is_public": true,
+      "modified": "2023-10-13T03:49:48.146295+00:00",
+      "note": "Picture-in-Picture now supports corner snapping on Windows and Linux - just hold `Ctrl` as you move the PiP window.",
+      "sort_num": 20,
+      "tag": "New"
+    },
+    {
+      "bug": 1848815,
+      "created": "2023-10-02T20:54:14.374527+00:00",
+      "id": 789773,
+      "is_public": true,
+      "modified": "2023-10-13T03:49:30.601545+00:00",
+      "note": "By default, Firefox now uses TLS trust anchors (e.g., certificates) added to the operating system by the user or an administrator. This works on Windows, macOS, and Android, and it can be turned off in the \"Privacy & Security\" section of Firefox settings, under \"Certificates\".",
+      "sort_num": 10,
+      "tag": "New"
+    },
+    {
+      "bug": 1830623,
+      "created": "2023-08-26T02:07:13.367341+00:00",
+      "id": 789728,
+      "is_public": true,
+      "modified": "2023-09-29T13:15:44.166971+00:00",
+      "note": "Starting with Firefox 118, Nightly now supports UI setting that enables the user to opt-in into [GPC][1], a privacy signal that tells the websites that the user doesn\u2019t want to be tracked and doesn\u2019t want their data to be sold.\r\n\r\n\r\n  [1]: https://globalprivacycontrol.org/",
       "sort_num": 0,
       "tag": "New"
     },
