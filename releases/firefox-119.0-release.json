@@ -5,7 +5,18 @@
   "created": "2023-10-17T14:00:05.495978+00:00",
   "is_public": false,
   "modified": "2023-10-17T14:00:05.495793+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": null,
+      "created": "2023-10-17T14:06:01.745607+00:00",
+      "id": 789792,
+      "is_public": true,
+      "modified": "2023-10-17T14:06:01.745424+00:00",
+      "note": "With the release of Firefox 115, we are pleased to welcome the developers who contributed their first code change to Firefox in this release, 4 of whom were brand new volunteers! Please join us in thanking each of these diligent and enthusiastic individuals, and take a look at their contributions:\r\n\r\n* Abdullah Farweez): <a href=\"https://bugzilla.mozilla.org/1850608\">1850608</a>\r\n* fanzhuyifan (Yifan Zhu): <a href=\"https://bugzilla.mozilla.org/148624\">148624</a>, <a href=\"https://bugzilla.mozilla.org/1852191\">1852191</a>\r\n* Nagendra: <a href=\"https://bugzilla.mozilla.org/1849316\">1849316</a>\r\n* pommicket: <a href=\"https://bugzilla.mozilla.org/1248186\">1248186</a>",
+      "sort_num": 0,
+      "tag": "Community"
+    }
+  ],
   "product": "Firefox",
   "release_date": "2023-10-24",
   "slug": "firefox-119.0-release",
