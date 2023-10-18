@@ -11,10 +11,40 @@
       "created": "2023-10-18T13:45:37.499513+00:00",
       "id": 789793,
       "is_public": true,
-      "modified": "2023-10-18T13:45:37.499160+00:00",
-      "note": "[Firefox View][1] includes more content. You can now see all open tabs, from all windows. If you sync open tabs, you\u2019ll see all tabs from other devices. Browsing history is now listed and you can sort by date or by site. As before, recently closed tabs are also listed on Firefox View.\r\n\r\nTo access Firefox View, select the file folder icon at the top left of your tab strip.\r\n\r\n[1]: https://support.mozilla.org/kb/how-set-tab-pickup-firefox-view",
+      "modified": "2023-10-18T14:57:22.751893+00:00",
+      "note": "[Firefox View][1] includes more content. You can now see all open tabs, from all windows. If you sync open tabs, you\u2019ll see all tabs from other devices. Browsing history is now listed and you can sort by date or by site. As before, recently closed tabs are also listed on Firefox View.\r\n\r\nTo access Firefox View, select the file folder icon at the top left of your tab strip.\r\n\r\n![screenshot of Firefox View displaying open tabs and tabs from other devices][2]\r\n\r\n[1]: https://support.mozilla.org/kb/how-set-tab-pickup-firefox-view\r\n[2]: https://www.mozilla.org/media/img/firefox/releasenotes/note-images/119_firefox_view.png",
       "sort_num": 0,
       "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2023-10-18T14:59:52.262138+00:00",
+      "id": 789794,
+      "is_public": true,
+      "modified": "2023-10-18T14:59:52.261956+00:00",
+      "note": "Gradually rolling out in Fx119, Firefox now allows you to edit PDFs by adding images and alt text, in addition to text and drawings.\r\n\r\n![screenshot of a photo of a red fox being added to a PDF. The alt text tool is open to the left of the photo, ready for a description to be added.][1]\r\n\r\n[1]: https://www.mozilla.org/media/img/firefox/releasenotes/note-images/119_pdf_alt_text.png",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2023-10-18T15:00:45.721582+00:00",
+      "id": 789795,
+      "is_public": true,
+      "modified": "2023-10-18T15:00:45.721399+00:00",
+      "note": "Recently closed tabs now persist between sessions that don't have automatic session restore enabled. Manually restoring a previous session will continue to reopen any previously open tabs or windows.",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2023-10-18T15:01:01.611124+00:00",
+      "id": 789796,
+      "is_public": true,
+      "modified": "2023-10-18T15:01:01.610937+00:00",
+      "note": "If you're migrating your data from Chrome, Firefox now offers the ability to import some of your extensions as well.",
+      "sort_num": 0,
+      "tag": ""
     },
     {
       "bug": null,
