@@ -51,8 +51,8 @@
       "created": "2023-10-18T15:01:55.277141+00:00",
       "id": 789797,
       "is_public": true,
-      "modified": "2023-10-18T15:01:55.276937+00:00",
-      "note": "As part of [Total Cookie Protection][1], Firefox now supports the partitioning of [Blob URLs][2], this mitigates a potential tracking vector that third-party agents could use to track an individual.\r\n\r\n[1]: https://blog.mozilla.org/mozilla/firefox-androids-new-privacy-feature-total-cookie-protection-stops-companies-from-keeping-tabs-on-your-moves/\r\n[2]: https://developer.mozilla.org/docs/Web/API/Blob",
+      "modified": "2023-10-18T15:45:18.305211+00:00",
+      "note": "As part of [Total Cookie Protection][1], Firefox now supports the partitioning of [Blob URLs][2], this mitigates a potential tracking vector that third-party agents could use to track an individual.\r\n\r\n[1]: https://blog.mozilla.org/mozilla/firefox-rolls-out-total-cookie-protection-by-default-to-all-users-worldwide/\r\n[2]: https://developer.mozilla.org/docs/Web/API/Blob",
       "sort_num": 0,
       "tag": "New"
     },
@@ -91,8 +91,8 @@
       "created": "2023-10-18T15:05:46.681732+00:00",
       "id": 789801,
       "is_public": true,
-      "modified": "2023-10-18T15:05:46.681551+00:00",
-      "note": "Media sniffing is no longer applied to files served as type application/octet-stream, this allows these files to be downloaded instead of attempting playback.",
+      "modified": "2023-10-18T15:42:24.436855+00:00",
+      "note": "Media sniffing is no longer applied to files served as type `application/octet-stream`, this allows these files to be downloaded instead of attempting playback.",
       "sort_num": 0,
       "tag": "New"
     },
