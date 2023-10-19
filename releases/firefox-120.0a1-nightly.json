@@ -127,6 +127,16 @@
       "tag": "Developer"
     },
     {
+      "bug": 1622090,
+      "created": "2023-10-19T13:40:18.687994+00:00",
+      "id": 789821,
+      "is_public": false,
+      "modified": "2023-10-19T16:44:22.282544+00:00",
+      "note": "Starting with Firefox 120, [Lazy loading][1] iframes are now supported (`<iframe loading=lazy>`) for nightly users. Lazy loading iframes are only loaded when visible, so non-critical iframes can load later when needed to speed up initial page loads, reduce initial network usage, etc.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/Performance/Lazy_loading",
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
       "bug": 1858712,
       "created": "2023-10-19T16:41:01.107485+00:00",
       "id": 789822,
