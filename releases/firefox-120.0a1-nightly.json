@@ -121,9 +121,19 @@
       "created": "2023-10-09T13:51:44.786476+00:00",
       "id": 789781,
       "is_public": true,
-      "modified": "2023-10-09T16:39:17.971329+00:00",
+      "modified": "2023-10-19T18:25:06.411636+00:00",
       "note": "The [User Activation API][1] has now been added, allowing JavaScript to check if the user currently is or has been active with the page (clicking, etc) with `navigator.userActivation`.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/UserActivation",
-      "sort_num": 0,
+      "sort_num": 20,
+      "tag": "Developer"
+    },
+    {
+      "bug": 1858712,
+      "created": "2023-10-19T16:41:01.107485+00:00",
+      "id": 789822,
+      "is_public": true,
+      "modified": "2023-10-19T18:24:52.140284+00:00",
+      "note": "Early Hints Preconnect, the informational [status code 103][1], is now enabled. This allows servers to send resource Link headers before the final HTTP response and improves performance on servers using this feature. ([read more)][2]\r\n\r\n\r\n  [1]: http://%20%20%20%20https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/103\r\n  [2]: https://blog.cloudflare.com/early-hints/",
+      "sort_num": 10,
       "tag": "Developer"
     },
     {
@@ -133,16 +143,6 @@
       "is_public": true,
       "modified": "2023-10-19T17:43:32.893957+00:00",
       "note": "Starting with Firefox 120, [Lazy loading][1] iframes are now supported (`<iframe loading=lazy>`) for nightly users. Lazy loading iframes are only loaded when visible, so non-critical iframes can load later when needed to speed up initial page loads, reduce initial network usage, etc.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/Performance/Lazy_loading",
-      "sort_num": 0,
-      "tag": "Developer"
-    },
-    {
-      "bug": 1858712,
-      "created": "2023-10-19T16:41:01.107485+00:00",
-      "id": 789822,
-      "is_public": true,
-      "modified": "2023-10-19T16:41:01.107302+00:00",
-      "note": "Early Hints Preconnect, the informational [status code 103][1], is now enabled. This allows servers to send resource Link headers before the final HTTP response and improves performance on servers using this feature. ([read more)][2]\r\n\r\n\r\n  [1]: http://%20%20%20%20https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/103\r\n  [2]: https://blog.cloudflare.com/early-hints/",
       "sort_num": 0,
       "tag": "Developer"
     }
