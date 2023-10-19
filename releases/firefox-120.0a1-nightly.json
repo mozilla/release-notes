@@ -125,6 +125,16 @@
       "note": "The [User Activation API][1] has now been added, allowing JavaScript to check if the user currently is or has been active with the page (clicking, etc) with `navigator.userActivation`.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/UserActivation",
       "sort_num": 0,
       "tag": "Developer"
+    },
+    {
+      "bug": 1622090,
+      "created": "2023-10-19T13:40:18.687994+00:00",
+      "id": 789821,
+      "is_public": true,
+      "modified": "2023-10-19T13:40:18.687811+00:00",
+      "note": "[Lazy loading][1] iframes are now supported (`<iframe loading=lazy>`). Lazy loading iframes are only loaded when visible, so non-critical iframes can load later when needed to speed up initial page loads, reduce initial network usage, etc.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/Performance/Lazy_loading",
+      "sort_num": 0,
+      "tag": "Developer"
     }
   ],
   "product": "Firefox",
