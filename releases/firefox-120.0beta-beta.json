@@ -5,7 +5,98 @@
   "created": "2023-10-23T15:58:43.917377+00:00",
   "is_public": false,
   "modified": "2023-10-23T15:59:48.656486+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": 1845583,
+      "created": "2023-10-13T03:42:42.862881+00:00",
+      "id": 789791,
+      "is_public": true,
+      "modified": "2023-10-23T16:02:06.792409+00:00",
+      "note": "Keyboard shortcuts have now been added for editing and deleting a selected credential on `about:logins`. For editing - `Alt + enter` (`Option + return` on macOS) and for deleting - `Alt + Backspace` (`Option + Delete` on macOS).",
+      "sort_num": 50,
+      "tag": "New"
+    },
+    {
+      "bug": 1818237,
+      "created": "2023-10-13T03:38:02.174486+00:00",
+      "id": 789790,
+      "is_public": true,
+      "modified": "2023-10-23T16:02:15.864735+00:00",
+      "note": "Users on Ubuntu Linux now have the ability to import from Chromium when both are installed as Snap packages.",
+      "sort_num": 40,
+      "tag": "New"
+    },
+    {
+      "bug": 1156659,
+      "created": "2023-10-05T17:28:55.781075+00:00",
+      "id": 789777,
+      "is_public": true,
+      "modified": "2023-10-23T16:02:55.911932+00:00",
+      "note": "Users can now use an added devtools feature to simulate browser tabs to be offline.",
+      "sort_num": 30,
+      "tag": "New"
+    },
+    {
+      "bug": 1772404,
+      "created": "2023-09-27T17:06:29.033784+00:00",
+      "id": 789766,
+      "is_public": true,
+      "modified": "2023-10-23T16:03:14.427156+00:00",
+      "note": "Picture-in-Picture now supports corner snapping on Windows and Linux - just hold `Ctrl` as you move the PiP window.",
+      "sort_num": 20,
+      "tag": "New"
+    },
+    {
+      "bug": 1848815,
+      "created": "2023-10-02T20:54:14.374527+00:00",
+      "id": 789773,
+      "is_public": true,
+      "modified": "2023-10-23T16:03:08.620307+00:00",
+      "note": "By default, Firefox now uses TLS trust anchors (e.g., certificates) added to the operating system by the user or an administrator. This works on Windows, macOS, and Android, and it can be turned off in the \"Privacy & Security\" section of Firefox settings, under \"Certificates\".",
+      "sort_num": 10,
+      "tag": "New"
+    },
+    {
+      "bug": 1310170,
+      "created": "2023-10-05T23:59:54.843037+00:00",
+      "id": 789779,
+      "is_public": true,
+      "modified": "2023-10-23T16:02:30.511187+00:00",
+      "note": "`lh` and `rlh` units can now be parsed and computed correctly as [lengths][1]. This allows authors to specify lengths in terms of the element's (or the root element's) line height.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/length",
+      "sort_num": 20,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 1845373,
+      "created": "2023-10-03T19:19:55.587187+00:00",
+      "id": 789774,
+      "is_public": true,
+      "modified": "2023-10-23T16:03:02.333797+00:00",
+      "note": "[WebAssembly GC][1] is now enabled by default, which allows new languages, such as [Dart][2] or [Kotlin][3], to run on Firefox. This makes it possible for reference cycles between the guest language and host browser to be collected. \r\n\r\n\r\n  [1]: https://github.com/WebAssembly/gc/blob/main/proposals/gc/Overview.md\r\n  [2]: https://wasmio.tech/sessions/flutter-dart-and-wasm-gc-a-new-model-for-web-applications/\r\n  [3]: https://kotlinlang.org/docs/wasm-overview.html#browser-support",
+      "sort_num": 10,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 1791079,
+      "created": "2023-10-09T13:51:44.786476+00:00",
+      "id": 789781,
+      "is_public": true,
+      "modified": "2023-10-23T16:02:22.939351+00:00",
+      "note": "The [User Activation API][1] has now been added, allowing JavaScript to check if the user currently is or has been active with the page (clicking, etc) with `navigator.userActivation`.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/UserActivation",
+      "sort_num": 20,
+      "tag": "Developer"
+    },
+    {
+      "bug": 1858712,
+      "created": "2023-10-19T16:41:01.107485+00:00",
+      "id": 789822,
+      "is_public": true,
+      "modified": "2023-10-23T16:01:57.955646+00:00",
+      "note": "Early Hints Preconnect, the informational [status code 103][1], is now enabled. This allows servers to send resource Link headers before the final HTTP response and improves performance on servers using this feature. ([read more)][2]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/103\r\n  [2]: https://blog.cloudflare.com/early-hints/",
+      "sort_num": 10,
+      "tag": "Developer"
+    }
+  ],
   "product": "Firefox",
   "release_date": "2023-10-24",
   "slug": "firefox-120.0beta-beta",
