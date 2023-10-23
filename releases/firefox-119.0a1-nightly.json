@@ -51,7 +51,7 @@
       "created": "2023-08-30T13:19:16.627246+00:00",
       "id": 789731,
       "is_public": true,
-      "modified": "2023-09-20T01:35:07.691048+00:00",
+      "modified": "2023-10-23T15:59:28.031366+00:00",
       "note": "[Firefox View][1] now includes more content:\r\n\r\n* You can now see all open tabs from all windows. \r\n* If you sync open tabs then you will now see all tabs from other devices. \r\n* Browsing history is now listed and you can sort by date or by site.\r\n* As before, recently closed tabs are also listed in Firefox View.\r\n\r\n[1]: https://support.mozilla.org/en-US/kb/how-set-tab-pickup-firefox-view",
       "sort_num": 0,
       "tag": "New"
@@ -61,7 +61,7 @@
       "created": "2023-09-05T13:06:33.831585+00:00",
       "id": 789732,
       "is_public": true,
-      "modified": "2023-09-20T01:35:17.094999+00:00",
+      "modified": "2023-10-23T15:59:29.452980+00:00",
       "note": "If the relevant Windows [mouse properties][1] system setting is enabled, the mouse pointer will disappear while typing.\r\n\r\n[1]: https://support.microsoft.com/windows/change-mouse-settings-e81356a4-0e74-fe38-7d01-9d79fbf8712b",
       "sort_num": 0,
       "tag": "New"
@@ -71,7 +71,7 @@
       "created": "2023-09-20T13:27:31.913734+00:00",
       "id": 789746,
       "is_public": true,
-      "modified": "2023-09-20T13:27:31.913554+00:00",
+      "modified": "2023-10-23T15:59:35.135200+00:00",
       "note": "If you're migrating your data from Chrome, Firefox now offers the ability to import some of your extensions as well.",
       "sort_num": 0,
       "tag": "New"
@@ -81,7 +81,7 @@
       "created": "2023-09-21T17:18:38.221669+00:00",
       "id": 789749,
       "is_public": true,
-      "modified": "2023-09-21T17:18:38.221467+00:00",
+      "modified": "2023-10-23T15:59:36.926185+00:00",
       "note": "Media sniffing is now disabled for top-level documents served as type application/octet-stream. Allowing these files to be downloaded instead of attempting playback.",
       "sort_num": 0,
       "tag": "New"
@@ -101,7 +101,7 @@
       "created": "2023-09-12T13:47:15.364121+00:00",
       "id": 789743,
       "is_public": true,
-      "modified": "2023-09-20T01:35:22.937098+00:00",
+      "modified": "2023-10-23T15:59:34.454064+00:00",
       "note": "[ARIA reflection][1] for simple attributes and default Accessibility Semantics for [Custom Elements][2] are now supported. Note that this includes boolean, enum, number, and string attributes, but not attributes that reference other elements.\r\n\r\n[1]: https://developer.mozilla.org/docs/Web/API/Element#instance_properties_included_from_aria\r\n[2]: https://developer.mozilla.org/docs/Web/API/ElementInternals#instance_properties_included_from_aria",
       "sort_num": 0,
       "tag": "HTML5"
@@ -121,7 +121,7 @@
       "created": "2023-09-21T17:13:55.237235+00:00",
       "id": 789748,
       "is_public": true,
-      "modified": "2023-09-21T17:13:55.236904+00:00",
+      "modified": "2023-10-23T15:59:37.691527+00:00",
       "note": "`credentialless` is now supported in [Cross-Origin-Embedder-Policy][1].\r\n\r\n[1]:https://developer.mozilla.org/docs/Web/HTTP/Headers/Cross-Origin-Embedder-Policy",
       "sort_num": 0,
       "tag": "HTML5"
