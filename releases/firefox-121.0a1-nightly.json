@@ -37,6 +37,16 @@
       "tag": "HTML5"
     },
     {
+      "bug": 1860446,
+      "created": "2023-10-30T18:25:10.943961+00:00",
+      "id": 789827,
+      "is_public": true,
+      "modified": "2023-10-30T18:25:10.943780+00:00",
+      "note": "Firefox now supports `text-wrap: balance`, which can improve the appearance of short multi-line text blocks such as long headings or captions by harmonizing the line lengths.",
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
       "bug": 1860057,
       "created": "2023-10-19T13:40:18.687994+00:00",
       "id": 789821,
