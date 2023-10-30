@@ -27,6 +27,16 @@
       "tag": "HTML5"
     },
     {
+      "bug": 784648,
+      "created": "2023-10-30T18:24:02.336407+00:00",
+      "id": 789826,
+      "is_public": true,
+      "modified": "2023-10-30T18:24:02.336192+00:00",
+      "note": "The CSS text-indent property now supports the `hanging` and `each-line` keywords, offering more convenient paragraph layout for styles such as bibliographies, poetry, etc.",
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
       "bug": 1860057,
       "created": "2023-10-19T13:40:18.687994+00:00",
       "id": 789821,
