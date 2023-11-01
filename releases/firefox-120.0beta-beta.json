@@ -77,6 +77,26 @@
       "tag": "New"
     },
     {
+      "bug": null,
+      "created": "2023-11-01T18:49:14.924313+00:00",
+      "id": 789829,
+      "is_public": true,
+      "modified": "2023-11-01T18:49:14.924138+00:00",
+      "note": "Firefox has enabled Cookie Banner Blocker by default in private windows for all users in Germany. Firefox will now auto-refuse cookies and dismiss annoying cookie banners for supported sites. We are looking to expand support for this soon.",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2023-11-01T18:50:45.422225+00:00",
+      "id": 789830,
+      "is_public": true,
+      "modified": "2023-11-01T18:50:45.421878+00:00",
+      "note": "Firefox has enabled URL Tracking Protection by default in private windows for all Firefox users in Germany. Firefox will remove non-essential URL query parameters that are often used to track users across the web, thereby continuing to protect our users\u2019 online privacy.",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1310170,
       "created": "2023-10-05T23:59:54.843037+00:00",
       "id": 789779,
