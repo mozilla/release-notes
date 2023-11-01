@@ -51,8 +51,8 @@
       "created": "2023-10-02T20:54:14.374527+00:00",
       "id": 789773,
       "is_public": true,
-      "modified": "2023-10-23T16:03:08.620307+00:00",
-      "note": "By default, Firefox now uses TLS trust anchors (e.g., certificates) added to the operating system by the user or an administrator. This works on Windows, macOS, and Android, and it can be turned off in the \"Privacy & Security\" section of Firefox settings, under \"Certificates\".",
+      "modified": "2023-11-01T18:51:52.054247+00:00",
+      "note": "Firefox now imports TLS trust anchors (e.g., certificates) from the operating system root store. This will be enabled by default on Windows, macOS, and Android, and if needed, can be turned off in settings (Preferences \u2192 Privacy & Security \u2192 Certificates).",
       "sort_num": 10,
       "tag": "New"
     },
