@@ -15,6 +15,36 @@
       "note": "Reference link to [119.0 release notes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/firefox/119.0/releasenotes/",
       "sort_num": 0,
       "tag": ""
+    },
+    {
+      "bug": 1861253,
+      "created": "2023-11-06T15:15:47.249708+00:00",
+      "id": 789834,
+      "is_public": true,
+      "modified": "2023-11-06T15:15:47.249171+00:00",
+      "note": "Fixed a bug causing colors in the `<select>` CSS element to not be applied to dropdown menu arrows. ([bug 1861253][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1861253",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1861027,
+      "created": "2023-11-06T15:20:34.467782+00:00",
+      "id": 789835,
+      "is_public": true,
+      "modified": "2023-11-06T15:21:16.084356+00:00",
+      "note": "Fixed a bug with CSS `element` states not changing when dynamically updating the `disabled` attribute. ([bug 1861027][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1861027",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1861346,
+      "created": "2023-11-06T15:22:21.555939+00:00",
+      "id": 789836,
+      "is_public": true,
+      "modified": "2023-11-06T15:22:21.555620+00:00",
+      "note": "Fixed a bug causing elements with the `indeterminate` CSS selector in a radio group to not update. ([bug 1861346][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1861346",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
