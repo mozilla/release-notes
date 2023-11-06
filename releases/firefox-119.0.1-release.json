@@ -31,8 +31,8 @@
       "created": "2023-11-06T15:20:34.467782+00:00",
       "id": 789835,
       "is_public": true,
-      "modified": "2023-11-06T15:56:13.462447+00:00",
-      "note": "Fixed a bug with the `<fieldset>` HTML element state not changing when dynamically updating the `disabled` attribute. ([bug 1861027][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1861027",
+      "modified": "2023-11-06T16:15:19.219010+00:00",
+      "note": "Fixed a bug with the `<input>` HTML element state not changing when dynamically updating the `disabled` attribute on an ancestor `<fieldset>`. ([bug 1861027][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1861027",
       "sort_num": 0,
       "tag": "Fixed"
     },
