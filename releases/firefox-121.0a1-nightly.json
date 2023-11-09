@@ -77,6 +77,16 @@
       "tag": "HTML5"
     },
     {
+      "bug": 1860729,
+      "created": "2023-11-09T14:21:40.169088+00:00",
+      "id": 789838,
+      "is_public": true,
+      "modified": "2023-11-09T14:21:40.168721+00:00",
+      "note": "Lazy loading iframes are now supported (`<iframe loading=lazy>`). Lazy loading iframes are only loaded when visible, so non-critical iframes can load later when needed to speed up initial page loads, reduce initial network usage, etc.",
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
       "bug": 1860057,
       "created": "2023-10-19T13:40:18.687994+00:00",
       "id": 789821,
