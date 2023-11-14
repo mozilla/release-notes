@@ -7,6 +7,66 @@
   "modified": "2023-11-14T03:25:40.947854+00:00",
   "notes": [
     {
+      "bug": 1818237,
+      "created": "2023-11-14T03:38:54.478057+00:00",
+      "id": 789850,
+      "is_public": true,
+      "modified": "2023-11-14T03:38:54.477862+00:00",
+      "note": "Users on Ubuntu Linux now have the ability to import from Chromium when both are installed as Snap packages.",
+      "sort_num": 90,
+      "tag": "New"
+    },
+    {
+      "bug": 1156659,
+      "created": "2023-11-14T03:34:46.023976+00:00",
+      "id": 789847,
+      "is_public": true,
+      "modified": "2023-11-14T03:34:46.023778+00:00",
+      "note": "Users can now use an added devtools feature to simulate browser tabs to be offline.",
+      "sort_num": 80,
+      "tag": "New"
+    },
+    {
+      "bug": 1848815,
+      "created": "2023-11-14T03:33:38.151994+00:00",
+      "id": 789845,
+      "is_public": true,
+      "modified": "2023-11-14T03:33:38.151671+00:00",
+      "note": "Firefox now imports TLS trust anchors (e.g., certificates) from the operating system root store. This will be enabled by default on Windows, macOS, and Android, and if needed, can be turned off in settings (Preferences \u2192 Privacy & Security \u2192 Certificates).",
+      "sort_num": 70,
+      "tag": "New"
+    },
+    {
+      "bug": 1772404,
+      "created": "2023-11-14T03:32:34.710642+00:00",
+      "id": 789844,
+      "is_public": true,
+      "modified": "2023-11-14T03:36:08.065193+00:00",
+      "note": "Picture-in-Picture now supports corner snapping on Windows and Linux - just hold `Ctrl` as you move the PiP window.",
+      "sort_num": 60,
+      "tag": "New"
+    },
+    {
+      "bug": 1830623,
+      "created": "2023-11-14T03:31:49.439900+00:00",
+      "id": 789843,
+      "is_public": true,
+      "modified": "2023-11-14T03:35:31.970480+00:00",
+      "note": "Firefox now supports a setting (in Preferences \u2192 Privacy & Security) to enable [Global Privacy Control][1]. With this opt-in feature, Firefox informs the websites that the user doesn\u2019t want their data to be shared or sold.\r\n\r\n![UI setting for GPC][2]\r\n\r\n\r\n  [1]: https://globalprivacycontrol.org/\r\n  [2]: https://www.mozilla.org/media/img/firefox/releasenotes/note-images/120_relnote_GCP.png",
+      "sort_num": 50,
+      "tag": "New"
+    },
+    {
+      "bug": 1860617,
+      "created": "2023-11-14T03:31:05.057065+00:00",
+      "id": 789842,
+      "is_public": true,
+      "modified": "2023-11-14T03:31:05.056708+00:00",
+      "note": "Firefox supports a new \u201cCopy Link Without Site Tracking\u201d feature in the context menu which ensures that copied links no longer contain tracking information.\r\n\r\n![copy site image][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/media/img/firefox/releasenotes/note-images/120_relnote_copylink.png",
+      "sort_num": 40,
+      "tag": "New"
+    },
+    {
       "bug": null,
       "created": "2023-11-14T03:30:24.783102+00:00",
       "id": 789841,
@@ -35,6 +95,36 @@
       "note": "Firefox\u2019s private windows and ETP-Strict privacy configuration now enhance the Canvas APIs with Fingerprinting Protection, thereby continuing to protect our users\u2019 online privacy.",
       "sort_num": 10,
       "tag": "New"
+    },
+    {
+      "bug": 1310170,
+      "created": "2023-11-14T03:37:41.889687+00:00",
+      "id": 789848,
+      "is_public": true,
+      "modified": "2023-11-14T03:37:41.889346+00:00",
+      "note": "`lh` and `rlh` units can now be parsed and computed correctly as [lengths][1]. This allows authors to specify lengths in terms of the element's (or the root element's) line height.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/length",
+      "sort_num": 20,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 1845373,
+      "created": "2023-11-14T03:34:02.779730+00:00",
+      "id": 789846,
+      "is_public": true,
+      "modified": "2023-11-14T03:34:02.779522+00:00",
+      "note": "[WebAssembly GC][1] is now enabled by default, which allows new languages, such as [Dart][2] or [Kotlin][3], to run on Firefox. This makes it possible for reference cycles between the guest language and host browser to be collected. \r\n\r\n\r\n  [1]: https://github.com/WebAssembly/gc/blob/main/proposals/gc/Overview.md\r\n  [2]: https://wasmio.tech/sessions/flutter-dart-and-wasm-gc-a-new-model-for-web-applications/\r\n  [3]: https://kotlinlang.org/docs/wasm-overview.html#browser-support",
+      "sort_num": 10,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 1791079,
+      "created": "2023-11-14T03:38:26.855968+00:00",
+      "id": 789849,
+      "is_public": true,
+      "modified": "2023-11-14T03:38:26.855658+00:00",
+      "note": "The [User Activation API][1] has now been added, allowing JavaScript to check if the user currently is or has been active with the page (clicking, etc) with `navigator.userActivation`.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/UserActivation",
+      "sort_num": 10,
+      "tag": "Developer"
     }
   ],
   "product": "Firefox",
