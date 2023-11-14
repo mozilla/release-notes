@@ -4,8 +4,18 @@
   "channel": "Release",
   "created": "2023-11-14T03:51:14.957683+00:00",
   "is_public": false,
-  "modified": "2023-11-14T03:51:46.333476+00:00",
+  "modified": "2023-11-14T04:02:41.468526+00:00",
   "notes": [
+    {
+      "bug": null,
+      "created": "2023-11-14T04:02:27.342408+00:00",
+      "id": 789863,
+      "is_public": true,
+      "modified": "2023-11-14T04:02:27.340685+00:00",
+      "note": "iOS 14 will no longer be supported.",
+      "sort_num": 10,
+      "tag": "New"
+    },
     {
       "bug": null,
       "created": "2023-11-14T04:01:05.654059+00:00",
@@ -23,12 +33,30 @@
       "note": "Fixed issue where Firefox icon in widget was the wrong color.",
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2023-11-14T04:01:41.886532+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": false,
+        "product": "Firefox for iOS",
+        "slug": "firefox-for-ios-120.0-release",
+        "title": "Firefox for iOS 120.0 Release",
+        "version": "120.0"
+      },
+      "id": 789862,
+      "is_public": true,
+      "modified": "2023-11-14T04:01:41.886344+00:00",
+      "note": "Improved startup time.",
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox for iOS",
   "release_date": "2023-11-21",
   "slug": "firefox-for-ios-120.0-release",
-  "system_requirements": "## Operating systems\r\n - iOS 14\r\n - iOS 15\r\n - iOS 16",
+  "system_requirements": "## Operating systems\r\n - iOS 15\r\n - iOS 16",
   "text": "",
   "title": "Firefox for iOS 120.0 Release",
   "version": "120.0"
