@@ -1,0 +1,55 @@
+{
+  "bug_list": "",
+  "bug_search_url": "",
+  "channel": "Release",
+  "created": "2023-11-14T03:51:14.988395+00:00",
+  "is_public": false,
+  "modified": "2023-11-14T03:52:03.745728+00:00",
+  "notes": [
+    {
+      "bug": null,
+      "created": "2023-11-14T03:54:38.750303+00:00",
+      "id": 789857,
+      "is_public": true,
+      "modified": "2023-11-14T03:54:38.750103+00:00",
+      "note": "In anticipation of opening up the Firefox for Android extension ecosystem later this year, dozens of new mobile extensions will surface during the 120 release cycle as we continue guardrail testing.",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2023-11-14T03:43:21.854611+00:00",
+      "id": 789853,
+      "is_public": true,
+      "modified": "2023-11-14T03:52:18.563009+00:00",
+      "note": "Various [security][1] fixes.\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2023-11-14T03:53:52.730245+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": false,
+        "product": "Firefox",
+        "slug": "firefox-120.0-release",
+        "title": "Firefox 120.0 Release",
+        "version": "120.0"
+      },
+      "id": 789856,
+      "is_public": true,
+      "modified": "2023-11-14T03:53:52.730026+00:00",
+      "note": "Fixed tabs tray bug where selecting tabs could accidentally close them instead.",
+      "sort_num": 0,
+      "tag": "Fixed"
+    }
+  ],
+  "product": "Firefox for Android",
+  "release_date": "2023-11-21",
+  "slug": "firefox-for-android-120.0-release",
+  "system_requirements": "## Operating systems\r\n - Android 5.0 or newer",
+  "text": "",
+  "title": "Firefox for Android 120.0 Release",
+  "version": "120.0"
+}

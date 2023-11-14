@@ -1,0 +1,35 @@
+{
+  "bug_list": "",
+  "bug_search_url": "",
+  "channel": "Release",
+  "created": "2023-11-14T03:51:14.957683+00:00",
+  "is_public": false,
+  "modified": "2023-11-14T03:51:46.333476+00:00",
+  "notes": [
+    {
+      "bug": null,
+      "created": "2023-11-14T04:01:05.654059+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": false,
+        "product": "Firefox for iOS",
+        "slug": "firefox-for-ios-120.0-release",
+        "title": "Firefox for iOS 120.0 Release",
+        "version": "120.0"
+      },
+      "id": 789861,
+      "is_public": true,
+      "modified": "2023-11-14T04:01:05.653832+00:00",
+      "note": "Fixed issue where Firefox icon in widget was the wrong color.",
+      "sort_num": 0,
+      "tag": "Fixed"
+    }
+  ],
+  "product": "Firefox for iOS",
+  "release_date": "2023-11-21",
+  "slug": "firefox-for-ios-120.0-release",
+  "system_requirements": "## Operating systems\r\n - iOS 14\r\n - iOS 15\r\n - iOS 16",
+  "text": "",
+  "title": "Firefox for iOS 120.0 Release",
+  "version": "120.0"
+}

@@ -127,6 +127,26 @@
       "tag": "HTML5"
     },
     {
+      "bug": 1859079,
+      "created": "2023-11-14T03:58:41.558798+00:00",
+      "id": 789859,
+      "is_public": true,
+      "modified": "2023-11-14T03:58:41.558619+00:00",
+      "note": "The Rules panel within the Inspector panel now displays colors in the new CSS Color 4 formats (e.g., OKLCH) as hexadecimal/named colors. This ensures that it matches the original values used by the current page.",
+      "sort_num": 40,
+      "tag": "Developer"
+    },
+    {
+      "bug": 1832213,
+      "created": "2023-11-14T03:57:06.218968+00:00",
+      "id": 789858,
+      "is_public": true,
+      "modified": "2023-11-14T03:57:06.218770+00:00",
+      "note": "The Style Editor panel now features a new \"Pretty Print\" button located in the footer of the panel, similar to the pretty print button found in the Debugger panel. This can be used to format stylesheets (e.g., those that are minified). The previous functionality, where minified files were automatically formatted, has been removed.",
+      "sort_num": 30,
+      "tag": "Developer"
+    },
+    {
       "bug": 1858712,
       "created": "2023-11-14T03:42:02.487152+00:00",
       "id": 789852,
@@ -148,10 +168,20 @@
     },
     {
       "bug": null,
+      "created": "2023-11-14T04:00:07.995487+00:00",
+      "id": 789860,
+      "is_public": true,
+      "modified": "2023-11-14T04:00:07.995308+00:00",
+      "note": "You can find information about policy updates and enterprise specific bug fixes in the [Firefox for Enterprise 120 Release Notes][1].\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/firefox-enterprise-120-release-notes",
+      "sort_num": 0,
+      "tag": "Enterprise"
+    },
+    {
+      "bug": null,
       "created": "2023-11-14T03:43:21.854611+00:00",
       "id": 789853,
       "is_public": true,
-      "modified": "2023-11-14T03:43:21.854425+00:00",
+      "modified": "2023-11-14T03:52:18.563009+00:00",
       "note": "Various [security][1] fixes.\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/",
       "sort_num": 0,
       "tag": "Fixed"
