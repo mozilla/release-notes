@@ -7,6 +7,16 @@
   "modified": "2023-11-14T03:25:40.947854+00:00",
   "notes": [
     {
+      "bug": 1845583,
+      "created": "2023-11-14T03:41:20.251387+00:00",
+      "id": 789851,
+      "is_public": true,
+      "modified": "2023-11-14T03:41:20.251200+00:00",
+      "note": "Keyboard shortcuts have now been added for editing and deleting a selected credential on `about:logins`. For editing - `Alt + enter` (`Option + return` on macOS) and for deleting - `Alt + Backspace` (`Option + Delete` on macOS).",
+      "sort_num": 100,
+      "tag": "New"
+    },
+    {
       "bug": 1818237,
       "created": "2023-11-14T03:38:54.478057+00:00",
       "id": 789850,
@@ -117,6 +127,16 @@
       "tag": "HTML5"
     },
     {
+      "bug": 1858712,
+      "created": "2023-11-14T03:42:02.487152+00:00",
+      "id": 789852,
+      "is_public": true,
+      "modified": "2023-11-14T03:42:02.486966+00:00",
+      "note": "Early Hints Preconnect, the informational [status code 103][1], is now enabled. This allows servers to send resource Link headers before the final HTTP response and improves performance on servers using this feature. ([read more)][2]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/103\r\n  [2]: https://blog.cloudflare.com/early-hints/",
+      "sort_num": 20,
+      "tag": "Developer"
+    },
+    {
       "bug": 1791079,
       "created": "2023-11-14T03:38:26.855968+00:00",
       "id": 789849,
@@ -125,6 +145,26 @@
       "note": "The [User Activation API][1] has now been added, allowing JavaScript to check if the user currently is or has been active with the page (clicking, etc) with `navigator.userActivation`.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/UserActivation",
       "sort_num": 10,
       "tag": "Developer"
+    },
+    {
+      "bug": null,
+      "created": "2023-11-14T03:43:21.854611+00:00",
+      "id": 789853,
+      "is_public": true,
+      "modified": "2023-11-14T03:43:21.854425+00:00",
+      "note": "Various [security][1] fixes.\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/",
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2023-11-14T03:44:31.389331+00:00",
+      "id": 789854,
+      "is_public": false,
+      "modified": "2023-11-14T03:44:31.389151+00:00",
+      "note": "With the release of Firefox 120, we are pleased to welcome the developers who contributed their first code change to Firefox in this release, # of whom were brand new volunteers! Please join us in thanking each of these diligent and enthusiastic individuals, and take a look at their contributions:",
+      "sort_num": 0,
+      "tag": "Community"
     }
   ],
   "product": "Firefox",
