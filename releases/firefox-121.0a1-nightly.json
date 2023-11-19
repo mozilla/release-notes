@@ -47,16 +47,6 @@
       "tag": "New"
     },
     {
-      "bug": 1815739,
-      "created": "2023-11-15T17:47:37.122118+00:00",
-      "id": 789866,
-      "is_public": true,
-      "modified": "2023-11-15T17:47:37.121938+00:00",
-      "note": "[Firefox for Android][1] can now be set as the default PDF reader.\r\n\r\n\r\n  [1]: https://play.google.com/store/apps/details?id=org.mozilla.fenix",
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
       "bug": 1852837,
       "created": "2023-10-05T23:47:35.527349+00:00",
       "id": 789778,
@@ -103,6 +93,16 @@
       "is_public": true,
       "modified": "2023-11-15T17:34:40.416137+00:00",
       "note": "The [:has()][1] selector is now supported. This allows authors to match elements that has, or \"anchors\", at least one element matching its relative selector.\r\n\r\n[1]: https://developer.mozilla.org/docs/Web/CSS/:has",
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 1846789,
+      "created": "2023-11-19T19:29:23.808071+00:00",
+      "id": 789867,
+      "is_public": true,
+      "modified": "2023-11-19T19:29:23.807891+00:00",
+      "note": "Support has been added for [tail call elimination][1] in WebAssembly language to improve support for functional languages.\r\n\r\n\r\n  [1]: https://github.com/WebAssembly/tail-call/blob/main/proposals/tail-call/Overview.md",
       "sort_num": 0,
       "tag": "HTML5"
     }
