@@ -4,13 +4,114 @@
   "channel": "Beta",
   "created": "2023-11-20T18:39:28.987242+00:00",
   "is_public": false,
-  "modified": "2023-11-20T18:40:45.021435+00:00",
-  "notes": [],
+  "modified": "2023-11-20T18:44:12.895640+00:00",
+  "notes": [
+    {
+      "bug": 1860198,
+      "created": "2023-10-31T18:30:45.406783+00:00",
+      "id": 789828,
+      "is_public": true,
+      "modified": "2023-11-20T18:41:23.884686+00:00",
+      "note": "Firefox now prompts Windows users to install the Microsoft AV1 Extension to enable hardware decoding support from `about:support` if not already installed.",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2023-11-03T17:26:58.809471+00:00",
+      "id": 789832,
+      "is_public": true,
+      "modified": "2023-11-20T18:41:29.153007+00:00",
+      "note": "Firefox now supports Voice Control commands on macOS systems.",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1664278,
+      "created": "2023-11-06T17:55:29.902150+00:00",
+      "id": 789837,
+      "is_public": true,
+      "modified": "2023-11-20T18:41:35.090737+00:00",
+      "note": "Firefox now allows you to force-underline links in websites. This is useful for people with achromatopsia for example.",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1752398,
+      "created": "2023-11-15T17:45:12.055533+00:00",
+      "id": 789865,
+      "is_public": true,
+      "modified": "2023-11-20T18:41:52.197420+00:00",
+      "note": "On Linux, Firefox now defaults to the Wayland compositor when available instead of XWayland. This brings support for touchpad & touchscreen gestures, swipe-to-nav, per-monitor DPI settings, better graphics performance, and more.\r\n\r\nNote that due to Wayland protocol limitations, Picture-in-Picture windows require an extra user interaction (generally right-click on the window) or a shell / desktop-environment tweak. See [bug 1621261][1] for related discussion and tracking, [this post][2] for a KDE configuration, and [this extension][3] for GNOME.\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1621261\r\n  [2]: https://www.reddit.com/r/kde/comments/osjt3p/firefox_wayland_pip_workaround_or_how_i_learned/\r\n  [3]: https://extensions.gnome.org/extension/4691/pip-on-top/",
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 784648,
+      "created": "2023-10-30T18:24:02.336407+00:00",
+      "id": 789826,
+      "is_public": true,
+      "modified": "2023-11-20T18:41:11.960427+00:00",
+      "note": "The CSS text-indent property now supports the `hanging` and `each-line` keywords, offering more convenient paragraph layout for styles such as bibliographies, poetry, etc.",
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 1860446,
+      "created": "2023-10-30T18:25:10.943961+00:00",
+      "id": 789827,
+      "is_public": true,
+      "modified": "2023-11-20T18:41:18.183449+00:00",
+      "note": "Firefox now supports `text-wrap: balance`, which can improve the appearance of short multi-line text blocks such as long headings or captions by harmonizing the line lengths.",
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 1860729,
+      "created": "2023-11-09T14:21:40.169088+00:00",
+      "id": 789838,
+      "is_public": true,
+      "modified": "2023-11-20T18:41:40.870459+00:00",
+      "note": "Lazy loading iframes are now supported (`<iframe loading=lazy>`). Lazy loading iframes are only loaded when visible, so non-critical iframes can load later when needed to speed up initial page loads, reduce initial network usage, etc.",
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 1858743,
+      "created": "2023-11-15T17:33:54.013350+00:00",
+      "id": 789864,
+      "is_public": true,
+      "modified": "2023-11-20T18:41:46.148539+00:00",
+      "note": "The [:has()][1] selector is now supported. This allows authors to match elements that has, or \"anchors\", at least one element matching its relative selector.\r\n\r\n[1]: https://developer.mozilla.org/docs/Web/CSS/:has",
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 1846789,
+      "created": "2023-11-19T19:29:23.808071+00:00",
+      "id": 789867,
+      "is_public": true,
+      "modified": "2023-11-20T18:41:57.774042+00:00",
+      "note": "Support has been added for [tail call elimination][1] in WebAssembly language to improve support for functional languages.\r\n\r\n\r\n  [1]: https://github.com/WebAssembly/tail-call/blob/main/proposals/tail-call/Overview.md",
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 1578220,
+      "created": "2023-11-20T18:49:00.225199+00:00",
+      "id": 789868,
+      "is_public": true,
+      "modified": "2023-11-20T18:49:00.225020+00:00",
+      "note": "The Firefox Debugger now includes a new feature: an option to disable the `debugger;` keyword on the current page. This feature is accessible via a new checkbox in the Breakpoints side panel, labeled Pause on debugger statement, located next to the existing Pause on exceptions checkbox. By default, this option is enabled, meaning that the debugger statements are active unless manually disabled.",
+      "sort_num": 0,
+      "tag": "Developer"
+    }
+  ],
   "product": "Firefox",
   "release_date": "2023-11-21",
   "slug": "firefox-121.0beta-beta",
   "system_requirements": "## Windows\r\n\r\n### Operating Systems (32-bit and 64-bit)\r\n - Windows 10 or later\r\n\r\n### Recommended Hardware\r\n-  1 gigahertz (GHz) or faster compatible processor or System on a Chip (SoC)\r\n-  1GB of RAM / 2GB of RAM for the 64-bit version\r\n-  500MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- macOS 10.15 or later\r\n\r\n### Recommended Hardware\r\n- Macintosh computer with an Intel x86 or Apple silicon processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - glibc 2.17 or higher\r\n    - GTK+ 3.14 or higher\r\n    - libglib 2.42 or higher\r\n    - libstdc++ 4.8.1 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - DBus 1.0 or higher\r\n    - NetworkManager 0.7 or higher\r\n    - PulseAudio",
-  "text": "Firefox Beta gets updated 3 times a week and as a consequence, the release notes for the Beta channel are updated continuously to reflect features that have reached sufficient maturity to benefit from community feedback and bug reports.\r\n\r\n\r\n**Warning: Features listed here may or may *not* make a final release of Firefox.**\r\n\r\nIn addition to these release notes, you can follow ongoing development via our [@FirefoxBeta][1] Twitter account.\r\n\r\n\r\n  [1]: https://twitter.com/firefoxbeta",
+  "text": "Firefox Beta gets updated 3 times a week and as a consequence, the release notes for the Beta channel are updated continuously to reflect features that have reached sufficient maturity to benefit from community feedback and bug reports.\r\n\r\n**Warning: Features listed here may or may *not* make a final release of Firefox.**\r\n\r\nIn addition to these release notes, you can follow ongoing development via our [@FirefoxBeta][1] Twitter account.\r\n\r\n\r\n  [1]: https://twitter.com/firefoxbeta",
   "title": "Firefox 121.0beta Beta",
   "version": "121.0beta"
 }
