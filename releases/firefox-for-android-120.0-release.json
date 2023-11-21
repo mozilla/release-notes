@@ -3,8 +3,8 @@
   "bug_search_url": "",
   "channel": "Release",
   "created": "2023-11-14T03:51:14.988395+00:00",
-  "is_public": false,
-  "modified": "2023-11-14T03:52:03.745728+00:00",
+  "is_public": true,
+  "modified": "2023-11-21T13:16:31.841193+00:00",
   "notes": [
     {
       "bug": null,
@@ -31,7 +31,7 @@
       "created": "2023-11-14T03:53:52.730245+00:00",
       "fixed_in_release": {
         "channel": "Release",
-        "is_public": false,
+        "is_public": true,
         "product": "Firefox",
         "slug": "firefox-120.0-release",
         "title": "Firefox 120.0 Release",
