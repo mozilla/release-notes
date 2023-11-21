@@ -18,24 +18,6 @@
     },
     {
       "bug": null,
-      "created": "2023-11-14T04:01:05.654059+00:00",
-      "fixed_in_release": {
-        "channel": "Release",
-        "is_public": false,
-        "product": "Firefox for iOS",
-        "slug": "firefox-for-ios-120.0-release",
-        "title": "Firefox for iOS 120.0 Release",
-        "version": "120.0"
-      },
-      "id": 789861,
-      "is_public": true,
-      "modified": "2023-11-14T04:01:05.653832+00:00",
-      "note": "Fixed issue where Firefox icon in widget was the wrong color.",
-      "sort_num": 0,
-      "tag": "Fixed"
-    },
-    {
-      "bug": null,
       "created": "2023-11-14T04:01:41.886532+00:00",
       "fixed_in_release": {
         "channel": "Release",
@@ -47,8 +29,36 @@
       },
       "id": 789862,
       "is_public": true,
-      "modified": "2023-11-14T04:01:41.886344+00:00",
+      "modified": "2023-11-21T12:57:00.159529+00:00",
       "note": "Improved startup time.",
+      "sort_num": 8,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2023-11-14T04:01:05.654059+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": false,
+        "product": "Firefox for iOS",
+        "slug": "firefox-for-ios-120.0-release",
+        "title": "Firefox for iOS 120.0 Release",
+        "version": "120.0"
+      },
+      "id": 789861,
+      "is_public": true,
+      "modified": "2023-11-21T12:57:21.559418+00:00",
+      "note": "Fixed issue where Firefox icon in widget was the wrong color.",
+      "sort_num": 5,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2023-11-21T12:56:37.136488+00:00",
+      "id": 789869,
+      "is_public": true,
+      "modified": "2023-11-21T12:56:37.136300+00:00",
+      "note": "Various [security][1] fixes.\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/mfsa2023-51/",
       "sort_num": 0,
       "tag": "Fixed"
     }
