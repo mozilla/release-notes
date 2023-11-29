@@ -29,8 +29,8 @@
       },
       "id": 789877,
       "is_public": true,
-      "modified": "2023-11-29T20:20:55.391202+00:00",
-      "note": "Fixed a bug that was causing persistent startup slowdown. ([bug 1867095][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1867095",
+      "modified": "2023-11-29T21:22:46.092540+00:00",
+      "note": "Fixed a bug that was causing persistent startup slowdowns. ([bug 1867095][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1867095",
       "sort_num": 10,
       "tag": "Fixed"
     },
@@ -47,8 +47,8 @@
       },
       "id": 789878,
       "is_public": true,
-      "modified": "2023-11-29T20:57:14.030417+00:00",
-      "note": "Fixed an issue that was causing 100% CPU usage on sites such as maps.google.com. ([bug 1866409][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1866409",
+      "modified": "2023-11-29T21:23:29.693968+00:00",
+      "note": "Fixed an issue that was causing 100% CPU usage on sites such as Google Maps. ([bug 1866409][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1866409",
       "sort_num": 9,
       "tag": "Fixed"
     },
