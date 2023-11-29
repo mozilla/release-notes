@@ -35,6 +35,24 @@
       "tag": "Fixed"
     },
     {
+      "bug": 1866409,
+      "created": "2023-11-29T20:10:27.741191+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": false,
+        "product": "Firefox",
+        "slug": "firefox-120.0.1-release",
+        "title": "Firefox 120.0.1 Release",
+        "version": "120.0.1"
+      },
+      "id": 789878,
+      "is_public": true,
+      "modified": "2023-11-29T20:57:14.030417+00:00",
+      "note": "Fixed an issue that was causing 100% CPU usage on sites such as maps.google.com. ([bug 1866409][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1866409",
+      "sort_num": 9,
+      "tag": "Fixed"
+    },
+    {
       "bug": 1866025,
       "created": "2023-11-29T20:12:26.279352+00:00",
       "fixed_in_release": {
@@ -47,9 +65,9 @@
       },
       "id": 789879,
       "is_public": true,
-      "modified": "2023-11-29T20:20:45.378212+00:00",
-      "note": "Fixed a startup crash affecting Linux users on some aarch64 systems, those with page sizes other than 4KB such as Apple Silicon. ([bug 1866025][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1866025",
-      "sort_num": 9,
+      "modified": "2023-11-29T20:57:37.061418+00:00",
+      "note": "Fixed a startup crash affecting Linux users on some aarch64 systems with page sizes other than 4KB. ([bug 1866025][1])\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1866025",
+      "sort_num": 7,
       "tag": "Fixed"
     },
     {
@@ -65,9 +83,9 @@
       },
       "id": 789880,
       "is_public": true,
-      "modified": "2023-11-29T20:20:40.290080+00:00",
-      "note": "Fixed an issue that was causing YouTube videos to show a green screen when hardware accelerator was enabled. ([bug 1865928][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1865928",
-      "sort_num": 8,
+      "modified": "2023-11-29T20:57:56.012442+00:00",
+      "note": "Fixed an issue that was causing YouTube videos to show a green screen when hardware acceleration was enabled. ([bug 1865928][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1865928",
+      "sort_num": 5,
       "tag": "Fixed"
     },
     {
@@ -83,27 +101,9 @@
       },
       "id": 789881,
       "is_public": true,
-      "modified": "2023-11-29T20:20:17.834973+00:00",
-      "note": "Fixed an issue where the status bar was still visible in fullscreen video for some users. ([bug 1853896][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1853896",
-      "sort_num": 7,
-      "tag": "Fixed"
-    },
-    {
-      "bug": 1866409,
-      "created": "2023-11-29T20:10:27.741191+00:00",
-      "fixed_in_release": {
-        "channel": "Release",
-        "is_public": false,
-        "product": "Firefox",
-        "slug": "firefox-120.0.1-release",
-        "title": "Firefox 120.0.1 Release",
-        "version": "120.0.1"
-      },
-      "id": 789878,
-      "is_public": true,
-      "modified": "2023-11-29T20:41:35.827739+00:00",
-      "note": "Fixed an issue that was causing 100% CPU usage on sites such as maps.google.com. ([bug 1866409][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1866409",
-      "sort_num": 0,
+      "modified": "2023-11-29T20:58:09.107017+00:00",
+      "note": "Fixed an issue where the status bar was still visible when viewing fullscreen video. ([bug 1853896][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1853896",
+      "sort_num": 3,
       "tag": "Fixed"
     }
   ],
