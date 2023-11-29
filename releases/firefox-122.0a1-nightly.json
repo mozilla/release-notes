@@ -35,6 +35,16 @@
       "note": "Firefox now supports animating the SVG  [viewBox][1] attribute using [SMIL][2] `by animations`. `by animations` are animations that are relative to the original value. Other attributes such as lengths and angles already support `by`, but a `viewBox` consists of four separate values.\r\n\r\n[1]:https://developer.mozilla.org/docs/Web/SVG/Attribute/viewBox\r\n[2]:https://developer.mozilla.org/docs/Web/SVG/SVG_animation_with_SMIL",
       "sort_num": 0,
       "tag": "HTML5"
+    },
+    {
+      "bug": 1866266,
+      "created": "2023-11-29T14:33:01.211188+00:00",
+      "id": 789874,
+      "is_public": true,
+      "modified": "2023-11-29T14:33:01.211008+00:00",
+      "note": "The [LargestContentfulPaint API][1] has been added, this provides timing information about the largest image or text paint before users interact with a web page.\r\n\r\n[1]: https://developer.mozilla.org/docs/Web/API/LargestContentfulPaint",
+      "sort_num": 0,
+      "tag": "HTML5"
     }
   ],
   "product": "Firefox",
