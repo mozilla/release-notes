@@ -53,24 +53,6 @@
       "tag": "Fixed"
     },
     {
-      "bug": 1866025,
-      "created": "2023-11-29T20:12:26.279352+00:00",
-      "fixed_in_release": {
-        "channel": "Release",
-        "is_public": false,
-        "product": "Firefox",
-        "slug": "firefox-120.0.1-release",
-        "title": "Firefox 120.0.1 Release",
-        "version": "120.0.1"
-      },
-      "id": 789879,
-      "is_public": true,
-      "modified": "2023-11-29T20:57:37.061418+00:00",
-      "note": "Fixed a startup crash affecting Linux users on some aarch64 systems with page sizes other than 4KB. ([bug 1866025][1])\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1866025",
-      "sort_num": 7,
-      "tag": "Fixed"
-    },
-    {
       "bug": 1865928,
       "created": "2023-11-29T20:15:47.587102+00:00",
       "fixed_in_release": {
@@ -104,6 +86,24 @@
       "modified": "2023-11-29T20:58:09.107017+00:00",
       "note": "Fixed an issue where the status bar was still visible when viewing fullscreen video. ([bug 1853896][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1853896",
       "sort_num": 3,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1866025,
+      "created": "2023-11-29T20:12:26.279352+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": false,
+        "product": "Firefox",
+        "slug": "firefox-120.0.1-release",
+        "title": "Firefox 120.0.1 Release",
+        "version": "120.0.1"
+      },
+      "id": 789879,
+      "is_public": true,
+      "modified": "2023-11-29T21:20:43.914851+00:00",
+      "note": "Fixed a startup crash affecting Linux users on some aarch64 systems with page sizes other than 4KB. ([bug 1866025][1])\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1866025",
+      "sort_num": 1,
       "tag": "Fixed"
     }
   ],
