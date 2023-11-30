@@ -209,8 +209,8 @@
       },
       "id": 789872,
       "is_public": true,
-      "modified": "2023-11-30T16:50:48.829283+00:00",
-      "note": "We're aware of a startup crash affecting Linux users on some aarch64 systems, those with page sizes other than 4KB such as Apple Silicon.  To workaround the issue compile Firefox with `--disable-phc`.",
+      "modified": "2023-11-30T16:53:48.585514+00:00",
+      "note": "<strike>We're aware of a startup crash affecting Linux users on some aarch64 systems, those with page sizes other than 4KB such as Apple Silicon.  To workaround the issue compile Firefox with `--disable-phc`.</strike>  (fixed in 120.0.1)",
       "sort_num": 0,
       "tag": "Known"
     },
@@ -227,8 +227,8 @@
       },
       "id": 789875,
       "is_public": true,
-      "modified": "2023-11-30T16:50:27.157162+00:00",
-      "note": "We are aware of an issue where some users are experiencing a persistent startup delay and are working to get a fix rolled out in our upcoming dot release.",
+      "modified": "2023-11-30T16:53:03.101371+00:00",
+      "note": "<strike>We are aware of an issue where some users are experiencing a persistent startup delay and are working to get a fix rolled out in our upcoming dot release.</strike> (fixed in 120.0.1)",
       "sort_num": 0,
       "tag": "Known"
     }
