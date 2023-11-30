@@ -61,8 +61,8 @@
       "created": "2023-11-14T03:33:38.151994+00:00",
       "id": 789845,
       "is_public": true,
-      "modified": "2023-11-15T19:34:34.417154+00:00",
-      "note": "Firefox now imports TLS trust anchors (e.g., certificates) from the operating system root store. This will be enabled by default on Windows, macOS, and Android, and if needed, can be turned off in settings (Preferences \u2192 Privacy & Security \u2192 Certificates).",
+      "modified": "2023-11-30T12:48:32.675621+00:00",
+      "note": "Firefox now imports user-added TLS trust anchors (e.g., certificates) from the operating system root store. This will be enabled by default on Windows, macOS, and Android, and if needed, can be turned off in settings (Settings \u2192 Privacy & Security \u2192 Certificates).",
       "sort_num": 50,
       "tag": "New"
     },
