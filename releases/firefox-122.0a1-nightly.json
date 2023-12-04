@@ -7,12 +7,26 @@
   "modified": "2023-11-20T16:27:09.243352+00:00",
   "notes": [
     {
+      "bug": 1815739,
+      "created": "2023-11-15T17:47:37.122118+00:00",
+      "id": 789866,
+      "is_public": true,
+      "modified": "2023-12-04T19:31:38.074270+00:00",
+      "note": "[Firefox for Android][1] can now be set as the default PDF reader.\r\n\r\n\r\n  [1]: https://play.google.com/store/apps/details?id=org.mozilla.fenix",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1860548,
       "created": "2023-11-21T17:22:36.958892+00:00",
       "id": 789870,
       "is_public": true,
       "modified": "2023-11-21T17:22:36.958710+00:00",
       "note": "Starting with Firefox 122, the URL Paste Suggestion feature is now enabled by default in Nightly builds. This enhancement provides a convenient way for users to quickly visit URLs copied to the clipboard in the address bar of desktop Firefox. When the clipboard contains a URL, and the user focuses on the URL bar, an autocomplete result appears automatically. Activating the clipboard suggestion will navigate the user to the URL with 1 click.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
       "sort_num": 0,
       "tag": "New"
     },
@@ -23,6 +37,8 @@
       "is_public": true,
       "modified": "2023-11-13T16:28:13.138133+00:00",
       "note": "Starting with Firefox 120, ULPFE/RED is now on by default for video in Nightly builds. This provides additional protection against packet loss for video during WebRTC calls.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
       "sort_num": 0,
       "tag": "HTML5"
     },
@@ -33,6 +49,8 @@
       "is_public": true,
       "modified": "2023-11-22T14:56:40.150022+00:00",
       "note": "Firefox now supports animating the SVG  [viewBox][1] attribute using [SMIL][2] `by animations`. `by animations` are animations that are relative to the original value. Other attributes such as lengths and angles already support `by`, but a `viewBox` consists of four separate values.\r\n\r\n[1]:https://developer.mozilla.org/docs/Web/SVG/Attribute/viewBox\r\n[2]:https://developer.mozilla.org/docs/Web/SVG/SVG_animation_with_SMIL",
+      "progressive_rollout": false,
+      "relevant_countries": [],
       "sort_num": 0,
       "tag": "HTML5"
     },
@@ -43,6 +61,8 @@
       "is_public": true,
       "modified": "2023-11-29T14:33:01.211008+00:00",
       "note": "The [LargestContentfulPaint API][1] has been added, this provides timing information about the largest image or text paint before users interact with a web page.\r\n\r\n[1]: https://developer.mozilla.org/docs/Web/API/LargestContentfulPaint",
+      "progressive_rollout": false,
+      "relevant_countries": [],
       "sort_num": 0,
       "tag": "HTML5"
     },
@@ -53,6 +73,8 @@
       "is_public": true,
       "modified": "2023-11-30T14:39:48.178830+00:00",
       "note": "`<hr>-in-<select>` is now supported, allowing websites to easily use separators inside a `<select>` element.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
       "sort_num": 0,
       "tag": "HTML5"
     },
@@ -63,6 +85,8 @@
       "is_public": true,
       "modified": "2023-11-30T14:50:26.922146+00:00",
       "note": "Starting with Firefox 122,  the `popover` attribute is now supported by default in Nightly builds. The [popover][1] global attribute is used to designate an element as a popover element. The element won't render until it becomes shown, it will then render on top of other page content.\r\n\r\n[1]: https://developer.mozilla.org/docs/Web/HTML/Global_attributes/popover",
+      "progressive_rollout": false,
+      "relevant_countries": [],
       "sort_num": 0,
       "tag": "HTML5"
     },
@@ -73,12 +97,15 @@
       "is_public": true,
       "modified": "2023-12-04T14:20:04.845674+00:00",
       "note": "The `showPicker` method is now supported on `<select>` elements, this can be used to trigger the drop-down behavior via JavaScript.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
       "sort_num": 0,
       "tag": "HTML5"
     }
   ],
   "product": "Firefox",
   "release_date": "2023-11-20",
+  "reviewed_by_release_manager": false,
   "slug": "firefox-122.0a1-nightly",
   "system_requirements": "## Windows\r\n\r\n### Operating Systems (32-bit and 64-bit)\r\n - Windows 10 or later\r\n\r\n### Recommended Hardware\r\n-  1 gigahertz (GHz) or faster compatible processor or System on a Chip (SoC)\r\n-  1GB of RAM / 2GB of RAM for the 64-bit version\r\n-  500MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- macOS 10.15 or later\r\n\r\n### Recommended Hardware\r\n- Macintosh computer with an Intel x86 or Apple silicon processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - glibc 2.17 or higher\r\n    - GTK+ 3.14 or higher\r\n    - libglib 2.42 or higher\r\n    - libstdc++ 4.8.1 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - DBus 1.0 or higher\r\n    - NetworkManager 0.7 or higher\r\n    - PulseAudio",
   "text": "Firefox Nightly gets updated every day and as a consequence, the release notes for the Nightly channel are updated continuously to reflect features that have reached sufficient maturity to benefit from community feedback and bug reports. \r\n\r\n**Warning: Features listed here may or may *not* make a final release of Firefox.**\r\n\r\nIn addition to these release notes, you can follow ongoing development on our [@FirefoxNightly][1] Twitter account, our  [@FirefoxNightly@mozilla.social][4] Mastodon account as well as read our [Nightly Blog][2].\r\n\r\nYou can interact with other Firefox Nightly users and give your feedback to Mozilla staff in the [Nightly Matrix room][3] on chat.mozilla.org.\r\n\r\n\r\n  [1]: https://twitter.com/FirefoxNightly\r\n  [2]: https://blog.nightly.mozilla.org\r\n  [3]: https://chat.mozilla.org/?#/room/#nightly:mozilla.org\r\n  [4]: https://mozilla.social/@FirefoxNightly",
