@@ -11,8 +11,10 @@
       "created": "2023-10-18T13:45:37.499513+00:00",
       "id": 789793,
       "is_public": true,
-      "modified": "2023-11-14T03:23:00.190498+00:00",
+      "modified": "2023-12-05T14:14:01.883049+00:00",
       "note": "Gradually rolling out in Fx119,  [Firefox View][1] includes more content. You can now see all open tabs, from all windows. If you sync open tabs, you\u2019ll see all tabs from other devices. Browsing history is now listed and you can sort by date or by site. As before, recently closed tabs are also listed on Firefox View.\r\n\r\nTo access Firefox View, select the file folder icon at the top left of your tab strip.\r\n\r\n![screenshot of Firefox View displaying open tabs and tabs from other devices][2]\r\n\r\n[1]: https://support.mozilla.org/kb/how-set-tab-pickup-firefox-view\r\n[2]: https://www.mozilla.org/media/img/firefox/releasenotes/note-images/119_firefox_view.png",
+      "progressive_rollout": true,
+      "relevant_countries": [],
       "sort_num": 0,
       "tag": "New"
     },
@@ -21,8 +23,10 @@
       "created": "2023-10-18T14:59:52.262138+00:00",
       "id": 789794,
       "is_public": true,
-      "modified": "2023-11-14T03:22:58.386974+00:00",
+      "modified": "2023-12-05T14:13:57.252439+00:00",
       "note": "Gradually rolling out in Fx119, Firefox now allows you to edit PDFs by adding images and alt text, in addition to text and drawings.\r\n\r\n![screenshot of a photo of a red fox being added to a PDF. The alt text tool is open to the left of the photo, ready for a description to be added.][1]\r\n\r\n[1]: https://www.mozilla.org/media/img/firefox/releasenotes/note-images/119_pdf_alt_text.png",
+      "progressive_rollout": true,
+      "relevant_countries": [],
       "sort_num": 0,
       "tag": "New"
     },
@@ -33,6 +37,8 @@
       "is_public": true,
       "modified": "2023-11-14T03:22:59.082462+00:00",
       "note": "Recently closed tabs now persist between sessions that don't have automatic session restore enabled. Manually restoring a previous session will continue to reopen any previously open tabs or windows.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
       "sort_num": 0,
       "tag": "New"
     },
@@ -43,6 +49,8 @@
       "is_public": true,
       "modified": "2023-11-14T03:23:03.843093+00:00",
       "note": "If you're migrating your data from Chrome, Firefox now offers the ability to import some of your extensions as well.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
       "sort_num": 0,
       "tag": "New"
     },
@@ -53,6 +61,8 @@
       "is_public": true,
       "modified": "2023-11-14T03:23:05.641230+00:00",
       "note": "As part of [Total Cookie Protection][1], Firefox now supports the partitioning of [Blob URLs][2], this mitigates a potential tracking vector that third-party agents could use to track an individual.\r\n\r\n[1]: https://blog.mozilla.org/mozilla/firefox-rolls-out-total-cookie-protection-by-default-to-all-users-worldwide/\r\n[2]: https://developer.mozilla.org/docs/Web/API/Blob",
+      "progressive_rollout": false,
+      "relevant_countries": [],
       "sort_num": 0,
       "tag": "New"
     },
@@ -63,6 +73,8 @@
       "is_public": true,
       "modified": "2023-11-14T03:22:50.090282+00:00",
       "note": "The visibility of fonts to websites has been restricted to system fonts and language pack fonts in [Enhanced Tracking Protection][1] strict mode to mitigate font fingerprinting.\r\n\r\n[1]: https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop#w_strict-enhanced-tracking-protection",
+      "progressive_rollout": false,
+      "relevant_countries": [],
       "sort_num": 0,
       "tag": "New"
     },
@@ -73,6 +85,8 @@
       "is_public": true,
       "modified": "2023-11-14T03:22:49.567386+00:00",
       "note": "The [Storage Access API][1] web standard was updated to improve security while mitigating website breakages and further enabling the phase out of third-party cookies in Firefox.\r\n\r\n[1]:https://developer.mozilla.org/docs/Web/API/Storage_Access_API",
+      "progressive_rollout": false,
+      "relevant_countries": [],
       "sort_num": 0,
       "tag": "New"
     },
@@ -83,6 +97,8 @@
       "is_public": true,
       "modified": "2023-11-14T03:22:49.058065+00:00",
       "note": "Encrypted Client Hello (ECH) is now available to Firefox users, delivering a more private browsing experience. ECH extends the encryption used in TLS connections to cover more of the handshake and better protect sensitive fields. Read more about the launch of ECH on [Mozilla Distilled][1].\r\n\r\n[1]:https://blog.mozilla.org/en/products/firefox/encrypted-hello/",
+      "progressive_rollout": false,
+      "relevant_countries": [],
       "sort_num": 0,
       "tag": "New"
     },
@@ -93,6 +109,8 @@
       "is_public": true,
       "modified": "2023-11-14T03:22:48.611746+00:00",
       "note": "Media sniffing is no longer applied to files served as type `application/octet-stream`, this allows these files to be downloaded instead of attempting playback.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
       "sort_num": 0,
       "tag": "New"
     },
@@ -103,6 +121,8 @@
       "is_public": true,
       "modified": "2023-11-14T03:22:48.160025+00:00",
       "note": "On Windows, the mouse pointer will disappear while typing if the relevant Windows [mouse properties][1] system setting is enabled.\r\n\r\n[1]: https://support.microsoft.com/windows/change-mouse-settings-e81356a4-0e74-fe38-7d01-9d79fbf8712b",
+      "progressive_rollout": false,
+      "relevant_countries": [],
       "sort_num": 0,
       "tag": "New"
     },
@@ -113,6 +133,8 @@
       "is_public": true,
       "modified": "2023-11-14T03:22:47.623376+00:00",
       "note": "Firefox is now available in the Santali (sat) language.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
       "sort_num": 0,
       "tag": "New"
     },
@@ -123,6 +145,8 @@
       "is_public": true,
       "modified": "2023-11-14T03:22:45.248653+00:00",
       "note": "[ARIA reflection][1] for simple attributes and default Accessibility Semantics for [Custom Elements][2] are now supported. Note this includes boolean, enum, number, and string attributes, but not attributes that reference other elements.\r\n\r\n[1]:https://developer.mozilla.org/docs/Web/API/Element#instance_properties_included_from_aria\r\n[2]:https://developer.mozilla.org/docs/Web/API/ElementInternals#instance_properties_included_from_aria",
+      "progressive_rollout": false,
+      "relevant_countries": [],
       "sort_num": 0,
       "tag": "HTML5"
     },
@@ -133,6 +157,8 @@
       "is_public": true,
       "modified": "2023-11-14T03:22:44.546456+00:00",
       "note": "`credentialless` is now supported in [Cross-Origin-Embedder-Policy][1].\r\n\r\n[1]:https://developer.mozilla.org/docs/Web/HTTP/Headers/Cross-Origin-Embedder-Policy",
+      "progressive_rollout": false,
+      "relevant_countries": [],
       "sort_num": 0,
       "tag": "HTML5"
     },
@@ -143,6 +169,8 @@
       "is_public": true,
       "modified": "2023-11-14T03:22:44.004629+00:00",
       "note": "The CSS [attr()][1] function now supports a fallback parameter, for example `attr(foobar, \"Default value\")`.\r\n\r\n[1]:https://developer.mozilla.org/docs/Web/CSS/attr",
+      "progressive_rollout": false,
+      "relevant_countries": [],
       "sort_num": 0,
       "tag": "HTML5"
     },
@@ -153,6 +181,8 @@
       "is_public": true,
       "modified": "2023-11-14T03:22:42.417820+00:00",
       "note": "Grouping of items in an array (and iterables) is now easier by using the methods `Object.groupBy` or `Map.groupBy`.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
       "sort_num": 0,
       "tag": "HTML5"
     },
@@ -163,6 +193,8 @@
       "is_public": true,
       "modified": "2023-11-14T03:22:46.056126+00:00",
       "note": "Several enhancements have been made to the Inactive CSS styles feature. This feature assists in identifying CSS properties that have no effect on an element. Pseudo-elements such as [::first-letter][1], [::cue][2], and [::placeholder][3] are now fully supported.\r\n\r\n[1]:https://bugzilla.mozilla.org/show_bug.cgi?id=1842175\r\n[2]:https://bugzilla.mozilla.org/show_bug.cgi?id=1849235\r\n[3]:https://bugzilla.mozilla.org/show_bug.cgi?id=1849255",
+      "progressive_rollout": false,
+      "relevant_countries": [],
       "sort_num": 0,
       "tag": "Developer"
     },
@@ -173,6 +205,8 @@
       "is_public": true,
       "modified": "2023-11-14T03:22:45.640715+00:00",
       "note": "The JSON viewer is particularly useful for debugging REST APIs, as it displays formatted JSON responses. Now, if the JSON is invalid or broken, it automatically [switches][1] to a raw data view, improving the user experience.\r\n\r\n[1]:https://bugzilla.mozilla.org/show_bug.cgi?id=1764897",
+      "progressive_rollout": false,
+      "relevant_countries": [],
       "sort_num": 0,
       "tag": "Developer"
     },
@@ -183,6 +217,8 @@
       "is_public": true,
       "modified": "2023-11-14T03:22:46.535849+00:00",
       "note": "You can find information about policy updates and enterprise specific bug fixes in the [Firefox for Enterprise 119 Release Notes][1].\r\n\r\n[1]:https://support.mozilla.org/kb/firefox-enterprise-119-release-notes",
+      "progressive_rollout": false,
+      "relevant_countries": [],
       "sort_num": 0,
       "tag": "Enterprise"
     },
@@ -193,6 +229,8 @@
       "is_public": true,
       "modified": "2023-11-14T03:22:46.974865+00:00",
       "note": "Fixed an issue causing unexpected jumps in scroll position on Facebook.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
       "sort_num": 0,
       "tag": "Fixed"
     },
@@ -203,6 +241,8 @@
       "is_public": true,
       "modified": "2023-11-14T03:52:02.069720+00:00",
       "note": "Various [security][1] fixes.\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/mfsa2023-45/",
+      "progressive_rollout": false,
+      "relevant_countries": [],
       "sort_num": 0,
       "tag": "Fixed"
     },
@@ -213,6 +253,8 @@
       "is_public": true,
       "modified": "2023-11-14T03:25:33.269182+00:00",
       "note": "With the release of Firefox 119, we are pleased to welcome the developers who contributed their first code change to Firefox in this release, 4 of whom were brand new volunteers! Please join us in thanking each of these diligent and enthusiastic individuals, and take a look at their contributions:\r\n\r\n* Abdullah Farweez): <a href=\"https://bugzilla.mozilla.org/1850608\">1850608</a>\r\n* fanzhuyifan (Yifan Zhu): <a href=\"https://bugzilla.mozilla.org/148624\">148624</a>, <a href=\"https://bugzilla.mozilla.org/1852191\">1852191</a>\r\n* Nagendra: <a href=\"https://bugzilla.mozilla.org/1849316\">1849316</a>\r\n* pommicket: <a href=\"https://bugzilla.mozilla.org/1248186\">1248186</a>",
+      "progressive_rollout": false,
+      "relevant_countries": [],
       "sort_num": 0,
       "tag": "Community"
     }
