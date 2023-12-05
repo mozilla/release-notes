@@ -31,6 +31,18 @@
       "tag": "New"
     },
     {
+      "bug": 1846935,
+      "created": "2023-12-05T14:11:03.836394+00:00",
+      "id": 789885,
+      "is_public": true,
+      "modified": "2023-12-05T14:11:03.836166+00:00",
+      "note": "Starting with Firefox 122, scroll animations triggered using a mouse wheel or using the keyboard (e.g. arrow keys, Page Down/Up) are now based on a Mass-Spring-Damper physics model in Nightly builds, this gives animations a more realistic feel.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1852837,
       "created": "2023-10-05T23:47:35.527349+00:00",
       "id": 789778,
