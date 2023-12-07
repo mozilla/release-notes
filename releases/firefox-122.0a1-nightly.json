@@ -125,6 +125,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "HTML5"
+    },
+    {
+      "bug": 1603699,
+      "created": "2023-12-07T18:48:53.253603+00:00",
+      "id": 789887,
+      "is_public": true,
+      "modified": "2023-12-07T18:48:53.253375+00:00",
+      "note": "The fallback URL parser for unknown schemes was changed to `DefaultURI` this improves specification adherence and web compatibility.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
     }
   ],
   "product": "Firefox",
