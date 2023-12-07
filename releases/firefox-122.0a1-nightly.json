@@ -43,6 +43,18 @@
       "tag": "New"
     },
     {
+      "bug": 1867375,
+      "created": "2023-12-07T16:24:29.368485+00:00",
+      "id": 789886,
+      "is_public": true,
+      "modified": "2023-12-07T16:24:29.368219+00:00",
+      "note": "Firefox now displays images and descriptions for search suggestions when provided by the search engine.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1852837,
       "created": "2023-10-05T23:47:35.527349+00:00",
       "id": 789778,
