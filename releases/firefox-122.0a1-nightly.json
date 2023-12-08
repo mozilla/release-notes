@@ -55,6 +55,18 @@
       "tag": "New"
     },
     {
+      "bug": 1867512,
+      "created": "2023-12-08T14:07:23.506873+00:00",
+      "id": 789888,
+      "is_public": true,
+      "modified": "2023-12-08T14:07:23.506631+00:00",
+      "note": "Starting with Firefox 122, it is now possible to highlight information in the Firefox PDF viewer in Nightly builds.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1852837,
       "created": "2023-10-05T23:47:35.527349+00:00",
       "id": 789778,
