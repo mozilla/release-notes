@@ -149,6 +149,30 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "HTML5"
+    },
+    {
+      "bug": 1868374,
+      "created": "2023-12-08T16:45:40.463974+00:00",
+      "id": 789889,
+      "is_public": true,
+      "modified": "2023-12-08T16:45:40.463732+00:00",
+      "note": "Added support for the [content-box][1] and [stroke-box][2] of the [transform-box][3] CSS property.\r\n\r\n[1]: https://developer.mozilla.org/docs/Web/CSS/transform-box#content-box\r\n[2]: https://developer.mozilla.org/docs/Web/CSS/transform-box#stroke-box\r\n[3]: https://developer.mozilla.org/docs/Web/CSS/transform-box",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 1598151,
+      "created": "2023-12-08T16:49:19.049718+00:00",
+      "id": 789890,
+      "is_public": true,
+      "modified": "2023-12-08T16:49:19.049533+00:00",
+      "note": "Added support for [ray()][1] to the [offset-path][2] CSS property.\r\n\r\n[1]: https://developer.mozilla.org/docs/Web/CSS/ray\r\n[2]: https://developer.mozilla.org/docs/Web/CSS/offset-path",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
     }
   ],
   "product": "Firefox",
