@@ -209,6 +209,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "HTML5"
+    },
+    {
+      "bug": 1328838,
+      "created": "2023-12-11T14:34:28.356055+00:00",
+      "id": 789894,
+      "is_public": true,
+      "modified": "2023-12-11T14:34:28.355875+00:00",
+      "note": "Some machines with older AMD CPUs may see image thumbnails incorrectly render as all black in file dialogs. If this is the case, updating the graphics driver should address this issue.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Known"
     }
   ],
   "product": "Firefox",
