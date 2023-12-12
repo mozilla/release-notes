@@ -11,8 +11,10 @@
       "created": "2023-11-14T04:02:27.342408+00:00",
       "id": 789863,
       "is_public": true,
-      "modified": "2023-11-14T04:02:27.340685+00:00",
+      "modified": "2023-12-12T17:43:37.628697+00:00",
       "note": "iOS 14 will no longer be supported.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
       "sort_num": 10,
       "tag": "New"
     },
@@ -29,8 +31,10 @@
       },
       "id": 789862,
       "is_public": true,
-      "modified": "2023-11-21T12:57:00.159529+00:00",
+      "modified": "2023-12-12T17:43:38.559459+00:00",
       "note": "Improved startup time.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
       "sort_num": 8,
       "tag": "Fixed"
     },
@@ -47,8 +51,10 @@
       },
       "id": 789861,
       "is_public": true,
-      "modified": "2023-11-21T12:57:21.559418+00:00",
+      "modified": "2023-12-12T17:43:40.381410+00:00",
       "note": "Fixed issue where Firefox icon in widget was the wrong color.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
       "sort_num": 5,
       "tag": "Fixed"
     },
@@ -57,8 +63,10 @@
       "created": "2023-11-21T12:56:37.136488+00:00",
       "id": 789869,
       "is_public": true,
-      "modified": "2023-11-21T12:56:37.136300+00:00",
+      "modified": "2023-12-12T17:43:39.437032+00:00",
       "note": "Various [security][1] fixes.\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/mfsa2023-51/",
+      "progressive_rollout": false,
+      "relevant_countries": [],
       "sort_num": 0,
       "tag": "Fixed"
     }

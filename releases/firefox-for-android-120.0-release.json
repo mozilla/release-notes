@@ -11,8 +11,10 @@
       "created": "2023-11-14T03:54:38.750303+00:00",
       "id": 789857,
       "is_public": true,
-      "modified": "2023-11-14T03:54:38.750103+00:00",
+      "modified": "2023-12-12T17:43:13.962821+00:00",
       "note": "In anticipation of opening up the Firefox for Android extension ecosystem later this year, dozens of new mobile extensions will surface during the 120 release cycle as we continue guardrail testing.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
       "sort_num": 0,
       "tag": "New"
     },
@@ -21,8 +23,10 @@
       "created": "2023-11-14T03:43:21.854611+00:00",
       "id": 789853,
       "is_public": true,
-      "modified": "2023-11-21T12:54:23.868275+00:00",
+      "modified": "2023-12-12T17:43:12.962151+00:00",
       "note": "Various [security][1] fixes.\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/mfsa2023-49/",
+      "progressive_rollout": false,
+      "relevant_countries": [],
       "sort_num": 0,
       "tag": "Fixed"
     },
@@ -39,8 +43,10 @@
       },
       "id": 789856,
       "is_public": true,
-      "modified": "2023-11-14T03:53:52.730026+00:00",
+      "modified": "2023-12-12T17:43:15.288047+00:00",
       "note": "Fixed tabs tray bug where selecting tabs could accidentally close them instead.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
       "sort_num": 0,
       "tag": "Fixed"
     }

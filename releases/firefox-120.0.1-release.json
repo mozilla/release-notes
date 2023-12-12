@@ -13,6 +13,8 @@
       "is_public": true,
       "modified": "2023-11-29T20:05:32.205789+00:00",
       "note": "Reference link to [120.0 release notes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/firefox/120.0/releasenotes/",
+      "progressive_rollout": false,
+      "relevant_countries": [],
       "sort_num": 0,
       "tag": ""
     },
@@ -31,6 +33,8 @@
       "is_public": true,
       "modified": "2023-11-29T21:22:46.092540+00:00",
       "note": "Fixed a bug that was causing persistent startup slowdowns. ([bug 1867095][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1867095",
+      "progressive_rollout": false,
+      "relevant_countries": [],
       "sort_num": 10,
       "tag": "Fixed"
     },
@@ -49,6 +53,8 @@
       "is_public": true,
       "modified": "2023-11-29T21:23:29.693968+00:00",
       "note": "Fixed an issue that was causing 100% CPU usage on sites such as Google Maps. ([bug 1866409][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1866409",
+      "progressive_rollout": false,
+      "relevant_countries": [],
       "sort_num": 9,
       "tag": "Fixed"
     },
@@ -67,6 +73,8 @@
       "is_public": true,
       "modified": "2023-11-29T20:57:56.012442+00:00",
       "note": "Fixed an issue that was causing YouTube videos to show a green screen when hardware acceleration was enabled. ([bug 1865928][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1865928",
+      "progressive_rollout": false,
+      "relevant_countries": [],
       "sort_num": 5,
       "tag": "Fixed"
     },
@@ -85,6 +93,8 @@
       "is_public": true,
       "modified": "2023-11-29T20:58:09.107017+00:00",
       "note": "Fixed an issue where the status bar was still visible when viewing fullscreen video. ([bug 1853896][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1853896",
+      "progressive_rollout": false,
+      "relevant_countries": [],
       "sort_num": 3,
       "tag": "Fixed"
     },
@@ -103,6 +113,8 @@
       "is_public": true,
       "modified": "2023-11-29T21:20:43.914851+00:00",
       "note": "Fixed a startup crash affecting Linux users on some aarch64 systems with page sizes other than 4KB. ([bug 1866025][1])\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1866025",
+      "progressive_rollout": false,
+      "relevant_countries": [],
       "sort_num": 1,
       "tag": "Fixed"
     }
