@@ -5,7 +5,20 @@
   "created": "2023-12-12T17:41:58.830908+00:00",
   "is_public": false,
   "modified": "2023-12-12T17:44:14.359627+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": null,
+      "created": "2023-12-12T18:56:35.179821+00:00",
+      "id": 789901,
+      "is_public": true,
+      "modified": "2023-12-12T18:56:35.179635+00:00",
+      "note": "With the release of Firefox 121, we are pleased to welcome the developers who contributed their first code change to Firefox in this release, 16 of whom were brand new volunteers! Please join us in thanking each of these diligent and enthusiastic individuals, and take a look at their contributions:\r\n\r\n* andreas221b: <a href=\"https://bugzilla.mozilla.org/1860232\">1860232</a>\r\n* Andy: <a href=\"https://bugzilla.mozilla.org/1855926\">1855926</a>\r\n* astrid: <a href=\"https://bugzilla.mozilla.org/1862509\">1862509</a>\r\n* bbhtt: <a href=\"https://bugzilla.mozilla.org/1863116\">1863116</a>\r\n* Debadree Chatterjee: <a href=\"https://bugzilla.mozilla.org/1827733\">1827733</a>, <a href=\"https://bugzilla.mozilla.org/1831412\">1831412</a>\r\n* Freya: <a href=\"https://bugzilla.mozilla.org/1857749\">1857749</a>\r\n* jerome: <a href=\"https://bugzilla.mozilla.org/1861722\">1861722</a>\r\n* Komuhangi Tumuhairwe: <a href=\"https://bugzilla.mozilla.org/1860231\">1860231</a>\r\n* Luke: <a href=\"https://bugzilla.mozilla.org/1864331\">1864331</a>\r\n* Mohak: <a href=\"https://bugzilla.mozilla.org/1862513\">1862513</a>\r\n* Nagata Aptana: <a href=\"https://bugzilla.mozilla.org/1860230\">1860230</a>\r\n* nzai: <a href=\"https://bugzilla.mozilla.org/1855726\">1855726</a>, <a href=\"https://bugzilla.mozilla.org/1863869\">1863869</a>\r\n* Patryk Gruszka: <a href=\"https://bugzilla.mozilla.org/1862507\">1862507</a>, <a href=\"https://bugzilla.mozilla.org/1864834\">1864834</a>\r\n* RAN1: <a href=\"https://bugzilla.mozilla.org/1837824\">1837824</a>\r\n* Tamsin: <a href=\"https://bugzilla.mozilla.org/1840621\">1840621</a>\r\n* Victor Boivie: <a href=\"https://bugzilla.mozilla.org/1464914\">1464914</a>, <a href=\"https://bugzilla.mozilla.org/1859759\">1859759</a>, <a href=\"https://bugzilla.mozilla.org/1862740\">1862740</a>",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Community"
+    }
+  ],
   "product": "Firefox",
   "release_date": "2023-12-19",
   "slug": "firefox-121.0-release",
