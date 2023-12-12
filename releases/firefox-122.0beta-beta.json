@@ -7,6 +7,42 @@
   "modified": "2023-12-12T15:50:23.415139+00:00",
   "notes": [
     {
+      "bug": 1867375,
+      "created": "2023-12-07T16:24:29.368485+00:00",
+      "id": 789886,
+      "is_public": true,
+      "modified": "2023-12-12T17:37:29.076016+00:00",
+      "note": "Firefox now displays images and descriptions for search suggestions when provided by the search engine.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1865357,
+      "created": "2023-12-12T17:33:49.469885+00:00",
+      "id": 789898,
+      "is_public": true,
+      "modified": "2023-12-12T17:33:49.469705+00:00",
+      "note": "[Firefox for Android][1] now supports enabling [Global Privacy Control][2]. With this feature, Firefox informs the websites that the user doesn\u2019t want their data to be shared or sold. This feature is enabled in private browsing mode by default and can be enabled in normal browsing in Settings \u2192 Enhanced Tracking Protection -> Tell websites not to share & sell data toggle.\r\n\r\n[1]: https://play.google.com/store/apps/details?id=org.mozilla.firefox_beta\r\n[2]: https://globalprivacycontrol.org/",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1815739,
+      "created": "2023-12-12T17:34:37.257553+00:00",
+      "id": 789899,
+      "is_public": true,
+      "modified": "2023-12-12T17:34:37.257375+00:00",
+      "note": "[Firefox for Android][1] can now be set as the default PDF reader.\r\n\r\n\r\n  [1]: https://play.google.com/store/apps/details?id=org.mozilla.firefox_beta",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1865470,
       "created": "2023-11-22T14:56:40.150334+00:00",
       "id": 789871,
@@ -97,6 +133,18 @@
       "is_public": true,
       "modified": "2023-12-12T17:26:41.424898+00:00",
       "note": "Enabled the [offset-position][1] property which is useful for most of the [offset-path][2] values.\r\n\r\n[1]: https://developer.mozilla.org/docs/Web/CSS/offset-position\r\n[2]: https://developer.mozilla.org/docs/Web/CSS/offset-path",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 1598159,
+      "created": "2023-12-08T16:57:11.048767+00:00",
+      "id": 789892,
+      "is_public": true,
+      "modified": "2023-12-12T17:37:22.887694+00:00",
+      "note": "Added support for [basic-shape][1] and [coord-box][2] for the [offset-path][3] CSS property.\r\n\r\n[1]: https://developer.mozilla.org/docs/Web/CSS/basic-shape\r\n[2]: https://developer.mozilla.org/docs/Web/CSS/box-edge#values\r\n[3]: https://developer.mozilla.org/docs/Web/CSS/offset-path",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
