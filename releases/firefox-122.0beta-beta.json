@@ -43,6 +43,18 @@
       "tag": "New"
     },
     {
+      "bug": 1869374,
+      "created": "2023-12-13T17:51:14.574268+00:00",
+      "id": 789902,
+      "is_public": true,
+      "modified": "2023-12-13T17:51:14.574091+00:00",
+      "note": "Firefox now supports creating and using [passkeys][1] stored in the iCloud Keychain on macOS.\r\n\r\n[1]: https://support.apple.com/guide/mac-help/create-a-passkey-mchl4af65d1a/mac",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1865470,
       "created": "2023-11-22T14:56:40.150334+00:00",
       "id": 789871,
