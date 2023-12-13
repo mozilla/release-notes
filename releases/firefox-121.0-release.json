@@ -8,6 +8,42 @@
   "notes": [
     {
       "bug": null,
+      "created": "2023-12-13T20:50:34.870704+00:00",
+      "id": 789913,
+      "is_public": true,
+      "modified": "2023-12-13T20:50:34.870519+00:00",
+      "note": "Firefox now supports `text-wrap: balance`, which can improve the appearance of short multi-line text blocks such as long headings or captions by harmonizing the line lengths.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 30,
+      "tag": "HTML5"
+    },
+    {
+      "bug": null,
+      "created": "2023-12-13T20:50:13.104267+00:00",
+      "id": 789912,
+      "is_public": true,
+      "modified": "2023-12-13T20:50:13.104087+00:00",
+      "note": "Lazy loading iframes are now supported (`<iframe loading=lazy>`). Lazy loading iframes are only loaded when visible, so non-critical iframes can load later when needed to speed up initial page loads, reduce initial network usage, etc.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 20,
+      "tag": "HTML5"
+    },
+    {
+      "bug": null,
+      "created": "2023-12-13T20:49:41.139404+00:00",
+      "id": 789911,
+      "is_public": true,
+      "modified": "2023-12-13T20:49:41.139230+00:00",
+      "note": "Support has been added for [tail call elimination][1] in WebAssembly language to improve support for functional languages.\r\n\r\n\r\n  [1]: https://github.com/WebAssembly/tail-call/blob/main/proposals/tail-call/Overview.md",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 10,
+      "tag": "HTML5"
+    },
+    {
+      "bug": null,
       "created": "2023-12-12T18:56:35.179821+00:00",
       "id": 789901,
       "is_public": true,
