@@ -8,6 +8,18 @@
   "notes": [
     {
       "bug": null,
+      "created": "2023-12-13T21:01:17.294023+00:00",
+      "id": 789923,
+      "is_public": true,
+      "modified": "2023-12-13T21:01:17.293846+00:00",
+      "note": "Firefox now prompts Windows users to install the Microsoft [AV1 Video Extension][1] to enable hardware decoding support for the AV1 video codec from `about:support` if not already installed.\r\n\r\n\r\n  [1]: https://apps.microsoft.com/detail/9MVZQVXJBQ9V",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 50,
+      "tag": "New"
+    },
+    {
+      "bug": null,
       "created": "2023-12-13T21:00:42.059606+00:00",
       "id": 789922,
       "is_public": true,
@@ -35,8 +47,8 @@
       "created": "2023-12-13T20:59:00.654192+00:00",
       "id": 789920,
       "is_public": true,
-      "modified": "2023-12-13T20:59:00.654013+00:00",
-      "note": "Firefox can now force links to always be underlined. This option can be toggled in the Browsing section of the Firefox Settings menu.\r\n\r\n<img src=\"https://www.mozilla.org/media/img/firefox/releasenotes/note-images/121_underline_links.png\" alt=\"Screenshot of new Always underline links option\">",
+      "modified": "2023-12-13T21:03:35.461389+00:00",
+      "note": "Firefox can now force links to always be underlined. This option can be toggled in the Browsing section of the Firefox Settings menu.\r\n\r\n<img src=\"https://www.mozilla.org/media/img/firefox/releasenotes/note-images/121_underline_links.png\" width=\"182\" height=\"30\" alt=\"Screenshot of new Always underline links option\">",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 20,
@@ -47,8 +59,8 @@
       "created": "2023-12-13T20:57:38.122900+00:00",
       "id": 789919,
       "is_public": true,
-      "modified": "2023-12-13T20:57:38.122720+00:00",
-      "note": "The PDF viewer now includes a floating button to simplify deleting drawings, text, and images added in PDFs.\r\n\r\n<img src=\"https://www.mozilla.org/media/img/firefox/releasenotes/note-images/121_pdf_image_button.png\" alt=\"Screenshot of new floating delete button\">",
+      "modified": "2023-12-13T21:05:35.680957+00:00",
+      "note": "The PDF viewer now includes a floating button to simplify deleting drawings, text, and images added in PDFs.\r\n\r\n<img src=\"https://www.mozilla.org/media/img/firefox/releasenotes/note-images/121_pdf_image_button.png\" width=\"855\" height=\"443\" alt=\"Screenshot of new floating delete button\">",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 10,
@@ -149,6 +161,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "Enterprise"
+    },
+    {
+      "bug": null,
+      "created": "2023-12-13T21:08:30.934951+00:00",
+      "id": 789924,
+      "is_public": true,
+      "modified": "2023-12-13T21:08:54.298853+00:00",
+      "note": "Various [security][1] fixes.\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/mfsa2023-54/",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
     },
     {
       "bug": null,
