@@ -8,6 +8,78 @@
   "notes": [
     {
       "bug": null,
+      "created": "2023-12-13T21:00:42.059606+00:00",
+      "id": 789922,
+      "is_public": true,
+      "modified": "2023-12-13T21:00:42.059415+00:00",
+      "note": "Firefox now supports [Voice Control commands][1] on macOS systems.\r\n\r\n\r\n  [1]: https://support.apple.com/guide/mac-help/use-voice-control-commands-mh40719/mac",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 40,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2023-12-13T21:00:08.138797+00:00",
+      "id": 789921,
+      "is_public": true,
+      "modified": "2023-12-13T21:00:08.138616+00:00",
+      "note": "On Linux, Firefox now defaults to the Wayland compositor when available instead of XWayland. This brings support for touchpad & touchscreen gestures, swipe-to-nav, per-monitor DPI settings, better graphics performance, and more.\r\n\r\nNote that due to Wayland protocol limitations, Picture-in-Picture windows require an extra user interaction (generally right-click on the window) or a shell / desktop-environment tweak. See [bug 1621261][1] for related discussion and tracking, [this post][2] for a KDE configuration, and [this extension][3] for GNOME.\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1621261\r\n  [2]: https://www.reddit.com/r/kde/comments/osjt3p/firefox_wayland_pip_workaround_or_how_i_learned/\r\n  [3]: https://extensions.gnome.org/extension/4691/pip-on-top/",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 30,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2023-12-13T20:59:00.654192+00:00",
+      "id": 789920,
+      "is_public": true,
+      "modified": "2023-12-13T20:59:00.654013+00:00",
+      "note": "Firefox can now force links to always be underlined. This option can be toggled in the Browsing section of the Firefox Settings menu.\r\n\r\n<img src=\"https://www.mozilla.org/media/img/firefox/releasenotes/note-images/121_underline_links.png\" alt=\"Screenshot of new Always underline links option\">",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 20,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2023-12-13T20:57:38.122900+00:00",
+      "id": 789919,
+      "is_public": true,
+      "modified": "2023-12-13T20:57:38.122720+00:00",
+      "note": "The PDF viewer now includes a floating button to simplify deleting drawings, text, and images added in PDFs.\r\n\r\n<img src=\"https://www.mozilla.org/media/img/firefox/releasenotes/note-images/121_pdf_image_button.png\" alt=\"Screenshot of new floating delete button\">",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 10,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2023-12-13T20:51:41.196342+00:00",
+      "id": 789915,
+      "is_public": true,
+      "modified": "2023-12-13T20:51:41.196162+00:00",
+      "note": "The [`:has()`][1] selector is now supported. This allows authors to match an element that has, or \"anchors\", at least one element matching its relative selector.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/CSS/:has",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 50,
+      "tag": "HTML5"
+    },
+    {
+      "bug": null,
+      "created": "2023-12-13T20:51:06.707957+00:00",
+      "id": 789914,
+      "is_public": true,
+      "modified": "2023-12-13T20:51:06.707770+00:00",
+      "note": "The CSS text-indent property now supports the `hanging` and `each-line` keywords, offering more convenient paragraph layout for styles such as bibliographies, poetry, etc.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 40,
+      "tag": "HTML5"
+    },
+    {
+      "bug": null,
       "created": "2023-12-13T20:50:34.870704+00:00",
       "id": 789913,
       "is_public": true,
@@ -41,6 +113,42 @@
       "relevant_countries": [],
       "sort_num": 10,
       "tag": "HTML5"
+    },
+    {
+      "bug": null,
+      "created": "2023-12-13T20:55:08.031221+00:00",
+      "id": 789917,
+      "is_public": true,
+      "modified": "2023-12-13T20:55:22.280553+00:00",
+      "note": "The Firefox Debugger now includes a new feature: an option to disable the `debugger;` keyword on the current page. This feature is accessible via a new checkbox in the Breakpoints side panel, labeled Pause on debugger statement, located next to the existing Pause on exceptions checkbox. By default, this option is enabled, meaning that the debugger statements are active unless manually disabled.\r\n\r\n<img src=\"https://www.mozilla.org/media/img/firefox/releasenotes/note-images/121_devtools_disable_debugger_statement.png\" alt=\"Screenshot showing new Pause on debugger statement option\">",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 20,
+      "tag": "Developer"
+    },
+    {
+      "bug": null,
+      "created": "2023-12-13T20:52:10.793351+00:00",
+      "id": 789916,
+      "is_public": true,
+      "modified": "2023-12-13T20:52:10.793171+00:00",
+      "note": "As part of our work on improving the accessibility of Firefox Developer Tools, we've unified the focus indicator across the toolbox. The focus indicator is now larger with improved contrast, featuring a white box-shadow for enhanced visibility on blue backgrounds. Adjustments have also been made to ensure clear visibility across shared components and frequently used panels, preventing overlap with element borders or backgrounds.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 10,
+      "tag": "Developer"
+    },
+    {
+      "bug": null,
+      "created": "2023-12-13T20:55:56.778753+00:00",
+      "id": 789918,
+      "is_public": true,
+      "modified": "2023-12-13T20:55:56.778556+00:00",
+      "note": "You can find information about policy updates and enterprise specific bug fixes in the [Firefox for Enterprise 121 Release Notes][1].\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/firefox-enterprise-121-release-notes",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Enterprise"
     },
     {
       "bug": null,
