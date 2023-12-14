@@ -103,6 +103,18 @@
       "tag": "New"
     },
     {
+      "bug": 1837424,
+      "created": "2023-12-14T17:24:41.543194+00:00",
+      "id": 789926,
+      "is_public": true,
+      "modified": "2023-12-14T17:24:41.543015+00:00",
+      "note": "The [translations][1] feature received an improvement to the quality of translated webpages. The results should be much more stable. This fixes issues where the content of a page could disappear when translated, or interactive widgets could break.\r\n\r\n[1]: https://support.mozilla.org/en-US/kb/website-translation",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1852837,
       "created": "2023-10-05T23:47:35.527349+00:00",
       "id": 789778,
