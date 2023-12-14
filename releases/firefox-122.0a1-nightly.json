@@ -91,6 +91,18 @@
       "tag": "New"
     },
     {
+      "bug": 1854032,
+      "created": "2023-12-14T14:17:38.352265+00:00",
+      "id": 789925,
+      "is_public": true,
+      "modified": "2023-12-14T14:17:38.352084+00:00",
+      "note": "The line breaking rules of Web content now match the Unicode Standard. This improves Web Browser compatibility for line breaking.\r\n\r\nAn additional improvement for East Asian and South East Asian end users, Firefox now supports proper language-aware word selection when double-clicking on text, for languages including Chinese, Japanese, Burmese, Lao, Khmer, and Thai.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1852837,
       "created": "2023-10-05T23:47:35.527349+00:00",
       "id": 789778,
