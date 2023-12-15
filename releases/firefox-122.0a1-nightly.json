@@ -307,6 +307,18 @@
       "tag": "HTML5"
     },
     {
+      "bug": 1864541,
+      "created": "2023-12-15T18:19:59.174336+00:00",
+      "id": 789929,
+      "is_public": true,
+      "modified": "2023-12-15T18:19:59.174152+00:00",
+      "note": "Firefox now recognizes the [\"webauthn\" autocomplete token][1] and will suggest [passkeys in form autofill dialogs][2].\r\n\r\n[1]: https://github.com/w3c/webauthn/wiki/Explainer:-WebAuthn-Conditional-UI\r\n[2]: https://web.dev/articles/passkey-form-autofill",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
       "bug": 1328838,
       "created": "2023-12-11T14:34:28.356055+00:00",
       "id": 789894,
