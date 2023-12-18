@@ -13,6 +13,8 @@
       "is_public": true,
       "modified": "2023-11-20T18:40:34.799998+00:00",
       "note": "Keyboard shortcuts have now been added for editing and deleting a selected credential on `about:logins`. For editing - `Alt + enter` (`Option + return` on macOS) and for deleting - `Alt + Backspace` (`Option + Delete` on macOS).",
+      "progressive_rollout": false,
+      "relevant_countries": [],
       "sort_num": 50,
       "tag": "New"
     },
@@ -23,6 +25,8 @@
       "is_public": true,
       "modified": "2023-11-20T18:40:35.695426+00:00",
       "note": "Users on Ubuntu Linux now have the ability to import from Chromium when both are installed as Snap packages.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
       "sort_num": 40,
       "tag": "New"
     },
@@ -33,6 +37,8 @@
       "is_public": true,
       "modified": "2023-11-20T18:40:37.649731+00:00",
       "note": "Users can now use an added devtools feature to simulate browser tabs to be offline.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
       "sort_num": 30,
       "tag": "New"
     },
@@ -43,6 +49,8 @@
       "is_public": true,
       "modified": "2023-11-20T18:40:39.538377+00:00",
       "note": "Picture-in-Picture now supports corner snapping on Windows and Linux - just hold `Ctrl` as you move the PiP window.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
       "sort_num": 20,
       "tag": "New"
     },
@@ -53,6 +61,8 @@
       "is_public": true,
       "modified": "2023-11-20T18:40:38.882283+00:00",
       "note": "Firefox now imports TLS trust anchors (e.g., certificates) from the operating system root store. This will be enabled by default on Windows, macOS, and Android, and if needed, can be turned off in settings (Preferences \u2192 Privacy & Security \u2192 Certificates).",
+      "progressive_rollout": false,
+      "relevant_countries": [],
       "sort_num": 10,
       "tag": "New"
     },
@@ -63,6 +73,8 @@
       "is_public": true,
       "modified": "2023-11-20T18:40:43.900534+00:00",
       "note": "Firefox now supports a setting (in Preferences \u2192 Privacy & Security) to enable [Global Privacy Control][1]. With this opt-in feature, Firefox informs the websites that the user doesn\u2019t want their data to be shared or sold.\r\n\r\n![UI setting for GPC][2]\r\n\r\n\r\n  [1]: https://globalprivacycontrol.org/\r\n  [2]: https://www.mozilla.org/media/img/firefox/releasenotes/note-images/120_relnote_GCP.png",
+      "progressive_rollout": false,
+      "relevant_countries": [],
       "sort_num": 0,
       "tag": "New"
     },
@@ -73,6 +85,8 @@
       "is_public": true,
       "modified": "2023-11-20T18:40:37.062476+00:00",
       "note": "`lh` and `rlh` units can now be parsed and computed correctly as [lengths][1]. This allows authors to specify lengths in terms of the element's (or the root element's) line height.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/length",
+      "progressive_rollout": false,
+      "relevant_countries": [],
       "sort_num": 20,
       "tag": "HTML5"
     },
@@ -83,6 +97,8 @@
       "is_public": true,
       "modified": "2023-11-20T18:40:38.269166+00:00",
       "note": "[WebAssembly GC][1] is now enabled by default, which allows new languages, such as [Dart][2] or [Kotlin][3], to run on Firefox. This makes it possible for reference cycles between the guest language and host browser to be collected. \r\n\r\n\r\n  [1]: https://github.com/WebAssembly/gc/blob/main/proposals/gc/Overview.md\r\n  [2]: https://wasmio.tech/sessions/flutter-dart-and-wasm-gc-a-new-model-for-web-applications/\r\n  [3]: https://kotlinlang.org/docs/wasm-overview.html#browser-support",
+      "progressive_rollout": false,
+      "relevant_countries": [],
       "sort_num": 10,
       "tag": "HTML5"
     },
@@ -93,6 +109,8 @@
       "is_public": true,
       "modified": "2023-10-23T13:17:37.743608+00:00",
       "note": "<!-- Nightly Only --> Starting with Firefox 117, partial support for the custom highlight API is now available in Nightly builds, allowing web developers to give ranges an appearance.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
       "sort_num": 0,
       "tag": "HTML5"
     },
@@ -103,6 +121,8 @@
       "is_public": true,
       "modified": "2023-11-15T17:33:54.171240+00:00",
       "note": "Starting with Firefox 119, the [:has()][1] selector is now available in nightly builds. This allows authors to match elements that has, or \"anchors\", at least one element matching its relative selector.\r\n\r\n[1]: https://developer.mozilla.org/docs/Web/CSS/:has",
+      "progressive_rollout": false,
+      "relevant_countries": [],
       "sort_num": 0,
       "tag": "HTML5"
     },
@@ -111,8 +131,10 @@
       "created": "2023-10-05T23:47:35.527349+00:00",
       "id": 789778,
       "is_public": true,
-      "modified": "2023-11-13T16:28:13.138133+00:00",
+      "modified": "2023-12-18T14:31:40.806416+00:00",
       "note": "Starting with Firefox 120, ULPFE/RED is now on by default for video in Nightly builds. This provides additional protection against packet loss for video during WebRTC calls.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
       "sort_num": 0,
       "tag": "HTML5"
     },
@@ -123,6 +145,8 @@
       "is_public": true,
       "modified": "2023-11-20T18:40:36.392856+00:00",
       "note": "The [User Activation API][1] has now been added, allowing JavaScript to check if the user currently is or has been active with the page (clicking, etc) with `navigator.userActivation`.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/UserActivation",
+      "progressive_rollout": false,
+      "relevant_countries": [],
       "sort_num": 20,
       "tag": "Developer"
     },
@@ -133,6 +157,8 @@
       "is_public": true,
       "modified": "2023-11-20T18:40:42.268958+00:00",
       "note": "Early Hints Preconnect, the informational [status code 103][1], is now enabled. This allows servers to send resource Link headers before the final HTTP response and improves performance on servers using this feature. ([read more)][2]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/103\r\n  [2]: https://blog.cloudflare.com/early-hints/",
+      "progressive_rollout": false,
+      "relevant_countries": [],
       "sort_num": 10,
       "tag": "Developer"
     },
@@ -143,6 +169,8 @@
       "is_public": true,
       "modified": "2023-11-20T15:37:48.461521+00:00",
       "note": "Starting with Firefox 120, [Lazy loading][1] iframes are now supported (`<iframe loading=lazy>`) for nightly users. Lazy loading iframes are only loaded when visible, so non-critical iframes can load later when needed to speed up initial page loads, reduce initial network usage, etc.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/Performance/Lazy_loading",
+      "progressive_rollout": false,
+      "relevant_countries": [],
       "sort_num": 0,
       "tag": "Developer"
     }

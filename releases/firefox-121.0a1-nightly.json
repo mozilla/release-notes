@@ -13,6 +13,8 @@
       "is_public": true,
       "modified": "2023-11-20T18:41:23.884686+00:00",
       "note": "Firefox now prompts Windows users to install the Microsoft AV1 Extension to enable hardware decoding support from `about:support` if not already installed.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
       "sort_num": 0,
       "tag": "New"
     },
@@ -23,6 +25,8 @@
       "is_public": true,
       "modified": "2023-11-20T18:41:29.153007+00:00",
       "note": "Firefox now supports Voice Control commands on macOS systems.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
       "sort_num": 0,
       "tag": "New"
     },
@@ -33,6 +37,8 @@
       "is_public": true,
       "modified": "2023-11-20T18:41:35.090737+00:00",
       "note": "Firefox now allows you to force-underline links in websites. This is useful for people with achromatopsia for example.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
       "sort_num": 0,
       "tag": "New"
     },
@@ -43,6 +49,8 @@
       "is_public": true,
       "modified": "2023-11-20T18:41:52.197420+00:00",
       "note": "On Linux, Firefox now defaults to the Wayland compositor when available instead of XWayland. This brings support for touchpad & touchscreen gestures, swipe-to-nav, per-monitor DPI settings, better graphics performance, and more.\r\n\r\nNote that due to Wayland protocol limitations, Picture-in-Picture windows require an extra user interaction (generally right-click on the window) or a shell / desktop-environment tweak. See [bug 1621261][1] for related discussion and tracking, [this post][2] for a KDE configuration, and [this extension][3] for GNOME.\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1621261\r\n  [2]: https://www.reddit.com/r/kde/comments/osjt3p/firefox_wayland_pip_workaround_or_how_i_learned/\r\n  [3]: https://extensions.gnome.org/extension/4691/pip-on-top/",
+      "progressive_rollout": false,
+      "relevant_countries": [],
       "sort_num": 0,
       "tag": "New"
     },
@@ -51,8 +59,10 @@
       "created": "2023-10-05T23:47:35.527349+00:00",
       "id": 789778,
       "is_public": true,
-      "modified": "2023-11-13T16:28:13.138133+00:00",
+      "modified": "2023-12-18T14:31:40.806416+00:00",
       "note": "Starting with Firefox 120, ULPFE/RED is now on by default for video in Nightly builds. This provides additional protection against packet loss for video during WebRTC calls.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
       "sort_num": 0,
       "tag": "HTML5"
     },
@@ -63,6 +73,8 @@
       "is_public": true,
       "modified": "2023-11-20T18:41:11.960427+00:00",
       "note": "The CSS text-indent property now supports the `hanging` and `each-line` keywords, offering more convenient paragraph layout for styles such as bibliographies, poetry, etc.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
       "sort_num": 0,
       "tag": "HTML5"
     },
@@ -73,6 +85,8 @@
       "is_public": true,
       "modified": "2023-11-20T18:41:18.183449+00:00",
       "note": "Firefox now supports `text-wrap: balance`, which can improve the appearance of short multi-line text blocks such as long headings or captions by harmonizing the line lengths.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
       "sort_num": 0,
       "tag": "HTML5"
     },
@@ -83,6 +97,8 @@
       "is_public": true,
       "modified": "2023-11-20T18:41:40.870459+00:00",
       "note": "Lazy loading iframes are now supported (`<iframe loading=lazy>`). Lazy loading iframes are only loaded when visible, so non-critical iframes can load later when needed to speed up initial page loads, reduce initial network usage, etc.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
       "sort_num": 0,
       "tag": "HTML5"
     },
@@ -93,6 +109,8 @@
       "is_public": true,
       "modified": "2023-11-20T18:41:46.148539+00:00",
       "note": "The [:has()][1] selector is now supported. This allows authors to match elements that has, or \"anchors\", at least one element matching its relative selector.\r\n\r\n[1]: https://developer.mozilla.org/docs/Web/CSS/:has",
+      "progressive_rollout": false,
+      "relevant_countries": [],
       "sort_num": 0,
       "tag": "HTML5"
     },
@@ -103,6 +121,8 @@
       "is_public": true,
       "modified": "2023-11-20T18:41:57.774042+00:00",
       "note": "Support has been added for [tail call elimination][1] in WebAssembly language to improve support for functional languages.\r\n\r\n\r\n  [1]: https://github.com/WebAssembly/tail-call/blob/main/proposals/tail-call/Overview.md",
+      "progressive_rollout": false,
+      "relevant_countries": [],
       "sort_num": 0,
       "tag": "HTML5"
     }
