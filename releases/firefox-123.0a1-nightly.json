@@ -103,6 +103,18 @@
       "tag": "HTML5"
     },
     {
+      "bug": null,
+      "created": "2023-12-20T08:32:06.093471+00:00",
+      "id": 789932,
+      "is_public": true,
+      "modified": "2023-12-20T08:32:06.093290+00:00",
+      "note": "We now implement [linearRGB interpolation for SVG gradients][1], as well as the existing sRGB interpolation. You can choose which to use via the color-interpolation property.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/SVG/Attribute/color-interpolation",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
       "bug": 1328838,
       "created": "2023-12-11T14:34:28.356055+00:00",
       "id": 789894,
