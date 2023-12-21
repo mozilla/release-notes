@@ -43,6 +43,18 @@
       "tag": "New"
     },
     {
+      "bug": 1819205,
+      "created": "2023-12-21T20:23:24.457431+00:00",
+      "id": 789935,
+      "is_public": true,
+      "modified": "2023-12-21T20:23:24.457244+00:00",
+      "note": "When translating web pages, we are now also translating text in tooltips (i.e. titles) and text displayed in form controls (i.e. placeholder).",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1852837,
       "created": "2023-10-05T23:47:35.527349+00:00",
       "id": 789778,
