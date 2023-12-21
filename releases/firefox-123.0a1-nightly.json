@@ -55,18 +55,6 @@
       "tag": "New"
     },
     {
-      "bug": 1852837,
-      "created": "2023-10-05T23:47:35.527349+00:00",
-      "id": 789778,
-      "is_public": true,
-      "modified": "2023-12-18T14:31:40.806416+00:00",
-      "note": "Starting with Firefox 120, ULPFE/RED is now on by default for video in Nightly builds. This provides additional protection against packet loss for video during WebRTC calls.",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "HTML5"
-    },
-    {
       "bug": 1866666,
       "created": "2023-11-30T14:50:26.922361+00:00",
       "id": 789883,
