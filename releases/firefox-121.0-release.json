@@ -68,26 +68,6 @@
     },
     {
       "bug": null,
-      "created": "2023-12-20T13:55:38.656529+00:00",
-      "fixed_in_release": {
-        "channel": "Release",
-        "is_public": true,
-        "product": "Firefox",
-        "slug": "firefox-121.0-release",
-        "title": "Firefox 121.0 Release",
-        "version": "121.0"
-      },
-      "id": 789933,
-      "is_public": true,
-      "modified": "2023-12-21T14:13:33.112192+00:00",
-      "note": "Ubuntu Firefox Snap builds did not default to Wayland compositing on some systems as expected. This is now fixed and updates can be installed with the Ubuntu Software Updater.",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": ""
-    },
-    {
-      "bug": null,
       "created": "2023-12-13T20:51:41.196342+00:00",
       "id": 789915,
       "is_public": true,
@@ -189,6 +169,18 @@
       "is_public": true,
       "modified": "2023-12-14T18:04:55.390431+00:00",
       "note": "Various [security][1] fixes.\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/mfsa2023-56/",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2023-12-20T13:55:38.656529+00:00",
+      "id": 789933,
+      "is_public": true,
+      "modified": "2023-12-21T14:39:26.457793+00:00",
+      "note": "Ubuntu Firefox Snap builds did not default to Wayland compositing on some systems as expected when Firefox 121 was first released. This is now fixed and updated builds can be installed with the Ubuntu Software Updater.",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
