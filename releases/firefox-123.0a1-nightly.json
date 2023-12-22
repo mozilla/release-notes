@@ -115,6 +115,18 @@
       "tag": "HTML5"
     },
     {
+      "bug": 1871507,
+      "created": "2023-12-22T13:17:07.062030+00:00",
+      "id": 789936,
+      "is_public": true,
+      "modified": "2023-12-22T13:17:07.061851+00:00",
+      "note": "When translating web pages, we are now also translating text in tooltips (i.e. titles) and text displayed in form controls (i.e. placeholder).",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
       "bug": 1328838,
       "created": "2023-12-11T14:34:28.356055+00:00",
       "id": 789894,
