@@ -259,6 +259,18 @@
       "tag": "HTML5"
     },
     {
+      "bug": 1869453,
+      "created": "2023-12-27T14:20:39.040768+00:00",
+      "id": 789937,
+      "is_public": true,
+      "modified": "2023-12-27T14:20:39.040556+00:00",
+      "note": "Uneven Level Protection Forward Error Correction (ULPFEC) will now be on by default in Firefox. This provides another tool for WebRTC services to utilize, improving video quality for users with spotty internet connections.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
       "bug": 1328838,
       "created": "2023-12-11T14:34:28.356055+00:00",
       "id": 789894,
