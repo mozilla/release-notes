@@ -55,6 +55,18 @@
       "tag": ""
     },
     {
+      "bug": 1852048,
+      "created": "2024-01-08T11:05:34.830816+00:00",
+      "id": 789940,
+      "is_public": true,
+      "modified": "2024-01-08T11:05:34.830586+00:00",
+      "note": "Address bar settings can now be found in Firefox Settings' Search section",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
       "bug": 1866666,
       "created": "2023-11-30T14:50:26.922361+00:00",
       "id": 789883,
