@@ -4,8 +4,20 @@
   "channel": "Release",
   "created": "2024-01-08T19:23:02.113560+00:00",
   "is_public": false,
-  "modified": "2024-01-08T19:23:36.184082+00:00",
+  "modified": "2024-01-08T19:55:47.436531+00:00",
   "notes": [
+    {
+      "bug": null,
+      "created": "2024-01-08T19:55:45.804245+00:00",
+      "id": 789945,
+      "is_public": true,
+      "modified": "2024-01-08T19:55:58.633914+00:00",
+      "note": "Reference link to [121.0 release notes][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/firefox/121.0/releasenotes/",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": ""
+    },
     {
       "bug": 1870973,
       "created": "2024-01-08T19:41:59.015049+00:00",
@@ -28,6 +40,30 @@
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 30,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1869994,
+      "created": "2024-01-08T19:51:40.693381+00:00",
+      "id": 789943,
+      "is_public": true,
+      "modified": "2024-01-08T19:51:40.693190+00:00",
+      "note": "Fixed missing rounded corners for videos playing over top of another video ([bug 1869994][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1869994",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 20,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1863135,
+      "created": "2024-01-08T19:54:48.732565+00:00",
+      "id": 789944,
+      "is_public": true,
+      "modified": "2024-01-08T19:54:48.732338+00:00",
+      "note": "Fixed Firefox not closing properly and other applications being unable to use a USB security key after being previously used during a Firefox session ([bug 1863135][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1863135",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 10,
       "tag": "Fixed"
     }
   ],
