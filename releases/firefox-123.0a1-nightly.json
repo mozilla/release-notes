@@ -139,6 +139,18 @@
       "tag": "HTML5"
     },
     {
+      "bug": 1221964,
+      "created": "2024-01-15T16:10:36.309042+00:00",
+      "id": 789946,
+      "is_public": true,
+      "modified": "2024-01-15T16:10:36.308870+00:00",
+      "note": "The Network Monitor now supports saving a response body to disk through the *Save Response As* context menu item. This replaces the *Save Image* context menu item, which only supported saving images.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
       "bug": 1819205,
       "created": "2023-12-22T13:17:07.062030+00:00",
       "id": 789936,
