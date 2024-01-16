@@ -5,7 +5,20 @@
   "created": "2024-01-16T15:38:06.235334+00:00",
   "is_public": false,
   "modified": "2024-01-16T15:38:06.235100+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": null,
+      "created": "2024-01-16T15:51:43.343426+00:00",
+      "id": 789947,
+      "is_public": true,
+      "modified": "2024-01-16T15:51:43.343247+00:00",
+      "note": "With the release of Firefox 122, we are pleased to welcome the developers who contributed their first code change to Firefox in this release, 10 of whom were brand new volunteers! Please join us in thanking each of these diligent and enthusiastic individuals, and take a look at their contributions:\r\n\r\n* AAR.dev: <a href=\"https://bugzilla.mozilla.org/1862505\">1862505</a>, <a href=\"https://bugzilla.mozilla.org/1865895\">1865895</a>\r\n* Akylzhan: <a href=\"https://bugzilla.mozilla.org/1862508\">1862508</a>\r\n* cmj.grubb: <a href=\"https://bugzilla.mozilla.org/1862504\">1862504</a>\r\n* jameshendry05: <a href=\"https://bugzilla.mozilla.org/1682239\">1682239</a>, <a href=\"https://bugzilla.mozilla.org/1739307\">1739307</a>, <a href=\"https://bugzilla.mozilla.org/1866273\">1866273</a>, <a href=\"https://bugzilla.mozilla.org/1866776\">1866776</a>\r\n* Jiangjin Wang: <a href=\"https://bugzilla.mozilla.org/1865969\">1865969</a>\r\n* matthewnewall: <a href=\"https://bugzilla.mozilla.org/1862511\">1862511</a>\r\n* Meera Murthy: <a href=\"https://bugzilla.mozilla.org/1869033\">1869033</a>\r\n* peterodejobi9: <a href=\"https://bugzilla.mozilla.org/1837072\">1837072</a>\r\n* realstealthninja: <a href=\"https://bugzilla.mozilla.org/1862506\">1862506</a>\r\n* Vsevolod Buzinov: <a href=\"https://bugzilla.mozilla.org/1865494\">1865494</a>, <a href=\"https://bugzilla.mozilla.org/1869853\">1869853</a>",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Community"
+    }
+  ],
   "product": "Firefox",
   "release_date": "2024-01-23",
   "slug": "firefox-122.0-release",
