@@ -5,7 +5,44 @@
   "created": "2024-01-16T15:39:09.523750+00:00",
   "is_public": false,
   "modified": "2024-01-16T15:39:09.523510+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": null,
+      "created": "2024-01-17T14:59:55.592379+00:00",
+      "id": 789957,
+      "is_public": true,
+      "modified": "2024-01-17T14:59:55.592202+00:00",
+      "note": "Firefox for Android can now be set as the default PDF reader.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 20,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2024-01-17T15:00:15.783784+00:00",
+      "id": 789958,
+      "is_public": true,
+      "modified": "2024-01-17T15:00:48.405056+00:00",
+      "note": "Firefox for Android now supports enabling Global Privacy Control. With this feature, Firefox informs websites that the user doesn\u2019t want their data to be shared or sold. This feature is enabled by default in private browsing mode and can be enabled in normal browsing in Settings \u2192 Enhanced Tracking Protection -> Tell websites not to share & sell data toggle.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 10,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2024-01-17T15:00:31.908939+00:00",
+      "id": 789959,
+      "is_public": true,
+      "modified": "2024-01-17T15:00:31.908744+00:00",
+      "note": "To reduce user fingerprinting information and the risk of some website compatibility issues, the OS version is now always reported as \"Android 10\" in Firefox for Android's User-Agent string.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    }
+  ],
   "product": "Firefox for Android",
   "release_date": "2024-01-23",
   "slug": "firefox-for-android-122.0-release",
