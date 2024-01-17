@@ -8,30 +8,6 @@
   "notes": [
     {
       "bug": null,
-      "created": "2024-01-17T14:12:37.464504+00:00",
-      "id": 789952,
-      "is_public": true,
-      "modified": "2024-01-17T14:12:37.464330+00:00",
-      "note": "Fixed focus on Search in Firefox Widget.",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 40,
-      "tag": ""
-    },
-    {
-      "bug": null,
-      "created": "2024-01-17T14:13:09.503418+00:00",
-      "id": 789954,
-      "is_public": true,
-      "modified": "2024-01-17T14:13:09.503238+00:00",
-      "note": "Fixed issues in Themes.",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 20,
-      "tag": ""
-    },
-    {
-      "bug": null,
       "created": "2024-01-17T14:11:26.479785+00:00",
       "id": 789949,
       "is_public": true,
@@ -68,6 +44,18 @@
     },
     {
       "bug": null,
+      "created": "2024-01-17T14:12:37.464504+00:00",
+      "id": 789952,
+      "is_public": true,
+      "modified": "2024-01-17T14:13:37.485714+00:00",
+      "note": "Fixed focus on Search in Firefox Widget.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 40,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
       "created": "2024-01-17T14:12:51.920665+00:00",
       "id": 789953,
       "is_public": true,
@@ -80,6 +68,18 @@
     },
     {
       "bug": null,
+      "created": "2024-01-17T14:13:09.503418+00:00",
+      "id": 789954,
+      "is_public": true,
+      "modified": "2024-01-17T14:13:55.187709+00:00",
+      "note": "Fixed issues in Themes.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 20,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
       "created": "2024-01-17T14:13:24.426145+00:00",
       "id": 789955,
       "is_public": true,
@@ -88,6 +88,18 @@
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 10,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2024-01-17T14:14:12.239373+00:00",
+      "id": 789956,
+      "is_public": true,
+      "modified": "2024-01-17T14:14:12.239149+00:00",
+      "note": "Fixed the accessibility voice-over for Credit Card information.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
       "tag": "Fixed"
     }
   ],
