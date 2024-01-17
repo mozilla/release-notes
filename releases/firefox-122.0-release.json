@@ -17,6 +17,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "Community"
+    },
+    {
+      "bug": null,
+      "created": "2024-01-17T16:00:31.288888+00:00",
+      "id": 789960,
+      "is_public": true,
+      "modified": "2024-01-17T16:00:31.288719+00:00",
+      "note": "Some machines with older AMD CPUs may see image thumbnails incorrectly rendered as all black in file dialogs. If this is the case, updating the graphics driver should address this issue.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Known"
     }
   ],
   "product": "Firefox",
