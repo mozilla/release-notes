@@ -4,7 +4,7 @@
   "channel": "Nightly",
   "created": "2023-12-18T14:31:40.725466+00:00",
   "is_public": true,
-  "modified": "2023-12-18T16:37:12.345156+00:00",
+  "modified": "2024-01-17T16:18:04.996682+00:00",
   "notes": [
     {
       "bug": 1860548,
@@ -41,18 +41,6 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "New"
-    },
-    {
-      "bug": 1852048,
-      "created": "2024-01-05T15:28:25.635020+00:00",
-      "id": 789939,
-      "is_public": true,
-      "modified": "2024-01-05T15:28:25.634788+00:00",
-      "note": "Address bar settings can now be found in the Firefox Settings' Search section.",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": ""
     },
     {
       "bug": 1852048,
