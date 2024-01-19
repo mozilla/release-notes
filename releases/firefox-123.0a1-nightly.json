@@ -139,6 +139,30 @@
       "tag": "HTML5"
     },
     {
+      "bug": 1849108,
+      "created": "2024-01-19T10:52:01.780139+00:00",
+      "id": 789983,
+      "is_public": true,
+      "modified": "2024-01-19T10:52:01.779960+00:00",
+      "note": "Audio echo cancellation can now be applied to microphone inputs when the audio output is redirected to another device with `setSinkId()`.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 1870052,
+      "created": "2024-01-19T10:56:52.676572+00:00",
+      "id": 789984,
+      "is_public": true,
+      "modified": "2024-01-19T10:56:52.676393+00:00",
+      "note": "Firefox now supports declarative ShadowDOM, providing developers greater flexibility and improved ergonomics when working with ShadowDOMs directly within HTML.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
       "bug": 1221964,
       "created": "2024-01-15T16:10:36.309042+00:00",
       "id": 789946,
