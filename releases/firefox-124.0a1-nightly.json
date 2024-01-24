@@ -89,6 +89,30 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "HTML5"
+    },
+    {
+      "bug": 1797449,
+      "created": "2024-01-24T14:53:15.141651+00:00",
+      "id": 789987,
+      "is_public": true,
+      "modified": "2024-01-24T14:53:15.141416+00:00",
+      "note": "You can now use HTTP(S) and relative URLs when creating WebSockets.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 1830781,
+      "created": "2024-01-24T14:59:38.309527+00:00",
+      "id": 789988,
+      "is_public": true,
+      "modified": "2024-01-24T14:59:38.309297+00:00",
+      "note": "Added support for [AbortSignal.any][1].\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/AbortSignal/any_static",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
     }
   ],
   "product": "Firefox",
