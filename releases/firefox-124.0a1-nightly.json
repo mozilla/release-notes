@@ -55,6 +55,27 @@
       "tag": "New"
     },
     {
+      "bug": 1875253,
+      "created": "2024-02-01T15:42:44.396651+00:00",
+      "id": 789991,
+      "is_public": true,
+      "modified": "2024-02-01T15:43:12.094994+00:00",
+      "note": "Starting with Firefox 124, Firefox now prompts nightly users in the US and Canada to save their addresses upon submitting an address form, allowing Firefox to autofill stored address information in the future.",
+      "progressive_rollout": false,
+      "relevant_countries": [
+        {
+          "code": "CA",
+          "name": "Canada"
+        },
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1866666,
       "created": "2023-11-30T14:50:26.922361+00:00",
       "id": 789883,
