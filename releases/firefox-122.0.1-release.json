@@ -7,30 +7,6 @@
   "modified": "2024-02-05T13:49:11.873766+00:00",
   "notes": [
     {
-      "bug": 1848801,
-      "created": "2024-02-05T15:06:15.313852+00:00",
-      "id": 789993,
-      "is_public": true,
-      "modified": "2024-02-05T15:11:17.102877+00:00",
-      "note": "Fixed an issue when clicking the Dismiss button in notification pop-ups on Windows causing a webpage in a new tab. ([Bug 1848801][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1848801",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 10,
-      "tag": ""
-    },
-    {
-      "bug": 1877002,
-      "created": "2024-02-05T15:11:00.841010+00:00",
-      "id": 789994,
-      "is_public": true,
-      "modified": "2024-02-05T15:11:00.840821+00:00",
-      "note": "Fixed system themes not applying correctly on Linux. ([Bug 1877002][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1877002",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 10,
-      "tag": ""
-    },
-    {
       "bug": null,
       "created": "2024-02-05T13:49:30.467056+00:00",
       "id": 789992,
@@ -41,6 +17,42 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": ""
+    },
+    {
+      "bug": 1876518,
+      "created": "2024-02-05T15:19:51.511085+00:00",
+      "id": 789995,
+      "is_public": true,
+      "modified": "2024-02-05T15:21:24.179663+00:00",
+      "note": "Fixed the Library and Sidebar context menus only displaying [Multi-Account Containers][1] icons in the \"Open in New Container Tab\" menu. ([Bug 1876518][2])\r\n\r\n\r\n  [1]: https://addons.mozilla.org/en-CA/firefox/addon/multi-account-containers/\r\n  [2]: https://bugzilla.mozilla.org/show_bug.cgi?id=1876518",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 20,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1848801,
+      "created": "2024-02-05T15:06:15.313852+00:00",
+      "id": 789993,
+      "is_public": true,
+      "modified": "2024-02-05T15:21:33.723705+00:00",
+      "note": "Fixed an issue when clicking the Dismiss button in notification pop-ups on Windows causing a webpage in a new tab. ([Bug 1848801][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1848801",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 10,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1877002,
+      "created": "2024-02-05T15:11:00.841010+00:00",
+      "id": 789994,
+      "is_public": true,
+      "modified": "2024-02-05T15:21:28.454995+00:00",
+      "note": "Fixed system themes not applying correctly on Linux. ([Bug 1877002][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1877002",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 10,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
