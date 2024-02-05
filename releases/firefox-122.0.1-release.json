@@ -31,6 +31,18 @@
       "tag": "Fixed"
     },
     {
+      "bug": 1876220,
+      "created": "2024-02-05T15:33:20.024375+00:00",
+      "id": 789996,
+      "is_public": true,
+      "modified": "2024-02-05T15:34:13.281178+00:00",
+      "note": "Fixed adding an extra new line to a rule in the Developer Tools' Inspector when copying it to the clipboard. ([Bug 1876220][1])\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1876220",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 15,
+      "tag": "Fixed"
+    },
+    {
       "bug": 1848801,
       "created": "2024-02-05T15:06:15.313852+00:00",
       "id": 789993,
@@ -52,6 +64,18 @@
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 10,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1877457,
+      "created": "2024-02-05T15:36:49.039141+00:00",
+      "id": 789997,
+      "is_public": true,
+      "modified": "2024-02-05T15:36:49.039009+00:00",
+      "note": "Rolled back a keyboard behavior change made to the Rules view when validating a property name or input with the Enter key.\r\nThis moves the focus to the next input, as was the behavior in Firefox 121. ([Bug 1877457][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1877457",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
       "tag": "Fixed"
     }
   ],
