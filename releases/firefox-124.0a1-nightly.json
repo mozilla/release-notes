@@ -76,6 +76,18 @@
       "tag": "New"
     },
     {
+      "bug": 1876743,
+      "created": "2024-02-08T00:08:05.375131+00:00",
+      "id": 789998,
+      "is_public": true,
+      "modified": "2024-02-08T00:08:05.374941+00:00",
+      "note": "Starting with Firefox 124, nightly users can now search in the Address Bar for tabs open in different containers. This behavior can be controlled through the `browser.urlbar.switchTabs.searchAllContainers` boolean preference.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1866666,
       "created": "2023-11-30T14:50:26.922361+00:00",
       "id": 789883,
