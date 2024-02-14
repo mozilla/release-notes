@@ -1,0 +1,53 @@
+{
+  "bug_list": "",
+  "bug_search_url": "",
+  "channel": "Release",
+  "created": "2024-02-14T07:32:36.120918+00:00",
+  "is_public": false,
+  "modified": "2024-02-14T07:33:20.526782+00:00",
+  "notes": [
+    {
+      "bug": null,
+      "created": "2024-02-14T07:34:58.138012+00:00",
+      "id": 790000,
+      "is_public": true,
+      "modified": "2024-02-14T07:34:58.137842+00:00",
+      "note": "Optimized Homepage Speed: Enjoy a faster and smoother browsing experience in Firefox.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2024-02-14T07:35:25.937847+00:00",
+      "id": 790001,
+      "is_public": true,
+      "modified": "2024-02-14T07:35:25.937695+00:00",
+      "note": "Enhanced Theme System: Updates and fixes for improved customization and fewer glitches.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2024-02-14T07:35:52.209272+00:00",
+      "id": 790002,
+      "is_public": true,
+      "modified": "2024-02-14T07:35:52.209131+00:00",
+      "note": "Status Bar: Fixed bugs for better clarity and reliability",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
+    }
+  ],
+  "product": "Firefox for iOS",
+  "release_date": "2024-02-20",
+  "slug": "firefox-for-ios-123.0-release",
+  "system_requirements": "## Operating systems\r\n - iOS 15\r\n - iOS 16\r\n - iOS 17",
+  "text": "",
+  "title": "Firefox for iOS 123.0 Release",
+  "version": "123.0"
+}

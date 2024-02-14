@@ -1,0 +1,29 @@
+{
+  "bug_list": "",
+  "bug_search_url": "",
+  "channel": "Release",
+  "created": "2024-02-14T07:38:29.762007+00:00",
+  "is_public": false,
+  "modified": "2024-02-14T07:39:10.447798+00:00",
+  "notes": [
+    {
+      "bug": null,
+      "created": "2024-02-14T07:40:07.960043+00:00",
+      "id": 790003,
+      "is_public": true,
+      "modified": "2024-02-14T07:40:07.959755+00:00",
+      "note": "To reduce user fingerprinting information and the risk of some website compatibility issues, report ARM64 Linux's CPU architecture as \"x86_64\" and ARM and x86 Android's as \"armv81\" in Firefox's User-Agent string and `navigator.platform` and `navigator.oscpu` Web APIs.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    }
+  ],
+  "product": "Firefox for Android",
+  "release_date": "2024-02-20",
+  "slug": "firefox-for-android-123.0-release",
+  "system_requirements": "## Operating systems\r\n - Android 5.0 or newer",
+  "text": "",
+  "title": "Firefox for Android 123.0 Release",
+  "version": "123.0"
+}
