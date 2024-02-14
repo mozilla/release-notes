@@ -100,6 +100,18 @@
       "tag": "New"
     },
     {
+      "bug": 1874702,
+      "created": "2024-02-14T09:27:33.579665+00:00",
+      "id": 790013,
+      "is_public": true,
+      "modified": "2024-02-14T09:27:33.579489+00:00",
+      "note": "Starting with Firefox 124, a simpler and more unified dialog for clearing user data is now available. In addition to streamlining data categories, the new dialog also provides insights into the site data size corresponding to the selected time range.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1866666,
       "created": "2023-11-30T14:50:26.922361+00:00",
       "id": 789883,
