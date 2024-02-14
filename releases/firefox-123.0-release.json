@@ -151,6 +151,18 @@
       "tag": "Fixed"
     },
     {
+      "bug": null,
+      "created": "2024-02-14T08:56:29.823519+00:00",
+      "id": 790012,
+      "is_public": true,
+      "modified": "2024-02-14T08:56:29.823320+00:00",
+      "note": "With the release of Firefox 123, we are pleased to welcome the developers who contributed their first code change to Firefox in this release, 9 of whom were brand new volunteers! Please join us in thanking each of these diligent and enthusiastic individuals, and take a look at their contributions:\r\n\r\n* Aaron: <a href=\"https://bugzilla.mozilla.org/1221964\">1221964</a>\r\n* Eliot Jacobs: <a href=\"https://bugzilla.mozilla.org/1843720\">1843720</a>, <a href=\"https://bugzilla.mozilla.org/1860845\">1860845</a>, <a href=\"https://bugzilla.mozilla.org/1867908\">1867908</a>\r\n* jfernandez@igalia.com: <a href=\"https://bugzilla.mozilla.org/1806693\">1806693</a>\r\n* Jon Parise: <a href=\"https://bugzilla.mozilla.org/1872505\">1872505</a>\r\n* Jordan Petridis: <a href=\"https://bugzilla.mozilla.org/1871863\">1871863</a>\r\n* Kaiido: <a href=\"https://bugzilla.mozilla.org/1872237\">1872237</a>\r\n* Kate Galich: <a href=\"https://bugzilla.mozilla.org/1867610\">1867610</a>\r\n* Redfire: <a href=\"https://bugzilla.mozilla.org/1872151\">1872151</a>, <a href=\"https://bugzilla.mozilla.org/1873317\">1873317</a>\r\n* toe_head2001: <a href=\"https://bugzilla.mozilla.org/1872457\">1872457</a>",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Community"
+    },
+    {
       "bug": 1328838,
       "created": "2023-12-11T14:34:28.356055+00:00",
       "id": 789894,
