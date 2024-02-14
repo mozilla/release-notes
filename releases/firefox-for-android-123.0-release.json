@@ -7,16 +7,28 @@
   "modified": "2024-02-14T07:39:10.447798+00:00",
   "notes": [
     {
-      "bug": null,
+      "bug": 1861847,
       "created": "2024-02-14T07:40:07.960043+00:00",
       "id": 790003,
       "is_public": true,
-      "modified": "2024-02-14T07:40:07.959755+00:00",
+      "modified": "2024-02-14T07:42:57.576944+00:00",
       "note": "To reduce user fingerprinting information and the risk of some website compatibility issues, report ARM64 Linux's CPU architecture as \"x86_64\" and ARM and x86 Android's as \"armv81\" in Firefox's User-Agent string and `navigator.platform` and `navigator.oscpu` Web APIs.",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2024-02-14T07:41:10.853409+00:00",
+      "id": 790004,
+      "is_public": true,
+      "modified": "2024-02-14T07:47:09.551491+00:00",
+      "note": "Various [security][1] fixes.\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox for Android",
