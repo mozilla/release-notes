@@ -43,18 +43,6 @@
       "tag": "Changed"
     },
     {
-      "bug": null,
-      "created": "2024-02-14T07:51:05.819162+00:00",
-      "id": 790009,
-      "is_public": true,
-      "modified": "2024-02-14T07:51:05.819034+00:00",
-      "note": "Address bar settings can now be found in Firefox Settings' Search section",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "Changed"
-    },
-    {
       "bug": 298281,
       "created": "2023-12-20T08:32:06.093471+00:00",
       "id": 789932,
@@ -127,16 +115,16 @@
       "tag": "Developer"
     },
     {
-      "bug": null,
-      "created": "2024-02-14T07:52:12.395090+00:00",
-      "id": 790010,
+      "bug": 1819205,
+      "created": "2023-12-22T13:17:07.062030+00:00",
+      "id": 789936,
       "is_public": true,
-      "modified": "2024-02-14T07:52:12.394963+00:00",
-      "note": "The Network Monitor now supports saving a response body to disk through the *Save Response As* context menu item. This replaces the *Save Image* context menu item, which only supported saving images.",
+      "modified": "2024-02-14T08:03:09.977572+00:00",
+      "note": "When translating web pages, we are now also translating text in tooltips (i.e. titles) and text displayed in form controls (i.e. placeholder).",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
-      "tag": "Developer"
+      "tag": "Fixed"
     },
     {
       "bug": null,
@@ -145,18 +133,6 @@
       "is_public": true,
       "modified": "2024-02-14T07:47:09.551491+00:00",
       "note": "Various [security][1] fixes.\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "Fixed"
-    },
-    {
-      "bug": null,
-      "created": "2024-02-14T07:50:38.697884+00:00",
-      "id": 790008,
-      "is_public": true,
-      "modified": "2024-02-14T07:50:38.697754+00:00",
-      "note": "When translating web pages, we are now also translating text in tooltips (i.e. titles) and text displayed in form controls (i.e. placeholder).",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
