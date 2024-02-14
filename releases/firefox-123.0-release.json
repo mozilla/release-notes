@@ -115,6 +115,18 @@
       "tag": "Developer"
     },
     {
+      "bug": null,
+      "created": "2024-02-14T08:21:51.466238+00:00",
+      "id": 790011,
+      "is_public": true,
+      "modified": "2024-02-14T08:21:51.466110+00:00",
+      "note": "You can find information about policy updates and enterprise specific bug fixes in the [Firefox for Enterprise 123 Release Notes][1].\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/firefox-enterprise-123-release-notes",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Enterprise"
+    },
+    {
       "bug": 1819205,
       "created": "2023-12-22T13:17:07.062030+00:00",
       "id": 789936,
