@@ -4,7 +4,7 @@
   "channel": "Nightly",
   "created": "2024-02-15T13:55:58.693663+00:00",
   "is_public": false,
-  "modified": "2024-02-15T14:39:47.264899+00:00",
+  "modified": "2024-02-15T14:41:11.214894+00:00",
   "notes": [
     {
       "bug": 1860548,
@@ -118,18 +118,6 @@
       "is_public": true,
       "modified": "2024-02-15T13:55:58.736303+00:00",
       "note": "Starting with Firefox 122, Nightly builds include support for Unicode text [segmentation][1] to JavaScript.\r\n\r\n[1]: https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Intl/Segmenter",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "HTML5"
-    },
-    {
-      "bug": 1874849,
-      "created": "2024-01-24T00:49:06.767902+00:00",
-      "id": 789986,
-      "is_public": true,
-      "modified": "2024-02-15T13:55:58.736303+00:00",
-      "note": "Firefox added support for the [Screen Wake Lock API][1].\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/Screen_Wake_Lock_API",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
