@@ -122,6 +122,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "HTML5"
+    },
+    {
+      "bug": 1880689,
+      "created": "2024-02-22T21:00:26.836058+00:00",
+      "id": 790017,
+      "is_public": true,
+      "modified": "2024-02-22T21:00:26.835845+00:00",
+      "note": "Support for `SVGAElement.text` was removed in favor of the more widely-implemented `SVGAElement.textContent` method.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
     }
   ],
   "product": "Firefox",
