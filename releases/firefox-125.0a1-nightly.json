@@ -74,6 +74,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "HTML5"
+    },
+    {
+      "bug": 1805727,
+      "created": "2024-02-27T19:07:26.476185+00:00",
+      "id": 790018,
+      "is_public": true,
+      "modified": "2024-02-27T19:07:26.475966+00:00",
+      "note": "Starting with Firefox 125, the `transition-behavior` CSS property is now supported in Nightly builds.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
     }
   ],
   "product": "Firefox",
