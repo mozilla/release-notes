@@ -41,6 +41,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2024-03-04T13:36:37.144002+00:00",
+      "id": 790024,
+      "is_public": true,
+      "modified": "2024-03-04T13:36:37.143825+00:00",
+      "note": "Fixed a regression with the `onChange` event not being fired when clearing the value of a `textarea` HTML field. ([Bug 1881457][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1881457",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
