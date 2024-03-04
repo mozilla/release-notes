@@ -131,6 +131,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "HTML5"
+    },
+    {
+      "bug": 1860816,
+      "created": "2024-03-04T20:31:23.587999+00:00",
+      "id": 790029,
+      "is_public": true,
+      "modified": "2024-03-04T20:31:23.587767+00:00",
+      "note": "Enabled WebAssembly multi-memory by default. Wasm multi-memory allows wasm modules to use and import multiple independent linear memories. This enables more efficient interop between modules, and better polyfills for upcoming wasm standards like the component model.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
     }
   ],
   "product": "Firefox",
