@@ -52,6 +52,27 @@
       "tag": "New"
     },
     {
+      "bug": 1875254,
+      "created": "2024-03-04T20:30:44.344520+00:00",
+      "id": 790028,
+      "is_public": true,
+      "modified": "2024-03-04T20:30:44.344313+00:00",
+      "note": "Firefox now prompts users in the US and Canada to save their addresses upon submitting an address form, allowing Firefox to autofill stored address information in the future.",
+      "progressive_rollout": false,
+      "relevant_countries": [
+        {
+          "code": "CA",
+          "name": "Canada"
+        },
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1866666,
       "created": "2023-11-30T14:50:26.922361+00:00",
       "id": 789883,
