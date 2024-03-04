@@ -17,6 +17,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": ""
+    },
+    {
+      "bug": null,
+      "created": "2024-03-04T12:55:22.262706+00:00",
+      "id": 790022,
+      "is_public": true,
+      "modified": "2024-03-04T12:55:22.262510+00:00",
+      "note": "Fixed the *Firefox Translation* language indicator in the address bar displaying a colored square icon instead of a language code icon. ([Bug 1879415)][1] \r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1879415",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": ""
     }
   ],
   "product": "Firefox",
