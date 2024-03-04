@@ -23,24 +23,24 @@
       "created": "2024-03-04T12:55:22.262706+00:00",
       "id": 790022,
       "is_public": true,
-      "modified": "2024-03-04T13:04:01.321334+00:00",
+      "modified": "2024-03-04T13:19:08.498227+00:00",
       "note": "Fixed the *Firefox Translation* language indicator in the address bar displaying a colored square icon instead of the language code icon. ([Bug 1879415)][1] \r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1879415",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
-      "tag": ""
+      "tag": "Fixed"
     },
     {
       "bug": null,
       "created": "2024-03-04T13:02:58.667225+00:00",
       "id": 790023,
       "is_public": true,
-      "modified": "2024-03-04T13:02:58.667061+00:00",
+      "modified": "2024-03-04T13:18:33.637707+00:00",
       "note": "Fixed incorrect rendering of Canvas2D conic gradients colors on Windows. ([Bug 1851963][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1851963",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
-      "tag": ""
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
