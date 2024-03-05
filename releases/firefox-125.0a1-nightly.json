@@ -4,26 +4,17 @@
   "channel": "Nightly",
   "created": "2024-02-15T13:55:58.693663+00:00",
   "is_public": true,
-  "modified": "2024-02-22T21:08:06.095103+00:00",
+  "modified": "2024-03-05T19:46:58.272836+00:00",
   "notes": [
     {
-      "bug": 1875253,
-      "created": "2024-02-01T15:42:44.396651+00:00",
-      "id": 789991,
+      "bug": 1860548,
+      "created": "2023-11-21T17:22:36.958892+00:00",
+      "id": 789870,
       "is_public": true,
-      "modified": "2024-02-15T13:55:58.736303+00:00",
-      "note": "Starting with Firefox 124, Firefox now prompts nightly users in the US and Canada to save their addresses upon submitting an address form, allowing Firefox to autofill stored address information in the future.",
+      "modified": "2024-03-05T19:50:49.310685+00:00",
+      "note": "Starting with Firefox 122, the URL Paste Suggestion feature is now enabled by default in Nightly builds. This enhancement provides a convenient way for users to quickly visit URLs copied to the clipboard in the address bar of desktop Firefox. When the clipboard contains a URL, and the user focuses on the URL bar, an autocomplete result appears automatically. Activating the clipboard suggestion will navigate the user to the URL with 1 click.",
       "progressive_rollout": false,
-      "relevant_countries": [
-        {
-          "code": "CA",
-          "name": "Canada"
-        },
-        {
-          "code": "US",
-          "name": "United States"
-        }
-      ],
+      "relevant_countries": [],
       "sort_num": 0,
       "tag": "New"
     },
@@ -32,8 +23,8 @@
       "created": "2024-02-08T00:08:05.375131+00:00",
       "id": 789998,
       "is_public": true,
-      "modified": "2024-02-15T13:55:58.736303+00:00",
-      "note": "Starting with Firefox 124, nightly users can now search in the Address Bar for tabs open in different containers. This behavior can be controlled through the `browser.urlbar.switchTabs.searchAllContainers` boolean preference.",
+      "modified": "2024-03-05T19:42:21.935973+00:00",
+      "note": "Starting with Firefox 124, Nightly users can now search in the Address Bar for tabs open in different containers. This behavior can be controlled through the `browser.urlbar.switchTabs.searchAllContainers` boolean preference.",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
@@ -44,8 +35,8 @@
       "created": "2024-02-14T09:27:33.579665+00:00",
       "id": 790013,
       "is_public": true,
-      "modified": "2024-02-15T13:55:58.736303+00:00",
-      "note": "Starting with Firefox 124, a simpler and more unified dialog for clearing user data is now available. In addition to streamlining data categories, the new dialog also provides insights into the site data size corresponding to the selected time range.",
+      "modified": "2024-03-05T19:41:57.551618+00:00",
+      "note": "Starting with Firefox 124, a simpler and more unified dialog for clearing user data is now available in Nightly builds. In addition to streamlining data categories, the new dialog also provides insights into the site data size corresponding to the selected time range.",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
@@ -73,16 +64,16 @@
       "tag": "New"
     },
     {
-      "bug": 1866666,
-      "created": "2023-11-30T14:50:26.922361+00:00",
-      "id": 789883,
+      "bug": 1877195,
+      "created": "2024-03-05T19:46:06.978733+00:00",
+      "id": 790031,
       "is_public": true,
-      "modified": "2024-02-15T13:55:58.736303+00:00",
-      "note": "Starting with Firefox 122,  the `popover` attribute is now supported by default in Nightly builds. The [popover][1] global attribute is used to designate an element as a popover element. The element won't render until it becomes shown, it will then render on top of other page content.\r\n\r\n[1]: https://developer.mozilla.org/docs/Web/HTML/Global_attributes/popover",
+      "modified": "2024-03-05T19:46:06.978525+00:00",
+      "note": "Firefox has expanded its download protection and now more proactively blocks downloads from URLs that are considered to be potentially untrustworthy.",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
-      "tag": "HTML5"
+      "tag": "New"
     },
     {
       "bug": 1880689,
