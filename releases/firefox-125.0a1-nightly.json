@@ -143,6 +143,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "HTML5"
+    },
+    {
+      "bug": 1878725,
+      "created": "2024-03-05T19:40:08.706710+00:00",
+      "id": 790030,
+      "is_public": true,
+      "modified": "2024-03-05T19:40:08.706525+00:00",
+      "note": "Starting with Firefox 125, Nightly builds will attempt to establish TLS connections using a hybrid post-quantum key agreement mechanism (X25519+Kyber768). This may result in slow TLS handshakes or failed connections on networks with TLS intercepting middleboxes. The feature can be disabled by setting the `security.tls.enable_kyber` preference to `false`.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
     }
   ],
   "product": "Firefox",
