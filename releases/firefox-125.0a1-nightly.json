@@ -146,6 +146,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "HTML5"
+    },
+    {
+      "bug": null,
+      "created": "2024-03-05T20:40:23.266819+00:00",
+      "id": 790034,
+      "is_public": true,
+      "modified": "2024-03-05T20:40:46.967277+00:00",
+      "note": "Some macOS Nightly users may see a prompt like the one below when trying to update a more recent build:\r\n\r\n<img src=\"https://www.mozilla.org/media/img/firefox/releasenotes/note-images/125_macos_broken_nightly.png\" width=\"432\" height=\"206\" alt=\"Screenshot of macOS reinstall prompt\">\r\n\r\nWhile the underlying cause of this bug was identified and resolved, users in this state should follow the instructions from the prompt and manually reinstall. No data will be lost in the process and this should only need to be done once for automatic updates to resume.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Known"
     }
   ],
   "product": "Firefox",
