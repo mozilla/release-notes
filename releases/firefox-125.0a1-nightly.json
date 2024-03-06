@@ -4,7 +4,7 @@
   "channel": "Nightly",
   "created": "2024-02-15T13:55:58.693663+00:00",
   "is_public": true,
-  "modified": "2024-03-05T19:46:58.272836+00:00",
+  "modified": "2024-03-06T21:38:42.115337+00:00",
   "notes": [
     {
       "bug": 1876743,
@@ -142,6 +142,18 @@
       "is_public": true,
       "modified": "2024-03-05T19:40:08.706525+00:00",
       "note": "Starting with Firefox 125, Nightly builds will attempt to establish TLS connections using a hybrid post-quantum key agreement mechanism (X25519+Kyber768). This may result in slow TLS handshakes or failed connections on networks with TLS intercepting middleboxes. The feature can be disabled by setting the `security.tls.enable_kyber` preference to `false`.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 1874849,
+      "created": "2024-03-06T21:38:38.277995+00:00",
+      "id": 790035,
+      "is_public": true,
+      "modified": "2024-03-06T21:39:39.440891+00:00",
+      "note": "Starting with Firefox 124, Nightly builds include support for the [Screen Wake Lock API][1].\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/Screen_Wake_Lock_API",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
