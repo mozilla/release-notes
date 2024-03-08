@@ -76,6 +76,18 @@
       "tag": "New"
     },
     {
+      "bug": 621429,
+      "created": "2024-03-08T20:51:50.188640+00:00",
+      "id": 790036,
+      "is_public": true,
+      "modified": "2024-03-08T20:51:50.188450+00:00",
+      "note": "Firefox now provides an option to enable Web Proxy Auto-Discovery (WPAD) while configured to use system proxy settings.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1868374,
       "created": "2023-12-08T16:45:40.463974+00:00",
       "id": 789889,
