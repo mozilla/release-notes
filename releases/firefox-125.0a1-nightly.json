@@ -4,20 +4,8 @@
   "channel": "Nightly",
   "created": "2024-02-15T13:55:58.693663+00:00",
   "is_public": true,
-  "modified": "2024-03-06T21:38:42.115337+00:00",
+  "modified": "2024-03-11T18:18:50.460068+00:00",
   "notes": [
-    {
-      "bug": 1876743,
-      "created": "2024-02-08T00:08:05.375131+00:00",
-      "id": 789998,
-      "is_public": true,
-      "modified": "2024-03-11T14:30:27.659497+00:00",
-      "note": "Starting with Firefox 124, Nightly users can now search in the Address Bar for tabs open in different containers. This behavior can be controlled through the `browser.urlbar.switchTabs.searchAllContainers` boolean preference.",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "New"
-    },
     {
       "bug": 1874702,
       "created": "2024-02-14T09:27:33.579665+00:00",
@@ -86,6 +74,30 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "New"
+    },
+    {
+      "bug": 1882815,
+      "created": "2024-03-11T18:18:44.246298+00:00",
+      "id": 790038,
+      "is_public": true,
+      "modified": "2024-03-11T18:18:44.246079+00:00",
+      "note": "Users of tab-specific Container add-ons can now search in the Address Bar for tabs that are open in different containers. Special thanks to volunteer contributor atararx for kicking off the work on this feature!",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1267488,
+      "created": "2024-03-11T18:16:56.713535+00:00",
+      "id": 790037,
+      "is_public": true,
+      "modified": "2024-03-11T18:16:56.713290+00:00",
+      "note": "In a group of radio buttons where no option is selected, the tab key now only reaches the first option, rather than every option being reachable with tab. The arrow keys navigate between options as they do when there is a selected option. This makes keyboard navigation more efficient and consistent.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Changed"
     },
     {
       "bug": 1868374,
