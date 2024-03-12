@@ -5,7 +5,44 @@
   "created": "2024-03-07T18:16:54.862172+00:00",
   "is_public": false,
   "modified": "2024-03-07T18:17:29.618003+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": null,
+      "created": "2024-03-12T02:40:37.036764+00:00",
+      "id": 790042,
+      "is_public": true,
+      "modified": "2024-03-12T02:40:37.036598+00:00",
+      "note": "Previously, Qwant and Ecosia were included as secondary search engine options for only French and German locales, respectively. As of Firefox 124, Qwant's availability has been expanded to the France region along with Belgium, Italy, Netherlands, Spain & Switzerland. Ecosia's availability has been expanded to the Germany region along with Austria, Belgium, Italy, Netherlands, Spain, Sweden and Switzerland.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 30,
+      "tag": "New"
+    },
+    {
+      "bug": 1862223,
+      "created": "2024-03-12T02:38:47.818652+00:00",
+      "id": 790041,
+      "is_public": true,
+      "modified": "2024-03-12T02:38:47.818459+00:00",
+      "note": "Firefox on Mac now uses the macOS fullscreen API for all types of fullscreen windows. This should better match the expected macOS user experience for fullscreen spaces, menubar and the Dock. Users who would like to return to the previous behavior should set the deprecated `full-screen-api.macos-native-full-screen`pref to `false`.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 20,
+      "tag": "New"
+    },
+    {
+      "bug": 807730,
+      "created": "2024-03-12T02:36:34.634194+00:00",
+      "id": 790040,
+      "is_public": true,
+      "modified": "2024-03-12T02:36:34.634012+00:00",
+      "note": "Caret browsing mode now also works in the PDF viewer. ([Learn more][1])\r\n\r\n\r\n  [1]: https://support.mozilla.org/en-US/kb/accessibility-features-firefox",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 10,
+      "tag": "New"
+    }
+  ],
   "product": "Firefox",
   "release_date": "2024-03-19",
   "slug": "firefox-124.0-release",
