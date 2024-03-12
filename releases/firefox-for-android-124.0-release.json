@@ -5,7 +5,32 @@
   "created": "2024-03-12T02:27:05.638707+00:00",
   "is_public": false,
   "modified": "2024-03-12T02:27:51.104310+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": 1879583,
+      "created": "2024-03-12T02:57:14.554777+00:00",
+      "id": 790049,
+      "is_public": true,
+      "modified": "2024-03-12T02:58:23.851484+00:00",
+      "note": "Pull to Refresh is now enabled by default. We've made it more robust than before!",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 20,
+      "tag": "New"
+    },
+    {
+      "bug": 1586471,
+      "created": "2024-03-12T02:56:12.008228+00:00",
+      "id": 790048,
+      "is_public": true,
+      "modified": "2024-03-12T02:58:55.880757+00:00",
+      "note": "HTML drag and drop API is now supported when using a mouse. Also, it accepts plain text or HTML text by drop operation from external applications.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 10,
+      "tag": "New"
+    }
+  ],
   "product": "Firefox for Android",
   "release_date": "2024-03-19",
   "slug": "firefox-for-android-124.0-release",

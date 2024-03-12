@@ -67,11 +67,11 @@
       "tag": "New"
     },
     {
-      "bug": null,
+      "bug": 1830781,
       "created": "2024-03-12T02:47:10.215656+00:00",
       "id": 790046,
       "is_public": true,
-      "modified": "2024-03-12T02:50:48.335098+00:00",
+      "modified": "2024-03-12T02:51:07.824692+00:00",
       "note": "Added support for [AbortSignal.any][1].\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/API/AbortSignal/any_static",
       "progressive_rollout": false,
       "relevant_countries": [],
@@ -79,11 +79,11 @@
       "tag": "HTML5"
     },
     {
-      "bug": null,
+      "bug": 1797449,
       "created": "2024-03-12T02:48:02.434542+00:00",
       "id": 790047,
       "is_public": true,
-      "modified": "2024-03-12T02:49:19.132361+00:00",
+      "modified": "2024-03-12T02:51:26.084025+00:00",
       "note": "You can now use HTTP(S) and relative URLs when creating WebSockets.",
       "progressive_rollout": false,
       "relevant_countries": [],
