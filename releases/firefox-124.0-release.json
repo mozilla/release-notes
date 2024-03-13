@@ -7,6 +7,18 @@
   "modified": "2024-03-07T18:17:29.618003+00:00",
   "notes": [
     {
+      "bug": 1855817,
+      "created": "2024-03-13T13:50:17.467423+00:00",
+      "id": 790050,
+      "is_public": true,
+      "modified": "2024-03-13T14:02:51.449922+00:00",
+      "note": "In Firefox View, open tabs can now be sorted by either recent activity or tab order. Recent activity is the default setting.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 60,
+      "tag": "New"
+    },
+    {
       "bug": 1880082,
       "created": "2024-03-12T02:44:18.836614+00:00",
       "id": 790044,
@@ -52,18 +64,6 @@
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 10,
-      "tag": "New"
-    },
-    {
-      "bug": 1855817,
-      "created": "2024-03-13T13:50:17.467423+00:00",
-      "id": 790050,
-      "is_public": true,
-      "modified": "2024-03-13T13:50:17.465487+00:00",
-      "note": "In Firefox View, open tabs can now be sorted by either recent activity or tab order. Recent activity is the default setting.",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
       "tag": "New"
     },
     {
