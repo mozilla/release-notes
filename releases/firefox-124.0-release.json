@@ -19,18 +19,6 @@
       "tag": "New"
     },
     {
-      "bug": 1867513,
-      "created": "2024-03-12T02:41:42.226243+00:00",
-      "id": 790043,
-      "is_public": true,
-      "modified": "2024-03-12T02:41:42.226098+00:00",
-      "note": "It is now possible to highlight in PDFs.\r\n\r\n![enter image description here][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/media/img/firefox/releasenotes/note-images/124relnote_highlight_pdf.png",
-      "progressive_rollout": true,
-      "relevant_countries": [],
-      "sort_num": 40,
-      "tag": "New"
-    },
-    {
       "bug": null,
       "created": "2024-03-12T02:40:37.036764+00:00",
       "id": 790042,
@@ -64,6 +52,18 @@
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 10,
+      "tag": "New"
+    },
+    {
+      "bug": 1855817,
+      "created": "2024-03-13T13:50:17.467423+00:00",
+      "id": 790050,
+      "is_public": true,
+      "modified": "2024-03-13T13:50:17.465487+00:00",
+      "note": "In Firefox View, open tabs can now be sorted by either recent activity or tab order. Recent activity is the default setting.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
       "tag": "New"
     },
     {
