@@ -67,6 +67,43 @@
       "tag": "New"
     },
     {
+      "bug": null,
+      "created": "2024-03-15T19:17:14.451178+00:00",
+      "id": 790059,
+      "is_public": true,
+      "modified": "2024-03-15T19:17:14.450959+00:00",
+      "note": "Qwant's availability has been expanded to the France region along with Belgium, Italy, Netherlands, Spain, and Switzerland.",
+      "progressive_rollout": true,
+      "relevant_countries": [
+        {
+          "code": "BE",
+          "name": "Belgium"
+        },
+        {
+          "code": "FR",
+          "name": "France"
+        },
+        {
+          "code": "IT",
+          "name": "Italy"
+        },
+        {
+          "code": "NL",
+          "name": "Netherlands"
+        },
+        {
+          "code": "ES",
+          "name": "Spain"
+        },
+        {
+          "code": "CH",
+          "name": "Switzerland"
+        }
+      ],
+      "sort_num": 0,
+      "tag": ""
+    },
+    {
       "bug": 1830781,
       "created": "2024-03-12T02:47:10.215656+00:00",
       "id": 790046,
