@@ -19,6 +19,18 @@
       "tag": "New"
     },
     {
+      "bug": 1855817,
+      "created": "2024-03-13T13:50:17.467423+00:00",
+      "id": 790050,
+      "is_public": true,
+      "modified": "2024-03-15T22:00:40.243819+00:00",
+      "note": "In Firefox View, open tabs can now be sorted by either recent activity or tab order. Recent activity is the default setting.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 55,
+      "tag": "New"
+    },
+    {
       "bug": 1880082,
       "created": "2024-03-12T02:44:18.836614+00:00",
       "id": 790044,
@@ -44,62 +56,13 @@
     },
     {
       "bug": null,
-      "created": "2024-03-12T02:40:37.036764+00:00",
-      "id": 790042,
-      "is_public": true,
-      "modified": "2024-03-15T17:49:09.698415+00:00",
-      "note": "Previously, Qwant and Ecosia were only included as secondary search engine options for French and German locales, respectively. As of Firefox 124, Qwant's availability has been expanded to the France region along with Belgium, Italy, Netherlands, Spain, and Switzerland. Ecosia's availability has been expanded to the Germany region along with Austria, Belgium, Italy, Netherlands, Spain, Sweden, and Switzerland.",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 30,
-      "tag": "New"
-    },
-    {
-      "bug": 1855817,
-      "created": "2024-03-13T13:50:17.467423+00:00",
-      "id": 790050,
-      "is_public": true,
-      "modified": "2024-03-13T16:35:51.980270+00:00",
-      "note": "In Firefox View, open tabs can now be sorted by either recent activity or tab order. Recent activity is the default setting.",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 10,
-      "tag": "New"
-    },
-    {
-      "bug": null,
       "created": "2024-03-15T21:09:51.365476+00:00",
       "id": 790060,
       "is_public": true,
-      "modified": "2024-03-15T21:11:40.923249+00:00",
-      "note": "As of Firefox 124, Qwant's availability has been expanded to the France region along with Belgium, Italy, Netherlands, Spain, and Switzerland.",
-      "progressive_rollout": true,
-      "relevant_countries": [
-        {
-          "code": "BE",
-          "name": "Belgium"
-        },
-        {
-          "code": "FR",
-          "name": "France"
-        },
-        {
-          "code": "IT",
-          "name": "Italy"
-        },
-        {
-          "code": "NL",
-          "name": "Netherlands"
-        },
-        {
-          "code": "ES",
-          "name": "Spain"
-        },
-        {
-          "code": "CH",
-          "name": "Switzerland"
-        }
-      ],
+      "modified": "2024-03-15T21:52:15.297250+00:00",
+      "note": "As of Firefox 124, Qwant's availability has been expanded to all languages in the France region along with Belgium, Italy, Netherlands, Spain, and Switzerland.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
       "sort_num": 3,
       "tag": "New"
     },
@@ -108,43 +71,10 @@
       "created": "2024-03-15T21:11:17.177901+00:00",
       "id": 790061,
       "is_public": true,
-      "modified": "2024-03-15T21:11:17.177713+00:00",
-      "note": "Ecosia's availability has been expanded to the Germany region along with Austria, Belgium, Italy, Netherlands, Spain, Sweden, and Switzerland.",
-      "progressive_rollout": true,
-      "relevant_countries": [
-        {
-          "code": "AT",
-          "name": "Austria"
-        },
-        {
-          "code": "BE",
-          "name": "Belgium"
-        },
-        {
-          "code": "DE",
-          "name": "Germany"
-        },
-        {
-          "code": "IT",
-          "name": "Italy"
-        },
-        {
-          "code": "NL",
-          "name": "Netherlands"
-        },
-        {
-          "code": "ES",
-          "name": "Spain"
-        },
-        {
-          "code": "SE",
-          "name": "Sweden"
-        },
-        {
-          "code": "CH",
-          "name": "Switzerland"
-        }
-      ],
+      "modified": "2024-03-15T21:54:26.837748+00:00",
+      "note": "Ecosia's availability has been expanded to all languages in the Germany region along with Austria, Belgium, Italy, Netherlands, Spain, Sweden, and Switzerland.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
       "sort_num": 2,
       "tag": "New"
     },
