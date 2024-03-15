@@ -68,11 +68,11 @@
     },
     {
       "bug": null,
-      "created": "2024-03-15T19:17:14.451178+00:00",
-      "id": 790059,
+      "created": "2024-03-15T21:09:51.365476+00:00",
+      "id": 790060,
       "is_public": true,
-      "modified": "2024-03-15T19:17:14.450959+00:00",
-      "note": "Qwant's availability has been expanded to the France region along with Belgium, Italy, Netherlands, Spain, and Switzerland.",
+      "modified": "2024-03-15T21:11:40.923249+00:00",
+      "note": "As of Firefox 124, Qwant's availability has been expanded to the France region along with Belgium, Italy, Netherlands, Spain, and Switzerland.",
       "progressive_rollout": true,
       "relevant_countries": [
         {
@@ -100,8 +100,53 @@
           "name": "Switzerland"
         }
       ],
-      "sort_num": 0,
-      "tag": ""
+      "sort_num": 3,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2024-03-15T21:11:17.177901+00:00",
+      "id": 790061,
+      "is_public": true,
+      "modified": "2024-03-15T21:11:17.177713+00:00",
+      "note": "Ecosia's availability has been expanded to the Germany region along with Austria, Belgium, Italy, Netherlands, Spain, Sweden, and Switzerland.",
+      "progressive_rollout": true,
+      "relevant_countries": [
+        {
+          "code": "AT",
+          "name": "Austria"
+        },
+        {
+          "code": "BE",
+          "name": "Belgium"
+        },
+        {
+          "code": "DE",
+          "name": "Germany"
+        },
+        {
+          "code": "IT",
+          "name": "Italy"
+        },
+        {
+          "code": "NL",
+          "name": "Netherlands"
+        },
+        {
+          "code": "ES",
+          "name": "Spain"
+        },
+        {
+          "code": "SE",
+          "name": "Sweden"
+        },
+        {
+          "code": "CH",
+          "name": "Switzerland"
+        }
+      ],
+      "sort_num": 2,
+      "tag": "New"
     },
     {
       "bug": 1830781,
