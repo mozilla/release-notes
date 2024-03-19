@@ -4,7 +4,7 @@
   "channel": "Release",
   "created": "2024-03-12T02:27:05.638707+00:00",
   "is_public": false,
-  "modified": "2024-03-12T02:27:51.104310+00:00",
+  "modified": "2024-03-19T03:01:09.144960+00:00",
   "notes": [
     {
       "bug": 1879583,
@@ -29,18 +29,6 @@
       "relevant_countries": [],
       "sort_num": 10,
       "tag": "New"
-    },
-    {
-      "bug": null,
-      "created": "2024-03-15T02:48:31.188558+00:00",
-      "id": 790058,
-      "is_public": true,
-      "modified": "2024-03-15T02:48:31.188359+00:00",
-      "note": "Various [security][1] fixes\r\n\r\n\r\n  [1]: https://www.mozilla.org/en-US/security/advisories/",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "Fixed"
     }
   ],
   "product": "Firefox for Android",
