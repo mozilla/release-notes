@@ -80,9 +80,21 @@
       "created": "2024-03-12T02:41:42.226243+00:00",
       "id": 790043,
       "is_public": true,
-      "modified": "2024-03-18T20:27:22.370738+00:00",
-      "note": "It is now possible to highlight in PDFs.\r\n\r\n<img src=\"https://www.mozilla.org/media/img/firefox/releasenotes/note-images/124relnote_highlight_pdf.png\" width=\"432\" height=\"206\" alt=\"Screenshot of highlight on pdf\">",
+      "modified": "2024-03-20T21:05:14.354814+00:00",
+      "note": "It is now possible to highlight in PDFs.",
       "progressive_rollout": true,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1601817,
+      "created": "2024-03-20T21:04:57.038476+00:00",
+      "id": 790067,
+      "is_public": true,
+      "modified": "2024-03-20T21:04:57.038278+00:00",
+      "note": "Firefox now supports AV1 codec for Encrypted Media Extensions (EME).",
+      "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "New"
