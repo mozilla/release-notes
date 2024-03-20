@@ -65,6 +65,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "HTML5"
+    },
+    {
+      "bug": 1823463,
+      "created": "2024-03-20T14:10:02.364502+00:00",
+      "id": 790065,
+      "is_public": true,
+      "modified": "2024-03-20T14:10:02.364289+00:00",
+      "note": "Added support for the [shape()][1] function on [clip-path][2] property.\r\n\r\n\r\n  [1]: https://drafts.csswg.org/css-shapes-2/#shape-function\r\n  [2]: https://drafts.fxtf.org/css-masking-1/#the-clip-path",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
     }
   ],
   "product": "Firefox",
