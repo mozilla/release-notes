@@ -182,6 +182,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "HTML5"
+    },
+    {
+      "bug": 1877400,
+      "created": "2024-03-20T20:20:14.132743+00:00",
+      "id": 790066,
+      "is_public": true,
+      "modified": "2024-03-20T20:20:14.132526+00:00",
+      "note": "Firefox now supports the [`navigator.clipboard.readText()`][1] web API. A paste context menu will appear for the user to confirm when attempting to read clipboard data not provided by the same-origin page.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/API/Clipboard_API",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
     }
   ],
   "product": "Firefox",
