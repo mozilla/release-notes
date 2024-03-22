@@ -31,6 +31,18 @@
       "tag": "New"
     },
     {
+      "bug": null,
+      "created": "2024-03-22T05:47:30.767090+00:00",
+      "id": 790071,
+      "is_public": false,
+      "modified": "2024-03-22T05:47:30.766953+00:00",
+      "note": "Fix for [MFSA 2024-15][1] included in 2024-03-21 builds and newer.\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/mfsa2024-15/",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": ""
+    },
+    {
       "bug": 1805727,
       "created": "2024-02-27T19:07:26.476185+00:00",
       "id": 790018,

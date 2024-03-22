@@ -17,6 +17,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": ""
+    },
+    {
+      "bug": null,
+      "created": "2024-03-22T05:41:28.917899+00:00",
+      "id": 790069,
+      "is_public": true,
+      "modified": "2024-03-22T05:48:31.644505+00:00",
+      "note": "[Security][1] Fix.\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/mfsa2024-16/",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": ""
     }
   ],
   "product": "Firefox Extended Support Release",
