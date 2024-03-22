@@ -8,11 +8,23 @@
   "notes": [
     {
       "bug": null,
+      "created": "2024-03-22T05:51:05.540600+00:00",
+      "id": 790073,
+      "is_public": true,
+      "modified": "2024-03-22T05:52:09.811636+00:00",
+      "note": "Reference link to [124.0 release notes][1].\r\n\r\n\r\n  [1]: https://www.mozilla.org/firefox/124.0/releasenotes/",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": ""
+    },
+    {
+      "bug": null,
       "created": "2024-03-22T05:50:05.663976+00:00",
       "id": 790072,
       "is_public": true,
-      "modified": "2024-03-22T05:50:05.663816+00:00",
-      "note": "[Security][1] Fix.\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/mfsa2024-15/",
+      "modified": "2024-03-22T05:52:13.365754+00:00",
+      "note": "[Security fixes][1].\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/mfsa2024-15/",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
