@@ -79,16 +79,16 @@
       "tag": "HTML5"
     },
     {
-      "bug": 1887467,
-      "created": "2024-03-25T15:19:41.522057+00:00",
-      "id": 790074,
+      "bug": 1731635,
+      "created": "2024-04-02T13:50:40.414661+00:00",
+      "id": 790080,
       "is_public": true,
-      "modified": "2024-03-25T15:19:41.521825+00:00",
-      "note": "Starting with Firefox 126, Nightly builds support [CSS Custom][1] `:state()` and `CustomStateSet`.\r\n\r\n\r\n  [1]: https://html.spec.whatwg.org/multipage/custom-elements.html#custom-state-pseudo-class",
+      "modified": "2024-04-02T13:50:40.414453+00:00",
+      "note": "Added an option to disable/enable the Developer Tools' [Split console][1] feature\r\n\r\n\r\n  [1]: https://firefox-source-docs.mozilla.org/devtools-user/web_console/split_console/index.html",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
-      "tag": "HTML5"
+      "tag": "Developer"
     },
     {
       "bug": null,
