@@ -127,6 +127,18 @@
       "tag": "HTML5"
     },
     {
+      "bug": 390936,
+      "created": "2024-04-03T15:09:28.131952+00:00",
+      "id": 790085,
+      "is_public": true,
+      "modified": "2024-04-03T15:09:28.131714+00:00",
+      "note": "The [CSS zoom property][1] has been enabled by default following a lot of web compatibility and standardization work in the CSSWG.\r\n\r\n\r\n  [1]: https://drafts.csswg.org/css-viewport/#zoom-property",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
       "bug": 1731635,
       "created": "2024-04-02T13:50:40.414661+00:00",
       "id": 790080,
