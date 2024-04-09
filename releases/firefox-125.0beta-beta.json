@@ -208,6 +208,18 @@
       "tag": "HTML5"
     },
     {
+      "bug": 1887729,
+      "created": "2024-04-09T16:25:29.254952+00:00",
+      "id": 790089,
+      "is_public": true,
+      "modified": "2024-04-09T16:25:29.254661+00:00",
+      "note": "Added support for [`contextlost`][1] and [`contextrestored`][2] events on HTMLCanvasElement and OffscreenCanvas to allow user code to recover from context loss with hardware accelerated 2d canvas.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/HTMLCanvasElement/contextlost_event\r\n  [2]: https://developer.mozilla.org/en-US/docs/Web/API/HTMLCanvasElement/contextrestored_event",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
       "bug": null,
       "created": "2024-03-22T05:44:07.278312+00:00",
       "id": 790070,
