@@ -5,7 +5,56 @@
   "created": "2024-04-08T18:43:47.233209+00:00",
   "is_public": false,
   "modified": "2024-04-08T18:44:52.024814+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": null,
+      "created": "2024-04-10T16:09:46.710136+00:00",
+      "id": 790117,
+      "is_public": true,
+      "modified": "2024-04-10T16:09:46.710001+00:00",
+      "note": "Added a new bottom sheet feature that populates user and password fields for your saved logins, streamlining the login process.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 10,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2024-04-10T16:10:08.286290+00:00",
+      "id": 790118,
+      "is_public": true,
+      "modified": "2024-04-10T16:10:08.286153+00:00",
+      "note": "Implemented fixes and updates to enhance the reliability of opening external links within Firefox.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 30,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2024-04-10T16:10:24.261719+00:00",
+      "id": 790119,
+      "is_public": true,
+      "modified": "2024-04-10T16:10:24.261584+00:00",
+      "note": "Addressed issues to enhance the functionality of deep links.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 20,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2024-04-10T16:10:39.480370+00:00",
+      "id": 790120,
+      "is_public": true,
+      "modified": "2024-04-10T16:10:39.480212+00:00",
+      "note": "Minor UX improvements and standardized fonts for a more cohesive interface.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 10,
+      "tag": "Fixed"
+    }
+  ],
   "product": "Firefox for iOS",
   "release_date": "2024-04-16",
   "slug": "firefox-for-ios-125.0-release",
