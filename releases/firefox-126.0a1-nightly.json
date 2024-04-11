@@ -43,6 +43,18 @@
       "tag": "New"
     },
     {
+      "bug": 1871796,
+      "created": "2024-04-11T17:40:06.490308+00:00",
+      "id": 790123,
+      "is_public": true,
+      "modified": "2024-04-11T17:40:06.490064+00:00",
+      "note": "Enabled AV1 hardware decode acceleration on macOS for M3 Macs.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1885561,
       "created": "2024-04-11T13:16:09.945027+00:00",
       "id": 790121,
