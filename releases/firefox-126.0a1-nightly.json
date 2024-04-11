@@ -43,6 +43,18 @@
       "tag": "New"
     },
     {
+      "bug": 1885561,
+      "created": "2024-04-11T13:16:09.945027+00:00",
+      "id": 790121,
+      "is_public": true,
+      "modified": "2024-04-11T13:16:09.944796+00:00",
+      "note": "For consistency with Firefox Desktop and addons.mozilla.org, [Firefox for Android][1]'s \"add-ons\" settings have been renamed to \"Extensions\".\r\n\r\n  [1]: https://play.google.com/store/apps/details?id=org.mozilla.fenix",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
       "bug": 1805727,
       "created": "2024-02-27T19:07:26.476185+00:00",
       "id": 790018,
