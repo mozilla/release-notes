@@ -269,6 +269,18 @@
       "relevant_countries": [],
       "sort_num": 10,
       "tag": "Community"
+    },
+    {
+      "bug": 1892069,
+      "created": "2024-04-18T14:43:08.295116+00:00",
+      "id": 790126,
+      "is_public": true,
+      "modified": "2024-04-18T14:43:08.294881+00:00",
+      "note": "The recently-shipped functionality more proactively blocking downloads from untrusted sources is not working as intended and causing impaired ability to download files in legitimate situations. We are working to address this via disabling the feature ASAP remotely and will also revert the change in the upcoming Firefox 125.0.2 release.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Known"
     }
   ],
   "product": "Firefox",
