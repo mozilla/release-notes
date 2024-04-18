@@ -4,7 +4,7 @@
   "channel": "Release",
   "created": "2024-04-08T18:43:47.311633+00:00",
   "is_public": true,
-  "modified": "2024-04-18T14:25:11.004338+00:00",
+  "modified": "2024-04-18T15:09:41.392944+00:00",
   "notes": [
     {
       "bug": null,
@@ -275,8 +275,8 @@
       "created": "2024-04-18T14:43:08.295116+00:00",
       "id": 790126,
       "is_public": true,
-      "modified": "2024-04-18T14:43:08.294881+00:00",
-      "note": "The recently-shipped functionality more proactively blocking downloads from untrusted sources is not working as intended and causing impaired ability to download files in legitimate situations. We are working to address this via disabling the feature ASAP remotely and will also revert the change in the upcoming Firefox 125.0.2 release.",
+      "modified": "2024-04-18T15:10:16.084814+00:00",
+      "note": "The recently-shipped functionality more proactively blocking downloads from untrusted sources is not working as intended and causing impaired ability to download files in legitimate situations. We are working to address this ASAP via disabling the feature remotely for existing installs and will also revert the change for the upcoming Firefox 125.0.2 release.",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
@@ -287,7 +287,7 @@
   "release_date": "2024-04-16",
   "slug": "firefox-125.0.1-release",
   "system_requirements": "## Windows\r\n\r\n### Operating Systems (32-bit and 64-bit)\r\n - Windows 10 or later\r\n\r\n### Recommended Hardware\r\n-  1 gigahertz (GHz) or faster compatible processor or System on a Chip (SoC)\r\n-  1GB of RAM / 2GB of RAM for the 64-bit version\r\n-  500MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- macOS 10.15 or later\r\n\r\n### Recommended Hardware\r\n- Macintosh computer with an Intel x86 or Apple silicon processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - glibc 2.17 or higher\r\n    - GTK+ 3.14 or higher\r\n    - libglib 2.42 or higher\r\n    - libstdc++ 4.8.1 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - DBus 1.0 or higher\r\n    - NetworkManager 0.7 or higher\r\n    - PulseAudio",
-  "text": "Due to a high-severity quality issue discovered shortly before release, the 125.0 release was skipped in favor of 125.0.1.",
+  "text": "*NOTE: Due to a high-severity quality issue discovered shortly before release, the 125.0 release was skipped in favor of 125.0.1.*",
   "title": "Firefox 125.0.1 Release",
   "version": "125.0.1"
 }
