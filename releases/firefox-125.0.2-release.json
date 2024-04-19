@@ -19,11 +19,11 @@
       "tag": ""
     },
     {
-      "bug": null,
+      "bug": 1892069,
       "created": "2024-04-19T15:22:19.232912+00:00",
       "id": 790128,
       "is_public": true,
-      "modified": "2024-04-19T15:22:19.232630+00:00",
+      "modified": "2024-04-19T15:27:27.305895+00:00",
       "note": "Reverted the changes to potentially untrusted download protection that were recently shipped in Firefox 125 due to unexpected problems reported by users. We plan to fix and re-enable these protections in a future release.",
       "progressive_rollout": false,
       "relevant_countries": [],
