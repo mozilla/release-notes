@@ -91,6 +91,18 @@
       "tag": "HTML5"
     },
     {
+      "bug": 1884424,
+      "created": "2024-04-02T13:52:47.847748+00:00",
+      "id": 790081,
+      "is_public": true,
+      "modified": "2024-04-25T22:24:18.934317+00:00",
+      "note": "Starting with Firefox 126, the [shape()][1] function on [offset-path][2] property is supported in nightly builds.\r\n\r\n\r\n  [1]: https://drafts.csswg.org/css-shapes-2/#shape-function\r\n  [2]: https://drafts.fxtf.org/motion-1/#offset-path-property",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
       "bug": 1884425,
       "created": "2024-04-02T13:58:47.087571+00:00",
       "id": 790082,
