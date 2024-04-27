@@ -19,6 +19,30 @@
       "tag": ""
     },
     {
+      "bug": 1892363,
+      "created": "2024-04-27T19:30:17.536277+00:00",
+      "id": 790137,
+      "is_public": true,
+      "modified": "2024-04-27T19:30:17.536065+00:00",
+      "note": "Fixed an issue which could cause Japanese users to see incorrect fonts in some situations ([bug 1892363][1]).\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1892363",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 40,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1888202,
+      "created": "2024-04-27T19:22:29.066444+00:00",
+      "id": 790136,
+      "is_public": true,
+      "modified": "2024-04-27T19:22:29.066277+00:00",
+      "note": "Fixed corruption of text containing unicode characters when being dragged on Linux systems ([bug 1888202][1]).\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1888202",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 30,
+      "tag": "Fixed"
+    },
+    {
       "bug": 1892699,
       "created": "2024-04-27T19:18:47.305570+00:00",
       "id": 790135,
