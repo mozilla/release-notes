@@ -77,6 +77,18 @@
       "relevant_countries": [],
       "sort_num": 10,
       "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2024-05-02T18:13:44.348666+00:00",
+      "id": 790140,
+      "is_public": true,
+      "modified": "2024-05-02T18:13:44.348463+00:00",
+      "note": "Some users have reported seeing long hangs when clicking on the address bar due to the new Clipboard Suggestion feature. Disabling this functionality by unchecking the \"Clipboard\" box in `about:preferences#search` should resolve the hangs for impacted users. The underlying performance issue will be addressed in a future Firefox release.\r\n\r\n<img src=\"https://www.mozilla.org/media/img/firefox/releasenotes/note-images/125_clipboard_suggest_disable.png\" width=\"429\" height=\"391\" alt=\"Screenshot showing the Clipboard option unselected in the Firefox Suggest preferences\">",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Known"
     }
   ],
   "product": "Firefox",
