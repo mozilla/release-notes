@@ -67,6 +67,18 @@
       "tag": "New"
     },
     {
+      "bug": 1873273,
+      "created": "2024-05-03T09:52:52.019004+00:00",
+      "id": 790142,
+      "is_public": true,
+      "modified": "2024-05-03T09:52:52.018795+00:00",
+      "note": "To reduce user fingerprinting information and the risk of some website compatibility issues, report 32-bit x86 Linux's CPU architecture as *x86_64* in Firefox's User-Agent string and `navigator.platform` and `navigator.oscpu` Web APIs.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
       "bug": 1805727,
       "created": "2024-02-27T19:07:26.476185+00:00",
       "id": 790018,
