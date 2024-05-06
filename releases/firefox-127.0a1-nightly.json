@@ -79,6 +79,18 @@
       "tag": "Changed"
     },
     {
+      "bug": 1036966,
+      "created": "2024-05-06T07:35:23.410586+00:00",
+      "id": 790143,
+      "is_public": true,
+      "modified": "2024-05-06T07:35:23.410367+00:00",
+      "note": "Links and other focusable elements are now tab-navigable by default on macOS, instead of following macOS' \"Keyboard navigation\" setting. This is a more accessible default and matches the default in all other platforms. A checkbox in the settings page still allows users to restore the old behavior.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
       "bug": 1805727,
       "created": "2024-02-27T19:07:26.476185+00:00",
       "id": 790018,
