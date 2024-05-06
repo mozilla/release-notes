@@ -31,6 +31,18 @@
       "tag": "New"
     },
     {
+      "bug": null,
+      "created": "2024-05-06T12:42:21.202804+00:00",
+      "id": 790144,
+      "is_public": true,
+      "modified": "2024-05-06T12:42:21.202586+00:00",
+      "note": "Copy Link Without Site Tracking has added the ability to remove parameters from nested URLs and expanded support for blocking over 300 tracking parameters from copied links, including those from major shopping websites. Keep those trackers away when sharing links!",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": ""
+    },
+    {
       "bug": 1885561,
       "created": "2024-04-11T13:19:50.092024+00:00",
       "id": 790122,
