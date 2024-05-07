@@ -8,6 +8,54 @@
   "notes": [
     {
       "bug": null,
+      "created": "2024-05-07T19:41:19.702117+00:00",
+      "id": 790155,
+      "is_public": true,
+      "modified": "2024-05-07T19:49:29.564702+00:00",
+      "note": "Copy Without Site Tracking can now remove parameters from nested URLs. It also includes expanded support for blocking over 300 tracking parameters from copied links, including those from major shopping websites. Keep those trackers away when sharing links!\r\n\r\n![screenshot of the context menu when right clicking a URL and demonstrating the Copy Without Site Tracking option][1]\r\n\r\n[1]: https://www.mozilla.org/media/img/firefox/releasenotes/note-images/126_copy_without_site_tracking.png",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 90,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2024-05-07T19:44:42.282236+00:00",
+      "id": 790156,
+      "is_public": true,
+      "modified": "2024-05-07T19:49:37.802997+00:00",
+      "note": "Firefox now supports Content-encoding: [zstd (zstandard compression)][1]. This is an alternative to broti and gzip compression for web content, and can provide higher compression levels for the same CPU used, or conversely lower server CPU use to get the same compression. This is heavily used on sites such as Facebook.\r\n\r\n\r\n  [1]: http://facebook.github.io/zstd/",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 80,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2024-05-07T19:45:37.577980+00:00",
+      "id": 790157,
+      "is_public": true,
+      "modified": "2024-05-07T19:49:42.502394+00:00",
+      "note": "Enabled AV1 hardware decode acceleration on macOS for M3 Macs.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 70,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2024-05-07T19:47:44.879746+00:00",
+      "id": 790158,
+      "is_public": true,
+      "modified": "2024-05-07T19:49:49.739006+00:00",
+      "note": "Telemetry was added to create an aggregate count of searches by category to broadly inform search feature development. These categories are based on 20 high-level content types, such as \"sports,\u201d \"business,\" and \"travel\". This data will not be associated with specific users and will be collected using OHTTP to remove IP addresses as potentially identifying metadata. No profiling will be performed, and no data will be shared with third parties.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 60,
+      "tag": "New"
+    },
+    {
+      "bug": null,
       "created": "2024-05-07T18:47:27.016690+00:00",
       "id": 790154,
       "is_public": true,
