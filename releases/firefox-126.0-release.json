@@ -5,7 +5,44 @@
   "created": "2024-05-03T14:53:08.771065+00:00",
   "is_public": false,
   "modified": "2024-05-03T14:53:08.770848+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": null,
+      "created": "2024-05-07T17:58:11.875109+00:00",
+      "id": 790148,
+      "is_public": true,
+      "modified": "2024-05-07T17:58:11.874962+00:00",
+      "note": "Added an option to disable/enable the Developer Tools' [Split console][1] feature.\r\n\r\n\r\n  [1]: https://firefox-source-docs.mozilla.org/devtools-user/web_console/split_console/index.html",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
+      "bug": null,
+      "created": "2024-05-07T17:57:20.015045+00:00",
+      "id": 790147,
+      "is_public": true,
+      "modified": "2024-05-07T17:57:20.014827+00:00",
+      "note": "You can find information about policy updates and enterprise specific bug fixes in the [Firefox for Enterprise 126 Release Notes][1].\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/firefox-enterprise-126-release-notes",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Enterprise"
+    },
+    {
+      "bug": null,
+      "created": "2024-05-07T17:56:46.055056+00:00",
+      "id": 790146,
+      "is_public": true,
+      "modified": "2024-05-07T17:56:46.054823+00:00",
+      "note": "With the release of Firefox 126, we are pleased to welcome the developers who contributed their first code change to Firefox in this release, 12 of whom were brand new volunteers! Please join us in thanking each of these diligent and enthusiastic individuals, and take a look at their contributions:\r\n\r\n* [:flowejam]: <a href=\"https://bugzilla.mozilla.org/1885693\">1885693</a>\r\n* Amit Prakash Ambasta: <a href=\"https://bugzilla.mozilla.org/1889054\">1889054</a>\r\n* Atlas Foulks: <a href=\"https://bugzilla.mozilla.org/243797\">243797</a>, <a href=\"https://bugzilla.mozilla.org/1273551\">1273551</a>\r\n* Camille: <a href=\"https://bugzilla.mozilla.org/1856717\">1856717</a>, <a href=\"https://bugzilla.mozilla.org/1883058\">1883058</a>\r\n* Christoph Moench-Tegeder: <a href=\"https://bugzilla.mozilla.org/1890593\">1890593</a>\r\n* gravyant: <a href=\"https://bugzilla.mozilla.org/1838152\">1838152</a>\r\n* Harshit: <a href=\"https://bugzilla.mozilla.org/1888221\">1888221</a>\r\n* Mika Valkealahti: <a href=\"https://bugzilla.mozilla.org/1879304\">1879304</a>\r\n* Nuohan Li: <a href=\"https://bugzilla.mozilla.org/1888420\">1888420</a>\r\n* serfreeman1337: <a href=\"https://bugzilla.mozilla.org/1810362\">1810362</a>\r\n* siddharthaswarnkar: <a href=\"https://bugzilla.mozilla.org/1825386\">1825386</a>, <a href=\"https://bugzilla.mozilla.org/1853829\">1853829</a>\r\n* Vaibhav Mali: <a href=\"https://bugzilla.mozilla.org/1880783\">1880783</a>",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Community"
+    }
+  ],
   "product": "Firefox",
   "release_date": "2024-05-14",
   "slug": "firefox-126.0-release",
