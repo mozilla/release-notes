@@ -32,6 +32,18 @@
     },
     {
       "bug": null,
+      "created": "2024-05-07T18:25:09.290319+00:00",
+      "id": 790151,
+      "is_public": true,
+      "modified": "2024-05-07T18:25:09.290104+00:00",
+      "note": "Added support for [CSS Custom][1] `:state()` and `CustomStateSet`.\r\n\r\n\r\n  [1]: https://html.spec.whatwg.org/multipage/custom-elements.html#custom-state-pseudo-class",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": null,
       "created": "2024-05-07T17:58:11.875109+00:00",
       "id": 790148,
       "is_public": true,
