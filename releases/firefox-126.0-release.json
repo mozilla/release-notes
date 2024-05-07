@@ -8,6 +8,18 @@
   "notes": [
     {
       "bug": null,
+      "created": "2024-05-07T18:47:27.016690+00:00",
+      "id": 790154,
+      "is_public": true,
+      "modified": "2024-05-07T18:47:27.016534+00:00",
+      "note": "The  URL Paste Suggestion feature added in [Fx125][1] was temporarily disabled while the team investigates a potential performance issue. The feature will be re-enabled in a future release once the performance issue is addressed.\r\n\r\n\r\n  [1]: https://www.mozilla.org/firefox/125.0.1/releasenotes/",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
+      "bug": null,
       "created": "2024-05-07T18:02:47.487218+00:00",
       "id": 790149,
       "is_public": true,
@@ -49,6 +61,18 @@
       "is_public": true,
       "modified": "2024-05-07T18:27:52.021898+00:00",
       "note": "Added support for [Screen Wake Lock API][1].\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/API/Screen_Wake_Lock_API",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": null,
+      "created": "2024-05-07T18:42:19.106370+00:00",
+      "id": 790153,
+      "is_public": true,
+      "modified": "2024-05-07T18:42:19.106139+00:00",
+      "note": "Added support for [IDBFactory.databases][1] for enumeration of IndexedDB databases.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/API/IDBFactory/databases",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
