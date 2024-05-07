@@ -5,7 +5,20 @@
   "created": "2024-05-03T14:54:49.744015+00:00",
   "is_public": false,
   "modified": "2024-05-03T14:54:49.743868+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": null,
+      "created": "2024-05-07T20:06:58.980491+00:00",
+      "id": 790161,
+      "is_public": true,
+      "modified": "2024-05-07T20:06:58.980238+00:00",
+      "note": "Various [security fixes][1] and other quality improvements.\r\n\r\n\r\n [1]: https://www.mozilla.org/security/advisories/",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
+    }
+  ],
   "product": "Firefox Extended Support Release",
   "release_date": "2024-05-14",
   "slug": "firefox-115.11.0-esr",

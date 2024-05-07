@@ -5,7 +5,56 @@
   "created": "2024-05-03T14:54:00.897076+00:00",
   "is_public": false,
   "modified": "2024-05-03T14:54:00.896927+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": null,
+      "created": "2024-05-07T20:09:13.911214+00:00",
+      "id": 790163,
+      "is_public": true,
+      "modified": "2024-05-07T20:10:00.616301+00:00",
+      "note": "Refined deep links and external links logic within Firefox, ensuring smoother navigation.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 90,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2024-05-07T20:09:26.259628+00:00",
+      "id": 790164,
+      "is_public": true,
+      "modified": "2024-05-07T20:09:53.996071+00:00",
+      "note": "Implemented minor fixes to improve navigability and stability.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 80,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2024-05-07T20:09:40.067501+00:00",
+      "id": 790165,
+      "is_public": true,
+      "modified": "2024-05-07T20:09:40.067221+00:00",
+      "note": "Fixed issues with Night Mode caching on websites.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 70,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2024-05-07T20:10:28.293988+00:00",
+      "id": 790166,
+      "is_public": true,
+      "modified": "2024-05-07T20:10:28.293536+00:00",
+      "note": "Fixed issues causing an inaccurate display of tab thumbnails.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 50,
+      "tag": "Fixed"
+    }
+  ],
   "product": "Firefox for iOS",
   "release_date": "2024-05-14",
   "slug": "firefox-for-ios-126.0-release",
