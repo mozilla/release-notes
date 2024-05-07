@@ -67,6 +67,18 @@
       "tag": "New"
     },
     {
+      "bug": 1895222,
+      "created": "2024-05-07T10:00:27.984922+00:00",
+      "id": 790145,
+      "is_public": true,
+      "modified": "2024-05-07T10:00:27.984720+00:00",
+      "note": "Starting with Firefox 127, we're enabling a new anti-tracking feature in Nightly: [Bounce Tracking Protection][1]. This protection detects bounce trackers based on redirect behavior and periodically purges their cookies & site data to prevent tracking.\r\n\r\n\r\n  [1]: https://groups.google.com/a/mozilla.org/g/dev-platform/c/M6erM0SjPTM",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1873273,
       "created": "2024-05-03T09:52:52.019004+00:00",
       "id": 790142,
