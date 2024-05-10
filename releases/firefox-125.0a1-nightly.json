@@ -104,7 +104,7 @@
       "created": "2024-03-14T00:25:15.425333+00:00",
       "id": 790056,
       "is_public": true,
-      "modified": "2024-05-10T17:18:17.952598+00:00",
+      "modified": "2024-05-10T17:32:53.239237+00:00",
       "note": "Starting with Firefox 125, Nightly builds support resolving HTTPS DNS records with the operating system's DNS resolver on specific platforms (Windows 11, Linux, Android 10+) without requiring DNS over HTTPS to be enabled. This capability allows the use of HTTP/3 without needing to use the Alt-Svc header, upgrades requests to HTTPS when the DNS record is present, and enables wider use of ECH. This feature is expected to ship in Firefox 126.",
       "progressive_rollout": false,
       "relevant_countries": [],
