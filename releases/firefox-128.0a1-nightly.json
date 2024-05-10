@@ -4,7 +4,7 @@
   "channel": "Nightly",
   "created": "2024-05-10T17:18:17.911355+00:00",
   "is_public": false,
-  "modified": "2024-05-10T17:23:12.344572+00:00",
+  "modified": "2024-05-10T17:29:39.516742+00:00",
   "notes": [
     {
       "bug": 1874464,
@@ -13,18 +13,6 @@
       "is_public": true,
       "modified": "2024-05-10T17:18:17.952598+00:00",
       "note": "Starting with Firefox 125, Nightly builds support resolving HTTPS DNS records with the operating system's DNS resolver on specific platforms (Windows 11, Linux, Android 10+) without requiring DNS over HTTPS to be enabled. This capability allows the use of HTTP/3 without needing to use the Alt-Svc header, upgrades requests to HTTPS when the DNS record is present, and enables wider use of ECH. This feature is expected to ship in Firefox 126.",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
-      "bug": 1596935,
-      "created": "2024-05-03T08:52:55.410709+00:00",
-      "id": 790141,
-      "is_public": true,
-      "modified": "2024-05-10T17:18:17.952598+00:00",
-      "note": "In Firefox 127, we completed work to optimize and enable DNS prefetching for HTTPS documents via the `rel=\"dns-prefetch\"` link hint. This standard allows web developers to specify domain names for important assets that should be resolved preemptively.",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
