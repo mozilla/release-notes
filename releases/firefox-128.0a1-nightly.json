@@ -2,22 +2,10 @@
   "bug_list": "",
   "bug_search_url": "",
   "channel": "Nightly",
-  "created": "2024-04-15T09:56:44.050901+00:00",
-  "is_public": true,
-  "modified": "2024-04-15T12:11:39.489002+00:00",
+  "created": "2024-05-10T17:18:17.911355+00:00",
+  "is_public": false,
+  "modified": "2024-05-10T17:23:12.344572+00:00",
   "notes": [
-    {
-      "bug": 1874702,
-      "created": "2024-02-14T09:27:33.579665+00:00",
-      "id": 790013,
-      "is_public": true,
-      "modified": "2024-05-10T17:23:10.677016+00:00",
-      "note": "Starting with Firefox 124, a simpler and more unified dialog for clearing user data is now available in Nightly builds. In addition to streamlining data categories, the new dialog also provides insights into the site data size corresponding to the selected time range.",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "New"
-    },
     {
       "bug": 1874464,
       "created": "2024-03-14T00:25:15.425333+00:00",
@@ -25,30 +13,6 @@
       "is_public": true,
       "modified": "2024-05-10T17:18:17.952598+00:00",
       "note": "Starting with Firefox 125, Nightly builds support resolving HTTPS DNS records with the operating system's DNS resolver on specific platforms (Windows 11, Linux, Android 10+) without requiring DNS over HTTPS to be enabled. This capability allows the use of HTTP/3 without needing to use the Alt-Svc header, upgrades requests to HTTPS when the DNS record is present, and enables wider use of ECH. This feature is expected to ship in Firefox 126.",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
-      "bug": 1891797,
-      "created": "2024-04-25T14:29:55.932329+00:00",
-      "id": 790130,
-      "is_public": true,
-      "modified": "2024-05-10T17:18:45.904998+00:00",
-      "note": "The tabs context menu now allows you to close duplicate tabs.",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
-      "bug": 1892782,
-      "created": "2024-04-25T14:31:32.044664+00:00",
-      "id": 790131,
-      "is_public": true,
-      "modified": "2024-05-10T17:18:48.754966+00:00",
-      "note": "You can now set Firefox to automatically launch whenever you start or restart your Windows computer. Setting Firefox to auto-launch optimizes efficiency in our browser-centric digital routines, eliminating manual startup delays and facilitating immediate web access. ([Learn more][1])\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/open-firefox-automatically-when-you-start-computer",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
@@ -77,30 +41,6 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "New"
-    },
-    {
-      "bug": 1873273,
-      "created": "2024-05-03T09:52:52.019004+00:00",
-      "id": 790142,
-      "is_public": true,
-      "modified": "2024-05-10T17:19:09.242276+00:00",
-      "note": "To reduce user fingerprinting information and the risk of some website compatibility issues, report 32-bit x86 Linux's CPU architecture as *x86_64* in Firefox's User-Agent string and `navigator.platform` and `navigator.oscpu` Web APIs.",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "Changed"
-    },
-    {
-      "bug": 1036966,
-      "created": "2024-05-06T07:35:23.410586+00:00",
-      "id": 790143,
-      "is_public": true,
-      "modified": "2024-05-10T17:19:24.779521+00:00",
-      "note": "Links and other focusable elements are now tab-navigable by default on macOS, instead of following macOS' \"Keyboard navigation\" setting. This is a more accessible default and matches the default in all other platforms. A checkbox in the settings page still allows users to restore the old behavior.",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "Changed"
     },
     {
       "bug": 1805727,
@@ -188,10 +128,10 @@
     }
   ],
   "product": "Firefox",
-  "release_date": "2024-04-15",
-  "slug": "firefox-127.0a1-nightly",
+  "release_date": "2024-05-13",
+  "slug": "firefox-128.0a1-nightly",
   "system_requirements": "## Windows\r\n\r\n### Operating Systems (32-bit and 64-bit)\r\n - Windows 10 or later\r\n\r\n### Recommended Hardware\r\n-  1 gigahertz (GHz) or faster compatible processor or System on a Chip (SoC)\r\n-  1GB of RAM / 2GB of RAM for the 64-bit version\r\n-  500MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- macOS 10.15 or later\r\n\r\n### Recommended Hardware\r\n- Macintosh computer with an Intel x86 or Apple silicon processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - glibc 2.17 or higher\r\n    - GTK+ 3.14 or higher\r\n    - libglib 2.42 or higher\r\n    - libstdc++ 4.8.1 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - DBus 1.0 or higher\r\n    - NetworkManager 0.7 or higher\r\n    - PulseAudio",
   "text": "Firefox Nightly gets updated every day and as a consequence, the release notes for the Nightly channel are updated continuously to reflect features that have reached sufficient maturity to benefit from community feedback and bug reports. \r\n\r\n**Warning: Features listed here may or may *not* make a final release of Firefox.**\r\n\r\nIn addition to these release notes, you can follow ongoing development on our [@FirefoxNightly][1] Twitter account, our  [@FirefoxNightly@mozilla.social][4] Mastodon account as well as read our [Nightly Blog][2].\r\n\r\nYou can interact with other Firefox Nightly users and give your feedback to Mozilla staff in the [Nightly Matrix room][3] on chat.mozilla.org.\r\n\r\n\r\n  [1]: https://twitter.com/FirefoxNightly\r\n  [2]: https://blog.nightly.mozilla.org\r\n  [3]: https://chat.mozilla.org/?#/room/#nightly:mozilla.org\r\n  [4]: https://mozilla.social/@FirefoxNightly",
-  "title": "Firefox 127.0a1 Nightly",
-  "version": "127.0a1"
+  "title": "Firefox 128.0a1 Nightly",
+  "version": "128.0a1"
 }
