@@ -79,6 +79,18 @@
       "tag": "New"
     },
     {
+      "bug": 1892659,
+      "created": "2024-05-13T19:27:07.634569+00:00",
+      "id": 790170,
+      "is_public": true,
+      "modified": "2024-05-13T19:27:07.634368+00:00",
+      "note": "It is now possible to close all duplicate tabs in a window with the _Close duplicate tabs_ command available from the _List all tabs_  widget in the tab bar or the context menu a tab.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1873273,
       "created": "2024-05-03T09:52:52.019004+00:00",
       "id": 790142,
