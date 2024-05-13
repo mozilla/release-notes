@@ -103,6 +103,18 @@
       "tag": "Changed"
     },
     {
+      "bug": 1870127,
+      "created": "2024-05-13T19:17:45.918424+00:00",
+      "id": 790169,
+      "is_public": true,
+      "modified": "2024-05-13T19:17:45.918147+00:00",
+      "note": "We've updated the screenshots feature in Firefox. You can now take screenshots of various :`about:` pages within Firefox. Plus, you can now screenshot file types like SVG, XML, and more. We've also implemented new keyboard shortcuts and keyboard accessibility, making the screenshot tool more accessible to everyone. Additionally, we've introduced theme compatibility and High Contrast Mode (HCM) support. And not to forget, we've improved performance for capturing large screenshots.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
       "bug": 1805727,
       "created": "2024-02-27T19:07:26.476185+00:00",
       "id": 790018,
