@@ -31,18 +31,6 @@
       "tag": "New"
     },
     {
-      "bug": 1891797,
-      "created": "2024-04-25T14:29:55.932329+00:00",
-      "id": 790130,
-      "is_public": true,
-      "modified": "2024-05-10T17:18:45.904998+00:00",
-      "note": "The tabs context menu now allows you to close duplicate tabs.",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
       "bug": 1892782,
       "created": "2024-04-25T14:31:32.044664+00:00",
       "id": 790131,
@@ -205,6 +193,18 @@
       "is_public": true,
       "modified": "2024-05-10T17:18:17.952598+00:00",
       "note": "Starting with Firefox 127, the [relative color syntax][1] is supported in CSS color functions in Nightly builds. This allows to create colors based on other colors.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/CSS/CSS_colors/Relative_colors",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 1887845,
+      "created": "2024-05-13T19:43:47.729036+00:00",
+      "id": 790171,
+      "is_public": true,
+      "modified": "2024-05-13T19:43:47.728823+00:00",
+      "note": "`navigator.clipboard.read()/write()` has been enabled (see [documentation][1]). A paste context menu will appear for the user to confirm when attempting to read clipboard content that is not originated from a `same-origin` page.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/API/Clipboard_API",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
