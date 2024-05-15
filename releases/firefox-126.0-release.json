@@ -68,6 +68,30 @@
     },
     {
       "bug": null,
+      "created": "2024-05-15T13:44:25.306854+00:00",
+      "id": 790172,
+      "is_public": true,
+      "modified": "2024-05-15T14:08:38.475439+00:00",
+      "note": "NVIDIA RTX Video Super Resolution (\u201cVSR\u201d) is now available in Firefox. RTX VSR enhances and sharpens lower resolution video when upscaled to higher resolutions and also removes blocky artifacts commonly visible on low bitrate streamed video. VSR requires at least a 20-series or higher NVIDIA RTX GPU, Microsoft Windows 10/11 64-bit, and NVIDIA driver version R530 or higher. The feature can be enabled in the NVIDIA control panel.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2024-05-15T13:44:43.179363+00:00",
+      "id": 790173,
+      "is_public": true,
+      "modified": "2024-05-15T14:09:16.683691+00:00",
+      "note": "NVIDIA RTX Video HDR is now available in Firefox.  RTX Video HDR automatically converts SDR video to vibrant HDR10 in real time, letting you enjoy video with improved clarity on your HDR10 panel. It requires at least a 20-series NVIDIA RTX GPU, Microsoft Windows 10/11 64-bit, and NVIDIA driver version 550 or higher. The feature can be enabled in the NVIDIA control panel.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
       "created": "2024-05-07T18:47:27.016690+00:00",
       "id": 790154,
       "is_public": true,
