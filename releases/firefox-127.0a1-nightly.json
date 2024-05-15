@@ -209,6 +209,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "HTML5"
+    },
+    {
+      "bug": 1868423,
+      "created": "2024-05-15T17:26:09.545951+00:00",
+      "id": 790175,
+      "is_public": true,
+      "modified": "2024-05-15T17:27:34.636602+00:00",
+      "note": "Added support for the [new `Set` JavaScript methods][1] for creating unions and intersections of two sets.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Set#set_composition",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
     }
   ],
   "product": "Firefox",
