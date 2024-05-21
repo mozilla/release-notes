@@ -19,6 +19,30 @@
       "tag": "New"
     },
     {
+      "bug": 1896355,
+      "created": "2024-05-21T15:02:12.257516+00:00",
+      "id": 790177,
+      "is_public": true,
+      "modified": "2024-05-21T15:07:21.059433+00:00",
+      "note": "Starting with [Firefox for Android][1] 128, the new tab strip feature for tablets is available for testing in Nightly builds! This enhancement makes tab management more intuitive and efficient, providing a smoother browsing experience for devices in that form factor. Please share your feedback on Google Play and/or the [Mozilla Connect post][2] to help us improve it further.\r\n\r\n\r\n  [1]: https://play.google.com/store/apps/details?id=org.mozilla.fenix\r\n  [2]: https://connect.mozilla.org/t5/ideas/tablet-amp-mobile-ui-tab-bar-for-android/idi-p/333",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1706121,
+      "created": "2024-05-21T15:05:39.710574+00:00",
+      "id": 790178,
+      "is_public": true,
+      "modified": "2024-05-21T15:07:35.111621+00:00",
+      "note": "Firefox now supports playback of protected content from streaming sites like Netflix while in Private Browsing mode.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1805727,
       "created": "2024-02-27T19:07:26.476185+00:00",
       "id": 790018,
@@ -109,6 +133,18 @@
       "is_public": true,
       "modified": "2024-05-15T17:54:23.829451+00:00",
       "note": "Starting with Firefox 127, [`@starting-style`][1] is supported in Nightly builds. This `at-rule` allows to define styles that are applied to an element when it is first rendered, enabling transitions on elements that are added to the DOM or that have their display type changed from none to another value.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/@starting-style",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 1396922,
+      "created": "2024-05-21T15:09:12.103745+00:00",
+      "id": 790179,
+      "is_public": true,
+      "modified": "2024-05-21T15:09:12.103572+00:00",
+      "note": "The [`setCodecPreferences`][1] method allows applications to disable the negotiation of specific codecs (including RTX/RED/FEC). It also allows an application to cause a remote peer to prefer the codec that appears first in the list for sending.\r\n\r\n\r\n  [1]: https://www.w3.org/TR/webrtc/#dom-rtcrtptransceiver-setcodecpreferences",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
