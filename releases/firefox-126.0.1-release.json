@@ -1,0 +1,77 @@
+{
+  "bug_list": "",
+  "bug_search_url": "",
+  "channel": "Release",
+  "created": "2024-05-27T13:14:51.772050+00:00",
+  "is_public": false,
+  "modified": "2024-05-27T13:14:51.771770+00:00",
+  "notes": [
+    {
+      "bug": null,
+      "created": "2024-05-27T13:15:13.020419+00:00",
+      "id": 790181,
+      "is_public": true,
+      "modified": "2024-05-27T13:15:13.020133+00:00",
+      "note": "Reference link to [126.0 release notes][1].\r\n\r\n\r\n  [1]: https://www.mozilla.org/firefox/126.0/releasenotes/",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": ""
+    },
+    {
+      "bug": 1894849,
+      "created": "2024-05-27T13:31:16.096673+00:00",
+      "id": 790183,
+      "is_public": true,
+      "modified": "2024-05-27T13:34:14.727916+00:00",
+      "note": "Fixed an issue with reading tagged PDF documents in a screen reader. ([Bug 1894849][1])\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1894849",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 90,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1896097,
+      "created": "2024-05-27T13:23:15.555528+00:00",
+      "id": 790182,
+      "is_public": true,
+      "modified": "2024-05-27T13:34:08.690586+00:00",
+      "note": "Fixed not displaying localized text for non-en-US locales in the Crash Reporter dialog box on macOS. ([Bug 1896097][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1896097",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 80,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1897115,
+      "created": "2024-05-27T13:40:26.680490+00:00",
+      "id": 790185,
+      "is_public": true,
+      "modified": "2024-05-27T13:40:26.680331+00:00",
+      "note": "Fixed issues with drag-and-drop functionality on Linux ([Bug 1897115][1])\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1897115",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 75,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1897006,
+      "created": "2024-05-27T13:33:50.121032+00:00",
+      "id": 790184,
+      "is_public": true,
+      "modified": "2024-05-27T13:33:50.120847+00:00",
+      "note": "Fixed an issue causing high GPU memory usage on certain versions of AMD cards. ([Bug 1897006][1])\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1897006",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 70,
+      "tag": "Fixed"
+    }
+  ],
+  "product": "Firefox",
+  "release_date": "2024-05-28",
+  "slug": "firefox-126.0.1-release",
+  "system_requirements": "## Windows\r\n\r\n### Operating Systems (32-bit and 64-bit)\r\n - Windows 10 or later\r\n\r\n### Recommended Hardware\r\n-  1 gigahertz (GHz) or faster compatible processor or System on a Chip (SoC)\r\n-  1GB of RAM / 2GB of RAM for the 64-bit version\r\n-  500MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- macOS 10.15 or later\r\n\r\n### Recommended Hardware\r\n- Macintosh computer with an Intel x86 or Apple silicon processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - glibc 2.17 or higher\r\n    - GTK+ 3.14 or higher\r\n    - libglib 2.42 or higher\r\n    - libstdc++ 4.8.1 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - DBus 1.0 or higher\r\n    - NetworkManager 0.7 or higher\r\n    - PulseAudio",
+  "text": "",
+  "title": "Firefox 126.0.1 Release",
+  "version": "126.0.1"
+}
