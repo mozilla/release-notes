@@ -55,6 +55,18 @@
       "tag": "New"
     },
     {
+      "bug": 1404972,
+      "created": "2024-05-29T17:37:31.796220+00:00",
+      "id": 790188,
+      "is_public": true,
+      "modified": "2024-05-29T17:37:31.796060+00:00",
+      "note": "Microphone capture through getUserMedia on macOS will use system-provided voice processing when applicable for improved audio quality.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1805727,
       "created": "2024-02-27T19:07:26.476185+00:00",
       "id": 790018,
@@ -157,6 +169,18 @@
       "is_public": true,
       "modified": "2024-05-21T15:09:12.103572+00:00",
       "note": "The [`setCodecPreferences`][1] method allows applications to disable the negotiation of specific codecs (including RTX/RED/FEC). It also allows an application to cause a remote peer to prefer the codec that appears first in the list for sending.\r\n\r\n\r\n  [1]: https://www.w3.org/TR/webrtc/#dom-rtcrtptransceiver-setcodecpreferences",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 1711622,
+      "created": "2024-05-29T17:31:34.087348+00:00",
+      "id": 790187,
+      "is_public": true,
+      "modified": "2024-05-29T17:31:34.087022+00:00",
+      "note": "The Accept header for images and documents was [changed][1] to better align with the Fetch standard and other browsers.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/HTTP/Content_negotiation/List_of_default_Accept_values",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
