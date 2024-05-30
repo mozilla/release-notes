@@ -187,6 +187,18 @@
       "tag": "HTML5"
     },
     {
+      "bug": 1864818,
+      "created": "2024-05-30T19:43:33.838732+00:00",
+      "id": 790189,
+      "is_public": true,
+      "modified": "2024-05-30T19:43:33.838527+00:00",
+      "note": "Firefox now supports `@property` and the [CSS properties-and-values API][1].\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/API/CSS_Properties_and_Values_API",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
       "bug": 1741375,
       "created": "2024-05-22T20:22:10.953738+00:00",
       "id": 790180,
