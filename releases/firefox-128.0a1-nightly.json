@@ -79,6 +79,18 @@
       "tag": "New"
     },
     {
+      "bug": 1893676,
+      "created": "2024-06-04T18:15:41.420158+00:00",
+      "id": 790192,
+      "is_public": true,
+      "modified": "2024-06-04T18:15:41.419827+00:00",
+      "note": "Starting with Firefox 128, hovering the mouse over an unfocused tab will now display a visual preview of its contents.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1805727,
       "created": "2024-02-27T19:07:26.476185+00:00",
       "id": 790018,
