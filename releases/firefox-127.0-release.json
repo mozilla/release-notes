@@ -5,7 +5,20 @@
   "created": "2024-06-05T12:53:17.828101+00:00",
   "is_public": false,
   "modified": "2024-06-05T12:54:23.908863+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": null,
+      "created": "2024-06-05T13:03:09.188090+00:00",
+      "id": 790193,
+      "is_public": true,
+      "modified": "2024-06-05T13:03:09.187913+00:00",
+      "note": "With the release of Firefox 127, we are pleased to welcome the developers who contributed their first code change to Firefox in this release, 8 of whom were brand new volunteers! Please join us in thanking each of these diligent and enthusiastic individuals, and take a look at their contributions:\r\n\r\n* alphare33: <a href=\"https://bugzilla.mozilla.org/1856611\">1856611</a>\r\n* ash: <a href=\"https://bugzilla.mozilla.org/1783183\">1783183</a>\r\n* Dongwoo Kang [:nyanrus]: <a href=\"https://bugzilla.mozilla.org/1891317\">1891317</a>\r\n* endington543: <a href=\"https://bugzilla.mozilla.org/1820570\">1820570</a>, <a href=\"https://bugzilla.mozilla.org/1891816\">1891816</a>, <a href=\"https://bugzilla.mozilla.org/1892348\">1892348</a>, <a href=\"https://bugzilla.mozilla.org/1893985\">1893985</a>\r\n* jmc531: <a href=\"https://bugzilla.mozilla.org/1885695\">1885695</a>\r\n* Joseph Webster: <a href=\"https://bugzilla.mozilla.org/1825105\">1825105</a>, <a href=\"https://bugzilla.mozilla.org/1893061\">1893061</a>, <a href=\"https://bugzilla.mozilla.org/1894063\">1894063</a>\r\n* Leeya: <a href=\"https://bugzilla.mozilla.org/1742889\">1742889</a>\r\n* Steve P: <a href=\"https://bugzilla.mozilla.org/1836440\">1836440</a>, <a href=\"https://bugzilla.mozilla.org/1844935\">1844935</a>, <a href=\"https://bugzilla.mozilla.org/1880909\">1880909</a>",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Community"
+    }
+  ],
   "product": "Firefox",
   "release_date": "2024-06-11",
   "slug": "firefox-127.0-release",
