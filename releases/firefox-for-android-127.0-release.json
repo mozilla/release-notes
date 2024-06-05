@@ -1,0 +1,53 @@
+{
+  "bug_list": "",
+  "bug_search_url": "",
+  "channel": "Release",
+  "created": "2024-06-05T16:31:21.525117+00:00",
+  "is_public": false,
+  "modified": "2024-06-05T16:31:59.739823+00:00",
+  "notes": [
+    {
+      "bug": null,
+      "created": "2024-06-05T16:32:35.436165+00:00",
+      "id": 790197,
+      "is_public": true,
+      "modified": "2024-06-05T16:32:35.435920+00:00",
+      "note": "Added Passwords item to three-dot menu",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2024-06-05T16:33:03.290007+00:00",
+      "id": 790198,
+      "is_public": true,
+      "modified": "2024-06-05T16:33:03.289829+00:00",
+      "note": "Users can now conveniently utilize their physical keyboard numpad to commit URLs entered in the toolbar",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2024-06-05T16:34:23.836203+00:00",
+      "id": 790199,
+      "is_public": true,
+      "modified": "2024-06-05T16:34:23.835966+00:00",
+      "note": "We have updated our compile optimization settings to use the -O2 flag. This change provides the following benefits: improved responsiveness, reduced page load times, extended battery life.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Changed"
+    }
+  ],
+  "product": "Firefox for Android",
+  "release_date": "2024-06-11",
+  "slug": "firefox-for-android-127.0-release",
+  "system_requirements": "## Operating systems\r\n - Android 5.0 or newer",
+  "text": "",
+  "title": "Firefox for Android 127.0 Release",
+  "version": "127.0"
+}
