@@ -101,6 +101,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "HTML5"
+    },
+    {
+      "bug": 1898253,
+      "created": "2024-06-07T15:38:26.136742+00:00",
+      "id": 790202,
+      "is_public": true,
+      "modified": "2024-06-07T15:38:26.136515+00:00",
+      "note": "Starting with Firefox 128, Firefox Nightly now has initial support for the [CHIPS (Cookies Having Independent Partitioned State)][1] standard.\r\n\r\n\r\n  [1]: https://github.com/privacycg/CHIPS",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
     }
   ],
   "product": "Firefox",
