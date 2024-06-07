@@ -17,6 +17,54 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2024-06-07T15:40:44.848077+00:00",
+      "id": 790204,
+      "is_public": true,
+      "modified": "2024-06-07T15:40:44.847889+00:00",
+      "note": "Improved loading of PDF webpages.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2024-06-07T15:41:04.762945+00:00",
+      "id": 790205,
+      "is_public": true,
+      "modified": "2024-06-07T15:41:04.762765+00:00",
+      "note": "Improved address autofill for numerous websites.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2024-06-07T15:41:23.849636+00:00",
+      "id": 790206,
+      "is_public": true,
+      "modified": "2024-06-07T15:41:59.422580+00:00",
+      "note": "Fixed theming issues related to dark mode.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2024-06-07T15:41:44.718049+00:00",
+      "id": 790207,
+      "is_public": true,
+      "modified": "2024-06-07T15:41:44.717903+00:00",
+      "note": "Fixed crash while closing the last tab.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox for iOS",
