@@ -103,6 +103,18 @@
       "tag": "New"
     },
     {
+      "bug": 196078,
+      "created": "2024-06-07T15:54:39.361315+00:00",
+      "id": 790210,
+      "is_public": true,
+      "modified": "2024-06-07T15:54:39.361129+00:00",
+      "note": "Firefox now supports rendering more `text/*` file types inline, rather than requiring them to be downloaded to be viewed.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
       "bug": 1805727,
       "created": "2024-02-27T19:07:26.476185+00:00",
       "id": 790018,
