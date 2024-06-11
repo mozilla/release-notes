@@ -127,6 +127,18 @@
       "tag": "HTML5"
     },
     {
+      "bug": 977098,
+      "created": "2024-06-11T02:10:21.019606+00:00",
+      "id": 790213,
+      "is_public": true,
+      "modified": "2024-06-11T02:10:21.019367+00:00",
+      "note": "[CSS rules specificity][1] is now displayed in a tooltip when hovering a CSS Rule selector in the Inspector Rules view. This can help web developers understand why a given rules is applied before another.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/CSS/Specificity",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
       "bug": 1741375,
       "created": "2024-05-22T20:22:10.953738+00:00",
       "id": 790180,
