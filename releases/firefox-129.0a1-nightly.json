@@ -31,6 +31,18 @@
       "tag": "New"
     },
     {
+      "bug": 1678712,
+      "created": "2024-06-13T14:53:37.872423+00:00",
+      "id": 790215,
+      "is_public": true,
+      "modified": "2024-06-13T14:53:37.872242+00:00",
+      "note": "Added support for multiple languages in the same document spoken in macOS VoiceOver.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1823463,
       "created": "2024-03-20T14:10:02.364502+00:00",
       "id": 790065,
