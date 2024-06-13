@@ -149,6 +149,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "Community"
+    },
+    {
+      "bug": 1901899,
+      "created": "2024-06-13T13:48:55.384556+00:00",
+      "id": 790214,
+      "is_public": true,
+      "modified": "2024-06-13T13:48:55.384366+00:00",
+      "note": "Users with a Firefox primary password set should provide this when Firefox 127 first starts. Dismissing the primary password prompt instead will break restoring the previous session, and can disrupt other functionality. This is only required once ([bug 1901899][1]).\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1901899",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Known"
     }
   ],
   "product": "Firefox",
