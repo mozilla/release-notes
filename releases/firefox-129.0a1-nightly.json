@@ -43,6 +43,18 @@
       "tag": "New"
     },
     {
+      "bug": 1898255,
+      "created": "2024-06-13T18:45:28.574578+00:00",
+      "id": 790217,
+      "is_public": true,
+      "modified": "2024-06-13T18:45:28.574454+00:00",
+      "note": "Starting with Firefox 129, Firefox Nightly blocks third-party cookie access with Enhanced Tracking Protection's Strict mode and also in Private Browsing.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1823463,
       "created": "2024-03-20T14:10:02.364502+00:00",
       "id": 790065,
