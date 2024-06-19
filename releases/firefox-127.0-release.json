@@ -173,6 +173,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "Known"
+    },
+    {
+      "bug": 1878510,
+      "created": "2024-06-19T17:01:14.671895+00:00",
+      "id": 790225,
+      "is_public": true,
+      "modified": "2024-06-19T17:01:14.671666+00:00",
+      "note": "Under certain conditions, YouTube playback may experience stalling issues. We are actively working on a fix for this problem ([bug 1878510][1]).\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/1878510",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Known"
     }
   ],
   "product": "Firefox",
