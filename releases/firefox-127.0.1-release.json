@@ -29,6 +29,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2024-06-19T07:32:40.613808+00:00",
+      "id": 790222,
+      "is_public": true,
+      "modified": "2024-06-19T07:32:40.613587+00:00",
+      "note": "In some circumstances the Windows stub installer failed to download the full installer ([bug 1896868)][1].\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/1896868",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
