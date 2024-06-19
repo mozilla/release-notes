@@ -7,6 +7,18 @@
   "modified": "2024-06-18T16:07:10.250089+00:00",
   "notes": [
     {
+      "bug": null,
+      "created": "2024-06-19T08:54:14.340637+00:00",
+      "id": 790224,
+      "is_public": true,
+      "modified": "2024-06-19T08:54:14.340489+00:00",
+      "note": "Reference link to [127.0 release notes][1].\r\n\r\n\r\n  [1]: https://www.mozilla.org/firefox/127.0/releasenotes/",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": ""
+    },
+    {
       "bug": 1901899,
       "created": "2024-06-19T07:23:23.384472+00:00",
       "id": 790220,
@@ -47,8 +59,8 @@
       "created": "2024-06-19T07:46:28.136852+00:00",
       "id": 790223,
       "is_public": true,
-      "modified": "2024-06-19T07:46:28.136688+00:00",
-      "note": "Since version 127.0, Firefox had been incorrectly rejecting cookies for certain websites. This issue has now been resolved ([bug 1901325][1]).\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/1901325",
+      "modified": "2024-06-19T08:51:04.711798+00:00",
+      "note": "Fixed the issue where, since version 127.0, Firefox had been incorrectly rejecting cookies for certain websites ([bug 1901325][1]).\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/1901325",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
