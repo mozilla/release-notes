@@ -7,11 +7,11 @@
   "modified": "2024-06-18T16:07:10.250089+00:00",
   "notes": [
     {
-      "bug": null,
+      "bug": 1901899,
       "created": "2024-06-19T07:23:23.384472+00:00",
       "id": 790220,
       "is_public": true,
-      "modified": "2024-06-19T07:23:23.384242+00:00",
+      "modified": "2024-06-19T07:47:11.942157+00:00",
       "note": "The issue where users with a primary password set on their profile could lose their previous session of tabs upon upgrading, if they dismissed the primary password prompt, has now been resolved ([bug 1901899][1]).\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/1901899",
       "progressive_rollout": false,
       "relevant_countries": [],
@@ -19,11 +19,11 @@
       "tag": "Fixed"
     },
     {
-      "bug": null,
+      "bug": 1900972,
       "created": "2024-06-19T07:29:01.160026+00:00",
       "id": 790221,
       "is_public": true,
-      "modified": "2024-06-19T07:29:01.159783+00:00",
+      "modified": "2024-06-19T07:47:01.839048+00:00",
       "note": "Linux users with the `accessibility.monoaudio.enable` set to `true` were experiencing slow speed audio since Firefox 127.0 ([bug 1900972][1]).\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/1900972",
       "progressive_rollout": false,
       "relevant_countries": [],
@@ -31,12 +31,24 @@
       "tag": "Fixed"
     },
     {
-      "bug": null,
+      "bug": 1896868,
       "created": "2024-06-19T07:32:40.613808+00:00",
       "id": 790222,
       "is_public": true,
-      "modified": "2024-06-19T07:32:40.613587+00:00",
+      "modified": "2024-06-19T07:46:48.678876+00:00",
       "note": "In some circumstances the Windows stub installer failed to download the full installer ([bug 1896868)][1].\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/1896868",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1901325,
+      "created": "2024-06-19T07:46:28.136852+00:00",
+      "id": 790223,
+      "is_public": true,
+      "modified": "2024-06-19T07:46:28.136688+00:00",
+      "note": "Since version 127.0, Firefox had been incorrectly rejecting cookies for certain websites. This issue has now been resolved ([bug 1901325][1]).\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/1901325",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
