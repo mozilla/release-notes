@@ -67,6 +67,18 @@
       "tag": "New"
     },
     {
+      "bug": 1870366,
+      "created": "2024-06-21T15:39:35.166285+00:00",
+      "id": 790226,
+      "is_public": true,
+      "modified": "2024-06-21T15:39:35.166056+00:00",
+      "note": "Firefox now has the ability to translate selections of text and hyperlinked text to other languages from the context menu.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 196078,
       "created": "2024-06-07T15:54:39.361315+00:00",
       "id": 790210,
