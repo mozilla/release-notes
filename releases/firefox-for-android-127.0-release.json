@@ -77,6 +77,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": 1902077,
+      "created": "2024-06-24T21:01:22.846588+00:00",
+      "id": 790230,
+      "is_public": true,
+      "modified": "2024-06-25T12:46:46.320649+00:00",
+      "note": "Fixed battery usage reporting in Firefox for Android: Firefox no longer triggers a bug in Android 14 which was causing Android to report massively inflated battery usage on certain devices when Firefox was not running. You may need to restart your phone for the fix to take effect (fixed in Firefox 127.0.2)",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox for Android",
