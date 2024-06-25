@@ -161,6 +161,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "HTML5"
+    },
+    {
+      "bug": 1903329,
+      "created": "2024-06-25T18:29:54.298020+00:00",
+      "id": 790233,
+      "is_public": true,
+      "modified": "2024-06-25T18:29:54.297842+00:00",
+      "note": "Added support for [Float16Array][1] typed arrays along with new [DataView][2] methods for reading and setting Float16 values, and a `Math.f16round(`) static method that can be used to round numbers to 16 bits. The new type is useful for sharing data with a GPU, in particular for use cases where it makes sense to trade off precision for memory consumption.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Float16Array\r\n  [2]: https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/DataView",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
     }
   ],
   "product": "Firefox",
