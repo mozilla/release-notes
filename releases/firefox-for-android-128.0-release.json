@@ -8,6 +8,66 @@
   "notes": [
     {
       "bug": null,
+      "created": "2024-07-04T01:30:47.144921+00:00",
+      "id": 790246,
+      "is_public": true,
+      "modified": "2024-07-04T01:30:47.144802+00:00",
+      "note": "Users on Android 14+ can now create and use Passkeys in third-party Passkey management applications.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 10,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2024-07-04T01:31:50.098588+00:00",
+      "id": 790247,
+      "is_public": true,
+      "modified": "2024-07-04T01:31:50.098456+00:00",
+      "note": "When suggesting a password, the \"confirm password\" field is now filled in as well.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 40,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2024-07-04T01:32:14.713907+00:00",
+      "id": 790248,
+      "is_public": true,
+      "modified": "2024-07-04T01:32:14.713793+00:00",
+      "note": "When Android prompts for geolocation permission, selecting \"approximate location\" now works as intended.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 30,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2024-07-04T01:32:38.031015+00:00",
+      "id": 790249,
+      "is_public": true,
+      "modified": "2024-07-04T01:32:38.030891+00:00",
+      "note": "When entering full-screen mode with an audio element playing, Firefox no longer forces the display into landscape mode.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 20,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2024-07-04T01:33:03.249163+00:00",
+      "id": 790250,
+      "is_public": true,
+      "modified": "2024-07-04T01:33:03.249022+00:00",
+      "note": "When sharing a link from an app to Firefox, Firefox will no longer force the page to open back in the app if \"ask before opening\" is set.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 10,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
       "created": "2024-07-02T13:57:55.558211+00:00",
       "id": 790241,
       "is_public": true,
