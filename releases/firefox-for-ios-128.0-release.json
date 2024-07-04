@@ -5,7 +5,20 @@
   "created": "2024-07-02T13:55:24.997817+00:00",
   "is_public": false,
   "modified": "2024-07-02T13:55:47.274034+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": null,
+      "created": "2024-07-04T01:14:03.818417+00:00",
+      "id": 790244,
+      "is_public": true,
+      "modified": "2024-07-04T01:14:03.818240+00:00",
+      "note": "The Recently Saved section for Home is now Bookmarks. It shows the most recently saved 8 bookmarks, and no longer shows Reading List items.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 20,
+      "tag": "New"
+    }
+  ],
   "product": "Firefox for iOS",
   "release_date": "2024-07-09",
   "slug": "firefox-for-ios-128.0-release",
