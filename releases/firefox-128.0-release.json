@@ -92,6 +92,42 @@
     },
     {
       "bug": null,
+      "created": "2024-07-04T14:03:36.401860+00:00",
+      "id": 790261,
+      "is_public": true,
+      "modified": "2024-07-04T14:03:36.401732+00:00",
+      "note": "[CSS rules specificity][1] is now displayed in a tooltip when hovering a CSS Rule selector in the Inspector Rules view. This can help web developers understand why a given rule is applied before another.\r\n\r\n![screenshot of the specificity tooltip when hovering a CSS Rule selector in the Inspector Rules view][2]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/CSS/Specificity\r\n  [2]: https://www.mozilla.org/media/img/firefox/releasenotes/note-images/128_devtools_css_specificity.png",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 30,
+      "tag": "Developer"
+    },
+    {
+      "bug": null,
+      "created": "2024-07-04T14:10:04.681437+00:00",
+      "id": 790262,
+      "is_public": true,
+      "modified": "2024-07-04T14:10:04.681318+00:00",
+      "note": "The Inspector panel is flagging a custom property declaration as invalid when the value does not match the registered custom property definition. Refer to the screenshot below, which displays the declaration of a custom property, `--b`, expecting a `<length>` value syntax (e.g., `10px`). An exclamation icon appears next to it, with a tooltip explaining the error ([bug][1]).\r\n\r\n ![screenshot of an example of the exclamation icon beside an invalid custom property declaration and a tooltip explaining the error ][2]\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1866712\r\n [2]: https://www.mozilla.org/media/img/firefox/releasenotes/note-images/128_devtools_invalid_property.png",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 20,
+      "tag": "Developer"
+    },
+    {
+      "bug": null,
+      "created": "2024-07-04T14:11:19.836001+00:00",
+      "id": 790263,
+      "is_public": true,
+      "modified": "2024-07-04T14:11:19.835883+00:00",
+      "note": "Couple of improvements related to Inactive CSS. Display a warning when column-span is used on elements outside of multi-column containers ([bug][1]) and when properties only applying to replaced elements are used on non-replaced elements ([bug][2])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1848705\r\n  [2]: https://bugzilla.mozilla.org/show_bug.cgi?id=1583903",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
+      "bug": null,
       "created": "2024-07-04T13:59:46.835863+00:00",
       "id": 790260,
       "is_public": true,
