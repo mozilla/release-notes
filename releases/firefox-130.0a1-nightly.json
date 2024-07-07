@@ -2,9 +2,9 @@
   "bug_list": "",
   "bug_search_url": "",
   "channel": "Nightly",
-  "created": "2024-06-06T14:02:30.366904+00:00",
-  "is_public": true,
-  "modified": "2024-06-11T12:38:03.179533+00:00",
+  "created": "2024-07-07T14:20:23.640416+00:00",
+  "is_public": false,
+  "modified": "2024-07-07T14:28:39.217578+00:00",
   "notes": [
     {
       "bug": 1895222,
@@ -25,18 +25,6 @@
       "is_public": true,
       "modified": "2024-07-07T14:20:23.690433+00:00",
       "note": "Starting with Firefox 128, hovering the mouse over an unfocused tab will now display a visual preview of its contents in Nightly builds.",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
-      "bug": 1678712,
-      "created": "2024-06-13T14:53:37.872423+00:00",
-      "id": 790215,
-      "is_public": true,
-      "modified": "2024-07-07T14:25:44.933937+00:00",
-      "note": "Added support for multiple languages in the same document spoken in macOS VoiceOver.",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
@@ -79,30 +67,6 @@
       "tag": "New"
     },
     {
-      "bug": 1899366,
-      "created": "2024-06-27T16:25:02.492852+00:00",
-      "id": 790235,
-      "is_public": true,
-      "modified": "2024-07-07T14:24:48.666879+00:00",
-      "note": "Reader View has an enhanced Text and layout menu with new options for character spacing, word spacing, and text alignment. These changes offer users a more accessible reading experience.\r\n\r\nReader View now has a Theme menu with additional Contrast and Gray options. You can also select your own custom colors for text, background, and links from the Custom tab.",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
-      "bug": 1901246,
-      "created": "2024-06-29T12:57:47.284871+00:00",
-      "id": 790238,
-      "is_public": true,
-      "modified": "2024-07-07T14:23:00.580892+00:00",
-      "note": "[Address Autofill][1] enabled for users in France and Germany.\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/automatically-fill-your-address-web-forms",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
       "bug": 1823463,
       "created": "2024-03-20T14:10:02.364502+00:00",
       "id": 790065,
@@ -121,18 +85,6 @@
       "is_public": true,
       "modified": "2024-07-07T14:20:23.690433+00:00",
       "note": "Starting with Firefox 126, the [shape()][1] function on [offset-path][2] property is supported in nightly builds.\r\n\r\n\r\n  [1]: https://drafts.csswg.org/css-shapes-2/#shape-function\r\n  [2]: https://drafts.fxtf.org/motion-1/#offset-path-property",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "HTML5"
-    },
-    {
-      "bug": 1884425,
-      "created": "2024-04-02T13:58:47.087571+00:00",
-      "id": 790082,
-      "is_public": true,
-      "modified": "2024-07-07T14:27:10.293651+00:00",
-      "note": "Starting with Firefox 126,  [interpolation][1] between [path()][2] function and [shape()][3] function is now supported in nightly builds.\r\n\r\n\r\n  [1]: https://drafts.csswg.org/css-shapes-2/#interpolating-shape\r\n  [2]: https://drafts.csswg.org/css-shapes-1/#funcdef-basic-shape-path\r\n  [3]: https://drafts.csswg.org/css-shapes-2/#funcdef-shape",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
@@ -173,61 +125,13 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "HTML5"
-    },
-    {
-      "bug": 1898344,
-      "created": "2024-06-13T17:37:42.309976+00:00",
-      "id": 790216,
-      "is_public": true,
-      "modified": "2024-07-07T14:25:29.510686+00:00",
-      "note": "Added support for querying the [encryption key system][1] config in [mediaCapabilities.decodingInfo()][2] API.\r\n\r\n\r\n  [1]: https://w3c.github.io/media-capabilities/#mediacapabilitieskeysystemconfiguration\r\n  [2]: https://developer.mozilla.org/docs/Web/API/MediaCapabilities/decodingInfo",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "HTML5"
-    },
-    {
-      "bug": 1903329,
-      "created": "2024-06-25T18:29:54.298020+00:00",
-      "id": 790233,
-      "is_public": true,
-      "modified": "2024-07-07T14:25:00.982345+00:00",
-      "note": "Added support for [Float16Array][1] typed arrays along with new [DataView][2] methods for reading and setting Float16 values, and a `Math.f16round(`) static method that can be used to round numbers to 16 bits. The new type is useful for sharing data with a GPU, in particular for use cases where it makes sense to trade off precision for memory consumption.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Float16Array\r\n  [2]: https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/DataView",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "HTML5"
-    },
-    {
-      "bug": 1900458,
-      "created": "2024-06-28T13:24:37.651046+00:00",
-      "id": 790236,
-      "is_public": true,
-      "modified": "2024-07-07T14:24:30.490839+00:00",
-      "note": "Added support for [@starting-style][1]. This `at-rule` allows to define styles that are applied to an element when it is first rendered, enabling transitions on elements that are added to the DOM or that have their display type changed from none to another value.\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/CSS/@starting-style",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "HTML5"
-    },
-    {
-      "bug": 1901645,
-      "created": "2024-06-28T13:39:19.236675+00:00",
-      "id": 790237,
-      "is_public": true,
-      "modified": "2024-07-07T14:24:07.987627+00:00",
-      "note": "Added support for the [transition-behavior][1] CSS property. This property allows us to create a transition on discrete animated CSS properties.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/CSS/transition-behavior",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "HTML5"
     }
   ],
   "product": "Firefox",
-  "release_date": "2024-06-10",
-  "slug": "firefox-129.0a1-nightly",
+  "release_date": "2024-07-09",
+  "slug": "firefox-130.0a1-nightly",
   "system_requirements": "## Windows\r\n\r\n### Operating Systems (32-bit and 64-bit)\r\n - Windows 10 or later\r\n\r\n### Recommended Hardware\r\n-  1 gigahertz (GHz) or faster compatible processor or System on a Chip (SoC)\r\n-  1GB of RAM / 2GB of RAM for the 64-bit version\r\n-  500MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- macOS 10.15 or later\r\n\r\n### Recommended Hardware\r\n- Macintosh computer with an Intel x86 or Apple silicon processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - glibc 2.17 or higher\r\n    - GTK+ 3.14 or higher\r\n    - libglib 2.42 or higher\r\n    - libstdc++ 4.8.1 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - DBus 1.0 or higher\r\n    - NetworkManager 0.7 or higher\r\n    - PulseAudio",
   "text": "Firefox Nightly gets updated every day and as a consequence, the release notes for the Nightly channel are updated continuously to reflect features that have reached sufficient maturity to benefit from community feedback and bug reports. \r\n\r\n**Warning: Features listed here may or may *not* make a final release of Firefox.**\r\n\r\nIn addition to these release notes, you can follow ongoing development on our [@FirefoxNightly][1] Twitter account, our  [@FirefoxNightly@mozilla.social][4] Mastodon account as well as read our [Nightly Blog][2].\r\n\r\nYou can interact with other Firefox Nightly users and give your feedback to Mozilla staff in the [Nightly Matrix room][3] on chat.mozilla.org.\r\n\r\n\r\n  [1]: https://twitter.com/FirefoxNightly\r\n  [2]: https://blog.nightly.mozilla.org\r\n  [3]: https://chat.mozilla.org/?#/room/#nightly:mozilla.org\r\n  [4]: https://mozilla.social/@FirefoxNightly",
-  "title": "Firefox 129.0a1 Nightly",
-  "version": "129.0a1"
+  "title": "Firefox 130.0a1 Nightly",
+  "version": "130.0a1"
 }
