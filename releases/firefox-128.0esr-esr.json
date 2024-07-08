@@ -8,6 +8,30 @@
   "notes": [
     {
       "bug": null,
+      "created": "2024-07-08T20:57:38.284706+00:00",
+      "id": 790270,
+      "is_public": true,
+      "modified": "2024-07-08T20:57:38.284495+00:00",
+      "note": "General\r\n-------\r\n\r\n* Windows 7-8.1 and macOS 10.12-10.14 are no longer supported.\r\n* Firefox now supports automated translation of web content. Also, unlike cloud-based alternatives, translation is done locally so that the text being translated never leaves the machine.\r\n* The line breaking rules of web content now match the Unicode standard, improving cross-browser compatibility. Additionally, for East Asian and South East Asian end users, Firefox now supports proper language-aware word selection when double-clicking on text for languages including Chinese, Japanese, Burmese, Lao, Khmer, and Thai.\r\n* Video effects and background blur are now available to Firefox users on Google Meet.\r\nFirefox now displays images and descriptions for search suggestions when provided by the search engine.\r\n* It is now possible to copy and paste any file from the operating system into Firefox.\r\n* Having any issues with a website on Firefox, yet the site seems to be working as expected on another browser? You can now let us know via the Web Compatibility Reporting Tool! By filing a web compatibility issue, you\u2019re directly helping us detect, target, and fix the most impacted sites to make your browsing experience on Firefox smoother.\r\n* Firefox now prompts users in the US and Canada to save their addresses upon submitting an address form, allowing Firefox to autofill stored address information in the future.\r\n* Support for credit card autofill has been extended to users running Firefox in the IT, ES, AT, BE, and PL locales.\r\n* Recently closed tabs now persist between sessions that don't have automatic session restore enabled. * Manually restoring a previous session will continue to reopen any previously open tabs or windows.\r\n* When migrating data from Chrome, Firefox now offers the ability to import certain extensions as well.\r\n* The Screenshots feature in Firefox has been updated. It now supports taking screenshots of file types like SVG, XML, and more as well as various about: pages within Firefox. The screenshot tool was also made more accessible to everyone by implementing new keyboard shortcuts and adding theme compatibility and High Contrast Mode (HCM) support. And finally, performance for capturing large screenshots has been improved.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 110,
+      "tag": ""
+    },
+    {
+      "bug": null,
+      "created": "2024-07-08T20:58:57.815801+00:00",
+      "id": 790271,
+      "is_public": true,
+      "modified": "2024-07-08T20:58:57.815602+00:00",
+      "note": "PDF Viewer\r\n----------\r\n\r\n* The Firefox PDF viewer has expanded PDF editing capabilities:\r\n * Text highlighting is now supported.\r\n * Editing already-existing text annotations is now supported.\r\n * Images and alt text can be added in addition to text and drawings.\r\n* A floating button is now included to simplify deleting drawings, text, and images added in PDFs.\r\n* Caret browsing mode now also works in the PDF viewer. ([Learn more][1])\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/accessibility-features-firefox",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 100,
+      "tag": ""
+    },
+    {
+      "bug": null,
       "created": "2024-07-02T13:50:18.528692+00:00",
       "id": 790240,
       "is_public": true,
