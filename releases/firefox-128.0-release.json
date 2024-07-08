@@ -11,11 +11,11 @@
       "created": "2024-07-04T13:47:34.364831+00:00",
       "id": 790251,
       "is_public": true,
-      "modified": "2024-07-04T15:24:39.132401+00:00",
+      "modified": "2024-07-08T18:27:15.988944+00:00",
       "note": "Firefox can now translate selections of text and hyperlinked text to other languages from the context menu.\r\n\r\n<img src=\"https://www.mozilla.org/media/img/firefox/releasenotes/note-images/128_translate_text.png\" width=\"1280\" height=\"349\" alt=\"screenshot of the context menu when right clicking on selected text with a focus the translation option from the context menu, and then displaying the Translation feature after the translation option was clicked\">",
       "progressive_rollout": false,
       "relevant_countries": [],
-      "sort_num": 60,
+      "sort_num": 70,
       "tag": "New"
     },
     {
@@ -23,11 +23,11 @@
       "created": "2024-07-04T13:51:30.590604+00:00",
       "id": 790252,
       "is_public": true,
-      "modified": "2024-07-08T18:09:19.172716+00:00",
+      "modified": "2024-07-08T18:27:11.525738+00:00",
       "note": "For users in the US and Canada, Firefox will now show your recent searches or currently trending searches when you open the Address Bar to get you back to your previous search session or inspire your next one.\r\n\r\n<img src=\"https://www.mozilla.org/media/img/firefox/releasenotes/note-images/128_search_continuation.png\" width=\"506\" height=\"477\" alt=\"screenshot of the open Address bar listing recent searches and trending searches\">",
       "progressive_rollout": false,
       "relevant_countries": [],
-      "sort_num": 50,
+      "sort_num": 60,
       "tag": "New"
     },
     {
@@ -35,11 +35,11 @@
       "created": "2024-07-04T13:55:12.483849+00:00",
       "id": 790253,
       "is_public": true,
-      "modified": "2024-07-08T18:11:21.194282+00:00",
-      "note": "Firefox now has a simpler and more unified dialog for clearing user data. In addition to streamlining data categories, the new dialog also provides insights into the site data size corresponding to the selected time range.\r\n\r\n<img src=\"https://www.mozilla.org/media/img/firefox/releasenotes/note-images/128_clear_site_data.png\" width=\"598\" height=\"409\" alt=\"screenshot of the Clear browsing data and cookies dialog. Demonstrating the new features of clearing data within a selected time range and the size of that data\">",
+      "modified": "2024-07-08T18:29:14.217570+00:00",
+      "note": "Firefox now has a simpler and more unified dialog for clearing user data. In addition to streamlining data categories, the new dialog also provides insights into the site data size corresponding to the selected time range.\r\n\r\n<img src=\"https://www.mozilla.org/media/img/firefox/releasenotes/note-images/128_clear_site_data.png\" width=\"498\" height=\"341\" alt=\"screenshot of the Clear browsing data and cookies dialog. Demonstrating the new features of clearing data within a selected time range and the size of that data\">",
       "progressive_rollout": false,
       "relevant_countries": [],
-      "sort_num": 40,
+      "sort_num": 50,
       "tag": "New"
     },
     {
@@ -52,6 +52,18 @@
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 40,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2024-07-08T18:28:08.101211+00:00",
+      "id": 790269,
+      "is_public": true,
+      "modified": "2024-07-08T18:33:44.971913+00:00",
+      "note": "Firefox now supports the experimental [Privacy Preserving Attribution API][1], which provides an alternative to user tracking for ad attribution. This experiment is only enabled via [origin trial][2] and can be disabled in the new Website Advertising Preferences section in the Privacy and Security settings.\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/privacy-preserving-attribution\r\n  [2]: https://wiki.mozilla.org/Origin_Trials",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 30,
       "tag": "New"
     },
     {
@@ -95,8 +107,8 @@
       "created": "2024-07-04T13:58:40.111223+00:00",
       "id": 790259,
       "is_public": true,
-      "modified": "2024-07-08T18:05:29.077734+00:00",
-      "note": "The root certificate used to verify Add-ons and signed content has been renewed to prevent upcoming expiration issues.",
+      "modified": "2024-07-08T18:31:25.512424+00:00",
+      "note": "The root certificate used to verify add-ons and signed content has been renewed to avoid upcoming expiration.",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 10,
