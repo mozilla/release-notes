@@ -8,6 +8,18 @@
   "notes": [
     {
       "bug": null,
+      "created": "2024-07-04T13:58:40.111223+00:00",
+      "id": 790259,
+      "is_public": true,
+      "modified": "2024-07-09T00:27:41.823089+00:00",
+      "note": "The root certificate used to verify add-ons and signed content has been renewed to avoid upcoming expiration.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 10,
+      "tag": "Changed"
+    },
+    {
+      "bug": null,
       "created": "2024-07-02T13:48:05.953960+00:00",
       "id": 790239,
       "is_public": true,
