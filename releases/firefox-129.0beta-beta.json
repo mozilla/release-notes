@@ -43,6 +43,18 @@
       "tag": "New"
     },
     {
+      "bug": 1905694,
+      "created": "2024-07-10T17:21:22.688925+00:00",
+      "id": 790282,
+      "is_public": true,
+      "modified": "2024-07-10T17:21:22.688731+00:00",
+      "note": "HTTPS is replacing HTTP as the default protocol in the address bar on non-local sites. In case a site is not available via HTTPS, Firefox will fall back to HTTP.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1898344,
       "created": "2024-06-13T17:37:42.309976+00:00",
       "id": 790216,
