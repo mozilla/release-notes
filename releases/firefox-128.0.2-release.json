@@ -8,18 +8,6 @@
   "notes": [
     {
       "bug": null,
-      "created": "2024-07-23T14:36:23.367831+00:00",
-      "id": 790290,
-      "is_public": true,
-      "modified": "2024-07-23T14:36:23.367655+00:00",
-      "note": "Various stability fixes.",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 40,
-      "tag": ""
-    },
-    {
-      "bug": null,
       "created": "2024-07-23T12:36:21.171275+00:00",
       "id": 790283,
       "is_public": true,
@@ -100,6 +88,18 @@
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 50,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2024-07-23T14:36:23.367831+00:00",
+      "id": 790290,
+      "is_public": true,
+      "modified": "2024-07-23T15:02:42.700766+00:00",
+      "note": "Various stability fixes.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 40,
       "tag": "Fixed"
     }
   ],
