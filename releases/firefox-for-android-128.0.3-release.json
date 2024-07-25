@@ -7,18 +7,6 @@
   "modified": "2024-07-25T18:44:40.097655+00:00",
   "notes": [
     {
-      "bug": 1909666,
-      "created": "2024-07-25T18:49:48.591350+00:00",
-      "id": 790298,
-      "is_public": true,
-      "modified": "2024-07-25T18:50:05.629096+00:00",
-      "note": "Fixed an issue causing some sites to not load when connecting via http2. ([Bug 1909666][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1909666",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 30,
-      "tag": ""
-    },
-    {
       "bug": null,
       "created": "2024-07-25T18:44:37.582166+00:00",
       "id": 790296,
@@ -29,6 +17,30 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": ""
+    },
+    {
+      "bug": 1909666,
+      "created": "2024-07-25T18:49:48.591350+00:00",
+      "id": 790298,
+      "is_public": true,
+      "modified": "2024-07-25T18:52:44.608710+00:00",
+      "note": "Fixed an issue causing some sites to not load when connecting via http2. ([Bug 1909666][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1909666",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 30,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1907789,
+      "created": "2024-07-25T18:52:37.780082+00:00",
+      "id": 790299,
+      "is_public": true,
+      "modified": "2024-07-25T18:54:05.313082+00:00",
+      "note": "Fixed collapsed table rows not appearing when expected in some situations. ([Bug 1907789][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1907789",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 20,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox for Android",
