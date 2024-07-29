@@ -79,6 +79,18 @@
       "tag": "New"
     },
     {
+      "bug": 190435,
+      "created": "2024-07-29T16:31:26.953090+00:00",
+      "id": 790301,
+      "is_public": true,
+      "modified": "2024-07-29T16:31:26.952854+00:00",
+      "note": "Firefox now allows translating selected text portions to different languages after a full-page translation.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1823463,
       "created": "2024-03-20T14:10:02.364502+00:00",
       "id": 790065,
