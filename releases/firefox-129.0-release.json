@@ -68,6 +68,42 @@
     },
     {
       "bug": null,
+      "created": "2024-07-30T18:28:20.779273+00:00",
+      "id": 790316,
+      "is_public": true,
+      "modified": "2024-07-30T18:28:20.779124+00:00",
+      "note": "Added support for `textInput` event, this is a non-standardized API and was replaced with [beforeinput][1] event. However, this is standardized and implemented for some web apps that use legacy libraries or frameworks. Please keep using `beforeinput` when developing new web apps.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/API/Element/beforeinput_event",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 50,
+      "tag": "HTML5"
+    },
+    {
+      "bug": null,
+      "created": "2024-07-30T18:29:04.594232+00:00",
+      "id": 790317,
+      "is_public": true,
+      "modified": "2024-07-30T18:29:22.330315+00:00",
+      "note": "Added support for DNS lookup of [HTTPS Resource Records (RR)][1] with the native DNS resolver, increasing HTTPS coverage and facilitating the use of [Encrypted Client Hello (ECH)][2] if present in HTTPS RR.\r\n\r\n\r\n  [1]: https://datatracker.ietf.org/doc/rfc9460/\r\n  [2]: https://datatracker.ietf.org/doc/draft-ietf-tls-esni/",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 40,
+      "tag": "HTML5"
+    },
+    {
+      "bug": null,
+      "created": "2024-07-30T18:29:54.410295+00:00",
+      "id": 790318,
+      "is_public": true,
+      "modified": "2024-07-30T18:29:54.410108+00:00",
+      "note": "You can find information about policy updates and enterprise specific bug fixes in the [Firefox for Enterprise 129 Release Notes][1].\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/firefox-enterprise-129-release-notes",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Enterprise"
+    },
+    {
+      "bug": null,
       "created": "2024-07-30T16:58:30.429248+00:00",
       "id": 790304,
       "is_public": true,
