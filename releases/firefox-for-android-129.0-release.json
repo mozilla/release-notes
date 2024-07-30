@@ -5,7 +5,20 @@
   "created": "2024-07-30T17:40:30.875885+00:00",
   "is_public": false,
   "modified": "2024-07-30T17:40:30.875643+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": null,
+      "created": "2024-07-30T18:05:32.101338+00:00",
+      "id": 790311,
+      "is_public": true,
+      "modified": "2024-07-30T18:05:32.101165+00:00",
+      "note": "Downloading languages is now available to facilitate offline Translations.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    }
+  ],
   "product": "Firefox for Android",
   "release_date": "2024-08-06",
   "slug": "firefox-for-android-129.0-release",
