@@ -7,6 +7,54 @@
   "modified": "2024-07-25T19:58:41.959725+00:00",
   "notes": [
     {
+      "bug": null,
+      "created": "2024-07-30T20:06:05.071632+00:00",
+      "id": 790323,
+      "is_public": true,
+      "modified": "2024-07-30T20:06:05.071414+00:00",
+      "note": "[Reader View][1] has an enhanced Text and Layout menu with new options for character spacing, word spacing, and text alignment. These changes offer users a more accessible reading experience.\r\n\r\n<img src=\"https://www.mozilla.org/media/img/firefox/releasenotes/note-images/129_reader_view_text.png\" alt=\"screenshot of reader view's text menu demonstrating the new spacing and layout options\">\r\n\r\n  [1]: https://support.mozilla.org/kb/firefox-reader-view-clutter-free-web-pages",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 90,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2024-07-30T20:08:51.238773+00:00",
+      "id": 790324,
+      "is_public": true,
+      "modified": "2024-07-30T20:08:51.238622+00:00",
+      "note": "[Reader View][1] now has a Theme menu with additional Contrast and Gray options. You can also select custom colors for text, background, and links from the Custom tab.\r\n\r\n<img src=\"https://www.mozilla.org/media/img/firefox/releasenotes/note-images/129_reader_view_theme.png\" alt=\"screenshot of reader view's theme menu demonstrating the new theme options\">\r\n\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/firefox-reader-view-clutter-free-web-pages",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 80,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2024-07-30T20:12:47.432074+00:00",
+      "id": 790325,
+      "is_public": true,
+      "modified": "2024-07-30T20:12:47.431878+00:00",
+      "note": "A tab preview is now displayed when you mouse over your background tabs. Easily locate the tab you need without having to switch tabs.\r\n\r\n<img src=\"https://www.mozilla.org/media/img/firefox/releasenotes/note-images/129_tab_preview.png\" alt=\"screenshot of a preview image displayed under a background tab when you mouse over the tab\">",
+      "progressive_rollout": true,
+      "relevant_countries": [],
+      "sort_num": 70,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2024-07-30T20:13:14.699142+00:00",
+      "id": 790326,
+      "is_public": true,
+      "modified": "2024-07-30T20:13:14.698873+00:00",
+      "note": "Added support for multiple languages in the same document spoken in macOS VoiceOver.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 60,
+      "tag": "New"
+    },
+    {
       "bug": 1890999,
       "created": "2024-05-15T17:20:41.251037+00:00",
       "id": 790174,
