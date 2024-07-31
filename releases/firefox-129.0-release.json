@@ -59,7 +59,7 @@
       "created": "2024-07-30T20:15:55.381124+00:00",
       "id": 790328,
       "is_public": true,
-      "modified": "2024-07-30T20:15:55.380931+00:00",
+      "modified": "2024-07-31T14:54:07.372388+00:00",
       "note": "HTTPS DNS records can now be resolved with the operating system's DNS resolver on specific platforms (Windows 11, Linux, Android 10+). Previously this required [DNS over HTTPS][1] to be enabled. This capability allows the use of HTTP/3 without needing to use the [Alt-Svc][2] header, upgrades requests to HTTPS when the DNS record is present, and enables wider use of [ECH][3].\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/firefox-dns-over-https\r\n  [2]: https://developer.mozilla.org/docs/Web/HTTP/Headers/Alt-Svc\r\n  [3]: https://support.mozilla.org/kb/faq-encrypted-client-hello",
       "progressive_rollout": false,
       "relevant_countries": [],
