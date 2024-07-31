@@ -11,8 +11,8 @@
       "created": "2024-07-30T20:06:05.071632+00:00",
       "id": 790323,
       "is_public": true,
-      "modified": "2024-07-30T20:57:26.752007+00:00",
-      "note": "[Reader View][1] has an enhanced Text and Layout menu with new options for character spacing, word spacing, and text alignment. These changes offer users a more accessible reading experience.\r\n\r\n<img src=\"https://www.mozilla.org/media/img/firefox/releasenotes/note-images/129_reader_view_text.png\" width=\"683\" height=\"690\"  alt=\"screenshot of reader view's text menu demonstrating the new spacing and layout options\">\r\n\r\n  [1]: https://support.mozilla.org/kb/firefox-reader-view-clutter-free-web-pages",
+      "modified": "2024-07-31T15:02:49.286478+00:00",
+      "note": "[Reader View][1] now has an enhanced Text and Layout menu with new options for character spacing, word spacing, and text alignment. These changes offer users a more accessible reading experience.\r\n\r\n<img src=\"https://www.mozilla.org/media/img/firefox/releasenotes/note-images/129_reader_view_text.png\" width=\"683\" height=\"690\"  alt=\"screenshot of reader view's text menu demonstrating the new spacing and layout options\">\r\n\r\n  [1]: https://support.mozilla.org/kb/firefox-reader-view-clutter-free-web-pages",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 90,
@@ -88,18 +88,6 @@
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 50,
-      "tag": "New"
-    },
-    {
-      "bug": 1890999,
-      "created": "2024-05-15T17:20:41.251037+00:00",
-      "id": 790174,
-      "is_public": true,
-      "modified": "2024-07-30T14:57:42.771031+00:00",
-      "note": "HTTPS DNS records can now be resolved with the operating system's DNS resolver on specific platforms (Windows 11, Linux, Android 10+). Previously this required DNS over HTTPS to be enabled. This capability allows the use of HTTP/3 without needing to use the `Alt-Svc` header, upgrades requests to HTTPS when the DNS record is present, and enables wider use of ECH.",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
       "tag": "New"
     },
     {
