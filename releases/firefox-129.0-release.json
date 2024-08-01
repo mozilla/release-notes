@@ -224,6 +224,18 @@
     },
     {
       "bug": null,
+      "created": "2024-08-01T15:06:08.984787+00:00",
+      "id": 790331,
+      "is_public": true,
+      "modified": "2024-08-01T15:06:08.984579+00:00",
+      "note": "Various [security][1] fixes.\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
       "created": "2024-07-30T16:58:30.429248+00:00",
       "id": 790304,
       "is_public": true,
