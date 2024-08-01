@@ -149,6 +149,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "HTML5"
+    },
+    {
+      "bug": 1904836,
+      "created": "2024-08-01T12:34:00.668011+00:00",
+      "id": 790330,
+      "is_public": true,
+      "modified": "2024-08-01T12:34:00.667771+00:00",
+      "note": "WebCryptoAPI is now supporting Curve25519 primitives (Ed25519 signatures and X25519 key generation).",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
     }
   ],
   "product": "Firefox",
