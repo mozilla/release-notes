@@ -19,6 +19,18 @@
       "tag": "New"
     },
     {
+      "bug": 1752246,
+      "created": "2024-08-02T12:32:39.363360+00:00",
+      "id": 790332,
+      "is_public": true,
+      "modified": "2024-08-02T12:32:39.363162+00:00",
+      "note": "Enable overscroll animations on Linux as the default behavior for scrollable areas.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1904836,
       "created": "2024-08-01T12:34:00.668011+00:00",
       "id": 790330,
