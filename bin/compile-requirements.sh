@@ -7,7 +7,7 @@
 set -exo pipefail
 
 # Set the command used in the reminder comment at the top of the file
-export CUSTOM_COMPILE_COMMAND="$ make compile-requirements"
+export CUSTOM_COMPILE_COMMAND="$ source ./bin/compile-requirements.sh"
 
 # We need this installed, but we don't want it to live in the main requirements
 # We will need to periodically review this pinning
