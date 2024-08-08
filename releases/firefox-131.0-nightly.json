@@ -79,6 +79,18 @@
       "tag": "New"
     },
     {
+      "bug": 1911651,
+      "created": "2024-08-08T15:32:13.129440+00:00",
+      "id": 790334,
+      "is_public": true,
+      "modified": "2024-08-08T15:32:13.129117+00:00",
+      "note": "Deprecated HLS playlist support in [Firefox for Android][1]. Extended testing showed no adverse impact as newer playback technologies have been widely adopted by websites.\r\n\r\n\r\n  [1]: https://play.google.com/store/apps/details?id=org.mozilla.fenix",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
       "bug": 1893965,
       "created": "2024-04-30T10:37:58.410499+00:00",
       "id": 790139,
