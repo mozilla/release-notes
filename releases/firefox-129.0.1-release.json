@@ -5,7 +5,44 @@
   "created": "2024-08-12T12:45:33.757588+00:00",
   "is_public": false,
   "modified": "2024-08-12T12:45:33.757302+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": null,
+      "created": "2024-08-12T12:46:18.656435+00:00",
+      "id": 790336,
+      "is_public": true,
+      "modified": "2024-08-12T12:46:18.656234+00:00",
+      "note": "Reference link to [129.0 release notes][1].\r\n\r\n\r\n  [1]: https://www.mozilla.org/firefox/129.0/releasenotes/",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": ""
+    },
+    {
+      "bug": 1911283,
+      "created": "2024-08-12T12:50:50.430056+00:00",
+      "id": 790337,
+      "is_public": true,
+      "modified": "2024-08-12T12:54:57.252872+00:00",
+      "note": "Fixed an issue with video playback on some websites. ([Bug 1911283][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1911283",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 60,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1910990,
+      "created": "2024-08-12T12:54:37.481594+00:00",
+      "id": 790338,
+      "is_public": true,
+      "modified": "2024-08-12T12:55:11.768644+00:00",
+      "note": "Fixed a crash when dragging a video file into some websites. ([Bug 1910990][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1910990",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 50,
+      "tag": "Fixed"
+    }
+  ],
   "product": "Firefox",
   "release_date": "2024-08-13",
   "slug": "firefox-129.0.1-release",
