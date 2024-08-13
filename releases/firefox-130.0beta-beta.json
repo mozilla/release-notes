@@ -43,6 +43,18 @@
       "tag": "New"
     },
     {
+      "bug": 1889771,
+      "created": "2024-08-13T12:37:00.248806+00:00",
+      "id": 790339,
+      "is_public": true,
+      "modified": "2024-08-13T12:37:00.248578+00:00",
+      "note": "Improved page load performance by allowing more resources to be downloaded simultaneously.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1904836,
       "created": "2024-08-01T12:34:00.668011+00:00",
       "id": 790330,
