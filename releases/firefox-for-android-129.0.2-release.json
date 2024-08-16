@@ -5,7 +5,20 @@
   "created": "2024-08-16T13:23:19.919614+00:00",
   "is_public": false,
   "modified": "2024-08-16T13:23:56.920499+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": null,
+      "created": "2024-08-16T13:28:57.231531+00:00",
+      "id": 790342,
+      "is_public": true,
+      "modified": "2024-08-16T13:28:57.231341+00:00",
+      "note": "Various stability fixes.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
+    }
+  ],
   "product": "Firefox for Android",
   "release_date": "2024-08-20",
   "slug": "firefox-for-android-129.0.2-release",
