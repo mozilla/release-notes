@@ -89,6 +89,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "HTML5"
+    },
+    {
+      "bug": 1914185,
+      "created": "2024-08-23T01:29:22.028544+00:00",
+      "id": 790346,
+      "is_public": true,
+      "modified": "2024-08-23T01:29:22.028256+00:00",
+      "note": "As part of the ongoing updates to SVG 2, `SVGGraphicsElement.nearestViewportElement` and `SVGGraphicsElement.farthestViewportElement` have been officially removed. Please note that these properties have had deprecation warnings since February.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Developer"
     }
   ],
   "product": "Firefox",
