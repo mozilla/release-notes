@@ -67,16 +67,28 @@
       "tag": "HTML5"
     },
     {
-      "bug": null,
+      "bug": 1908572,
       "created": "2024-08-13T14:28:31.126264+00:00",
       "id": 790340,
       "is_public": true,
-      "modified": "2024-08-26T15:43:34.958100+00:00",
+      "modified": "2024-08-26T15:56:16.061859+00:00",
       "note": "Enabled the [Web Codecs API][1] on desktop platforms, allowing low-level access to audio and video encoders and decoders.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/WebCodecs_API",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "HTML5"
+    },
+    {
+      "bug": 1863246,
+      "created": "2024-08-26T15:58:25.677978+00:00",
+      "id": 790350,
+      "is_public": true,
+      "modified": "2024-08-26T15:58:25.677814+00:00",
+      "note": "Fixed an issue where `Copy` and `Paste` context menu items intermittently were not enabled when expected.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
