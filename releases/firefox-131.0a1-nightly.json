@@ -67,6 +67,18 @@
       "tag": "New"
     },
     {
+      "bug": 1866827,
+      "created": "2024-08-27T01:57:18.594235+00:00",
+      "id": 790352,
+      "is_public": true,
+      "modified": "2024-08-27T01:57:18.593908+00:00",
+      "note": "Firefox will now consider the languages you have previously used to suggest a more relevant default language for translations.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1911651,
       "created": "2024-08-08T15:32:13.129440+00:00",
       "id": 790334,
