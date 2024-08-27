@@ -79,6 +79,18 @@
       "tag": "New"
     },
     {
+      "bug": 1754005,
+      "created": "2024-08-27T14:52:25.513341+00:00",
+      "id": 790353,
+      "is_public": true,
+      "modified": "2024-08-27T14:52:25.512995+00:00",
+      "note": "Firefox will now temporarily remember when users grant permissions to sites (e.g. geolocation). Temporary permissions will be removed either after one hour or when the tab is closed.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1911651,
       "created": "2024-08-08T15:32:13.129440+00:00",
       "id": 790334,
