@@ -125,6 +125,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "Developer"
+    },
+    {
+      "bug": 1914877,
+      "created": "2024-08-28T21:51:26.425988+00:00",
+      "id": 790354,
+      "is_public": true,
+      "modified": "2024-08-28T21:51:26.425775+00:00",
+      "note": "Firefox now supports text fragments, which allows users to link directly to a specific portion of text in a web document via a special URL fragment. ([Learn more][1])\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/Text_fragments",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Developer"
     }
   ],
   "product": "Firefox",
