@@ -103,12 +103,12 @@
       "tag": "Changed"
     },
     {
-      "bug": 1898253,
-      "created": "2024-06-07T15:38:26.136742+00:00",
-      "id": 790202,
+      "bug": 1908160,
+      "created": "2024-08-29T17:04:20.974418+00:00",
+      "id": 790359,
       "is_public": true,
-      "modified": "2024-08-26T15:42:32.340347+00:00",
-      "note": "Starting with Firefox 128, Firefox Nightly now has initial support for the [CHIPS (Cookies Having Independent Partitioned State)][1] standard.\r\n\r\n\r\n  [1]: https://github.com/privacycg/CHIPS",
+      "modified": "2024-08-29T17:04:20.974228+00:00",
+      "note": "Support for Cookies Having Independent Partitioned State (CHIPS) was now added, allowing developers to opt a cookie into storage partitioned per top-level site. ([Learn more][1])\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/Privacy/Privacy_sandbox/Partitioned_cookies",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
