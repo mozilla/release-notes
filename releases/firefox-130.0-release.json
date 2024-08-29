@@ -7,6 +7,30 @@
   "modified": "2024-08-26T15:45:36.955444+00:00",
   "notes": [
     {
+      "bug": 1904355,
+      "created": "2024-07-29T16:31:26.953090+00:00",
+      "id": 790301,
+      "is_public": true,
+      "modified": "2024-08-29T11:19:49.159630+00:00",
+      "note": "Firefox now allows translating selected text portions to different languages after a full-page translation.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2024-08-29T11:20:33.451607+00:00",
+      "id": 790355,
+      "is_public": true,
+      "modified": "2024-08-29T11:20:33.451421+00:00",
+      "note": "Firefox now offers an easy way to try experimental features with a new Firefox Labs page in Settings.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": null,
       "created": "2024-08-26T15:45:34.250180+00:00",
       "id": 790347,
