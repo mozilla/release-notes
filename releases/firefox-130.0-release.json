@@ -35,8 +35,8 @@
       "created": "2024-08-29T11:20:33.451607+00:00",
       "id": 790355,
       "is_public": true,
-      "modified": "2024-08-29T11:51:36.379321+00:00",
-      "note": "Firefox now offers an easy way to try experimental features with a new Firefox Labs page in Settings.\r\n\r\n- [AI Chatbot feature][1] lets you add the chatbot of your choice to the sidebar, for quick access as you browse.\r\n- Picture-in-Picture auto-open experiment enables PiP on active videos when switching tabs.\r\n\r\n![Screenshot of the new Firefox Labs section in Settings][2]\r\n\r\n\r\n  [1]: https://blog.mozilla.org/products/firefox/firefox-news/ai-services-on-firefox/\r\n  [2]: /media/img/firefox/releasenotes/note-images/",
+      "modified": "2024-08-29T12:07:40.500716+00:00",
+      "note": "Firefox now offers an easy way to try experimental features with a new Firefox Labs page in Settings.\r\n\r\n- [AI Chatbot feature][1] lets you add the chatbot of your choice to the sidebar, for quick access as you browse.\r\n- Picture-in-Picture auto-open experiment enables PiP on active videos when switching tabs.\r\n\r\n![Screenshot of the new Firefox Labs section in Settings][2]\r\n\r\n\r\n  [1]: https://blog.mozilla.org/products/firefox/firefox-news/ai-services-on-firefox/\r\n  [2]: https://mozilla.org/media/img/firefox/releasenotes/note-images/130_firefox_labs_prefs.png",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
@@ -113,6 +113,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2024-08-29T12:03:49.621660+00:00",
+      "id": 790358,
+      "is_public": true,
+      "modified": "2024-08-29T12:03:49.621532+00:00",
+      "note": "With the release of Firefox 130, we are pleased to welcome the developers who contributed their first code change to Firefox in this release, 15 of whom were brand new volunteers! Please join us in thanking each of these diligent and enthusiastic individuals, and take a look at their contributions:\r\n\r\n* Balarama Raju: <a href=\"https://bugzilla.mozilla.org/1788437\">1788437</a>\r\n* cauasene00: <a href=\"https://bugzilla.mozilla.org/1904310\">1904310</a>\r\n* Daniele Ferla: <a href=\"https://bugzilla.mozilla.org/1647800\">1647800</a>\r\n* Eragon: <a href=\"https://bugzilla.mozilla.org/1904640\">1904640</a>\r\n* Gabriel Lee [:gabrielchl]: <a href=\"https://bugzilla.mozilla.org/1814168\">1814168</a>\r\n* Harry Chen: <a href=\"https://bugzilla.mozilla.org/1907082\">1907082</a>\r\n* Jiaxun Yang [:flygoat]: <a href=\"https://bugzilla.mozilla.org/1909587\">1909587</a>, <a href=\"https://bugzilla.mozilla.org/1909793\">1909793</a>, <a href=\"https://bugzilla.mozilla.org/1909897\">1909897</a>\r\n* JL: <a href=\"https://bugzilla.mozilla.org/1882655\">1882655</a>\r\n* Joshua Chen: <a href=\"https://bugzilla.mozilla.org/1907234\">1907234</a>, <a href=\"https://bugzilla.mozilla.org/1907369\">1907369</a>\r\n* Kiril K: <a href=\"https://bugzilla.mozilla.org/1899813\">1899813</a>\r\n* Liam DeBeasi: <a href=\"https://bugzilla.mozilla.org/1903840\">1903840</a>\r\n* Matthew: <a href=\"https://bugzilla.mozilla.org/1900282\">1900282</a>\r\n* Mikhail Galanin [:mikhainin]: <a href=\"https://bugzilla.mozilla.org/1829689\">1829689</a>\r\n* Nico Burns: <a href=\"https://bugzilla.mozilla.org/1906395\">1906395</a>, <a href=\"https://bugzilla.mozilla.org/1906994\">1906994</a>, <a href=\"https://bugzilla.mozilla.org/1906995\">1906995</a>\r\n* Weilon[:whale]: <a href=\"https://bugzilla.mozilla.org/1768758\">1768758</a>",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Community"
     }
   ],
   "product": "Firefox",
