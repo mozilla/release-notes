@@ -5,7 +5,44 @@
   "created": "2024-08-26T15:44:06.637552+00:00",
   "is_public": false,
   "modified": "2024-08-26T15:44:33.961662+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": null,
+      "created": "2024-08-29T20:27:04.480497+00:00",
+      "id": 790360,
+      "is_public": true,
+      "modified": "2024-08-29T20:27:04.480220+00:00",
+      "note": "Minor interface improvements to improve navigation and user experience.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2024-08-29T20:27:34.431939+00:00",
+      "id": 790361,
+      "is_public": true,
+      "modified": "2024-08-29T20:27:34.431721+00:00",
+      "note": "Resolved scrolling issues with \"Find in Page\".",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2024-08-29T20:27:54.681726+00:00",
+      "id": 790362,
+      "is_public": true,
+      "modified": "2024-08-29T20:27:54.681494+00:00",
+      "note": "Resolved scrolling issues with \"Find in Page\".",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
+    }
+  ],
   "product": "Firefox for iOS",
   "release_date": "2024-09-03",
   "slug": "firefox-for-ios-130.0-release",
