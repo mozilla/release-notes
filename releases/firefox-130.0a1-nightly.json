@@ -7,15 +7,15 @@
   "modified": "2024-08-22T15:51:12.955102+00:00",
   "notes": [
     {
-      "bug": 1752246,
-      "created": "2024-08-02T12:32:39.363360+00:00",
-      "id": 790332,
+      "bug": 1904355,
+      "created": "2024-07-29T16:31:26.953090+00:00",
+      "id": 790301,
       "is_public": true,
-      "modified": "2024-08-29T12:31:27.103667+00:00",
-      "note": "Enable overscroll animations on Linux as the default behavior for scrollable areas.",
+      "modified": "2024-08-29T12:59:46.725643+00:00",
+      "note": "Firefox now allows translating selected text portions to different languages after a full-page translation.",
       "progressive_rollout": false,
       "relevant_countries": [],
-      "sort_num": 10,
+      "sort_num": 4,
       "tag": "New"
     },
     {
@@ -91,12 +91,12 @@
       "tag": "New"
     },
     {
-      "bug": 1904355,
-      "created": "2024-07-29T16:31:26.953090+00:00",
-      "id": 790301,
+      "bug": 1752246,
+      "created": "2024-08-02T12:32:39.363360+00:00",
+      "id": 790332,
       "is_public": true,
-      "modified": "2024-08-29T11:19:49.159630+00:00",
-      "note": "Firefox now allows translating selected text portions to different languages after a full-page translation.",
+      "modified": "2024-08-29T12:58:59.289215+00:00",
+      "note": "Enable overscroll animations on Linux as the default behavior for scrollable areas.",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
