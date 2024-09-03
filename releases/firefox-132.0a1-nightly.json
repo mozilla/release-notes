@@ -4,20 +4,8 @@
   "channel": "Nightly",
   "created": "2024-08-26T15:42:32.314231+00:00",
   "is_public": true,
-  "modified": "2024-09-02T19:45:34.772723+00:00",
+  "modified": "2024-09-03T18:20:35.390002+00:00",
   "notes": [
-    {
-      "bug": 1893676,
-      "created": "2024-06-04T18:15:41.420158+00:00",
-      "id": 790192,
-      "is_public": true,
-      "modified": "2024-08-26T15:42:32.340347+00:00",
-      "note": "Starting with Firefox 128, hovering the mouse over an unfocused tab will now display a visual preview of its contents in Nightly builds.",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "New"
-    },
     {
       "bug": 1898255,
       "created": "2024-06-13T18:45:28.574578+00:00",

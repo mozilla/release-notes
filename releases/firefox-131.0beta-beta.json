@@ -4,7 +4,7 @@
   "channel": "Beta",
   "created": "2024-08-26T15:42:32.281121+00:00",
   "is_public": true,
-  "modified": "2024-09-03T12:34:43.219286+00:00",
+  "modified": "2024-09-03T18:21:19.177142+00:00",
   "notes": [
     {
       "bug": 1866827,
@@ -25,6 +25,18 @@
       "is_public": true,
       "modified": "2024-08-29T18:44:34.632728+00:00",
       "note": "Firefox will now temporarily remember when users grant permissions to sites (e.g. geolocation). Temporary permissions will be removed either after one hour or when the tab is closed.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1908566,
+      "created": "2024-09-03T18:21:16.521628+00:00",
+      "id": 790364,
+      "is_public": true,
+      "modified": "2024-09-03T18:21:49.481427+00:00",
+      "note": "Hovering the mouse over an unfocused tab will now display a visual preview of its contents.",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
