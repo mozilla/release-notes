@@ -47,9 +47,9 @@
       "created": "2024-09-04T18:13:06.271096+00:00",
       "id": 790365,
       "is_public": true,
-      "modified": "2024-09-04T18:13:06.270899+00:00",
-      "note": "Starting with Firefox 130, users in the United States and Canada can view local weather directly on the new tab page. Additionally, they have the option to select a specific location to see current weather conditions.\r\n\r\n![enter image description here][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/media/img/firefox/releasenotes/note-images/130-weather-widget-new-york.png",
-      "progressive_rollout": true,
+      "modified": "2024-09-04T18:24:00.703858+00:00",
+      "note": "Users in the United States and Canada can view local weather directly on the new tab page. Additionally, they have the option to select a specific location to see current weather conditions.\r\n\r\n![enter image description here][1]\r\n\r\n\r\n  [1]: https://www.mozilla.org/media/img/firefox/releasenotes/note-images/130-weather-widget-new-york.png",
+      "progressive_rollout": false,
       "relevant_countries": [
         {
           "code": "CA",
