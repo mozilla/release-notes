@@ -43,16 +43,16 @@
       "tag": "New"
     },
     {
-      "bug": 1911651,
-      "created": "2024-08-08T15:32:13.129440+00:00",
-      "id": 790334,
+      "bug": 1878911,
+      "created": "2024-09-12T17:39:03.706069+00:00",
+      "id": 790366,
       "is_public": true,
-      "modified": "2024-08-29T18:44:56.405232+00:00",
-      "note": "Deprecated HLS playlist support in [Firefox for Android][1]. Extended testing showed no adverse impact as newer playback technologies have been widely adopted by websites.\r\n\r\n\r\n  [1]: https://play.google.com/store/apps/details?id=org.mozilla.fenix",
+      "modified": "2024-09-12T17:39:03.705869+00:00",
+      "note": "You can now enable protection against suspected fingerprinters on [Firefox for Android][1] using custom and strict enhanced tracking protection options.\r\n\r\n  [1]: https://play.google.com/store/apps/details?id=org.mozilla.firefox_beta",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
-      "tag": "Changed"
+      "tag": "New"
     },
     {
       "bug": 1908160,
