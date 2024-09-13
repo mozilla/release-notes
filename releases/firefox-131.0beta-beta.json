@@ -55,6 +55,18 @@
       "tag": "New"
     },
     {
+      "bug": 1909673,
+      "created": "2024-09-13T18:37:00.524313+00:00",
+      "id": 790370,
+      "is_public": true,
+      "modified": "2024-09-13T18:37:00.524177+00:00",
+      "note": "`SameSite=None` cookies will now be rejected when there is no `Secure` attribute included.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1908160,
       "created": "2024-08-29T17:04:20.974418+00:00",
       "id": 790359,
