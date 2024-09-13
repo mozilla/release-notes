@@ -115,6 +115,18 @@
       "tag": "HTML5"
     },
     {
+      "bug": 1914182,
+      "created": "2024-09-13T20:56:16.365701+00:00",
+      "id": 790372,
+      "is_public": true,
+      "modified": "2024-09-13T20:56:16.365511+00:00",
+      "note": "Starting with Firefox 131, support for the non-mandatory options argument to `getBBox` will get the bounding box of the element, including its stroke (e.g. `element.getBBox({\"stroke\": true})`). ([Learn more][1])\r\n\r\n\r\n  [1]: https://www.w3.org/TR/SVG2/types.html#__svg__SVGGraphicsElement__getBBox",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
       "bug": 1914185,
       "created": "2024-08-23T01:29:22.028544+00:00",
       "id": 790346,
