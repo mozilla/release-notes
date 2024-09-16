@@ -41,6 +41,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": 1916038,
+      "created": "2024-09-16T13:14:00.887615+00:00",
+      "id": 790376,
+      "is_public": true,
+      "modified": "2024-09-16T13:14:00.887449+00:00",
+      "note": "Linux: Fixed black rendering of AVIF images when Firefox is built with GCC.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
