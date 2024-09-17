@@ -67,6 +67,18 @@
       "tag": "New"
     },
     {
+      "bug": 1902053,
+      "created": "2024-09-13T18:40:30.692228+00:00",
+      "id": 790371,
+      "is_public": true,
+      "modified": "2024-09-17T20:41:24.416539+00:00",
+      "note": "Bookmarks in [Firefox for Android][1] are now saved in the folder where you last added a bookmark, instead of defaulting to the top-level bookmarks folder.\r\n\r\n\r\n  [1]: https://play.google.com/store/apps/details?id=org.mozilla.firefox_beta",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1907034,
       "created": "2024-09-17T18:32:34.945150+00:00",
       "id": 790377,
