@@ -79,6 +79,18 @@
       "tag": "New"
     },
     {
+      "bug": 1907034,
+      "created": "2024-09-17T18:32:34.945150+00:00",
+      "id": 790377,
+      "is_public": true,
+      "modified": "2024-09-17T18:36:15.121989+00:00",
+      "note": "We\u2019ve re-introduced the ability to navigate to the search engine home page by clicking on the search bar icons while holding the `SHIFT` key.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1908160,
       "created": "2024-08-29T17:04:20.974418+00:00",
       "id": 790359,
