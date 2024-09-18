@@ -4,7 +4,7 @@
   "channel": "Nightly",
   "created": "2023-05-01T13:51:25.128492+00:00",
   "is_public": true,
-  "modified": "2023-06-05T15:10:28.453766+00:00",
+  "modified": "2024-09-18T09:36:26.102375+00:00",
   "notes": [
     {
       "bug": 1814487,
@@ -13,6 +13,8 @@
       "is_public": true,
       "modified": "2023-06-01T18:13:16.574035+00:00",
       "note": "Starting with Firefox 112, Nightly users on macOS and Linux can now use FIDO2 / WebAuthn authenticators over USB. Some advanced features, such as fully passwordless logins, require a PIN to be set on the authenticator. It is expected to ship to all users in a future release.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
       "sort_num": 0,
       "tag": "New"
     },
@@ -23,6 +25,8 @@
       "is_public": true,
       "modified": "2023-06-30T17:00:21.214316+00:00",
       "note": "<!-- Nightly Only -->Starting with Firefox 115, Nightly users without platform support for H264 video decoding can now fallback to Cisco's OpenH264 plugin for playback.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
       "sort_num": 0,
       "tag": "New"
     },
@@ -33,6 +37,8 @@
       "is_public": true,
       "modified": "2023-06-29T15:55:46.422950+00:00",
       "note": "Hardware video decoding enabled for Intel GPUs on Linux.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
       "sort_num": 0,
       "tag": "New"
     },
@@ -43,6 +49,8 @@
       "is_public": true,
       "modified": "2023-06-29T15:55:47.397387+00:00",
       "note": "Migrating from another browser? Now you can bring over payment methods you've saved in Chrome-based browsers to Firefox.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
       "sort_num": 0,
       "tag": "New"
     },
@@ -53,6 +61,8 @@
       "is_public": true,
       "modified": "2023-07-27T19:03:24.884834+00:00",
       "note": "<!-- Nightly Only --> Starting with Firefox 115, Nightly users can access automated translation of web content in Firefox. Unlike cloud-based alternatives, translation is done locally in Firefox, so that the text being translated does not leave your machine.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
       "sort_num": 0,
       "tag": "New"
     },
@@ -63,6 +73,8 @@
       "is_public": true,
       "modified": "2023-06-29T15:55:48.373555+00:00",
       "note": "The Tab Manager dropdown now features close buttons, so you can close tabs more quickly.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
       "sort_num": 0,
       "tag": "New"
     },
@@ -73,6 +85,8 @@
       "is_public": true,
       "modified": "2023-09-25T14:41:11.211146+00:00",
       "note": "<!-- Nightly Only --> Starting with Firefox 115, Nightly supports a new \u201cCopy Link Without Site Tracking\u201d context menu action which prevents disclosure of identifying or sensitive information by removing superfluous query and tracking parameters from the copied links.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
       "sort_num": 0,
       "tag": "New"
     },
@@ -83,6 +97,8 @@
       "is_public": true,
       "modified": "2023-06-29T15:55:49.411951+00:00",
       "note": "On Linux, middle clicks on the new tab button will now open the xclipboard contents in the new tab. If the xclipboard content is a URL then that URL is opened, any other text is opened with your default search provider. This feature can be turned off using `browser.tabs.searchclipboardfor.middleclick` in `about:config`.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
       "sort_num": 0,
       "tag": "Changed"
     },
@@ -93,6 +109,8 @@
       "is_public": true,
       "modified": "2023-06-29T15:55:44.782451+00:00",
       "note": "For users with a [Firefox Colorways][1] built-in theme, the theme will be automatically migrated to the same theme hosted on [addons.mozilla.org][2] for Firefox profiles that have disabled add-ons auto-updates. This will allow users to keep their Colorways theme when they are later removed from Firefox installer files.\r\n\r\n[1]: https://support.mozilla.org/kb/personalize-firefox-colorways\r\n[2]: https://addons.mozilla.org/firefox/collections/4757633/colorways/",
+      "progressive_rollout": false,
+      "relevant_countries": [],
       "sort_num": 0,
       "tag": "Changed"
     },
@@ -103,6 +121,8 @@
       "is_public": true,
       "modified": "2023-06-29T15:55:37.394885+00:00",
       "note": "Undo and redo are now available in Password fields.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
       "sort_num": 0,
       "tag": "Changed"
     },
@@ -113,6 +133,8 @@
       "is_public": true,
       "modified": "2023-06-30T17:24:08.819729+00:00",
       "note": "<!-- Nightly Only -->Starting with Firefox 113, the WebTransport API is now enabled in the Nightly channel, including RFC 9297 support. It's expected to ship to release in the near future. WebTransport is expected to see widespread use for media delivery and other applications. WebTransport is built on top of QUIC/HTTP3 and provides reliable streams and reliable and unreliable datagrams.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
       "sort_num": 0,
       "tag": "HTML5"
     },
@@ -123,6 +145,8 @@
       "is_public": true,
       "modified": "2023-06-29T15:55:45.393052+00:00",
       "note": "WebRTC application developers can now specify a [target][1] in milliseconds of media for the jitter buffer to hold. Altering the target value allows applications to control the tradeoff between playout delay and the risk of running out of audio or video frames due to network jitter.\r\n\r\n[1]:https://w3c.github.io/webrtc-extensions/#rtcrtpreceiver-jitterbuffertarget-attributes",
+      "progressive_rollout": false,
+      "relevant_countries": [],
       "sort_num": 0,
       "tag": "HTML5"
     },
@@ -133,6 +157,8 @@
       "is_public": true,
       "modified": "2023-06-29T15:55:50.625916+00:00",
       "note": "[Change array by copy][1] provides additional methods on `Array.prototype` and `TypedArray.prototype` to enable changes on the array by returning a new copy of it with the change.\r\n\r\n[1]:https://github.com/tc39/proposal-change-array-by-copy",
+      "progressive_rollout": false,
+      "relevant_countries": [],
       "sort_num": 0,
       "tag": "HTML5"
     },
@@ -143,6 +169,8 @@
       "is_public": true,
       "modified": "2023-06-29T15:55:38.518614+00:00",
       "note": "The [animation-composition][1] property is now supported, allowing a declarative way to define the composite operation used when multiple animations affect the same property simultaneously.\r\n\r\n[1]:https://developer.mozilla.org/docs/Web/CSS/animation-composition",
+      "progressive_rollout": false,
+      "relevant_countries": [],
       "sort_num": 0,
       "tag": "HTML5"
     },
@@ -153,6 +181,8 @@
       "is_public": true,
       "modified": "2023-06-29T15:55:40.441388+00:00",
       "note": "The builtin editor now behaves similarly to other browsers with `contenteditable` and `designMode` when splitting a node, e.g. typing Enter to split a paragraph, and also when joining two nodes, e.g. typing Backspace at start of a paragraph to join the paragraph and previous one.\r\n\r\nWhen a node is split, the builtin editor creates a new node after the original one instead of before, i.e. creates the right node instead of the left node. \r\n\r\nSimilarly, when two nodes are joined, the builtin editor deletes the latter node and moves its children to the end of the preceding node instead of deleting the former node and moving its child to start of the following node.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
       "sort_num": 0,
       "tag": "HTML5"
     },
@@ -163,6 +193,8 @@
       "is_public": true,
       "modified": "2023-06-29T15:55:48.876655+00:00",
       "note": "Added the URL.canParse() function to allow easy and fast checking if URLs are valid and parseable.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
       "sort_num": 0,
       "tag": "HTML5"
     },
@@ -173,6 +205,8 @@
       "is_public": true,
       "modified": "2023-06-29T15:55:43.913079+00:00",
       "note": "In web development, we rely on third-party libraries which you may not be interested in while debugging. These can be ignored. Ignoring them means that breakpoints will not get hit and they are skipped during stepping. \r\n\r\nYou can now choose to **Hide ignore-listed sources** in the Developer Tools source tree.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
       "sort_num": 0,
       "tag": "Developer"
     },
@@ -183,6 +217,8 @@
       "is_public": true,
       "modified": "2023-06-29T15:55:39.376015+00:00",
       "note": "Windows Magnifier now follows the text cursor correctly when the Firefox title bar is visible.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
       "sort_num": 0,
       "tag": "Fixed"
     }
@@ -191,7 +227,7 @@
   "release_date": "2023-05-08",
   "slug": "firefox-115.0a1-nightly",
   "system_requirements": "## Windows\r\n\r\n### Operating Systems (32-bit and 64-bit)\r\n - Windows 7 or later\r\n\r\n### Recommended Hardware\r\n-  1 gigahertz (GHz) or faster compatible processor or System on a Chip (SoC)\r\n-  1GB of RAM / 2GB of RAM for the 64-bit version\r\n-  500MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- macOS 10.12 or later\r\n\r\n### Recommended Hardware\r\n- Macintosh computer with an Intel x86 or Apple silicon processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - glibc 2.17 or higher\r\n    - GTK+ 3.14 or higher\r\n    - libdbus-glib 0.6.0 or higher\r\n    - libglib 2.42 or higher\r\n    - libstdc++ 4.8.1 or higher\r\n    - libxtst 1.2.3 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - DBus 1.0 or higher\r\n    - NetworkManager 0.7 or higher\r\n    - PulseAudio",
-  "text": "Firefox Nightly gets updated every day and as a consequence, the release notes for the Nightly channel are updated continuously to reflect features that have reached sufficient maturity to benefit from community feedback and bug reports. \r\n\r\n**Warning: Features listed here may or may *not* make a final release of Firefox.**\r\n\r\nIn addition to these release notes, you can follow ongoing development on our [@FirefoxNightly][1] Twitter account, our  [@FirefoxNightly@mozilla.social][4] Mastodon account as well as read our [Nightly Blog][2].\r\n\r\nYou can interact with other Firefox Nightly users and give your feedback to Mozilla staff in the [Nightly Matrix room][3] on chat.mozilla.org.\r\n\r\n\r\n  [1]: https://twitter.com/FirefoxNightly\r\n  [2]: https://blog.nightly.mozilla.org\r\n  [3]: https://chat.mozilla.org/?#/room/#nightly:mozilla.org\r\n  [4]: https://mozilla.social/@FirefoxNightly",
+  "text": "Firefox Nightly gets updated every day and as a consequence, the release notes for the Nightly channel are updated continuously to reflect features that have reached sufficient maturity to benefit from community feedback and bug reports. \r\n\r\n**Warning: Features listed here may or may *not* make a final release of Firefox.**\r\n\r\nIn addition to these release notes, you can follow ongoing development on our [@FirefoxNightly][1] X account as well as read our [Nightly Blog][2].\r\n\r\nYou can interact with other Firefox Nightly users and give your feedback to Mozilla staff in the [Nightly Matrix room][3] on chat.mozilla.org.\r\n\r\n\r\n  [1]: https://x.com/FirefoxNightly\r\n  [2]: https://blog.nightly.mozilla.org\r\n  [3]: https://chat.mozilla.org/?#/room/#nightly:mozilla.org",
   "title": "Firefox 115.0a1 Nightly",
   "version": "115.0a1"
 }

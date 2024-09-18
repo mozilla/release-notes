@@ -4,7 +4,7 @@
   "channel": "Nightly",
   "created": "2023-06-30T16:44:58.293202+00:00",
   "is_public": true,
-  "modified": "2023-07-04T08:52:47.254837+00:00",
+  "modified": "2024-09-18T09:36:13.824060+00:00",
   "notes": [
     {
       "bug": 1823332,
@@ -13,6 +13,8 @@
       "is_public": true,
       "modified": "2023-09-25T14:41:11.211146+00:00",
       "note": "<!-- Nightly Only --> Starting with Firefox 115, Nightly supports a new \u201cCopy Link Without Site Tracking\u201d context menu action which prevents disclosure of identifying or sensitive information by removing superfluous query and tracking parameters from the copied links.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
       "sort_num": 0,
       "tag": "New"
     },
@@ -23,6 +25,8 @@
       "is_public": true,
       "modified": "2023-07-31T13:31:13.979879+00:00",
       "note": "Firefox has added a new `dom.event.contextmenu.shift_suppresses_event` preference allowing users to disable Firefox forcing the context menu to appear when pressing shift+right-click on a webpage as it can sometimes cause undesirable outcomes on certain sites.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
       "sort_num": 0,
       "tag": "New"
     },
@@ -33,6 +37,8 @@
       "is_public": true,
       "modified": "2023-07-31T13:30:56.262241+00:00",
       "note": "macOS users can now control the tabability of controls and links via about:preferences",
+      "progressive_rollout": false,
+      "relevant_countries": [],
       "sort_num": 0,
       "tag": "New"
     },
@@ -43,6 +49,8 @@
       "is_public": true,
       "modified": "2023-09-29T03:16:06.244010+00:00",
       "note": "<!-- Nightly Only --> Starting with Firefox 117, recently closed tabs now persist between sessions for Nightly users that don't have automatic session restore enabled. Manually restoring a previous session will continue to reopen any previously open tabs or windows.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
       "sort_num": 0,
       "tag": "New"
     },
@@ -53,6 +61,8 @@
       "is_public": true,
       "modified": "2023-07-31T13:31:38.936964+00:00",
       "note": "[Firefox for Android][1] now supports pasting images into contenteditable & designMode elements. Previously, only plain text and HTML was supported.\r\n\r\n\r\n  [1]: https://play.google.com/store/apps/details?id=org.mozilla.fenix",
+      "progressive_rollout": false,
+      "relevant_countries": [],
       "sort_num": 0,
       "tag": "New"
     },
@@ -63,6 +73,8 @@
       "is_public": true,
       "modified": "2023-08-03T22:06:59.167141+00:00",
       "note": "<!-- Nightly Only --> Starting with Firefox 117, Nightly builds now include extended region support for credit card autofill for the AT, BE, ES, IT, and PL locales.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
       "sort_num": 0,
       "tag": "New"
     },
@@ -73,6 +85,8 @@
       "is_public": true,
       "modified": "2023-09-29T03:28:27.349742+00:00",
       "note": "<!-- Nightly Only --> Starting with Firefox 117, Nightly builds now support adding images when editing PDFs in addition to adding text and drawing.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
       "sort_num": 0,
       "tag": "New"
     },
@@ -83,6 +97,8 @@
       "is_public": true,
       "modified": "2023-08-23T19:38:03.658183+00:00",
       "note": "Automated translation of web content is now available to Firefox users! Unlike cloud-based alternatives, translation is done locally in Firefox, so that the text being translated does not leave your machine.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
       "sort_num": 0,
       "tag": "New"
     },
@@ -93,6 +109,8 @@
       "is_public": true,
       "modified": "2023-07-31T13:30:21.025913+00:00",
       "note": "Firefox does not show a screen sharing indicator on Wayland any more. It never worked as well as on other platforms and desktop environments typically provide sharing indicators already.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
       "sort_num": 0,
       "tag": "Changed"
     },
@@ -103,6 +121,8 @@
       "is_public": true,
       "modified": "2023-10-23T13:17:37.743608+00:00",
       "note": "<!-- Nightly Only --> Starting with Firefox 117, partial support for the custom highlight API is now available in Nightly builds, allowing web developers to give ranges an appearance.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
       "sort_num": 0,
       "tag": "HTML5"
     },
@@ -113,6 +133,8 @@
       "is_public": true,
       "modified": "2023-07-31T13:31:07.838423+00:00",
       "note": "`ReadableStream.from` is now supported, allowing creation of a ReadableStream from an (async) iterable.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
       "sort_num": 0,
       "tag": "HTML5"
     },
@@ -123,6 +145,8 @@
       "is_public": true,
       "modified": "2023-07-31T13:31:02.625183+00:00",
       "note": "Support for improved CSS nesting is now enabled by default.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
       "sort_num": 0,
       "tag": "HTML5"
     },
@@ -133,6 +157,8 @@
       "is_public": true,
       "modified": "2023-07-31T13:30:43.971846+00:00",
       "note": "Firefox now supports `RTCRtpScriptTransform`",
+      "progressive_rollout": false,
+      "relevant_countries": [],
       "sort_num": 0,
       "tag": "HTML5"
     },
@@ -143,6 +169,8 @@
       "is_public": true,
       "modified": "2023-07-31T13:30:37.869389+00:00",
       "note": "Firefox now supports the CSS properties [`math-style`][1] and [`math-depth`][2] and the [`font-size: math`][3] value.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/CSS/math-style\r\n  [2]: https://developer.mozilla.org/docs/Web/CSS/math-depth\r\n  [3]: https://developer.mozilla.org/docs/Web/CSS/font-size",
+      "progressive_rollout": false,
+      "relevant_countries": [],
       "sort_num": 0,
       "tag": "HTML5"
     },
@@ -153,6 +181,8 @@
       "is_public": true,
       "modified": "2023-09-25T14:40:58.583797+00:00",
       "note": "<!-- Nightly Only --> Starting with Firefox 116, we are enabling for nightly users a prototype [Federated Credential Management][1] implementation, a Web Platform API that allows users to login to websites with their federated accounts in a privacy preserving manner.\r\n\r\n\r\n  [1]: https://fedidcg.github.io/FedCM/",
+      "progressive_rollout": false,
+      "relevant_countries": [],
       "sort_num": 0,
       "tag": "Developer"
     },
@@ -163,6 +193,8 @@
       "is_public": true,
       "modified": "2023-07-31T13:34:02.309123+00:00",
       "note": "Web compatibility inspection has been enhanced with our new CSS compatibility tooltip in the Developer Tools Inspector. An icon is now displayed next to properties that could lead to web compatibility issues. When hovered, the tooltip indicates which browsers are not supported and displays a link to the MDN page for the property so the user can learn more about it.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
       "sort_num": 0,
       "tag": "Developer"
     }
@@ -171,7 +203,7 @@
   "release_date": "2023-07-04",
   "slug": "firefox-117.0a1-nightly",
   "system_requirements": "## Windows\r\n\r\n### Operating Systems (32-bit and 64-bit)\r\n - Windows 10 or later\r\n\r\n### Recommended Hardware\r\n-  1 gigahertz (GHz) or faster compatible processor or System on a Chip (SoC)\r\n-  1GB of RAM / 2GB of RAM for the 64-bit version\r\n-  500MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- macOS 10.15 or later\r\n\r\n### Recommended Hardware\r\n- Macintosh computer with an Intel x86 or Apple silicon processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - glibc 2.17 or higher\r\n    - GTK+ 3.14 or higher\r\n    - libdbus-glib 0.6.0 or higher\r\n    - libglib 2.42 or higher\r\n    - libstdc++ 4.8.1 or higher\r\n    - libxtst 1.2.3 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - DBus 1.0 or higher\r\n    - NetworkManager 0.7 or higher\r\n    - PulseAudio",
-  "text": "Firefox Nightly gets updated every day and as a consequence, the release notes for the Nightly channel are updated continuously to reflect features that have reached sufficient maturity to benefit from community feedback and bug reports. \r\n\r\n**Warning: Features listed here may or may *not* make a final release of Firefox.**\r\n\r\nIn addition to these release notes, you can follow ongoing development on our [@FirefoxNightly][1] Twitter account, our  [@FirefoxNightly@mozilla.social][4] Mastodon account as well as read our [Nightly Blog][2].\r\n\r\nYou can interact with other Firefox Nightly users and give your feedback to Mozilla staff in the [Nightly Matrix room][3] on chat.mozilla.org.\r\n\r\n\r\n  [1]: https://twitter.com/FirefoxNightly\r\n  [2]: https://blog.nightly.mozilla.org\r\n  [3]: https://chat.mozilla.org/?#/room/#nightly:mozilla.org\r\n  [4]: https://mozilla.social/@FirefoxNightly",
+  "text": "Firefox Nightly gets updated every day and as a consequence, the release notes for the Nightly channel are updated continuously to reflect features that have reached sufficient maturity to benefit from community feedback and bug reports. \r\n\r\n**Warning: Features listed here may or may *not* make a final release of Firefox.**\r\n\r\nIn addition to these release notes, you can follow ongoing development on our [@FirefoxNightly][1] X account as well as read our [Nightly Blog][2].\r\n\r\nYou can interact with other Firefox Nightly users and give your feedback to Mozilla staff in the [Nightly Matrix room][3] on chat.mozilla.org.\r\n\r\n\r\n  [1]: https://x.com/FirefoxNightly\r\n  [2]: https://blog.nightly.mozilla.org\r\n  [3]: https://chat.mozilla.org/?#/room/#nightly:mozilla.org",
   "title": "Firefox 117.0a1 Nightly",
   "version": "117.0a1"
 }
