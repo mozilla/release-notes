@@ -17,6 +17,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": 1918478,
+      "created": "2024-09-20T19:38:45.093859+00:00",
+      "id": 790383,
+      "is_public": true,
+      "modified": "2024-09-20T19:38:45.093471+00:00",
+      "note": "Fixed Windows 7 incompatibility with the latest Widevine library to retain Encrypted Media Extensions (EME) support, ensuring support for content from video streaming providers.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox Extended Support Release",
