@@ -91,6 +91,18 @@
       "tag": "HTML5"
     },
     {
+      "bug": 1915848,
+      "created": "2024-09-20T14:53:17.792367+00:00",
+      "id": 790382,
+      "is_public": true,
+      "modified": "2024-09-20T14:53:17.792155+00:00",
+      "note": "Support for HTTP/2 Push has been removed due to compatibility issues with various sites. This feature is not currently supported by any other major browser.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
       "bug": 1909980,
       "created": "2024-09-19T19:00:33.627223+00:00",
       "id": 790378,
