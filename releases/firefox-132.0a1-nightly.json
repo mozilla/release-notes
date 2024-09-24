@@ -43,6 +43,18 @@
       "tag": "New"
     },
     {
+      "bug": 1906212,
+      "created": "2024-09-24T12:52:00.195817+00:00",
+      "id": 790385,
+      "is_public": true,
+      "modified": "2024-09-24T12:52:00.195610+00:00",
+      "note": "WebRender hardware accelerated rendering is now enabled for most SVG Filter Primitives, improving performance of certain graphics-heavy content. Accelerated filters are feBlend, feColorMatrix, feComponentTransfer, feComposite, feDropShadow, feFlood, feGaussianBlur, feMerge and feOffset.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1911651,
       "created": "2024-08-08T15:32:13.129440+00:00",
       "id": 790334,
@@ -85,6 +97,18 @@
       "is_public": true,
       "modified": "2024-09-19T19:02:22.552651+00:00",
       "note": "The `requestVideoFrameCallback()` method is now available on the `HTMLVideoElement` interface. This method enables developers to perform efficient operations on each video frame.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 1919097,
+      "created": "2024-09-24T12:52:35.836292+00:00",
+      "id": 790386,
+      "is_public": true,
+      "modified": "2024-09-24T12:52:35.836084+00:00",
+      "note": "Added support for a post-quantum key exchange mechanism for TLS 1.3 (mlkem768x25519).",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
