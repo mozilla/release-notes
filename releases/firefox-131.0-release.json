@@ -19,6 +19,18 @@
       "tag": "New"
     },
     {
+      "bug": 1908566,
+      "created": "2024-09-25T00:45:56.059559+00:00",
+      "id": 790392,
+      "is_public": true,
+      "modified": "2024-09-25T19:47:27.394494+00:00",
+      "note": "A tab preview is now displayed when hovering the mouse over background tabs, making it easier to locate the desired tab without needing to switch tabs.\r\n\r\n<img src=\"https://www.mozilla.org/media/img/firefox/releasenotes/note-images/129_tab_preview.png\" alt=\"screenshot of a preview image displayed under a background tab when you mouse over the tab\">",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 21,
+      "tag": "New"
+    },
+    {
       "bug": 1866827,
       "created": "2024-09-25T00:48:57.721422+00:00",
       "id": 790394,
@@ -28,18 +40,6 @@
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 20,
-      "tag": "New"
-    },
-    {
-      "bug": 1908566,
-      "created": "2024-09-25T00:45:56.059559+00:00",
-      "id": 790392,
-      "is_public": true,
-      "modified": "2024-09-25T00:46:39.921957+00:00",
-      "note": "Hovering the mouse over an unfocused tab will now display a visual preview of its contents.",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 15,
       "tag": "New"
     },
     {
