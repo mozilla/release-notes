@@ -55,18 +55,6 @@
       "tag": "New"
     },
     {
-      "bug": 1909673,
-      "created": "2024-09-13T18:37:00.524313+00:00",
-      "id": 790370,
-      "is_public": true,
-      "modified": "2024-09-13T18:37:00.524177+00:00",
-      "note": "`SameSite=None` cookies will now be rejected when there is no `Secure` attribute included.",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
       "bug": 1902053,
       "created": "2024-09-13T18:40:30.692228+00:00",
       "id": 790371,
@@ -97,6 +85,18 @@
       "is_public": true,
       "modified": "2024-08-30T14:05:38.636123+00:00",
       "note": "Support for Cookies Having Independent Partitioned State (CHIPS) was now added, allowing developers to opt a cookie into storage partitioned per top-level site. ([Learn more][1])\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/Privacy/Privacy_sandbox/Partitioned_cookies",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 1909673,
+      "created": "2024-09-13T18:37:00.524313+00:00",
+      "id": 790370,
+      "is_public": true,
+      "modified": "2024-09-25T19:32:38.528692+00:00",
+      "note": "`SameSite=None` cookies will now be rejected when there is no `Secure` attribute included.",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
