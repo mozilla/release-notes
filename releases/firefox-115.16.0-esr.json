@@ -7,24 +7,24 @@
   "modified": "2024-09-12T18:00:42.122399+00:00",
   "notes": [
     {
+      "bug": 1918478,
+      "created": "2024-09-20T19:38:45.093859+00:00",
+      "id": 790383,
+      "is_public": true,
+      "modified": "2024-09-25T20:04:20.714497+00:00",
+      "note": "Fixed Windows 7 incompatibility with the latest Widevine library to retain Encrypted Media Extensions (EME) support, ensuring support for content from video streaming providers.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 10,
+      "tag": "Fixed"
+    },
+    {
       "bug": null,
       "created": "2024-09-12T18:00:38.887942+00:00",
       "id": 790367,
       "is_public": true,
       "modified": "2024-09-12T18:00:53.022932+00:00",
       "note": "Various [security fixes][1].\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/mfsa2024-41/",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "Fixed"
-    },
-    {
-      "bug": 1918478,
-      "created": "2024-09-20T19:38:45.093859+00:00",
-      "id": 790383,
-      "is_public": true,
-      "modified": "2024-09-20T19:38:45.093471+00:00",
-      "note": "Fixed Windows 7 incompatibility with the latest Widevine library to retain Encrypted Media Extensions (EME) support, ensuring support for content from video streaming providers.",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
