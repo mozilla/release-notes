@@ -4,8 +4,33 @@
   "channel": "Release",
   "created": "2024-09-24T19:21:44.342665+00:00",
   "is_public": false,
-  "modified": "2024-09-24T19:27:47.151346+00:00",
-  "notes": [],
+  "modified": "2024-09-25T00:58:55.044185+00:00",
+  "notes": [
+    {
+      "bug": 1878911,
+      "created": "2024-09-25T00:58:48.223560+00:00",
+      "id": 790405,
+      "is_public": true,
+      "modified": "2024-09-25T00:58:48.223419+00:00",
+      "note": "You can now enable protection against suspected fingerprinters using custom and strict enhanced tracking protection options.\r\n\r\n<img src=\"https://www.mozilla.org/media/img/firefox/releasenotes/note-images/ETP%20Mobile%20131.jpg\" width=\"250\" height=\"500\"  alt=\"Mobile ETP option\">\r\n\r\n\r\n  [1]: https://play.google.com/store/apps/details?id=org.mozilla.firefox_beta",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 20,
+      "tag": "New"
+    },
+    {
+      "bug": 1902053,
+      "created": "2024-09-25T00:57:50.637051+00:00",
+      "id": 790404,
+      "is_public": true,
+      "modified": "2024-09-25T00:57:50.636912+00:00",
+      "note": "Bookmarks are now saved in the folder where you last added a bookmark, instead of defaulting to the top-level bookmarks folder.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 10,
+      "tag": "New"
+    }
+  ],
   "product": "Firefox for Android",
   "release_date": "2024-10-01",
   "slug": "firefox-for-android-131.0-release",

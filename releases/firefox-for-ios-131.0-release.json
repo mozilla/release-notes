@@ -5,7 +5,56 @@
   "created": "2024-09-24T19:21:44.367274+00:00",
   "is_public": false,
   "modified": "2024-09-24T19:27:06.116181+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": null,
+      "created": "2024-09-25T00:55:22.150872+00:00",
+      "id": 790400,
+      "is_public": true,
+      "modified": "2024-09-25T00:55:37.451148+00:00",
+      "note": "Fixes for smoother navigation and enhanced user experience.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 25,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2024-09-25T00:55:53.226234+00:00",
+      "id": 790401,
+      "is_public": true,
+      "modified": "2024-09-25T00:55:53.226090+00:00",
+      "note": "Tab Tray fixes and performance enhancements.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 20,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2024-09-25T00:56:12.881112+00:00",
+      "id": 790402,
+      "is_public": true,
+      "modified": "2024-09-25T00:56:12.880971+00:00",
+      "note": "Accessibility improvements for sync and password manager.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 15,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2024-09-25T00:56:42.488820+00:00",
+      "id": 790403,
+      "is_public": true,
+      "modified": "2024-09-25T00:56:42.488692+00:00",
+      "note": "Improved loading of suggested website icons on homepage.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 10,
+      "tag": "New"
+    }
+  ],
   "product": "Firefox for iOS",
   "release_date": "2024-10-01",
   "slug": "firefox-for-ios-131.0-release",

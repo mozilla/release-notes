@@ -7,6 +7,66 @@
   "modified": "2024-09-24T19:23:08.727238+00:00",
   "notes": [
     {
+      "bug": 1754005,
+      "created": "2024-09-25T00:49:32.856459+00:00",
+      "id": 790395,
+      "is_public": true,
+      "modified": "2024-09-25T00:49:32.856323+00:00",
+      "note": "Firefox will now temporarily remember when users grant permissions to sites (e.g. geolocation). Temporary permissions will be removed either after one hour or when the tab is closed.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 25,
+      "tag": "New"
+    },
+    {
+      "bug": 1866827,
+      "created": "2024-09-25T00:48:57.721422+00:00",
+      "id": 790394,
+      "is_public": true,
+      "modified": "2024-09-25T00:48:57.721281+00:00",
+      "note": "When suggesting a default translation language, Firefox will now take into consideration languages you have previously used for translations.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 20,
+      "tag": "New"
+    },
+    {
+      "bug": 1908566,
+      "created": "2024-09-25T00:45:56.059559+00:00",
+      "id": 790392,
+      "is_public": true,
+      "modified": "2024-09-25T00:46:39.921957+00:00",
+      "note": "Hovering the mouse over an unfocused tab will now display a visual preview of its contents.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 15,
+      "tag": "New"
+    },
+    {
+      "bug": 1907034,
+      "created": "2024-09-25T00:43:45.903713+00:00",
+      "id": 790390,
+      "is_public": true,
+      "modified": "2024-09-25T00:45:11.635614+00:00",
+      "note": "We\u2019ve re-introduced the ability to navigate to the search engine home page by clicking on the search bar icons with a `SHIFT` key modifier.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 10,
+      "tag": "New"
+    },
+    {
+      "bug": 1909673,
+      "created": "2024-09-25T00:45:00.645903+00:00",
+      "id": 790391,
+      "is_public": true,
+      "modified": "2024-09-25T00:47:05.898898+00:00",
+      "note": "SameSite=None cookies will now be rejected when there is no Secure attribute included.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 5,
+      "tag": "New"
+    },
+    {
       "bug": null,
       "created": "2024-09-24T19:23:21.495280+00:00",
       "id": 790388,
@@ -29,6 +89,66 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": ""
+    },
+    {
+      "bug": null,
+      "created": "2024-09-25T00:53:02.879206+00:00",
+      "id": 790398,
+      "is_public": true,
+      "modified": "2024-09-25T00:53:02.879064+00:00",
+      "note": "The [Tab overview][1] (List all tabs) menu has received a new, refreshed icon.\r\n\r\n\r\n  [1]: https://support.mozilla.org/en-US/kb/tab-overview-menu",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
+      "bug": 1908160,
+      "created": "2024-09-25T00:50:41.369073+00:00",
+      "id": 790397,
+      "is_public": true,
+      "modified": "2024-09-25T00:50:41.368941+00:00",
+      "note": "Support for Cookies Having Independent Partitioned State (CHIPS) was now added, allowing developers to opt a cookie into storage partitioned per top-level site. ([Learn more][1])\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/Privacy/Privacy_sandbox/Partitioned_cookies",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 1914185,
+      "created": "2024-09-25T00:48:08.216893+00:00",
+      "id": 790393,
+      "is_public": true,
+      "modified": "2024-09-25T00:48:08.216741+00:00",
+      "note": "As part of the ongoing updates to SVG 2, `SVGGraphicsElement.nearestViewportElement` and `SVGGraphicsElement.farthestViewportElement` have been officially removed. Please note that these properties have had deprecation warnings since February.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
+      "bug": 1914877,
+      "created": "2024-09-25T00:50:06.776335+00:00",
+      "id": 790396,
+      "is_public": true,
+      "modified": "2024-09-25T00:50:06.776192+00:00",
+      "note": "Firefox now supports text fragments, which allows users to link directly to a specific portion of text in a web document via a special URL fragment. ([Learn more][1])\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/URI/Fragment/Text_fragments",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
+      "bug": null,
+      "created": "2024-09-25T00:53:35.599045+00:00",
+      "id": 790399,
+      "is_public": true,
+      "modified": "2024-09-25T00:53:35.598864+00:00",
+      "note": "You can find information about policy updates and enterprise specific bug fixes in the [Firefox for Enterprise 131 Release Notes][1].\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/firefox-enterprise-131-release-notes",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Enterprise"
     },
     {
       "bug": null,
