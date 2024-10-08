@@ -127,6 +127,18 @@
       "tag": "Developer"
     },
     {
+      "bug": 1211547,
+      "created": "2024-10-08T00:42:53.282217+00:00",
+      "id": 790413,
+      "is_public": true,
+      "modified": "2024-10-08T00:42:53.282067+00:00",
+      "note": "Firefox improved HiDPI support for Linux users by now fully respecting Gnome 3/GTK3 font scaling settings, creating a more consistent user interface experience on high-resolution displays.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
       "bug": null,
       "created": "2024-09-25T00:53:35.599045+00:00",
       "id": 790399,
