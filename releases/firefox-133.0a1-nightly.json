@@ -19,6 +19,18 @@
       "tag": "New"
     },
     {
+      "bug": 1901728,
+      "created": "2024-10-08T13:18:09.798503+00:00",
+      "id": 790415,
+      "is_public": true,
+      "modified": "2024-10-08T13:18:09.798136+00:00",
+      "note": "You can now show tabs from other devices in the [Tab overview][1] menu.\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/tab-overview-menu",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1911651,
       "created": "2024-08-08T15:32:13.129440+00:00",
       "id": 790334,
