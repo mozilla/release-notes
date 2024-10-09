@@ -125,6 +125,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": 1919721,
+      "created": "2024-10-09T13:10:14.067249+00:00",
+      "id": 790422,
+      "is_public": true,
+      "modified": "2024-10-09T13:10:14.067039+00:00",
+      "note": "Users may see unexpected changes in button and toolbar layout after receiving the update to 132.0b1. While the cause of this bug was identified and fixed in 132.0b2, the only way to get out of this broken state is to [restore customizations back to default][1] and then re-customize. Subsequent changes should then be remembered as expected. We apologize for the inconvenience caused. ([Bug 1919721][2])\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/customize-firefox-controls-buttons-and-toolbars\r\n  [2]: https://bugzilla.mozilla.org/show_bug.cgi?id=1919721",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Known"
     }
   ],
   "product": "Firefox",
