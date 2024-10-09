@@ -3,8 +3,8 @@
   "bug_search_url": "",
   "channel": "Release",
   "created": "2024-10-08T00:20:42.719871+00:00",
-  "is_public": false,
-  "modified": "2024-10-08T00:21:05.487696+00:00",
+  "is_public": true,
+  "modified": "2024-10-08T23:59:57.248224+00:00",
   "notes": [
     {
       "bug": null,
@@ -17,6 +17,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": ""
+    },
+    {
+      "bug": null,
+      "created": "2024-10-08T23:59:36.366158+00:00",
+      "id": 790420,
+      "is_public": true,
+      "modified": "2024-10-08T23:59:44.767786+00:00",
+      "note": "Bug Fixes.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox for Android",
