@@ -127,6 +127,18 @@
       "tag": "Fixed"
     },
     {
+      "bug": null,
+      "created": "2024-10-09T13:12:55.234378+00:00",
+      "id": 790423,
+      "is_public": true,
+      "modified": "2024-10-09T13:13:36.733431+00:00",
+      "note": "Fix for [MFSA 2024-51][1] is included in Firefox Desktop and DevEdition 132.0b5 builds and newer.\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/mfsa2024-51/",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
       "bug": 1919721,
       "created": "2024-10-09T13:10:14.067249+00:00",
       "id": 790422,
