@@ -17,6 +17,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": ""
+    },
+    {
+      "bug": 1922278,
+      "created": "2024-10-10T15:07:45.710775+00:00",
+      "id": 790427,
+      "is_public": true,
+      "modified": "2024-10-10T15:07:45.710577+00:00",
+      "note": "Fixed an issue where some VR180 and 360 videos were not properly rendering on YouTube.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
