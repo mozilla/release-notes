@@ -29,6 +29,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": 1923500,
+      "created": "2024-10-11T17:40:47.345243+00:00",
+      "id": 790432,
+      "is_public": true,
+      "modified": "2024-10-11T17:40:47.344998+00:00",
+      "note": "Fixed an issue where some users could not access the Bill Pay portion of their banks site..",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
