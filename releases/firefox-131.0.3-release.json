@@ -31,18 +31,6 @@
       "tag": "Fixed"
     },
     {
-      "bug": 1918681,
-      "created": "2024-10-11T20:49:25.538368+00:00",
-      "id": 790434,
-      "is_public": true,
-      "modified": "2024-10-13T22:59:14.803405+00:00",
-      "note": "Fixed an issue where the \"List all tabs\" button was not able to be moved from the toolbar. ([Bug 1918681][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1918681",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 30,
-      "tag": "Fixed"
-    },
-    {
       "bug": 1922278,
       "created": "2024-10-10T15:07:45.710775+00:00",
       "id": 790427,
@@ -52,6 +40,30 @@
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 20,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1919678,
+      "created": "2024-10-13T23:11:32.557257+00:00",
+      "id": 790435,
+      "is_public": true,
+      "modified": "2024-10-13T23:12:32.070458+00:00",
+      "note": "Fixed a crash that some Windows users with Avast or AVG security software were experiencing when visiting certain sites. ([Bug 1919678][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1919678",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 10,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1918681,
+      "created": "2024-10-11T20:49:25.538368+00:00",
+      "id": 790434,
+      "is_public": true,
+      "modified": "2024-10-13T23:12:04.156693+00:00",
+      "note": "Fixed an issue where the \"List all tabs\" button was not able to be moved from the toolbar. ([Bug 1918681][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1918681",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 5,
       "tag": "Fixed"
     },
     {
