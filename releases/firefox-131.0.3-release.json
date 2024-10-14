@@ -3,8 +3,8 @@
   "bug_search_url": "",
   "channel": "Release",
   "created": "2024-10-10T14:58:04.464084+00:00",
-  "is_public": false,
-  "modified": "2024-10-10T14:58:26.042936+00:00",
+  "is_public": true,
+  "modified": "2024-10-14T13:15:38.287298+00:00",
   "notes": [
     {
       "bug": null,
@@ -70,8 +70,8 @@
       "bug": null,
       "created": "2024-10-11T20:45:47.275933+00:00",
       "id": 790433,
-      "is_public": true,
-      "modified": "2024-10-14T12:54:36.920694+00:00",
+      "is_public": false,
+      "modified": "2024-10-14T13:11:33.637889+00:00",
       "note": "[Security fix][1].\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/",
       "progressive_rollout": false,
       "relevant_countries": [],
