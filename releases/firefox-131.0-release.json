@@ -177,9 +177,17 @@
     {
       "bug": 1923500,
       "created": "2024-10-10T15:16:32.321543+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": true,
+        "product": "Firefox",
+        "slug": "firefox-131.0.3-release",
+        "title": "Firefox 131.0.3 Release",
+        "version": "131.0.3"
+      },
       "id": 790428,
       "is_public": true,
-      "modified": "2024-10-11T02:35:55.542918+00:00",
+      "modified": "2024-10-15T19:11:02.508736+00:00",
       "note": "For Firefox users experiencing an error in the BillPay section of their bank's website, we're aware of the issue, and a fix is coming soon. In the meantime, to work around this, you may set your ETP to standard protection. Here's how to do that: [https://mzl.la/4dFrcNw][1]\r\n[@FirefoxSupport on X][2]\r\n\r\n\r\n  [1]: https://mzl.la/4dFrcNw\r\n  [2]: https://x.com/FirefoxSupport/status/1844367670696869980",
       "progressive_rollout": false,
       "relevant_countries": [],
@@ -189,9 +197,17 @@
     {
       "bug": 1919678,
       "created": "2024-10-11T02:35:10.014032+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": true,
+        "product": "Firefox",
+        "slug": "firefox-131.0.3-release",
+        "title": "Firefox 131.0.3 Release",
+        "version": "131.0.3"
+      },
       "id": 790429,
       "is_public": true,
-      "modified": "2024-10-11T02:35:10.013834+00:00",
+      "modified": "2024-10-15T19:10:52.348781+00:00",
       "note": "Windows users with Avast or AVG security software may experience a crash when visiting certain sites.",
       "progressive_rollout": false,
       "relevant_countries": [],
