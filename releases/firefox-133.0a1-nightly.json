@@ -91,6 +91,18 @@
       "tag": "HTML5"
     },
     {
+      "bug": 1909980,
+      "created": "2024-09-19T19:00:33.627223+00:00",
+      "id": 790378,
+      "is_public": true,
+      "modified": "2024-10-16T13:50:10.271866+00:00",
+      "note": "If we have the server time, we adjust the \"expire\" attribute value by adding the delta between the server and the local times. If the current time is set in the future, we consider valid cookies that are not expired for the server.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
       "bug": null,
       "created": "2024-10-09T13:13:03.130620+00:00",
       "id": 790424,
