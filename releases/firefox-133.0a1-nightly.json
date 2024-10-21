@@ -139,6 +139,18 @@
       "tag": "HTML5"
     },
     {
+      "bug": 1904489,
+      "created": "2024-10-21T14:01:15.935121+00:00",
+      "id": 790446,
+      "is_public": true,
+      "modified": "2024-10-21T14:01:15.934912+00:00",
+      "note": "Starting with Firefox 133, the Developer Tools debugger editor now uses Codemirror 6 in Firefox Nightly builds.  Developer Tools debugger users should see performance improvements with larger files.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
       "bug": 1909980,
       "created": "2024-09-19T19:00:33.627223+00:00",
       "id": 790378,
