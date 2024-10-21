@@ -43,6 +43,18 @@
       "tag": "New"
     },
     {
+      "bug": 1568722,
+      "created": "2024-10-21T13:58:52.945907+00:00",
+      "id": 790445,
+      "is_public": true,
+      "modified": "2024-10-21T13:58:52.945672+00:00",
+      "note": "Firefox now supports touchpad hold gestures on Linux. This means that kinetic (momentum) scrolling can now be interrupted by placing two fingers on the touchpad.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1911651,
       "created": "2024-08-08T15:32:13.129440+00:00",
       "id": 790334,
