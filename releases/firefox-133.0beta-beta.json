@@ -31,6 +31,18 @@
       "tag": "New"
     },
     {
+      "bug": 1910768,
+      "created": "2024-10-23T13:21:32.861962+00:00",
+      "id": 790453,
+      "is_public": true,
+      "modified": "2024-10-23T13:21:32.861496+00:00",
+      "note": "Desktop mode browsing is now enabled by default for large devices on [Firefox for Android][1]. This can be controlled via a preference under Settings in \"Site settings\" previously named \"Site permissions\".\r\n    \r\n  [1]: https://play.google.com/store/apps/details?id=org.mozilla.firefox_beta",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1923044,
       "created": "2024-10-08T13:09:30.582009+00:00",
       "id": 790414,
