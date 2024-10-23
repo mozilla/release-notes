@@ -67,6 +67,30 @@
       "tag": "New"
     },
     {
+      "bug": 1918996,
+      "created": "2024-10-23T18:04:20.452826+00:00",
+      "id": 790463,
+      "is_public": true,
+      "modified": "2024-10-23T18:04:20.452682+00:00",
+      "note": "Added support for Mac's new screen and window sharing selection features on macOS 15 and later. Support for macOS 14 will be added in a future release.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1827651,
+      "created": "2024-10-23T18:05:42.367614+00:00",
+      "id": 790464,
+      "is_public": true,
+      "modified": "2024-10-23T18:05:42.367484+00:00",
+      "note": "We have improved our support for macOS session resume. More specifically, this means that Firefox will now restart as expected if it was running before macOS restarted, for example due to an OS update.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1916687,
       "created": "2024-09-19T19:01:33.348765+00:00",
       "id": 790379,
