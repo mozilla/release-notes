@@ -43,6 +43,30 @@
       "tag": "New"
     },
     {
+      "bug": 1885491,
+      "created": "2024-10-23T17:55:53.276104+00:00",
+      "id": 790460,
+      "is_public": true,
+      "modified": "2024-10-23T17:55:53.275887+00:00",
+      "note": "Wide Color Gamut WebGL is now available to Windows and macOS users! With this support, Firefox is bringing a richer, more vivid range of colors to the videos, games, and images on your screen. This implementation currently supports wider color (P3) profiles in 8-bit.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1919627,
+      "created": "2024-10-23T17:58:57.331575+00:00",
+      "id": 790461,
+      "is_public": true,
+      "modified": "2024-10-23T17:58:57.331365+00:00",
+      "note": "We now support Microsoft PlayReady SL3000 and SL2000 for our Windows users. PlayReady is a hardware-backed Content Decryption Module that handles the decrypting and decoding of your favorite movies and shows. As a result, you get less battery drain and better performance when you stream copyrighted video content. Furthermore, this support can improve video quality \u2014 we are gradually rolling out a 1080p baseline and even 4K and Ultra HD with select streaming partners.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1916687,
       "created": "2024-09-19T19:01:33.348765+00:00",
       "id": 790379,
@@ -133,6 +157,18 @@
       "is_public": true,
       "modified": "2024-09-27T17:27:11.332174+00:00",
       "note": "The `fetchpriority` attribute enables web developers to optimize resource loading by specifying the relative priority of resources to be fetched by the browser. It accepts three values: `auto` (default priority), `low` (lower priority), `high` (higher priority). It can be specified on `script`, `link`, `img` elements, on the `RequestInit` parameter of the `fetch()` method and `Link` response headers. The HTML specification leaves the detailed interpretation of this attribute up to implementers. Firefox will typically use it to increase or decrease the urgency parameter of HTTP/2 and HTTP/3 requests.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 1908112,
+      "created": "2024-10-23T18:01:04.149723+00:00",
+      "id": 790462,
+      "is_public": true,
+      "modified": "2024-10-23T18:01:04.149529+00:00",
+      "note": "Added support for Certificate Compression which reduces the size and increases the speed of a TLS handshake.",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
