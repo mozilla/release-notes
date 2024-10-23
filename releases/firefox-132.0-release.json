@@ -164,6 +164,30 @@
     },
     {
       "bug": null,
+      "created": "2024-10-23T21:24:57.045364+00:00",
+      "id": 790483,
+      "is_public": true,
+      "modified": "2024-10-23T21:24:57.045214+00:00",
+      "note": "The `fetchpriority` attribute enables web developers to optimize resource loading by specifying the relative priority of resources to be fetched by the browser. It accepts three values: `auto` (default priority), `low` (lower priority), `high` (higher priority). It can be specified on `script`, `link`, `img` elements, on the `RequestInit` parameter of the `fetch()` method and `Link` response headers. The HTML specification leaves the detailed interpretation of this attribute up to implementers. Firefox will typically use it to increase or decrease the urgency parameter of HTTP/2 and HTTP/3 requests.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 20,
+      "tag": "HTML5"
+    },
+    {
+      "bug": null,
+      "created": "2024-10-23T21:25:11.027091+00:00",
+      "id": 790484,
+      "is_public": true,
+      "modified": "2024-10-23T21:25:11.026968+00:00",
+      "note": "The heuristic granting storage access for some window openings is now disabled.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 10,
+      "tag": "HTML5"
+    },
+    {
+      "bug": null,
       "created": "2024-10-23T21:20:52.828434+00:00",
       "id": 790475,
       "is_public": true,
@@ -221,6 +245,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2024-10-23T21:29:34.365322+00:00",
+      "id": 790485,
+      "is_public": true,
+      "modified": "2024-10-23T21:29:34.365090+00:00",
+      "note": "With the release of Firefox 132, we are pleased to welcome the developers who contributed their first code change to Firefox in this release, 7 of whom were brand new volunteers! Please join us in thanking each of these diligent and enthusiastic individuals, and take a look at their contributions:\r\n\r\n* Biswapriyo Nath [:biswa96]: <a href=\"https://bugzilla.mozilla.org/1920567\">1920567</a>\r\n* delthas: <a href=\"https://bugzilla.mozilla.org/1815783\">1815783</a>\r\n* Jess Lark: <a href=\"https://bugzilla.mozilla.org/1910488\">1910488</a>\r\n* Martin Carolan: <a href=\"https://bugzilla.mozilla.org/1905364\">1905364</a>\r\n* Patrick Ribas [:pribas]: <a href=\"https://bugzilla.mozilla.org/1913978\">1913978</a>\r\n* Sam James: <a href=\"https://bugzilla.mozilla.org/1917964\">1917964</a>\r\n* sandy.chu.40: <a href=\"https://bugzilla.mozilla.org/1909885\">1909885</a>, <a href=\"https://bugzilla.mozilla.org/1915451\">1915451</a>",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 10,
+      "tag": "Community"
     }
   ],
   "product": "Firefox",
