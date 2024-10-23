@@ -5,7 +5,44 @@
   "created": "2024-10-22T13:25:53.132158+00:00",
   "is_public": false,
   "modified": "2024-10-22T13:26:29.397941+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": null,
+      "created": "2024-10-23T17:30:31.369938+00:00",
+      "id": 790455,
+      "is_public": true,
+      "modified": "2024-10-23T17:30:31.369730+00:00",
+      "note": "Tab Tray fixes and performance enhancements",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 30,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2024-10-23T17:30:48.613239+00:00",
+      "id": 790456,
+      "is_public": true,
+      "modified": "2024-10-23T17:30:48.612972+00:00",
+      "note": "Fixes for smoother navigation and enhanced user experience",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 20,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2024-10-23T17:31:01.669941+00:00",
+      "id": 790457,
+      "is_public": true,
+      "modified": "2024-10-23T17:31:01.669812+00:00",
+      "note": "Fixed suggested website icons on homepage and widget",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 10,
+      "tag": "Fixed"
+    }
+  ],
   "product": "Firefox for iOS",
   "release_date": "2024-10-29",
   "slug": "firefox-for-ios-132.0-release",
