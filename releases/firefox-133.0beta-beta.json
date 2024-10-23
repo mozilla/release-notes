@@ -31,6 +31,18 @@
       "tag": "New"
     },
     {
+      "bug": 1910138,
+      "created": "2024-10-21T18:54:56.875123+00:00",
+      "id": 790447,
+      "is_public": true,
+      "modified": "2024-10-23T18:27:05.458346+00:00",
+      "note": "GPU-accelerated Canvas2D is enabled by default on Windows.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1910768,
       "created": "2024-10-23T13:21:32.861962+00:00",
       "id": 790453,

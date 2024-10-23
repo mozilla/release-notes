@@ -31,18 +31,6 @@
       "tag": "New"
     },
     {
-      "bug": 1910138,
-      "created": "2024-10-21T18:54:56.875123+00:00",
-      "id": 790447,
-      "is_public": true,
-      "modified": "2024-10-21T18:54:56.874900+00:00",
-      "note": "GPU-accelerated Canvas2D is enabled by default on Windows.",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
       "bug": 1885491,
       "created": "2024-10-23T17:55:53.276104+00:00",
       "id": 790460,
@@ -193,6 +181,18 @@
       "is_public": true,
       "modified": "2024-10-23T18:01:04.149529+00:00",
       "note": "Added support for Certificate Compression which reduces the size and increases the speed of a TLS handshake.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 1918121,
+      "created": "2024-10-23T18:20:41.831147+00:00",
+      "id": 790465,
+      "is_public": true,
+      "modified": "2024-10-23T18:20:41.830944+00:00",
+      "note": "Heuristic granting storage access for some window openings is now disabled.",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
