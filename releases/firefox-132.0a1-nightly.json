@@ -155,7 +155,7 @@
       "created": "2024-09-19T19:00:33.627223+00:00",
       "id": 790378,
       "is_public": true,
-      "modified": "2024-10-28T09:32:26.205862+00:00",
+      "modified": "2024-10-28T09:55:36.171759+00:00",
       "note": "If we have the server time, we adjust the \"expire\" attribute value by adding the delta between the server and the local times. If the current time is set in the future, we consider valid cookies that are not expired for the server.",
       "progressive_rollout": false,
       "relevant_countries": [],
