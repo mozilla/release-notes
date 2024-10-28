@@ -2,9 +2,9 @@
   "bug_list": "",
   "bug_search_url": "",
   "channel": "Nightly",
-  "created": "2024-09-26T14:26:08.118947+00:00",
-  "is_public": true,
-  "modified": "2024-09-30T14:14:02.517777+00:00",
+  "created": "2024-10-28T09:32:26.155664+00:00",
+  "is_public": false,
+  "modified": "2024-10-28T09:32:26.155472+00:00",
   "notes": [
     {
       "bug": 1719271,
@@ -13,18 +13,6 @@
       "is_public": true,
       "modified": "2024-10-28T09:32:26.205862+00:00",
       "note": "Starting with Firefox 129, Firefox Nightly will automatically try to use a secure HTTPS connection whenever possible when loading a page. This behavior is known as \"HTTPS-First\", or \"HTTPS Upgrades\", and has been the default in Firefox's private browsing mode since Firefox 91. [Here][1] is a blog post from when this feature was introduced in Private Browsing.\r\n\r\n\r\n  [1]: https://blog.mozilla.org/security/2021/08/10/firefox-91-introduces-https-by-default-in-private-browsing/",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
-      "bug": 1901728,
-      "created": "2024-10-08T13:18:09.798503+00:00",
-      "id": 790415,
-      "is_public": true,
-      "modified": "2024-10-28T09:34:06.826371+00:00",
-      "note": "You can now show tabs from other devices in the [Tab overview][1] menu.\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/tab-overview-menu",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
@@ -97,18 +85,6 @@
       "is_public": true,
       "modified": "2024-10-28T09:32:26.205862+00:00",
       "note": "Starting with Firefox Nightly 131, support for the non-mandatory options argument to `getBBox` will get the bounding box of the element, including its stroke (e.g. `element.getBBox({\"stroke\": true})`). ([Learn more][1])\r\n\r\n\r\n  [1]: https://www.w3.org/TR/SVG2/types.html#__svg__SVGGraphicsElement__getBBox",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "HTML5"
-    },
-    {
-      "bug": 1923044,
-      "created": "2024-10-08T13:09:30.582009+00:00",
-      "id": 790414,
-      "is_public": true,
-      "modified": "2024-10-28T09:33:47.927596+00:00",
-      "note": "Firefox now supports the `keepalive` option in the [Fetch API][1]. This feature allows developers to make HTTP requests that can continue to run even after the page is unloaded, such as during page navigation or closing.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/API/Fetch_API",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
@@ -237,9 +213,9 @@
   ],
   "product": "Firefox",
   "release_date": "2024-09-30",
-  "slug": "firefox-133.0a1-nightly",
+  "slug": "firefox-copy-133.0a1-nightly",
   "system_requirements": "## Windows\r\n\r\n### Operating Systems (32-bit and 64-bit)\r\n - Windows 10 or later\r\n\r\n### Recommended Hardware\r\n-  1 gigahertz (GHz) or faster compatible processor or System on a Chip (SoC)\r\n-  1GB of RAM / 2GB of RAM for the 64-bit version\r\n-  500MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- macOS 10.15 or later\r\n\r\n### Recommended Hardware\r\n- Macintosh computer with an Intel x86 or Apple silicon processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - glibc 2.17 or higher\r\n    - GTK+ 3.14 or higher\r\n    - libglib 2.42 or higher\r\n    - libstdc++ 4.8.1 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - DBus 1.0 or higher\r\n    - NetworkManager 0.7 or higher\r\n    - PulseAudio",
   "text": "Firefox Nightly gets updated every day and as a consequence, the release notes for the Nightly channel are updated continuously to reflect features that have reached sufficient maturity to benefit from community feedback and bug reports. \r\n\r\n**Warning: Features listed here may or may *not* make a final release of Firefox.**\r\n\r\nIn addition to these release notes, you can follow ongoing development on our [@FirefoxNightly][1] X account as well as read our [Nightly Blog][2].\r\n\r\nYou can interact with other Firefox Nightly users and give your feedback to Mozilla staff in the [Nightly Matrix room][3] on chat.mozilla.org.\r\n\r\n\r\n  [1]: https://x.com/FirefoxNightly\r\n  [2]: https://blog.nightly.mozilla.org\r\n  [3]: https://chat.mozilla.org/?#/room/#nightly:mozilla.org",
-  "title": "Firefox 133.0a1 Nightly",
-  "version": "133.0a1"
+  "title": "Firefox copy-133.0a1 Nightly",
+  "version": "copy-133.0a1"
 }
