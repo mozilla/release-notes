@@ -161,6 +161,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": 1920097,
+      "created": "2024-10-29T16:50:55.127411+00:00",
+      "id": 790487,
+      "is_public": true,
+      "modified": "2024-10-29T16:50:55.127226+00:00",
+      "note": "The \"Picture-in-Picture: auto-open on tab switch\" feature from [Firefox Labs][1] now behaves more reliably on more sites - auto-opening more videos that you care about, and ignoring ones that you probably don't care about.\r\n\r\n  [1]: https://support.mozilla.org/kb/firefox-labs-explore-experimental-features-firefox",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
