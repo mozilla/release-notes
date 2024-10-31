@@ -67,6 +67,18 @@
       "tag": "New"
     },
     {
+      "bug": 1907390,
+      "created": "2024-10-31T19:19:39.201279+00:00",
+      "id": 790488,
+      "is_public": true,
+      "modified": "2024-10-31T19:19:39.201077+00:00",
+      "note": "Firefox now has a new anti-tracking feature enabled in [Enhanced Tracking Protection][1] \"strict\" mode: Bounce Tracking Protection. This protection detects bounce trackers based on [redirect behavior][2] and periodically purges their cookies and site data to prevent tracking.\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop\r\n  [2]: https://blog.mozilla.org/security/2020/08/04/firefox-79-includes-protections-against-redirect-tracking/",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1923044,
       "created": "2024-10-08T13:09:30.582009+00:00",
       "id": 790414,
