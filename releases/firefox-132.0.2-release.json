@@ -53,6 +53,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": 1929491,
+      "created": "2024-11-08T19:35:59.584907+00:00",
+      "id": 790501,
+      "is_public": true,
+      "modified": "2024-11-08T19:35:59.584704+00:00",
+      "note": "Fixed possible errors when playing encrypted media content through some streaming providers. ([Bug 1929491][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1929491",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
