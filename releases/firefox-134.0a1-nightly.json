@@ -19,6 +19,18 @@
       "tag": "New"
     },
     {
+      "bug": 1928536,
+      "created": "2024-11-08T16:49:16.403985+00:00",
+      "id": 790494,
+      "is_public": true,
+      "modified": "2024-11-08T16:49:16.403764+00:00",
+      "note": "Implement HEVC hardware support for Windows users.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1911651,
       "created": "2024-08-08T15:32:13.129440+00:00",
       "id": 790334,
