@@ -41,6 +41,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": 1928868,
+      "created": "2024-11-08T18:14:48.732650+00:00",
+      "id": 790500,
+      "is_public": true,
+      "modified": "2024-11-08T18:14:48.732449+00:00",
+      "note": "Added a mitigation to help reduce the frequency of duplicated push notifications reported by some users. ([Bug 1928868][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1928868",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
