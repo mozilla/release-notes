@@ -4,20 +4,8 @@
   "channel": "Nightly",
   "created": "2024-10-28T09:32:26.155664+00:00",
   "is_public": true,
-  "modified": "2024-10-29T07:11:50.348043+00:00",
+  "modified": "2024-11-19T14:32:42.580997+00:00",
   "notes": [
-    {
-      "bug": 1911736,
-      "created": "2024-10-18T12:47:16.774731+00:00",
-      "id": 790444,
-      "is_public": true,
-      "modified": "2024-10-28T09:32:26.205862+00:00",
-      "note": "Starting with Firefox 133, Firefox follows the model HTML specification for transient user activation more closely in Nightly builds. This change makes popup blocking less strict in cases where previous versions of Firefox were overly aggressive, reducing erroneous blocking prompts.",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "New"
-    },
     {
       "bug": 1568722,
       "created": "2024-10-21T13:58:52.945907+00:00",
@@ -49,6 +37,18 @@
       "is_public": true,
       "modified": "2024-10-28T09:32:26.205862+00:00",
       "note": "Starting with [Firefox for Android][1] 131, HLS playlist support was deprecated in Nightly builds. Extended testing showed no adverse impact as newer playback technologies have been widely adopted by websites.\r\n\r\n\r\n  [1]: https://play.google.com/store/apps/details?id=org.mozilla.fenix",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
+      "bug": 1927368,
+      "created": "2024-11-19T14:32:29.696977+00:00",
+      "id": 790506,
+      "is_public": true,
+      "modified": "2024-11-19T14:32:29.696770+00:00",
+      "note": "Firefox follows now the model HTML specification for transient user activation more closely. This change makes popup blocking less strict in cases where previous versions of Firefox were overly aggressive, reducing erroneous blocking prompts.",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
