@@ -17,6 +17,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2024-11-19T15:32:21.219027+00:00",
+      "id": 790507,
+      "is_public": true,
+      "modified": "2024-11-19T15:32:21.218820+00:00",
+      "note": "With the release of Firefox 133, we are pleased to welcome the developers who contributed their first code change to Firefox in this release, 16 of whom were brand new volunteers! Please join us in thanking each of these diligent and enthusiastic individuals, and take a look at their contributions:\r\n\r\n* abhijeetchawla[:ff2400t]: <a href=\"https://bugzilla.mozilla.org/1810429\">1810429</a>, <a href=\"https://bugzilla.mozilla.org/1810480\">1810480</a>, <a href=\"https://bugzilla.mozilla.org/1810482\">1810482</a>, <a href=\"https://bugzilla.mozilla.org/1810483\">1810483</a>, <a href=\"https://bugzilla.mozilla.org/1810485\">1810485</a>, <a href=\"https://bugzilla.mozilla.org/1810486\">1810486</a>, <a href=\"https://bugzilla.mozilla.org/1855165\">1855165</a>, <a href=\"https://bugzilla.mozilla.org/1855168\">1855168</a>\r\n* bootleq: <a href=\"https://bugzilla.mozilla.org/1905331\">1905331</a>\r\n* Chizoba ODINAKA: <a href=\"https://bugzilla.mozilla.org/1918731\">1918731</a>\r\n* Christian Liebel: <a href=\"https://bugzilla.mozilla.org/1921633\">1921633</a>\r\n* Collin Richards: <a href=\"https://bugzilla.mozilla.org/1086524\">1086524</a>\r\n* Diego Ciudad Real: <a href=\"https://bugzilla.mozilla.org/1853990\">1853990</a>, <a href=\"https://bugzilla.mozilla.org/1878737\">1878737</a>\r\n* gasc: <a href=\"https://bugzilla.mozilla.org/1868303\">1868303</a>\r\n* Jason: <a href=\"https://bugzilla.mozilla.org/1882316\">1882316</a>\r\n* Lukasz Gniadzik [:lgniadzik]: <a href=\"https://bugzilla.mozilla.org/1926280\">1926280</a>\r\n* Maxime Thiebaut: <a href=\"https://bugzilla.mozilla.org/1915982\">1915982</a>\r\n* Oliver Old [:oold]: <a href=\"https://bugzilla.mozilla.org/1640243\">1640243</a>\r\n* psychpsyo: <a href=\"https://bugzilla.mozilla.org/1837773\">1837773</a>\r\n* Serah Nderi: <a href=\"https://bugzilla.mozilla.org/1923710\">1923710</a>, <a href=\"https://bugzilla.mozilla.org/1923737\">1923737</a>, <a href=\"https://bugzilla.mozilla.org/1924202\">1924202</a>, <a href=\"https://bugzilla.mozilla.org/1924608\">1924608</a>\r\n* Syed Bariman Jan: <a href=\"https://bugzilla.mozilla.org/1918706\">1918706</a>, <a href=\"https://bugzilla.mozilla.org/1918734\">1918734</a>, <a href=\"https://bugzilla.mozilla.org/1922523\">1922523</a>\r\n* tanishkasingh2004: <a href=\"https://bugzilla.mozilla.org/1922593\">1922593</a>, <a href=\"https://bugzilla.mozilla.org/1923190\">1923190</a>\r\n* tawanda: <a href=\"https://bugzilla.mozilla.org/1918735\">1918735</a>, <a href=\"https://bugzilla.mozilla.org/1923146\">1923146</a>",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Community"
     }
   ],
   "product": "Firefox",
