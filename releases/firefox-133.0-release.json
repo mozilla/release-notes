@@ -8,15 +8,27 @@
   "notes": [
     {
       "bug": null,
+      "created": "2024-11-20T16:38:56.502610+00:00",
+      "id": 790509,
+      "is_public": true,
+      "modified": "2024-11-20T16:38:56.502441+00:00",
+      "note": "Firefox now has a new anti-tracking feature enabled in [Enhanced Tracking Protection][1] \u201cstrict\u201d mode: Bounce Tracking Protection. This protection detects bounce trackers based on [redirect behavior][2] and periodically purges their cookies and site data to prevent tracking.\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop\r\n  [2]: https://blog.mozilla.org/security/2020/08/04/firefox-79-includes-protections-against-redirect-tracking/",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 90,
+      "tag": "New"
+    },
+    {
+      "bug": null,
       "created": "2024-11-20T16:22:07.215336+00:00",
       "id": 790508,
       "is_public": true,
-      "modified": "2024-11-20T16:22:07.215089+00:00",
-      "note": "You can now open the sidebar to [view synched tabs from other devices][1] via the [Tab overview menu][2].\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/view-synced-tabs-other-devices\r\n  [2]: https://support.mozilla.org/kb/tab-overview-menu",
+      "modified": "2024-11-20T16:38:05.479944+00:00",
+      "note": "You can now open the sidebar to view [tabs from other devices][1] via the [Tab overview menu][2].\r\n\r\n![screenshot of the Tab Overview menu showing the tabs from other devices menu entry][3]\r\n\r\n  [1]: https://support.mozilla.org/kb/view-synced-tabs-other-devices\r\n  [2]: https://support.mozilla.org/kb/tab-overview-menu\r\n  [3]: https://www.mozilla.org/media/img/firefox/releasenotes/note-images/133_tab_overview.png",
       "progressive_rollout": false,
       "relevant_countries": [],
-      "sort_num": 0,
-      "tag": ""
+      "sort_num": 80,
+      "tag": "New"
     },
     {
       "bug": null,
