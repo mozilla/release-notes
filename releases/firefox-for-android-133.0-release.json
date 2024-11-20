@@ -8,6 +8,30 @@
   "notes": [
     {
       "bug": null,
+      "created": "2024-11-20T17:04:17.981905+00:00",
+      "id": 790519,
+      "is_public": true,
+      "modified": "2024-11-20T17:04:17.981774+00:00",
+      "note": "Desktop mode browsing is now enabled by default for large devices. This can be controlled via a preference under Settings in \"Site settings\" previously named \"Site permissions\".",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 90,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2024-11-20T17:05:18.461674+00:00",
+      "id": 790520,
+      "is_public": true,
+      "modified": "2024-11-20T17:06:04.309047+00:00",
+      "note": "Text copied to the clipboard in Private Browsing mode is now treated as sensitive content. On Android 13 and later, clipboard notifications are masked for added privacy.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 80,
+      "tag": "New"
+    },
+    {
+      "bug": null,
       "created": "2024-11-18T16:39:45.964302+00:00",
       "id": 790505,
       "is_public": true,
