@@ -11,8 +11,8 @@
       "created": "2024-11-20T16:38:56.502610+00:00",
       "id": 790509,
       "is_public": true,
-      "modified": "2024-11-20T16:38:56.502441+00:00",
-      "note": "Firefox now has a new anti-tracking feature enabled in [Enhanced Tracking Protection][1] \u201cstrict\u201d mode: Bounce Tracking Protection. This protection detects bounce trackers based on [redirect behavior][2] and periodically purges their cookies and site data to prevent tracking.\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop\r\n  [2]: https://blog.mozilla.org/security/2020/08/04/firefox-79-includes-protections-against-redirect-tracking/",
+      "modified": "2024-11-20T16:42:44.102365+00:00",
+      "note": "Firefox now has a new anti-tracking feature, Bounce Tracking Protection, which is now available in [Enhanced Tracking Protection's][1] \"Strict\" mode. This feature detects bounce trackers based on their [redirect behavior][2] and periodically purges their cookies and site data to block tracking.\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop\r\n  [2]: https://blog.mozilla.org/security/2020/08/04/firefox-79-includes-protections-against-redirect-tracking/",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 90,
@@ -28,6 +28,18 @@
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 80,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2024-11-20T16:39:26.945459+00:00",
+      "id": 790510,
+      "is_public": true,
+      "modified": "2024-11-20T16:39:26.945260+00:00",
+      "note": "GPU-accelerated Canvas2D is now enabled by default on Windows.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 70,
       "tag": "New"
     },
     {
