@@ -5,7 +5,32 @@
   "created": "2024-11-18T16:41:20.169878+00:00",
   "is_public": false,
   "modified": "2024-11-18T16:41:20.169722+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": null,
+      "created": "2024-11-20T19:03:17.724654+00:00",
+      "id": 790521,
+      "is_public": true,
+      "modified": "2024-11-20T19:03:17.724451+00:00",
+      "note": "Implemented fixes and performance enhancements for the Tab Tray.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 90,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2024-11-20T19:03:33.180559+00:00",
+      "id": 790522,
+      "is_public": true,
+      "modified": "2024-11-20T19:03:33.180402+00:00",
+      "note": "Made minor interface adjustments to improve navigation and enhance the overall user experience.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 70,
+      "tag": "New"
+    }
+  ],
   "product": "Firefox for iOS",
   "release_date": "2024-11-26",
   "slug": "firefox-for-ios-133.0-release",
