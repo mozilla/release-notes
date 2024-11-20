@@ -47,12 +47,48 @@
       "created": "2024-11-20T16:54:34.140026+00:00",
       "id": 790514,
       "is_public": true,
-      "modified": "2024-11-20T16:54:34.139888+00:00",
+      "modified": "2024-11-20T16:55:21.372730+00:00",
       "note": "Firefox now supports the `keepalive` option in the [Fetch API][1]. This feature allows developers to make HTTP requests that can continue to run even after the page is unloaded, such as during page navigation or closing.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/API/Fetch_API",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
-      "tag": ""
+      "tag": "Developer"
+    },
+    {
+      "bug": null,
+      "created": "2024-11-20T16:56:37.019049+00:00",
+      "id": 790515,
+      "is_public": true,
+      "modified": "2024-11-20T16:56:37.018663+00:00",
+      "note": "Firefox now supports [Permissions API][1] in `Worker` Context.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/API/Permissions_API",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
+      "bug": null,
+      "created": "2024-11-20T16:59:16.487013+00:00",
+      "id": 790516,
+      "is_public": true,
+      "modified": "2024-11-20T16:59:16.486885+00:00",
+      "note": "Firefox now dispatches [beforetoggle events][1] just before a dialog opens and [toggle events][2] after the dialog closes, matching the behavior of [popovers][3].\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/API/HTMLElement/beforetoggle_event\r\n  [2]: https://developer.mozilla.org/docs/Web/API/HTMLElement/toggle_event\r\n  [3]: https://developer.mozilla.org/docs/Web/HTML/Global_attributes/popover",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
+      "bug": null,
+      "created": "2024-11-20T17:00:32.916768+00:00",
+      "id": 790517,
+      "is_public": true,
+      "modified": "2024-11-20T17:00:32.916639+00:00",
+      "note": "Methods are now available on [UInt8Array][1] to convert to and from Base64 and hexadecimal encodings. This is an implementation of a Stage 3 TC39 proposal, for more details see the [proposal text][2].\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Uint8Array\r\n  [2]: https://github.com/tc39/proposal-arraybuffer-base64",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
       "bug": null,
