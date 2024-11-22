@@ -2,34 +2,10 @@
   "bug_list": "",
   "bug_search_url": "",
   "channel": "Nightly",
-  "created": "2024-10-28T09:32:26.155664+00:00",
-  "is_public": true,
-  "modified": "2024-11-19T14:32:42.580997+00:00",
+  "created": "2024-11-22T19:03:58.226799+00:00",
+  "is_public": false,
+  "modified": "2024-11-22T19:11:11.578899+00:00",
   "notes": [
-    {
-      "bug": 1568722,
-      "created": "2024-10-21T13:58:52.945907+00:00",
-      "id": 790445,
-      "is_public": true,
-      "modified": "2024-11-22T19:05:21.698160+00:00",
-      "note": "Firefox now supports touchpad hold gestures on Linux. This means that kinetic (momentum) scrolling can now be interrupted by placing two fingers on the touchpad.",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
-      "bug": 1928536,
-      "created": "2024-11-08T16:49:16.403985+00:00",
-      "id": 790494,
-      "is_public": true,
-      "modified": "2024-11-22T19:04:48.424481+00:00",
-      "note": "Implement HEVC hardware support for Windows users.",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "New"
-    },
     {
       "bug": 1911651,
       "created": "2024-08-08T15:32:13.129440+00:00",
@@ -37,18 +13,6 @@
       "is_public": true,
       "modified": "2024-11-22T19:03:58.251194+00:00",
       "note": "Starting with [Firefox for Android][1] 131, HLS playlist support was deprecated in Nightly builds. Extended testing showed no adverse impact as newer playback technologies have been widely adopted by websites.\r\n\r\n\r\n  [1]: https://play.google.com/store/apps/details?id=org.mozilla.fenix",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "Changed"
-    },
-    {
-      "bug": 1927368,
-      "created": "2024-11-19T14:32:29.696977+00:00",
-      "id": 790506,
-      "is_public": true,
-      "modified": "2024-11-22T19:05:03.553819+00:00",
-      "note": "Firefox follows now the model HTML specification for transient user activation more closely. This change makes popup blocking less strict in cases where previous versions of Firefox were overly aggressive, reducing erroneous blocking prompts.",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
@@ -92,10 +56,10 @@
     }
   ],
   "product": "Firefox",
-  "release_date": "2024-10-28",
-  "slug": "firefox-134.0a1-nightly",
+  "release_date": "2024-11-25",
+  "slug": "firefox-135.0a1-nightly",
   "system_requirements": "## Windows\r\n\r\n### Operating Systems (32-bit and 64-bit)\r\n - Windows 10 or later\r\n\r\n### Recommended Hardware\r\n-  1 gigahertz (GHz) or faster compatible processor or System on a Chip (SoC)\r\n-  1GB of RAM / 2GB of RAM for the 64-bit version\r\n-  500MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- macOS 10.15 or later\r\n\r\n### Recommended Hardware\r\n- Macintosh computer with an Intel x86 or Apple silicon processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - glibc 2.17 or higher\r\n    - GTK+ 3.14 or higher\r\n    - libglib 2.42 or higher\r\n    - libstdc++ 4.8.1 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - DBus 1.0 or higher\r\n    - NetworkManager 0.7 or higher\r\n    - PulseAudio",
   "text": "Firefox Nightly gets updated every day and as a consequence, the release notes for the Nightly channel are updated continuously to reflect features that have reached sufficient maturity to benefit from community feedback and bug reports. \r\n\r\n**Warning: Features listed here may or may *not* make a final release of Firefox.**\r\n\r\nIn addition to these release notes, you can follow ongoing development on our [@FirefoxNightly][1] X account as well as read our [Nightly Blog][2].\r\n\r\nYou can interact with other Firefox Nightly users and give your feedback to Mozilla staff in the [Nightly Matrix room][3] on chat.mozilla.org.\r\n\r\n\r\n  [1]: https://x.com/FirefoxNightly\r\n  [2]: https://blog.nightly.mozilla.org\r\n  [3]: https://chat.mozilla.org/?#/room/#nightly:mozilla.org",
-  "title": "Firefox 134.0a1 Nightly",
-  "version": "134.0a1"
+  "title": "Firefox 135.0a1 Nightly",
+  "version": "135.0a1"
 }
