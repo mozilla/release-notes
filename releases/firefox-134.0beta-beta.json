@@ -2,9 +2,9 @@
   "bug_list": "",
   "bug_search_url": "",
   "channel": "Beta",
-  "created": "2024-10-21T15:35:41.263239+00:00",
-  "is_public": true,
-  "modified": "2024-10-29T12:51:12.469295+00:00",
+  "created": "2024-11-22T13:44:02.215283+00:00",
+  "is_public": false,
+  "modified": "2024-11-22T13:44:25.600085+00:00",
   "notes": [
     {
       "bug": 1901728,
@@ -91,30 +91,6 @@
       "tag": "HTML5"
     },
     {
-      "bug": 1876762,
-      "created": "2024-10-16T17:21:45.229872+00:00",
-      "id": 790440,
-      "is_public": true,
-      "modified": "2024-11-22T13:44:36.398683+00:00",
-      "note": "Firefox now dispatches [beforetoggle][1] events just before a dialog opens and [toggle][2] events after the dialog closes, matching the behavior of [popovers][3].\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/API/HTMLElement/beforetoggle_event\r\n  [2]: https://developer.mozilla.org/docs/Web/API/HTMLElement/toggle_event\r\n  [3]: https://developer.mozilla.org/docs/Web/HTML/Global_attributes/popover",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "HTML5"
-    },
-    {
-      "bug": 1917885,
-      "created": "2024-10-17T12:32:02.165091+00:00",
-      "id": 790441,
-      "is_public": true,
-      "modified": "2024-11-22T13:44:37.741587+00:00",
-      "note": "Methods are now available on [UInt8Array][1] to convert to and from Base64 and hexadecimal encodings. This is an implementation of a Stage 3 TC39 proposal, for more details see the [proposal text][2].\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Uint8Array\r\n  [2]: https://github.com/tc39/proposal-arraybuffer-base64",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "HTML5"
-    },
-    {
       "bug": 1923755,
       "created": "2024-10-23T15:29:25.696353+00:00",
       "id": 790454,
@@ -125,42 +101,6 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "HTML5"
-    },
-    {
-      "bug": 1909980,
-      "created": "2024-09-19T19:00:33.627223+00:00",
-      "id": 790378,
-      "is_public": true,
-      "modified": "2024-11-22T13:44:39.734086+00:00",
-      "note": "If we have the server time, we adjust the \"expire\" attribute value by adding the delta between the server and the local times. If the current time is set in the future, we consider valid cookies that are not expired for the server.",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "Fixed"
-    },
-    {
-      "bug": 1855346,
-      "created": "2024-10-17T18:27:54.546766+00:00",
-      "id": 790442,
-      "is_public": true,
-      "modified": "2024-11-22T13:44:41.146855+00:00",
-      "note": "Fixed an issue that started with macOS Sonoma where the emoji picker would open and immediately close when opened with the Cmd+Ctrl+Space shortcut. \r\n\r\nThanks to research by Carlos Duarte do Nascimento (Chester) and :bintoro, and a patch by Carlos Duarte do Nascimento (Chester), we have been able to fix this universally for this shortcut and similar shortcuts going forward.",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "Fixed"
-    },
-    {
-      "bug": 1833923,
-      "created": "2024-10-17T18:31:40.290396+00:00",
-      "id": 790443,
-      "is_public": true,
-      "modified": "2024-11-22T13:44:42.119546+00:00",
-      "note": "Fixed an issue that started with macOS Sonoma where the emoji picker would also insert the character \"e\" in the selected text field/box when opening the emoji picker using the Fn+e shortcut.\r\n\r\nWe have also fixed this for similar shortcuts using the Fn key.",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "Fixed"
     },
     {
       "bug": 1920097,
@@ -176,10 +116,10 @@
     }
   ],
   "product": "Firefox",
-  "release_date": "2024-10-29",
-  "slug": "firefox-133.0beta-beta",
+  "release_date": "2024-11-26",
+  "slug": "firefox-134.0beta-beta",
   "system_requirements": "## Windows\r\n\r\n### Operating Systems (32-bit and 64-bit)\r\n - Windows 10 or later\r\n\r\n### Recommended Hardware\r\n-  1 gigahertz (GHz) or faster compatible processor or System on a Chip (SoC)\r\n-  1GB of RAM / 2GB of RAM for the 64-bit version\r\n-  500MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- macOS 10.15 or later\r\n\r\n### Recommended Hardware\r\n- Macintosh computer with an Intel x86 or Apple silicon processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - glibc 2.17 or higher\r\n    - GTK+ 3.14 or higher\r\n    - libglib 2.42 or higher\r\n    - libstdc++ 4.8.1 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - DBus 1.0 or higher\r\n    - NetworkManager 0.7 or higher\r\n    - PulseAudio",
   "text": "Firefox Beta gets updated 3 times a week and as a consequence, the release notes for the Beta channel are updated continuously to reflect features that have reached sufficient maturity to benefit from community feedback and bug reports.\r\n\r\n**Warning: Features listed here may or may *not* make a final release of Firefox.**\r\n\r\nIn addition to these release notes, you can follow ongoing development via our [@FirefoxBeta][1] X account.\r\n\r\n\r\n  [1]: https://x.com/firefoxbeta",
-  "title": "Firefox 133.0beta Beta",
-  "version": "133.0beta"
+  "title": "Firefox 134.0beta Beta",
+  "version": "134.0beta"
 }
