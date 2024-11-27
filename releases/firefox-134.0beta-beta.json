@@ -53,6 +53,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": 1833923,
+      "created": "2024-10-17T18:31:40.290396+00:00",
+      "id": 790443,
+      "is_public": true,
+      "modified": "2024-11-27T14:38:52.980607+00:00",
+      "note": "Fixed an issue that started with macOS Sonoma where the emoji picker would also insert the character \"e\" in the selected text field/box when opening the emoji picker using the Fn+e shortcut.\r\n\r\nWe have also fixed this for similar shortcuts using the Fn key.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
