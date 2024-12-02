@@ -116,6 +116,18 @@
     },
     {
       "bug": null,
+      "created": "2024-12-02T19:46:48.984941+00:00",
+      "id": 790532,
+      "is_public": true,
+      "modified": "2024-12-02T19:46:48.984808+00:00",
+      "note": "Calling [window.close()][1] from a [sidebar][2] now closes the sidebar instead of doing nothing.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/API/Window/close\r\n  [2]: https://developer.mozilla.org/docs/Mozilla/Add-ons/WebExtensions/user_interface/Sidebars",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
+      "bug": null,
       "created": "2024-11-20T16:53:40.129019+00:00",
       "id": 790513,
       "is_public": true,
