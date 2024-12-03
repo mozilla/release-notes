@@ -3,8 +3,8 @@
   "bug_search_url": "",
   "channel": "Release",
   "created": "2024-12-02T18:25:28.646230+00:00",
-  "is_public": false,
-  "modified": "2024-12-02T18:25:28.645995+00:00",
+  "is_public": true,
+  "modified": "2024-12-03T16:17:08.195983+00:00",
   "notes": [
     {
       "bug": null,
@@ -46,8 +46,8 @@
   "product": "Firefox for Android",
   "release_date": "2024-12-03",
   "slug": "firefox-for-android-133.0.1-release",
-  "system_requirements": "",
-  "text": "## Operating systems\r\n - Android 5.0 or newer",
+  "system_requirements": "## Operating systems\r\n - Android 5.0 or newer",
+  "text": "",
   "title": "Firefox for Android 133.0.1 Release",
   "version": "133.0.1"
 }
