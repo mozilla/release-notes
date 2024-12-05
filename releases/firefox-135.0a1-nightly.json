@@ -19,6 +19,30 @@
       "tag": "Changed"
     },
     {
+      "bug": 1880009,
+      "created": "2024-12-05T21:46:23.513101+00:00",
+      "id": 790535,
+      "is_public": true,
+      "modified": "2024-12-05T21:46:23.512857+00:00",
+      "note": "Starting with 135, Firefox Nightly macOS DMG packages now use LZMA for compression, reducing download size and installation time.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
+      "bug": 1924493,
+      "created": "2024-12-05T21:49:02.184619+00:00",
+      "id": 790536,
+      "is_public": true,
+      "modified": "2024-12-05T21:49:02.184418+00:00",
+      "note": "The \"Copy Without Site Tracking\" menu item was renamed to \"Copy Clean Link\" to help clarify expectations around what the feature does. \"Copy Clean Link\" is a list based approach to remove known tracking parameters from links.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
       "bug": 1914182,
       "created": "2024-09-13T20:56:16.365701+00:00",
       "id": 790372,
