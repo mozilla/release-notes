@@ -7,6 +7,18 @@
   "modified": "2024-11-25T15:24:54.518316+00:00",
   "notes": [
     {
+      "bug": 1451132,
+      "created": "2024-12-05T21:57:58.892600+00:00",
+      "id": 790537,
+      "is_public": true,
+      "modified": "2024-12-05T21:57:58.892357+00:00",
+      "note": "Users on macOS and Linux are now given the option to close only the current tab if the Quit keyboard shortcut is used while multiple tabs are open in the window.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1911651,
       "created": "2024-08-08T15:32:13.129440+00:00",
       "id": 790334,
@@ -37,6 +49,18 @@
       "is_public": true,
       "modified": "2024-12-05T21:49:02.184418+00:00",
       "note": "The \"Copy Without Site Tracking\" menu item was renamed to \"Copy Clean Link\" to help clarify expectations around what the feature does. \"Copy Clean Link\" is a list based approach to remove known tracking parameters from links.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
+      "bug": 1710599,
+      "created": "2024-12-05T21:59:40.915963+00:00",
+      "id": 790538,
+      "is_public": true,
+      "modified": "2024-12-05T21:59:40.915717+00:00",
+      "note": "Starting with Firefox 135, Linux binaries are now provided in XZ format, replacing the previous BZ2 format, offering faster unpacking and smaller file sizes. [Blog Post][1]\r\n\r\n\r\n  [1]: https://blog.nightly.mozilla.org/2024/11/28/announcing-faster-lighter-firefox-downloads-for-linux-with-tar-xz-packaging/",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
