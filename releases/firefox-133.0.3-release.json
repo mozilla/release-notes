@@ -17,6 +17,30 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": ""
+    },
+    {
+      "bug": 1934482,
+      "created": "2024-12-09T17:16:37.015148+00:00",
+      "id": 790542,
+      "is_public": true,
+      "modified": "2024-12-09T17:22:20.331070+00:00",
+      "note": "Fixed an issue causing a missing scrollbar in the Library window, for example when viewing History or Bookmarks. ([Bug 1934482][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1934482",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1930840,
+      "created": "2024-12-09T17:22:08.858183+00:00",
+      "id": 790543,
+      "is_public": true,
+      "modified": "2024-12-09T17:22:08.857853+00:00",
+      "note": "Fixed an issue where the toolbar buttons were not visible on mouse over with the Windows High Contrast theme and the Firefox System theme. ([Bug 1930840][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1930840",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
