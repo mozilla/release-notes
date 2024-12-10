@@ -31,6 +31,18 @@
       "tag": "New"
     },
     {
+      "bug": 1915404,
+      "created": "2024-12-10T00:42:17.424756+00:00",
+      "id": 790547,
+      "is_public": true,
+      "modified": "2024-12-10T00:42:17.424567+00:00",
+      "note": "Firefox now includes new safeguards to prevent sites from overwhelming the Back history by spamming numerous consecutive visits over a short time.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1911651,
       "created": "2024-08-08T15:32:13.129440+00:00",
       "id": 790334,
