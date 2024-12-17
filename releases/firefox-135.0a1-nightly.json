@@ -43,6 +43,18 @@
       "tag": "New"
     },
     {
+      "bug": 1812770,
+      "created": "2024-12-17T15:26:09.070281+00:00",
+      "id": 790551,
+      "is_public": true,
+      "modified": "2024-12-17T15:26:09.070059+00:00",
+      "note": "To help Mozilla find and fix crashes, you can opt into automatically sharing [Firefox for Android][1] crash reports by checking the new Data Collection setting \"Automatically submit crash reports\".\r\n\r\n<!-- TO-DO: Bug 1931083 - https://support.mozilla.org/kb/crash-reports-pref -->\r\n\r\n\r\n  [1]: https://play.google.com/store/apps/details?id=org.mozilla.fenix",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1911651,
       "created": "2024-08-08T15:32:13.129440+00:00",
       "id": 790334,
