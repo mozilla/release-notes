@@ -5,7 +5,125 @@
   "created": "2024-12-18T13:43:54.277694+00:00",
   "is_public": false,
   "modified": "2024-12-18T13:44:12.678993+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": null,
+      "created": "2024-12-18T14:42:58.236327+00:00",
+      "id": 790554,
+      "is_public": true,
+      "modified": "2024-12-18T14:42:58.236053+00:00",
+      "note": "Firefox now supports touchpad hold gestures on Linux. This means that kinetic (momentum) scrolling can now be interrupted by placing two fingers on the touchpad.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2024-12-18T14:43:23.332268+00:00",
+      "id": 790555,
+      "is_public": true,
+      "modified": "2024-12-18T14:43:23.332014+00:00",
+      "note": "HEVC hardware support is implemented for Windows users.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2024-12-18T14:44:04.595436+00:00",
+      "id": 790556,
+      "is_public": true,
+      "modified": "2024-12-18T14:44:04.595234+00:00",
+      "note": "Ecosia's availability has been expanded to all languages in the German region along with Austria, Belgium, Italy, Netherlands, Spain, Sweden, Switzerland.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2024-12-18T14:47:03.676659+00:00",
+      "id": 790557,
+      "is_public": true,
+      "modified": "2024-12-18T14:47:03.676519+00:00",
+      "note": "Firefox follows now the model HTML specification for transient user activation more closely. This change makes popup blocking less strict in cases where previous versions of Firefox were overly aggressive, reducing erroneous blocking prompts.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
+      "bug": null,
+      "created": "2024-12-18T14:47:57.259203+00:00",
+      "id": 790558,
+      "is_public": true,
+      "modified": "2024-12-18T14:47:57.259076+00:00",
+      "note": "A refreshed New Tab layout is being rolled out to users in the US and Canada, featuring a repositioned logo and weather widget to prioritize Web Search, Shortcuts, and Recommended Stories at the top. The update includes changes to the card UI for recommended stories and allows users with larger screens to see up to four columns, making better use of space.",
+      "progressive_rollout": true,
+      "relevant_countries": [
+        {
+          "code": "CA",
+          "name": "Canada"
+        },
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ],
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
+      "bug": null,
+      "created": "2024-12-18T14:49:28.314038+00:00",
+      "id": 790560,
+      "is_public": true,
+      "modified": "2024-12-18T14:49:28.313884+00:00",
+      "note": "Improved support for debugging web extensions, such as automatically reloading the web extension's source code in the Debugger when the extension is reloaded",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
+      "bug": null,
+      "created": "2024-12-18T14:49:46.927564+00:00",
+      "id": 790561,
+      "is_public": true,
+      "modified": "2024-12-18T14:49:46.927379+00:00",
+      "note": "Debugger log-point values are now automatically converted into profiler markers, making it easy to add information to the marker timeline directly from the Debugger",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
+      "bug": null,
+      "created": "2024-12-18T14:50:18.703006+00:00",
+      "id": 790562,
+      "is_public": true,
+      "modified": "2024-12-18T14:50:18.702812+00:00",
+      "note": "The Network panel displays information about Early Hints, including a dedicated indicator for the 103 HTTP status code in the user interface",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
+      "bug": null,
+      "created": "2024-12-18T14:48:59.768502+00:00",
+      "id": 790559,
+      "is_public": true,
+      "modified": "2024-12-18T14:48:59.768300+00:00",
+      "note": "You can find information about policy updates and enterprise specific bug fixes in the [Firefox for Enterprise 134 Release Notes][1].\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/firefox-enterprise-134-release-notes",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Enterprise"
+    }
+  ],
   "product": "Firefox for Android",
   "release_date": "2025-01-07",
   "slug": "firefox-for-android-134.0-release",
