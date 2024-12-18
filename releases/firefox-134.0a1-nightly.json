@@ -31,6 +31,18 @@
       "tag": "New"
     },
     {
+      "bug": 1920776,
+      "created": "2024-12-18T17:34:36.516834+00:00",
+      "id": 790571,
+      "is_public": true,
+      "modified": "2024-12-18T17:35:40.482028+00:00",
+      "note": "Starting with Firefox Nightly 134,  Firefox can now selectively unblock certain social media embeds in ETP Strict or Private Browsing mode, allowing users to access blocked content without decreasing their overall protection level.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1911651,
       "created": "2024-08-08T15:32:13.129440+00:00",
       "id": 790334,
