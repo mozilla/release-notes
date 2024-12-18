@@ -139,6 +139,18 @@
       "tag": "HTML5"
     },
     {
+      "bug": 1912757,
+      "created": "2024-12-18T14:41:42.257878+00:00",
+      "id": 790553,
+      "is_public": true,
+      "modified": "2024-12-18T14:41:42.257675+00:00",
+      "note": "Starting with Firefox 135, the Temporal proposal, a better version of Date, is now available for experimentation in Nightly builds behind the `javascript.options.experimental.temporal` preference. For more details, see https://tc39.es/proposal-temporal/docs/.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
       "bug": 1904489,
       "created": "2024-10-21T14:01:15.935121+00:00",
       "id": 790446,
