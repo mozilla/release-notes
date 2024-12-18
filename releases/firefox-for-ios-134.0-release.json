@@ -5,7 +5,56 @@
   "created": "2024-12-18T13:43:20.298504+00:00",
   "is_public": false,
   "modified": "2024-12-18T13:43:42.751912+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": null,
+      "created": "2024-12-18T17:26:10.847833+00:00",
+      "id": 790567,
+      "is_public": true,
+      "modified": "2024-12-18T17:28:16.768802+00:00",
+      "note": "Pull to refresh improvements.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2024-12-18T17:26:49.921254+00:00",
+      "id": 790568,
+      "is_public": true,
+      "modified": "2024-12-18T17:28:33.664388+00:00",
+      "note": "Improved accessibility and voice-over functionality.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2024-12-18T17:27:16.896764+00:00",
+      "id": 790569,
+      "is_public": true,
+      "modified": "2024-12-18T17:27:16.896485+00:00",
+      "note": "Optimized the Tab Tray for faster performance and smoother operation.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2024-12-18T17:28:48.816914+00:00",
+      "id": 790570,
+      "is_public": true,
+      "modified": "2024-12-18T17:28:48.816783+00:00",
+      "note": "Made minor interface adjustments to improve overall user experience.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
+    }
+  ],
   "product": "Firefox for iOS",
   "release_date": "2025-01-07",
   "slug": "firefox-for-ios-134.0-release",
