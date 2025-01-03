@@ -1,0 +1,65 @@
+{
+  "bug_list": "",
+  "bug_search_url": "",
+  "channel": "Beta",
+  "created": "2025-01-03T16:54:23.688751+00:00",
+  "is_public": false,
+  "modified": "2025-01-03T16:58:35.711986+00:00",
+  "notes": [
+    {
+      "bug": 1451132,
+      "created": "2024-12-05T21:57:58.892600+00:00",
+      "id": 790537,
+      "is_public": true,
+      "modified": "2025-01-03T16:57:29.140872+00:00",
+      "note": "Users on macOS and Linux are now given the option to close only the current tab if the Quit keyboard shortcut is used while multiple tabs are open in the window.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1915404,
+      "created": "2024-12-10T00:42:17.424756+00:00",
+      "id": 790547,
+      "is_public": true,
+      "modified": "2025-01-03T16:57:07.140093+00:00",
+      "note": "Firefox now includes new safeguards to prevent sites from overwhelming the Back history by spamming numerous consecutive visits over a short time.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1812770,
+      "created": "2025-01-03T16:57:51.265688+00:00",
+      "id": 790572,
+      "is_public": true,
+      "modified": "2025-01-03T16:58:18.268291+00:00",
+      "note": "To help Mozilla find and fix crashes, you can opt into automatically sharing [Firefox for Android][1] crash reports by checking the new Data Collection setting \"Automatically submit crash reports\".\r\n\r\n<!-- TO-DO: Bug 1931083 - https://support.mozilla.org/kb/crash-reports-pref -->\r\n\r\n\r\n  [1]: https://play.google.com/store/apps/details?id=org.mozilla.firefox_beta",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1924493,
+      "created": "2024-12-05T21:49:02.184619+00:00",
+      "id": 790536,
+      "is_public": true,
+      "modified": "2025-01-03T16:57:22.882939+00:00",
+      "note": "The \"Copy Without Site Tracking\" menu item was renamed to \"Copy Clean Link\" to help clarify expectations around what the feature does. \"Copy Clean Link\" is a list based approach to remove known tracking parameters from links. This option can also now be used on plain text links.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Changed"
+    }
+  ],
+  "product": "Firefox",
+  "release_date": "2025-01-07",
+  "slug": "firefox-135.0beta-beta",
+  "system_requirements": "## Windows\r\n\r\n### Operating Systems (32-bit and 64-bit)\r\n - Windows 10 or later\r\n\r\n### Recommended Hardware\r\n-  1 gigahertz (GHz) or faster compatible processor or System on a Chip (SoC)\r\n-  1GB of RAM / 2GB of RAM for the 64-bit version\r\n-  500MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- macOS 10.15 or later\r\n\r\n### Recommended Hardware\r\n- Macintosh computer with an Intel x86 or Apple silicon processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - glibc 2.17 or higher\r\n    - GTK+ 3.14 or higher\r\n    - libglib 2.42 or higher\r\n    - libstdc++ 4.8.1 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - DBus 1.0 or higher\r\n    - NetworkManager 0.7 or higher\r\n    - PulseAudio",
+  "text": "Firefox Beta gets updated 3 times a week and as a consequence, the release notes for the Beta channel are updated continuously to reflect features that have reached sufficient maturity to benefit from community feedback and bug reports.\r\n\r\n**Warning: Features listed here may or may *not* make a final release of Firefox.**\r\n\r\nIn addition to these release notes, you can follow ongoing development via our [@FirefoxBeta][1] X account.\r\n\r\n\r\n  [1]: https://x.com/firefoxbeta",
+  "title": "Firefox 135.0beta Beta",
+  "version": "135.0beta"
+}
