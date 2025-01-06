@@ -4,7 +4,7 @@
   "channel": "Release",
   "created": "2024-12-18T13:43:54.277694+00:00",
   "is_public": false,
-  "modified": "2024-12-18T14:52:27.243246+00:00",
+  "modified": "2025-01-06T17:52:33.027467+00:00",
   "notes": [
     {
       "bug": null,
@@ -113,18 +113,6 @@
     },
     {
       "bug": null,
-      "created": "2024-12-18T14:48:59.768502+00:00",
-      "id": 790559,
-      "is_public": true,
-      "modified": "2024-12-18T14:48:59.768300+00:00",
-      "note": "You can find information about policy updates and enterprise specific bug fixes in the [Firefox for Enterprise 134 Release Notes][1].\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/firefox-enterprise-134-release-notes",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "Enterprise"
-    },
-    {
-      "bug": null,
       "created": "2024-12-18T14:52:03.712674+00:00",
       "id": 790563,
       "is_public": true,
@@ -151,7 +139,7 @@
   "product": "Firefox",
   "release_date": "2025-01-07",
   "slug": "firefox-134.0-release",
-  "system_requirements": "## Operating systems\r\n - Android 5.0 or newer",
+  "system_requirements": "## Windows\r\n\r\n### Operating Systems (32-bit and 64-bit)\r\n - Windows 10 or later\r\n\r\n### Recommended Hardware\r\n-  1 gigahertz (GHz) or faster compatible processor or System on a Chip (SoC)\r\n-  1GB of RAM / 2GB of RAM for the 64-bit version\r\n-  500MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- macOS 10.15 or later\r\n\r\n### Recommended Hardware\r\n- Macintosh computer with an Intel x86 or Apple silicon processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - glibc 2.17 or higher\r\n    - GTK+ 3.14 or higher\r\n    - libglib 2.42 or higher\r\n    - libstdc++ 4.8.1 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - DBus 1.0 or higher\r\n    - NetworkManager 0.7 or higher\r\n    - PulseAudio",
   "text": "",
   "title": "Firefox 134.0 Release",
   "version": "134.0"
