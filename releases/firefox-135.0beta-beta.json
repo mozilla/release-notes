@@ -53,6 +53,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "Changed"
+    },
+    {
+      "bug": 1833963,
+      "created": "2025-01-06T18:37:49.814223+00:00",
+      "id": 790573,
+      "is_public": true,
+      "modified": "2025-01-06T18:38:09.044441+00:00",
+      "note": "The attribute values which indicate the coordinates of PointerEvent may now be fractional values rather than only integers. This allows web apps to handle the events with higher-precision coordinates when the target element is transitioned by CSS and/or the viewport is zoomed.\r\n\r\n<!-- Important for Android too -->",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
     }
   ],
   "product": "Firefox",
