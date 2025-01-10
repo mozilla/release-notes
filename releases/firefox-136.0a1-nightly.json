@@ -55,18 +55,6 @@
       "tag": "Changed"
     },
     {
-      "bug": 1710599,
-      "created": "2024-12-05T21:59:40.915963+00:00",
-      "id": 790538,
-      "is_public": true,
-      "modified": "2025-01-05T17:38:15.604318+00:00",
-      "note": "Starting with Firefox 135, Linux binaries are now provided in XZ format, replacing the previous BZ2 format, offering faster unpacking and smaller file sizes. [Blog Post][1]\r\n\r\n\r\n  [1]: https://blog.nightly.mozilla.org/2024/11/28/announcing-faster-lighter-firefox-downloads-for-linux-with-tar-xz-packaging/",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "Changed"
-    },
-    {
       "bug": 1935156,
       "created": "2024-12-17T15:28:02.421067+00:00",
       "id": 790552,
@@ -97,6 +85,18 @@
       "is_public": true,
       "modified": "2025-01-05T17:39:33.673946+00:00",
       "note": "Starting with Firefox 135, the Temporal proposal, a better version of Date, is now available for experimentation in Nightly builds behind the `javascript.options.experimental.temporal` preference. For more details, see https://tc39.es/proposal-temporal/docs/.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 1933303,
+      "created": "2025-01-10T15:31:37.678133+00:00",
+      "id": 790576,
+      "is_public": true,
+      "modified": "2025-01-10T15:31:37.677928+00:00",
+      "note": "Added support for the [Intl.DurationFormat][1] object, this enables language-sensitive duration formatting.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Intl/DurationFormat",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
