@@ -101,6 +101,30 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "HTML5"
+    },
+    {
+      "bug": 1934525,
+      "created": "2025-01-13T15:42:06.137947+00:00",
+      "id": 790581,
+      "is_public": true,
+      "modified": "2025-01-13T15:42:06.137686+00:00",
+      "note": "Starting with Firefox 136, support for the [SVG 2 path API][1] is now available in Nightly builds \r\n\r\n\r\n  [1]: https://svgwg.org/specs/paths/#DOMInterfaces",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 1069931,
+      "created": "2025-01-13T15:44:15.354125+00:00",
+      "id": 790582,
+      "is_public": true,
+      "modified": "2025-01-13T15:44:15.353937+00:00",
+      "note": "Starting with Firefox 136, support for the [SVG discard element][1] is now available in Nightly builds \r\n\r\n\r\n  [1]: https://svgwg.org/specs/animations/#DiscardElement",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
     }
   ],
   "product": "Firefox",
