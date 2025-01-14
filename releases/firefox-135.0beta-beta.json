@@ -67,6 +67,18 @@
       "tag": "Changed"
     },
     {
+      "bug": 1939691,
+      "created": "2025-01-14T19:22:09.603144+00:00",
+      "id": 790586,
+      "is_public": true,
+      "modified": "2025-01-14T19:22:09.602907+00:00",
+      "note": "Some web pages either function as redirects or abuse the history API in order to generate an excessive amount of history entries. Both cases can result in making navigating your browser history via the back/forward buttons annoyingly difficult. This intervention causes these history entries which the user has not interacted with to be skipped by the back and forward buttons.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
       "bug": 1833963,
       "created": "2025-01-06T18:37:49.814223+00:00",
       "id": 790573,
