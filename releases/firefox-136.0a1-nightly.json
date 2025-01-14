@@ -67,6 +67,18 @@
       "tag": "Changed"
     },
     {
+      "bug": 1940275,
+      "created": "2025-01-14T17:55:19.450586+00:00",
+      "id": 790584,
+      "is_public": true,
+      "modified": "2025-01-14T17:55:19.450393+00:00",
+      "note": "Cookie Banner Handling by default in Private Browsing is now disabled. This was enabled only Nightly and Beta. The feature can be enabled via the cookiebanners.service.mode and cookiebanners.service.mode.privateBrowsing prefs in about:config.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
       "bug": 1928290,
       "created": "2024-12-13T15:08:12.816614+00:00",
       "id": 790550,
