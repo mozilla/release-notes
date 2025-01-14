@@ -31,6 +31,18 @@
       "tag": "New"
     },
     {
+      "bug": 1938263,
+      "created": "2025-01-14T18:41:34.465619+00:00",
+      "id": 790585,
+      "is_public": true,
+      "modified": "2025-01-14T18:41:34.465400+00:00",
+      "note": "Starting with [Firefox for Android][1] 136, the new Web Compatibility Reporting Tool available for testing in Nightly builds. To access it: open the Menu via the three-dot button while on a browser tab, navigate to the \u201cTools\u201d sub page, and tap on \u201cReport broken site\u201d. Provide the form with as much information as possible, and you\u2019ll directly help us detect, target, and fix the most impacted sites to make your browsing experience on Firefox smoother.\r\n\r\n\r\n  [1]: https://play.google.com/store/apps/details?id=org.mozilla.fenix",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1911651,
       "created": "2024-08-08T15:32:13.129440+00:00",
       "id": 790334,
