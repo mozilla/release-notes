@@ -113,6 +113,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "HTML5"
+    },
+    {
+      "bug": 1941041,
+      "created": "2025-01-17T17:13:15.584206+00:00",
+      "id": 790588,
+      "is_public": true,
+      "modified": "2025-01-17T17:13:15.583996+00:00",
+      "note": "Added support for a post-quantum key exchange mechanism (mlkem768x25519) for Http/3.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
     }
   ],
   "product": "Firefox",
