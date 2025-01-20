@@ -17,6 +17,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": ""
+    },
+    {
+      "bug": null,
+      "created": "2025-01-20T15:45:46.106365+00:00",
+      "id": 790592,
+      "is_public": true,
+      "modified": "2025-01-20T15:45:46.106168+00:00",
+      "note": "Fixed crash reporter not being displayed for some localized builds ([Bug 1940763][1]).\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1940763",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": ""
     }
   ],
   "product": "Firefox",
