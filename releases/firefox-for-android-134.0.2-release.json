@@ -41,6 +41,30 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": 1941210,
+      "created": "2025-01-20T16:29:15.923991+00:00",
+      "id": 790596,
+      "is_public": true,
+      "modified": "2025-01-20T16:29:15.923887+00:00",
+      "note": "Fixed an issue where data consumption from service workers may unexpectedly halt ([Bug 1941210][1]).\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1941210",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1936359,
+      "created": "2025-01-20T16:35:17.378235+00:00",
+      "id": 790597,
+      "is_public": true,
+      "modified": "2025-01-20T16:35:17.377949+00:00",
+      "note": "Fixed an issue where the confirmation message failed to disappear and obscured the navigation bar after deleting a history entry ([Bug 1936359][1]).\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1936359",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox for Android",
