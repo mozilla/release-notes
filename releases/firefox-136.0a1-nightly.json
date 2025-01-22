@@ -185,6 +185,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "HTML5"
+    },
+    {
+      "bug": 1927977,
+      "created": "2025-01-22T14:07:10.926104+00:00",
+      "id": 790599,
+      "is_public": true,
+      "modified": "2025-01-22T14:07:10.925780+00:00",
+      "note": "Firefox now supports by default the text replacement feature in an input field on macOS. Web content can enable/disable this using the HTML [autocorrect][1] attribute. \r\nAlso, [Firefox for Android][2] hints if the software keyboard supports autocorrect. If supported, the software keyboard suggests autocorrection.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/HTML/Global_attributes/autocorrect\r\n  [2]: https://play.google.com/store/apps/details?id=org.mozilla.fenix",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
     }
   ],
   "product": "Firefox",
