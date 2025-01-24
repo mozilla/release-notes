@@ -67,6 +67,18 @@
       "tag": "New"
     },
     {
+      "bug": 1837140,
+      "created": "2025-01-24T14:04:45.632667+00:00",
+      "id": 790601,
+      "is_public": true,
+      "modified": "2025-01-24T14:04:45.632399+00:00",
+      "note": "Hardware video decoding is now enabled for AMD GPUs on Linux.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1911651,
       "created": "2024-08-08T15:32:13.129440+00:00",
       "id": 790334,
