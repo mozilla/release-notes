@@ -79,6 +79,18 @@
       "tag": "New"
     },
     {
+      "bug": 1931006,
+      "created": "2025-01-24T16:00:06.536820+00:00",
+      "id": 790602,
+      "is_public": true,
+      "modified": "2025-01-24T16:00:06.536659+00:00",
+      "note": "Starting with Firefox 136, Profile management is now available in Nightly builds. Users can now more easily create and switch between different profiles.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1911651,
       "created": "2024-08-08T15:32:13.129440+00:00",
       "id": 790334,
@@ -179,8 +191,8 @@
       "created": "2025-01-13T15:44:15.354125+00:00",
       "id": 790582,
       "is_public": true,
-      "modified": "2025-01-13T15:44:15.353937+00:00",
-      "note": "Starting with Firefox 136, support for the [SVG discard element][1] is now available in Nightly builds \r\n\r\n\r\n  [1]: https://svgwg.org/specs/animations/#DiscardElement",
+      "modified": "2025-01-24T15:55:18.329431+00:00",
+      "note": "Starting with Firefox 136, support for the [SVG discard element][1] is now available in Nightly builds. \r\n\r\n\r\n  [1]: https://svgwg.org/specs/animations/#DiscardElement",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
