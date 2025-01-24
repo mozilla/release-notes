@@ -55,6 +55,18 @@
       "tag": "New"
     },
     {
+      "bug": 1924066,
+      "created": "2025-01-24T14:00:07.676834+00:00",
+      "id": 790600,
+      "is_public": true,
+      "modified": "2025-01-24T14:00:07.676666+00:00",
+      "note": "Hardware-accelerated playback of HEVC video content is now supported on macOS.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1911651,
       "created": "2024-08-08T15:32:13.129440+00:00",
       "id": 790334,
