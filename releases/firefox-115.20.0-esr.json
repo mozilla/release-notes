@@ -2,17 +2,17 @@
   "bug_list": "",
   "bug_search_url": "",
   "channel": "ESR",
-  "created": "2024-12-18T17:16:46.926176+00:00",
-  "is_public": true,
-  "modified": "2025-01-07T16:04:09.522615+00:00",
+  "created": "2025-01-27T21:20:48.451426+00:00",
+  "is_public": false,
+  "modified": "2025-01-27T21:21:09.356308+00:00",
   "notes": [
     {
       "bug": null,
-      "created": "2024-12-18T17:17:33.804843+00:00",
-      "id": 790566,
+      "created": "2025-01-27T21:21:08.184493+00:00",
+      "id": 790604,
       "is_public": true,
-      "modified": "2025-01-27T21:21:08.314137+00:00",
-      "note": "Various [security fixes][1].\r\n\r\n\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/mfsa2025-03",
+      "modified": "2025-01-27T21:22:26.489413+00:00",
+      "note": "Various [security fixes][1].\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/mfsa2025-09",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
@@ -20,10 +20,10 @@
     }
   ],
   "product": "Firefox Extended Support Release",
-  "release_date": "2025-01-07",
-  "slug": "firefox-115.19.0-esr",
+  "release_date": "2025-02-04",
+  "slug": "firefox-115.20.0-esr",
   "system_requirements": "## Windows\r\n\r\n### Operating Systems (32-bit and 64-bit)\r\n - Windows 7\r\n - Windows 8 or 8.1\r\n\r\n### Recommended Hardware\r\n-  Pentium 4 or newer processor that supports SSE2\r\n-  512MB of RAM / 2GB of RAM for the 64-bit version\r\n-  200MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- macOS 10.12\r\n- macOS 10.13\r\n- macOS 10.14\r\n\r\n### Recommended Hardware\r\n- Mac computer with an Intel x86 or Apple silicon processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space",
   "text": "Firefox ESR 115 is now supported only on Windows 7-8.1 and macOS 10.12-10.14. Users on other operating systems should use Firefox ESR 128 instead.",
-  "title": "Firefox Extended Support Release 115.19.0 ESR",
-  "version": "115.19.0"
+  "title": "Firefox Extended Support Release 115.20.0 ESR",
+  "version": "115.20.0"
 }
