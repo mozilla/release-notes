@@ -245,6 +245,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "HTML5"
+    },
+    {
+      "bug": 1942702,
+      "created": "2025-01-28T14:36:26.095555+00:00",
+      "id": 790607,
+      "is_public": true,
+      "modified": "2025-01-28T14:36:26.095349+00:00",
+      "note": "The Developer Tools debugger editor now uses Codemirror 6 which improves performance.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Developer"
     }
   ],
   "product": "Firefox",
