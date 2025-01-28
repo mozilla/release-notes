@@ -43,6 +43,18 @@
       "tag": "New"
     },
     {
+      "bug": 1927085,
+      "created": "2025-01-28T18:22:56.696750+00:00",
+      "id": 790608,
+      "is_public": true,
+      "modified": "2025-01-28T18:22:56.696564+00:00",
+      "note": "On desktop platforms, Firefox will now enforce certificate transparency. That is, Firefox will require that web servers provide sufficient proof that their certificates were publicly disclosed before trusting them. This will only affect servers using certificates issued by a certificate authority in Mozilla's Root CA Program.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1924493,
       "created": "2024-12-05T21:49:02.184619+00:00",
       "id": 790536,
