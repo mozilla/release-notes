@@ -5,7 +5,56 @@
   "created": "2025-01-27T21:23:46.720326+00:00",
   "is_public": false,
   "modified": "2025-01-27T21:24:41.791584+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": null,
+      "created": "2025-01-29T23:21:13.990519+00:00",
+      "id": 790612,
+      "is_public": true,
+      "modified": "2025-01-29T23:21:13.990328+00:00",
+      "note": "Redesigned pull-to-refresh for a smoother and more intuitive experience.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 40,
+      "tag": "New"
+    },
+    {
+      "bug": 30,
+      "created": "2025-01-29T23:21:31.750456+00:00",
+      "id": 790613,
+      "is_public": true,
+      "modified": "2025-01-29T23:21:31.750333+00:00",
+      "note": "Enhanced accessibility with better voice-over support.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 30,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2025-01-29T23:21:45.654012+00:00",
+      "id": 790614,
+      "is_public": true,
+      "modified": "2025-01-29T23:21:45.653832+00:00",
+      "note": "Improved app performance for faster and more reliable use.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 20,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2025-01-29T23:21:58.892175+00:00",
+      "id": 790615,
+      "is_public": true,
+      "modified": "2025-01-29T23:21:58.891930+00:00",
+      "note": "Minor interface adjustments with theming fixes, updated icons, and navigation improvements.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 10,
+      "tag": "New"
+    }
+  ],
   "product": "Firefox for iOS",
   "release_date": "2025-02-04",
   "slug": "firefox-for-ios-135.0-release",
