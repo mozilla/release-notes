@@ -317,6 +317,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "Developer"
+    },
+    {
+      "bug": 1832396,
+      "created": "2025-01-30T19:15:10.162697+00:00",
+      "id": 790643,
+      "is_public": true,
+      "modified": "2025-01-30T19:15:10.162486+00:00",
+      "note": "Firefox will now prefer PNG when copying images out of Firefox, allowing the preservation of transparency.\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1832396",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
