@@ -68,18 +68,6 @@
     },
     {
       "bug": null,
-      "created": "2025-01-29T23:37:40.924144+00:00",
-      "id": 790626,
-      "is_public": true,
-      "modified": "2025-01-29T23:40:18.982328+00:00",
-      "note": "The refreshed New Tab layout previously rolled out in Firefox 134 to users in the United States is now being made available in all countries where Stories are available. It features a repositioned logo to prioritize Web Search, Shortcuts, and Recommended Stories at the top. The update also includes changes to the card UI for recommended stories and allows users with larger screens to see up to four columns, making better use of space.\r\n<img src=\"https://www.mozilla.org/media/img/firefox/releasenotes/note-images/135_newtab.png\" width=\"750\" height=\"415\" alt=\"Screenshot of the updated New Tab page\">",
-      "progressive_rollout": true,
-      "relevant_countries": [],
-      "sort_num": 30,
-      "tag": ""
-    },
-    {
-      "bug": null,
       "created": "2025-01-29T23:35:14.454381+00:00",
       "id": 790623,
       "is_public": true,
@@ -101,6 +89,18 @@
       "relevant_countries": [],
       "sort_num": 10,
       "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2025-01-29T23:37:40.924144+00:00",
+      "id": 790626,
+      "is_public": true,
+      "modified": "2025-01-30T00:31:11.191980+00:00",
+      "note": "The refreshed New Tab layout previously rolled out in Firefox 134 to users in the United States is now being made available in all countries where Stories are available. It features a repositioned logo to prioritize Web Search, Shortcuts, and Recommended Stories at the top. The update also includes changes to the card UI for recommended stories and allows users with larger screens to see up to four columns, making better use of space.\r\n<img src=\"https://www.mozilla.org/media/img/firefox/releasenotes/note-images/135_newtab.png\" width=\"750\" height=\"415\" alt=\"Screenshot of the updated New Tab page\">",
+      "progressive_rollout": true,
+      "relevant_countries": [],
+      "sort_num": 30,
+      "tag": "Changed"
     },
     {
       "bug": null,
