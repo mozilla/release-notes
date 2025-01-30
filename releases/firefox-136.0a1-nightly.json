@@ -31,18 +31,6 @@
       "tag": "New"
     },
     {
-      "bug": 1938263,
-      "created": "2025-01-14T18:41:34.465619+00:00",
-      "id": 790585,
-      "is_public": true,
-      "modified": "2025-01-14T20:04:03.336477+00:00",
-      "note": "Starting with [Firefox for Android][1] 136, the new Web Compatibility Reporting Tool available for testing in Nightly builds. To access it: open the Menu via the three-dot button while on a browser tab and tap on \u201cReport broken site\u201d. Provide the form with as much information as possible, and you\u2019ll directly help us detect, target, and fix the most impacted sites to make your browsing experience on Firefox smoother.\r\n\r\n\r\n  [1]: https://play.google.com/store/apps/details?id=org.mozilla.fenix",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
       "bug": 1895985,
       "created": "2025-01-16T14:02:46.189677+00:00",
       "id": 790587,
@@ -97,6 +85,18 @@
       "is_public": true,
       "modified": "2025-01-30T14:30:26.944072+00:00",
       "note": "Firefox will upgrade page loads to HTTPS and gracefully fall back to HTTP if that does not succeed. This behavior is known as [HTTPS-First][1].\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/https-first",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1940541,
+      "created": "2025-01-30T14:43:01.239440+00:00",
+      "id": 790641,
+      "is_public": true,
+      "modified": "2025-01-30T14:43:01.239218+00:00",
+      "note": "Having any issues with a website on [Firefox for Android][1], yet the site seems to be working as expected on another browser? You can now let us know via the Web Compatibility Reporting Tool. To access it:\r\n\r\n - Open the Menu via the three-dot button while on a browser tab\r\n - Tap on \u201cReport broken site\u201d\r\n\r\nProvide the form with as much information as possible, and you\u2019ll directly help us detect, target, and fix the most impacted sites to make your browsing experience on Firefox smoother.\r\n\r\n  [1]: https://play.google.com/store/apps/details?id=org.mozilla.fenix",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
