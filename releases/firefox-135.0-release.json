@@ -176,6 +176,42 @@
     },
     {
       "bug": null,
+      "created": "2025-01-30T12:42:00.220900+00:00",
+      "id": 790634,
+      "is_public": true,
+      "modified": "2025-01-30T12:42:00.220735+00:00",
+      "note": "A warning is now displayed when `content-visibility` is used on elements where size containment does not apply.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 30,
+      "tag": "Developer"
+    },
+    {
+      "bug": null,
+      "created": "2025-01-30T12:42:17.714256+00:00",
+      "id": 790635,
+      "is_public": true,
+      "modified": "2025-01-30T12:42:17.714152+00:00",
+      "note": "Introduced a new console command `$$$` that allows searching the page, including within shadow roots.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 20,
+      "tag": "Developer"
+    },
+    {
+      "bug": null,
+      "created": "2025-01-30T12:42:49.539275+00:00",
+      "id": 790636,
+      "is_public": true,
+      "modified": "2025-01-30T12:42:49.539059+00:00",
+      "note": "Enhancements to WebExtension debugging: Workers are now available in the Console panel\u2019s context selector and breakpoints function correctly in content scripts.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 10,
+      "tag": "Developer"
+    },
+    {
+      "bug": null,
       "created": "2025-01-29T23:38:45.455209+00:00",
       "id": 790629,
       "is_public": true,
