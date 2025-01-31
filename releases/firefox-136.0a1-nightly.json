@@ -307,6 +307,18 @@
       "tag": "HTML5"
     },
     {
+      "bug": 1521723,
+      "created": "2025-01-31T14:13:42.841411+00:00",
+      "id": 790644,
+      "is_public": true,
+      "modified": "2025-01-31T14:13:42.841086+00:00",
+      "note": "Starting with Firefox 136, support for the [hyphenate-limit-chars][1] property is now available in Nightly builds. This property enables authors to have greater control over the use of automatic hyphenation.\r\n\r\n  [1]:https://developer.mozilla.org/docs/Web/CSS/hyphenate-limit-chars",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
       "bug": 1942702,
       "created": "2025-01-28T14:36:26.095555+00:00",
       "id": 790607,
