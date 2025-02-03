@@ -175,6 +175,18 @@
       "tag": "HTML5"
     },
     {
+      "bug": 1944878,
+      "created": "2025-02-03T14:22:46.856822+00:00",
+      "id": 790645,
+      "is_public": true,
+      "modified": "2025-02-03T14:22:46.856641+00:00",
+      "note": "Firefox now supports sending and receiving the AV1 video codec over WebRTC. Both singlecast and simulcast are supported for sending.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
       "bug": 1942702,
       "created": "2025-01-28T14:36:26.095555+00:00",
       "id": 790607,
