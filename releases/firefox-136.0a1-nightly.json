@@ -115,18 +115,6 @@
       "tag": "Changed"
     },
     {
-      "bug": 1880009,
-      "created": "2024-12-05T21:46:23.513101+00:00",
-      "id": 790535,
-      "is_public": true,
-      "modified": "2025-02-03T11:03:09.774229+00:00",
-      "note": "Starting with Firefox Nightly 135, macOS DMG packages now use LZMA for compression, reducing download size and installation time.",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "Changed"
-    },
-    {
       "bug": 1935156,
       "created": "2024-12-17T15:28:02.421067+00:00",
       "id": 790552,
@@ -145,6 +133,18 @@
       "is_public": true,
       "modified": "2025-02-03T11:04:42.432338+00:00",
       "note": "Cookie Banner Handling by default in Private Browsing is now disabled. This was previously enabled only in Nightly and Beta. The feature can be enabled via the cookiebanners.service.mode and cookiebanners.service.mode.privateBrowsing prefs in about:config.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
+      "bug": 1935015,
+      "created": "2025-02-03T15:00:10.777020+00:00",
+      "id": 790646,
+      "is_public": true,
+      "modified": "2025-02-03T15:00:10.776830+00:00",
+      "note": "macOS DMG packages now use LZMA for compression, reducing download size and installation time.",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,

@@ -91,6 +91,18 @@
       "tag": "Changed"
     },
     {
+      "bug": 1935015,
+      "created": "2025-02-03T15:00:10.777020+00:00",
+      "id": 790646,
+      "is_public": true,
+      "modified": "2025-02-03T15:00:10.776830+00:00",
+      "note": "macOS DMG packages now use LZMA for compression, reducing download size and installation time.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
       "bug": 1933303,
       "created": "2025-01-10T15:31:37.678133+00:00",
       "id": 790576,
