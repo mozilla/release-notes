@@ -79,18 +79,6 @@
       "tag": "Changed"
     },
     {
-      "bug": 1928290,
-      "created": "2024-12-13T15:08:12.816614+00:00",
-      "id": 790550,
-      "is_public": true,
-      "modified": "2025-02-03T11:03:09.774229+00:00",
-      "note": "Starting in Firefox 135, Nightly builds now send a referrer from meta refreshes and Refresh headers, improving compatibility with sites such as Twitch.",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "HTML5"
-    },
-    {
       "bug": 1912757,
       "created": "2024-12-18T14:41:42.257878+00:00",
       "id": 790553,
