@@ -3,8 +3,8 @@
   "bug_search_url": "",
   "channel": "Nightly",
   "created": "2025-02-03T11:03:09.714096+00:00",
-  "is_public": false,
-  "modified": "2025-02-03T11:21:19.853540+00:00",
+  "is_public": true,
+  "modified": "2025-02-04T01:15:54.490743+00:00",
   "notes": [
     {
       "bug": 1932642,
@@ -49,18 +49,6 @@
       "is_public": true,
       "modified": "2025-02-03T11:03:09.774229+00:00",
       "note": "Starting with [Firefox for Android][1] 131, HLS playlist support was deprecated in Nightly builds. Extended testing showed no adverse impact as newer playback technologies have been widely adopted by websites.\r\n\r\n\r\n  [1]: https://play.google.com/store/apps/details?id=org.mozilla.fenix",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "Changed"
-    },
-    {
-      "bug": 1880009,
-      "created": "2024-12-05T21:46:23.513101+00:00",
-      "id": 790535,
-      "is_public": true,
-      "modified": "2025-02-03T11:03:09.774229+00:00",
-      "note": "Starting with Firefox Nightly 135, macOS DMG packages now use LZMA for compression, reducing download size and installation time.",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
