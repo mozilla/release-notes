@@ -103,6 +103,18 @@
       "tag": "New"
     },
     {
+      "bug": 1944588,
+      "created": "2025-02-04T21:19:31.058657+00:00",
+      "id": 790648,
+      "is_public": true,
+      "modified": "2025-02-04T21:19:31.058450+00:00",
+      "note": "[Smartblock Embeds][1] allows users to selectively unblock certain social media embeds that are blocked in ETP Strict and Private Browsing modes. Currently, a limited number of embeds are supported with support for more embed types coming in the near future.\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/smartblock-enhanced-tracking-protection",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1911651,
       "created": "2024-08-08T15:32:13.129440+00:00",
       "id": 790334,
