@@ -4,7 +4,7 @@
   "channel": "Release",
   "created": "2025-01-27T21:23:34.348525+00:00",
   "is_public": false,
-  "modified": "2025-01-27T21:24:19.447863+00:00",
+  "modified": "2025-02-04T00:53:19.091866+00:00",
   "notes": [
     {
       "bug": null,
@@ -95,9 +95,21 @@
       "created": "2025-01-29T23:37:40.924144+00:00",
       "id": 790626,
       "is_public": true,
-      "modified": "2025-01-30T01:06:17.391990+00:00",
+      "modified": "2025-02-04T00:54:35.905663+00:00",
       "note": "The refreshed New Tab layout previously rolled out in Firefox 134 to users in the United States is now being made available in all countries where Stories are available. It features a repositioned logo to prioritize Web Search, Shortcuts, and Recommended Stories at the top. The update also includes changes to the card UI for recommended stories and allows users with larger screens to see up to four columns for better use of space.\r\n<img src=\"https://www.mozilla.org/media/img/firefox/releasenotes/note-images/135_newtab.png\" width=\"750\" height=\"415\" alt=\"Screenshot of the updated New Tab page\">",
       "progressive_rollout": true,
+      "relevant_countries": [],
+      "sort_num": 40,
+      "tag": "Changed"
+    },
+    {
+      "bug": null,
+      "created": "2025-02-04T00:56:30.299751+00:00",
+      "id": 790647,
+      "is_public": true,
+      "modified": "2025-02-04T00:56:30.299556+00:00",
+      "note": "The \u201cDo Not Track\u201d checkbox has been removed from preferences. If you wish to ask websites to respect your privacy, you can use the \u201cTell websites not to sell or share my data\u201d setting instead. This option is built on top of the [Global Privacy Control][1] (GPC).\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/global-privacy-control",
+      "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 30,
       "tag": "Changed"
@@ -209,18 +221,6 @@
       "relevant_countries": [],
       "sort_num": 10,
       "tag": "Developer"
-    },
-    {
-      "bug": null,
-      "created": "2025-01-29T23:38:45.455209+00:00",
-      "id": 790629,
-      "is_public": true,
-      "modified": "2025-01-29T23:38:45.455041+00:00",
-      "note": "You can find information about policy updates and enterprise specific bug fixes in the [Firefox for Enterprise 135 Release Notes][1].\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/firefox-enterprise-135-release-notes",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "Enterprise"
     },
     {
       "bug": null,
