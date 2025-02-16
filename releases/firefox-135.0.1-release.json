@@ -43,6 +43,30 @@
       "tag": "Fixed"
     },
     {
+      "bug": 1947503,
+      "created": "2025-02-16T23:17:05.443994+00:00",
+      "id": 790656,
+      "is_public": true,
+      "modified": "2025-02-16T23:17:05.443828+00:00",
+      "note": "Fixed being unable to restore closed windows and tabs via the History menu when upgrading from an older Firefox version. ([Bug 1947503][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1947503",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 20,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1946156,
+      "created": "2025-02-16T23:20:21.418696+00:00",
+      "id": 790657,
+      "is_public": true,
+      "modified": "2025-02-16T23:20:21.418528+00:00",
+      "note": "Fixed broken search functionality when updating to Firefox 135 with a custom search engine with an overly-large icon installed. ([Bug 1946156][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1946156",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 10,
+      "tag": "Fixed"
+    },
+    {
       "bug": null,
       "created": "2025-02-16T22:58:44.287749+00:00",
       "id": 790651,
