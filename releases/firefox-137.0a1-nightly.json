@@ -79,18 +79,6 @@
       "tag": "Changed"
     },
     {
-      "bug": 1912757,
-      "created": "2024-12-18T14:41:42.257878+00:00",
-      "id": 790553,
-      "is_public": true,
-      "modified": "2025-02-03T11:03:09.774229+00:00",
-      "note": "Starting with Firefox 135, the Temporal proposal, a better version of Date, is now available for experimentation in Nightly builds behind the `javascript.options.experimental.temporal` preference. For more details, see https://tc39.es/proposal-temporal/docs/.",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "HTML5"
-    },
-    {
       "bug": 1934525,
       "created": "2025-01-13T15:42:06.137947+00:00",
       "id": 790581,
@@ -133,6 +121,18 @@
       "is_public": true,
       "modified": "2025-02-03T11:03:09.774229+00:00",
       "note": "Starting with Firefox 136, support for the [hyphenate-limit-chars][1] property is now available in Nightly builds. This property enables authors to have greater control over the use of automatic hyphenation.\r\n\r\n  [1]:https://developer.mozilla.org/docs/Web/CSS/hyphenate-limit-chars",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 1946823,
+      "created": "2025-02-18T16:05:24.519716+00:00",
+      "id": 790659,
+      "is_public": true,
+      "modified": "2025-02-18T16:07:33.538610+00:00",
+      "note": "Starting with Firefox 137, the `Temporal` proposal is enabled by default in Firefox Nightly, please experiment with it and provide feedback. Temporal is a better version of `Date`, for more details, please see [https://tc39.es/proposal-temporal/docs/.][1]\r\n\r\n\r\n  [1]: https://tc39.es/proposal-temporal/docs/",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
