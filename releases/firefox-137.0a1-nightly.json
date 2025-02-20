@@ -149,6 +149,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "Developer"
+    },
+    {
+      "bug": 1849920,
+      "created": "2025-02-20T08:33:29.363715+00:00",
+      "id": 790660,
+      "is_public": true,
+      "modified": "2025-02-20T08:34:59.587395+00:00",
+      "note": "The Network panel now allows overriding network request responses with local files.\r\n\r\n<img src=\"https://www.mozilla.org/media/img/firefox/releasenotes/note-images/137_relnote_netmonitor_override.png\" width=\"500\" alt=\"Screenshot of the context menu in the Network panel with the new Set Network Override option\">",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Developer"
     }
   ],
   "product": "Firefox",
