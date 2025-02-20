@@ -5,7 +5,32 @@
   "created": "2025-02-20T18:50:21.264883+00:00",
   "is_public": false,
   "modified": "2025-02-20T18:51:13.811633+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": null,
+      "created": "2025-02-20T19:27:59.244137+00:00",
+      "id": 790661,
+      "is_public": true,
+      "modified": "2025-02-20T19:27:59.243942+00:00",
+      "note": "Added support for the [Intl.DurationFormat][1] object, this enables language-sensitive duration formatting.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Intl/DurationFormat",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
+      "bug": null,
+      "created": "2025-02-20T19:29:53.458088+00:00",
+      "id": 790662,
+      "is_public": true,
+      "modified": "2025-02-20T19:29:53.457897+00:00",
+      "note": "Added support for the CSS [:open][1] pseudo-class for styling elements that can be toggled \u201copen\u201d to display more content.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/CSS/:open",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Developer"
+    }
+  ],
   "product": "Firefox",
   "release_date": "2025-03-04",
   "slug": "firefox-136.0-release",
