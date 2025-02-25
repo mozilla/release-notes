@@ -8,6 +8,18 @@
   "notes": [
     {
       "bug": null,
+      "created": "2025-02-25T20:07:46.916483+00:00",
+      "id": 790696,
+      "is_public": true,
+      "modified": "2025-02-25T20:07:46.916275+00:00",
+      "note": "The [Clear browsing data and cookies][1] dialog now allows clearing form data separately from browsing history.\r\n\r\n![screenshot of the Clear browsing data and cookies dialog. Demonstrating the separate options for form data and browsing history][2]\r\n\r\n  [1]: https://support.mozilla.org/kb/clear-cookies-and-site-data-firefox#w_clear-all-cookies-site-data-and-cache\r\n  [2]: https://www.mozilla.org/media/img/firefox/releasenotes/note-images/136_clear_site_data.png",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 75,
+      "tag": "New"
+    },
+    {
+      "bug": null,
       "created": "2025-02-25T18:53:29.337881+00:00",
       "id": 790688,
       "is_public": true,
