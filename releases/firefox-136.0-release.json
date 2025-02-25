@@ -83,12 +83,12 @@
       "created": "2025-02-25T19:08:53.668542+00:00",
       "id": 790694,
       "is_public": true,
-      "modified": "2025-02-25T19:08:53.668412+00:00",
+      "modified": "2025-02-25T19:20:19.332642+00:00",
       "note": "[Address autofill][1] enabled for users in the United Kingdom.\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/automatically-fill-your-address-web-forms",
       "progressive_rollout": true,
       "relevant_countries": [],
       "sort_num": 10,
-      "tag": ""
+      "tag": "New"
     },
     {
       "bug": null,
@@ -109,6 +109,18 @@
       "is_public": true,
       "modified": "2025-02-20T20:00:33.361318+00:00",
       "note": "macOS DMG packages now use LZMA for compression, reducing download size and installation time.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
+      "bug": null,
+      "created": "2025-02-25T19:20:43.693497+00:00",
+      "id": 790695,
+      "is_public": true,
+      "modified": "2025-02-25T19:20:43.693395+00:00",
+      "note": "Due to recent changes in macOS Sequoia, the shortcut for completing search strings to .com addresses has been changed from Ctrl+Enter to Cmd+Enter.",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
