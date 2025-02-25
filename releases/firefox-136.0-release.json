@@ -185,6 +185,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2025-02-25T14:18:54.143563+00:00",
+      "id": 790677,
+      "is_public": true,
+      "modified": "2025-02-25T14:18:54.143352+00:00",
+      "note": "With the release of Firefox 136, we are pleased to welcome the developers who contributed their first code change to Firefox in this release, 10 of whom were brand new volunteers! Please join us in thanking each of these diligent and enthusiastic individuals, and take a look at their contributions:\r\n\r\n* Arkadiy Tetelman: <a href=\"https://bugzilla.mozilla.org/1939981\">1939981</a>\r\n* asthetik: <a href=\"https://bugzilla.mozilla.org/1868306\">1868306</a>\r\n* carlos: <a href=\"https://bugzilla.mozilla.org/1930334\">1930334</a>\r\n* Jonas Haukenes [:johauke]: <a href=\"https://bugzilla.mozilla.org/1932184\">1932184</a>\r\n* Karan Yadav: <a href=\"https://bugzilla.mozilla.org/1007374\">1007374</a>, <a href=\"https://bugzilla.mozilla.org/1513984\">1513984</a>, <a href=\"https://bugzilla.mozilla.org/1873929\">1873929</a>, <a href=\"https://bugzilla.mozilla.org/1940223\">1940223</a>\r\n* Krzysztof Jan Modras [:chrmod]: <a href=\"https://bugzilla.mozilla.org/1941821\">1941821</a>\r\n* Meike [:mei]: <a href=\"https://bugzilla.mozilla.org/1940009\">1940009</a>\r\n* Mitchell Ament: <a href=\"https://bugzilla.mozilla.org/1942327\">1942327</a>\r\n* Nathan Teodosio :nteodosio: <a href=\"https://bugzilla.mozilla.org/1924319\">1924319</a>\r\n* Roland Kossel: <a href=\"https://bugzilla.mozilla.org/1927764\">1927764</a>",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Community"
     }
   ],
   "product": "Firefox",
