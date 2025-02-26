@@ -2,9 +2,9 @@
   "bug_list": "",
   "bug_search_url": "",
   "channel": "Nightly",
-  "created": "2025-02-03T11:03:09.714096+00:00",
-  "is_public": true,
-  "modified": "2025-02-21T12:58:10.755131+00:00",
+  "created": "2025-02-26T19:12:38.319819+00:00",
+  "is_public": false,
+  "modified": "2025-02-26T19:19:11.387017+00:00",
   "notes": [
     {
       "bug": 1932642,
@@ -25,18 +25,6 @@
       "is_public": true,
       "modified": "2025-02-26T19:12:38.356896+00:00",
       "note": "Starting with Firefox 136, [profile management][1] is now available in Nightly builds. Users can now more easily create and switch between different profiles.\r\n\r\n\r\n  [1]: https://mozilla.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d2328a37-8dad-4658-8c78-b26c0170fbb1",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
-      "bug": 1019475,
-      "created": "2025-02-12T16:05:49.743442+00:00",
-      "id": 790650,
-      "is_public": true,
-      "modified": "2025-02-26T19:18:59.597214+00:00",
-      "note": "Firefox now identifies all links in PDFs and turns them into hyperlinks.",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
@@ -73,18 +61,6 @@
       "is_public": true,
       "modified": "2025-02-26T19:12:38.356896+00:00",
       "note": "Starting with Firefox Nightly 135, third-party tracking cookies are now protected by [Total Cookie Protection][1] instead of being blocked by default.\r\n\r\n\r\n  [1]: https://blog.mozilla.org/products/firefox/firefox-rolls-out-total-cookie-protection-by-default-to-all-users-worldwide/",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "Changed"
-    },
-    {
-      "bug": 1945422,
-      "created": "2025-02-21T08:04:42.944979+00:00",
-      "id": 790676,
-      "is_public": true,
-      "modified": "2025-02-26T19:19:02.313397+00:00",
-      "note": "Due to recent changes in MacOS Sequoia, the shortcut to complete search strings to .com addresses has been changed on MacOS from *Ctrl+Enter* to *Cmd+Enter*. The preference to disable this feature, `browser.urlbar.ctrlCanonizesURLs`, was not renamed, and it's valid across all the supported platforms.",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
@@ -149,37 +125,13 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "HTML5"
-    },
-    {
-      "bug": 1943605,
-      "created": "2025-02-17T13:49:31.295439+00:00",
-      "id": 790658,
-      "is_public": true,
-      "modified": "2025-02-26T19:18:54.041290+00:00",
-      "note": "In the Inspector Fonts panel, we now display fonts metadata, like the the font version, designer, vendor, license\u2026\r\n\r\n<img src=\"https://www.mozilla.org/media/img/firefox/releasenotes/note-images/137_relnote_font_panel.png\" width=\"500\" alt=\"Screenshot of the fonts panel with vendor metadata displayed\">",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "Developer"
-    },
-    {
-      "bug": 1849920,
-      "created": "2025-02-20T08:33:29.363715+00:00",
-      "id": 790660,
-      "is_public": true,
-      "modified": "2025-02-26T19:18:51.460117+00:00",
-      "note": "The Network panel now allows overriding network request responses with local files.\r\n\r\n<img src=\"https://www.mozilla.org/media/img/firefox/releasenotes/note-images/137_relnote_netmonitor_override.png\" width=\"600\" alt=\"Screenshot of the context menu in the Network panel with the new Set Network Override option\">",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "Developer"
     }
   ],
   "product": "Firefox",
-  "release_date": "2025-02-03",
-  "slug": "firefox-137.0a1-nightly",
+  "release_date": "2025-03-03",
+  "slug": "firefox-138.0a1-nightly",
   "system_requirements": "## Windows\r\n\r\n### Operating Systems (32-bit and 64-bit)\r\n - Windows 10 or later\r\n\r\n### Recommended Hardware\r\n-  1 gigahertz (GHz) or faster compatible processor or System on a Chip (SoC)\r\n-  1GB of RAM / 2GB of RAM for the 64-bit version\r\n-  500MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- macOS 10.15 or later\r\n\r\n### Recommended Hardware\r\n- Macintosh computer with an Intel x86 or Apple silicon processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - glibc 2.17 or higher\r\n    - GTK+ 3.14 or higher\r\n    - libglib 2.42 or higher\r\n    - libstdc++ 4.8.1 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - DBus 1.0 or higher\r\n    - NetworkManager 0.7 or higher\r\n    - PulseAudio",
   "text": "Firefox Nightly gets updated every day and as a consequence, the release notes for the Nightly channel are updated continuously to reflect features that have reached sufficient maturity to benefit from community feedback and bug reports. \r\n\r\n**Warning: Features listed here may or may *not* make a final release of Firefox.**\r\n\r\nIn addition to these release notes, you can follow ongoing development on our [@FirefoxNightly][1] Bluesky account, our [@FirefoxNightly][4] Mastodon account as well as read our [Nightly Blog][2].\r\n\r\nYou can interact with other Firefox Nightly users and give your feedback to Mozilla staff in the [Nightly Matrix room][3] on chat.mozilla.org.\r\n\r\n\r\n  [1]: https://bsky.app/profile/firefoxnightly.bsky.social\r\n  [2]: https://blog.nightly.mozilla.org\r\n  [3]: https://chat.mozilla.org/?#/room/#nightly:mozilla.org\r\n  [4]: https://mastodon.social/@FirefoxNightly",
-  "title": "Firefox 137.0a1 Nightly",
-  "version": "137.0a1"
+  "title": "Firefox 138.0a1 Nightly",
+  "version": "138.0a1"
 }
