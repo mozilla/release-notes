@@ -5,7 +5,20 @@
   "created": "2025-02-20T18:52:35.902108+00:00",
   "is_public": false,
   "modified": "2025-02-20T18:52:35.901840+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": null,
+      "created": "2025-02-27T13:54:23.542681+00:00",
+      "id": 790703,
+      "is_public": true,
+      "modified": "2025-02-27T13:54:23.542344+00:00",
+      "note": "Various [security fixes][1].\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
+    }
+  ],
   "product": "Firefox Extended Support Release",
   "release_date": "2025-03-04",
   "slug": "firefox-128.8.0-esr",
