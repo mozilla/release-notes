@@ -55,6 +55,18 @@
       "tag": "New"
     },
     {
+      "bug": 1950032,
+      "created": "2025-02-27T11:47:55.728531+00:00",
+      "id": 790701,
+      "is_public": true,
+      "modified": "2025-02-27T11:47:55.728311+00:00",
+      "note": "Support HEVC playback on Linux",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1911651,
       "created": "2024-08-08T15:32:13.129440+00:00",
       "id": 790334,
