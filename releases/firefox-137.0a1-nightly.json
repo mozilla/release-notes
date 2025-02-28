@@ -103,30 +103,6 @@
       "tag": "Changed"
     },
     {
-      "bug": 1934525,
-      "created": "2025-01-13T15:42:06.137947+00:00",
-      "id": 790581,
-      "is_public": true,
-      "modified": "2025-02-27T16:40:58.083319+00:00",
-      "note": "Starting with Firefox 136, support for the [SVG 2 path API][1] is now available in Nightly builds \r\n\r\n\r\n  [1]: https://svgwg.org/specs/paths/#DOMInterfaces",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "HTML5"
-    },
-    {
-      "bug": 1069931,
-      "created": "2025-01-13T15:44:15.354125+00:00",
-      "id": 790582,
-      "is_public": true,
-      "modified": "2025-02-27T16:40:56.738772+00:00",
-      "note": "Starting with Firefox 136, support for the [SVG discard element][1] is now available in Nightly builds. \r\n\r\n\r\n  [1]: https://svgwg.org/specs/animations/#DiscardElement",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "HTML5"
-    },
-    {
       "bug": 1817303,
       "created": "2025-01-24T19:11:17.063192+00:00",
       "id": 790603,
@@ -139,24 +115,48 @@
       "tag": "HTML5"
     },
     {
-      "bug": 1521723,
-      "created": "2025-01-31T14:13:42.841411+00:00",
-      "id": 790644,
-      "is_public": true,
-      "modified": "2025-02-27T16:44:04.170216+00:00",
-      "note": "Starting with Firefox 136, support for the [hyphenate-limit-chars][1] property is now available in Nightly builds. This property enables authors to have greater control over the use of automatic hyphenation.\r\n\r\n  [1]:https://developer.mozilla.org/docs/Web/CSS/hyphenate-limit-chars",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "HTML5"
-    },
-    {
       "bug": 1946823,
       "created": "2025-02-18T16:05:24.519716+00:00",
       "id": 790659,
       "is_public": true,
       "modified": "2025-02-26T19:12:38.356896+00:00",
       "note": "Starting with Firefox 137, the `Temporal` proposal is enabled by default in Firefox Nightly, please experiment with it and provide feedback. Temporal is a better version of `Date`, for more details, please see [https://tc39.es/proposal-temporal/docs/.][1]\r\n\r\n\r\n  [1]: https://tc39.es/proposal-temporal/docs/",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 1945330,
+      "created": "2025-02-28T12:34:43.811361+00:00",
+      "id": 790706,
+      "is_public": true,
+      "modified": "2025-02-28T12:34:43.811232+00:00",
+      "note": "Support for the [SVG discard element][1] is now available. \r\n\r\n\r\n  [1]: https://svgwg.org/specs/animations/#DiscardElement",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 1945312,
+      "created": "2025-02-28T12:43:38.700163+00:00",
+      "id": 790707,
+      "is_public": true,
+      "modified": "2025-02-28T12:43:38.699959+00:00",
+      "note": "Support for the [SVG 2 path API][1] is now available.\r\n\r\n\r\n  [1]: https://svgwg.org/specs/paths/#DOMInterfaces",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 1947183,
+      "created": "2025-02-28T12:46:22.060104+00:00",
+      "id": 790708,
+      "is_public": true,
+      "modified": "2025-02-28T12:46:22.059873+00:00",
+      "note": "Support for the [hyphenate-limit-chars][1] property is now available. This property enables authors to have greater control over the use of automatic hyphenation.\r\n\r\n  [1]:https://developer.mozilla.org/docs/Web/CSS/hyphenate-limit-chars",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
