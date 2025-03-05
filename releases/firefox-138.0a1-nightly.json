@@ -101,6 +101,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "HTML5"
+    },
+    {
+      "bug": 1950508,
+      "created": "2025-03-05T15:53:53.796665+00:00",
+      "id": 790710,
+      "is_public": true,
+      "modified": "2025-03-05T15:54:35.012040+00:00",
+      "note": "Added support for the `error.captureStackTrace` extension to avoid incompatibility with other browsers. ([Learn more][1])\r\n\r\n\r\n  [1]: http://github.com/tc39/proposal-error-capturestacktrace",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Developer"
     }
   ],
   "product": "Firefox",
