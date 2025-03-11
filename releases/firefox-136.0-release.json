@@ -353,6 +353,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "Community"
+    },
+    {
+      "bug": null,
+      "created": "2025-03-11T16:06:51.789004+00:00",
+      "id": 790717,
+      "is_public": true,
+      "modified": "2025-03-11T16:06:51.788802+00:00",
+      "note": "Users clearing \"History\" and/or \"Site settings\" on shutdown on previous versions will also have clearing \"Cookies and site data\" and \"Temporary cached files and pages\" enabled after updating to Fx136 even if they previously haven't checked these settings. \r\nAffected users can go to \"Privacy & Security\" settings directly after the upgrade and uncheck both boxes to avoid getting logged out. ([Bug 1952564][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1952564",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Known"
     }
   ],
   "product": "Firefox",
