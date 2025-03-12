@@ -31,6 +31,18 @@
       "tag": "New"
     },
     {
+      "bug": 1948094,
+      "created": "2025-03-12T08:50:10.784226+00:00",
+      "id": 790720,
+      "is_public": true,
+      "modified": "2025-03-12T08:50:10.783780+00:00",
+      "note": "You can now use the Firefox address bar as a calculator. Simply type in arithmetic expression and view the result in the address bar drop-down. Clicking on this result will copy it to your clipboard.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1945422,
       "created": "2025-02-21T08:04:42.944979+00:00",
       "id": 790676,
