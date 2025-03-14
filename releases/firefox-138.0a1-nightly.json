@@ -4,7 +4,7 @@
   "channel": "Nightly",
   "created": "2025-02-26T19:12:38.319819+00:00",
   "is_public": true,
-  "modified": "2025-03-03T22:42:51.347553+00:00",
+  "modified": "2025-03-14T17:43:03.031531+00:00",
   "notes": [
     {
       "bug": 1932642,
@@ -41,18 +41,6 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "New"
-    },
-    {
-      "bug": 1911651,
-      "created": "2024-08-08T15:32:13.129440+00:00",
-      "id": 790334,
-      "is_public": true,
-      "modified": "2025-02-26T19:12:38.356896+00:00",
-      "note": "Starting with [Firefox for Android][1] 131, HLS playlist support was deprecated in Nightly builds. Extended testing showed no adverse impact as newer playback technologies have been widely adopted by websites.\r\n\r\n\r\n  [1]: https://play.google.com/store/apps/details?id=org.mozilla.fenix",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "Changed"
     },
     {
       "bug": 1935156,
