@@ -17,6 +17,30 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": ""
+    },
+    {
+      "bug": null,
+      "created": "2025-03-17T14:01:43.785593+00:00",
+      "id": 790724,
+      "is_public": true,
+      "modified": "2025-03-17T14:03:11.785911+00:00",
+      "note": "Disabled support for the [CookieStore API][1] due to compatibility concerns. The API will be enabled later once the compatibility issues have been addressed.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/API/CookieStore",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 1952564,
+      "created": "2025-03-17T14:05:54.585663+00:00",
+      "id": 790725,
+      "is_public": true,
+      "modified": "2025-03-17T14:05:54.585414+00:00",
+      "note": "Fixed a bug where \"Cookies and site data\" and \"Temporary cached files and pages\" were enabled after updating to Fx136 for users with \"History\" and/or \"Site settings\" on shutdown enabled on previous versions. ([Bug 1952564][1])\r\n\r\nAffected users can go to \"Privacy & Security\" settings directly after the upgrade and uncheck both boxes to avoid getting logged out. \r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1952564",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 90,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
