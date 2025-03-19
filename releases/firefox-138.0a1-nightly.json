@@ -161,6 +161,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "Developer"
+    },
+    {
+      "bug": 1952249,
+      "created": "2025-03-19T16:45:48.035686+00:00",
+      "id": 790731,
+      "is_public": true,
+      "modified": "2025-03-19T16:45:48.035480+00:00",
+      "note": "We have implemented support for Error.isError, which allows for brand checking whether or not an object is an instance of Error. ([Learn more][1])\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Error/isError",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Developer"
     }
   ],
   "product": "Firefox",
