@@ -91,6 +91,18 @@
       "tag": "HTML5"
     },
     {
+      "bug": 1945330,
+      "created": "2025-02-28T12:34:43.811361+00:00",
+      "id": 790706,
+      "is_public": true,
+      "modified": "2025-03-19T11:53:16.995082+00:00",
+      "note": "Support for the [SVG discard element][1] is now available. \r\n\r\n\r\n  [1]: https://svgwg.org/specs/animations/#DiscardElement",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
       "bug": 1329847,
       "created": "2025-03-05T13:13:13.367623+00:00",
       "id": 790709,
