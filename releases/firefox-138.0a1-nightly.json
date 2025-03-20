@@ -173,6 +173,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "Developer"
+    },
+    {
+      "bug": 85686,
+      "created": "2025-03-20T19:53:52.987682+00:00",
+      "id": 790733,
+      "is_public": true,
+      "modified": "2025-03-20T19:53:52.987490+00:00",
+      "note": "Starting with Firefox 138, `window.getSelection().toString()` now correctly returns the text serialization when text is selected in a text control on Nightly builds.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Developer"
     }
   ],
   "product": "Firefox",
