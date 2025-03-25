@@ -79,6 +79,18 @@
       "tag": "New"
     },
     {
+      "bug": 1953636,
+      "created": "2025-03-25T17:53:50.198630+00:00",
+      "id": 790737,
+      "is_public": true,
+      "modified": "2025-03-25T17:53:50.198433+00:00",
+      "note": "Firefox on Windows 11 now uses acrylic-style menus for popup windows, which better match the operating system\u2019s aesthetic. Users who wish to customize this behavior can do so via the `widget.windows.mica.popups` preference.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1935156,
       "created": "2024-12-17T15:28:02.421067+00:00",
       "id": 790552,
