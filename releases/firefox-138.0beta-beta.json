@@ -1,0 +1,101 @@
+{
+  "bug_list": "",
+  "bug_search_url": "",
+  "channel": "Beta",
+  "created": "2025-03-25T13:37:11.815319+00:00",
+  "is_public": false,
+  "modified": "2025-03-25T13:38:12.754595+00:00",
+  "notes": [
+    {
+      "bug": 1813930,
+      "created": "2025-03-17T16:33:55.750798+00:00",
+      "id": 790730,
+      "is_public": true,
+      "modified": "2025-03-25T13:39:45.885655+00:00",
+      "note": "[Firefox for Android][1] now supports TLS client authentication certificates. When a TLS server requests authentication from the browser, Firefox can now make use of the client certificates that have been added to your Android device.\r\n\r\n\r\n  [1]: https://play.google.com/store/apps/details?id=org.mozilla.fenix",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1951681,
+      "created": "2025-03-20T13:30:04.136164+00:00",
+      "id": 790732,
+      "is_public": true,
+      "modified": "2025-03-25T13:40:07.265840+00:00",
+      "note": "Desktop mode in [Firefox for Android][1] is now enabled by default on tablets, but can still be disabled from the Site Settings. \r\n\r\n  [1]: https://play.google.com/store/apps/details?id=org.mozilla.fenix",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1953575,
+      "created": "2025-03-25T13:34:23.706760+00:00",
+      "id": 790736,
+      "is_public": true,
+      "modified": "2025-03-25T13:40:17.016085+00:00",
+      "note": "You can now copy links for background tabs using the tabstrip context menu on MacOS and Linux.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1329847,
+      "created": "2025-03-05T13:13:13.367623+00:00",
+      "id": 790709,
+      "is_public": true,
+      "modified": "2025-03-25T13:38:55.576981+00:00",
+      "note": "Applications can now set their preferred degradation method to be utilized when encoding the configured frame rate and resolution cannot be maintained. ([Learn more][1]) \r\n\r\n\r\n  [1]: https://w3c.github.io/mst-content-hint/#degradation-preference-when-encoding",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 1950836,
+      "created": "2025-03-05T16:19:48.503189+00:00",
+      "id": 790711,
+      "is_public": true,
+      "modified": "2025-03-25T13:39:08.094184+00:00",
+      "note": "Introduced support for [Import Attributes][1], allowing developers to specify additional metadata when importing modules. \r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/JavaScript/Reference/Statements/import/with",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 1950508,
+      "created": "2025-03-05T15:53:53.796665+00:00",
+      "id": 790710,
+      "is_public": true,
+      "modified": "2025-03-25T13:39:18.277067+00:00",
+      "note": "Added support for the `error.captureStackTrace` extension to avoid incompatibility with other browsers. ([Learn more][1])\r\n\r\n\r\n  [1]: http://github.com/tc39/proposal-error-capturestacktrace",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
+      "bug": 1952249,
+      "created": "2025-03-19T16:45:48.035686+00:00",
+      "id": 790731,
+      "is_public": true,
+      "modified": "2025-03-25T13:39:59.583428+00:00",
+      "note": "We have implemented support for Error.isError, which allows for brand checking whether or not an object is an instance of Error. ([Learn more][1])\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Error/isError",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Developer"
+    }
+  ],
+  "product": "Firefox",
+  "release_date": "2025-04-01",
+  "slug": "firefox-138.0beta-beta",
+  "system_requirements": "## Windows\r\n\r\n### Operating Systems (32-bit and 64-bit)\r\n - Windows 10 or later\r\n\r\n### Recommended Hardware\r\n-  1 gigahertz (GHz) or faster compatible processor or System on a Chip (SoC)\r\n-  1GB of RAM / 2GB of RAM for the 64-bit version\r\n-  500MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- macOS 10.15 or later\r\n\r\n### Recommended Hardware\r\n- Macintosh computer with an Intel x86 or Apple silicon processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - glibc 2.17 or higher\r\n    - GTK+ 3.14 or higher\r\n    - libglib 2.42 or higher\r\n    - libstdc++ 4.8.1 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - DBus 1.0 or higher\r\n    - NetworkManager 0.7 or higher\r\n    - PulseAudio",
+  "text": "Firefox Beta gets updated 3 times a week and as a consequence, the release notes for the Beta channel are updated continuously to reflect features that have reached sufficient maturity to benefit from community feedback and bug reports.\r\n\r\n**Warning: Features listed here may or may *not* make a final release of Firefox.**\r\n\r\nIn addition to these release notes, you can follow ongoing development via the [Firefox Trains][1] website or our [@FirefoxBeta][2] Bluesky account.\r\n\r\n\r\n  [1]: https://whattrainisitnow.com/beta/\r\n  [2]: https://bsky.app/profile/firefoxbeta.bsky.social",
+  "title": "Firefox 138.0beta Beta",
+  "version": "138.0beta"
+}
