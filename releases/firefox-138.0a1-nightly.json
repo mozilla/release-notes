@@ -91,6 +91,18 @@
       "tag": "New"
     },
     {
+      "bug": 1951905,
+      "created": "2025-03-26T19:20:13.710825+00:00",
+      "id": 790738,
+      "is_public": true,
+      "modified": "2025-03-26T19:20:13.710605+00:00",
+      "note": "[Firefox for Android][1] now allows you to share a downloaded file or its original URL from the Downloads screen.\r\n\r\n[1]: https://play.google.com/store/apps/details?id=org.mozilla.fenix",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1935156,
       "created": "2024-12-17T15:28:02.421067+00:00",
       "id": 790552,
