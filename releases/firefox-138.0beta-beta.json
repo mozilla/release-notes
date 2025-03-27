@@ -67,6 +67,18 @@
       "tag": "New"
     },
     {
+      "bug": 1898096,
+      "created": "2025-03-27T03:03:53.807259+00:00",
+      "id": 790743,
+      "is_public": true,
+      "modified": "2025-03-27T03:03:53.807043+00:00",
+      "note": "Rededicated previous color settings to Contrast Control settings. ([Learn more][1])\r\n\r\n\r\n  [1]: https://blog.monotonous.org/2025/03/06/New-Contrast-Control-Settings/",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
       "bug": 1329847,
       "created": "2025-03-05T13:13:13.367623+00:00",
       "id": 790709,
