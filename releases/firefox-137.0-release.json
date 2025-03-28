@@ -91,12 +91,48 @@
       "tag": "Changed"
     },
     {
+      "bug": 1945312,
+      "created": "2025-02-28T12:43:38.700163+00:00",
+      "id": 790707,
+      "is_public": true,
+      "modified": "2025-03-28T10:02:07.707020+00:00",
+      "note": "Support for the [SVG 2 path API][1] is now available.\r\n\r\n\r\n  [1]: https://svgwg.org/specs/paths/#DOMInterfaces",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 1947183,
+      "created": "2025-02-28T12:46:22.060104+00:00",
+      "id": 790708,
+      "is_public": true,
+      "modified": "2025-03-28T10:02:50.920121+00:00",
+      "note": "Support for the [hyphenate-limit-chars][1] property is now available. This property enables authors to have greater control over the use of automatic hyphenation.\r\n\r\n  [1]:https://developer.mozilla.org/docs/Web/CSS/hyphenate-limit-chars",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
       "bug": 1943605,
       "created": "2025-02-17T13:49:31.295439+00:00",
       "id": 790658,
       "is_public": true,
       "modified": "2025-03-28T10:00:52.770636+00:00",
       "note": "In the Inspector Fonts panel, we now display fonts metadata, like the font version, designer, vendor, license\u2026\r\n\r\n<img src=\"https://www.mozilla.org/media/img/firefox/releasenotes/note-images/137_relnote_font_panel.png\" width=\"500\" alt=\"Screenshot of the fonts panel with vendor metadata displayed\">",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
+      "bug": 1849920,
+      "created": "2025-02-20T08:33:29.363715+00:00",
+      "id": 790660,
+      "is_public": true,
+      "modified": "2025-03-28T10:01:31.537346+00:00",
+      "note": "The Network panel now allows overriding network request responses with local files.\r\n\r\n<img src=\"https://www.mozilla.org/media/img/firefox/releasenotes/note-images/137_relnote_netmonitor_override.png\" width=\"600\" alt=\"Screenshot of the context menu in the Network panel with the new Set Network Override option\">",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
