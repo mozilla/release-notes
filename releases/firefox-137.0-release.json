@@ -59,8 +59,8 @@
       "created": "2025-03-28T09:53:10.934536+00:00",
       "id": 790748,
       "is_public": true,
-      "modified": "2025-03-28T10:47:17.689627+00:00",
-      "note": "Firefox Address Bar Refresh 2025 - new ways to search for things new, previously viewed, and more - all from the address bar.",
+      "modified": "2025-03-28T18:28:28.374423+00:00",
+      "note": "Firefox Address Bar Refresh 2025: new ways to search for things new, previously viewed, and more - all from the address bar.",
       "progressive_rollout": true,
       "relevant_countries": [],
       "sort_num": 5,
@@ -77,18 +77,6 @@
       "relevant_countries": [],
       "sort_num": 3,
       "tag": "New"
-    },
-    {
-      "bug": 1945422,
-      "created": "2025-02-21T08:04:42.944979+00:00",
-      "id": 790676,
-      "is_public": true,
-      "modified": "2025-03-28T09:56:12.251816+00:00",
-      "note": "Due to recent changes in MacOS Sequoia, the shortcut to complete search strings to .com addresses has been changed on MacOS from *Ctrl+Enter* to *Cmd+Enter*. The preference to disable this feature, `browser.urlbar.ctrlCanonizesURLs`, was not renamed, and it's valid across all the supported platforms.",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "Changed"
     },
     {
       "bug": 1945312,
