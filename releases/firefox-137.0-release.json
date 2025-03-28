@@ -7,6 +7,18 @@
   "modified": "2025-03-28T09:43:17.344331+00:00",
   "notes": [
     {
+      "bug": null,
+      "created": "2025-03-28T09:46:35.775799+00:00",
+      "id": 790746,
+      "is_public": true,
+      "modified": "2025-03-28T10:26:11.208342+00:00",
+      "note": "[Tab groups][1] begin rolling out today! Stay productive and organized with less effort by grouping related tabs together. One simple way to create a group is to drag a tab onto another, pause until you see a highlight, then drop to create the group. Groups can be named, color-coded, and are always saved. You can close a group and reopen it later.\r\n\r\n<img src=\"https://www.mozilla.org/media/img/firefox/releasenotes/note-images/137_tabgroups.png\" width=\"600\" alt=\"Screenshot of the new tab groups feature in action\">\r\n\r\n  [1]: https://support.mozilla.org/kb/tab-groups",
+      "progressive_rollout": true,
+      "relevant_countries": [],
+      "sort_num": 10,
+      "tag": "New"
+    },
+    {
       "bug": 1019475,
       "created": "2025-02-12T16:05:49.743442+00:00",
       "id": 790650,
@@ -37,18 +49,6 @@
       "is_public": true,
       "modified": "2025-03-28T09:55:15.915955+00:00",
       "note": "You can now use the Firefox address bar as a calculator. Simply type an arithmetic expression and view the result in the address bar drop-down. Clicking on this result will copy it to your clipboard.\r\n\r\n<img src=\"https://www.mozilla.org/media/img/firefox/releasenotes/note-images/137_calculator.png\" alt=\"Screenshot of the calculator feature in the URL bar\">",
-      "progressive_rollout": true,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
-      "bug": null,
-      "created": "2025-03-28T09:46:35.775799+00:00",
-      "id": 790746,
-      "is_public": true,
-      "modified": "2025-03-28T09:46:35.775603+00:00",
-      "note": "[Tab groups][1] begin rolling out today! Stay productive and organized with less effort by grouping related tabs together. One simple way to create a group is to drag a tab onto another, pause until you see a highlight, then drop to create the group. Groups can be named, color-coded, and are always saved. You can close a group and reopen it later.\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/tab-groups",
       "progressive_rollout": true,
       "relevant_countries": [],
       "sort_num": 0,
@@ -149,6 +149,30 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "Enterprise"
+    },
+    {
+      "bug": null,
+      "created": "2025-03-28T10:17:42.158638+00:00",
+      "id": 790751,
+      "is_public": true,
+      "modified": "2025-03-28T10:17:42.158424+00:00",
+      "note": "Various [security fixes][1].\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2025-03-28T10:15:54.240873+00:00",
+      "id": 790750,
+      "is_public": true,
+      "modified": "2025-03-28T10:15:54.240677+00:00",
+      "note": "With the release of Firefox 137, we are pleased to welcome the developers who contributed their first code change to Firefox in this release, 17 of whom were brand new volunteers! Please join us in thanking each of these diligent and enthusiastic individuals, and take a look at their contributions:\r\n\r\n* [:anutrix]: <a href=\"https://bugzilla.mozilla.org/1727389\">1727389</a>, <a href=\"https://bugzilla.mozilla.org/1948502\">1948502</a>\r\n* abe hanoka: <a href=\"https://bugzilla.mozilla.org/1930779\">1930779</a>\r\n* ansah: <a href=\"https://bugzilla.mozilla.org/1882102\">1882102</a>\r\n* Bakir Grbic: <a href=\"https://bugzilla.mozilla.org/1930780\">1930780</a>\r\n* cpplearner: <a href=\"https://bugzilla.mozilla.org/1610833\">1610833</a>\r\n* Gintaras \u017dulys [:gzulys]: <a href=\"https://bugzilla.mozilla.org/1634662\">1634662</a>\r\n* h.nuchi: <a href=\"https://bugzilla.mozilla.org/1642310\">1642310</a>\r\n* Hazhar Sabir: <a href=\"https://bugzilla.mozilla.org/1941949\">1941949</a>\r\n* James Stuckey Weber: <a href=\"https://bugzilla.mozilla.org/1949953\">1949953</a>\r\n* Jonathan: <a href=\"https://bugzilla.mozilla.org/1943789\">1943789</a>\r\n* krish.patel: <a href=\"https://bugzilla.mozilla.org/1267242\">1267242</a>\r\n* Phil [:phigl]: <a href=\"https://bugzilla.mozilla.org/1701557\">1701557</a>\r\n* qcms upstreamer: <a href=\"https://bugzilla.mozilla.org/1948768\">1948768</a>\r\n* Steven Novaryo: <a href=\"https://bugzilla.mozilla.org/1946679\">1946679</a>\r\n* Tan Junjian: <a href=\"https://bugzilla.mozilla.org/1943846\">1943846</a>\r\n* WANG Xuerui [:xen0n]: <a href=\"https://bugzilla.mozilla.org/1778177\">1778177</a>, <a href=\"https://bugzilla.mozilla.org/1948207\">1948207</a>",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Community"
     }
   ],
   "product": "Firefox",
