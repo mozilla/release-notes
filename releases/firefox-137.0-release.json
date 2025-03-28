@@ -19,15 +19,27 @@
       "tag": "New"
     },
     {
+      "bug": null,
+      "created": "2025-03-28T09:48:26.630024+00:00",
+      "id": 790747,
+      "is_public": true,
+      "modified": "2025-03-28T10:45:29.805251+00:00",
+      "note": "Now you can sign PDFs without leaving Firefox. Save your signatures to re-use later.",
+      "progressive_rollout": true,
+      "relevant_countries": [],
+      "sort_num": 9,
+      "tag": "New"
+    },
+    {
       "bug": 1019475,
       "created": "2025-02-12T16:05:49.743442+00:00",
       "id": 790650,
       "is_public": true,
-      "modified": "2025-03-28T09:50:04.698808+00:00",
+      "modified": "2025-03-28T10:46:06.852000+00:00",
       "note": "Firefox now identifies all links in PDFs and turns them into hyperlinks.",
       "progressive_rollout": false,
       "relevant_countries": [],
-      "sort_num": 0,
+      "sort_num": 8,
       "tag": "New"
     },
     {
@@ -35,35 +47,11 @@
       "created": "2025-02-27T11:47:55.728531+00:00",
       "id": 790701,
       "is_public": true,
-      "modified": "2025-03-28T09:51:02.187980+00:00",
+      "modified": "2025-03-28T10:46:39.038260+00:00",
       "note": "Support HEVC playback on Linux.",
       "progressive_rollout": false,
       "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
-      "bug": 1948094,
-      "created": "2025-03-12T08:50:10.784226+00:00",
-      "id": 790720,
-      "is_public": true,
-      "modified": "2025-03-28T09:55:15.915955+00:00",
-      "note": "You can now use the Firefox address bar as a calculator. Simply type an arithmetic expression and view the result in the address bar drop-down. Clicking on this result will copy it to your clipboard.\r\n\r\n<img src=\"https://www.mozilla.org/media/img/firefox/releasenotes/note-images/137_calculator.png\" alt=\"Screenshot of the calculator feature in the URL bar\">",
-      "progressive_rollout": true,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
-      "bug": null,
-      "created": "2025-03-28T09:48:26.630024+00:00",
-      "id": 790747,
-      "is_public": true,
-      "modified": "2025-03-28T09:48:53.174008+00:00",
-      "note": "Now you can sign PDFs without leaving Firefox. Save your signatures to re-use later.",
-      "progressive_rollout": true,
-      "relevant_countries": [],
-      "sort_num": 0,
+      "sort_num": 7,
       "tag": "New"
     },
     {
@@ -71,11 +59,23 @@
       "created": "2025-03-28T09:53:10.934536+00:00",
       "id": 790748,
       "is_public": true,
-      "modified": "2025-03-28T09:53:10.934326+00:00",
+      "modified": "2025-03-28T10:47:17.689627+00:00",
       "note": "Firefox Address Bar Refresh 2025 - new ways to search for things new, previously viewed, and more - all from the address bar.",
       "progressive_rollout": true,
       "relevant_countries": [],
-      "sort_num": 0,
+      "sort_num": 5,
+      "tag": "New"
+    },
+    {
+      "bug": 1948094,
+      "created": "2025-03-12T08:50:10.784226+00:00",
+      "id": 790720,
+      "is_public": true,
+      "modified": "2025-03-28T10:47:24.767809+00:00",
+      "note": "You can now use the Firefox address bar as a calculator. Simply type an arithmetic expression and view the result in the address bar drop-down. Clicking on this result will copy it to your clipboard.\r\n\r\n<img src=\"https://www.mozilla.org/media/img/firefox/releasenotes/note-images/137_calculator.png\" alt=\"Screenshot of the calculator feature in the URL bar\">",
+      "progressive_rollout": true,
+      "relevant_countries": [],
+      "sort_num": 3,
       "tag": "New"
     },
     {
