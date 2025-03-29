@@ -4,20 +4,8 @@
   "channel": "Nightly",
   "created": "2025-03-29T17:43:40.446593+00:00",
   "is_public": false,
-  "modified": "2025-03-29T17:46:16.363361+00:00",
+  "modified": "2025-03-29T17:52:54.693293+00:00",
   "notes": [
-    {
-      "bug": 1932642,
-      "created": "2024-12-05T22:05:56.050493+00:00",
-      "id": 790539,
-      "is_public": true,
-      "modified": "2025-03-29T17:43:40.498531+00:00",
-      "note": "Starting with Firefox Nightly 135, the DevTools toolbox colors have been updated to have higher contrast than the regular theme when in High Contrast Mode. Note that this change will only be activated when all of these conditions are met:\r\n\r\n - High Contrast Mode is enabled for the system.\r\n - In `about:settings`, in the \"Colors\" popup, \"Use system colors\" is checked, and \"Override the colors specified by the page with your selections above\" is set to something else than \"Never\".\r\n - In DevTools settings, the selected Theme is \"Auto\".",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "New"
-    },
     {
       "bug": 1931006,
       "created": "2025-01-24T16:00:06.536820+00:00",
@@ -41,18 +29,6 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "New"
-    },
-    {
-      "bug": 1935156,
-      "created": "2024-12-17T15:28:02.421067+00:00",
-      "id": 790552,
-      "is_public": true,
-      "modified": "2025-03-29T17:43:40.498531+00:00",
-      "note": "Starting with Firefox Nightly 135, third-party tracking cookies are now protected by [Total Cookie Protection][1] instead of being blocked by default.\r\n\r\n\r\n  [1]: https://blog.mozilla.org/products/firefox/firefox-rolls-out-total-cookie-protection-by-default-to-all-users-worldwide/",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "Changed"
     },
     {
       "bug": 1817303,
