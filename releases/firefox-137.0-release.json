@@ -161,6 +161,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "Community"
+    },
+    {
+      "bug": 1958112,
+      "created": "2025-04-03T14:42:30.909438+00:00",
+      "id": 790764,
+      "is_public": true,
+      "modified": "2025-04-03T14:42:30.909214+00:00",
+      "note": "We are investigating an increase in crashes for Windows users with Qihoo 360 security software.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Known"
     }
   ],
   "product": "Firefox",
