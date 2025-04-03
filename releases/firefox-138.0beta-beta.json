@@ -149,6 +149,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "Developer"
+    },
+    {
+      "bug": 1885509,
+      "created": "2025-04-03T23:28:23.799434+00:00",
+      "id": 790765,
+      "is_public": true,
+      "modified": "2025-04-03T23:29:14.008722+00:00",
+      "note": "Half of Firefox Beta 138.0 users will have the change where `<h1>` always has the same UA style, even in `<article>`, `<aside>`, `<nav>`, and `<section>`. ([Learn more][1])\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/HTML/Element/Heading_Elements#specifying_a_uniform_font_size_for_h1",
+      "progressive_rollout": true,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Developer"
     }
   ],
   "product": "Firefox",
