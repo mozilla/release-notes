@@ -29,6 +29,30 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": 1934258,
+      "created": "2025-04-07T16:04:40.132462+00:00",
+      "id": 790768,
+      "is_public": true,
+      "modified": "2025-04-07T16:04:40.132289+00:00",
+      "note": "Fixed a crash experienced by Windows users when downloading files with Qihoo 360 Total Security Antivirus software installed.  ([Bug 1934258][1]) \r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1958112",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1958293,
+      "created": "2025-04-07T16:09:49.153343+00:00",
+      "id": 790769,
+      "is_public": true,
+      "modified": "2025-04-07T16:09:49.153172+00:00",
+      "note": "Fixed an occasional startup crash. ([Bug 1958293][1])\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1958293",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
