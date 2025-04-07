@@ -55,6 +55,30 @@
       "tag": "HTML5"
     },
     {
+      "bug": 1954979,
+      "created": "2025-04-07T20:35:54.235951+00:00",
+      "id": 790770,
+      "is_public": true,
+      "modified": "2025-04-07T20:35:54.235748+00:00",
+      "note": "`window.getSelection().toString()` now correctly returns the text serialization when text is selected in a text control, improving cross-browser interoperability on some sites.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 1957012,
+      "created": "2025-04-07T20:41:34.220101+00:00",
+      "id": 790771,
+      "is_public": true,
+      "modified": "2025-04-07T20:41:34.219903+00:00",
+      "note": "Starting with Firefox 139, Nightly builds now support `PerformanceEventTiming.interactionId`, allowing developers to group related input events. This enables support for the Interaction to Next Paint (INP) responsiveness metric.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
       "bug": 1949917,
       "created": "2025-03-12T02:49:08.183830+00:00",
       "id": 790718,
@@ -89,18 +113,6 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "Developer"
-    },
-    {
-      "bug": 1940790,
-      "created": "2025-04-03T12:40:50.958047+00:00",
-      "id": 790763,
-      "is_public": true,
-      "modified": "2025-04-03T12:40:50.957825+00:00",
-      "note": "PNG images with transparency now keep their transparency when pasted into Firefox.",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
