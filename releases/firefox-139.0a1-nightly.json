@@ -55,6 +55,30 @@
       "tag": "HTML5"
     },
     {
+      "bug": 1949917,
+      "created": "2025-03-12T02:49:08.183830+00:00",
+      "id": 790718,
+      "is_public": true,
+      "modified": "2025-04-07T20:53:51.601845+00:00",
+      "note": "Starting with Firefox 138, H265 decoding for WebCodecs is now enabled for Nightly Linux builds.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 1944991,
+      "created": "2025-03-12T02:54:22.030704+00:00",
+      "id": 790719,
+      "is_public": true,
+      "modified": "2025-04-07T20:53:55.947815+00:00",
+      "note": "Starting with Firefox 137, H265 decoding for WebCodecs is now enabled for Nightly MacOS builds.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
       "bug": 1954979,
       "created": "2025-04-07T20:35:54.235951+00:00",
       "id": 790770,
@@ -91,28 +115,28 @@
       "tag": "HTML5"
     },
     {
-      "bug": 1949917,
-      "created": "2025-03-12T02:49:08.183830+00:00",
-      "id": 790718,
+      "bug": 1761043,
+      "created": "2025-04-07T20:53:33.283840+00:00",
+      "id": 790773,
       "is_public": true,
-      "modified": "2025-03-29T17:43:40.498531+00:00",
-      "note": "Starting with Firefox 138, H265 decoding for WebCodecs is now enabled for Nightly Linux builds.",
+      "modified": "2025-04-07T20:53:33.283676+00:00",
+      "note": "Starting with Firefox 139, Nightly builds now support the `hidden=until-found` attribute, allowing content to be found via find-in-page when it's otherwise hidden by default.",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
-      "tag": "Developer"
+      "tag": "HTML5"
     },
     {
-      "bug": 1944991,
-      "created": "2025-03-12T02:54:22.030704+00:00",
-      "id": 790719,
+      "bug": 1724299,
+      "created": "2025-04-07T20:57:56.674829+00:00",
+      "id": 790774,
       "is_public": true,
-      "modified": "2025-03-29T17:43:40.498531+00:00",
-      "note": "Starting with Firefox 137, H265 decoding for WebCodecs is now enabled for Nightly MacOS builds.",
+      "modified": "2025-04-07T20:57:56.674670+00:00",
+      "note": "Closed `<details>` elements are now searchable and can be automatically expanded if found via find-in-page.",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
-      "tag": "Developer"
+      "tag": "HTML5"
     }
   ],
   "product": "Firefox",

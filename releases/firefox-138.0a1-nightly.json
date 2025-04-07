@@ -187,6 +187,30 @@
       "tag": "HTML5"
     },
     {
+      "bug": 1949917,
+      "created": "2025-03-12T02:49:08.183830+00:00",
+      "id": 790718,
+      "is_public": true,
+      "modified": "2025-04-07T20:53:51.601845+00:00",
+      "note": "Starting with Firefox 138, H265 decoding for WebCodecs is now enabled for Nightly Linux builds.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 1944991,
+      "created": "2025-03-12T02:54:22.030704+00:00",
+      "id": 790719,
+      "is_public": true,
+      "modified": "2025-04-07T20:53:55.947815+00:00",
+      "note": "Starting with Firefox 137, H265 decoding for WebCodecs is now enabled for Nightly MacOS builds.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
       "bug": 1930500,
       "created": "2025-03-26T19:26:24.312526+00:00",
       "id": 790739,
@@ -205,30 +229,6 @@
       "is_public": true,
       "modified": "2025-03-29T17:44:33.559567+00:00",
       "note": "Added support for the `error.captureStackTrace` extension to avoid incompatibility with other browsers. ([Learn more][1])\r\n\r\n\r\n  [1]: http://github.com/tc39/proposal-error-capturestacktrace",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "Developer"
-    },
-    {
-      "bug": 1949917,
-      "created": "2025-03-12T02:49:08.183830+00:00",
-      "id": 790718,
-      "is_public": true,
-      "modified": "2025-03-29T17:43:40.498531+00:00",
-      "note": "Starting with Firefox 138, H265 decoding for WebCodecs is now enabled for Nightly Linux builds.",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "Developer"
-    },
-    {
-      "bug": 1944991,
-      "created": "2025-03-12T02:54:22.030704+00:00",
-      "id": 790719,
-      "is_public": true,
-      "modified": "2025-03-29T17:43:40.498531+00:00",
-      "note": "Starting with Firefox 137, H265 decoding for WebCodecs is now enabled for Nightly MacOS builds.",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
