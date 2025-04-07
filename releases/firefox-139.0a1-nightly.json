@@ -4,7 +4,7 @@
   "channel": "Nightly",
   "created": "2025-03-29T17:43:40.446593+00:00",
   "is_public": true,
-  "modified": "2025-03-31T17:41:30.844391+00:00",
+  "modified": "2025-04-07T20:49:28.996744+00:00",
   "notes": [
     {
       "bug": 1931006,
@@ -79,6 +79,18 @@
       "tag": "HTML5"
     },
     {
+      "bug": 1954685,
+      "created": "2025-04-07T20:43:40.970222+00:00",
+      "id": 790772,
+      "is_public": true,
+      "modified": "2025-04-07T20:43:40.970038+00:00",
+      "note": "Starting with Firefox 139, Nightly builds no longer dispatch the non-standard `afterscriptexecute` and `beforescriptexecute` events.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
       "bug": 1949917,
       "created": "2025-03-12T02:49:08.183830+00:00",
       "id": 790718,
@@ -97,18 +109,6 @@
       "is_public": true,
       "modified": "2025-03-29T17:43:40.498531+00:00",
       "note": "Starting with Firefox 137, H265 decoding for WebCodecs is now enabled for Nightly MacOS builds.",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "Developer"
-    },
-    {
-      "bug": 85686,
-      "created": "2025-03-20T19:53:52.987682+00:00",
-      "id": 790733,
-      "is_public": true,
-      "modified": "2025-03-29T17:43:40.498531+00:00",
-      "note": "Starting with Firefox 138, `window.getSelection().toString()` now correctly returns the text serialization when text is selected in a text control on Nightly builds.",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
