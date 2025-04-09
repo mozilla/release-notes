@@ -137,6 +137,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "HTML5"
+    },
+    {
+      "bug": 1940790,
+      "created": "2025-04-03T12:40:50.958047+00:00",
+      "id": 790763,
+      "is_public": true,
+      "modified": "2025-04-09T04:22:06.609254+00:00",
+      "note": "PNG images with transparency now keep their transparency when pasted into Firefox.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
