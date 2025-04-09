@@ -161,6 +161,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "Developer"
+    },
+    {
+      "bug": 1945540,
+      "created": "2025-04-09T18:55:19.890733+00:00",
+      "id": 790777,
+      "is_public": true,
+      "modified": "2025-04-09T18:55:19.890575+00:00",
+      "note": "Added support for the [import map integrity][1] field. You can now ensure the integrity of dynamically or statically imported modules.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/script/type/importmap#integrity_metadata_map",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Developer"
     }
   ],
   "product": "Firefox",
