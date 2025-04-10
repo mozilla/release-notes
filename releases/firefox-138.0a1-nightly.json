@@ -223,6 +223,18 @@
       "tag": "HTML5"
     },
     {
+      "bug": 1320796,
+      "created": "2025-04-10T01:07:45.244829+00:00",
+      "id": 790781,
+      "is_public": true,
+      "modified": "2025-04-10T01:07:45.244628+00:00",
+      "note": "Starting with Firefox 138, Service Workers are now available in Private Browsing Mode in Nightly builds. This enhancement builds on our efforts to support IndexedDB and the DOM Cache API in Private Browsing through encrypted storage. With this change, more websites, especially those that rely on background tasks, will be able to benefit from Service workers.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
       "bug": 1950508,
       "created": "2025-03-05T15:53:53.796665+00:00",
       "id": 790710,
