@@ -271,6 +271,18 @@
       "tag": "Developer"
     },
     {
+      "bug": 1932626,
+      "created": "2025-04-11T14:49:49.103431+00:00",
+      "id": 790782,
+      "is_public": true,
+      "modified": "2025-04-11T14:49:49.103199+00:00",
+      "note": "A new column was added to the Network panel showing the full path of the request URL. This enhancement makes it easier for developers to quickly view and analyze the complete request paths.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
       "bug": null,
       "created": "2025-03-27T13:30:01.763821+00:00",
       "id": 790745,
