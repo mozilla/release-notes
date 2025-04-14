@@ -19,12 +19,48 @@
       "tag": ""
     },
     {
+      "bug": 1959827,
+      "created": "2025-04-14T12:17:34.427532+00:00",
+      "id": 790786,
+      "is_public": true,
+      "modified": "2025-04-14T12:22:07.691773+00:00",
+      "note": "Addresses issues with shipping general availability of Microsoft's PlayReady hardware decryption DRM support which was released in Firefox 137. With this change support is now limited to specific web sites, while we continue to test more general availability. ([Bug 1959827][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1959827",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
       "bug": null,
       "created": "2025-04-14T06:32:51.307073+00:00",
       "id": 790785,
       "is_public": true,
       "modified": "2025-04-14T06:32:51.306884+00:00",
       "note": "[Security fix][1].\r\n\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1956266,
+      "created": "2025-04-14T12:21:44.442152+00:00",
+      "id": 790787,
+      "is_public": true,
+      "modified": "2025-04-14T12:21:44.441949+00:00",
+      "note": "Fixed file picker not being displayed when exporting passwords on macOS in about:logins for some users. ([Bug 1956266][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1956266",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1956110,
+      "created": "2025-04-14T12:27:30.538113+00:00",
+      "id": 790788,
+      "is_public": true,
+      "modified": "2025-04-14T12:27:30.537938+00:00",
+      "note": "Fixed accessibility issues with the new PDF signature feature. (Bugs [1956110][1], [1952571][2])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1956110\r\n  [2]: https://bugzilla.mozilla.org/show_bug.cgi?id=1952571",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
