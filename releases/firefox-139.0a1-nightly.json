@@ -187,12 +187,36 @@
       "tag": "HTML5"
     },
     {
+      "bug": 1912511,
+      "created": "2025-04-15T02:46:22.655559+00:00",
+      "id": 790795,
+      "is_public": true,
+      "modified": "2025-04-15T02:46:22.655245+00:00",
+      "note": "The Temporal proposal is now enabled by default in Firefox. Temporal is a better version of Date, for more details, please see https://spidermonkey.dev/blog/2025/04/11/shipping-temporal.html and https://tc39.es/proposal-temporal/docs/.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
       "bug": 1940790,
       "created": "2025-04-03T12:40:50.958047+00:00",
       "id": 790763,
       "is_public": true,
       "modified": "2025-04-09T04:22:06.609254+00:00",
       "note": "PNG images with transparency now keep their transparency when pasted into Firefox.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1959128,
+      "created": "2025-04-15T02:47:27.871363+00:00",
+      "id": 790796,
+      "is_public": true,
+      "modified": "2025-04-15T02:47:27.871173+00:00",
+      "note": "The upload performance of HTTP/3 been significantly improved, particularly on resumed connections (QUIC 0-RTT) and high bandwidth and high delay connections.",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
