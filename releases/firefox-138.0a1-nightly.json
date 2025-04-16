@@ -283,6 +283,18 @@
       "tag": "Developer"
     },
     {
+      "bug": 1951832,
+      "created": "2025-04-16T01:20:23.897443+00:00",
+      "id": 790797,
+      "is_public": true,
+      "modified": "2025-04-16T01:20:23.897196+00:00",
+      "note": "Starting with Firefox 138, The built-in editor for `contenteditable` and `designMode` now handles collapsible white-space before block boundaries and white-space sequences between visible content more consistently with Chrome. As a result, Gecko no longer inserts a padding `<br>` element after white-space before a block boundary, aligning behavior with other major browsers.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
       "bug": null,
       "created": "2025-03-27T13:30:01.763821+00:00",
       "id": 790745,
