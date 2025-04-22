@@ -17,6 +17,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": 1960560,
+      "created": "2025-04-22T16:24:51.802459+00:00",
+      "id": 790803,
+      "is_public": true,
+      "modified": "2025-04-22T16:24:52.734090+00:00",
+      "note": "Due to recent changes in Chrome on Windows, some users might find that the Firefox migration wizard no longer successfully imports passwords from Chrome or Chrome-based browsers. As a workaround, you can export your passwords as a CSV file from Chrome and then import them into Firefox using either the migration wizard or the Firefox password manager.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Known"
     }
   ],
   "product": "Firefox",
