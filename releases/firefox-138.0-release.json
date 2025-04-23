@@ -4,8 +4,20 @@
   "channel": "Release",
   "created": "2025-04-21T21:08:17.350321+00:00",
   "is_public": false,
-  "modified": "2025-04-21T21:11:05.955152+00:00",
+  "modified": "2025-04-23T16:53:40.466714+00:00",
   "notes": [
+    {
+      "bug": null,
+      "created": "2025-04-23T16:50:25.386921+00:00",
+      "id": 790814,
+      "is_public": true,
+      "modified": "2025-04-23T16:50:25.745521+00:00",
+      "note": "Added support for [Import Attributes][1], allowing developers to specify additional metadata when importing modules.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/JavaScript/Reference/Statements/import/with",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 30,
+      "tag": "HTML5"
+    },
     {
       "bug": null,
       "created": "2025-04-23T16:49:16.493944+00:00",
@@ -17,6 +29,42 @@
       "relevant_countries": [],
       "sort_num": 20,
       "tag": "HTML5"
+    },
+    {
+      "bug": null,
+      "created": "2025-04-23T16:52:01.715241+00:00",
+      "id": 790815,
+      "is_public": true,
+      "modified": "2025-04-23T16:52:51.271436+00:00",
+      "note": "Firefox now enables the [cache directive][1] for the `Clear-Site-Data` header, allowing websites to clear the network cache. This gives websites more control over stored data, such as clearing the cache during logout to help mitigate privacy risks. ([Learn more][2])\r\n\r\n\r\n  [1]: https://www.w3.org/TR/clear-site-data/#clear-cache\r\n  [2]: https://developer.mozilla.org/docs/Web/HTTP/Reference/Headers/Clear-Site-Data",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 10,
+      "tag": "HTML5"
+    },
+    {
+      "bug": null,
+      "created": "2025-04-23T16:56:17.503813+00:00",
+      "id": 790817,
+      "is_public": true,
+      "modified": "2025-04-23T16:56:17.503617+00:00",
+      "note": "Added support for the `error.captureStackTrace` extension to improve compatibility with other browsers. ([Learn more][1])\r\n\r\n\r\n  [1]: http://github.com/tc39/proposal-error-capturestacktrace",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 20,
+      "tag": "Developer"
+    },
+    {
+      "bug": null,
+      "created": "2025-04-23T16:53:37.075092+00:00",
+      "id": 790816,
+      "is_public": true,
+      "modified": "2025-04-23T16:53:37.560751+00:00",
+      "note": "You can find information about policy updates and enterprise specific bug fixes in the [Firefox for Enterprise 138 Release Notes][1].\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/firefox-enterprise-138-release-notes",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Enterprise"
     },
     {
       "bug": null,
