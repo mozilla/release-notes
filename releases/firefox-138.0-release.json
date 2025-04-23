@@ -4,14 +4,26 @@
   "channel": "Release",
   "created": "2025-04-21T21:08:17.350321+00:00",
   "is_public": false,
-  "modified": "2025-04-23T17:14:32.721628+00:00",
+  "modified": "2025-04-23T17:29:02.081201+00:00",
   "notes": [
+    {
+      "bug": null,
+      "created": "2025-04-23T17:28:46.059408+00:00",
+      "id": 790826,
+      "is_public": true,
+      "modified": "2025-04-23T17:28:46.431830+00:00",
+      "note": "[Profile management][1] helps protect your privacy and stay focused by separating your online life into distinct profiles \u2014 for work, school, vacation planning, or whatever you choose. You can name your profiles and customize them with avatars and color themes for easy recognition, then quickly switch between them \u2014 all while keeping bookmarks, tabs, and browsing history completely separate.\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/profile-management",
+      "progressive_rollout": true,
+      "relevant_countries": [],
+      "sort_num": 40,
+      "tag": "New"
+    },
     {
       "bug": null,
       "created": "2025-04-23T17:23:04.411067+00:00",
       "id": 790825,
       "is_public": true,
-      "modified": "2025-04-23T17:23:04.787591+00:00",
+      "modified": "2025-04-23T17:28:57.499425+00:00",
       "note": "Users in the United States can now trigger weather suggestions in the address bar! Simply type a weather-related term or a city name, and view the result directly in the address bar dropdown.",
       "progressive_rollout": false,
       "relevant_countries": [
@@ -21,7 +33,7 @@
         }
       ],
       "sort_num": 30,
-      "tag": ""
+      "tag": "New"
     },
     {
       "bug": null,
