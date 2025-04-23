@@ -4,7 +4,7 @@
   "channel": "Release",
   "created": "2025-04-21T21:08:17.350321+00:00",
   "is_public": false,
-  "modified": "2025-04-23T17:29:02.081201+00:00",
+  "modified": "2025-04-23T18:09:02.340100+00:00",
   "notes": [
     {
       "bug": null,
@@ -190,6 +190,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2025-04-23T18:08:49.600049+00:00",
+      "id": 790827,
+      "is_public": true,
+      "modified": "2025-04-23T18:08:50.025526+00:00",
+      "note": "With the release of Firefox 138, we are pleased to welcome the developers who contributed their first code change to Firefox in this release, 18 of whom were brand new volunteers! Please join us in thanking each of these diligent and enthusiastic individuals, and take a look at their contributions:\r\n\r\n* Abdelaziz Mokhnache: <a href=\"https://bugzilla.mozilla.org/1932626\">1932626</a>, <a href=\"https://bugzilla.mozilla.org/1950987\">1950987</a>\r\n* Brian Ouyang: <a href=\"https://bugzilla.mozilla.org/1950467\">1950467</a>\r\n* Chris Shiohama: <a href=\"https://bugzilla.mozilla.org/1953971\">1953971</a>\r\n* cob.bzmoz: <a href=\"https://bugzilla.mozilla.org/1947667\">1947667</a>, <a href=\"https://bugzilla.mozilla.org/1956149\">1956149</a>, <a href=\"https://bugzilla.mozilla.org/1956163\">1956163</a>\r\n* Cruz Hernandez: <a href=\"https://bugzilla.mozilla.org/1947000\">1947000</a>\r\n* erosman [:erosman]: <a href=\"https://bugzilla.mozilla.org/1869171\">1869171</a>, <a href=\"https://bugzilla.mozilla.org/1951166\">1951166</a>\r\n* Gautam Panakkal: <a href=\"https://bugzilla.mozilla.org/1775913\">1775913</a>, <a href=\"https://bugzilla.mozilla.org/1917910\">1917910</a>\r\n* Harold Camacho: <a href=\"https://bugzilla.mozilla.org/1935513\">1935513</a>, <a href=\"https://bugzilla.mozilla.org/1936819\">1936819</a>\r\n* Ihar Hrachyshka: <a href=\"https://bugzilla.mozilla.org/1939555\">1939555</a>\r\n* Jacob Wood: <a href=\"https://bugzilla.mozilla.org/1915523\">1915523</a>\r\n* Janik Haag: <a href=\"https://bugzilla.mozilla.org/1953297\">1953297</a>\r\n* Jishnu Murali Thampan: <a href=\"https://bugzilla.mozilla.org/1828113\">1828113</a>, <a href=\"https://bugzilla.mozilla.org/1947594\">1947594</a>\r\n* joel.mozillaosi: <a href=\"https://bugzilla.mozilla.org/1950008\">1950008</a>\r\n* Joshua O'Brien: <a href=\"https://bugzilla.mozilla.org/1948347\">1948347</a>, <a href=\"https://bugzilla.mozilla.org/1952022\">1952022</a>\r\n* Luke Taylor [:ltaylor]: <a href=\"https://bugzilla.mozilla.org/1953199\">1953199</a>, <a href=\"https://bugzilla.mozilla.org/1953206\">1953206</a>\r\n* Ngo Fong: <a href=\"https://bugzilla.mozilla.org/1953748\">1953748</a>\r\n* Sandi Vujakovi\u0107 [:elsandosgrande]: <a href=\"https://bugzilla.mozilla.org/1951697\">1951697</a>\r\n* Shane Ziegler: <a href=\"https://bugzilla.mozilla.org/1953980\">1953980</a>, <a href=\"https://bugzilla.mozilla.org/1954799\">1954799</a>, <a href=\"https://bugzilla.mozilla.org/1955586\">1955586</a>",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Community"
     },
     {
       "bug": 1960560,
