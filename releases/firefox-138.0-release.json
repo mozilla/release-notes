@@ -4,8 +4,20 @@
   "channel": "Release",
   "created": "2025-04-21T21:08:17.350321+00:00",
   "is_public": false,
-  "modified": "2025-04-23T16:53:40.466714+00:00",
+  "modified": "2025-04-23T17:11:13.991059+00:00",
   "notes": [
+    {
+      "bug": null,
+      "created": "2025-04-23T17:11:06.006575+00:00",
+      "id": 790821,
+      "is_public": true,
+      "modified": "2025-04-23T17:11:06.006412+00:00",
+      "note": "Improved the [address and credit card autofill][1] experience to better handle forms that update dynamically as users input information. Autofill now correctly fills newly revealed fields\u2014such as those shown after selecting a country.\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/credit-card-autofill",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 30,
+      "tag": "Changed"
+    },
     {
       "bug": null,
       "created": "2025-04-23T16:50:25.386921+00:00",
