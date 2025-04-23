@@ -11,8 +11,8 @@
       "created": "2025-04-23T17:28:46.059408+00:00",
       "id": 790826,
       "is_public": true,
-      "modified": "2025-04-23T17:39:17.748051+00:00",
-      "note": "[Profile management][1] helps protect your privacy and stay focused by separating your online life into distinct profiles \u2014 for work, school, vacation planning, or whatever you choose. You can name your profiles and customize them with avatars and color themes for easy recognition, then quickly switch between them \u2014 all while keeping bookmarks, tabs, and browsing history completely separate.\r\n\r\n<img src=\"https://www.mozilla.org/media/img/firefox/releasenotes/note-images/fx138_profileManagement.png\" width=\"800\" alt=\"A Firefox browser window labelled \u201cChoose a Firefox profile\u201d with options to select a green \u201cwork\u201d profile with a briefcase avatar or a lavender \u201cpersonal\u201d profile with a flower avatar, create a new profile, or set a specific profile when Firefox opens.\">\r\n\r\n\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/profile-management",
+      "modified": "2025-04-23T18:27:04.097995+00:00",
+      "note": "[Profile management][1] helps protect your privacy and stay focused by separating your online life into distinct profiles \u2014 for work, school, vacation planning, or whatever you choose. You can now name your profiles and customize them with avatars and color themes for easy recognition, then quickly switch between them \u2014 all while keeping bookmarks, tabs, and browsing history completely separate.\r\n\r\n<img src=\"https://www.mozilla.org/media/img/firefox/releasenotes/note-images/fx138_profileManagement.png\" width=\"800\" alt=\"A Firefox browser window labelled \u201cChoose a Firefox profile\u201d with options to select a green \u201cwork\u201d profile with a briefcase avatar or a lavender \u201cpersonal\u201d profile with a flower avatar, create a new profile, or set a specific profile when Firefox opens.\">\r\n\r\n\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/profile-management",
       "progressive_rollout": true,
       "relevant_countries": [],
       "sort_num": 40,
@@ -165,6 +165,18 @@
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 10,
+      "tag": "Developer"
+    },
+    {
+      "bug": null,
+      "created": "2025-04-23T18:20:19.318801+00:00",
+      "id": 790828,
+      "is_public": true,
+      "modified": "2025-04-23T18:20:19.318624+00:00",
+      "note": "Firefox now applies a uniform user agent (UA) style to `<h1>` elements, regardless of whether they are used inside `<article>`, `<aside>`, `<nav>`, or `<section>`. ([Learn more][1])\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/HTML/Element/Heading_Elements#specifying_a_uniform_font_size_for_h1",
+      "progressive_rollout": true,
+      "relevant_countries": [],
+      "sort_num": 5,
       "tag": "Developer"
     },
     {
