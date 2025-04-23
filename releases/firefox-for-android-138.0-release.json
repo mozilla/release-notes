@@ -4,8 +4,56 @@
   "channel": "Release",
   "created": "2025-04-21T21:08:17.334327+00:00",
   "is_public": false,
-  "modified": "2025-04-21T21:11:45.567261+00:00",
+  "modified": "2025-04-23T16:38:16.086141+00:00",
   "notes": [
+    {
+      "bug": null,
+      "created": "2025-04-23T16:30:07.283267+00:00",
+      "id": 790809,
+      "is_public": true,
+      "modified": "2025-04-23T16:39:00.080880+00:00",
+      "note": "Firefox now allows you to share a downloaded file or its original URL from the Downloads screen. Additionally, downloads are grouped by time period and category based filtering is available.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 40,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2025-04-23T16:36:22.314440+00:00",
+      "id": 790810,
+      "is_public": true,
+      "modified": "2025-04-23T16:39:21.851326+00:00",
+      "note": "Firefox now allows you to sort your bookmarks and pin folders to the top of the bookmarks screen.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 30,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2025-04-23T16:36:33.397752+00:00",
+      "id": 790811,
+      "is_public": true,
+      "modified": "2025-04-23T16:39:51.413622+00:00",
+      "note": "Firefox now supports TLS client authentication certificates. When a TLS server requests authentication from the browser, Firefox can now make use of the client certificates that have been added to your Android device.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 20,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2025-04-23T16:37:58.238788+00:00",
+      "id": 790812,
+      "is_public": true,
+      "modified": "2025-04-23T16:39:38.004733+00:00",
+      "note": "Desktop mode is now enabled by default on tablets, but can still be disabled from the Site Settings.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 10,
+      "tag": "New"
+    },
     {
       "bug": null,
       "created": "2025-04-21T21:11:44.262211+00:00",
