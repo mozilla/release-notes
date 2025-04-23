@@ -4,8 +4,49 @@
   "channel": "Release",
   "created": "2025-04-21T21:08:17.350321+00:00",
   "is_public": false,
-  "modified": "2025-04-23T17:11:13.991059+00:00",
+  "modified": "2025-04-23T17:14:32.721628+00:00",
   "notes": [
+    {
+      "bug": null,
+      "created": "2025-04-23T17:23:04.411067+00:00",
+      "id": 790825,
+      "is_public": true,
+      "modified": "2025-04-23T17:23:04.787591+00:00",
+      "note": "Users in the United States can now trigger weather suggestions in the address bar! Simply type a weather-related term or a city name, and view the result directly in the address bar dropdown.",
+      "progressive_rollout": false,
+      "relevant_countries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ],
+      "sort_num": 30,
+      "tag": ""
+    },
+    {
+      "bug": null,
+      "created": "2025-04-23T17:18:58.991488+00:00",
+      "id": 790824,
+      "is_public": true,
+      "modified": "2025-04-23T17:18:59.371895+00:00",
+      "note": "Firefox on Windows 11 now uses acrylic-style menus for popup windows, which better match the operating system\u2019s aesthetic. Users can customize this behavior via the `widget.windows.mica.popups` preference.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 20,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2025-04-23T17:17:36.658952+00:00",
+      "id": 790823,
+      "is_public": true,
+      "modified": "2025-04-23T17:17:37.126520+00:00",
+      "note": "You can now copy links from background tabs using the tabstrip context menu on MacOS and Linux.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 10,
+      "tag": "New"
+    },
     {
       "bug": null,
       "created": "2025-04-23T17:11:06.006575+00:00",
@@ -16,6 +57,18 @@
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 30,
+      "tag": "Changed"
+    },
+    {
+      "bug": null,
+      "created": "2025-04-23T17:14:28.201806+00:00",
+      "id": 790822,
+      "is_public": true,
+      "modified": "2025-04-23T17:14:28.682480+00:00",
+      "note": "Rededicated previous color settings to Contrast Control settings. ([Learn more][1])\r\n\r\n\r\n  [1]: https://blog.monotonous.org/2025/03/06/New-Contrast-Control-Settings/",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 20,
       "tag": "Changed"
     },
     {
