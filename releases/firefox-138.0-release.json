@@ -44,6 +44,30 @@
     },
     {
       "bug": null,
+      "created": "2025-04-23T16:57:46.952495+00:00",
+      "id": 790818,
+      "is_public": true,
+      "modified": "2025-04-23T16:57:47.360997+00:00",
+      "note": "Added support for the [import map integrity][1] field, allowing you to ensure the integrity of dynamically or statically imported modules.\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/script/type/importmap#integrity_metadata_map",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 40,
+      "tag": "Developer"
+    },
+    {
+      "bug": null,
+      "created": "2025-04-23T16:58:56.492862+00:00",
+      "id": 790819,
+      "is_public": true,
+      "modified": "2025-04-23T17:01:24.410532+00:00",
+      "note": "Implemented support for `Error.isError`, enabling brand checks to determine whether an object is an instance of Error. ([Learn more][1])\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Error/isError",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 30,
+      "tag": "Developer"
+    },
+    {
+      "bug": null,
       "created": "2025-04-23T16:56:17.503813+00:00",
       "id": 790817,
       "is_public": true,
@@ -52,6 +76,18 @@
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 20,
+      "tag": "Developer"
+    },
+    {
+      "bug": null,
+      "created": "2025-04-23T17:01:10.049856+00:00",
+      "id": 790820,
+      "is_public": true,
+      "modified": "2025-04-23T17:01:10.402988+00:00",
+      "note": "A new column has been added to the Network panel to display the full path of the request URL. This enhancement makes helps developers quickly view and analyze complete request paths.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 10,
       "tag": "Developer"
     },
     {
