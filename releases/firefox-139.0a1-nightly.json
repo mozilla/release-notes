@@ -211,6 +211,18 @@
       "tag": "HTML5"
     },
     {
+      "bug": 1960556,
+      "created": "2025-04-24T19:54:56.974049+00:00",
+      "id": 790829,
+      "is_public": true,
+      "modified": "2025-04-24T19:54:57.499643+00:00",
+      "note": "Added support for `requestClose()` to `HTMLDialogElement`.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
       "bug": 1940790,
       "created": "2025-04-03T12:40:50.958047+00:00",
       "id": 790763,
