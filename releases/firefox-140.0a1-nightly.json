@@ -7,12 +7,48 @@
   "modified": "2025-04-25T12:32:52.819872+00:00",
   "notes": [
     {
+      "bug": 1949917,
+      "created": "2025-03-12T02:49:08.183830+00:00",
+      "id": 790718,
+      "is_public": true,
+      "modified": "2025-04-25T13:05:45.229137+00:00",
+      "note": "Starting with Firefox 138, H265 decoding for WebCodecs is now enabled for Nightly Linux builds.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
       "bug": 1944991,
       "created": "2025-03-12T02:54:22.030704+00:00",
       "id": 790719,
       "is_public": true,
       "modified": "2025-04-25T13:03:37.806561+00:00",
       "note": "Starting with Firefox 137, H265 decoding for WebCodecs is now enabled for Nightly MacOS builds.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 1957012,
+      "created": "2025-04-07T20:41:34.220101+00:00",
+      "id": 790771,
+      "is_public": true,
+      "modified": "2025-04-25T13:15:19.689967+00:00",
+      "note": "Starting with Firefox 139, Nightly builds now support `PerformanceEventTiming.interactionId`, allowing developers to group related input events. This enables support for the Interaction to Next Paint (INP) responsiveness metric.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 1954685,
+      "created": "2025-04-07T20:43:40.970222+00:00",
+      "id": 790772,
+      "is_public": true,
+      "modified": "2025-04-25T13:16:14.168738+00:00",
+      "note": "Starting with Firefox 139, Nightly builds no longer dispatch the non-standard `afterscriptexecute` and `beforescriptexecute` events.",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
