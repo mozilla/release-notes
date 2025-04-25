@@ -7,6 +7,18 @@
   "modified": "2025-04-25T12:32:52.819872+00:00",
   "notes": [
     {
+      "bug": 1955779,
+      "created": "2025-04-09T19:12:02.397264+00:00",
+      "id": 790780,
+      "is_public": true,
+      "modified": "2025-04-25T13:20:20.241700+00:00",
+      "note": "Starting with Firefox 139, [Smart Tab Groups][1] is now available in Nightly builds, enhancing the creation of new groups by automating the process of grouping semantically similar tabs and labeling the group.\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/how-use-ai-enhanced-tab-groups",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1949917,
       "created": "2025-03-12T02:49:08.183830+00:00",
       "id": 790718,
