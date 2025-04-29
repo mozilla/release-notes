@@ -4,7 +4,7 @@
   "channel": "Release",
   "created": "2025-04-21T21:08:17.350321+00:00",
   "is_public": true,
-  "modified": "2025-04-29T12:20:14.138742+00:00",
+  "modified": "2025-04-29T14:05:59.934941+00:00",
   "notes": [
     {
       "bug": null,
@@ -57,6 +57,18 @@
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 10,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2025-04-29T14:05:54.247948+00:00",
+      "id": 790832,
+      "is_public": true,
+      "modified": "2025-04-29T14:05:54.853534+00:00",
+      "note": "You can now reposition tab groups on the tab bar by dragging them.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 5,
       "tag": "New"
     },
     {
