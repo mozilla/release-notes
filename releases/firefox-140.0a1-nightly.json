@@ -19,6 +19,18 @@
       "tag": "New"
     },
     {
+      "bug": 1962124,
+      "created": "2025-04-30T13:34:09.115417+00:00",
+      "id": 790834,
+      "is_public": true,
+      "modified": "2025-04-30T13:34:09.595533+00:00",
+      "note": "Add-ons can inject resources into web pages, which may serve as fingerprinting vectors for malicious websites. Starting with Firefox 140, in Nightly builds, we are experimenting with an anti-tracking isolation feature for these resources to enhance user privacy.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1949917,
       "created": "2025-03-12T02:49:08.183830+00:00",
       "id": 790718,
