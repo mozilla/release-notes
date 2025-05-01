@@ -3,8 +3,8 @@
   "bug_search_url": "",
   "channel": "Release",
   "created": "2025-04-30T21:27:34.705292+00:00",
-  "is_public": false,
-  "modified": "2025-04-30T21:28:16.136254+00:00",
+  "is_public": true,
+  "modified": "2025-05-01T13:11:23.798342+00:00",
   "notes": [
     {
       "bug": null,
@@ -35,8 +35,8 @@
       "created": "2025-05-01T01:36:28.031858+00:00",
       "id": 790838,
       "is_public": true,
-      "modified": "2025-05-01T01:37:08.488420+00:00",
-      "note": "Added a workaround for an issue in outlook.office.com/outlook.live.com where attachment filenames are incorrectly prefixed with `UTF-8` when saved. ([Bug 1961710][1])\r\n\r\n\r\n  [1]: http://bugzilla.mozilla.org/show_bug.cgi?id=1961710",
+      "modified": "2025-05-01T13:14:28.878784+00:00",
+      "note": "Added a workaround for a bug in outlook.office.com/outlook.live.com where attachment filenames are incorrectly prefixed with `UTF-8` when saved. ([Bug 1961710][1])\r\n\r\n\r\n  [1]: http://bugzilla.mozilla.org/show_bug.cgi?id=1961710",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 10,
