@@ -23,11 +23,23 @@
       "created": "2025-04-30T21:29:06.037396+00:00",
       "id": 790836,
       "is_public": true,
-      "modified": "2025-04-30T22:51:07.232615+00:00",
+      "modified": "2025-05-01T01:36:41.850177+00:00",
       "note": "Fixed an issue which caused a blank page to be shown for Home and New Tab pages for some users. ([Bug 1963537][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1963537",
       "progressive_rollout": false,
       "relevant_countries": [],
-      "sort_num": 0,
+      "sort_num": 20,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2025-05-01T01:36:28.031858+00:00",
+      "id": 790838,
+      "is_public": true,
+      "modified": "2025-05-01T01:37:08.488420+00:00",
+      "note": "Added a workaround for an issue in outlook.office.com/outlook.live.com where attachment filenames are incorrectly prefixed with `UTF-8` when saved. ([Bug 1961710][1])\r\n\r\n\r\n  [1]: http://bugzilla.mozilla.org/show_bug.cgi?id=1961710",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 10,
       "tag": "Fixed"
     }
   ],
