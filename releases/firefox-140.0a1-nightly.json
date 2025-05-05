@@ -101,6 +101,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "HTML5"
+    },
+    {
+      "bug": 1958875,
+      "created": "2025-05-05T14:11:15.645207+00:00",
+      "id": 790839,
+      "is_public": true,
+      "modified": "2025-05-05T14:11:16.082212+00:00",
+      "note": "Added support for the [CookieStore API][1], an asynchronous cookie API for scripts running in HTML documents and service workers.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/API/CookieStore",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
     }
   ],
   "product": "Firefox",
