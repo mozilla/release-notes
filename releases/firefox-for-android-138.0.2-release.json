@@ -4,7 +4,7 @@
   "channel": "Release",
   "created": "2025-05-05T20:02:52.182082+00:00",
   "is_public": false,
-  "modified": "2025-05-05T20:03:22.233336+00:00",
+  "modified": "2025-05-05T20:19:04.510590+00:00",
   "notes": [
     {
       "bug": null,
@@ -17,6 +17,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": ""
+    },
+    {
+      "bug": null,
+      "created": "2025-05-05T20:18:44.641224+00:00",
+      "id": 790841,
+      "is_public": true,
+      "modified": "2025-05-05T20:26:49.239269+00:00",
+      "note": "Addressed an issue with picture-in-picture not working on YouTube on Android. ([Bug 1956165][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1956165",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 20,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox for Android",
