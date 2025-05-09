@@ -115,6 +115,18 @@
       "tag": "HTML5"
     },
     {
+      "bug": 1658699,
+      "created": "2025-05-09T15:11:46.537784+00:00",
+      "id": 790847,
+      "is_public": true,
+      "modified": "2025-05-09T15:11:47.017954+00:00",
+      "note": "The built-in editor for `contenteditable` and `designMode` now handles collapsible white-space(s) before block boundaries and white-space sequences between visible content more consistently with Chrome. As a result, Gecko no longer inserts a padding `<br>` element after white-space before a block boundary, aligning behavior with other browsers.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
       "bug": 1940790,
       "created": "2025-04-03T12:40:50.958047+00:00",
       "id": 790763,
