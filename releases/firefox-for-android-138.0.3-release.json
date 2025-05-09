@@ -1,0 +1,41 @@
+{
+  "bug_list": "",
+  "bug_search_url": "",
+  "channel": "Release",
+  "created": "2025-05-09T13:40:10.646690+00:00",
+  "is_public": false,
+  "modified": "2025-05-09T13:42:01.821235+00:00",
+  "notes": [
+    {
+      "bug": null,
+      "created": "2025-05-09T13:41:54.208686+00:00",
+      "id": 790844,
+      "is_public": true,
+      "modified": "2025-05-09T13:41:54.734691+00:00",
+      "note": "Reference link to [138.0.2 release notes][1].\r\n\r\n\r\n  [1]: https://www.mozilla.org/firefox/android/138.0/releasenotes/",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": ""
+    },
+    {
+      "bug": null,
+      "created": "2025-05-06T12:57:53.159009+00:00",
+      "id": 790842,
+      "is_public": true,
+      "modified": "2025-05-09T13:40:10.662541+00:00",
+      "note": "Various stability fixes.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 10,
+      "tag": "Fixed"
+    }
+  ],
+  "product": "Firefox for Android",
+  "release_date": "2025-05-13",
+  "slug": "firefox-for-android-138.0.3-release",
+  "system_requirements": "## Operating systems\r\n - Android 5.0 or newer",
+  "text": "",
+  "title": "Firefox for Android 138.0.3 Release",
+  "version": "138.0.3"
+}
