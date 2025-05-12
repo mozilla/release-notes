@@ -4,7 +4,7 @@
   "channel": "Release",
   "created": "2025-05-09T13:38:17.535539+00:00",
   "is_public": false,
-  "modified": "2025-05-09T13:41:11.997579+00:00",
+  "modified": "2025-05-12T17:59:54.346668+00:00",
   "notes": [
     {
       "bug": null,
@@ -17,6 +17,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": ""
+    },
+    {
+      "bug": 1961191,
+      "created": "2025-05-12T17:59:50.372715+00:00",
+      "id": 790848,
+      "is_public": true,
+      "modified": "2025-05-12T17:59:51.114549+00:00",
+      "note": "Fixed a crash that could occur when viewing websites that use WebGL. ([Bug 1961191][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1961191",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
