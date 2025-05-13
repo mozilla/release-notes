@@ -7,18 +7,6 @@
   "modified": "2025-05-13T12:32:05.127845+00:00",
   "notes": [
     {
-      "bug": 1924241,
-      "created": "2025-05-12T23:08:10.746417+00:00",
-      "id": 790851,
-      "is_public": true,
-      "modified": "2025-05-12T23:10:17.618379+00:00",
-      "note": "Fixed an issue where the browser could repeatedly crash when certain SVG effects (like blur or drop shadow) were applied to very small areas. ([Bug 1924241][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1924241",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 11,
-      "tag": ""
-    },
-    {
       "bug": null,
       "created": "2025-05-09T13:41:01.176837+00:00",
       "id": 790843,
@@ -40,6 +28,18 @@
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 20,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1924241,
+      "created": "2025-05-12T23:08:10.746417+00:00",
+      "id": 790851,
+      "is_public": true,
+      "modified": "2025-05-13T13:24:46.041552+00:00",
+      "note": "Fixed an issue where the browser could repeatedly crash when certain SVG effects (like blur or drop shadow) were applied to very small areas. ([Bug 1924241][1])\r\n\r\n\r\n  [1]:  https://bugzilla.mozilla.org/show_bug.cgi?id=1924241",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 11,
       "tag": "Fixed"
     },
     {
