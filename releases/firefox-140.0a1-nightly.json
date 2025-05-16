@@ -43,6 +43,18 @@
       "tag": "New"
     },
     {
+      "bug": 1948195,
+      "created": "2025-05-16T16:40:59.891280+00:00",
+      "id": 790853,
+      "is_public": true,
+      "modified": "2025-05-16T16:40:59.891055+00:00",
+      "note": "[Firefox for Android][1] now allows includes a \"Select All\" in Bookmarks.\r\n\r\n[1]: https://play.google.com/store/apps/details?id=org.mozilla.fenix",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1949917,
       "created": "2025-03-12T02:49:08.183830+00:00",
       "id": 790718,
