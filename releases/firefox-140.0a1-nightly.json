@@ -173,6 +173,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "HTML5"
+    },
+    {
+      "bug": 1550462,
+      "created": "2025-05-17T14:10:21.646230+00:00",
+      "id": 790855,
+      "is_public": true,
+      "modified": "2025-05-17T14:10:22.046026+00:00",
+      "note": "Firefox now supports the [pointerrawupdate][1] event. This event provides lower-latency access to pointer movements by firing as soon as the pointer data is available, typically before the main `pointermove` event. Unlike `pointermove`, it performs an additional hit test to determine the target, and fires more frequently, which may impact performance even if only a listener is added.  This event is intended for applications that require high-precision input handling and cannot achieve smooth interaction using coalesced `pointermove` events alone.\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/API/Element/pointerrawupdate_event",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
     }
   ],
   "product": "Firefox",
