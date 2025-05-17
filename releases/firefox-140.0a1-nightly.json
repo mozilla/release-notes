@@ -185,6 +185,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "HTML5"
+    },
+    {
+      "bug": null,
+      "created": "2025-05-17T21:40:41.666767+00:00",
+      "id": 790861,
+      "is_public": true,
+      "modified": "2025-05-17T21:40:41.666557+00:00",
+      "note": "Fix for [MFSA 2025-19][1] included in 2025-03-26 builds and newer.\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/mfsa2025-19/",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
