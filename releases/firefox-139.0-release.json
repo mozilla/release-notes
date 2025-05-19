@@ -1,41 +1,29 @@
 {
   "bug_list": "",
   "bug_search_url": "",
-  "channel": "ESR",
-  "created": "2025-04-21T21:02:59.545878+00:00",
-  "is_public": true,
-  "modified": "2025-04-29T12:20:25.796230+00:00",
+  "channel": "Release",
+  "created": "2025-05-19T19:56:20.869616+00:00",
+  "is_public": false,
+  "modified": "2025-05-19T19:57:02.766079+00:00",
   "notes": [
     {
       "bug": null,
-      "created": "2025-04-21T21:06:59.618070+00:00",
-      "id": 790800,
+      "created": "2025-05-19T19:57:01.221279+00:00",
+      "id": 790863,
       "is_public": true,
-      "modified": "2025-05-19T19:58:08.725883+00:00",
-      "note": "Various [security fixes][1].\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/mfsa2025-29",
+      "modified": "2025-05-19T19:57:01.221137+00:00",
+      "note": "Various [security fixes][1].\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/mfsa2025-28",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "Fixed"
-    },
-    {
-      "bug": 1960560,
-      "created": "2025-04-22T16:24:51.802459+00:00",
-      "id": 790803,
-      "is_public": true,
-      "modified": "2025-05-19T19:58:34.428792+00:00",
-      "note": "Due to recent changes in Chrome on Windows, some users might find that the Firefox migration wizard no longer successfully imports passwords from Chrome or Chrome-based browsers. As a workaround, you can export your passwords as a CSV file from Chrome and then import them into Firefox using either the migration wizard or the Firefox password manager.",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "Known"
     }
   ],
-  "product": "Firefox Extended Support Release",
-  "release_date": "2025-04-29",
-  "slug": "firefox-128.10.0-esr",
+  "product": "Firefox",
+  "release_date": "2025-05-27",
+  "slug": "firefox-139.0-release",
   "system_requirements": "## Windows\r\n\r\n### Operating Systems (32-bit and 64-bit)\r\n - Windows 10 or later\r\n\r\n### Recommended Hardware\r\n-  1 gigahertz (GHz) or faster compatible processor or System on a Chip (SoC)\r\n-  1GB of RAM / 2GB of RAM for the 64-bit version\r\n-  500MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- macOS 10.15 or later\r\n\r\n### Recommended Hardware\r\n- Macintosh computer with an Intel x86 or Apple silicon processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - glibc 2.17 or higher\r\n    - GTK+ 3.14 or higher\r\n    - libglib 2.42 or higher\r\n    - libstdc++ 4.8.1 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - DBus 1.0 or higher\r\n    - NetworkManager 0.7 or higher\r\n    - PulseAudio",
   "text": "",
-  "title": "Firefox Extended Support Release 128.10.0 ESR",
-  "version": "128.10.0"
+  "title": "Firefox 139.0 Release",
+  "version": "139.0"
 }
