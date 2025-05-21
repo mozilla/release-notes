@@ -43,6 +43,18 @@
       "tag": "New"
     },
     {
+      "bug": 1959535,
+      "created": "2025-04-29T01:42:42.395182+00:00",
+      "id": 790830,
+      "is_public": true,
+      "modified": "2025-05-21T16:05:40.482572+00:00",
+      "note": "Service Workers are now available in Private Browsing Mode. This enhancement builds on our efforts to support IndexedDB and the DOM Cache API in Private Browsing through encrypted storage. With this change, more websites, especially those that rely on background tasks, will be able to benefit from Service workers.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
       "bug": 1467382,
       "created": "2025-04-30T19:16:17.982638+00:00",
       "id": 790835,
