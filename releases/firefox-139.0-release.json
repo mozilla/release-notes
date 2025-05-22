@@ -44,6 +44,18 @@
     },
     {
       "bug": null,
+      "created": "2025-05-22T21:41:46.521260+00:00",
+      "id": 790894,
+      "is_public": true,
+      "modified": "2025-05-22T21:41:46.899974+00:00",
+      "note": "The Review Checker feature is [shutting down][1] and will no longer be available after June 10, 2025.\r\n\r\n\r\n  [1]: https://blog.mozilla.org/mozilla/building-whats-next/",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": ""
+    },
+    {
+      "bug": null,
       "created": "2025-05-22T21:35:27.005452+00:00",
       "id": 790881,
       "is_public": true,
@@ -233,6 +245,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2025-05-22T21:45:13.561015+00:00",
+      "id": 790895,
+      "is_public": true,
+      "modified": "2025-05-22T21:45:13.906440+00:00",
+      "note": "With the release of Firefox 139, we are pleased to welcome the developers who contributed their first code change to Firefox in this release, 14 of whom were brand new volunteers! Please join us in thanking each of these diligent and enthusiastic individuals, and take a look at their contributions:\r\n\r\n* adhaliwal34: <a href=\"https://bugzilla.mozilla.org/1888339\">1888339</a>\r\n* Aidan Harris: <a href=\"https://bugzilla.mozilla.org/1960339\">1960339</a>\r\n* Alexander Kuleshov: <a href=\"https://bugzilla.mozilla.org/1959970\">1959970</a>\r\n* gene smith: <a href=\"https://bugzilla.mozilla.org/1891962\">1891962</a>\r\n* giulianoverrando: <a href=\"https://bugzilla.mozilla.org/1930777\">1930777</a>\r\n* Isaac Briandt: <a href=\"https://bugzilla.mozilla.org/1944944\">1944944</a>\r\n* Jason Jones: <a href=\"https://bugzilla.mozilla.org/1176600\">1176600</a>, <a href=\"https://bugzilla.mozilla.org/1689254\">1689254</a>, <a href=\"https://bugzilla.mozilla.org/1855787\">1855787</a>, <a href=\"https://bugzilla.mozilla.org/1956009\">1956009</a>, <a href=\"https://bugzilla.mozilla.org/1960383\">1960383</a>\r\n* Kanaru Sato [:canalun]: <a href=\"https://bugzilla.mozilla.org/1947061\">1947061</a>, <a href=\"https://bugzilla.mozilla.org/1958528\">1958528</a>, <a href=\"https://bugzilla.mozilla.org/1961558\">1961558</a>\r\n* keanucuco: <a href=\"https://bugzilla.mozilla.org/1855839\">1855839</a>\r\n* lucas.chollet: <a href=\"https://bugzilla.mozilla.org/1862235\">1862235</a>\r\n* Raksha Kumari: <a href=\"https://bugzilla.mozilla.org/1947278\">1947278</a>\r\n* Ricardo Delgado Gomez: <a href=\"https://bugzilla.mozilla.org/1815793\">1815793</a>, <a href=\"https://bugzilla.mozilla.org/1952132\">1952132</a>, <a href=\"https://bugzilla.mozilla.org/1960409\">1960409</a>\r\n* Sangie[:sangie50]: <a href=\"https://bugzilla.mozilla.org/1958324\">1958324</a>\r\n* Yakub Abdulrahman Alada: <a href=\"https://bugzilla.mozilla.org/1917908\">1917908</a>",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Community"
     }
   ],
   "product": "Firefox",
