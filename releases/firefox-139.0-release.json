@@ -8,6 +8,18 @@
   "notes": [
     {
       "bug": null,
+      "created": "2025-05-22T21:21:53.756313+00:00",
+      "id": 790876,
+      "is_public": true,
+      "modified": "2025-05-22T21:22:51.875304+00:00",
+      "note": "By popular request, Full-Page Translations are now available within Firefox [extension pages][1] that start with the `moz-extension://` URL scheme.\r\n<img src=\"https://www.mozilla.org/media/img/firefox/releasenotes/note-images/139_extension_translation.png\" width=\"900\" alt=\"Screenshot of Firefox Relay extension page translated from English to German\">\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Mozilla/Add-ons/WebExtensions/user_interface/Extension_pages",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 30,
+      "tag": "New"
+    },
+    {
+      "bug": null,
       "created": "2025-05-19T19:57:01.221279+00:00",
       "id": 790863,
       "is_public": true,
