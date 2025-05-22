@@ -11,11 +11,35 @@
       "created": "2025-05-22T21:21:53.756313+00:00",
       "id": 790876,
       "is_public": true,
-      "modified": "2025-05-22T21:22:51.875304+00:00",
-      "note": "By popular request, Full-Page Translations are now available within Firefox [extension pages][1] that start with the `moz-extension://` URL scheme.\r\n<img src=\"https://www.mozilla.org/media/img/firefox/releasenotes/note-images/139_extension_translation.png\" width=\"900\" alt=\"Screenshot of Firefox Relay extension page translated from English to German\">\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Mozilla/Add-ons/WebExtensions/user_interface/Extension_pages",
+      "modified": "2025-05-22T21:27:45.430810+00:00",
+      "note": "By popular request, Full-Page Translations are now available within Firefox [extension pages][1] that start with the `moz-extension://` URL scheme.\r\n\r\n<img src=\"https://www.mozilla.org/media/img/firefox/releasenotes/note-images/139_extension_translation.png\" width=\"900\" alt=\"Screenshot of Firefox Relay extension page translated from English to German\">\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Mozilla/Add-ons/WebExtensions/user_interface/Extension_pages",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 30,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2025-05-22T21:27:16.953882+00:00",
+      "id": 790877,
+      "is_public": true,
+      "modified": "2025-05-22T21:28:45.415750+00:00",
+      "note": "The New Tab custom wallpaper (and colors) option is now available! Your own image can be uploaded as your New Tab wallpaper or any custom color can be selected - from the brightest pink to dark gray. This feature will be rolling out gradually to new users and can also be enabled immediately via [Firefox Labs][1]. Additionally, new Wallpaper images and a new Celestial category were also recently added.\r\n\r\n<img src=\"https://www.mozilla.org/media/img/firefox/releasenotes/note-images/139_custom_wallpapers.png\" width=\"360\" alt=\"Screenshot showing the new custom wallpaper upload option\"><img src=\"https://www.mozilla.org/media/img/firefox/releasenotes/note-images/139_custom_colors.png\" width=\"422\" alt=\"Screenshot showing the color chooser\">\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/firefox-labs-explore-experimental-features-firefox",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 20,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2025-05-22T21:31:43.815684+00:00",
+      "id": 790878,
+      "is_public": true,
+      "modified": "2025-05-22T21:31:44.257740+00:00",
+      "note": "[Link Previews][1] is currently available as an experimental feature which can be enabled via [Firefox Labs][2] in the Firefox settings. After enabling, use the Alt+Shift keyboard shortcut when hovering over a link to see the previews in action!\r\n\r\n<img src=\"https://www.mozilla.org/media/img/firefox/releasenotes/note-images/139_link_preview.png\" width=\"310\" alt=\"Screenshot showing a preview pane for a hovered link\">\r\n\r\n  [1]: https://connect.mozilla.org/t5/discussions/try-out-link-previews-in-firefox-labs-138-and-share-your/td-p/92012\r\n  [2]: https://support.mozilla.org/kb/firefox-labs-explore-experimental-features-firefox",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 10,
       "tag": "New"
     },
     {
