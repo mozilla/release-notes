@@ -4,8 +4,56 @@
   "channel": "Release",
   "created": "2025-05-19T19:56:20.930025+00:00",
   "is_public": false,
-  "modified": "2025-05-19T19:57:25.305524+00:00",
+  "modified": "2025-05-22T20:47:21.607358+00:00",
   "notes": [
+    {
+      "bug": null,
+      "created": "2025-05-22T20:46:08.213844+00:00",
+      "id": 790872,
+      "is_public": true,
+      "modified": "2025-05-22T20:46:08.664205+00:00",
+      "note": "Bookmark sorting: Easier and more intuitive organization.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 40,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2025-05-22T20:46:23.603384+00:00",
+      "id": 790873,
+      "is_public": true,
+      "modified": "2025-05-22T20:46:23.962304+00:00",
+      "note": "Downloads upgrade: Improved reliability and user interface.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 30,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2025-05-22T20:46:36.799210+00:00",
+      "id": 790874,
+      "is_public": true,
+      "modified": "2025-05-22T20:46:37.119451+00:00",
+      "note": "News feed enhancements: Adjusted how your news is delivered for a better experience.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 20,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2025-05-22T20:46:49.033585+00:00",
+      "id": 790875,
+      "is_public": true,
+      "modified": "2025-05-22T20:46:49.373235+00:00",
+      "note": "Under-the-hood updates: Started integrating JetPack Compose to streamline future interface improvements.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 10,
+      "tag": "New"
+    },
     {
       "bug": null,
       "created": "2025-05-19T19:57:01.221279+00:00",
@@ -23,7 +71,7 @@
   "release_date": "2025-05-27",
   "slug": "firefox-for-android-139.0-release",
   "system_requirements": "## Operating systems\r\n - Android 5.0 or newer",
-  "text": "",
+  "text": "Thanks for using Firefox! Here's what we've improved in this version.",
   "title": "Firefox for Android 139.0 Release",
   "version": "139.0"
 }

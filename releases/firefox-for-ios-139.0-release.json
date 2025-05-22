@@ -4,13 +4,50 @@
   "channel": "Release",
   "created": "2025-05-19T19:56:20.958627+00:00",
   "is_public": false,
-  "modified": "2025-05-19T19:57:45.808306+00:00",
-  "notes": [],
+  "modified": "2025-05-22T20:47:15.396033+00:00",
+  "notes": [
+    {
+      "bug": null,
+      "created": "2025-05-22T20:44:54.198864+00:00",
+      "id": 790869,
+      "is_public": true,
+      "modified": "2025-05-22T20:44:54.198693+00:00",
+      "note": "Tab Tray fixes: Smoother tab management and resolved related issues.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 30,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2025-05-22T20:45:12.210621+00:00",
+      "id": 790870,
+      "is_public": true,
+      "modified": "2025-05-22T20:45:12.673299+00:00",
+      "note": "UI enhancements: Minor visual bugs fixed and layout improvements made.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 20,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2025-05-22T20:45:27.507074+00:00",
+      "id": 790871,
+      "is_public": true,
+      "modified": "2025-05-22T20:45:27.846089+00:00",
+      "note": "PDF upgrades: Faster loading times for large PDF files.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 10,
+      "tag": "New"
+    }
+  ],
   "product": "Firefox for iOS",
   "release_date": "2025-05-27",
   "slug": "firefox-for-ios-139.0-release",
   "system_requirements": "## Operating systems\r\n - iOS 15\r\n - iOS 16\r\n - iOS 17\r\n - iOS 18",
-  "text": "",
+  "text": "Thanks for using Firefox! Here's what we've improved in this version.",
   "title": "Firefox for iOS 139.0 Release",
   "version": "139.0"
 }
