@@ -43,6 +43,18 @@
       "tag": "New"
     },
     {
+      "bug": 1967739,
+      "created": "2025-05-23T13:11:07.869098+00:00",
+      "id": 790897,
+      "is_public": true,
+      "modified": "2025-05-23T13:11:08.278846+00:00",
+      "note": "Firefox now supports adding custom search engines. To do so, right-click a search field of a supported website and select **Add Search Engine**, or go to **Settings > Search > Add** (below the search shortcuts table) to manually enter a search URL.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1959535,
       "created": "2025-04-29T01:42:42.395182+00:00",
       "id": 790830,
@@ -109,6 +121,18 @@
       "is_public": true,
       "modified": "2025-05-22T09:52:09.780702+00:00",
       "note": "Firefox now supports the [pointerrawupdate][1] event. This event provides lower-latency access to pointer movements by firing as soon as the pointer data is available, typically before the main `pointermove` event. Unlike `pointermove`, it performs an additional hit test to determine the target, and fires more frequently, which may impact performance even if only a listener is added.  This event is intended for applications that require high-precision input handling and cannot achieve smooth interaction using coalesced `pointermove` events alone.\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/API/Element/pointerrawupdate_event",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 1962084,
+      "created": "2025-05-23T13:07:14.632014+00:00",
+      "id": 790896,
+      "is_public": true,
+      "modified": "2025-05-23T13:07:15.043557+00:00",
+      "note": "Firefox will now escape less-than (<) and greater-than (>) symbols when serializing HTML attributes, making certain mXSS attacks on websites more difficult.",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
