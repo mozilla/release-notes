@@ -79,6 +79,18 @@
       "tag": "New"
     },
     {
+      "bug": 1964857,
+      "created": "2025-05-27T19:52:43.624966+00:00",
+      "id": 790898,
+      "is_public": true,
+      "modified": "2025-05-27T19:52:56.396133+00:00",
+      "note": "The Firefox Extensions button can now be removed from the toolbar, giving you more control over how you customize your browser. When the button is hidden, you can access the extensions panel again at any time from the Firefox menu by clicking the Extensions menu item.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1949917,
       "created": "2025-03-12T02:49:08.183830+00:00",
       "id": 790718,
