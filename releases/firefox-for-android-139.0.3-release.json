@@ -3,20 +3,32 @@
   "bug_search_url": "",
   "channel": "Release",
   "created": "2025-06-04T12:29:58.895647+00:00",
-  "is_public": false,
-  "modified": "2025-06-04T12:30:15.466610+00:00",
+  "is_public": true,
+  "modified": "2025-06-04T12:33:51.894624+00:00",
   "notes": [
     {
       "bug": null,
       "created": "2025-06-04T12:30:18.016942+00:00",
       "id": 790906,
       "is_public": true,
-      "modified": "2025-06-04T12:30:18.016735+00:00",
-      "note": "Reference link to [139.0 release notes][1].\r\n\r\n\r\n  [1]: https://www.mozilla.org/firefox/android/139.0/releasenotes/",
+      "modified": "2025-06-04T12:30:33.294427+00:00",
+      "note": "Reference link to [139.0.2 release notes][1].\r\n\r\n\r\n  [1]: https://www.mozilla.org/firefox/android/139.0.2/releasenotes/",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
       "tag": ""
+    },
+    {
+      "bug": null,
+      "created": "2025-06-04T12:32:18.837639+00:00",
+      "id": 790907,
+      "is_public": true,
+      "modified": "2025-06-04T12:32:19.363412+00:00",
+      "note": "Mitigated a [recently-disclosed privacy leak][1]. The leak was caused by other apps installed on the phone that created and listened on ports accessed by the browser.\r\n\r\n\r\n  [1]: https://localmess.github.io/",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox for Android",
