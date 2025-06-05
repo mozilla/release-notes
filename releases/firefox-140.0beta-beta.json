@@ -67,6 +67,18 @@
       "tag": "New"
     },
     {
+      "bug": 1967733,
+      "created": "2025-06-05T17:38:47.273114+00:00",
+      "id": 790908,
+      "is_public": true,
+      "modified": "2025-06-05T17:38:47.272911+00:00",
+      "note": "Firefox builds in Arabic now come with a built-in Arabic dictionary for the [Firefox spellchecker][1].\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/how-do-i-use-firefox-spell-checker",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1968055,
       "created": "2025-05-27T19:58:06.957496+00:00",
       "id": 790899,
