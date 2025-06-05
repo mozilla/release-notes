@@ -79,6 +79,30 @@
       "tag": "New"
     },
     {
+      "bug": 1963620,
+      "created": "2025-06-05T17:50:55.307311+00:00",
+      "id": 790909,
+      "is_public": true,
+      "modified": "2025-06-05T17:50:55.836113+00:00",
+      "note": "You can now lock your private browsing tabs behind your fingerprint or device credentials for added privacy. Enable the setting in [Firefox for Android][1] to keep your private tabs secure even when you leave the app.\r\n\r\n\r\n  [1]: http://%20https://play.google.com/store/apps/details?id=org.mozilla.firefox_beta",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1820252,
+      "created": "2025-06-05T17:56:44.529106+00:00",
+      "id": 790910,
+      "is_public": true,
+      "modified": "2025-06-05T17:56:44.994269+00:00",
+      "note": "[Full-Page Translations][1] now prioritize translating only the content near your current view, improving speed and responsiveness. Content outside your view is skipped unless you scroll to it, reducing unnecessary resource usage.\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/website-translation#w_translate-the-full-page",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1968055,
       "created": "2025-05-27T19:58:06.957496+00:00",
       "id": 790899,
