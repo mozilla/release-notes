@@ -43,6 +43,42 @@
       "tag": "Fixed"
     },
     {
+      "bug": 1969100,
+      "created": "2025-06-09T17:51:13.103935+00:00",
+      "id": 790917,
+      "is_public": true,
+      "modified": "2025-06-09T17:51:13.580495+00:00",
+      "note": "Fixed various selection issues when triple-clicking text in some situations. ([Bug 1969100][1] & [Bug 1969432][2])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1969100\r\n  [2]: https://bugzilla.mozilla.org/show_bug.cgi?id=1969432",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 30,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1969793,
+      "created": "2025-06-09T17:54:17.671696+00:00",
+      "id": 790918,
+      "is_public": true,
+      "modified": "2025-06-09T17:54:17.671487+00:00",
+      "note": "Fixed an incorrect filename being used when setting an image as the desktop wallpaper on Windows. ([Bug 1969793][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1969793",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 20,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1968391,
+      "created": "2025-06-09T17:57:16.167213+00:00",
+      "id": 790919,
+      "is_public": true,
+      "modified": "2025-06-09T17:57:16.614932+00:00",
+      "note": "Fixed notifications appearing in the wrong corner of the screen under some circumstances. ([Bug 1968391][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1968391",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 10,
+      "tag": "Fixed"
+    },
+    {
       "bug": null,
       "created": "2025-06-09T17:27:14.969881+00:00",
       "id": 790914,
