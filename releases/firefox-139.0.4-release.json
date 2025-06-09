@@ -19,6 +19,18 @@
       "tag": ""
     },
     {
+      "bug": 1969253,
+      "created": "2025-06-09T17:41:11.121612+00:00",
+      "id": 790915,
+      "is_public": true,
+      "modified": "2025-06-09T17:41:11.655803+00:00",
+      "note": "Fixed Firefox freezing when switching between apps or opening certain panels within the browser. ([Bug 1969253][1] & [Bug 1969346][2])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1969253\r\n  [2]: https://bugzilla.mozilla.org/show_bug.cgi?id=1969346",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 40,
+      "tag": "Fixed"
+    },
+    {
       "bug": null,
       "created": "2025-06-09T17:27:14.969881+00:00",
       "id": 790914,
