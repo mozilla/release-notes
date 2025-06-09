@@ -2,17 +2,17 @@
   "bug_list": "",
   "bug_search_url": "",
   "channel": "Release",
-  "created": "2025-06-04T12:29:58.895647+00:00",
-  "is_public": true,
-  "modified": "2025-06-04T12:33:51.894624+00:00",
+  "created": "2025-06-09T17:18:06.969196+00:00",
+  "is_public": false,
+  "modified": "2025-06-09T17:19:29.009205+00:00",
   "notes": [
     {
       "bug": null,
-      "created": "2025-06-04T12:30:18.016942+00:00",
-      "id": 790906,
+      "created": "2025-06-09T17:19:05.995883+00:00",
+      "id": 790912,
       "is_public": true,
-      "modified": "2025-06-09T17:19:06.124758+00:00",
-      "note": "Reference link to [139.0.2 release notes][1].\r\n\r\n\r\n  [1]: https://www.mozilla.org/firefox/android/139.0.2/releasenotes/",
+      "modified": "2025-06-09T17:19:26.234979+00:00",
+      "note": "Reference link to [139.0.3 release notes][1].\r\n\r\n  [1]: https://www.mozilla.org/firefox/android/139.0.3/releasenotes/",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
@@ -20,10 +20,10 @@
     },
     {
       "bug": null,
-      "created": "2025-06-04T12:32:18.837639+00:00",
-      "id": 790907,
+      "created": "2025-06-09T17:24:07.735048+00:00",
+      "id": 790913,
       "is_public": true,
-      "modified": "2025-06-09T17:24:07.893816+00:00",
+      "modified": "2025-06-09T17:24:07.734907+00:00",
       "note": "Mitigated a [recently-disclosed privacy leak][1]. The leak was caused by other apps installed on the phone that created and listened on ports accessed by the browser.\r\n\r\n\r\n  [1]: https://localmess.github.io/",
       "progressive_rollout": false,
       "relevant_countries": [],
@@ -32,10 +32,10 @@
     }
   ],
   "product": "Firefox for Android",
-  "release_date": "2025-06-04",
-  "slug": "firefox-for-android-139.0.3-release",
+  "release_date": "2025-06-10",
+  "slug": "firefox-for-android-139.0.4-release",
   "system_requirements": "## Operating systems\r\n - Android 5.0 or newer",
   "text": "",
-  "title": "Firefox for Android 139.0.3 Release",
-  "version": "139.0.3"
+  "title": "Firefox for Android 139.0.4 Release",
+  "version": "139.0.4"
 }
