@@ -113,6 +113,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "HTML5"
+    },
+    {
+      "bug": 1964078,
+      "created": "2025-06-16T08:25:39.611111+00:00",
+      "id": 790920,
+      "is_public": true,
+      "modified": "2025-06-16T08:25:40.357785+00:00",
+      "note": "Implemented the `closedby` attribute and it's related `closedBy` [property][1] on dialogs indicating the types of user actions that can be used to close the associated `<dialog>` element.[enter link description here][2]\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/HTMLDialogElement/closedBy\r\n  [2]: https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/dialog#closedby",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
     }
   ],
   "product": "Firefox",
