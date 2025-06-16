@@ -31,6 +31,18 @@
       "tag": "New"
     },
     {
+      "bug": 1609882,
+      "created": "2025-06-16T08:38:48.527237+00:00",
+      "id": 790921,
+      "is_public": true,
+      "modified": "2025-06-16T08:39:19.795212+00:00",
+      "note": "[linux] Firefox uses less memory and no longer requires a forced restart after an update has been applied by a package manager",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1949917,
       "created": "2025-03-12T02:49:08.183830+00:00",
       "id": 790718,
