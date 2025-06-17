@@ -5,7 +5,32 @@
   "created": "2025-06-16T21:31:02.335473+00:00",
   "is_public": false,
   "modified": "2025-06-16T21:31:02.335305+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": null,
+      "created": "2025-06-17T18:13:07.874425+00:00",
+      "id": 790926,
+      "is_public": true,
+      "modified": "2025-06-17T18:13:08.235215+00:00",
+      "note": "Various [security][1] fixes.\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2025-06-17T18:05:52.637035+00:00",
+      "id": 790925,
+      "is_public": true,
+      "modified": "2025-06-17T18:05:53.283188+00:00",
+      "note": "With the release of Firefox 140, we are pleased to welcome the developers who contributed their first code change to Firefox in this release, 18 of whom were brand new volunteers! Please join us in thanking each of these diligent and enthusiastic individuals, and take a look at their contributions:\r\n\r\n* Abhishek Nimalan [:animalan]: <a href=\"https://bugzilla.mozilla.org/1895919\">1895919</a>\r\n* jadavila9: <a href=\"https://bugzilla.mozilla.org/1852664\">1852664</a>\r\n* Jilvin Jacob [:jilvin]: <a href=\"https://bugzilla.mozilla.org/1902439\">1902439</a>\r\n* John McCann [:johnm]: <a href=\"https://bugzilla.mozilla.org/1952307\">1952307</a>\r\n* J\u00f6rn Loviscach: <a href=\"https://bugzilla.mozilla.org/1906974\">1906974</a>\r\n* Martin Pitt: <a href=\"https://bugzilla.mozilla.org/1947402\">1947402</a>, <a href=\"https://bugzilla.mozilla.org/1958325\">1958325</a>\r\n* Matthias Riffard: <a href=\"https://bugzilla.mozilla.org/1964530\">1964530</a>\r\n* Nathan Mentze:nmentz: <a href=\"https://bugzilla.mozilla.org/1951703\">1951703</a>, <a href=\"https://bugzilla.mozilla.org/1964217\">1964217</a>, <a href=\"https://bugzilla.mozilla.org/1965859\">1965859</a>\r\n* Patrick: <a href=\"https://bugzilla.mozilla.org/1955777\">1955777</a>\r\n* Peter Collingbourne: <a href=\"https://bugzilla.mozilla.org/1962497\">1962497</a>\r\n* Robert Kirkman: <a href=\"https://bugzilla.mozilla.org/1946405\">1946405</a>\r\n* Rohit Borse: <a href=\"https://bugzilla.mozilla.org/1953285\">1953285</a>\r\n* Sergio: <a href=\"https://bugzilla.mozilla.org/1930778\">1930778</a>\r\n* Tommy: <a href=\"https://bugzilla.mozilla.org/1579248\">1579248</a>, <a href=\"https://bugzilla.mozilla.org/1611813\">1611813</a>\r\n* vinhle000: <a href=\"https://bugzilla.mozilla.org/1950165\">1950165</a>\r\n* Xavier Garnier: <a href=\"https://bugzilla.mozilla.org/1950505\">1950505</a>\r\n* Yuto Yoshino: <a href=\"https://bugzilla.mozilla.org/1911623\">1911623</a>, <a href=\"https://bugzilla.mozilla.org/1951699\">1951699</a>, <a href=\"https://bugzilla.mozilla.org/1951708\">1951708</a>, <a href=\"https://bugzilla.mozilla.org/1960031\">1960031</a>\r\n* zhangyilun.0719: <a href=\"https://bugzilla.mozilla.org/1964665\">1964665</a>",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Community"
+    }
+  ],
   "product": "Firefox",
   "release_date": "2025-06-24",
   "slug": "firefox-140.0-release",

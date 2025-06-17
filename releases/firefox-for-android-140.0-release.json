@@ -5,7 +5,20 @@
   "created": "2025-06-16T21:31:23.665343+00:00",
   "is_public": false,
   "modified": "2025-06-16T21:31:23.665179+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": null,
+      "created": "2025-06-17T18:13:07.874425+00:00",
+      "id": 790926,
+      "is_public": true,
+      "modified": "2025-06-17T18:13:08.235215+00:00",
+      "note": "Various [security][1] fixes.\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
+    }
+  ],
   "product": "Firefox for Android",
   "release_date": "2025-06-24",
   "slug": "firefox-for-android-140.0-release",
