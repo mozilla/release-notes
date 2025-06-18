@@ -8,6 +8,18 @@
   "notes": [
     {
       "bug": null,
+      "created": "2025-06-18T15:50:34.563599+00:00",
+      "id": 790951,
+      "is_public": true,
+      "modified": "2025-06-18T15:52:11.793193+00:00",
+      "note": "###General\r\n\r\n- Reader View now has an enhanced Text and Layout menu with new options for character spacing, word spacing, and text alignment. These changes offer a more accessible reading experience.\r\n- Reader View now has a Theme menu with additional Contrast and Gray options. You can also select custom colors for text, background, and links from the Custom tab.\r\n- Firefox will now offer to temporarily remember when users grant permissions to sites (e.g. geolocation). Temporary permissions will be removed either after one hour or when the tab is closed.\r\n- Firefox now includes safeguards to prevent sites from abusing the history API by generating excessive history entries, which can make navigating with the back and forward buttons difficult by cluttering the history. This intervention ensures that such entries, unless interacted with by the user, are skipped when using the back and forward buttons.\r\n- Firefox now identifies all links in PDFs and turns them into hyperlinks.\r\n- You can now copy links from background tabs using the tabstrip context menu on macOS and Linux.\r\n- Users on macOS and Linux are now given the option to close only the current tab if the Quit keyboard shortcut is used while multiple tabs are open in the window.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 90,
+      "tag": "New"
+    },
+    {
+      "bug": null,
       "created": "2025-06-17T18:13:07.874425+00:00",
       "id": 790926,
       "is_public": true,
