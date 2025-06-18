@@ -5,7 +5,44 @@
   "created": "2025-06-16T21:31:44.810415+00:00",
   "is_public": false,
   "modified": "2025-06-16T21:31:44.810243+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": null,
+      "created": "2025-06-18T15:44:26.198386+00:00",
+      "id": 790946,
+      "is_public": true,
+      "modified": "2025-06-18T15:44:26.600345+00:00",
+      "note": "UI enhancements: Enjoy a cleaner, more refined look with layout improvements and bug fixes.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 90,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2025-06-18T15:45:02.904220+00:00",
+      "id": 790947,
+      "is_public": true,
+      "modified": "2025-06-18T15:45:03.221288+00:00",
+      "note": "Improved Tab Management: Switching tabs feels faster and more reliable, thanks to behind-the-scenes fixes in the Tab Tray.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 80,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2025-06-18T15:45:20.595987+00:00",
+      "id": 790948,
+      "is_public": true,
+      "modified": "2025-06-18T15:45:21.041868+00:00",
+      "note": "Customizable Address Bar: Choose whether the address bar shows at the top or bottom \u2014 whatever you prefer.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 70,
+      "tag": "New"
+    }
+  ],
   "product": "Firefox for iOS",
   "release_date": "2025-06-24",
   "slug": "firefox-for-ios-140.0-release",

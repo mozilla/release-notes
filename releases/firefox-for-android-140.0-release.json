@@ -8,6 +8,30 @@
   "notes": [
     {
       "bug": null,
+      "created": "2025-06-18T15:42:16.484364+00:00",
+      "id": 790944,
+      "is_public": true,
+      "modified": "2025-06-18T15:42:16.969430+00:00",
+      "note": "Easier Bookmark Management: Use the new \"Select All\" to organize or delete multiple bookmarks quickly.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 90,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2025-06-18T15:42:58.544068+00:00",
+      "id": 790945,
+      "is_public": true,
+      "modified": "2025-06-18T15:42:58.876741+00:00",
+      "note": "Enhanced Private Browsing Security: You can now lock your private tabs with your fingerprint or device passcode \u2014 so they stay private, even when you leave the app.",
+      "progressive_rollout": true,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
       "created": "2025-06-17T18:13:07.874425+00:00",
       "id": 790926,
       "is_public": true,
