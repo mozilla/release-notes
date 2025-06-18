@@ -47,8 +47,8 @@
       "created": "2025-06-18T15:55:27.041664+00:00",
       "id": 790954,
       "is_public": true,
-      "modified": "2025-06-18T15:55:27.339587+00:00",
-      "note": "###Translations\r\n- Firefox now allows translating selected text portions to different languages after a full-page translation.\r\n- Full-Page Translations are now available within Firefox extension pages that start with the moz-extension:// URL scheme.\r\n- When suggesting a default translation language, Firefox will now take into consideration languages you have previously used for translations.\r\n- Added support for many new languages in Firefox translation.",
+      "modified": "2025-06-18T16:05:23.244517+00:00",
+      "note": "###Translations\r\n- Firefox now allows translating selected text portions to different languages after a full-page translation.\r\n- Full-Page Translations are now available within Firefox [extension pages][1] that start with the moz-extension:// URL scheme.\r\n- When suggesting a default translation language, Firefox will now take into consideration languages you have previously used for translations.\r\n- Added support for many new languages in Firefox translation.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Mozilla/Add-ons/WebExtensions/user_interface/Extension_pages",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 60,
@@ -89,6 +89,30 @@
       "relevant_countries": [],
       "sort_num": 30,
       "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2025-06-18T16:01:39.744287+00:00",
+      "id": 790958,
+      "is_public": true,
+      "modified": "2025-06-18T16:01:40.260708+00:00",
+      "note": "- Firefox now supports text fragments, which allows users to link directly to a specific portion of text in a web document via a special URL fragment. (Learn more)\r\n- Debugger log-point values are now automatically converted into profiler markers, making it easy to add information to the marker timeline directly from the Debugger.\r\n- The Debugger's directory root is now scoped to the specific domain where it was set, which aligns with typical usage and avoids applying it across unrelated domains. This builds on previous improvements such as a redesigned UI and easier removal of the root setting. Setting a directory root updates the Source List to show only the selected directory and its children. ([Learn more][1])\r\n- The Network Blocking feature in the Network panel now blocks HTTP requests in addition to blocking responses.\r\n- The Network panel displays information about Early Hints, including a dedicated indicator for the 103 HTTP status code in the user interface.\r\n- The Network panel now allows [overriding network request responses][2] with local files.\r\n- The filter setting in the Network panel is now preserved across DevTools Toolbox sessions.\r\n- A new column has been added to the Network panel to display the full path of the request URL. This enhancement makes helps developers quickly view and analyze complete request paths.\r\n- Introduced a new console command `$$$` that allows searching the page, including within shadow roots.\r\n- Improved support for debugging web extensions, such as automatically reloading the web extension's source code in the Debugger when the extension is reloaded. Workers are now available in the Console panel\u2019s context selector and breakpoints function correctly in content scripts.\r\n- In the Inspector Fonts panel, we now display fonts metadata, like the font version, designer, vendor, license, etc.\r\n- Added support for the [import map integrity][3] field, allowing you to ensure the integrity of dynamically or statically imported modules.\r\n- Implemented support for `Error.isError`, enabling brand checks to determine whether an object is an instance of Error. ([Learn more][4])\r\n- Added support for the `error.captureStackTrace` extension to improve compatibility with other browsers. ([Learn more][5])\r\n\r\n\r\n  [1]: https://firefox-source-docs.mozilla.org/devtools-user/debugger/ui_tour/index.html\r\n  [2]: https://fxdx.dev/network-override-in-firefox-devtools/\r\n  [3]: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/script/type/importmap#integrity_metadata_map\r\n  [4]: https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Error/isError\r\n  [5]: http://github.com/tc39/proposal-error-capturestacktrace",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
+      "bug": null,
+      "created": "2025-06-18T16:04:35.422694+00:00",
+      "id": 790959,
+      "is_public": true,
+      "modified": "2025-06-18T16:04:35.422600+00:00",
+      "note": "- The [UserMessaging][1] policy has been updated with a new option to allow disabling [Firefox Labs][2] in preferences.\r\n- The [Preferences][3] policy has been updated to allow setting the preference security.pki.certificate_transparency.mode.\r\n- [HTTPS-First][4] is now on by default. You can manage this behavior using the HttpsOnlyMode and [HttpAllowlist][5] policies. \r\n- An internal change has been made to Firefox that removes `XPCOMUtils.defineLazyGetter`. For most people, this shouldn't matter, but if you encounter problems with AutoConfig or third party software like PolicyPak, this might be the cause. You'll need to reach out to your provider.\r\n- Firefox now supports the [Content Analysis SDK][6] for integrating DLP software. For more information, see this post. \r\n- The [SearchEngines][7] policy is now available on all versions of Firefox (not just the ESR). \r\n\r\n\r\n  [1]: https://mozilla.github.io/policy-templates/#usermessaging\r\n  [2]: https://support.mozilla.org/en-US/kb/firefox-labs-explore-experimental-features-firefox\r\n  [3]: https://mozilla.github.io/policy-templates/#preferences\r\n  [4]: https://support.mozilla.org/en-US/kb/https-first\r\n  [5]: https://mozilla.github.io/policy-templates/#httpallowlist\r\n  [6]: https://github.com/chromium/content_analysis_sdk\r\n  [7]: https://mozilla.github.io/policy-templates/#searchengines",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Enterprise"
     },
     {
       "bug": null,
