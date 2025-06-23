@@ -4,7 +4,7 @@
   "channel": "Nightly",
   "created": "2025-06-19T02:08:36.642532+00:00",
   "is_public": false,
-  "modified": "2025-06-19T02:09:16.115537+00:00",
+  "modified": "2025-06-23T17:43:35.865887+00:00",
   "notes": [
     {
       "bug": 1955779,
@@ -17,54 +17,6 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "New"
-    },
-    {
-      "bug": 1962124,
-      "created": "2025-04-30T13:34:09.115417+00:00",
-      "id": 790834,
-      "is_public": true,
-      "modified": "2025-06-19T02:08:36.673343+00:00",
-      "note": "Add-ons can inject resources into web pages, which may serve as fingerprinting vectors for malicious websites. Starting with Firefox 140, in Nightly builds, we are experimenting with an anti-tracking isolation feature for these resources to enhance user privacy.",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
-      "bug": 1949917,
-      "created": "2025-03-12T02:49:08.183830+00:00",
-      "id": 790718,
-      "is_public": true,
-      "modified": "2025-06-19T02:08:36.673343+00:00",
-      "note": "Starting with Firefox 138, H265 decoding for WebCodecs is now enabled for Nightly Linux builds.",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "HTML5"
-    },
-    {
-      "bug": 1944991,
-      "created": "2025-03-12T02:54:22.030704+00:00",
-      "id": 790719,
-      "is_public": true,
-      "modified": "2025-06-19T02:08:36.673343+00:00",
-      "note": "Starting with Firefox 137, H265 decoding for WebCodecs is now enabled for Nightly MacOS builds.",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "HTML5"
-    },
-    {
-      "bug": 1957012,
-      "created": "2025-04-07T20:41:34.220101+00:00",
-      "id": 790771,
-      "is_public": true,
-      "modified": "2025-06-19T02:08:36.673343+00:00",
-      "note": "Starting with Firefox 139, Nightly builds now support `PerformanceEventTiming.interactionId`, allowing developers to group related input events. This enables support for the Interaction to Next Paint (INP) responsiveness metric.",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "HTML5"
     },
     {
       "bug": 1954685,
