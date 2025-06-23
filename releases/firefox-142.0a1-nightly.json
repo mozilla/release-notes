@@ -19,18 +19,6 @@
       "tag": "New"
     },
     {
-      "bug": 1954685,
-      "created": "2025-04-07T20:43:40.970222+00:00",
-      "id": 790772,
-      "is_public": true,
-      "modified": "2025-06-19T02:08:36.673343+00:00",
-      "note": "Starting with Firefox 139, Nightly builds no longer dispatch the non-standard `afterscriptexecute` and `beforescriptexecute` events.",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "HTML5"
-    },
-    {
       "bug": 1950759,
       "created": "2025-04-29T17:46:15.706884+00:00",
       "id": 790833,
