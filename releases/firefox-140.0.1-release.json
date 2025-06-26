@@ -1,0 +1,53 @@
+{
+  "bug_list": "",
+  "bug_search_url": "",
+  "channel": "Release",
+  "created": "2025-06-26T01:18:09.335740+00:00",
+  "is_public": false,
+  "modified": "2025-06-26T01:18:09.335574+00:00",
+  "notes": [
+    {
+      "bug": null,
+      "created": "2025-06-26T01:18:28.050869+00:00",
+      "id": 790962,
+      "is_public": true,
+      "modified": "2025-06-26T01:18:28.536411+00:00",
+      "note": "Reference link to [140.0 release notes][1].\r\n\r\n\r\n  [1]: https://www.mozilla.org/firefox/140.0/releasenotes/",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": ""
+    },
+    {
+      "bug": 1971487,
+      "created": "2025-06-26T01:21:45.952380+00:00",
+      "id": 790963,
+      "is_public": true,
+      "modified": "2025-06-26T01:21:46.432625+00:00",
+      "note": "Fixed text contrast issues in the sidebar with some dark themes. ([Bug 1971487][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1971487",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1973947,
+      "created": "2025-06-26T01:23:56.687246+00:00",
+      "id": 790964,
+      "is_public": true,
+      "modified": "2025-06-26T01:23:57.210658+00:00",
+      "note": "Fixed a startup crash experienced by some users caused by DLL injection. ([Bug 1973947][1])\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1973947",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
+    }
+  ],
+  "product": "Firefox",
+  "release_date": "2025-06-26",
+  "slug": "firefox-140.0.1-release",
+  "system_requirements": "## Windows\r\n\r\n### Operating Systems (32-bit and 64-bit)\r\n - Windows 10 or later\r\n\r\n### Recommended Hardware\r\n-  1 gigahertz (GHz) or faster compatible processor or System on a Chip (SoC)\r\n-  1GB of RAM / 2GB of RAM for the 64-bit version\r\n-  500MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- macOS 10.15 or later\r\n\r\n### Recommended Hardware\r\n- Macintosh computer with an Intel x86 or Apple silicon processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - glibc 2.17 or higher\r\n    - GTK+ 3.14 or higher\r\n    - libglib 2.42 or higher\r\n    - libstdc++ 4.8.1 or higher\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - DBus 1.0 or higher\r\n    - NetworkManager 0.7 or higher\r\n    - PulseAudio",
+  "text": "",
+  "title": "Firefox 140.0.1 Release",
+  "version": "140.0.1"
+}
