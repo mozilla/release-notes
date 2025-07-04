@@ -29,6 +29,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": 1971094,
+      "created": "2025-07-04T19:02:16.306523+00:00",
+      "id": 790973,
+      "is_public": true,
+      "modified": "2025-07-04T19:02:16.728870+00:00",
+      "note": "Fixed the search results not updating when switching source during a file search in the Developer Tool's debugger. ([Bug 1971094][1])\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1971094",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
