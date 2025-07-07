@@ -20,18 +20,6 @@
     },
     {
       "bug": 1970641,
-      "created": "2025-07-07T15:14:57.769273+00:00",
-      "id": 790977,
-      "is_public": true,
-      "modified": "2025-07-07T15:14:57.769077+00:00",
-      "note": "Starting with Firefox 142, Nightly builds support creating URLs using [Text Fragments][1]. You can generate such a URL by selecting a snippet of text on a page and choosing *Copy Link to Highlight* from the context menu.\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/URI/Reference/Fragment/Text_fragments",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
-      "bug": 1970641,
       "created": "2025-07-07T15:15:28.119918+00:00",
       "id": 790978,
       "is_public": true,

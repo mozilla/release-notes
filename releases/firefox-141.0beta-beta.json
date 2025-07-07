@@ -19,6 +19,18 @@
       "tag": "New"
     },
     {
+      "bug": 1967778,
+      "created": "2025-07-07T17:22:30.769337+00:00",
+      "id": 790979,
+      "is_public": true,
+      "modified": "2025-07-07T17:22:31.510808+00:00",
+      "note": "Firefox builds in Valencian now come with a built-in Catalan (Valencian variant) dictionary for the Firefox spellchecker.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1789579,
       "created": "2025-07-05T08:34:43.087705+00:00",
       "id": 790975,
