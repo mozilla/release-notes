@@ -19,6 +19,18 @@
       "tag": ""
     },
     {
+      "bug": null,
+      "created": "2025-07-08T17:34:36.036828+00:00",
+      "id": 790980,
+      "is_public": true,
+      "modified": "2025-07-08T17:34:36.495729+00:00",
+      "note": "Firefox's [QUIC][1] stack is moving to a Rust based [UDP][2] I/O stack that leverages various modern, operating system specific calls, resulting in improved HTTP/3 upload and download performance.\r\n\r\n  [1]: https://developer.mozilla.org/docs/Glossary/QUIC\r\n  [2]: https://developer.mozilla.org/docs/Glossary/UDP",
+      "progressive_rollout": true,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1971053,
       "created": "2025-07-04T18:54:40.333800+00:00",
       "id": 790972,
