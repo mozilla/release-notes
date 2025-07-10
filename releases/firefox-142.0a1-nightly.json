@@ -4,7 +4,7 @@
   "channel": "Nightly",
   "created": "2025-06-19T02:08:36.642532+00:00",
   "is_public": true,
-  "modified": "2025-07-10T14:07:41.451422+00:00",
+  "modified": "2025-07-10T21:13:29.569607+00:00",
   "notes": [
     {
       "bug": 1955779,
@@ -37,6 +37,18 @@
       "is_public": true,
       "modified": "2025-07-10T14:06:52.243469+00:00",
       "note": "On Windows, clicking a persistent notification when Firefox is closed or restarted, will now properly open Firefox with the relevant webpage, instead of just opening the main page of the website.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1970647,
+      "created": "2025-07-10T21:12:22.629137+00:00",
+      "id": 790984,
+      "is_public": true,
+      "modified": "2025-07-10T21:12:23.101458+00:00",
+      "note": "ETP-Strict mode now supports a flexible exception list to fix broken site features caused by tracker blocking. [Exceptions][1] are split into baseline (core functionality) and convenience (extra features), letting users choose improved site compatibility without compromising key privacy protections.\r\n\r\n\r\n  [1]: https://mozilla.github.io/url-classifier-exceptions-ui/",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
