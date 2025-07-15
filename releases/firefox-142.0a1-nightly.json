@@ -4,7 +4,7 @@
   "channel": "Nightly",
   "created": "2025-06-19T02:08:36.642532+00:00",
   "is_public": true,
-  "modified": "2025-07-10T21:13:29.569607+00:00",
+  "modified": "2025-07-15T12:01:27.932546+00:00",
   "notes": [
     {
       "bug": 1955779,
@@ -121,6 +121,18 @@
       "is_public": true,
       "modified": "2025-07-10T13:30:55.670972+00:00",
       "note": "Improved the scroll speed in the bookmarks dialog to not go beyond the component area.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1670200,
+      "created": "2025-07-15T12:01:18.231569+00:00",
+      "id": 790986,
+      "is_public": true,
+      "modified": "2025-07-15T12:01:18.780012+00:00",
+      "note": "Improved Drag-and-drop support for blob images.",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
