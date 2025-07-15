@@ -4,7 +4,7 @@
   "channel": "Nightly",
   "created": "2025-06-19T02:08:36.642532+00:00",
   "is_public": true,
-  "modified": "2025-07-15T12:01:27.932546+00:00",
+  "modified": "2025-07-15T14:44:59.513496+00:00",
   "notes": [
     {
       "bug": 1955779,
@@ -109,6 +109,18 @@
       "is_public": true,
       "modified": "2025-07-14T13:50:59.122375+00:00",
       "note": "The [Selection.getComposedRanges()][1] API is now available, allowing developers to accurately get selected text ranges across shadow DOM boundaries.\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/Selection/getComposedRanges",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
+      "bug": 1731418,
+      "created": "2025-07-15T14:44:38.724352+00:00",
+      "id": 790987,
+      "is_public": true,
+      "modified": "2025-07-15T14:44:39.230836+00:00",
+      "note": "Added support for the [URLPattern Web API][1], enabling developers to match and parse URLs using a standardized pattern syntax.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/API/URLPattern",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
