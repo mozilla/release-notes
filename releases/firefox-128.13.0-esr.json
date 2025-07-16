@@ -4,8 +4,21 @@
   "channel": "ESR",
   "created": "2025-07-16T11:25:39.886563+00:00",
   "is_public": false,
-  "modified": "2025-07-16T11:26:01.558234+00:00",
-  "notes": [],
+  "modified": "2025-07-16T17:37:24.240124+00:00",
+  "notes": [
+    {
+      "bug": null,
+      "created": "2025-07-16T17:37:23.036422+00:00",
+      "id": 790990,
+      "is_public": true,
+      "modified": "2025-07-16T17:37:23.808182+00:00",
+      "note": "Various [security fixes][1].\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
+    }
+  ],
   "product": "Firefox Extended Support Release",
   "release_date": "2025-07-22",
   "slug": "firefox-128.13.0-esr",
