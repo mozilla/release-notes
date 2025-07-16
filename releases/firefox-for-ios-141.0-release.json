@@ -4,13 +4,50 @@
   "channel": "Release",
   "created": "2025-07-16T11:23:25.170805+00:00",
   "is_public": false,
-  "modified": "2025-07-16T11:24:04.581696+00:00",
-  "notes": [],
+  "modified": "2025-07-16T17:49:37.095909+00:00",
+  "notes": [
+    {
+      "bug": null,
+      "created": "2025-07-16T17:47:52.322768+00:00",
+      "id": 790992,
+      "is_public": true,
+      "modified": "2025-07-16T17:47:53.077241+00:00",
+      "note": "**Refreshed Homepage**: A cleaner, more intuitive layout makes navigating easier.",
+      "progressive_rollout": true,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2025-07-16T17:48:29.578585+00:00",
+      "id": 790993,
+      "is_public": true,
+      "modified": "2025-07-16T17:48:30.163844+00:00",
+      "note": "**Improved Tab Tray & Toolbar**: A simpler layout helps you find what you need faster.",
+      "progressive_rollout": true,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2025-07-16T17:48:54.896770+00:00",
+      "id": 790994,
+      "is_public": true,
+      "modified": "2025-07-16T17:48:55.346438+00:00",
+      "note": "**Performance Boosts**: Speed improvements and behind-the-scenes fixes for a smoother experience.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    }
+  ],
   "product": "Firefox for iOS",
   "release_date": "2025-07-22",
   "slug": "firefox-for-ios-141.0-release",
   "system_requirements": "## Operating systems\r\n - iOS 15\r\n - iOS 16\r\n - iOS 17\r\n - iOS 18",
-  "text": "",
+  "text": "Thanks for using Firefox!  Have feedback or suggestions? We'd love to hear from you at https://mzl.la/iOSSupport",
   "title": "Firefox for iOS 141.0 Release",
   "version": "141.0"
 }
