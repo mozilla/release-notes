@@ -7,6 +7,18 @@
   "modified": "2025-07-01T13:17:53.859970+00:00",
   "notes": [
     {
+      "bug": 1609882,
+      "created": "2025-06-16T08:38:48.527237+00:00",
+      "id": 790921,
+      "is_public": true,
+      "modified": "2025-07-16T20:35:30.463443+00:00",
+      "note": "On Linux Firefox uses less memory and no longer requires a forced restart after an update has been applied by a package manager.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 18,
+      "tag": "New"
+    },
+    {
       "bug": 1955779,
       "created": "2025-04-09T19:12:02.397264+00:00",
       "id": 790780,
@@ -25,18 +37,6 @@
       "is_public": true,
       "modified": "2025-06-23T15:56:23.333483+00:00",
       "note": "Add-ons can inject resources into web pages, which may serve as fingerprinting vectors for malicious websites. Starting with Firefox 140, in Nightly builds, we are experimenting with an anti-tracking isolation feature for these resources to enhance user privacy.",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
-      "bug": 1609882,
-      "created": "2025-06-16T08:38:48.527237+00:00",
-      "id": 790921,
-      "is_public": true,
-      "modified": "2025-07-16T18:41:10.375861+00:00",
-      "note": "On Linux Firefox uses less memory and no longer requires a forced restart after an update has been applied by a package manager.",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
