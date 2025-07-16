@@ -161,6 +161,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2025-07-16T21:21:45.548587+00:00",
+      "id": 791005,
+      "is_public": true,
+      "modified": "2025-07-16T21:21:45.548444+00:00",
+      "note": "With the release of Firefox 141, we are pleased to welcome the developers who contributed their first code change to Firefox in this release, 12 of whom were brand new volunteers! Please join us in thanking each of these diligent and enthusiastic individuals, and take a look at their contributions:\r\n\r\n* ales.astone: <a href=\"https://bugzilla.mozilla.org/1920385\">1920385</a>, <a href=\"https://bugzilla.mozilla.org/1968910\">1968910</a>\r\n* Chris Vander Linden: <a href=\"https://bugzilla.mozilla.org/1888847\">1888847</a>\r\n* Gabriel Astorgano[:astor}: <a href=\"https://bugzilla.mozilla.org/1911190\">1911190</a>\r\n* Jelte Fennema: <a href=\"https://bugzilla.mozilla.org/1945951\">1945951</a>\r\n* Mr. Beedell, Roke Julian Lockhart (RJLB): <a href=\"https://bugzilla.mozilla.org/1969599\">1969599</a>\r\n* Nick Crast: <a href=\"https://bugzilla.mozilla.org/1965895\">1965895</a>\r\n* Sajid Anwar [:sajidanwar]: <a href=\"https://bugzilla.mozilla.org/825197\">825197</a>, <a href=\"https://bugzilla.mozilla.org/1969770\">1969770</a>\r\n* Simon W\u00fclker: <a href=\"https://bugzilla.mozilla.org/1971080\">1971080</a>\r\n* Skye Green [:skyevg]: <a href=\"https://bugzilla.mozilla.org/1965646\">1965646</a>\r\n* viet-hung.nhu: <a href=\"https://bugzilla.mozilla.org/1968288\">1968288</a>\r\n* wilsu: <a href=\"https://bugzilla.mozilla.org/1956211\">1956211</a>\r\n* \u043d\u0430\u0431: <a href=\"https://bugzilla.mozilla.org/1970690\">1970690</a>",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Community"
     }
   ],
   "product": "Firefox",
