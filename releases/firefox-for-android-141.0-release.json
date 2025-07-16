@@ -11,11 +11,11 @@
       "created": "2025-07-16T18:37:01.703092+00:00",
       "id": 790995,
       "is_public": true,
-      "modified": "2025-07-16T18:37:02.460622+00:00",
+      "modified": "2025-07-16T22:10:22.145815+00:00",
       "note": "**Auto-lock Private Tabs**: Step away, and your private tabs lock. Unlock with your face, fingerprint, or PIN.",
-      "progressive_rollout": false,
+      "progressive_rollout": true,
       "relevant_countries": [],
-      "sort_num": 0,
+      "sort_num": 10,
       "tag": "New"
     },
     {
@@ -23,11 +23,23 @@
       "created": "2025-07-16T18:37:22.147227+00:00",
       "id": 790996,
       "is_public": true,
-      "modified": "2025-07-16T18:37:30.491691+00:00",
+      "modified": "2025-07-16T22:10:38.525814+00:00",
       "note": "**New Look Menu**: Cleaner, faster, and easier to use.",
+      "progressive_rollout": true,
+      "relevant_countries": [],
+      "sort_num": 8,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2025-07-16T22:09:59.431156+00:00",
+      "id": 791006,
+      "is_public": true,
+      "modified": "2025-07-16T22:10:57.990748+00:00",
+      "note": "**Improved URL Bar**: The URL bar now highlights the domain, making it easier to identify the website you're visiting.",
       "progressive_rollout": false,
       "relevant_countries": [],
-      "sort_num": 0,
+      "sort_num": 6,
       "tag": "New"
     },
     {
@@ -35,11 +47,11 @@
       "created": "2025-07-16T18:38:09.548739+00:00",
       "id": 790997,
       "is_public": true,
-      "modified": "2025-07-16T18:38:10.268462+00:00",
+      "modified": "2025-07-16T22:11:11.548573+00:00",
       "note": "**PDF Sharing**: Send local PDFs straight from the app.",
       "progressive_rollout": false,
       "relevant_countries": [],
-      "sort_num": 0,
+      "sort_num": 4,
       "tag": "New"
     },
     {
@@ -47,11 +59,11 @@
       "created": "2025-07-16T18:38:43.748495+00:00",
       "id": 790998,
       "is_public": true,
-      "modified": "2025-07-16T18:38:44.303794+00:00",
+      "modified": "2025-07-16T22:11:30.351707+00:00",
       "note": "**More Translation Languages**: New additions like Arabic, Chinese, and Japanese help translate your world.",
       "progressive_rollout": false,
       "relevant_countries": [],
-      "sort_num": 0,
+      "sort_num": 2,
       "tag": "New"
     },
     {
