@@ -7,6 +7,18 @@
   "modified": "2025-07-16T11:22:27.899850+00:00",
   "notes": [
     {
+      "bug": null,
+      "created": "2025-07-16T18:42:52.603005+00:00",
+      "id": 791001,
+      "is_public": true,
+      "modified": "2025-07-16T20:03:24.209174+00:00",
+      "note": "You can now use the Firefox address bar as a unit converter. The unit converter supports converting units of length, temperature, mass, force, and angular measurement, as well as timezones (e.g. \u201cnow in GMT\u201d , \u201c10am EDT to CET\u201d). Selecting the result will copy it to your clipboard.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 10,
+      "tag": "New"
+    },
+    {
       "bug": 1609882,
       "created": "2025-06-16T08:38:48.527237+00:00",
       "id": 790921,
@@ -23,8 +35,8 @@
       "created": "2025-07-16T18:40:33.594080+00:00",
       "id": 790999,
       "is_public": true,
-      "modified": "2025-07-16T18:40:34.322775+00:00",
-      "note": "Vertical tabs users can now adjust the size of the tools areas at the bottom of the sidebar. To see fewer tools and more tabs, drag down the divider line which pushes extra tools into an overflow menu.",
+      "modified": "2025-07-16T20:13:00.505884+00:00",
+      "note": "Vertical tabs users can now adjust the size of the tools areas at the bottom of the sidebar. To see fewer tools and more tabs, drag down the divider line which pushes extra tools into an overflow menu.\r\n\r\n<img src=\"https://www.mozilla.org/media/img/firefox/releasenotes/note-images/141_vertical_icons.png\" width=\"700\" alt=\"screenshot Firefox browser with the sidebar enabled, demonstrating the divider for extra icons\">",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
@@ -37,18 +49,6 @@
       "is_public": true,
       "modified": "2025-07-16T18:42:09.434636+00:00",
       "note": "[Address autofill][1] enabled for users in Brazil, Spain and Japan.\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/automatically-fill-your-address-web-forms",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
-      "bug": null,
-      "created": "2025-07-16T18:42:52.603005+00:00",
-      "id": 791001,
-      "is_public": true,
-      "modified": "2025-07-16T18:42:53.156945+00:00",
-      "note": "You can now use the Firefox address bar as a unit converter. The unit converter supports converting units of length, temperature, mass, force, and angular measurement, as well as timezones (e.g. \u201cnow in GMT\u201d , \u201c10am EDT to CET\u201d). Selecting the result will copy it to your clipboard.",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
