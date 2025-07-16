@@ -7,6 +7,66 @@
   "modified": "2025-07-16T11:22:27.899850+00:00",
   "notes": [
     {
+      "bug": 1609882,
+      "created": "2025-06-16T08:38:48.527237+00:00",
+      "id": 790921,
+      "is_public": true,
+      "modified": "2025-07-16T18:41:10.375861+00:00",
+      "note": "On Linux Firefox uses less memory and no longer requires a forced restart after an update has been applied by a package manager.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2025-07-16T18:40:33.594080+00:00",
+      "id": 790999,
+      "is_public": true,
+      "modified": "2025-07-16T18:40:34.322775+00:00",
+      "note": "Vertical tabs users can now adjust the size of the tools areas at the bottom of the sidebar. To see fewer tools and more tabs, drag down the divider line which pushes extra tools into an overflow menu.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2025-07-16T18:42:08.834263+00:00",
+      "id": 791000,
+      "is_public": true,
+      "modified": "2025-07-16T18:42:09.434636+00:00",
+      "note": "[Address autofill][1] enabled for users in Brazil, Spain and Japan.\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/automatically-fill-your-address-web-forms",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2025-07-16T18:42:52.603005+00:00",
+      "id": 791001,
+      "is_public": true,
+      "modified": "2025-07-16T18:42:53.156945+00:00",
+      "note": "You can now use the Firefox address bar as a unit converter. The unit converter supports converting units of length, temperature, mass, force, and angular measurement, as well as timezones (e.g. \u201cnow in GMT\u201d , \u201c10am EDT to CET\u201d). Selecting the result will copy it to your clipboard.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1789579,
+      "created": "2025-07-05T08:34:43.087705+00:00",
+      "id": 790975,
+      "is_public": true,
+      "modified": "2025-07-16T18:43:29.257642+00:00",
+      "note": "Firefox on Windows 11 now uses system provided font icons for the caption buttons, more in line with Windows 11.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
       "bug": null,
       "created": "2025-07-16T17:46:46.622047+00:00",
       "id": 790991,
