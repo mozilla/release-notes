@@ -67,24 +67,24 @@
       "tag": "New"
     },
     {
-      "bug": 1789579,
-      "created": "2025-07-05T08:34:43.087705+00:00",
-      "id": 790975,
-      "is_public": true,
-      "modified": "2025-07-16T18:43:29.257642+00:00",
-      "note": "Firefox on Windows 11 now uses system provided font icons for the caption buttons, more in line with Windows 11.",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "Changed"
-    },
-    {
       "bug": null,
       "created": "2025-07-16T18:45:46.886159+00:00",
       "id": 791002,
       "is_public": true,
-      "modified": "2025-07-16T18:45:47.311162+00:00",
+      "modified": "2025-07-17T13:52:19.966871+00:00",
       "note": "The following languages are now available for translation:\r\n\r\n- Albanian\r\n- Gujarati\r\n- Hebrew\r\n- Hindi\r\n- Kannada\r\n- Malay\r\n- Malayalam\r\n- Persian\r\n- Telugu",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1789579,
+      "created": "2025-07-05T08:34:43.087705+00:00",
+      "id": 790975,
+      "is_public": true,
+      "modified": "2025-07-17T13:50:39.528700+00:00",
+      "note": "Firefox on Windows 11 now uses system provided font icons for the caption buttons, more in line with Windows 11 conventions.",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
