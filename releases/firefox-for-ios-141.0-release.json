@@ -41,6 +41,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2025-07-18T20:19:09.980065+00:00",
+      "id": 791009,
+      "is_public": true,
+      "modified": "2025-07-18T20:19:10.807763+00:00",
+      "note": "Various [security fixes][1].\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/mfsa2025-60/",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox for iOS",
