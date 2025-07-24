@@ -163,11 +163,11 @@
       "tag": "Developer"
     },
     {
-      "bug": null,
+      "bug": 1602351,
       "created": "2025-07-24T11:41:16.991672+00:00",
       "id": 791010,
       "is_public": true,
-      "modified": "2025-07-24T11:41:18.064823+00:00",
+      "modified": "2025-07-24T11:42:39.220606+00:00",
       "note": "When [creating a logpoint][1] in the Debugger, there's now a checkbox allowing to output the stacktrace in addition to the log message in the Console.\r\n\r\n\r\n  [1]: https://firefox-source-docs.mozilla.org/devtools-user/debugger/set_a_logpoint/",
       "progressive_rollout": false,
       "relevant_countries": [],
