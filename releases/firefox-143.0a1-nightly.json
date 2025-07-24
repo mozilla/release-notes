@@ -41,6 +41,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "HTML5"
+    },
+    {
+      "bug": 1615206,
+      "created": "2025-07-24T16:21:39.589668+00:00",
+      "id": 791011,
+      "is_public": true,
+      "modified": "2025-07-24T16:21:40.108607+00:00",
+      "note": "Unchecking the `Group Similar Messages` setting now prevents successive similar messages from being grouped so that all messages are displayed in the output.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Developer"
     }
   ],
   "product": "Firefox",
