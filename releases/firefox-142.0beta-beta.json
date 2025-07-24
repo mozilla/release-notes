@@ -4,7 +4,7 @@
   "channel": "Beta",
   "created": "2025-07-16T11:14:11.668847+00:00",
   "is_public": true,
-  "modified": "2025-07-22T12:46:24.525661+00:00",
+  "modified": "2025-07-24T16:36:26.763827+00:00",
   "notes": [
     {
       "bug": 1976474,
@@ -61,6 +61,18 @@
       "is_public": true,
       "modified": "2025-07-18T16:13:52.541875+00:00",
       "note": "Added support for the [URLPattern Web API][1], enabling developers to match and parse URLs using a standardized pattern syntax.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/API/URLPattern",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
+      "bug": 1976704,
+      "created": "2025-07-24T16:36:21.996534+00:00",
+      "id": 791012,
+      "is_public": true,
+      "modified": "2025-07-24T16:36:22.528594+00:00",
+      "note": "Firefox now supports the wllama API for extensions, enabling developers to integrate local language model (LLM) capabilities directly into their add-ons.",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
