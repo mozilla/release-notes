@@ -55,6 +55,18 @@
       "tag": "HTML5"
     },
     {
+      "bug": 1711882,
+      "created": "2025-07-29T13:53:43.259274+00:00",
+      "id": 791016,
+      "is_public": true,
+      "modified": "2025-07-29T13:53:43.812368+00:00",
+      "note": "Firefox now supports xHE-AAC audio playback on Windows 11 22H2+, macOS, and Android 9+.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
       "bug": 1615206,
       "created": "2025-07-24T16:21:39.589668+00:00",
       "id": 791011,
