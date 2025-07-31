@@ -31,6 +31,18 @@
       "tag": "New"
     },
     {
+      "bug": 1944719,
+      "created": "2025-07-31T11:51:13.407696+00:00",
+      "id": 791018,
+      "is_public": true,
+      "modified": "2025-07-31T11:51:13.999655+00:00",
+      "note": "You can now remove extensions from the sidebar by right-clicking the extension icon and selecting `Remove from Sidebar`.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1966997,
       "created": "2025-07-08T18:29:18.923442+00:00",
       "id": 790981,
