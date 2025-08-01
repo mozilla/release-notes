@@ -43,6 +43,18 @@
       "tag": "New"
     },
     {
+      "bug": 1979658,
+      "created": "2025-08-01T20:37:37.447681+00:00",
+      "id": 791021,
+      "is_public": true,
+      "modified": "2025-08-01T20:37:37.986093+00:00",
+      "note": "Improved search results from browsing history via the address bar, reducing the likelihood of duplicate results being shown.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
       "bug": 1966997,
       "created": "2025-07-08T18:29:18.923442+00:00",
       "id": 790981,
