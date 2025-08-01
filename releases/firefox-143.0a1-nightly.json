@@ -79,6 +79,30 @@
       "tag": "HTML5"
     },
     {
+      "bug": 1965029,
+      "created": "2025-08-01T16:48:21.225686+00:00",
+      "id": 791019,
+      "is_public": true,
+      "modified": "2025-08-01T16:48:21.727730+00:00",
+      "note": "`<input type=color>` now recognizes the CSS `<color>` format in addition to the color hex format (`#ffffff`). This means that color names like `black` and more complex strings like `rgb(200 200 200)` are now valid inputs. For now the value will always be converted to the hex format.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 1957244,
+      "created": "2025-08-01T16:52:53.085606+00:00",
+      "id": 791020,
+      "is_public": true,
+      "modified": "2025-08-01T16:52:53.430923+00:00",
+      "note": "Firefox now uses an updated grid sizing algorithm to better align with the CSS Grid specification. Grid layouts that use percentage row sizes or grid items containing elements with aspect ratios (such as images) will now render correctly in more cases.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
       "bug": 1615206,
       "created": "2025-07-24T16:21:39.589668+00:00",
       "id": 791011,
