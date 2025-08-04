@@ -43,6 +43,18 @@
       "tag": "New"
     },
     {
+      "bug": 1972350,
+      "created": "2025-08-04T14:55:14.035852+00:00",
+      "id": 791022,
+      "is_public": true,
+      "modified": "2025-08-04T14:55:14.559550+00:00",
+      "note": "Starting with Firefox 143, Firefox Nightly now blocks local network requests by default and only allows them if the user grants access through a permission prompt, strengthening protection against attacks targeting local network services.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": ""
+    },
+    {
       "bug": 1966459,
       "created": "2025-05-22T12:54:43.284672+00:00",
       "id": 790868,
