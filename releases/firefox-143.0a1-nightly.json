@@ -55,6 +55,18 @@
       "tag": ""
     },
     {
+      "bug": 1978414,
+      "created": "2025-08-05T19:10:38.797468+00:00",
+      "id": 791032,
+      "is_public": true,
+      "modified": "2025-08-05T19:10:39.317644+00:00",
+      "note": "Firefox has expanded its Fingerprinting Protection by reporting constant values for several more attributes of user's computers. [More Details][1]\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/firefox-protection-against-fingerprinting#w_suspected-fingerprinters",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1966459,
       "created": "2025-05-22T12:54:43.284672+00:00",
       "id": 790868,
