@@ -2,9 +2,9 @@
   "bug_list": "",
   "bug_search_url": "",
   "channel": "Release",
-  "created": "2025-07-16T11:19:42.846573+00:00",
-  "is_public": true,
-  "modified": "2025-07-22T12:31:58.410201+00:00",
+  "created": "2025-08-05T07:40:00.897482+00:00",
+  "is_public": false,
+  "modified": "2025-08-05T07:40:00.897224+00:00",
   "notes": [
     {
       "bug": null,
@@ -213,9 +213,9 @@
   ],
   "product": "Firefox",
   "release_date": "2025-07-22",
-  "slug": "firefox-141.0-release",
+  "slug": "firefox-copy-141.0-release",
   "system_requirements": "## Windows\r\n\r\n### Operating Systems (32-bit and 64-bit)\r\n - Windows 10 or later\r\n\r\n### Recommended Hardware\r\n-  1 gigahertz (GHz) or faster compatible processor or System on a Chip (SoC)\r\n-  1GB of RAM / 2GB of RAM for the 64-bit version\r\n-  500MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- macOS 10.15 or later\r\n\r\n### Recommended Hardware\r\n- Macintosh computer with an Intel x86 or Apple silicon processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - glibc 2.17 or higher (glibc 2.28 or higher on arm64)\r\n    - GTK+ 3.14 or higher\r\n    - libglib 2.42 or higher\r\n    - libstdc++ 4.8.1 or higher (libstdc++ 6.0 or higher on arm64)\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - DBus 1.0 or higher\r\n    - NetworkManager 0.7 or higher\r\n    - PulseAudio",
   "text": "",
-  "title": "Firefox 141.0 Release",
-  "version": "141.0"
+  "title": "Firefox copy-141.0 Release",
+  "version": "copy-141.0"
 }

@@ -1,0 +1,41 @@
+{
+  "bug_list": "",
+  "bug_search_url": "",
+  "channel": "Release",
+  "created": "2025-08-05T07:35:43.950177+00:00",
+  "is_public": false,
+  "modified": "2025-08-05T07:36:38.792204+00:00",
+  "notes": [
+    {
+      "bug": null,
+      "created": "2025-08-05T07:37:28.734814+00:00",
+      "id": 791024,
+      "is_public": true,
+      "modified": "2025-08-05T07:37:29.232184+00:00",
+      "note": "Reference link to [141.0.1 release notes][1].\r\n\r\n\r\n  [1]: https://www.mozilla.org/firefox/android/141.0.1/releasenotes/",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": ""
+    },
+    {
+      "bug": null,
+      "created": "2025-08-05T07:36:59.545891+00:00",
+      "id": 791023,
+      "is_public": true,
+      "modified": "2025-08-05T07:37:00.376642+00:00",
+      "note": "Bug fixes.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
+    }
+  ],
+  "product": "Firefox for Android",
+  "release_date": "2025-07-29",
+  "slug": "firefox-for-android-141.0.2-release",
+  "system_requirements": "## Operating systems\r\n - Android 5.0 or newer",
+  "text": "",
+  "title": "Firefox for Android 141.0.2 Release",
+  "version": "141.0.2"
+}
