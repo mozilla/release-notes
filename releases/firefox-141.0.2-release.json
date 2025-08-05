@@ -53,6 +53,30 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2025-08-05T08:19:33.011714+00:00",
+      "id": 791029,
+      "is_public": true,
+      "modified": "2025-08-05T08:19:33.505956+00:00",
+      "note": "Fixed minor visual and accessibility issues across the user interface. (Bug 1974269",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2025-08-05T08:26:36.126635+00:00",
+      "id": 791030,
+      "is_public": true,
+      "modified": "2025-08-05T08:26:36.884618+00:00",
+      "note": "Firefox failed to start with GTK+ built without Wayland support in uncommon setups. ([Bug 1978620][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1978620",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
