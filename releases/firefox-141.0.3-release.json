@@ -1,0 +1,41 @@
+{
+  "bug_list": "",
+  "bug_search_url": "",
+  "channel": "Release",
+  "created": "2025-08-06T19:30:28.906629+00:00",
+  "is_public": false,
+  "modified": "2025-08-06T19:41:05.351442+00:00",
+  "notes": [
+    {
+      "bug": null,
+      "created": "2025-08-06T19:31:41.343803+00:00",
+      "id": 791034,
+      "is_public": true,
+      "modified": "2025-08-06T19:31:42.047191+00:00",
+      "note": "Reference link to [141.0.2 release notes][1].\r\n\r\n\r\n  [1]: https://www.mozilla.org/firefox/141.0.2/releasenotes/",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": ""
+    },
+    {
+      "bug": 1980081,
+      "created": "2025-08-06T19:40:55.749896+00:00",
+      "id": 791035,
+      "is_public": true,
+      "modified": "2025-08-06T19:40:56.245552+00:00",
+      "note": "Fixed a regression that caused issues on sites built with the Svelte framework. ([Bug 1980081][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1980081",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": ""
+    }
+  ],
+  "product": "Firefox",
+  "release_date": "2025-08-07",
+  "slug": "firefox-141.0.3-release",
+  "system_requirements": "## Windows\r\n\r\n### Operating Systems (32-bit and 64-bit)\r\n - Windows 10 or later\r\n\r\n### Recommended Hardware\r\n-  1 gigahertz (GHz) or faster compatible processor or System on a Chip (SoC)\r\n-  1GB of RAM / 2GB of RAM for the 64-bit version\r\n-  500MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- macOS 10.15 or later\r\n\r\n### Recommended Hardware\r\n- Macintosh computer with an Intel x86 or Apple silicon processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - glibc 2.17 or higher (glibc 2.28 or higher on arm64)\r\n    - GTK+ 3.14 or higher\r\n    - libglib 2.42 or higher\r\n    - libstdc++ 4.8.1 or higher (libstdc++ 6.0 or higher on arm64)\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - DBus 1.0 or higher\r\n    - NetworkManager 0.7 or higher\r\n    - PulseAudio",
+  "text": "",
+  "title": "Firefox 141.0.3 Release",
+  "version": "141.0.3"
+}
