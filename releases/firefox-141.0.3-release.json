@@ -23,12 +23,24 @@
       "created": "2025-08-06T19:40:55.749896+00:00",
       "id": 791035,
       "is_public": true,
-      "modified": "2025-08-06T19:40:56.245552+00:00",
+      "modified": "2025-08-06T19:46:12.950335+00:00",
       "note": "Fixed a regression that caused issues on sites built with the Svelte framework. ([Bug 1980081][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1980081",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
-      "tag": ""
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1977066,
+      "created": "2025-08-06T19:45:51.957261+00:00",
+      "id": 791036,
+      "is_public": true,
+      "modified": "2025-08-06T19:45:51.957070+00:00",
+      "note": "Fixed an issue where cryptominers were not listed as blocked in Strict Tracking Protection. ([Bug 1977066][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1977066",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
