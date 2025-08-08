@@ -47,12 +47,12 @@
       "created": "2025-08-04T14:55:14.035852+00:00",
       "id": 791022,
       "is_public": true,
-      "modified": "2025-08-04T14:55:14.559550+00:00",
+      "modified": "2025-08-08T19:34:56.845084+00:00",
       "note": "Starting with Firefox 143, Firefox Nightly now blocks local network requests by default and only allows them if the user grants access through a permission prompt, strengthening protection against attacks targeting local network services.",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
-      "tag": ""
+      "tag": "New"
     },
     {
       "bug": 1978414,
@@ -61,6 +61,18 @@
       "is_public": true,
       "modified": "2025-08-05T19:10:39.317644+00:00",
       "note": "Firefox has expanded its Fingerprinting Protection by reporting constant values for several more attributes of user's computers. [More Details][1]\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/firefox-protection-against-fingerprinting#w_suspected-fingerprinters",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1981504,
+      "created": "2025-08-08T19:34:44.002217+00:00",
+      "id": 791037,
+      "is_public": true,
+      "modified": "2025-08-08T19:34:44.535445+00:00",
+      "note": "When downloading a file in private browsing mode, the user will be prompted to chose whether they want to keep or delete files that are downloaded while in private browsing. This preference can also be set at about:settings.",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
