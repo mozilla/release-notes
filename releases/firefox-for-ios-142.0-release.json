@@ -1,0 +1,29 @@
+{
+  "bug_list": "",
+  "bug_search_url": "",
+  "channel": "Release",
+  "created": "2025-08-11T20:16:02.694729+00:00",
+  "is_public": false,
+  "modified": "2025-08-11T20:18:55.349396+00:00",
+  "notes": [
+    {
+      "bug": null,
+      "created": "2025-08-11T20:18:51.091887+00:00",
+      "id": 791041,
+      "is_public": true,
+      "modified": "2025-08-11T20:18:51.463738+00:00",
+      "note": "Various [security fixes][1].\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
+    }
+  ],
+  "product": "Firefox for iOS",
+  "release_date": "2025-08-19",
+  "slug": "firefox-for-ios-142.0-release",
+  "system_requirements": "## Operating systems\r\n - iOS 15\r\n - iOS 16\r\n - iOS 17\r\n - iOS 18",
+  "text": "Thanks for using Firefox!  Have feedback or suggestions? We'd love to hear from you at  [iOS Support][1].\r\n\r\n\r\n  [1]: https://mzl.la/iOSSupport",
+  "title": "Firefox for iOS 142.0 Release",
+  "version": "142.0"
+}
