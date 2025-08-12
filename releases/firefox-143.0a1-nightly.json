@@ -139,6 +139,18 @@
       "tag": "HTML5"
     },
     {
+      "bug": 1941406,
+      "created": "2025-08-12T14:08:06.875668+00:00",
+      "id": 791045,
+      "is_public": true,
+      "modified": "2025-08-12T14:08:07.401824+00:00",
+      "note": "Restrictions were removed that prevented setting the `display` property on `<details>` elements, and a `::details-content` pseudo-element was added to style the expandable/collapsible contents of those elements.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
       "bug": 1615206,
       "created": "2025-07-24T16:21:39.589668+00:00",
       "id": 791011,
