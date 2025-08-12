@@ -4,7 +4,7 @@
   "channel": "Beta",
   "created": "2025-07-16T11:14:11.668847+00:00",
   "is_public": true,
-  "modified": "2025-07-24T16:36:26.763827+00:00",
+  "modified": "2025-08-12T13:35:17.596399+00:00",
   "notes": [
     {
       "bug": 1976474,
@@ -55,6 +55,18 @@
       "tag": "Changed"
     },
     {
+      "bug": 1557795,
+      "created": "2025-08-12T13:35:10.126421+00:00",
+      "id": 791043,
+      "is_public": true,
+      "modified": "2025-08-12T13:35:10.622204+00:00",
+      "note": "Improved Netmonitor so that Request Headers/Cookies/Params are displayed in the Network panel even if the request isn't finished yet.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
       "bug": 1966997,
       "created": "2025-07-08T18:29:18.923442+00:00",
       "id": 790981,
@@ -97,6 +109,18 @@
       "is_public": true,
       "modified": "2025-07-24T16:36:22.528594+00:00",
       "note": "Firefox now supports the wllama API for extensions, enabling developers to integrate local language model (LLM) capabilities directly into their add-ons.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
+      "bug": 1846825,
+      "created": "2025-08-12T13:42:51.318044+00:00",
+      "id": 791044,
+      "is_public": true,
+      "modified": "2025-08-12T13:42:51.805672+00:00",
+      "note": "The Debugger now offers a new setting to control whether the debugger overlay is shown on paused script execution.\r\n\r\n<img src=\"https://www.mozilla.org/media/img/firefox/releasenotes/note-images/142_debugger-paused-overlay.jpg\" width=\"700\" alt=\"screenshot Firefox browser with the sidebar enabled, demonstrating the divider for extra icons\">",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
