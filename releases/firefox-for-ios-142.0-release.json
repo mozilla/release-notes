@@ -8,6 +8,54 @@
   "notes": [
     {
       "bug": null,
+      "created": "2025-08-13T13:15:26.170008+00:00",
+      "id": 791046,
+      "is_public": true,
+      "modified": "2025-08-13T13:15:38.665630+00:00",
+      "note": "**New Look Menu**: Simpler, faster, and easier to navigate.",
+      "progressive_rollout": true,
+      "relevant_countries": [],
+      "sort_num": 50,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2025-08-13T13:16:15.532570+00:00",
+      "id": 791047,
+      "is_public": true,
+      "modified": "2025-08-13T13:16:16.015515+00:00",
+      "note": "**Refreshed Homepage**: A cleaner, more intuitive layout makes navigating easier.",
+      "progressive_rollout": true,
+      "relevant_countries": [],
+      "sort_num": 40,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2025-08-13T13:16:53.893057+00:00",
+      "id": 791048,
+      "is_public": true,
+      "modified": "2025-08-13T13:17:30.352153+00:00",
+      "note": "**Improved Tab Tray & Toolbar**: A simpler layout helps you find what you need faster.",
+      "progressive_rollout": true,
+      "relevant_countries": [],
+      "sort_num": 30,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2025-08-13T13:17:22.594841+00:00",
+      "id": 791049,
+      "is_public": true,
+      "modified": "2025-08-13T13:17:22.980558+00:00",
+      "note": "**UI Polish:** We cleaned up visual inconsistencies across the toolbar, menus, onboarding, and zoom for a more cohesive experience.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 20,
+      "tag": "New"
+    },
+    {
+      "bug": null,
       "created": "2025-08-11T20:18:51.091887+00:00",
       "id": 791041,
       "is_public": true,
