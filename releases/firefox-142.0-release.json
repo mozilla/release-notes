@@ -4,15 +4,15 @@
   "channel": "Release",
   "created": "2025-08-11T20:16:02.718357+00:00",
   "is_public": false,
-  "modified": "2025-08-13T19:42:48.083321+00:00",
+  "modified": "2025-08-13T20:12:25.733650+00:00",
   "notes": [
     {
       "bug": null,
       "created": "2025-08-13T13:25:08.677634+00:00",
       "id": 791050,
       "is_public": true,
-      "modified": "2025-08-13T19:58:34.825651+00:00",
-      "note": "You can now see what\u2019s behind a link before visiting it with Link Previews. Long press a link (or right-click and choose *Preview Link*).  Previews can optionally include AI-generated key points, which are processed on your device to protect your privacy.\r\n\r\n*Link Previews is gradually rolling out to ensure performance and quality and is available in `EN-US`, `EN-CA`, `EN-GB`, `EN-AU` for users with more than 3 GB of available RAM.*",
+      "modified": "2025-08-13T20:09:56.331765+00:00",
+      "note": "You can now see what\u2019s behind a link before visiting it with Link Previews. Long press a link (or right-click and choose *Preview Link*).  Previews can optionally include AI-generated key points, which are processed on your device to protect your privacy.\r\n\r\n*Link Previews is gradually rolling out to ensure performance and quality and is now available in `EN-US`, `EN-CA`, `EN-GB`, `EN-AU` for users with more than 3 GB of available RAM.*",
       "progressive_rollout": true,
       "relevant_countries": [],
       "sort_num": 100,
@@ -23,8 +23,8 @@
       "created": "2025-08-13T19:30:28.523891+00:00",
       "id": 791051,
       "is_public": true,
-      "modified": "2025-08-13T19:31:20.836882+00:00",
-      "note": "On Windows, clicking a persistent notification when Firefox is closed or restarted, will now properly open Firefox with the relevant webpage, instead of just opening the main page of the website.",
+      "modified": "2025-08-13T20:01:37.721801+00:00",
+      "note": "On Windows, clicking a persistent notification when Firefox is closed or restarted will now properly open Firefox with the relevant webpage, instead of just opening the main page of the website.",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 90,
@@ -35,8 +35,8 @@
       "created": "2025-08-13T19:31:01.584968+00:00",
       "id": 791052,
       "is_public": true,
-      "modified": "2025-08-13T19:31:01.584792+00:00",
-      "note": "ETP-Strict mode now supports a flexible exception list to fix broken site features caused by tracker blocking. Exceptions are split into baseline (core functionality) and convenience (extra features), letting users choose improved site compatibility without compromising key privacy protections.",
+      "modified": "2025-08-13T20:06:13.232726+00:00",
+      "note": "ETP Strict mode now supports a flexible exception list to fix broken site features caused by tracker blocking. Exceptions are split into baseline (core functionality) and convenience (extra features), letting users choose improved site compatibility without compromising key privacy protections.",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 80,
@@ -53,18 +53,6 @@
       "relevant_countries": [],
       "sort_num": 60,
       "tag": "New"
-    },
-    {
-      "bug": 1846825,
-      "created": "2025-08-13T19:42:26.843265+00:00",
-      "id": 791063,
-      "is_public": true,
-      "modified": "2025-08-13T19:42:27.266762+00:00",
-      "note": "The Debugger now offers a new setting to control whether the debugger overlay is shown on paused script execution.\r\n\r\n<img src=\"https://www.mozilla.org/media/img/firefox/releasenotes/note-images/142_debugger-paused-overlay.jpg\" width=\"700\" alt=\"screenshot Firefox browser with the sidebar enabled, demonstrating the divider for extra icons\">",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 55,
-      "tag": ""
     },
     {
       "bug": 1979658,
@@ -100,6 +88,18 @@
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 60,
+      "tag": "Developer"
+    },
+    {
+      "bug": 1846825,
+      "created": "2025-08-13T19:42:26.843265+00:00",
+      "id": 791063,
+      "is_public": true,
+      "modified": "2025-08-13T20:11:22.030630+00:00",
+      "note": "The Debugger now offers a new setting to control whether the debugger overlay is shown during paused script execution.\r\n\r\n<img src=\"https://www.mozilla.org/media/img/firefox/releasenotes/note-images/142_debugger-paused-overlay.jpg\" width=\"700\" alt=\"screenshot Firefox browser with the sidebar enabled, demonstrating the divider for extra icons\">",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 55,
       "tag": "Developer"
     },
     {
@@ -167,8 +167,8 @@
       "created": "2025-08-13T19:34:14.296762+00:00",
       "id": 791055,
       "is_public": true,
-      "modified": "2025-08-13T19:34:14.854649+00:00",
-      "note": "Improved Drag-and-drop support for blob images.",
+      "modified": "2025-08-13T20:05:47.096208+00:00",
+      "note": "Improved drag-and-drop support for blob images.",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 10,
@@ -185,6 +185,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2025-08-13T20:12:00.125488+00:00",
+      "id": 791065,
+      "is_public": true,
+      "modified": "2025-08-13T20:12:00.645573+00:00",
+      "note": "With the release of Firefox 142, we are pleased to welcome the developers who contributed their first code change to Firefox in this release, 20 of whom were brand new volunteers! Please join us in thanking each of these diligent and enthusiastic individuals, and take a look at their contributions:\r\n\r\n* Alex Stout: <a href=\"https://bugzilla.mozilla.org/1845523\">1845523</a>\r\n* Ayush Kaintura: <a href=\"https://bugzilla.mozilla.org/1963306\">1963306</a>\r\n* Beatriz Rizental: <a href=\"https://bugzilla.mozilla.org/1971306\">1971306</a>, <a href=\"https://bugzilla.mozilla.org/1972755\">1972755</a>\r\n* biyul.dev: <a href=\"https://bugzilla.mozilla.org/1931528\">1931528</a>, <a href=\"https://bugzilla.mozilla.org/1975074\">1975074</a>, <a href=\"https://bugzilla.mozilla.org/1976504\">1976504</a>\r\n* celenity: <a href=\"https://bugzilla.mozilla.org/1977078\">1977078</a>\r\n* chase.philpot: <a href=\"https://bugzilla.mozilla.org/1973697\">1973697</a>\r\n* Cl\u00e9ment Brisset: <a href=\"https://bugzilla.mozilla.org/1969603\">1969603</a>\r\n* Connor Sabine: <a href=\"https://bugzilla.mozilla.org/1975559\">1975559</a>\r\n* eri: <a href=\"https://bugzilla.mozilla.org/1958853\">1958853</a>\r\n* Ernest Molner: <a href=\"https://bugzilla.mozilla.org/1968300\">1968300</a>\r\n* Jacqueline Amherst: <a href=\"https://bugzilla.mozilla.org/1961204\">1961204</a>\r\n* jesper: <a href=\"https://bugzilla.mozilla.org/1974023\">1974023</a>\r\n* Jim Gong: <a href=\"https://bugzilla.mozilla.org/1975871\">1975871</a>\r\n* JP Belval: <a href=\"https://bugzilla.mozilla.org/1961487\">1961487</a>\r\n* jtech3029: <a href=\"https://bugzilla.mozilla.org/1951724\">1951724</a>\r\n* Nate Gross: <a href=\"https://bugzilla.mozilla.org/1957261\">1957261</a>, <a href=\"https://bugzilla.mozilla.org/1968719\">1968719</a>\r\n* Richard LoRicco: <a href=\"https://bugzilla.mozilla.org/1975300\">1975300</a>\r\n* Rong Bao [:csmantle]: <a href=\"https://bugzilla.mozilla.org/1975201\">1975201</a>, <a href=\"https://bugzilla.mozilla.org/1975350\">1975350</a>, <a href=\"https://bugzilla.mozilla.org/1975439\">1975439</a>, <a href=\"https://bugzilla.mozilla.org/1975492\">1975492</a>, <a href=\"https://bugzilla.mozilla.org/1975643\">1975643</a>, <a href=\"https://bugzilla.mozilla.org/1975645\">1975645</a>, <a href=\"https://bugzilla.mozilla.org/1975720\">1975720</a>, <a href=\"https://bugzilla.mozilla.org/1975752\">1975752</a>, <a href=\"https://bugzilla.mozilla.org/1975849\">1975849</a>, <a href=\"https://bugzilla.mozilla.org/1975983\">1975983</a>, <a href=\"https://bugzilla.mozilla.org/1976155\">1976155</a>, <a href=\"https://bugzilla.mozilla.org/1976157\">1976157</a>, <a href=\"https://bugzilla.mozilla.org/1976225\">1976225</a>, <a href=\"https://bugzilla.mozilla.org/1976389\">1976389</a>, <a href=\"https://bugzilla.mozilla.org/1976397\">1976397</a>, <a href=\"https://bugzilla.mozilla.org/1976410\">1976410</a>, <a href=\"https://bugzilla.mozilla.org/1976699\">1976699</a>, <a href=\"https://bugzilla.mozilla.org/1976799\">1976799</a>\r\n* shwetank.tewari.87: <a href=\"https://bugzilla.mozilla.org/1831397\">1831397</a>\r\n* William: <a href=\"https://bugzilla.mozilla.org/1960743\">1960743</a>",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Community"
     }
   ],
   "product": "Firefox",
