@@ -4,7 +4,7 @@
   "channel": "Release",
   "created": "2025-08-11T20:16:02.718357+00:00",
   "is_public": false,
-  "modified": "2025-08-13T19:34:21.725983+00:00",
+  "modified": "2025-08-13T19:42:48.083321+00:00",
   "notes": [
     {
       "bug": null,
@@ -53,6 +53,18 @@
       "relevant_countries": [],
       "sort_num": 60,
       "tag": "New"
+    },
+    {
+      "bug": 1846825,
+      "created": "2025-08-13T19:42:26.843265+00:00",
+      "id": 791063,
+      "is_public": true,
+      "modified": "2025-08-13T19:42:27.266762+00:00",
+      "note": "The Debugger now offers a new setting to control whether the debugger overlay is shown on paused script execution.\r\n\r\n<img src=\"https://www.mozilla.org/media/img/firefox/releasenotes/note-images/142_debugger-paused-overlay.jpg\" width=\"700\" alt=\"screenshot Firefox browser with the sidebar enabled, demonstrating the divider for extra icons\">",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 55,
+      "tag": ""
     },
     {
       "bug": 1979658,
