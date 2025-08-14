@@ -151,6 +151,18 @@
       "tag": "HTML5"
     },
     {
+      "bug": 1923880,
+      "created": "2025-08-14T00:50:05.455265+00:00",
+      "id": 791066,
+      "is_public": true,
+      "modified": "2025-08-14T00:50:05.997812+00:00",
+      "note": "Starting with Firefox 143, Nightly builds now support the `Element.moveBefore` API.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
       "bug": 1615206,
       "created": "2025-07-24T16:21:39.589668+00:00",
       "id": 791011,
