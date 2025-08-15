@@ -8,6 +8,23 @@
   "notes": [
     {
       "bug": null,
+      "created": "2025-08-15T16:08:11.518297+00:00",
+      "id": 791069,
+      "is_public": true,
+      "modified": "2025-08-15T16:08:48.936971+00:00",
+      "note": "For users in the United States, article recommendations on your New Tab page are now grouped into topic sections like Sports, Food, and Entertainment to make stories more organized and easier to scan. You can also follow topics you\u2019re interested in and block ones you\u2019d prefer not to see, giving you more control over what shows up when you open a new tab.",
+      "progressive_rollout": true,
+      "relevant_countries": [
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ],
+      "sort_num": 110,
+      "tag": "New"
+    },
+    {
+      "bug": null,
       "created": "2025-08-13T13:25:08.677634+00:00",
       "id": 791050,
       "is_public": true,
