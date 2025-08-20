@@ -55,12 +55,12 @@
       "tag": "HTML5"
     },
     {
-      "bug": 1923880,
-      "created": "2025-08-14T00:50:05.455265+00:00",
-      "id": 791066,
+      "bug": 1983688,
+      "created": "2025-08-20T13:00:39.408191+00:00",
+      "id": 791074,
       "is_public": true,
-      "modified": "2025-08-15T12:56:24.770990+00:00",
-      "note": "Starting with Firefox 143, Nightly builds now support the `Element.moveBefore` API.",
+      "modified": "2025-08-20T13:00:39.875063+00:00",
+      "note": "Firefox now supports the [Element.moveBefore][1] API.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/API/Element/moveBefore",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
