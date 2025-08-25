@@ -4,7 +4,7 @@
   "channel": "Release",
   "created": "2025-08-11T20:16:02.718357+00:00",
   "is_public": true,
-  "modified": "2025-08-19T12:21:04.660061+00:00",
+  "modified": "2025-08-25T16:12:03.467295+00:00",
   "notes": [
     {
       "bug": null,
@@ -221,6 +221,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "Community"
+    },
+    {
+      "bug": null,
+      "created": "2025-08-25T16:11:55.830885+00:00",
+      "id": 791076,
+      "is_public": true,
+      "modified": "2025-08-25T16:13:29.155392+00:00",
+      "note": "Multiselecting non-contiguous tabs to drag may result in toolbar unresponsiveness or visual glitches. Dragging any single tab should resolve this. We will be landing a fix in the next dot release with [Bug 1984342][1].\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1984342",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Known"
     }
   ],
   "product": "Firefox",
