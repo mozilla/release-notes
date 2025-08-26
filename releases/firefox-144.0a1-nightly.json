@@ -77,6 +77,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "HTML5"
+    },
+    {
+      "bug": 1983594,
+      "created": "2025-08-26T17:03:47.007262+00:00",
+      "id": 791077,
+      "is_public": true,
+      "modified": "2025-08-26T17:03:47.782199+00:00",
+      "note": "Firefox now supports the [WebGPU][1] [GPUDevice.importExternalTexture][2] API on Windows.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/API/WebGPU_API\r\n  [2]: https://developer.mozilla.org/docs/Web/API/GPUDevice/importExternalTexture",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
     }
   ],
   "product": "Firefox",
