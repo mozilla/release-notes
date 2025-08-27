@@ -43,6 +43,18 @@
       "tag": "New"
     },
     {
+      "bug": 1423768,
+      "created": "2025-08-27T16:25:46.691033+00:00",
+      "id": 791087,
+      "is_public": true,
+      "modified": "2025-08-27T16:26:13.073443+00:00",
+      "note": "On Windows, when opening a link from another application, Firefox will only use a window on the current virtual desktop or open a new window if needed.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
       "bug": 1976656,
       "created": "2025-07-18T16:06:18.104486+00:00",
       "id": 791008,
