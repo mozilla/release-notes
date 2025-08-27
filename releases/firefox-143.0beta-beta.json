@@ -79,6 +79,18 @@
       "tag": "New"
     },
     {
+      "bug": 1915736,
+      "created": "2025-08-27T19:22:55.035088+00:00",
+      "id": 791088,
+      "is_public": true,
+      "modified": "2025-08-27T19:22:55.617188+00:00",
+      "note": "Added support for running websites as web apps for Firefox on Windows. These are sites that you can pin and run as simplified windows directly from the taskbar, without loosing access to Add-ons. This feature is not available at this time for Firefox installs from the Microsoft Store.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1711882,
       "created": "2025-07-29T13:53:43.259274+00:00",
       "id": 791016,
