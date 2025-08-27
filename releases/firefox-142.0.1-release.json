@@ -4,7 +4,7 @@
   "channel": "Release",
   "created": "2025-08-27T01:25:46.235630+00:00",
   "is_public": false,
-  "modified": "2025-08-27T01:27:29.853619+00:00",
+  "modified": "2025-08-27T03:05:45.337722+00:00",
   "notes": [
     {
       "bug": null,
@@ -52,6 +52,30 @@
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 70,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1982129,
+      "created": "2025-08-27T03:05:26.017501+00:00",
+      "id": 791085,
+      "is_public": true,
+      "modified": "2025-08-27T03:08:16.993638+00:00",
+      "note": "Fixed an issue where the expand on hover feature in the sidebar would sometimes stop working. ([Bug 1982129][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1982129",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 60,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1984823,
+      "created": "2025-08-27T02:51:44.064922+00:00",
+      "id": 791084,
+      "is_public": true,
+      "modified": "2025-08-27T02:51:44.064741+00:00",
+      "note": "Fixed a crash that could happen using KDE Plasma with certain customized window decorations. ([Bug 1984823][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1984823",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 50,
       "tag": "Fixed"
     }
   ],
