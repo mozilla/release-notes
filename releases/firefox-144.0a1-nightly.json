@@ -137,6 +137,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "HTML5"
+    },
+    {
+      "bug": 1985809,
+      "created": "2025-08-30T14:01:53.953430+00:00",
+      "id": 791092,
+      "is_public": true,
+      "modified": "2025-08-30T14:01:54.373770+00:00",
+      "note": "Firefox now supports the [View Transition][1] API. The View Transition API provides a mechanism for easily creating animated transitions between different website views.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/API/View_Transition_API",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
     }
   ],
   "product": "Firefox",
