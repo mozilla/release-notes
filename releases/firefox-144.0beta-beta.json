@@ -19,6 +19,18 @@
       "tag": "New"
     },
     {
+      "bug": 1974184,
+      "created": "2025-09-05T14:05:08.654342+00:00",
+      "id": 791094,
+      "is_public": true,
+      "modified": "2025-09-08T14:37:27.494072+00:00",
+      "note": "Logins in the [Firefox Password Manager][1] are now encrypted using a more modern encryption scheme, switching from 3DES-CBC to AES-256-CBC. This change only affects the local encryption of logins on the disk; logins synced through Firefox Sync are end-to-end encrypted independently and have already been using a strong encryption scheme (AES-256-GCM) previously.\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/manage-your-logins-firefox-password-manager",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1423768,
       "created": "2025-08-27T16:25:46.691033+00:00",
       "id": 791087,
@@ -85,6 +97,30 @@
       "is_public": true,
       "modified": "2025-09-08T14:37:10.502727+00:00",
       "note": "Firefox now supports the `command` and `commandfor` attributes.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 1985809,
+      "created": "2025-08-30T14:01:53.953430+00:00",
+      "id": 791092,
+      "is_public": true,
+      "modified": "2025-09-08T14:37:16.624028+00:00",
+      "note": "Firefox now supports the [View Transition][1] API. The View Transition API provides a mechanism for easily creating animated transitions between different website views.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/API/View_Transition_API",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 1286945,
+      "created": "2025-09-02T21:10:02.442658+00:00",
+      "id": 791093,
+      "is_public": true,
+      "modified": "2025-09-08T14:37:21.781291+00:00",
+      "note": "The `resizeMode` [getUserMedia][1] constraint is now available, allowing developers to crop and downscale video captured from a camera to any resolution they choose.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/API/MediaDevices/getUserMedia",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
