@@ -139,11 +139,11 @@
       "tag": "HTML5"
     },
     {
-      "bug": null,
+      "bug": 1984549,
       "created": "2025-08-28T13:45:07.405664+00:00",
       "id": 791091,
       "is_public": true,
-      "modified": "2025-08-28T13:45:07.841989+00:00",
+      "modified": "2025-09-09T13:16:40.123743+00:00",
       "note": "Starting with Firefox 144, when [linear gradient][1] is rendered using hardware WebRender, dithering is now applied in Firefox Nightly.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/CSS/gradient/linear-gradient",
       "progressive_rollout": false,
       "relevant_countries": [],
@@ -181,6 +181,18 @@
       "is_public": true,
       "modified": "2025-09-06T13:56:46.253198+00:00",
       "note": "Starting with Firefox 144, layer compositor is enabled for WebRender on Windows in Firefox Nightly.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 1986901,
+      "created": "2025-09-09T13:21:39.769857+00:00",
+      "id": 791096,
+      "is_public": true,
+      "modified": "2025-09-09T13:21:40.374046+00:00",
+      "note": "Dithering is now applied when [linear-gradient][1], [conic-gradient][2], and [radial-gradient][3] are rendered using hardware WebRender.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/CSS/gradient/linear-gradient\r\n  [2]: https://developer.mozilla.org/docs/Web/CSS/gradient/conic-gradient\r\n  [3]: https://developer.mozilla.org/docs/Web/CSS/gradient/radial-gradient",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
