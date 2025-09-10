@@ -67,6 +67,18 @@
       "tag": "Changed"
     },
     {
+      "bug": 1986534,
+      "created": "2025-09-10T16:37:34.883992+00:00",
+      "id": 791098,
+      "is_public": true,
+      "modified": "2025-09-10T16:37:35.315782+00:00",
+      "note": "On Firefox for Android, the \"Allow screenshots in private browsing\" setting has been removed.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
       "bug": 1976656,
       "created": "2025-07-18T16:06:18.104486+00:00",
       "id": 791008,
@@ -193,6 +205,18 @@
       "is_public": true,
       "modified": "2025-09-09T13:21:40.374046+00:00",
       "note": "Dithering is now applied when [linear-gradient][1], [conic-gradient][2], and [radial-gradient][3] are rendered using hardware WebRender.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/CSS/gradient/linear-gradient\r\n  [2]: https://developer.mozilla.org/docs/Web/CSS/gradient/conic-gradient\r\n  [3]: https://developer.mozilla.org/docs/Web/CSS/gradient/radial-gradient",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 1979917,
+      "created": "2025-09-10T16:33:56.044844+00:00",
+      "id": 791097,
+      "is_public": true,
+      "modified": "2025-09-10T16:33:56.044565+00:00",
+      "note": "Firefox now supports the [upsert proposal][1]. This adds `getOrInsert` and `getOrInsertComputed` methods to `Map` and `WeakMap`. These methods either return the value associated with a key, or insert a default value, and then return that value, simplifying handling of cases where it's not known if a key is already present in the `Map` or `WeakMap`.\r\n\r\n\r\n  [1]: https://github.com/tc39/proposal-upsert",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
