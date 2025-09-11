@@ -47,31 +47,10 @@
       "created": "2025-09-11T15:48:03.786691+00:00",
       "id": 791115,
       "is_public": true,
-      "modified": "2025-09-11T16:31:29.115994+00:00",
-      "note": "The Firefox address bar can now show you important dates and events. This feature supports displaying events (e.g. \u201cMother\u2019s Day\u201d) in supported regions.",
+      "modified": "2025-09-11T16:48:23.858450+00:00",
+      "note": "The Firefox address bar can now show you important dates and events. This feature supports displaying events (e.g. \u201cMother\u2019s Day\u201d) in the United States, United Kingdom, Germany, France, and Italy regions.",
       "progressive_rollout": false,
-      "relevant_countries": [
-        {
-          "code": "FR",
-          "name": "France"
-        },
-        {
-          "code": "DE",
-          "name": "Germany"
-        },
-        {
-          "code": "IT",
-          "name": "Italy"
-        },
-        {
-          "code": "GB",
-          "name": "United Kingdom"
-        },
-        {
-          "code": "US",
-          "name": "United States"
-        }
-      ],
+      "relevant_countries": [],
       "sort_num": 40,
       "tag": "New"
     },
