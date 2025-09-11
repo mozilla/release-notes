@@ -11,8 +11,8 @@
       "created": "2025-09-11T15:46:31.191017+00:00",
       "id": 791112,
       "is_public": true,
-      "modified": "2025-09-11T15:46:31.190814+00:00",
-      "note": "On Windows, Firefox now supports running websites as web apps pinned directly to the taskbar. These are sites that you can pin and run as simplified windows directly from the taskbar without losing access to your installed add-ons. This feature is not available at this time for Firefox installs from the Microsoft Store.",
+      "modified": "2025-09-11T16:30:29.859689+00:00",
+      "note": "On Windows, Firefox now supports running websites as web apps pinned directly to the taskbar. These are sites that you can pin and run as simplified windows directly from the taskbar without losing access to your installed add-ons. This feature is not currently available for Firefox installs from the Microsoft Store.",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 70,
@@ -47,10 +47,31 @@
       "created": "2025-09-11T15:48:03.786691+00:00",
       "id": 791115,
       "is_public": true,
-      "modified": "2025-09-11T15:48:04.131133+00:00",
-      "note": "The Firefox address bar can now show you important dates and events. This feature supports displaying events (e.g. \u201cMother\u2019s Day\u201d) in US, UK, DE, FR, and IT regions.",
+      "modified": "2025-09-11T16:31:29.115994+00:00",
+      "note": "The Firefox address bar can now show you important dates and events. This feature supports displaying events (e.g. \u201cMother\u2019s Day\u201d) in supported regions.",
       "progressive_rollout": false,
-      "relevant_countries": [],
+      "relevant_countries": [
+        {
+          "code": "FR",
+          "name": "France"
+        },
+        {
+          "code": "DE",
+          "name": "Germany"
+        },
+        {
+          "code": "IT",
+          "name": "Italy"
+        },
+        {
+          "code": "GB",
+          "name": "United Kingdom"
+        },
+        {
+          "code": "US",
+          "name": "United States"
+        }
+      ],
       "sort_num": 40,
       "tag": "New"
     },
@@ -71,8 +92,8 @@
       "created": "2025-09-11T15:48:46.402464+00:00",
       "id": 791117,
       "is_public": true,
-      "modified": "2025-09-11T15:48:46.742719+00:00",
-      "note": "When downloading a file in private browsing mode, you will now be prompted to choose whether you want to keep or delete files that are downloaded while in private browsing. This preference can also be adjusted in Settings.",
+      "modified": "2025-09-11T16:32:28.011520+00:00",
+      "note": "When downloading a file in Private Browsing mode, Firefox now asks whether to keep or delete it after that session ends. You can adjust this behavior in Settings.",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 20,
