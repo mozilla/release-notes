@@ -185,6 +185,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "HTML5"
+    },
+    {
+      "bug": 1978232,
+      "created": "2025-09-11T20:14:35.071317+00:00",
+      "id": 791126,
+      "is_public": true,
+      "modified": "2025-09-11T20:14:35.592802+00:00",
+      "note": "[WebCodecs][1] on Windows now has a batch-encoding path for VideoEncoder, improving performance with higher throughput and lower submission latency due to a larger default batch size.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/API/WebCodecs_API",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
     }
   ],
   "product": "Firefox",
