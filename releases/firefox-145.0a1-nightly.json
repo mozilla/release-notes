@@ -4,20 +4,8 @@
   "channel": "Nightly",
   "created": "2025-09-11T09:26:14.009807+00:00",
   "is_public": false,
-  "modified": "2025-09-11T09:28:53.933296+00:00",
+  "modified": "2025-09-15T08:24:20.297553+00:00",
   "notes": [
-    {
-      "bug": 1970641,
-      "created": "2025-07-07T15:15:28.119918+00:00",
-      "id": 790978,
-      "is_public": true,
-      "modified": "2025-09-11T09:26:14.063093+00:00",
-      "note": "Starting with Firefox 142, Nightly builds support creating URLs using [Text Fragments][1]. You can generate such a URL by selecting a snippet of text on a page and choosing *Copy Link to Highlight* from the context menu.\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/URI/Reference/Fragment/Text_fragments",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "New"
-    },
     {
       "bug": 1972350,
       "created": "2025-08-04T14:55:14.035852+00:00",
@@ -29,18 +17,6 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "New"
-    },
-    {
-      "bug": 1976656,
-      "created": "2025-07-18T16:06:18.104486+00:00",
-      "id": 791008,
-      "is_public": true,
-      "modified": "2025-09-11T09:26:14.063093+00:00",
-      "note": "Starting with Firefox 142, Nightly builds now support the `Integrity-Policy` header allowing websites to ensure that all of their scripts are protected with integrity data. It is currently limited to scripts but will be expanded in the future to provide full web application integrity.",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "HTML5"
     },
     {
       "bug": 1945683,
