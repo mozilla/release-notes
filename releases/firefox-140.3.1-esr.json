@@ -8,18 +8,6 @@
   "notes": [
     {
       "bug": null,
-      "created": "2025-09-11T01:47:03.593178+00:00",
-      "id": 791105,
-      "is_public": true,
-      "modified": "2025-09-22T21:28:42.288164+00:00",
-      "note": "Reference link to [ESR 140.0 release notes][1].\r\n\r\n  [1]: https://www.mozilla.org/firefox/140.0esr/releasenotes/",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": ""
-    },
-    {
-      "bug": null,
       "created": "2025-09-22T21:28:05.272730+00:00",
       "id": 791134,
       "is_public": true,
@@ -29,6 +17,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": ""
+    },
+    {
+      "bug": null,
+      "created": "2025-09-23T12:13:34.998800+00:00",
+      "id": 791136,
+      "is_public": true,
+      "modified": "2025-09-23T12:13:35.429501+00:00",
+      "note": "Improved reliability when HTTP/3 connections fail: Firefox no longer forces HTTP/2 during fallback, allowing the server to choose the protocol and preventing stalls on some sites. ([Bug 1980812][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1980812",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox Extended Support Release",
