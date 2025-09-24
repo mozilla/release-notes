@@ -20,6 +20,18 @@
     },
     {
       "bug": null,
+      "created": "2025-09-24T19:23:29.733011+00:00",
+      "id": 791157,
+      "is_public": true,
+      "modified": "2025-09-24T19:23:30.240409+00:00",
+      "note": "Logins stored in the [Firefox Password Manager][1] are now encrypted on disk using a modern encryption scheme (AES-256-CBC), replacing the older 3DES-CBC. This change improves local data protection. Logins synced through Firefox Sync remain end-to-end encrypted and already use AES-256-GCM.\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/manage-your-logins-firefox-password-manager",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 5,
+      "tag": "New"
+    },
+    {
+      "bug": null,
       "created": "2025-09-24T18:38:56.377937+00:00",
       "id": 791142,
       "is_public": true,
