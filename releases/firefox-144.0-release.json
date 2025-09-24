@@ -8,6 +8,18 @@
   "notes": [
     {
       "bug": null,
+      "created": "2025-09-24T18:38:56.377937+00:00",
+      "id": 791142,
+      "is_public": true,
+      "modified": "2025-09-24T18:38:56.803415+00:00",
+      "note": "On Windows, when opening a link from another application, Firefox will only use a window on the current virtual desktop or open a new window if needed.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
+      "bug": null,
       "created": "2025-09-24T18:23:10.352097+00:00",
       "id": 791140,
       "is_public": true,
@@ -29,6 +41,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2025-09-24T18:37:55.348893+00:00",
+      "id": 791141,
+      "is_public": true,
+      "modified": "2025-09-24T18:37:55.348755+00:00",
+      "note": "With the release of Firefox 144, we are pleased to welcome the developers who contributed their first code change to Firefox in this release, 12 of whom were brand new volunteers! Please join us in thanking each of these diligent and enthusiastic individuals, and take a look at their contributions:\r\n\r\n* Alice Boxhall: <a href=\"https://bugzilla.mozilla.org/1981341\">1981341</a>\r\n* David [:david-loe]: <a href=\"https://bugzilla.mozilla.org/1726108\">1726108</a>\r\n* Diogo Sousa: <a href=\"https://bugzilla.mozilla.org/1987258\">1987258</a>\r\n* fdangers: <a href=\"https://bugzilla.mozilla.org/1975105\">1975105</a>\r\n* jocelyne.ah1: <a href=\"https://bugzilla.mozilla.org/1980995\">1980995</a>\r\n* Josh Berry: <a href=\"https://bugzilla.mozilla.org/1984553\">1984553</a>\r\n* Kyle Huey [:khuey]: <a href=\"https://bugzilla.mozilla.org/1983994\">1983994</a>\r\n* Martin Bruse: <a href=\"https://bugzilla.mozilla.org/1987128\">1987128</a>\r\n* Mountain Dude: <a href=\"https://bugzilla.mozilla.org/1984695\">1984695</a>\r\n* parisoplop: <a href=\"https://bugzilla.mozilla.org/1984782\">1984782</a>\r\n* Riz: <a href=\"https://bugzilla.mozilla.org/1280266\">1280266</a>\r\n* s175911: <a href=\"https://bugzilla.mozilla.org/1985163\">1985163</a>",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Community"
     }
   ],
   "product": "Firefox",
