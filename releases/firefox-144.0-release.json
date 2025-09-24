@@ -20,6 +20,42 @@
     },
     {
       "bug": null,
+      "created": "2025-09-24T18:41:54.584477+00:00",
+      "id": 791143,
+      "is_public": true,
+      "modified": "2025-09-24T18:41:54.953959+00:00",
+      "note": "Firefox now supports the [Element.moveBefore][1] API.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/API/Element/moveBefore",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 90,
+      "tag": "HTML5"
+    },
+    {
+      "bug": null,
+      "created": "2025-09-24T18:44:18.013275+00:00",
+      "id": 791144,
+      "is_public": true,
+      "modified": "2025-09-24T18:45:16.180793+00:00",
+      "note": "Firefox now supports `math-shift` [compact][1].\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/CSS/math-shift#compact",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 80,
+      "tag": "HTML5"
+    },
+    {
+      "bug": null,
+      "created": "2025-09-24T18:46:50.066498+00:00",
+      "id": 791145,
+      "is_public": true,
+      "modified": "2025-09-24T18:46:50.608088+00:00",
+      "note": "Firefox now supports [PerformanceEventTiming.interactionId][1], allowing developers to group related input events. This enables support for the [Interaction to Next Paint][2] (INP) responsiveness metric.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/API/PerformanceEventTiming/interactionId\r\n  [2]: https://developer.mozilla.org/docs/Glossary/Interaction_to_next_paint",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 70,
+      "tag": "HTML5"
+    },
+    {
+      "bug": null,
       "created": "2025-09-24T18:23:10.352097+00:00",
       "id": 791140,
       "is_public": true,
