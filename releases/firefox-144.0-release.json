@@ -56,6 +56,30 @@
     },
     {
       "bug": null,
+      "created": "2025-09-24T18:50:08.138257+00:00",
+      "id": 791146,
+      "is_public": true,
+      "modified": "2025-09-24T18:50:08.629297+00:00",
+      "note": "Firefox now supports the `command` and `commandfor` attributes.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 60,
+      "tag": "HTML5"
+    },
+    {
+      "bug": null,
+      "created": "2025-09-24T18:51:42.992907+00:00",
+      "id": 791147,
+      "is_public": true,
+      "modified": "2025-09-24T18:51:43.399279+00:00",
+      "note": "Firefox now supports the [View Transitions][1] API Level 1. The View Transitions API provides a mechanism for easily creating animated transitions between different website views.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/API/View_Transition_API",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 50,
+      "tag": "HTML5"
+    },
+    {
+      "bug": null,
       "created": "2025-09-24T18:23:10.352097+00:00",
       "id": 791140,
       "is_public": true,
