@@ -200,6 +200,18 @@
     },
     {
       "bug": null,
+      "created": "2025-09-25T14:49:29.789199+00:00",
+      "id": 791161,
+      "is_public": true,
+      "modified": "2025-09-25T14:49:30.429215+00:00",
+      "note": "You can now jump to a CSS custom property's definition from within the `var()` function in style rules.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
+      "bug": null,
       "created": "2025-09-24T18:23:10.352097+00:00",
       "id": 791140,
       "is_public": true,
