@@ -211,6 +211,18 @@
       "tag": "Developer"
     },
     {
+      "bug": 1977628,
+      "created": "2025-09-29T13:28:23.548083+00:00",
+      "id": 791166,
+      "is_public": true,
+      "modified": "2025-09-29T13:30:34.116348+00:00",
+      "note": "The events tooltip in the Inspector now shows a badge besides custom events, making it easier to differentiate them from built-in events.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
       "bug": null,
       "created": "2025-09-24T18:23:10.352097+00:00",
       "id": 791140,
