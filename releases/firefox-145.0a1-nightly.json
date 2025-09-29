@@ -65,6 +65,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "HTML5"
+    },
+    {
+      "bug": 1988938,
+      "created": "2025-09-29T09:31:27.173910+00:00",
+      "id": 791162,
+      "is_public": true,
+      "modified": "2025-09-29T09:34:16.610455+00:00",
+      "note": "Starting with Firefox 145, we now supports the legacy `-webkit-fill-available` keyword as a value for the CSS `width` and `height` properties, to improve rendering of content on the web that uses this keyword. This keyword is an alias for the recently standardized [`stretch`][1] keyword (which isn't shipping in Firefox yet).\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/width#stretch",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
     }
   ],
   "product": "Firefox",
