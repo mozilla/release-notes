@@ -19,6 +19,30 @@
       "tag": ""
     },
     {
+      "bug": 1989344,
+      "created": "2025-09-29T22:13:05.121610+00:00",
+      "id": 791170,
+      "is_public": true,
+      "modified": "2025-09-29T22:13:05.590355+00:00",
+      "note": "Adjusted the timing of the new drag-to-pin interaction cue for better reliability. ([Bug 1989344][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1989344",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 60,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1980812,
+      "created": "2025-09-29T22:07:25.964511+00:00",
+      "id": 791169,
+      "is_public": true,
+      "modified": "2025-09-29T22:07:26.398170+00:00",
+      "note": "Reduced long delays when loading certain websites while connected to networks that block UDP connections. ([Bug 1980812][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1980812",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 10,
+      "tag": "Fixed"
+    },
+    {
       "bug": null,
       "created": "2025-09-29T21:25:26.482444+00:00",
       "id": 791167,
