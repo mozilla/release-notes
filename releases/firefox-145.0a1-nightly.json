@@ -89,6 +89,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "HTML5"
+    },
+    {
+      "bug": 1988224,
+      "created": "2025-09-29T10:14:41.522312+00:00",
+      "id": 791164,
+      "is_public": true,
+      "modified": "2025-09-29T10:14:42.319785+00:00",
+      "note": "Starting with Firefox 145, Nightly builds now support [CSS anchor positioning][1], which allows to tether elements together. The anchor-positioned elements can then have their size and position set relative to the size and location of the anchor elements to which they are bound.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_anchor_positioning",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
     }
   ],
   "product": "Firefox",
