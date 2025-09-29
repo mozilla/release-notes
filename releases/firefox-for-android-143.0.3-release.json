@@ -2,9 +2,9 @@
   "bug_list": "",
   "bug_search_url": "",
   "channel": "Release",
-  "created": "2025-09-22T14:54:49.090316+00:00",
-  "is_public": true,
-  "modified": "2025-09-23T13:50:36.621888+00:00",
+  "created": "2025-09-29T21:24:00.898561+00:00",
+  "is_public": false,
+  "modified": "2025-09-29T21:24:44.862145+00:00",
   "notes": [
     {
       "bug": null,
@@ -20,11 +20,11 @@
     },
     {
       "bug": null,
-      "created": "2025-09-22T15:03:34.022945+00:00",
-      "id": 791133,
+      "created": "2025-09-29T21:25:26.482444+00:00",
+      "id": 791167,
       "is_public": true,
-      "modified": "2025-09-29T21:24:28.805689+00:00",
-      "note": "[Bug fixes][1].\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/buglist.cgi?bug_id=1986736,1986937",
+      "modified": "2025-09-29T21:25:55.552831+00:00",
+      "note": "Various [security fixes][1].\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/mfsa2025-79",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
@@ -32,10 +32,10 @@
     }
   ],
   "product": "Firefox for Android",
-  "release_date": "2025-09-23",
-  "slug": "firefox-for-android-143.0.2-release",
+  "release_date": "2025-09-30",
+  "slug": "firefox-for-android-143.0.3-release",
   "system_requirements": "## Operating systems\r\n - Android 5.0 or newer",
   "text": "Thanks for using Firefox! Have feedback or suggestions? We'd love to hear from you at [Android Support][1]\r\n\r\n\r\n  [1]: https://mzl.la/AndroidSupport",
-  "title": "Firefox for Android 143.0.2 Release",
-  "version": "143.0.2"
+  "title": "Firefox for Android 143.0.3 Release",
+  "version": "143.0.3"
 }
