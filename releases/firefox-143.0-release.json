@@ -176,6 +176,18 @@
     },
     {
       "bug": null,
+      "created": "2025-09-30T02:44:47.958636+00:00",
+      "id": 791175,
+      "is_public": true,
+      "modified": "2025-09-30T02:44:48.426425+00:00",
+      "note": "When the Inspector is focused, the eyedropper can now be launched to pick a color via the `Ctrl+Shift+Y` keyboard shortcut.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
+      "bug": null,
       "created": "2025-09-11T15:49:31.165782+00:00",
       "id": 791119,
       "is_public": true,
