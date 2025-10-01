@@ -113,6 +113,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "HTML5"
+    },
+    {
+      "bug": 1955251,
+      "created": "2025-10-01T09:05:15.723107+00:00",
+      "id": 791178,
+      "is_public": true,
+      "modified": "2025-10-01T09:05:39.516040+00:00",
+      "note": "Starting with Firefox 145, the [Trusted Types API][1], primarily aimed at preventing cross-site scripting attacks, is now enabled in Nightly.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/Trusted_Types_API",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
     }
   ],
   "product": "Firefox",
