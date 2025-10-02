@@ -137,6 +137,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "HTML5"
+    },
+    {
+      "bug": 1991752,
+      "created": "2025-10-02T18:09:33.945568+00:00",
+      "id": 791181,
+      "is_public": true,
+      "modified": "2025-10-02T18:09:34.841596+00:00",
+      "note": "Added Matroska support for the most commonly used codecs: AVC, HEVC, VP8, VP9, AV1, AAC, Opus, and Vorbis.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
     }
   ],
   "product": "Firefox",
