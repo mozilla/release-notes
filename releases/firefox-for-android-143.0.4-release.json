@@ -53,18 +53,6 @@
       "relevant_countries": [],
       "sort_num": 30,
       "tag": "Fixed"
-    },
-    {
-      "bug": 1990699,
-      "created": "2025-10-02T20:50:57.164454+00:00",
-      "id": 791186,
-      "is_public": true,
-      "modified": "2025-10-02T20:50:57.164223+00:00",
-      "note": "Improved connection fallback behavior to mitigate sporadic slow/failed loads on some Google sites. ([Bug 1990699][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1990699",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 10,
-      "tag": "Fixed"
     }
   ],
   "product": "Firefox for Android",
