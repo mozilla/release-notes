@@ -31,6 +31,18 @@
       "tag": "Changed"
     },
     {
+      "bug": 1988794,
+      "created": "2025-10-02T16:15:27.242821+00:00",
+      "id": 791179,
+      "is_public": true,
+      "modified": "2025-10-02T16:15:28.071681+00:00",
+      "note": "Horizontal tabs are now slightly more round, following the look of vertical tabs. Buttons and text inputs, including the Address bar, have been updated as well for consistency.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
       "bug": 1945683,
       "created": "2025-09-06T13:56:45.349825+00:00",
       "id": 791095,
