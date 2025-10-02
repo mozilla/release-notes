@@ -47,11 +47,23 @@
       "created": "2025-10-02T20:40:24.241962+00:00",
       "id": 791184,
       "is_public": true,
-      "modified": "2025-10-02T20:40:24.705944+00:00",
-      "note": "Fixed an issue where links that redirect to an app (e.g., Google Drive) didn\u2019t show the \"Open in app\" prompt. ([Bug 1980753][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1980753",
+      "modified": "2025-10-02T20:52:08.854620+00:00",
+      "note": "Fixed an issue where opening links to external applications in a new tab did not trigger the \"Open in app\" prompt. ([Bug 1980753][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1980753",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 30,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1990699,
+      "created": "2025-10-02T20:50:57.164454+00:00",
+      "id": 791186,
+      "is_public": true,
+      "modified": "2025-10-02T20:50:57.164223+00:00",
+      "note": "Improved connection fallback behavior to mitigate sporadic slow/failed loads on some Google sites. ([Bug 1990699][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1990699",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 10,
       "tag": "Fixed"
     }
   ],
