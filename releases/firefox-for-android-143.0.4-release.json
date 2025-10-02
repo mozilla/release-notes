@@ -17,6 +17,30 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": ""
+    },
+    {
+      "bug": 1990978,
+      "created": "2025-10-02T18:15:50.691071+00:00",
+      "id": 791182,
+      "is_public": true,
+      "modified": "2025-10-02T18:15:51.140805+00:00",
+      "note": "Fixed an issue where deleted history entries could reappear after a restart. ([Bug 1990978][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1990978",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 50,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1990183,
+      "created": "2025-10-02T18:21:44.856837+00:00",
+      "id": 791183,
+      "is_public": true,
+      "modified": "2025-10-02T18:21:45.190441+00:00",
+      "note": "Fixed a crash affecting some devices when installing a site as a PWA to the home screen. ([Bug 1990183][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1990183",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 40,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox for Android",
