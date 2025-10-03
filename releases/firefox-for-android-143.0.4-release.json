@@ -53,6 +53,18 @@
       "relevant_countries": [],
       "sort_num": 30,
       "tag": "Fixed"
+    },
+    {
+      "bug": 1992172,
+      "created": "2025-10-03T11:35:32.927767+00:00",
+      "id": 791187,
+      "is_public": true,
+      "modified": "2025-10-03T11:35:33.384071+00:00",
+      "note": "Fixed YouTube video playback issues on devices running older Android versions. ([Bug 1992172][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1992172",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 20,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox for Android",
