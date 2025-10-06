@@ -68,6 +68,18 @@
     },
     {
       "bug": null,
+      "created": "2025-10-06T17:34:16.201183+00:00",
+      "id": 791192,
+      "is_public": true,
+      "modified": "2025-10-06T17:34:16.616878+00:00",
+      "note": "The following languages are now available for translation:\r\n\r\n - Azerbaijani\r\n - Bangla\r\n - Icelandic",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 3,
+      "tag": "New"
+    },
+    {
+      "bug": null,
       "created": "2025-09-24T18:38:56.377937+00:00",
       "id": 791142,
       "is_public": true,
@@ -277,6 +289,18 @@
       "is_public": true,
       "modified": "2025-09-24T18:03:02.611328+00:00",
       "note": "Various [security fixes][1].\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2025-10-06T17:39:19.854678+00:00",
+      "id": 791193,
+      "is_public": true,
+      "modified": "2025-10-06T17:39:20.251988+00:00",
+      "note": "The following languages may have improved translation quality:\r\n\r\n - Arabic\r\n - Bulgarian\r\n - Catalan\r\n - Chinese (Simplified)\r\n - Czech\r\n - Dutch\r\n - Estonian\r\n - Finnish\r\n - French\r\n - German\r\n - Hungarian\r\n - Italian\r\n - Japanese\r\n - Portugues\r\n - Persian\r\n - Spanish\r\n - Ukrainian",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
