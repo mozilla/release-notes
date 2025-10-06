@@ -4,18 +4,42 @@
   "channel": "Release",
   "created": "2025-09-24T18:01:23.774860+00:00",
   "is_public": false,
-  "modified": "2025-09-24T18:01:23.774663+00:00",
+  "modified": "2025-10-06T17:32:15.524020+00:00",
   "notes": [
     {
       "bug": null,
       "created": "2025-10-06T17:22:46.763518+00:00",
       "id": 791189,
       "is_public": true,
-      "modified": "2025-10-06T17:22:47.256302+00:00",
-      "note": "Focus on just one tab in a group without the clutter. Your active tab stays in view, keeping things tidy even with the group collapsed.\r\n\r\n<img src=\"https://www.mozilla.org/media/img/firefox/releasenotes/note-images/144_tab_focus.png\" alt=\"Screenshot showing camera preview inside permission dialog\">",
+      "modified": "2025-10-06T17:25:29.681478+00:00",
+      "note": "Focus on just one tab in a group without the clutter. Your active tab stays in view, keeping things tidy even with the group collapsed.\r\n\r\n\r\n\r\n<img src=\"https://www.mozilla.org/media/img/firefox/releasenotes/note-images/144_tab_focus.png\" width=\"700\" alt=\"image for tab focus\">",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 15,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2025-10-06T17:27:19.647868+00:00",
+      "id": 791190,
+      "is_public": true,
+      "modified": "2025-10-06T17:27:19.647654+00:00",
+      "note": "We\u2019re excited to share another tab groups update that addresses a top request from our community! You can now drag a tab into a collapsed group without automatically expanding it. It\u2019s a quick way to stay organized while minimizing visual distractions.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 14,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2025-10-06T17:32:05.425928+00:00",
+      "id": 791191,
+      "is_public": true,
+      "modified": "2025-10-06T17:32:05.832887+00:00",
+      "note": "[Profile management][1], now available to all users Globally, helps protect your privacy and stay focused by separating your online life into distinct profiles \u2014 for work, school, vacation planning, or whatever you choose. You can now name your profiles and customize them with avatars and color themes for easy recognition, then quickly switch between them \u2014 all while keeping bookmarks, tabs, and browsing history completely separate.\r\n\r\n<img src=\"https://www.mozilla.org/media/img/firefox/releasenotes/note-images/144_profile_mgmt.png\" width=\"700\" alt=\"image for profile management\">\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/profile-management",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 13,
       "tag": "New"
     },
     {
