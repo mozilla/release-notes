@@ -68,14 +68,38 @@
     },
     {
       "bug": null,
-      "created": "2025-10-06T17:34:16.201183+00:00",
-      "id": 791192,
+      "created": "2025-10-06T17:45:40.733717+00:00",
+      "id": 791194,
       "is_public": true,
-      "modified": "2025-10-06T17:34:16.616878+00:00",
-      "note": "The following languages are now available for translation:\r\n\r\n - Azerbaijani\r\n - Bangla\r\n - Icelandic",
+      "modified": "2025-10-06T17:48:10.421518+00:00",
+      "note": "**Visual search powered by Google Lens**\r\n\r\nWith just a right-click on any image, you can now:\r\n\u2728 Find similar products, places, or objects\r\n\u2728 Copy, translate, or search text from images\r\n\u2728 Get inspiration for learning, travel, or shopping\r\n\r\n\r\nLook for the new \u201c**Search Image with Google Lens**\u201d option in your right-click menu (highlighted with a **NEW** badge at first).\r\nThis is a **desktop-only feature**, available worldwide. Your **default search engine must be set to Google** in order to use it.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 4,
+      "tag": ""
+    },
+    {
+      "bug": null,
+      "created": "2025-10-06T17:47:21.253439+00:00",
+      "id": 791195,
+      "is_public": true,
+      "modified": "2025-10-06T17:47:55.341680+00:00",
+      "note": "**Perplexity AI Search in Firefox**\r\n\r\nOn desktop, Firefox now includes **Perplexity**, an AI-powered answer engine built into the browser. Perplexity delivers direct, conversational answers to complex questions, helping you get quick summaries, accurate references, or creative inspiration without digging through multiple sources. It\u2019s available worldwide from the address bar via the unified search button.",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 3,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2025-10-06T17:34:16.201183+00:00",
+      "id": 791192,
+      "is_public": true,
+      "modified": "2025-10-06T17:47:32.260414+00:00",
+      "note": "The following languages are now available for translation:\r\n\r\n - Azerbaijani\r\n - Bangla\r\n - Icelandic",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 1,
       "tag": "New"
     },
     {

@@ -32,6 +32,18 @@
     },
     {
       "bug": null,
+      "created": "2025-10-06T17:49:47.489394+00:00",
+      "id": 791196,
+      "is_public": true,
+      "modified": "2025-10-06T17:49:48.056192+00:00",
+      "note": "We have [raised the minimum supported Android version from 5 to 8][1].\r\n\r\n\r\n  [1]: https://blog.mozilla.org/futurereleases/2025/09/15/raising-the-minimum-android-version-for-firefox/",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 70,
+      "tag": "New"
+    },
+    {
+      "bug": null,
       "created": "2025-09-24T18:01:52.024651+00:00",
       "id": 791139,
       "is_public": true,
