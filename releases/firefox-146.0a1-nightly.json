@@ -2,9 +2,9 @@
   "bug_list": "",
   "bug_search_url": "",
   "channel": "Nightly",
-  "created": "2025-09-11T09:26:14.009807+00:00",
-  "is_public": true,
-  "modified": "2025-09-16T06:16:55.239240+00:00",
+  "created": "2025-10-07T16:21:42.759115+00:00",
+  "is_public": false,
+  "modified": "2025-10-07T16:22:19.866111+00:00",
   "notes": [
     {
       "bug": 1972350,
@@ -43,36 +43,12 @@
       "tag": "Changed"
     },
     {
-      "bug": 1988794,
-      "created": "2025-10-02T16:15:27.242821+00:00",
-      "id": 791179,
-      "is_public": true,
-      "modified": "2025-10-07T16:22:16.829475+00:00",
-      "note": "Horizontal tabs are now slightly more round, following the look of vertical tabs. Buttons and text inputs, including the Address bar, have been updated as well for consistency.",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "Changed"
-    },
-    {
       "bug": 1945683,
       "created": "2025-09-06T13:56:45.349825+00:00",
       "id": 791095,
       "is_public": true,
       "modified": "2025-10-07T16:21:42.794310+00:00",
       "note": "Starting with Firefox 144, layer compositor is enabled for WebRender on Windows in Firefox Nightly.",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "HTML5"
-    },
-    {
-      "bug": 1884148,
-      "created": "2025-09-18T09:14:10.352524+00:00",
-      "id": 791129,
-      "is_public": true,
-      "modified": "2025-10-07T16:22:11.335837+00:00",
-      "note": "Support has been added for the `Atomics.waitAsync` proposal, which is a non-blocking, asynchronous version of `Atomics.wait`. This allow synchronization of threads based upon the value in a shared memory location, for more details please consult our [MDN documentation][1].\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Atomics/waitAsync",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
@@ -127,18 +103,6 @@
       "tag": "HTML5"
     },
     {
-      "bug": 1984973,
-      "created": "2025-09-29T10:36:46.844962+00:00",
-      "id": 791165,
-      "is_public": true,
-      "modified": "2025-10-07T16:22:08.304510+00:00",
-      "note": "Firefox now partially supports the new [`Integrity-Policy`][1] header, which is used to enforce sub-resource integrity for scripts.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Headers/Integrity-Policy",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "HTML5"
-    },
-    {
       "bug": 1955251,
       "created": "2025-10-01T09:05:15.723107+00:00",
       "id": 791178,
@@ -149,25 +113,13 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "HTML5"
-    },
-    {
-      "bug": 1991752,
-      "created": "2025-10-02T18:09:33.945568+00:00",
-      "id": 791181,
-      "is_public": true,
-      "modified": "2025-10-07T16:22:15.262698+00:00",
-      "note": "Added Matroska support for the most commonly used codecs: AVC, HEVC, VP8, VP9, AV1, AAC, Opus, and Vorbis.",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "HTML5"
     }
   ],
   "product": "Firefox",
-  "release_date": "2025-09-15",
-  "slug": "firefox-145.0a1-nightly",
+  "release_date": "2025-10-13",
+  "slug": "firefox-146.0a1-nightly",
   "system_requirements": "## Windows\r\n\r\n### Operating Systems (32-bit and 64-bit)\r\n - Windows 10 or later\r\n\r\n### Recommended Hardware\r\n-  1 gigahertz (GHz) or faster compatible processor or System on a Chip (SoC)\r\n-  1GB of RAM / 2GB of RAM for the 64-bit version\r\n-  500MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- macOS 10.15 or later\r\n\r\n### Recommended Hardware\r\n- Macintosh computer with an Intel x86 or Apple silicon processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - glibc 2.17 or higher (2.28 or higher on arm64)\r\n    - GTK+ 3.14 or higher\r\n    - libglib 2.42 or higher\r\n    - libstdc++ 4.8.1 or higher (6.0 or higher on arm64)\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - DBus 1.0 or higher\r\n    - NetworkManager 0.7 or higher\r\n    - PulseAudio",
   "text": "Firefox Nightly gets updated every day and as a consequence, the release notes for the Nightly channel are updated continuously to reflect features that have reached sufficient maturity to benefit from community feedback and bug reports. \r\n\r\n**Warning: Features listed here may or may *not* make a final release of Firefox.**\r\n\r\nIn addition to these release notes, you can follow ongoing development on our [@FirefoxNightly][1] Bluesky account, our [@FirefoxNightly][4] Mastodon account as well as read our [Nightly Blog][2].\r\n\r\nYou can interact with other Firefox Nightly users and give your feedback to Mozilla staff in the [Nightly Matrix room][3] on chat.mozilla.org.\r\n\r\n\r\n  [1]: https://bsky.app/profile/firefoxnightly.bsky.social\r\n  [2]: https://blog.nightly.mozilla.org\r\n  [3]: https://chat.mozilla.org/?#/room/#nightly:mozilla.org\r\n  [4]: https://mastodon.social/@FirefoxNightly",
-  "title": "Firefox 145.0a1 Nightly",
-  "version": "145.0a1"
+  "title": "Firefox 146.0a1 Nightly",
+  "version": "146.0a1"
 }
