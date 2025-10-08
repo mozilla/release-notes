@@ -4,7 +4,7 @@
   "channel": "Nightly",
   "created": "2025-10-07T16:21:42.759115+00:00",
   "is_public": false,
-  "modified": "2025-10-07T19:40:56.651592+00:00",
+  "modified": "2025-10-08T12:25:23.049518+00:00",
   "notes": [
     {
       "bug": 1945683,
@@ -25,18 +25,6 @@
       "is_public": true,
       "modified": "2025-10-07T16:21:42.794310+00:00",
       "note": "Starting with Firefox 145, the [text-autospace][1] property is supported, allowing automatic spacing adjustments between characters from different scripts.\r\n\r\n  [1]: https://drafts.csswg.org/css-text-4/#text-autospace-property",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "HTML5"
-    },
-    {
-      "bug": 1988938,
-      "created": "2025-09-29T09:31:27.173910+00:00",
-      "id": 791162,
-      "is_public": true,
-      "modified": "2025-10-07T16:21:42.794310+00:00",
-      "note": "Starting with Firefox 145, we now support the legacy `-webkit-fill-available` keyword as a value for the CSS `width` and `height` properties, to improve rendering of content on the web that uses this keyword. This keyword is an alias for the recently standardized [`stretch`][1] keyword (which isn't shipping in Firefox yet).\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/width#stretch",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
