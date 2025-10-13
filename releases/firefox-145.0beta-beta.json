@@ -7,6 +7,30 @@
   "modified": "2025-10-13T09:13:11.011895+00:00",
   "notes": [
     {
+      "bug": 1990369,
+      "created": "2025-10-10T10:09:20.088908+00:00",
+      "id": 791201,
+      "is_public": true,
+      "modified": "2025-10-13T09:34:32.323238+00:00",
+      "note": "Right-clicking an image now shows a *Search Image with Google Lens* menu item if Google is your default engine. Most common image formats are supported.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1993501,
+      "created": "2025-10-10T12:38:02.952158+00:00",
+      "id": 791202,
+      "is_public": true,
+      "modified": "2025-10-13T09:35:26.972637+00:00",
+      "note": "Copy Link to Highlight allows users to [share arbitrary sections of page][1] with others by copying a link through the context menu with a given selection.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/URI/Reference/Fragment/Text_fragments",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1987132,
       "created": "2025-09-16T11:56:34.434584+00:00",
       "id": 791128,
