@@ -55,6 +55,18 @@
       "tag": "New"
     },
     {
+      "bug": null,
+      "created": "2025-10-14T11:54:34.618733+00:00",
+      "id": 791204,
+      "is_public": true,
+      "modified": "2025-10-14T11:54:35.523397+00:00",
+      "note": "Starting with Firefox 145, macOS Nightly users will, by default, have a dedicated GPU process. This includes WebGPU, WebGL, and Firefox's own WebRender. With this feature enabled, fatal errors in graphics code will no longer crash the browser, and will instead transparently restart the GPU process. This feature can be disabled by the pref `layers.gpu-process.enabled`.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1987132,
       "created": "2025-09-16T11:56:34.434584+00:00",
       "id": 791128,
