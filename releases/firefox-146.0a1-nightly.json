@@ -4,7 +4,7 @@
   "channel": "Nightly",
   "created": "2025-10-07T16:21:42.759115+00:00",
   "is_public": true,
-  "modified": "2025-10-14T09:57:42.086477+00:00",
+  "modified": "2025-10-14T19:19:39.116329+00:00",
   "notes": [
     {
       "bug": null,
@@ -13,6 +13,18 @@
       "is_public": true,
       "modified": "2025-10-14T11:54:35.523397+00:00",
       "note": "Starting with Firefox 145, macOS Nightly users will, by default, have a dedicated GPU process. This includes WebGPU, WebGL, and Firefox's own WebRender. With this feature enabled, fatal errors in graphics code will no longer crash the browser, and will instead transparently restart the GPU process. This feature can be disabled by the pref `layers.gpu-process.enabled`.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1975933,
+      "created": "2025-10-14T19:19:19.842391+00:00",
+      "id": 791205,
+      "is_public": true,
+      "modified": "2025-10-14T19:19:20.942890+00:00",
+      "note": "When a website uses a file upload field (`<input type=file>`) without specifying what types of files it accepts, [Firefox for Android][1] will now offer additional options to make file uploads easier. Users will see choices to pick a file, take a photo, or record audio directly from their device.\r\n\r\n\r\n  [1]: https://play.google.com/store/apps/details?id=org.mozilla.fenix",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
