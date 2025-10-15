@@ -4,7 +4,7 @@
   "channel": "Nightly",
   "created": "2025-10-07T16:21:42.759115+00:00",
   "is_public": true,
-  "modified": "2025-10-14T20:05:22.023453+00:00",
+  "modified": "2025-10-15T19:52:48.672397+00:00",
   "notes": [
     {
       "bug": null,
@@ -25,6 +25,18 @@
       "is_public": true,
       "modified": "2025-10-14T19:19:20.942890+00:00",
       "note": "When a website uses a file upload field (`<input type=file>`) without specifying what types of files it accepts, [Firefox for Android][1] will now offer additional options to make file uploads easier. Users will see choices to pick a file, take a photo, or record audio directly from their device.\r\n\r\n\r\n  [1]: https://play.google.com/store/apps/details?id=org.mozilla.fenix",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1992811,
+      "created": "2025-10-15T19:52:36.310712+00:00",
+      "id": 791207,
+      "is_public": true,
+      "modified": "2025-10-15T19:52:37.192611+00:00",
+      "note": "For users of the English-language versions of Firefox in France, Germany, and Italy, the address bar will now show English-language suggestions for holidays and other important dates.",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
