@@ -17,6 +17,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": ""
+    },
+    {
+      "bug": 1992740,
+      "created": "2025-10-20T15:34:45.427585+00:00",
+      "id": 791209,
+      "is_public": true,
+      "modified": "2025-10-20T15:34:45.968334+00:00",
+      "note": "Fixed an issue where the bottom toolbar could be hidden by the keyboard. ([Bug 1992740][1])\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1992740",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 90,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox for Android",
