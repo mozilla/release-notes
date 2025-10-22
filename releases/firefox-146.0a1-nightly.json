@@ -55,18 +55,6 @@
       "tag": "HTML5"
     },
     {
-      "bug": 1988596,
-      "created": "2025-09-23T07:29:58.286855+00:00",
-      "id": 791135,
-      "is_public": true,
-      "modified": "2025-10-07T16:21:42.794310+00:00",
-      "note": "Starting with Firefox 145, the [text-autospace][1] property is supported, allowing automatic spacing adjustments between characters from different scripts.\r\n\r\n  [1]: https://drafts.csswg.org/css-text-4/#text-autospace-property",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "HTML5"
-    },
-    {
       "bug": 1720570,
       "created": "2025-09-29T09:42:13.440974+00:00",
       "id": 791163,
@@ -109,6 +97,18 @@
       "is_public": true,
       "modified": "2025-10-14T20:04:19.168207+00:00",
       "note": "Starting with Firefox 145,  Nightly builds now support [Storage-Access-Headers][1] allowing servers to opt-in into un-partitioned cookies via HTTP headers if storage-access was granted prior with the [Storage-Access-API][2].\r\n\r\n\r\n  [1]: https://privacycg.github.io/storage-access-headers/\r\n  [2]: https://developer.mozilla.org/en-US/docs/Web/API/Storage_Access_API",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
+      "bug": 1954437,
+      "created": "2025-10-22T16:23:28.893984+00:00",
+      "id": 791212,
+      "is_public": true,
+      "modified": "2025-10-22T16:25:18.622754+00:00",
+      "note": "Starting with Firefox 146, Nightly builds now support the [Sanitizer API][1], which provides new methods for HTML manipulation. The `element.setHTML()` [method][2] enables developers to insert HTML content similarly to `element.innerHTML`, but without the security vulnerabilities such as cross-site scripting (XSS). A complementary method, `document.parseHTML()`, is also available for parsing HTML safely.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/API/Sanitizer\r\n  [2]: https://developer.mozilla.org/docs/Web/API/Element/setHTML",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
