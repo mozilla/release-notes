@@ -43,6 +43,18 @@
       "tag": "Changed"
     },
     {
+      "bug": 1778684,
+      "created": "2025-10-22T14:10:21.638220+00:00",
+      "id": 791211,
+      "is_public": true,
+      "modified": "2025-10-22T14:13:16.983063+00:00",
+      "note": "When a Firefox user has no extensions installed, and clicks the Extensions button on the toolbar, they will now see a message explaining how extensions can elevate their browsing experience with links to the Firefox add-ons store.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
       "bug": 1884148,
       "created": "2025-09-18T09:14:10.352524+00:00",
       "id": 791129,
