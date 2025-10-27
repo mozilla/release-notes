@@ -17,6 +17,42 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": ""
+    },
+    {
+      "bug": 1994642,
+      "created": "2025-10-27T14:18:07.389696+00:00",
+      "id": 791217,
+      "is_public": true,
+      "modified": "2025-10-27T14:18:19.571513+00:00",
+      "note": "Fixed an issue where the list of available locales in `about:settings` contained more locales then were downloaded or currently supported. ([Bug 1994642][1])\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1994642",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 90,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1979826,
+      "created": "2025-10-27T14:21:23.731503+00:00",
+      "id": 791218,
+      "is_public": true,
+      "modified": "2025-10-27T14:21:24.143765+00:00",
+      "note": "Fixed an issue where using the keyboard to open the unified search dropdown was inconsistent. The dropdown now properly expands, allowing search engine selection via keyboard. ([Bug 1979826][1])\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1979826",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 80,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1986533,
+      "created": "2025-10-27T14:23:57.714072+00:00",
+      "id": 791219,
+      "is_public": true,
+      "modified": "2025-10-27T14:23:58.002860+00:00",
+      "note": "Fixed an issue where curated photo collections on Microsoft OneDrive\u2019s \u201cFor You\u201d page failed to load, showing a gray screen instead of content. Collections now display as expected. ([Bug 1986533][1])\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1986533",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 70,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
