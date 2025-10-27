@@ -113,6 +113,18 @@
       "relevant_countries": [],
       "sort_num": 20,
       "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2025-10-27T18:36:47.064021+00:00",
+      "id": 791226,
+      "is_public": true,
+      "modified": "2025-10-27T18:37:01.381714+00:00",
+      "note": "A [security fix][1].\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
