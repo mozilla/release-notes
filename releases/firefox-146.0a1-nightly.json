@@ -113,6 +113,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "Developer"
+    },
+    {
+      "bug": 1719461,
+      "created": "2025-10-27T16:15:01.451861+00:00",
+      "id": 791225,
+      "is_public": true,
+      "modified": "2025-10-27T16:15:02.071932+00:00",
+      "note": "Unused custom properties are now hidden by default in the Rule view of the Inspector.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Developer"
     }
   ],
   "product": "Firefox",
