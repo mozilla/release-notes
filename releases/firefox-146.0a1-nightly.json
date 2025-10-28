@@ -4,7 +4,7 @@
   "channel": "Nightly",
   "created": "2025-10-07T16:21:42.759115+00:00",
   "is_public": true,
-  "modified": "2025-10-15T19:52:48.672397+00:00",
+  "modified": "2025-10-28T15:17:21.341975+00:00",
   "notes": [
     {
       "bug": null,
@@ -133,6 +133,18 @@
       "is_public": true,
       "modified": "2025-10-27T16:16:20.972559+00:00",
       "note": "Unused custom properties are now hidden by default in the Rule view of the Inspector.\r\nThis not only reduces clutter, but in some cases also speeds up the rendering of the inspector panel.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
+      "bug": 1992708,
+      "created": "2025-10-28T15:16:53.680088+00:00",
+      "id": 791228,
+      "is_public": true,
+      "modified": "2025-10-28T15:16:54.347799+00:00",
+      "note": "Firefox now supports sending a post-quantum (PQ) key share during the DTLS 1.3 handshake for WebRTC connections.",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
