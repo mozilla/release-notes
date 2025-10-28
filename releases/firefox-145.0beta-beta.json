@@ -31,6 +31,18 @@
       "tag": "New"
     },
     {
+      "bug": 1992228,
+      "created": "2025-10-28T09:23:56.567748+00:00",
+      "id": 791227,
+      "is_public": true,
+      "modified": "2025-10-28T09:23:57.503799+00:00",
+      "note": "Need a reminder of what tabs are in a group? Hover over the tab group name to get a preview of the tabs inside without opening it.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1987132,
       "created": "2025-09-16T11:56:34.434584+00:00",
       "id": 791128,
@@ -73,18 +85,6 @@
       "is_public": true,
       "modified": "2025-10-13T09:16:17.316995+00:00",
       "note": "Support has been added for the `Atomics.waitAsync` proposal, which is a non-blocking, asynchronous version of `Atomics.wait`. This allow synchronization of threads based upon the value in a shared memory location, for more details please consult our [MDN documentation][1].\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Atomics/waitAsync",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "HTML5"
-    },
-    {
-      "bug": 1988938,
-      "created": "2025-09-29T09:31:27.173910+00:00",
-      "id": 791162,
-      "is_public": true,
-      "modified": "2025-10-13T09:18:43.815852+00:00",
-      "note": "We now support the legacy `-webkit-fill-available` keyword as a value for the CSS `width` and `height` properties, to improve rendering of content on the web that uses this keyword. This keyword is an alias for the recently standardized [`stretch`][1] keyword (which isn't shipping in Firefox yet).\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/width#stretch",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
