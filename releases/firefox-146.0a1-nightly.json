@@ -4,7 +4,7 @@
   "channel": "Nightly",
   "created": "2025-10-07T16:21:42.759115+00:00",
   "is_public": true,
-  "modified": "2025-10-29T17:36:44.648125+00:00",
+  "modified": "2025-10-29T18:25:12.857282+00:00",
   "notes": [
     {
       "bug": null,
@@ -169,6 +169,18 @@
       "is_public": true,
       "modified": "2025-10-29T17:36:38.784551+00:00",
       "note": "Firefox now supports compressed elliptic curve points in WebCrypto.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
+      "bug": 1682439,
+      "created": "2025-10-29T18:25:08.912210+00:00",
+      "id": 791231,
+      "is_public": true,
+      "modified": "2025-10-29T18:25:09.386763+00:00",
+      "note": "Firefox now supports the `contrast-color()` CSS function that takes a color value and returns a contrasting color. Note that [the specification][1] currently restricts the contrasting color to black or white. This limitation is expected to be removed in the future.\r\n([Learn more][2])\r\n\r\n\r\n  [1]: https://www.w3.org/TR/css-color-5/#contrast-color\r\n  [2]: https://developer.mozilla.org/docs/Web/CSS/color_value/contrast-color",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
