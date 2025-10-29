@@ -4,7 +4,7 @@
   "channel": "Nightly",
   "created": "2025-10-07T16:21:42.759115+00:00",
   "is_public": true,
-  "modified": "2025-10-28T15:17:21.341975+00:00",
+  "modified": "2025-10-29T17:36:44.648125+00:00",
   "notes": [
     {
       "bug": null,
@@ -157,6 +157,18 @@
       "is_public": true,
       "modified": "2025-10-28T15:16:54.347799+00:00",
       "note": "Firefox now supports sending a post-quantum (PQ) key share during the DTLS 1.3 handshake for WebRTC connections.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
+      "bug": 1971499,
+      "created": "2025-10-29T17:36:38.332148+00:00",
+      "id": 791230,
+      "is_public": true,
+      "modified": "2025-10-29T17:36:38.784551+00:00",
+      "note": "Firefox now supports compressed elliptic curve points in WebCrypto.",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
