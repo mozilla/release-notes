@@ -67,6 +67,18 @@
       "tag": "New"
     },
     {
+      "bug": 1988990,
+      "created": "2025-10-29T17:18:41.984881+00:00",
+      "id": 791229,
+      "is_public": true,
+      "modified": "2025-10-29T17:19:39.226747+00:00",
+      "note": "Starting with Firefox 145, Nightly and Early-beta builds can now find previously visited pages using Semantic History Search, which lets users recall sites with natural-language and concept-based queries, all processed locally for privacy. ([Learn more][1])\r\n\r\n\r\n  [1]: https://blog.mozilla.org/en/firefox/better-search-suggestions/",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1987132,
       "created": "2025-09-16T11:56:34.434584+00:00",
       "id": 791128,
