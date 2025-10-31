@@ -185,6 +185,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "Developer"
+    },
+    {
+      "bug": 1767228,
+      "created": "2025-10-31T18:50:38.482738+00:00",
+      "id": 791232,
+      "is_public": true,
+      "modified": "2025-10-31T18:50:50.472420+00:00",
+      "note": "Added support for calling [showPicker()][1] on text-based `<input>` elements with an associated `<datalist>`, allowing programmatic display of autofill suggestions.\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/API/HTMLInputElement/showPicker#showpicker_for_a_datalist_input",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Developer"
     }
   ],
   "product": "Firefox",
