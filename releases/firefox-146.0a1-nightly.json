@@ -55,6 +55,18 @@
       "tag": "New"
     },
     {
+      "bug": 1972647,
+      "created": "2025-11-03T16:06:08.252142+00:00",
+      "id": 791233,
+      "is_public": true,
+      "modified": "2025-11-03T16:06:08.747061+00:00",
+      "note": "Firefox Labs is now available to all users, regardless of whether or not they choose to participate in studies or submit telemetry. That means we have more features in the hands of more people.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1945683,
       "created": "2025-09-06T13:56:45.349825+00:00",
       "id": 791095,
