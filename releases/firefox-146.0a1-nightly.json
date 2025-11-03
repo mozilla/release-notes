@@ -233,6 +233,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "Developer"
+    },
+    {
+      "bug": 1979288,
+      "created": "2025-11-03T18:17:00.487451+00:00",
+      "id": 791236,
+      "is_public": true,
+      "modified": "2025-11-03T18:17:00.997470+00:00",
+      "note": "Starting with Firefox 146, Nightly builds now support the Navigation API. This API provides the ability to initiate, intercept, and manage browser navigation actions. It is a successor to previous web platform features such as the History API and `window.location`, which solves their shortcomings.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Developer"
     }
   ],
   "product": "Firefox",
