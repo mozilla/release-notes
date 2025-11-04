@@ -245,6 +245,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "Developer"
+    },
+    {
+      "bug": 1991105,
+      "created": "2025-11-04T15:34:10.607516+00:00",
+      "id": 791237,
+      "is_public": true,
+      "modified": "2025-11-04T15:34:11.034282+00:00",
+      "note": "The [@scope][1] rule is now supported, allowing authors to restrict styling to a subtree of the DOM. This avoids having to write overly-specific selectors.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/CSS/@scope",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Developer"
     }
   ],
   "product": "Firefox",
