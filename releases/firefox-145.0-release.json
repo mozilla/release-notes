@@ -31,6 +31,78 @@
       "tag": "New"
     },
     {
+      "bug": 1987132,
+      "created": "2025-09-16T11:56:34.434584+00:00",
+      "id": 791128,
+      "is_public": true,
+      "modified": "2025-11-06T21:34:43.788956+00:00",
+      "note": "Starting with Firefox 145, [32-bit Linux is no longer supported][1]. We encourage users to install a 64-bit version of Firefox.\r\n\r\n\r\n  [1]: https://blog.mozilla.org/futurereleases/2025/09/05/firefox-32-bit-linux-support-to-end-in-2026/",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
+      "bug": 1884148,
+      "created": "2025-09-18T09:14:10.352524+00:00",
+      "id": 791129,
+      "is_public": true,
+      "modified": "2025-11-06T21:35:10.233256+00:00",
+      "note": "Support has been added for the `Atomics.waitAsync` proposal, which is a non-blocking, asynchronous version of `Atomics.wait`. This allow synchronization of threads based upon the value in a shared memory location, for more details please consult our [MDN documentation][1].\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Atomics/waitAsync",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 1991752,
+      "created": "2025-10-02T18:09:33.945568+00:00",
+      "id": 791181,
+      "is_public": true,
+      "modified": "2025-11-06T21:36:29.336880+00:00",
+      "note": "Added Matroska support for the most commonly used codecs: AVC, HEVC, VP8, VP9, AV1, AAC, Opus, and Vorbis.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 1981086,
+      "created": "2025-10-20T15:43:23.519219+00:00",
+      "id": 791210,
+      "is_public": true,
+      "modified": "2025-11-06T21:36:48.200513+00:00",
+      "note": "The [text-autospace][1] property is now supported, allowing automatic spacing adjustments between characters from different scripts.\r\n\r\n\r\n  [1]: https://drafts.csswg.org/css-text-4/#text-autospace-property",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": null,
+      "created": "2025-11-06T21:37:45.975860+00:00",
+      "id": 791249,
+      "is_public": true,
+      "modified": "2025-11-06T21:37:46.731011+00:00",
+      "note": "Microsoft UI Automation phased release rollout at 100%. Microsoft UI Automation is the new accessibility framework for Microsoft Windows. This will provide better assistive technology (AT) support and performance on Windows for current and future assistive technologies.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": null,
+      "created": "2025-11-06T21:39:51.467430+00:00",
+      "id": 791250,
+      "is_public": true,
+      "modified": "2025-11-06T21:39:52.125350+00:00",
+      "note": "The WebGPU DOM API ([spec][1]; [MDN][2]) is now available on macOS 26 (Tahoe) on Apple Silicon. For details, see the [Mozilla Graphics Team Blog][3].\r\n\r\n\r\n  [1]: https://www.w3.org/TR/webgpu/\r\n  [2]: https://developer.mozilla.org/docs/Web/API/WebGPU_API\r\n  [3]: https://mozillagfx.wordpress.com/",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
       "bug": null,
       "created": "2025-11-06T20:51:50.847460+00:00",
       "id": 791247,
