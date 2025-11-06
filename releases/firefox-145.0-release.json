@@ -47,12 +47,12 @@
       "created": "2025-11-06T22:45:30.270365+00:00",
       "id": 791251,
       "is_public": true,
-      "modified": "2025-11-06T22:45:30.270183+00:00",
+      "modified": "2025-11-06T23:04:02.850825+00:00",
       "note": "With the new Open links from apps next to your active tab setting, you can have links from other applications open next to your active tab instead of at the end of the tab strip.\r\n\r\n<img alt=\"A screenshot of the Open links from apps  option in preferences\" src=\"https://www.mozilla.org/media/img/firefox/releasenotes/note-images/145_open_link_next.png\" width=\"700\">",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
-      "tag": ""
+      "tag": "New"
     },
     {
       "bug": null,
@@ -73,6 +73,30 @@
       "is_public": true,
       "modified": "2025-11-06T23:00:40.382784+00:00",
       "note": "**Passwords in the Sidebar**: You can now access and manage your saved passwords right from the sidebar\u2014no need to open a new tab or window. Stay on the page you\u2019re on and get to your logins faster.\r\n\r\n<img alt=\"A screenshot of the Passwords in the sidebar\" src=\"https://www.mozilla.org/media/img/firefox/releasenotes/note-images/145_passwords_sidebar.png\" width=\"700\">",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2025-11-06T23:01:16.924881+00:00",
+      "id": 791258,
+      "is_public": true,
+      "modified": "2025-11-06T23:01:17.437621+00:00",
+      "note": "New brand-inspired wallpapers for New Tab Desktop, suitable for light and dark mode.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2025-11-06T23:02:40.992364+00:00",
+      "id": 791259,
+      "is_public": true,
+      "modified": "2025-11-06T23:02:41.509539+00:00",
+      "note": "The Translations feature has an improved experience when translating between languages of different script directions.\r\n\r\n<video src=\"https://www.mozilla.org/media/img/firefox/releasenotes/note-images/145_translations.mp4\" width=\"800\" autoplay controls></video>",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
@@ -233,6 +257,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2025-11-06T23:08:32.628156+00:00",
+      "id": 791260,
+      "is_public": true,
+      "modified": "2025-11-06T23:08:33.365156+00:00",
+      "note": "With the release of Firefox 145, we are pleased to welcome the developers who contributed their first code change to Firefox in this release, 5 of whom were brand new volunteers! Please join us in thanking each of these diligent and enthusiastic individuals, and take a look at their contributions:\r\n\r\n* Alex Hill: <a href=\"https://bugzilla.mozilla.org/627771\">627771</a>\r\n* Khalid AlHaddad: <a href=\"https://bugzilla.mozilla.org/1882718\">1882718</a>, <a href=\"https://bugzilla.mozilla.org/1975161\">1975161</a>\r\n* Mag Mukendi: <a href=\"https://bugzilla.mozilla.org/1982207\">1982207</a>\r\n* Mateo Mihm: <a href=\"https://bugzilla.mozilla.org/1957059\">1957059</a>\r\n* Tatsunori Uchino: <a href=\"https://bugzilla.mozilla.org/1950321\">1950321</a>",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Community"
     }
   ],
   "product": "Firefox",
