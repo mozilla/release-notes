@@ -8,6 +8,18 @@
   "notes": [
     {
       "bug": null,
+      "created": "2025-11-06T22:48:17.626612+00:00",
+      "id": 791252,
+      "is_public": true,
+      "modified": "2025-11-06T22:49:08.928432+00:00",
+      "note": "Local translation models are now compressed with [Zstandard][1], reducing download sizes and on-device storage consumption. As always, all Firefox translations happen securely and privately on your local device, unlike other browsers that translate using cloud services.\r\n\r\n\r\n  [1]: https://en.wikipedia.org/wiki/Zstd",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
+      "bug": null,
       "created": "2025-11-06T20:50:03.984806+00:00",
       "id": 791246,
       "is_public": true,
