@@ -19,6 +19,18 @@
       "tag": "New"
     },
     {
+      "bug": 1987149,
+      "created": "2025-10-27T13:53:08.929956+00:00",
+      "id": 791213,
+      "is_public": true,
+      "modified": "2025-11-06T22:57:40.349595+00:00",
+      "note": "[Add, edit, and delete comments][1] to make your own notes in PDFs (summaries, questions, tasks, etc.). The comment sidebar helps you scan all your comments and quickly jump to them, which is handy for long or heavily marked-up PDFs.\r\n\r\n<img src=\"https://www.mozilla.org/media/img/firefox/releasenotes/note-images/145_pdf_comments.png\" width=\"700\" alt=\"A screenshot of the add comment functionality in the Firefox PDF Viewer, plus the comment sidebar.\">\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/view-pdf-files-firefox-or-choose-another-viewer#w_add-a-comment-to-a-pdf",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": null,
       "created": "2025-11-06T20:59:31.897004+00:00",
       "id": 791248,
@@ -41,6 +53,30 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": ""
+    },
+    {
+      "bug": null,
+      "created": "2025-11-06T22:58:50.218166+00:00",
+      "id": 791256,
+      "is_public": true,
+      "modified": "2025-11-06T22:58:50.218067+00:00",
+      "note": "To protect users from more sophisticated types of redirection techniques used by online trackers, Enhanced Bounce Tracking Protection's 'stateless' mode is now enabled by default in ETP Strict mode.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2025-11-06T23:00:39.692636+00:00",
+      "id": 791257,
+      "is_public": true,
+      "modified": "2025-11-06T23:00:40.382784+00:00",
+      "note": "**Passwords in the Sidebar**: You can now access and manage your saved passwords right from the sidebar\u2014no need to open a new tab or window. Stay on the page you\u2019re on and get to your logins faster.\r\n\r\n<img alt=\"A screenshot of the Passwords in the sidebar\" src=\"https://www.mozilla.org/media/img/firefox/releasenotes/note-images/145_passwords_sidebar.png\" width=\"700\">",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
     },
     {
       "bug": 1987132,
@@ -85,6 +121,18 @@
       "is_public": true,
       "modified": "2025-11-06T22:49:08.928432+00:00",
       "note": "Local translation models are now compressed with [Zstandard][1], reducing download sizes and on-device storage consumption. As always, all Firefox translations happen securely and privately on your local device, unlike other browsers that translate using cloud services.\r\n\r\n\r\n  [1]: https://en.wikipedia.org/wiki/Zstd",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
+      "bug": null,
+      "created": "2025-11-06T22:51:47.492000+00:00",
+      "id": 791253,
+      "is_public": true,
+      "modified": "2025-11-06T22:51:48.101661+00:00",
+      "note": "Added a new pref `browser.sessionstore.restore_windows_to_virtual_desktop` that, when set to `false`, will make previous session windows restore on the current virtual desktop instead of the virtual desktop they were on when the session was ended.",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
@@ -149,6 +197,30 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "HTML5"
+    },
+    {
+      "bug": null,
+      "created": "2025-11-06T22:56:30.289260+00:00",
+      "id": 791255,
+      "is_public": true,
+      "modified": "2025-11-06T22:56:30.833697+00:00",
+      "note": "Microsoft UI Automation phased release rollout at 100%. Microsoft UI Automation is the new accessibility framework for Microsoft Windows. This will provide better assistive technology (AT) support and performance on Windows for current and future assistive technologies.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
+      "bug": null,
+      "created": "2025-11-06T22:52:56.058759+00:00",
+      "id": 791254,
+      "is_public": true,
+      "modified": "2025-11-06T22:52:56.599999+00:00",
+      "note": "You can find information about policy updates and enterprise specific bug fixes in the [Firefox for Enterprise 145 Release Notes][1].\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/firefox-enterprise-145-release-notes",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Enterprise"
     },
     {
       "bug": null,
