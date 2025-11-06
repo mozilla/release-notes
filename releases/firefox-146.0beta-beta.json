@@ -4,7 +4,7 @@
   "channel": "Beta",
   "created": "2025-11-04T18:38:00.344094+00:00",
   "is_public": false,
-  "modified": "2025-11-04T18:40:04.758715+00:00",
+  "modified": "2025-11-06T20:24:45.841702+00:00",
   "notes": [
     {
       "bug": 1975933,
@@ -73,18 +73,6 @@
       "is_public": true,
       "modified": "2025-11-04T18:38:00.405852+00:00",
       "note": "Firefox now supports the legacy `-webkit-fill-available` keyword as a value for the CSS `width` and `height` properties, to improve rendering of content on the web that uses this keyword. This keyword is an alias for the recently standardized [`stretch`][1] keyword (which isn't shipping in Firefox yet).\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/width#stretch",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "HTML5"
-    },
-    {
-      "bug": 1720570,
-      "created": "2025-09-29T09:42:13.440974+00:00",
-      "id": 791163,
-      "is_public": true,
-      "modified": "2025-11-04T18:38:00.405852+00:00",
-      "note": "Starting with Firefox 145, support has been added for CSS module scripts, disabled by default using the preference `layout.css.module-scripts.enabled`. CSS module scripts allow for [CSS scripts to be imported][1] like ECMAScript modules using import attributes.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import/with",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
