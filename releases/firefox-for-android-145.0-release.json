@@ -1,0 +1,29 @@
+{
+  "bug_list": "",
+  "bug_search_url": "",
+  "channel": "Release",
+  "created": "2025-11-06T20:49:19.905172+00:00",
+  "is_public": false,
+  "modified": "2025-11-06T20:49:38.255808+00:00",
+  "notes": [
+    {
+      "bug": null,
+      "created": "2025-11-06T20:50:03.984806+00:00",
+      "id": 791246,
+      "is_public": true,
+      "modified": "2025-11-06T20:50:04.551062+00:00",
+      "note": "Various [security fixes][1].\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
+    }
+  ],
+  "product": "Firefox for Android",
+  "release_date": "2025-11-11",
+  "slug": "firefox-for-android-145.0-release",
+  "system_requirements": "## Operating systems\r\n - Android 8.0 or newer",
+  "text": "Thanks for using Firefox! Have feedback or suggestions? We'd love to hear from you at [Android Support][1]\r\n\r\n\r\n  [1]: https://mzl.la/AndroidSupport",
+  "title": "Firefox for Android 145.0 Release",
+  "version": "145.0"
+}

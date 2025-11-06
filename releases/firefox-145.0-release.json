@@ -2,9 +2,9 @@
   "bug_list": "",
   "bug_search_url": "",
   "channel": "Release",
-  "created": "2025-09-24T18:01:23.774860+00:00",
-  "is_public": true,
-  "modified": "2025-10-14T12:26:21.418073+00:00",
+  "created": "2025-11-06T20:50:40.312253+00:00",
+  "is_public": false,
+  "modified": "2025-11-06T20:51:03.779557+00:00",
   "notes": [
     {
       "bug": null,
@@ -28,18 +28,6 @@
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 14,
-      "tag": "New"
-    },
-    {
-      "bug": null,
-      "created": "2025-10-06T17:32:05.425928+00:00",
-      "id": 791191,
-      "is_public": true,
-      "modified": "2025-11-06T20:51:15.939655+00:00",
-      "note": "[Profile management][1], now rolling out gradually to users globally over the next few weeks, helps you protect your privacy and stay focused by separating your online life into distinct profiles for work, school, vacation planning, or whatever you choose. You can name your profiles and customize them with avatars and color themes for easy recognition, then quickly switch between them while keeping bookmarks, tabs, and browsing history completely separate. The new Profiles feature is available for Windows 11, Mac, and Linux users, with Windows 10 support coming soon.\r\n\r\n<img src=\"https://www.mozilla.org/media/img/firefox/releasenotes/note-images/144_profile_mgmt.png\" width=\"700\" alt=\"image for profile management\">\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/profile-management",
-      "progressive_rollout": true,
-      "relevant_countries": [],
-      "sort_num": 13,
       "tag": "New"
     },
     {
@@ -68,18 +56,6 @@
     },
     {
       "bug": null,
-      "created": "2025-10-06T17:45:40.733717+00:00",
-      "id": 791194,
-      "is_public": true,
-      "modified": "2025-11-06T20:51:11.107848+00:00",
-      "note": "**Visual search powered by Google Lens**\r\n\r\nWith just a right-click on any image, you can now:\r\n\u2728 Find similar products, places, or objects\r\n\u2728 Copy, translate, or search text from images\r\n\u2728 Get inspiration for learning, travel, or shopping\r\n\r\n\r\nLook for the new \u201c**Search Image with Google Lens**\u201d option in your right-click menu (highlighted with a **NEW** badge at first).\r\nThis is a **desktop-only feature**, rolling out worldwide. Your **default search engine must be set to Google** in order to use it.\r\n\r\n<img src=\"https://www.mozilla.org/media/img/firefox/releasenotes/note-images/144_lens.png\" width=\"700\" alt=\"image for lens\">",
-      "progressive_rollout": true,
-      "relevant_countries": [],
-      "sort_num": 4,
-      "tag": "New"
-    },
-    {
-      "bug": null,
       "created": "2025-10-06T17:47:21.253439+00:00",
       "id": 791195,
       "is_public": true,
@@ -88,18 +64,6 @@
       "progressive_rollout": true,
       "relevant_countries": [],
       "sort_num": 3,
-      "tag": "New"
-    },
-    {
-      "bug": null,
-      "created": "2025-10-06T17:34:16.201183+00:00",
-      "id": 791192,
-      "is_public": true,
-      "modified": "2025-11-06T20:51:14.717577+00:00",
-      "note": "The following languages are now available for translation:\r\n\r\n - Azerbaijani\r\n - Bangla\r\n - Icelandic",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 1,
       "tag": "New"
     },
     {
@@ -308,30 +272,6 @@
     },
     {
       "bug": null,
-      "created": "2025-09-24T18:01:52.024651+00:00",
-      "id": 791139,
-      "is_public": true,
-      "modified": "2025-11-06T20:51:17.922607+00:00",
-      "note": "Various [security fixes][1].\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/mfsa2025-81",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "Fixed"
-    },
-    {
-      "bug": null,
-      "created": "2025-10-06T17:39:19.854678+00:00",
-      "id": 791193,
-      "is_public": true,
-      "modified": "2025-11-06T20:51:13.273222+00:00",
-      "note": "The following languages have improved translation quality:\r\n\r\n - Arabic\r\n - Bulgarian\r\n - Catalan\r\n - Chinese (Simplified)\r\n - Czech\r\n - Dutch\r\n - Estonian\r\n - Finnish\r\n - French\r\n - German\r\n - Hungarian\r\n - Italian\r\n - Japanese\r\n - Portuguese\r\n - Persian\r\n - Spanish\r\n - Ukrainian",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "Fixed"
-    },
-    {
-      "bug": null,
       "created": "2025-09-24T18:37:55.348893+00:00",
       "id": 791141,
       "is_public": true,
@@ -344,10 +284,10 @@
     }
   ],
   "product": "Firefox",
-  "release_date": "2025-10-14",
-  "slug": "firefox-144.0-release",
+  "release_date": "2025-11-11",
+  "slug": "firefox-145.0-release",
   "system_requirements": "## Windows\r\n\r\n### Operating Systems (32-bit and 64-bit)\r\n - Windows 10 or later\r\n\r\n### Recommended Hardware\r\n-  1 gigahertz (GHz) or faster compatible processor or System on a Chip (SoC)\r\n-  1GB of RAM / 2GB of RAM for the 64-bit version\r\n-  500MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- macOS 10.15 or later \r\n\r\n### Recommended Hardware\r\n- Macintosh computer with an Intel x86 or Apple silicon processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - glibc 2.17 or higher (glibc 2.28 or higher on arm64)\r\n    - GTK+ 3.14 or higher\r\n    - libglib 2.42 or higher\r\n    - libstdc++ 4.8.1 or higher (libstdc++ 6.0 or higher on arm64)\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - DBus 1.0 or higher\r\n    - NetworkManager 0.7 or higher\r\n    - PulseAudio",
   "text": "",
-  "title": "Firefox 144.0 Release",
-  "version": "144.0"
+  "title": "Firefox 145.0 Release",
+  "version": "145.0"
 }
