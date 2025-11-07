@@ -19,15 +19,27 @@
       "tag": "New"
     },
     {
+      "bug": null,
+      "created": "2025-11-06T20:59:31.897004+00:00",
+      "id": 791248,
+      "is_public": true,
+      "modified": "2025-11-07T08:45:21.552233+00:00",
+      "note": "This version introduces a new phase of privacy protections, building on our research on reducing browser fingerprinting. These new defenses cut the percentage of users seen as unique almost in half, ensuring a safer and more private browsing experience in Private Browsing or when using *Enhanced Tracking Protection* set to *Strict*.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 90,
+      "tag": "New"
+    },
+    {
       "bug": 1993501,
       "created": "2025-10-10T12:38:02.952158+00:00",
       "id": 791202,
       "is_public": true,
-      "modified": "2025-11-06T21:18:50.600193+00:00",
-      "note": "Copy Link to Highlight allows users to [share arbitrary sections of page][1] with others by copying a link through the context menu with a given selection.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/URI/Reference/Fragment/Text_fragments",
+      "modified": "2025-11-07T08:45:43.709337+00:00",
+      "note": "Copy Link to Highlight allows users to [share arbitrary sections of page][1] with others by copying a link through the context menu with a given selection.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/URI/Reference/Fragment/Text_fragments#:~:text=link%20directly%20to%20specific%20text%20in%20a%20web%20page",
       "progressive_rollout": false,
       "relevant_countries": [],
-      "sort_num": 0,
+      "sort_num": 80,
       "tag": "New"
     },
     {
@@ -37,18 +49,6 @@
       "is_public": true,
       "modified": "2025-11-06T23:18:22.288957+00:00",
       "note": "Need a reminder of what tabs are in a group? Hover over the tab group name to get a preview of the tabs inside without opening it.\r\n\r\n<video src=\"https://www.mozilla.org/media/img/firefox/releasenotes/note-images/145_tab_hover_preview.mp4\" width=\"800\" autoplay controls>Tab Hover Preview Video demonstration</video>",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
-      "bug": null,
-      "created": "2025-11-06T20:59:31.897004+00:00",
-      "id": 791248,
-      "is_public": true,
-      "modified": "2025-11-06T23:22:22.778597+00:00",
-      "note": "This version introduces a new phase of privacy protections, building on our research on reducing browser fingerprinting. These new defenses cut the percentage of users seen as unique almost in half, ensuring a safer and more private browsing experience in Private Browsing or when using *Enhanced Tracking Protection* set to *Strict*.",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
