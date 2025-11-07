@@ -115,6 +115,18 @@
       "tag": "Changed"
     },
     {
+      "bug": null,
+      "created": "2025-11-06T22:51:47.492000+00:00",
+      "id": 791253,
+      "is_public": true,
+      "modified": "2025-11-07T15:15:37.071374+00:00",
+      "note": "Added a new pref `browser.sessionstore.restore_windows_to_virtual_desktop` that, when set to `false`, will make previous session windows restore on the current virtual desktop instead of the virtual desktop they were on when the session was ended.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
       "bug": 1945683,
       "created": "2025-09-06T13:56:45.349825+00:00",
       "id": 791095,
