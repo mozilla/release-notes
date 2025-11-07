@@ -8,6 +8,30 @@
   "notes": [
     {
       "bug": null,
+      "created": "2025-11-07T08:10:22.484715+00:00",
+      "id": 791261,
+      "is_public": true,
+      "modified": "2025-11-07T08:11:02.694629+00:00",
+      "note": "**Stronger site security**: We now enforce [Certificate Transparency][1]. Sites must prove their certificates were publicly logged before we trust them. This applies to certificates issued by CAs in Mozilla\u2019s Root Program.\r\n\r\n\r\n  [1]: https://wiki.mozilla.org/SecurityEngineering/Certificate_Transparency",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2025-11-07T08:12:19.663352+00:00",
+      "id": 791262,
+      "is_public": true,
+      "modified": "2025-11-07T08:12:20.348168+00:00",
+      "note": "**Smarter, faster protection**: Firefox now uses [CRLite][1] to check certificate revocation on your device. Pages load faster with less data shared and stronger protection against bad certificates.\r\n\r\n\r\n  [1]: https://hacks.mozilla.org/2025/08/crlite-fast-private-and-comprehensive-certificate-revocation-checking-in-firefox/",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
       "created": "2025-11-06T22:48:17.626612+00:00",
       "id": 791252,
       "is_public": true,
