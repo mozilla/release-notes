@@ -19,6 +19,18 @@
       "tag": "New"
     },
     {
+      "bug": 1994825,
+      "created": "2025-11-07T12:49:52.674473+00:00",
+      "id": 791266,
+      "is_public": true,
+      "modified": "2025-11-07T14:53:46.359167+00:00",
+      "note": "Improved control over Firefox windows on multiple desktops: Firefox now offers more control over how windows and tabs open or restore across virtual desktops. You can fine-tune this behavior using new preferences, including `widget.prefer_windows_on_current_virtual_desktop`, to match how you want Firefox to handle external links and session restores.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 30,
+      "tag": "New"
+    },
+    {
       "bug": 1972350,
       "created": "2025-08-04T14:55:14.035852+00:00",
       "id": 791022,
