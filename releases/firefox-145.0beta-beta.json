@@ -19,27 +19,27 @@
       "tag": "New"
     },
     {
-      "bug": 1993501,
-      "created": "2025-10-10T12:38:02.952158+00:00",
-      "id": 791202,
+      "bug": 1992228,
+      "created": "2025-10-28T09:23:56.567748+00:00",
+      "id": 791227,
       "is_public": true,
-      "modified": "2025-11-07T08:45:43.709337+00:00",
-      "note": "Copy Link to Highlight allows users to [share arbitrary sections of page][1] with others by copying a link through the context menu with a given selection.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/URI/Reference/Fragment/Text_fragments#:~:text=link%20directly%20to%20specific%20text%20in%20a%20web%20page",
+      "modified": "2025-11-07T12:59:58.995581+00:00",
+      "note": "Need a reminder of what tabs are in a group? Hover over the tab group name to get a preview of the tabs inside without opening it.\r\n\r\n<video src=\"https://www.mozilla.org/media/img/firefox/releasenotes/note-images/145_tab_hover_preview.mp4\" width=\"800\" autoplay controls>Tab Hover Preview Video demonstration</video>",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 80,
       "tag": "New"
     },
     {
-      "bug": 1992228,
-      "created": "2025-10-28T09:23:56.567748+00:00",
-      "id": 791227,
+      "bug": 1993501,
+      "created": "2025-10-10T12:38:02.952158+00:00",
+      "id": 791202,
       "is_public": true,
-      "modified": "2025-11-06T23:18:22.288957+00:00",
-      "note": "Need a reminder of what tabs are in a group? Hover over the tab group name to get a preview of the tabs inside without opening it.\r\n\r\n<video src=\"https://www.mozilla.org/media/img/firefox/releasenotes/note-images/145_tab_hover_preview.mp4\" width=\"800\" autoplay controls>Tab Hover Preview Video demonstration</video>",
+      "modified": "2025-11-07T13:02:15.970258+00:00",
+      "note": "Copy Link to Highlight allows users to [share arbitrary sections of page][1] with others by copying a link through the context menu with a given selection.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/URI/Reference/Fragment/Text_fragments#:~:text=link%20directly%20to%20specific%20text%20in%20a%20web%20page",
       "progressive_rollout": false,
       "relevant_countries": [],
-      "sort_num": 0,
+      "sort_num": 60,
       "tag": "New"
     },
     {
