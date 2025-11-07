@@ -115,6 +115,18 @@
       "tag": "New"
     },
     {
+      "bug": 1968279,
+      "created": "2025-11-07T19:43:01.080411+00:00",
+      "id": 791269,
+      "is_public": true,
+      "modified": "2025-11-07T19:43:01.974863+00:00",
+      "note": "For most Windows users, the existing desktop shortcut for launching Firefox has been replaced with the desktop launcher, a small program that will launch Firefox if it is installed, but if it is not installed will prompt the user to install Firefox. This will provide an easy installation point for Firefox users who acquire a new Windows device, where Firefox will not be installed by default, but the desktop launcher program may have synced via OneDrive or other cloud storage product. [Learn more][1].\r\n\r\n<img alt=\"A screenshot of the new Firefox Desktop launcher icon\" src=\"https://www.mozilla.org/media/img/firefox/releasenotes/note-images/145_desktop_exe.png\" width=\"407\">\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/firefox-desktop-launcher",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1987132,
       "created": "2025-09-16T11:56:34.434584+00:00",
       "id": 791128,
