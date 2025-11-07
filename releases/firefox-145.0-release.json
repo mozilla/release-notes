@@ -4,7 +4,7 @@
   "channel": "Release",
   "created": "2025-11-06T20:50:40.312253+00:00",
   "is_public": false,
-  "modified": "2025-11-06T20:51:03.779557+00:00",
+  "modified": "2025-11-07T15:41:34.792037+00:00",
   "notes": [
     {
       "bug": 1987149,
@@ -103,18 +103,6 @@
       "tag": "New"
     },
     {
-      "bug": 1994825,
-      "created": "2025-11-07T12:49:52.674473+00:00",
-      "id": 791266,
-      "is_public": true,
-      "modified": "2025-11-07T13:56:03.734520+00:00",
-      "note": "Firefox now offers preferences for customizing how windows and tabs open or restore across virtual desktops, giving you more control when using multiple desktops.  [Learn more][1].\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/control-how-firefox-uses-multiple-desktops-windows",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 30,
-      "tag": "New"
-    },
-    {
       "bug": null,
       "created": "2025-11-06T22:58:50.218166+00:00",
       "id": 791256,
@@ -169,18 +157,6 @@
       "is_public": true,
       "modified": "2025-11-07T08:18:57.914255+00:00",
       "note": "Local translation models are now compressed with [Zstandard][1], reducing download sizes and on-device storage consumption. As always, all Firefox translations happen securely and privately on your local device, unlike other browsers that translate using cloud services.\r\n\r\n\r\n  [1]: https://en.wikipedia.org/wiki/Zstd",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "Changed"
-    },
-    {
-      "bug": null,
-      "created": "2025-11-06T22:51:47.492000+00:00",
-      "id": 791253,
-      "is_public": true,
-      "modified": "2025-11-06T22:51:48.101661+00:00",
-      "note": "Added a new pref `browser.sessionstore.restore_windows_to_virtual_desktop` that, when set to `false`, will make previous session windows restore on the current virtual desktop instead of the virtual desktop they were on when the session was ended.",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
