@@ -187,6 +187,18 @@
       "tag": "Changed"
     },
     {
+      "bug": 1991970,
+      "created": "2025-11-07T13:20:46.921763+00:00",
+      "id": 791268,
+      "is_public": true,
+      "modified": "2025-11-07T13:20:47.569559+00:00",
+      "note": "We updated default automation preferences to better support Agentic browsing, reducing the steps agents need to complete a task and chances for the agent to get stuck.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
       "bug": 1884148,
       "created": "2025-09-18T09:14:10.352524+00:00",
       "id": 791129,

@@ -67,6 +67,18 @@
       "tag": "New"
     },
     {
+      "bug": 1987114,
+      "created": "2025-11-07T13:16:51.506273+00:00",
+      "id": 791267,
+      "is_public": true,
+      "modified": "2025-11-07T13:16:52.210582+00:00",
+      "note": "**Smoother, more efficient browsing**: Firefox now uses a modern Rust-based networking stack for QUIC and HTTP/3, bringing faster, more reliable connections and improved overall performance on Android.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": null,
       "created": "2025-11-06T20:50:03.984806+00:00",
       "id": 791246,
