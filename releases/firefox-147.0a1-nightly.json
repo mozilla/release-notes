@@ -1,0 +1,101 @@
+{
+  "bug_list": "",
+  "bug_search_url": "",
+  "channel": "Nightly",
+  "created": "2025-11-10T01:16:32.934007+00:00",
+  "is_public": false,
+  "modified": "2025-11-10T01:27:03.014488+00:00",
+  "notes": [
+    {
+      "bug": 1988990,
+      "created": "2025-10-29T17:18:41.984881+00:00",
+      "id": 791229,
+      "is_public": true,
+      "modified": "2025-11-10T01:16:32.976869+00:00",
+      "note": "Starting with Firefox 145, Nightly and Early-beta builds can now find previously visited pages using Semantic History Search, which lets users recall sites with natural-language and concept-based queries, all processed locally for privacy. ([Learn more][1])\r\n\r\n\r\n  [1]: https://blog.mozilla.org/en/firefox/better-search-suggestions/",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1720570,
+      "created": "2025-09-29T09:42:13.440974+00:00",
+      "id": 791163,
+      "is_public": true,
+      "modified": "2025-11-10T01:16:32.976869+00:00",
+      "note": "Starting with Firefox 145, support has been added for CSS module scripts, disabled by default using the preference `layout.css.module-scripts.enabled`. CSS module scripts allow for [CSS scripts to be imported][1] like ECMAScript modules using import attributes.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import/with",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 1988224,
+      "created": "2025-09-29T10:14:41.522312+00:00",
+      "id": 791164,
+      "is_public": true,
+      "modified": "2025-11-10T01:16:32.976869+00:00",
+      "note": "Starting with Firefox 145, Nightly builds now support [CSS anchor positioning][1], which allows to tether elements together. The anchor-positioned elements can then have their size and position set relative to the size and location of the anchor elements to which they are bound.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_anchor_positioning",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 1955251,
+      "created": "2025-10-01T09:05:15.723107+00:00",
+      "id": 791178,
+      "is_public": true,
+      "modified": "2025-11-10T01:16:32.976869+00:00",
+      "note": "Starting with Firefox 145, the [Trusted Types API][1], primarily aimed at preventing cross-site scripting attacks, is now enabled in Nightly.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/Trusted_Types_API",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 1991688,
+      "created": "2025-10-14T20:04:18.614665+00:00",
+      "id": 791206,
+      "is_public": true,
+      "modified": "2025-11-10T01:16:32.976869+00:00",
+      "note": "Starting with Firefox 145,  Nightly builds now support [Storage-Access-Headers][1] allowing servers to opt-in into un-partitioned cookies via HTTP headers if storage-access was granted prior with the [Storage-Access-API][2].\r\n\r\n\r\n  [1]: https://privacycg.github.io/storage-access-headers/\r\n  [2]: https://developer.mozilla.org/en-US/docs/Web/API/Storage_Access_API",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
+      "bug": 1954437,
+      "created": "2025-10-22T16:23:28.893984+00:00",
+      "id": 791212,
+      "is_public": true,
+      "modified": "2025-11-10T01:16:32.976869+00:00",
+      "note": "Starting with Firefox 146, Nightly builds now support the [Sanitizer API][1], which provides new methods for HTML manipulation. The `element.setHTML()` [method][2] enables developers to insert HTML content similarly to `element.innerHTML`, but without the security vulnerabilities such as cross-site scripting (XSS). A complementary method, `document.parseHTML()`, is also available for parsing HTML safely.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/API/Sanitizer\r\n  [2]: https://developer.mozilla.org/docs/Web/API/Element/setHTML",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
+      "bug": 1979288,
+      "created": "2025-11-03T18:17:00.487451+00:00",
+      "id": 791236,
+      "is_public": true,
+      "modified": "2025-11-10T01:16:32.976869+00:00",
+      "note": "Starting with Firefox 146, Nightly builds now support the Navigation API. This API provides the ability to initiate, intercept, and manage browser navigation actions. It is a successor to previous web platform features such as the History API and `window.location`, which solves their shortcomings.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Developer"
+    }
+  ],
+  "product": "Firefox",
+  "release_date": "2025-11-10",
+  "slug": "firefox-147.0a1-nightly",
+  "system_requirements": "## Windows\r\n\r\n### Operating Systems (32-bit and 64-bit)\r\n - Windows 10 or later\r\n\r\n### Recommended Hardware\r\n-  1 gigahertz (GHz) or faster compatible processor or System on a Chip (SoC)\r\n-  1GB of RAM / 2GB of RAM for the 64-bit version\r\n-  500MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- macOS 10.15 or later\r\n\r\n### Recommended Hardware\r\n- Macintosh computer with an Intel x86 or Apple silicon processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - glibc 2.17 or higher (2.28 or higher on arm64)\r\n    - GTK+ 3.14 or higher\r\n    - libglib 2.42 or higher\r\n    - libstdc++ 4.8.1 or higher (6.0 or higher on arm64)\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - DBus 1.0 or higher\r\n    - NetworkManager 0.7 or higher\r\n    - PulseAudio",
+  "text": "Firefox Nightly gets updated every day and as a consequence, the release notes for the Nightly channel are updated continuously to reflect features that have reached sufficient maturity to benefit from community feedback and bug reports. \r\n\r\n**Warning: Features listed here may or may *not* make a final release of Firefox.**\r\n\r\nIn addition to these release notes, you can follow ongoing development on our [@FirefoxNightly][1] Bluesky account, our [@FirefoxNightly][4] Mastodon account as well as read our [Nightly Blog][2].\r\n\r\nYou can interact with other Firefox Nightly users and give your feedback to Mozilla staff in the [Nightly Matrix room][3] on chat.mozilla.org.\r\n\r\n\r\n  [1]: https://bsky.app/profile/firefoxnightly.bsky.social\r\n  [2]: https://blog.nightly.mozilla.org\r\n  [3]: https://chat.mozilla.org/?#/room/#nightly:mozilla.org\r\n  [4]: https://mastodon.social/@FirefoxNightly",
+  "title": "Firefox 147.0a1 Nightly",
+  "version": "147.0a1"
+}
