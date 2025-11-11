@@ -1,7 +1,7 @@
 name: "Refresh Release Notes from Nucleus"
 on:
   schedule:
-    - cron: "*/10 * * * *" # Every 10th minute
+    - cron: "*/5 * * * *" # Every fifth minute
   workflow_dispatch:
 
 concurrency:
