@@ -67,6 +67,18 @@
       "tag": "New"
     },
     {
+      "bug": 1997907,
+      "created": "2025-11-13T21:52:38.232950+00:00",
+      "id": 791272,
+      "is_public": true,
+      "modified": "2025-11-13T21:53:11.836573+00:00",
+      "note": "Firefox now natively supports fractional scaled displays on Linux(Wayland), making rendering more effective.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1995874,
       "created": "2025-11-03T18:13:46.991840+00:00",
       "id": 791235,
