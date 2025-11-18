@@ -17,6 +17,30 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": ""
+    },
+    {
+      "bug": 1995939,
+      "created": "2025-11-18T13:56:35.014768+00:00",
+      "id": 791278,
+      "is_public": true,
+      "modified": "2025-11-18T13:56:35.437752+00:00",
+      "note": "Fixed an issue causing breakage on sites using Three.js. ([Bug 1995939][1])\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1995939",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 2000411,
+      "created": "2025-11-18T14:00:13.398359+00:00",
+      "id": 791279,
+      "is_public": true,
+      "modified": "2025-11-18T14:00:13.843095+00:00",
+      "note": "Fixed a failure to open Firefox from the desktop launcher on older versions of Windows 10. ([Bug 2000411][1])\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=2000411",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
