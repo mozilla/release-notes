@@ -19,6 +19,18 @@
       "tag": "New"
     },
     {
+      "bug": 1993341,
+      "created": "2025-11-18T01:05:35.519191+00:00",
+      "id": 791273,
+      "is_public": true,
+      "modified": "2025-11-18T01:05:36.161488+00:00",
+      "note": "WebGPU support is now enabled for all macOS versions on devices with Apple Silicon processors.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1720570,
       "created": "2025-09-29T09:42:13.440974+00:00",
       "id": 791163,
@@ -61,6 +73,18 @@
       "is_public": true,
       "modified": "2025-11-13T18:38:54.971434+00:00",
       "note": "Added support for the [Navigation API][1]. This API provides the ability to initiate, intercept, and manage browser navigation actions. It is a successor to previous web platform features such as the History API and `window.location`, which solves their shortcomings.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/API/Navigation_API",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 2000404,
+      "created": "2025-11-18T01:10:57.585223+00:00",
+      "id": 791274,
+      "is_public": true,
+      "modified": "2025-11-18T01:10:58.066787+00:00",
+      "note": "The CSS `counter-*` and `quotes` properties are now supported in the `::marker` pseudo-element.",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
