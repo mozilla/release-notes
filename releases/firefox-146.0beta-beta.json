@@ -197,6 +197,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "Developer"
+    },
+    {
+      "bug": 1993474,
+      "created": "2025-11-19T08:54:52.043399+00:00",
+      "id": 791282,
+      "is_public": true,
+      "modified": "2025-11-19T13:55:12.233196+00:00",
+      "note": "On Windows, clicking tabs may not work at the very top of the screen when Firefox is maximized on a second monitor. We\u2019re working to fix this in a future release.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Known"
     }
   ],
   "product": "Firefox",
