@@ -31,6 +31,18 @@
       "tag": "New"
     },
     {
+      "bug": 1998839,
+      "created": "2025-11-20T15:26:57.633009+00:00",
+      "id": 791283,
+      "is_public": true,
+      "modified": "2025-11-20T15:26:58.162294+00:00",
+      "note": "Zero copy video of hardware decoded video with AMD GPUs if supported, improving video playback performance on those systems.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1720570,
       "created": "2025-09-29T09:42:13.440974+00:00",
       "id": 791163,
@@ -85,6 +97,18 @@
       "is_public": true,
       "modified": "2025-11-18T01:10:58.066787+00:00",
       "note": "The CSS `counter-*` and `quotes` properties are now supported in the `::marker` pseudo-element.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 1921583,
+      "created": "2025-11-20T15:28:12.327243+00:00",
+      "id": 791284,
+      "is_public": true,
+      "modified": "2025-11-20T15:28:12.832277+00:00",
+      "note": "Both CompressionStream and DecompressionStream now support the Brotli format.",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
