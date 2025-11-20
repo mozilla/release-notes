@@ -43,6 +43,18 @@
       "tag": "New"
     },
     {
+      "bug": 259356,
+      "created": "2025-11-20T15:30:42.112555+00:00",
+      "id": 791285,
+      "is_public": true,
+      "modified": "2025-11-20T15:30:42.467226+00:00",
+      "note": "Firefox now supports the Freedesktop.org XDG Base Directory Specification.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1720570,
       "created": "2025-09-29T09:42:13.440974+00:00",
       "id": 791163,
