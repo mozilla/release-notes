@@ -67,6 +67,18 @@
       "tag": "New"
     },
     {
+      "bug": 1937438,
+      "created": "2025-11-21T20:09:51.368548+00:00",
+      "id": 791297,
+      "is_public": true,
+      "modified": "2025-11-21T20:09:51.816677+00:00",
+      "note": "Starting with Firefox 146, Nightly builds have improved support for screen readers accessing mathematical formulas embedded in PDFs.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1720570,
       "created": "2025-09-29T09:42:13.440974+00:00",
       "id": 791163,
