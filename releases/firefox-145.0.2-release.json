@@ -17,6 +17,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": ""
+    },
+    {
+      "bug": 2000479,
+      "created": "2025-11-25T12:16:52.438101+00:00",
+      "id": 791300,
+      "is_public": true,
+      "modified": "2025-11-25T12:16:52.961501+00:00",
+      "note": "Fixed an issue that prevented typing in Baidu\u2019s search box when using Chinese IMEs on Windows.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
