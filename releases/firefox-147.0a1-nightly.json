@@ -211,6 +211,18 @@
       "tag": "Developer"
     },
     {
+      "bug": 568313,
+      "created": "2025-11-26T14:34:55.180240+00:00",
+      "id": 791303,
+      "is_public": true,
+      "modified": "2025-11-26T14:34:55.830955+00:00",
+      "note": "A draggable button is now draggable if the drag is started from the button itself.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
       "bug": 1993474,
       "created": "2025-11-19T08:54:52.043399+00:00",
       "id": 791282,
