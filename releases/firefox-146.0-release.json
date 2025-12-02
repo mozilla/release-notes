@@ -71,8 +71,8 @@
       "created": "2025-12-02T19:49:40.585996+00:00",
       "id": 791314,
       "is_public": true,
-      "modified": "2025-12-02T19:49:57.917601+00:00",
-      "note": "**Backup in Firefox:** Windows 10 users can automatically protect their passwords, bookmarks, and more by turning on backup in Firefox. Your browsing data is saved daily on your device and can be encrypted with a password. When you set up a fresh install of Firefox on any operating system for a new device or your current one, you can restore from this backup and pick up right where you left off. This feature is currently available on Windows devices and will be coming soon to other operating systems.",
+      "modified": "2025-12-02T20:20:31.370757+00:00",
+      "note": "**Backup in Firefox:** Windows 10 users can automatically protect their passwords, bookmarks, and more by turning on backup in Firefox. Your browsing data is saved daily on your device and can be encrypted with a password. When you set up a fresh install of Firefox on any operating system for a new device or your current one, you can restore from this backup and pick up right where you left off. This feature is currently available on Windows devices and will be coming soon to other operating systems.\r\n\r\n\r\n\r\n<img src=\"https://www.mozilla.org/media/img/firefox/releasenotes/note-images/146backup.png\" width=\"700\" alt=\"Backup in Firefox Image\">",
       "progressive_rollout": true,
       "relevant_countries": [],
       "sort_num": 60,
@@ -113,6 +113,18 @@
       "relevant_countries": [],
       "sort_num": 10,
       "tag": "Changed"
+    },
+    {
+      "bug": 1988938,
+      "created": "2025-12-02T20:13:38.080001+00:00",
+      "id": 791323,
+      "is_public": true,
+      "modified": "2025-12-02T20:13:38.079886+00:00",
+      "note": "Firefox now supports the legacy `-webkit-fill-available` keyword as a value for the CSS `width` and `height` properties, to improve rendering of content on the web that uses this keyword. This keyword is an alias for the recently standardized `stretch` keyword (which isn't shipping in Firefox yet).",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
     },
     {
       "bug": null,
