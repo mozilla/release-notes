@@ -89,6 +89,30 @@
       "relevant_countries": [],
       "sort_num": 50,
       "tag": "New"
+    },
+    {
+      "bug": 1802201,
+      "created": "2025-12-02T20:01:04.458943+00:00",
+      "id": 791319,
+      "is_public": true,
+      "modified": "2025-12-02T20:01:05.060669+00:00",
+      "note": "When the timepicker is enabled for `<input type=\"time\">` and `<input type=\"datetime-local\">`, it now provides full keyboard and assistive technology support. This also includes improved behavior of the time spin buttons for users who prefer reduced motion. The Firefox Accessibility team hopes that making the built-in timepicker accessible will encourage wider adoption of browser-provided time and date inputs across the web, so developers can avoid reinventing the wheel and users can interact with these controls using their preferred technology.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 20,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1993474,
+      "created": "2025-12-02T19:57:20.949703+00:00",
+      "id": 791318,
+      "is_public": true,
+      "modified": "2025-12-02T19:57:20.949493+00:00",
+      "note": "Fixed an issue that prevented Windows users from selecting a tab when the cursor was at the top of the screen and Firefox was maximized on some kinds of monitors.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 10,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
