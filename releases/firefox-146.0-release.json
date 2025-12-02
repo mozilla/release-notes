@@ -43,6 +43,18 @@
       "tag": "New"
     },
     {
+      "bug": 1993123,
+      "created": "2025-12-02T19:51:47.715889+00:00",
+      "id": 791315,
+      "is_public": true,
+      "modified": "2025-12-02T19:51:48.307494+00:00",
+      "note": "macOS users now have a dedicated GPU process by default. This includes WebGPU, WebGL, and Firefox's own WebRender. With this feature enabled, fatal errors in graphics code will no longer crash the browser, and will instead transparently restart the GPU process.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 75,
+      "tag": "New"
+    },
+    {
       "bug": null,
       "created": "2025-12-02T19:48:36.861510+00:00",
       "id": 791313,
@@ -64,6 +76,18 @@
       "progressive_rollout": true,
       "relevant_countries": [],
       "sort_num": 60,
+      "tag": "New"
+    },
+    {
+      "bug": 1997907,
+      "created": "2025-12-02T19:53:10.964711+00:00",
+      "id": 791316,
+      "is_public": true,
+      "modified": "2025-12-02T19:53:11.461088+00:00",
+      "note": "Firefox now natively supports fractional scaled displays on Linux(Wayland), making rendering more effective.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 50,
       "tag": "New"
     }
   ],
