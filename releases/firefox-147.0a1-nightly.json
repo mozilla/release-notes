@@ -79,6 +79,30 @@
       "tag": "New"
     },
     {
+      "bug": 1997401,
+      "created": "2025-12-02T18:49:27.795145+00:00",
+      "id": 791308,
+      "is_public": true,
+      "modified": "2025-12-02T18:49:28.237141+00:00",
+      "note": "We've added a new feature to automatically open a Picture-in-Picture player window for a playing video in a tab if that tab is ever backgrounded. This feature was mainly contributed by a volunteer Daniele Ferla, and has recently graduated from Firefox Labs! You can turn this feature on by visiting about:settings and checking \"Keep playing videos in Picture-in-Picture when switching tabs\".",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 2000765,
+      "created": "2025-12-02T18:45:33.133904+00:00",
+      "id": 791307,
+      "is_public": true,
+      "modified": "2025-12-02T18:45:33.133476+00:00",
+      "note": "Firefox now uses the same quality values (q-values) in Accept-Language headers as other major browsers. The second language preference is now sent with q=0.9 instead of q=0.5, with subsequent languages decreasing by 0.1 each (minimum 0.1). This change fixes compatibility issues with some servers that incorrectly rejected requests with lower quality values.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
       "bug": 1720570,
       "created": "2025-09-29T09:42:13.440974+00:00",
       "id": 791163,
