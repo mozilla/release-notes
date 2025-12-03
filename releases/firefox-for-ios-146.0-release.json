@@ -4,8 +4,21 @@
   "channel": "Release",
   "created": "2025-11-21T17:51:47.292681+00:00",
   "is_public": false,
-  "modified": "2025-11-21T17:56:21.523316+00:00",
-  "notes": [],
+  "modified": "2025-12-03T04:44:16.166430+00:00",
+  "notes": [
+    {
+      "bug": null,
+      "created": "2025-12-03T04:44:13.990482+00:00",
+      "id": 791332,
+      "is_public": true,
+      "modified": "2025-12-03T04:44:14.483997+00:00",
+      "note": "**On-device translations:** read full web pages in your language and keep your content private.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 30,
+      "tag": "New"
+    }
+  ],
   "product": "Firefox for iOS",
   "release_date": "2025-12-07",
   "slug": "firefox-for-ios-146.0-release",

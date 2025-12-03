@@ -257,6 +257,18 @@
       "relevant_countries": [],
       "sort_num": 10,
       "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2025-12-03T04:48:21.259086+00:00",
+      "id": 791333,
+      "is_public": true,
+      "modified": "2025-12-03T04:48:21.662416+00:00",
+      "note": "With the release of Firefox 146, we are pleased to welcome the developers who contributed their first code change to Firefox in this release, 16 of whom were brand new volunteers! Please join us in thanking each of these diligent and enthusiastic individuals, and take a look at their contributions:\r\n\r\n* Alex Johnson: <a href=\"https://bugzilla.mozilla.org/1924339\">1924339</a>\r\n* Apurva: <a href=\"https://bugzilla.mozilla.org/1973318\">1973318</a>\r\n* Cornelius Emase: <a href=\"https://bugzilla.mozilla.org/1913086\">1913086</a>, <a href=\"https://bugzilla.mozilla.org/1977921\">1977921</a>, <a href=\"https://bugzilla.mozilla.org/1996578\">1996578</a>, <a href=\"https://bugzilla.mozilla.org/1996859\">1996859</a>, <a href=\"https://bugzilla.mozilla.org/1998012\">1998012</a>\r\n* Ethan Gallucci: <a href=\"https://bugzilla.mozilla.org/1991983\">1991983</a>\r\n* gopi: <a href=\"https://bugzilla.mozilla.org/1940198\">1940198</a>\r\n* Jeffrey Houghton: <a href=\"https://bugzilla.mozilla.org/1900302\">1900302</a>\r\n* Julian: <a href=\"https://bugzilla.mozilla.org/1945449\">1945449</a>\r\n* Leonardo Paffi: <a href=\"https://bugzilla.mozilla.org/1996678\">1996678</a>\r\n* Loago Zambe: <a href=\"https://bugzilla.mozilla.org/1975592\">1975592</a>\r\n* Meg Ford: <a href=\"https://bugzilla.mozilla.org/1898383\">1898383</a>, <a href=\"https://bugzilla.mozilla.org/1997187\">1997187</a>\r\n* Mingyuan Zhao [:MagentaManifold]: <a href=\"https://bugzilla.mozilla.org/1995168\">1995168</a>\r\n* Pavel Kireev: <a href=\"https://bugzilla.mozilla.org/400264\">400264</a>, <a href=\"https://bugzilla.mozilla.org/1852625\">1852625</a>, <a href=\"https://bugzilla.mozilla.org/1975612\">1975612</a>, <a href=\"https://bugzilla.mozilla.org/1986459\">1986459</a>, <a href=\"https://bugzilla.mozilla.org/1988355\">1988355</a>, <a href=\"https://bugzilla.mozilla.org/1998237\">1998237</a>\r\n* PhuongNam: <a href=\"https://bugzilla.mozilla.org/1968398\">1968398</a>\r\n* Simon Knott: <a href=\"https://bugzilla.mozilla.org/1993703\">1993703</a>\r\n* Thomas J Faughnan Jr: <a href=\"https://bugzilla.mozilla.org/1994098\">1994098</a>\r\n* zzjas98: <a href=\"https://bugzilla.mozilla.org/1997216\">1997216</a>",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Community"
     }
   ],
   "product": "Firefox",
