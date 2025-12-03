@@ -11,8 +11,8 @@
       "created": "2025-12-02T19:49:40.585996+00:00",
       "id": 791314,
       "is_public": true,
-      "modified": "2025-12-03T13:59:13.440063+00:00",
-      "note": "**Backup in Firefox:** Windows 10 users can now automatically protect their passwords, bookmarks, and more by turning on backup in Firefox. Your browsing data is saved daily on your device and can be encrypted with a password. When you set up a fresh install of Firefox on any operating system for a new device or your current one, you can restore from this backup and pick up right where you left off. This feature is currently available on Windows devices and will be coming to other operating systems soon.\r\n\r\n<img src=\"https://www.mozilla.org/media/img/firefox/releasenotes/note-images/Fx146_Backup_Image.png\" width=\"700\" alt=\"Fx Backup Image\">\r\n\r\nWindows 10 users can now automatically protect their passwords, bookmarks, and more by turning on backup in Firefox. Browsing data is saved daily on the device and can be encrypted with a password. When setting up a new installation of Firefox on any operating system, users can restore their data and continue where they left off. This feature is currently available on Windows and will be coming to other operating systems soon.",
+      "modified": "2025-12-03T14:33:44.940688+00:00",
+      "note": "**Backup in Firefox:** Windows 10 users can now automatically protect their passwords, bookmarks, and more by turning on backup in Firefox. Your browsing data is saved daily on your device and can be encrypted with a password. When you set up a fresh install of Firefox on any operating system for a new device or your current one, you can restore from this backup and pick up right where you left off. This feature is currently available on Windows devices and will be coming to other operating systems soon.\r\n\r\n<img src=\"https://www.mozilla.org/media/img/firefox/releasenotes/note-images/Fx146_Backup_Image.png\" width=\"700\" alt=\"Fx Backup Image\">",
       "progressive_rollout": true,
       "relevant_countries": [],
       "sort_num": 200,
@@ -59,9 +59,9 @@
       "created": "2025-12-02T19:47:36.281651+00:00",
       "id": 791312,
       "is_public": true,
-      "modified": "2025-12-03T05:05:07.399943+00:00",
+      "modified": "2025-12-03T14:43:27.017604+00:00",
       "note": "There is a New Tab Weather opt-in workflow available for users in the EU and some other countries, where they can choose whether to enable location detection or manually search for a location.",
-      "progressive_rollout": false,
+      "progressive_rollout": true,
       "relevant_countries": [],
       "sort_num": 90,
       "tag": "New"
@@ -184,18 +184,6 @@
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 50,
-      "tag": "Developer"
-    },
-    {
-      "bug": null,
-      "created": "2025-12-03T04:39:04.340734+00:00",
-      "id": 791330,
-      "is_public": true,
-      "modified": "2025-12-03T04:39:04.750693+00:00",
-      "note": "Added support for calling `showPicker()` on text-based `<input>` elements with an associated `<datalist>`, allowing programmatic display of autofill suggestions.",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 40,
       "tag": "Developer"
     },
     {
