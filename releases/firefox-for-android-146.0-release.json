@@ -7,12 +7,24 @@
   "modified": "2025-11-21T17:55:29.074311+00:00",
   "notes": [
     {
+      "bug": null,
+      "created": "2025-12-03T14:24:46.625670+00:00",
+      "id": 791336,
+      "is_public": true,
+      "modified": "2025-12-03T14:24:58.831566+00:00",
+      "note": "**Address Autofill Sync now works in more regions:** United Kingdom, France, Germany, Brazil, Spain and Japan.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 40,
+      "tag": "New"
+    },
+    {
       "bug": 1975933,
       "created": "2025-12-02T19:43:55.418704+00:00",
       "id": 791309,
       "is_public": true,
-      "modified": "2025-12-03T04:42:45.173814+00:00",
-      "note": "When a website uses a file upload field (`<input type=file>`) without specifying what types of files it accepts, Firefox for Android will now offer additional options to make file uploads easier. Users will see choices to pick a file, take a photo, or record audio directly from their device.",
+      "modified": "2025-12-03T14:24:09.457146+00:00",
+      "note": "**File uploads are easier:** You can now pick a file, take a photo, or record audio when a site doesn\u2019t specify a file type.",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 30,
