@@ -223,6 +223,18 @@
       "tag": "HTML5"
     },
     {
+      "bug": 1988225,
+      "created": "2025-12-03T04:56:28.220770+00:00",
+      "id": 791334,
+      "is_public": true,
+      "modified": "2025-12-03T04:56:28.647773+00:00",
+      "note": "Support for [CSS anchor positioning][1] was added, which allows to tether elements together. The anchor-positioned elements can then have their size and position set relative to the size and location of the anchor elements to which they are bound.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/CSS/CSS_anchor_positioning",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
       "bug": 1991688,
       "created": "2025-10-14T20:04:18.614665+00:00",
       "id": 791206,
