@@ -91,6 +91,18 @@
       "tag": "New"
     },
     {
+      "bug": 1994520,
+      "created": "2025-12-04T15:13:26.954702+00:00",
+      "id": 791339,
+      "is_public": true,
+      "modified": "2025-12-04T15:13:46.490031+00:00",
+      "note": "Starting with Firefox 146, you can now right-click any tab and add a quick note to it, making it easier to keep track of what you were doing without needing an extension.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1995874,
       "created": "2025-11-03T18:13:46.991840+00:00",
       "id": 791235,
