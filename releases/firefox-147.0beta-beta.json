@@ -4,20 +4,8 @@
   "channel": "Beta",
   "created": "2025-12-05T20:05:13.955398+00:00",
   "is_public": false,
-  "modified": "2025-12-05T20:05:57.899295+00:00",
+  "modified": "2025-12-05T20:07:07.966140+00:00",
   "notes": [
-    {
-      "bug": 1988990,
-      "created": "2025-10-29T17:18:41.984881+00:00",
-      "id": 791229,
-      "is_public": true,
-      "modified": "2025-12-05T20:05:14.002286+00:00",
-      "note": "Starting with Firefox 145, Nightly and Beta builds (b6 and earlier) can now find previously visited pages using Semantic History Search, which lets users recall sites with natural-language and concept-based queries, all processed locally for privacy. ([Learn more][1])\r\n\r\n\r\n  [1]: https://blog.mozilla.org/en/firefox/better-search-suggestions/",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "New"
-    },
     {
       "bug": 1993341,
       "created": "2025-11-18T01:05:35.519191+00:00",
@@ -175,18 +163,6 @@
       "tag": "HTML5"
     },
     {
-      "bug": 543435,
-      "created": "2025-12-01T17:36:50.448882+00:00",
-      "id": 791306,
-      "is_public": true,
-      "modified": "2025-12-05T20:05:14.002286+00:00",
-      "note": "The initial empty document is now Web-compatible: if the first navigation of a browsing context goes to about:blank, it completes synchronously and is no longer replaced by a second parser-generated document.",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "HTML5"
-    },
-    {
       "bug": 1988225,
       "created": "2025-12-03T04:56:28.220770+00:00",
       "id": 791334,
@@ -221,26 +197,6 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "Fixed"
-    },
-    {
-      "bug": 1993474,
-      "created": "2025-11-19T08:54:52.043399+00:00",
-      "fixed_in_release": {
-        "channel": "Release",
-        "is_public": false,
-        "product": "Firefox",
-        "slug": "firefox-146.0-release",
-        "title": "Firefox 146.0 Release",
-        "version": "146.0"
-      },
-      "id": 791282,
-      "is_public": true,
-      "modified": "2025-12-05T20:05:14.002286+00:00",
-      "note": "<strike>On Windows, clicking tabs may not work at the very top of the screen when Firefox is maximized on a second monitor. We\u2019re working to fix this in a future release.</strike> (Fixed in 147.0)",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "Known"
     }
   ],
   "product": "Firefox",
