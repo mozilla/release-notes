@@ -67,18 +67,6 @@
       "tag": "New"
     },
     {
-      "bug": 1937438,
-      "created": "2025-11-21T20:09:51.368548+00:00",
-      "id": 791297,
-      "is_public": true,
-      "modified": "2025-12-05T14:29:29.129568+00:00",
-      "note": "Starting with Firefox 146, Nightly builds have improved support for screen readers accessing mathematical formulas embedded in PDFs.",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
       "bug": 1997401,
       "created": "2025-12-02T18:49:27.795145+00:00",
       "id": 791308,
@@ -103,6 +91,18 @@
       "tag": "New"
     },
     {
+      "bug": 1937438,
+      "created": "2025-12-05T17:28:35.347618+00:00",
+      "id": 791342,
+      "is_public": true,
+      "modified": "2025-12-05T17:28:52.303682+00:00",
+      "note": "Starting with Firefox 147, Nightly and Beta builds (b6 and earlier) have improved support for screen readers accessing mathematical formulas embedded in PDFs.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 2000765,
       "created": "2025-12-02T18:45:33.133904+00:00",
       "id": 791307,
@@ -113,18 +113,6 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "Changed"
-    },
-    {
-      "bug": 1954437,
-      "created": "2025-10-22T16:23:28.893984+00:00",
-      "id": 791212,
-      "is_public": true,
-      "modified": "2025-12-05T14:27:00.020687+00:00",
-      "note": "Starting with Firefox 146, Nightly builds now support the [Sanitizer API][1], which provides new methods for HTML manipulation. The `element.setHTML()` [method][2] enables developers to insert HTML content similarly to `element.innerHTML`, but without the security vulnerabilities such as cross-site scripting (XSS). A complementary method, `document.parseHTML()`, is also available for parsing HTML safely.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/API/Sanitizer\r\n  [2]: https://developer.mozilla.org/docs/Web/API/Element/setHTML",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "HTML5"
     },
     {
       "bug": 1997962,
@@ -229,6 +217,18 @@
       "is_public": true,
       "modified": "2025-12-05T17:18:01.769216+00:00",
       "note": "Firefox now supports Storage-Access-Headers allowing servers to opt-in into unpartitioned cookies via HTTP headers if storage-access was granted prior with the [Storage-Access-API][1].\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/API/Storage_Access_API",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 1954437,
+      "created": "2025-12-05T17:26:45.787803+00:00",
+      "id": 791341,
+      "is_public": true,
+      "modified": "2025-12-05T17:27:18.159386+00:00",
+      "note": "Starting with Firefox 147, Nightly and Beta builds (b6 and earlier) now support the [Sanitizer API][1], which provides new methods for HTML manipulation. The `element.setHTML()` [method][2] enables developers to insert HTML content similarly to `element.innerHTML`, but without the security vulnerabilities such as cross-site scripting (XSS). A complementary method, `document.parseHTML()`, is also available for parsing HTML safely.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/API/Sanitizer\r\n  [2]: https://developer.mozilla.org/docs/Web/API/Element/setHTML",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,

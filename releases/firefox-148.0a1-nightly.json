@@ -4,20 +4,8 @@
   "channel": "Nightly",
   "created": "2025-12-05T13:35:52.401465+00:00",
   "is_public": false,
-  "modified": "2025-12-05T13:35:52.401207+00:00",
+  "modified": "2025-12-05T17:29:13.426214+00:00",
   "notes": [
-    {
-      "bug": 1937438,
-      "created": "2025-11-21T20:09:51.368548+00:00",
-      "id": 791297,
-      "is_public": true,
-      "modified": "2025-12-05T14:29:29.129568+00:00",
-      "note": "Starting with Firefox 146, Nightly builds have improved support for screen readers accessing mathematical formulas embedded in PDFs.",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "New"
-    },
     {
       "bug": 1994520,
       "created": "2025-12-04T15:13:26.954702+00:00",
@@ -31,24 +19,24 @@
       "tag": "New"
     },
     {
-      "bug": 1954437,
-      "created": "2025-10-22T16:23:28.893984+00:00",
-      "id": 791212,
+      "bug": 1937438,
+      "created": "2025-12-05T17:28:35.347618+00:00",
+      "id": 791342,
       "is_public": true,
-      "modified": "2025-12-05T14:27:00.020687+00:00",
-      "note": "Starting with Firefox 146, Nightly builds now support the [Sanitizer API][1], which provides new methods for HTML manipulation. The `element.setHTML()` [method][2] enables developers to insert HTML content similarly to `element.innerHTML`, but without the security vulnerabilities such as cross-site scripting (XSS). A complementary method, `document.parseHTML()`, is also available for parsing HTML safely.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/API/Sanitizer\r\n  [2]: https://developer.mozilla.org/docs/Web/API/Element/setHTML",
+      "modified": "2025-12-05T17:28:52.303682+00:00",
+      "note": "Starting with Firefox 147, Nightly and Beta builds (b6 and earlier) have improved support for screen readers accessing mathematical formulas embedded in PDFs.",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
-      "tag": "HTML5"
+      "tag": "New"
     },
     {
-      "bug": 1979288,
-      "created": "2025-11-03T18:17:00.487451+00:00",
-      "id": 791236,
+      "bug": 1954437,
+      "created": "2025-12-05T17:26:45.787803+00:00",
+      "id": 791341,
       "is_public": true,
-      "modified": "2025-12-05T14:25:37.890413+00:00",
-      "note": "Starting with Firefox 146, Nightly builds now support the Navigation API. This API provides the ability to initiate, intercept, and manage browser navigation actions. It is a successor to previous web platform features such as the History API and `window.location`, which solves their shortcomings.",
+      "modified": "2025-12-05T17:27:18.159386+00:00",
+      "note": "Starting with Firefox 147, Nightly and Beta builds (b6 and earlier) now support the [Sanitizer API][1], which provides new methods for HTML manipulation. The `element.setHTML()` [method][2] enables developers to insert HTML content similarly to `element.innerHTML`, but without the security vulnerabilities such as cross-site scripting (XSS). A complementary method, `document.parseHTML()`, is also available for parsing HTML safely.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/API/Sanitizer\r\n  [2]: https://developer.mozilla.org/docs/Web/API/Element/setHTML",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
