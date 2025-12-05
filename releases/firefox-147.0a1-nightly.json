@@ -4,7 +4,7 @@
   "channel": "Nightly",
   "created": "2025-11-10T01:16:32.934007+00:00",
   "is_public": true,
-  "modified": "2025-11-11T01:41:04.691515+00:00",
+  "modified": "2025-12-05T17:21:11.226856+00:00",
   "notes": [
     {
       "bug": 1988990,
@@ -115,36 +115,12 @@
       "tag": "Changed"
     },
     {
-      "bug": 1988224,
-      "created": "2025-09-29T10:14:41.522312+00:00",
-      "id": 791164,
-      "is_public": true,
-      "modified": "2025-11-10T01:16:32.976869+00:00",
-      "note": "Starting with Firefox 145, Nightly builds now support [CSS anchor positioning][1], which allows to tether elements together. The anchor-positioned elements can then have their size and position set relative to the size and location of the anchor elements to which they are bound.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_anchor_positioning",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "HTML5"
-    },
-    {
       "bug": 1954437,
       "created": "2025-10-22T16:23:28.893984+00:00",
       "id": 791212,
       "is_public": true,
       "modified": "2025-12-05T14:27:00.020687+00:00",
       "note": "Starting with Firefox 146, Nightly builds now support the [Sanitizer API][1], which provides new methods for HTML manipulation. The `element.setHTML()` [method][2] enables developers to insert HTML content similarly to `element.innerHTML`, but without the security vulnerabilities such as cross-site scripting (XSS). A complementary method, `document.parseHTML()`, is also available for parsing HTML safely.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/API/Sanitizer\r\n  [2]: https://developer.mozilla.org/docs/Web/API/Element/setHTML",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "HTML5"
-    },
-    {
-      "bug": 1979288,
-      "created": "2025-11-03T18:17:00.487451+00:00",
-      "id": 791236,
-      "is_public": true,
-      "modified": "2025-12-05T14:25:37.890413+00:00",
-      "note": "Starting with Firefox 146, Nightly builds now support the Navigation API. This API provides the ability to initiate, intercept, and manage browser navigation actions. It is a successor to previous web platform features such as the History API and `window.location`, which solves their shortcomings.",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
@@ -247,16 +223,16 @@
       "tag": "HTML5"
     },
     {
-      "bug": 1991688,
-      "created": "2025-10-14T20:04:18.614665+00:00",
-      "id": 791206,
+      "bug": 2004044,
+      "created": "2025-12-05T17:18:01.250780+00:00",
+      "id": 791340,
       "is_public": true,
-      "modified": "2025-11-10T01:16:32.976869+00:00",
-      "note": "Starting with Firefox 145,  Nightly builds now support [Storage-Access-Headers][1] allowing servers to opt-in into un-partitioned cookies via HTTP headers if storage-access was granted prior with the [Storage-Access-API][2].\r\n\r\n\r\n  [1]: https://privacycg.github.io/storage-access-headers/\r\n  [2]: https://developer.mozilla.org/en-US/docs/Web/API/Storage_Access_API",
+      "modified": "2025-12-05T17:18:01.769216+00:00",
+      "note": "Firefox now supports Storage-Access-Headers allowing servers to opt-in into unpartitioned cookies via HTTP headers if storage-access was granted prior with the [Storage-Access-API][1].\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/API/Storage_Access_API",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
-      "tag": "Developer"
+      "tag": "HTML5"
     },
     {
       "bug": 1998670,
