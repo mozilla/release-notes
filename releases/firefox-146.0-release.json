@@ -4,7 +4,7 @@
   "channel": "Release",
   "created": "2025-11-21T17:51:47.170400+00:00",
   "is_public": true,
-  "modified": "2025-12-09T13:25:32.044050+00:00",
+  "modified": "2025-12-09T13:40:13.334312+00:00",
   "notes": [
     {
       "bug": 1997446,
@@ -232,18 +232,6 @@
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 20,
-      "tag": "Fixed"
-    },
-    {
-      "bug": 1993474,
-      "created": "2025-12-02T19:57:20.949703+00:00",
-      "id": 791318,
-      "is_public": true,
-      "modified": "2025-12-02T19:57:20.949493+00:00",
-      "note": "Fixed an issue that prevented Windows users from selecting a tab when the cursor was at the top of the screen and Firefox was maximized on some kinds of monitors.",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 10,
       "tag": "Fixed"
     },
     {
