@@ -91,26 +91,6 @@
       "tag": "New"
     },
     {
-      "bug": 1993474,
-      "created": "2025-11-19T08:54:52.043399+00:00",
-      "fixed_in_release": {
-        "channel": "Release",
-        "is_public": true,
-        "product": "Firefox",
-        "slug": "firefox-146.0-release",
-        "title": "Firefox 146.0 Release",
-        "version": "146.0"
-      },
-      "id": 791282,
-      "is_public": true,
-      "modified": "2025-12-09T13:47:09.771110+00:00",
-      "note": "<strike>On Windows, clicking tabs may not work at the very top of the screen when Firefox is maximized on a second monitor. We\u2019re working to fix this in a future release.</strike> (Fixed in 147.0)",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": ""
-    },
-    {
       "bug": 1976118,
       "created": "2025-12-02T20:05:16.028512+00:00",
       "id": 791321,
@@ -277,6 +257,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "Community"
+    },
+    {
+      "bug": 1993474,
+      "created": "2025-11-19T08:54:52.043399+00:00",
+      "id": 791282,
+      "is_public": true,
+      "modified": "2025-12-09T14:27:09.833181+00:00",
+      "note": "<strike>On Windows, clicking tabs may not work at the very top of the screen when Firefox is maximized on a second monitor. We\u2019re working to fix this in a future release.</strike> (Fixed in 147.0)",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Known"
     }
   ],
   "product": "Firefox",
