@@ -197,6 +197,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": 1993474,
+      "created": "2025-12-02T19:55:37.883522+00:00",
+      "id": 791317,
+      "is_public": true,
+      "modified": "2025-12-09T20:08:08.723652+00:00",
+      "note": "Fixed an issue that prevented Windows users from selecting a tab when the cursor was at the top of the screen and Firefox was maximized on some kinds of monitors.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
