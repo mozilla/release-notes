@@ -7,15 +7,12 @@
 set -exo pipefail
 
 # Set the command used in the reminder comment at the top of the file
-export CUSTOM_COMPILE_COMMAND="$ source ./bin/compile-requirements.sh"
+export UV_CUSTOM_COMPILE_COMMAND="$ source ./bin/compile-requirements.sh"
 
-# We need this installed, but we don't want it to live in the main requirements
-# We will need to periodically review this pinning
-
-pip install -U pip
-pip install pip-tools
+# Ensure we've got the latest `uv`
+pip install -U uv
 
 # Drop the compiled reqs files, to help us pick up automatic subdep updates, too
-rm -f requirements.txt
+rm -f requirements/*.txt
 
-pip-compile --generate-hashes -r requirements.in --resolver=backtracking --rebuild
+uv pip compile --generate-hashes --no-strip-extras --python-version 3.13 requirements.in -o requirements.txt
