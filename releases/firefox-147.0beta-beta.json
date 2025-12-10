@@ -209,6 +209,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": 2000769,
+      "created": "2025-12-10T19:40:00.765361+00:00",
+      "id": 791344,
+      "is_public": true,
+      "modified": "2025-12-10T19:40:01.294645+00:00",
+      "note": "For Linux GNOME Mutter users, window and rendering surface sizes were updated to match the actual pixel grid so Firefox delivers sharp rendering on fractionally scaled displays regardless of actual window size.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
