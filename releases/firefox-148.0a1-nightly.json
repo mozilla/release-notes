@@ -43,6 +43,18 @@
       "tag": "HTML5"
     },
     {
+      "bug": 1994690,
+      "created": "2025-12-11T13:29:56.959137+00:00",
+      "id": 791345,
+      "is_public": true,
+      "modified": "2025-12-11T13:29:57.452395+00:00",
+      "note": "Firefox now supports the [Trusted Types API][1], which is primarily aimed at preventing cross-site scripting attacks.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/API/Trusted_Types_API",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
       "bug": 1998670,
       "created": "2025-10-31T18:50:38.482738+00:00",
       "id": 791232,
@@ -53,6 +65,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "Developer"
+    },
+    {
+      "bug": 1987375,
+      "created": "2025-12-11T13:31:50.671126+00:00",
+      "id": 791346,
+      "is_public": true,
+      "modified": "2025-12-11T13:31:51.023798+00:00",
+      "note": "On Windows, dragging a downloaded image to Adobe Illustrator now properly drops an image instead of the image's URL.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
