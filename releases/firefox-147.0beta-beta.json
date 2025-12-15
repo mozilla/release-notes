@@ -187,6 +187,30 @@
       "tag": "HTML5"
     },
     {
+      "bug": 1360870,
+      "created": "2025-12-15T20:12:24.907422+00:00",
+      "id": 791347,
+      "is_public": true,
+      "modified": "2025-12-15T20:12:25.421372+00:00",
+      "note": "Module service workers are now supported, aligning Firefox with other major browsers and improving compatibility for modern web apps.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 1740584,
+      "created": "2025-12-15T20:13:21.299433+00:00",
+      "id": 791348,
+      "is_public": true,
+      "modified": "2025-12-15T20:13:21.614515+00:00",
+      "note": "Implemented CSS root-font-relative units rcap, rch, rex and ric.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
       "bug": 568313,
       "created": "2025-11-26T14:34:55.180240+00:00",
       "id": 791303,
@@ -217,6 +241,18 @@
       "is_public": true,
       "modified": "2025-12-10T19:40:01.294645+00:00",
       "note": "For Linux GNOME Mutter users, window and rendering surface sizes were updated to match the actual pixel grid so Firefox delivers sharp rendering on fractionally scaled displays regardless of actual window size.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1999128,
+      "created": "2025-12-15T20:15:10.162310+00:00",
+      "id": 791349,
+      "is_public": true,
+      "modified": "2025-12-15T20:15:10.508246+00:00",
+      "note": "Fixed a bug that made HTTP/3 requests containing non-UTF-8 header values time out or fallback to HTTP/2 after awhile.",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
