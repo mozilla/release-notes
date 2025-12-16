@@ -67,6 +67,18 @@
       "tag": "HTML5"
     },
     {
+      "bug": 1982941,
+      "created": "2025-12-16T13:48:21.798887+00:00",
+      "id": 791350,
+      "is_public": true,
+      "modified": "2025-12-16T13:48:22.265731+00:00",
+      "note": "Firefox now supports the CSS [shape()][1] function, which allows defining responsive free-form shapes in properties that take shapes like [clip-path][2]. It has some advantages over the [path()][3] function, as it utilizes standard CSS syntax, supports various CSS units, and enables the use of mathematical functions.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/CSS/basic-shape/shape\r\n  [2]: https://developer.mozilla.org/docs/Web/CSS/clip-path\r\n  [3]: https://developer.mozilla.org/docs/Web/CSS/basic-shape/path",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
       "bug": 1998670,
       "created": "2025-10-31T18:50:38.482738+00:00",
       "id": 791232,
