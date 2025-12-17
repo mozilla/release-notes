@@ -7,18 +7,6 @@
   "modified": "2025-12-17T16:46:00.232005+00:00",
   "notes": [
     {
-      "bug": 2006091,
-      "created": "2025-12-17T20:56:47.043160+00:00",
-      "id": 791362,
-      "is_public": true,
-      "modified": "2025-12-17T20:56:47.414495+00:00",
-      "note": "Improved sidebar text contrast when using vertical tabs with certain themes. ([Bug 2006091][1])\r\n\r\n\r\n  [1]: http://bugzilla.mozilla.org/show_bug.cgi?id=2006091",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 1,
-      "tag": ""
-    },
-    {
       "bug": null,
       "created": "2025-12-17T16:45:32.597553+00:00",
       "id": 791356,
@@ -91,11 +79,23 @@
       "tag": "Fixed"
     },
     {
+      "bug": 2006091,
+      "created": "2025-12-17T20:56:47.043160+00:00",
+      "id": 791362,
+      "is_public": true,
+      "modified": "2025-12-17T21:13:55.691295+00:00",
+      "note": "Improved sidebar text contrast when using vertical tabs with certain themes. ([Bug 2006091][1])\r\n\r\n\r\n  [1]: http://bugzilla.mozilla.org/show_bug.cgi?id=2006091",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 1,
+      "tag": "Fixed"
+    },
+    {
       "bug": null,
       "created": "2025-12-17T20:51:19.756229+00:00",
       "id": 791360,
       "is_public": true,
-      "modified": "2025-12-17T20:51:20.195519+00:00",
+      "modified": "2025-12-17T21:11:00.228876+00:00",
       "note": "Various [security fixes][1].\r\n\r\n\r\n  [1]: https://www.mozilla.org/en-US/security/advisories/mfsa2025-98/",
       "progressive_rollout": false,
       "relevant_countries": [],

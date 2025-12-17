@@ -7,6 +7,18 @@
   "modified": "2025-12-17T16:45:06.587750+00:00",
   "notes": [
     {
+      "bug": 1998404,
+      "created": "2025-12-17T21:12:21.068891+00:00",
+      "id": 791365,
+      "is_public": true,
+      "modified": "2025-12-17T21:14:28.804338+00:00",
+      "note": "Improved site compatibility on content-heavy websites. ([Bug 1998404][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1998404",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 1,
+      "tag": ""
+    },
+    {
       "bug": null,
       "created": "2025-12-17T16:44:59.938878+00:00",
       "id": 791355,
@@ -28,6 +40,18 @@
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 9,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2025-12-17T20:51:19.756229+00:00",
+      "id": 791360,
+      "is_public": true,
+      "modified": "2025-12-17T21:11:00.228876+00:00",
+      "note": "Various [security fixes][1].\r\n\r\n\r\n  [1]: https://www.mozilla.org/en-US/security/advisories/mfsa2025-98/",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
       "tag": "Fixed"
     }
   ],
