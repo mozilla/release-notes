@@ -7,6 +7,18 @@
   "modified": "2025-12-17T16:46:00.232005+00:00",
   "notes": [
     {
+      "bug": 2006091,
+      "created": "2025-12-17T20:56:47.043160+00:00",
+      "id": 791362,
+      "is_public": true,
+      "modified": "2025-12-17T20:56:47.414495+00:00",
+      "note": "Improved sidebar text contrast when using vertical tabs with certain themes. ([Bug 2006091][1])\r\n\r\n\r\n  [1]: http://bugzilla.mozilla.org/show_bug.cgi?id=2006091",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 1,
+      "tag": ""
+    },
+    {
       "bug": null,
       "created": "2025-12-17T16:45:32.597553+00:00",
       "id": 791356,
@@ -43,15 +55,27 @@
       "tag": "Fixed"
     },
     {
+      "bug": 2000429,
+      "created": "2025-12-17T20:54:35.731457+00:00",
+      "id": 791361,
+      "is_public": true,
+      "modified": "2025-12-17T20:54:36.031027+00:00",
+      "note": "Fixed an issue where fingerprinting protection caused incorrect font rendering on popular websites. ([Bug 2000429][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=2000429",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 7,
+      "tag": "Fixed"
+    },
+    {
       "bug": 2002697,
       "created": "2025-12-17T20:34:44.651368+00:00",
       "id": 791357,
       "is_public": true,
-      "modified": "2025-12-17T20:34:45.135449+00:00",
+      "modified": "2025-12-17T20:57:00.385439+00:00",
       "note": "Fixed crashes related to media playback and GMP process shutdown. ([Bug 2002697][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=2002697",
       "progressive_rollout": false,
       "relevant_countries": [],
-      "sort_num": 0,
+      "sort_num": 2,
       "tag": "Fixed"
     },
     {
