@@ -43,6 +43,18 @@
       "tag": "New"
     },
     {
+      "bug": 1809303,
+      "created": "2025-12-17T13:47:02.464249+00:00",
+      "id": 791352,
+      "is_public": true,
+      "modified": "2025-12-17T13:47:02.886365+00:00",
+      "note": "[Firefox for Android][1] now includes a \"Copy link text\" context menu item to copy the text associated with a link.\r\n\r\n\r\n  [1]: https://play.google.com/store/apps/details?id=org.mozilla.fenix",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 543435,
       "created": "2025-12-01T17:36:50.448882+00:00",
       "id": 791306,
