@@ -176,22 +176,10 @@
     },
     {
       "bug": 1993474,
-      "created": "2025-12-02T19:55:37.883522+00:00",
-      "id": 791317,
-      "is_public": true,
-      "modified": "2025-12-02T19:55:38.554052+00:00",
-      "note": "Fixed an issue that prevented Windows users from selecting a tab when the cursor was at the top of the screen and Firefox was maximized on some kinds of monitors.",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "Fixed"
-    },
-    {
-      "bug": 1993474,
       "created": "2025-11-19T08:54:52.043399+00:00",
       "id": 791282,
       "is_public": true,
-      "modified": "2025-12-09T14:27:09.833181+00:00",
+      "modified": "2025-12-17T16:43:14.289340+00:00",
       "note": "<strike>On Windows, clicking tabs may not work at the very top of the screen when Firefox is maximized on a second monitor. We\u2019re working to fix this in a future release.</strike> (Fixed in 147.0)",
       "progressive_rollout": false,
       "relevant_countries": [],
