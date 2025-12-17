@@ -103,6 +103,30 @@
       "tag": "HTML5"
     },
     {
+      "bug": 1858562,
+      "created": "2025-12-17T13:52:31.654845+00:00",
+      "id": 791353,
+      "is_public": true,
+      "modified": "2025-12-17T13:52:31.950866+00:00",
+      "note": "Starting with Firefox 148, Nightly builds now support the [Document Picture-in-Picture API][1], which allows web pages to place content in an always-on-top popup.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/API/Document_Picture-in-Picture_API",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 2003895,
+      "created": "2025-12-17T13:56:29.063185+00:00",
+      "id": 791354,
+      "is_public": true,
+      "modified": "2025-12-17T13:56:29.520892+00:00",
+      "note": "Firefox now supports the [Element.setHTML()][1] and [Document.parseHTML()][2] functions, to safely set or parse HTML with a built-in sanitizer. This can help prevent Cross-Site Scripting vulnerabilities. Firefox also supports the [Sanitizer()][3] constructor to configure the HTML sanitization.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/API/Element/setHTML\r\n  [2]: https://developer.mozilla.org/docs/Web/API/Document/parseHTML_static\r\n  [3]: https://developer.mozilla.org/docs/Web/API/Sanitize",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
       "bug": 1998670,
       "created": "2025-10-31T18:50:38.482738+00:00",
       "id": 791232,
