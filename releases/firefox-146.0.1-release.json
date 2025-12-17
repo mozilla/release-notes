@@ -19,6 +19,18 @@
       "tag": ""
     },
     {
+      "bug": 2002697,
+      "created": "2025-12-17T20:34:44.651368+00:00",
+      "id": 791357,
+      "is_public": true,
+      "modified": "2025-12-17T20:34:45.135449+00:00",
+      "note": "Fixed crashes related to media playback and GMP process shutdown. ([Bug 2002697][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=2002697",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
       "bug": 1993474,
       "created": "2025-11-19T08:54:52.043399+00:00",
       "id": 791282,
