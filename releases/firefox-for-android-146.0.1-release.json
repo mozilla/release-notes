@@ -17,6 +17,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": ""
+    },
+    {
+      "bug": 2004459,
+      "created": "2025-12-17T20:49:46.804596+00:00",
+      "id": 791359,
+      "is_public": true,
+      "modified": "2025-12-17T21:07:57.466539+00:00",
+      "note": "Temporarily disabled an in-app review prompt that was incorrectly appearing at inconvenient times for some users. ([Bug 2004459][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=2004459",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 9,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox for Android",
