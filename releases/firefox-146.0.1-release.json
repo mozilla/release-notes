@@ -43,27 +43,27 @@
       "tag": "Fixed"
     },
     {
-      "bug": 1998209,
-      "created": "2025-12-17T21:05:13.469469+00:00",
-      "id": 791364,
-      "is_public": true,
-      "modified": "2025-12-18T01:06:34.395868+00:00",
-      "note": "Fixed an issue where desktop profile shortcuts were being unintentionally removed when changing copied profile settings. ([Bug 1998209][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1998209",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 3,
-      "tag": "Fixed"
-    },
-    {
       "bug": 2002697,
       "created": "2025-12-17T20:34:44.651368+00:00",
       "id": 791357,
       "is_public": true,
-      "modified": "2025-12-17T20:57:00.385439+00:00",
+      "modified": "2025-12-18T12:28:32.735525+00:00",
       "note": "Fixed crashes related to media playback and GMP process shutdown. ([Bug 2002697][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=2002697",
       "progressive_rollout": false,
       "relevant_countries": [],
-      "sort_num": 2,
+      "sort_num": 5,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1998209,
+      "created": "2025-12-17T21:05:13.469469+00:00",
+      "id": 791364,
+      "is_public": true,
+      "modified": "2025-12-18T12:28:18.964451+00:00",
+      "note": "Fixed an issue where desktop profile shortcuts were being unintentionally removed when changing copied profile settings. ([Bug 1998209][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1998209",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 4,
       "tag": "Fixed"
     },
     {
@@ -71,8 +71,20 @@
       "created": "2025-12-17T20:56:47.043160+00:00",
       "id": 791362,
       "is_public": true,
-      "modified": "2025-12-17T21:13:55.691295+00:00",
+      "modified": "2025-12-18T12:27:59.727955+00:00",
       "note": "Improved sidebar text contrast when using vertical tabs with certain themes. ([Bug 2006091][1])\r\n\r\n\r\n  [1]: http://bugzilla.mozilla.org/show_bug.cgi?id=2006091",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 2,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 2003307,
+      "created": "2025-12-18T12:27:11.451628+00:00",
+      "id": 791366,
+      "is_public": true,
+      "modified": "2025-12-18T12:27:31.170864+00:00",
+      "note": "When restoring from a backup, the restore success message will appear over the new tab page instead of one of the tabs restored from a backup, to avoid cases where the restored tab canceled the restore success message. ([Bug 2003307][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=2003307",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 1,
