@@ -67,6 +67,18 @@
       "tag": "New"
     },
     {
+      "bug": 2006632,
+      "created": "2025-12-18T18:58:30.184021+00:00",
+      "id": 791369,
+      "is_public": true,
+      "modified": "2025-12-18T18:58:30.635021+00:00",
+      "note": "Starting with Firefox 148, Nightly builds have stability improvements to the legacy search bar, as well as aligning its search button with the latest designs.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 543435,
       "created": "2025-12-01T17:36:50.448882+00:00",
       "id": 791306,
