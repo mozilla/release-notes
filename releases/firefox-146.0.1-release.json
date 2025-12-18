@@ -43,24 +43,12 @@
       "tag": "Fixed"
     },
     {
-      "bug": 2003307,
-      "created": "2025-12-17T21:04:15.864372+00:00",
-      "id": 791363,
-      "is_public": true,
-      "modified": "2025-12-17T21:05:32.650376+00:00",
-      "note": "Fixed an issue where restoring a previous session could open an unexpected page instead of the default start page. ([Bug 2003307][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=2003307",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 6,
-      "tag": "Fixed"
-    },
-    {
       "bug": 1998209,
       "created": "2025-12-17T21:05:13.469469+00:00",
       "id": 791364,
       "is_public": true,
-      "modified": "2025-12-17T21:05:56.668427+00:00",
-      "note": "Fixed an issue that prevented desktop profile shortcuts from being unintentionally removed when changing copied profile settings. ([Bug 1998209][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1998209",
+      "modified": "2025-12-18T01:06:34.395868+00:00",
+      "note": "Fixed an issue where desktop profile shortcuts were being unintentionally removed when changing copied profile settings. ([Bug 1998209][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=1998209",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 3,
