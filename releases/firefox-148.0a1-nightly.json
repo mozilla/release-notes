@@ -19,18 +19,6 @@
       "tag": "New"
     },
     {
-      "bug": 1937438,
-      "created": "2025-12-05T17:28:35.347618+00:00",
-      "id": 791342,
-      "is_public": true,
-      "modified": "2025-12-05T20:06:17.299502+00:00",
-      "note": "Starting with Firefox 147, Nightly and Beta builds (b6 and earlier) have improved support for screen readers accessing mathematical formulas embedded in PDFs.",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
       "bug": 2005586,
       "created": "2025-12-16T14:44:57.627747+00:00",
       "id": 791351,
@@ -73,6 +61,18 @@
       "is_public": true,
       "modified": "2025-12-18T18:58:30.635021+00:00",
       "note": "Starting with Firefox 148, Nightly builds have stability improvements to the legacy search bar, as well as aligning its search button with the latest designs.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1937438,
+      "created": "2025-12-19T14:31:44.125062+00:00",
+      "id": 791370,
+      "is_public": true,
+      "modified": "2025-12-19T14:31:44.534365+00:00",
+      "note": "Firefox now has improved support for screen readers accessing mathematical formulas embedded in PDFs.",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
@@ -143,8 +143,8 @@
       "created": "2025-12-17T13:56:29.063185+00:00",
       "id": 791354,
       "is_public": true,
-      "modified": "2025-12-17T13:56:29.520892+00:00",
-      "note": "Firefox now supports the [Element.setHTML()][1] and [Document.parseHTML()][2] functions, to safely set or parse HTML with a built-in sanitizer. This can help prevent Cross-Site Scripting vulnerabilities. Firefox also supports the [Sanitizer()][3] constructor to configure the HTML sanitization.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/API/Element/setHTML\r\n  [2]: https://developer.mozilla.org/docs/Web/API/Document/parseHTML_static\r\n  [3]: https://developer.mozilla.org/docs/Web/API/Sanitize",
+      "modified": "2025-12-19T14:22:49.240781+00:00",
+      "note": "Firefox now supports the [Sanitizer API][1], which provides new methods for HTML manipulation. The [element.setHTML()][2] method enables developers to insert HTML content similarly to [element.innerHTML][3], but without the security vulnerabilities such as cross-site scripting (XSS). A complementary method, [document.parseHTML()][4], is also available for parsing HTML safely.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/API/Sanitizer\r\n  [2]: https://developer.mozilla.org/docs/Web/API/Element/setHTML\r\n  [3]: https://developer.mozilla.org/docs/Web/API/Element/innerHTML\r\n  [4]: https://developer.mozilla.org/docs/Web/API/Document/parseHTML_static",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
