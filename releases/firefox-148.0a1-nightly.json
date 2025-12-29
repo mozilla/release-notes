@@ -163,6 +163,18 @@
       "tag": "HTML5"
     },
     {
+      "bug": 1989059,
+      "created": "2025-12-29T15:06:19.315907+00:00",
+      "id": 791371,
+      "is_public": true,
+      "modified": "2025-12-29T15:06:19.315697+00:00",
+      "note": "Firefox now supports the [position-try-order][1] property, which is part of [CSS Anchor Positioning][2] and allows changing the order in which position fallback options are tried.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/position-try-order\r\n  [2]: https://developer.mozilla.org/docs/Web/CSS/Guides/Anchor_positioning/Using",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
       "bug": 1998670,
       "created": "2025-10-31T18:50:38.482738+00:00",
       "id": 791232,
