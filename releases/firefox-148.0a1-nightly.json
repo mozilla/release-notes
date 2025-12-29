@@ -175,6 +175,18 @@
       "tag": "HTML5"
     },
     {
+      "bug": 1942431,
+      "created": "2025-12-29T15:12:50.974780+00:00",
+      "id": 791372,
+      "is_public": true,
+      "modified": "2025-12-29T15:12:51.383589+00:00",
+      "note": "Service worker support for [WebGPU][1] has been added, making it available in all worker contexts. Service workers allow WebGPU to run in the background, which is particularly useful for extensions and other pages that can meaningfully share resources across multiple tabs and time periods.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/API/WebGPU_API",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
       "bug": 1998670,
       "created": "2025-10-31T18:50:38.482738+00:00",
       "id": 791232,
