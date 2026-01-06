@@ -1,71 +1,11 @@
 {
   "bug_list": "",
   "bug_search_url": "",
-  "channel": "Nightly",
-  "created": "2025-12-05T13:35:52.401465+00:00",
-  "is_public": true,
-  "modified": "2025-12-08T13:29:44.458142+00:00",
+  "channel": "Beta",
+  "created": "2026-01-06T18:44:41.432684+00:00",
+  "is_public": false,
+  "modified": "2026-01-06T18:44:41.432386+00:00",
   "notes": [
-    {
-      "bug": 1994520,
-      "created": "2025-12-04T15:13:26.954702+00:00",
-      "id": 791339,
-      "is_public": true,
-      "modified": "2025-12-16T14:47:06.193557+00:00",
-      "note": "Starting with Firefox 146, in Nightly, you can now right-click any tab and add a quick note to it, making it easier to keep track of what you were doing without needing an extension.",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
-      "bug": 2005586,
-      "created": "2025-12-16T14:44:57.627747+00:00",
-      "id": 791351,
-      "is_public": true,
-      "modified": "2025-12-16T14:44:58.175649+00:00",
-      "note": "[Firefox for Android][1] introduces a refreshed toolbar with a modern design and improved customization support.\r\n\r\n\r\n  [1]: https://play.google.com/store/apps/details?id=org.mozilla.fenix",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
-      "bug": 1809303,
-      "created": "2025-12-17T13:47:02.464249+00:00",
-      "id": 791352,
-      "is_public": true,
-      "modified": "2025-12-17T13:47:02.886365+00:00",
-      "note": "[Firefox for Android][1] now includes a \"Copy link text\" context menu item to copy the text associated with a link.\r\n\r\n\r\n  [1]: https://play.google.com/store/apps/details?id=org.mozilla.fenix",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
-      "bug": 2006193,
-      "created": "2025-12-18T13:42:05.344437+00:00",
-      "id": 791367,
-      "is_public": true,
-      "modified": "2025-12-18T13:42:05.730412+00:00",
-      "note": "Starting with Firefox 148, Split View is enabled in Nightly builds. You can view two tabs side-by-side in a single window, making it easier to compare information, research topics, or work across multiple pages at once. You can create a Split View directly from a tab\u2019s context menu.",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
-      "bug": 2006632,
-      "created": "2025-12-18T18:58:30.184021+00:00",
-      "id": 791369,
-      "is_public": true,
-      "modified": "2025-12-18T18:58:30.635021+00:00",
-      "note": "Starting with Firefox 148, Nightly builds have stability improvements to the legacy search bar, as well as aligning its search button with the latest designs.",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "New"
-    },
     {
       "bug": 1937438,
       "created": "2025-12-19T14:31:44.125062+00:00",
@@ -79,24 +19,36 @@
       "tag": "New"
     },
     {
+      "bug": 2005586,
+      "created": "2026-01-06T18:52:06.345424+00:00",
+      "id": 791374,
+      "is_public": true,
+      "modified": "2026-01-06T18:52:06.859928+00:00",
+      "note": "[Firefox for Android][1] introduces a refreshed toolbar with a modern design and improved customization support.\r\n\r\n\r\n  [1]: https://play.google.com/store/apps/details?id=org.mozilla.firefox_beta",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1809303,
+      "created": "2026-01-06T18:52:37.709771+00:00",
+      "id": 791375,
+      "is_public": true,
+      "modified": "2026-01-06T18:52:38.028150+00:00",
+      "note": "[Firefox for Android][1] now includes a \"Copy link text\" context menu item to copy the text associated with a link.\r\n\r\n\r\n  [1]: https://play.google.com/store/apps/details?id=org.mozilla.firefox_beta",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 543435,
       "created": "2025-12-01T17:36:50.448882+00:00",
       "id": 791306,
       "is_public": true,
       "modified": "2026-01-06T18:47:47.692959+00:00",
       "note": "The initial empty document is now Web-compatible: if the first navigation of a browsing context goes to about:blank, it completes synchronously and is no longer replaced by a second parser-generated document.",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "HTML5"
-    },
-    {
-      "bug": 1954437,
-      "created": "2025-12-05T17:26:45.787803+00:00",
-      "id": 791341,
-      "is_public": true,
-      "modified": "2025-12-19T14:15:26.991393+00:00",
-      "note": "Starting with Firefox 147, Nightly and Beta builds (b6 and earlier) now support the [Sanitizer API][1], which provides new methods for HTML manipulation. The `element.setHTML()` [method][2] enables developers to insert HTML content similarly to `element.innerHTML`, but without the security vulnerabilities such as cross-site scripting (XSS). A complementary method, `document.parseHTML()`, is also available for parsing HTML safely.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/API/Sanitizer\r\n  [2]: https://developer.mozilla.org/docs/Web/API/Element/setHTML",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
@@ -121,18 +73,6 @@
       "is_public": true,
       "modified": "2026-01-06T18:48:42.626705+00:00",
       "note": "Firefox now supports the CSS [shape()][1] function, which allows defining responsive free-form shapes in properties that take shapes like [clip-path][2]. It has some advantages over the [path()][3] function, as it utilizes standard CSS syntax, supports various CSS units, and enables the use of mathematical functions.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/CSS/basic-shape/shape\r\n  [2]: https://developer.mozilla.org/docs/Web/CSS/clip-path\r\n  [3]: https://developer.mozilla.org/docs/Web/CSS/basic-shape/path",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "HTML5"
-    },
-    {
-      "bug": 1858562,
-      "created": "2025-12-17T13:52:31.654845+00:00",
-      "id": 791353,
-      "is_public": true,
-      "modified": "2025-12-17T13:52:31.950866+00:00",
-      "note": "Starting with Firefox 148, Nightly builds now support the [Document Picture-in-Picture API][1], which allows web pages to place content in an always-on-top popup.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/API/Document_Picture-in-Picture_API",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
@@ -199,18 +139,6 @@
       "tag": "HTML5"
     },
     {
-      "bug": 1998670,
-      "created": "2025-10-31T18:50:38.482738+00:00",
-      "id": 791232,
-      "is_public": true,
-      "modified": "2025-12-05T20:06:11.430742+00:00",
-      "note": "Starting with Firefox 146, added support for calling [showPicker()][1] on text-based `<input>` elements with an associated `<datalist>`, allowing programmatic display of autofill suggestions for users on Nightly builds or Beta builds (b6 and earlier).\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/API/HTMLInputElement/showPicker#showpicker_for_a_datalist_input",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "Developer"
-    },
-    {
       "bug": 1987375,
       "created": "2025-12-11T13:31:50.671126+00:00",
       "id": 791346,
@@ -224,10 +152,10 @@
     }
   ],
   "product": "Firefox",
-  "release_date": "2025-12-08",
-  "slug": "firefox-148.0a1-nightly",
+  "release_date": "2026-01-13",
+  "slug": "firefox-148.0beta-beta",
   "system_requirements": "## Windows\r\n\r\n### Operating Systems (32-bit and 64-bit)\r\n - Windows 10 or later\r\n\r\n### Recommended Hardware\r\n-  1 gigahertz (GHz) or faster compatible processor or System on a Chip (SoC)\r\n-  1GB of RAM / 2GB of RAM for the 64-bit version\r\n-  500MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- macOS 10.15 or later\r\n\r\n### Recommended Hardware\r\n- Macintosh computer with an Intel x86 or Apple silicon processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - glibc 2.17 or higher (2.28 or higher on arm64)\r\n    - GTK+ 3.14 or higher\r\n    - libglib 2.42 or higher\r\n    - libstdc++ 4.8.1 or higher (6.0 or higher on arm64)\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - DBus 1.0 or higher\r\n    - NetworkManager 0.7 or higher\r\n    - PulseAudio",
-  "text": "Firefox Nightly gets updated every day and as a consequence, the release notes for the Nightly channel are updated continuously to reflect features that have reached sufficient maturity to benefit from community feedback and bug reports. \r\n\r\n**Warning: Features listed here may or may *not* make a final release of Firefox.**\r\n\r\nIn addition to these release notes, you can follow ongoing development on our [@FirefoxNightly][1] Bluesky account, our [@FirefoxNightly][4] Mastodon account as well as read our [Nightly Blog][2].\r\n\r\nYou can interact with other Firefox Nightly users and give your feedback to Mozilla staff in the [Nightly Matrix room][3] on chat.mozilla.org.\r\n\r\n\r\n  [1]: https://bsky.app/profile/firefoxnightly.bsky.social\r\n  [2]: https://blog.nightly.mozilla.org\r\n  [3]: https://chat.mozilla.org/?#/room/#nightly:mozilla.org\r\n  [4]: https://mastodon.social/@FirefoxNightly",
-  "title": "Firefox 148.0a1 Nightly",
-  "version": "148.0a1"
+  "text": "Firefox Beta gets updated 3 times a week and as a consequence, the release notes for the Beta channel are updated continuously to reflect features that have reached sufficient maturity to benefit from community feedback and bug reports.\r\n\r\n**Warning: Features listed here may or may *not* make a final release of Firefox.**\r\n\r\nIn addition to these release notes, you can follow ongoing development via the [Firefox Trains][1] website or our [@FirefoxBeta][2] Bluesky account.\r\n\r\n\r\n  [1]: https://whattrainisitnow.com/beta/\r\n  [2]: https://bsky.app/profile/firefoxbeta.bsky.social",
+  "title": "Firefox 148.0beta Beta",
+  "version": "148.0beta"
 }
