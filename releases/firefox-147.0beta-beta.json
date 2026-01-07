@@ -91,6 +91,18 @@
       "tag": "New"
     },
     {
+      "bug": 2003658,
+      "created": "2026-01-07T14:24:38.469320+00:00",
+      "id": 791377,
+      "is_public": true,
+      "modified": "2026-01-07T14:25:35.395356+00:00",
+      "note": "To better protect Firefox for Android users against side-channel attacks such as Spectre, Site Isolation is now enabled, offering the same level of protection that Desktop Firefox users already receive.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 2000765,
       "created": "2025-12-02T18:45:33.133904+00:00",
       "id": 791307,
