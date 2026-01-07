@@ -2,16 +2,16 @@
   "bug_list": "",
   "bug_search_url": "",
   "channel": "ESR",
-  "created": "2025-11-21T17:51:47.260609+00:00",
-  "is_public": true,
-  "modified": "2025-12-09T13:25:43.910167+00:00",
+  "created": "2026-01-07T22:02:50.424736+00:00",
+  "is_public": false,
+  "modified": "2026-01-07T22:03:50.439423+00:00",
   "notes": [
     {
       "bug": null,
-      "created": "2025-11-21T17:53:51.810991+00:00",
-      "id": 791287,
+      "created": "2026-01-07T22:03:49.083363+00:00",
+      "id": 791380,
       "is_public": true,
-      "modified": "2026-01-07T22:03:49.212183+00:00",
+      "modified": "2026-01-07T22:03:49.083215+00:00",
       "note": "Various [security fixes][1].\r\n\r\n\r\n  [1]: https://www.mozilla.org/en-US/security/advisories/mfsa2025-93/",
       "progressive_rollout": false,
       "relevant_countries": [],
@@ -20,10 +20,10 @@
     }
   ],
   "product": "Firefox Extended Support Release",
-  "release_date": "2025-12-09",
-  "slug": "firefox-115.31.0-esr",
+  "release_date": "2026-01-13",
+  "slug": "firefox-115.32.0-esr",
   "system_requirements": "## Windows\r\n\r\n### Operating Systems (32-bit and 64-bit)\r\n - Windows 7\r\n - Windows 8 or 8.1\r\n\r\n### Recommended Hardware\r\n-  Pentium 4 or newer processor that supports SSE2\r\n-  512MB of RAM / 2GB of RAM for the 64-bit version\r\n-  200MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- macOS 10.12\r\n- macOS 10.13\r\n- macOS 10.14\r\n\r\n### Recommended Hardware\r\n- Mac computer with an Intel x86 or Apple silicon processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space",
   "text": "Firefox ESR 115 is now supported only on Windows 7-8.1 and macOS 10.12-10.14. Users on other operating systems should use Firefox ESR 128 instead.",
-  "title": "Firefox Extended Support Release 115.31.0 ESR",
-  "version": "115.31.0"
+  "title": "Firefox Extended Support Release 115.32.0 ESR",
+  "version": "115.32.0"
 }
