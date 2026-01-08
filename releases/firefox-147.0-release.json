@@ -175,6 +175,78 @@
       "tag": "HTML5"
     },
     {
+      "bug": 1921583,
+      "created": "2026-01-08T00:44:37.432750+00:00",
+      "id": 791407,
+      "is_public": true,
+      "modified": "2026-01-08T00:44:37.777626+00:00",
+      "note": "Both CompressionStream and DecompressionStream now support the Brotli format.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 60,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 2001878,
+      "created": "2026-01-08T00:45:50.825710+00:00",
+      "id": 791408,
+      "is_public": true,
+      "modified": "2026-01-08T00:45:51.258727+00:00",
+      "note": "Firefox now supports the [`:active-view-transition-type`][1] selector and associated [View Transitions API][2] changes.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/API/Document/startViewTransition#types\r\n  [2]: https://developer.mozilla.org/docs/Web/API/View_Transition_API",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 50,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 2001836,
+      "created": "2026-01-08T00:46:40.476069+00:00",
+      "id": 791409,
+      "is_public": true,
+      "modified": "2026-01-08T00:46:40.821865+00:00",
+      "note": "Firefox now exposes the view transition currently active on the document via the [`Document.activeViewTransition`][1] property.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/API/Document/activeViewTransition",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 40,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 1988225,
+      "created": "2026-01-08T00:47:19.481411+00:00",
+      "id": 791410,
+      "is_public": true,
+      "modified": "2026-01-08T00:47:19.829746+00:00",
+      "note": "Support for [CSS anchor positioning][1] was added, enabling tethering elements. The anchor-positioned elements can then have their size and position set relative to the anchor elements to which they are bound.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/CSS/CSS_anchor_positioning",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 30,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 2004044,
+      "created": "2026-01-08T00:48:18.074140+00:00",
+      "id": 791411,
+      "is_public": true,
+      "modified": "2026-01-08T00:48:18.427934+00:00",
+      "note": "Firefox now supports Storage-Access-Headers, allowing servers to opt into unpartitioned cookies via HTTP headers if storage-access was granted prior to the [Storage Access API][1].\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/API/Storage_Access_API",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 20,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 1740584,
+      "created": "2026-01-08T00:48:51.504130+00:00",
+      "id": 791412,
+      "is_public": true,
+      "modified": "2026-01-08T00:48:51.835201+00:00",
+      "note": "Implemented CSS root-font-relative units `rcap`, `rch`, `rex` and `ric`.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 10,
+      "tag": "HTML5"
+    },
+    {
       "bug": 1996608,
       "created": "2026-01-08T00:34:12.625159+00:00",
       "id": 791398,
@@ -281,6 +353,30 @@
       "relevant_countries": [],
       "sort_num": 10,
       "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2026-01-08T01:07:15.060408+00:00",
+      "id": 791414,
+      "is_public": true,
+      "modified": "2026-01-08T01:07:48.501815+00:00",
+      "note": "Various [security fixes][1].\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2026-01-08T00:59:37.351027+00:00",
+      "id": 791413,
+      "is_public": true,
+      "modified": "2026-01-08T00:59:37.930308+00:00",
+      "note": "With the release of Firefox 147, we are pleased to welcome the developers who contributed their first code change to Firefox in this release, 14 of whom were brand new volunteers! Please join us in thanking each of these diligent and enthusiastic individuals, and take a look at their contributions:\r\n\r\n* [:Joe Cardoso] Loan de Deus Vieira Cardoso: <a href=\"https://bugzilla.mozilla.org/1730474\">1730474</a>, <a href=\"https://bugzilla.mozilla.org/1897620\">1897620</a>\r\n* Aaron Kriegman: <a href=\"https://bugzilla.mozilla.org/1955625\">1955625</a>\r\n* Aloys: <a href=\"https://bugzilla.mozilla.org/2002985\">2002985</a>, <a href=\"https://bugzilla.mozilla.org/2003194\">2003194</a>\r\n* Areeba: <a href=\"https://bugzilla.mozilla.org/2000792\">2000792</a>\r\n* Daniel Singer: <a href=\"https://bugzilla.mozilla.org/1895228\">1895228</a>, <a href=\"https://bugzilla.mozilla.org/1981571\">1981571</a>\r\n* Dominique: <a href=\"https://bugzilla.mozilla.org/1995325\">1995325</a>, <a href=\"https://bugzilla.mozilla.org/2000957\">2000957</a>\r\n* James Hay: <a href=\"https://bugzilla.mozilla.org/1864284\">1864284</a>\r\n* Kipchumba Chelilim [:mrchumbastic]: <a href=\"https://bugzilla.mozilla.org/1905323\">1905323</a>, <a href=\"https://bugzilla.mozilla.org/1956817\">1956817</a>, <a href=\"https://bugzilla.mozilla.org/1994752\">1994752</a>\r\n* Lorenz A: <a href=\"https://bugzilla.mozilla.org/983296\">983296</a>, <a href=\"https://bugzilla.mozilla.org/1632071\">1632071</a>, <a href=\"https://bugzilla.mozilla.org/1665702\">1665702</a>, <a href=\"https://bugzilla.mozilla.org/1709063\">1709063</a>, <a href=\"https://bugzilla.mozilla.org/2004038\">2004038</a>, <a href=\"https://bugzilla.mozilla.org/2004205\">2004205</a>\r\n* Michal Bozon: <a href=\"https://bugzilla.mozilla.org/1998963\">1998963</a>\r\n* Scott Venkataraman: <a href=\"https://bugzilla.mozilla.org/1995324\">1995324</a>, <a href=\"https://bugzilla.mozilla.org/1999325\">1999325</a>\r\n* Sick Leviathan: <a href=\"https://bugzilla.mozilla.org/1362499\">1362499</a>, <a href=\"https://bugzilla.mozilla.org/1918733\">1918733</a>, <a href=\"https://bugzilla.mozilla.org/1960699\">1960699</a>\r\n* Tom Forbes: <a href=\"https://bugzilla.mozilla.org/1897424\">1897424</a>\r\n* witty.31.06: <a href=\"https://bugzilla.mozilla.org/2000613\">2000613</a>, <a href=\"https://bugzilla.mozilla.org/2000765\">2000765</a>",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Community"
     }
   ],
   "product": "Firefox",
