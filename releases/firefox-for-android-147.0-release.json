@@ -5,7 +5,32 @@
   "created": "2026-01-07T22:00:12.023051+00:00",
   "is_public": false,
   "modified": "2026-01-07T22:01:26.927987+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": 2003658,
+      "created": "2026-01-08T00:07:56.611942+00:00",
+      "id": 791382,
+      "is_public": true,
+      "modified": "2026-01-08T00:09:02.233006+00:00",
+      "note": "**Safer browsing:** Added protection against side-channel attacks such as Spectre using the same Site Isolation safeguards already in use by desktop Firefox.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 20,
+      "tag": "New"
+    },
+    {
+      "bug": 2003541,
+      "created": "2026-01-08T00:08:52.665980+00:00",
+      "id": 791383,
+      "is_public": true,
+      "modified": "2026-01-08T00:08:53.000481+00:00",
+      "note": "**Faster browsing:** Pages now load quicker on slower connections thanks to support for Compression Dictionaries.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 10,
+      "tag": "New"
+    }
+  ],
   "product": "Firefox for Android",
   "release_date": "2026-01-13",
   "slug": "firefox-for-android-147.0-release",
