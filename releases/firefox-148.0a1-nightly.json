@@ -91,6 +91,18 @@
       "tag": "New"
     },
     {
+      "bug": 1977746,
+      "created": "2026-01-09T14:14:56.964892+00:00",
+      "id": 791416,
+      "is_public": true,
+      "modified": "2026-01-09T14:14:57.455816+00:00",
+      "note": "Starting with Firefox 148, HDR video on Windows is now supported in Nightly builds. This is considered experimental as we gather feedback before enabling it in regular releases. This feature works best when HDR mode is enabled in Display Settings (this may require a page refresh); otherwise, the display driver is likely to apply a tonemapping effect for non-HDR viewing. Some streaming sites may still not offer HDR video in Firefox.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 543435,
       "created": "2025-12-01T17:36:50.448882+00:00",
       "id": 791306,
