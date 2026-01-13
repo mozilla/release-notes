@@ -3,33 +3,9 @@
   "bug_search_url": "",
   "channel": "Nightly",
   "created": "2026-01-13T14:09:50.845621+00:00",
-  "is_public": false,
-  "modified": "2026-01-13T14:10:11.009432+00:00",
+  "is_public": true,
+  "modified": "2026-01-13T14:16:04.446033+00:00",
   "notes": [
-    {
-      "bug": 2005586,
-      "created": "2025-12-16T14:44:57.627747+00:00",
-      "id": 791351,
-      "is_public": true,
-      "modified": "2026-01-13T14:09:50.890834+00:00",
-      "note": "[Firefox for Android][1] introduces a refreshed toolbar with a modern design and improved customization support.\r\n\r\n\r\n  [1]: https://play.google.com/store/apps/details?id=org.mozilla.fenix",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
-      "bug": 1809303,
-      "created": "2025-12-17T13:47:02.464249+00:00",
-      "id": 791352,
-      "is_public": true,
-      "modified": "2026-01-13T14:09:50.890834+00:00",
-      "note": "[Firefox for Android][1] now includes a \"Copy link text\" context menu item to copy the text associated with a link.\r\n\r\n\r\n  [1]: https://play.google.com/store/apps/details?id=org.mozilla.fenix",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "New"
-    },
     {
       "bug": 2006193,
       "created": "2025-12-18T13:42:05.344437+00:00",
@@ -91,36 +67,12 @@
       "tag": "HTML5"
     },
     {
-      "bug": 1982941,
-      "created": "2025-12-16T13:48:21.798887+00:00",
-      "id": 791350,
-      "is_public": true,
-      "modified": "2026-01-13T14:09:50.890834+00:00",
-      "note": "Firefox now supports the CSS [shape()][1] function, which allows defining responsive free-form shapes in properties that take shapes like [clip-path][2]. It has some advantages over the [path()][3] function, as it utilizes standard CSS syntax, supports various CSS units, and enables the use of mathematical functions.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/CSS/basic-shape/shape\r\n  [2]: https://developer.mozilla.org/docs/Web/CSS/clip-path\r\n  [3]: https://developer.mozilla.org/docs/Web/CSS/basic-shape/path",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "HTML5"
-    },
-    {
       "bug": 1858562,
       "created": "2025-12-17T13:52:31.654845+00:00",
       "id": 791353,
       "is_public": true,
       "modified": "2026-01-13T14:09:50.890834+00:00",
       "note": "Starting with Firefox 148, Nightly builds now support the [Document Picture-in-Picture API][1], which allows web pages to place content in an always-on-top popup.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/API/Document_Picture-in-Picture_API",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "HTML5"
-    },
-    {
-      "bug": 2003895,
-      "created": "2025-12-17T13:56:29.063185+00:00",
-      "id": 791354,
-      "is_public": true,
-      "modified": "2026-01-13T14:09:50.890834+00:00",
-      "note": "Firefox now supports the [Sanitizer API][1], which provides new methods for HTML manipulation. The [element.setHTML()][2] method enables developers to insert HTML content similarly to [element.innerHTML][3], but without the security vulnerabilities such as cross-site scripting (XSS). A complementary method, [document.parseHTML()][4], is also available for parsing HTML safely.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/API/Sanitizer\r\n  [2]: https://developer.mozilla.org/docs/Web/API/Element/setHTML\r\n  [3]: https://developer.mozilla.org/docs/Web/API/Element/innerHTML\r\n  [4]: https://developer.mozilla.org/docs/Web/API/Document/parseHTML_static",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
