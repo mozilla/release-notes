@@ -235,6 +235,18 @@
       "tag": "HTML5"
     },
     {
+      "bug": 1629388,
+      "created": "2026-01-15T18:14:41.492521+00:00",
+      "id": 791420,
+      "is_public": true,
+      "modified": "2026-01-15T18:14:42.048794+00:00",
+      "note": "Starting with Firefox 148, Nightly builds now open an in-page popup for `<input type=color>` instead of an OS-dependent color picker. Which means it now shows the same behavior on all desktop platforms.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
       "bug": 1998670,
       "created": "2025-10-31T18:50:38.482738+00:00",
       "id": 791232,
