@@ -17,6 +17,42 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": ""
+    },
+    {
+      "bug": 2010712,
+      "created": "2026-01-16T09:42:47.055114+00:00",
+      "id": 791423,
+      "is_public": true,
+      "modified": "2026-01-16T09:42:47.825244+00:00",
+      "note": "([Bug 2010712][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=2010712",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": ""
+    },
+    {
+      "bug": 2001887,
+      "created": "2026-01-16T09:44:29.503850+00:00",
+      "id": 791424,
+      "is_public": true,
+      "modified": "2026-01-16T09:48:16.209242+00:00",
+      "note": "([Bug 2001887][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=2001887",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 2010411,
+      "created": "2026-01-16T09:48:04.326364+00:00",
+      "id": 791426,
+      "is_public": true,
+      "modified": "2026-01-16T09:48:05.026004+00:00",
+      "note": "([Bug 2010411][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=2010411",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
