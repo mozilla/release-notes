@@ -7,6 +7,18 @@
   "modified": "2026-01-13T13:31:31.532394+00:00",
   "notes": [
     {
+      "bug": null,
+      "created": "2026-01-19T21:05:34.898466+00:00",
+      "id": 791427,
+      "is_public": true,
+      "modified": "2026-01-19T21:05:35.374634+00:00",
+      "note": "[Address autofill][1] has been enabled for users in Switzerland.\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/automatically-fill-your-address-web-forms",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 90,
+      "tag": "New"
+    },
+    {
       "bug": 1993341,
       "created": "2026-01-08T00:13:36.108954+00:00",
       "id": 791384,
