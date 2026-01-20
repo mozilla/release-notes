@@ -67,6 +67,18 @@
       "tag": "New"
     },
     {
+      "bug": 2008405,
+      "created": "2026-01-20T12:06:06.003722+00:00",
+      "id": 791430,
+      "is_public": true,
+      "modified": "2026-01-20T12:06:06.730353+00:00",
+      "note": "*TrustPanel* combines the privacy and security panels accessed from the urlbar to give the user one place to check the privacy & security settings of the current page",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
       "bug": 1954437,
       "created": "2025-12-05T17:26:45.787803+00:00",
       "id": 791341,
