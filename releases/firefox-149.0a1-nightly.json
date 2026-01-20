@@ -101,6 +101,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "HTML5"
+    },
+    {
+      "bug": 1919718,
+      "created": "2026-01-20T09:02:07.296101+00:00",
+      "id": 791429,
+      "is_public": true,
+      "modified": "2026-01-20T09:02:07.995838+00:00",
+      "note": "You can now set specific **color spaces** and **transparency (alpha)** on `<input type=\"color\">` elements, with alpha support currently exclusive to Firefox Nightly. While the visual picker hasn't changed yet (tracked in [Bug 2007532](https://bugzilla.mozilla.org/show_bug.cgi?id=2007532)), it will now output values in your requested format.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
     }
   ],
   "product": "Firefox",
