@@ -67,6 +67,18 @@
       "tag": "New"
     },
     {
+      "bug": 2008399,
+      "created": "2026-01-22T11:38:48.347623+00:00",
+      "id": 791431,
+      "is_public": true,
+      "modified": "2026-01-22T11:38:49.195569+00:00",
+      "note": "WebGL/WebGPU is rendered as overlay on Windows if supported .",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 2008405,
       "created": "2026-01-20T12:06:06.003722+00:00",
       "id": 791430,
