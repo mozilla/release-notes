@@ -79,6 +79,18 @@
       "tag": "New"
     },
     {
+      "bug": 2000149,
+      "created": "2026-01-22T11:46:29.088553+00:00",
+      "id": 791432,
+      "is_public": true,
+      "modified": "2026-01-22T11:46:29.834227+00:00",
+      "note": "The WebRender layer compositor is now enabled on Windows, reducing power usage during full-screen video playback and improving WebGL/WebGPU performance.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 2008405,
       "created": "2026-01-20T12:06:06.003722+00:00",
       "id": 791430,
