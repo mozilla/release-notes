@@ -103,6 +103,18 @@
       "tag": "Changed"
     },
     {
+      "bug": 1980653,
+      "created": "2026-01-22T12:02:35.680943+00:00",
+      "id": 791434,
+      "is_public": true,
+      "modified": "2026-01-22T12:02:36.191123+00:00",
+      "note": "Starting with Firefox 149, on Windows, Firefox will use the modern `Windows.Devices.Geolocation` API for geolocation instead of Windows 7 location API.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
       "bug": 1954437,
       "created": "2025-12-05T17:26:45.787803+00:00",
       "id": 791341,
