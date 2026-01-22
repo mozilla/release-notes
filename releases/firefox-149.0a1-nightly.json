@@ -149,6 +149,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "HTML5"
+    },
+    {
+      "bug": null,
+      "created": "2026-01-22T11:54:17.885734+00:00",
+      "id": 791433,
+      "is_public": true,
+      "modified": "2026-01-22T11:54:18.656769+00:00",
+      "note": "`showPicker()` now supports text-based `<input>` elements with an associated `<datalist>`, displaying the autofill dropdown. [See documentation][1].\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/HTMLInputElement/showPicker#showpicker_for_a_datalist_input",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
     }
   ],
   "product": "Firefox",
