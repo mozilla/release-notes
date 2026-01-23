@@ -91,6 +91,18 @@
       "tag": "New"
     },
     {
+      "bug": 2011100,
+      "created": "2026-01-23T10:39:58.416497+00:00",
+      "id": 791435,
+      "is_public": true,
+      "modified": "2026-01-23T10:39:59.411121+00:00",
+      "note": "Firefox now supports throttling for Web Workers running in inactive tabs. When a tab becomes inactive, Firefox reduces how aggressively its workers can run timeouts.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 2008405,
       "created": "2026-01-20T12:06:06.003722+00:00",
       "id": 791430,
