@@ -43,6 +43,18 @@
       "tag": "Fixed"
     },
     {
+      "bug": 2010956,
+      "created": "2026-01-26T21:25:07.676202+00:00",
+      "id": 791441,
+      "is_public": true,
+      "modified": "2026-01-26T21:25:07.676063+00:00",
+      "note": "Fixed an issue that could lead to sites being incorrectly flagged as malicious by SafeBrowsing. ([Bug 2010956][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=2010956",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 10,
+      "tag": "Fixed"
+    },
+    {
       "bug": null,
       "created": "2026-01-26T21:11:55.317270+00:00",
       "id": 791438,
