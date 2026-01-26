@@ -19,6 +19,42 @@
       "tag": ""
     },
     {
+      "bug": 2011300,
+      "created": "2026-01-26T21:36:44.515821+00:00",
+      "id": 791442,
+      "is_public": true,
+      "modified": "2026-01-26T21:36:44.927971+00:00",
+      "note": "Resolved various issues with missing or impaired browser functionality when using XDG Base Directories on Linux. ([Bug 2011300][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=2011300",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 30,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 2010919,
+      "created": "2026-01-26T21:44:50.972760+00:00",
+      "id": 791443,
+      "is_public": true,
+      "modified": "2026-01-26T21:44:51.537386+00:00",
+      "note": "Fixed an issue causing excess passkey prompts to appear when logging into some sites. ([Bug 2010919][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=2010919",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 20,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 2010956,
+      "created": "2026-01-26T21:25:07.676202+00:00",
+      "id": 791441,
+      "is_public": true,
+      "modified": "2026-01-26T21:42:29.527351+00:00",
+      "note": "Fixed an issue that could lead to sites being incorrectly flagged as malicious by SafeBrowsing. ([Bug 2010956][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=2010956",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 10,
+      "tag": "Fixed"
+    },
+    {
       "bug": null,
       "created": "2026-01-26T21:11:55.317270+00:00",
       "id": 791438,
