@@ -31,18 +31,6 @@
       "tag": "New"
     },
     {
-      "bug": 2003541,
-      "created": "2026-01-08T00:14:20.499261+00:00",
-      "id": 791385,
-      "is_public": false,
-      "modified": "2026-01-12T22:29:27.776367+00:00",
-      "note": "Firefox now supports [Compression Dictionaries][1]. This standard has already been adopted by several major sites and can significantly reduce the number of bytes transferred to load a page. This leads to faster page load times, particularly in limited bandwidth situations.\r\n\r\n\r\n  [1]: https://datatracker.ietf.org/doc/html/rfc9842",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 70,
-      "tag": "New"
-    },
-    {
       "bug": 1998839,
       "created": "2026-01-08T00:15:01.689705+00:00",
       "id": 791386,
@@ -82,9 +70,9 @@
       "bug": 1635774,
       "created": "2026-01-08T00:17:50.199161+00:00",
       "id": 791389,
-      "is_public": false,
-      "modified": "2026-01-08T14:38:59.038969+00:00",
-      "note": "Firefox now allows you to customize your keyboard shortcuts to replace hard-to-type or hard-to-remember hotkeys, eliminate conflicts with other software, and create your preferred set. Access this experimental new feature by typing `about:keyboard` in the address bar.\r\n\r\n<!-- Add to 147 planned dot release notes also on the 27th -->",
+      "is_public": true,
+      "modified": "2026-01-27T14:13:24.527307+00:00",
+      "note": "Firefox now allows you to customize your keyboard shortcuts to replace hard-to-type or hard-to-remember hotkeys, eliminate conflicts with other software, and create your preferred set. Access this experimental new feature by typing `about:keyboard` in the address bar.",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 30,
