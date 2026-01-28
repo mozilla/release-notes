@@ -197,6 +197,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "HTML5"
+    },
+    {
+      "bug": 1983187,
+      "created": "2026-01-28T12:26:47.212629+00:00",
+      "id": 791444,
+      "is_public": true,
+      "modified": "2026-01-28T12:26:48.019669+00:00",
+      "note": "The functions [`xywh()`](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Values/basic-shape/xywh) and [`rect()`](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Values/basic-shape/rect) were previously already implemented for the `clip-path` and `offset-path` properties. Now they are also available for the [`shape-outside`](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/shape-outside) property.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
     }
   ],
   "product": "Firefox",
