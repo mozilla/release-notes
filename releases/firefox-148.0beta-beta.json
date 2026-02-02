@@ -43,6 +43,18 @@
       "tag": "New"
     },
     {
+      "bug": 2011957,
+      "created": "2026-02-02T18:53:04.255791+00:00",
+      "id": 791446,
+      "is_public": true,
+      "modified": "2026-02-02T21:20:28.220150+00:00",
+      "note": "Added an [AI Controls][1] section to Settings for managing AI-enhanced features.\r\nComing in 148.0 Beta 11\r\n\r\n<img src=\"https://www.firefox.com/media/img/firefox/releasenotes/note-images/148_ai_controls.png width=\"700\" alt=\"image for AI controls in Settings\">\r\n\r\n  [1]: https://blog.mozilla.org/firefox/ai-controls/",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 543435,
       "created": "2025-12-01T17:36:50.448882+00:00",
       "id": 791306,
