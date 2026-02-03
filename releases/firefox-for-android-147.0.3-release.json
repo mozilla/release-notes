@@ -1,0 +1,41 @@
+{
+  "bug_list": "",
+  "bug_search_url": "",
+  "channel": "Release",
+  "created": "2026-02-03T16:16:17.831556+00:00",
+  "is_public": false,
+  "modified": "2026-02-03T16:17:33.841131+00:00",
+  "notes": [
+    {
+      "bug": null,
+      "created": "2026-02-03T16:25:49.003090+00:00",
+      "id": 791449,
+      "is_public": true,
+      "modified": "2026-02-03T16:25:49.508458+00:00",
+      "note": "Interoperability improvements for the CSS anchor positioning and Navigation web APIs.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 100,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2026-02-03T16:17:52.771780+00:00",
+      "id": 791448,
+      "is_public": true,
+      "modified": "2026-02-03T16:18:14.770593+00:00",
+      "note": "Reference link to [147.0.2 release notes][1].\r\n\r\n\r\n  [1]: https://www.firefox.com/firefox/android/147.0.2/releasenotes/",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": ""
+    }
+  ],
+  "product": "Firefox for Android",
+  "release_date": "2026-02-04",
+  "slug": "firefox-for-android-147.0.3-release",
+  "system_requirements": "## Operating systems\r\n - Android 8.0 or newer",
+  "text": "Thanks for using Firefox! Have feedback or suggestions? We'd love to hear from you at [Android Support][1]\r\n\r\n\r\n  [1]: https://mzl.la/AndroidSupport",
+  "title": "Firefox for Android 147.0.3 Release",
+  "version": "147.0.3"
+}
