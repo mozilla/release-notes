@@ -29,6 +29,66 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": ""
+    },
+    {
+      "bug": 2010481,
+      "created": "2026-02-03T16:35:37.596150+00:00",
+      "id": 791451,
+      "is_public": true,
+      "modified": "2026-02-03T16:35:37.595737+00:00",
+      "note": "Fixed a regression where `position: sticky` elements on some webpages could appear stuck or fail to update while mousewheel-scrolling after certain `:hover` interactions. ([Bug 2010481][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=2010481",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 50,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 2003045,
+      "created": "2026-02-03T16:39:32.733643+00:00",
+      "id": 791452,
+      "is_public": true,
+      "modified": "2026-02-03T16:39:33.165877+00:00",
+      "note": "Fixed an issue on Linux (Wayland) where certain popups and context menus could sometimes open in the wrong place, such as the top-left corner of the window. ([Bug 2003045][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=2003045",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 40,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 2003810,
+      "created": "2026-02-03T16:42:23.958881+00:00",
+      "id": 791453,
+      "is_public": true,
+      "modified": "2026-02-03T16:42:24.273309+00:00",
+      "note": "Fixed an issue where the Firefox Developer Tools could fail to re-open after using the Inspector\u2019s node picker and reloading a page containing cross-origin iframes. ([Bug 2003810][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=2003810",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 30,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 2010501,
+      "created": "2026-02-03T16:44:33.378855+00:00",
+      "id": 791454,
+      "is_public": true,
+      "modified": "2026-02-03T16:44:33.712370+00:00",
+      "note": "Fixed an issue where the DoH provider settings section could appear as a blank box after updating to Firefox 147, preventing users from seeing the current DNS setting or changing it. ([Bug 2010501][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=2010501",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 20,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 2012950,
+      "created": "2026-02-03T16:46:40.635607+00:00",
+      "id": 791455,
+      "is_public": true,
+      "modified": "2026-02-03T16:46:40.961538+00:00",
+      "note": "Fixed an issue on Windows systems with a large number of fonts installed where parts of the Firefox UI (tabs, menus, and Settings) could display garbled characters or symbols instead of readable text. ([Bug 2012950][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=2012950",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 10,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
