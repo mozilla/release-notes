@@ -43,18 +43,6 @@
       "tag": "Fixed"
     },
     {
-      "bug": 2003045,
-      "created": "2026-02-03T16:39:32.733643+00:00",
-      "id": 791452,
-      "is_public": true,
-      "modified": "2026-02-03T16:39:33.165877+00:00",
-      "note": "Fixed an issue on Linux (Wayland) where certain popups and context menus could sometimes open in the wrong place, such as the top-left corner of the window. ([Bug 2003045][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=2003045",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 40,
-      "tag": "Fixed"
-    },
-    {
       "bug": 2003810,
       "created": "2026-02-03T16:42:23.958881+00:00",
       "id": 791453,
@@ -89,6 +77,18 @@
       "relevant_countries": [],
       "sort_num": 10,
       "tag": "Fixed"
+    },
+    {
+      "bug": 2003045,
+      "created": "2026-02-03T16:39:32.733643+00:00",
+      "id": 791452,
+      "is_public": true,
+      "modified": "2026-02-04T14:12:08.211854+00:00",
+      "note": "On Linux (Wayland) systems, certain popups and context menus will sometimes open in the wrong place, such as the top-left corner of the window. Firefox 147.0.3 has a partial mitigation for this problem and remaining instances will be addressed in a future release. ([Bug 2003045][1])\r\n\r\n[1]: https://bugzilla.mozilla.org/show_bug.cgi?id=2003045",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 40,
+      "tag": "Known"
     }
   ],
   "product": "Firefox",
