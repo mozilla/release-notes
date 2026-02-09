@@ -269,6 +269,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "HTML5"
+    },
+    {
+      "bug": 1867743,
+      "created": "2026-02-09T12:00:54.091709+00:00",
+      "id": 791461,
+      "is_public": true,
+      "modified": "2026-02-09T12:00:54.774201+00:00",
+      "note": "Added support for the HTML attribute [`popover=\"hint\"`][1].\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/Popover_API/Using#using_hint_popover_state",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
     }
   ],
   "product": "Firefox",
