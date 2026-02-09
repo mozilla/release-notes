@@ -199,11 +199,11 @@
       "tag": "HTML5"
     },
     {
-      "bug": null,
+      "bug": 1998668,
       "created": "2026-01-22T11:54:17.885734+00:00",
       "id": 791433,
       "is_public": true,
-      "modified": "2026-01-22T11:54:18.656769+00:00",
+      "modified": "2026-02-09T09:54:58.737672+00:00",
       "note": "`showPicker()` now supports text-based `<input>` elements with an associated `<datalist>`, displaying the autofill dropdown. [See documentation][1].\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/HTMLInputElement/showPicker#showpicker_for_a_datalist_input",
       "progressive_rollout": false,
       "relevant_countries": [],
@@ -223,11 +223,11 @@
       "tag": "HTML5"
     },
     {
-      "bug": null,
+      "bug": 2014703,
       "created": "2026-02-06T09:10:43.698856+00:00",
       "id": 791457,
       "is_public": true,
-      "modified": "2026-02-06T09:10:44.499645+00:00",
+      "modified": "2026-02-09T09:55:54.026383+00:00",
       "note": "The [`math`][1] value of the CSS font-family is now supported and used by default for MathML's [`<math>`][2] element. It enables Web developers to indicate special fonts with advanced math features should be used. Firefox will rely on the serif font for mathematics defined in Firefox preferences.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/font-family#math\r\n  [2]: https://developer.mozilla.org/en-US/docs/Web/MathML/Reference/Element/math",
       "progressive_rollout": false,
       "relevant_countries": [],
