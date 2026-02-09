@@ -175,6 +175,18 @@
       "tag": "Changed"
     },
     {
+      "bug": 1949057,
+      "created": "2026-02-09T10:45:43.572463+00:00",
+      "id": 791460,
+      "is_public": true,
+      "modified": "2026-02-09T10:45:44.098157+00:00",
+      "note": "On Linux, Firefox will now default to the XDG portal file picker if available, rather than the GTK3 one, which is usually better integrated with the user's desktop environment, and more powerful.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
       "bug": 1954437,
       "created": "2025-12-05T17:26:45.787803+00:00",
       "id": 791341,
