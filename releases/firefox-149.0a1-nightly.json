@@ -127,6 +127,18 @@
       "tag": "New"
     },
     {
+      "bug": 2006057,
+      "created": "2026-02-09T10:21:45.353820+00:00",
+      "id": 791458,
+      "is_public": true,
+      "modified": "2026-02-09T10:21:46.196348+00:00",
+      "note": "Many PDF files will now load significantly faster thanks to hardware acceleration.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 2008405,
       "created": "2026-01-20T12:06:06.003722+00:00",
       "id": 791430,
