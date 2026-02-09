@@ -139,6 +139,18 @@
       "tag": "New"
     },
     {
+      "bug": 2013319,
+      "created": "2026-02-09T13:36:55.578180+00:00",
+      "id": 791462,
+      "is_public": true,
+      "modified": "2026-02-09T13:36:56.264126+00:00",
+      "note": "Address Autofill is enabled for users in Australia, India, Italy, Poland, and Austria",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 2008405,
       "created": "2026-01-20T12:06:06.003722+00:00",
       "id": 791430,
