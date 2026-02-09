@@ -163,6 +163,18 @@
       "tag": "Changed"
     },
     {
+      "bug": 2007588,
+      "created": "2026-02-09T10:38:58.627723+00:00",
+      "id": 791459,
+      "is_public": true,
+      "modified": "2026-02-09T10:38:58.627632+00:00",
+      "note": "Firefox 149 tightens the security requirements for the JavaScript files that can be loaded in the parent process, to provide defense in depth against security threats.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
       "bug": 1954437,
       "created": "2025-12-05T17:26:45.787803+00:00",
       "id": 791341,
