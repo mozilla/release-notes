@@ -293,6 +293,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "HTML5"
+    },
+    {
+      "bug": 2016216,
+      "created": "2026-02-13T11:25:12.288666+00:00",
+      "id": 791469,
+      "is_public": true,
+      "modified": "2026-02-13T11:25:13.203514+00:00",
+      "note": "Enabled the spec-compliant `HTMLMediaElement.captureStream()` [API][1].\r\n\r\n\r\n  [1]: https://w3c.github.io/mediacapture-fromelement/#html-media-element-media-capture-extensions",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
     }
   ],
   "product": "Firefox",
