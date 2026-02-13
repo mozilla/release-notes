@@ -305,6 +305,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "HTML5"
+    },
+    {
+      "bug": 2013367,
+      "created": "2026-02-13T14:08:37.646249+00:00",
+      "id": 791471,
+      "is_public": true,
+      "modified": "2026-02-13T14:08:38.397973+00:00",
+      "note": "Enabled [media element pseudo-classes][1], such as :playing, :paused\u2026\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=2013367#c0",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
     }
   ],
   "product": "Firefox",

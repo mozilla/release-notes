@@ -41,6 +41,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": 2003045,
+      "created": "2026-02-13T14:06:14.011452+00:00",
+      "id": 791470,
+      "is_public": true,
+      "modified": "2026-02-13T14:06:40.519694+00:00",
+      "note": "On Linux (Wayland) systems, certain popups and context menus will sometimes open in the wrong place, such as the top-left corner of the window. This will will be addressed in a future release.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 40,
+      "tag": "Known"
     }
   ],
   "product": "Firefox",
