@@ -151,6 +151,30 @@
       "tag": "New"
     },
     {
+      "bug": 2015830,
+      "created": "2026-02-16T10:00:07.132246+00:00",
+      "id": 791472,
+      "is_public": true,
+      "modified": "2026-02-16T10:00:07.981388+00:00",
+      "note": "Firefox now automatically blocks notifications and permanently revokes permissions for any website flagged as malicious by *SafeBrowsing*. This prevents unsafe sites from sending background notifications to users, commonly used for ads, spam or phishing.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1717290,
+      "created": "2026-02-16T10:04:10.923405+00:00",
+      "id": 791473,
+      "is_public": true,
+      "modified": "2026-02-16T10:04:11.457677+00:00",
+      "note": "You can now add a *Share* button to your toolbar from *Customize Toolbar*. It lets you easily share the addresss of your current tab using your Windows or macOS Operating system\u2019s sharing services.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": ""
+    },
+    {
       "bug": 2008405,
       "created": "2026-01-20T12:06:06.003722+00:00",
       "id": 791430,
