@@ -175,6 +175,18 @@
       "tag": "New"
     },
     {
+      "bug": 2017207,
+      "created": "2026-02-17T14:36:05.187647+00:00",
+      "id": 791478,
+      "is_public": true,
+      "modified": "2026-02-17T14:36:06.030813+00:00",
+      "note": "Local network access restrictions are now being extended to all users. Firefox will require websites to request your permission before connecting to devices on your local network or to apps and services on your device. Previously limited to users with *Enhanced Tracking Protection* set to *Strict*, this protection is now rolling out gradually to all users. You can find more details about this on our [support page][1].\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/control-personal-device-local-network-permissions-firefox",
+      "progressive_rollout": true,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 2008405,
       "created": "2026-01-20T12:06:06.003722+00:00",
       "id": 791430,
