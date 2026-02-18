@@ -31,6 +31,78 @@
       "tag": "HTML5"
     },
     {
+      "bug": 2003333,
+      "created": "2026-02-18T11:09:52.552399+00:00",
+      "id": 791481,
+      "is_public": true,
+      "modified": "2026-02-18T11:09:53.235881+00:00",
+      "note": "Firefox now supports the [Iterator.zip()][1] and [Iterator.zipKeyed()][2] methods from the joint iteration proposal. This allows zipping together underlying iterators into an iterator over values grouped by position, similar to `zip` in many other languages.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Iterator/zip\r\n  [2]: https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Iterator/zipKeyed",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 70,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 1994690,
+      "created": "2026-02-18T11:11:33.180430+00:00",
+      "id": 791482,
+      "is_public": true,
+      "modified": "2026-02-18T11:11:33.740975+00:00",
+      "note": "Firefox now supports the [Trusted Types API][1], which is primarily aimed at preventing cross-site scripting attacks.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/API/Trusted_Types_API",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 60,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 2003895,
+      "created": "2026-02-18T11:14:09.846077+00:00",
+      "id": 791483,
+      "is_public": true,
+      "modified": "2026-02-18T11:14:10.341794+00:00",
+      "note": "Firefox now supports the [Sanitizer API][1], which provides new methods for HTML manipulation. The [element.setHTML()][2] method enables developers to insert HTML content similarly to [element.innerHTML][3], but without the security vulnerabilities such as cross-site scripting (XSS). A complementary method, [document.parseHTML()][4], is also available for parsing HTML safely.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/API/Sanitizer\r\n  [2]: https://developer.mozilla.org/docs/Web/API/Element/setHTML\r\n  [3]: https://developer.mozilla.org/docs/Web/API/Element/innerHTML\r\n  [4]: https://developer.mozilla.org/docs/Web/API/Document/parseHTML_static",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 50,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 1085214,
+      "created": "2026-02-18T11:15:36.388117+00:00",
+      "id": 791484,
+      "is_public": true,
+      "modified": "2026-02-18T11:15:36.860204+00:00",
+      "note": "Firefox now supports the [location.ancestorOrigins][1] attribute.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/API/Location/ancestorOrigins",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 40,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 2009004,
+      "created": "2026-02-18T11:19:18.607113+00:00",
+      "id": 791485,
+      "is_public": true,
+      "modified": "2026-02-18T11:19:18.606911+00:00",
+      "note": "Firefox now supports the [NavigationPrecommitController.addHandler()][1] interface of the [Navigation API][2]. This allows registering a post-commit navigation handler during the pre-commit phase, to allow a multi-step navigation process.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/API/NavigationPrecommitController\r\n  [2]: https://developer.mozilla.org/docs/Web/API/Navigation_API",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 30,
+      "tag": "HTML5"
+    },
+    {
+      "bug": null,
+      "created": "2026-02-18T11:22:50.097851+00:00",
+      "id": 791486,
+      "is_public": true,
+      "modified": "2026-02-18T11:22:50.813054+00:00",
+      "note": "Firefox now supports the [position-try-order][1] property as part of [CSS Anchor Positioning][2], controlling the order of fallback positioning attempts.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/position-try-order\r\n  [2]: https://developer.mozilla.org/docs/Web/CSS/Guides/Anchor_positioning/Using",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 20,
+      "tag": "HTML5"
+    },
+    {
       "bug": null,
       "created": "2026-02-16T16:01:34.810752+00:00",
       "id": 791476,
