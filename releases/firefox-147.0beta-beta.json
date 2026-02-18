@@ -71,7 +71,7 @@
       "created": "2025-12-05T20:04:23.399540+00:00",
       "id": 791343,
       "is_public": false,
-      "modified": "2026-01-28T17:46:39.952612+00:00",
+      "modified": "2026-02-18T15:11:52.661240+00:00",
       "note": "Firefox 147 includes support for Compression Dictionaries, IETF [RFC 9842][1]. This can significantly reduce the number of bytes transferred to load a page in several ways. That can lead to faster pageloads, especially for users with restricted bandwidth. Several major sites are currently using this, and likely many more will in the next year.\r\n\r\n\r\n  [1]: https://datatracker.ietf.org/doc/html/rfc9842",
       "progressive_rollout": false,
       "relevant_countries": [],

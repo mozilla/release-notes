@@ -67,6 +67,18 @@
       "tag": "New"
     },
     {
+      "bug": 1989609,
+      "created": "2026-02-18T15:24:55.528006+00:00",
+      "id": 791501,
+      "is_public": true,
+      "modified": "2026-02-18T15:24:56.233433+00:00",
+      "note": "[New Tab][1] wallpapers will now appear on new container tabs as well as new default tabs.\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/customize-items-on-firefox-new-tab-page#w_wallpapers",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 40,
+      "tag": "New"
+    },
+    {
       "bug": 543435,
       "created": "2026-02-18T10:59:35.271088+00:00",
       "id": 791479,

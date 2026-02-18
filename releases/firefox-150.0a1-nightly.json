@@ -2,9 +2,9 @@
   "bug_list": "",
   "bug_search_url": "",
   "channel": "Nightly",
-  "created": "2026-01-13T14:09:50.845621+00:00",
-  "is_public": true,
-  "modified": "2026-01-13T15:07:31.726887+00:00",
+  "created": "2026-02-18T15:11:52.607487+00:00",
+  "is_public": false,
+  "modified": "2026-02-18T15:12:48.387579+00:00",
   "notes": [
     {
       "bug": 2003541,
@@ -79,30 +79,6 @@
       "tag": "New"
     },
     {
-      "bug": 2008399,
-      "created": "2026-01-22T11:38:48.347623+00:00",
-      "id": 791431,
-      "is_public": true,
-      "modified": "2026-02-18T15:12:15.135308+00:00",
-      "note": "WebGL/WebGPU is rendered as overlay on Windows if supported.",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
-      "bug": 2000149,
-      "created": "2026-01-22T11:46:29.088553+00:00",
-      "id": 791432,
-      "is_public": true,
-      "modified": "2026-02-18T15:12:16.645699+00:00",
-      "note": "The WebRender layer compositor is now enabled on Windows, reducing power usage during full-screen video playback and improving WebGL/WebGPU performance.",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
       "bug": 2011100,
       "created": "2026-01-23T10:39:58.416497+00:00",
       "id": 791435,
@@ -113,90 +89,6 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "New"
-    },
-    {
-      "bug": 2011957,
-      "created": "2026-02-02T18:38:51.826835+00:00",
-      "id": 791445,
-      "is_public": true,
-      "modified": "2026-02-18T15:12:22.439208+00:00",
-      "note": "Added an [AI Controls][1] section to Settings for managing AI-enhanced features.\r\n\r\n\r\n<img src=\"https://www.firefox.com/media/img/firefox/releasenotes/note-images/148_ai_controls_nightly.png\" width=\"700\" alt=\"image for AI controls in Settings\">\r\n\r\n  [1]: https://blog.mozilla.org/firefox/ai-controls/",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
-      "bug": 2006057,
-      "created": "2026-02-09T10:21:45.353820+00:00",
-      "id": 791458,
-      "is_public": true,
-      "modified": "2026-02-18T15:12:26.628977+00:00",
-      "note": "Many PDF files will now load significantly faster thanks to hardware acceleration.",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
-      "bug": 2013319,
-      "created": "2026-02-09T13:36:55.578180+00:00",
-      "id": 791462,
-      "is_public": true,
-      "modified": "2026-02-18T15:12:32.585715+00:00",
-      "note": "Address Autofill is enabled for users in Australia, India, Italy, Poland, and Austria",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
-      "bug": 2015830,
-      "created": "2026-02-16T10:00:07.132246+00:00",
-      "id": 791472,
-      "is_public": true,
-      "modified": "2026-02-18T15:12:39.371055+00:00",
-      "note": "Firefox now automatically blocks notifications and permanently revokes permissions for any website flagged as malicious by *SafeBrowsing*. This prevents unsafe sites from sending background notifications to users, commonly used for ads, spam or phishing.",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
-      "bug": 1717290,
-      "created": "2026-02-16T10:04:10.923405+00:00",
-      "id": 791473,
-      "is_public": true,
-      "modified": "2026-02-18T15:12:40.713781+00:00",
-      "note": "You can now add a *Share* button to your toolbar from *Customize Toolbar*. It lets you easily share the addresss of your current tab using your Windows or macOS Operating system\u2019s sharing services.",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
-      "bug": 2017207,
-      "created": "2026-02-17T14:36:05.187647+00:00",
-      "id": 791478,
-      "is_public": true,
-      "modified": "2026-02-18T15:12:41.970555+00:00",
-      "note": "Local network access restrictions are now being extended to all users. Firefox will require websites to request your permission before connecting to devices on your local network or to apps and services on your device. Previously limited to users with *Enhanced Tracking Protection* set to *Strict*, this protection is now rolling out gradually to all users. You can find more details about this on our [support page][1].\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/control-personal-device-local-network-permissions-firefox",
-      "progressive_rollout": true,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
-      "bug": 2008405,
-      "created": "2026-01-20T12:06:06.003722+00:00",
-      "id": 791430,
-      "is_public": true,
-      "modified": "2026-02-18T15:12:13.379823+00:00",
-      "note": "*TrustPanel* combines the privacy and security panels accessed from the urlbar to give the user one place to check the privacy & security settings of the current page",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "Changed"
     },
     {
       "bug": 1980653,
@@ -217,18 +109,6 @@
       "is_public": true,
       "modified": "2026-02-18T15:11:52.661240+00:00",
       "note": "Firefox 149 tightens the security requirements for the JavaScript files that can be loaded in the parent process, to provide defense in depth against security threats.",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "Changed"
-    },
-    {
-      "bug": 1949057,
-      "created": "2026-02-09T10:45:43.572463+00:00",
-      "id": 791460,
-      "is_public": true,
-      "modified": "2026-02-18T15:12:29.132799+00:00",
-      "note": "On Linux, Firefox will now default to the XDG portal file picker if available, rather than the GTK3 one, which is usually better integrated with the user's desktop environment, and more powerful.",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
@@ -281,85 +161,13 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "HTML5"
-    },
-    {
-      "bug": 1998668,
-      "created": "2026-01-22T11:54:17.885734+00:00",
-      "id": 791433,
-      "is_public": true,
-      "modified": "2026-02-18T15:12:17.848099+00:00",
-      "note": "`showPicker()` now supports text-based `<input>` elements with an associated `<datalist>`, displaying the autofill dropdown. [See documentation][1].\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/HTMLInputElement/showPicker#showpicker_for_a_datalist_input",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "HTML5"
-    },
-    {
-      "bug": 1983187,
-      "created": "2026-01-28T12:26:47.212629+00:00",
-      "id": 791444,
-      "is_public": true,
-      "modified": "2026-02-18T15:12:21.179592+00:00",
-      "note": "The functions [`xywh()`](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Values/basic-shape/xywh) and [`rect()`](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Values/basic-shape/rect) were previously already implemented for the `clip-path` and `offset-path` properties. Now they are also available for the [`shape-outside`](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/shape-outside) property.",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "HTML5"
-    },
-    {
-      "bug": 2014703,
-      "created": "2026-02-06T09:10:43.698856+00:00",
-      "id": 791457,
-      "is_public": true,
-      "modified": "2026-02-18T15:12:24.374336+00:00",
-      "note": "The [`math`][1] value of the CSS font-family is now supported and used by default for MathML's [`<math>`][2] element. It enables Web developers to indicate special fonts with advanced math features should be used. Firefox will rely on the serif font for mathematics defined in Firefox preferences.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/font-family#math\r\n  [2]: https://developer.mozilla.org/en-US/docs/Web/MathML/Reference/Element/math",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "HTML5"
-    },
-    {
-      "bug": 1867743,
-      "created": "2026-02-09T12:00:54.091709+00:00",
-      "id": 791461,
-      "is_public": true,
-      "modified": "2026-02-18T15:12:31.684444+00:00",
-      "note": "Added support for the HTML attribute [`popover=\"hint\"`][1].\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/Popover_API/Using#using_hint_popover_state",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "HTML5"
-    },
-    {
-      "bug": 2016216,
-      "created": "2026-02-13T11:25:12.288666+00:00",
-      "id": 791469,
-      "is_public": true,
-      "modified": "2026-02-18T15:12:34.501897+00:00",
-      "note": "Enabled the spec-compliant `HTMLMediaElement.captureStream()` [API][1].\r\n\r\n\r\n  [1]: https://w3c.github.io/mediacapture-fromelement/#html-media-element-media-capture-extensions",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "HTML5"
-    },
-    {
-      "bug": 2013367,
-      "created": "2026-02-13T14:08:37.646249+00:00",
-      "id": 791471,
-      "is_public": true,
-      "modified": "2026-02-18T15:12:37.353799+00:00",
-      "note": "Enabled [media element pseudo-classes][1], such as :playing, :paused\u2026\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=2013367#c0",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "HTML5"
     }
   ],
   "product": "Firefox",
-  "release_date": "2026-01-12",
-  "slug": "firefox-149.0a1-nightly",
+  "release_date": "2026-02-23",
+  "slug": "firefox-150.0a1-nightly",
   "system_requirements": "## Windows\r\n\r\n### Operating Systems (32-bit and 64-bit)\r\n - Windows 10 or later\r\n\r\n### Recommended Hardware\r\n-  1 gigahertz (GHz) or faster compatible processor or System on a Chip (SoC)\r\n-  1GB of RAM / 2GB of RAM for the 64-bit version\r\n-  500MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- macOS 10.15 or later\r\n\r\n### Recommended Hardware\r\n- Macintosh computer with an Intel x86 or Apple silicon processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - glibc 2.17 or higher (2.28 or higher on arm64)\r\n    - GTK+ 3.14 or higher\r\n    - libglib 2.42 or higher\r\n    - libstdc++ 4.8.1 or higher (6.0 or higher on arm64)\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - DBus 1.0 or higher\r\n    - NetworkManager 0.7 or higher\r\n    - PulseAudio",
   "text": "Firefox Nightly gets updated every day and as a consequence, the release notes for the Nightly channel are updated continuously to reflect features that have reached sufficient maturity to benefit from community feedback and bug reports. \r\n\r\n**Warning: Features listed here may or may *not* make a final release of Firefox.**\r\n\r\nIn addition to these release notes, you can follow ongoing development on our [@FirefoxNightly][1] Bluesky account, our [@FirefoxNightly][4] Mastodon account as well as read our [Nightly Blog][2].\r\n\r\nYou can interact with other Firefox Nightly users and give your feedback to Mozilla staff in the [Nightly Matrix room][3] on chat.mozilla.org.\r\n\r\n\r\n  [1]: https://bsky.app/profile/firefoxnightly.bsky.social\r\n  [2]: https://blog.nightly.mozilla.org\r\n  [3]: https://chat.mozilla.org/?#/room/#nightly:mozilla.org\r\n  [4]: https://mastodon.social/@FirefoxNightly",
-  "title": "Firefox 149.0a1 Nightly",
-  "version": "149.0a1"
+  "title": "Firefox 150.0a1 Nightly",
+  "version": "150.0a1"
 }
