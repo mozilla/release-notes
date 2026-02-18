@@ -7,6 +7,30 @@
   "modified": "2026-02-16T16:01:10.858676+00:00",
   "notes": [
     {
+      "bug": 2011957,
+      "created": "2026-02-18T11:51:09.531519+00:00",
+      "id": 791491,
+      "is_public": true,
+      "modified": "2026-02-18T11:51:09.531326+00:00",
+      "note": "Added an [AI Controls][1] section to Settings for managing AI-enhanced features. [Learn more][2].\r\n\r\n<img src=\"https://www.firefox.com/media/img/firefox/releasenotes/note-images/148_ai_controls_enabled.png\" width=\"700\" alt=\"image for AI controls in Settings\">\r\n\r\n\r\n  [1]: https://blog.mozilla.org/firefox/ai-controls/\r\n  [2]: https://support.mozilla.org/kb/firefox-ai-controls",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 90,
+      "tag": "New"
+    },
+    {
+      "bug": 1937438,
+      "created": "2026-02-18T11:54:24.570447+00:00",
+      "id": 791492,
+      "is_public": true,
+      "modified": "2026-02-18T11:54:25.380413+00:00",
+      "note": "Firefox now has improved support for screen readers accessing mathematical formulas embedded in PDFs.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 80,
+      "tag": "New"
+    },
+    {
       "bug": 543435,
       "created": "2026-02-18T10:59:35.271088+00:00",
       "id": 791479,
@@ -125,6 +149,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "Enterprise"
+    },
+    {
+      "bug": 2006489,
+      "created": "2026-02-18T11:42:25.215175+00:00",
+      "id": 791490,
+      "is_public": true,
+      "modified": "2026-02-18T11:42:25.909475+00:00",
+      "note": "Fixed an issue where a language pack could become disabled after a major update, causing Firefox to display in the wrong language.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 100,
+      "tag": "Fixed"
     },
     {
       "bug": 1987375,
