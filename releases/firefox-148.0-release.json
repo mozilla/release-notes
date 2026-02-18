@@ -91,16 +91,52 @@
       "tag": "HTML5"
     },
     {
-      "bug": null,
+      "bug": 1989059,
       "created": "2026-02-18T11:22:50.097851+00:00",
       "id": 791486,
       "is_public": true,
-      "modified": "2026-02-18T11:22:50.813054+00:00",
+      "modified": "2026-02-18T11:34:47.777635+00:00",
       "note": "Firefox now supports the [position-try-order][1] property as part of [CSS Anchor Positioning][2], controlling the order of fallback positioning attempts.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/position-try-order\r\n  [2]: https://developer.mozilla.org/docs/Web/CSS/Guides/Anchor_positioning/Using",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 20,
       "tag": "HTML5"
+    },
+    {
+      "bug": 1982941,
+      "created": "2026-02-18T11:32:18.755366+00:00",
+      "id": 791487,
+      "is_public": true,
+      "modified": "2026-02-18T11:32:18.755184+00:00",
+      "note": "Firefox now supports the CSS [shape()][1] function, which allows defining responsive free-form shapes in properties that take shapes like [clip-path][2]. Unlike [path()][3], it uses standard CSS syntax, supports various CSS units, and allows mathematical functions.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/CSS/basic-shape/shape\r\n  [2]: https://developer.mozilla.org/docs/Web/CSS/clip-path\r\n  [3]: https://developer.mozilla.org/docs/Web/CSS/basic-shape/path",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 10,
+      "tag": "HTML5"
+    },
+    {
+      "bug": null,
+      "created": "2026-02-18T11:35:25.135346+00:00",
+      "id": 791488,
+      "is_public": true,
+      "modified": "2026-02-18T11:35:25.821453+00:00",
+      "note": "You can find information about policy updates and enterprise-specific bug fixes in the [Firefox for Enterprise 148 Release Notes][1].\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/firefox-enterprise-148-release-notes",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Enterprise"
+    },
+    {
+      "bug": 1987375,
+      "created": "2026-02-18T11:38:22.798822+00:00",
+      "id": 791489,
+      "is_public": true,
+      "modified": "2026-02-18T11:38:23.298310+00:00",
+      "note": "On Windows, dragging a downloaded image to Adobe Illustrator now correctly inserts the image instead of its URL.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 90,
+      "tag": "Fixed"
     },
     {
       "bug": null,
