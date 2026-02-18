@@ -7,30 +7,6 @@
   "modified": "2026-02-18T15:12:48.387579+00:00",
   "notes": [
     {
-      "bug": 2003541,
-      "created": "2025-12-05T20:04:23.399540+00:00",
-      "id": 791343,
-      "is_public": false,
-      "modified": "2026-02-18T15:11:52.661240+00:00",
-      "note": "Firefox 147 includes support for Compression Dictionaries, IETF [RFC 9842][1]. This can significantly reduce the number of bytes transferred to load a page in several ways. That can lead to faster pageloads, especially for users with restricted bandwidth. Several major sites are currently using this, and likely many more will in the next year.\r\n\r\n\r\n  [1]: https://datatracker.ietf.org/doc/html/rfc9842",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
-      "bug": 2006193,
-      "created": "2025-12-18T13:42:05.344437+00:00",
-      "id": 791367,
-      "is_public": true,
-      "modified": "2026-02-18T15:11:52.661240+00:00",
-      "note": "Starting with Firefox 148, Split View is enabled in Nightly builds. You can view two tabs side-by-side in a single window, making it easier to compare information, research topics, or work across multiple pages at once. You can create a Split View directly from a tab\u2019s context menu.",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
       "bug": 2006632,
       "created": "2025-12-18T18:58:30.184021+00:00",
       "id": 791369,
@@ -79,6 +55,18 @@
       "tag": "New"
     },
     {
+      "bug": 2008399,
+      "created": "2026-01-22T11:38:48.347623+00:00",
+      "id": 791431,
+      "is_public": true,
+      "modified": "2026-02-18T21:38:52.509290+00:00",
+      "note": "Starting with Firefox 149, WebGL/WebGPU is rendered as overlay on Windows if supported.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 2011100,
       "created": "2026-01-23T10:39:58.416497+00:00",
       "id": 791435,
@@ -101,30 +89,6 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "Changed"
-    },
-    {
-      "bug": 2007588,
-      "created": "2026-02-09T10:38:58.627723+00:00",
-      "id": 791459,
-      "is_public": true,
-      "modified": "2026-02-18T15:11:52.661240+00:00",
-      "note": "Firefox 149 tightens the security requirements for the JavaScript files that can be loaded in the parent process, to provide defense in depth against security threats.",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "Changed"
-    },
-    {
-      "bug": 1954437,
-      "created": "2025-12-05T17:26:45.787803+00:00",
-      "id": 791341,
-      "is_public": true,
-      "modified": "2026-02-18T15:11:52.661240+00:00",
-      "note": "Starting with Firefox 147, Nightly and Beta builds (b6 and earlier) now support the [Sanitizer API][1], which provides new methods for HTML manipulation. The `element.setHTML()` [method][2] enables developers to insert HTML content similarly to `element.innerHTML`, but without the security vulnerabilities such as cross-site scripting (XSS). A complementary method, `document.parseHTML()`, is also available for parsing HTML safely.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/API/Sanitizer\r\n  [2]: https://developer.mozilla.org/docs/Web/API/Element/setHTML",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "HTML5"
     },
     {
       "bug": 1858562,
@@ -157,6 +121,18 @@
       "is_public": true,
       "modified": "2026-02-18T15:11:52.661240+00:00",
       "note": "Starting with Firefox 149, you can now set specific **color spaces** and **transparency (alpha)** on `<input type=\"color\">` elements, with alpha support currently exclusive to Firefox Nightly. While the visual picker hasn't changed yet (tracked in [Bug 2007532](https://bugzilla.mozilla.org/show_bug.cgi?id=2007532)), it will now output values in your requested format.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 2016216,
+      "created": "2026-02-13T11:25:12.288666+00:00",
+      "id": 791469,
+      "is_public": true,
+      "modified": "2026-02-18T21:34:13.909137+00:00",
+      "note": "Starting with Firefox 149, the spec-compliant `HTMLMediaElement.captureStream()` [API][1] is now enabled.\r\n\r\n\r\n  [1]: https://w3c.github.io/mediacapture-fromelement/#html-media-element-media-capture-extensions",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
