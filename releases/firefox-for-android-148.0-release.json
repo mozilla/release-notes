@@ -7,6 +7,30 @@
   "modified": "2026-02-16T16:02:43.474148+00:00",
   "notes": [
     {
+      "bug": 1809303,
+      "created": "2026-02-18T12:45:55.207843+00:00",
+      "id": 791496,
+      "is_public": true,
+      "modified": "2026-02-18T12:45:55.985089+00:00",
+      "note": "Firefox now includes \"Copy link text\" in the context menu, allowing you to copy a link\u2019s displayed text.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 90,
+      "tag": "New"
+    },
+    {
+      "bug": 2005586,
+      "created": "2026-02-18T12:47:49.736459+00:00",
+      "id": 791497,
+      "is_public": true,
+      "modified": "2026-02-18T12:47:50.229371+00:00",
+      "note": "Firefox introduces a refreshed toolbar with a modern design and improved customization support.",
+      "progressive_rollout": true,
+      "relevant_countries": [],
+      "sort_num": 80,
+      "tag": "New"
+    },
+    {
       "bug": null,
       "created": "2026-02-18T12:02:47.144211+00:00",
       "id": 791493,
