@@ -17,6 +17,30 @@
       "relevant_countries": [],
       "sort_num": 90,
       "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2026-02-18T12:51:27.666147+00:00",
+      "id": 791500,
+      "is_public": true,
+      "modified": "2026-02-18T12:51:28.137670+00:00",
+      "note": "UI improvements: a cleaner, smoother experience with layout improvements and bug fixes.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2026-02-18T12:51:16.915209+00:00",
+      "id": 791499,
+      "is_public": true,
+      "modified": "2026-02-18T12:51:17.387666+00:00",
+      "note": "Resolved issues causing crashes during private browsing.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox for iOS",
