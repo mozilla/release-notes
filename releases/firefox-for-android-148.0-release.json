@@ -8,6 +8,18 @@
   "notes": [
     {
       "bug": null,
+      "created": "2026-02-18T12:02:47.144211+00:00",
+      "id": 791493,
+      "is_public": true,
+      "modified": "2026-02-18T12:10:22.618243+00:00",
+      "note": "[Remote improvements][1] are now decoupled from telemetry requirements in Firefox Settings. You can now opt into receiving remote browser changes even if you have opted out of sharing telemetry or participating in our experimental studies.\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/remote-improvements",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 70,
+      "tag": "New"
+    },
+    {
+      "bug": null,
       "created": "2026-02-16T16:01:34.810752+00:00",
       "id": 791476,
       "is_public": true,
