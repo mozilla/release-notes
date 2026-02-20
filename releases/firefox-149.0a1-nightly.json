@@ -353,6 +353,30 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "HTML5"
+    },
+    {
+      "bug": 1966073,
+      "created": "2026-02-20T14:38:48.820097+00:00",
+      "id": 791505,
+      "is_public": true,
+      "modified": "2026-02-20T14:38:49.331878+00:00",
+      "note": "Added support for closing popovers & dialogs with the Android *Back* Button, and implement the [`CloseWatcher`][1] API for handling this in script.\r\n\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/API/CloseWatcher",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 1349533,
+      "created": "2026-02-20T14:35:43.876409+00:00",
+      "id": 791504,
+      "is_public": true,
+      "modified": "2026-02-20T14:35:44.559934+00:00",
+      "note": "The toolbar of the Storage Inspector now has a button to delete all entries of the currently selected storage.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Developer"
     }
   ],
   "product": "Firefox",
