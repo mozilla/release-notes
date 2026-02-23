@@ -17,6 +17,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "HTML5"
+    },
+    {
+      "bug": 1852924,
+      "created": "2026-02-23T08:09:24.819655+00:00",
+      "id": 791507,
+      "is_public": true,
+      "modified": "2026-02-23T08:09:24.819436+00:00",
+      "note": "Increased robustness of HTTP/3 upload performance for unstable network conditions.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
