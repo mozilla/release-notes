@@ -137,6 +137,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "HTML5"
+    },
+    {
+      "bug": 2018095,
+      "created": "2026-02-26T15:29:36.551760+00:00",
+      "id": 791508,
+      "is_public": true,
+      "modified": "2026-02-26T15:29:37.119081+00:00",
+      "note": "Firefox now supports the [ariaNotify API][1] for accessibility notifications (e.g. for screen readers) as a more ergonomic and reliable alternative to ARIA live regions.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/API/Document/ariaNotify",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
     }
   ],
   "product": "Firefox",
