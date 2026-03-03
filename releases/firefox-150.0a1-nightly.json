@@ -4,7 +4,7 @@
   "channel": "Nightly",
   "created": "2026-02-18T15:11:52.607487+00:00",
   "is_public": true,
-  "modified": "2026-03-03T14:29:07.104998+00:00",
+  "modified": "2026-03-03T18:51:36.140863+00:00",
   "notes": [
     {
       "bug": 2006632,
@@ -157,6 +157,18 @@
       "is_public": true,
       "modified": "2026-02-26T15:29:37.119081+00:00",
       "note": "Firefox now supports the [ariaNotify API][1] for accessibility notifications (e.g. for screen readers) as a more ergonomic and reliable alternative to ARIA live regions.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/API/Document/ariaNotify",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 1916277,
+      "created": "2026-03-03T18:49:56.651756+00:00",
+      "id": 791512,
+      "is_public": true,
+      "modified": "2026-03-03T18:49:57.209261+00:00",
+      "note": "Firefox now supports multiple import maps per document, giving web developers more flexibility when structuring and loading modern JavaScript modules.",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
