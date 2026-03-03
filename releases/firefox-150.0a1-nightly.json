@@ -4,7 +4,7 @@
   "channel": "Nightly",
   "created": "2026-02-18T15:11:52.607487+00:00",
   "is_public": true,
-  "modified": "2026-02-24T02:47:23.031362+00:00",
+  "modified": "2026-03-03T14:29:07.104998+00:00",
   "notes": [
     {
       "bug": 2006632,
@@ -73,6 +73,18 @@
       "is_public": true,
       "modified": "2026-02-18T15:11:52.661240+00:00",
       "note": "Starting with Firefox 149, we now supports throttling for Web Workers running in inactive tabs. When a tab becomes inactive, Firefox reduces how aggressively its workers can run timeouts.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 2019009,
+      "created": "2026-03-03T14:28:47.514383+00:00",
+      "id": 791511,
+      "is_public": true,
+      "modified": "2026-03-03T14:28:47.514198+00:00",
+      "note": "Starting with Firefox 150, Nightly users can now choose a custom default location for their downloads.",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
