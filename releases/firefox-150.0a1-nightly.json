@@ -173,6 +173,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "HTML5"
+    },
+    {
+      "bug": 1917991,
+      "created": "2026-03-04T18:08:55.325093+00:00",
+      "id": 791515,
+      "is_public": true,
+      "modified": "2026-03-04T18:08:55.868344+00:00",
+      "note": "Added support for the [highlightsFromPoint() API][1], which allows web pages to interact with CSS Highlights by returning all Highlights at a given point.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/API/HighlightRegistry/highlightsFromPoint",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
     }
   ],
   "product": "Firefox",
