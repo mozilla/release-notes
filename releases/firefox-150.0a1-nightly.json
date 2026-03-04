@@ -163,6 +163,18 @@
       "tag": "HTML5"
     },
     {
+      "bug": 1916277,
+      "created": "2026-03-03T18:49:56.651756+00:00",
+      "id": 791512,
+      "is_public": false,
+      "modified": "2026-03-04T18:26:07.823242+00:00",
+      "note": "Starting with Firefox 150, multiple import maps per document is now supported, giving web developers more flexibility when structuring and loading modern JavaScript modules.  This is considered experimental as we gather feedback before enabling it in regular releases.",
+      "progressive_rollout": true,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
       "bug": 2020775,
       "created": "2026-03-04T15:29:38.909730+00:00",
       "id": 791514,
