@@ -161,6 +161,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "HTML5"
+    },
+    {
+      "bug": 2020775,
+      "created": "2026-03-04T15:29:38.909730+00:00",
+      "id": 791514,
+      "is_public": true,
+      "modified": "2026-03-04T15:30:07.678759+00:00",
+      "note": "Firefox now supports media element pseudo-classes (e.g., `:playing`, `:paused`) to allow more precise styling based on media playback state.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
     }
   ],
   "product": "Firefox",
