@@ -197,6 +197,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "HTML5"
+    },
+    {
+      "bug": 2018797,
+      "created": "2026-03-06T19:23:35.572016+00:00",
+      "id": 791516,
+      "is_public": true,
+      "modified": "2026-03-06T19:23:36.155074+00:00",
+      "note": "Starting with Firefox 150, Firefox Nightly improves the rendering of absolutely positioned elements across multi-column containers and in printing, ensuring a more accurate element positioning and fragmentation.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
     }
   ],
   "product": "Firefox",
