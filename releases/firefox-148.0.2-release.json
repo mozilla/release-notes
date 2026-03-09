@@ -17,6 +17,30 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": ""
+    },
+    {
+      "bug": 2020927,
+      "created": "2026-03-09T14:29:32.977986+00:00",
+      "id": 791520,
+      "is_public": true,
+      "modified": "2026-03-09T14:29:33.410664+00:00",
+      "note": "Fixed an issue where some web-based rich text editors stopped applying formatting, such as bold or italic. ([Bug 2020927][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=2020927",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 90,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 2017049,
+      "created": "2026-03-09T14:24:41.073327+00:00",
+      "id": 791519,
+      "is_public": true,
+      "modified": "2026-03-09T14:25:07.560608+00:00",
+      "note": "Fixed an issue where searches entered in the Firefox Home search field were incorrectly redirected to the address bar for some users who had disabled search handoff behavior via advanced settings. ([Bug 2017049][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=2017049",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 70,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
