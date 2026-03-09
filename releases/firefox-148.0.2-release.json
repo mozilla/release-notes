@@ -31,6 +31,18 @@
       "tag": "Fixed"
     },
     {
+      "bug": 2020233,
+      "created": "2026-03-09T14:32:17.783240+00:00",
+      "id": 791521,
+      "is_public": true,
+      "modified": "2026-03-09T14:33:15.250742+00:00",
+      "note": "Fixed an issue where videos could autoplay unexpectedly on YouTube despite autoplay being blocked, particularly impacting screen reader users. ([Bug 2020233][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=2020233",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 80,
+      "tag": "Fixed"
+    },
+    {
       "bug": 2017049,
       "created": "2026-03-09T14:24:41.073327+00:00",
       "id": 791519,
@@ -40,6 +52,42 @@
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 70,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 2017440,
+      "created": "2026-03-09T14:40:19.870778+00:00",
+      "id": 791522,
+      "is_public": true,
+      "modified": "2026-03-09T14:40:20.254031+00:00",
+      "note": "Fixed an issue that caused some absolutely positioned elements meant to be centered, for example, using margin: auto with inset: 0, to appear left-aligned on initial load. ([Bug 2017440][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=2017440",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 60,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 2020341,
+      "created": "2026-03-09T14:45:25.619981+00:00",
+      "id": 791523,
+      "is_public": true,
+      "modified": "2026-03-09T14:45:26.009951+00:00",
+      "note": "Fixed an issue where the \u201cSwitch to Tab\u201d suggestion in the address bar appeared blank for pages without a title. ([Bug 2020341][1])\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=2020341",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 50,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 2019515,
+      "created": "2026-03-09T14:49:12.420840+00:00",
+      "id": 791524,
+      "is_public": true,
+      "modified": "2026-03-09T14:49:12.784755+00:00",
+      "note": "Fixed an issue that could reduce video quality on Windows systems using NVIDIA GPUs with Video Super Resolution enabled. ([Bug 2019515][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=2019515",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 40,
       "tag": "Fixed"
     }
   ],
