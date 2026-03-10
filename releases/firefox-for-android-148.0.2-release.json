@@ -3,8 +3,8 @@
   "bug_search_url": "",
   "channel": "Release",
   "created": "2026-03-09T13:57:14.029738+00:00",
-  "is_public": false,
-  "modified": "2026-03-09T13:57:14.029533+00:00",
+  "is_public": true,
+  "modified": "2026-03-10T15:02:10.644782+00:00",
   "notes": [
     {
       "bug": null,
@@ -25,6 +25,18 @@
       "is_public": true,
       "modified": "2026-03-09T14:52:55.977559+00:00",
       "note": "[Stability fix][1].\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=2009191",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2026-03-10T15:04:43.924760+00:00",
+      "id": 791526,
+      "is_public": true,
+      "modified": "2026-03-10T15:04:44.331213+00:00",
+      "note": "Various [security fixes][1].\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/mfsa2026-19/",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
