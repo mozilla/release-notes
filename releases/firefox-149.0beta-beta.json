@@ -247,6 +247,18 @@
       "tag": "Developer"
     },
     {
+      "bug": 1418351,
+      "created": "2026-03-11T13:09:53.394989+00:00",
+      "id": 791528,
+      "is_public": true,
+      "modified": "2026-03-11T13:09:54.326466+00:00",
+      "note": "Besides each CSS declaration related to a computed value shown in the Computed view there's now [an icon to jump to it in the Rules view][1].\r\n\r\n\r\n  [1]: https://firefox-source-docs.mozilla.org/devtools-user/page_inspector/how_to/examine_and_edit_css/index.html#page-inspector-how-to-examine-and-edit-css-examine-computed-css",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
       "bug": 1852924,
       "created": "2026-02-23T08:09:24.819655+00:00",
       "id": 791507,
