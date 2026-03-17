@@ -221,6 +221,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "HTML5"
+    },
+    {
+      "bug": 2023569,
+      "created": "2026-03-17T13:27:07.974575+00:00",
+      "id": 791530,
+      "is_public": true,
+      "modified": "2026-03-17T13:27:08.371360+00:00",
+      "note": "Firefox now supports [light-dark()][1] on images, just like on colors, which is very useful for supporting dark mode on websites.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/CSS/Reference/Values/color_value/light-dark",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
     }
   ],
   "product": "Firefox",
