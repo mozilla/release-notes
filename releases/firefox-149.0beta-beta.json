@@ -79,6 +79,18 @@
       "tag": "New"
     },
     {
+      "bug": 1012805,
+      "created": "2026-03-17T12:51:52.501222+00:00",
+      "id": 791529,
+      "is_public": true,
+      "modified": "2026-03-17T12:51:53.052769+00:00",
+      "note": "Added support for downloading images directly from PDFs via the context menu.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 2008405,
       "created": "2026-01-20T12:06:06.003722+00:00",
       "id": 791430,
