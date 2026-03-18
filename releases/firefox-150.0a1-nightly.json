@@ -103,6 +103,18 @@
       "tag": "New"
     },
     {
+      "bug": 1844959,
+      "created": "2026-03-18T13:17:02.937711+00:00",
+      "id": 791533,
+      "is_public": true,
+      "modified": "2026-03-18T13:17:03.327236+00:00",
+      "note": "Added support for the GTK emoji picker on Linux, allowing users to insert emoji using the system shortcut (typically `Ctrl`+`.`).",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1980653,
       "created": "2026-01-22T12:02:35.680943+00:00",
       "id": 791434,
