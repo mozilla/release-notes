@@ -19,6 +19,18 @@
       "tag": "New"
     },
     {
+      "bug": null,
+      "created": "2026-03-19T18:53:08.049154+00:00",
+      "id": 791544,
+      "is_public": true,
+      "modified": "2026-03-19T18:53:08.048946+00:00",
+      "note": "Firefox now offers a free built-in VPN. Whether you\u2019re using public wifi while traveling, searching for sensitive health information, or shopping for something personal, this feature gives you a simple way to stay protected. Once you sign in and turn it on, you can hide your location and IP address by routing it through a secure proxy while you browse in Firefox. You will get 50 GB of protection every month, with the option to turn it on or off for specific websites. This feature is progressively rolling out in the US, UK, Germany, and France starting today.\r\n\r\n<img alt=\"Screenshot of the VPN button with the mofal interface showing that we are connected via VPN to a server in the US\"\" src=\"https://www.firefox.com/media/img/firefox/releasenotes/note-images/149_vpn.png\" width=\"700\">",
+      "progressive_rollout": true,
+      "relevant_countries": [],
+      "sort_num": 90,
+      "tag": "New"
+    },
+    {
       "bug": 2006057,
       "created": "2026-02-09T10:21:45.353820+00:00",
       "id": 791458,
