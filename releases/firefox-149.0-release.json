@@ -7,6 +7,66 @@
   "modified": "2026-03-18T20:34:00.914394+00:00",
   "notes": [
     {
+      "bug": 2008405,
+      "created": "2026-01-20T12:06:06.003722+00:00",
+      "id": 791430,
+      "is_public": true,
+      "modified": "2026-03-19T11:11:20.265844+00:00",
+      "note": "*TrustPanel* combines the privacy and security panels accessed from the address bar to give the user one place to check the *Privacy and Security* settings of the current page",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
+      "bug": 2007588,
+      "created": "2026-02-09T10:38:58.627723+00:00",
+      "id": 791459,
+      "is_public": true,
+      "modified": "2026-03-19T11:12:13.984537+00:00",
+      "note": "Firefox 149 tightens the security requirements for the JavaScript files that can be loaded in the parent process, to provide defense in depth against security threats.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
+      "bug": 1949057,
+      "created": "2026-02-09T10:45:43.572463+00:00",
+      "id": 791460,
+      "is_public": true,
+      "modified": "2026-03-19T11:13:35.328829+00:00",
+      "note": "On Linux, Firefox will now default to the XDG portal file picker if available, rather than the GTK3 one, which is usually better integrated with the user's desktop environment, and more powerful.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
+      "bug": 2017378,
+      "created": "2026-03-11T13:01:08.176933+00:00",
+      "id": 791527,
+      "is_public": true,
+      "modified": "2026-03-19T11:14:02.425759+00:00",
+      "note": "Firefox error pages have a fresh new look, with updated visuals that better match the overall feel of Firefox. The redesigned pages create a more cohesive experience while making it clearer what went wrong.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
+      "bug": 2016291,
+      "created": "2026-03-19T11:09:14.284912+00:00",
+      "id": 791539,
+      "is_public": true,
+      "modified": "2026-03-19T11:09:15.046972+00:00",
+      "note": "On Windows, Firefox will use modern `Windows.Devices.Geolocation` API for geolocation instead of Windows 7 location API.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
       "bug": null,
       "created": "2026-03-19T10:32:00.474405+00:00",
       "id": 791538,
