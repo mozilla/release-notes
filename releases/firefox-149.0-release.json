@@ -7,6 +7,18 @@
   "modified": "2026-03-18T20:34:00.914394+00:00",
   "notes": [
     {
+      "bug": null,
+      "created": "2026-03-19T13:18:56.199513+00:00",
+      "id": 791542,
+      "is_public": true,
+      "modified": "2026-03-19T13:58:42.460857+00:00",
+      "note": "View two pages side-by-side in a single window with the new Split View feature that makes it easier to compare information, research topics, or work across two pages at once. To create a split view, select one or two tabs and choose Add to Split View or Open in Split View.\r\n\r\n<img alt=\"A screenshot of two pages side by side in split view\" src=\"https://www.firefox.com/media/img/firefox/releasenotes/note-images/149_split_view.png\" width=\"700\">",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 100,
+      "tag": "New"
+    },
+    {
       "bug": 2006057,
       "created": "2026-02-09T10:21:45.353820+00:00",
       "id": 791458,
@@ -80,18 +92,6 @@
     },
     {
       "bug": null,
-      "created": "2026-03-19T13:18:56.199513+00:00",
-      "id": 791542,
-      "is_public": true,
-      "modified": "2026-03-19T13:18:56.950903+00:00",
-      "note": "View two pages side-by-side in a single window with the new Split View feature that makes it easier to compare information, research topics, or work across two pages at once. To create a split view, select one or two tabs and choose Add to Split View or Open in Split View.\r\n\r\n<img alt=\"A screenshot of two pages side by side in split view\" src=\"https://www.firefox.com/media/img/firefox/releasenotes/note-images/149_split_view.png\" width=\"700\">",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
-      "bug": null,
       "created": "2026-03-19T13:29:29.486888+00:00",
       "id": 791543,
       "is_public": true,
@@ -155,8 +155,8 @@
       "created": "2026-03-19T11:09:14.284912+00:00",
       "id": 791539,
       "is_public": true,
-      "modified": "2026-03-19T11:09:15.046972+00:00",
-      "note": "On Windows, Firefox will use modern `Windows.Devices.Geolocation` API for geolocation instead of Windows 7 location API.",
+      "modified": "2026-03-19T13:44:05.068936+00:00",
+      "note": "On Windows, Firefox will use the modern `Windows.Devices.Geolocation` API for geolocation instead of Windows 7 location API.",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
