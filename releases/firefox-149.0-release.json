@@ -271,6 +271,18 @@
       "tag": "Developer"
     },
     {
+      "bug": null,
+      "created": "2026-03-25T17:49:03.311057+00:00",
+      "id": 791547,
+      "is_public": true,
+      "modified": "2026-03-25T17:49:04.120567+00:00",
+      "note": "This feature is not available in enterprise environments and is not being rolled out to users with enterprise policies. While it can currently be enabled manually, administrators will have the ability to disable it via enterprise policy starting April 7. In the meantime, organizations can use the `BlockAboutConfig` policy to prevent manual enablement.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Enterprise"
+    },
+    {
       "bug": 1852924,
       "created": "2026-02-23T08:09:24.819655+00:00",
       "id": 791507,
