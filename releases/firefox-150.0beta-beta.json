@@ -101,6 +101,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "HTML5"
+    },
+    {
+      "bug": 1819581,
+      "created": "2026-03-25T18:58:39.354682+00:00",
+      "id": 791548,
+      "is_public": true,
+      "modified": "2026-03-25T18:59:02.316830+00:00",
+      "note": "Added support for a new `auto` value on the [sizes][1] attribute for lazy-loaded image elements with multiple images defined via `srcset`. This allows the browser to automatically select the right image based on the layout width of the image element. ([Learn More][2])\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/API/HTMLImageElement/sizes\r\n  [2]: https://ericportis.com/posts/2023/auto-sizes-pretty-much-requires-width-and-height/",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
     }
   ],
   "product": "Firefox",
