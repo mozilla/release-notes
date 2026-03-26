@@ -4,7 +4,7 @@
   "channel": "Beta",
   "created": "2026-03-18T15:25:45.211185+00:00",
   "is_public": true,
-  "modified": "2026-03-25T16:17:07.635716+00:00",
+  "modified": "2026-03-26T23:39:28.173274+00:00",
   "notes": [
     {
       "bug": 2017207,
@@ -121,6 +121,18 @@
       "is_public": true,
       "modified": "2026-03-26T23:28:45.053725+00:00",
       "note": "The `Document.caretPositionFromPoint()` method now only returns a position in a shadow DOM if its ShadowRoot is passed in the newly-added [shadowRoots][1] option.\r\n\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/API/Document/caretPositionFromPoint#shadowroots",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
+      "bug": 2014442,
+      "created": "2026-03-26T23:33:21.539918+00:00",
+      "id": 791551,
+      "is_public": true,
+      "modified": "2026-03-26T23:33:21.960225+00:00",
+      "note": "A new element-specific section has been added to the pseudo-class toggle panel including a toggle for the `:open` pseudo-class, which is only available for elements that have an open state like `<dialog>` elements. The existing toggle for the `:visited` pseudo-class was also moved there, as it only applies to `<a>` and `<area>` elements. ([Learn More][1])\r\n\r\n  [1]: https://firefox-source-docs.mozilla.org/devtools-user/page_inspector/how_to/examine_and_edit_css/index.html#viewing-common-pseudo-classes",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
