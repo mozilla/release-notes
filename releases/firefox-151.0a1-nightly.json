@@ -43,6 +43,18 @@
       "tag": "New"
     },
     {
+      "bug": 1717071,
+      "created": "2026-03-26T12:46:20.519768+00:00",
+      "id": 791549,
+      "is_public": true,
+      "modified": "2026-03-26T12:46:21.414594+00:00",
+      "note": "On macOS, URLs copied from iOS devices using Apple\u2019s Universal Clipboard now paste correctly in Firefox.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1919718,
       "created": "2026-01-20T09:02:07.296101+00:00",
       "id": 791429,
