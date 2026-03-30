@@ -17,6 +17,42 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": ""
+    },
+    {
+      "bug": 2021783,
+      "created": "2026-03-30T14:37:21.246029+00:00",
+      "id": 791554,
+      "is_public": true,
+      "modified": "2026-03-30T14:37:22.023334+00:00",
+      "note": "[Stability fix][1].\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=2021783",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 2025134,
+      "created": "2026-03-30T14:41:11.228342+00:00",
+      "id": 791555,
+      "is_public": true,
+      "modified": "2026-03-30T14:41:11.815605+00:00",
+      "note": "Fixed an issue where sharing tabs to desktop could incorrectly result in them opening as private tabs. ([Bug 2025134][1])\r\n\r\n\r\n  [1]: http://bugzilla.mozilla.org/show_bug.cgi?id=2025134",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 2017451,
+      "created": "2026-03-30T14:44:35.969832+00:00",
+      "id": 791556,
+      "is_public": true,
+      "modified": "2026-03-30T14:44:36.740927+00:00",
+      "note": "Fixed an issue where media controls stopped working as expected after playing a YouTube video and minimizing Fenix.  ([Bug 2017451][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=2017451",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox for Android",
