@@ -89,6 +89,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "HTML5"
+    },
+    {
+      "bug": 2022827,
+      "created": "2026-03-31T10:20:31.686977+00:00",
+      "id": 791557,
+      "is_public": true,
+      "modified": "2026-03-31T10:20:32.683457+00:00",
+      "note": "A new `CSSContainerRule.conditions` property was introduced, holding an array of all container query conditions. This new property is intended to replace `CSSContainerRule.containerName` and `CSSContainerRule.containerQuery`, which only supported a single name and query, making them obsolete.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
     }
   ],
   "product": "Firefox",
