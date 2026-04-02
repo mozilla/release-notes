@@ -55,6 +55,18 @@
       "tag": "New"
     },
     {
+      "bug": 2018516,
+      "created": "2026-04-02T09:05:02.873068+00:00",
+      "id": 791559,
+      "is_public": true,
+      "modified": "2026-04-02T09:05:03.437485+00:00",
+      "note": "HTML `<select>` dropdowns now display as an OS-native menu on macOS, aligning their appearance and behavior with the rest of the system.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1919718,
       "created": "2026-01-20T09:02:07.296101+00:00",
       "id": 791429,
@@ -97,6 +109,18 @@
       "is_public": true,
       "modified": "2026-03-31T10:20:32.683457+00:00",
       "note": "A new `CSSContainerRule.conditions` property was introduced, holding an array of all container query conditions. This new property is intended to replace `CSSContainerRule.containerName` and `CSSContainerRule.containerQuery`, which only supported a single name and query, making them obsolete.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 2019254,
+      "created": "2026-04-02T09:02:26.068625+00:00",
+      "id": 791558,
+      "is_public": true,
+      "modified": "2026-04-02T09:02:26.825256+00:00",
+      "note": "[@container][1] rules now allow specifying a list of container query conditions instead of just one condition.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/CSS/Reference/At-rules/@container",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
