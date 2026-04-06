@@ -29,6 +29,42 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": 2026109,
+      "created": "2026-04-06T17:31:52.827955+00:00",
+      "id": 791565,
+      "is_public": true,
+      "modified": "2026-04-06T17:36:00.907815+00:00",
+      "note": "Fixed an issue where certain parts of web pages, such as drop-down menus and specific styles, did not appear correctly when printing. ([Bug 2026109][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=2026109",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 2023800,
+      "created": "2026-04-06T17:33:59.746977+00:00",
+      "id": 791566,
+      "is_public": true,
+      "modified": "2026-04-06T17:36:08.578758+00:00",
+      "note": "Fixed an issue where some website error pages displayed generic connection messages instead of the specific error code and description provided by the server. ([Bug 2023800)][1]\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=2023800",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 2026688,
+      "created": "2026-04-06T17:36:54.700943+00:00",
+      "id": 791567,
+      "is_public": true,
+      "modified": "2026-04-06T17:36:55.425277+00:00",
+      "note": "Fixed a crash that occurred when using certain security keys or WebAuthn features for two-factor authentication. ([Bug 2026688][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=2026688",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
