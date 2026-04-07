@@ -137,6 +137,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "Developer"
+    },
+    {
+      "bug": 2022693,
+      "created": "2026-04-07T23:40:16.575575+00:00",
+      "id": 791574,
+      "is_public": true,
+      "modified": "2026-04-07T23:40:17.233196+00:00",
+      "note": "The devtools network monitor now indicates when a connection used a certificate issued by a certificate authority not in Mozilla's Root CA Program.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Developer"
     }
   ],
   "product": "Firefox",
