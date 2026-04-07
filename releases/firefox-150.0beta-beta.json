@@ -4,7 +4,7 @@
   "channel": "Beta",
   "created": "2026-03-18T15:25:45.211185+00:00",
   "is_public": true,
-  "modified": "2026-03-26T23:39:28.173274+00:00",
+  "modified": "2026-04-07T23:43:42.763205+00:00",
   "notes": [
     {
       "bug": 2017207,
@@ -149,6 +149,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "Developer"
+    },
+    {
+      "bug": 2005440,
+      "created": "2026-04-07T23:41:28.958445+00:00",
+      "id": 791575,
+      "is_public": true,
+      "modified": "2026-04-07T23:41:29.366165+00:00",
+      "note": "Fixed an issue on macOS where, when macOS Lockdown mode is enabled, emoji characters are not displayed in web content.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
