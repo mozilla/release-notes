@@ -67,6 +67,18 @@
       "tag": "New"
     },
     {
+      "bug": 2027803,
+      "created": "2026-04-08T20:18:11.746615+00:00",
+      "id": 791577,
+      "is_public": true,
+      "modified": "2026-04-08T20:18:12.132044+00:00",
+      "note": "Starting with Firefox 151, Nightly builds have an in-memory cache for the JavaScript compilation result, which is shared across navigation within the same domain, in order to improve the page load performance. The cache works in the same way as the existing in-memory cache for the stylesheets and the images. This can affect how the cached requests/responses are handled in DevTools, WebDriver, and WebExtensions APIs such as [webRequest][1] and [declarativeNetRequest][2].\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Mozilla/Add-ons/WebExtensions/API/webRequest\r\n  [2]: https://developer.mozilla.org/docs/Mozilla/Add-ons/WebExtensions/API/declarativeNetRequest",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1919718,
       "created": "2026-01-20T09:02:07.296101+00:00",
       "id": 791429,
@@ -121,6 +133,18 @@
       "is_public": true,
       "modified": "2026-04-02T09:02:26.825256+00:00",
       "note": "[@container][1] rules now allow specifying a list of container query conditions instead of just one condition.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/CSS/Reference/At-rules/@container",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 1924572,
+      "created": "2026-04-08T20:15:50.995426+00:00",
+      "id": 791576,
+      "is_public": true,
+      "modified": "2026-04-08T20:15:51.688481+00:00",
+      "note": "Temporary site permissions are now correctly reflected in the [Permissions API][1].\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/API/Permissions_API",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
