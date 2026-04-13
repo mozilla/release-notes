@@ -173,6 +173,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "HTML5"
+    },
+    {
+      "bug": 2023824,
+      "created": "2026-04-13T13:48:15.417513+00:00",
+      "id": 791580,
+      "is_public": true,
+      "modified": "2026-04-13T13:48:16.259174+00:00",
+      "note": "Firefox now supports the declarative definition of slot assignment behaviour for shadow roots.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
     }
   ],
   "product": "Firefox",
