@@ -91,6 +91,30 @@
       "tag": "New"
     },
     {
+      "bug": 2029260,
+      "created": "2026-04-15T09:58:16.646544+00:00",
+      "id": 791581,
+      "is_public": true,
+      "modified": "2026-04-15T09:58:17.431277+00:00",
+      "note": "Starting with Firefox 151, [Firefox for Android][1] nightly builds include settings for enabling fine-grained control of AI features and also allows you to block future AI features.\r\n\r\n\r\n  [1]: https://play.google.com/store/apps/details?id=org.mozilla.fenix",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1867385,
+      "created": "2026-04-15T10:04:06.594283+00:00",
+      "id": 791583,
+      "is_public": true,
+      "modified": "2026-04-15T10:04:07.236332+00:00",
+      "note": "The search bar in Firefox Settings (about:preferences) is now larger and spans the full Settings column, making it easier for users to search within Settings.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
       "bug": 1919718,
       "created": "2026-01-20T09:02:07.296101+00:00",
       "id": 791429,
@@ -181,6 +205,18 @@
       "is_public": true,
       "modified": "2026-04-13T13:48:16.259174+00:00",
       "note": "Firefox now supports the declarative definition of slot assignment behaviour for shadow roots.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 2030645,
+      "created": "2026-04-15T10:02:00.768306+00:00",
+      "id": 791582,
+      "is_public": true,
+      "modified": "2026-04-15T10:02:00.768099+00:00",
+      "note": "[Container style queries][1] are now supported allowing to apply styles to an element based on the computed values of custom properties of their container. This can be done by using one or more `style()` functions inside `@container` rules.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/CSS/Reference/At-rules/@container#container_style_queries",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
