@@ -1,0 +1,29 @@
+{
+  "bug_list": "",
+  "bug_search_url": "",
+  "channel": "Release",
+  "created": "2026-04-15T19:03:21.336645+00:00",
+  "is_public": false,
+  "modified": "2026-04-15T19:06:57.214379+00:00",
+  "notes": [
+    {
+      "bug": null,
+      "created": "2026-04-15T19:06:52.998162+00:00",
+      "id": 791586,
+      "is_public": true,
+      "modified": "2026-04-15T19:06:53.439308+00:00",
+      "note": "Various [security fixes][1].\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
+    }
+  ],
+  "product": "Firefox for Android",
+  "release_date": "2026-04-21",
+  "slug": "firefox-for-android-150.0-release",
+  "system_requirements": "## Operating systems\r\n - Android 8.0 or newer",
+  "text": "Thanks for using Firefox! Have feedback or suggestions? We'd love to hear from you at [Android Support][1]\r\n\r\n\r\n  [1]: https://mzl.la/AndroidSupport",
+  "title": "Firefox for Android 150.0 Release",
+  "version": "150.0"
+}
