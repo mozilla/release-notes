@@ -257,6 +257,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2026-04-15T20:17:02.950188+00:00",
+      "id": 791608,
+      "is_public": true,
+      "modified": "2026-04-15T20:17:02.950065+00:00",
+      "note": "With the release of Firefox 150, we are pleased to welcome the developers who contributed their first code change to Firefox in this release, 22 of whom were brand new volunteers! Please join us in thanking each of these diligent and enthusiastic individuals, and take a look at their contributions:\r\n\r\n* Akeldama: <a href=\"https://bugzilla.mozilla.org/1718781\">1718781</a>\r\n* Alex Reisner: <a href=\"https://bugzilla.mozilla.org/2005628\">2005628</a>\r\n* amar.p.t.1397: <a href=\"https://bugzilla.mozilla.org/2003168\">2003168</a>\r\n* Anshul Malik: <a href=\"https://bugzilla.mozilla.org/1561441\">1561441</a>, <a href=\"https://bugzilla.mozilla.org/1814459\">1814459</a>, <a href=\"https://bugzilla.mozilla.org/2018447\">2018447</a>, <a href=\"https://bugzilla.mozilla.org/2018843\">2018843</a>, <a href=\"https://bugzilla.mozilla.org/2019010\">2019010</a>\r\n* baris: <a href=\"https://bugzilla.mozilla.org/2008127\">2008127</a>\r\n* Ben: <a href=\"https://bugzilla.mozilla.org/1967026\">1967026</a>\r\n* Chad Gratts: <a href=\"https://bugzilla.mozilla.org/2003111\">2003111</a>\r\n* Elliott Ashby: <a href=\"https://bugzilla.mozilla.org/1674654\">1674654</a>\r\n* geppy: <a href=\"https://bugzilla.mozilla.org/1767617\">1767617</a>\r\n* Giedrius Visokinskas [:gvisokinskas]: <a href=\"https://bugzilla.mozilla.org/1910291\">1910291</a>\r\n* Jocsan: <a href=\"https://bugzilla.mozilla.org/2016933\">2016933</a>\r\n* Justin Peter: <a href=\"https://bugzilla.mozilla.org/1971538\">1971538</a>, <a href=\"https://bugzilla.mozilla.org/2010486\">2010486</a>, <a href=\"https://bugzilla.mozilla.org/2018840\">2018840</a>, <a href=\"https://bugzilla.mozilla.org/2018842\">2018842</a>\r\n* karan68: <a href=\"https://bugzilla.mozilla.org/1998004\">1998004</a>\r\n* Knot False: <a href=\"https://bugzilla.mozilla.org/1861645\">1861645</a>\r\n* Liam Wachter: <a href=\"https://bugzilla.mozilla.org/2018739\">2018739</a>\r\n* Michael Lynch: <a href=\"https://bugzilla.mozilla.org/2023046\">2023046</a>\r\n* Mohammed Abdullah: <a href=\"https://bugzilla.mozilla.org/1942439\">1942439</a>\r\n* Nathan Johnson [:narjoDev]: <a href=\"https://bugzilla.mozilla.org/1895394\">1895394</a>\r\n* Pushkar Singh: <a href=\"https://bugzilla.mozilla.org/2003191\">2003191</a>\r\n* Sally Frye: <a href=\"https://bugzilla.mozilla.org/2003170\">2003170</a>\r\n* Thien Pham: <a href=\"https://bugzilla.mozilla.org/2001134\">2001134</a>\r\n* tushar sariya: <a href=\"https://bugzilla.mozilla.org/928224\">928224</a>, <a href=\"https://bugzilla.mozilla.org/1939501\">1939501</a>, <a href=\"https://bugzilla.mozilla.org/1975962\">1975962</a>",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Community"
     }
   ],
   "product": "Firefox",
