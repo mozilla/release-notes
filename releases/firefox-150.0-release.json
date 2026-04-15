@@ -56,6 +56,42 @@
     },
     {
       "bug": null,
+      "created": "2026-04-15T19:24:01.921541+00:00",
+      "id": 791592,
+      "is_public": true,
+      "modified": "2026-04-15T19:24:01.921399+00:00",
+      "note": "Try out real-time, private translations in Firefox Desktop with the `about:translations` page. Start typing the word \"translate\" into the URL bar for a quick-action shortcut to the page.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 80,
+      "tag": "New"
+    },
+    {
+      "bug": 1844959,
+      "created": "2026-04-15T19:43:38.483254+00:00",
+      "id": 791594,
+      "is_public": true,
+      "modified": "2026-04-15T19:43:38.932374+00:00",
+      "note": "Added support for the GTK emoji picker on Linux, allowing users to insert emoji using the system shortcut (typically `Ctrl`+`.`).",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 70,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2026-04-15T19:25:32.485409+00:00",
+      "id": 791593,
+      "is_public": true,
+      "modified": "2026-04-15T19:25:33.118298+00:00",
+      "note": "If you prefer creating tab groups from the context menu, you can now turn off drag-and-drop group creation in *Settings > Tabs > Drag tabs* to create tab groups.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 75,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
       "created": "2026-04-15T19:07:49.864609+00:00",
       "id": 791587,
       "is_public": true,
