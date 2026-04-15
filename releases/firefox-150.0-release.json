@@ -83,8 +83,8 @@
       "created": "2026-04-15T19:48:25.774351+00:00",
       "id": 791595,
       "is_public": true,
-      "modified": "2026-04-15T19:48:26.211632+00:00",
-      "note": "Firefox [web apps][1] are now available to Windows users who installed through the Microsoft Store.\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/web-apps-firefox-windows",
+      "modified": "2026-04-15T23:33:45.564411+00:00",
+      "note": "Firefox [web apps][1] are now available to Windows users who installed Firefox through the Microsoft Store.\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/web-apps-firefox-windows",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 65,
@@ -100,6 +100,18 @@
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 60,
+      "tag": "New"
+    },
+    {
+      "bug": 213920,
+      "created": "2026-04-15T23:39:24.728760+00:00",
+      "id": 791609,
+      "is_public": true,
+      "modified": "2026-04-15T23:39:25.290839+00:00",
+      "note": "Firefox now ships with a new .rpm package for Linux users on Red Hat, Fedora, openSUSE, and other RPM-based distributions.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 49,
       "tag": "New"
     },
     {
