@@ -55,18 +55,6 @@
       "tag": "New"
     },
     {
-      "bug": 2011100,
-      "created": "2026-01-23T10:39:58.416497+00:00",
-      "id": 791435,
-      "is_public": true,
-      "modified": "2026-03-19T15:56:24.336702+00:00",
-      "note": "Starting with Firefox 149, Nightly builds now support throttling for Web Workers running in inactive tabs. When a tab becomes inactive, Firefox reduces how aggressively its workers can run timeouts.",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
       "bug": 2017207,
       "created": "2026-02-17T14:36:05.187647+00:00",
       "id": 791478,
@@ -145,6 +133,18 @@
       "is_public": true,
       "modified": "2026-03-19T15:55:48.483685+00:00",
       "note": "Starting with Firefox 149, you can now set specific **color spaces** and **transparency (alpha)** on `<input type=\"color\">` elements, with alpha support currently exclusive to Firefox Nightly. While the visual picker hasn't changed yet (tracked in [Bug 2007532](https://bugzilla.mozilla.org/show_bug.cgi?id=2007532)), it will now output values in your requested format.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 2011100,
+      "created": "2026-01-23T10:39:58.416497+00:00",
+      "id": 791435,
+      "is_public": true,
+      "modified": "2026-04-16T10:02:19.078418+00:00",
+      "note": "Starting with Firefox 149, Nightly builds now support throttling for Web Workers running in inactive tabs. When a tab becomes inactive, Firefox reduces how aggressively its workers can run timeouts.",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
