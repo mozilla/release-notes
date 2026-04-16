@@ -91,6 +91,18 @@
       "tag": "New"
     },
     {
+      "bug": 1994232,
+      "created": "2026-04-16T15:05:20.621834+00:00",
+      "id": 791615,
+      "is_public": true,
+      "modified": "2026-04-16T15:41:43.125704+00:00",
+      "note": "The new [Firefox Profile][1] management system is now available to all users, including users on Windows 10.\r\n\r\n[1]: https://support.mozilla.org/kb/profile-management",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 64,
+      "tag": "New"
+    },
+    {
       "bug": 2010297,
       "created": "2026-04-15T19:49:09.680638+00:00",
       "id": 791596,
