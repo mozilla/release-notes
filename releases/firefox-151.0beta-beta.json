@@ -43,6 +43,18 @@
       "tag": "New"
     },
     {
+      "bug": 2031025,
+      "created": "2026-04-16T14:29:12.699752+00:00",
+      "id": 791614,
+      "is_public": true,
+      "modified": "2026-04-16T14:29:13.141456+00:00",
+      "note": "[Address Autofill][1] is enabled for users in the Netherlands.\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/automatically-fill-your-address-web-forms",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1867385,
       "created": "2026-04-15T10:04:06.594283+00:00",
       "id": 791583,
