@@ -5,7 +5,20 @@
   "created": "2026-04-15T19:03:21.359170+00:00",
   "is_public": false,
   "modified": "2026-04-15T19:06:09.978138+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": null,
+      "created": "2026-04-16T16:21:36.528950+00:00",
+      "id": 791616,
+      "is_public": true,
+      "modified": "2026-04-16T16:21:37.115474+00:00",
+      "note": "Behind-the-scenes updates to keep your browsing steady, smooth, and responsive.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    }
+  ],
   "product": "Firefox for iOS",
   "release_date": "2026-04-20",
   "slug": "firefox-for-ios-150.0-release",
