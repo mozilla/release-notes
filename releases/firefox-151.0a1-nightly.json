@@ -91,6 +91,18 @@
       "tag": "New"
     },
     {
+      "bug": 2030178,
+      "created": "2026-04-16T13:04:09.829077+00:00",
+      "id": 791610,
+      "is_public": true,
+      "modified": "2026-04-16T13:04:10.246695+00:00",
+      "note": "Starting with Firefox 151, you can merge multiple PDFs within the Firefox PDF viewer in Nightly builds.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1867385,
       "created": "2026-04-15T10:04:06.594283+00:00",
       "id": 791583,
