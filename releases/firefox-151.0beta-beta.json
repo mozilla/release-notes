@@ -79,6 +79,18 @@
       "tag": "Changed"
     },
     {
+      "bug": 1429838,
+      "created": "2026-04-17T17:34:28.902033+00:00",
+      "id": 791619,
+      "is_public": true,
+      "modified": "2026-04-17T17:34:29.404490+00:00",
+      "note": "Extensions and Themes installed in a Firefox Desktop profile directory will be restored successfully after the profile directory is moved (or restored) to a different location or a different operating system.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
       "bug": 2022827,
       "created": "2026-03-31T10:20:31.686977+00:00",
       "id": 791557,
