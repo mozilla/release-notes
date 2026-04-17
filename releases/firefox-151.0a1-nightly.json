@@ -271,6 +271,18 @@
       "tag": "HTML5"
     },
     {
+      "bug": 2032302,
+      "created": "2026-04-17T14:07:32.119464+00:00",
+      "id": 791618,
+      "is_public": true,
+      "modified": "2026-04-17T14:07:32.600834+00:00",
+      "note": "The new Fullscreen Keyboard Lock API adds an optional argument to [requestFullscreen][1] that allows websites to request that while fullscreen, pressing the Escape key will no longer exit fullscreen (instead, a long-press is required), and certain formerly-reserved browser hotkeys are allowed to be default-prevented.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/API/Element/requestFullscreen",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
       "bug": 2022844,
       "created": "2026-04-16T13:06:26.315585+00:00",
       "id": 791611,
