@@ -1,0 +1,77 @@
+{
+  "bug_list": "",
+  "bug_search_url": "",
+  "channel": "Nightly",
+  "created": "2026-04-19T20:27:53.432678+00:00",
+  "is_public": false,
+  "modified": "2026-04-19T20:36:51.740679+00:00",
+  "notes": [
+    {
+      "bug": 2019009,
+      "created": "2026-03-03T14:28:47.514383+00:00",
+      "id": 791511,
+      "is_public": true,
+      "modified": "2026-04-19T20:27:53.488851+00:00",
+      "note": "Starting with [Firefox for Android][1] 150, Nightly users can now choose a custom default location for their downloads.\r\n\r\n\r\n  [1]: https://play.google.com/store/apps/details?id=org.mozilla.fenix",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 2029260,
+      "created": "2026-04-15T09:58:16.646544+00:00",
+      "id": 791581,
+      "is_public": true,
+      "modified": "2026-04-19T20:27:53.488851+00:00",
+      "note": "Starting with Firefox 151, [Firefox for Android][1] nightly builds include settings for enabling fine-grained control of AI features and also allows you to block future AI features.\r\n\r\n\r\n  [1]: https://play.google.com/store/apps/details?id=org.mozilla.fenix",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 2030178,
+      "created": "2026-04-16T13:04:09.829077+00:00",
+      "id": 791610,
+      "is_public": true,
+      "modified": "2026-04-19T20:27:53.488851+00:00",
+      "note": "Starting with Firefox 151, you can merge multiple PDFs within the Firefox PDF viewer in Nightly builds.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 1916277,
+      "created": "2026-03-03T18:49:56.651756+00:00",
+      "id": 791512,
+      "is_public": true,
+      "modified": "2026-04-19T20:27:53.488851+00:00",
+      "note": "Starting with Firefox 150, multiple import maps per document are now supported in Nightly builds, giving web developers more flexibility when structuring and loading modern JavaScript modules.  This is considered experimental as we gather feedback before enabling it in regular releases.",
+      "progressive_rollout": true,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 2022844,
+      "created": "2026-04-16T13:06:26.315585+00:00",
+      "id": 791611,
+      "is_public": true,
+      "modified": "2026-04-19T20:27:53.488851+00:00",
+      "note": "Starting with Firefox 151, the JavaScript Tracer can be enabled from DevTools Settings panel in Nightly builds. This enables tracing all JavaScript function calls. Unlike the performance profiler, this doesn't record a sample; instead, it traces all function calls.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Developer"
+    }
+  ],
+  "product": "Firefox",
+  "release_date": "2026-04-20",
+  "slug": "firefox-152.0a1-nightly",
+  "system_requirements": "## Windows\r\n\r\n### Operating Systems (32-bit and 64-bit)\r\n - Windows 10 or later\r\n\r\n### Recommended Hardware\r\n-  1 gigahertz (GHz) or faster compatible processor or System on a Chip (SoC)\r\n-  1GB of RAM / 2GB of RAM for the 64-bit version\r\n-  500MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- macOS 10.15 or later\r\n\r\n### Recommended Hardware\r\n- Macintosh computer with an Intel x86 or Apple silicon processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - glibc 2.17 or higher (2.28 or higher on arm64)\r\n    - GTK+ 3.14 or higher\r\n    - libglib 2.42 or higher\r\n    - libstdc++ 4.8.1 or higher (6.0 or higher on arm64)\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - DBus 1.0 or higher\r\n    - NetworkManager 0.7 or higher\r\n    - PulseAudio",
+  "text": "Firefox Nightly gets updated every day and as a consequence, the release notes for the Nightly channel are updated continuously to reflect features that have reached sufficient maturity to benefit from community feedback and bug reports. \r\n\r\n**Warning: Features listed here may or may *not* make a final release of Firefox.**\r\n\r\nIn addition to these release notes, you can follow ongoing development on our [@FirefoxNightly][1] Bluesky account, our [@FirefoxNightly][4] Mastodon account as well as read our [Nightly Blog][2].\r\n\r\nYou can interact with other Firefox Nightly users and give your feedback to Mozilla staff in the [Nightly Matrix room][3] on chat.mozilla.org.\r\n\r\n\r\n  [1]: https://bsky.app/profile/firefoxnightly.bsky.social\r\n  [2]: https://blog.nightly.mozilla.org\r\n  [3]: https://chat.mozilla.org/?#/room/#nightly:mozilla.org\r\n  [4]: https://mastodon.social/@FirefoxNightly",
+  "title": "Firefox 152.0a1 Nightly",
+  "version": "152.0a1"
+}
