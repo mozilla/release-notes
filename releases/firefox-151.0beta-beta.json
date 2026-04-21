@@ -185,6 +185,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "HTML5"
+    },
+    {
+      "bug": 2029625,
+      "created": "2026-04-21T14:01:42.629403+00:00",
+      "id": 791620,
+      "is_public": true,
+      "modified": "2026-04-21T14:01:43.086883+00:00",
+      "note": "You can now manage microcontrollers that support serial communications in Firefox via the [Web Serial API][1]. This lets you program Microcontrollers and development boards, such as ESP devices, BBCmicro:bit and Raspberry Pi Picos, 3D printers & CNC machines, and other supported devices.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/API/Web_Serial_API",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
     }
   ],
   "product": "Firefox",
