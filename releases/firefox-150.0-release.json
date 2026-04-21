@@ -115,6 +115,18 @@
       "tag": "New"
     },
     {
+      "bug": 2016777,
+      "created": "2026-04-21T20:01:50.346628+00:00",
+      "id": 791622,
+      "is_public": true,
+      "modified": "2026-04-21T20:01:50.346441+00:00",
+      "note": "Firefox now prompts you to enable location access in Windows settings when granting a website permission to use your location, if geolocation hasn't already been allowed. This behavior, previously limited to some Windows 11 versions, now applies to all supported Windows versions.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 11,
+      "tag": "New"
+    },
+    {
       "bug": null,
       "created": "2026-04-21T14:41:37.429832+00:00",
       "id": 791621,
