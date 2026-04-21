@@ -4,7 +4,7 @@
   "channel": "Release",
   "created": "2026-04-15T19:03:21.259288+00:00",
   "is_public": true,
-  "modified": "2026-04-21T12:29:40.346038+00:00",
+  "modified": "2026-04-21T15:48:50.153495+00:00",
   "notes": [
     {
       "bug": null,
@@ -40,18 +40,6 @@
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 90,
-      "tag": "New"
-    },
-    {
-      "bug": 2017207,
-      "created": "2026-04-15T19:13:23.580552+00:00",
-      "id": 791591,
-      "is_public": true,
-      "modified": "2026-04-15T19:13:24.054444+00:00",
-      "note": "Local network access restrictions are now being extended to all users. Firefox will require websites to request your permission before connecting to devices on your local network or to apps and services on your device. Previously limited to users with *Enhanced Tracking Protection* set to *Strict*, this protection is now rolling out gradually to all users. You can find more details about this on our [support page][1].\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/control-personal-device-local-network-permissions-firefox",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 85,
       "tag": "New"
     },
     {
@@ -131,13 +119,29 @@
       "created": "2026-04-21T14:41:37.429832+00:00",
       "id": 791621,
       "is_public": true,
-      "modified": "2026-04-21T14:41:38.731116+00:00",
+      "modified": "2026-04-21T15:46:16.148170+00:00",
       "note": "The [built-in VPN][1] is now available for users in Canada. **Note:** This feature is not available in enterprise environments.\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/built-in-vpn",
       "progressive_rollout": true,
       "relevant_countries": [
         {
           "code": "CA",
           "name": "Canada"
+        },
+        {
+          "code": "FR",
+          "name": "France"
+        },
+        {
+          "code": "DE",
+          "name": "Germany"
+        },
+        {
+          "code": "GB",
+          "name": "United Kingdom"
+        },
+        {
+          "code": "US",
+          "name": "United States"
         }
       ],
       "sort_num": 10,
