@@ -127,6 +127,18 @@
       "tag": "New"
     },
     {
+      "bug": 1902686,
+      "created": "2026-04-23T14:52:16.196381+00:00",
+      "id": 791625,
+      "is_public": true,
+      "modified": "2026-04-23T14:52:16.627172+00:00",
+      "note": "Private Browsing Mode now has a new privacy feature that allows users to instantly clear all data from their current private session without closing the entire browser.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1867385,
       "created": "2026-04-15T10:04:06.594283+00:00",
       "id": 791583,
@@ -329,6 +341,30 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "Developer"
+    },
+    {
+      "bug": 1525379,
+      "created": "2026-04-23T14:53:26.493510+00:00",
+      "id": 791626,
+      "is_public": true,
+      "modified": "2026-04-23T14:53:26.886069+00:00",
+      "note": "Correct screen resolution reporting via JS APIs in multiple monitor setups.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1396587,
+      "created": "2026-04-23T14:54:22.888635+00:00",
+      "id": 791627,
+      "is_public": true,
+      "modified": "2026-04-23T14:54:23.225092+00:00",
+      "note": "Improved color management for copied and pasted images on macOS.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
