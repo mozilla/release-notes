@@ -326,6 +326,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "Community"
+    },
+    {
+      "bug": 2034178,
+      "created": "2026-04-24T13:11:09.491495+00:00",
+      "id": 791630,
+      "is_public": true,
+      "modified": "2026-04-24T13:11:09.491305+00:00",
+      "note": "Users with Bitdefender security software installed may experience problems loading websites, particularly Facebook.com. We are working on a workaround, but as a temporary mitigation, disabling Bitdefender or turning off its traffic filtering features may resolve the issue.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Known"
     }
   ],
   "product": "Firefox",
