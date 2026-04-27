@@ -139,6 +139,18 @@
       "tag": "New"
     },
     {
+      "bug": 2032123,
+      "created": "2026-04-27T13:19:01.763094+00:00",
+      "id": 791636,
+      "is_public": true,
+      "modified": "2026-04-27T13:19:02.365308+00:00",
+      "note": "Standard Enhanced Tracking Protection mode is getting increased protections against [fingerprinting][1] that limit the amount of information revealed about your computer and frustrating attempts to track you across websites.\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/firefox-protection-against-fingerprinting",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1867385,
       "created": "2026-04-15T10:04:06.594283+00:00",
       "id": 791583,
