@@ -19,11 +19,47 @@
       "tag": ""
     },
     {
+      "bug": 2034178,
+      "created": "2026-04-27T19:32:10.555136+00:00",
+      "id": 791639,
+      "is_public": true,
+      "modified": "2026-04-27T19:32:10.967974+00:00",
+      "note": "Fixed an issue that could prevent Facebook and other websites from loading properly in some cases. ([Bug 2034178][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=2034178",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 100,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 2034120,
+      "created": "2026-04-27T19:30:04.050859+00:00",
+      "id": 791638,
+      "is_public": true,
+      "modified": "2026-04-27T19:30:04.625081+00:00",
+      "note": "Fixed an issue where denying a geolocation permission prompt could cause Firefox to show the system permission dialog again on a second attempt. ([Bug 2034120][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=2034120",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 90,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 2033117,
+      "created": "2026-04-27T19:34:01.904829+00:00",
+      "id": 791640,
+      "is_public": true,
+      "modified": "2026-04-27T19:34:01.904592+00:00",
+      "note": "Fixed a layout issue where some drop-down menus expanded to display all list items at once. ([Bug 2033117][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=2033117",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 60,
+      "tag": "Fixed"
+    },
+    {
       "bug": null,
       "created": "2026-04-27T03:20:53.917947+00:00",
       "id": 791633,
       "is_public": true,
-      "modified": "2026-04-27T03:20:54.418348+00:00",
+      "modified": "2026-04-27T19:18:27.927289+00:00",
       "note": "Various [security fixes][1].\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/",
       "progressive_rollout": false,
       "relevant_countries": [],
