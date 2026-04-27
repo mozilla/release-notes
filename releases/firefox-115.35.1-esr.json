@@ -2,17 +2,17 @@
   "bug_list": "",
   "bug_search_url": "",
   "channel": "ESR",
-  "created": "2026-04-03T14:52:06.464991+00:00",
-  "is_public": true,
-  "modified": "2026-04-07T12:24:42.842373+00:00",
+  "created": "2026-04-27T03:17:55.359354+00:00",
+  "is_public": false,
+  "modified": "2026-04-27T03:18:42.408122+00:00",
   "notes": [
     {
       "bug": null,
-      "created": "2026-04-03T14:54:42.098623+00:00",
-      "id": 791564,
+      "created": "2026-04-27T03:19:10.870372+00:00",
+      "id": 791631,
       "is_public": true,
-      "modified": "2026-04-27T03:18:40.829459+00:00",
-      "note": "Various [security fixes][1].\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/mfsa2026-26/",
+      "modified": "2026-04-27T03:19:11.880767+00:00",
+      "note": "Various [security fixes][1].\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
@@ -20,10 +20,10 @@
     }
   ],
   "product": "Firefox Extended Support Release",
-  "release_date": "2026-04-07",
-  "slug": "firefox-115.34.1-esr",
+  "release_date": "2026-04-28",
+  "slug": "firefox-115.35.1-esr",
   "system_requirements": "## Windows\r\n\r\n### Operating Systems (32-bit and 64-bit)\r\n - Windows 7\r\n - Windows 8 or 8.1\r\n\r\n### Recommended Hardware\r\n-  Pentium 4 or newer processor that supports SSE2\r\n-  512MB of RAM / 2GB of RAM for the 64-bit version\r\n-  200MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- macOS 10.12\r\n- macOS 10.13\r\n- macOS 10.14\r\n\r\n### Recommended Hardware\r\n- Mac computer with an Intel x86 or Apple silicon processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space",
   "text": "Firefox ESR 115 is now supported only on Windows 7-8.1 and macOS 10.12-10.14. Users on other operating systems should use Firefox ESR 140 instead.",
-  "title": "Firefox Extended Support Release 115.34.1 ESR",
-  "version": "115.34.1"
+  "title": "Firefox Extended Support Release 115.35.1 ESR",
+  "version": "115.35.1"
 }
