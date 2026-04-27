@@ -4,7 +4,7 @@
   "channel": "Release",
   "created": "2026-04-27T03:17:55.430656+00:00",
   "is_public": false,
-  "modified": "2026-04-27T03:22:24.293805+00:00",
+  "modified": "2026-04-27T19:42:51.620367+00:00",
   "notes": [
     {
       "bug": null,
@@ -19,24 +19,36 @@
       "tag": ""
     },
     {
+      "bug": 2033229,
+      "created": "2026-04-27T19:26:19.028942+00:00",
+      "id": 791637,
+      "is_public": true,
+      "modified": "2026-04-27T19:42:43.396111+00:00",
+      "note": "Fixed a crash in Firefox Focus for Android that could occur in the background shortly after startup. ([Bug 2033229][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=2033229",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 20,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 2027911,
+      "created": "2026-04-27T19:42:32.638871+00:00",
+      "id": 791643,
+      "is_public": true,
+      "modified": "2026-04-27T19:42:33.285321+00:00",
+      "note": "Fixed an issue where tapping the private browsing button on the home screen could cause the page content to briefly jump upward, potentially triggering accidental taps on other elements. ([Bug 2027911][1])    \r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=2027911",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 10,
+      "tag": "Fixed"
+    },
+    {
       "bug": null,
       "created": "2026-04-27T03:20:53.917947+00:00",
       "id": 791633,
       "is_public": true,
       "modified": "2026-04-27T19:18:27.927289+00:00",
       "note": "Various [security fixes][1].\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "Fixed"
-    },
-    {
-      "bug": 2033229,
-      "created": "2026-04-27T19:26:19.028942+00:00",
-      "id": 791637,
-      "is_public": true,
-      "modified": "2026-04-27T19:26:19.597507+00:00",
-      "note": "Fixed a crash in Firefox Focus for Android that could occur in the background shortly after startup. ([Bug 2033229][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=2033229",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,

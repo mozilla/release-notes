@@ -4,7 +4,7 @@
   "channel": "Release",
   "created": "2026-04-27T03:17:55.396179+00:00",
   "is_public": false,
-  "modified": "2026-04-27T03:23:13.413706+00:00",
+  "modified": "2026-04-27T19:41:00.426259+00:00",
   "notes": [
     {
       "bug": null,
@@ -23,8 +23,8 @@
       "created": "2026-04-27T19:32:10.555136+00:00",
       "id": 791639,
       "is_public": true,
-      "modified": "2026-04-27T19:32:10.967974+00:00",
-      "note": "Fixed an issue that could prevent Facebook and other websites from loading properly in some cases. ([Bug 2034178][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=2034178",
+      "modified": "2026-04-27T19:57:14.092489+00:00",
+      "note": "Fixed an issue where Facebook and other websites might not load properly for users with Bitdefender security software installed. ([Bug 2034178][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=2034178",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 100,
@@ -43,6 +43,18 @@
       "tag": "Fixed"
     },
     {
+      "bug": 2031961,
+      "created": "2026-04-27T19:36:09.289946+00:00",
+      "id": 791641,
+      "is_public": true,
+      "modified": "2026-04-27T19:36:10.495383+00:00",
+      "note": "Fixed an issue that prevented tabs from being added to some older saved tab groups. ([Bug 2031961][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=2031961",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 70,
+      "tag": "Fixed"
+    },
+    {
       "bug": 2033117,
       "created": "2026-04-27T19:34:01.904829+00:00",
       "id": 791640,
@@ -52,6 +64,18 @@
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 60,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 2030043,
+      "created": "2026-04-27T19:37:23.344882+00:00",
+      "id": 791642,
+      "is_public": true,
+      "modified": "2026-04-27T19:37:23.763504+00:00",
+      "note": "Fixed an issue where borders and outlines on some page elements disappeared when pinch zooming or smart zooming on macOS and Windows. ([Bug 2030043][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=2030043",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 50,
       "tag": "Fixed"
     },
     {
