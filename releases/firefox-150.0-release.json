@@ -330,9 +330,17 @@
     {
       "bug": 2034178,
       "created": "2026-04-24T13:11:09.491495+00:00",
+      "fixed_in_release": {
+        "channel": "Release",
+        "is_public": true,
+        "product": "Firefox",
+        "slug": "firefox-150.0.1-release",
+        "title": "Firefox 150.0.1 Release",
+        "version": "150.0.1"
+      },
       "id": 791630,
       "is_public": true,
-      "modified": "2026-04-24T13:11:09.491305+00:00",
+      "modified": "2026-04-28T17:18:44.681793+00:00",
       "note": "Users with Bitdefender security software installed may experience problems loading websites, particularly Facebook.com. We are working on a workaround, but as a temporary mitigation, disabling Bitdefender or turning off its traffic filtering features may resolve the issue.",
       "progressive_rollout": false,
       "relevant_countries": [],
