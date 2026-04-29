@@ -43,6 +43,18 @@
       "tag": "New"
     },
     {
+      "bug": 103422,
+      "created": "2026-04-29T19:21:49.213067+00:00",
+      "id": 791646,
+      "is_public": true,
+      "modified": "2026-04-29T19:21:49.787768+00:00",
+      "note": "Improved support for more advanced cursor movement commands, including those relating to paragraph boundaries, on macOS.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1916277,
       "created": "2026-03-03T18:49:56.651756+00:00",
       "id": 791512,
