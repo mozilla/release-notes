@@ -19,6 +19,18 @@
       "tag": "New"
     },
     {
+      "bug": 2027803,
+      "created": "2026-04-08T20:18:11.746615+00:00",
+      "id": 791577,
+      "is_public": true,
+      "modified": "2026-04-29T19:24:57.383196+00:00",
+      "note": "Starting with Firefox 152, Nightly builds have an in-memory cache for the JavaScript compilation result, which is shared across navigation within the same domain, in order to improve the page load performance. The cache works in the same way as the existing in-memory cache for the stylesheets and the images. This can affect how the cached requests/responses are handled in DevTools, WebDriver, and WebExtensions APIs such as [webRequest][1] and [declarativeNetRequest][2].\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Mozilla/Add-ons/WebExtensions/API/webRequest\r\n  [2]: https://developer.mozilla.org/docs/Mozilla/Add-ons/WebExtensions/API/declarativeNetRequest",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 2029260,
       "created": "2026-04-15T09:58:16.646544+00:00",
       "id": 791581,
@@ -55,6 +67,18 @@
       "tag": "New"
     },
     {
+      "bug": 2032547,
+      "created": "2026-04-29T19:24:17.505359+00:00",
+      "id": 791648,
+      "is_public": true,
+      "modified": "2026-04-29T19:24:17.876230+00:00",
+      "note": "Starting with Firefox 152, the address bar in Nightly builds autofills the pages you visit most - including specific pages within a site, not just site homepages - based on your browsing habits, and lets you dismiss suggestions you don\u2019t want.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1916277,
       "created": "2026-03-03T18:49:56.651756+00:00",
       "id": 791512,
@@ -62,6 +86,18 @@
       "modified": "2026-04-19T20:27:53.488851+00:00",
       "note": "Starting with Firefox 150, multiple import maps per document are now supported in Nightly builds, giving web developers more flexibility when structuring and loading modern JavaScript modules.  This is considered experimental as we gather feedback before enabling it in regular releases.",
       "progressive_rollout": true,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 1959931,
+      "created": "2026-04-29T19:23:00.318765+00:00",
+      "id": 791647,
+      "is_public": true,
+      "modified": "2026-04-29T19:23:00.664066+00:00",
+      "note": "Web Notifications can now have action buttons via `actions` option. Added actions can show up as buttons below notification text, or in \"Options\" list in case of macOS.",
+      "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "HTML5"
