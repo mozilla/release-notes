@@ -91,6 +91,18 @@
       "tag": "New"
     },
     {
+      "bug": 2032452,
+      "created": "2026-04-30T16:44:32.972098+00:00",
+      "id": 791649,
+      "is_public": true,
+      "modified": "2026-04-30T16:44:33.465158+00:00",
+      "note": "Local profile backups are now available on macOS and Linux, with support for restoring them across platforms.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1867385,
       "created": "2026-04-15T10:04:06.594283+00:00",
       "id": 791583,
