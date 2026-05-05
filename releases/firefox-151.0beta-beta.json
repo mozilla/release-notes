@@ -103,6 +103,30 @@
       "tag": "New"
     },
     {
+      "bug": 2017712,
+      "created": "2026-05-05T16:36:31.705085+00:00",
+      "id": 791655,
+      "is_public": true,
+      "modified": "2026-05-05T16:36:32.824454+00:00",
+      "note": "Local network access restrictions are now rolling out to all users. Firefox requires websites to request permission before connecting to devices on your local network or to apps and services on your device. Previously, this protection was limited to users with Enhanced Tracking Protection set to Strict.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 2030179,
+      "created": "2026-05-05T16:39:57.426935+00:00",
+      "id": 791656,
+      "is_public": true,
+      "modified": "2026-05-05T16:39:57.936371+00:00",
+      "note": "You can now merge multiple PDFs directly in the Firefox PDF viewer.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1867385,
       "created": "2026-04-15T10:04:06.594283+00:00",
       "id": 791583,
