@@ -19,18 +19,6 @@
       "tag": "New"
     },
     {
-      "bug": 2027803,
-      "created": "2026-04-08T20:18:11.746615+00:00",
-      "id": 791577,
-      "is_public": true,
-      "modified": "2026-04-29T19:24:57.383196+00:00",
-      "note": "Starting with Firefox 152, Nightly builds have an in-memory cache for the JavaScript compilation result, which is shared across navigation within the same domain, in order to improve the page load performance. The cache works in the same way as the existing in-memory cache for the stylesheets and the images. This can affect how the cached requests/responses are handled in DevTools, WebDriver, and WebExtensions APIs such as [webRequest][1] and [declarativeNetRequest][2].\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Mozilla/Add-ons/WebExtensions/API/webRequest\r\n  [2]: https://developer.mozilla.org/docs/Mozilla/Add-ons/WebExtensions/API/declarativeNetRequest",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
       "bug": 2029260,
       "created": "2026-04-15T09:58:16.646544+00:00",
       "id": 791581,
@@ -79,6 +67,30 @@
       "tag": "New"
     },
     {
+      "bug": 2035663,
+      "created": "2026-05-05T18:09:16.522955+00:00",
+      "id": 791659,
+      "is_public": true,
+      "modified": "2026-05-05T18:09:17.055630+00:00",
+      "note": "Video controls like play, pause, fullscreen, mute, and loop are now available in the right-click menu, even on sites like Instagram and TikTok where custom video players previously blocked access to them.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 2019338,
+      "created": "2026-05-05T18:10:08.274923+00:00",
+      "id": 791660,
+      "is_public": true,
+      "modified": "2026-05-05T18:10:08.638242+00:00",
+      "note": "You can now shush your browser from the address bar by typing \"mute\" (or \"shush\" or \"sssh\") and using the address bar quick action. This will mute all tabs currently playing sound, in all Firefox windows.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1916277,
       "created": "2026-03-03T18:49:56.651756+00:00",
       "id": 791512,
@@ -103,6 +115,18 @@
       "tag": "HTML5"
     },
     {
+      "bug": 2036620,
+      "created": "2026-05-05T18:07:37.230229+00:00",
+      "id": 791658,
+      "is_public": true,
+      "modified": "2026-05-05T18:07:37.230111+00:00",
+      "note": "The [`field-sizing`][1] property is now available, allowing form controls to adjust in size to fit their contents.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/field-sizing",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
       "bug": 2022844,
       "created": "2026-04-16T13:06:26.315585+00:00",
       "id": 791611,
@@ -113,6 +137,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "Developer"
+    },
+    {
+      "bug": 1868738,
+      "created": "2026-05-05T18:13:27.875658+00:00",
+      "id": 791661,
+      "is_public": true,
+      "modified": "2026-05-05T18:13:28.219448+00:00",
+      "note": "In multiple monitor situations, the About Firefox window now more reliably opens on the display with the most recently-used Firefox window.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
