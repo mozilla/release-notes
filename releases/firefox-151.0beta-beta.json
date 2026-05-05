@@ -127,6 +127,18 @@
       "tag": "New"
     },
     {
+      "bug": 2036096,
+      "created": "2026-05-05T16:46:16.253545+00:00",
+      "id": 791657,
+      "is_public": true,
+      "modified": "2026-05-05T16:46:16.930584+00:00",
+      "note": "Added an AI Controls section to the [Firefox for Android][1]  Settings for managing AI-enhanced features.\r\n\r\n  [1]: https://play.google.com/store/apps/details?id=org.mozilla.firefox_beta",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1867385,
       "created": "2026-04-15T10:04:06.594283+00:00",
       "id": 791583,
