@@ -19,6 +19,18 @@
       "tag": "New"
     },
     {
+      "bug": 2027803,
+      "created": "2026-04-08T20:18:11.746615+00:00",
+      "id": 791577,
+      "is_public": true,
+      "modified": "2026-05-05T18:26:14.457812+00:00",
+      "note": "Starting with Firefox 152, Nightly builds have an in-memory cache for the JavaScript compilation result, which is shared across navigation within the same domain, in order to improve the page load performance. The cache works in the same way as the existing in-memory cache for the stylesheets and the images. This can affect how the cached requests/responses are handled in DevTools, WebDriver, and WebExtensions APIs such as [webRequest][1] and [declarativeNetRequest][2].\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Mozilla/Add-ons/WebExtensions/API/webRequest\r\n  [2]: https://developer.mozilla.org/docs/Mozilla/Add-ons/WebExtensions/API/declarativeNetRequest",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 2029260,
       "created": "2026-04-15T09:58:16.646544+00:00",
       "id": 791581,
@@ -91,6 +103,18 @@
       "tag": "New"
     },
     {
+      "bug": 2036853,
+      "created": "2026-05-05T18:25:30.917609+00:00",
+      "id": 791665,
+      "is_public": true,
+      "modified": "2026-05-05T18:25:31.384098+00:00",
+      "note": "Site zooming via keyboard or mouse now supports more and smaller increments.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
       "bug": 1916277,
       "created": "2026-03-03T18:49:56.651756+00:00",
       "id": 791512,
@@ -145,6 +169,42 @@
       "is_public": true,
       "modified": "2026-05-05T18:13:28.219448+00:00",
       "note": "In multiple monitor situations, the About Firefox window now more reliably opens on the display with the most recently-used Firefox window.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1425483,
+      "created": "2026-05-05T18:19:12.067292+00:00",
+      "id": 791662,
+      "is_public": true,
+      "modified": "2026-05-05T18:19:12.425034+00:00",
+      "note": "Fixed a number of text editing commands involving arrow keys in right-to-left languages on macOS.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1138419,
+      "created": "2026-05-05T18:20:02.128526+00:00",
+      "id": 791663,
+      "is_public": true,
+      "modified": "2026-05-05T18:20:02.478028+00:00",
+      "note": "GTK: Fixed the direction of word-based selection commands in RTL text fields.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 643096,
+      "created": "2026-05-05T18:22:28.694031+00:00",
+      "id": 791664,
+      "is_public": true,
+      "modified": "2026-05-05T18:22:28.693563+00:00",
+      "note": "Improved the reliability of saving images when dragging images to the desktop or Finder windows on macOS.",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
