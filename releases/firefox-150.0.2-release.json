@@ -4,7 +4,7 @@
   "channel": "Release",
   "created": "2026-04-30T17:02:04.055120+00:00",
   "is_public": false,
-  "modified": "2026-05-06T17:50:01.129326+00:00",
+  "modified": "2026-05-06T18:28:09.899567+00:00",
   "notes": [
     {
       "bug": null,
@@ -47,8 +47,8 @@
       "created": "2026-05-06T17:54:12.785742+00:00",
       "id": 791669,
       "is_public": true,
-      "modified": "2026-05-06T17:54:13.307866+00:00",
-      "note": "Fixed an issue where the \"New\" badge continued to appear on Split View menu items after the feature had been used. ([Bug 2027793][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=2027793",
+      "modified": "2026-05-06T18:29:38.603713+00:00",
+      "note": "Fixed an issue where the \"New\" badge persisted on Split View menu items. ([Bug 2027793][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=2027793",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 80,
@@ -88,6 +88,42 @@
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 50,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 2029240,
+      "created": "2026-05-06T18:25:54.792256+00:00",
+      "id": 791677,
+      "is_public": true,
+      "modified": "2026-05-06T18:25:55.384227+00:00",
+      "note": "Fixed an issue that could prevent Firefox\u2019s local backup feature from completing successfully. ([Bug 2029240][1]) \r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=2029240",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 49,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 2021596,
+      "created": "2026-05-06T18:19:23.143675+00:00",
+      "id": 791676,
+      "is_public": true,
+      "modified": "2026-05-06T18:19:23.576460+00:00",
+      "note": "Fixed an issue where the status and navigation bars would flicker or show mismatched colors when editing a page\u2019s address. ([Bug 2021596][1]) \r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=2021596",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 45,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 2035353,
+      "created": "2026-05-06T18:17:02.309007+00:00",
+      "id": 791675,
+      "is_public": true,
+      "modified": "2026-05-06T18:17:02.870721+00:00",
+      "note": "Improved the appearance of search suggestions in the address bar by preventing icons from appearing stretched or distorted. ([Bug 2035353][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=2035353",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 40,
       "tag": "Fixed"
     },
     {
