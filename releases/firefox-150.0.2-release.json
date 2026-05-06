@@ -4,7 +4,7 @@
   "channel": "Release",
   "created": "2026-04-30T17:02:04.055120+00:00",
   "is_public": false,
-  "modified": "2026-04-30T17:04:39.839841+00:00",
+  "modified": "2026-05-06T17:50:01.129326+00:00",
   "notes": [
     {
       "bug": null,
@@ -23,11 +23,71 @@
       "created": "2026-05-06T17:46:53.320450+00:00",
       "id": 791667,
       "is_public": true,
-      "modified": "2026-05-06T17:46:54.072003+00:00",
-      "note": "Fixed an issue where websites on internal or corporate networks that require a login prompt, would show a blank page.",
+      "modified": "2026-05-06T17:49:55.859867+00:00",
+      "note": "Fixed an issue where websites on internal or corporate networks that require a login prompt, would show a blank page. ([Bug 2034752][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=2034752",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 100,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 2034980,
+      "created": "2026-05-06T17:49:20.209153+00:00",
+      "id": 791668,
+      "is_public": true,
+      "modified": "2026-05-06T17:51:16.556149+00:00",
+      "note": "Fixed an issue that prevented highlighting from working on scanned images in the built-in PDF viewer. ([Bug 2034980][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=2034980",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 90,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 2027793,
+      "created": "2026-05-06T17:54:12.785742+00:00",
+      "id": 791669,
+      "is_public": true,
+      "modified": "2026-05-06T17:54:13.307866+00:00",
+      "note": "Fixed an issue where the \"New\" badge continued to appear on Split View menu items after the feature had been used. ([Bug 2027793][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=2027793",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 80,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 2034722,
+      "created": "2026-05-06T18:06:53.522648+00:00",
+      "id": 791672,
+      "is_public": true,
+      "modified": "2026-05-06T18:09:17.676233+00:00",
+      "note": "Resolved a problem that prevented some webcams from working correctly in video calls. ([Bug 2034722][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=2034722",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 70,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 2030461,
+      "created": "2026-05-06T18:10:20.132896+00:00",
+      "id": 791673,
+      "is_public": true,
+      "modified": "2026-05-06T18:10:27.332858+00:00",
+      "note": "Resolved an issue where a tab would crash when dragging and dropping nested folders onto a webpage. ([Bug 2030461][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=2030461",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 60,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 2034283,
+      "created": "2026-05-06T18:13:31.854814+00:00",
+      "id": 791674,
+      "is_public": true,
+      "modified": "2026-05-06T18:13:58.510352+00:00",
+      "note": "Improved how Firefox displays websites with advanced 3D effects, fixing cases where parts of the page could disappear or appear incorrectly. ([Bug 2034283][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=2034283",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 50,
       "tag": "Fixed"
     },
     {
