@@ -19,6 +19,18 @@
       "tag": ""
     },
     {
+      "bug": 2034752,
+      "created": "2026-05-06T17:46:53.320450+00:00",
+      "id": 791667,
+      "is_public": true,
+      "modified": "2026-05-06T17:46:54.072003+00:00",
+      "note": "Fixed an issue where websites on internal or corporate networks that require a login prompt, would show a blank page.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 100,
+      "tag": "Fixed"
+    },
+    {
       "bug": null,
       "created": "2026-04-30T17:04:08.141369+00:00",
       "id": 791652,
