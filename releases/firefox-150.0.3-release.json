@@ -19,6 +19,18 @@
       "tag": ""
     },
     {
+      "bug": 2037803,
+      "created": "2026-05-11T22:49:31.568391+00:00",
+      "id": 791682,
+      "is_public": true,
+      "modified": "2026-05-11T22:49:32.233877+00:00",
+      "note": "Fixed an issue where characters entered into password fields could appear unmasked in print preview and printed pages. ([Bug 2037803][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=2037803",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 10,
+      "tag": "Fixed"
+    },
+    {
       "bug": null,
       "created": "2026-05-11T21:07:25.023242+00:00",
       "id": 791680,
