@@ -1,0 +1,41 @@
+{
+  "bug_list": "",
+  "bug_search_url": "",
+  "channel": "Release",
+  "created": "2026-05-11T21:05:10.900690+00:00",
+  "is_public": false,
+  "modified": "2026-05-11T21:08:36.582857+00:00",
+  "notes": [
+    {
+      "bug": null,
+      "created": "2026-05-11T21:08:23.837898+00:00",
+      "id": 791681,
+      "is_public": true,
+      "modified": "2026-05-11T21:08:24.248381+00:00",
+      "note": "Reference link to [150.0.2 release notes][1].\r\n\r\n\r\n  [1]: https://www.firefox.com/firefox/android/150.0.2/releasenotes/",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": ""
+    },
+    {
+      "bug": null,
+      "created": "2026-05-11T21:07:25.023242+00:00",
+      "id": 791680,
+      "is_public": true,
+      "modified": "2026-05-11T21:08:54.538710+00:00",
+      "note": "Various [security fixes][1].\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/mfsa2026",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
+    }
+  ],
+  "product": "Firefox for Android",
+  "release_date": "2026-05-12",
+  "slug": "firefox-for-android-150.0.3-release",
+  "system_requirements": "## Operating systems\r\n - Android 8.0 or newer",
+  "text": "Thanks for using Firefox! Have feedback or suggestions? We'd love to hear from you at [Android Support][1]\r\n\r\n\r\n  [1]: https://mzl.la/AndroidSupport",
+  "title": "Firefox for Android 150.0.3 Release",
+  "version": "150.0.3"
+}
