@@ -3,8 +3,8 @@
   "bug_search_url": "",
   "channel": "Release",
   "created": "2026-05-11T21:05:10.900690+00:00",
-  "is_public": false,
-  "modified": "2026-05-11T21:08:36.582857+00:00",
+  "is_public": true,
+  "modified": "2026-05-12T12:26:31.340784+00:00",
   "notes": [
     {
       "bug": null,
@@ -23,8 +23,8 @@
       "created": "2026-05-11T21:07:25.023242+00:00",
       "id": 791680,
       "is_public": true,
-      "modified": "2026-05-11T21:08:54.538710+00:00",
-      "note": "Various [security fixes][1].\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/mfsa2026",
+      "modified": "2026-05-12T12:26:21.959986+00:00",
+      "note": "Various [security fixes][1].\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/mfsa2026-45",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
