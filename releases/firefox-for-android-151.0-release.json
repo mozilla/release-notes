@@ -1,0 +1,53 @@
+{
+  "bug_list": "",
+  "bug_search_url": "",
+  "channel": "Release",
+  "created": "2026-05-12T17:57:29.239237+00:00",
+  "is_public": false,
+  "modified": "2026-05-12T17:57:29.239043+00:00",
+  "notes": [
+    {
+      "bug": 2036096,
+      "created": "2026-05-12T18:14:52.343060+00:00",
+      "id": 791687,
+      "is_public": true,
+      "modified": "2026-05-12T18:14:52.728304+00:00",
+      "note": "AI controls: Keep Firefox AI features on your terms with one place to turn them on, off or customize them individually.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 90,
+      "tag": "New"
+    },
+    {
+      "bug": 2020810,
+      "created": "2026-05-12T18:15:40.429351+00:00",
+      "id": 791688,
+      "is_public": true,
+      "modified": "2026-05-12T18:15:40.733770+00:00",
+      "note": "Gestures: Move between tabs faster by swiping vertically across the toolbar to see your open tabs.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 80,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2026-05-12T18:07:14.752044+00:00",
+      "id": 791684,
+      "is_public": true,
+      "modified": "2026-05-12T18:07:15.121774+00:00",
+      "note": "Various [security fixes][1].\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
+    }
+  ],
+  "product": "Firefox for Android",
+  "release_date": "2026-05-19",
+  "slug": "firefox-for-android-151.0-release",
+  "system_requirements": "## Operating systems\r\n - Android 8.0 or newer",
+  "text": "Thanks for using Firefox! Have feedback or suggestions? We'd love to hear from you at [Android Support][1]\r\n\r\n\r\n  [1]: https://mzl.la/AndroidSupport",
+  "title": "Firefox for Android 151.0 Release",
+  "version": "151.0"
+}
