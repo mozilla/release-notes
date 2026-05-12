@@ -7,6 +7,54 @@
   "modified": "2026-05-12T17:56:55.952224+00:00",
   "notes": [
     {
+      "bug": 2029625,
+      "created": "2026-05-12T18:49:20.080072+00:00",
+      "id": 791693,
+      "is_public": true,
+      "modified": "2026-05-12T18:49:20.079937+00:00",
+      "note": "You can now manage microcontrollers that support serial communications in Firefox via the [Web Serial API][1]. This lets you program microcontrollers and development boards, such as ESP devices, Raspberry Pi Picos, 3D printers, CNC machines, and other devices. Web Serial can be used in Extensions, but not from moz-extension contexts at this time.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/API/Web_Serial_API",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 90,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 2017712,
+      "created": "2026-05-12T18:56:12.540355+00:00",
+      "id": 791694,
+      "is_public": true,
+      "modified": "2026-05-12T18:56:12.832697+00:00",
+      "note": "Local network access restrictions are now rolling out to all users. Firefox requires websites to request permission before connecting to devices on your local network or to apps and services on your device. Previously, this protection was limited to users with Enhanced Tracking Protection set to Strict.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 80,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 2032302,
+      "created": "2026-05-12T19:05:52.991577+00:00",
+      "id": 791695,
+      "is_public": true,
+      "modified": "2026-05-12T19:05:53.387065+00:00",
+      "note": "The new Fullscreen Keyboard Lock API adds an optional argument to `requestFullscreen` that allows websites to request that while fullscreen, pressing the Escape key will no longer exit fullscreen (instead, a long-press is required), and certain formerly-reserved browser hotkeys are allowed to be default-prevented.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 70,
+      "tag": "HTML5"
+    },
+    {
+      "bug": null,
+      "created": "2026-05-12T18:29:19.864883+00:00",
+      "id": 791692,
+      "is_public": true,
+      "modified": "2026-05-12T18:29:20.330851+00:00",
+      "note": "You can find information about policy updates and enterprise-specific bug fixes in the [Firefox for Enterprise 151 Release Notes][1].\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/firefox-enterprise-151-release-notes",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Enterprise"
+    },
+    {
       "bug": null,
       "created": "2026-05-12T18:07:14.752044+00:00",
       "id": 791684,
