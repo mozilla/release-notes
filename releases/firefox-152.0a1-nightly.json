@@ -103,6 +103,30 @@
       "tag": "New"
     },
     {
+      "bug": 2032602,
+      "created": "2026-05-12T22:26:06.433329+00:00",
+      "id": 791704,
+      "is_public": true,
+      "modified": "2026-05-12T22:26:07.026609+00:00",
+      "note": "On Windows and Linux, you can now copy links via the tab context menu by right-clicking a tab and selecting *Share > Copy Link*, making it easy to copy a link without switching to the tab first. When multiple tabs are selected, you can copy all selected links at once. Windows users still retain access to Microsoft sharing options from the *Share* menu.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 2025884,
+      "created": "2026-05-12T22:28:21.218827+00:00",
+      "id": 791706,
+      "is_public": true,
+      "modified": "2026-05-12T22:28:21.641540+00:00",
+      "note": "A \"Send tab\" toolbar button is now available which can be added via *More Tools >Customize Toolbar*.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 2036853,
       "created": "2026-05-05T18:25:30.917609+00:00",
       "id": 791665,
@@ -157,6 +181,18 @@
       "is_public": true,
       "modified": "2026-05-07T16:29:44.088288+00:00",
       "note": "Starting with Firefox 152, Nightly builds now support the WebAssembly JS-Promise-Integration proposal, improving the porting of applications to the Web.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 2010193,
+      "created": "2026-05-12T22:27:22.277724+00:00",
+      "id": 791705,
+      "is_public": true,
+      "modified": "2026-05-12T22:27:22.663212+00:00",
+      "note": "Firefox now supports the WebAuthn Related Origin Request feature, which simplifies login flows by making Passkeys usable from multiple domains.",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
