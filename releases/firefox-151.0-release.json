@@ -67,6 +67,54 @@
       "tag": "New"
     },
     {
+      "bug": 2032452,
+      "created": "2026-05-13T13:54:23.597341+00:00",
+      "id": 791719,
+      "is_public": true,
+      "modified": "2026-05-13T13:54:23.597167+00:00",
+      "note": "Local [Firefox profile backups][1] are now available on macOS and Linux, and you can restore them across platforms.\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/back-and-restore-information-firefox-profileshttp://",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 40,
+      "tag": "New"
+    },
+    {
+      "bug": 1717071,
+      "created": "2026-05-13T13:56:00.469201+00:00",
+      "id": 791720,
+      "is_public": true,
+      "modified": "2026-05-13T13:56:00.896683+00:00",
+      "note": "On macOS, URLs copied from iOS devices using Apple\u2019s Universal Clipboard now paste correctly in Firefox.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 30,
+      "tag": "New"
+    },
+    {
+      "bug": 2018516,
+      "created": "2026-05-13T13:57:07.665134+00:00",
+      "id": 791721,
+      "is_public": true,
+      "modified": "2026-05-13T13:57:08.000211+00:00",
+      "note": "HTML `<select>` dropdowns now display as an OS-native menu on macOS, aligning their appearance and behavior with the rest of the system.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 20,
+      "tag": "New"
+    },
+    {
+      "bug": 2031025,
+      "created": "2026-05-13T13:59:54.527745+00:00",
+      "id": 791722,
+      "is_public": true,
+      "modified": "2026-05-13T13:59:54.859844+00:00",
+      "note": "[Address Autofill][1] is enabled for users in the Netherlands.\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/automatically-fill-your-address-web-forms",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 10,
+      "tag": "New"
+    },
+    {
       "bug": 1867385,
       "created": "2026-05-13T13:03:56.873540+00:00",
       "id": 791708,
