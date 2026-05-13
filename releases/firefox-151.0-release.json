@@ -7,6 +7,66 @@
   "modified": "2026-05-12T17:56:55.952224+00:00",
   "notes": [
     {
+      "bug": 2015601,
+      "created": "2026-05-13T13:40:43.530236+00:00",
+      "id": 791714,
+      "is_public": true,
+      "modified": "2026-05-13T13:40:43.979027+00:00",
+      "note": "Firefox Home (New Tab) has a fresh, new look and feel. The layout and design will enable upcoming features, from widgets to shortcuts improvements, launching between 151 and 152. Included are some new and exciting Wallpapers, such as the one below. Use the pencil icon in the lower right to check them out.\r\n\r\n\r\n<img src=\"https://www.mozilla.org/media/img/firefox/releasenotes/note-images/151_newtab\" width=\"700\" alt=\"image for new tab\">\r\n\r\n<img src=\"https://www.mozilla.org/media/img/firefox/releasenotes/note-images/151_newtab_wallpaper\" width=\"700\" alt=\"image for new tab showing a new wallpaper\">",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 90,
+      "tag": "New"
+    },
+    {
+      "bug": 1902686,
+      "created": "2026-05-13T13:44:10.528794+00:00",
+      "id": 791715,
+      "is_public": true,
+      "modified": "2026-05-13T13:44:10.948443+00:00",
+      "note": "Private Browsing Mode now allows users to instantly clear all data from their current session without closing the entire browser. When you select the End Private Session button (the fire icon) to the right of the URL bar, Firefox will ask you to confirm to clear your session. Once confirmed, it will wipe all of your private browsing data and open a fresh new Private Browsing Mode session for you.\r\n\r\n\r\n<img src=\"https://www.mozilla.org/media/img/firefox/releasenotes/note-images/151_private_browsing.png\" width=\"700\" alt=\"image showing the clear data in Private Browsing Mode \">",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 80,
+      "tag": "New"
+    },
+    {
+      "bug": 2032123,
+      "created": "2026-05-13T13:46:59.291557+00:00",
+      "id": 791716,
+      "is_public": true,
+      "modified": "2026-05-13T13:46:59.668434+00:00",
+      "note": "Firefox now strengthens protection against fingerprinting in [Standard Enhanced Tracking Protection][1], making it harder for websites to track you across sites by limiting the amount of information revealed about your device and browser. This reduces the number of users uniquely identifiable by common fingerprinting techniques by an average of ~14%, and by ~49% on macOS.\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/enhanced-tracking-protection-firefox-desktop",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 70,
+      "tag": "New"
+    },
+    {
+      "bug": 2030179,
+      "created": "2026-05-13T13:48:47.157925+00:00",
+      "id": 791717,
+      "is_public": true,
+      "modified": "2026-05-13T13:48:47.529349+00:00",
+      "note": "You can now merge multiple PDFs directly in the Firefox PDF viewer.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 60,
+      "tag": "New"
+    },
+    {
+      "bug": 2028995,
+      "created": "2026-05-13T13:50:21.160808+00:00",
+      "id": 791718,
+      "is_public": true,
+      "modified": "2026-05-13T13:50:21.513029+00:00",
+      "note": "The about:translations page is now accessible through the More Tools section of the Application Menu.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 50,
+      "tag": "New"
+    },
+    {
       "bug": 1867385,
       "created": "2026-05-13T13:03:56.873540+00:00",
       "id": 791708,
@@ -16,6 +76,30 @@
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 90,
+      "tag": "Changed"
+    },
+    {
+      "bug": 1429838,
+      "created": "2026-05-13T13:07:01.728663+00:00",
+      "id": 791709,
+      "is_public": true,
+      "modified": "2026-05-13T13:07:02.094440+00:00",
+      "note": "Extensions and Themes installed in a Firefox Desktop profile directory will be restored successfully after the profile directory is moved or restored to a different location or a different operating system.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 80,
+      "tag": "Changed"
+    },
+    {
+      "bug": 2018365,
+      "created": "2026-05-13T13:07:50.621427+00:00",
+      "id": 791710,
+      "is_public": true,
+      "modified": "2026-05-13T13:07:50.899389+00:00",
+      "note": "Geolocation on Windows now respects the user's Windows location permission setting, instead of overriding it, when the user grants location permission to a page. Firefox will ask users to enable the Windows permission if it is needed.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 70,
       "tag": "Changed"
     },
     {
@@ -161,6 +245,42 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "Enterprise"
+    },
+    {
+      "bug": 1525379,
+      "created": "2026-05-13T13:11:22.539105+00:00",
+      "id": 791711,
+      "is_public": true,
+      "modified": "2026-05-13T13:11:22.834498+00:00",
+      "note": "Fixed incorrect screen resolution reporting to websites in multi-monitor configurations.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 90,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 875858,
+      "created": "2026-05-13T13:14:02.273058+00:00",
+      "id": 791712,
+      "is_public": true,
+      "modified": "2026-05-13T13:16:03.140155+00:00",
+      "note": "Fixed an issue on macOS where maximized Firefox windows could reopen on the wrong monitor after relaunching in multi-display setups.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 80,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1396587,
+      "created": "2026-05-13T13:15:44.236390+00:00",
+      "id": 791713,
+      "is_public": true,
+      "modified": "2026-05-13T13:15:44.544786+00:00",
+      "note": "Improved color management for copied and pasted images on macOS.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 70,
+      "tag": "Fixed"
     },
     {
       "bug": null,
