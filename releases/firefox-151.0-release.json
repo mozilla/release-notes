@@ -7,6 +7,18 @@
   "modified": "2026-05-12T17:56:55.952224+00:00",
   "notes": [
     {
+      "bug": 1867385,
+      "created": "2026-05-13T13:03:56.873540+00:00",
+      "id": 791708,
+      "is_public": true,
+      "modified": "2026-05-13T13:03:57.368088+00:00",
+      "note": "The search bar in Firefox Settings (about:preferences) is now larger and spans the full Settings column, making it easier for users to search within Settings.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 90,
+      "tag": "Changed"
+    },
+    {
       "bug": 2029625,
       "created": "2026-05-12T18:49:20.080072+00:00",
       "id": 791693,
