@@ -151,6 +151,30 @@
       "tag": "Changed"
     },
     {
+      "bug": 1756564,
+      "created": "2026-05-13T17:54:47.206130+00:00",
+      "id": 791723,
+      "is_public": true,
+      "modified": "2026-05-13T17:54:48.049484+00:00",
+      "note": "To ensures a seamless browsing experience, when a PDF or internally handled file finishes downloading, it now opens in a background tab if you have switched tabs or closed the original page.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
+      "bug": 2007432,
+      "created": "2026-05-13T17:57:58.709209+00:00",
+      "id": 791724,
+      "is_public": true,
+      "modified": "2026-05-13T17:57:59.216785+00:00",
+      "note": "In [Firefox for Android][1], sharing a remote PDF will now share the file itself, rather than its URL, that you can still share by copying it from the awesomebar.\r\n\r\n\r\n  [1]: https://play.google.com/store/apps/details?id=org.mozilla.fenix",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
       "bug": 1916277,
       "created": "2026-03-03T18:49:56.651756+00:00",
       "id": 791512,
