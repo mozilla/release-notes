@@ -305,6 +305,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": 401380,
+      "created": "2026-05-14T15:26:16.400147+00:00",
+      "id": 791725,
+      "is_public": true,
+      "modified": "2026-05-14T15:26:17.045649+00:00",
+      "note": "On macOS, dragging images from Firefox to the desktop or into desktop folders now correctly places items where they are dropped.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
