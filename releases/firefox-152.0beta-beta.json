@@ -43,6 +43,18 @@
       "tag": "New"
     },
     {
+      "bug": 2025322,
+      "created": "2026-05-06T17:46:39.007825+00:00",
+      "id": 791666,
+      "is_public": true,
+      "modified": "2026-05-15T16:28:33.424790+00:00",
+      "note": "High dynamic range video is now supported in Firefox on Windows 10 and 11 for HDR displays connected to AMD and NVIDIA GPUs (notably this excludes Intel+NVIDIA laptops for now), work is underway to enable this feature on more GPU vendors. To use this feature you must ensure that HDR mode is enabled for the relevant displays in Windows Settings - Display. HDR videos may appear brighter in Firefox than in other browsers, which will be improved in a future release, as well as optimizations for performance.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 2032602,
       "created": "2026-05-12T22:26:06.433329+00:00",
       "id": 791704,
@@ -73,6 +85,30 @@
       "is_public": true,
       "modified": "2026-05-15T16:27:22.193024+00:00",
       "note": "Site zooming via keyboard or mouse now supports more and smaller increments.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
+      "bug": 1756564,
+      "created": "2026-05-13T17:54:47.206130+00:00",
+      "id": 791723,
+      "is_public": true,
+      "modified": "2026-05-15T16:29:00.812290+00:00",
+      "note": "To ensure a seamless browsing experience, when a PDF or internally handled file finishes downloading, it now opens in a background tab if you have switched tabs or closed the original page.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
+      "bug": 2007432,
+      "created": "2026-05-15T16:29:49.019817+00:00",
+      "id": 791727,
+      "is_public": true,
+      "modified": "2026-05-15T16:30:05.342951+00:00",
+      "note": "In [Firefox for Android][1], sharing a remote PDF will now share the file itself, rather than its URL, that you can still share by copying it from the awesomebar.\r\n\r\n\r\n  [1]: https://play.google.com/store/apps/details?id=org.mozilla.firefox_beta",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
@@ -113,6 +149,30 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "HTML5"
+    },
+    {
+      "bug": 2038877,
+      "created": "2026-05-13T01:56:36.924178+00:00",
+      "id": 791707,
+      "is_public": true,
+      "modified": "2026-05-15T16:28:50.919298+00:00",
+      "note": "Firefox now supports a limited subset of the non-standard `::-webkit-scrollbar` pseudo-element to improve web compatibility:\r\n\r\n - Rules with non-zero `width`/`height` disable overlay scrollbars for the affected container.\r\n - `display: none` on `::-webkit-scrollbar` behaves like `scrollbar-width: none`, hiding the scrollbar.\r\n - `@supports selector(::-webkit-scrollbar)` now evaluates to true.\r\n - Full styling capabilities (colors, border-radius, etc.) are intentionally not supported",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 1455294,
+      "created": "2026-05-15T12:19:19.947570+00:00",
+      "id": 791726,
+      "is_public": true,
+      "modified": "2026-05-15T16:29:33.981974+00:00",
+      "note": "The DevTools now have an option to toggle the display of comment nodes in the Inspector. This option is located in the [Settings panel][1].\r\n\r\n\r\n  [1]: https://firefox-source-docs.mozilla.org/devtools-user/settings/index.html#settings-inspector",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
       "bug": 1868738,
@@ -157,6 +217,18 @@
       "is_public": true,
       "modified": "2026-05-15T16:26:59.987604+00:00",
       "note": "Improved the reliability of saving images when dragging images to the desktop or Finder windows on macOS.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 401380,
+      "created": "2026-05-14T15:26:16.400147+00:00",
+      "id": 791725,
+      "is_public": true,
+      "modified": "2026-05-15T16:29:23.876631+00:00",
+      "note": "On macOS, dragging images from Firefox to the desktop or into desktop folders now correctly places items where they are dropped.",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
