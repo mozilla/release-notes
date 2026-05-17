@@ -67,6 +67,18 @@
       "tag": "HTML5"
     },
     {
+      "bug": 2038939,
+      "created": "2026-05-17T19:51:55.311262+00:00",
+      "id": 791729,
+      "is_public": true,
+      "modified": "2026-05-17T19:51:55.867392+00:00",
+      "note": "Starting with Firefox 152, Nightly builds allow the [`attr()`][1] function to be used in any CSS property. It now also allows to specify how the attribute value is parsed into a CSS value.\r\n\r\n<!-- Keep this note until 156 -->\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/CSS/Reference/Values/attr",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
       "bug": 2022844,
       "created": "2026-04-16T13:06:26.315585+00:00",
       "id": 791611,
