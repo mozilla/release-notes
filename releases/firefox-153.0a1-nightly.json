@@ -1,11 +1,59 @@
 {
   "bug_list": "",
   "bug_search_url": "",
-  "channel": "Beta",
-  "created": "2026-05-15T12:28:52.555661+00:00",
+  "channel": "Nightly",
+  "created": "2026-05-17T16:36:30.408600+00:00",
   "is_public": false,
-  "modified": "2026-05-15T12:29:42.200446+00:00",
+  "modified": "2026-05-17T16:36:47.630048+00:00",
   "notes": [
+    {
+      "bug": 2019009,
+      "created": "2026-03-03T14:28:47.514383+00:00",
+      "id": 791511,
+      "is_public": true,
+      "modified": "2026-05-17T16:36:30.476159+00:00",
+      "note": "Starting with [Firefox for Android][1] 150, Nightly users can now choose a custom default location for their downloads.\r\n\r\n\r\n  [1]: https://play.google.com/store/apps/details?id=org.mozilla.fenix",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 2027803,
+      "created": "2026-04-08T20:18:11.746615+00:00",
+      "id": 791577,
+      "is_public": true,
+      "modified": "2026-05-17T16:36:30.476159+00:00",
+      "note": "Starting with Firefox 152, Nightly builds have an in-memory cache for the JavaScript compilation result, which is shared across navigation within the same domain, in order to improve the page load performance. The cache works in the same way as the existing in-memory cache for the stylesheets and the images. This can affect how the cached requests/responses are handled in DevTools, WebDriver, and WebExtensions APIs such as [webRequest][1] and [declarativeNetRequest][2].\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Mozilla/Add-ons/WebExtensions/API/webRequest\r\n  [2]: https://developer.mozilla.org/docs/Mozilla/Add-ons/WebExtensions/API/declarativeNetRequest",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 2029260,
+      "created": "2026-04-15T09:58:16.646544+00:00",
+      "id": 791581,
+      "is_public": true,
+      "modified": "2026-05-17T16:36:30.476159+00:00",
+      "note": "Starting with Firefox 151, [Firefox for Android][1] nightly builds include settings for enabling fine-grained control of AI features and also allows you to block future AI features.\r\n\r\n\r\n  [1]: https://play.google.com/store/apps/details?id=org.mozilla.fenix",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 2030178,
+      "created": "2026-04-16T13:04:09.829077+00:00",
+      "id": 791610,
+      "is_public": true,
+      "modified": "2026-05-17T16:36:30.476159+00:00",
+      "note": "Starting with Firefox 151, you can merge multiple PDFs within the Firefox PDF viewer in Nightly builds.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
     {
       "bug": 103422,
       "created": "2026-04-29T19:21:49.213067+00:00",
@@ -13,6 +61,18 @@
       "is_public": true,
       "modified": "2026-05-17T16:36:30.476159+00:00",
       "note": "Improved support for more advanced cursor movement commands, including those relating to paragraph boundaries, on macOS.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 2032547,
+      "created": "2026-04-29T19:24:17.505359+00:00",
+      "id": 791648,
+      "is_public": true,
+      "modified": "2026-05-17T16:36:30.476159+00:00",
+      "note": "Starting with Firefox 152, the address bar in Nightly builds autofills the pages you visit most - including specific pages within a site, not just site homepages - based on your browsing habits, and lets you dismiss suggestions you don\u2019t want.",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
@@ -104,15 +164,27 @@
     },
     {
       "bug": 2007432,
-      "created": "2026-05-15T16:29:49.019817+00:00",
-      "id": 791727,
+      "created": "2026-05-13T17:57:58.709209+00:00",
+      "id": 791724,
       "is_public": true,
-      "modified": "2026-05-15T16:30:05.342951+00:00",
-      "note": "In [Firefox for Android][1], sharing a remote PDF will now share the file itself, rather than its URL, that you can still share by copying it from the awesomebar.\r\n\r\n\r\n  [1]: https://play.google.com/store/apps/details?id=org.mozilla.firefox_beta",
+      "modified": "2026-05-17T16:36:30.476159+00:00",
+      "note": "In [Firefox for Android][1], sharing a remote PDF will now share the file itself, rather than its URL, that you can still share by copying it from the awesomebar.\r\n\r\n\r\n  [1]: https://play.google.com/store/apps/details?id=org.mozilla.fenix",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "Changed"
+    },
+    {
+      "bug": 1916277,
+      "created": "2026-03-03T18:49:56.651756+00:00",
+      "id": 791512,
+      "is_public": true,
+      "modified": "2026-05-17T16:36:30.476159+00:00",
+      "note": "Starting with Firefox 150, multiple import maps per document are now supported in Nightly builds, giving web developers more flexibility when structuring and loading modern JavaScript modules.  This is considered experimental as we gather feedback before enabling it in regular releases.",
+      "progressive_rollout": true,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
     },
     {
       "bug": 1959931,
@@ -133,6 +205,18 @@
       "is_public": true,
       "modified": "2026-05-17T16:36:30.476159+00:00",
       "note": "The [`field-sizing`][1] property is now available, allowing form controls to adjust in size to fit their contents.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/field-sizing",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 2015877,
+      "created": "2026-05-07T16:29:43.470358+00:00",
+      "id": 791678,
+      "is_public": true,
+      "modified": "2026-05-17T16:36:30.476159+00:00",
+      "note": "Starting with Firefox 152, Nightly builds now support the WebAssembly JS-Promise-Integration proposal, improving the porting of applications to the Web.",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
@@ -161,6 +245,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "HTML5"
+    },
+    {
+      "bug": 2022844,
+      "created": "2026-04-16T13:06:26.315585+00:00",
+      "id": 791611,
+      "is_public": true,
+      "modified": "2026-05-17T16:36:30.476159+00:00",
+      "note": "Starting with Firefox 151, the JavaScript Tracer can be enabled from DevTools Settings panel in Nightly builds. This enables tracing all JavaScript function calls. Unlike the performance profiler, this doesn't record a sample; instead, it traces all function calls.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
       "bug": 1455294,
@@ -236,10 +332,10 @@
     }
   ],
   "product": "Firefox",
-  "release_date": "2026-05-20",
-  "slug": "firefox-152.0beta-beta",
+  "release_date": "2026-05-19",
+  "slug": "firefox-153.0a1-nightly",
   "system_requirements": "## Windows\r\n\r\n### Operating Systems (32-bit and 64-bit)\r\n - Windows 10 or later\r\n\r\n### Recommended Hardware\r\n-  1 gigahertz (GHz) or faster compatible processor or System on a Chip (SoC)\r\n-  1GB of RAM / 2GB of RAM for the 64-bit version\r\n-  500MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- macOS 10.15 or later\r\n\r\n### Recommended Hardware\r\n- Macintosh computer with an Intel x86 or Apple silicon processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - glibc 2.17 or higher (2.28 or higher on arm64)\r\n    - GTK+ 3.14 or higher\r\n    - libglib 2.42 or higher\r\n    - libstdc++ 4.8.1 or higher (6.0 or higher on arm64)\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - DBus 1.0 or higher\r\n    - NetworkManager 0.7 or higher\r\n    - PulseAudio",
-  "text": "Firefox Beta gets updated 3 times a week and as a consequence, the release notes for the Beta channel are updated continuously to reflect features that have reached sufficient maturity to benefit from community feedback and bug reports.\r\n\r\n**Warning: Features listed here may or may *not* make a final release of Firefox.**\r\n\r\nIn addition to these release notes, you can follow ongoing development via the [Firefox Trains][1] website or our [@FirefoxBeta][2] Bluesky account.\r\n\r\n\r\n  [1]: https://whattrainisitnow.com/beta/\r\n  [2]: https://bsky.app/profile/firefoxbeta.bsky.social",
-  "title": "Firefox 152.0beta Beta",
-  "version": "152.0beta"
+  "text": "Firefox Nightly gets updated every day and as a consequence, the release notes for the Nightly channel are updated continuously to reflect features that have reached sufficient maturity to benefit from community feedback and bug reports. \r\n\r\n**Warning: Features listed here may or may *not* make a final release of Firefox.**\r\n\r\nIn addition to these release notes, you can follow ongoing development on our [@FirefoxNightly][1] Bluesky account, our [@FirefoxNightly][4] Mastodon account as well as read our [Nightly Blog][2].\r\n\r\nYou can interact with other Firefox Nightly users and give your feedback to Mozilla staff in the [Nightly Matrix room][3] on chat.mozilla.org.\r\n\r\n\r\n  [1]: https://bsky.app/profile/firefoxnightly.bsky.social\r\n  [2]: https://blog.nightly.mozilla.org\r\n  [3]: https://chat.mozilla.org/?#/room/#nightly:mozilla.org\r\n  [4]: https://mastodon.social/@FirefoxNightly",
+  "title": "Firefox 153.0a1 Nightly",
+  "version": "153.0a1"
 }
