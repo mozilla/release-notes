@@ -115,6 +115,18 @@
       "tag": "New"
     },
     {
+      "bug": null,
+      "created": "2026-05-19T14:53:02.092607+00:00",
+      "id": 791732,
+      "is_public": true,
+      "modified": "2026-05-19T14:53:02.092415+00:00",
+      "note": "Firefox\u2019s built-in VPN now lets you choose your browsing location, giving you more control over how and where your traffic appears online. You can select from available countries or use Recommended to automatically choose the best connection for your network.",
+      "progressive_rollout": true,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1867385,
       "created": "2026-05-13T13:03:56.873540+00:00",
       "id": 791708,
