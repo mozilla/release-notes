@@ -139,6 +139,18 @@
       "tag": "New"
     },
     {
+      "bug": 2035600,
+      "created": "2026-05-19T17:40:39.166957+00:00",
+      "id": 791733,
+      "is_public": true,
+      "modified": "2026-05-19T17:40:39.816117+00:00",
+      "note": "When a website in a Private Browsing window may be broken because of tracker blocking, Firefox now shows an infobar after a reload. Clicking \"Reload\" in the infobar disables tracker blocking for that tab and site and reloads the page. All other tracking protections remain active.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 2036853,
       "created": "2026-05-05T18:25:30.917609+00:00",
       "id": 791665,
@@ -253,6 +265,18 @@
       "is_public": true,
       "modified": "2026-05-17T19:51:55.867392+00:00",
       "note": "Starting with Firefox 152, Nightly builds allow the [`attr()`][1] function to be used in any CSS property. It now also allows to specify how the attribute value is parsed into a CSS value.\r\n\r\n<!-- Keep this note until 156 -->\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/CSS/Reference/Values/attr",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 2037802,
+      "created": "2026-05-19T17:41:46.522602+00:00",
+      "id": 791734,
+      "is_public": true,
+      "modified": "2026-05-19T17:41:46.865980+00:00",
+      "note": "The Pointer Lock API now supports the `unadjustedMovement` option, allowing sites to receive raw mouse-movement data unaffected by OS-level acceleration.",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,

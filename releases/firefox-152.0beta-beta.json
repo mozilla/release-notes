@@ -79,6 +79,18 @@
       "tag": "New"
     },
     {
+      "bug": 2035600,
+      "created": "2026-05-19T17:40:39.166957+00:00",
+      "id": 791733,
+      "is_public": true,
+      "modified": "2026-05-19T17:40:39.816117+00:00",
+      "note": "When a website in a Private Browsing window may be broken because of tracker blocking, Firefox now shows an infobar after a reload. Clicking \"Reload\" in the infobar disables tracker blocking for that tab and site and reloads the page. All other tracking protections remain active.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 2036853,
       "created": "2026-05-05T18:25:30.917609+00:00",
       "id": 791665,
@@ -157,6 +169,18 @@
       "is_public": true,
       "modified": "2026-05-17T16:42:23.984367+00:00",
       "note": "Firefox now supports a limited subset of the non-standard `::-webkit-scrollbar` pseudo-element to improve web compatibility:\r\n\r\n - Rules with non-zero `width`/`height` disable overlay scrollbars for the affected container.\r\n - `display: none` on `::-webkit-scrollbar` behaves like `scrollbar-width: none`, hiding the scrollbar.\r\n - `@supports selector(::-webkit-scrollbar)` now evaluates to true.\r\n - Full styling capabilities (colors, border-radius, etc.) are intentionally not supported",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 2037802,
+      "created": "2026-05-19T17:41:46.522602+00:00",
+      "id": 791734,
+      "is_public": true,
+      "modified": "2026-05-19T17:41:46.865980+00:00",
+      "note": "The Pointer Lock API now supports the `unadjustedMovement` option, allowing sites to receive raw mouse-movement data unaffected by OS-level acceleration.",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
