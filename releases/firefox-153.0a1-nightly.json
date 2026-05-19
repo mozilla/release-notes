@@ -43,6 +43,18 @@
       "tag": "New"
     },
     {
+      "bug": 1748950,
+      "created": "2026-05-19T11:17:32.946333+00:00",
+      "id": 791730,
+      "is_public": true,
+      "modified": "2026-05-19T11:17:33.854994+00:00",
+      "note": "Added support for Apple's system-wide full-screen keyboard command (Globe-F)",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 2007432,
       "created": "2026-05-13T17:57:58.709209+00:00",
       "id": 791724,
