@@ -55,6 +55,18 @@
       "tag": "New"
     },
     {
+      "bug": 1996422,
+      "created": "2026-05-21T08:23:00.349112+00:00",
+      "id": 791742,
+      "is_public": true,
+      "modified": "2026-05-21T08:23:00.801280+00:00",
+      "note": "Share any open page with a QR code. Right-click a tab or the address bar, then select Share > Generate QR Code. Great for posters, invitations, banners, and other printed materials.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 2007432,
       "created": "2026-05-13T17:57:58.709209+00:00",
       "id": 791724,
@@ -67,11 +79,11 @@
       "tag": "Changed"
     },
     {
-      "bug": null,
+      "bug": 2028609,
       "created": "2026-05-20T16:44:33.394324+00:00",
       "id": 791737,
       "is_public": true,
-      "modified": "2026-05-20T16:51:47.089309+00:00",
+      "modified": "2026-05-21T08:27:13.746423+00:00",
       "note": "Firefox Settings features a [brand-new look][1] with streamlined organization, clearer groupings, and improved navigation for easier customization.\r\n\r\n<img src=\"/media/img/firefox/releasenotes/note-images/143_142_settings_redesign.png\" width=\"700\" alt=\"Screenshot of redesigned Firefox Settings\">\r\n\r\n\r\n\r\n  [1]: https://blog.nightly.mozilla.org/2026/05/20/settings-are-getting-a-new-look/",
       "progressive_rollout": false,
       "relevant_countries": [],
@@ -109,6 +121,18 @@
       "is_public": true,
       "modified": "2026-05-20T11:11:32.998615+00:00",
       "note": "Updated HTML parsing rules for `<select>` elements, aligning with web standards to support future customizable select dropdown features.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 2010717,
+      "created": "2026-05-21T08:19:44.460933+00:00",
+      "id": 791741,
+      "is_public": true,
+      "modified": "2026-05-21T08:19:45.263007+00:00",
+      "note": "The `alignment-baseline` property got introduced in Firefox 149. Now it got some new keywords `alphabetic`, `ideographic`, `central`, `mathematical`, and `hanging`, extending the variety of [baselines to choose for alignment][1].\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/alignment-baseline",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
