@@ -113,6 +113,30 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": 2027078,
+      "created": "2026-05-25T15:35:16.179178+00:00",
+      "id": 791758,
+      "is_public": true,
+      "modified": "2026-05-25T15:35:16.179020+00:00",
+      "note": "Fixed an issue where sorting strings that include numbers could produce an incorrect order on some websites and web applications. ([Bug 2027078][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=2027078",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 2041720,
+      "created": "2026-05-25T15:36:00.330292+00:00",
+      "id": 791759,
+      "is_public": true,
+      "modified": "2026-05-25T15:36:00.763120+00:00",
+      "note": "Fixed an issue where dropdown menus would not open for `<select>` elements created inside an iframe and then moved into the parent page. ([Bug 2041720][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=2041720",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
