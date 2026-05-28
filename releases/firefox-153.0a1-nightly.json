@@ -211,6 +211,18 @@
       "tag": "HTML5"
     },
     {
+      "bug": 2039881,
+      "created": "2026-05-28T07:28:19.528846+00:00",
+      "id": 791763,
+      "is_public": true,
+      "modified": "2026-05-28T07:28:20.248007+00:00",
+      "note": "Developers can now use the `text` import attribute to [import text files][1] using the module system.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/JavaScript/Reference/Statements/import/with",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
       "bug": 2022844,
       "created": "2026-04-16T13:06:26.315585+00:00",
       "id": 791611,
