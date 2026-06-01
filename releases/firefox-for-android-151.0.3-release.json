@@ -1,0 +1,53 @@
+{
+  "bug_list": "",
+  "bug_search_url": "",
+  "channel": "Release",
+  "created": "2026-06-01T12:04:45.499650+00:00",
+  "is_public": false,
+  "modified": "2026-06-01T12:04:45.499386+00:00",
+  "notes": [
+    {
+      "bug": null,
+      "created": "2026-06-01T12:05:12.670709+00:00",
+      "id": 791771,
+      "is_public": true,
+      "modified": "2026-06-01T12:05:13.397519+00:00",
+      "note": "Reference link to [151.0.2 release notes][1].\r\n\r\n\r\n  [1]: https://www.firefox.com/firefox/android/151.0.2/releasenotes/",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": ""
+    },
+    {
+      "bug": 2042018,
+      "created": "2026-06-01T12:07:44.982756+00:00",
+      "id": 791772,
+      "is_public": true,
+      "modified": "2026-06-01T12:07:45.492256+00:00",
+      "note": "Fixed a crash that could occur when dismissing the download confirmation dialog after navigating away from the browser screen. ([Bug 2042018][1]) \r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=2042018",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 2038467,
+      "created": "2026-06-01T12:16:53.879066+00:00",
+      "id": 791773,
+      "is_public": true,
+      "modified": "2026-06-01T12:16:54.397611+00:00",
+      "note": "Fixed an issue where typing in some text fields could cause earlier text to be unexpectedly repeated. ([Bug 2038467][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=2038467",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
+    }
+  ],
+  "product": "Firefox for Android",
+  "release_date": "2026-06-02",
+  "slug": "firefox-for-android-151.0.3-release",
+  "system_requirements": "## Operating systems\r\n - Android 8.0 or newer",
+  "text": "",
+  "title": "Firefox for Android 151.0.3 Release",
+  "version": "151.0.3"
+}
