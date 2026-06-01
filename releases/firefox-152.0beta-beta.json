@@ -91,6 +91,30 @@
       "tag": "New"
     },
     {
+      "bug": 2028609,
+      "created": "2026-06-01T00:54:31.467815+00:00",
+      "id": 791764,
+      "is_public": true,
+      "modified": "2026-06-01T00:54:32.050430+00:00",
+      "note": "Firefox Settings features a brand-new look with streamlined organization, clearer groupings, and improved navigation for easier customization.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 2042321,
+      "created": "2026-06-01T00:58:55.569011+00:00",
+      "id": 791766,
+      "is_public": true,
+      "modified": "2026-06-01T00:58:55.980801+00:00",
+      "note": "Firefox builds in Croatian, English (UK), Georgian, Persian, Slovenian, Tajik, Tamil, Tibetan, Turkish, Welsh, and Xhosa now come with a built-in dictionary for the [Firefox spellchecker][1].\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/how-do-i-use-firefox-spell-checker",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 2036853,
       "created": "2026-05-05T18:25:30.917609+00:00",
       "id": 791665,
@@ -121,6 +145,18 @@
       "is_public": true,
       "modified": "2026-05-15T16:30:05.342951+00:00",
       "note": "In [Firefox for Android][1], sharing a remote PDF will now share the file itself, rather than its URL, that you can still share by copying it from the awesomebar.\r\n\r\n\r\n  [1]: https://play.google.com/store/apps/details?id=org.mozilla.firefox_beta",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
+      "bug": 2030072,
+      "created": "2026-06-01T01:00:46.393085+00:00",
+      "id": 791767,
+      "is_public": true,
+      "modified": "2026-06-01T01:00:46.757580+00:00",
+      "note": "The `Tabs from Other Devices` panel in the sidebar now lets you open tabs in a new tab or a new container tab from the context menu.",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
@@ -253,6 +289,18 @@
       "is_public": true,
       "modified": "2026-05-17T16:49:00.732425+00:00",
       "note": "On macOS, dragging images from Firefox to the desktop or into desktop folders now correctly places items where they are dropped.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 2034375,
+      "created": "2026-06-01T00:57:17.124595+00:00",
+      "id": 791765,
+      "is_public": true,
+      "modified": "2026-06-01T00:57:17.515610+00:00",
+      "note": "In [Firefox for Android][1], optimized performance when pinch zooming web pages, especially on lower-spec devices.\r\n\r\n\r\n  [1]: https://play.google.com/store/apps/details?id=org.mozilla.firefox_beta",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
