@@ -251,7 +251,7 @@
       "created": "2026-05-13T01:56:36.924178+00:00",
       "id": 791707,
       "is_public": true,
-      "modified": "2026-05-17T16:42:23.984367+00:00",
+      "modified": "2026-06-02T22:26:57.562270+00:00",
       "note": "Firefox now supports a limited subset of the non-standard `::-webkit-scrollbar` pseudo-element to improve web compatibility:\r\n\r\n - Rules with non-zero `width`/`height` disable overlay scrollbars for the affected container.\r\n - `display: none` on `::-webkit-scrollbar` behaves like `scrollbar-width: none`, hiding the scrollbar.\r\n - `@supports selector(::-webkit-scrollbar)` now evaluates to true.\r\n - Full styling capabilities (colors, border-radius, etc.) are intentionally not supported",
       "progressive_rollout": false,
       "relevant_countries": [],
