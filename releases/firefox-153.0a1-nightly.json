@@ -79,6 +79,18 @@
       "tag": "New"
     },
     {
+      "bug": 2043399,
+      "created": "2026-06-02T06:11:25.584357+00:00",
+      "id": 791776,
+      "is_public": true,
+      "modified": "2026-06-02T06:11:26.281984+00:00",
+      "note": "Firefox now verifies and displays [Qualified Website Authentication Certificates][1] (QWACs) in accordance with eIDAS regulations.\r\n\r\n\r\n  [1]: https://en.wikipedia.org/wiki/Qualified_website_authentication_certificate",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 2007432,
       "created": "2026-05-13T17:57:58.709209+00:00",
       "id": 791724,
