@@ -139,6 +139,18 @@
       "tag": "New"
     },
     {
+      "bug": null,
+      "created": "2026-06-03T09:27:48.700264+00:00",
+      "id": 791783,
+      "is_public": true,
+      "modified": "2026-06-03T09:27:48.700029+00:00",
+      "note": "The location permission icon in the address bar now turns red while a website is actively accessing your location, making it easier to notice when your location is being shared.\r\n\r\n<img src=\"/media/img/firefox/releasenotes/note-images/153_geolocation_icon.png\" alt=\"Screenshot of the red geolocation warning  in the address bar when the Geolocation API is being used\">",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 2007432,
       "created": "2026-05-13T17:57:58.709209+00:00",
       "id": 791724,
