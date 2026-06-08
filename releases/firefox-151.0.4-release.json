@@ -4,8 +4,20 @@
   "channel": "Release",
   "created": "2026-06-03T12:58:30.915289+00:00",
   "is_public": false,
-  "modified": "2026-06-03T12:58:30.915099+00:00",
+  "modified": "2026-06-08T16:14:05.378499+00:00",
   "notes": [
+    {
+      "bug": 2043307,
+      "created": "2026-06-08T16:33:34.762727+00:00",
+      "id": 791792,
+      "is_public": true,
+      "modified": "2026-06-08T16:33:35.366932+00:00",
+      "note": "Fixed a crash on Windows that could occur when Firefox interacted with accessibility services. ([Bug 204330][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=2043307",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 35,
+      "tag": ""
+    },
     {
       "bug": null,
       "created": "2026-06-03T13:01:00.293593+00:00",
@@ -17,6 +29,54 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": ""
+    },
+    {
+      "bug": 2039866,
+      "created": "2026-06-08T16:11:36.945797+00:00",
+      "id": 791788,
+      "is_public": true,
+      "modified": "2026-06-08T16:14:00.893283+00:00",
+      "note": "Fixed an issue on Windows where Firefox could become unresponsive when using the back and forward buttons. ([Bug 2039866][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=2039866",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 50,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 2043249,
+      "created": "2026-06-08T16:13:48.280074+00:00",
+      "id": 791789,
+      "is_public": true,
+      "modified": "2026-06-08T16:13:48.771857+00:00",
+      "note": "Fixed an issue where Firefox could fall back to software rendering on some older GPUs, reducing graphics performance. ([Bug 2043249][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=2043249",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 40,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 2043569,
+      "created": "2026-06-08T16:16:41.331599+00:00",
+      "id": 791790,
+      "is_public": true,
+      "modified": "2026-06-08T16:17:27.775045+00:00",
+      "note": "Fixed an issue where the Paste option could be missing from context menus when editing content on some sites. ([Bug 2043569][1]) \r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=2043569",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 30,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 2044051,
+      "created": "2026-06-08T16:26:36.346973+00:00",
+      "id": 791791,
+      "is_public": true,
+      "modified": "2026-06-08T16:26:51.429197+00:00",
+      "note": "Fixed an issue where some text input fields could incorrectly show a resize handle. ([Bug 2044051][1]) \r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=2044051",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 20,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
