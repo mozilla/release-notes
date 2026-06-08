@@ -4,20 +4,8 @@
   "channel": "Release",
   "created": "2026-06-03T12:58:30.915289+00:00",
   "is_public": false,
-  "modified": "2026-06-08T16:14:05.378499+00:00",
+  "modified": "2026-06-08T17:51:02.203666+00:00",
   "notes": [
-    {
-      "bug": 2043307,
-      "created": "2026-06-08T16:33:34.762727+00:00",
-      "id": 791792,
-      "is_public": true,
-      "modified": "2026-06-08T16:33:35.366932+00:00",
-      "note": "Fixed a crash on Windows that could occur when Firefox interacted with accessibility services. ([Bug 204330][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=2043307",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 35,
-      "tag": ""
-    },
     {
       "bug": null,
       "created": "2026-06-03T13:01:00.293593+00:00",
@@ -52,6 +40,18 @@
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 40,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 2043307,
+      "created": "2026-06-08T16:33:34.762727+00:00",
+      "id": 791792,
+      "is_public": true,
+      "modified": "2026-06-08T16:58:09.767949+00:00",
+      "note": "Fixed a crash on Windows that could occur when Firefox interacted with accessibility services. ([Bug 204330][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=2043307",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 35,
       "tag": "Fixed"
     },
     {
