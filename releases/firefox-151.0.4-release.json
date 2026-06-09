@@ -3,8 +3,8 @@
   "bug_search_url": "",
   "channel": "Release",
   "created": "2026-06-03T12:58:30.915289+00:00",
-  "is_public": false,
-  "modified": "2026-06-08T17:51:02.203666+00:00",
+  "is_public": true,
+  "modified": "2026-06-09T13:12:49.315476+00:00",
   "notes": [
     {
       "bug": null,
@@ -52,18 +52,6 @@
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 35,
-      "tag": "Fixed"
-    },
-    {
-      "bug": 2043569,
-      "created": "2026-06-08T16:16:41.331599+00:00",
-      "id": 791790,
-      "is_public": true,
-      "modified": "2026-06-08T18:57:30.142945+00:00",
-      "note": "Fixed an issue where the Paste option could be missing from context menus when editing content on sites such as Squarespace, LinkedIn, and eBay. ([Bug 2043569][1]) \r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=2043569",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 30,
       "tag": "Fixed"
     },
     {
