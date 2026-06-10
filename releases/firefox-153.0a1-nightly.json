@@ -43,6 +43,18 @@
       "tag": "New"
     },
     {
+      "bug": 2025322,
+      "created": "2026-05-06T17:46:39.007825+00:00",
+      "id": 791666,
+      "is_public": true,
+      "modified": "2026-06-10T03:00:11.270702+00:00",
+      "note": "High dynamic range video is now supported in Firefox on Windows 10 and 11 for HDR displays connected to AMD and NVIDIA GPUs (notably this excludes Intel+NVIDIA laptops for now), work is underway to enable this feature on more GPU vendors. To use this feature you must ensure that HDR mode is enabled for the relevant displays in Windows Settings - Display. HDR videos may appear brighter in Firefox than in other browsers, which will be improved in a future release, as well as optimizations for performance.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1748950,
       "created": "2026-05-19T11:17:32.946333+00:00",
       "id": 791730,
