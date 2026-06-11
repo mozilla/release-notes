@@ -4,13 +4,50 @@
   "channel": "Release",
   "created": "2026-06-10T23:45:44.870020+00:00",
   "is_public": false,
-  "modified": "2026-06-10T23:46:29.084767+00:00",
-  "notes": [],
+  "modified": "2026-06-10T23:57:51.761537+00:00",
+  "notes": [
+    {
+      "bug": null,
+      "created": "2026-06-10T23:56:58.685696+00:00",
+      "id": 791796,
+      "is_public": true,
+      "modified": "2026-06-10T23:57:26.873780+00:00",
+      "note": "**World Cup widget:** Follow live scores, match schedules and results in one place.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 20,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2026-06-10T23:57:19.376387+00:00",
+      "id": 791797,
+      "is_public": true,
+      "modified": "2026-06-10T23:57:19.760797+00:00",
+      "note": "**On-device translations:** Translate full web pages in more languages while keeping your content private on your device.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 10,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2026-06-10T23:57:45.068740+00:00",
+      "id": 791798,
+      "is_public": true,
+      "modified": "2026-06-10T23:57:45.803693+00:00",
+      "note": "Fixed display issues when rotating your device.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
+    }
+  ],
   "product": "Firefox for iOS",
   "release_date": "2026-06-14",
   "slug": "firefox-for-ios-152.0-release",
   "system_requirements": "## Operating systems\r\n - iOS 15\r\n - iOS 16\r\n - iOS 17\r\n - iOS 18\r\n - iOS 26",
-  "text": "Thanks for using Firefox! Have feedback or suggestions? We'd love to hear from you at [iOS Support][1].\r\n\r\n\r\n  [1]: https://mzl.la/iOSSupport",
+  "text": "Enjoying Firefox? Leave a review. Got ideas or feedback? Join the conversation at https://connect.mozilla.org. Need help? Our volunteer support community has your back at https://mzl.la/iOSSupport.",
   "title": "Firefox for iOS 152.0 Release",
   "version": "152.0"
 }
