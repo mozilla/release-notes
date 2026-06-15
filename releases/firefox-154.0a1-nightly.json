@@ -19,6 +19,18 @@
       "tag": "New"
     },
     {
+      "bug": 1996422,
+      "created": "2026-05-21T08:23:00.349112+00:00",
+      "id": 791742,
+      "is_public": true,
+      "modified": "2026-06-15T10:07:25.386342+00:00",
+      "note": "Starting with Firefox 153, share any open page with a QR code. Right-click a tab, select Share > Generate QR Code. Great for posters, invitations, banners, and other printed materials. On macOS, you can also right-click the address bar to access the Share menu.\r\n\r\n\r\n<img src=\"https://www.firefox.com/media/img/firefox/releasenotes/note-images/143_QR_code_nightly_updated.png\" alt=\"Screenshot of a QR code generated for a page\">",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 2038939,
       "created": "2026-05-17T19:51:55.311262+00:00",
       "id": 791729,
