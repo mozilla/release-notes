@@ -41,6 +41,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "HTML5"
+    },
+    {
+      "bug": 2047437,
+      "created": "2026-06-16T20:55:25.146675+00:00",
+      "id": 791828,
+      "is_public": true,
+      "modified": "2026-06-16T20:55:25.879930+00:00",
+      "note": "Starting with Firefox 154, Firefox Nightly now supports the `alpha()` CSS function. This is a relative color function that can be used to modify just the alpha component of a given color.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
     }
   ],
   "product": "Firefox",
