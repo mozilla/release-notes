@@ -1,0 +1,53 @@
+{
+  "bug_list": "",
+  "bug_search_url": "",
+  "channel": "Release",
+  "created": "2026-06-18T02:32:13.906210+00:00",
+  "is_public": false,
+  "modified": "2026-06-18T02:33:43.342819+00:00",
+  "notes": [
+    {
+      "bug": null,
+      "created": "2026-06-18T02:33:23.677132+00:00",
+      "id": 791830,
+      "is_public": true,
+      "modified": "2026-06-18T02:33:40.113522+00:00",
+      "note": "Reference link to [152.0 release notes][1].\r\n\r\n\r\n  [1]: https://www.firefox.com/firefox/152.0/releasenotes/",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": ""
+    },
+    {
+      "bug": 2039575,
+      "created": "2026-06-18T02:36:58.580654+00:00",
+      "id": 791832,
+      "is_public": true,
+      "modified": "2026-06-18T02:36:59.040558+00:00",
+      "note": "Fixed frequent crashes affecting users with Intel Raptor Lake processors.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 20,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 2047850,
+      "created": "2026-06-18T02:37:37.037675+00:00",
+      "id": 791833,
+      "is_public": true,
+      "modified": "2026-06-18T02:38:38.114706+00:00",
+      "note": "Fixed an issue on macOS where choosing a PDF option, such as \"Save as PDF,\" from the system print dialog would send the job to your printer instead of saving a file.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 10,
+      "tag": "Fixed"
+    }
+  ],
+  "product": "Firefox",
+  "release_date": "2026-06-19",
+  "slug": "firefox-152.0.1-release",
+  "system_requirements": "## Windows\r\n\r\n### Operating Systems (32-bit and 64-bit)\r\n - Windows 10 or later\r\n\r\n### Recommended Hardware\r\n-  1 gigahertz (GHz) or faster compatible processor or System on a Chip (SoC)\r\n-  1GB of RAM / 2GB of RAM for the 64-bit version\r\n-  500MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- macOS 10.15 or later \r\n\r\n### Recommended Hardware\r\n- Macintosh computer with an Intel x86 or Apple silicon processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - glibc 2.17 or higher (glibc 2.28 or higher on arm64)\r\n    - GTK+ 3.14 or higher\r\n    - libglib 2.42 or higher\r\n    - libstdc++ 4.8.1 or higher (libstdc++ 6.0 or higher on arm64)\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - DBus 1.0 or higher\r\n    - NetworkManager 0.7 or higher\r\n    - PulseAudio",
+  "text": "",
+  "title": "Firefox 152.0.1 Release",
+  "version": "152.0.1"
+}
