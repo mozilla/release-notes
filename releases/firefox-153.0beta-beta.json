@@ -259,6 +259,18 @@
       "tag": "HTML5"
     },
     {
+      "bug": 2037610,
+      "created": "2026-06-18T12:54:23.230647+00:00",
+      "id": 791834,
+      "is_public": true,
+      "modified": "2026-06-18T12:54:23.981135+00:00",
+      "note": "The `MediaCapabilities.decodingInfo()` and `MediaCapabilities.encodingInfo()` methods now accept the \"webrtc\" configuration type. This allows a site to query whether a given audio or video configuration can be decoded or encoded for WebRTC and whether doing so will be smooth and/or powerEfficient.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
       "bug": 2016688,
       "created": "2026-05-22T12:34:29.769591+00:00",
       "id": 791745,

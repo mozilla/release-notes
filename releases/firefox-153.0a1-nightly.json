@@ -343,6 +343,30 @@
       "tag": "HTML5"
     },
     {
+      "bug": null,
+      "created": "2026-06-18T12:59:57.332562+00:00",
+      "id": 791835,
+      "is_public": true,
+      "modified": "2026-06-18T12:59:58.001681+00:00",
+      "note": "Starting with Firefox 153, Firefox Nightly now supports the sibling-index() and sibling-count() CSS functions. These functions allow an element to be styled with calculations that use its index among its siblings and its total count of siblings (including itself), respectively. [Documentation][1].\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Values/sibling-index",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 2046153,
+      "created": "2026-06-18T13:05:43.567679+00:00",
+      "id": 791836,
+      "is_public": true,
+      "modified": "2026-06-18T13:07:02.191273+00:00",
+      "note": "Starting with Firefox 153, Firefox Nightly ships an [experimental implementation][1] of the `link-parameters` property by Tyler Thrailkill.\r\n\r\n\r\n  [1]: https://drafts.csswg.org/css-link-params-1/",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
       "bug": 2022844,
       "created": "2026-04-16T13:06:26.315585+00:00",
       "id": 791611,
