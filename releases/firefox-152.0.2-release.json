@@ -17,6 +17,54 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": ""
+    },
+    {
+      "bug": 2047983,
+      "created": "2026-06-21T18:30:56.996109+00:00",
+      "id": 791839,
+      "is_public": true,
+      "modified": "2026-06-21T18:30:56.995966+00:00",
+      "note": "Fixed some Settings headers displaying raw text like `{pane-languages-title2}` instead of the translated heading. ([Bug 2047983][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=2047983",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 40,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 2046945,
+      "created": "2026-06-21T18:32:46.797076+00:00",
+      "id": 791840,
+      "is_public": true,
+      "modified": "2026-06-21T18:32:47.300020+00:00",
+      "note": "Fixed New Tab content not matching the browser's display language after switching languages. ([Bug 2046945][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=2046945",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 30,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 2047467,
+      "created": "2026-06-21T18:34:16.443741+00:00",
+      "id": 791841,
+      "is_public": true,
+      "modified": "2026-06-21T18:34:17.852930+00:00",
+      "note": "Fixed a regression that could break playback of some MP4 video files. ([Bug 2047467][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=2047467",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 20,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 2046401,
+      "created": "2026-06-21T18:35:55.993206+00:00",
+      "id": 791842,
+      "is_public": true,
+      "modified": "2026-06-21T18:35:56.370616+00:00",
+      "note": "Fixed a performance regression affecting concurrent Web Crypto operations on sites such as Proton Drive. ([Bug 2046401][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=2046401",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 10,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",

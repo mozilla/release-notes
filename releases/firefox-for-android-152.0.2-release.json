@@ -7,6 +7,18 @@
   "modified": "2026-06-21T18:01:53.310778+00:00",
   "notes": [
     {
+      "bug": 2041089,
+      "created": "2026-06-21T18:37:33.365736+00:00",
+      "id": 791843,
+      "is_public": true,
+      "modified": "2026-06-21T18:37:33.848814+00:00",
+      "note": "Tab groups can now be long-pressed to start a multi-selection in both list and grid views. ([Bug 2041089][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=2041089",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 10,
+      "tag": "New"
+    },
+    {
       "bug": null,
       "created": "2026-06-21T18:01:59.551528+00:00",
       "id": 791838,
@@ -17,6 +29,42 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": ""
+    },
+    {
+      "bug": 2048993,
+      "created": "2026-06-21T18:45:22.920546+00:00",
+      "id": 791844,
+      "is_public": true,
+      "modified": "2026-06-21T18:45:22.920449+00:00",
+      "note": "Fixed an issue where Shake to Summarize was missing from AI Controls and could still be offered even after AI features were turned off. ([Bug 2048993][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=2048993",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 30,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 2047467,
+      "created": "2026-06-21T18:34:16.443741+00:00",
+      "id": 791841,
+      "is_public": true,
+      "modified": "2026-06-21T18:34:17.852930+00:00",
+      "note": "Fixed a regression that could break playback of some MP4 video files. ([Bug 2047467][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=2047467",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 20,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 2045094,
+      "created": "2026-06-21T18:46:35.891951+00:00",
+      "id": 791845,
+      "is_public": true,
+      "modified": "2026-06-21T18:46:36.347013+00:00",
+      "note": "Fixed an issue where a newly created tab group could fail to appear in the tab manager. ([Bug 2045094][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=2045094",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 10,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox for Android",
