@@ -65,6 +65,30 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "HTML5"
+    },
+    {
+      "bug": 1726107,
+      "created": "2026-06-23T15:14:47.957103+00:00",
+      "id": 791846,
+      "is_public": true,
+      "modified": "2026-06-23T15:14:48.721906+00:00",
+      "note": "Added a time picker user interface to `<input type=\"time\">` and `<input type=\"datetime-local\">,` making selecting a time more accessible and intuitive.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 2047015,
+      "created": "2026-06-23T15:16:25.133788+00:00",
+      "id": 791847,
+      "is_public": true,
+      "modified": "2026-06-23T15:16:45.614334+00:00",
+      "note": "Starting with Firefox 154, Firefox Nightly now supports the `progress()` CSS function. This is a math function that can be used in calculations to compute the position of a value relative to a start and an end.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
     }
   ],
   "product": "Firefox",
