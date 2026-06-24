@@ -101,6 +101,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "HTML5"
+    },
+    {
+      "bug": 1850288,
+      "created": "2026-06-24T17:11:44.650254+00:00",
+      "id": 791849,
+      "is_public": true,
+      "modified": "2026-06-24T17:11:45.292762+00:00",
+      "note": "The JSON Viewer now shows a breadcrumb path at the bottom for the selected entry.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Developer"
     }
   ],
   "product": "Firefox",
