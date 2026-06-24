@@ -89,6 +89,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "HTML5"
+    },
+    {
+      "bug": 2040074,
+      "created": "2026-06-24T07:38:21.539272+00:00",
+      "id": 791848,
+      "is_public": true,
+      "modified": "2026-06-24T07:38:22.316452+00:00",
+      "note": "Starting with Firefox 153, Nightly builds support the new J[PEG XL image format][1], which generally has better compression than WebP, JPEG, PNG and GIF and is designed to supersede them.\r\n\r\n\r\n  [1]: https://jpegxl.info/",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
     }
   ],
   "product": "Firefox",
