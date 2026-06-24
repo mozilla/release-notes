@@ -65,6 +65,18 @@
       "relevant_countries": [],
       "sort_num": 10,
       "tag": "Fixed"
+    },
+    {
+      "bug": 2049845,
+      "created": "2026-06-24T21:34:32.952562+00:00",
+      "id": 791850,
+      "is_public": true,
+      "modified": "2026-06-24T21:42:30.064676+00:00",
+      "note": "Some users with a language pack installed may experience high memory usage and an unresponsive browser on startup. ([Bug 2049845][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=2049845",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Known"
     }
   ],
   "product": "Firefox",
