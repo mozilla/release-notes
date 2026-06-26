@@ -31,6 +31,18 @@
       "tag": "New"
     },
     {
+      "bug": 2049301,
+      "created": "2026-06-26T12:06:13.656479+00:00",
+      "id": 791857,
+      "is_public": true,
+      "modified": "2026-06-26T12:06:14.256558+00:00",
+      "note": "Video seeking is now significantly faster on macOS, making scrubbing and jumping to a point in a video much more responsive.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
       "bug": 2038939,
       "created": "2026-05-17T19:51:55.311262+00:00",
       "id": 791729,
