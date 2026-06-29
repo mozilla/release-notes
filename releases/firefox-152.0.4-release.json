@@ -43,6 +43,18 @@
       "tag": ""
     },
     {
+      "bug": 2040769,
+      "created": "2026-06-29T21:45:23.444307+00:00",
+      "id": 791871,
+      "is_public": true,
+      "modified": "2026-06-29T21:45:23.935138+00:00",
+      "note": "You can now ask [Smart Window][1] to close your tabs, with a confirmation step when needed and the option to undo afterward. ([Bug 2040769][2])\r\n\r\n\r\n  [1]: https://www.firefox.com/smart-window\r\n  [2]: https://bugzilla.mozilla.org/show_bug.cgi?id=2049307",
+      "progressive_rollout": true,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 2040851,
       "created": "2026-06-29T20:40:26.448307+00:00",
       "id": 791867,
