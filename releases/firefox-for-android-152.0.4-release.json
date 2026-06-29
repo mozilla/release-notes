@@ -1,0 +1,53 @@
+{
+  "bug_list": "",
+  "bug_search_url": "",
+  "channel": "Release",
+  "created": "2026-06-29T20:24:46.213384+00:00",
+  "is_public": false,
+  "modified": "2026-06-29T20:25:06.002124+00:00",
+  "notes": [
+    {
+      "bug": null,
+      "created": "2026-06-29T20:25:43.835062+00:00",
+      "id": 791861,
+      "is_public": true,
+      "modified": "2026-06-29T20:25:56.172254+00:00",
+      "note": "Reference link to [152.0.2 release notes][1].\r\n\r\n\r\n  [1]: https://www.firefox.com/firefox/android/152.0.2/releasenotes/",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": ""
+    },
+    {
+      "bug": 2049564,
+      "created": "2026-06-29T20:32:25.093177+00:00",
+      "id": 791864,
+      "is_public": true,
+      "modified": "2026-06-29T20:32:25.473109+00:00",
+      "note": "The home screen no longer shows the \"You're protected\" tracking message until Firefox has blocked trackers. ([Bug 2049564][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=2049564",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
+      "bug": 2037701,
+      "created": "2026-06-29T20:29:47.833579+00:00",
+      "id": 791863,
+      "is_public": true,
+      "modified": "2026-06-29T20:32:50.241539+00:00",
+      "note": "Fixed an overly sensitive toolbar swipe gesture that could unexpectedly open the tabs tray while scrolling or swiping in content and search results. ([Bug 2037701][1], [Bug 2046696][2])\r\n\r\n\r\n  [1]: http://%20https://bugzilla.mozilla.org/show_bug.cgi?id=2037701\r\n  [2]: https://bugzilla.mozilla.org/show_bug.cgi?id=2046696",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 10,
+      "tag": "Fixed"
+    }
+  ],
+  "product": "Firefox for Android",
+  "release_date": "2026-06-30",
+  "slug": "firefox-for-android-152.0.4-release",
+  "system_requirements": "## Operating systems\r\n - Android 8.0 or newer",
+  "text": "Thanks for using Firefox! Have feedback or suggestions? Join the conversation on [Mozilla Connect][1]. Need help? Our volunteer support community has you covered on [Mozilla Support][2] \r\n\r\n[1]: https://connect.mozilla.org/\r\n[2]: https://mzl.la/AndroidSupport",
+  "title": "Firefox for Android 152.0.4 Release",
+  "version": "152.0.4"
+}
