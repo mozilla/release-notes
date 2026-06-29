@@ -31,6 +31,18 @@
       "tag": "New"
     },
     {
+      "bug": 2040450,
+      "created": "2026-06-29T12:36:49.435898+00:00",
+      "id": 791858,
+      "is_public": true,
+      "modified": "2026-06-29T12:38:25.181604+00:00",
+      "note": "Starting with Firefox 154, Firefox Nightly now supports QUIC version 2 ([RFC 9369][1]) for HTTP/3 connections. Firefox offers both QUIC v1 and v2 using compatible version negotiation ([RFC 9368][2]). The server selects which version is used, so connections upgrade to QUIC v2 when the server chooses it and remain on QUIC v1 otherwise.\r\n\r\n\r\n\r\n\r\n  [1]: https://www.rfc-editor.org/rfc/rfc9369\r\n  [2]: https://www.rfc-editor.org/rfc/rfc9368",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 2049301,
       "created": "2026-06-26T12:06:13.656479+00:00",
       "id": 791857,
@@ -133,6 +145,30 @@
       "is_public": true,
       "modified": "2026-06-25T19:40:23.202910+00:00",
       "note": "Firefox now supports the [sibling-index()][1] and [sibling-count()][2] CSS functions. These functions allow an element to be styled with calculations that use its index among its siblings and its total count of siblings (including itself), respectively.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/CSS/Reference/Values/sibling-index\r\n  [2]: https://developer.mozilla.org/docs/Web/CSS/Reference/Values/sibling-count",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 2050138,
+      "created": "2026-06-29T12:42:22.869207+00:00",
+      "id": 791859,
+      "is_public": true,
+      "modified": "2026-06-29T12:43:02.752345+00:00",
+      "note": "Starting with Firefox 154, Firefox Nightly now supports the [text-box-trim][1] and [text-box-edge][2] CSS properties, and the associated [text-box][3] shorthand. These properties allow you to control the leading space above and below text, enabling simpler and consistent vertical spacing and alignment.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/text-box-trim\r\n  [2]: https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/text-box-edge\r\n  [3]: https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/text-box",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 2047995,
+      "created": "2026-06-29T12:49:16.245414+00:00",
+      "id": 791860,
+      "is_public": true,
+      "modified": "2026-06-29T12:49:17.032272+00:00",
+      "note": "Firefox now supports the [Iterator.prototype.join][1] method that allows joining an iterator into a string, similar to Array.prototype.join.\r\n\r\n\r\n  [1]: https://github.com/tc39/proposal-iterator-join",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
