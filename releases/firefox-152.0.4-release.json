@@ -11,23 +11,11 @@
       "created": "2026-06-29T20:35:50.448830+00:00",
       "id": 791865,
       "is_public": true,
-      "modified": "2026-06-29T20:37:36.857687+00:00",
-      "note": "When you give feedback on a [Smart Window][1] response, you can now choose from common reasons and preview exactly what will be shared before submitting. ([Bug 2033002][2])\r\n\r\n\r\n  [1]: https://www.firefox.com/smart-window\r\n  [2]: https://bugzilla.mozilla.org/show_bug.cgi?id=2033002",
+      "modified": "2026-06-29T22:14:16.890375+00:00",
+      "note": "[Smart Window][1] includes several enhancements:\r\n\r\n - You can now ask it to close your tabs, with a confirmation step when needed and the option to undo afterward. ([Bug 2040769][2])\r\n - Browsing history results now appear with images. ([Bug 2038069][3])\r\n - When you give feedback on a response, you can now choose from common reasons and preview exactly what will be shared before submitting. ([Bug 2033002][4])\r\n\r\n\r\n  [1]: https://www.firefox.com/smart-window\r\n  [2]: https://bugzilla.mozilla.org/show_bug.cgi?id=2040769\r\n  [3]: https://bugzilla.mozilla.org/show_bug.cgi?id=2038069\r\n  [4]: https://bugzilla.mozilla.org/show_bug.cgi?id=2033002",
       "progressive_rollout": true,
       "relevant_countries": [],
       "sort_num": 20,
-      "tag": "New"
-    },
-    {
-      "bug": 2038069,
-      "created": "2026-06-29T20:36:57.476250+00:00",
-      "id": 791866,
-      "is_public": true,
-      "modified": "2026-06-29T20:37:45.486033+00:00",
-      "note": "[Smart Window][1] now shows images alongside browsing history results. ([Bug 2038069][2])\r\n\r\n\r\n  [1]: https://www.firefox.com/smart-window\r\n  [2]: https://bugzilla.mozilla.org/show_bug.cgi?id=2038069",
-      "progressive_rollout": true,
-      "relevant_countries": [],
-      "sort_num": 10,
       "tag": "New"
     },
     {
@@ -41,18 +29,6 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": ""
-    },
-    {
-      "bug": 2040769,
-      "created": "2026-06-29T21:45:23.444307+00:00",
-      "id": 791871,
-      "is_public": true,
-      "modified": "2026-06-29T21:57:56.384625+00:00",
-      "note": "You can now ask [Smart Window][1] to close your tabs, with a confirmation step when needed and the option to undo afterward. ([Bug 2040769][2])\r\n\r\n\r\n  [1]: https://www.firefox.com/smart-window\r\n  [2]: https://bugzilla.mozilla.org/show_bug.cgi?id=2040769",
-      "progressive_rollout": true,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "New"
     },
     {
       "bug": 2040851,
