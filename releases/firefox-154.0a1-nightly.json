@@ -43,6 +43,18 @@
       "tag": "New"
     },
     {
+      "bug": 2042339,
+      "created": "2026-07-02T22:21:07.783035+00:00",
+      "id": 791874,
+      "is_public": true,
+      "modified": "2026-07-02T22:21:08.255846+00:00",
+      "note": "Firefox's Local Network Access protections now extends to WebSocket connections. Websites that try to open a WebSocket to a device on your local network will now ask for your permission first",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 2049301,
       "created": "2026-06-26T12:06:13.656479+00:00",
       "id": 791857,
@@ -181,6 +193,18 @@
       "is_public": true,
       "modified": "2026-07-02T12:53:58.023529+00:00",
       "note": "Starting with Firefox 154, Firefox Nightly now supports the [CSS Typed Object Model API (Typed OM)][1]. This API allows web applications and other Web Platform features to work with CSS values through typed JavaScript objects instead of strings.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/API/CSS_Typed_OM_API",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 2038013,
+      "created": "2026-07-02T22:16:36.370950+00:00",
+      "id": 791873,
+      "is_public": true,
+      "modified": "2026-07-02T22:16:36.782212+00:00",
+      "note": "Added support for the [No-Vary-Search][1] HTTP response header for the HTTP disk cache. Servers can now declare which URL query parameters are irrelevant to the response, allowing Firefox to reuse cached resources across parameter variations and improving cache hit rates.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/HTTP/Reference/Headers/No-Vary-Search",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
