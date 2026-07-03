@@ -17,6 +17,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": ""
+    },
+    {
+      "bug": 2048383,
+      "created": "2026-07-03T17:02:29.775893+00:00",
+      "id": 791877,
+      "is_public": true,
+      "modified": "2026-07-03T17:02:30.227105+00:00",
+      "note": "Fixed the Manage payment methods list in Settings appearing empty when a saved payment card had no expiration date. ([Bug 2048383][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=2048383",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",

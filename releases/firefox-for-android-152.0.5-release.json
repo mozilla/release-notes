@@ -17,6 +17,30 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": ""
+    },
+    {
+      "bug": 2051041,
+      "created": "2026-07-03T17:05:51.105528+00:00",
+      "id": 791878,
+      "is_public": true,
+      "modified": "2026-07-03T17:05:51.609253+00:00",
+      "note": "Fixed \"Remove from download history\" also deleting the downloaded file from the device. [(Bug 2051041)][1]\r\n[1]: https://bugzilla.mozilla.org/show_bug.cgi?id=2051041",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 2049750,
+      "created": "2026-07-03T17:07:22.611962+00:00",
+      "id": 791879,
+      "is_public": true,
+      "modified": "2026-07-03T17:07:23.062862+00:00",
+      "note": "Fixed the tab strip in the toolbar becoming unresponsive to horizontal swipes when the \"Swipe toolbar to open tabs\" gesture was enabled. [(Bug 2049750)][1] \r\n\r\n[1]: https://bugzilla.mozilla.org/show_bug.cgi?id=2049750",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox for Android",
