@@ -55,6 +55,30 @@
       "tag": "New"
     },
     {
+      "bug": 1975878,
+      "created": "2026-07-06T12:37:55.455569+00:00",
+      "id": 791880,
+      "is_public": true,
+      "modified": "2026-07-06T12:38:32.427316+00:00",
+      "note": "In [Firefox for Android][1], improved the reliability of automatic translations for users with multiple languages selected in system settings.\r\n\r\n\r\n  [1]: https://play.google.com/store/apps/details?id=org.mozilla.fenix",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 2038834,
+      "created": "2026-07-06T12:40:19.334626+00:00",
+      "id": 791881,
+      "is_public": true,
+      "modified": "2026-07-06T12:40:19.871461+00:00",
+      "note": "The address bar now includes a \"Manage AI\" [quick action][1] that opens the AI section of Settings.\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/quick-actions-firefox-search-bar",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 2049301,
       "created": "2026-06-26T12:06:13.656479+00:00",
       "id": 791857,
