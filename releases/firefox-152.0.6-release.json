@@ -1,0 +1,89 @@
+{
+  "bug_list": "",
+  "bug_search_url": "",
+  "channel": "Release",
+  "created": "2026-07-13T18:24:17.808095+00:00",
+  "is_public": false,
+  "modified": "2026-07-13T18:24:40.821773+00:00",
+  "notes": [
+    {
+      "bug": 2034921,
+      "created": "2026-07-13T18:33:34.565600+00:00",
+      "id": 791887,
+      "is_public": true,
+      "modified": "2026-07-13T18:36:33.591196+00:00",
+      "note": "[Smart Window][1] includes several enhancements:\r\n\r\n - Smart Cursor was enabled, allowing users to select text on a page to summarize, explain, or take other actions in the built-in assistant. ([Bug 2034921][2])\r\n - The built-in assistant now shows a row of shortcuts for quick access to your sites. ([Bug 2048338][3])\r\n\r\n\r\n  [1]: https://www.firefox.com/smart-window\r\n  [2]: https://bugzilla.mozilla.org/show_bug.cgi?id=2034921\r\n  [3]: https://bugzilla.mozilla.org/show_bug.cgi?id=2048338",
+      "progressive_rollout": true,
+      "relevant_countries": [],
+      "sort_num": 20,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2026-07-13T18:24:45.769160+00:00",
+      "id": 791884,
+      "is_public": true,
+      "modified": "2026-07-13T18:25:17.459305+00:00",
+      "note": "Reference link to [152.0.5 release notes][1].\r\n\r\n\r\n  [1]: https://www.firefox.com/firefox/152.0.5/releasenotes/",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": ""
+    },
+    {
+      "bug": 2049331,
+      "created": "2026-07-13T18:39:37.412162+00:00",
+      "id": 791888,
+      "is_public": true,
+      "modified": "2026-07-13T18:39:37.412051+00:00",
+      "note": "Fixed users being unable to disable email tracking protection in the redesigned settings UI. ([Bug 2049331][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=2049331",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 30,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 2053177,
+      "created": "2026-07-13T18:41:11.865946+00:00",
+      "id": 791889,
+      "is_public": true,
+      "modified": "2026-07-13T18:41:12.313465+00:00",
+      "note": "Fixed intermittent hangs when opening a file picker dialog on macOS 26. ([Bug 2053177][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=2053177",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 20,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 2047962,
+      "created": "2026-07-13T18:43:38.602499+00:00",
+      "id": 791890,
+      "is_public": true,
+      "modified": "2026-07-13T18:43:38.972259+00:00",
+      "note": "Fixed the `browser.startup.homepage` preference not being properly set in some enterprise configurations. ([Bug 2047962][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=2047962",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 10,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2026-07-13T18:27:33.311259+00:00",
+      "id": 791886,
+      "is_public": true,
+      "modified": "2026-07-13T18:27:53.689277+00:00",
+      "note": "Various [security fixes][1].\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/mfsa2026-67",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
+    }
+  ],
+  "product": "Firefox",
+  "release_date": "2026-07-14",
+  "slug": "firefox-152.0.6-release",
+  "system_requirements": "## Windows\r\n\r\n### Operating Systems (32-bit and 64-bit)\r\n - Windows 10 or later\r\n\r\n### Recommended Hardware\r\n-  1 gigahertz (GHz) or faster compatible processor or System on a Chip (SoC)\r\n-  1GB of RAM / 2GB of RAM for the 64-bit version\r\n-  500MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- macOS 10.15 or later \r\n\r\n### Recommended Hardware\r\n- Macintosh computer with an Intel x86 or Apple silicon processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - glibc 2.17 or higher (glibc 2.28 or higher on arm64)\r\n    - GTK+ 3.14 or higher\r\n    - libglib 2.42 or higher\r\n    - libstdc++ 4.8.1 or higher (libstdc++ 6.0 or higher on arm64)\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - DBus 1.0 or higher\r\n    - NetworkManager 0.7 or higher\r\n    - PulseAudio",
+  "text": "",
+  "title": "Firefox 152.0.6 Release",
+  "version": "152.0.6"
+}

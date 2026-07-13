@@ -1,0 +1,41 @@
+{
+  "bug_list": "",
+  "bug_search_url": "",
+  "channel": "Release",
+  "created": "2026-07-13T18:24:17.780690+00:00",
+  "is_public": false,
+  "modified": "2026-07-13T18:24:30.831484+00:00",
+  "notes": [
+    {
+      "bug": null,
+      "created": "2026-07-13T18:24:54.604291+00:00",
+      "id": 791885,
+      "is_public": true,
+      "modified": "2026-07-13T18:25:07.344311+00:00",
+      "note": "Reference link to [152.0.5 release notes][1].\r\n\r\n\r\n  [1]: https://www.firefox.com/firefox/android/152.0.5/releasenotes/",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": ""
+    },
+    {
+      "bug": null,
+      "created": "2026-07-13T18:27:33.311259+00:00",
+      "id": 791886,
+      "is_public": true,
+      "modified": "2026-07-13T18:27:53.689277+00:00",
+      "note": "Various [security fixes][1].\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/mfsa2026-67",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
+    }
+  ],
+  "product": "Firefox for Android",
+  "release_date": "2026-07-14",
+  "slug": "firefox-for-android-152.0.6-release",
+  "system_requirements": "## Operating systems\r\n - Android 8.0 or newer",
+  "text": "Thanks for using Firefox! Have feedback or suggestions? Join the conversation on [Mozilla Connect][1]. Need help? Our volunteer support community has you covered on [Mozilla Support][2] \r\n\r\n[1]: https://connect.mozilla.org/\r\n[2]: https://mzl.la/AndroidSupport",
+  "title": "Firefox for Android 152.0.6 Release",
+  "version": "152.0.6"
+}
