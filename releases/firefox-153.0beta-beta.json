@@ -127,6 +127,18 @@
       "tag": "New"
     },
     {
+      "bug": 2053060,
+      "created": "2026-07-14T12:38:50.076351+00:00",
+      "id": 791891,
+      "is_public": true,
+      "modified": "2026-07-14T12:38:50.927416+00:00",
+      "note": "This release of Containers in Firefox version 153 lets you keep separate parts of your online life (work, shopping, personal, banking) logged into different accounts in the same browser window, but keeps your cookies and ad tracking isolated inside each container.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1879559,
       "created": "2026-05-26T11:46:38.125310+00:00",
       "id": 791761,
