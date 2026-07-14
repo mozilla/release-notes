@@ -163,6 +163,30 @@
       "tag": "Changed"
     },
     {
+      "bug": 2033733,
+      "created": "2026-07-14T14:05:15.267975+00:00",
+      "id": 791893,
+      "is_public": true,
+      "modified": "2026-07-14T14:05:15.931343+00:00",
+      "note": "Local Network Access restrictions are now enabled by default for all users. Firefox requires websites to request permission before connecting to devices on your local network or to apps and services on your device. This protection was previously rolled out gradually via a staged rollout; it is now enabled by default across the general release population.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
+      "bug": 2040361,
+      "created": "2026-07-14T14:08:15.076386+00:00",
+      "id": 791894,
+      "is_public": true,
+      "modified": "2026-07-14T14:08:15.555335+00:00",
+      "note": "Outdated cookie settings have been removed from the Settings UI. Users still in that mode should switch to default behavior \"Isolate cross-site cookies\". [More information][1]\r\n\r\n\r\n  [1]: https://groups.google.com/a/mozilla.org/g/firefox-dev/c/dXvMLkzyFqM",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
       "bug": 2038877,
       "created": "2026-05-13T01:56:36.924178+00:00",
       "id": 791707,
@@ -281,6 +305,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "HTML5"
+    },
+    {
+      "bug": 2031717,
+      "created": "2026-07-14T14:03:54.969185+00:00",
+      "id": 791892,
+      "is_public": true,
+      "modified": "2026-07-14T14:03:55.628461+00:00",
+      "note": "**Developer Tools \"Local Mode\":** A new \"Local Mode\" setting in the options panel allows developers to load local directories via custom origins. This simplifies testing for APIs that do not function over standard `file://` URLs, removing the need to run a local web server. Multiple directory mappings are supported.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
       "bug": 2016688,
