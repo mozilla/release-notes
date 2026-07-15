@@ -4,7 +4,7 @@
   "channel": "Nightly",
   "created": "2026-06-12T14:31:54.213044+00:00",
   "is_public": true,
-  "modified": "2026-06-25T19:46:15.555037+00:00",
+  "modified": "2026-07-15T19:34:47.346304+00:00",
   "notes": [
     {
       "bug": 2032547,
@@ -199,18 +199,6 @@
       "tag": "HTML5"
     },
     {
-      "bug": 2050138,
-      "created": "2026-06-29T12:42:22.869207+00:00",
-      "id": 791859,
-      "is_public": true,
-      "modified": "2026-06-29T12:43:02.752345+00:00",
-      "note": "Starting with Firefox 154, Firefox Nightly now supports the [text-box-trim][1] and [text-box-edge][2] CSS properties, and the associated [text-box][3] shorthand. These properties allow you to control the leading space above and below text, enabling simpler and consistent vertical spacing and alignment.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/text-box-trim\r\n  [2]: https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/text-box-edge\r\n  [3]: https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/text-box",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "HTML5"
-    },
-    {
       "bug": 2047995,
       "created": "2026-06-29T12:49:16.245414+00:00",
       "id": 791860,
@@ -253,6 +241,18 @@
       "is_public": true,
       "modified": "2026-07-06T15:08:43.039336+00:00",
       "note": "Firefox now supports new [Iterator.prototype.chunks][1] and Iterator.prototype.windows methods that allow consuming an iterator as either overlapping or non-overlapping subsequences of configurable size.\r\n\r\n\r\n  [1]: https://github.com/tc39/proposal-iterator-chunking",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 2050141,
+      "created": "2026-07-15T19:32:56.282661+00:00",
+      "id": 791895,
+      "is_public": true,
+      "modified": "2026-07-15T19:32:56.282457+00:00",
+      "note": "Firefox now supports the `text-box-trim` and `text-box-edge` CSS properties, and the associated `text-box` shorthand. These properties allow you to control the leading space above and below text, enabling simpler and consistent vertical spacing and alignment.",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
