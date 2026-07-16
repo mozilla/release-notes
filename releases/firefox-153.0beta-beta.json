@@ -7,18 +7,6 @@
   "modified": "2026-06-17T16:36:58.897603+00:00",
   "notes": [
     {
-      "bug": 2025322,
-      "created": "2026-05-06T17:46:39.007825+00:00",
-      "id": 791666,
-      "is_public": true,
-      "modified": "2026-06-15T10:20:43.221537+00:00",
-      "note": "High dynamic range video is now supported in Firefox on Windows 10 and 11 for HDR displays connected to AMD and NVIDIA GPUs (notably this excludes Intel+NVIDIA laptops for now), work is underway to enable this feature on more GPU vendors. To use this feature you must ensure that HDR mode is enabled for the relevant displays in Windows Settings - Display. HDR videos may appear brighter in Firefox than in other browsers, which will be improved in a future release, as well as optimizations for performance.",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
       "bug": 1748950,
       "created": "2026-05-19T11:17:32.946333+00:00",
       "id": 791730,
@@ -133,6 +121,18 @@
       "is_public": true,
       "modified": "2026-07-14T12:38:50.927416+00:00",
       "note": "This release of Containers in Firefox version 153 lets you keep separate parts of your online life (work, shopping, personal, banking) logged into different accounts in the same browser window, but keeps your cookies and ad tracking isolated inside each container.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 2012848,
+      "created": "2026-07-16T17:01:10.667304+00:00",
+      "id": 791896,
+      "is_public": true,
+      "modified": "2026-07-16T17:01:11.486450+00:00",
+      "note": "HDR video playback is now available on Windows (in addition to existing macOS support) - this feature needs HDR mode enabled for the display in *Windows Settings - Display*. Laptop displays that only offer \"HDR video streaming\" are not supported at this time. Some videos recorded on phones in certain orientations are currently not shown as HDR at this time.",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
