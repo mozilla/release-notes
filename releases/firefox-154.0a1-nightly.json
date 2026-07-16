@@ -7,6 +7,18 @@
   "modified": "2026-07-15T19:34:47.346304+00:00",
   "notes": [
     {
+      "bug": 2031718,
+      "created": "2026-07-16T19:28:06.210907+00:00",
+      "id": 791898,
+      "is_public": true,
+      "modified": "2026-07-16T19:28:06.800008+00:00",
+      "note": "Starting with Firefox 154, We\u2019re testing a simpler tab context menu in Firefox Labs. Turn it on in *Settings > Firefox Labs > Streamline tab menu* and tell us what you think on [Mozilla Connect][1].\r\n\r\n\r\n  [1]: https://connect.mozilla.org/t5/discussions/try-streamlined-tab-menu-in-nightly-firefox-labs-154/td-p/131285",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 50,
+      "tag": "New"
+    },
+    {
       "bug": 2032547,
       "created": "2026-04-29T19:24:17.505359+00:00",
       "id": 791648,
@@ -73,6 +85,18 @@
       "is_public": true,
       "modified": "2026-07-16T17:50:26.545441+00:00",
       "note": "The address bar now includes a \"Manage AI\" [quick action][1] that opens the AI section of Settings.\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/quick-actions-firefox-search-bar",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 2053546,
+      "created": "2026-07-16T19:24:13.415503+00:00",
+      "id": 791897,
+      "is_public": true,
+      "modified": "2026-07-16T19:25:45.198546+00:00",
+      "note": "Firefox now gives Windows users the ability to change their default browser icon in Settings (except for MSIX installs). Support for MSIX installs, macOS and Linux is coming soon.",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,

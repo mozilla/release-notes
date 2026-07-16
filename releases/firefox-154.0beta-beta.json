@@ -55,6 +55,18 @@
       "tag": "New"
     },
     {
+      "bug": 2053546,
+      "created": "2026-07-16T19:24:13.415503+00:00",
+      "id": 791897,
+      "is_public": true,
+      "modified": "2026-07-16T19:25:45.198546+00:00",
+      "note": "Firefox now gives Windows users the ability to change their default browser icon in Settings (except for MSIX installs). Support for MSIX installs, macOS and Linux is coming soon.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1879559,
       "created": "2026-05-26T11:46:38.125310+00:00",
       "id": 791761,
