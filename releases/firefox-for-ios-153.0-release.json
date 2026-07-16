@@ -1,0 +1,53 @@
+{
+  "bug_list": "",
+  "bug_search_url": "",
+  "channel": "Release",
+  "created": "2026-07-16T22:26:22.340817+00:00",
+  "is_public": false,
+  "modified": "2026-07-16T22:28:16.434646+00:00",
+  "notes": [
+    {
+      "bug": null,
+      "created": "2026-07-16T22:27:38.238968+00:00",
+      "id": 791899,
+      "is_public": true,
+      "modified": "2026-07-16T22:27:38.766240+00:00",
+      "note": "**Save passwords with confidence**: We've fixed password-saving issues and improved the experience when using saved passwords.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2026-07-16T22:27:56.385015+00:00",
+      "id": 791900,
+      "is_public": true,
+      "modified": "2026-07-16T22:27:57.040282+00:00",
+      "note": "**Smoother browsing**: Fixed homepage flickering, tab counter alignment and made other stability improvements.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2026-07-16T22:28:10.913425+00:00",
+      "id": 791901,
+      "is_public": true,
+      "modified": "2026-07-16T22:28:11.423235+00:00",
+      "note": "**Visual refinements**: Updated icons and other visual refinements throughout Firefox.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    }
+  ],
+  "product": "Firefox for iOS",
+  "release_date": "2026-07-21",
+  "slug": "firefox-for-ios-153.0-release",
+  "system_requirements": "## Operating systems\r\n - iOS 15\r\n - iOS 16\r\n - iOS 17\r\n - iOS 18\r\n - iOS 26",
+  "text": "Enjoying Firefox? Leave a review. Got ideas or feedback? Join the conversation on [Mozilla Connect][1]. Need help? Our volunteer support community has you covered on [Mozilla Support][2]\r\n\r\n[1]: https://connect.mozilla.org/\r\n[2]: https://mzl.la/iOSSupport",
+  "title": "Firefox for iOS 153.0 Release",
+  "version": "153.0"
+}
