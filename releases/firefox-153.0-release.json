@@ -5,7 +5,32 @@
   "created": "2026-07-15T16:47:08.479325+00:00",
   "is_public": false,
   "modified": "2026-07-15T16:47:59.285892+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": null,
+      "created": "2026-07-17T08:15:14.447530+00:00",
+      "id": 791907,
+      "is_public": true,
+      "modified": "2026-07-17T12:54:28.205805+00:00",
+      "note": "Various s[ecurity fixes][1].\r\n\r\n\r\n  [1]: https://www.mozilla.org/en-US/security/advisories/",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2026-07-17T13:12:23.197891+00:00",
+      "id": 791908,
+      "is_public": true,
+      "modified": "2026-07-17T13:12:23.976996+00:00",
+      "note": "With the release of Firefox 153, we are pleased to welcome the developers who contributed their first code change to Firefox in this release, 15 of whom were brand new volunteers! Please join us in thanking each of these diligent and enthusiastic individuals, and take a look at their contributions:\r\n\r\n* Alan Liu: <a href=\"https://bugzilla.mozilla.org/2009570\">2009570</a>\r\n* Dineth De SIlva: <a href=\"https://bugzilla.mozilla.org/2042443\">2042443</a>\r\n* Freya Arbjerg [:freyacodes]: <a href=\"https://bugzilla.mozilla.org/2036767\">2036767</a>\r\n* Garbee: <a href=\"https://bugzilla.mozilla.org/2045887\">2045887</a>\r\n* Jessica Foley: <a href=\"https://bugzilla.mozilla.org/2041062\">2041062</a>\r\n* John ARNZEN: <a href=\"https://bugzilla.mozilla.org/2046279\">2046279</a>\r\n* Max Emig [:maxe]: <a href=\"https://bugzilla.mozilla.org/230112\">230112</a>\r\n* metamuffin: <a href=\"https://bugzilla.mozilla.org/2045549\">2045549</a>\r\n* mtan: <a href=\"https://bugzilla.mozilla.org/2039500\">2039500</a>\r\n* ozcoder: <a href=\"https://bugzilla.mozilla.org/2020186\">2020186</a>\r\n* Pedram Yektamaram: <a href=\"https://bugzilla.mozilla.org/2042437\">2042437</a>, <a href=\"https://bugzilla.mozilla.org/2042438\">2042438</a>, <a href=\"https://bugzilla.mozilla.org/2042440\">2042440</a>, <a href=\"https://bugzilla.mozilla.org/2042441\">2042441</a>, <a href=\"https://bugzilla.mozilla.org/2042442\">2042442</a>\r\n* Peter Lafreniere [:n8pjl]: <a href=\"https://bugzilla.mozilla.org/2041463\">2041463</a>\r\n* Phone Khant Kyaw Swa: <a href=\"https://bugzilla.mozilla.org/2008877\">2008877</a>\r\n* pullmana8: <a href=\"https://bugzilla.mozilla.org/2031735\">2031735</a>\r\n* Ryan McCartney: <a href=\"https://bugzilla.mozilla.org/2039853\">2039853</a>",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Community"
+    }
+  ],
   "product": "Firefox",
   "release_date": "2026-07-21",
   "slug": "firefox-153.0-release",
