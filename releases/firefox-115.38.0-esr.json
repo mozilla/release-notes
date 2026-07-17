@@ -5,7 +5,20 @@
   "created": "2026-07-15T16:48:53.135273+00:00",
   "is_public": false,
   "modified": "2026-07-15T16:50:03.844414+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": null,
+      "created": "2026-07-17T14:44:53.520236+00:00",
+      "id": 791917,
+      "is_public": true,
+      "modified": "2026-07-17T14:44:54.243788+00:00",
+      "note": "Various [security fixes][1].\r\n\r\n\r\n  [1]: https://www.mozilla.org/en-US/security/advisories/",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
+    }
+  ],
   "product": "Firefox Extended Support Release",
   "release_date": "2026-07-21",
   "slug": "firefox-115.38.0-esr",

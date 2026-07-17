@@ -67,6 +67,18 @@
       "tag": "New"
     },
     {
+      "bug": 418144,
+      "created": "2026-07-17T14:24:44.703353+00:00",
+      "id": 791909,
+      "is_public": true,
+      "modified": "2026-07-17T14:24:45.333911+00:00",
+      "note": "Performing a hard reload on a page (holding Shift while clicking the Refresh button) now also clears and updates its cached favicons.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1879559,
       "created": "2026-05-26T11:46:38.125310+00:00",
       "id": 791761,
