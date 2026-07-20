@@ -31,18 +31,6 @@
       "tag": "New"
     },
     {
-      "bug": 2023169,
-      "created": "2026-05-21T08:45:51.348034+00:00",
-      "id": 791743,
-      "is_public": true,
-      "modified": "2026-07-20T09:24:30.502942+00:00",
-      "note": "Firefox Labs can now be opened quickly by typing \"labs\" or \"experiment\" in the address bar and selecting the _Open Firefox Labs_ quick action.\r\n\r\n<img src=\"https://www.firefox.com/media/img/firefox/releasenotes/note-images/153_labs_quickaction.png\" alt=\"Screenshot of the Firefox Labs quick action being triggered from the address bar\">",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 50,
-      "tag": "New"
-    },
-    {
       "bug": 1803575,
       "created": "2026-06-02T09:07:39.896681+00:00",
       "id": 791777,
@@ -107,8 +95,8 @@
       "created": "2026-05-19T11:17:32.946333+00:00",
       "id": 791730,
       "is_public": true,
-      "modified": "2026-07-20T07:55:33.545387+00:00",
-      "note": "Added support for Apple's system-wide full-screen keyboard command (Globe-F)",
+      "modified": "2026-07-20T13:16:43.683525+00:00",
+      "note": "Added support for Apple's system-wide full-screen keyboard command (Globe-F).",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
@@ -377,6 +365,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "Developer"
+    },
+    {
+      "bug": 2023169,
+      "created": "2026-05-21T08:45:51.348034+00:00",
+      "id": 791743,
+      "is_public": true,
+      "modified": "2026-07-20T13:13:44.142691+00:00",
+      "note": "Firefox Labs can now be opened quickly by typing \"labs\" or \"experiment\" in the address bar and selecting the _Open Firefox Labs_ quick action.\r\n\r\n<img src=\"https://www.firefox.com/media/img/firefox/releasenotes/note-images/153_labs_quickaction.png\" alt=\"Screenshot of the Firefox Labs quick action being triggered from the address bar\">",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 50,
+      "tag": "Labs"
     }
   ],
   "product": "Firefox",
