@@ -103,6 +103,18 @@
       "tag": "Changed"
     },
     {
+      "bug": 2046171,
+      "created": "2026-07-20T20:21:20.572574+00:00",
+      "id": 791934,
+      "is_public": true,
+      "modified": "2026-07-20T20:21:21.204151+00:00",
+      "note": "In [Firefox for Android][1], Bookmarks Search now shows up to 75 results per query, making it easier to find your bookmarks without refining your search.\r\n\r\n\r\n  [1]: https://play.google.com/store/apps/details?id=org.mozilla.fenix",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
       "bug": 1726107,
       "created": "2026-06-23T15:14:47.957103+00:00",
       "id": 791846,
