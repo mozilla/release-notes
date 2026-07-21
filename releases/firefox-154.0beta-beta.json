@@ -79,6 +79,18 @@
       "tag": "New"
     },
     {
+      "bug": 2033325,
+      "created": "2026-07-21T15:19:32.218674+00:00",
+      "id": 791936,
+      "is_public": true,
+      "modified": "2026-07-21T15:19:44.231461+00:00",
+      "note": "You can now backup your profile locally on macOS devices and restore that profile between windows, macOS and linux. ([Learn more][1])\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/firefox-backup",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1879559,
       "created": "2026-05-26T11:46:38.125310+00:00",
       "id": 791761,
