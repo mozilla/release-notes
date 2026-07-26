@@ -127,6 +127,18 @@
       "tag": "Changed"
     },
     {
+      "bug": 2036103,
+      "created": "2026-07-26T00:48:37.406218+00:00",
+      "id": 791937,
+      "is_public": true,
+      "modified": "2026-07-26T00:49:35.785513+00:00",
+      "note": "Firefox View is moving out of the toolbar by default for new profiles and profiles where it hasn\u2019t been used recently. You can still open it from *List all tabs > View all tabs*, or add it back from the *Customize toolbar* menu.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
       "bug": 1726107,
       "created": "2026-06-23T15:14:47.957103+00:00",
       "id": 791846,
