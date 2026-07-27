@@ -91,6 +91,18 @@
       "tag": "New"
     },
     {
+      "bug": 2047880,
+      "created": "2026-07-27T20:04:06.580776+00:00",
+      "id": 791938,
+      "is_public": true,
+      "modified": "2026-07-27T20:04:48.187804+00:00",
+      "note": "When downloading a file in [Firefox for Android][1], you can now customize the file name and the download location. You can also define a custom download location for your downloads.\r\n\r\n\r\n  [1]: https://play.google.com/store/apps/details?id=org.mozilla.fenix",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1879559,
       "created": "2026-05-26T11:46:38.125310+00:00",
       "id": 791761,
