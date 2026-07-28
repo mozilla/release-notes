@@ -17,6 +17,54 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": ""
+    },
+    {
+      "bug": null,
+      "created": "2026-07-28T05:20:35.569279+00:00",
+      "id": 791943,
+      "is_public": true,
+      "modified": "2026-07-28T05:20:36.042628+00:00",
+      "note": "Fixed the New Tab page background flashing a few seconds after the page loaded when a custom wallpaper was in use ([Bug 2056650](https://bugzilla.mozilla.org/show_bug.cgi?id=2056650)).",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": ""
+    },
+    {
+      "bug": 2056926,
+      "created": "2026-07-28T05:19:27.818604+00:00",
+      "id": 791941,
+      "is_public": true,
+      "modified": "2026-07-28T05:31:27.115044+00:00",
+      "note": "Reduced the likelihood of a startup crash after updating Firefox, in cases where some of the application's internal files could not be loaded ([Bug 2056926](https://bugzilla.mozilla.org/show_bug.cgi?id=2056926)).",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 2053586,
+      "created": "2026-07-28T05:20:13.892606+00:00",
+      "id": 791942,
+      "is_public": true,
+      "modified": "2026-07-28T05:20:14.380956+00:00",
+      "note": "Fixed audio playing silently on some music and audio streaming sites after pausing and resuming playback ([Bug 2053586](https://bugzilla.mozilla.org/show_bug.cgi?id=2053586)).",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1681745,
+      "created": "2026-07-28T05:49:12.269681+00:00",
+      "id": 791944,
+      "is_public": true,
+      "modified": "2026-07-28T05:49:29.316911+00:00",
+      "note": "Some Windows users may experience a crash on startup after updating, caused by an incomplete update leaving the Firefox installation in an inconsistent state ([Bug 1681745](https://bugzilla.mozilla.org/show_bug.cgi?id=1681745)). If you are affected, downloading Firefox from [firefox.com](https://www.firefox.com/) and installing it over your existing installation will repair it. Your bookmarks, passwords and other data are stored separately and will not be affected.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Known"
     }
   ],
   "product": "Firefox",
