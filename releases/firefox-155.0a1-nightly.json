@@ -91,6 +91,18 @@
       "tag": "HTML5"
     },
     {
+      "bug": 2057406,
+      "created": "2026-08-02T21:36:26.000374+00:00",
+      "id": 791962,
+      "is_public": true,
+      "modified": "2026-08-02T21:36:26.593635+00:00",
+      "note": "The CSS Typed Object Model's StylePropertyMap now supports delete() for removing a property.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
       "bug": 1477920,
       "created": "2026-08-01T21:09:22.657839+00:00",
       "id": 791961,
