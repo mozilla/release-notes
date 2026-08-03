@@ -19,6 +19,18 @@
       "tag": ""
     },
     {
+      "bug": 2019042,
+      "created": "2026-08-03T20:10:18.809384+00:00",
+      "id": 791976,
+      "is_public": true,
+      "modified": "2026-08-03T20:11:35.399179+00:00",
+      "note": "[Smart Window][1] includes several enhancements:\r\n\r\n-  Improved Smart Window](https://www.firefox.com/smart-window) suggestions making it easier to find history and switch tabs ([bug 2019042][2])\r\n- Smart Window assistant now includes Exa web search results to answer user queries ([bug 2046183][], [bug 2044385][3])\r\n\r\n\r\n  [1]: https://www.firefox.com/smart-window\r\n  [2]: https://bugzilla.mozilla.org/show_bug.cgi?id=2046183\r\n  [3]: https://bugzilla.mozilla.org/show_bug.cgi?id=2044385",
+      "progressive_rollout": true,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 2056444,
       "created": "2026-08-03T19:38:35.386788+00:00",
       "id": 791964,
