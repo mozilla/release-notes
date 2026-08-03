@@ -31,24 +31,12 @@
       "tag": "Fixed"
     },
     {
-      "bug": 2040673,
-      "created": "2026-08-03T19:45:40.877974+00:00",
-      "id": 791970,
-      "is_public": true,
-      "modified": "2026-08-03T19:46:04.563522+00:00",
-      "note": "Fixed the crash reporter shutting down after a failed startup handshake, which meant later crashes went unreported ([Bug 2040673][1]).\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=2040673",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "Fixed"
-    },
-    {
       "bug": null,
       "created": "2026-08-03T19:47:39.382745+00:00",
       "id": 791973,
       "is_public": true,
-      "modified": "2026-08-03T19:47:40.082053+00:00",
-      "note": "[Security fix][1].\r\n\r\n\r\n  [1]: https://www.mozilla.org//security/advisories/mfsa2026-73/",
+      "modified": "2026-08-03T21:18:04.629684+00:00",
+      "note": "[Security fix][1].\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/mfsa2026-73/",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
