@@ -7,6 +7,18 @@
   "modified": "2026-07-20T17:21:01.064951+00:00",
   "notes": [
     {
+      "bug": 299116,
+      "created": "2026-08-03T19:46:21.046926+00:00",
+      "id": 791971,
+      "is_public": true,
+      "modified": "2026-08-03T19:46:21.563301+00:00",
+      "note": "Firefox no longer opens mailto links without an explicit user action, preventing pages from launching your mail client unprompted.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
       "bug": 2047437,
       "created": "2026-06-16T20:55:25.146675+00:00",
       "id": 791828,
@@ -121,6 +133,42 @@
       "is_public": true,
       "modified": "2026-08-01T21:07:21.174938+00:00",
       "note": "Fixed Firefox preventing Linux systems from sleeping or suspending after a long browsing session.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1714720,
+      "created": "2026-08-03T19:47:11.985325+00:00",
+      "id": 791972,
+      "is_public": true,
+      "modified": "2026-08-03T19:47:12.360661+00:00",
+      "note": "Fixed arrow-key and Page Up/Down scrolling not working on some pages with embedded content (e.g. cross-origin iframes).",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 2058840,
+      "created": "2026-08-03T19:47:57.475876+00:00",
+      "id": 791974,
+      "is_public": true,
+      "modified": "2026-08-03T19:47:57.854597+00:00",
+      "note": "Fixed characters from some less common scripts appearing as empty boxes on web pages on Windows.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 2051354,
+      "created": "2026-08-03T19:48:44.928925+00:00",
+      "id": 791975,
+      "is_public": true,
+      "modified": "2026-08-03T19:48:45.300666+00:00",
+      "note": "Fixed text disappearing in Microsoft 365 Word Online on Linux when accented or non-Latin characters with certain keyboard layouts.",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
