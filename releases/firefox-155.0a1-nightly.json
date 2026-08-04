@@ -19,6 +19,18 @@
       "tag": "Changed"
     },
     {
+      "bug": 1856162,
+      "created": "2026-08-04T14:27:33.709431+00:00",
+      "id": 791980,
+      "is_public": true,
+      "modified": "2026-08-04T14:27:33.709170+00:00",
+      "note": "PDFs can now be scaled up to fill a larger sheet of paper when printing.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
       "bug": 2047437,
       "created": "2026-06-16T20:55:25.146675+00:00",
       "id": 791828,
@@ -115,6 +127,30 @@
       "tag": "HTML5"
     },
     {
+      "bug": 2041381,
+      "created": "2026-08-04T14:12:51.144206+00:00",
+      "id": 791979,
+      "is_public": true,
+      "modified": "2026-08-04T14:12:51.706279+00:00",
+      "note": "Starting with Firefox 155, Firefox Nightly offers limited support for the Speculation Rules API for same origin prefetch, allowing pages to declare which links should be prefetched. This initial support is limited to the \"immediate\" eagerness level and list style rules only.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 2038940,
+      "created": "2026-08-04T14:30:35.353928+00:00",
+      "id": 791982,
+      "is_public": true,
+      "modified": "2026-08-04T14:30:35.728473+00:00",
+      "note": "The CSS attr() function now supports values of any type, letting authors use attribute values in any property as opposed to just strings in the content property for the old attr() function.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
       "bug": 1477920,
       "created": "2026-08-01T21:09:22.657839+00:00",
       "id": 791961,
@@ -169,6 +205,18 @@
       "is_public": true,
       "modified": "2026-08-03T19:48:45.300666+00:00",
       "note": "Fixed text disappearing in Microsoft 365 Word Online on Linux when accented or non-Latin characters with certain keyboard layouts.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 2056362,
+      "created": "2026-08-04T14:29:30.029610+00:00",
+      "id": 791981,
+      "is_public": true,
+      "modified": "2026-08-04T14:29:30.546089+00:00",
+      "note": "On [Firefox for Android][1], autofill prompts now dismiss when focus moves away, instead of remaining open until back navigation.\r\n\r\n\r\n  [1]: https://play.google.com/store/apps/details?id=org.mozilla.fenix",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
