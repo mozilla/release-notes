@@ -245,6 +245,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "Developer"
+    },
+    {
+      "bug": 1927457,
+      "created": "2026-08-04T13:40:24.423352+00:00",
+      "id": 791978,
+      "is_public": true,
+      "modified": "2026-08-04T13:40:25.168821+00:00",
+      "note": "When using Vertical Tabs in full screen mode, the sidebar is now hidden along with the toolbars, and reappears when moving the cursor to the edge of the screen.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
