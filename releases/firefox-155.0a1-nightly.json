@@ -163,6 +163,18 @@
       "tag": "HTML5"
     },
     {
+      "bug": 2055710,
+      "created": "2026-08-05T21:35:27.797187+00:00",
+      "id": 791985,
+      "is_public": true,
+      "modified": "2026-08-05T21:35:28.286305+00:00",
+      "note": "Starting with Firefox 155, Nightly builds enable the Audio Session API, letting sites declare how their audio mixes with other applications.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
       "bug": 1477920,
       "created": "2026-08-01T21:09:22.657839+00:00",
       "id": 791961,
