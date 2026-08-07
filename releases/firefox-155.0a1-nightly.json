@@ -19,6 +19,18 @@
       "tag": "New"
     },
     {
+      "bug": 1731313,
+      "created": "2026-08-07T14:09:49.405578+00:00",
+      "id": 791989,
+      "is_public": true,
+      "modified": "2026-08-07T14:09:49.751826+00:00",
+      "note": "Containers can now be reordered in Settings.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 299116,
       "created": "2026-08-03T19:46:21.046926+00:00",
       "id": 791971,
@@ -41,18 +53,6 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "Changed"
-    },
-    {
-      "bug": 2047437,
-      "created": "2026-06-16T20:55:25.146675+00:00",
-      "id": 791828,
-      "is_public": true,
-      "modified": "2026-07-17T15:51:39.958293+00:00",
-      "note": "Starting with Firefox 154, Firefox Nightly now supports the `alpha()` CSS function. This is a relative color function that can be used to modify just the alpha component of a given color.",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "HTML5"
     },
     {
       "bug": 2046153,
@@ -181,6 +181,30 @@
       "is_public": true,
       "modified": "2026-08-06T15:46:03.764220+00:00",
       "note": "Starting with Firefox 155, Nightly builds now support the [`at-rule()`][1] function for `@supports`. This allows authors to test for browser support of specific at-rules, such as `@supports at-rule(@scope)`.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/CSS/Reference/At-rules/@supports#at-rule",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 2059738,
+      "created": "2026-08-07T14:04:47.526599+00:00",
+      "id": 791987,
+      "is_public": true,
+      "modified": "2026-08-07T14:06:10.033820+00:00",
+      "note": "Firefox now supports the [`alpha()`][1] CSS function. This is a relative color function that can be used to modify just the alpha component of a given color.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/CSS/Reference/Values/color_value/alpha",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 2060873,
+      "created": "2026-08-07T14:08:42.969499+00:00",
+      "id": 791988,
+      "is_public": true,
+      "modified": "2026-08-07T14:08:43.440192+00:00",
+      "note": "SVGGraphicsElement.getBBox() now honors its [`options`][1] argument, so bounding boxes can include stroke, markers, and clipping.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/API/SVGGraphicsElement/getBBox#options",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
