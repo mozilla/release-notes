@@ -247,6 +247,18 @@
       "tag": "Developer"
     },
     {
+      "bug": 1856645,
+      "created": "2026-08-09T21:34:58.430611+00:00",
+      "id": 791994,
+      "is_public": true,
+      "modified": "2026-08-09T21:34:58.872338+00:00",
+      "note": "Fixed the DevTools Storage panel showing cookies from private windows, containers, and other partitions alongside the inspected page's own cookies.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
       "bug": 2057365,
       "created": "2026-08-01T21:07:20.781418+00:00",
       "id": 791960,
