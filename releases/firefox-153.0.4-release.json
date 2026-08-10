@@ -19,39 +19,15 @@
       "tag": ""
     },
     {
-      "bug": 2058916,
-      "created": "2026-08-10T21:46:48.377470+00:00",
-      "id": 791997,
-      "is_public": true,
-      "modified": "2026-08-10T21:46:49.210340+00:00",
-      "note": "Fixed a crash that could occur in the address bar while navigating between pages. ([Bug 2058916][1])\r\n\r\n[1]: https://bugzilla.mozilla.org/show_bug.cgi?id=2058916",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 30,
-      "tag": "Fixed"
-    },
-    {
       "bug": 2059647,
       "created": "2026-08-10T12:47:13.379410+00:00",
       "id": 791996,
       "is_public": true,
-      "modified": "2026-08-10T21:47:54.029714+00:00",
-      "note": "Fixed an issue where clearing history could cause Firefox to become unresponsive and lose site storage after being terminated. ([Bug 2059647][1])\r\n\r\n[1]: https://bugzilla.mozilla.org/show_bug.cgi?id=2059647",
+      "modified": "2026-08-10T21:59:31.171648+00:00",
+      "note": "Fixed Firefox becoming unresponsive when clearing browsing history, which could also result in site data being lost. ([Bug 2059647][1])\r\n\r\n[1]: https://bugzilla.mozilla.org/show_bug.cgi?id=2059647",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 10,
-      "tag": "Fixed"
-    },
-    {
-      "bug": 2056728,
-      "created": "2026-08-10T21:48:31.731769+00:00",
-      "id": 791998,
-      "is_public": true,
-      "modified": "2026-08-10T21:48:32.653974+00:00",
-      "note": "Fixed the tab group menu options appearing in English regardless of the language Firefox is set to. ([Bug 2056728][1])\r\n\r\n[1]: https://bugzilla.mozilla.org/show_bug.cgi?id=2056728",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 5,
       "tag": "Fixed"
     }
   ],

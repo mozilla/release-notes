@@ -17,6 +17,30 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": ""
+    },
+    {
+      "bug": 2058916,
+      "created": "2026-08-10T21:46:48.377470+00:00",
+      "id": 791997,
+      "is_public": true,
+      "modified": "2026-08-10T22:03:12.946925+00:00",
+      "note": "Fixed a crash that could occur while navigating between pages. ([Bug 2058916][1])\r\n\r\n[1]: https://bugzilla.mozilla.org/show_bug.cgi?id=2058916",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 30,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 2056728,
+      "created": "2026-08-10T21:48:31.731769+00:00",
+      "id": 791998,
+      "is_public": true,
+      "modified": "2026-08-10T22:03:59.201213+00:00",
+      "note": "Fixed the three-dot menu on tab groups showing its options in English regardless of the language Firefox is set to. (([Bug 2056728][1])\r\n\r\n[1]: https://bugzilla.mozilla.org/show_bug.cgi?id=2056728",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 5,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox for Android",
