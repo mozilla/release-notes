@@ -331,6 +331,18 @@
       "tag": "Fixed"
     },
     {
+      "bug": 2042302,
+      "created": "2026-08-10T12:40:22.489271+00:00",
+      "id": 791995,
+      "is_public": true,
+      "modified": "2026-08-10T12:40:23.029717+00:00",
+      "note": "Fixed an unnecessary paste confirmation appearing when pasting without formatting in Google Docs using a keyboard shortcut.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
       "bug": 2031718,
       "created": "2026-07-16T19:28:06.210907+00:00",
       "id": 791898,
