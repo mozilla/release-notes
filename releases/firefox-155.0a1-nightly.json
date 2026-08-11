@@ -259,6 +259,18 @@
       "tag": "Developer"
     },
     {
+      "bug": 2056615,
+      "created": "2026-08-11T00:21:40.260930+00:00",
+      "id": 791999,
+      "is_public": true,
+      "modified": "2026-08-11T00:21:40.779610+00:00",
+      "note": "Uncaught non-Error exceptions now list their property names in the Console instead of showing only \"Object\".",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
       "bug": 2057365,
       "created": "2026-08-01T21:07:20.781418+00:00",
       "id": 791960,
@@ -337,6 +349,18 @@
       "is_public": true,
       "modified": "2026-08-10T13:46:17.444701+00:00",
       "note": "Fixed an unnecessary paste confirmation appearing when using the keyboard shortcut to paste without formatting in Google Docs.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1998331,
+      "created": "2026-08-11T00:23:13.623789+00:00",
+      "id": 792000,
+      "is_public": true,
+      "modified": "2026-08-11T00:23:13.989964+00:00",
+      "note": "Fixed text inside buttons not being selectable or copyable, which prevented copying direct messages on X and comments on YouTube.",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
