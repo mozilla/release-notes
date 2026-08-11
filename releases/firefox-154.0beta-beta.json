@@ -103,6 +103,30 @@
       "tag": "New"
     },
     {
+      "bug": 2057237,
+      "created": "2026-08-11T21:37:03.179132+00:00",
+      "id": 792006,
+      "is_public": true,
+      "modified": "2026-08-11T21:37:03.789914+00:00",
+      "note": "Smart Window assistant now includes Exa web search with source citations to provide accurate, trustworthy web grounding in Smart Window chats.",
+      "progressive_rollout": true,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 2048067,
+      "created": "2026-08-11T21:38:38.741438+00:00",
+      "id": 792007,
+      "is_public": true,
+      "modified": "2026-08-11T21:38:39.372296+00:00",
+      "note": "In Smart Window, Firefox can now organize your open tabs\r\ninto groups for you by suggesting groupings of related tabs and naming each\r\none.",
+      "progressive_rollout": true,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1879559,
       "created": "2026-05-26T11:46:38.125310+00:00",
       "id": 791761,
