@@ -187,12 +187,36 @@
       "tag": "HTML5"
     },
     {
+      "bug": 2047997,
+      "created": "2026-08-12T19:38:21.750921+00:00",
+      "id": 792031,
+      "is_public": true,
+      "modified": "2026-08-12T23:09:20.480304+00:00",
+      "note": "Firefox now supports new [`Iterator.prototype.chunks`][1] and [`Iterator.prototype.windows`][2] methods that allow consuming an iterator as either overlapping or non-overlapping subsequences of configurable size.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Iterator/chunks\r\n  [2]: https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Iterator/windows",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 40,
+      "tag": "HTML5"
+    },
+    {
       "bug": 2045706,
       "created": "2026-08-12T19:24:17.030685+00:00",
       "id": 792025,
       "is_public": true,
       "modified": "2026-08-12T21:31:27.794279+00:00",
       "note": "Firefox now supports the [`sibling-index()`][1] and [`sibling-count()`][2] CSS functions. These functions allow an element to be styled with calculations that use its index among its siblings and its total count of siblings (including itself), respectively.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/CSS/Reference/Values/sibling-index\r\n  [2]: https://developer.mozilla.org/docs/Web/CSS/Reference/Values/sibling-count",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 30,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 2034104,
+      "created": "2026-08-12T19:38:20.635215+00:00",
+      "id": 792030,
+      "is_public": true,
+      "modified": "2026-08-12T23:09:10.355465+00:00",
+      "note": "Firefox now supports [`Iterator.prototype.includes()`][1], allowing developers to check whether an iterator contains a given value without first converting it to an array.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Iterator/includes",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 30,
@@ -211,40 +235,16 @@
       "tag": "HTML5"
     },
     {
-      "bug": 2047997,
-      "created": "2026-08-12T19:38:21.750921+00:00",
-      "id": 792031,
-      "is_public": true,
-      "modified": "2026-08-12T21:45:48.257824+00:00",
-      "note": "Firefox now supports new [`Iterator.prototype.chunks`][1] and [`Iterator.prototype.windows`][2] methods that allow consuming an iterator as either overlapping or non-overlapping subsequences of configurable size.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Iterator/chunks\r\n  [2]: https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Iterator/windows",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 40,
-      "tag": "Developer"
-    },
-    {
-      "bug": 2034104,
-      "created": "2026-08-12T19:38:20.635215+00:00",
-      "id": 792030,
-      "is_public": true,
-      "modified": "2026-08-12T21:30:05.747008+00:00",
-      "note": "Firefox now supports [`Iterator.prototype.includes()`][1], allowing developers to check whether an iterator contains a given value without first converting it to an array.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Iterator/includes",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 30,
-      "tag": "Developer"
-    },
-    {
       "bug": 2047995,
       "created": "2026-08-12T19:38:20.105452+00:00",
       "id": 792029,
       "is_public": true,
-      "modified": "2026-08-12T21:46:41.507631+00:00",
+      "modified": "2026-08-12T23:08:59.657599+00:00",
       "note": "Firefox now supports the [`Iterator.prototype.join`][1] method that allows joining an iterator into a string, similar to `Array.prototype.join`.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Iterator/join",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 20,
-      "tag": "Developer"
+      "tag": "HTML5"
     },
     {
       "bug": 1850288,
