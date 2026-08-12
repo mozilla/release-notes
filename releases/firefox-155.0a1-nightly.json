@@ -367,6 +367,18 @@
       "tag": "Fixed"
     },
     {
+      "bug": 2053681,
+      "created": "2026-08-12T16:10:06.451263+00:00",
+      "id": 792011,
+      "is_public": true,
+      "modified": "2026-08-12T16:10:06.451026+00:00",
+      "note": "Fixed live audio streams such as internet radio stopping when playing in the background.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
       "bug": 2031718,
       "created": "2026-07-16T19:28:06.210907+00:00",
       "id": 791898,
