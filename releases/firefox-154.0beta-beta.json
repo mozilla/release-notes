@@ -4,7 +4,7 @@
   "channel": "Beta",
   "created": "2026-07-16T17:45:49.521118+00:00",
   "is_public": true,
-  "modified": "2026-07-22T16:38:21.432014+00:00",
+  "modified": "2026-08-12T01:38:15.421277+00:00",
   "notes": [
     {
       "bug": 1767271,
@@ -277,6 +277,30 @@
       "is_public": true,
       "modified": "2026-08-04T13:40:25.168821+00:00",
       "note": "When using Vertical Tabs in full screen mode, the sidebar is now hidden along with the toolbars, and reappears when moving the cursor to the edge of the screen.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 2055723,
+      "created": "2026-08-12T01:36:45.530791+00:00",
+      "id": 792008,
+      "is_public": true,
+      "modified": "2026-08-12T01:36:46.222689+00:00",
+      "note": "The display of PDF documents in the print-preview are now scaled correctly when using \u201cFit to Page Width\u201d option.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 2015460,
+      "created": "2026-08-12T01:37:48.563875+00:00",
+      "id": 792009,
+      "is_public": true,
+      "modified": "2026-08-12T01:37:49.057848+00:00",
+      "note": "Fixed an issue on macOS where closing a browser window could leave behind an invisible window that continued to capture mouse clicks over the area where it used to be.",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
