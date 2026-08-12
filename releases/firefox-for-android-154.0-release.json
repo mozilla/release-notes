@@ -7,6 +7,78 @@
   "modified": "2026-08-11T20:38:05.139205+00:00",
   "notes": [
     {
+      "bug": 1975878,
+      "created": "2026-08-12T18:56:37.174434+00:00",
+      "id": 792018,
+      "is_public": true,
+      "modified": "2026-08-12T18:56:37.721159+00:00",
+      "note": "**Translations:** Get more reliable automatic translations when you have multiple languages selected in your system settings.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 50,
+      "tag": "New"
+    },
+    {
+      "bug": 2047880,
+      "created": "2026-08-12T18:57:27.877956+00:00",
+      "id": 792019,
+      "is_public": true,
+      "modified": "2026-08-12T18:57:28.329685+00:00",
+      "note": "**Downloads:** Choose the file name and where your downloads are saved.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 40,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2026-08-12T19:18:18.579415+00:00",
+      "id": 792020,
+      "is_public": true,
+      "modified": "2026-08-12T19:18:37.696050+00:00",
+      "note": "**Updated icons:** Enjoy a fresh new look with updated Nova icons.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 30,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2026-08-12T19:19:13.251504+00:00",
+      "id": 792021,
+      "is_public": true,
+      "modified": "2026-08-12T19:19:14.046978+00:00",
+      "note": "**Address autofill:** Save addresses automatically, with no manual setup required.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 25,
+      "tag": "New"
+    },
+    {
+      "bug": 2046171,
+      "created": "2026-08-12T19:19:48.627000+00:00",
+      "id": 792022,
+      "is_public": true,
+      "modified": "2026-08-12T19:19:49.251872+00:00",
+      "note": "**Bookmark search:** Find bookmarks faster with dedicated search and up to 75 results per search.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 20,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2026-08-12T19:20:20.820225+00:00",
+      "id": 792023,
+      "is_public": true,
+      "modified": "2026-08-12T19:20:21.291325+00:00",
+      "note": "**Firefox Labs:** Opt in to experimental features and try what we\u2019re working on before wider release.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 5,
+      "tag": "New"
+    },
+    {
       "bug": null,
       "created": "2026-08-11T20:36:29.720881+00:00",
       "id": 792003,
