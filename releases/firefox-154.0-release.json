@@ -4,7 +4,7 @@
   "channel": "Release",
   "created": "2026-08-11T20:29:11.382955+00:00",
   "is_public": false,
-  "modified": "2026-08-11T20:37:08.513823+00:00",
+  "modified": "2026-08-12T20:11:48.729699+00:00",
   "notes": [
     {
       "bug": 2042339,
@@ -16,6 +16,18 @@
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 60,
+      "tag": "New"
+    },
+    {
+      "bug": 2048067,
+      "created": "2026-08-12T19:53:50.591684+00:00",
+      "id": 792041,
+      "is_public": true,
+      "modified": "2026-08-12T19:56:19.474649+00:00",
+      "note": "In Smart Window, Firefox can now organize your open tabs\r\ninto groups for you by suggesting groupings of related tabs and naming each\r\none.",
+      "progressive_rollout": true,
+      "relevant_countries": [],
+      "sort_num": 55,
       "tag": "New"
     },
     {
@@ -107,12 +119,48 @@
       "created": "2026-08-12T19:51:48.168879+00:00",
       "id": 792040,
       "is_public": true,
-      "modified": "2026-08-12T19:51:48.168742+00:00",
+      "modified": "2026-08-12T19:51:54.931069+00:00",
       "note": "Performing a hard reload on a page (holding Shift while clicking the Refresh button) now also clears and updates its cached favicons.",
       "progressive_rollout": false,
       "relevant_countries": [],
-      "sort_num": 0,
+      "sort_num": 15,
       "tag": "New"
+    },
+    {
+      "bug": 2049301,
+      "created": "2026-08-12T19:58:41.013193+00:00",
+      "id": 792043,
+      "is_public": true,
+      "modified": "2026-08-12T19:59:07.363211+00:00",
+      "note": "Video seeking is now significantly faster on macOS, making scrubbing and jumping to a point in a video much more responsive.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 30,
+      "tag": "Changed"
+    },
+    {
+      "bug": 1879559,
+      "created": "2026-08-12T19:57:20.009668+00:00",
+      "id": 792042,
+      "is_public": true,
+      "modified": "2026-08-12T19:59:00.612986+00:00",
+      "note": "Text selected in PDFs is now highlighted clearly like in normal web pages. The selection color also follows OS settings like high-contrast mode.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 20,
+      "tag": "Changed"
+    },
+    {
+      "bug": 2036103,
+      "created": "2026-08-12T19:58:42.493526+00:00",
+      "id": 792044,
+      "is_public": true,
+      "modified": "2026-08-12T19:59:14.885413+00:00",
+      "note": "Firefox View is moving out of the toolbar by default for new profiles and profiles where it hasn\u2019t been used recently. You can still open it from *List all tabs > View all tabs*, or add it back from the *Customize toolbar* menu.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 10,
+      "tag": "Changed"
     },
     {
       "bug": 1726107,
@@ -223,6 +271,54 @@
       "tag": "Enterprise"
     },
     {
+      "bug": 2015460,
+      "created": "2026-08-12T20:03:09.479233+00:00",
+      "id": 792045,
+      "is_public": true,
+      "modified": "2026-08-12T20:03:24.525859+00:00",
+      "note": "Fixed an issue on macOS where closing a browser window could leave behind an invisible window that continued to capture mouse clicks over the area where it used to be.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 40,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1957069,
+      "created": "2026-08-12T20:03:12.759600+00:00",
+      "id": 792048,
+      "is_public": true,
+      "modified": "2026-08-12T20:03:39.857360+00:00",
+      "note": "If the Windows taskbar is set to auto-hide, Firefox will no longer require minimizing/maximizing after launch to allow the Windows taskbar to show.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 30,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1927457,
+      "created": "2026-08-12T20:03:11.673472+00:00",
+      "id": 792047,
+      "is_public": true,
+      "modified": "2026-08-12T20:03:51.768522+00:00",
+      "note": "When using Vertical Tabs in full screen mode, the sidebar is now hidden along with the toolbars, and reappears when moving the cursor to the edge of the screen.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 20,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 2055723,
+      "created": "2026-08-12T20:03:10.644262+00:00",
+      "id": 792046,
+      "is_public": true,
+      "modified": "2026-08-12T20:03:45.013106+00:00",
+      "note": "The display of PDF documents in the print-preview are now scaled correctly when using \u201cFit to Page Width\u201d option.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 10,
+      "tag": "Fixed"
+    },
+    {
       "bug": null,
       "created": "2026-08-11T20:36:29.720881+00:00",
       "id": 792003,
@@ -233,6 +329,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2026-08-12T20:09:54.860533+00:00",
+      "id": 792049,
+      "is_public": true,
+      "modified": "2026-08-12T20:09:55.405756+00:00",
+      "note": "With the release of Firefox 154, we are pleased to welcome the developers who contributed their first code change to Firefox in this release, 32 of whom were brand new volunteers! Please join us in thanking each of these diligent and enthusiastic individuals, and take a look at their contributions:\r\n\r\n* Ale Camara [:ale]: <a href=\"https://bugzilla.mozilla.org/2054573\">2054573</a>\r\n* andra: <a href=\"https://bugzilla.mozilla.org/2022992\">2022992</a>, <a href=\"https://bugzilla.mozilla.org/2046118\">2046118</a>\r\n* andrea.distefano: <a href=\"https://bugzilla.mozilla.org/1470011\">1470011</a>\r\n* Anil Verman: <a href=\"https://bugzilla.mozilla.org/2040057\">2040057</a>\r\n* Benoit: <a href=\"https://bugzilla.mozilla.org/2047559\">2047559</a>, <a href=\"https://bugzilla.mozilla.org/2049316\">2049316</a>, <a href=\"https://bugzilla.mozilla.org/2050403\">2050403</a>\r\n* Brieuc Gommard: <a href=\"https://bugzilla.mozilla.org/2031346\">2031346</a>, <a href=\"https://bugzilla.mozilla.org/2049309\">2049309</a>\r\n* christopher.staite: <a href=\"https://bugzilla.mozilla.org/2037813\">2037813</a>\r\n* conor: <a href=\"https://bugzilla.mozilla.org/1988166\">1988166</a>\r\n* Cornelius | CE student: <a href=\"https://bugzilla.mozilla.org/2046119\">2046119</a>\r\n* Devin Rousso: <a href=\"https://bugzilla.mozilla.org/2052932\">2052932</a>\r\n* Diego: <a href=\"https://bugzilla.mozilla.org/2018728\">2018728</a>\r\n* elvyria: <a href=\"https://bugzilla.mozilla.org/2027522\">2027522</a>\r\n* Gabe: <a href=\"https://bugzilla.mozilla.org/2049141\">2049141</a>\r\n* Hagen: <a href=\"https://bugzilla.mozilla.org/2049264\">2049264</a>\r\n* Hillwood Yang: <a href=\"https://bugzilla.mozilla.org/2048250\">2048250</a>\r\n* Jaimukund Bhan: <a href=\"https://bugzilla.mozilla.org/2034642\">2034642</a>\r\n* Kafji: <a href=\"https://bugzilla.mozilla.org/2051493\">2051493</a>\r\n* Kometes: <a href=\"https://bugzilla.mozilla.org/1954212\">1954212</a>\r\n* Luiz Henrique Vieira: <a href=\"https://bugzilla.mozilla.org/2050546\">2050546</a>\r\n* Majed El-Barbari: <a href=\"https://bugzilla.mozilla.org/2040240\">2040240</a>\r\n* Marcelo Camargo: <a href=\"https://bugzilla.mozilla.org/2009295\">2009295</a>\r\n* Mayank Bansal: <a href=\"https://bugzilla.mozilla.org/2055744\">2055744</a>\r\n* muhammad shaikh: <a href=\"https://bugzilla.mozilla.org/2016932\">2016932</a>\r\n* Raimund Hook: <a href=\"https://bugzilla.mozilla.org/2050794\">2050794</a>\r\n* Rebekah: <a href=\"https://bugzilla.mozilla.org/2052857\">2052857</a>\r\n* Riza: <a href=\"https://bugzilla.mozilla.org/2044167\">2044167</a>\r\n* Ronak Sheth: <a href=\"https://bugzilla.mozilla.org/2048099\">2048099</a>\r\n* taylor: <a href=\"https://bugzilla.mozilla.org/1419649\">1419649</a>\r\n* Tim McNulty: <a href=\"https://bugzilla.mozilla.org/2052560\">2052560</a>\r\n* Yogeshdangal66: <a href=\"https://bugzilla.mozilla.org/2031348\">2031348</a>\r\n* Zehui Xu: <a href=\"https://bugzilla.mozilla.org/2028402\">2028402</a>\r\n* \u5360\u65ed\u54f2: <a href=\"https://bugzilla.mozilla.org/1992363\">1992363</a>",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Community"
     }
   ],
   "product": "Firefox",
