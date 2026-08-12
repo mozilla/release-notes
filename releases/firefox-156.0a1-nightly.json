@@ -5,7 +5,20 @@
   "created": "2026-08-12T13:58:08.003123+00:00",
   "is_public": false,
   "modified": "2026-08-12T13:58:08.002952+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": 2059312,
+      "created": "2026-08-12T17:01:32.825319+00:00",
+      "id": 792016,
+      "is_public": true,
+      "modified": "2026-08-12T17:01:33.180104+00:00",
+      "note": "Starting with Firefox 155, Nightly supports the `<a>` element within the MathML namespace exposed via the new `MathMLAnchorElement` WebIDL interface, allowing to link mathematical expressions.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    }
+  ],
   "product": "Firefox",
   "release_date": "2026-08-13",
   "slug": "firefox-156.0a1-nightly",

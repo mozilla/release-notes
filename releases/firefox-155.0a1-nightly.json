@@ -55,6 +55,30 @@
       "tag": "Changed"
     },
     {
+      "bug": 2049252,
+      "created": "2026-08-12T16:54:44.321061+00:00",
+      "id": 792012,
+      "is_public": true,
+      "modified": "2026-08-12T16:54:44.320840+00:00",
+      "note": "Firefox now uses firefox-portal-detection.com instead of detectportal.firefox.com to detect captive portals and check network connectivity, so network allowlists referencing the old domain need updating.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
+      "bug": 2051292,
+      "created": "2026-08-12T16:55:37.884097+00:00",
+      "id": 792013,
+      "is_public": true,
+      "modified": "2026-08-12T16:55:38.450839+00:00",
+      "note": "On [Firefox for Android][1], toolbar shortcuts can now be changed by long-pressing them, instead of going through Settings.\r\n\r\n\r\n  [1]: https://play.google.com/store/apps/details?id=org.mozilla.fenix",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
       "bug": 2046153,
       "created": "2026-06-18T13:05:43.567679+00:00",
       "id": 791836,
@@ -223,6 +247,42 @@
       "tag": "HTML5"
     },
     {
+      "bug": 1973126,
+      "created": "2026-08-12T16:56:57.638426+00:00",
+      "id": 792014,
+      "is_public": true,
+      "modified": "2026-08-12T16:56:57.980478+00:00",
+      "note": "Firefox now limits CSS to 75 levels of nested blocks and functions; more deeply nested style rules / values no longer parse.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 2057270,
+      "created": "2026-08-12T16:58:39.895150+00:00",
+      "id": 792015,
+      "is_public": true,
+      "modified": "2026-08-12T16:58:40.269041+00:00",
+      "note": "Firefox now supports the `Promise.allKeyed` and `Promise.allSettledKeyed` methods, which take an object of promises and resolve to an object of results with the same keys.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 2059312,
+      "created": "2026-08-12T17:01:32.825319+00:00",
+      "id": 792016,
+      "is_public": true,
+      "modified": "2026-08-12T17:01:33.180104+00:00",
+      "note": "Starting with Firefox 155, Nightly supports the `<a>` element within the MathML namespace exposed via the new `MathMLAnchorElement` WebIDL interface, allowing to link mathematical expressions.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
       "bug": 1477920,
       "created": "2026-08-01T21:09:22.657839+00:00",
       "id": 791961,
@@ -373,6 +433,18 @@
       "is_public": true,
       "modified": "2026-08-12T16:10:06.451026+00:00",
       "note": "Fixed live audio streams such as internet radio stopping when playing in the background.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 2061864,
+      "created": "2026-08-12T17:06:23.269937+00:00",
+      "id": 792017,
+      "is_public": true,
+      "modified": "2026-08-12T17:06:23.626964+00:00",
+      "note": "The user interface will now recover from tab drag sessions that the platform never ends, which previously left the toolbar unresponsive.",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
