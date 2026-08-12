@@ -305,6 +305,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": 1957069,
+      "created": "2026-08-12T13:35:03.216900+00:00",
+      "id": 792010,
+      "is_public": true,
+      "modified": "2026-08-12T13:35:03.933542+00:00",
+      "note": "If the Windows taskbar is set to auto-hide, Firefox will no longer require minimizing/maximizing after launch to allow the Windows taskbar to show.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
