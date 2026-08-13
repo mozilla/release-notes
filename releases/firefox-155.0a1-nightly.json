@@ -487,6 +487,18 @@
       "tag": "Fixed"
     },
     {
+      "bug": 1737953,
+      "created": "2026-08-13T20:00:52.439649+00:00",
+      "id": 792060,
+      "is_public": true,
+      "modified": "2026-08-13T20:00:52.439489+00:00",
+      "note": "Fixed full screen content being letterboxed on MacBooks with a camera notch, most visibly when watching full screen video.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
       "bug": 2031718,
       "created": "2026-07-16T19:28:06.210907+00:00",
       "id": 791898,
