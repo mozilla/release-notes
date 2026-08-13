@@ -295,6 +295,30 @@
       "tag": "HTML5"
     },
     {
+      "bug": 2062344,
+      "created": "2026-08-13T18:52:07.836922+00:00",
+      "id": 792058,
+      "is_public": true,
+      "modified": "2026-08-13T18:52:08.544883+00:00",
+      "note": "Firefox now supports the WebAssembly Compact Import Section proposal, which can reduce the size of WebAssembly modules with many imports.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 2062374,
+      "created": "2026-08-13T18:52:41.304586+00:00",
+      "id": 792059,
+      "is_public": true,
+      "modified": "2026-08-13T18:52:41.644311+00:00",
+      "note": "Firefox now supports the WebAssembly Wide Arithmetic proposal, which adds 128-bit arithmetic instructions for better performance on some workloads.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
       "bug": 1477920,
       "created": "2026-08-01T21:09:22.657839+00:00",
       "id": 791961,
