@@ -43,6 +43,18 @@
       "tag": "New"
     },
     {
+      "bug": 2062892,
+      "created": "2026-08-13T17:42:19.776956+00:00",
+      "id": 792057,
+      "is_public": true,
+      "modified": "2026-08-13T17:42:20.252293+00:00",
+      "note": "Firefox now uses Happy Eyeballs v3 to select and race connection candidates, improving page load times on dual-stack networks.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 299116,
       "created": "2026-08-03T19:46:21.046926+00:00",
       "id": 791971,
