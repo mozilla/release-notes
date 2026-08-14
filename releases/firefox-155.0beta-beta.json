@@ -223,6 +223,30 @@
       "tag": "HTML5"
     },
     {
+      "bug": 1911075,
+      "created": "2026-08-14T17:21:34.805382+00:00",
+      "id": 792065,
+      "is_public": true,
+      "modified": "2026-08-14T17:21:34.805207+00:00",
+      "note": "The `font-width` property is now supported as the standard name for `font-stretch`.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 2055211,
+      "created": "2026-08-14T17:23:41.532095+00:00",
+      "id": 792066,
+      "is_public": true,
+      "modified": "2026-08-14T17:23:41.989752+00:00",
+      "note": "A dynamic `import()` that fails due to a network or HTTP error is no longer cached as a failure in the module map, so retrying the same specifier can now succeed.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
       "bug": 1477920,
       "created": "2026-08-01T21:09:22.657839+00:00",
       "id": 791961,
