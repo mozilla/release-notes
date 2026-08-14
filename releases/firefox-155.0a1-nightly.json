@@ -355,6 +355,30 @@
       "tag": "HTML5"
     },
     {
+      "bug": 1981483,
+      "created": "2026-08-14T23:21:22.689303+00:00",
+      "id": 792067,
+      "is_public": true,
+      "modified": "2026-08-14T23:21:22.689158+00:00",
+      "note": "WebTransport adds send groups (`createSendGroup()`) for controlling how bandwidth is shared between streams, `exportKeyingMaterial()` for deriving keys bound to the TLS session, writable datagram streams (`createWritable()`), a `draining` promise, and subprotocol negotiation via the constructor's `protocols` option and the `protocol` property.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 2017363,
+      "created": "2026-08-14T23:23:59.163689+00:00",
+      "id": 792068,
+      "is_public": true,
+      "modified": "2026-08-14T23:23:59.649090+00:00",
+      "note": "Firefox 155 improves WebRTC interoperability, adding `RTCError` for data channel failures, `RTCSctpTransport.maxChannels`, two-byte RTP header extension IDs, and more accurate `RTCTransportStats`.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
       "bug": 1477920,
       "created": "2026-08-01T21:09:22.657839+00:00",
       "id": 791961,
