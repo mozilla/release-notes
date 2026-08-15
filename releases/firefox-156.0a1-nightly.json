@@ -7,6 +7,18 @@
   "modified": "2026-08-13T14:46:53.060240+00:00",
   "notes": [
     {
+      "bug": 2045970,
+      "created": "2026-08-15T15:06:20.869255+00:00",
+      "id": 792069,
+      "is_public": true,
+      "modified": "2026-08-15T15:06:22.145849+00:00",
+      "note": "Starting with Firefox 156, Firefox Nightly enables Vulkan hardware video decoding on Linux for recent NVIDIA graphics cards.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 2047706,
       "created": "2026-08-01T21:06:23.226343+00:00",
       "id": 791959,
