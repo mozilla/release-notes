@@ -103,6 +103,30 @@
       "tag": "HTML5"
     },
     {
+      "bug": 2049474,
+      "created": "2026-08-16T14:05:14.695889+00:00",
+      "id": 792070,
+      "is_public": true,
+      "modified": "2026-08-16T14:05:15.241024+00:00",
+      "note": "Fixed WebCodecs VideoEncoder hanging on macOS when encoding a VideoFrame in NV12 format.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 2055599,
+      "created": "2026-08-16T14:06:30.561896+00:00",
+      "id": 792071,
+      "is_public": true,
+      "modified": "2026-08-16T14:06:31.246029+00:00",
+      "note": "The centering of content inside buttons and text inputs is now expressed with align-content in the built-in stylesheet, so pages can override it.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
       "bug": 2031718,
       "created": "2026-07-16T19:28:06.210907+00:00",
       "id": 791898,
