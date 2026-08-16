@@ -319,6 +319,30 @@
       "tag": "Developer"
     },
     {
+      "bug": 2001734,
+      "created": "2026-08-16T23:03:44.420520+00:00",
+      "id": 792072,
+      "is_public": true,
+      "modified": "2026-08-16T23:03:44.920683+00:00",
+      "note": "Added the [DisableLaunchOnLogin][1] policy to control whether Firefox launches automatically when users log in to Windows. This policy does not apply to Firefox ESR.\r\n\r\n\r\n  [1]: https://firefox-admin-docs.mozilla.org/reference/policies/disablelaunchonlogin/",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Enterprise"
+    },
+    {
+      "bug": 2056928,
+      "created": "2026-08-16T23:04:20.945238+00:00",
+      "id": 792073,
+      "is_public": true,
+      "modified": "2026-08-16T23:04:21.300580+00:00",
+      "note": "Fixed an issue where locking certain legacy preferences no longer disabled the corresponding controls in Firefox Settings.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Enterprise"
+    },
+    {
       "bug": 2057365,
       "created": "2026-08-01T21:07:20.781418+00:00",
       "id": 791960,
