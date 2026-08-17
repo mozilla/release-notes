@@ -115,6 +115,18 @@
       "tag": "HTML5"
     },
     {
+      "bug": 1980406,
+      "created": "2026-08-17T16:30:55.206484+00:00",
+      "id": 792078,
+      "is_public": true,
+      "modified": "2026-08-17T16:30:55.873083+00:00",
+      "note": "The [FirefoxHome][1] policy now has a Widgets option, letting administrators control whether the new tab page productivity widgets are available.\r\n\r\n\r\n  [1]: https://firefox-admin-docs.mozilla.org/reference/policies/firefoxhome/",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Enterprise"
+    },
+    {
       "bug": 2049474,
       "created": "2026-08-16T14:05:14.695889+00:00",
       "id": 792070,
@@ -157,6 +169,18 @@
       "is_public": true,
       "modified": "2026-08-17T14:06:12.011751+00:00",
       "note": "Fixed dragging an image to a new position in a rich-text editor replacing it with a long line of text instead of moving it.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 2063835,
+      "created": "2026-08-17T16:32:58.703412+00:00",
+      "id": 792079,
+      "is_public": true,
+      "modified": "2026-08-17T16:32:59.130629+00:00",
+      "note": "[text-box-trim][1] now uses the font metrics of a `::first-line` pseudo-element when one applies, matching other browsers and the specification.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/text-box-trim",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
