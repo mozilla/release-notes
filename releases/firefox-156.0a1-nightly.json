@@ -19,6 +19,18 @@
       "tag": "New"
     },
     {
+      "bug": 2053447,
+      "created": "2026-08-17T14:04:24.728209+00:00",
+      "id": 792074,
+      "is_public": true,
+      "modified": "2026-08-17T14:04:24.728038+00:00",
+      "note": "Firefox on macOS can now be set to open automatically when the computer starts up, from the Startup section of Settings.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 2047706,
       "created": "2026-08-01T21:06:23.226343+00:00",
       "id": 791959,
@@ -121,6 +133,30 @@
       "is_public": true,
       "modified": "2026-08-16T14:06:31.246029+00:00",
       "note": "The centering of content inside buttons and text inputs is now expressed with align-content in the built-in stylesheet, so pages can override it.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 2061752,
+      "created": "2026-08-17T14:05:20.050309+00:00",
+      "id": 792075,
+      "is_public": true,
+      "modified": "2026-08-17T14:05:20.977726+00:00",
+      "note": "On Windows devices with ARM64 processors, WebRTC video calls may now use hardware H264 decoding instead of falling back to software",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 2061788,
+      "created": "2026-08-17T14:06:11.707252+00:00",
+      "id": 792076,
+      "is_public": true,
+      "modified": "2026-08-17T14:06:12.011751+00:00",
+      "note": "Fixed dragging an image to a new position in a rich-text editor replacing it with a long line of text instead of moving it.",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
