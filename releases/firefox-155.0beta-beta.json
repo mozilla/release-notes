@@ -319,6 +319,18 @@
       "tag": "Developer"
     },
     {
+      "bug": 1642578,
+      "created": "2026-08-17T19:43:05.995096+00:00",
+      "id": 792080,
+      "is_public": true,
+      "modified": "2026-08-17T19:43:06.473138+00:00",
+      "note": "The Debugger in Developer Tools now has a keyboard shortcut, Ctrl+Alt+B (Cmd+Alt+B on macOS), to enable or disable all breakpoints at once.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
       "bug": 2001734,
       "created": "2026-08-16T23:03:44.420520+00:00",
       "id": 792072,
