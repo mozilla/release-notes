@@ -187,6 +187,18 @@
       "tag": "Fixed"
     },
     {
+      "bug": 2062642,
+      "created": "2026-08-18T14:56:58.640359+00:00",
+      "id": 792081,
+      "is_public": true,
+      "modified": "2026-08-18T14:56:59.363251+00:00",
+      "note": "On all devices, WebRTC video calls may now use hardware AV1 decoding instead of falling back to software",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
       "bug": 2031718,
       "created": "2026-07-16T19:28:06.210907+00:00",
       "id": 791898,
