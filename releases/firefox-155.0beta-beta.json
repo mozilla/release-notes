@@ -43,6 +43,18 @@
       "tag": "New"
     },
     {
+      "bug": 2051545,
+      "created": "2026-08-18T15:00:25.526791+00:00",
+      "id": 792084,
+      "is_public": true,
+      "modified": "2026-08-18T15:00:26.016799+00:00",
+      "note": "Firefox now shows how many trackers it has blocked in the address bar, making built-in privacy protections easier to see as you browse. You can hide the count in settings without turning off tracker blocking.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 299116,
       "created": "2026-08-03T19:46:21.046926+00:00",
       "id": 791971,

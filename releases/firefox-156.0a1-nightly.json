@@ -31,6 +31,18 @@
       "tag": "New"
     },
     {
+      "bug": null,
+      "created": "2026-08-18T15:02:16.181949+00:00",
+      "id": 792085,
+      "is_public": true,
+      "modified": "2026-08-18T15:02:17.114267+00:00",
+      "note": "Starting with Firefox 156, tabbing into the search bar in Firefox Nightly lands on the search input rather than the search button",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 2047706,
       "created": "2026-08-01T21:06:23.226343+00:00",
       "id": 791959,
@@ -121,6 +133,30 @@
       "is_public": true,
       "modified": "2026-08-17T16:30:55.873083+00:00",
       "note": "The [FirefoxHome][1] policy now has a Widgets option, letting administrators control whether the new tab page productivity widgets are available.\r\n\r\n\r\n  [1]: https://firefox-admin-docs.mozilla.org/reference/policies/firefoxhome/",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Enterprise"
+    },
+    {
+      "bug": 2045811,
+      "created": "2026-08-18T14:58:08.932364+00:00",
+      "id": 792082,
+      "is_public": true,
+      "modified": "2026-08-18T14:58:09.635692+00:00",
+      "note": "The `SitePolicies` policy now supports `DisableServiceWorkers`, letting administrators block service worker registration on specific sites.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Enterprise"
+    },
+    {
+      "bug": 1470570,
+      "created": "2026-08-18T14:59:05.204819+00:00",
+      "id": 792083,
+      "is_public": true,
+      "modified": "2026-08-18T14:59:05.640694+00:00",
+      "note": "The Windows installer now resolves /INI= paths relative to the installer itself, so deployment tools that unpack to a temporary folder no longer need an absolute path.",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
