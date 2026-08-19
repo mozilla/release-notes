@@ -247,6 +247,18 @@
       "tag": "Fixed"
     },
     {
+      "bug": 2060830,
+      "created": "2026-08-19T13:06:16.814007+00:00",
+      "id": 792087,
+      "is_public": true,
+      "modified": "2026-08-19T13:06:16.813745+00:00",
+      "note": "Fixed high sample rate FLAC audio in MP4 failing to play on sites such as Bilibili.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
       "bug": 2031718,
       "created": "2026-07-16T19:28:06.210907+00:00",
       "id": 791898,
