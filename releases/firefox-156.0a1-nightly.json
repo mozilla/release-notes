@@ -55,6 +55,18 @@
       "tag": "New"
     },
     {
+      "bug": 2033250,
+      "created": "2026-08-19T15:33:12.501671+00:00",
+      "id": 792088,
+      "is_public": true,
+      "modified": "2026-08-19T15:33:13.120065+00:00",
+      "note": "Improved memory and CPU usage when Firefox displays large JPEG images scaled down to fit a page.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 2047706,
       "created": "2026-08-01T21:06:23.226343+00:00",
       "id": 791959,
@@ -253,6 +265,18 @@
       "is_public": true,
       "modified": "2026-08-19T13:06:16.813745+00:00",
       "note": "Fixed high sample rate FLAC audio in MP4 failing to play on sites such as Bilibili.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 2056718,
+      "created": "2026-08-19T15:33:39.826901+00:00",
+      "id": 792089,
+      "is_public": true,
+      "modified": "2026-08-19T15:33:40.377621+00:00",
+      "note": "Fixed the find bar becoming permanently unavailable in a tab after reversing the panes in Split View.",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
