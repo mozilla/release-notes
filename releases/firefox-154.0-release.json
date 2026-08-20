@@ -355,6 +355,18 @@
       "tag": "Community"
     },
     {
+      "bug": null,
+      "created": "2026-08-20T13:45:59.742763+00:00",
+      "id": 792092,
+      "is_public": true,
+      "modified": "2026-08-20T13:46:00.589303+00:00",
+      "note": "Following recent changes to Firefox\u2019s Address Autofill logic, some users may experience autofill failures when autofilling addresses.\r\nWe\u2019re investigating these issues and working to improve the experience. ([Bug 2065145][1]) \r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=2065145",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 10,
+      "tag": "Known"
+    },
+    {
       "bug": 2064411,
       "created": "2026-08-19T16:00:03.164465+00:00",
       "id": 792090,
