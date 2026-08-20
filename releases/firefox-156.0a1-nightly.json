@@ -67,6 +67,18 @@
       "tag": "New"
     },
     {
+      "bug": 2061755,
+      "created": "2026-08-20T15:49:59.928773+00:00",
+      "id": 792093,
+      "is_public": true,
+      "modified": "2026-08-20T15:50:00.598075+00:00",
+      "note": "On [Firefox for Android][1], share more easily with Android\u2019s native share sheet. Firefox now uses Android\u2019s native sharing experience, including options like Send tab to device and Scan QR code.\r\n\r\n\r\n  [1]: https://play.google.com/store/apps/details?id=org.mozilla.fenix",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 2047706,
       "created": "2026-08-01T21:06:23.226343+00:00",
       "id": 791959,
