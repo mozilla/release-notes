@@ -163,6 +163,18 @@
       "tag": "HTML5"
     },
     {
+      "bug": 2064333,
+      "created": "2026-08-21T14:24:00.855001+00:00",
+      "id": 792094,
+      "is_public": true,
+      "modified": "2026-08-21T14:24:01.303826+00:00",
+      "note": "Starting with Firefox 156, Firefox Nightly supports [Scoped Custom Element Registries][1]. Those registries can be created using the `CustomElementRegistry()` constructor that are separate from the global `window.customElements` registry. Creating more than one registry is useful for multiple custom elements that have the same tag name to coexist.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/API/CustomElementRegistry/CustomElementRegistry",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
       "bug": 1980406,
       "created": "2026-08-17T16:30:55.206484+00:00",
       "id": 792078,
