@@ -331,6 +331,18 @@
       "tag": "Fixed"
     },
     {
+      "bug": 2044707,
+      "created": "2026-08-23T14:31:04.991429+00:00",
+      "id": 792096,
+      "is_public": true,
+      "modified": "2026-08-23T14:31:04.991179+00:00",
+      "note": "Fixed an issue where dragging a folder and its contents together in the Bookmarks sidebar caused items to move out of the folder.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
       "bug": 2031718,
       "created": "2026-07-16T19:28:06.210907+00:00",
       "id": 791898,
