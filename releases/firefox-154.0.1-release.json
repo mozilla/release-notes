@@ -65,6 +65,30 @@
       "relevant_countries": [],
       "sort_num": 70,
       "tag": "Fixed"
+    },
+    {
+      "bug": 2064648,
+      "created": "2026-08-24T20:44:20.157605+00:00",
+      "id": 792104,
+      "is_public": true,
+      "modified": "2026-08-24T20:44:20.584031+00:00",
+      "note": "Fixed a crash on pages that use service workers. ([Bug 2064648][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=2064648",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 60,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 2056856,
+      "created": "2026-08-24T20:45:35.423570+00:00",
+      "id": 792105,
+      "is_public": true,
+      "modified": "2026-08-24T20:45:35.867717+00:00",
+      "note": "Fixed tab titles being cut off at the start on Windows when the system font is MS UI Gothic. ([Bug 2056856][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=2065348",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 50,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
