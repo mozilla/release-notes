@@ -223,6 +223,18 @@
       "tag": "Enterprise"
     },
     {
+      "bug": 2065138,
+      "created": "2026-08-24T13:09:56.610386+00:00",
+      "id": 792097,
+      "is_public": true,
+      "modified": "2026-08-24T13:09:57.049306+00:00",
+      "note": "Fixed the `DontCheckDefaultBrowser` and `DefaultBrowserSettingEnabled` policies being ignored when Firefox started with a new profile.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Enterprise"
+    },
+    {
       "bug": 2049474,
       "created": "2026-08-16T14:05:14.695889+00:00",
       "id": 792070,
