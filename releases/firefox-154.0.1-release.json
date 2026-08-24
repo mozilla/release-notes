@@ -17,6 +17,54 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": ""
+    },
+    {
+      "bug": 2064411,
+      "created": "2026-08-24T20:36:24.031170+00:00",
+      "id": 792100,
+      "is_public": true,
+      "modified": "2026-08-24T20:38:10.962870+00:00",
+      "note": "Fixed slower access to saved passwords and unexpected Primary Password prompts caused by recent changes to password storage. ([Bug 2064411][1], [Bug 2065593][2], [Bug 2063993][3])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=2064411\r\n  [2]: https://bugzilla.mozilla.org/show_bug.cgi?id=2065593\r\n  [3]: https://bugzilla.mozilla.org/show_bug.cgi?id=2063993",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 100,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 2065145,
+      "created": "2026-08-24T20:37:58.211761+00:00",
+      "id": 792101,
+      "is_public": true,
+      "modified": "2026-08-24T20:39:43.264375+00:00",
+      "note": "Fixed an issue where addresses were failing to autofill on some sites. ([Bug 2065145][1], [Bug 2063599][2])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=2065145\r\n  [2]: https://bugzilla.mozilla.org/show_bug.cgi?id=2063599",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 90,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 2064652,
+      "created": "2026-08-24T20:40:46.398229+00:00",
+      "id": 792102,
+      "is_public": true,
+      "modified": "2026-08-24T20:40:46.971949+00:00",
+      "note": "Fixed Firefox adding a new Start Menu shortcut on Windows every time it started. ([Bug 2064652][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=2064652",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 80,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 2059274,
+      "created": "2026-08-24T20:43:12.610052+00:00",
+      "id": 792103,
+      "is_public": true,
+      "modified": "2026-08-24T20:43:13.089433+00:00",
+      "note": "Fixed an issue where connections to local network devices were failing without a permission prompt on some sites loaded over HTTP. ([Bug 2059274][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=2059274",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 70,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
