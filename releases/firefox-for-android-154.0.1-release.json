@@ -17,6 +17,30 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": ""
+    },
+    {
+      "bug": 2064507,
+      "created": "2026-08-24T21:37:29.958633+00:00",
+      "id": 792106,
+      "is_public": true,
+      "modified": "2026-08-24T21:38:32.928949+00:00",
+      "note": "Fixed an issue where inactive tabs were being closed when all active tabs were selected for closing. ([Bug 2064507][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=2064507",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 50,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 2061846,
+      "created": "2026-08-24T21:38:24.201305+00:00",
+      "id": 792107,
+      "is_public": true,
+      "modified": "2026-08-24T21:38:24.669907+00:00",
+      "note": "Fixed an error that was appearing after signing in to the built-in VPN. ([Bug 2061846][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=2061846",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 40,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox for Android",
