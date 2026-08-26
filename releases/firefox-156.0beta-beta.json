@@ -67,6 +67,30 @@
       "tag": "New"
     },
     {
+      "bug": 2055599,
+      "created": "2026-08-16T14:06:30.561896+00:00",
+      "id": 792071,
+      "is_public": true,
+      "modified": "2026-08-26T17:59:36.424921+00:00",
+      "note": "The centering of content inside buttons and text inputs is now expressed with `align-content` in the built-in stylesheet, so pages can override it.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 2063835,
+      "created": "2026-08-17T16:32:58.703412+00:00",
+      "id": 792079,
+      "is_public": true,
+      "modified": "2026-08-26T17:59:31.130405+00:00",
+      "note": "[text-box-trim][1] now uses the font metrics of a `::first-line` pseudo-element when one applies, matching other browsers and the specification.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/text-box-trim",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
       "bug": 1980406,
       "created": "2026-08-17T16:30:55.206484+00:00",
       "id": 792078,
@@ -115,18 +139,6 @@
       "tag": "Enterprise"
     },
     {
-      "bug": 2055599,
-      "created": "2026-08-16T14:06:30.561896+00:00",
-      "id": 792071,
-      "is_public": true,
-      "modified": "2026-08-26T17:01:16.254508+00:00",
-      "note": "The centering of content inside buttons and text inputs is now expressed with `align-content` in the built-in stylesheet, so pages can override it.",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "Fixed"
-    },
-    {
       "bug": 2061752,
       "created": "2026-08-17T14:05:20.050309+00:00",
       "id": 792075,
@@ -145,18 +157,6 @@
       "is_public": true,
       "modified": "2026-08-26T17:03:23.485909+00:00",
       "note": "Fixed dragging an inline image to a new position in a rich-text editor replacing it with a long line of text instead of moving it.",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "Fixed"
-    },
-    {
-      "bug": 2063835,
-      "created": "2026-08-17T16:32:58.703412+00:00",
-      "id": 792079,
-      "is_public": true,
-      "modified": "2026-08-25T19:50:23.414096+00:00",
-      "note": "[text-box-trim][1] now uses the font metrics of a `::first-line` pseudo-element when one applies, matching other browsers and the specification.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/text-box-trim",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
