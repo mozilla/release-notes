@@ -221,6 +221,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": 1776179,
+      "created": "2026-08-26T21:23:36.805149+00:00",
+      "id": 792115,
+      "is_public": true,
+      "modified": "2026-08-26T21:23:36.804968+00:00",
+      "note": "Fixed subtitles not appearing in the Picture-in-Picture window when they are turned on in the video player after Picture-in-Picture has opened.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
