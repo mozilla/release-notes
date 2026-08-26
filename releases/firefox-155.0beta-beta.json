@@ -497,6 +497,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": 2049474,
+      "created": "2026-08-16T14:05:14.695889+00:00",
+      "id": 792070,
+      "is_public": true,
+      "modified": "2026-08-26T14:16:04.454953+00:00",
+      "note": "Fixed WebCodecs `VideoEncoder` hanging on macOS when encoding a `VideoFrame` in NV12 format.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
