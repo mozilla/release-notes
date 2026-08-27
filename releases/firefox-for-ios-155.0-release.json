@@ -1,0 +1,53 @@
+{
+  "bug_list": "",
+  "bug_search_url": "",
+  "channel": "Release",
+  "created": "2026-08-27T21:42:30.966155+00:00",
+  "is_public": false,
+  "modified": "2026-08-27T21:43:00.731797+00:00",
+  "notes": [
+    {
+      "bug": null,
+      "created": "2026-08-27T21:43:36.304345+00:00",
+      "id": 792121,
+      "is_public": true,
+      "modified": "2026-08-27T21:43:36.939807+00:00",
+      "note": "**Google Lens:** Search with images, now rolling out progressively.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 30,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2026-08-27T21:44:01.466301+00:00",
+      "id": 792122,
+      "is_public": true,
+      "modified": "2026-08-27T21:44:01.850665+00:00",
+      "note": "**Tab tray gesture:** Quickly open your tab tray with a new interactive gesture.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 20,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2026-08-27T21:44:23.524720+00:00",
+      "id": 792123,
+      "is_public": true,
+      "modified": "2026-08-27T21:44:23.879105+00:00",
+      "note": "**Performance improvements:** Bug fixes and updates for a smoother Firefox experience.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 10,
+      "tag": "New"
+    }
+  ],
+  "product": "Firefox for iOS",
+  "release_date": "2026-08-30",
+  "slug": "firefox-for-ios-155.0-release",
+  "system_requirements": "## Operating systems\r\n - iOS 15\r\n - iOS 16\r\n - iOS 17\r\n - iOS 18\r\n - iOS 26",
+  "text": "Enjoying Firefox? Leave a review. Got ideas or feedback? Join the conversation on [Mozilla Connect][1]. Need help? Our volunteer support community has you covered on [Mozilla Support][2]\r\n\r\n[1]: https://connect.mozilla.org/\r\n[2]: https://mzl.la/iOSSupport",
+  "title": "Firefox for iOS 155.0 Release",
+  "version": "155.0"
+}

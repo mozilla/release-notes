@@ -1,0 +1,89 @@
+{
+  "bug_list": "",
+  "bug_search_url": "",
+  "channel": "Release",
+  "created": "2026-08-27T21:45:09.313152+00:00",
+  "is_public": false,
+  "modified": "2026-08-27T21:45:42.959850+00:00",
+  "notes": [
+    {
+      "bug": 2051292,
+      "created": "2026-08-27T21:55:02.596266+00:00",
+      "id": 792124,
+      "is_public": true,
+      "modified": "2026-08-27T21:55:32.782587+00:00",
+      "note": "**Toolbar shortcuts:** Long-press a shortcut to edit its setting directly.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 40,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2026-08-27T21:56:11.626691+00:00",
+      "id": 792125,
+      "is_public": true,
+      "modified": "2026-08-27T21:56:12.078589+00:00",
+      "note": "**Tab groups:** Ungroup and share them more easily.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 30,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2026-08-27T21:56:38.247791+00:00",
+      "id": 792126,
+      "is_public": true,
+      "modified": "2026-08-27T21:56:38.627457+00:00",
+      "note": "**Shake to summarize:** Adjust shake sensitivity for easier access to page summaries.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 20,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2026-08-27T21:56:59.337841+00:00",
+      "id": 792127,
+      "is_public": true,
+      "modified": "2026-08-27T21:56:59.780228+00:00",
+      "note": "**Translations:** Now supports Marathi and Urdu.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 10,
+      "tag": "New"
+    },
+    {
+      "bug": 2056362,
+      "created": "2026-08-27T21:57:07.488731+00:00",
+      "id": 792128,
+      "is_public": true,
+      "modified": "2026-08-27T21:57:23.962438+00:00",
+      "note": "**Autofill prompts:** Now automatically close when you move away from a field.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 20,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1699444,
+      "created": "2026-08-27T21:57:29.968407+00:00",
+      "id": 792129,
+      "is_public": true,
+      "modified": "2026-08-27T21:57:47.207097+00:00",
+      "note": "**Private extension tabs:** Tabs opened by extensions while in private browsing now load privately, preventing site data from being left behind in regular browsing.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 10,
+      "tag": "Fixed"
+    }
+  ],
+  "product": "Firefox for Android",
+  "release_date": "2026-09-01",
+  "slug": "firefox-for-android-155.0-release",
+  "system_requirements": "## Operating systems\r\n - Android 8.0 or newer",
+  "text": "Enjoying Firefox? Leave a review. Got ideas or feedback? Join the conversation on [Mozilla Connect][1]. Need help? Our volunteer support community has you covered on [Mozilla Support][2] \r\n\r\n[1]: https://connect.mozilla.org/\r\n[2]: https://mzl.la/AndroidSupport",
+  "title": "Firefox for Android 155.0 Release",
+  "version": "155.0"
+}
