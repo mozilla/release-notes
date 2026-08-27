@@ -67,18 +67,6 @@
       "tag": "New"
     },
     {
-      "bug": 2055599,
-      "created": "2026-08-16T14:06:30.561896+00:00",
-      "id": 792071,
-      "is_public": true,
-      "modified": "2026-08-26T17:59:36.424921+00:00",
-      "note": "The centering of content inside buttons and text inputs is now expressed with `align-content` in the built-in stylesheet, so pages can override it.",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "HTML5"
-    },
-    {
       "bug": 2063835,
       "created": "2026-08-17T16:32:58.703412+00:00",
       "id": 792079,

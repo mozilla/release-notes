@@ -103,6 +103,18 @@
       "tag": "HTML5"
     },
     {
+      "bug": 2055599,
+      "created": "2026-08-16T14:06:30.561896+00:00",
+      "id": 792071,
+      "is_public": true,
+      "modified": "2026-08-27T14:02:36.690496+00:00",
+      "note": "Starting with Firefox 156, in Nightly builds the centering of content inside buttons and text inputs is now expressed with `align-content` in the built-in stylesheet, so pages can override it.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
       "bug": 2064333,
       "created": "2026-08-21T14:24:00.855001+00:00",
       "id": 792094,
