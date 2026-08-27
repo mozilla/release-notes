@@ -91,6 +91,18 @@
       "tag": "New"
     },
     {
+      "bug": 2062212,
+      "created": "2026-08-27T16:01:28.487369+00:00",
+      "id": 792116,
+      "is_public": true,
+      "modified": "2026-08-27T16:01:28.937321+00:00",
+      "note": "Starting with Firefox 156, in Nightly builds, the search bar on the new tab is a real search bar now, showing results on the page instead of sending you to the address bar.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 2051047,
       "created": "2026-07-02T12:53:57.535693+00:00",
       "id": 791872,
