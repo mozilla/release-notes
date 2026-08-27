@@ -55,6 +55,18 @@
       "tag": "New"
     },
     {
+      "bug": 2019042,
+      "created": "2026-08-27T21:16:14.800414+00:00",
+      "id": 792119,
+      "is_public": true,
+      "modified": "2026-08-27T21:16:14.800236+00:00",
+      "note": "[Smart Window][1] includes several enhancements:\r\n\r\n- The suggestion list now shows more results, making it easier to find history and switch to open tabs.  ([Bug 2019042][2])\r\n- The assistant can now answer questions directly using web search results from Exa, instead of handing off to a search engine.  ([Bug 2046183][3],  [Bug 2044385][4])\r\n\r\n\r\n  [1]: https://www.firefox.com/smart-window\r\n  [2]: https://bugzilla.mozilla.org/show_bug.cgi?id=2019042\r\n  [3]: https://bugzilla.mozilla.org/show_bug.cgi?id=2046183\r\n  [4]: https://bugzilla.mozilla.org/show_bug.cgi?id=2044385",
+      "progressive_rollout": true,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 299116,
       "created": "2026-08-03T19:46:21.046926+00:00",
       "id": 791971,
