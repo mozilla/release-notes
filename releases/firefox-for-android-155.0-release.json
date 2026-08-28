@@ -55,6 +55,18 @@
       "tag": "New"
     },
     {
+      "bug": 1998331,
+      "created": "2026-08-28T03:34:04.789627+00:00",
+      "id": 792173,
+      "is_public": true,
+      "modified": "2026-08-28T03:34:04.789444+00:00",
+      "note": "Fixed text inside buttons not being selectable or copyable, which prevented copying direct messages on X and comments on YouTube.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 70,
+      "tag": "Fixed"
+    },
+    {
       "bug": 2056362,
       "created": "2026-08-27T21:57:07.488731+00:00",
       "id": 792128,
