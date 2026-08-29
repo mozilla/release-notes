@@ -19,18 +19,6 @@
       "tag": "New"
     },
     {
-      "bug": 2062892,
-      "created": "2026-08-27T22:23:18.346344+00:00",
-      "id": 792131,
-      "is_public": true,
-      "modified": "2026-08-27T22:23:45.708993+00:00",
-      "note": "Pages can load faster, with [Happy Eyeballs v3][1] trying several ways of connecting to a website at once and using whichever succeeds first.\r\n\r\n\r\n  [1]: https://datatracker.ietf.org/doc/draft-ietf-happy-happyeyeballs-v3/",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 50,
-      "tag": "New"
-    },
-    {
       "bug": 2051545,
       "created": "2026-08-27T22:24:11.346118+00:00",
       "id": 792132,
