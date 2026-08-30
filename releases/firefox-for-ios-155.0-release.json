@@ -3,17 +3,17 @@
   "bug_search_url": "",
   "channel": "Release",
   "created": "2026-08-27T21:42:30.966155+00:00",
-  "is_public": false,
-  "modified": "2026-08-27T21:43:00.731797+00:00",
+  "is_public": true,
+  "modified": "2026-08-30T21:38:59.391195+00:00",
   "notes": [
     {
       "bug": null,
       "created": "2026-08-27T21:43:36.304345+00:00",
       "id": 792121,
       "is_public": true,
-      "modified": "2026-08-27T21:43:36.939807+00:00",
+      "modified": "2026-08-30T21:38:53.184017+00:00",
       "note": "**Google Lens:** Search with images, now rolling out progressively.",
-      "progressive_rollout": false,
+      "progressive_rollout": true,
       "relevant_countries": [],
       "sort_num": 30,
       "tag": "New"
