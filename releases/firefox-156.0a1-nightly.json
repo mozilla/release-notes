@@ -103,6 +103,18 @@
       "tag": "New"
     },
     {
+      "bug": 1966721,
+      "created": "2026-08-30T14:01:19.736772+00:00",
+      "id": 792175,
+      "is_public": true,
+      "modified": "2026-08-30T14:01:20.195995+00:00",
+      "note": "Firefox's built-in PDF viewer now starts up to 45% faster.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
       "bug": 2051047,
       "created": "2026-07-02T12:53:57.535693+00:00",
       "id": 791872,
