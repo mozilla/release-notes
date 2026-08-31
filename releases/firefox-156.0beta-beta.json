@@ -3,8 +3,8 @@
   "bug_search_url": "",
   "channel": "Beta",
   "created": "2026-08-25T19:35:03.599028+00:00",
-  "is_public": false,
-  "modified": "2026-08-26T16:51:22.928064+00:00",
+  "is_public": true,
+  "modified": "2026-08-31T11:58:29.954045+00:00",
   "notes": [
     {
       "bug": 2053447,
@@ -229,6 +229,18 @@
       "is_public": true,
       "modified": "2026-08-26T21:23:36.804968+00:00",
       "note": "Fixed subtitles not appearing in the Picture-in-Picture window when they are turned on in the video player after Picture-in-Picture has opened.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 2063227,
+      "created": "2026-08-31T12:11:22.745645+00:00",
+      "id": 792176,
+      "is_public": true,
+      "modified": "2026-08-31T12:11:23.160348+00:00",
+      "note": "On [Firefox for Android][1], fixed an issue where the date picker could allow selecting dates before the minimum allowed date when a maximum date was also specified.\r\n\r\n  [1]: https://play.google.com/store/apps/details?id=org.mozilla.firefox_beta",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
