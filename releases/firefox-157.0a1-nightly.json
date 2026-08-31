@@ -79,18 +79,6 @@
       "tag": "HTML5"
     },
     {
-      "bug": 2060754,
-      "created": "2026-08-06T15:02:37.770911+00:00",
-      "id": 791986,
-      "is_public": true,
-      "modified": "2026-08-25T19:39:39.093148+00:00",
-      "note": "Starting with Firefox 155, Nightly builds now support the [`at-rule()`][1] function for `@supports`. This allows authors to test for browser support of specific at-rules, such as `@supports at-rule(@scope)`.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/CSS/Reference/At-rules/@supports#at-rule",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "HTML5"
-    },
-    {
       "bug": 1827404,
       "created": "2026-08-08T14:34:39.200986+00:00",
       "id": 791992,
@@ -137,6 +125,30 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "HTML5"
+    },
+    {
+      "bug": 2060755,
+      "created": "2026-08-31T18:55:16.601470+00:00",
+      "id": 792180,
+      "is_public": true,
+      "modified": "2026-08-31T18:56:49.415099+00:00",
+      "note": "Firefox now supports the [`at-rule()`][1] function for [`@supports`][2]. This allows authors to detect for browser support of specific at-rules, such as `@supports at-rule(@scope)` \r\n\r\n[1]: https://developer.mozilla.org/docs/Web/CSS/Reference/At-rules/@supports#at-rule \r\n[2]: https://developer.mozilla.org/docs/Web/CSS/Reference/At-rules/@supports",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 2057763,
+      "created": "2026-08-31T18:50:25.967130+00:00",
+      "id": 792178,
+      "is_public": true,
+      "modified": "2026-08-31T18:50:26.695719+00:00",
+      "note": "Fixed the address bar searching for the typed text instead of opening the selected suggestion when a page was still loading, such as shortly after Firefox started.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
