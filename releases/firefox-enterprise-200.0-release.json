@@ -1,0 +1,41 @@
+{
+  "bug_list": "",
+  "bug_search_url": "",
+  "channel": "Release",
+  "created": "2026-08-26T16:52:24.375082+00:00",
+  "is_public": false,
+  "modified": "2026-09-01T20:12:52.188981+00:00",
+  "notes": [
+    {
+      "bug": null,
+      "created": "2026-08-26T16:53:04.634513+00:00",
+      "id": 792113,
+      "is_public": false,
+      "modified": "2026-08-26T16:53:05.463471+00:00",
+      "note": "Test note for Firefox Enterprise release-notes development",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": ""
+    },
+    {
+      "bug": null,
+      "created": "2026-08-26T16:53:33.771543+00:00",
+      "id": 792114,
+      "is_public": false,
+      "modified": "2026-08-26T16:53:34.282861+00:00",
+      "note": "Second test note for Firefox Enterprise release-notes dev work",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": ""
+    }
+  ],
+  "product": "Firefox Enterprise",
+  "release_date": "2026-08-26",
+  "slug": "firefox-enterprise-200.0-release",
+  "system_requirements": "Test system requirements entry for future Firefox Enterprise",
+  "text": "Test release entry for future Firefox Enterprise release notes",
+  "title": "Firefox Enterprise 200.0 Release",
+  "version": "200.0"
+}
