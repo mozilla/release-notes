@@ -29,6 +29,30 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": ""
+    },
+    {
+      "bug": null,
+      "created": "2026-09-02T18:25:41.366476+00:00",
+      "id": 792185,
+      "is_public": false,
+      "modified": "2026-09-02T18:28:39.508896+00:00",
+      "note": "Fourth test note for Firefox Enterprise release-notes development. (Tag: new)",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2026-09-02T18:24:31.864667+00:00",
+      "id": 792184,
+      "is_public": false,
+      "modified": "2026-09-02T18:25:07.292350+00:00",
+      "note": "Third test note for Firefox Enterprise release-notes development. (Tag: feature)",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Feature"
     }
   ],
   "product": "Firefox Enterprise",
