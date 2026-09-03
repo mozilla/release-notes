@@ -2,9 +2,9 @@
   "bug_list": "",
   "bug_search_url": "",
   "channel": "Release",
-  "created": "2026-08-27T21:46:55.141619+00:00",
-  "is_public": true,
-  "modified": "2026-09-01T12:17:18.436696+00:00",
+  "created": "2026-09-03T14:49:03.963972+00:00",
+  "is_public": false,
+  "modified": "2026-09-03T14:49:03.963715+00:00",
   "notes": [
     {
       "bug": null,
@@ -136,54 +136,6 @@
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 130,
-      "tag": "HTML5"
-    },
-    {
-      "bug": 2059738,
-      "created": "2026-08-27T23:18:48.348943+00:00",
-      "id": 792158,
-      "is_public": true,
-      "modified": "2026-09-03T14:49:55.630311+00:00",
-      "note": "Firefox now supports the [`alpha()`][1] CSS function. This is a relative color function that can be used to modify just the alpha component of a given color.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/CSS/Reference/Values/color_value/alpha",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 120,
-      "tag": "HTML5"
-    },
-    {
-      "bug": 2057270,
-      "created": "2026-08-27T23:19:19.076409+00:00",
-      "id": 792159,
-      "is_public": true,
-      "modified": "2026-09-03T14:49:55.086001+00:00",
-      "note": "Firefox now supports the `Promise.allKeyed` and `Promise.allSettledKeyed` methods from the await dictionary proposal, which take an object of promises and resolve to an object of results with the same keys.",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 110,
-      "tag": "HTML5"
-    },
-    {
-      "bug": 2062344,
-      "created": "2026-08-27T23:19:49.498639+00:00",
-      "id": 792160,
-      "is_public": true,
-      "modified": "2026-09-03T14:49:53.835316+00:00",
-      "note": "Firefox now supports the WebAssembly Compact Import Section proposal, which can reduce the size of WebAssembly modules with many imports.",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 100,
-      "tag": "HTML5"
-    },
-    {
-      "bug": 2062374,
-      "created": "2026-08-27T23:20:15.224660+00:00",
-      "id": 792161,
-      "is_public": true,
-      "modified": "2026-09-03T14:49:54.347792+00:00",
-      "note": "Firefox now supports the WebAssembly Wide Arithmetic proposal, which adds 128-bit arithmetic instructions for better performance in cryptography and arbitrary-precision math.",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 90,
       "tag": "HTML5"
     },
     {
@@ -415,18 +367,6 @@
       "tag": "Fixed"
     },
     {
-      "bug": 2064936,
-      "created": "2026-08-28T02:33:02.522695+00:00",
-      "id": 792172,
-      "is_public": true,
-      "modified": "2026-09-03T14:49:48.795310+00:00",
-      "note": "Fixed the sound indicator disappearing from a tab that was moved to another window, leaving no way to see or mute what was playing.",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 55,
-      "tag": "Fixed"
-    },
-    {
       "bug": 2057365,
       "created": "2026-08-27T22:32:26.382659+00:00",
       "id": 792141,
@@ -487,30 +427,6 @@
       "tag": "Fixed"
     },
     {
-      "bug": null,
-      "created": "2026-08-27T23:27:49.427565+00:00",
-      "id": 792171,
-      "is_public": true,
-      "modified": "2026-09-03T14:49:47.741814+00:00",
-      "note": "Various [security fixes][1].\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/mfsa2026-82/",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "Fixed"
-    },
-    {
-      "bug": null,
-      "created": "2026-08-27T23:26:44.575974+00:00",
-      "id": 792170,
-      "is_public": true,
-      "modified": "2026-09-03T14:49:51.125024+00:00",
-      "note": "With the release of Firefox 155, we are pleased to welcome the developers who contributed their first code change to Firefox in this release, 20 of whom were brand new volunteers! Please join us in thanking each of these diligent and enthusiastic individuals, and take a look at their contributions:\r\n\r\n* Artem Bilous: <a href=\"https://bugzilla.mozilla.org/2056733\">2056733</a>\r\n* Cameron: <a href=\"https://bugzilla.mozilla.org/2052559\">2052559</a>, <a href=\"https://bugzilla.mozilla.org/2052619\">2052619</a>\r\n* Colden Cullen: <a href=\"https://bugzilla.mozilla.org/2060708\">2060708</a>\r\n* Dan: <a href=\"https://bugzilla.mozilla.org/1735300\">1735300</a>\r\n* Fede: <a href=\"https://bugzilla.mozilla.org/1418178\">1418178</a>, <a href=\"https://bugzilla.mozilla.org/2040498\">2040498</a>, <a href=\"https://bugzilla.mozilla.org/2046774\">2046774</a>\r\n* Giulio B: <a href=\"https://bugzilla.mozilla.org/2048884\">2048884</a>\r\n* K: <a href=\"https://bugzilla.mozilla.org/1642578\">1642578</a>\r\n* Kevin Gosse: <a href=\"https://bugzilla.mozilla.org/2054036\">2054036</a>\r\n* Michael F: <a href=\"https://bugzilla.mozilla.org/2052438\">2052438</a>\r\n* mikey gough: <a href=\"https://bugzilla.mozilla.org/2053551\">2053551</a>\r\n* munawiki: <a href=\"https://bugzilla.mozilla.org/2055309\">2055309</a>\r\n* Nathan Leuz: <a href=\"https://bugzilla.mozilla.org/2053550\">2053550</a>\r\n* Nirmal Advani: <a href=\"https://bugzilla.mozilla.org/1804108\">1804108</a>, <a href=\"https://bugzilla.mozilla.org/2003174\">2003174</a>, <a href=\"https://bugzilla.mozilla.org/2003177\">2003177</a>, <a href=\"https://bugzilla.mozilla.org/2003181\">2003181</a>, <a href=\"https://bugzilla.mozilla.org/2031618\">2031618</a>, <a href=\"https://bugzilla.mozilla.org/2033570\">2033570</a>, <a href=\"https://bugzilla.mozilla.org/2046156\">2046156</a>, <a href=\"https://bugzilla.mozilla.org/2052618\">2052618</a>, <a href=\"https://bugzilla.mozilla.org/2053543\">2053543</a>, <a href=\"https://bugzilla.mozilla.org/2053566\">2053566</a>, <a href=\"https://bugzilla.mozilla.org/2053568\">2053568</a>, <a href=\"https://bugzilla.mozilla.org/2053977\">2053977</a>, <a href=\"https://bugzilla.mozilla.org/2058556\">2058556</a>, <a href=\"https://bugzilla.mozilla.org/2059866\">2059866</a>, <a href=\"https://bugzilla.mozilla.org/2060649\">2060649</a>\r\n* Priyanshu[:0xanshu]: <a href=\"https://bugzilla.mozilla.org/1977947\">1977947</a>\r\n* Richard Van Natta[:rnvannatta]: <a href=\"https://bugzilla.mozilla.org/2052617\">2052617</a>\r\n* Ruhollah Majdoddin: <a href=\"https://bugzilla.mozilla.org/1856645\">1856645</a>, <a href=\"https://bugzilla.mozilla.org/2060029\">2060029</a>, <a href=\"https://bugzilla.mozilla.org/2061166\">2061166</a>, <a href=\"https://bugzilla.mozilla.org/2061348\">2061348</a>\r\n* Shawn Zivontsis: <a href=\"https://bugzilla.mozilla.org/2025999\">2025999</a>\r\n* Simon Rosen: <a href=\"https://bugzilla.mozilla.org/1875517\">1875517</a>\r\n* Yuxiao Zhu: <a href=\"https://bugzilla.mozilla.org/1861034\">1861034</a>\r\n* Zyphrenn: <a href=\"https://bugzilla.mozilla.org/2033961\">2033961</a>, <a href=\"https://bugzilla.mozilla.org/2059969\">2059969</a>",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "Community"
-    },
-    {
       "bug": 2065431,
       "created": "2026-08-27T18:07:54.218152+00:00",
       "id": 792117,
@@ -521,25 +437,13 @@
       "relevant_countries": [],
       "sort_num": 30,
       "tag": "Known"
-    },
-    {
-      "bug": 2067488,
-      "created": "2026-08-31T17:01:01.182784+00:00",
-      "id": 792177,
-      "is_public": true,
-      "modified": "2026-09-03T14:49:45.817760+00:00",
-      "note": "Some sites may load slowly or fail to load on networks that block UDP. This can affect e.g. corporate networks where a proxy or firewall blocks QUIC as part of TLS inspection. To work around it, set `network.http.happy_eyeballs_enabled` to `false` with the `Preferences` policy. A fix is planned for the 155.0.1 release shipping no later than 8-September. ([Bug 2063452][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=2063452",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "Known"
     }
   ],
   "product": "Firefox",
   "release_date": "2026-09-01",
-  "slug": "firefox-155.0-release",
+  "slug": "firefox-copy-155.0-release",
   "system_requirements": "## Windows\r\n\r\n### Operating Systems (32-bit and 64-bit)\r\n - Windows 10 or later\r\n\r\n### Recommended Hardware\r\n-  1 gigahertz (GHz) or faster compatible processor or System on a Chip (SoC)\r\n-  1GB of RAM / 2GB of RAM for the 64-bit version\r\n-  500MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- macOS 10.15 or later \r\n\r\n### Recommended Hardware\r\n- Macintosh computer with an Intel x86 or Apple silicon processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - glibc 2.17 or higher (glibc 2.28 or higher on arm64)\r\n    - GTK+ 3.14 or higher\r\n    - libglib 2.42 or higher\r\n    - libstdc++ 4.8.1 or higher (libstdc++ 6.0 or higher on arm64)\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - DBus 1.0 or higher\r\n    - NetworkManager 0.7 or higher\r\n    - PulseAudio",
   "text": "",
-  "title": "Firefox 155.0 Release",
-  "version": "155.0"
+  "title": "Firefox copy-155.0 Release",
+  "version": "copy-155.0"
 }
