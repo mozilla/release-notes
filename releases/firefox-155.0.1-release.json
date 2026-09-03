@@ -7,6 +7,18 @@
   "modified": "2026-09-03T14:50:31.462235+00:00",
   "notes": [
     {
+      "bug": 2068836,
+      "created": "2026-09-03T18:38:08.936105+00:00",
+      "id": 792190,
+      "is_public": true,
+      "modified": "2026-09-03T18:38:24.299466+00:00",
+      "note": "Fixed Firefox freezing on pages that use the CSS blur filter. ([Bug 2068836][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=2068836",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 200,
+      "tag": ""
+    },
+    {
       "bug": null,
       "created": "2026-09-03T14:51:06.467262+00:00",
       "id": 792187,
@@ -17,6 +29,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": ""
+    },
+    {
+      "bug": 2065431,
+      "created": "2026-09-03T18:37:20.537952+00:00",
+      "id": 792189,
+      "is_public": true,
+      "modified": "2026-09-03T18:37:21.127885+00:00",
+      "note": "Fixed the sidebar being hidden after every restart, requiring it to be turned on again manually. ([Bug 2065431][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=2065431",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 100,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
