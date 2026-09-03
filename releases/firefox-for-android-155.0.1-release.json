@@ -5,7 +5,20 @@
   "created": "2026-09-03T14:49:04.086307+00:00",
   "is_public": false,
   "modified": "2026-09-03T14:49:33.073172+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": null,
+      "created": "2026-09-03T14:52:07.303226+00:00",
+      "id": 792188,
+      "is_public": true,
+      "modified": "2026-09-03T14:52:07.902415+00:00",
+      "note": "Reference link to [155.0 release notes][1].\r\n\r\n\r\n  [1]: https://www.firefox.com/firefox/android/155.0/releasenotes/",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": ""
+    }
+  ],
   "product": "Firefox for Android",
   "release_date": "2026-09-08",
   "slug": "firefox-for-android-155.0.1-release",
