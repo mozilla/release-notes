@@ -149,6 +149,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": 2008887,
+      "created": "2026-09-03T07:56:53.959247+00:00",
+      "id": 792186,
+      "is_public": true,
+      "modified": "2026-09-03T07:56:54.829049+00:00",
+      "note": "HDR videos encoded as 8bit color formats now properly display as HDR in most cases, this fixes several cases of dull gray looking videos that should have been more vibrant.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
