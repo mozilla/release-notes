@@ -139,6 +139,18 @@
       "tag": "HTML5"
     },
     {
+      "bug": 2036966,
+      "created": "2026-09-07T09:36:39.219966+00:00",
+      "id": 792195,
+      "is_public": true,
+      "modified": "2026-09-07T09:36:39.904006+00:00",
+      "note": "Firefox now supports the `chain` value for the CSS `overscroll-behavior` property.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
       "bug": 2057763,
       "created": "2026-08-31T18:50:25.967130+00:00",
       "id": 792178,
