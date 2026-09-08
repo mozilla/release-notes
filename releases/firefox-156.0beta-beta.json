@@ -245,6 +245,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": 2066852,
+      "created": "2026-09-08T17:38:49.930197+00:00",
+      "id": 792203,
+      "is_public": true,
+      "modified": "2026-09-08T17:38:50.398524+00:00",
+      "note": "Fixed some sites failing to load when DNS over HTTPS is enabled and the site does not support HTTPS.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
