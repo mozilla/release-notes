@@ -1,0 +1,41 @@
+{
+  "bug_list": "",
+  "bug_search_url": "",
+  "channel": "Release",
+  "created": "2026-09-08T15:59:47.777511+00:00",
+  "is_public": false,
+  "modified": "2026-09-08T16:00:31.781386+00:00",
+  "notes": [
+    {
+      "bug": null,
+      "created": "2026-09-08T16:02:28.446771+00:00",
+      "id": 792201,
+      "is_public": true,
+      "modified": "2026-09-08T16:02:28.898482+00:00",
+      "note": "Various [security fixes][1].\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/advisories",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": ""
+    },
+    {
+      "bug": null,
+      "created": "2026-09-08T16:11:50.979669+00:00",
+      "id": 792202,
+      "is_public": true,
+      "modified": "2026-09-08T16:11:50.979543+00:00",
+      "note": "With the release of Firefox 156, we are pleased to welcome the developers who contributed their first code change to Firefox in this release, 10 of whom were brand new volunteers! Please join us in thanking each of these diligent and enthusiastic individuals, and take a look at their contributions:\r\n\r\n* Aaron Ma: <a href=\"https://bugzilla.mozilla.org/2063818\">2063818</a>\r\n* Dominik Bay [:eimann]: <a href=\"https://bugzilla.mozilla.org/2066736\">2066736</a>\r\n* ExplodingJoysticks: <a href=\"https://bugzilla.mozilla.org/1728637\">1728637</a>, <a href=\"https://bugzilla.mozilla.org/1890400\">1890400</a>, <a href=\"https://bugzilla.mozilla.org/1910664\">1910664</a>, <a href=\"https://bugzilla.mozilla.org/1928343\">1928343</a>, <a href=\"https://bugzilla.mozilla.org/1944206\">1944206</a>, <a href=\"https://bugzilla.mozilla.org/2000658\">2000658</a>, <a href=\"https://bugzilla.mozilla.org/2003000\">2003000</a>, <a href=\"https://bugzilla.mozilla.org/2059911\">2059911</a>, <a href=\"https://bugzilla.mozilla.org/2061541\">2061541</a>\r\n* Gopalarathnam Venkatesan: <a href=\"https://bugzilla.mozilla.org/2003172\">2003172</a>, <a href=\"https://bugzilla.mozilla.org/2042426\">2042426</a>, <a href=\"https://bugzilla.mozilla.org/2062096\">2062096</a>, <a href=\"https://bugzilla.mozilla.org/2062952\">2062952</a>, <a href=\"https://bugzilla.mozilla.org/2062989\">2062989</a>\r\n* Hugo Osvaldo Barrera: <a href=\"https://bugzilla.mozilla.org/2063808\">2063808</a>\r\n* Kana: <a href=\"https://bugzilla.mozilla.org/2062133\">2062133</a>\r\n* Kerissa Grubb: <a href=\"https://bugzilla.mozilla.org/2042422\">2042422</a>\r\n* Louis-Philippe Manette: <a href=\"https://bugzilla.mozilla.org/2062972\">2062972</a>, <a href=\"https://bugzilla.mozilla.org/2063867\">2063867</a>\r\n* Seunghyun An: <a href=\"https://bugzilla.mozilla.org/2063033\">2063033</a>\r\n* William McDonald: <a href=\"https://bugzilla.mozilla.org/1034964\">1034964</a>",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Community"
+    }
+  ],
+  "product": "Firefox",
+  "release_date": "2026-09-15",
+  "slug": "firefox-156.0-release",
+  "system_requirements": "## Windows\r\n\r\n### Operating Systems (32-bit and 64-bit)\r\n - Windows 10 or later\r\n\r\n### Recommended Hardware\r\n-  1 gigahertz (GHz) or faster compatible processor or System on a Chip (SoC)\r\n-  1GB of RAM / 2GB of RAM for the 64-bit version\r\n-  500MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- macOS 10.15 or later \r\n\r\n### Recommended Hardware\r\n- Macintosh computer with an Intel x86 or Apple silicon processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - glibc 2.17 or higher (glibc 2.28 or higher on arm64)\r\n    - GTK+ 3.14 or higher\r\n    - libglib 2.42 or higher\r\n    - libstdc++ 4.8.1 or higher (libstdc++ 6.0 or higher on arm64)\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - DBus 1.0 or higher\r\n    - NetworkManager 0.7 or higher\r\n    - PulseAudio",
+  "text": "",
+  "title": "Firefox 156.0 Release",
+  "version": "156.0"
+}
