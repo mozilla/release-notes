@@ -163,18 +163,6 @@
       "tag": "Fixed"
     },
     {
-      "bug": 2062642,
-      "created": "2026-08-18T14:56:58.640359+00:00",
-      "id": 792081,
-      "is_public": true,
-      "modified": "2026-08-26T17:02:22.790455+00:00",
-      "note": "On all devices, WebRTC video calls may now use hardware AV1 decoding instead of falling back to software.",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "Fixed"
-    },
-    {
       "bug": 2060830,
       "created": "2026-08-19T13:06:16.814007+00:00",
       "id": 792087,
@@ -193,6 +181,18 @@
       "is_public": true,
       "modified": "2026-08-25T19:51:40.779680+00:00",
       "note": "Fixed the find bar becoming permanently unavailable in a tab after reversing the panes in Split View.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 2044707,
+      "created": "2026-08-23T14:31:04.991429+00:00",
+      "id": 792096,
+      "is_public": true,
+      "modified": "2026-09-08T16:45:20.297142+00:00",
+      "note": "Fixed an issue where dragging a folder and its contents together in the Bookmarks sidebar caused items to move out of the folder.",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
