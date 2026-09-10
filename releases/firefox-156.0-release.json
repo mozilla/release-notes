@@ -163,6 +163,18 @@
       "tag": "Fixed"
     },
     {
+      "bug": 2067586,
+      "created": "2026-09-10T17:39:03.442057+00:00",
+      "id": 792226,
+      "is_public": true,
+      "modified": "2026-09-10T17:39:03.441922+00:00",
+      "note": "Fixed Firefox losing all network connectivity for some users with the built-in VPN enabled.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 63,
+      "tag": "Fixed"
+    },
+    {
       "bug": 2064534,
       "created": "2026-09-10T15:52:04.930441+00:00",
       "id": 792220,
