@@ -19,6 +19,54 @@
       "tag": "New"
     },
     {
+      "bug": 2064557,
+      "created": "2026-09-10T15:43:56.796315+00:00",
+      "id": 792213,
+      "is_public": true,
+      "modified": "2026-09-10T15:43:57.240775+00:00",
+      "note": "Localized Wikipedia and occasional sponsored suggestions in the address bar are now available in France, Germany, and Italy. These suggestions can be turned off in Firefox Suggest settings.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 85,
+      "tag": "New"
+    },
+    {
+      "bug": 2061788,
+      "created": "2026-09-10T15:45:17.512319+00:00",
+      "id": 792214,
+      "is_public": true,
+      "modified": "2026-09-10T15:45:18.012342+00:00",
+      "note": "Fixed dragging an inline image to a new position in a rich-text editor replacing it with a long line of text instead of moving it.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 90,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 2060830,
+      "created": "2026-09-10T15:46:10.524819+00:00",
+      "id": 792215,
+      "is_public": true,
+      "modified": "2026-09-10T15:46:11.000704+00:00",
+      "note": "Fixed high-sample-rate FLAC audio in MP4 failing to play on sites such as Bilibili.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 85,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1776179,
+      "created": "2026-09-10T15:47:03.197230+00:00",
+      "id": 792216,
+      "is_public": true,
+      "modified": "2026-09-10T15:47:03.536915+00:00",
+      "note": "Fixed subtitles not appearing in the Picture-in-Picture window when they are turned on in the video player after Picture-in-Picture has opened.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 80,
+      "tag": "Fixed"
+    },
+    {
       "bug": null,
       "created": "2026-09-08T16:02:28.446771+00:00",
       "id": 792201,
