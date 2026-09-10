@@ -8,15 +8,75 @@
   "notes": [
     {
       "bug": null,
+      "created": "2026-09-10T15:07:25.292810+00:00",
+      "id": 792207,
+      "is_public": true,
+      "modified": "2026-09-10T15:07:25.720911+00:00",
+      "note": "Built-in VPN: Get 50 GB of protected browsing each month to help hide your IP address and location. Available in select countries, with more coming soon.",
+      "progressive_rollout": true,
+      "relevant_countries": [],
+      "sort_num": 90,
+      "tag": "New"
+    },
+    {
+      "bug": 2063332,
+      "created": "2026-09-10T15:07:54.140058+00:00",
+      "id": 792208,
+      "is_public": true,
+      "modified": "2026-09-10T15:07:54.493988+00:00",
+      "note": "Better media controls: Skip forward or back and use the timeline to find your spot right from the media notification.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 85,
+      "tag": "New"
+    },
+    {
+      "bug": 2061755,
+      "created": "2026-09-10T15:08:48.473633+00:00",
+      "id": 792209,
+      "is_public": true,
+      "modified": "2026-09-10T15:08:49.016855+00:00",
+      "note": "Android sharing: On Android 14 and later, sharing uses the familiar Android share menu, with additional Firefox options like Send tab to device and Scan QR code. Earlier Android versions keep the existing Firefox share screen.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 80,
+      "tag": "New"
+    },
+    {
+      "bug": 2063609,
+      "created": "2026-09-10T15:09:28.735101+00:00",
+      "id": 792210,
+      "is_public": true,
+      "modified": "2026-09-10T15:09:29.132936+00:00",
+      "note": "Selecting files from Android file providers no longer causes Firefox to crash.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 90,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 2063227,
+      "created": "2026-09-10T15:10:06.410547+00:00",
+      "id": 792211,
+      "is_public": true,
+      "modified": "2026-09-10T15:10:06.811891+00:00",
+      "note": "Date pickers now respect the minimum allowed date when a maximum date is also set.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 80,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
       "created": "2026-09-08T16:02:28.446771+00:00",
       "id": 792201,
       "is_public": true,
-      "modified": "2026-09-08T16:02:28.898482+00:00",
+      "modified": "2026-09-10T15:08:13.721568+00:00",
       "note": "Various [security fixes][1].\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/advisories",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
-      "tag": ""
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox for Android",
