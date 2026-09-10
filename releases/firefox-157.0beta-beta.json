@@ -7,6 +7,18 @@
   "modified": "2026-09-10T08:09:50.412782+00:00",
   "notes": [
     {
+      "bug": 2067606,
+      "created": "2026-09-10T09:37:56.231164+00:00",
+      "id": 792204,
+      "is_public": true,
+      "modified": "2026-09-10T09:38:08.379870+00:00",
+      "note": "Tapping the search field on the Firefox for Android homepage now shows your recent searches",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 2060755,
       "created": "2026-08-31T18:55:16.601470+00:00",
       "id": 792180,
