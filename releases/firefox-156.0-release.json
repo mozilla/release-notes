@@ -55,6 +55,18 @@
       "tag": "Changed"
     },
     {
+      "bug": 2061752,
+      "created": "2026-09-10T15:52:48.050163+00:00",
+      "id": 792221,
+      "is_public": true,
+      "modified": "2026-09-10T17:23:30.494654+00:00",
+      "note": "On Windows devices with ARM64 processors, WebRTC video calls may now use hardware H264 decoding instead of falling back to software.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 55,
+      "tag": "Changed"
+    },
+    {
       "bug": 2063835,
       "created": "2026-09-10T15:55:49.706240+00:00",
       "id": 792225,
@@ -107,8 +119,8 @@
       "created": "2026-09-10T15:47:03.197230+00:00",
       "id": 792216,
       "is_public": true,
-      "modified": "2026-09-10T15:47:03.536915+00:00",
-      "note": "Fixed subtitles not appearing in the Picture-in-Picture window when they are turned on in the video player after Picture-in-Picture has opened.",
+      "modified": "2026-09-10T17:20:43.197755+00:00",
+      "note": "Fixed subtitles not appearing in the Picture-in-Picture window when they are turned on in the video player after the window has already opened.",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 80,
@@ -119,8 +131,8 @@
       "created": "2026-09-10T15:50:21.700301+00:00",
       "id": 792217,
       "is_public": true,
-      "modified": "2026-09-10T15:50:21.700019+00:00",
-      "note": "Fixed an issue where dragging a folder and its contents together in the Bookmarks sidebar caused items to move out of the folder.",
+      "modified": "2026-09-10T17:22:20.549791+00:00",
+      "note": "Fixed bookmarks moving out of their folder when the folder and the bookmarks inside it were selected and dragged together in the Bookmarks sidebar.",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 75,
@@ -160,18 +172,6 @@
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 60,
-      "tag": "Fixed"
-    },
-    {
-      "bug": 2061752,
-      "created": "2026-09-10T15:52:48.050163+00:00",
-      "id": 792221,
-      "is_public": true,
-      "modified": "2026-09-10T15:52:48.569668+00:00",
-      "note": "On Windows devices with ARM64 processors, WebRTC video calls may now use hardware H264 decoding instead of falling back to software.",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 55,
       "tag": "Fixed"
     },
     {
