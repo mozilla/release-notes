@@ -5,7 +5,32 @@
   "created": "2026-09-08T16:01:44.728324+00:00",
   "is_public": false,
   "modified": "2026-09-08T16:01:44.728093+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": null,
+      "created": "2026-09-10T13:24:31.348489+00:00",
+      "id": 792205,
+      "is_public": true,
+      "modified": "2026-09-10T13:24:31.921864+00:00",
+      "note": "Built-in ad blocker: Cut down on annoying ads for a cleaner, less cluttered browsing experience. Turn it on under Settings > Browsing.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 90,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2026-09-10T13:25:07.800665+00:00",
+      "id": 792206,
+      "is_public": true,
+      "modified": "2026-09-10T13:25:08.246303+00:00",
+      "note": "Report broken sites: Something not working right? Report the site straight from the menu with a single tap.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    }
+  ],
   "product": "Firefox for iOS",
   "release_date": "2026-09-15",
   "slug": "firefox-for-ios-156.0-release",
