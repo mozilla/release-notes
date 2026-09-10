@@ -31,6 +31,54 @@
       "tag": "New"
     },
     {
+      "bug": 1966721,
+      "created": "2026-09-10T15:53:21.325044+00:00",
+      "id": 792222,
+      "is_public": true,
+      "modified": "2026-09-10T15:53:21.806833+00:00",
+      "note": "Firefox's built-in PDF viewer now starts up to 45% faster.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 90,
+      "tag": "Changed"
+    },
+    {
+      "bug": 2033250,
+      "created": "2026-09-10T15:53:47.219468+00:00",
+      "id": 792223,
+      "is_public": true,
+      "modified": "2026-09-10T15:53:47.579423+00:00",
+      "note": "Improved memory and CPU usage when Firefox displays large JPEG images scaled down to fit a page.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 80,
+      "tag": "Changed"
+    },
+    {
+      "bug": 2063835,
+      "created": "2026-09-10T15:55:49.706240+00:00",
+      "id": 792225,
+      "is_public": true,
+      "modified": "2026-09-10T15:55:50.095433+00:00",
+      "note": "[text-box-trim][1] now uses the font metrics of a `::first-line` pseudo-element when one applies, matching other browsers and the specification.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/text-box-trim",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": null,
+      "created": "2026-09-10T15:54:20.387461+00:00",
+      "id": 792224,
+      "is_public": true,
+      "modified": "2026-09-10T15:54:20.774421+00:00",
+      "note": "You can find information about policy updates and enterprise-specific bug fixes in the [Firefox for Enterprise 156 Release Notes][1].\r\n\r\n\r\n  [1]: https://firefox-admin-docs.mozilla.org/release-notes/version/firefox-156/",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Enterprise"
+    },
+    {
       "bug": 2061788,
       "created": "2026-09-10T15:45:17.512319+00:00",
       "id": 792214,
@@ -64,6 +112,66 @@
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 80,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 2044707,
+      "created": "2026-09-10T15:50:21.700301+00:00",
+      "id": 792217,
+      "is_public": true,
+      "modified": "2026-09-10T15:50:21.700019+00:00",
+      "note": "Fixed an issue where dragging a folder and its contents together in the Bookmarks sidebar caused items to move out of the folder.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 75,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 2056718,
+      "created": "2026-09-10T15:50:57.813537+00:00",
+      "id": 792218,
+      "is_public": true,
+      "modified": "2026-09-10T15:50:58.266439+00:00",
+      "note": "Fixed the find bar becoming permanently unavailable in a tab after reversing the panes in Split View.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 70,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 2066852,
+      "created": "2026-09-10T15:51:29.198565+00:00",
+      "id": 792219,
+      "is_public": true,
+      "modified": "2026-09-10T15:51:29.589236+00:00",
+      "note": "Fixed some sites failing to load when DNS over HTTPS is enabled and the site does not support HTTPS.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 65,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 2064534,
+      "created": "2026-09-10T15:52:04.930441+00:00",
+      "id": 792220,
+      "is_public": true,
+      "modified": "2026-09-10T15:52:05.243568+00:00",
+      "note": "Fixed an issue on Windows where Firefox could block an auto-hiding taskbar from showing.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 60,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 2061752,
+      "created": "2026-09-10T15:52:48.050163+00:00",
+      "id": 792221,
+      "is_public": true,
+      "modified": "2026-09-10T15:52:48.569668+00:00",
+      "note": "On Windows devices with ARM64 processors, WebRTC video calls may now use hardware H264 decoding instead of falling back to software.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 55,
       "tag": "Fixed"
     },
     {
