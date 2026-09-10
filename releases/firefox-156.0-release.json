@@ -7,6 +7,18 @@
   "modified": "2026-09-08T16:00:31.781386+00:00",
   "notes": [
     {
+      "bug": 2053447,
+      "created": "2026-09-10T15:38:18.264571+00:00",
+      "id": 792212,
+      "is_public": true,
+      "modified": "2026-09-10T15:38:18.851938+00:00",
+      "note": "Firefox on macOS can now be set to open automatically when the computer starts up, from the Startup section of Settings.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 90,
+      "tag": "New"
+    },
+    {
       "bug": null,
       "created": "2026-09-08T16:02:28.446771+00:00",
       "id": 792201,
