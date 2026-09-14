@@ -4,7 +4,7 @@
   "channel": "Nightly",
   "created": "2026-09-09T13:32:59.427338+00:00",
   "is_public": true,
-  "modified": "2026-09-10T18:57:00.378189+00:00",
+  "modified": "2026-09-14T12:31:30.441557+00:00",
   "notes": [
     {
       "bug": 2067488,
@@ -121,6 +121,42 @@
       "is_public": true,
       "modified": "2026-09-14T12:01:16.052560+00:00",
       "note": "Starting with Firefox 156, Firefox Nightly supports [Scoped Custom Element Registries][1]. Those registries can be created using the `CustomElementRegistry()` constructor that are separate from the global `window.customElements` registry. Creating more than one registry is useful for multiple custom elements that have the same tag name to coexist.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/API/Web_components/Using_custom_elements#scoped_custom_element_registries",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 2070497,
+      "created": "2026-09-14T12:25:50.328603+00:00",
+      "id": 792227,
+      "is_public": true,
+      "modified": "2026-09-14T12:25:51.112859+00:00",
+      "note": "Starting with Firefox 158, the [Sanitizer API][1] in Firefox Nightly builds sanitizes while parsing rather than the reified tree, extending sanitizing to scoped registries and declarative shadow roots.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/API/HTML_Sanitizer_API",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 2070927,
+      "created": "2026-09-14T12:28:15.568245+00:00",
+      "id": 792228,
+      "is_public": true,
+      "modified": "2026-09-14T12:28:16.117272+00:00",
+      "note": "Starting with Firefox 158, Firefox Nightly supports the [`corner-shape`][1] property, including all `corner-*-shape` longhand properties, allowing to change the shape of the corners of an element.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/corner-shape",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 2069920,
+      "created": "2026-09-14T12:31:10.624434+00:00",
+      "id": 792229,
+      "is_public": true,
+      "modified": "2026-09-14T12:31:11.113569+00:00",
+      "note": "Added support for the [`navigate`][1] option for the `Notification` constructor and `ServiceWorkerRegistration.showNotification()`, which specifies a URL to navigate to when the notification is clicked.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/API/Notification/navigate",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
