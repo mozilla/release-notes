@@ -161,6 +161,30 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "HTML5"
+    },
+    {
+      "bug": 2040812,
+      "created": "2026-09-15T12:14:13.566815+00:00",
+      "id": 792230,
+      "is_public": true,
+      "modified": "2026-09-15T12:14:14.143402+00:00",
+      "note": "The [WebAuthn conditional UI][1] will now be shown on input elements with an `autocomplete=\"webauthn\"` attribute. Previously, the UI would only be shown on input elements with additional autofill field values, e.g. `autocomplete=\"username webauthn\"`.\r\n([Learn more][2])\r\n\r\n\r\n  [1]: https://github.com/w3c/webauthn/blob/main/explainers/conditional-ui.md\r\n  [2]: https://html.spec.whatwg.org/multipage/form-control-infrastructure.html#autofill-processing-model",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 2037167,
+      "created": "2026-09-15T12:19:31.820675+00:00",
+      "id": 792231,
+      "is_public": true,
+      "modified": "2026-09-15T12:19:32.246623+00:00",
+      "note": "Menus such as the *List all tabs* menu, the *Settings* menu, and *Unified Search* menu are now visually consistent on Windows with a High Contrast theme. The user is now able to customize menu background color and text color when creating a custom theme in Windows Settings by setting Background and Text, respectively.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
