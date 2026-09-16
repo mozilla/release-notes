@@ -175,6 +175,18 @@
       "tag": "HTML5"
     },
     {
+      "bug": 2071165,
+      "created": "2026-09-16T14:27:19.453882+00:00",
+      "id": 792232,
+      "is_public": true,
+      "modified": "2026-09-16T14:27:20.052951+00:00",
+      "note": "Starting with Firefox 158, Firefox Nightly now supports the [`random()`][1] CSS function, which allows authors to introduce randomness into their styles, generating a random value in a given range (with an optional increment) that is usable anywhere that math functions can be specified.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Values/random",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
       "bug": 2037167,
       "created": "2026-09-15T12:19:31.820675+00:00",
       "id": 792231,
