@@ -197,6 +197,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": 1372506,
+      "created": "2026-09-17T00:36:18.026016+00:00",
+      "id": 792233,
+      "is_public": true,
+      "modified": "2026-09-17T00:36:18.626362+00:00",
+      "note": "PDF generation (for saving as PDF and also printing on Linux and macOS) now uses SkPDF. This allows PDFs to be more accessible, and also fixes a variety of PDF rendering issues.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
