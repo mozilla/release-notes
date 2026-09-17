@@ -139,18 +139,6 @@
       "tag": "HTML5"
     },
     {
-      "bug": 2070927,
-      "created": "2026-09-14T12:28:15.568245+00:00",
-      "id": 792228,
-      "is_public": true,
-      "modified": "2026-09-14T12:28:16.117272+00:00",
-      "note": "Starting with Firefox 158, Firefox Nightly supports the [`corner-shape`][1] property, including all `corner-*-shape` longhand properties, allowing to change the shape of the corners of an element.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/corner-shape",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "HTML5"
-    },
-    {
       "bug": 2069920,
       "created": "2026-09-14T12:31:10.624434+00:00",
       "id": 792229,
