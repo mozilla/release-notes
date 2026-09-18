@@ -199,6 +199,18 @@
       "tag": "HTML5"
     },
     {
+      "bug": 1719394,
+      "created": "2026-09-18T14:30:09.318094+00:00",
+      "id": 792235,
+      "is_public": true,
+      "modified": "2026-09-18T14:30:24.109861+00:00",
+      "note": "Fixed an issue where the Network Monitor could miss WebSocket messages if they arrived immediately after a connection was established.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
       "bug": 2037167,
       "created": "2026-09-15T12:19:31.820675+00:00",
       "id": 792231,
