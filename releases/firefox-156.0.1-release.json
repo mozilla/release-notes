@@ -17,6 +17,54 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": ""
+    },
+    {
+      "bug": 2069276,
+      "created": "2026-09-21T14:02:37.411264+00:00",
+      "id": 792239,
+      "is_public": true,
+      "modified": "2026-09-21T14:02:38.073043+00:00",
+      "note": "Fixed the NVDA screen reader not announcing address bar buttons when the mouse pointer moves over them. ([Bug 206927][1]6)\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=2069276",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 2067272,
+      "created": "2026-09-21T14:03:51.661363+00:00",
+      "id": 792240,
+      "is_public": true,
+      "modified": "2026-09-21T14:14:29.418633+00:00",
+      "note": "Fixed elements inside a link not showing their CSS `:active` styles while being clicked. ([Bug 2067272][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=2067272",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 2070171,
+      "created": "2026-09-21T14:05:17.090745+00:00",
+      "id": 792241,
+      "is_public": true,
+      "modified": "2026-09-21T14:14:41.278080+00:00",
+      "note": "Fixed Firefox becoming unresponsive on some pages that use CSS anchor positioning. ([Bug 2070171][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=2070171",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 2066632,
+      "created": "2026-09-21T14:05:49.322870+00:00",
+      "id": 792242,
+      "is_public": true,
+      "modified": "2026-09-21T14:05:49.756819+00:00",
+      "note": "Fixed Firefox windows on macOS 27 immediately returning to maximized after being restored by double-clicking the title bar. ([Bug 2066632][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=2066632",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
