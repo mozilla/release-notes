@@ -1,0 +1,101 @@
+{
+  "bug_list": "",
+  "bug_search_url": "",
+  "channel": "Beta",
+  "created": "2026-09-23T20:35:49.497920+00:00",
+  "is_public": false,
+  "modified": "2026-09-23T20:42:04.002268+00:00",
+  "notes": [
+    {
+      "bug": 2073611,
+      "created": "2026-09-23T18:07:51.874698+00:00",
+      "id": 792251,
+      "is_public": true,
+      "modified": "2026-09-23T20:35:49.561319+00:00",
+      "note": "You can now fill forms faster in Smart Window. When clicking into a form field or selecting *Fill* from souces, Smart Window will now suggest data to use based on your relevant open tabs and saved autofill data.",
+      "progressive_rollout": true,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 2069920,
+      "created": "2026-09-14T12:31:10.624434+00:00",
+      "id": 792229,
+      "is_public": true,
+      "modified": "2026-09-23T20:35:49.561319+00:00",
+      "note": "Added support for the [`navigate`][1] option for the `Notification` constructor and `ServiceWorkerRegistration.showNotification()`, which specifies a URL to navigate to when the notification is clicked.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/API/Notification/navigate",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 2040812,
+      "created": "2026-09-15T12:14:13.566815+00:00",
+      "id": 792230,
+      "is_public": true,
+      "modified": "2026-09-23T20:35:49.561319+00:00",
+      "note": "The [WebAuthn conditional UI][1] will now be shown on input elements with an `autocomplete=\"webauthn\"` attribute. Previously, the UI would only be shown on input elements with additional autofill field values, e.g. `autocomplete=\"username webauthn\"`.\r\n([Learn more][2])\r\n\r\n\r\n  [1]: https://github.com/w3c/webauthn/blob/main/explainers/conditional-ui.md\r\n  [2]: https://html.spec.whatwg.org/multipage/form-control-infrastructure.html#autofill-processing-model",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 2071913,
+      "created": "2026-09-17T17:49:22.920770+00:00",
+      "id": 792234,
+      "is_public": true,
+      "modified": "2026-09-23T20:35:49.561319+00:00",
+      "note": "Firefox now supports the `cache` value for [`PerformanceResourceTiming.deliveryType`][1], allowing websites to identify resources served from the HTTP cache.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/API/PerformanceResourceTiming/deliveryType",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 1719394,
+      "created": "2026-09-18T14:30:09.318094+00:00",
+      "id": 792235,
+      "is_public": true,
+      "modified": "2026-09-23T20:35:49.561319+00:00",
+      "note": "Fixed an issue where the Network Monitor could miss WebSocket messages if they arrived immediately after a connection was established.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
+      "bug": 2037167,
+      "created": "2026-09-15T12:19:31.820675+00:00",
+      "id": 792231,
+      "is_public": true,
+      "modified": "2026-09-23T20:35:49.561319+00:00",
+      "note": "Menus such as the *List all tabs* menu, the *Settings* menu, and *Unified Search* menu are now visually consistent on Windows with a High Contrast theme. The user is now able to customize menu background color and text color when creating a custom theme in Windows Settings by setting Background and Text, respectively.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1372506,
+      "created": "2026-09-17T00:36:18.026016+00:00",
+      "id": 792233,
+      "is_public": true,
+      "modified": "2026-09-23T20:35:49.561319+00:00",
+      "note": "PDF generation (for saving as PDF and also printing on Linux and macOS) now uses SkPDF. This allows PDFs to be more accessible, and also fixes a variety of PDF rendering issues.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
+    }
+  ],
+  "product": "Firefox",
+  "release_date": "2026-09-28",
+  "slug": "firefox-158.0-beta",
+  "system_requirements": "## Windows\r\n\r\n### Operating Systems (32-bit and 64-bit)\r\n - Windows 10 or later\r\n\r\n### Recommended Hardware\r\n-  1 gigahertz (GHz) or faster compatible processor or System on a Chip (SoC)\r\n-  1GB of RAM / 2GB of RAM for the 64-bit version\r\n-  500MB of hard drive space\r\n\r\n---\r\n\r\n## Mac\r\n\r\n### Operating Systems\r\n- macOS 10.15 or later\r\n\r\n### Recommended Hardware\r\n- Macintosh computer with an Intel x86 or Apple silicon processor\r\n- 512 MB of RAM\r\n- 200 MB hard drive space\r\n\r\n---\r\n\r\n## GNU/Linux\r\n\r\n### Software Requirements\r\n\r\n*Please note that GNU/Linux distributors may provide packages for your distribution which have different requirements.*\r\n\r\n- Firefox will not run at all without the following libraries or packages:\r\n    - glibc 2.17 or higher (2.28 or higher on arm64)\r\n    - GTK+ 3.14 or higher\r\n    - libglib 2.42 or higher\r\n    - libstdc++ 4.8.1 or higher (6.0 or higher on arm64)\r\n    - X.Org 1.0 or higher (1.7 or higher is recommended)\r\n- For optimal functionality, we recommend the following libraries or packages:\r\n    - DBus 1.0 or higher\r\n    - NetworkManager 0.7 or higher\r\n    - PulseAudio",
+  "text": "Firefox Beta gets updated 3 times a week and as a consequence, the release notes for the Beta channel are updated continuously to reflect features that have reached sufficient maturity to benefit from community feedback and bug reports.\r\n\r\n<div class=\"fl-notification-wrapper\">\r\n  <div class=\"fl-notification fl-notification-orange\">\r\n    <div class=\"fl-notification-icon-section\">\r\n      <i class=\"fl-icon fl-notification-icon fl-icon-warning\"></i>\r\n    </div>\r\n    <div class=\"fl-notification-content\">\r\n      <div class=\"fl-notification-heading\">Warning: Features listed here may or may not make a final release of Firefox</div>\r\n    </div>\r\n  </div>\r\n</div>\r\n<p></p>\r\n\r\nIn addition to these release notes, you can follow ongoing development via the [Firefox Trains][1] website or our [@FirefoxBeta][2] Bluesky account.\r\n\r\n\r\n  [1]: https://whattrainisitnow.com/beta/\r\n  [2]: https://bsky.app/profile/firefoxbeta.bsky.social",
+  "title": "Firefox 158.0 Beta",
+  "version": "158.0"
+}
