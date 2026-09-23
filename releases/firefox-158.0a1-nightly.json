@@ -43,6 +43,18 @@
       "tag": "New"
     },
     {
+      "bug": 2073611,
+      "created": "2026-09-23T18:07:51.874698+00:00",
+      "id": 792251,
+      "is_public": true,
+      "modified": "2026-09-23T18:08:10.929659+00:00",
+      "note": "You can now fill forms faster in Smart Window. When clicking into a form field or selecting *Fill* from souces, Smart Window will now suggest data to use based on your relevant open tabs and saved autofill data.",
+      "progressive_rollout": true,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 2047706,
       "created": "2026-08-01T21:06:23.226343+00:00",
       "id": 791959,
