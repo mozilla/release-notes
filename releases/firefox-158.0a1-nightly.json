@@ -47,9 +47,21 @@
       "created": "2026-09-23T18:07:51.874698+00:00",
       "id": 792251,
       "is_public": true,
-      "modified": "2026-09-23T20:35:49.561319+00:00",
-      "note": "You can now fill forms faster in Smart Window. When clicking into a form field or selecting *Fill* from souces, Smart Window will now suggest data to use based on your relevant open tabs and saved autofill data.",
+      "modified": "2026-09-23T22:00:07.012620+00:00",
+      "note": "You can now fill forms faster in Smart Window. When clicking into a form field or selecting *Fill* from sources, Smart Window will now suggest data to use based on your relevant open tabs and saved autofill data.",
       "progressive_rollout": true,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 2072062,
+      "created": "2026-09-23T21:56:45.451174+00:00",
+      "id": 792252,
+      "is_public": true,
+      "modified": "2026-09-23T21:56:46.099731+00:00",
+      "note": "New Tab now keeps a library of custom wallpapers under *Your images*, rather than only the most recent one.",
+      "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "New"
