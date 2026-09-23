@@ -19,18 +19,6 @@
       "tag": "New"
     },
     {
-      "bug": 2067606,
-      "created": "2026-09-10T09:37:56.231164+00:00",
-      "id": 792204,
-      "is_public": true,
-      "modified": "2026-09-10T09:38:08.379870+00:00",
-      "note": "Tapping the search field on the Firefox for Android homepage now shows your recent searches",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
       "bug": 2066294,
       "created": "2026-09-23T13:31:07.282562+00:00",
       "id": 792248,
@@ -65,6 +53,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "HTML5"
+    },
+    {
+      "bug": 2057763,
+      "created": "2026-08-31T18:50:25.967130+00:00",
+      "id": 792178,
+      "is_public": true,
+      "modified": "2026-09-23T15:11:38.838246+00:00",
+      "note": "Fixed the address bar searching for the typed text instead of opening the selected suggestion when a page was still loading, such as shortly after Firefox started.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
     },
     {
       "bug": 2008887,
