@@ -31,6 +31,18 @@
       "tag": "New"
     },
     {
+      "bug": 2009628,
+      "created": "2026-09-23T15:18:34.999136+00:00",
+      "id": 792249,
+      "is_public": true,
+      "modified": "2026-09-23T15:18:35.803023+00:00",
+      "note": "You can now use the Tab key to move focus from the address bar to the search bar without focus landing on the search bar's search engine button first.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
       "bug": 2060755,
       "created": "2026-08-31T18:55:16.601470+00:00",
       "id": 792180,
@@ -53,6 +65,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "HTML5"
+    },
+    {
+      "bug": 2062642,
+      "created": "2026-08-18T14:56:58.640359+00:00",
+      "id": 792081,
+      "is_public": true,
+      "modified": "2026-09-23T15:25:40.414126+00:00",
+      "note": "On all devices, WebRTC video calls may now use hardware AV1 decoding instead of falling back to software.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
     },
     {
       "bug": 2057763,
