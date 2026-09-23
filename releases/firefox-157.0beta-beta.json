@@ -7,6 +7,18 @@
   "modified": "2026-09-14T14:32:40.288305+00:00",
   "notes": [
     {
+      "bug": null,
+      "created": "2026-09-23T12:54:29.522669+00:00",
+      "id": 792245,
+      "is_public": true,
+      "modified": "2026-09-23T13:06:11.065466+00:00",
+      "note": "<img src=\"https://www.firefox.com/media/img/firefox/releasenotes/note-images/fx157_nova.png\" width=\"700\" alt=\"Screenshot of Firefox visual refresh\">\r\n\r\nFirefox's biggest visual refresh in years, internally referenced as Project Nova, is now available on Beta, with a modernized look across the browser chrome, sidebar, and menus built with our updated design system. It also includes:\r\n\r\n- New built-in themes with light and dark versions, so you can personalize the look of Firefox in a click.\r\n- A new compact mode that reduces toolbar and tab spacing to give you more room for web content, useful on smaller screens and in split-screen layouts.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 100,
+      "tag": "New"
+    },
+    {
       "bug": 2067606,
       "created": "2026-09-10T09:37:56.231164+00:00",
       "id": 792204,
