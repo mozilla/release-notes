@@ -3,8 +3,8 @@
   "bug_search_url": "",
   "channel": "Nightly",
   "created": "2026-09-23T15:40:23.085887+00:00",
-  "is_public": false,
-  "modified": "2026-09-23T16:04:01.479731+00:00",
+  "is_public": true,
+  "modified": "2026-09-24T16:55:35.203394+00:00",
   "notes": [
     {
       "bug": 2045970,
@@ -97,18 +97,6 @@
       "is_public": true,
       "modified": "2026-09-23T20:41:56.044379+00:00",
       "note": "Starting with Firefox 158, Firefox Nightly now supports streaming uploads with the [Fetch API][1], allowing web applications to send request bodies incrementally using a [`ReadableStream`][2] without buffering the entire body first.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/API/Fetch_API/Using_Fetch\r\n  [2]: https://developer.chrome.com/docs/capabilities/web-apis/fetch-streaming-requests",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "HTML5"
-    },
-    {
-      "bug": 2067411,
-      "created": "2026-09-23T22:49:39.771630+00:00",
-      "id": 792253,
-      "is_public": true,
-      "modified": "2026-09-23T22:49:51.963046+00:00",
-      "note": "Firefox now supports [typed arithmetic][1] in CSS `calc()`, allowing units to be multiplied and divided within math functions.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/CSS/Guides/Values_and_units/Using_typed_arithmetic",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
