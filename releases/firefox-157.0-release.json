@@ -7,18 +7,6 @@
   "modified": "2026-09-25T09:36:29.272483+00:00",
   "notes": [
     {
-      "bug": 2066294,
-      "created": "2026-09-23T13:31:07.282562+00:00",
-      "id": 792248,
-      "is_public": true,
-      "modified": "2026-09-25T11:30:45.395143+00:00",
-      "note": "Localized suggestions in your address bar are now available in Austria, Belgium, Czech Republic, Denmark, Finland, Hungary, Ireland, Luxembourg, Netherlands, Norway, Poland, Portugal, Slovakia, Spain, Sweden, and Switzerland. You can control the suggestions in your [Firefox Suggest][1] settings.\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/firefox-suggest",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "New"
-    },
-    {
       "bug": null,
       "created": "2026-09-25T11:29:07.117102+00:00",
       "id": 792258,
@@ -44,6 +32,18 @@
     },
     {
       "bug": null,
+      "created": "2026-09-25T11:44:43.518079+00:00",
+      "id": 792261,
+      "is_public": true,
+      "modified": "2026-09-25T12:23:00.844900+00:00",
+      "note": "Contextual suggestions from the web related to your search are now available in your address bar in Austria, Belgium, Czech Republic, Denmark, Finland, Hungary, Ireland, Luxembourg, Netherlands, Norway, Poland, Portugal, Slovakia, Spain, Sweden, and Switzerland. You can control the suggestions in your Firefox Suggest settings. [Learn more][1].\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/firefox-suggest",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
       "created": "2026-09-23T15:45:18.280341+00:00",
       "id": 792250,
       "is_public": true,
@@ -61,18 +61,6 @@
       "is_public": true,
       "modified": "2026-09-25T11:31:56.082213+00:00",
       "note": "The redesigned sidebar is rolling out to 100% of the release channel. If you\u2019re currently using the previous sidebar, dropdown navigation will be preserved by default.\r\n\r\nWhile we continue to refine the new design, you can still switch back to the previous sidebar by setting `sidebar.revamp` to false in *about:config*. This preference will remain available until the end of 2027, when we plan to sunset it.",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "Changed"
-    },
-    {
-      "bug": null,
-      "created": "2026-09-25T11:44:43.518079+00:00",
-      "id": 792261,
-      "is_public": true,
-      "modified": "2026-09-25T11:44:44.228193+00:00",
-      "note": "Contextual suggestions from the web related to your search are now available in your address bar in Austria, Belgium, Czech Republic, Denmark, Finland, Hungary, Ireland, Luxembourg, Netherlands, Norway, Poland, Portugal, Slovakia, Spain, Sweden, and Switzerland. You can control the suggestions in your Firefox Suggest settings. [Learn more][1].\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/firefox-suggest",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
