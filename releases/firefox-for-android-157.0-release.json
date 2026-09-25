@@ -19,6 +19,42 @@
       "tag": "New"
     },
     {
+      "bug": 2074264,
+      "created": "2026-09-25T15:52:29.236767+00:00",
+      "id": 792267,
+      "is_public": true,
+      "modified": "2026-09-25T15:52:29.946314+00:00",
+      "note": "VPN availability: Free VPN is now available in more than 200 regions.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2026-09-25T15:59:58.751322+00:00",
+      "id": 792269,
+      "is_public": true,
+      "modified": "2026-09-25T15:59:59.274071+00:00",
+      "note": "You can now swipe to dismiss items on the Downloads page.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2026-09-25T15:59:40.246451+00:00",
+      "id": 792268,
+      "is_public": true,
+      "modified": "2026-09-25T15:59:40.936830+00:00",
+      "note": "History items are now grouped by exact date for easier browsing.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
       "bug": null,
       "created": "2026-09-25T09:37:35.726556+00:00",
       "id": 792257,
