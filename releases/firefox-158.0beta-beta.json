@@ -4,7 +4,7 @@
   "channel": "Beta",
   "created": "2026-09-23T20:35:49.497920+00:00",
   "is_public": true,
-  "modified": "2026-09-28T20:00:21.193947+00:00",
+  "modified": "2026-09-29T11:29:40.348763+00:00",
   "notes": [
     {
       "bug": 2073611,
@@ -25,6 +25,18 @@
       "is_public": true,
       "modified": "2026-09-23T21:56:46.099731+00:00",
       "note": "New Tab now keeps a library of custom wallpapers under *Your images*, rather than only the most recent one.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 2065096,
+      "created": "2026-09-29T11:29:11.834570+00:00",
+      "id": 792270,
+      "is_public": true,
+      "modified": "2026-09-29T11:29:12.508823+00:00",
+      "note": "Firefox now supports the new [JPEG XL image format ][1]which generally has better compression than WebP, JPEG, PNG and GIF and is designed to supersede them. \r\n\r\n\r\n  [1]: https://jpeg.org/jpegxl/",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
