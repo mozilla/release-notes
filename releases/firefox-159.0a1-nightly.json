@@ -31,6 +31,18 @@
       "tag": "New"
     },
     {
+      "bug": 2009747,
+      "created": "2026-10-03T12:50:00.562040+00:00",
+      "id": 792274,
+      "is_public": true,
+      "modified": "2026-10-03T12:50:00.889588+00:00",
+      "note": "On macOS, sharing now uses the native macOS share picker, with AirDrop, Messages, and other apps available through an updated interface, and several selected tabs can be shared at once.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
       "bug": 2055599,
       "created": "2026-08-16T14:06:30.561896+00:00",
       "id": 792071,
@@ -101,6 +113,42 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "HTML5"
+    },
+    {
+      "bug": 2070506,
+      "created": "2026-10-03T12:47:10.530704+00:00",
+      "id": 792271,
+      "is_public": true,
+      "modified": "2026-10-03T12:47:11.037458+00:00",
+      "note": "Added support for Scoped Custom Element Registries. Those registries can be created using the `CustomElementRegistry()` constructor that are separate from the global `window.customElements` registry. Creating more than one registry is useful for multiple custom elements that have the same tag name to coexist.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 2071720,
+      "created": "2026-10-03T12:48:16.627244+00:00",
+      "id": 792272,
+      "is_public": true,
+      "modified": "2026-10-03T12:48:16.993046+00:00",
+      "note": "Gamepad input on macOS is now delivered as soon as it happens, so quick button taps in web games register reliably.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 2001075,
+      "created": "2026-10-03T12:49:04.008049+00:00",
+      "id": 792273,
+      "is_public": true,
+      "modified": "2026-10-03T12:49:04.364469+00:00",
+      "note": "Fixed tabs sometimes detaching into a new window when clicked on Linux with Wayland.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
