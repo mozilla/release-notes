@@ -173,6 +173,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": 1971509,
+      "created": "2026-10-04T21:17:14.610335+00:00",
+      "id": 792277,
+      "is_public": true,
+      "modified": "2026-10-04T21:17:15.053877+00:00",
+      "note": "Fixed menus and panels fading in on Windows and Linux when animation effects are turned off in the operating system.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
