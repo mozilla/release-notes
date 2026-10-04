@@ -161,6 +161,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": 2041504,
+      "created": "2026-10-04T20:54:36.610603+00:00",
+      "id": 792276,
+      "is_public": true,
+      "modified": "2026-10-04T20:54:37.143096+00:00",
+      "note": "Fixed long drop-down lists on web pages sometimes showing blank space in place of the last options until the list was scrolled.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
