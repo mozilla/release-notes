@@ -127,6 +127,18 @@
       "tag": "HTML5"
     },
     {
+      "bug": 1257088,
+      "created": "2026-10-04T19:10:36.142031+00:00",
+      "id": 792275,
+      "is_public": true,
+      "modified": "2026-10-04T19:10:36.730363+00:00",
+      "note": "The Web Console now allows `let`, `const`, and `class` variables to be declared again, so a snippet can be edited and re-run without a redeclaration error.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Developer"
+    },
+    {
       "bug": 2071720,
       "created": "2026-10-03T12:48:16.627244+00:00",
       "id": 792272,
