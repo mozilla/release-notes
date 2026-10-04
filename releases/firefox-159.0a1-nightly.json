@@ -185,6 +185,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": 2061927,
+      "created": "2026-10-04T23:54:49.543870+00:00",
+      "id": 792278,
+      "is_public": true,
+      "modified": "2026-10-04T23:54:50.051890+00:00",
+      "note": "Fixed some videos displaying incorrectly on Windows when NVIDIA RTX Video HDR is enabled.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
