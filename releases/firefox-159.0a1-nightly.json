@@ -127,6 +127,18 @@
       "tag": "HTML5"
     },
     {
+      "bug": 1324602,
+      "created": "2026-10-05T12:23:44.371491+00:00",
+      "id": 792279,
+      "is_public": true,
+      "modified": "2026-10-05T12:23:44.882756+00:00",
+      "note": "Firefox now supports scroll-driven animations, so CSS animations can progress with the scroll position of a container or with an element's visibility as it scrolls into view, using the `animation-timeline`, `scroll-timeline`, `view-timeline`, and `animation-range` properties and the `ScrollTimeline` and `ViewTimeline` interfaces.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
       "bug": 1257088,
       "created": "2026-10-04T19:10:36.142031+00:00",
       "id": 792275,
