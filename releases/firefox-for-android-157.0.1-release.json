@@ -29,6 +29,30 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": 2074823,
+      "created": "2026-10-05T21:37:08.210795+00:00",
+      "id": 792287,
+      "is_public": true,
+      "modified": "2026-10-05T21:37:08.861419+00:00",
+      "note": "Fixed TalkBack reading many page elements as \"space\" since Firefox\u00a0156. ([Bug 2074823][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=2074823",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 2068594,
+      "created": "2026-10-05T21:38:01.649665+00:00",
+      "id": 792288,
+      "is_public": true,
+      "modified": "2026-10-05T21:38:02.144834+00:00",
+      "note": "Fixed the tab count being off-center in the tab counter icon on the toolbar and in the tabs tray. ([Bug 2068594][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=2068594",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox for Android",
