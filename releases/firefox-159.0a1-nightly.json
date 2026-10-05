@@ -209,6 +209,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": 2071625,
+      "created": "2026-10-05T13:01:21.880861+00:00",
+      "id": 792280,
+      "is_public": true,
+      "modified": "2026-10-05T13:01:21.880657+00:00",
+      "note": "Importing from Google Chrome with a signed in Google account now detects and imports bookmarks.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
