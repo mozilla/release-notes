@@ -19,18 +19,6 @@
       "tag": ""
     },
     {
-      "bug": null,
-      "created": "2026-10-05T21:25:32.206214+00:00",
-      "id": 792286,
-      "is_public": true,
-      "modified": "2026-10-05T21:25:32.695782+00:00",
-      "note": "[Security fix][1].\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/mfsa2026-104/",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "Fixed"
-    },
-    {
       "bug": 2074823,
       "created": "2026-10-05T21:37:08.210795+00:00",
       "id": 792287,
@@ -52,6 +40,18 @@
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2026-10-05T21:25:32.206214+00:00",
+      "id": 792286,
+      "is_public": true,
+      "modified": "2026-10-05T22:19:48.278196+00:00",
+      "note": "[Security fix][1].\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/mfsa2026-104/",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": -1,
       "tag": "Fixed"
     }
   ],
