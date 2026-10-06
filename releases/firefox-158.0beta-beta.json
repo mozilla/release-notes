@@ -43,6 +43,18 @@
       "tag": "New"
     },
     {
+      "bug": 2045805,
+      "created": "2026-10-06T02:24:39.319388+00:00",
+      "id": 792290,
+      "is_public": true,
+      "modified": "2026-10-06T02:25:38.384192+00:00",
+      "note": "The tab bar can now be shown at either the top or bottom of the screen on [Firefox for Android][1]. Check `Settings` -> `Customize` to configure.\r\n\r\n\r\n  [1]: https://play.google.com/store/apps/details?id=org.mozilla.firefox_beta",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 2069920,
       "created": "2026-09-14T12:31:10.624434+00:00",
       "id": 792229,
@@ -91,6 +103,18 @@
       "tag": "HTML5"
     },
     {
+      "bug": 1854003,
+      "created": "2026-10-06T02:27:15.560609+00:00",
+      "id": 792291,
+      "is_public": true,
+      "modified": "2026-10-06T02:27:16.223133+00:00",
+      "note": "The WebGL extension [`EXT_polygon_offset_clamp`][1] is now available on compatible devices.\r\n\r\n\r\n  [1]: https://registry.khronos.org/webgl/extensions/EXT_polygon_offset_clamp/",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
       "bug": 1719394,
       "created": "2026-09-18T14:30:09.318094+00:00",
       "id": 792235,
@@ -121,6 +145,18 @@
       "is_public": true,
       "modified": "2026-09-23T20:35:49.561319+00:00",
       "note": "PDF generation (for saving as PDF and also printing on Linux and macOS) now uses SkPDF. This allows PDFs to be more accessible, and also fixes a variety of PDF rendering issues.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1946610,
+      "created": "2026-10-06T02:28:46.426898+00:00",
+      "id": 792292,
+      "is_public": true,
+      "modified": "2026-10-06T02:28:46.910192+00:00",
+      "note": "Firefox no longer rounds scroll positions to whole screen pixels. Scrolling is now smoother and more precise, especially on high-resolution displays or when a page is zoomed.",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
