@@ -43,6 +43,18 @@
       "tag": "Changed"
     },
     {
+      "bug": 1666654,
+      "created": "2026-10-06T01:20:55.642466+00:00",
+      "id": 792289,
+      "is_public": true,
+      "modified": "2026-10-06T01:20:56.263351+00:00",
+      "note": "You can now search your open tabs with a keyboard shortcut: Ctrl+Shift+A on Windows and Linux, Cmd+Shift+A on macOS. The Extensions and Themes shortcut is now Ctrl+Shift+F on Windows and Linux, and Cmd+Shift+E on macOS. You can change these shortcuts in about:keyboard.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
       "bug": 2055599,
       "created": "2026-08-16T14:06:30.561896+00:00",
       "id": 792071,
