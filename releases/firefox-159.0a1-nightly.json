@@ -245,6 +245,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": 2066774,
+      "created": "2026-10-06T19:10:51.205132+00:00",
+      "id": 792294,
+      "is_public": true,
+      "modified": "2026-10-06T19:10:51.701817+00:00",
+      "note": "Fixed the Replace button in Apple Writing Tools on macOS inserting the clipboard contents instead of the rewritten text on some sites, such as Gmail.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
