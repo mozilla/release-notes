@@ -233,6 +233,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": 2075807,
+      "created": "2026-10-06T12:47:13.942701+00:00",
+      "id": 792293,
+      "is_public": true,
+      "modified": "2026-10-06T12:47:14.408971+00:00",
+      "note": "Fixed pages on some sites, such as Slack, failing to load when the site rejected an HTTP/3 request, instead of retrying with HTTP/2.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
