@@ -103,6 +103,18 @@
       "tag": "Changed"
     },
     {
+      "bug": 1972935,
+      "created": "2026-10-08T19:56:01.943944+00:00",
+      "id": 792351,
+      "is_public": true,
+      "modified": "2026-10-08T19:56:02.399745+00:00",
+      "note": "The AI chatbot's Summarize page option now shares the page's address with the chatbot provider instead of the page's text content.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
       "bug": 2055599,
       "created": "2026-08-16T14:06:30.561896+00:00",
       "id": 792071,
