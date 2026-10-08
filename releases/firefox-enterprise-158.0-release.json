@@ -17,6 +17,66 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2026-10-08T13:24:40.059777+00:00",
+      "id": 792302,
+      "is_public": true,
+      "modified": "2026-10-08T13:24:40.796769+00:00",
+      "note": "**Device posture checks:** Firefox Enterprise reports the security posture of each device to your admin console, including the operating system, disk encryption, whether endpoint security software is running, whether the device is joined to an Active Directory domain, installed extensions, and network details. Admins can require a specific posture before an employee can sign in, and Firefox Enterprise signs the employee out if their device stops meeting it. If security logging is turned on, blocked sign-ins and posture-based sign-outs are recorded in your admin console.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2026-10-08T13:27:01.751588+00:00",
+      "id": 792303,
+      "is_public": true,
+      "modified": "2026-10-08T13:27:02.329266+00:00",
+      "note": "**Data loss prevention:** Admins can warn about or block pasting, file uploads, downloads and printing on the websites they choose, with a message they write explaining why. All checks run in the browser on the device, so content is never sent over the network to be inspected. If your organization already uses a third-party DLP agent that connects to Firefox through Content Analysis, Firefox Enterprise turns off built-in DLP and defers to your agent. DLP are recorded in your admin console, and admins can turn this off if they don't require it.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2026-10-08T13:28:14.082641+00:00",
+      "id": 792304,
+      "is_public": true,
+      "modified": "2026-10-08T13:28:14.686428+00:00",
+      "note": "**Watermarking:** Admins can stamp a watermark across sensitive pages, such as the employee's email address and the time. This discourages leaks, and if a screenshot is shared, it can be traced back to the session it came from. Admins choose the text, color and the websites it appears on.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2026-10-08T13:29:15.842568+00:00",
+      "id": 792305,
+      "is_public": true,
+      "modified": "2026-10-08T13:29:16.405289+00:00",
+      "note": "**Lockdown mode:** Admins can apply extra security restrictions to specific websites, giving organizations a way to protect sensitive web apps without a virtual desktop (VDI) or remote browser isolation (RBI). On a protected site, Firefox can turn off JavaScript just-in-time compilation, block service workers, load the site over HTTPS only, and open it in its own container. Containers can also be temporary, so the site's data is cleared when its last tab closes. Employees see an icon in the address bar when such protections apply.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2026-10-08T13:35:13.011099+00:00",
+      "id": 792306,
+      "is_public": true,
+      "modified": "2026-10-08T13:35:13.010974+00:00",
+      "note": "**Profile data encryption:** Bookmarks, history, form data, cookies, and cached web content are now encrypted on disk by default, using a key provided by your admin console. This helps protect the data if the profile folder is copied from a device without access to the encryption key.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
     }
   ],
   "product": "Firefox Enterprise",
