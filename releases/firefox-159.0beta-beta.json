@@ -31,6 +31,18 @@
       "tag": "Changed"
     },
     {
+      "bug": 1648889,
+      "created": "2026-10-08T15:22:58.503369+00:00",
+      "id": 792317,
+      "is_public": true,
+      "modified": "2026-10-08T15:22:58.959013+00:00",
+      "note": "Web addresses written in the Javanese, Balinese, Canadian Aboriginal Syllabics and N'Ko scripts are now displayed in their own script instead of as encoded \"xn--\" text.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
       "bug": 2070506,
       "created": "2026-10-03T12:47:10.530704+00:00",
       "id": 792271,
