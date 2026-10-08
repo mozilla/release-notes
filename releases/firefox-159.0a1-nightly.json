@@ -305,6 +305,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": 2077656,
+      "created": "2026-10-08T19:09:53.442672+00:00",
+      "id": 792349,
+      "is_public": true,
+      "modified": "2026-10-08T19:09:53.894429+00:00",
+      "note": "Fixed the file upload dialog opening in the last folder a file was saved to, such as Downloads, instead of the folder last used for uploads.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
