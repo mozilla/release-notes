@@ -7,6 +7,18 @@
   "modified": "2026-10-08T14:14:46.009644+00:00",
   "notes": [
     {
+      "bug": 2073500,
+      "created": "2026-10-08T16:50:09.171826+00:00",
+      "id": 792318,
+      "is_public": true,
+      "modified": "2026-10-08T16:50:09.171591+00:00",
+      "note": "Starting with Firefox 159, [Firefox Nightly on Android][1] automatically turns on DNS over HTTPS for users in the United States, as Firefox on desktop does, unless network checks indicate it should stay off.\r\n\r\n\r\n  [1]: https://play.google.com/store/apps/details?id=org.mozilla.fenix",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1751335,
       "created": "2026-10-07T17:40:17.008980+00:00",
       "id": 792299,
