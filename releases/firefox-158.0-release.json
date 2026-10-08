@@ -23,8 +23,8 @@
       "created": "2026-10-08T17:33:08.429401+00:00",
       "id": 792336,
       "is_public": true,
-      "modified": "2026-10-08T18:02:03.962970+00:00",
-      "note": "PDF generation (for saving as PDF and also printing on Linux and macOS) now uses SkPDF. This allows PDFs to be more accessible, and also fixes a variety of PDF rendering issues.",
+      "modified": "2026-10-08T18:29:50.493095+00:00",
+      "note": "Firefox now creates more accessible PDFs when saving a page as PDF, and when printing on Linux and macOS. This also fixes a variety of PDF rendering issues.",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 45,
@@ -35,23 +35,11 @@
       "created": "2026-10-08T17:33:00.852643+00:00",
       "id": 792327,
       "is_public": true,
-      "modified": "2026-10-08T17:57:18.010350+00:00",
-      "note": "Firefox now supports the new [JPEG XL image format ][1]which generally has better compression than WebP, JPEG, PNG and GIF and is designed to supersede them. \r\n\r\n\r\n  [1]: https://jpeg.org/jpegxl/",
+      "modified": "2026-10-08T18:32:11.002389+00:00",
+      "note": "Firefox now supports the [JPEG XL image format][1], which generally has better compression than WebP, JPEG, PNG, and GIF and is designed to supersede them.\r\n\r\n\r\n  [1]: https://jpeg.org/jpegxl/",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 40,
-      "tag": "New"
-    },
-    {
-      "bug": 2037167,
-      "created": "2026-10-08T17:33:07.845445+00:00",
-      "id": 792335,
-      "is_public": true,
-      "modified": "2026-10-08T18:01:19.863682+00:00",
-      "note": "Menus such as the *List all tabs* menu, the *Settings* menu, and *Unified Search* menu are now visually consistent on Windows with a High Contrast theme. The user is now able to customize menu background color and text color when creating a custom theme in Windows Settings by setting Background and Text, respectively.",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 35,
       "tag": "New"
     },
     {
@@ -67,16 +55,16 @@
       "tag": "New"
     },
     {
-      "bug": 2045805,
-      "created": "2026-10-08T17:32:55.767390+00:00",
-      "id": 792320,
+      "bug": 1946610,
+      "created": "2026-10-08T17:32:57.912105+00:00",
+      "id": 792321,
       "is_public": true,
-      "modified": "2026-10-08T17:32:55.767255+00:00",
-      "note": "The tab bar can now be shown at either the top or bottom of the screen on [Firefox for Android][1]. Check `Settings` -> `Customize` to configure.\r\n\r\n\r\n  [1]: https://play.google.com/store/apps/details?id=org.mozilla.firefox_beta",
+      "modified": "2026-10-08T18:44:15.623158+00:00",
+      "note": "Firefox no longer rounds scroll positions to whole screen pixels. Scrolling is now smoother and more precise, especially on high-resolution displays or when a page is zoomed.",
       "progressive_rollout": false,
       "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "New"
+      "sort_num": 100,
+      "tag": "Changed"
     },
     {
       "bug": 2067411,
@@ -163,30 +151,6 @@
       "tag": "Developer"
     },
     {
-      "bug": 1946610,
-      "created": "2026-10-08T17:32:57.912105+00:00",
-      "id": 792321,
-      "is_public": true,
-      "modified": "2026-10-08T18:01:49.059843+00:00",
-      "note": "Firefox no longer rounds scroll positions to whole screen pixels. Scrolling is now smoother and more precise, especially on high-resolution displays or when a page is zoomed.",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 100,
-      "tag": "Fixed"
-    },
-    {
-      "bug": null,
-      "created": "2026-10-08T17:42:08.222592+00:00",
-      "id": 792342,
-      "is_public": true,
-      "modified": "2026-10-08T18:02:14.231376+00:00",
-      "note": "Fixed a crash that could occur while Firefox loaded website icons (favicons), improving overall stability.",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 80,
-      "tag": "Fixed"
-    },
-    {
       "bug": null,
       "created": "2026-10-08T17:42:37.044010+00:00",
       "id": 792343,
@@ -200,6 +164,18 @@
     },
     {
       "bug": null,
+      "created": "2026-10-08T17:42:08.222592+00:00",
+      "id": 792342,
+      "is_public": true,
+      "modified": "2026-10-08T18:45:21.831159+00:00",
+      "note": "Fixed a crash that could occur while Firefox loaded website icons (favicons).",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 60,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
       "created": "2026-10-08T17:43:25.048414+00:00",
       "id": 792344,
       "is_public": true,
@@ -208,6 +184,18 @@
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 60,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 2037167,
+      "created": "2026-10-08T17:33:07.845445+00:00",
+      "id": 792335,
+      "is_public": true,
+      "modified": "2026-10-08T18:41:41.406048+00:00",
+      "note": "Fixed menus such as *List all tabs*, *Settings*, and *Unified Search* being hard to read with a Windows High Contrast theme. Menu background and text colors now follow the Background and Text colors chosen for a custom contrast theme in Windows Settings.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 35,
       "tag": "Fixed"
     },
     {
