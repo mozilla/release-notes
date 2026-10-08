@@ -7,6 +7,18 @@
   "modified": "2026-10-07T17:43:32.211197+00:00",
   "notes": [
     {
+      "bug": 1957425,
+      "created": "2026-10-08T19:34:25.115318+00:00",
+      "id": 792350,
+      "is_public": true,
+      "modified": "2026-10-08T19:34:55.621291+00:00",
+      "note": "Saved passwords are now available from the sidebar by default, without having to add the Passwords tool first.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 2009747,
       "created": "2026-10-03T12:50:00.562040+00:00",
       "id": 792274,
