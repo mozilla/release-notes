@@ -20,6 +20,18 @@
     },
     {
       "bug": null,
+      "created": "2026-10-09T16:02:53.594921+00:00",
+      "id": 792356,
+      "is_public": true,
+      "modified": "2026-10-09T16:11:49.838337+00:00",
+      "note": "**On-premises management:** Organizations can host the Firefox Enterprise Admin Console and supporting services, including Remote Settings, Sync, telemetry collection, crash collection and browser updates, on their own infrastructure. \r\n\r\nThe console provides user and session management, organizational unit support, device posture rules, audit logs, SIEM integration, content analysis and Firefox Enterprise fleet management. Administrator and owner can control access, and owners manage SSO and service accounts for programmatic access. This enables centralized browser management while keeping organizational data within their infrastructure and giving administrators greater control over data flows.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 10,
+      "tag": "New"
+    },
+    {
+      "bug": null,
       "created": "2026-10-08T13:16:13.789524+00:00",
       "id": 792301,
       "is_public": true,
