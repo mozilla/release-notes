@@ -115,6 +115,30 @@
       "tag": "HTML5"
     },
     {
+      "bug": 1885031,
+      "created": "2026-10-09T00:03:29.641610+00:00",
+      "id": 792352,
+      "is_public": true,
+      "modified": "2026-10-09T00:04:13.807325+00:00",
+      "note": "The WebGL extension `EXT_clip_control` is now available on compatible devices.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 1908749,
+      "created": "2026-10-09T00:04:04.445733+00:00",
+      "id": 792353,
+      "is_public": true,
+      "modified": "2026-10-09T00:04:04.808923+00:00",
+      "note": "The WebGL extension `EXT_texture_mirror_clamp_to_edge` is now available on compatible devices.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
       "bug": 1257088,
       "created": "2026-10-04T19:10:36.142031+00:00",
       "id": 792275,
