@@ -365,6 +365,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": 2068559,
+      "created": "2026-10-09T15:55:32.851897+00:00",
+      "id": 792355,
+      "is_public": true,
+      "modified": "2026-10-09T15:55:33.328008+00:00",
+      "note": "Fixed memory usage growing rapidly when sites such as the Zoom web app were left open in a minimized window.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
