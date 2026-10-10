@@ -67,6 +67,18 @@
       "tag": "Changed"
     },
     {
+      "bug": 2069039,
+      "created": "2026-10-10T15:20:03.199863+00:00",
+      "id": 792361,
+      "is_public": true,
+      "modified": "2026-10-10T15:20:03.735703+00:00",
+      "note": "On macOS, apps that sign in through the default browser, such as ChatGPT, now open their sign-in page in Firefox instead of Safari when Firefox is the default browser.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
       "bug": 2070506,
       "created": "2026-10-03T12:47:10.530704+00:00",
       "id": 792271,
