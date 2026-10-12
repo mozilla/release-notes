@@ -151,6 +151,18 @@
       "tag": "Developer"
     },
     {
+      "bug": null,
+      "created": "2026-10-12T22:46:42.426072+00:00",
+      "id": 792362,
+      "is_public": true,
+      "modified": "2026-10-12T22:46:43.116310+00:00",
+      "note": "For Firefox Enterprise updates and fixes, see the [Firefox Enterprise release notes][1]. For policy changes, see the Firefox admin docs changelog.\r\n\r\n\r\n  [1]: https://www.firefox.com/firefox/enterprise/158.0/releasenotes/",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Enterprise"
+    },
+    {
       "bug": 2074379,
       "created": "2026-10-08T17:42:37.044010+00:00",
       "id": 792343,
