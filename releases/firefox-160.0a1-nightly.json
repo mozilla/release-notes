@@ -19,6 +19,18 @@
       "tag": "New"
     },
     {
+      "bug": 2079810,
+      "created": "2026-10-13T13:12:45.349270+00:00",
+      "id": 792364,
+      "is_public": true,
+      "modified": "2026-10-13T13:12:45.885261+00:00",
+      "note": "WebGL content on macOS is now rendered using Apple's Metal graphics API, which can improve performance on some sites.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1751335,
       "created": "2026-10-07T17:40:17.008980+00:00",
       "id": 792299,
