@@ -35,12 +35,24 @@
       "created": "2026-10-13T19:15:55.423598+00:00",
       "id": 792366,
       "is_public": true,
-      "modified": "2026-10-13T19:15:55.880076+00:00",
+      "modified": "2026-10-14T13:31:36.097318+00:00",
       "note": "In [Smart Window][1], Organize Tabs is now available in French. Firefox can suggest groups of related open tabs and name each group in the language of your tabs.\r\n\r\n\r\n  [1]: https://www.firefox.com/smart-window",
       "progressive_rollout": true,
       "relevant_countries": [],
       "sort_num": 0,
-      "tag": ""
+      "tag": "New"
+    },
+    {
+      "bug": 2070673,
+      "created": "2026-10-14T13:34:27.224184+00:00",
+      "id": 792368,
+      "is_public": true,
+      "modified": "2026-10-14T13:34:27.598317+00:00",
+      "note": "Added a new playback speed setting to the [Picture-in-Picture][1] player, with options ranging from 0.25x to 2.0x speed. Please note that the setting is only visible on medium or larger player windows.\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/about-picture-picture-firefox",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
     },
     {
       "bug": 1751335,
@@ -97,6 +109,18 @@
       "is_public": true,
       "modified": "2026-10-13T16:14:47.422132+00:00",
       "note": "Fixed the first character typed into the address bar or search bar sometimes being lost when typing quickly right after clicking into it.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1394752,
+      "created": "2026-10-14T13:32:06.849361+00:00",
+      "id": 792367,
+      "is_public": true,
+      "modified": "2026-10-14T13:32:07.348503+00:00",
+      "note": "Fixed Firefox freezing for several seconds when signing in to intranet sites that use NTLM or Kerberos (Negotiate) authentication.",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
