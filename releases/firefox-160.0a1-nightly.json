@@ -161,6 +161,30 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": 2047486,
+      "created": "2026-10-15T18:18:16.444279+00:00",
+      "id": 792372,
+      "is_public": true,
+      "modified": "2026-10-15T18:18:17.004726+00:00",
+      "note": "On [Firefox for Android][1], web addresses containing non-Latin characters are now shown in readable form in the address bar and elsewhere in the app, instead of as encoded text.\r\n\r\n  [1]: https://play.google.com/store/apps/details?id=org.mozilla.fenix",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1813919,
+      "created": "2026-10-15T18:20:03.823460+00:00",
+      "id": 792373,
+      "is_public": true,
+      "modified": "2026-10-15T18:20:04.183037+00:00",
+      "note": "On [Firefox for Android][1], fixed web addresses containing spaces, such as those from scanned QR codes, being searched for instead of opened.\r\n\r\n  [1]: https://play.google.com/store/apps/details?id=org.mozilla.fenix",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
