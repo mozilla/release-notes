@@ -233,6 +233,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "Community"
+    },
+    {
+      "bug": 1909700,
+      "created": "2026-10-16T13:27:02.292260+00:00",
+      "id": 792374,
+      "is_public": true,
+      "modified": "2026-10-16T13:27:02.291964+00:00",
+      "note": "Web apps launched with the third-party PWAsForFirefox tool may fail to start in Firefox 158 and show the error \"The installation seems to be incomplete.\" Updating PWAsForFirefox to version 2.20.1 or later fixes the issue. If the error persists, select \"Reinstall runtime\" and then \"Patch profiles and runtime\" in the PWAsForFirefox extension settings.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Known"
     }
   ],
   "product": "Firefox",
