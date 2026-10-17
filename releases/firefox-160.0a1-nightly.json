@@ -139,6 +139,18 @@
       "tag": "HTML5"
     },
     {
+      "bug": 2080908,
+      "created": "2026-10-17T13:27:51.250144+00:00",
+      "id": 792376,
+      "is_public": true,
+      "modified": "2026-10-17T13:27:51.738352+00:00",
+      "note": "The recognition side of the [Web Speech API][1] is now implemented, performing on-device real-time Speech-to-text in 40 languages\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/API/Web_Speech_API",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
       "bug": 1953361,
       "created": "2026-10-13T16:14:46.805253+00:00",
       "id": 792365,
