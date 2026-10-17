@@ -269,6 +269,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": 2068878,
+      "created": "2026-10-17T18:53:44.596999+00:00",
+      "id": 792377,
+      "is_public": true,
+      "modified": "2026-10-17T18:53:45.197108+00:00",
+      "note": "On Firefox for Android, Fixed videos not playing on some sites, such as The New York Times.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
