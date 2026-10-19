@@ -79,6 +79,42 @@
       "tag": "New"
     },
     {
+      "bug": 597237,
+      "created": "2026-10-19T14:19:46.219893+00:00",
+      "id": 792378,
+      "is_public": true,
+      "modified": "2026-10-19T14:19:46.746000+00:00",
+      "note": "The address bar context menu now shows \"Paste and Search\" instead of \"Paste and Go\" when the copied text is a search term rather than a web address.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 2055405,
+      "created": "2026-10-19T14:29:33.955143+00:00",
+      "id": 792379,
+      "is_public": true,
+      "modified": "2026-10-19T14:29:34.299385+00:00",
+      "note": "PDFs created when saving a page as PDF now include MathML content that is accessible to assistive technology such as screen readers.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 668577,
+      "created": "2026-10-19T14:32:42.469061+00:00",
+      "id": 792380,
+      "is_public": true,
+      "modified": "2026-10-19T14:32:42.468892+00:00",
+      "note": "Websites that repeatedly ask to open email (mailto:) and other links in a web apps can now be blocked with a new \u201cNever allow\u201d button, and blocked sites can be managed in Settings.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1751335,
       "created": "2026-10-07T17:40:17.008980+00:00",
       "id": 792299,
