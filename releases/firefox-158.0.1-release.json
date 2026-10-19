@@ -7,16 +7,40 @@
   "modified": "2026-10-19T19:36:12.755127+00:00",
   "notes": [
     {
-      "bug": null,
-      "created": "2026-10-08T17:39:51.250294+00:00",
-      "id": 792341,
+      "bug": 2081016,
+      "created": "2026-10-19T20:02:07.018875+00:00",
+      "id": 792385,
       "is_public": true,
-      "modified": "2026-10-19T19:36:46.758820+00:00",
-      "note": "Firefox's [translations][1] feature now supports the following languages:\r\n\r\n - Albanian \r\n - Belarusian\r\n - Filipino\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/website-translation",
+      "modified": "2026-10-19T20:03:19.072280+00:00",
+      "note": "Fixed an issue where pages unexpectedly scroll back to the top when selecting text. ([Bug 2081016][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=2081016",
       "progressive_rollout": false,
       "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "New"
+      "sort_num": 50,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 2076558,
+      "created": "2026-10-19T20:05:53.535485+00:00",
+      "id": 792386,
+      "is_public": true,
+      "modified": "2026-10-19T20:06:06.920144+00:00",
+      "note": "Fixed an issue where Firefox was opening windows on the wrong monitor in multi-monitor setups on Linux. ([Bug 2076558][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=2076558",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 40,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 2082376,
+      "created": "2026-10-19T20:10:54.174699+00:00",
+      "id": 792387,
+      "is_public": true,
+      "modified": "2026-10-19T20:10:54.947095+00:00",
+      "note": "Fixed a crash on Windows when printing or saving a page as PDF while a screen reader or other assistive technology was running. ([Bug 2082376][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=2082376",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 30,
+      "tag": "Fixed"
     },
     {
       "bug": null,
