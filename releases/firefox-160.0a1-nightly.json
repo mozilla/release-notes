@@ -245,6 +245,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": 1951304,
+      "created": "2026-10-19T17:04:32.571594+00:00",
+      "id": 792381,
+      "is_public": true,
+      "modified": "2026-10-19T17:04:33.057692+00:00",
+      "note": "On [Firefox for Android][1], fixed the touch actions near the cursor position in a text field, including double-tapping and long-tapping to select a word, and single-tapping to place the cursor.\r\n\r\n  [1]: https://play.google.com/store/apps/details?id=org.mozilla.fenix",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
