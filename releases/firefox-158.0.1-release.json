@@ -43,6 +43,30 @@
       "tag": "Fixed"
     },
     {
+      "bug": 2055094,
+      "created": "2026-10-19T20:13:57.641500+00:00",
+      "id": 792388,
+      "is_public": true,
+      "modified": "2026-10-19T20:13:58.212113+00:00",
+      "note": "Fixed an issue that could prevent the built-in VPN from turning on for some users. ([Bug 2055094][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=2055094",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 20,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 2078954,
+      "created": "2026-10-19T20:15:31.173096+00:00",
+      "id": 792389,
+      "is_public": true,
+      "modified": "2026-10-19T20:15:42.328452+00:00",
+      "note": "Fixed an issue where files dragged into Firefox from other applications were not dropped onto the page on macOS. ([Bug 2078954][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=2078954",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 10,
+      "tag": "Fixed"
+    },
+    {
       "bug": null,
       "created": "2026-10-19T19:36:01.962274+00:00",
       "id": 792384,

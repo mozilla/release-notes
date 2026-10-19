@@ -17,6 +17,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": 2073758,
+      "created": "2026-10-19T20:17:42.212514+00:00",
+      "id": 792390,
+      "is_public": true,
+      "modified": "2026-10-19T20:17:42.924429+00:00",
+      "note": "Fixed a frequent crash affecting some Android devices. ([Bug 2073758][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=2073758",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox for Android",
