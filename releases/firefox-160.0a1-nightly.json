@@ -199,6 +199,18 @@
       "tag": "HTML5"
     },
     {
+      "bug": 2083700,
+      "created": "2026-10-20T13:20:45.389854+00:00",
+      "id": 792393,
+      "is_public": true,
+      "modified": "2026-10-20T13:20:45.866138+00:00",
+      "note": "Firefox now supports the legacy `::-webkit-input-placeholder` pseudo-element as an alias of `::placeholder`, to improve compatibility with websites that use it to style placeholder text.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
       "bug": 1953361,
       "created": "2026-10-13T16:14:46.805253+00:00",
       "id": 792365,
