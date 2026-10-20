@@ -3,9 +3,21 @@
   "bug_search_url": "",
   "channel": "Release",
   "created": "2026-10-19T19:33:44.140470+00:00",
-  "is_public": false,
-  "modified": "2026-10-19T19:36:12.755127+00:00",
+  "is_public": true,
+  "modified": "2026-10-20T12:48:05.244563+00:00",
   "notes": [
+    {
+      "bug": null,
+      "created": "2026-10-20T12:45:16.549554+00:00",
+      "id": 792392,
+      "is_public": true,
+      "modified": "2026-10-20T12:45:39.755561+00:00",
+      "note": "Mozilla blocked compromised eMudhra intermediate certificates via OneCRL on October 17th. The blocks were distributed to clients via Remote Settings the same day. This update contains the updated OneCRL block list, ensuring clients will block the compromised certificates even if RemoteSettings is disabled by policy or otherwise unavailable in the user's network environment.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 60,
+      "tag": "Fixed"
+    },
     {
       "bug": 2081016,
       "created": "2026-10-19T20:02:07.018875+00:00",
