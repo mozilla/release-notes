@@ -3,9 +3,22 @@
   "bug_search_url": "",
   "channel": "Release",
   "created": "2026-10-21T03:18:53.861541+00:00",
-  "is_public": false,
-  "modified": "2026-10-21T03:19:20.288131+00:00",
-  "notes": [],
+  "is_public": true,
+  "modified": "2026-10-21T08:05:50.039213+00:00",
+  "notes": [
+    {
+      "bug": null,
+      "created": "2026-10-21T08:05:40.170562+00:00",
+      "id": 792398,
+      "is_public": true,
+      "modified": "2026-10-21T08:05:41.283956+00:00",
+      "note": "Reduce the window of vulnerability for CVE-2026-113470 on Firefox for Android by ensuring that the predistributed OneCRL block list is installed at startup.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
+    }
+  ],
   "product": "Firefox for Android",
   "release_date": "2026-10-21",
   "slug": "firefox-for-android-158.0.2-release",
