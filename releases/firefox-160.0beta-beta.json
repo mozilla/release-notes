@@ -103,6 +103,18 @@
       "tag": "New"
     },
     {
+      "bug": 2079977,
+      "created": "2026-10-21T19:51:30.183229+00:00",
+      "id": 792402,
+      "is_public": true,
+      "modified": "2026-10-21T19:51:30.814615+00:00",
+      "note": "On [Firefox for Android][1], Local Network Access restrictions are now enabled by default. Firefox now requires websites to request your permission before connecting to devices on your local network or to apps and services on your device.\r\n\r\n  [1]: https://play.google.com/store/apps/details?id=org.mozilla.firefox_beta",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 2080908,
       "created": "2026-10-17T13:27:51.250144+00:00",
       "id": 792376,
@@ -181,6 +193,42 @@
       "is_public": true,
       "modified": "2026-10-21T19:28:51.581888+00:00",
       "note": "Fixed situations where only the first of several simultaneous downloads showed a save dialog on macOS when Firefox is set to ask where to save files, and only downloaded the first file.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 2047486,
+      "created": "2026-10-21T19:52:08.637449+00:00",
+      "id": 792403,
+      "is_public": true,
+      "modified": "2026-10-21T19:52:09.013803+00:00",
+      "note": "On [Firefox for Android][1], web addresses containing non-Latin characters are now shown in readable form in the address bar and elsewhere in the app, instead of as encoded text.\r\n\r\n  [1]: https://play.google.com/store/apps/details?id=org.mozilla.firefox_beta",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1813919,
+      "created": "2026-10-21T19:58:13.730246+00:00",
+      "id": 792405,
+      "is_public": true,
+      "modified": "2026-10-21T19:58:14.289897+00:00",
+      "note": "On [Firefox for Android][1], fixed web addresses containing spaces, such as those from scanned QR codes, being searched for instead of opened.\r\n\r\n  [1]: https://play.google.com/store/apps/details?id=org.mozilla.firefox_beta",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1951304,
+      "created": "2026-10-21T20:03:16.803946+00:00",
+      "id": 792406,
+      "is_public": true,
+      "modified": "2026-10-21T20:03:17.122967+00:00",
+      "note": "On [Firefox for Android][1], fixed the touch actions near the cursor position in a text field, including double-tapping and long-tapping to select a word, and single-tapping to place the cursor.\r\n\r\n  [1]: https://play.google.com/store/apps/details?id=org.mozilla.firefox_beta",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
