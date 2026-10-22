@@ -127,6 +127,18 @@
       "tag": "New"
     },
     {
+      "bug": 2072573,
+      "created": "2026-10-22T18:57:33.593208+00:00",
+      "id": 792425,
+      "is_public": true,
+      "modified": "2026-10-22T18:57:34.174603+00:00",
+      "note": "Increased the contrast between the domain name and the rest of the address in the address bar, making it easier to understand which website you're viewing.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
       "bug": 2080908,
       "created": "2026-10-17T13:27:51.250144+00:00",
       "id": 792376,

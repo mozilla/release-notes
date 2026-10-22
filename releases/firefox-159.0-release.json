@@ -11,23 +11,11 @@
       "created": "2026-10-22T18:48:36.714201+00:00",
       "id": 792423,
       "is_public": true,
-      "modified": "2026-10-22T18:53:45.003114+00:00",
-      "note": "Sharing on macOS now uses the native macOS share picker, which shows a preview of the page and recent contacts alongside AirDrop, Messages, and other apps. Several selected tabs can also be shared at once.\r\n\r\n<img src=\"https://github.com/mozilla/release-notes-media/blob/main/media/159_macos_share_picker.png\" height=\"311\" width=\"480\" alt=\"Screenshot showing the native macOS share picker\">",
+      "modified": "2026-10-22T19:02:07.618443+00:00",
+      "note": "Sharing on macOS now uses the native macOS share picker, which shows a preview of the page and recent contacts alongside AirDrop, Messages, and other apps. Several selected tabs can also be shared at once.\r\n\r\n<img src=\"https://www.firefox.com/media/img/firefox/releasenotes/note-images/159_macos_share_picker.png\" height=\"311\" width=\"480\" alt=\"Screenshot showing the native macOS share picker\">",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 30,
-      "tag": "New"
-    },
-    {
-      "bug": 2083862,
-      "created": "2026-10-21T00:42:45.601694+00:00",
-      "id": 792395,
-      "is_public": true,
-      "modified": "2026-10-22T18:01:42.053229+00:00",
-      "note": "[Smart Window][1] can now keep an eye on pages for you. Type /watch in the chat to ask Smart Window to watch a page for changes like price drops or restocks, and choose how often it checks. When it finds a match, you'll get a desktop notification, and a dot on the Tasks button in the toolbar shows new matches at a glance. Open the Tasks page (about:smartwindowtasks) to view, edit, pause, check now, or delete your watches.\r\n\r\n\r\n  [1]: https://www.firefox.com/smart-window",
-      "progressive_rollout": true,
-      "relevant_countries": [],
-      "sort_num": 0,
       "tag": "New"
     },
     {
@@ -35,11 +23,23 @@
       "created": "2026-10-22T18:53:24.018156+00:00",
       "id": 792424,
       "is_public": true,
-      "modified": "2026-10-22T18:55:40.824250+00:00",
-      "note": "Saved passwords are now available from the sidebar by default, without having to add the Passwords tool first.\r\n\r\n<img src=\"https://github.com/mozilla/release-notes-media/blob/main/media/159_passwords_sidebar.png\" height=\"421\" width=\"492\" alt=\"Screenshot showing saved passwords being available in the browser sidebar\">",
+      "modified": "2026-10-22T19:02:16.881871+00:00",
+      "note": "Saved passwords are now available from the sidebar by default, without having to add the Passwords tool first.\r\n\r\n<img src=\"https://www.firefox.com/media/img/firefox/releasenotes/note-images/159_passwords_sidebar.png\" height=\"421\" width=\"492\" alt=\"Screenshot showing saved passwords being available in the browser sidebar\">",
       "progressive_rollout": false,
       "relevant_countries": [],
-      "sort_num": 0,
+      "sort_num": 20,
+      "tag": "New"
+    },
+    {
+      "bug": 2083862,
+      "created": "2026-10-22T18:57:47.942007+00:00",
+      "id": 792426,
+      "is_public": true,
+      "modified": "2026-10-22T18:58:48.134741+00:00",
+      "note": "[Smart Window][1] can now keep an eye on pages for you. Type /watch in the chat to ask Smart Window to watch a page for changes like price drops or restocks, and choose how often it checks. When it finds a match, you'll get a desktop notification, and a dot on the Tasks button in the toolbar shows new matches at a glance. Open the Tasks page (about:smartwindowtasks) to view, edit, pause, check now, or delete your watches.\r\n\r\n\r\n  [1]: https://www.firefox.com/smart-window",
+      "progressive_rollout": true,
+      "relevant_countries": [],
+      "sort_num": 10,
       "tag": "New"
     },
     {
