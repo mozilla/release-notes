@@ -7,6 +7,42 @@
   "modified": "2026-10-22T16:58:16.288149+00:00",
   "notes": [
     {
+      "bug": 2079728,
+      "created": "2026-10-22T18:02:27.228787+00:00",
+      "id": 792420,
+      "is_public": true,
+      "modified": "2026-10-22T18:02:46.144798+00:00",
+      "note": "Notably improved tab reloading issues, particularly on Xiaomi and Redmi devices.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 30,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 2073384,
+      "created": "2026-10-22T18:02:52.693786+00:00",
+      "id": 792421,
+      "is_public": true,
+      "modified": "2026-10-22T18:03:05.302442+00:00",
+      "note": "Fixed alarms being silenced when a video was playing on sites such as YouTube.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 20,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 2068878,
+      "created": "2026-10-22T18:03:17.735612+00:00",
+      "id": 792422,
+      "is_public": true,
+      "modified": "2026-10-22T18:03:31.460739+00:00",
+      "note": "Fixed videos not playing on some sites, such as The New York Times.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 10,
+      "tag": "Fixed"
+    },
+    {
       "bug": null,
       "created": "2026-10-22T16:57:54.801401+00:00",
       "id": 792419,
