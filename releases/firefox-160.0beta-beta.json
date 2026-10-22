@@ -257,6 +257,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": 2084588,
+      "created": "2026-10-22T19:30:49.184732+00:00",
+      "id": 792448,
+      "is_public": true,
+      "modified": "2026-10-22T19:30:49.803656+00:00",
+      "note": "Restored meaningful filenames and the usual save workflow for PDFs opened in Preview from the macOS print dialog.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
