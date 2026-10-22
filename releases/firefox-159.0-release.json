@@ -305,6 +305,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2026-10-22T21:35:03.322639+00:00",
+      "id": 792449,
+      "is_public": true,
+      "modified": "2026-10-22T21:35:03.845378+00:00",
+      "note": "With the release of Firefox 159, we are pleased to welcome the developers who contributed their first code change to Firefox in this release, 12 of whom were brand new volunteers! Please join us in thanking each of these diligent and enthusiastic individuals, and take a look at their contributions:\r\n\r\n* Abhinav Singh: <a href=\"https://bugzilla.mozilla.org/2070629\">2070629</a>\r\n* Atharva Wadodkar[:atharva]: <a href=\"https://bugzilla.mozilla.org/2070702\">2070702</a>\r\n* corpus_e: <a href=\"https://bugzilla.mozilla.org/2070325\">2070325</a>\r\n* csalinezh: <a href=\"https://bugzilla.mozilla.org/1970969\">1970969</a>\r\n* Dmitry Gozman: <a href=\"https://bugzilla.mozilla.org/2076389\">2076389</a>\r\n* eldjiikgull (EDS): <a href=\"https://bugzilla.mozilla.org/2076744\">2076744</a>\r\n* Fabio: <a href=\"https://bugzilla.mozilla.org/1735401\">1735401</a>\r\n* Feng Yu: <a href=\"https://bugzilla.mozilla.org/2073811\">2073811</a>\r\n* Jaron: <a href=\"https://bugzilla.mozilla.org/2069726\">2069726</a>\r\n* Jason Salerno: <a href=\"https://bugzilla.mozilla.org/2076831\">2076831</a>\r\n* Lander Feldman: <a href=\"https://bugzilla.mozilla.org/2067952\">2067952</a>\r\n* \u8d64\u5742\u7406\u5b50: <a href=\"https://bugzilla.mozilla.org/2044440\">2044440</a>",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Community"
     }
   ],
   "product": "Firefox",
