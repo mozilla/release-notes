@@ -115,6 +115,18 @@
       "tag": "New"
     },
     {
+      "bug": 1991747,
+      "created": "2026-10-22T14:11:02.375235+00:00",
+      "id": 792416,
+      "is_public": true,
+      "modified": "2026-10-22T14:11:02.821151+00:00",
+      "note": "Firefox now plays Matroska (MKV) files with FLAC, MP3, or PCM audio.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 2080908,
       "created": "2026-10-17T13:27:51.250144+00:00",
       "id": 792376,
