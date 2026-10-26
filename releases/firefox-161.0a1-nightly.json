@@ -31,6 +31,18 @@
       "tag": "New"
     },
     {
+      "bug": 2031723,
+      "created": "2026-10-26T17:26:10.668186+00:00",
+      "id": 792450,
+      "is_public": true,
+      "modified": "2026-10-26T17:26:11.505048+00:00",
+      "note": "You can now copy the current tab's URL with a keyboard shortcut. No shortcut is assigned by default, so you can choose your own key combination in **Customize keyboard shortcuts** in Firefox Settings. [Learn more](https://support.mozilla.org/en-US/kb/keyboard-shortcuts-perform-firefox-tasks-quickly)",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1751335,
       "created": "2026-10-07T17:40:17.008980+00:00",
       "id": 792299,
