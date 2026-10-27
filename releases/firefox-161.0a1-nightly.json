@@ -103,6 +103,18 @@
       "tag": "HTML5"
     },
     {
+      "bug": 2085572,
+      "created": "2026-10-27T12:09:09.718872+00:00",
+      "id": 792452,
+      "is_public": true,
+      "modified": "2026-10-27T12:09:10.526495+00:00",
+      "note": "`<meta name=color-scheme>` now affects the `prefers-colors-cheme` media query if it only specifies one scheme, allowing better resource selection and making theme switchers easier to implement.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
       "bug": 2081281,
       "created": "2026-10-26T19:44:13.316527+00:00",
       "id": 792451,
