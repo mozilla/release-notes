@@ -3,8 +3,8 @@
   "bug_search_url": "",
   "channel": "Release",
   "created": "2026-10-22T16:56:46.626679+00:00",
-  "is_public": false,
-  "modified": "2026-10-22T16:57:51.970940+00:00",
+  "is_public": true,
+  "modified": "2026-10-27T12:38:51.148095+00:00",
   "notes": [
     {
       "bug": 2009747,
@@ -299,8 +299,8 @@
       "created": "2026-10-22T16:57:54.801401+00:00",
       "id": 792419,
       "is_public": true,
-      "modified": "2026-10-22T17:00:18.951529+00:00",
-      "note": "Various [security fixes][1].\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/mfsa2026-117",
+      "modified": "2026-10-27T12:38:17.363712+00:00",
+      "note": "Various [security fixes][1].\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
