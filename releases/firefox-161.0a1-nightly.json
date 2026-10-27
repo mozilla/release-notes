@@ -125,6 +125,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": 2085170,
+      "created": "2026-10-27T14:39:41.270164+00:00",
+      "id": 792453,
+      "is_public": true,
+      "modified": "2026-10-27T14:39:41.917221+00:00",
+      "note": "Fixed the Windows taskbar staying visible over full-screen Firefox windows after switching back from another application.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
