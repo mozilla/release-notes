@@ -55,6 +55,18 @@
       "tag": "Changed"
     },
     {
+      "bug": 1333781,
+      "created": "2026-10-28T07:28:25.254075+00:00",
+      "id": 792454,
+      "is_public": true,
+      "modified": "2026-10-28T07:28:25.973747+00:00",
+      "note": "On macOS, keyboard shortcuts assigned to Firefox menu items in System Settings now replace the built-in shortcuts for those items.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
       "bug": 2070927,
       "created": "2026-09-14T12:28:15.568245+00:00",
       "id": 792228,
