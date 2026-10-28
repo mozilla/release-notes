@@ -79,18 +79,6 @@
       "tag": "HTML5"
     },
     {
-      "bug": 2071165,
-      "created": "2026-09-16T14:27:19.453882+00:00",
-      "id": 792232,
-      "is_public": true,
-      "modified": "2026-10-22T10:56:49.853305+00:00",
-      "note": "Starting with Firefox 158, Firefox Nightly now supports the [`random()`][1] CSS function, which allows authors to introduce randomness into their styles, generating a random value in a given range (with an optional increment) that is usable anywhere that math functions can be specified.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Values/random",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": "HTML5"
-    },
-    {
       "bug": 1594633,
       "created": "2026-09-18T16:55:20.980617+00:00",
       "id": 792236,
@@ -121,6 +109,18 @@
       "is_public": true,
       "modified": "2026-10-27T12:09:10.526495+00:00",
       "note": "`<meta name=color-scheme>` now affects the `prefers-colors-cheme` media query if it only specifies one scheme, allowing better resource selection and making theme switchers easier to implement.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 2072252,
+      "created": "2026-10-28T07:41:42.313098+00:00",
+      "id": 792455,
+      "is_public": true,
+      "modified": "2026-10-28T07:41:43.007312+00:00",
+      "note": "Firefox now supports the random() CSS function, which allows authors to introduce randomness into their styles, generating a random value in a given range (with an optional increment) that is usable anywhere that math functions can be specified. [Learn more][1].\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/CSS/Reference/Values/random",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
