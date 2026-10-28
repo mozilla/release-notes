@@ -149,6 +149,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": 2002102,
+      "created": "2026-10-28T13:33:42.396347+00:00",
+      "id": 792456,
+      "is_public": true,
+      "modified": "2026-10-28T13:33:43.126266+00:00",
+      "note": "Fixed Firefox hanging on macOS 26+ when opening Spotlight with a large number of bookmarks.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
