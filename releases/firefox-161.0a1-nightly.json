@@ -67,6 +67,18 @@
       "tag": "Changed"
     },
     {
+      "bug": 2085310,
+      "created": "2026-10-29T13:42:18.572273+00:00",
+      "id": 792459,
+      "is_public": true,
+      "modified": "2026-10-29T13:42:19.274314+00:00",
+      "note": "Starting with Firefox 161, the search engine button in the address bar is always visible in Firefox Nightly, not only when the address bar is focused.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
       "bug": 2070927,
       "created": "2026-09-14T12:28:15.568245+00:00",
       "id": 792228,
