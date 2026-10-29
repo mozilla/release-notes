@@ -173,6 +173,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": 2080608,
+      "created": "2026-10-29T08:38:28.874443+00:00",
+      "id": 792458,
+      "is_public": true,
+      "modified": "2026-10-29T08:38:29.644107+00:00",
+      "note": "Fixed some tabs not being restored after a restart when the saved session referred to a tab group that no longer existed.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
