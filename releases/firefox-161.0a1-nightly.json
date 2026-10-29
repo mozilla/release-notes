@@ -161,6 +161,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": 2082538,
+      "created": "2026-10-29T07:45:38.029972+00:00",
+      "id": 792457,
+      "is_public": true,
+      "modified": "2026-10-29T07:45:38.778258+00:00",
+      "note": "Fixed WebRTC video calls with some services sending low-resolution H.264 video since Firefox 158.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
