@@ -7,6 +7,42 @@
   "modified": "2026-11-01T21:19:53.934631+00:00",
   "notes": [
     {
+      "bug": 2085450,
+      "created": "2026-11-02T19:57:37.170725+00:00",
+      "id": 792468,
+      "is_public": true,
+      "modified": "2026-11-02T19:57:37.585646+00:00",
+      "note": "Fixed passkey sign-in failing on websites that share passkeys across related sites, such as Facebook and Instagram. ([Bug 2085450][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=2085450",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 50,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 2086609,
+      "created": "2026-11-02T20:03:19.867197+00:00",
+      "id": 792471,
+      "is_public": true,
+      "modified": "2026-11-02T20:03:19.867027+00:00",
+      "note": "Updated time zone data to reflect Cuba's decision not to end daylight saving time on November 1, 2026. ([Bug 2086609][1])\r\n\r\n\r\n  [1]: https://bugzilla.mozilla.org/show_bug.cgi?id=2086609",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 20,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2026-11-02T19:50:41.271431+00:00",
+      "id": 792465,
+      "is_public": true,
+      "modified": "2026-11-02T19:50:41.892948+00:00",
+      "note": "Various stability fixes.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 5,
+      "tag": "Fixed"
+    },
+    {
       "bug": null,
       "created": "2026-11-01T21:21:15.258955+00:00",
       "id": 792460,
