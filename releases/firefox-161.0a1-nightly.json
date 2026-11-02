@@ -151,6 +151,18 @@
       "tag": "HTML5"
     },
     {
+      "bug": 2080511,
+      "created": "2026-11-02T08:48:50.517151+00:00",
+      "id": 792463,
+      "is_public": true,
+      "modified": "2026-11-02T08:49:57.017882+00:00",
+      "note": "Firefox now supports [nested arbitrary substitution functions][1] in the primary parameters of `var()`, `attr()`, and `env()`; for example, `var(attr(data-theme-prop type(<custom-ident>)))` and `env(var(--safe-area-block-start))`.\r\n\r\n\r\n  [1]: http://%20https://drafts.csswg.org/css-values-5/#replace-an-arbitrary-substitution-function",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
       "bug": 2081281,
       "created": "2026-10-26T19:44:13.316527+00:00",
       "id": 792451,
