@@ -197,6 +197,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": 2077043,
+      "created": "2026-11-02T08:32:09.056129+00:00",
+      "id": 792461,
+      "is_public": true,
+      "modified": "2026-11-02T08:32:09.847905+00:00",
+      "note": "Fixed typing with an input method, such as for Japanese or Korean, stopping after the first character in Canva Docs.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
