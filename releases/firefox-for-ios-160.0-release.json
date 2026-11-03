@@ -5,7 +5,20 @@
   "created": "2026-11-03T16:25:38.033140+00:00",
   "is_public": false,
   "modified": "2026-11-03T16:26:28.226181+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": null,
+      "created": "2026-11-03T18:53:41.766255+00:00",
+      "id": 792483,
+      "is_public": true,
+      "modified": "2026-11-03T18:53:42.378561+00:00",
+      "note": "Improved support for iPhone Duo.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    }
+  ],
   "product": "Firefox for iOS",
   "release_date": "2026-11-10",
   "slug": "firefox-for-ios-160.0-release",
