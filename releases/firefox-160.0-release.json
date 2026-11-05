@@ -7,6 +7,18 @@
   "modified": "2026-11-03T16:27:03.474171+00:00",
   "notes": [
     {
+      "bug": 2070673,
+      "created": "2026-11-05T16:34:45.327297+00:00",
+      "id": 792502,
+      "is_public": true,
+      "modified": "2026-11-05T16:34:45.327206+00:00",
+      "note": "The [Picture-in-Picture][1] player now has a playback speed setting, with options ranging from 0.25x to 2.0x speed. Please note that the setting is only visible on medium or larger player windows.\r\n\r\n\r\n<img alt=\"A screenshot of the PIP window showing playback speed settings\" src=\"https://www.firefox.com/media/img/firefox/releasenotes/note-images/160_pip_playback_speed.png\" width=\"700\">\r\n\r\n  [1]: https://support.mozilla.org/kb/about-picture-picture-firefox",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 90,
+      "tag": "New"
+    },
+    {
       "bug": null,
       "created": "2026-11-05T16:17:19.342565+00:00",
       "id": 792492,
@@ -41,6 +53,90 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "Enterprise"
+    },
+    {
+      "bug": 1953361,
+      "created": "2026-11-05T16:22:28.292462+00:00",
+      "id": 792495,
+      "is_public": true,
+      "modified": "2026-11-05T16:22:28.596560+00:00",
+      "note": "Fixed the first character typed into the address bar or search bar sometimes being lost when typing quickly right after clicking into it.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 90,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 2072573,
+      "created": "2026-11-05T16:26:49.052698+00:00",
+      "id": 792501,
+      "is_public": true,
+      "modified": "2026-11-05T16:26:49.448176+00:00",
+      "note": "Increased the contrast between the domain name and the rest of the address in the address bar, making it easier to see which website is open.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 85,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1394752,
+      "created": "2026-11-05T16:23:11.215724+00:00",
+      "id": 792496,
+      "is_public": true,
+      "modified": "2026-11-05T16:23:11.556128+00:00",
+      "note": "Fixed Firefox freezing for several seconds when signing in to intranet sites that use NTLM or Kerberos (Negotiate) authentication.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 80,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 2081443,
+      "created": "2026-11-05T16:23:41.374342+00:00",
+      "id": 792497,
+      "is_public": true,
+      "modified": "2026-11-05T16:23:41.374195+00:00",
+      "note": "Fixed links opened in the background from other apps on macOS, such as RSS readers, bringing Firefox to the foreground.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 70,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 2080060,
+      "created": "2026-11-05T16:24:25.676714+00:00",
+      "id": 792498,
+      "is_public": true,
+      "modified": "2026-11-05T16:24:26.096073+00:00",
+      "note": "Fixed downloaded files on macOS sometimes opening in the wrong application instead of the default one set in Finder.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 60,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 2079100,
+      "created": "2026-11-05T16:24:54.472016+00:00",
+      "id": 792499,
+      "is_public": true,
+      "modified": "2026-11-05T16:24:54.854374+00:00",
+      "note": "Fixed simultaneous downloads on macOS when Firefox is set to ask where to save files, where only the first file showed a save dialog and the rest never finished downloading.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 50,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 2084588,
+      "created": "2026-11-05T16:25:38.262501+00:00",
+      "id": 792500,
+      "is_public": true,
+      "modified": "2026-11-05T16:25:48.151808+00:00",
+      "note": "Restored meaningful filenames and the usual save workflow for PDFs opened in Preview from the macOS print dialog.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 40,
+      "tag": "Fixed"
     },
     {
       "bug": null,
