@@ -8,6 +8,42 @@
   "notes": [
     {
       "bug": null,
+      "created": "2026-11-05T16:17:19.342565+00:00",
+      "id": 792492,
+      "is_public": true,
+      "modified": "2026-11-05T16:17:19.782051+00:00",
+      "note": "The speech recognition part of the [Web Speech API][1] is now supported through the [SpeechRecognition][2] interface, performing on-device real-time speech-to-text in 40 languages.\r\n\r\n\r\n  [1]: https://developer.mozilla.org/docs/Web/API/Web_Speech_API\r\n  [2]: https://developer.mozilla.org/docs/Web/API/SpeechRecognition",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 90,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 2083700,
+      "created": "2026-11-05T16:18:06.270075+00:00",
+      "id": 792493,
+      "is_public": true,
+      "modified": "2026-11-05T16:18:06.586717+00:00",
+      "note": "Firefox now supports the legacy `::-webkit-input-placeholder` pseudo-element as an alias of `::placeholder`, to improve compatibility with websites that use it to style placeholder text.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 80,
+      "tag": "HTML5"
+    },
+    {
+      "bug": null,
+      "created": "2026-11-05T16:18:54.154418+00:00",
+      "id": 792494,
+      "is_public": true,
+      "modified": "2026-11-05T16:18:54.457379+00:00",
+      "note": "For Firefox Enterprise updates and fixes, see the [Firefox Enterprise Release Notes][1]. For policy changes, see the [Firefox admin docs changelog][2].\r\n\r\n\r\n  [1]: https://www.firefox.com/firefox/enterprise/160.0/releasenotes/\r\n  [2]: https://firefox-admin-docs.mozilla.org/release-notes/version/firefox-160/",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Enterprise"
+    },
+    {
+      "bug": null,
       "created": "2026-11-03T16:29:41.529063+00:00",
       "id": 792481,
       "is_public": true,
