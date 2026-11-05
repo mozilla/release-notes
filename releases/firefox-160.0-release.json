@@ -23,8 +23,8 @@
       "created": "2026-11-05T16:37:52.209096+00:00",
       "id": 792503,
       "is_public": true,
-      "modified": "2026-11-05T17:33:42.477353+00:00",
-      "note": "Mini Window moves a tab or a selected part of a page into an always-on-top window while browsing. We\u2019d appreciate feedback on [Mozilla Connect][1] as we develop and improve this early version of the feature.\r\n\r\n\r\n<img alt=\"A screenshot of a Mini Window showing a page in an always-on-top window\" src=\"https://www.firefox.com/media/img/firefox/releasenotes/note-images/160_miniwindow.png\" width=\"700\">\r\n\r\n\r\n  [1]: https://connect.mozilla.org/t5/discussions/mini-window-beta-is-going-live-in-firefox-160-and-we-want-your/m-p/144137#M59048",
+      "modified": "2026-11-05T17:52:01.976812+00:00",
+      "note": "Mini Window moves a tab or a selected part of a page into an always-on-top window while browsing. We\u2019d appreciate feedback on [Mozilla Connect][1] as we develop and improve this early version of the feature.\r\n\r\n\r\n<img alt=\"A screenshot of a Mini Window showing a page in an always-on-top window\" src=\"https://www.firefox.com/media/img/firefox/releasenotes/note-images/160_miniwindows.png\" width=\"700\">\r\n\r\n\r\n  [1]: https://connect.mozilla.org/t5/discussions/mini-window-beta-is-going-live-in-firefox-160-and-we-want-your/m-p/144137#M59048",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 80,
@@ -184,6 +184,18 @@
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 80,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 1951304,
+      "created": "2026-11-05T16:11:25.048033+00:00",
+      "id": 792491,
+      "is_public": true,
+      "modified": "2026-11-05T18:00:15.790086+00:00",
+      "note": "Fixed double-tapping or long-pressing a word to select it, and tapping to place the cursor, not working near the cursor in text fields.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 70,
       "tag": "Fixed"
     },
     {
