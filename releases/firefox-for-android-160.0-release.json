@@ -7,12 +7,36 @@
   "modified": "2026-11-03T16:26:17.214774+00:00",
   "notes": [
     {
+      "bug": 2079977,
+      "created": "2026-11-05T16:09:10.192258+00:00",
+      "id": 792488,
+      "is_public": true,
+      "modified": "2026-11-05T16:09:10.191921+00:00",
+      "note": "Local Network Access restrictions are now enabled by default. Websites must now ask for permission before connecting to devices on the local network or to apps and services on the device.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": null,
       "created": "2026-11-03T16:29:41.529063+00:00",
       "id": 792481,
       "is_public": true,
       "modified": "2026-11-03T16:29:41.998100+00:00",
       "note": "Various [security fixes][1].\r\n\r\n\r\n  [1]: https://www.mozilla.org/security/advisories/",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 2047486,
+      "created": "2026-11-05T16:10:22.153531+00:00",
+      "id": 792489,
+      "is_public": true,
+      "modified": "2026-11-05T16:10:22.737444+00:00",
+      "note": "Fixed web addresses containing non-Latin characters appearing as encoded text instead of in readable form in the address bar and elsewhere in the app.",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
