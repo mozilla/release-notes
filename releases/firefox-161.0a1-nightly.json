@@ -55,6 +55,18 @@
       "tag": "New"
     },
     {
+      "bug": 2086462,
+      "created": "2026-11-05T07:57:44.169384+00:00",
+      "id": 792485,
+      "is_public": true,
+      "modified": "2026-11-05T07:57:44.884150+00:00",
+      "note": "Starting with Firefox 161, the address bar in Firefox Nightly explains why some results are shown, such as when a page was last visited or bookmarked.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1751335,
       "created": "2026-10-07T17:40:17.008980+00:00",
       "id": 792299,
@@ -143,8 +155,8 @@
       "created": "2026-10-27T12:09:09.718872+00:00",
       "id": 792452,
       "is_public": true,
-      "modified": "2026-11-03T20:57:36.352215+00:00",
-      "note": "`<meta name=color-scheme>` now affects the `prefers-color-scheme` media query if it only specifies one scheme, allowing better resource selection and making theme switchers easier to implement.",
+      "modified": "2026-11-05T08:09:03.874681+00:00",
+      "note": "Starting with Firefox 161, `<meta name=color-scheme>` in Firefox Nightly affects the `prefers-color-scheme` media query if it only specifies one scheme, allowing better resource selection and making theme switchers easier to implement.",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
