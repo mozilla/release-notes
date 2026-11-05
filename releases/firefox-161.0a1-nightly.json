@@ -67,6 +67,18 @@
       "tag": "New"
     },
     {
+      "bug": 2084126,
+      "created": "2026-11-05T12:45:18.780535+00:00",
+      "id": 792486,
+      "is_public": true,
+      "modified": "2026-11-05T12:45:19.461316+00:00",
+      "note": "Starting with Firefox 161, Firefox Nightly for Android can read web pages in Reader view aloud with *Listen to Page*.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1751335,
       "created": "2026-10-07T17:40:17.008980+00:00",
       "id": 792299,
