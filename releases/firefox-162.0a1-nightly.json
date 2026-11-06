@@ -77,6 +77,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "HTML5"
+    },
+    {
+      "bug": 2089681,
+      "created": "2026-11-06T21:33:19.731808+00:00",
+      "id": 792525,
+      "is_public": true,
+      "modified": "2026-11-06T21:33:20.488027+00:00",
+      "note": "Firefox now supports the [CSS Typed OM ](https://drafts.css-houdini.org/css-typed-om/) Level 1 specification, allowing web applications to read and write CSS values as typed JavaScript objects rather than strings. The color value interfaces are not yet available.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
     }
   ],
   "product": "Firefox",
