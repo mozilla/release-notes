@@ -89,6 +89,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "HTML5"
+    },
+    {
+      "bug": null,
+      "created": "2026-11-09T15:05:13.335690+00:00",
+      "id": 792526,
+      "is_public": true,
+      "modified": "2026-11-09T15:05:13.979958+00:00",
+      "note": "Firefox now supports [streaming uploads][1] with the [Fetch API][2], allowing web applications to send request bodies incrementally using a ReadableStream without buffering the entire body first.\r\n\r\n\r\n  [1]: https://developer.chrome.com/docs/capabilities/web-apis/fetch-streaming-requests\r\n  [2]: https://developer.mozilla.org/docs/Web/API/Fetch_API/Using_Fetch",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
     }
   ],
   "product": "Firefox",
