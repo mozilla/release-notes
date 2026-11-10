@@ -31,6 +31,18 @@
       "tag": "New"
     },
     {
+      "bug": 2067732,
+      "created": "2026-11-10T18:20:31.950223+00:00",
+      "id": 792529,
+      "is_public": true,
+      "modified": "2026-11-10T18:20:32.522017+00:00",
+      "note": "On [Firefox for Android][1], Extension users now see a more prominent message when an extension has an update pending that requires approval for new permissions or data collection consent.\r\n\r\n  [1]: https://play.google.com/store/apps/details?id=org.mozilla.firefox_beta",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1333781,
       "created": "2026-10-28T07:28:25.254075+00:00",
       "id": 792454,
