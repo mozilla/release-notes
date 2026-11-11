@@ -3,15 +3,15 @@
   "bug_search_url": "",
   "channel": "Release",
   "created": "2026-11-06T14:05:51.730306+00:00",
-  "is_public": false,
-  "modified": "2026-11-06T14:05:51.730080+00:00",
+  "is_public": true,
+  "modified": "2026-11-11T10:28:46.066727+00:00",
   "notes": [
     {
       "bug": 2079490,
       "created": "2026-11-06T14:07:54.375121+00:00",
       "fixed_in_release": {
         "channel": "Release",
-        "is_public": false,
+        "is_public": true,
         "product": "Firefox Enterprise",
         "slug": "firefox-enterprise-160.0-release",
         "title": "Firefox Enterprise 160.0 Release",
