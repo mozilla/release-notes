@@ -19,6 +19,18 @@
       "tag": "New"
     },
     {
+      "bug": 2086196,
+      "created": "2026-11-12T12:57:39.814168+00:00",
+      "id": 792536,
+      "is_public": true,
+      "modified": "2026-11-12T12:57:40.444395+00:00",
+      "note": "[Firefox for Android][1] rolls out stronger [protection against fingerprinting][2] in Standard Enhanced Tracking Protection, making it harder for websites to track you across sites by limiting the amount of information revealed about your device and browser. ([Learn more][3])\r\n\r\n\r\n  [1]: https://play.google.com/store/apps/details?id=org.mozilla.fenix\r\n  [2]: https://support.mozilla.org/kb/firefox-protection-against-fingerprinting\r\n  [3]: https://blog.mozilla.org/en/firefox/fingerprinting-protections/",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1751335,
       "created": "2026-10-07T17:40:17.008980+00:00",
       "id": 792299,
