@@ -91,6 +91,18 @@
       "tag": "HTML5"
     },
     {
+      "bug": 2089681,
+      "created": "2026-11-06T21:33:19.731808+00:00",
+      "id": 792525,
+      "is_public": true,
+      "modified": "2026-11-12T15:59:58.389411+00:00",
+      "note": "Firefox now supports the [CSS Typed Object Model,][1] which lets scripts read and write CSS values as typed JavaScript objects instead of strings. Color values, such as `CSSColorValue`, are not supported yet.\r\n\r\n\r\n  [1]: https://drafts.css-houdini.org/css-typed-om/",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
       "bug": 2053725,
       "created": "2026-11-12T09:17:23.100941+00:00",
       "id": 792535,
