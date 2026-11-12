@@ -223,6 +223,18 @@
       "tag": "HTML5"
     },
     {
+      "bug": 2053725,
+      "created": "2026-11-12T09:17:23.100941+00:00",
+      "id": 792535,
+      "is_public": true,
+      "modified": "2026-11-12T09:17:23.983947+00:00",
+      "note": "Firefox now supports web custom formats in the Async Clipboard API (navigator.clipboard.read() and write()), letting same-origin pages can copy and paste their own data formats.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
       "bug": 1377755,
       "created": "2026-11-05T13:58:39.200630+00:00",
       "id": 792487,
