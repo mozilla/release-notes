@@ -197,6 +197,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": 1935831,
+      "created": "2026-11-12T22:46:51.164586+00:00",
+      "id": 792538,
+      "is_public": true,
+      "modified": "2026-11-12T22:46:51.851672+00:00",
+      "note": "Fixed the Copy and Download buttons in the Screenshots overlay not responding to touchscreen taps.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
