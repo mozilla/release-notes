@@ -139,6 +139,18 @@
       "tag": "HTML5"
     },
     {
+      "bug": 2091710,
+      "created": "2026-11-13T13:32:54.796109+00:00",
+      "id": 792539,
+      "is_public": true,
+      "modified": "2026-11-13T13:32:55.566863+00:00",
+      "note": "Starting with Firefox 162, Firefox Nightly now supports the [`inherit()`][1] arbitrary substitution function, which allows authors to explicitly use the computed value of a custom property from the parent element.\r\n\r\n\r\n  [1]: https://drafts.csswg.org/css-values-5/#inherit-notation",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
       "bug": 2077597,
       "created": "2026-11-11T04:19:27.627034+00:00",
       "id": 792530,
