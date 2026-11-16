@@ -151,6 +151,30 @@
       "tag": "HTML5"
     },
     {
+      "bug": 2059792,
+      "created": "2026-11-16T17:51:35.384163+00:00",
+      "id": 792552,
+      "is_public": true,
+      "modified": "2026-11-16T17:51:56.575693+00:00",
+      "note": "Firefox now supports the [Regular Expression Buffer Boundaries proposal][1], adding `\\A`, `\\z` and `\\Z` character escapes to Unicode-mode regular expressions.\r\n\r\n\r\n  [1]: https://github.com/tc39/proposal-regexp-buffer-boundaries",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 2092915,
+      "created": "2026-11-16T17:55:09.251759+00:00",
+      "id": 792553,
+      "is_public": true,
+      "modified": "2026-11-16T17:55:09.804013+00:00",
+      "note": "Starting with Firefox 162, Firefox Nightly now supports the `random-item()` CSS function, which selects a random value from a list of options.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
       "bug": 2077597,
       "created": "2026-11-11T04:19:27.627034+00:00",
       "id": 792530,
