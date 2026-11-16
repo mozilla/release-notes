@@ -20,6 +20,18 @@
     },
     {
       "bug": null,
+      "created": "2026-11-16T14:45:28.047724+00:00",
+      "id": 792544,
+      "is_public": true,
+      "modified": "2026-11-16T15:23:10.607946+00:00",
+      "note": "Various stability fixes.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 90,
+      "tag": "Fixed"
+    },
+    {
+      "bug": null,
       "created": "2026-11-16T14:42:42.899660+00:00",
       "id": 792543,
       "is_public": true,
@@ -28,18 +40,6 @@
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 50,
-      "tag": "Fixed"
-    },
-    {
-      "bug": null,
-      "created": "2026-11-16T14:45:28.047724+00:00",
-      "id": 792544,
-      "is_public": true,
-      "modified": "2026-11-16T14:45:28.630111+00:00",
-      "note": "Various stability fixes.",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 10,
       "tag": "Fixed"
     }
   ],
