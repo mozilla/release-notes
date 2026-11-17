@@ -67,6 +67,18 @@
       "tag": "Changed"
     },
     {
+      "bug": 2074227,
+      "created": "2026-11-17T16:58:49.856391+00:00",
+      "id": 792561,
+      "is_public": true,
+      "modified": "2026-11-17T16:58:50.647662+00:00",
+      "note": "On Firefox for Android, default homepage shortcuts other than Google now make room for the sites visited most often, more regions get their own set of default shortcuts, and there is no longer a limit on how many shortcuts can be added.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
       "bug": 2072252,
       "created": "2026-10-28T07:41:42.313098+00:00",
       "id": 792455,
