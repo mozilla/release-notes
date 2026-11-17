@@ -31,6 +31,18 @@
       "tag": "New"
     },
     {
+      "bug": 2090233,
+      "created": "2026-11-17T16:34:22.712687+00:00",
+      "id": 792556,
+      "is_public": true,
+      "modified": "2026-11-17T16:34:23.151684+00:00",
+      "note": "Starting with Firefox 162, Nightly users can now map URLs to containers, so they always open in the same container. For example, you can tell Firefox to always open Facebook in your Social container. This is a popular feature of the Multi-Account Containers extension and has been highly requested for us to port over.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1751335,
       "created": "2026-10-07T17:40:17.008980+00:00",
       "id": 792299,
@@ -241,6 +253,30 @@
       "is_public": true,
       "modified": "2026-11-12T22:46:51.851672+00:00",
       "note": "Fixed the Copy and Download buttons in the Screenshots overlay not responding to touchscreen taps.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 2091995,
+      "created": "2026-11-17T16:31:26.164629+00:00",
+      "id": 792554,
+      "is_public": true,
+      "modified": "2026-11-17T16:31:26.764192+00:00",
+      "note": "Fixed the page jumping out of view while typing on some sites, such as the New York Times crossword.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 2091358,
+      "created": "2026-11-17T16:32:18.662019+00:00",
+      "id": 792555,
+      "is_public": true,
+      "modified": "2026-11-17T16:32:19.121919+00:00",
+      "note": "Fixed some HDR videos appearing washed out in full screen on Windows when using a non-HDR display.",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
