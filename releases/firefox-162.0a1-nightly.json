@@ -67,6 +67,18 @@
       "tag": "Changed"
     },
     {
+      "bug": 2085328,
+      "created": "2026-11-17T16:35:23.478915+00:00",
+      "id": 792557,
+      "is_public": true,
+      "modified": "2026-11-17T16:35:24.001163+00:00",
+      "note": "The keyboard shortcut for copying the current tab's URL now removes tracking parameters from the copied link.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
       "bug": 2059840,
       "created": "2026-10-14T19:33:02.030411+00:00",
       "id": 792370,
@@ -185,6 +197,42 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "HTML5"
+    },
+    {
+      "bug": 2021012,
+      "created": "2026-11-17T16:38:28.061330+00:00",
+      "id": 792559,
+      "is_public": true,
+      "modified": "2026-11-17T16:38:28.659468+00:00",
+      "note": "Starting with Firefox 162, Nightly builds allow web pages to use multiple import maps.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 1935325,
+      "created": "2026-11-17T16:40:38.060137+00:00",
+      "id": 792560,
+      "is_public": true,
+      "modified": "2026-11-17T16:40:38.545376+00:00",
+      "note": "Firefox now accepts [declarative push messages][1]. Push messages sent in the declarative format will be directly shown as notifications without involving a service worker, and push subscriptions can now be managed through `window.pushManager`.\r\n\r\n\r\n  [1]: https://w3c.github.io/push-api/#declarative-push-message",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 2081428,
+      "created": "2026-11-17T16:36:33.844755+00:00",
+      "id": 792558,
+      "is_public": true,
+      "modified": "2026-11-17T16:36:34.360227+00:00",
+      "note": "Starting with Firefox 162, Nightly builds show external stylesheets in the Debugger alongside scripts, where they can be viewed and edited.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Developer"
     },
     {
       "bug": 2077597,
