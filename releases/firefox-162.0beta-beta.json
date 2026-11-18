@@ -19,6 +19,18 @@
       "tag": "New"
     },
     {
+      "bug": 873618,
+      "created": "2026-11-18T19:42:42.736372+00:00",
+      "id": 792569,
+      "is_public": true,
+      "modified": "2026-11-18T20:36:12.982634+00:00",
+      "note": "Firefox now supports the command line parameter `--start-maximized` to open maximized.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 2085328,
       "created": "2026-11-17T16:35:23.478915+00:00",
       "id": 792557,

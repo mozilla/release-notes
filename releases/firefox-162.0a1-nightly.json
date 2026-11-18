@@ -47,7 +47,7 @@
       "created": "2026-11-18T19:42:42.736372+00:00",
       "id": 792569,
       "is_public": true,
-      "modified": "2026-11-18T19:42:43.375505+00:00",
+      "modified": "2026-11-18T20:36:12.982634+00:00",
       "note": "Firefox now supports the command line parameter `--start-maximized` to open maximized.",
       "progressive_rollout": false,
       "relevant_countries": [],
@@ -247,6 +247,18 @@
       "tag": "HTML5"
     },
     {
+      "bug": 1169485,
+      "created": "2026-11-18T20:39:50.252159+00:00",
+      "id": 792570,
+      "is_public": true,
+      "modified": "2026-11-18T20:40:22.900593+00:00",
+      "note": "Starting with Firefox 162, Nightly builds support [MP3 audio][1] (audio/mpeg) in [Media Source][2] Extensions. \r\n\r\n\r\n  [1]: https://w3c.github.io/mse-byte-stream-format-mpeg-audio/\r\n  [2]: https://developer.mozilla.org/docs/Web/API/MediaSource/isTypeSupported_static",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
       "bug": 2081428,
       "created": "2026-11-17T16:36:33.844755+00:00",
       "id": 792558,
@@ -349,6 +361,18 @@
       "is_public": true,
       "modified": "2026-11-17T21:06:09.311658+00:00",
       "note": "Fixed some HDR videos appearing washed out in full screen on Windows when using a non-HDR display.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
+    },
+    {
+      "bug": 2092300,
+      "created": "2026-11-18T20:41:22.982638+00:00",
+      "id": 792571,
+      "is_public": true,
+      "modified": "2026-11-18T20:41:23.717677+00:00",
+      "note": "Fixed text on tabs and the bookmarks toolbar appearing to glow white with some custom themes.",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
