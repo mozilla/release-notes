@@ -43,6 +43,18 @@
       "tag": "New"
     },
     {
+      "bug": 873618,
+      "created": "2026-11-18T19:42:42.736372+00:00",
+      "id": 792569,
+      "is_public": true,
+      "modified": "2026-11-18T19:42:43.375505+00:00",
+      "note": "Firefox now supports the command line parameter `--start-maximized` to open maximized.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1751335,
       "created": "2026-10-07T17:40:17.008980+00:00",
       "id": 792299,
@@ -227,7 +239,7 @@
       "created": "2026-11-18T18:35:52.864152+00:00",
       "id": 792568,
       "is_public": true,
-      "modified": "2026-11-18T18:35:53.425931+00:00",
+      "modified": "2026-11-18T19:42:14.190796+00:00",
       "note": "Firefox now supports the `border-area` value for the CSS `background-clip` property, which clips a background to the area where the element's border is painted.",
       "progressive_rollout": false,
       "relevant_countries": [],
