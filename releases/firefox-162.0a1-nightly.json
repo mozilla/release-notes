@@ -223,6 +223,18 @@
       "tag": "HTML5"
     },
     {
+      "bug": 2093287,
+      "created": "2026-11-18T18:35:52.864152+00:00",
+      "id": 792568,
+      "is_public": true,
+      "modified": "2026-11-18T18:35:53.425931+00:00",
+      "note": "Firefox now supports the `border-area` value for the CSS `background-clip` property, which clips a background to the area where the element's border is painted.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
       "bug": 2081428,
       "created": "2026-11-17T16:36:33.844755+00:00",
       "id": 792558,
