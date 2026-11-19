@@ -19,6 +19,30 @@
       "tag": "New"
     },
     {
+      "bug": 2086462,
+      "created": "2026-11-05T07:57:44.169384+00:00",
+      "id": 792485,
+      "is_public": true,
+      "modified": "2026-11-19T02:56:54.101958+00:00",
+      "note": "Starting with Firefox 161, the address bar in Firefox Nightly explains why some results are shown, such as when a page was last visited or bookmarked.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 2084126,
+      "created": "2026-11-05T12:45:18.780535+00:00",
+      "id": 792486,
+      "is_public": true,
+      "modified": "2026-11-19T02:53:25.937154+00:00",
+      "note": "Starting with Firefox 161, [Firefox Nightly for Android][1] can read web pages in Reader view aloud with *Listen to Page*.\r\n\r\n\r\n  [1]: https://play.google.com/store/apps/details?id=org.mozilla.fenix",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 2086196,
       "created": "2026-11-12T12:57:39.814168+00:00",
       "id": 792536,
@@ -97,6 +121,18 @@
       "is_public": true,
       "modified": "2026-11-19T02:38:24.120124+00:00",
       "note": "Starting with Firefox 160, Nightly builds take the transforms of an `anchor` element into account when positioning elements with [CSS anchor positioning][1].\r\n\r\n\r\n  [1]: https://drafts.csswg.org/css-anchor-position-1/#determining",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
+      "bug": 2085572,
+      "created": "2026-10-27T12:09:09.718872+00:00",
+      "id": 792452,
+      "is_public": true,
+      "modified": "2026-11-19T02:55:48.045932+00:00",
+      "note": "Starting with Firefox 161, `<meta name=color-scheme>` in Firefox Nightly affects the `prefers-color-scheme` media query if it only specifies one scheme, allowing better resource selection and making theme switchers easier to implement.",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
