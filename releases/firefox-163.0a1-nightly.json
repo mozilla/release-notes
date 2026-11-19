@@ -43,6 +43,18 @@
       "tag": "New"
     },
     {
+      "bug": 2094146,
+      "created": "2026-11-19T15:43:14.232849+00:00",
+      "id": 792572,
+      "is_public": true,
+      "modified": "2026-11-19T15:43:15.036393+00:00",
+      "note": "Starting with Firefox 162, Nightly builds no longer allow cookies on pages opened from local files (file: URLs).",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 2085310,
       "created": "2026-10-29T13:42:18.572273+00:00",
       "id": 792459,

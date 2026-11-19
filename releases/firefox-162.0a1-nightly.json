@@ -79,6 +79,42 @@
       "tag": "New"
     },
     {
+      "bug": 2094146,
+      "created": "2026-11-19T15:43:14.232849+00:00",
+      "id": 792572,
+      "is_public": true,
+      "modified": "2026-11-19T15:43:15.036393+00:00",
+      "note": "Starting with Firefox 162, Nightly builds no longer allow cookies on pages opened from local files (file: URLs).",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 2090434,
+      "created": "2026-11-19T15:44:36.543908+00:00",
+      "id": 792573,
+      "is_public": true,
+      "modified": "2026-11-19T15:44:37.052884+00:00",
+      "note": "Firefox Suggest now offers suggestions in the address bar in Canada. They can be controlled in the Firefox Suggest settings. [Learn more][1].\r\n\r\n\r\n  [1]: https://support.mozilla.org/kb/firefox-suggest",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": 2094948,
+      "created": "2026-11-19T15:46:39.335431+00:00",
+      "id": 792574,
+      "is_public": true,
+      "modified": "2026-11-19T15:46:39.841701+00:00",
+      "note": "Right-clicking on text on macOS now selects the word or link under the pointer, matching other macOS apps.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1751335,
       "created": "2026-10-07T17:40:17.008980+00:00",
       "id": 792299,
