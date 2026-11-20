@@ -127,6 +127,18 @@
       "tag": "New"
     },
     {
+      "bug": 1452408,
+      "created": "2026-11-20T13:52:07.967266+00:00",
+      "id": 792576,
+      "is_public": true,
+      "modified": "2026-11-20T13:52:08.926554+00:00",
+      "note": "On macOS, Use Selection for Find (Command+E) is now listed in the Edit menu, as in other macOS apps.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1751335,
       "created": "2026-10-07T17:40:17.008980+00:00",
       "id": 792299,
