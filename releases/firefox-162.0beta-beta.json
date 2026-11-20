@@ -163,6 +163,18 @@
       "tag": "HTML5"
     },
     {
+      "bug": 2093267,
+      "created": "2026-11-20T18:19:42.048515+00:00",
+      "id": 792578,
+      "is_public": true,
+      "modified": "2026-11-20T18:19:42.470790+00:00",
+      "note": "Firefox now allows web pages to use multiple import maps.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
       "bug": 2077597,
       "created": "2026-11-11T04:19:27.627034+00:00",
       "id": 792530,
