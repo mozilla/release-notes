@@ -199,6 +199,18 @@
       "tag": "HTML5"
     },
     {
+      "bug": 2092494,
+      "created": "2026-11-23T20:35:23.437565+00:00",
+      "id": 792591,
+      "is_public": true,
+      "modified": "2026-11-23T20:35:23.767130+00:00",
+      "note": "Fixed `backdrop-filter: blur()` not blurring the background in some page layouts.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
       "bug": 2081428,
       "created": "2026-11-17T16:36:33.844755+00:00",
       "id": 792558,
@@ -209,6 +221,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "Developer"
+    },
+    {
+      "bug": 1426058,
+      "created": "2026-11-23T20:36:10.063481+00:00",
+      "id": 792592,
+      "is_public": true,
+      "modified": "2026-11-23T20:36:10.430174+00:00",
+      "note": "Fixed searches typed right after opening a new tab getting mixed into the address of a custom new tab page.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
