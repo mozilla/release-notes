@@ -55,12 +55,36 @@
       "tag": "New"
     },
     {
+      "bug": 2083998,
+      "created": "2026-11-23T20:33:19.448689+00:00",
+      "id": 792589,
+      "is_public": true,
+      "modified": "2026-11-23T20:33:19.448528+00:00",
+      "note": "Links can now be opened directly in Mini Window by right-clicking a link and choosing Open in Mini Window.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 2085310,
       "created": "2026-10-29T13:42:18.572273+00:00",
       "id": 792459,
       "is_public": true,
       "modified": "2026-11-19T02:38:24.120124+00:00",
       "note": "Starting with Firefox 161, the search engine button in the address bar is always visible in Firefox Nightly, not only when the address bar is focused.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
+      "bug": 2073998,
+      "created": "2026-11-23T20:34:21.515250+00:00",
+      "id": 792590,
+      "is_public": true,
+      "modified": "2026-11-23T20:34:21.966582+00:00",
+      "note": "Reloading a page now loads iframes as the page specifies instead of restoring what those iframes had navigated to, matching other browsers.",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
