@@ -5,7 +5,56 @@
   "created": "2026-11-23T08:07:28.327438+00:00",
   "is_public": false,
   "modified": "2026-11-23T08:10:12.975770+00:00",
-  "notes": [],
+  "notes": [
+    {
+      "bug": 2067732,
+      "created": "2026-11-10T18:20:31.950223+00:00",
+      "id": 792529,
+      "is_public": true,
+      "modified": "2026-11-23T08:33:04.474507+00:00",
+      "note": "Extension users now see a more prominent message when an extension has an update pending that requires approval for new permissions or data collection consent.\r\n\r\n  [1]: https://play.google.com/store/apps/details?id=org.mozilla.firefox_beta",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2026-11-23T08:37:00.313984+00:00",
+      "id": 792580,
+      "is_public": true,
+      "modified": "2026-11-23T08:38:05.281764+00:00",
+      "note": "Added three new search widget options. You can now set a search bar with image, private and voice search to easily search from your phones home screen!",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2026-11-23T08:37:47.049434+00:00",
+      "id": 792581,
+      "is_public": true,
+      "modified": "2026-11-23T08:37:47.049051+00:00",
+      "note": "Default homepage shortcuts other than Google now make room for the sites visited most often, more regions get their own set of default shortcuts, and there is no longer a limit on how many shortcuts can be added.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Changed"
+    },
+    {
+      "bug": 2081281,
+      "created": "2026-10-26T19:44:13.316527+00:00",
+      "id": 792451,
+      "is_public": true,
+      "modified": "2026-11-23T08:38:58.788456+00:00",
+      "note": "Fixed pages that request landscape orientation being saved as shrunken portrait pages when printing or saving to PDF.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
+    }
+  ],
   "product": "Firefox for Android",
   "release_date": "2026-11-24",
   "slug": "firefox-for-android-161.0-release",
