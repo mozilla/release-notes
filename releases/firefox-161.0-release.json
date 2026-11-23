@@ -43,18 +43,6 @@
       "tag": "New"
     },
     {
-      "bug": null,
-      "created": "2026-11-23T08:28:51.350748+00:00",
-      "id": 792579,
-      "is_public": true,
-      "modified": "2026-11-23T08:28:52.715199+00:00",
-      "note": "For Firefox Enterprise updates and fixes, see the [Firefox Enterprise Release Notes][1]. For policy changes, see the [Firefox admin docs changelog][2].\r\n\r\n\r\n  [1]: https://www.firefox.com/firefox/enterprise/161.0/releasenotes/\r\n  [2]: https://firefox-admin-docs.mozilla.org/release-notes/version/firefox-161/",
-      "progressive_rollout": false,
-      "relevant_countries": [],
-      "sort_num": 0,
-      "tag": ""
-    },
-    {
       "bug": 1333781,
       "created": "2026-10-28T07:28:25.254075+00:00",
       "id": 792454,
@@ -137,6 +125,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "Developer"
+    },
+    {
+      "bug": null,
+      "created": "2026-11-23T08:28:51.350748+00:00",
+      "id": 792579,
+      "is_public": true,
+      "modified": "2026-11-23T14:30:09.392283+00:00",
+      "note": "For Firefox Enterprise updates and fixes, see the [Firefox Enterprise Release Notes][1]. For policy changes, see the [Firefox admin docs changelog][2].\r\n\r\n\r\n  [1]: https://www.firefox.com/firefox/enterprise/161.0/releasenotes/\r\n  [2]: https://firefox-admin-docs.mozilla.org/release-notes/version/firefox-161/",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Enterprise"
     },
     {
       "bug": 2085170,
