@@ -197,6 +197,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": null,
+      "created": "2026-11-23T08:49:23.004806+00:00",
+      "id": 792583,
+      "is_public": true,
+      "modified": "2026-11-23T08:49:24.158591+00:00",
+      "note": "With the release of Firefox 161, we are pleased to welcome the developers who contributed their first code change to Firefox in this release, 15 of whom were brand new volunteers! Please join us in thanking each of these diligent and enthusiastic individuals, and take a look at their contributions:\r\n\r\n* Aleix Pol: <a href=\"https://bugzilla.mozilla.org/2046372\">2046372</a>\r\n* AnonAlly: <a href=\"https://bugzilla.mozilla.org/2089198\">2089198</a>\r\n* Chris Monteiro: <a href=\"https://bugzilla.mozilla.org/2079962\">2079962</a>, <a href=\"https://bugzilla.mozilla.org/2087967\">2087967</a>\r\n* Christoph Anton Mitterer: <a href=\"https://bugzilla.mozilla.org/2025220\">2025220</a>\r\n* davidd@mozilla.ai: <a href=\"https://bugzilla.mozilla.org/2077648\">2077648</a>\r\n* Han Yue: <a href=\"https://bugzilla.mozilla.org/2081496\">2081496</a>, <a href=\"https://bugzilla.mozilla.org/2083187\">2083187</a>\r\n* Jonatan Wallmander: <a href=\"https://bugzilla.mozilla.org/2059187\">2059187</a>, <a href=\"https://bugzilla.mozilla.org/2076412\">2076412</a>\r\n* Muhammed Jaseem: <a href=\"https://bugzilla.mozilla.org/2083663\">2083663</a>\r\n* Nikolai Dokutovich: <a href=\"https://bugzilla.mozilla.org/2080608\">2080608</a>\r\n* Rashell Guerrero: <a href=\"https://bugzilla.mozilla.org/2082744\">2082744</a>\r\n* Resonance: <a href=\"https://bugzilla.mozilla.org/2042877\">2042877</a>\r\n* romainmenke: <a href=\"https://bugzilla.mozilla.org/2087755\">2087755</a>\r\n* Sergey Makarov: <a href=\"https://bugzilla.mozilla.org/2086366\">2086366</a>\r\n* svnkvn9: <a href=\"https://bugzilla.mozilla.org/2087495\">2087495</a>\r\n* Ulrich Spoerlein: <a href=\"https://bugzilla.mozilla.org/2081992\">2081992</a>",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Community"
     }
   ],
   "product": "Firefox",
