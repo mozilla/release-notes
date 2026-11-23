@@ -19,6 +19,18 @@
       "tag": "New"
     },
     {
+      "bug": 2048790,
+      "created": "2026-11-02T08:41:32.770974+00:00",
+      "id": 792462,
+      "is_public": true,
+      "modified": "2026-11-23T15:09:07.727778+00:00",
+      "note": "Tab groups are now listed in the application menu, making it easier to find and reopen them.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 2083782,
       "created": "2026-11-10T18:18:14.817294+00:00",
       "id": 792528,
@@ -203,8 +215,8 @@
       "created": "2026-11-03T10:26:00.003320+00:00",
       "id": 792478,
       "is_public": true,
-      "modified": "2026-11-23T08:39:47.599446+00:00",
-      "note": "Significantly improved rendering performance for `backdrop-filter` on certain Android devices.",
+      "modified": "2026-11-23T15:18:19.191434+00:00",
+      "note": "Improved performance on some devices for web pages that use blur and similar effects behind page elements.",
       "progressive_rollout": false,
       "relevant_countries": [],
       "sort_num": 0,
