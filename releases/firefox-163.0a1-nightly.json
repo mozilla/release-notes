@@ -233,6 +233,18 @@
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "Fixed"
+    },
+    {
+      "bug": 2075485,
+      "created": "2026-11-24T13:18:18.716380+00:00",
+      "id": 792594,
+      "is_public": true,
+      "modified": "2026-11-24T13:18:18.716195+00:00",
+      "note": "Fixed labels in the find bar being hard to read when the browser theme and the web page used different color schemes.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "Fixed"
     }
   ],
   "product": "Firefox",
