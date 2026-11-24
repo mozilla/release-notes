@@ -79,6 +79,18 @@
       "tag": "New"
     },
     {
+      "bug": 2060365,
+      "created": "2026-11-24T19:36:21.174795+00:00",
+      "id": 792596,
+      "is_public": true,
+      "modified": "2026-11-24T19:36:21.691366+00:00",
+      "note": "You can now save a link straight into a tab group without opening it first in [Firefox for Android][1]. Long-press any link, choose Open in tab group, and pick a group or create a new one. The link will be waiting in that group when you want to read it later.\r\n\r\n  [1]: https://play.google.com/store/apps/details?id=org.mozilla.firefox_beta",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 2085328,
       "created": "2026-11-17T16:35:23.478915+00:00",
       "id": 792557,
