@@ -235,6 +235,18 @@
       "tag": "HTML5"
     },
     {
+      "bug": 2092739,
+      "created": "2026-11-25T22:26:45.573825+00:00",
+      "id": 792599,
+      "is_public": true,
+      "modified": "2026-11-25T22:26:46.453512+00:00",
+      "note": "Starting with Firefox 163, Firefox Nightly supports the CSS [`line-clamp`](https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/line-clamp) property, which limits a block's content to a set number of lines, a maximum height, or whichever is smaller, and can add an ellipsis or a custom string to the last line to show that content was cut off.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "HTML5"
+    },
+    {
       "bug": 2081428,
       "created": "2026-11-17T16:36:33.844755+00:00",
       "id": 792558,
