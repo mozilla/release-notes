@@ -79,6 +79,18 @@
       "tag": "New"
     },
     {
+      "bug": 2082462,
+      "created": "2026-11-26T15:56:29.377538+00:00",
+      "id": 792602,
+      "is_public": true,
+      "modified": "2026-11-26T15:56:29.884340+00:00",
+      "note": "Starting with Firefox 163, Firefox Nightly on Windows and macOS can hide your private pages when your computer locks and ask you to unlock them the same way you unlock your computer. Turn on \"Lock Private Windows automatically\" in Settings under Privacy & Security.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 2085310,
       "created": "2026-10-29T13:42:18.572273+00:00",
       "id": 792459,
