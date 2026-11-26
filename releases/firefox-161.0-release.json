@@ -55,6 +55,18 @@
       "tag": "New"
     },
     {
+      "bug": null,
+      "created": "2026-11-26T08:20:04.765191+00:00",
+      "id": 792600,
+      "is_public": true,
+      "modified": "2026-11-26T08:20:04.764691+00:00",
+      "note": "Firefox now has a fire button in the toolbar for quickly deleting browsing data, either all at once or by choosing what to delete. When history is deleted, Firefox closes open windows and starts fresh with a new one, keeping pinned tabs. This feature is rolling out gradually, so it may not be available to everyone right away.",
+      "progressive_rollout": true,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 1333781,
       "created": "2026-10-28T07:28:25.254075+00:00",
       "id": 792454,
