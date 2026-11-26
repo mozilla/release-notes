@@ -59,12 +59,24 @@
       "created": "2026-11-26T08:20:04.765191+00:00",
       "id": 792600,
       "is_public": true,
-      "modified": "2026-11-26T08:20:04.764691+00:00",
-      "note": "Firefox now has a fire button in the toolbar for quickly deleting browsing data, either all at once or by choosing what to delete. When history is deleted, Firefox closes open windows and starts fresh with a new one, keeping pinned tabs. This feature is rolling out gradually, so it may not be available to everyone right away.",
+      "modified": "2026-11-26T08:27:55.188316+00:00",
+      "note": "Firefox now has a fire button in the toolbar for quickly deleting browsing data, either all at once or by choosing what to delete. When history is deleted, Firefox closes open windows and starts fresh with a new one, keeping pinned tabs. This feature is rolling out gradually, so it may not be available to everyone right away.\r\n\r\n\r\n<img alt=\"A screenshot of the Fire Button in the toolbar\" src=\"https://www.firefox.com/media/img/firefox/releasenotes/note-images/161_FireButton.png\">",
       "progressive_rollout": true,
       "relevant_countries": [],
       "sort_num": 0,
       "tag": "New"
+    },
+    {
+      "bug": null,
+      "created": "2026-11-26T08:33:23.652080+00:00",
+      "id": 792601,
+      "is_public": true,
+      "modified": "2026-11-26T08:33:24.501070+00:00",
+      "note": "Firefox can now save and autofill credit card security codes (CVV/CVC), making online checkout faster and more convenient. This feature is being rolled out gradually and may not yet be available to all users\r\n\r\n<img alt=\"A screenshot of credit card CCV setting\" src=\"https://www.firefox.com/media/img/firefox/releasenotes/note-images/161_ccv.png\" >",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": ""
     },
     {
       "bug": 1333781,
