@@ -91,6 +91,18 @@
       "tag": "New"
     },
     {
+      "bug": 1641584,
+      "created": "2026-11-27T18:13:18.292197+00:00",
+      "id": 792603,
+      "is_public": true,
+      "modified": "2026-11-27T18:13:18.932937+00:00",
+      "note": "Starting with Firefox 163, Firefox Nightly keeps site permissions separate for each container. If you allow or block a permission such as camera, location or notifications for a site in one container, that choice doesn't carry over to the same site in another container or outside containers.",
+      "progressive_rollout": false,
+      "relevant_countries": [],
+      "sort_num": 0,
+      "tag": "New"
+    },
+    {
       "bug": 2085310,
       "created": "2026-10-29T13:42:18.572273+00:00",
       "id": 792459,
